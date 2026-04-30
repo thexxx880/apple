@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Detalle Pro</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+<link rel="stylesheet" href="config/styles.css">
+
+</head>
+<body>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="scroll-overlay"></div>
+</div>
+
+<!-- TOP BAR -->
+<div class="top-bar">
+  <div class="icon-btn"><i class="fas fa-arrow-left"></i></div>
+  <div style="display:flex; gap:10px;">
+    <div class="icon-btn"><i class="fas fa-plus"></i></div>
+    <div class="icon-btn"><i class="fas fa-share"></i></div>
+  </div>
+</div>
+
+<!-- CONTENIDO -->
+<div class="container">
+  <div class="header">
+    <div class="available">Cargando...</div>
+    <img class="logo-title" src="">
+    <div class="meta">Cargando...</div>
+    <div class="play-btn">
+      <i class="fas fa-play"></i> Reproducir
+    </div>
+  </div>
+
+  <!-- SINOPSIS -->
+  <section id="sinopsis-section" class="section-sinopsis">
+    <div class="description" id="descripcion-texto">Cargando sinopsis...</div>
+  </section>
+
+  <!-- TRÁILERS -->
+  <section id="trailers-section" class="section-trailers">
+    <h2>Tráilers ›</h2>
+    <div class="row" id="trailers-row"></div>
+  </section>
+
+  <!-- REPARTO -->
+  <section id="reparto-section" class="section-reparto">
+    <h2>Reparto</h2>
+    <div class="row" id="cast-row"></div>
+  </section>
+
+  <!-- IMÁGENES RELACIONADAS -->
+  <section id="imagenes-section" class="section-imagenes">
+    <h2>Imágenes relacionadas</h2>
+    <div class="row" id="images-row"></div>
+  </section>
+
+  <!-- DETALLES -->
+  <section id="detalles-section" class="section-detalles">
+    <h2>Detalles</h2>
+    <div id="details-container"></div>
+  </section>
+</div>
+
+<!-- MODAL VIDEO -->
+<div id="video-modal" class="modal">
+  <div class="modal-content">
+    <span id="modal-close" class="close">&times;</span>
+    <iframe id="youtube-player" width="100%" height="100%" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+  </div>
+</div>
+
+<script src="config/script.js"></script>
+</body>
+</html>
