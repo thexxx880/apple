@@ -1,5 +1,5 @@
   // ====================== CARGAR MENÚ EXTERNO ======================
-  fetch('../../config/nav-menu/bottom-nav.html')
+  fetch('../../../config/nav-menu/bottom-nav.html')
     .then(res => res.text())
     .then(html => {
       const div = document.createElement('div');
