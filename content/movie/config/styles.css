@@ -244,33 +244,42 @@ h2::after {
 .row::-webkit-scrollbar { display: none; }
 
 /* =========================================
-   TRÁILERS + IMÁGENES RELACIONADAS (CORREGIDO PARA MÓVIL)
+   TRÁILERS + IMÁGENES RELACIONADAS (VERSIÓN ULTRA COMPATIBLE)
    ========================================= */
 #trailers-row .trailer,
 #images-row .trailer {
-  min-width: 158px;
+  min-width: 152px;           /* tamaño óptimo para móviles */
   flex-shrink: 0;
   scroll-snap-align: start;
   position: relative;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  border: 1px solid var(--glass-border);
 }
 
 #trailers-row .trailer img,
 #images-row .trailer img {
   width: 100%;
-  aspect-ratio: 16 / 9;        /* ← Solución principal */
+  height: 100%;
   object-fit: cover;
-  border-radius: var(--radius-md);
-  border: 1px solid var(--glass-border);
   display: block;
-  transition: transform 0.25s var(--ease-out), opacity 0.2s;
+  transition: transform 0.25s var(--ease-out);
+}
+
+/* Truco del padding para mantener proporción 16:9 */
+#trailers-row .trailer::before,
+#images-row .trailer::before {
+  content: "";
+  display: block;
+  padding-top: 56.25%;        /* Esto fuerza 16:9 (9/16 = 0.5625) */
 }
 
 #trailers-row .trailer img:hover,
 #images-row .trailer img:hover {
-  transform: scale(1.03);
-  opacity: 0.95;
+  transform: scale(1.04);
 }
 
+/* Título solo para tráilers */
 #trailers-row .trailer-title {
   margin-top: 8px;
   font-size: 12.5px;
@@ -279,22 +288,20 @@ h2::after {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 100%;
 }
 
-/* Ícono de play sobre el thumbnail */
-#trailers-row .trailer::before {
+/* Ícono de play */
+#trailers-row .trailer::after {
   content: "▶";
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -60%);
-  font-size: 20px;
-  color: rgba(255,255,255,0.85);
-  text-shadow: 0 2px 12px rgba(0,0,0,0.8);
+  transform: translate(-50%, -50%);
+  font-size: 22px;
+  color: rgba(255,255,255,0.9);
+  text-shadow: 0 2px 12px rgba(0,0,0,0.9);
   pointer-events: none;
-  z-index: 1;
-  transition: opacity 0.2s;
+  z-index: 2;
 }
 
 /* =========================================
@@ -501,7 +508,7 @@ h2::after {
   
   #trailers-row .trailer,
   #images-row .trailer {
-    min-width: 220px;
+    min-width: 225px;
   }
   
   .logo-title { max-width: 360px; }
