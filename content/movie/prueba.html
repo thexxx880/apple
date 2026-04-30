@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Detalle Pro</title>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+<style>
+body{
+  margin:0;
+  background:#000;
+  color:#fff;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+
+  /* 🔥 SOLUCIÓN */
+  padding-bottom:90px;
+}
+
+/* HERO FIJO */
+.hero{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  height:75vh;
+  background:url('https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg') center/cover no-repeat;
+  z-index:0;
+}
+.hero::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(to top,#000 15%, transparent 60%);
+  z-index:1;
+}
+
+.hero .scroll-overlay{
+  position:absolute;
+  inset:0;
+  background:#000;
+  opacity:0;
+  z-index:2;
+  pointer-events:none;
+  transition: opacity 0.25s ease-out;
+}
+
+/* CONTENIDO */
+.container{
+  position:relative;
+  z-index:2;
+  margin-top:20vh;
+}
+
+/* TOP ICONS */
+.top-bar{
+  position:fixed;
+  top:15px;
+  left:15px;
+  right:15px;
+  display:flex;
+  justify-content:space-between;
+  z-index:3;
+}
+.icon-btn{
+  width:42px;
+  height:42px;
+  border-radius:50%;
+  background:rgba(0,0,0,.5);
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-size:18px;
+}
+
+/* HEADER */
+.header{
+  padding:20px;
+}
+
+@media (max-width: 767px) {
+  .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+/* LOGO */
+.logo-title{
+  display: block;
+  height: auto;
+  max-width: 220px;
+  margin: 18px auto;
+}
+
+@media (min-width: 768px) {
+  .logo-title{
+    max-width: 340px;
+    margin: 15px 0;
+  }
+}
+
+/* BOTÓN */
+.play-btn{
+  margin-top:15px;
+  background:#fff;
+  color:#000;
+  padding:10px 40px;
+  border-radius:5px;
+  text-align:center;
+  font-size:18px;
+  font-weight:600;
+  cursor:pointer;
+  display:inline-flex;
+  align-items:center;
+  gap:10px;
+  max-width:125px;
+  width:88%;
+}
+
+/* TEXTOS */
+.description{
+  padding:20px;
+  font-size:16px;
+  color:#ccc;
+  line-height:1.5;
+}
+
+.section{
+  padding:20px;
+}
+.section h2{
+  font-size:22px;
+  margin-bottom:12px;
+}
+
+.row{
+  display:flex;
+  gap:15px;
+  overflow-x:auto;
+}
+.row::-webkit-scrollbar{display:none;}
+
+.trailer{min-width:260px;}
+.trailer img{width:100%; border-radius:14px;}
+.trailer-title{margin-top:6px; font-size:14px;}
+
+/* MENÚ */
+.nav{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  height:70px; /* 🔥 altura fija */
+  background:rgba(30,30,30,.95);
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+  z-index:1000;
+}
+
+.nav div{
+  text-align:center;
+  font-size:12px;
+  color:#aaa;
+}
+.nav i{
+  display:block;
+  font-size:20px;
+  margin-bottom:4px;
+}
+.active{
+  color:#0A84FF;
+}
+
+@media (min-width: 768px) {
+  .nav { display:none; }
+  .hero{ height:85vh; }
+  .container{ margin-top:10vh; }
+  .header{ text-align:left; }
+}
+
+@media(min-width:768px){
+  .trailer{ min-width:320px; }
+}
+</style>
+</head>
+
+<body>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="scroll-overlay"></div>
+</div>
+
+<!-- ICONOS -->
+<div class="top-bar">
+  <div class="icon-btn"><i class="fas fa-arrow-left"></i></div>
+  <div style="display:flex; gap:10px;">
+    <div class="icon-btn"><i class="fas fa-plus"></i></div>
+    <div class="icon-btn"><i class="fas fa-share"></i></div>
+  </div>
+</div>
+
+<!-- CONTENIDO -->
+<div class="container">
+  <div class="header">
+    <div class="available">Disponible: 8 may</div>
+
+    <img class="logo-title"
+    src="https://image.tmdb.org/t/p/original/brHILZv2F7QFpGp5RUESl0PoIzQ.png">
+
+    <div class="meta">Estreno: 8 may tv</div>
+
+    <div class="play-btn">
+      <i class="fas fa-play"></i> Reproducir
+    </div>
+  </div>
+
+  <div class="description">
+    Unas vacaciones de madre e hija dan un giro devastador cuando arrestan a Gali por posesión de drogas...
+  </div>
+
+  <section class="section">
+    <h2>Tráilers ›</h2>
+    <div class="row">
+      <div class="trailer">
+        <img src="https://picsum.photos/400/250?1">
+        <div class="trailer-title">La verdad: Primera temporada</div>
+      </div>
+      <div class="trailer">
+        <img src="https://picsum.photos/400/250?2">
+        <div class="trailer-title">Tráiler oficial</div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+// Cargar menú dinámico
+fetch('../../config/nav-menu/bottom-nav.html')
+  .then(res => res.text())
+  .then(html => {
+    const div = document.createElement('div');
+    div.innerHTML = html;
+    document.body.appendChild(div.firstElementChild);
+  });
+
+// Oscurecer hero al scroll
+const overlay = document.querySelector('.scroll-overlay');
+
+window.addEventListener('scroll', () => {
+  let op = Math.min(window.scrollY / 420, 0.82);
+  overlay.style.opacity = op;
+});
+</script>
+
+</body>
+</html>
