@@ -1,10 +1,12 @@
 // ====================== CARGAR MENÚ EXTERNO ======================
 fetch('../../../config/nav-menu/bottom-nav.html')
-  .then(res => res.text()).then(html => {
+  .then(res => res.text())
+  .then(html => {
     const div = document.createElement('div');
     div.innerHTML = html;
     if (div.firstElementChild) document.body.appendChild(div.firstElementChild);
-  }).catch(() => {});
+  })
+  .catch(() => console.warn('Menú inferior no encontrado'));
 
 // ====================== CONFIGURACIÓN ======================
 const API_KEY = "38e497c6c1a043d1341416e80915669f";
@@ -25,19 +27,21 @@ async function loadVideoDatabase() {
     videoDatabase = await res.json();
     return videoDatabase;
   } catch (e) {
-    console.error("Error JSON", e);
+    console.error("Error cargando JSON", e);
     return {};
   }
 }
 
-// ====================== DATOS TMDB (mantenido igual) ======================
+// ====================== DATOS TMDB ======================
 fetch(`${BASE}/${type}/${id}?api_key=${API_KEY}&language=es-ES&append_to_response=images`)
   .then(r => r.json())
   .then(d => {
     if (d.backdrop_path) document.querySelector(".hero").style.backgroundImage = `url(${IMG}${d.backdrop_path})`;
 
     const logos = d.images?.logos || [];
-    let logoUrl = logos.length ? IMG + (logos.find(l => l.iso_639_1 === 'es') || logos[0]).file_path : (d.poster_path ? IMG + d.poster_path : '');
+    let logoUrl = logos.length
+      ? IMG + (logos.find(l => l.iso_639_1 === 'es') || logos[0]).file_path
+      : (d.poster_path ? IMG + d.poster_path : '');
     if (logoUrl) document.querySelector(".logo-title").src = logoUrl;
 
     document.querySelector(".available").textContent = `Disponible: ${d.release_date || d.first_air_date || "Próximamente"}`;
@@ -45,22 +49,15 @@ fetch(`${BASE}/${type}/${id}?api_key=${API_KEY}&language=es-ES&append_to_respons
     document.getElementById("descripcion-texto").textContent = d.overview || "Sin sinopsis disponible.";
 
     window.currentTitle = d.title || d.name || "Reproduciendo";
-
-    // Detalles (resumido)
-    document.getElementById("details-container").innerHTML = `
-      <div class="detail-item"><strong>Título original</strong><span>${d.original_title || d.original_name || '—'}</span></div>
-      <div class="detail-item"><strong>Fecha de estreno</strong><span>${d.release_date || d.first_air_date || '—'}</span></div>
-      <div class="detail-item"><strong>Géneros</strong><span>${d.genres ? d.genres.map(g => g.name).join(', ') : '—'}</span></div>
-    `;
   });
 
-// ====================== BOTÓN REPRODUCIR - MEJORADO ======================
+// ====================== BOTÓN REPRODUCIR (VERSIÓN ESTABLE) ======================
 document.querySelector('.play-btn').addEventListener('click', async () => {
   const db = await loadVideoDatabase();
   const entry = db[id] || db[id.toString()];
 
   if (!entry || !entry.enlace) {
-    alert("Este título no está disponible.");
+    alert("🎬 Este título aún no está disponible.");
     return;
   }
 
@@ -71,60 +68,51 @@ document.querySelector('.play-btn').addEventListener('click', async () => {
     const driveId = enlace.includes('id=') ? enlace.split('id=')[1] : enlace;
     playerUrl = `https://lzrdrz10.github.io/player/?player=jwpl&provider=gdrive&format=video%2Fmp4&link=${encodeURIComponent(driveId)}`;
   } else {
-    const poster = document.querySelector('.logo-title')?.src || document.querySelector('.hero')?.style.backgroundImage.replace(/^url\(["']?/, '').replace(/["']?\)$/, '') || "";
-    playerUrl = `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(enlace)}&poster=${encodeURIComponent(poster)}&title=${encodeURIComponent(window.currentTitle)}`;
+    const poster = document.querySelector('.logo-title')?.src || 
+                   document.querySelector('.hero')?.style.backgroundImage.replace(/^url\(["']?/, '').replace(/["']?\)$/, '') || "";
+    playerUrl = `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(enlace)}&poster=${encodeURIComponent(poster)}&title=${encodeURIComponent(window.currentTitle || "Reproduciendo")}`;
   }
 
+  // Contenedor Fullscreen
   const fs = document.createElement('div');
   fs.id = 'fullscreen-video';
-  fs.style.cssText = `position:fixed;top:0;left:0;width:100vw;height:100vh;background:#000;z-index:99999;overflow:hidden;`;
+  fs.style.cssText = `position:fixed; top:0; left:0; width:100vw; height:100vh; background:#000; z-index:99999; overflow:hidden;`;
 
+  // Loader
   fs.innerHTML = `
-    <div style="text-align:center;color:white;margin-top:30%;">
-      <div style="border:6px solid rgba(255,255,255,0.2);border-top:6px solid #C9A84C;border-radius:50%;width:60px;height:60px;animation:spin 1s linear infinite;margin:0 auto 20px;"></div>
+    <div style="text-align:center; color:white; margin-top:30%;">
+      <div style="border:6px solid rgba(255,255,255,0.2); border-top:6px solid #C9A84C; border-radius:50%; width:60px; height:60px; animation:spin 1s linear infinite; margin:0 auto 20px;"></div>
       <h2>Cargando video...</h2>
-      <p style="opacity:0.8;">Rota el móvil a horizontal si no gira</p>
+      <p style="opacity:0.8; margin-top:10px;">Rota tu dispositivo a horizontal</p>
     </div>
     <style>@keyframes spin{to{transform:rotate(360deg);}}</style>
   `;
 
   document.body.appendChild(fs);
 
-  // === INTENTAR BLOQUEO HORIZONTAL (mejorado) ===
-  setTimeout(async () => {
+  // Cargar video después de 5 segundos
+  setTimeout(() => {
     fs.innerHTML = `
       <iframe id="main-player-iframe" 
               src="${playerUrl}" 
               frameborder="0" 
               allowfullscreen 
               allow="autoplay; encrypted-media; fullscreen; picture-in-picture"
-              style="width:100%;height:100%;border:none;">
+              style="width:100%; height:100%; border:none;">
       </iframe>
     `;
 
     const iframe = document.getElementById('main-player-iframe');
 
-    iframe.onload = async () => {
-      // Fullscreen
+    iframe.onload = () => {
+      // Fullscreen del contenedor
       if (fs.requestFullscreen) fs.requestFullscreen();
       else if (fs.webkitRequestFullscreen) fs.webkitRequestFullscreen();
-
-      // Bloqueo horizontal (varios intentos)
-      if (screen.orientation && screen.orientation.lock) {
-        try {
-          await screen.orientation.lock('landscape-primary');
-          await screen.orientation.lock('landscape');
-        } catch (e) {}
-      }
     };
-  }, 4500);
+  }, 5000);
 
-  // Cerrar
-  const closeFS = () => {
-    if (screen.orientation && screen.orientation.unlock) screen.orientation.unlock();
-    fs.remove();
-  };
-
+  // Cerrar con ESC
+  const closeFS = () => fs.remove();
   document.addEventListener('fullscreenchange', () => {
     if (!document.fullscreenElement) closeFS();
   });
@@ -133,7 +121,7 @@ document.querySelector('.play-btn').addEventListener('click', async () => {
   });
 });
 
-// ====================== SCROLL + YOUTUBE ======================
+// ====================== SCROLL + MODAL YOUTUBE ======================
 const overlay = document.querySelector('.scroll-overlay');
 if (overlay) {
   window.addEventListener('scroll', () => {
@@ -144,5 +132,8 @@ if (overlay) {
 const youtubeModal = document.getElementById('video-modal');
 const youtubeClose = document.getElementById('modal-close');
 if (youtubeClose && youtubeModal) {
-  youtubeClose.addEventListener('click', () => youtubeModal.style.display = 'none');
+  youtubeClose.addEventListener('click', () => {
+    youtubeModal.style.display = 'none';
+    document.getElementById('youtube-player').src = '';
+  });
 }
