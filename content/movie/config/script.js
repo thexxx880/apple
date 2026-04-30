@@ -110,7 +110,7 @@ fetch(`${BASE}/${type}/${id}/images?api_key=${API_KEY}`).then(r => r.json()).the
   });
 });
 
-// ====================== BOTÓN REPRODUCIR + LOADER + FULLSCREEN AUTO ======================
+// ====================== BOTÓN REPRODUCIR + LOADER + FULLSCREEN + LANDSCAPE ======================
 document.querySelector('.play-btn').addEventListener('click', async () => {
   const db = await loadVideoDatabase();
   const entry = db[id] || db[id.toString()];
@@ -141,20 +141,30 @@ document.querySelector('.play-btn').addEventListener('click', async () => {
   fs.id = 'fullscreen-video';
   fs.style.cssText = `position:fixed; top:0; left:0; width:100vw; height:100vh; background:#000; z-index:99999; margin:0; padding:0; overflow:hidden;`;
 
-  // Loader
   fs.innerHTML = `
-    <div style="text-align:center; color:white; margin-top:20%;">
+    <div style="text-align:center; color:white; margin-top:25%;">
       <div style="border:6px solid rgba(255,255,255,0.2); border-top:6px solid #C9A84C; border-radius:50%; width:60px; height:60px; animation:spin 1s linear infinite; margin:0 auto 25px;"></div>
       <h2>Cargando video...</h2>
-      <p style="opacity:0.7;">Espera un momento</p>
+      <p style="opacity:0.7;">Activando modo horizontal</p>
     </div>
     <style>@keyframes spin{to{transform:rotate(360deg);}}</style>
   `;
 
   document.body.appendChild(fs);
 
-  // Después de 5 segundos cargar el iframe
-  setTimeout(() => {
+  // Intentar bloquear en horizontal
+  async function lockLandscape() {
+    if (screen.orientation && typeof screen.orientation.lock === 'function') {
+      try {
+        await screen.orientation.lock('landscape');
+      } catch (e) {
+        console.log("No se pudo bloquear orientación (normal en algunos navegadores)");
+      }
+    }
+  }
+
+  // Después de 5 segundos cargar el video
+  setTimeout(async () => {
     fs.innerHTML = `
       <iframe id="main-player-iframe" 
               src="${playerUrl}" 
@@ -167,25 +177,26 @@ document.querySelector('.play-btn').addEventListener('click', async () => {
 
     const iframe = document.getElementById('main-player-iframe');
 
-    // Intentar fullscreen automático del iframe
-    iframe.onload = () => {
-      try {
-        if (iframe.requestFullscreen) {
-          iframe.requestFullscreen();
-        } else if (iframe.webkitRequestFullscreen) {
-          iframe.webkitRequestFullscreen();
-        } else if (iframe.msRequestFullscreen) {
-          iframe.msRequestFullscreen();
-        }
-      } catch (e) {
-        console.log("Fullscreen automático no disponible en este navegador");
-      }
+    // Fullscreen + Landscape
+    iframe.onload = async () => {
+      // Fullscreen
+      if (fs.requestFullscreen) fs.requestFullscreen();
+      else if (fs.webkitRequestFullscreen) fs.webkitRequestFullscreen();
+
+      // Bloquear horizontal
+      await lockLandscape();
     };
 
   }, 5000);
 
   // Cerrar con ESC
-  const closeFS = () => fs.remove();
+  const closeFS = () => {
+    if (screen.orientation && typeof screen.orientation.unlock === 'function') {
+      screen.orientation.unlock();
+    }
+    fs.remove();
+  };
+
   document.addEventListener('fullscreenchange', () => {
     if (!document.fullscreenElement) closeFS();
   });
