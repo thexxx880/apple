@@ -6,10 +6,8 @@
 <title>Detalle Pro</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 <link rel="stylesheet" href="config/styles.css">
-
 </head>
 <body>
-
 <!-- HERO -->
 <div class="hero">
   <div class="scroll-overlay"></div>
@@ -65,13 +63,30 @@
   </section>
 </div>
 
-<!-- MODAL VIDEO -->
+<!-- MODAL YOUTUBE (Tráiler) -->
 <div id="video-modal" class="modal">
   <div class="modal-content">
     <span id="modal-close" class="close">&times;</span>
     <iframe id="youtube-player" width="100%" height="100%" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen></iframe>
+  </div>
+</div>
+
+<!-- MODAL REPRODUCTOR PRINCIPAL (Nuevo) -->
+<div id="movie-modal" class="modal movie-modal">
+  <div class="movie-modal-content">
+    <!-- Header -->
+    <div class="movie-player-header">
+      <div id="movie-title-header" class="movie-title"></div>
+      <div class="movie-player-controls">
+        <button id="movie-fullscreen-btn" class="icon-btn"><i class="fas fa-expand"></i></button>
+        <span id="movie-modal-close" class="close">&times;</span>
+      </div>
+    </div>
+
+    <!-- Player Container -->
+    <div id="movie-player-container" class="movie-player-container"></div>
   </div>
 </div>
 
