@@ -48,8 +48,7 @@ body {
 }
 
 /* =========================================
-   HERO, TOP BAR, CONTAINER, HEADER, etc.
-   (Se mantiene igual hasta las secciones de filas)
+   HERO
    ========================================= */
 .hero {
   position: fixed;
@@ -77,6 +76,9 @@ body {
   transition: opacity 0.3s var(--ease-out);
 }
 
+/* =========================================
+   TOP BAR
+   ========================================= */
 .top-bar {
   position: fixed;
   top: 0; left: 0; right: 0;
@@ -88,7 +90,8 @@ body {
   background: linear-gradient(to bottom, rgba(8,8,8,0.7) 0%, transparent 100%);
 }
 .icon-btn {
-  width: 38px; height: 38px;
+  width: 38px;
+  height: 38px;
   border-radius: 50%;
   background: var(--glass);
   border: 1px solid var(--glass-border);
@@ -100,25 +103,73 @@ body {
   color: var(--text-primary);
   cursor: pointer;
 }
-.icon-btn:active { transform: scale(0.92); background: rgba(255,255,255,0.12); }
-
-.container { position: relative; z-index: 2; margin-top: 22vh; }
-
-.header { padding: 0 20px 24px; }
-.available { font-size: 11px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--gold); margin-bottom: 10px; }
-.logo-title { display: block; max-width: 240px; margin: 0 0 14px; filter: drop-shadow(0 4px 24px rgba(0,0,0,0.8)); }
-.meta { font-size: 13px; color: var(--text-muted); margin-bottom: 18px; }
-.play-btn {
-  display: inline-flex; align-items: center; justify-content: center; gap: 9px;
-  padding: 12px 32px; border-radius: var(--radius-sm); background: var(--text-primary);
-  color: #0A0A0A; font-weight: 600; cursor: pointer;
+.icon-btn:active {
+  transform: scale(0.92);
+  background: rgba(255,255,255,0.12);
 }
-.play-btn:active { transform: scale(0.97); }
 
-.section-sinopsis, .section-trailers, .section-reparto, .section-imagenes, .section-detalles {
+/* =========================================
+   CONTAINER Y HEADER
+   ========================================= */
+.container {
+  position: relative;
+  z-index: 2;
+  margin-top: 22vh;
+}
+.header {
+  padding: 0 20px 24px;
+}
+.available {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 10px;
+}
+.logo-title {
+  display: block;
+  max-width: 240px;
+  margin: 0 0 14px;
+  filter: drop-shadow(0 4px 24px rgba(0,0,0,0.8));
+}
+.meta {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 18px;
+}
+.play-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  padding: 12px 32px;
+  border-radius: var(--radius-sm);
+  background: var(--text-primary);
+  color: #0A0A0A;
+  font-weight: 600;
+  cursor: pointer;
+}
+.play-btn:active {
+  transform: scale(0.97);
+}
+
+/* =========================================
+   SECCIONES
+   ========================================= */
+.section-sinopsis,
+.section-trailers,
+.section-reparto,
+.section-imagenes,
+.section-detalles {
   padding: 10px 20px 28px;
 }
-.description { font-size: 14.5px; line-height: 1.75; color: #C0BCB4; max-width: 680px; }
+.description {
+  font-size: 14.5px;
+  line-height: 1.75;
+  color: #C0BCB4;
+  max-width: 680px;
+}
 
 h2 {
   font-family: var(--font-display);
@@ -127,8 +178,14 @@ h2 {
   color: var(--text-primary);
   margin-bottom: 14px;
 }
-h2::after { content: "›"; color: var(--gold); }
+h2::after {
+  content: "›";
+  color: var(--gold);
+}
 
+/* =========================================
+   SCROLL ROW
+   ========================================= */
 .row {
   display: flex;
   gap: 12px;
@@ -140,7 +197,7 @@ h2::after { content: "›"; color: var(--gold); }
 .row::-webkit-scrollbar { display: none; }
 
 /* =========================================
-   TRÁILERS + IMÁGENES RELACIONADAS (CORREGIDO)
+   TRÁILERS + IMÁGENES RELACIONADAS (VERSIÓN CORREGIDA)
    ========================================= */
 #trailers-row .trailer,
 #images-row .trailer {
@@ -158,13 +215,14 @@ h2::after { content: "›"; color: var(--gold); }
 #images-row .trailer::before {
   content: "";
   display: block;
-  padding-top: 56.25%;   /* 16:9 */
+  padding-top: 56.25%; /* 16:9 */
 }
 
 #trailers-row .trailer img,
 #images-row .trailer img {
   position: absolute;
-  top: 0; left: 0;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -187,11 +245,12 @@ h2::after { content: "›"; color: var(--gold); }
   text-overflow: ellipsis;
 }
 
-/* Icono Play */
+/* Icono de Play */
 #trailers-row .trailer::after {
   content: "▶";
   position: absolute;
-  top: 50%; left: 50%;
+  top: 50%;
+  left: 50%;
   transform: translate(-50%, -50%);
   font-size: 22px;
   color: rgba(255,255,255,0.9);
@@ -201,7 +260,7 @@ h2::after { content: "›"; color: var(--gold); }
 }
 
 /* =========================================
-   REPARTO (sin cambios)
+   REPARTO
    ========================================= */
 #cast-row .trailer {
   min-width: 92px;
@@ -209,7 +268,8 @@ h2::after { content: "›"; color: var(--gold); }
   flex-shrink: 0;
 }
 #cast-row .trailer img {
-  width: 80px; height: 80px;
+  width: 80px;
+  height: 80px;
   border-radius: 50%;
   object-fit: cover;
   outline: 2px solid rgba(201,168,76,0.25);
@@ -222,7 +282,7 @@ h2::after { content: "›"; color: var(--gold); }
 }
 
 /* =========================================
-   DETALLES, MODAL, NAV, etc.
+   DETALLES
    ========================================= */
 #details-container {
   background: var(--surface-2);
@@ -237,12 +297,19 @@ h2::after { content: "›"; color: var(--gold); }
   border-bottom: 1px solid rgba(255,255,255,0.04);
   font-size: 14px;
 }
-.detail-item:last-child { border-bottom: none; }
-.detail-item:hover { background: rgba(255,255,255,0.03); }
+.detail-item:last-child {
+  border-bottom: none;
+}
+.detail-item:hover {
+  background: rgba(255,255,255,0.03);
+}
 
-/* Modal */
+/* =========================================
+   MODAL
+   ========================================= */
 .modal {
-  position: fixed; inset: 0;
+  position: fixed;
+  inset: 0;
   background: rgba(0,0,0,0.92);
   backdrop-filter: blur(8px);
   display: none;
@@ -261,8 +328,10 @@ h2::after { content: "›"; color: var(--gold); }
 }
 .close {
   position: absolute;
-  top: -14px; right: -14px;
-  width: 36px; height: 36px;
+  top: -14px;
+  right: -14px;
+  width: 36px;
+  height: 36px;
   background: var(--text-primary);
   color: #000;
   font-size: 22px;
@@ -273,7 +342,9 @@ h2::after { content: "›"; color: var(--gold); }
   cursor: pointer;
 }
 
-/* Nav inferior */
+/* =========================================
+   NAV INFERIOR
+   ========================================= */
 .nav {
   position: fixed;
   bottom: 0;
