@@ -19,7 +19,9 @@ const id = params.get("id") || "11224";
 const type = params.get("type") || "movie";
 
 let videoDatabase = null;
+let currentBackdrop = "";   // ← Nueva variable para guardar el mejor backdrop
 
+// ====================== CARGAR BASE DE VIDEOS ======================
 async function loadVideoDatabase() {
   if (videoDatabase) return videoDatabase;
   try {
@@ -32,12 +34,17 @@ async function loadVideoDatabase() {
   }
 }
 
-// ====================== DATOS TMDB ======================
+// ====================== DATOS TMDB (CORREGIDO) ======================
 fetch(`${BASE}/${type}/${id}?api_key=${API_KEY}&language=es-ES&append_to_response=images`)
   .then(r => r.json())
   .then(d => {
-    if (d.backdrop_path) document.querySelector(".hero").style.backgroundImage = `url(${IMG}${d.backdrop_path})`;
+    // Hero
+    if (d.backdrop_path) {
+      document.querySelector(".hero").style.backgroundImage = `url(${IMG}${d.backdrop_path})`;
+      currentBackdrop = IMG + d.backdrop_path;   // Guardamos el backdrop principal
+    }
 
+    // Logo
     const logos = d.images?.logos || [];
     let logoUrl = logos.length
       ? IMG + (logos.find(l => l.iso_639_1 === 'es') || logos[0]).file_path
@@ -49,6 +56,11 @@ fetch(`${BASE}/${type}/${id}?api_key=${API_KEY}&language=es-ES&append_to_respons
     document.getElementById("descripcion-texto").textContent = d.overview || "Sin sinopsis disponible.";
 
     window.currentTitle = d.title || d.name || "Reproduciendo";
+
+    // Si no hay backdrop principal, usar uno de la lista de imágenes
+    if (!currentBackdrop && d.images?.backdrops?.length > 0) {
+      currentBackdrop = IMG + d.images.backdrops[0].file_path;
+    }
   });
 
 // ====================== TRÁILERES, REPARTO, IMÁGENES ======================
@@ -83,7 +95,7 @@ fetch(`${BASE}/${type}/${id}/images?api_key=${API_KEY}`).then(r => r.json()).the
   });
 });
 
-// ====================== BOTÓN REPRODUCIR → NUEVA VENTANA ======================
+// ====================== BOTÓN REPRODUCIR (con mejor póster) ======================
 document.querySelector('.play-btn').addEventListener('click', async () => {
   const db = await loadVideoDatabase();
   const entry = db[id] || db[id.toString()];
@@ -100,34 +112,23 @@ document.querySelector('.play-btn').addEventListener('click', async () => {
     const driveId = enlace.includes('id=') ? enlace.split('id=')[1] : enlace;
     playerUrl = `https://lzrdrz10.github.io/player/?player=jwpl&provider=gdrive&format=video%2Fmp4&link=${encodeURIComponent(driveId)}`;
   } else {
-    const posterImg = document.querySelector('.logo-title')?.src || 
-                      document.querySelector('.hero')?.style.backgroundImage.replace(/^url\(["']?/, '').replace(/["']?\)$/, '') || "";
+    // Usamos el backdrop guardado (mejor póster)
+    const posterImg = currentBackdrop || 
+                      document.querySelector('.hero')?.style.backgroundImage.replace(/^url\(["']?/, '').replace(/["']?\)$/, '') ||
+                      "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg";
+
     const titleEncoded = encodeURIComponent(window.currentTitle || "Reproduciendo");
     const videoEncoded = encodeURIComponent(enlace);
     const posterEncoded = encodeURIComponent(posterImg);
+
     playerUrl = `https://lzrdrz10.github.io/premiumplayer/player.html?video=${videoEncoded}&poster=${posterEncoded}&title=${titleEncoded}`;
   }
 
-  // Abrir en nueva ventana
-  const newWindow = window.open(
-    playerUrl, 
-    '_blank', 
-    'width=1280,height=720,fullscreen=yes,scrollbars=no,status=no'
-  );
+  // Abrir en nueva ventana (más estable)
+  const newWindow = window.open(playerUrl, '_blank', 'width=1280,height=720,fullscreen=yes');
 
-  if (newWindow) {
-    // Intentar poner la nueva ventana en fullscreen
-    setTimeout(() => {
-      try {
-        if (newWindow.document.fullscreenEnabled) {
-          newWindow.document.documentElement.requestFullscreen();
-        }
-      } catch (e) {
-        console.log("No se pudo entrar en fullscreen automático");
-      }
-    }, 1500);
-  } else {
-    alert("⚠️ Bloqueador de ventanas emergentes activado.\nPor favor permite ventanas emergentes para este sitio.");
+  if (!newWindow) {
+    alert("⚠️ Por favor permite ventanas emergentes en este sitio.");
   }
 });
 
