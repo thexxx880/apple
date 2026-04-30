@@ -4,243 +4,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Detalle Pro</title>
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-<style>
-body{
-  margin:0;
-  background:#000;
-  color:#fff;
-  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
-  padding-bottom:90px;
-}
-/* HERO FIJO */
-.hero{
-  position:fixed;
-  top:0;
-  left:0;
-  width:100%;
-  height:75vh;
-  background:url('https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg') center/cover no-repeat;
-  z-index:0;
-}
-.hero::after{
-  content:"";
-  position:absolute;
-  inset:0;
-  background:linear-gradient(to top,#000 15%, transparent 60%);
-  z-index:1;
-}
-.hero .scroll-overlay{
-  position:absolute;
-  inset:0;
-  background:#000;
-  opacity:0;
-  z-index:2;
-  pointer-events:none;
-  transition: opacity 0.25s ease-out;
-}
-/* CONTENIDO */
-.container{
-  position:relative;
-  z-index:2;
-  margin-top:20vh;
-}
-/* TOP ICONS */
-.top-bar{
-  position:fixed;
-  top:15px;
-  left:15px;
-  right:15px;
-  display:flex;
-  justify-content:space-between;
-  z-index:3;
-}
-.icon-btn{
-  width:42px;
-  height:42px;
-  border-radius:50%;
-  background:rgba(0,0,0,.5);
-  display:flex;
-  justify-content:center;
-  align-items:center;
-  font-size:18px;
-}
-/* HEADER */
-.header{
-  padding:20px;
-}
-@media (max-width: 767px) {
-  .header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-}
-/* LOGO */
-.logo-title{
-  display: block;
-  height: auto;
-  max-width: 220px;
-  margin: 18px auto;
-}
-@media (min-width: 768px) {
-  .logo-title{
-    max-width: 340px;
-    margin: 15px 0;
-  }
-}
-/* BOTÓN */
-.play-btn{
-  margin-top:15px;
-  background:#fff;
-  color:#000;
-  padding:10px 40px;
-  border-radius:5px;
-  text-align:center;
-  font-size:18px;
-  font-weight:600;
-  cursor:pointer;
-  display:inline-flex;
-  align-items:center;
-  gap:10px;
-  max-width:125px;
-  width:88%;
-}
-/* TEXTOS */
-.description{
-  padding:20px;
-  font-size:16px;
-  color:#ccc;
-  line-height:1.5;
-}
-.section{
-  padding:20px;
-}
-.section h2{
-  font-size:22px;
-  margin-bottom:12px;
-}
-/* ROW */
-.row{
-  display:flex;
-  gap:15px;
-  overflow-x:auto;
-}
-.row::-webkit-scrollbar{display:none;}
-
-/* ====================== TRAILER (SOLO 1 Y MÁS PEQUEÑO) ====================== */
-#trailers .trailer {
-  min-width: 158px;           /* ← FUERTE: más pequeño */
-  flex-shrink: 0;
-}
-#trailers .trailer img {
-  width: 100%;
-  border-radius: 12px;
-  height: 89px;
-  object-fit: cover;
-}
-#trailers .trailer-title {
-  margin-top: 6px;
-  font-size: 13px;
-  line-height: 1.3;
-}
-
-/* REPARTO: circular */
-#cast .trailer {
-  min-width: 110px;
-  text-align: center;
-}
-#cast .trailer img {
-  width: 88px;
-  height: 88px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 2px solid rgba(255,255,255,0.15);
-}
-#cast .trailer-title {
-  margin-top: 8px;
-  font-size: 13px;
-  line-height: 1.3;
-}
-
-/* ====================== MODAL VIDEO ====================== */
-.modal {
-  position: fixed;
-  inset: 0;
-  background: rgba(0,0,0,0.95);
-  display: none;
-  align-items: center;
-  justify-content: center;
-  z-index: 10000;
-  padding: 20px;
-}
-.modal-content {
-  position: relative;
-  width: 100%;
-  max-width: 960px;
-  aspect-ratio: 16 / 9;
-  background: #000;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.8);
-}
-.modal-content iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-.close {
-  position: absolute;
-  top: -15px;
-  right: -15px;
-  width: 40px;
-  height: 40px;
-  background: #fff;
-  color: #000;
-  font-size: 28px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 50%;
-  cursor: pointer;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.5);
-  z-index: 10001;
-}
-
-/* MENÚ */
-.nav{
-  position:fixed;
-  bottom:0;
-  width:100%;
-  height:70px;
-  background:rgba(30,30,30,.95);
-  display:flex;
-  justify-content:space-around;
-  align-items:center;
-  z-index:1000;
-}
-.nav div{
-  text-align:center;
-  font-size:12px;
-  color:#aaa;
-}
-.nav i{
-  display:block;
-  font-size:20px;
-  margin-bottom:4px;
-}
-.active{
-  color:#0A84FF;
-}
-@media (min-width: 768px) {
-  .nav { display:none; }
-  .hero{ height:85vh; }
-  .container{ margin-top:10vh; }
-  .header{ text-align:left; }
-}
-</style>
+<link rel="stylesheet" href="config/styles.css">
 </head>
+
 <body>
 
 <!-- HERO -->
@@ -248,7 +16,7 @@ body{
   <div class="scroll-overlay"></div>
 </div>
 
-<!-- ICONOS -->
+<!-- TOP BAR -->
 <div class="top-bar">
   <div class="icon-btn"><i class="fas fa-arrow-left"></i></div>
   <div style="display:flex; gap:10px;">
@@ -259,6 +27,7 @@ body{
 
 <!-- CONTENIDO -->
 <div class="container">
+
   <div class="header">
     <div class="available">Cargando...</div>
     <img class="logo-title" src="">
@@ -268,174 +37,40 @@ body{
     </div>
   </div>
 
-  <div class="description">
-    Cargando sinopsis...
-  </div>
+  <section class="section-sinopsis">
+    <div class="description" id="descripcion-texto">Cargando sinopsis...</div>
+  </section>
 
-  <!-- Tráilers (solo 1) -->
-  <section class="section">
+  <section class="section-trailers">
     <h2>Tráilers ›</h2>
-    <div class="row" id="trailers"></div>
+    <div class="row" id="trailers-row"></div>
   </section>
 
-  <!-- Reparto -->
-  <section class="section">
+  <section class="section-reparto">
     <h2>Reparto</h2>
-    <div class="row" id="cast"></div>
+    <div class="row" id="cast-row"></div>
   </section>
 
-  <!-- Imágenes -->
-  <section class="section">
-    <h2>Imágenes</h2>
-    <div class="row" id="images"></div>
+  <section class="section-imagenes">
+    <h2>Imágenes relacionadas</h2>
+    <div class="row" id="images-row"></div>
   </section>
 
-  <!-- Detalles -->
-  <section class="section">
+  <section class="section-detalles">
     <h2>Detalles</h2>
-    <div id="details" style="color:#ccc;line-height:1.6;"></div>
+    <div id="details-container"></div>
   </section>
+
 </div>
 
-<!-- MODAL FLOTANTE -->
+<!-- MODAL -->
 <div id="video-modal" class="modal">
   <div class="modal-content">
     <span id="modal-close" class="close">&times;</span>
-    <iframe id="youtube-player" width="100%" height="100%" frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-            allowfullscreen></iframe>
+    <iframe id="youtube-player" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
-<script>
-  // ==================== CARGAR MENÚ EXTERNO ====================
-  // Si te da "Failed to fetch" es porque la ruta no es correcta desde prueba.html
-  // Cambia la ruta si es necesario o pon el archivo en la carpeta correcta.
-  fetch('../../config/nav-menu/bottom-nav.html')
-    .then(res => {
-      if (!res.ok) throw new Error('Archivo no encontrado');
-      return res.text();
-    })
-    .then(html => {
-      const div = document.createElement('div');
-      div.innerHTML = html;
-      document.body.appendChild(div.firstElementChild);
-    })
-    .catch(err => {
-      console.warn('⚠️ Menú inferior no se pudo cargar (ruta incorrecta o archivo inexistente)');
-      // Puedes quitar este console.warn si quieres
-    });
-
-  // ==================== LÓGICA TMDB ====================
-  const API_KEY = "38e497c6c1a043d1341416e80915669f";
-  const BASE = "https://api.themoviedb.org/3";
-  const IMG = "https://image.tmdb.org/t/p/original";
-
-  const params = new URLSearchParams(location.search);
-  const id = params.get("id") || "11224";
-  const type = params.get("type") || "movie";
-
-  /* DATOS PRINCIPALES + LOGOS */
-  fetch(`${BASE}/${type}/${id}?api_key=${API_KEY}&language=es-ES&append_to_response=images`)
-    .then(r => r.json())
-    .then(d => {
-      if (d.backdrop_path) {
-        document.querySelector(".hero").style.backgroundImage = `url(${IMG}${d.backdrop_path})`;
-      }
-
-      const logos = d.images?.logos || [];
-      let logoUrl = '';
-      if (logos.length > 0) {
-        const logoEs = logos.find(l => l.iso_639_1 === 'es');
-        const selected = logoEs || logos[0];
-        logoUrl = IMG + selected.file_path;
-      } else if (d.poster_path) {
-        logoUrl = IMG + d.poster_path;
-      }
-      if (logoUrl) document.querySelector(".logo-title").src = logoUrl;
-
-      const fecha = d.release_date || d.first_air_date || "Próximamente";
-      document.querySelector(".available").textContent = `Disponible: ${fecha}`;
-
-      const rating = d.vote_average ? d.vote_average.toFixed(1) : "N/A";
-      const extra = d.runtime ? `${d.runtime} min` : (d.number_of_seasons ? `${d.number_of_seasons} temporadas` : "");
-      document.querySelector(".meta").innerHTML = `⭐ ${rating} ${extra ? `• ${extra}` : ""}`;
-
-      document.querySelector(".description").textContent = d.overview || "Sin sinopsis disponible.";
-    });
-
-  /* SOLO 1 TRAILER + MODAL */
-  fetch(`${BASE}/${type}/${id}/videos?api_key=${API_KEY}&language=es-ES`)
-    .then(r => r.json())
-    .then(d => {
-      const container = document.getElementById("trailers");
-      const firstTrailer = d.results.find(v => v.site === "YouTube");
-
-      if (firstTrailer) {
-        const cardHTML = `
-          <div class="trailer" data-key="${firstTrailer.key}">
-            <img src="https://img.youtube.com/vi/${firstTrailer.key}/hqdefault.jpg">
-            <div class="trailer-title">${firstTrailer.name}</div>
-          </div>`;
-        container.innerHTML = cardHTML;
-
-        container.querySelector('.trailer').addEventListener('click', function() {
-          const videoKey = this.getAttribute('data-key');
-          document.getElementById('youtube-player').src = `https://www.youtube.com/embed/${videoKey}?autoplay=1&rel=0`;
-          document.getElementById('video-modal').style.display = 'flex';
-        });
-      }
-    });
-
-  /* REPARTO (circular) */
-  fetch(`${BASE}/${type}/${id}/credits?api_key=${API_KEY}`)
-    .then(r => r.json())
-    .then(d => {
-      const container = document.getElementById("cast");
-      d.cast.slice(0, 10).forEach(a => {
-        container.innerHTML += `
-          <div class="trailer">
-            <img src="${a.profile_path ? IMG + a.profile_path : 'https://via.placeholder.com/260x390/222/fff?text=Sin+foto'}">
-            <div class="trailer-title">${a.name}</div>
-          </div>`;
-      });
-    });
-
-  /* IMÁGENES */
-  fetch(`${BASE}/${type}/${id}/images?api_key=${API_KEY}`)
-    .then(r => r.json())
-    .then(d => {
-      const container = document.getElementById("images");
-      d.backdrops.slice(0, 8).forEach(i => {
-        container.innerHTML += `
-          <div class="trailer">
-            <img src="${IMG}${i.file_path}">
-          </div>`;
-      });
-    });
-
-  /* SCROLL EFECTO */
-  const overlay = document.querySelector('.scroll-overlay');
-  window.addEventListener('scroll', () => {
-    overlay.style.opacity = Math.min(window.scrollY / 420, 0.82);
-  });
-
-  /* CERRAR MODAL */
-  const modal = document.getElementById('video-modal');
-  const closeBtn = document.getElementById('modal-close');
-
-  closeBtn.addEventListener('click', () => {
-    modal.style.display = 'none';
-    document.getElementById('youtube-player').src = '';
-  });
-
-  modal.addEventListener('click', (e) => {
-    if (e.target === modal) {
-      modal.style.display = 'none';
-      document.getElementById('youtube-player').src = '';
-    }
-  });
-</script>
-
+<script src="config/script.js"></script>
 </body>
 </html>
