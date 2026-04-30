@@ -1,12 +1,15 @@
-
+// ====================== CARGAR MENÚ EXTERNO (con protección) ======================
 fetch('../../../config/nav-menu/bottom-nav.html')
-  .then(res => res.text())
+  .then(res => {
+    if (!res.ok) throw new Error('404 - Archivo no encontrado');
+    return res.text();
+  })
   .then(html => {
     const div = document.createElement('div');
     div.innerHTML = html;
-    document.body.appendChild(div.firstElementChild);
+    if (div.firstElementChild) document.body.appendChild(div.firstElementChild);
   })
-  .catch(() => console.warn('Menú inferior no cargado'));
+  .catch(() => console.warn('Menú inferior no cargado (404)'));
 
 // ====================== CONFIGURACIÓN ======================
 const API_KEY = "38e497c6c1a043d1341416e80915669f";
@@ -18,7 +21,6 @@ const params = new URLSearchParams(location.search);
 const id = params.get("id") || "11224";
 const type = params.get("type") || "movie";
 
-// Variable global para la base de videos
 let videoDatabase = null;
 
 // ====================== CARGAR BASE DE VIDEOS ======================
@@ -26,6 +28,7 @@ async function loadVideoDatabase() {
   if (videoDatabase) return videoDatabase;
   try {
     const res = await fetch(VIDEO_JSON_URL);
+    if (!res.ok) throw new Error('JSON no encontrado');
     videoDatabase = await res.json();
     console.log(`✅ Base de videos cargada (${Object.keys(videoDatabase).length} títulos)`);
     return videoDatabase;
@@ -35,7 +38,7 @@ async function loadVideoDatabase() {
   }
 }
 
-// ====================== DATOS PRINCIPALES TMDB ======================
+// ====================== DATOS TMDB ======================
 fetch(`${BASE}/${type}/${id}?api_key=${API_KEY}&language=es-ES&append_to_response=images`)
   .then(r => r.json())
   .then(d => {
@@ -51,11 +54,11 @@ fetch(`${BASE}/${type}/${id}?api_key=${API_KEY}&language=es-ES&append_to_respons
       : (d.poster_path ? IMG + d.poster_path : '');
     if (logoUrl) document.querySelector(".logo-title").src = logoUrl;
 
+    // Textos
     document.querySelector(".available").textContent = `Disponible: ${d.release_date || d.first_air_date || "Próximamente"}`;
     document.querySelector(".meta").innerHTML = `⭐ ${d.vote_average ? d.vote_average.toFixed(1) : "N/A"}`;
     document.getElementById("descripcion-texto").textContent = d.overview || "Sin sinopsis disponible.";
 
-    // Guardar título para el reproductor
     window.currentTitle = d.title || d.name || "Reproduciendo";
 
     // Detalles
@@ -79,13 +82,15 @@ fetch(`${BASE}/${type}/${id}?api_key=${API_KEY}&language=es-ES&append_to_respons
       ${d.revenue ? `<div class="detail-item"><strong>Recaudación</strong><span>$${d.revenue.toLocaleString('es-ES')}</span></div>` : ''}
     `;
     document.getElementById("details-container").innerHTML = detailsHTML;
-  });
+  })
+  .catch(err => console.error("Error TMDB:", err));
 
 // ====================== TRÁILERES ======================
 fetch(`${BASE}/${type}/${id}/videos?api_key=${API_KEY}&language=es-ES`)
   .then(r => r.json())
   .then(d => {
     const container = document.getElementById("trailers-row");
+    if (!container) return;
     const trailer = d.results.find(v => v.site === "YouTube");
     if (trailer) {
       container.innerHTML = `
@@ -105,6 +110,7 @@ fetch(`${BASE}/${type}/${id}/credits?api_key=${API_KEY}`)
   .then(r => r.json())
   .then(d => {
     const container = document.getElementById("cast-row");
+    if (!container) return;
     d.cast.slice(0,10).forEach(a => {
       container.innerHTML += `
         <div class="trailer">
@@ -114,17 +120,18 @@ fetch(`${BASE}/${type}/${id}/credits?api_key=${API_KEY}`)
     });
   });
 
-// ====================== IMÁGENES RELACIONADAS ======================
+// ====================== IMÁGENES ======================
 fetch(`${BASE}/${type}/${id}/images?api_key=${API_KEY}`)
   .then(r => r.json())
   .then(d => {
     const container = document.getElementById("images-row");
+    if (!container) return;
     d.backdrops.slice(0,8).forEach(i => {
       container.innerHTML += `<div class="trailer"><img src="${IMG}${i.file_path}"></div>`;
     });
   });
 
-// ====================== BOTÓN REPRODUCIR (NUEVA LÓGICA) ======================
+// ====================== BOTÓN REPRODUCIR ======================
 document.querySelector('.play-btn').addEventListener('click', async () => {
   const db = await loadVideoDatabase();
   const entry = db[id] || db[id.toString()];
@@ -139,31 +146,31 @@ document.querySelector('.play-btn').addEventListener('click', async () => {
   const container = document.getElementById('movie-player-container');
   const titleHeader = document.getElementById('movie-title-header');
 
+  if (!modal || !container || !titleHeader) {
+    alert("Error: Modal de reproductor no encontrado. Revisa que el HTML esté agregado.");
+    return;
+  }
+
   titleHeader.textContent = window.currentTitle || "Reproduciendo";
   container.innerHTML = '';
 
-  // Obtener poster (prioridad logo > backdrop)
-  const posterImg = document.querySelector('.logo-title').src || 
-                    document.querySelector('.hero').style.backgroundImage.replace(/^url\(["']?/, '').replace(/["']?\)$/, '') ||
+  const posterImg = document.querySelector('.logo-title')?.src || 
+                    document.querySelector('.hero')?.style.backgroundImage.replace(/^url\(["']?/, '').replace(/["']?\)$/, '') ||
                     "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg";
 
   const titleEncoded = encodeURIComponent(window.currentTitle || "Reproduciendo");
 
-  // === DETECCIÓN DE TIPO ===
   if (enlace.includes('drive.google') || /^[a-zA-Z0-9_-]{20,}$/.test(enlace)) {
     // Google Drive
     const driveId = enlace.includes('id=') ? enlace.split('id=')[1] : enlace;
     const playerUrl = `https://lzrdrz10.github.io/player/?player=jwpl&provider=gdrive&format=video%2Fmp4&link=${encodeURIComponent(driveId)}`;
-    
     container.innerHTML = `<iframe src="${playerUrl}" frameborder="0" allowfullscreen allow="autoplay" style="width:100%;height:100%;"></iframe>`;
-
   } else {
-    // MP4 o M3U8 → Premium Player
+    // MP4 / M3U8 → Premium Player
     const videoEncoded = encodeURIComponent(enlace);
     const posterEncoded = encodeURIComponent(posterImg);
-
     const playerUrl = `https://lzrdrz10.github.io/premiumplayer/player.html?video=${videoEncoded}&poster=${posterEncoded}&title=${titleEncoded}`;
-
+    
     container.innerHTML = `
       <iframe src="${playerUrl}" 
               frameborder="0" 
@@ -176,45 +183,61 @@ document.querySelector('.play-btn').addEventListener('click', async () => {
   modal.style.display = 'flex';
 });
 
-// ====================== SCROLL + MODALES ======================
+// ====================== MODALES Y SCROLL ======================
 const overlay = document.querySelector('.scroll-overlay');
-window.addEventListener('scroll', () => {
-  overlay.style.opacity = Math.min(window.scrollY / 420, 0.82);
-});
+if (overlay) {
+  window.addEventListener('scroll', () => {
+    overlay.style.opacity = Math.min(window.scrollY / 420, 0.82);
+  });
+}
 
-// Modal YouTube (mantener original)
+// Modal YouTube
 const youtubeModal = document.getElementById('video-modal');
 const youtubeClose = document.getElementById('modal-close');
-youtubeClose.addEventListener('click', () => {
-  youtubeModal.style.display = 'none';
-  document.getElementById('youtube-player').src = '';
-});
-youtubeModal.addEventListener('click', e => {
-  if (e.target === youtubeModal) {
-    youtubeModal.style.display = 'none';
+if (youtubeClose) {
+  youtubeClose.addEventListener('click', () => {
+    if (youtubeModal) youtubeModal.style.display = 'none';
     document.getElementById('youtube-player').src = '';
-  }
-});
+  });
+}
+if (youtubeModal) {
+  youtubeModal.addEventListener('click', e => {
+    if (e.target === youtubeModal) {
+      youtubeModal.style.display = 'none';
+      document.getElementById('youtube-player').src = '';
+    }
+  });
+}
 
 // Modal Reproductor Principal
 const movieModal = document.getElementById('movie-modal');
 const movieClose = document.getElementById('movie-modal-close');
 
-movieClose.addEventListener('click', () => {
-  movieModal.style.display = 'none';
-  document.getElementById('movie-player-container').innerHTML = '';
-});
+if (movieClose) {
+  movieClose.addEventListener('click', () => {
+    if (movieModal) movieModal.style.display = 'none';
+    const cont = document.getElementById('movie-player-container');
+    if (cont) cont.innerHTML = '';
+  });
+}
+if (movieModal) {
+  movieModal.addEventListener('click', e => {
+    if (e.target === movieModal) {
+      movieModal.style.display = 'none';
+      const cont = document.getElementById('movie-player-container');
+      if (cont) cont.innerHTML = '';
+    }
+  });
+}
 
-movieModal.addEventListener('click', e => {
-  if (e.target === movieModal) {
-    movieModal.style.display = 'none';
-    document.getElementById('movie-player-container').innerHTML = '';
-  }
-});
-
-// Fullscreen botón
-document.getElementById('movie-fullscreen-btn').addEventListener('click', () => {
-  const elem = document.getElementById('movie-modal');
-  if (elem.requestFullscreen) elem.requestFullscreen();
-  else if (elem.webkitRequestFullscreen) elem.webkitRequestFullscreen();
-});
+// Fullscreen (con protección)
+const fullscreenBtn = document.getElementById('movie-fullscreen-btn');
+if (fullscreenBtn) {
+  fullscreenBtn.addEventListener('click', () => {
+    const elem = document.getElementById('movie-modal');
+    if (elem) {
+      if (elem.requestFullscreen) elem.requestFullscreen();
+      else if (elem.webkitRequestFullscreen) elem.webkitRequestFullscreen();
+    }
+  });
+}
