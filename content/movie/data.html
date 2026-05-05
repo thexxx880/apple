@@ -3,93 +3,351 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Detalle Pro</title>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-<link rel="stylesheet" href="config/styles.css">
+<title>Godzilla Minus One</title>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  --bg-dark: #0d0d0d;
+  --text-white: #fff;
+  --text-gray: #9a9a9a;
+  --accent: #ffcc00;
+}
+
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+  background: var(--bg-dark);
+  color: var(--text-white);
+  font-family: 'Barlow', sans-serif;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ===================== HERO ===================== */
+.hero {
+  position: relative;
+  height: 380px;
+  overflow: hidden;
+}
+
+.hero-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.65) contrast(1.15) saturate(1.25);
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.08) 10%, rgba(13,13,13,0.35) 35%, rgba(13,13,13,0.75) 65%, #0d0d0d 92%);
+}
+
+/* LOGO */
+.movie-logo {
+  position: relative;
+  z-index: 3;
+  padding: 0 20px;
+  margin-top: -130px;
+}
+
+.movie-logo img {
+  width: 100%;
+  max-width: 280px;
+  filter: drop-shadow(0 15px 35px rgba(0,0,0,0.95));
+}
+
+/* ===================== CONTENT ===================== */
+.content {
+  padding: 20px;
+  position: relative;
+  z-index: 2;
+}
+
+.meta {
+  color: var(--text-gray);
+  font-size: 14.5px;
+  margin: 20px 0 24px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.meta span {
+  background: rgba(255,255,255,0.1);
+  padding: 2px 9px;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+.btns {
+  display: flex;
+  gap: 12px;
+  margin: 28px 0;
+}
+
+.btn {
+  flex: 1;
+  padding: 15px 20px;
+  border-radius: 10px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  border: none;
+}
+
+.play { background: #fff; color: #000; }
+.play:hover { transform: translateY(-4px); box-shadow: 0 12px 25px rgba(255,204,0,0.3); }
+
+.trailer { 
+  background: transparent; 
+  border: 2px solid rgba(255,255,255,0.5); 
+  color: #fff; 
+}
+.trailer:hover { background: rgba(255,255,255,0.1); border-color: #fff; }
+
+.description {
+  font-size: 15.2px;
+  line-height: 1.65;
+  color: #ccc;
+  margin-bottom: 28px;
+}
+
+/* ===================== PC LAYOUT ===================== */
+@media (min-width: 768px) {
+  body { display: flex; }
+  .hero { width: 50%; height: 100vh; position: fixed; left: 0; top: 0; }
+  .movie-logo { position: absolute; top: 38%; left: 50px; z-index: 10; }
+  .movie-logo img { max-width: 420px; }
+  .content {
+    width: 50%; margin-left: 50%; padding: 80px 70px 120px; min-height: 100vh;
+    background: linear-gradient(to right, rgba(13,13,13,0.65) 0%, rgba(13,13,13,0.92) 25%);
+    backdrop-filter: blur(12px);
+    border-left: 1px solid rgba(255,255,255,0.08);
+  }
+}
+
+@media (min-width: 1400px) {
+  .hero { width: 48%; }
+  .content { width: 52%; margin-left: 48%; padding: 100px 90px; }
+  .movie-logo { left: 80px; }
+  .movie-logo img { max-width: 480px; }
+}
+
+/* ====================== BOTTOM NAV ====================== */
+#lz-bottom-system .bottom-bar {
+  position: fixed; bottom: 12px; left: 12px; right: 12px; height: 68px;
+  display: flex; align-items: center;
+  background: rgba(20, 20, 20, 0.88); backdrop-filter: blur(16px);
+  border-radius: 22px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);
+  z-index: 9999; padding: 0 8px;
+}
+#lz-bottom-system .menu-link {
+  flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;
+  text-decoration: none; color: #aaa; font-size: 10.5px; transition: color 0.25s;
+}
+#lz-bottom-system .menu-icon { font-size: 24px; margin-bottom: 3px; transition: transform 0.25s; }
+#lz-bottom-system .menu-link:hover, #lz-bottom-system .menu-link.active { color: #ff2c6d; }
+#lz-bottom-system .menu-link:hover .menu-icon, #lz-bottom-system .menu-link.active .menu-icon { transform: scale(1.2); }
+
+@media (min-width: 768px) {
+  #lz-bottom-system .bottom-bar { display: none; }
+}
+
+/* ====================== VIDEO MODAL - TAMAÑO CONTROLADO ====================== */
+#video-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 100000;
+  background: rgba(0, 0, 0, 0.95);
+  align-items: center;
+  justify-content: center;
+  padding: 20px 12px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+#video-modal.show {
+  opacity: 1;
+}
+
+#video-modal .modal-panel {
+  width: 100%;
+  max-width: 920px;           /* ← Tamaño moderado en PC */
+  background: #0d0d0d;
+  border: 1px solid #222;
+  box-shadow: 0 0 0 10px rgba(0,0,0,0.7);
+  overflow: hidden;
+  transform: scale(0.95);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+#video-modal.show .modal-panel {
+  transform: scale(1);
+}
+
+#video-modal .modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 24px;
+  background: #111;
+  border-bottom: 1px solid #222;
+}
+
+#video-modal .modal-header h3 {
+  font-size: 19px;
+  font-weight: 600;
+}
+
+#video-modal .close-btn {
+  background: none;
+  border: none;
+  color: #aaa;
+  font-size: 34px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+#video-modal .close-btn:hover { color: #fff; }
+
+#video-modal .video-container {
+  position: relative;
+  padding-top: 56.25%; /* 16:9 */
+  background: #000;
+}
+
+#video-modal iframe {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Móvil - tamaño moderado (no ocupa toda la pantalla) */
+@media (max-width: 640px) {
+  #video-modal {
+    padding: 15px 10px;
+  }
+  #video-modal .modal-panel {
+    max-width: 92%;
+    max-height: 88vh;
+  }
+}
+</style>
 </head>
 <body>
-<!-- HERO -->
+
+<!-- HERO + CONTENT (sin cambios) -->
 <div class="hero">
-  <div class="scroll-overlay"></div>
-</div>
-
-<!-- TOP BAR -->
-<div class="top-bar">
-  <div class="icon-btn"><i class="fas fa-arrow-left"></i></div>
-  <div style="display:flex; gap:10px;">
-    <div class="icon-btn"><i class="fas fa-plus"></i></div>
-    <div class="icon-btn"><i class="fas fa-share"></i></div>
+  <img class="hero-img" src="https://image.tmdb.org/t/p/original/vlmiJOeDMbiyaJCAjFPtlkDcOEv.jpg" alt="Godzilla">
+  <div class="hero-overlay"></div>
+  <div class="movie-logo">
+    <img src="https://image.tmdb.org/t/p/original/rF79aLAHl7OjdgFiA04Ox7L5I1A.png" alt="Godzilla Minus One">
   </div>
 </div>
 
-<!-- CONTENIDO -->
-<div class="container">
-  <div class="header">
-    <div class="available">Cargando...</div>
-    <img class="logo-title" src="">
-    <div class="meta">Cargando...</div>
-    <div class="play-btn">
-      <i class="fas fa-play"></i> Reproducir
+<div class="content">
+  <div class="meta">
+    <span>PG-13</span>
+    <span>2023</span>
+    <span>2h 04m</span>
+    <span>Action • Sci-Fi • Drama</span>
+    <span style="color:var(--accent); font-weight:700;">★ 8.0</span>
+  </div>
+
+  <div class="btns">
+    <button class="btn play" id="btn-play">▶ PLAY</button>
+    <button class="btn trailer" id="btn-trailer">▶ Trailer</button>
+  </div>
+
+  <p class="description">
+    En el Japón de la posguerra, una nación devastada enfrenta una nueva amenaza cuando Godzilla emerge, 
+    obligando a sobrevivientes a luchar contra una fuerza imparable.
+  </p>
+
+  <div style="margin-top:30px; line-height:1.8; color:#bbb;">
+    <div><strong>Director:</strong> Takashi Yamazaki</div>
+    <div><strong>Reparto:</strong> Ryunosuke Kamiki, Minami Hamabe, Yuki Yamada</div>
+  </div>
+</div>
+
+<!-- Bottom Nav dinámico -->
+<div id="lz-bottom-nav-container"></div>
+
+<!-- VIDEO MODAL -->
+<div id="video-modal">
+  <div class="modal-panel">
+    <div class="modal-header">
+      <h3 id="modal-title">Reproduciendo</h3>
+      <button class="close-btn" id="close-modal">✕</button>
     </div>
-  </div>
-
-  <!-- SINOPSIS -->
-  <section id="sinopsis-section" class="section-sinopsis">
-    <div class="description" id="descripcion-texto">Cargando sinopsis...</div>
-  </section>
-
-  <!-- TRÁILERS -->
-  <section id="trailers-section" class="section-trailers">
-    <h2>Tráilers ›</h2>
-    <div class="row" id="trailers-row"></div>
-  </section>
-
-  <!-- REPARTO -->
-  <section id="reparto-section" class="section-reparto">
-    <h2>Reparto</h2>
-    <div class="row" id="cast-row"></div>
-  </section>
-
-  <!-- IMÁGENES RELACIONADAS -->
-  <section id="imagenes-section" class="section-imagenes">
-    <h2>Imágenes relacionadas</h2>
-    <div class="row" id="images-row"></div>
-  </section>
-
-  <!-- DETALLES -->
-  <section id="detalles-section" class="section-detalles">
-    <h2>Detalles</h2>
-    <div id="details-container"></div>
-  </section>
-</div>
-
-<!-- MODAL YOUTUBE (Tráiler) -->
-<div id="video-modal" class="modal">
-  <div class="modal-content">
-    <span id="modal-close" class="close">&times;</span>
-    <iframe id="youtube-player" width="100%" height="100%" frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen></iframe>
+    <div class="video-container" id="video-wrapper"></div>
   </div>
 </div>
 
-<!-- MODAL REPRODUCTOR PRINCIPAL (Nuevo) -->
-<div id="movie-modal" class="modal movie-modal">
-  <div class="movie-modal-content">
-    <!-- Header -->
-    <div class="movie-player-header">
-      <div id="movie-title-header" class="movie-title"></div>
-      <div class="movie-player-controls">
-        <button id="movie-fullscreen-btn" class="icon-btn"><i class="fas fa-expand"></i></button>
-        <span id="movie-modal-close" class="close">&times;</span>
-      </div>
-    </div>
+<script>
+  // Cargar Bottom Nav
+  fetch('../../config/nav-menu/bottom-nav.html')
+    .then(r => r.text())
+    .then(html => document.getElementById('lz-bottom-nav-container').innerHTML = html);
 
-    <!-- Player Container -->
-    <div id="movie-player-container" class="movie-player-container"></div>
-  </div>
-</div>
+  // ====================== VIDEO MODAL ======================
+  const videoModal = document.getElementById('video-modal');
+  const videoWrapper = document.getElementById('video-wrapper');
+  const modalTitle = document.getElementById('modal-title');
+  const closeModalBtn = document.getElementById('close-modal');
 
-<script src="config/script.js"></script>
+  function openVideoModal(title, iframeSrc) {
+    videoWrapper.innerHTML = `
+      <iframe 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" 
+        allowfullscreen 
+        frameborder="0" 
+        scrolling="no" 
+        src="${iframeSrc}">
+      </iframe>`;
+
+    modalTitle.textContent = title;
+    videoModal.style.display = 'flex';
+    setTimeout(() => videoModal.classList.add('show'), 10);
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeVideoModal() {
+    videoModal.classList.remove('show');
+    setTimeout(() => {
+      videoModal.style.display = 'none';
+      videoWrapper.innerHTML = '';
+      document.body.style.overflow = '';
+    }, 280);
+  }
+
+  document.getElementById('btn-play').addEventListener('click', () => {
+    openVideoModal('Godzilla Minus One', 'https://lzrdrz10.github.io/player/?player=jwpl&provider=rand&format=video%2Fmp4&link=prueba');
+  });
+
+  document.getElementById('btn-trailer').addEventListener('click', () => {
+    openVideoModal('Trailer - Godzilla Minus One', 'https://lzrdrz10.github.io/player/?player=jwpl&provider=rand&format=video%2Fmp4&link=prueba');
+  });
+
+  closeModalBtn.addEventListener('click', closeVideoModal);
+  videoModal.addEventListener('click', e => { if (e.target === videoModal) closeVideoModal(); });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && videoModal.style.display === 'flex') closeVideoModal();
+  });
+</script>
+
 </body>
 </html>
