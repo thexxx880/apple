@@ -67,6 +67,13 @@ body {
   z-index: 2;
 }
 
+/* ←←← SOLUCIÓN AL PROBLEMA DEL BOTTOM NAV ←←← */
+@media (max-width: 767px) {
+  .content {
+    padding-bottom: 110px;   /* espacio para que no tape el bottom nav */
+  }
+}
+
 .meta {
   color: var(--text-gray);
   font-size: 14.5px;
@@ -139,27 +146,7 @@ body {
   .movie-logo img { max-width: 480px; }
 }
 
-/* ====================== BOTTOM NAV ====================== */
-#lz-bottom-system .bottom-bar {
-  position: fixed; bottom: 12px; left: 12px; right: 12px; height: 68px;
-  display: flex; align-items: center;
-  background: rgba(20, 20, 20, 0.88); backdrop-filter: blur(16px);
-  border-radius: 22px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);
-  z-index: 9999; padding: 0 8px;
-}
-#lz-bottom-system .menu-link {
-  flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;
-  text-decoration: none; color: #aaa; font-size: 10.5px; transition: color 0.25s;
-}
-#lz-bottom-system .menu-icon { font-size: 24px; margin-bottom: 3px; transition: transform 0.25s; }
-#lz-bottom-system .menu-link:hover, #lz-bottom-system .menu-link.active { color: #ff2c6d; }
-#lz-bottom-system .menu-link:hover .menu-icon, #lz-bottom-system .menu-link.active .menu-icon { transform: scale(1.2); }
-
-@media (min-width: 768px) {
-  #lz-bottom-system .bottom-bar { display: none; }
-}
-
-/* ====================== VIDEO MODAL - TAMAÑO CONTROLADO ====================== */
+/* ====================== VIDEO MODAL ====================== */
 #video-modal {
   display: none;
   position: fixed;
@@ -172,14 +159,11 @@ body {
   opacity: 0;
   transition: opacity 0.3s ease;
 }
-
-#video-modal.show {
-  opacity: 1;
-}
+#video-modal.show { opacity: 1; }
 
 #video-modal .modal-panel {
   width: 100%;
-  max-width: 920px;           /* ← Tamaño moderado en PC */
+  max-width: 920px;
   background: #0d0d0d;
   border: 1px solid #222;
   box-shadow: 0 0 0 10px rgba(0,0,0,0.7);
@@ -187,10 +171,7 @@ body {
   transform: scale(0.95);
   transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
-
-#video-modal.show .modal-panel {
-  transform: scale(1);
-}
+#video-modal.show .modal-panel { transform: scale(1); }
 
 #video-modal .modal-header {
   display: flex;
@@ -200,56 +181,33 @@ body {
   background: #111;
   border-bottom: 1px solid #222;
 }
-
-#video-modal .modal-header h3 {
-  font-size: 19px;
-  font-weight: 600;
-}
-
+#video-modal .modal-header h3 { font-size: 19px; font-weight: 600; }
 #video-modal .close-btn {
-  background: none;
-  border: none;
-  color: #aaa;
-  font-size: 34px;
-  width: 44px;
-  height: 44px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
+  background: none; border: none; color: #aaa; font-size: 34px;
+  width: 44px; height: 44px; display: flex; align-items: center; justify-content: center; cursor: pointer;
 }
-
 #video-modal .close-btn:hover { color: #fff; }
-
 #video-modal .video-container {
   position: relative;
-  padding-top: 56.25%; /* 16:9 */
+  padding-top: 56.25%;
   background: #000;
 }
-
 #video-modal iframe {
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%;
-  height: 100%;
-  border: none;
+  position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;
 }
 
-/* Móvil - tamaño moderado (no ocupa toda la pantalla) */
 @media (max-width: 640px) {
-  #video-modal {
-    padding: 15px 10px;
-  }
-  #video-modal .modal-panel {
-    max-width: 92%;
-    max-height: 88vh;
-  }
+  #video-modal { padding: 15px 10px; }
+  #video-modal .modal-panel { max-width: 92%; }
 }
 </style>
 </head>
 <body>
 
-<!-- HERO + CONTENT (sin cambios) -->
+<!-- ====================== HEADER DINÁMICO ====================== -->
+<div id="lz-header-container"></div>
+
+<!-- HERO -->
 <div class="hero">
   <img class="hero-img" src="https://image.tmdb.org/t/p/original/vlmiJOeDMbiyaJCAjFPtlkDcOEv.jpg" alt="Godzilla">
   <div class="hero-overlay"></div>
@@ -258,6 +216,7 @@ body {
   </div>
 </div>
 
+<!-- CONTENT -->
 <div class="content">
   <div class="meta">
     <span>PG-13</span>
@@ -298,10 +257,33 @@ body {
 </div>
 
 <script>
-  // Cargar Bottom Nav
+  // ====================== CARGAR HEADER Y BOTTOM NAV ======================
+  // Header
+  fetch('../../config/nav-menu/header.html')
+    .then(response => {
+      if (!response.ok) throw new Error('Header no encontrado');
+      return response.text();
+    })
+    .then(html => {
+      document.getElementById('lz-header-container').innerHTML = html;
+      console.log('✅ Header cargado correctamente');
+    })
+    .catch(err => {
+      console.error('❌ Error al cargar header.html →', err);
+      console.log('Revisa que el archivo exista en: ../../config/nav-menu/header.html');
+    });
+
+  // Bottom Nav
   fetch('../../config/nav-menu/bottom-nav.html')
-    .then(r => r.text())
-    .then(html => document.getElementById('lz-bottom-nav-container').innerHTML = html);
+    .then(response => {
+      if (!response.ok) throw new Error('Bottom nav no encontrado');
+      return response.text();
+    })
+    .then(html => {
+      document.getElementById('lz-bottom-nav-container').innerHTML = html;
+      console.log('✅ Bottom nav cargado correctamente');
+    })
+    .catch(err => console.error('❌ Error al cargar bottom-nav.html →', err));
 
   // ====================== VIDEO MODAL ======================
   const videoModal = document.getElementById('video-modal');
@@ -310,15 +292,7 @@ body {
   const closeModalBtn = document.getElementById('close-modal');
 
   function openVideoModal(title, iframeSrc) {
-    videoWrapper.innerHTML = `
-      <iframe 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" 
-        allowfullscreen 
-        frameborder="0" 
-        scrolling="no" 
-        src="${iframeSrc}">
-      </iframe>`;
-
+    videoWrapper.innerHTML = `<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen frameborder="0" scrolling="no" src="${iframeSrc}"></iframe>`;
     modalTitle.textContent = title;
     videoModal.style.display = 'flex';
     setTimeout(() => videoModal.classList.add('show'), 10);
