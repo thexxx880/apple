@@ -3,126 +3,155 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Películas - Dinámico</title>
+  <title>Movies</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      font-family: "Poppins", sans-serif;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
 </head>
-<body class="bg-[#04143B] text-white">
+<body class="bg-[#04143B] text-white min-h-screen">
 
-  <div class="max-w-[1280px] mx-auto px-4 py-8">
-    <h1 class="text-3xl font-bold mb-6">Todas las Películas</h1>
-
-    <!-- Estado de carga / error -->
-    <div id="status" class="flex justify-center items-center py-10">
-      <div class="flex items-center gap-3">
-        <div class="w-6 h-6 border-4 border-white/20 border-t-[#4A7FFF] rounded-full animate-spin"></div>
-        <span id="status-text">Cargando películas...</span>
-      </div>
-    </div>
-
-    <!-- Contenedor de películas -->
-    <div id="movies-container" 
-         class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 hidden">
-    </div>
+  <!-- Protección con redirección -->
+  <div id="proteccion-loader" style="
+    position: fixed;
+    inset: 0;
+    background-color: #04143B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+  ">
+    <div class="spinner" style="
+      border: 5px solid rgba(255, 255, 255, 0.2);
+      border-top: 5px solid #4A7FFF;
+      border-radius: 50%;
+      width: 50px;
+      height: 50px;
+      animation: spin 0.8s linear infinite;
+    "></div>
   </div>
 
+  <header class="fixed top-0 left-0 w-full z-50 bg-[#04143B] flex flex-col md:flex-row items-center justify-between px-4 py-3 max-w-[1280px] mx-auto shadow-md">
+    <!-- Puedes poner tu header aquí -->
+  </header>
+
+  <main class="max-w-[1280px] mx-auto px-4 mt-24">
+    <h1 class="text-3xl font-bold mb-6">Todas las Películas</h1>
+
+    <!-- Grid dinámico -->
+    <section id="movies-container" 
+             class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
+      <!-- Las películas se cargan aquí automáticamente -->
+    </section>
+
+    <!-- Loader -->
+    <div id="loading" class="flex justify-center items-center py-10">
+      <div class="spinner" style="
+        border: 5px solid rgba(255, 255, 255, 0.2);
+        border-top: 5px solid #4A7FFF;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        animation: spin 0.8s linear infinite;
+      "></div>
+      <span class="ml-4 text-white/70">Cargando películas...</span>
+    </div>
+  </main>
+
 <script>
-// ==================== CONFIG ====================
+// ==================== PROTECCIÓN ====================
+const destino = "https://lzplayhd.online/CatergoriasBase/movie/index.html";
+const accesoPermitido = sessionStorage.getItem("accesoLzPlay") === "true";
+
+if (!accesoPermitido) {
+  window.location.replace(destino);
+} else {
+  document.getElementById("proteccion-loader").style.display = "none";
+}
+
+// ==================== CONFIG GITHUB ====================
 const GITHUB_OWNER = "thexxx880";
 const GITHUB_REPO = "apple";
 const MOVIE_FOLDER = "movie";
 
-// ==================== FUNCIONES ====================
-
+// ==================== CARGAR PELÍCULAS DINÁMICAMENTE ====================
 async function loadMovies() {
   const container = document.getElementById("movies-container");
-  const status = document.getElementById("status");
-  const statusText = document.getElementById("status-text");
+  const loading = document.getElementById("loading");
 
   try {
-    // Obtener lista de archivos
+    // Obtener lista de archivos JSON
     const res = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${MOVIE_FOLDER}`);
     
-    if (!res.ok) {
-      throw new Error(`Error al conectar con GitHub (${res.status})`);
-    }
+    if (!res.ok) throw new Error("Error al conectar con GitHub");
 
     const files = await res.json();
-    const jsonFiles = files.filter(f => f.name.endsWith(".json"));
+    const jsonFiles = files.filter(file => file.name.endsWith(".json"));
 
-    if (jsonFiles.length === 0) {
-      throw new Error("No se encontraron archivos .json en la carpeta movie/");
-    }
+    container.innerHTML = ""; // Limpiar
 
-    // Cargar cada película
-    const movies = [];
-    
     for (const file of jsonFiles) {
       try {
         const movieRes = await fetch(file.download_url);
-        const movieData = await movieRes.json();
+        const movie = await movieRes.json();
 
-        if (movieData.id && movieData.titulo && movieData.poster) {
-          movies.push(movieData);
-        }
-      } catch (e) {
+        if (!movie.id || !movie.titulo || !movie.poster) continue;
+
+        // Crear tarjeta con el mismo estilo del original
+        const article = document.createElement("article");
+        article.className = "relative rounded-lg overflow-hidden cursor-pointer select-none";
+
+        const link = `../../Peliculas/movie${movie.id}.html`; // Cambia esta ruta cuando tengas la página dinámica
+
+        article.innerHTML = `
+          <a href="${link}">
+            <img src="${movie.poster}" 
+                 alt="${movie.titulo}" 
+                 class="w-full h-auto rounded-lg object-cover transition-transform duration-300 hover:scale-105"
+                 loading="lazy"
+                 onerror="this.src='https://via.placeholder.com/300x450?text=Sin+Poster'"/>
+            
+            <div class="absolute top-2 right-2 bg-white/90 text-black text-xs font-semibold rounded-full px-2 py-0.5">
+              Movie
+            </div>
+          </a>
+          
+          <div class="mt-2 font-semibold text-sm leading-tight truncate">${movie.titulo}</div>
+          <div class="text-xs text-white/70">${movie.anio || 'N/A'}</div>
+        `;
+
+        container.appendChild(article);
+
+      } catch (err) {
         console.warn("Error cargando:", file.name);
       }
     }
 
-    // Ordenar por año
-    movies.sort((a, b) => (b.anio || 0) - (a.anio || 0));
-
-    // Renderizar
-    container.innerHTML = "";
-    movies.forEach(movie => {
-      const card = createMovieCard(movie);
-      container.appendChild(card);
-    });
-
-    // Mostrar contenido
-    status.style.display = "none";
-    container.classList.remove("hidden");
+    loading.style.display = "none";
 
   } catch (error) {
-    console.error("Error completo:", error);
-    statusText.innerHTML = `
-      <span class="text-red-400">Error al cargar las películas.</span><br>
-      <span class="text-sm text-white/60">${error.message}</span><br><br>
-      <button onclick="loadMovies()" 
-              class="px-4 py-2 bg-white/10 hover:bg-white/20 rounded-lg text-sm">
-        Reintentar
-      </button>
+    console.error(error);
+    loading.innerHTML = `
+      <div class="text-center w-full">
+        <p class="text-red-400">Error al cargar las películas.</p>
+        <button onclick="loadMovies()" 
+                class="mt-4 px-4 py-2 bg-white/10 hover:bg-white/20 rounded-lg text-sm">
+          Reintentar
+        </button>
+      </div>
     `;
   }
 }
 
-function createMovieCard(movie) {
-  const article = document.createElement("article");
-  article.className = "bg-[#0A1F4D] rounded-lg overflow-hidden cursor-pointer hover:scale-[1.02] transition-transform";
-
-  const link = `../../Peliculas/movie${movie.id}.html`; // Cambia esta ruta cuando tengas la página dinámica
-
-  article.innerHTML = `
-    <a href="${link}">
-      <img src="${movie.poster}" 
-           alt="${movie.titulo}" 
-           class="w-full aspect-[2/3] object-cover"
-           onerror="this.src='https://via.placeholder.com/300x450?text=Sin+Imagen'">
-      
-      <div class="p-3">
-        <div class="font-semibold text-sm line-clamp-2 mb-1">${movie.titulo}</div>
-        <div class="flex justify-between text-xs text-white/70">
-          <span>${movie.anio || 'N/A'}</span>
-          ${movie.calificacion ? `<span>★ ${movie.calificacion}</span>` : ''}
-        </div>
-      </div>
-    </a>
-  `;
-  return article;
-}
-
-// Iniciar
+// Iniciar carga
 window.onload = () => {
   loadMovies();
 };
