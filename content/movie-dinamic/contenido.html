@@ -1,136 +1,480 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Movies</title>
+
   <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap"
+        rel="stylesheet"/>
+
   <style>
-    body {
-      font-family: "Poppins", sans-serif;
+
+    body{
+      font-family:"Poppins",sans-serif;
+      background:#04143B;
     }
+
+    /* ================= LOADER ================= */
+
+    #loader{
+      position:fixed;
+      inset:0;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      background:#04143B;
+      z-index:9999;
+      transition:opacity .5s ease;
+    }
+
+    #loader.fade-out{
+      opacity:0;
+      pointer-events:none;
+    }
+
+    .spinner{
+      width:55px;
+      height:55px;
+      border-radius:50%;
+      border:5px solid rgba(255,255,255,.15);
+      border-top:5px solid #4A7FFF;
+      animation:spin 1s linear infinite;
+    }
+
+    @keyframes spin{
+      0%{transform:rotate(0deg);}
+      100%{transform:rotate(360deg);}
+    }
+
+    /* ================= SCROLL ================= */
+
+    ::-webkit-scrollbar{
+      width:8px;
+    }
+
+    ::-webkit-scrollbar-thumb{
+      background:#4A7FFF;
+      border-radius:20px;
+    }
+
+    ::-webkit-scrollbar-track{
+      background:#04143B;
+    }
+
+    /* ================= CARD ================= */
+
+    .movie-card{
+      position:relative;
+      overflow:hidden;
+      border-radius:14px;
+      transition:.3s;
+    }
+
+    .movie-card:hover{
+      transform:translateY(-4px);
+    }
+
+    .movie-card img{
+      transition:transform .4s ease;
+    }
+
+    .movie-card:hover img{
+      transform:scale(1.05);
+    }
+
+    .movie-overlay{
+      position:absolute;
+      inset:0;
+      background:linear-gradient(to top, rgba(0,0,0,.85), transparent 60%);
+      opacity:0;
+      transition:.3s;
+      display:flex;
+      align-items:flex-end;
+      padding:12px;
+    }
+
+    .movie-card:hover .movie-overlay{
+      opacity:1;
+    }
+
+    .movie-title{
+      display:-webkit-box;
+      -webkit-line-clamp:2;
+      -webkit-box-orient:vertical;
+      overflow:hidden;
+    }
+
+    /* ================= RESPONSIVE GRID ================= */
+#movies-container{
+  display:grid;
+  gap:16px;
+
+  grid-template-columns:
+  repeat(auto-fit, minmax(180px, 1fr));
+}
+
+/* TABLET */
+@media(max-width:900px){
+
+  #movies-container{
+    grid-template-columns:
+    repeat(4, 1fr);
+  }
+
+}
+
+/* CELULAR */
+@media(max-width:640px){
+
+  #movies-container{
+
+    grid-template-columns:
+    repeat(3, 1fr);
+
+    gap:12px;
+  }
+
+  .movie-card img{
+    border-radius:12px;
+  }
+
+}
+
   </style>
 </head>
-<body class="bg-[#04143B] text-white min-h-screen">
 
-  <header class="fixed top-0 left-0 w-full z-50 bg-[#04143B] flex items-center justify-between px-4 py-3 max-w-[1280px] mx-auto shadow-md">
-    <!-- Header vacío por ahora -->
-  </header>
+<body class="text-white min-h-screen">
 
-  <main class="max-w-[1280px] mx-auto px-4 mt-24">
-    <h1 class="text-3xl font-bold mb-6">Todas las Películas</h1>
+<!-- ================= LOADER ================= -->
 
-    <!-- Contenedor de películas -->
-    <section id="movies-container" 
-             class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
-    </section>
+<div id="loader">
+  <div class="spinner"></div>
+</div>
 
-    <!-- Estado (Loader / Error) -->
-    <div id="status" class="flex justify-center items-center py-10">
-      <div class="flex items-center gap-3">
-        <div class="w-6 h-6 border-4 border-white/20 border-t-[#4A7FFF] rounded-full animate-spin"></div>
-        <span id="status-text">Cargando películas...</span>
+<!-- ================= HEADER ================= -->
+
+<header class="fixed top-0 left-0 w-full z-50 bg-[#04143B] shadow-md">
+
+  <div class="max-w-[1280px] mx-auto px-4 py-3 flex flex-col md:flex-row items-center justify-between">
+
+    <!-- LEFT -->
+    <div class="flex items-center justify-between w-full md:w-auto">
+
+      <div class="flex items-center space-x-3">
+
+        <button onclick="history.back()"
+          class="bg-[#0D1B4C] rounded-full px-4 py-1.5 text-sm font-semibold text-[#4A7FFF] flex items-center space-x-2">
+
+          <i class="fas fa-arrow-left"></i>
+          <span>Atrás</span>
+
+        </button>
+
+        <h1 class="text-2xl font-extrabold text-[#4A7FFF]">
+
+          Movies
+
+          <span id="contadorPublicaciones"
+            class="text-sm font-normal text-white/70 ml-2">(0)</span>
+
+        </h1>
+
       </div>
+
+      <!-- SEARCH MOBILE -->
+
+      <a href="../../SEARCH/index.html"
+        class="md:hidden flex items-center justify-center w-10 h-10 rounded-full border-2 border-white shadow-md">
+
+        <i class="fas fa-search"></i>
+
+      </a>
+
     </div>
-  </main>
+
+    <!-- NAV -->
+
+    <nav class="hidden md:flex items-center space-x-6 text-sm font-semibold text-white/90 mt-3 md:mt-0">
+
+      <a href="../../index.html"
+        class="flex items-center space-x-1 hover:text-[#4A7FFF] transition">
+
+        <i class="fas fa-home"></i>
+        <span>Inicio</span>
+
+      </a>
+
+      <a href="../../Peliculas/"
+        class="hover:text-[#4A7FFF] transition">
+
+        Películas
+
+      </a>
+
+      <a href="../../Series/"
+        class="hover:text-[#4A7FFF] transition">
+
+        Series
+
+      </a>
+
+    </nav>
+
+    <!-- SEARCH DESKTOP -->
+
+    <a href="../../SEARCH/index.html"
+      class="hidden md:flex items-center justify-center w-12 h-12 rounded-full border-2 border-white shadow-md ml-4">
+
+      <i class="fas fa-search"></i>
+
+    </a>
+
+  </div>
+
+</header>
+
+<!-- ================= MAIN ================= -->
+
+<main class="max-w-[1400px] mx-auto px-3 sm:px-4 mt-24">
+
+  <!-- MOVIES -->
+
+  <section id="movies-container"></section>
+
+  <!-- STATUS -->
+
+  <div id="status"
+    class="flex justify-center items-center py-10 text-white/80">
+
+    <div class="flex items-center gap-3">
+
+      <div class="w-6 h-6 border-4 border-white/20 border-t-[#4A7FFF] rounded-full animate-spin"></div>
+
+      <span id="status-text">
+        Cargando películas...
+      </span>
+
+    </div>
+
+  </div>
+
+</main>
 
 <script>
-// ==================== CONFIG ====================
-const GITHUB_OWNER = "thexxx880";
-const GITHUB_REPO = "apple";
-const MOVIE_FOLDER = "movie";
 
-// ==================== CARGAR PELÍCULAS ====================
-async function loadMovies() {
-  const container = document.getElementById("movies-container");
-  const status = document.getElementById("status");
-  const statusText = document.getElementById("status-text");
+// ================= CONFIG =================
 
-  try {
-    // 1. Obtener lista de archivos de la carpeta movie/
-    const res = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${MOVIE_FOLDER}`);
+var GITHUB_OWNER = "thexxx880";
+var GITHUB_REPO = "apple";
+var MOVIE_FOLDER = "movie";
 
-    if (!res.ok) {
-      throw new Error(`Error de GitHub: ${res.status} ${res.statusText}`);
+// ================= ELEMENTOS =================
+
+var container = document.getElementById("movies-container");
+
+var statusDiv = document.getElementById("status");
+
+var statusText = document.getElementById("status-text");
+
+var contador = document.getElementById("contadorPublicaciones");
+
+var loader = document.getElementById("loader");
+
+// ================= LOAD MOVIES =================
+
+async function loadMovies(){
+
+  try{
+
+    var res = await fetch(
+      `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${MOVIE_FOLDER}?nocache=${Date.now()}`
+    );
+
+    if(!res.ok){
+      throw new Error(`GitHub Error: ${res.status}`);
     }
 
-    const files = await res.json();
-    const jsonFiles = files.filter(file => file.name.endsWith(".json"));
+    var files = await res.json();
 
-    if (jsonFiles.length === 0) {
-      throw new Error("No se encontraron archivos JSON en la carpeta movie/");
+    var jsonFiles = files.filter(function(file){
+      return file.name.endsWith(".json");
+    });
+
+    if(jsonFiles.length === 0){
+      throw new Error("No se encontraron archivos JSON");
     }
 
-    container.innerHTML = ""; // Limpiar contenedor
+    container.innerHTML = "";
 
-    let loadedCount = 0;
+    var loadedCount = 0;
 
-    // 2. Cargar cada película
-    for (const file of jsonFiles) {
-      try {
-        const movieRes = await fetch(file.download_url);
-        const movie = await movieRes.json();
+    // ================= RECORRER JSON =================
 
-        if (!movie.id || !movie.titulo || !movie.poster) continue;
+    for(var file of jsonFiles){
 
-        // Crear tarjeta (mismo estilo del original)
-        const article = document.createElement("article");
-        article.className = "relative rounded-lg overflow-hidden cursor-pointer select-none";
+      try{
 
-        const link = `../../Peliculas/movie${movie.id}.html`;
+        var movieRes = await fetch(
+          file.download_url + `?nocache=${Date.now()}`
+        );
+
+        var movie = await movieRes.json();
+
+        if(!movie.id || !movie.titulo || !movie.poster){
+          continue;
+        }
+
+        var article = document.createElement("article");
+
+        article.className = "movie-card";
+
+        var link = `../../Peliculas/movie${movie.id}.html`;
 
         article.innerHTML = `
-          <a href="${link}">
-            <img src="${movie.poster}" 
-                 alt="${movie.titulo}" 
-                 class="w-full h-auto rounded-lg object-cover transition-transform duration-300 hover:scale-105"
-                 loading="lazy"
-                 onerror="this.src='https://via.placeholder.com/300x450?text=Sin+Poster'"/>
-            
-            <div class="absolute top-2 right-2 bg-white/90 text-black text-xs font-semibold rounded-full px-2 py-0.5">
-              Movie
+
+          <a href="${link}" class="block relative">
+
+            <img
+              src="${movie.poster}"
+              alt="${movie.titulo}"
+              class="w-full aspect-[2/3] object-cover rounded-xl bg-[#0D1B4C] shadow-lg"
+              loading="lazy"
+              onerror="this.src='https://via.placeholder.com/300x450?text=Sin+Poster'"
+            >
+
+            <!-- TAG -->
+
+            <div class="absolute top-2 right-2 bg-white/90 text-black text-[10px] font-bold rounded-full px-2 py-1">
+
+              MOVIE
+
             </div>
+
+            <!-- OVERLAY -->
+
+            <div class="movie-overlay">
+
+              <div class="w-full">
+
+                <div class="movie-title text-sm font-semibold leading-tight">
+
+                  ${movie.titulo}
+
+                </div>
+
+                <div class="flex items-center justify-between mt-2 text-xs text-white/70">
+
+                  <span>
+
+                    ${movie.anio || "N/A"}
+
+                  </span>
+
+                  <span class="flex items-center gap-1">
+
+                    <i class="fas fa-play-circle text-[#4A7FFF]"></i>
+
+                    Ver
+
+                  </span>
+
+                </div>
+
+              </div>
+
+            </div>
+
           </a>
-          
-          <div class="mt-2 font-semibold text-sm leading-tight truncate">${movie.titulo}</div>
-          <div class="text-xs text-white/70">${movie.anio || 'N/A'}</div>
+
         `;
 
         container.appendChild(article);
+
         loadedCount++;
 
-      } catch (err) {
-        console.warn("Error cargando película:", file.name);
+      }catch(err){
+
+        console.warn("Error cargando:", file.name);
+
       }
+
     }
 
-    // Ocultar loader
-    status.style.display = "none";
+    contador.textContent = `(${loadedCount})`;
 
-    if (loadedCount === 0) {
-      status.style.display = "flex";
-      statusText.innerHTML = "No se pudieron cargar las películas.";
+    loader.classList.add("fade-out");
+
+    if(statusDiv){
+      statusDiv.style.display = "none";
     }
 
-  } catch (error) {
-    console.error("Error completo:", error);
-    statusText.innerHTML = `
-      <span class="text-red-400 font-semibold">Error al cargar las películas</span><br>
-      <span class="text-sm text-white/70">${error.message}</span><br><br>
-      <button onclick="loadMovies()" 
-              class="px-4 py-2 bg-white/10 hover:bg-white/20 rounded-lg text-sm transition">
-        Reintentar
-      </button>
-    `;
+    if(loadedCount === 0){
+
+      if(statusDiv){
+        statusDiv.style.display = "flex";
+      }
+
+      statusText.innerHTML =
+      "No se pudieron cargar las películas.";
+
+    }
+
+  }catch(error){
+
+    console.error(error);
+
+    loader.classList.add("fade-out");
+
+    if(statusDiv){
+
+      statusDiv.innerHTML = `
+
+        <div class="text-center">
+
+          <div class="text-red-400 font-semibold text-lg mb-2">
+
+            Error al cargar películas
+
+          </div>
+
+          <div class="text-white/70 text-sm mb-5">
+
+            ${error.message}
+
+          </div>
+
+          <button
+            onclick="loadMovies()"
+            class="bg-[#0D1B4C] hover:bg-[#13245f] transition px-5 py-2 rounded-xl text-[#4A7FFF] font-semibold">
+
+            Reintentar
+
+          </button>
+
+        </div>
+
+      `;
+
+    }
+
   }
+
 }
 
-// Iniciar
-window.onload = () => {
+// ================= INICIAR =================
+
+window.onload = function(){
+
   loadMovies();
+
 };
+
 </script>
 
 </body>
