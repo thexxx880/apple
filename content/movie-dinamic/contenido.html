@@ -3,42 +3,28 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Movies</title>
+  <title>Películas - Dinámico</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet"/>
-  <style>
-    body { font-family: "Poppins", sans-serif; }
-    .movie-card { transition: transform 0.3s ease; }
-    .movie-card:hover { transform: scale(1.03); }
-  </style>
 </head>
-<body class="bg-[#04143B] text-white min-h-screen">
+<body class="bg-[#04143B] text-white">
 
-  <!-- Protección -->
-  <div id="proteccion-loader" style="position:fixed;inset:0;background:#04143B;display:flex;align-items:center;justify-content:center;z-index:9999;">
-    <div class="w-12 h-12 border-4 border-white/20 border-t-[#4A7FFF] rounded-full animate-spin"></div>
-  </div>
-
-  <header class="fixed top-0 left-0 w-full z-50 bg-[#04143B] flex items-center justify-between px-4 py-3 max-w-[1280px] mx-auto shadow-md">
-    <!-- Tu header aquí -->
-  </header>
-
-  <main class="max-w-[1280px] mx-auto px-4 mt-24">
+  <div class="max-w-[1280px] mx-auto px-4 py-8">
     <h1 class="text-3xl font-bold mb-6">Todas las Películas</h1>
 
-    <!-- Contenedor dinámico -->
-    <section id="movies-container" 
-             class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
-      <!-- Las películas se cargan aquí dinámicamente -->
-    </section>
-
-    <!-- Loader de películas -->
-    <div id="loading" class="flex justify-center items-center py-10">
-      <div class="w-8 h-8 border-4 border-white/20 border-t-[#4A7FFF] rounded-full animate-spin"></div>
-      <span class="ml-3 text-white/70">Cargando películas...</span>
+    <!-- Estado de carga / error -->
+    <div id="status" class="flex justify-center items-center py-10">
+      <div class="flex items-center gap-3">
+        <div class="w-6 h-6 border-4 border-white/20 border-t-[#4A7FFF] rounded-full animate-spin"></div>
+        <span id="status-text">Cargando películas...</span>
+      </div>
     </div>
-  </main>
+
+    <!-- Contenedor de películas -->
+    <div id="movies-container" 
+         class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 hidden">
+    </div>
+  </div>
 
 <script>
 // ==================== CONFIG ====================
@@ -46,120 +32,99 @@ const GITHUB_OWNER = "thexxx880";
 const GITHUB_REPO = "apple";
 const MOVIE_FOLDER = "movie";
 
+// ==================== FUNCIONES ====================
 
-
-// ==================== CARGAR PELÍCULAS DESDE GITHUB ====================
-async function loadMoviesFromGitHub() {
+async function loadMovies() {
   const container = document.getElementById("movies-container");
-  const loading = document.getElementById("loading");
+  const status = document.getElementById("status");
+  const statusText = document.getElementById("status-text");
 
   try {
-    // 1. Obtener lista de archivos de la carpeta movie/
-    const contentsUrl = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${MOVIE_FOLDER}`;
-    const response = await fetch(contentsUrl);
+    // Obtener lista de archivos
+    const res = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${MOVIE_FOLDER}`);
     
-    if (!response.ok) throw new Error("No se pudo cargar la lista de películas");
-
-    const files = await response.json();
-
-    // 2. Filtrar solo archivos .json
-    const jsonFiles = files.filter(file => file.name.endsWith(".json"));
-
-    if (jsonFiles.length === 0) {
-      container.innerHTML = `<p class="text-center col-span-full text-white/60 py-10">No hay películas disponibles.</p>`;
-      loading.style.display = "none";
-      return;
+    if (!res.ok) {
+      throw new Error(`Error al conectar con GitHub (${res.status})`);
     }
 
-    // 3. Cargar cada JSON
-    const movies = [];
+    const files = await res.json();
+    const jsonFiles = files.filter(f => f.name.endsWith(".json"));
 
+    if (jsonFiles.length === 0) {
+      throw new Error("No se encontraron archivos .json en la carpeta movie/");
+    }
+
+    // Cargar cada película
+    const movies = [];
+    
     for (const file of jsonFiles) {
       try {
         const movieRes = await fetch(file.download_url);
-        if (!movieRes.ok) continue;
-
         const movieData = await movieRes.json();
 
-        // Validar que tenga los campos mínimos
-        if (!movieData.id || !movieData.titulo || !movieData.poster) continue;
-
-        movies.push(movieData);
-      } catch (err) {
-        console.warn(`Error cargando ${file.name}:`, err);
+        if (movieData.id && movieData.titulo && movieData.poster) {
+          movies.push(movieData);
+        }
+      } catch (e) {
+        console.warn("Error cargando:", file.name);
       }
     }
 
-    // 4. Ordenar por año descendente (más nuevas primero)
+    // Ordenar por año
     movies.sort((a, b) => (b.anio || 0) - (a.anio || 0));
 
-    // 5. Renderizar las tarjetas
+    // Renderizar
     container.innerHTML = "";
-
     movies.forEach(movie => {
-      const article = createMovieCard(movie);
-      container.appendChild(article);
+      const card = createMovieCard(movie);
+      container.appendChild(card);
     });
 
-    loading.style.display = "none";
+    // Mostrar contenido
+    status.style.display = "none";
+    container.classList.remove("hidden");
 
   } catch (error) {
-    console.error(error);
-    loading.innerHTML = `
-      <div class="text-center col-span-full py-10">
-        <p class="text-red-400">Error al cargar las películas.</p>
-        <button onclick="loadMoviesFromGitHub()" 
-                class="mt-4 px-4 py-2 bg-white/10 hover:bg-white/20 rounded-lg text-sm">
-          Reintentar
-        </button>
-      </div>
+    console.error("Error completo:", error);
+    statusText.innerHTML = `
+      <span class="text-red-400">Error al cargar las películas.</span><br>
+      <span class="text-sm text-white/60">${error.message}</span><br><br>
+      <button onclick="loadMovies()" 
+              class="px-4 py-2 bg-white/10 hover:bg-white/20 rounded-lg text-sm">
+        Reintentar
+      </button>
     `;
   }
 }
 
-// ==================== CREAR TARJETA DE PELÍCULA ====================
 function createMovieCard(movie) {
   const article = document.createElement("article");
-  article.className = "relative rounded-lg overflow-hidden cursor-pointer select-none movie-card bg-[#0A1F4D]";
+  article.className = "bg-[#0A1F4D] rounded-lg overflow-hidden cursor-pointer hover:scale-[1.02] transition-transform";
 
-  // Enlace futuro (por ahora usamos placeholder)
-  const link = `../../Peliculas/movie${movie.id}.html`;
+  const link = `../../Peliculas/movie${movie.id}.html`; // Cambia esta ruta cuando tengas la página dinámica
 
   article.innerHTML = `
     <a href="${link}">
-      <div class="relative">
-        <img 
-          src="${movie.poster}" 
-          alt="${movie.titulo}" 
-          class="w-full h-auto rounded-lg object-cover aspect-[2/3] transition-transform duration-300 hover:scale-105"
-          loading="lazy"
-          onerror="this.src='https://via.placeholder.com/300x450?text=Sin+Poster'"
-        />
-        
-        <!-- Badge -->
-        <div class="absolute top-2 right-2 bg-white/90 text-black text-xs font-semibold rounded-full px-2 py-0.5">
-          Movie
-        </div>
-      </div>
-
+      <img src="${movie.poster}" 
+           alt="${movie.titulo}" 
+           class="w-full aspect-[2/3] object-cover"
+           onerror="this.src='https://via.placeholder.com/300x450?text=Sin+Imagen'">
+      
       <div class="p-3">
-        <div class="font-semibold text-sm leading-tight line-clamp-2 mb-1">
-          ${movie.titulo}
-        </div>
-        <div class="text-xs text-white/70 flex items-center justify-between">
+        <div class="font-semibold text-sm line-clamp-2 mb-1">${movie.titulo}</div>
+        <div class="flex justify-between text-xs text-white/70">
           <span>${movie.anio || 'N/A'}</span>
-          ${movie.calificacion ? `<span class="flex items-center gap-1"><i class="fas fa-star text-yellow-400"></i> ${movie.calificacion}</span>` : ''}
+          ${movie.calificacion ? `<span>★ ${movie.calificacion}</span>` : ''}
         </div>
       </div>
     </a>
   `;
-
   return article;
 }
 
-// ==================== INICIAR ====================
+// Iniciar
 window.onload = () => {
-  loadMoviesFromGitHub();
+  loadMovies();
 };
 </script>
 
