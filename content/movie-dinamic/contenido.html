@@ -67,15 +67,6 @@
   </main>
 
 <script>
-// ==================== PROTECCIÓN ====================
-const destino = "https://lzplayhd.online/CatergoriasBase/movie/index.html";
-const accesoPermitido = sessionStorage.getItem("accesoLzPlay") === "true";
-
-if (!accesoPermitido) {
-  window.location.replace(destino);
-} else {
-  document.getElementById("proteccion-loader").style.display = "none";
-}
 
 // ==================== CONFIG GITHUB ====================
 const GITHUB_OWNER = "thexxx880";
