@@ -6,13 +6,16 @@
   "anio": "2003",
   "duracion": 143,
   "calificacion": 7.821,
-  "generos": "Aventura, Fantasía, Acción",
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Acción"
+  ],
+  "genero_principal": "Aventura",
   "sinopsis": "El aventurero capitán Jack Sparrow recorre las aguas caribeñas. Pero su andanzas terminan cuando su enemigo, el capitán Barbossa le roba su barco, la Perla Negra, y ataca la ciudad de Port Royal, secuestrando a Elizabeth Swann, hija del gobernador. Will Turner, el amigo de la infancia de Elizabeth, se une a Jack para rescatarla y recuperar la Perla Negra. Pero el prometido de Elizabeth, comodoro Norrington, les persigue a bordo del HMS Impávido. Además, Barbossa y su tripulación son víctimas de un conjuro por el que están condenados a vivir eternamente, y a transformarse cada noche en esqueletos vivientes, en fantasmas guerreros.",
   "poster": "https://image.tmdb.org/t/p/original/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
-  "logo": "https://image.tmdb.org/t/p/original/o0s0xqUcaWWv0Kh3QYmfxSQjmPD.png",
   "trailer": "https://www.youtube.com/watch?v=-9HT0l9HV4c",
-  "video": "https://1a-1791.com/video/s8/2/c/S/u/p/cSupp.aaa.mp4",
+  "video": "",
   "director": "Gore Verbinski",
   "guion": "Terry Rossio, Ted Elliott",
   "reparto_principal": [
@@ -26,16 +29,7 @@
   "idioma": "EN",
   "pais": "United States of America",
   "estudio": "Walt Disney Pictures • Jerry Bruckheimer Films",
-  "productoras": [
-    "Walt Disney Pictures",
-    "Jerry Bruckheimer Films"
-  ],
   "presupuesto": 140000000,
   "ingresos_taquilla": 655011224,
-  "titulos_alternos": {
-    "español_españa": "Pirates of the Caribbean: The Curse of the Black Pearl",
-    "español_mexico": "Pirates of the Caribbean: The Curse of the Black Pearl",
-    "ingles": "Pirates of the Caribbean: The Curse of the Black Pearl",
-    "original": "Pirates of the Caribbean: The Curse of the Black Pearl"
-  }
+  "titulo_es_mx": "Piratas del Caribe: La maldición del Perla Negra"
 }
