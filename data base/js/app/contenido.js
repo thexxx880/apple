@@ -67,18 +67,15 @@ function renderPage(data, vistasData, id) {
 
   document.getElementById('pageTitle').textContent = `${data.titulo} • LzPlay`;
 
-  // Hero Background
   const heroBg = document.getElementById('heroBg');
   heroBg.style.backgroundImage = `url('${data.backdrop || data.poster}')`;
   setTimeout(() => heroBg.classList.add('loaded'), 100);
 
-  // Hero Logo
   const heroLogo = document.getElementById('heroLogo');
   heroLogo.innerHTML = data.logo 
     ? `<img src="${data.logo}" alt="${data.titulo}">`
     : `<h1 style="font-size:3.8rem;line-height:1;color:white;font-family:'Bebas Neue',sans-serif;">${data.titulo}</h1>`;
 
-  // Meta
   document.getElementById('heroMeta').innerHTML = `
     <span class="match-score"><i class="fa-solid fa-thumbs-up"></i> ${Math.round(data.puntuacion * 10)}% para ti</span>
     <div class="meta-dot"></div>
@@ -90,14 +87,12 @@ function renderPage(data, vistasData, id) {
     <span class="meta-badge">${data.edad_minima || '13'}+</span>
   `;
 
-  // Sinopsis y géneros
   document.getElementById('sinopsis').textContent = data.sinopsis || "Sin sinopsis disponible.";
   const generosContainer = document.getElementById('generos');
   generosContainer.innerHTML = (data.generos || []).map(g => 
     `<span class="genre-chip">${g}</span>`
   ).join('');
 
-  // Stats
   const vistas = vistasData.vistas[id] || 0;
   document.getElementById('statsRow').innerHTML = `
     <div class="stat-card"><i class="fa-solid fa-calendar-days stat-icon"></i><div class="stat-value">${data.año}</div><div class="stat-label">Estreno</div></div>
@@ -106,7 +101,6 @@ function renderPage(data, vistasData, id) {
     <div class="stat-card"><i class="fa-solid fa-eye stat-icon"></i><div class="stat-value">${vistas.toLocaleString('es-ES')}</div><div class="stat-label">Vistas</div></div>
   `;
 
-  // Reparto
   const castContainer = document.getElementById('castScroll');
   castContainer.innerHTML = (data.reparto || []).map(actor => `
     <div class="cast-card" onclick="showCastInfo('${actor.nombre}')">
@@ -116,7 +110,6 @@ function renderPage(data, vistasData, id) {
     </div>
   `).join('');
 
-  // Crew
   const crewContainer = document.getElementById('crewGrid');
   const allCrew = [...(data.equipo_creativo || []), ...(data.crew || [])];
   crewContainer.innerHTML = allCrew.map(person => `
@@ -126,10 +119,8 @@ function renderPage(data, vistasData, id) {
     </div>
   `).join('');
 
-  // Cargar estado de "Mi Lista" desde Firebase
   loadFavoriteState(id);
 
-  // Ocultar loader
   const loader = document.getElementById('loader');
   if (loader) loader.style.display = 'none';
 
@@ -217,7 +208,7 @@ function toggleList(btn) {
   });
 }
 
-// ================== TRAILER ==================
+// ================== TRAILER Y MODAL ==================
 function playTrailer(data) {
   const trailerUrl = data.trailer || data.youtube || data.video_trailer;
   if (trailerUrl) {
@@ -227,7 +218,6 @@ function playTrailer(data) {
   }
 }
 
-// ================== MODAL REPRODUCTORES ==================
 function showPlayerModal(data) {
   const modal = document.getElementById('playerModal');
   window.currentMovieData = {
@@ -284,6 +274,18 @@ function showToast(msg, icon = 'fa-circle-check') {
   t.classList.add('show');
   clearTimeout(toastTimer);
   toastTimer = setTimeout(() => t.classList.remove('show'), 2800);
+}
+
+// ================== SHOW ERROR (FALTABA) ==================
+function showError(message) {
+  const loader = document.getElementById('loader');
+  if (loader) {
+    loader.innerHTML = `
+      <div class="error-screen">
+        <h2 style="font-size:2rem;margin-bottom:16px;">${message}</h2>
+        <p style="color:#ccc;">Verifica que el archivo exista en tu repositorio de GitHub.</p>
+      </div>`;
+  }
 }
 
 // ================== INICIO ==================
