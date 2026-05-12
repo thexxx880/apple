@@ -1,5 +1,5 @@
 // =============================================
-// CONTENIDO.JS - Página de detalle completa
+// CONTENIDO.JS - Página de detalle completa (CORREGIDO)
 // =============================================
 
 const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/";
@@ -15,7 +15,7 @@ function getContentId() {
     return id;
 }
 
-// ================== INCREMENTAR CONTADOR DE VISTAS ==================
+// ================== INCREMENTAR VISTAS ==================
 async function incrementViewCount(id) {
     const dataUrl = `${GITHUB_RAW_BASE}${id}/data.json`;
     try {
@@ -50,7 +50,6 @@ async function loadContent() {
         let vistasData = { vistas: {} };
         if (dataRes.ok) vistasData = await dataRes.json();
 
-        // Incrementar vistas
         const vistasActuales = await incrementViewCount(id);
         vistasData.vistas[id] = vistasActuales;
 
@@ -76,7 +75,7 @@ function renderPage(data, vistasData, id) {
         ? `<img src="${data.logo}" alt="${data.titulo}">`
         : `<h1 style="font-size:3.8rem;line-height:1;color:white;font-family:'Bebas Neue',sans-serif;">${data.titulo}</h1>`;
 
-    // Meta
+    // Meta information
     document.getElementById('heroMeta').innerHTML = `
         <span class="match-score"><i class="fa-solid fa-thumbs-up"></i> ${Math.round(data.puntuacion * 10)}% para ti</span>
         <div class="meta-dot"></div>
@@ -95,7 +94,7 @@ function renderPage(data, vistasData, id) {
         `<span class="genre-chip">${g}</span>`
     ).join('');
 
-    // Stats con vistas actualizadas
+    // Stats
     const vistas = vistasData.vistas[id] || 0;
     document.getElementById('statsRow').innerHTML = `
         <div class="stat-card"><i class="fa-solid fa-calendar-days stat-icon"></i><div class="stat-value">${data.año}</div><div class="stat-label">Estreno</div></div>
@@ -104,7 +103,7 @@ function renderPage(data, vistasData, id) {
         <div class="stat-card"><i class="fa-solid fa-eye stat-icon"></i><div class="stat-value">${vistas.toLocaleString('es-ES')}</div><div class="stat-label">Vistas</div></div>
     `;
 
-    // Reparto y Crew (mantenemos lo que tenías)
+    // Reparto y Crew
     const castContainer = document.getElementById('castScroll');
     castContainer.innerHTML = (data.reparto || []).map(actor => `
         <div class="cast-card" onclick="showCastInfo('${actor.nombre}')">
@@ -123,6 +122,13 @@ function renderPage(data, vistasData, id) {
         </div>
     `).join('');
 
+    // ================== ASIGNAR EVENTOS A LOS BOTONES ==================
+    const playBtn = document.getElementById('playBtn');
+    const trailerBtn = document.getElementById('trailerBtn');
+
+    if (playBtn) playBtn.onclick = () => showPlayerModal(data);
+    if (trailerBtn) trailerBtn.onclick = () => playTrailer(data);
+
     // Ocultar loader
     const loader = document.getElementById('loader');
     if (loader) loader.style.display = 'none';
@@ -140,7 +146,7 @@ function playTrailer(data) {
     }
 }
 
-// ================== MODAL DE REPRODUCTORES ==================
+// ================== MODAL REPRODUCTORES ==================
 function showPlayerModal(data) {
     const modal = document.getElementById('playerModal');
     window.currentMovieData = {
@@ -148,7 +154,7 @@ function showPlayerModal(data) {
         poster: data.backdrop || data.poster,
         title: encodeURIComponent(data.titulo || 'Película')
     };
-    modal.style.display = 'flex';
+    if (modal) modal.style.display = 'flex';
 }
 
 function closeModal() {
@@ -175,10 +181,7 @@ function openPlayer(option) {
     window.open(url, '_blank');
 }
 
-// ================== FUNCIONES INTERACTIVAS ==================
-let isPlaying = false;
-function togglePlay(btn) { /* no se usa más, el botón abre modal */ }
-
+// ================== OTRAS FUNCIONES ==================
 let liked = false;
 function toggleLike(btn) {
     liked = !liked;
@@ -217,10 +220,6 @@ function shareMovie() {
 
 function showCastInfo(name) {
     showToast(`Filmografía de ${name}`, 'fa-person');
-}
-
-function goBack() {
-    window.history.back();
 }
 
 // ================== TOAST ==================
