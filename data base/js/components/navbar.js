@@ -10,7 +10,7 @@ function renderNavbar(containerId = "main-header") {
     }
 
     container.innerHTML = `
-        <a href="../index.html" class="logo">
+        <a href="https://lzplayhd.online/apple/data%20base/" class="logo">
             LZPLAY
         </a>
        
