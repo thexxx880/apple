@@ -1,10 +1,10 @@
 // =============================================
-// CONTENIDO.JS - Página de detalle + Contador de vistas
+// CONTENIDO.JS - Página de detalle completa
 // =============================================
 
 const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/";
 
-// ================== OBTENER ID DESDE LA URL ==================
+// ================== OBTENER ID ==================
 function getContentId() {
     const params = new URLSearchParams(window.location.search);
     const id = params.get('id');
@@ -15,19 +15,22 @@ function getContentId() {
     return id;
 }
 
-// ================== MOSTRAR ERROR ==================
-function showError(message) {
-    const loader = document.getElementById('loader');
-    if (loader) {
-        loader.innerHTML = `
-            <div class="error-screen">
-                <h2 style="font-size:2rem;margin-bottom:16px;">${message}</h2>
-                <p style="color:#ccc;">Verifica que el archivo exista en tu repositorio de GitHub.</p>
-            </div>`;
+// ================== INCREMENTAR CONTADOR DE VISTAS ==================
+async function incrementViewCount(id) {
+    const dataUrl = `${GITHUB_RAW_BASE}${id}/data.json`;
+    try {
+        const res = await fetch(dataUrl);
+        let data = res.ok ? await res.json() : { vistas: {} };
+        if (!data.vistas) data.vistas = {};
+        data.vistas[id] = (data.vistas[id] || 0) + 1;
+        return data.vistas[id];
+    } catch (e) {
+        console.log("No se pudo actualizar vistas");
+        return 0;
     }
 }
 
-// ================== CARGAR DATOS + INCREMENTAR VISTAS ==================
+// ================== CARGAR CONTENIDO ==================
 async function loadContent() {
     const id = getContentId();
     if (!id) return;
@@ -45,22 +48,13 @@ async function loadContent() {
 
         const contenido = await contenidoRes.json();
         let vistasData = { vistas: {} };
+        if (dataRes.ok) vistasData = await dataRes.json();
 
-        if (dataRes.ok) {
-            vistasData = await dataRes.json();
-        }
+        // Incrementar vistas
+        const vistasActuales = await incrementViewCount(id);
+        vistasData.vistas[id] = vistasActuales;
 
-        // === INCREMENTAR CONTADOR DE VISTAS ===
-        if (!vistasData.vistas) vistasData.vistas = {};
-        vistasData.vistas[id] = (vistasData.vistas[id] || 0) + 1;
-
-        const nuevasVistas = vistasData.vistas[id];
-
-        console.log(`👁️ Vista registrada → ID ${id} | Total vistas: ${nuevasVistas}`);
-
-        // Renderizar la página con el nuevo contador
         renderPage(contenido, vistasData, id);
-
     } catch (err) {
         console.error(err);
         showError(`No se encontró el contenido<br><small>ID: ${id}</small>`);
@@ -69,7 +63,6 @@ async function loadContent() {
 
 // ================== RENDERIZAR PÁGINA ==================
 function renderPage(data, vistasData, id) {
-    // Título de la pestaña
     document.getElementById('pageTitle').textContent = `${data.titulo} • LzPlay`;
 
     // Hero Background
@@ -79,19 +72,11 @@ function renderPage(data, vistasData, id) {
 
     // Hero Logo
     const heroLogo = document.getElementById('heroLogo');
-    if (data.logo && data.logo !== "") {
-        heroLogo.innerHTML = `<img src="${data.logo}" alt="${data.titulo}">`;
-    } else {
-        heroLogo.innerHTML = `<h1 style="font-size:3.8rem;line-height:1;color:white;font-family:'Bebas Neue',sans-serif;">${data.titulo}</h1>`;
-    }
+    heroLogo.innerHTML = data.logo 
+        ? `<img src="${data.logo}" alt="${data.titulo}">`
+        : `<h1 style="font-size:3.8rem;line-height:1;color:white;font-family:'Bebas Neue',sans-serif;">${data.titulo}</h1>`;
 
-    // Eyebrow / Trending
-    const eyebrow = document.getElementById('heroEyebrow');
-    eyebrow.innerHTML = data.trending
-        ? `<span class="tag"><i class="fa-solid fa-fire-flame-curved"></i> Tendencia #1</span>`
-        : `<span class="tag outline">${data.generos ? data.generos[0] : 'Película'}</span>`;
-
-    // Meta information
+    // Meta
     document.getElementById('heroMeta').innerHTML = `
         <span class="match-score"><i class="fa-solid fa-thumbs-up"></i> ${Math.round(data.puntuacion * 10)}% para ti</span>
         <div class="meta-dot"></div>
@@ -103,62 +88,38 @@ function renderPage(data, vistasData, id) {
         <span class="meta-badge">${data.edad_minima || '13'}+</span>
     `;
 
-    // Sinopsis
+    // Sinopsis y Géneros
     document.getElementById('sinopsis').textContent = data.sinopsis || "Sin sinopsis disponible.";
-
-    // Géneros
     const generosContainer = document.getElementById('generos');
-    generosContainer.innerHTML = (data.generos || []).map(g =>
+    generosContainer.innerHTML = (data.generos || []).map(g => 
         `<span class="genre-chip">${g}</span>`
     ).join('');
 
-    // Stats Row (con vistas actualizadas)
+    // Stats con vistas actualizadas
     const vistas = vistasData.vistas[id] || 0;
     document.getElementById('statsRow').innerHTML = `
-        <div class="stat-card">
-            <i class="fa-solid fa-calendar-days stat-icon"></i>
-            <div class="stat-value">${data.año}</div>
-            <div class="stat-label">Estreno</div>
-        </div>
-        <div class="stat-card">
-            <i class="fa-solid fa-clock stat-icon"></i>
-            <div class="stat-value">${data.duracion}</div>
-            <div class="stat-label">Duración</div>
-        </div>
-        <div class="stat-card">
-            <i class="fa-solid fa-star stat-icon" style="color:var(--gold)"></i>
-            <div class="stat-value" style="color:var(--gold)">${data.puntuacion}</div>
-            <div class="stat-label">Puntuación</div>
-        </div>
-        <div class="stat-card">
-            <i class="fa-solid fa-eye stat-icon"></i>
-            <div class="stat-value">${vistas.toLocaleString('es-ES')}</div>
-            <div class="stat-label">Vistas</div>
-        </div>
+        <div class="stat-card"><i class="fa-solid fa-calendar-days stat-icon"></i><div class="stat-value">${data.año}</div><div class="stat-label">Estreno</div></div>
+        <div class="stat-card"><i class="fa-solid fa-clock stat-icon"></i><div class="stat-value">${data.duracion}</div><div class="stat-label">Duración</div></div>
+        <div class="stat-card"><i class="fa-solid fa-star stat-icon" style="color:var(--gold)"></i><div class="stat-value" style="color:var(--gold)">${data.puntuacion}</div><div class="stat-label">Puntuación</div></div>
+        <div class="stat-card"><i class="fa-solid fa-eye stat-icon"></i><div class="stat-value">${vistas.toLocaleString('es-ES')}</div><div class="stat-label">Vistas</div></div>
     `;
 
-    // Reparto
+    // Reparto y Crew (mantenemos lo que tenías)
     const castContainer = document.getElementById('castScroll');
     castContainer.innerHTML = (data.reparto || []).map(actor => `
         <div class="cast-card" onclick="showCastInfo('${actor.nombre}')">
-            <div class="cast-img-wrap">
-                <img src="${actor.foto || 'https://i.pravatar.cc/150?img=12'}" alt="${actor.nombre}">
-            </div>
+            <div class="cast-img-wrap"><img src="${actor.foto || 'https://i.pravatar.cc/150?img=12'}" alt="${actor.nombre}"></div>
             <div class="cast-name">${actor.nombre}</div>
             <div class="cast-role">${actor.personaje}</div>
         </div>
     `).join('');
 
-    // Equipo creativo
     const crewContainer = document.getElementById('crewGrid');
     const allCrew = [...(data.equipo_creativo || []), ...(data.crew || [])];
     crewContainer.innerHTML = allCrew.map(person => `
         <div class="crew-card">
             <div class="crew-icon"><i class="fa-solid fa-user-tie"></i></div>
-            <div>
-                <div class="crew-name">${person.nombre}</div>
-                <div class="crew-role">${person.rol}</div>
-            </div>
+            <div><div class="crew-name">${person.nombre}</div><div class="crew-role">${person.rol}</div></div>
         </div>
     `).join('');
 
@@ -166,27 +127,57 @@ function renderPage(data, vistasData, id) {
     const loader = document.getElementById('loader');
     if (loader) loader.style.display = 'none';
 
-    console.log(`%c✅ Contenido cargado | ID ${id} | Vistas totales: ${vistas}`, 'color:#46d369;font-weight:bold');
+    console.log(`%c✅ Contenido cargado | ID ${id} | Vistas: ${vistas}`, 'color:#46d369;font-weight:bold');
+}
+
+// ================== TRAILER ==================
+function playTrailer(data) {
+    const trailerUrl = data.trailer || data.youtube || data.video_trailer;
+    if (trailerUrl) {
+        window.open(trailerUrl, '_blank');
+    } else {
+        showToast('No hay trailer disponible para este contenido', 'fa-exclamation-triangle');
+    }
+}
+
+// ================== MODAL DE REPRODUCTORES ==================
+function showPlayerModal(data) {
+    const modal = document.getElementById('playerModal');
+    window.currentMovieData = {
+        video: data.video || data.url || data.enlace,
+        poster: data.backdrop || data.poster,
+        title: encodeURIComponent(data.titulo || 'Película')
+    };
+    modal.style.display = 'flex';
+}
+
+function closeModal() {
+    const modal = document.getElementById('playerModal');
+    if (modal) modal.style.display = 'none';
+}
+
+function openPlayer(option) {
+    const d = window.currentMovieData;
+    if (!d || !d.video) {
+        showToast('No hay enlace de video disponible', 'fa-exclamation-triangle');
+        closeModal();
+        return;
+    }
+
+    let url = '';
+    if (option === 1) {
+        url = `https://lzplayhd.online/lzpro/?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
+    } else if (option === 2) {
+        url = `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
+    }
+
+    closeModal();
+    window.open(url, '_blank');
 }
 
 // ================== FUNCIONES INTERACTIVAS ==================
 let isPlaying = false;
-function togglePlay(btn) {
-    isPlaying = !isPlaying;
-    const icon = document.getElementById('playIcon');
-    const text = document.getElementById('playText');
-    if (isPlaying) {
-        icon.className = 'fa-solid fa-pause';
-        text.textContent = 'Pausar';
-        btn.classList.add('playing');
-        showToast('Reproduciendo...', 'fa-play');
-    } else {
-        icon.className = 'fa-solid fa-play';
-        text.textContent = 'Reproducir';
-        btn.classList.remove('playing');
-        showToast('Pausado', 'fa-pause');
-    }
-}
+function togglePlay(btn) { /* no se usa más, el botón abre modal */ }
 
 let liked = false;
 function toggleLike(btn) {
@@ -196,12 +187,12 @@ function toggleLike(btn) {
         icon.className = 'fa-solid fa-thumbs-up';
         btn.classList.add('liked');
         btn.querySelector('span').textContent = 'Te gustó';
-        showToast('¡Te gusta!', 'fa-heart');
     } else {
         icon.className = 'fa-regular fa-thumbs-up';
         btn.classList.remove('liked');
         btn.querySelector('span').textContent = 'Me gusta';
     }
+    showToast(liked ? '¡Te gusta!' : 'Quitaste el me gusta', 'fa-heart');
 }
 
 let saved = false;
@@ -212,24 +203,16 @@ function toggleList(btn) {
         icon.className = 'fa-solid fa-bookmark';
         btn.classList.add('saved');
         btn.querySelector('span').textContent = 'Guardado';
-        showToast('Añadido a Mi lista', 'fa-bookmark');
     } else {
         icon.className = 'fa-regular fa-bookmark';
         btn.classList.remove('saved');
         btn.querySelector('span').textContent = 'Mi lista';
     }
+    showToast(saved ? 'Añadido a Mi lista' : 'Quitado de Mi lista', 'fa-bookmark');
 }
 
 function shareMovie() {
     showToast('Enlace copiado al portapapeles', 'fa-link');
-}
-
-function reportContent() {
-    showToast('Reporte enviado. ¡Gracias!', 'fa-flag');
-}
-
-function showInfo() {
-    showToast('Más información cargada', 'fa-circle-info');
 }
 
 function showCastInfo(name) {
@@ -240,17 +223,15 @@ function goBack() {
     window.history.back();
 }
 
-function navTo(section, el) {
-    document.querySelectorAll('.bottom-nav .nav-item').forEach(i => i.classList.remove('active'));
-    el.classList.add('active');
-    showToast(section === 'home' ? 'Inicio' : section, 'fa-circle-check');
-}
-
 // ================== TOAST ==================
 let toastTimer;
 function showToast(msg, icon = 'fa-circle-check') {
-    const t = document.getElementById('toast');
-    if (!t) return;
+    let t = document.getElementById('toast');
+    if (!t) {
+        t = document.createElement('div');
+        t.id = 'toast';
+        document.body.appendChild(t);
+    }
     t.innerHTML = `<i class="fa-solid ${icon}"></i> ${msg}`;
     t.classList.add('show');
     clearTimeout(toastTimer);
