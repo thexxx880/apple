@@ -1,47 +1,56 @@
 /* =============================================
    ESTILOS BASE - LzPlay / CINEHAX
 ============================================= */
-* {
+
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body {
+body{
     font-family: 'Poppins', sans-serif;
     background: #020817;
     color: white;
     overflow-x: hidden;
 }
 
-/* HEADER */
-header {
+
+/* =============================================
+   HEADER
+============================================= */
+
+header{
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 1000;
+
     padding: 18px 30px;
+
     display: flex;
     justify-content: space-between;
     align-items: center;
+
     background: linear-gradient(to bottom, rgba(0,0,0,.75), transparent);
+
     transition: background 0.3s ease;
 }
 
-.logo {
+.logo{
     font-size: 3rem;
     font-weight: 800;
     letter-spacing: 2px;
 }
 
-.nav-center {
+.nav-center{
     display: flex;
     align-items: center;
     gap: 35px;
 }
 
-.nav-link {
+.nav-link{
     color: white;
     text-decoration: none;
     font-size: 1rem;
@@ -49,30 +58,35 @@ header {
     transition: 0.3s;
 }
 
-.nav-link:hover {
+.nav-link:hover{
     opacity: 1;
     color: #4f7cff;
 }
 
-.search-box {
+.search-box{
     width: 300px;
     height: 45px;
+
     background: rgba(255,255,255,.12);
+
     border: 1px solid rgba(255,255,255,.1);
     border-radius: 30px;
+
     display: flex;
     align-items: center;
+
     padding: 0 18px;
     gap: 10px;
+
     backdrop-filter: blur(10px);
 }
 
-.search-box i {
+.search-box i{
     color: #cfcfcf;
     font-size: 1rem;
 }
 
-.search-box input {
+.search-box input{
     width: 100%;
     background: none;
     border: none;
@@ -81,73 +95,90 @@ header {
     font-size: .95rem;
 }
 
-.search-box input::placeholder {
+.search-box input::placeholder{
     color: #cfcfcf;
 }
 
-.icons {
+.icons{
     display: flex;
     align-items: center;
     gap: 18px;
 }
 
-.icon-btn {
+.icon-btn{
     font-size: 1.35rem;
     cursor: pointer;
     color: #ccc;
+
     transition: 0.3s;
+
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.icons .icon-btn {
+.icons .icon-btn{
     display: none;
 }
 
-.icon-btn:hover {
+.icon-btn:hover{
     color: #4f7cff;
 }
 
-.user-avatar {
+.user-avatar{
     width: 36px;
     height: 36px;
+
     border-radius: 50%;
     overflow: hidden;
+
     border: 2px solid #4f7cff;
+
     cursor: pointer;
     transition: 0.3s;
 }
 
-.user-avatar:hover {
+.user-avatar:hover{
     transform: scale(1.08);
     border-color: #2563eb;
 }
 
-.user-avatar img {
+.user-avatar img{
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
 
-/* HERO */
-.hero {
+
+/* =============================================
+   HERO
+============================================= */
+
+.hero{
     position: relative;
+
     width: 100%;
     height: 95vh;
+
     background-size: cover;
     background-position: center;
+
     display: flex;
     align-items: center;
+
     padding: 120px 70px 50px;
+
     transition: background-image 0.6s ease;
 }
 
-.hero::after {
+.hero::after{
     content: '';
+
     position: absolute;
     inset: 0;
+
     z-index: 1;
+
     background:
         linear-gradient(
             to bottom,
@@ -163,19 +194,19 @@ header {
         );
 }
 
-.hero-content {
+.hero-content{
     position: relative;
     z-index: 2;
     max-width: 680px;
 }
 
-.badges {
+.badges{
     display: flex;
     gap: 12px;
     margin-bottom: 20px;
 }
 
-.badge {
+.badge{
     background: #2563eb;
     padding: 8px 8px;
     border-radius: 20px;
@@ -183,248 +214,391 @@ header {
     font-weight: 600;
 }
 
-.badge.rating {
+.badge.rating{
     background: #0f172a;
 }
 
-.hero-logo {
+.hero-logo{
     max-width: 420px;
     width: 100%;
     height: auto;
+
     margin-bottom: 25px;
+
     filter: drop-shadow(0 10px 30px rgba(0,0,0,.6));
 }
 
-.hero p {
+.hero p{
     font-size: 1.1rem;
     line-height: 1.7;
     color: #d4d4d4;
+
     margin-bottom: 35px;
     max-width: 580px;
 }
 
-.play-btn {
+.play-btn{
     display: inline-flex;
     align-items: center;
     gap: 12px;
+
     padding: 18px 35px;
+
     border-radius: 50px;
+
     background: #2563eb;
     color: white;
+
     text-decoration: none;
     font-weight: 600;
+
     transition: 0.3s;
+
     box-shadow: 0 10px 30px rgba(37,99,235,.4);
 }
 
-.play-btn:hover {
+.play-btn:hover{
     transform: translateY(-3px);
 }
 
-.play-btn i {
+.play-btn i{
     font-size: 1.1rem;
 }
 
-/* SECCIONES */
-.section {
+
+/* =============================================
+   SECCIONES
+============================================= */
+
+.section{
     padding: 40px 70px;
 }
 
-.section-header {
+.section-header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+
     margin-bottom: 30px;
 }
 
-.section-title {
+.section-title{
     font-size: 2.5rem;
     font-weight: 700;
 }
 
-.view-all {
+.view-all{
     color: #4f7cff;
     cursor: pointer;
 }
 
-/* MOVIES GRID */
-.movies-grid {
+
+/* =============================================
+   MOVIES GRID
+============================================= */
+
+.movies-grid{
     display: flex;
     gap: 20px;
+
     overflow-x: auto;
+
     padding-bottom: 20px;
+
     scroll-behavior: smooth;
     scrollbar-width: none;
 }
 
-.movies-grid::-webkit-scrollbar {
+.movies-grid::-webkit-scrollbar{
     display: none;
 }
 
-.movie-card {
+.movie-card{
     position: relative;
+
     min-width: 200px;
     max-width: 200px;
     height: 300px;
+
     border-radius: 20px;
+
     overflow: hidden;
+
     cursor: pointer;
+
     transition: transform 0.3s ease;
+
     flex-shrink: 0;
+
     background: #111827;
 }
 
-.movie-card:hover {
+.movie-card:hover{
     transform: scale(1.05);
 }
 
-.movie-card img {
+.movie-card img{
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
 
-.movie-overlay {
+.movie-overlay{
     position: absolute;
     inset: 0;
+
     background: linear-gradient(to top, rgba(0,0,0,.9), transparent 55%);
+
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+
     padding: 16px;
 }
 
-.movie-title {
+.movie-title{
     font-size: 1rem;
     font-weight: 600;
     line-height: 1.3;
 }
 
-/* CÍRCULO DE CALIFICACIÓN */
-.movie-rating {
+
+/* =============================================
+   CÍRCULO DE CALIFICACIÓN
+============================================= */
+
+.movie-rating{
     position: absolute;
     top: 12px;
     left: 12px;
+
     width: 52px;
     height: 52px;
+
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.rating-circle {
+.rating-circle{
     width: 52px;
     height: 52px;
     transform: rotate(-90deg);
 }
 
-.rating-circle circle {
+.rating-circle circle{
     fill: none;
     stroke-width: 5;
 }
 
-.rating-circle .bg {
+.rating-circle .bg{
     stroke: rgba(0, 0, 0, 0.6);
 }
 
-.rating-circle .progress {
+.rating-circle .progress{
     stroke: #22c55e;
     stroke-linecap: round;
+
     transition: stroke-dashoffset 0.4s ease;
 }
 
-.rating-value {
+.rating-value{
     position: absolute;
+
     font-weight: 700;
     font-size: 0.95rem;
+
     color: white;
 }
 
-/* FLOATING MENU */
-.fab {
-    position: fixed;
-    right: 18px;
-    bottom: 25px;
-    width: 55px;
-    height: 55px;
-    background: #2563eb;
-    border-radius: 50%;
+
+/* =============================================
+   FLOATING MENU
+   SOLO MOBILE
+============================================= */
+
+.fab,
+.floating-menu{
     display: none;
-    align-items: center;
-    justify-content: center;
-    font-size: 1.6rem;
-    color: white;
-    box-shadow: 0 8px 25px rgba(37, 99, 235, 0.5);
-    cursor: pointer;
-    z-index: 999;
-    transition: all 0.3s ease;
 }
 
-.fab.hidden {
-    opacity: 0;
-    pointer-events: none;
-    transform: scale(0.6);
+
+/* =============================================
+   RESPONSIVE
+============================================= */
+
+@media (max-width: 1200px){
+
+    .hero-logo{
+        max-width: 380px;
+    }
+
+    .search-box{
+        width: 220px;
+    }
 }
 
-.floating-menu {
-    position: fixed;
-    right: 3px;
-    bottom: 0px;
-    width: 55px;
-    background: #0b1f4b;
-    border: 1px solid rgba(255, 255, 255, .1);
-    border-radius: 40px;
-    padding: 8px 0;
-    flex-direction: column;
-    align-items: center;
-    gap: 25px;
-    z-index: 928;
-    backdrop-filter: blur(9px);
-    display: none;
-    opacity: 0;
-    transform: translateY(20px) scale(0.8);
-    transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+
+@media (max-width: 900px){
+
+    header{
+        padding: 18px;
+    }
+
+    .nav-center{
+        display: none;
+    }
+
+    .hero{
+        padding: 110px 25px 50px;
+        height: 85vh;
+    }
+
+    .section{
+        padding: 40px 5px;
+    }
+
+    .section-title{
+        font-size: 2rem;
+    }
+
+    .icons .icon-btn{
+        display: flex;
+    }
+
+
+    /* =============================================
+       FLOATING MOBILE
+    ============================================= */
+
+    .fab{
+        position: fixed;
+
+        right: 18px;
+        bottom: 25px;
+
+        width: 58px;
+        height: 58px;
+
+        background: #2563eb;
+
+        border-radius: 50%;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        font-size: 1.5rem;
+        color: white;
+
+        cursor: pointer;
+
+        z-index: 99999;
+
+        box-shadow: 0 8px 25px rgba(37, 99, 235, 0.5);
+
+        transition: all .3s ease;
+    }
+
+    .fab.hidden{
+        opacity: 0;
+        pointer-events: none;
+        transform: scale(.6);
+    }
+
+    .floating-menu{
+        position: fixed;
+
+        right: 18px;
+        bottom: 95px;
+
+        width: 60px;
+
+        background: rgba(11, 31, 75, .92);
+
+        border: 1px solid rgba(255,255,255,.08);
+
+        border-radius: 35px;
+
+        padding: 12px 0;
+
+        display: none;
+        flex-direction: column;
+        align-items: center;
+
+        gap: 18px;
+
+        z-index: 99999;
+
+        backdrop-filter: blur(10px);
+
+        opacity: 0;
+
+        transform: translateY(20px) scale(.85);
+
+        transition: all .35s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .floating-menu.show{
+        display: flex;
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+
+    .float-icon{
+        width: 42px;
+        height: 42px;
+
+        border-radius: 50%;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        font-size: 1.2rem;
+
+        color: #d1d5db;
+
+        cursor: pointer;
+
+        transition: all .25s ease;
+    }
+
+    .float-icon:hover{
+        color: #4f7cff;
+        background: rgba(255,255,255,.08);
+        transform: scale(1.08);
+    }
 }
 
-.floating-menu.show {
-    display: flex;
-    opacity: 1;
-    transform: translateY(0) scale(1);
-}
 
-.float-icon {
-    font-size: 1.35rem;
-    color: #ccc;
-    cursor: pointer;
-    transition: 0.3s;
-    padding: 6px;
-}
+@media (max-width: 600px){
 
-.float-icon:hover {
-    color: #4f7cff;
-    transform: scale(1.15);
-}
+    .logo{
+        font-size: 1.3rem;
+    }
 
-/* RESPONSIVE */
-@media (max-width: 1200px) {
-    .hero-logo { max-width: 380px; }
-    .search-box { width: 220px; }
-}
+    .hero{
+        height: 70vh;
+        padding: 260px 14px 25px;
+    }
 
-@media (max-width: 900px) {
-    header { padding: 18px; }
-    .nav-center { display: none; }
-    .hero { padding: 110px 25px 50px; height: 85vh; }
-    .section { padding: 40px 5px; }
-    .section-title { font-size: 2rem; }
-    .icons .icon-btn, .fab { display: flex; }
-}
+    .hero-logo{
+        max-width: 200px;
+        margin-bottom: 8px;
+    }
 
-@media (max-width: 600px) {
-    .logo { font-size: 1.3rem; }
-    .hero { height: 70vh; padding: 260px 14px 25px; }
-    .hero-logo { max-width: 200px; margin-bottom: 8px; }
-    .hero p { font-size: 0.65rem; line-height: 1.6; }
-    .play-btn { padding: 15px 25px; }
-    .movie-card { min-width: 160px; height: 240px; }
+    .hero p{
+        font-size: 0.65rem;
+        line-height: 1.6;
+    }
+
+    .play-btn{
+        padding: 15px 25px;
+    }
+
+    .movie-card{
+        min-width: 160px;
+        height: 240px;
+    }
 }
