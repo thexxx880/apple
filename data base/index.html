@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="css/home.css">
 </head>
 <body>
-    <!-- HEADER -->
+    <!-- HEADER - Renderizado por componente navbar.js -->
     <header id="main-header"></header>
 
     <!-- HERO -->
@@ -38,27 +38,17 @@
             <h2 class="section-title">Películas más vistas</h2>
             <span class="view-all">Ver todo</span>
         </div>
-        <div class="movies-grid" id="movies-grid"></div>
+        <div class="movies-grid" id="movies-grid">
+            <!-- Se carga dinámicamente con JS -->
+        </div>
     </section>
 
-    <!-- FAB -->
-    <div class="fab" id="fab">
-        <i class="fas fa-plus"></i>
-    </div>
-
-    <!-- FLOATING MENU -->
-    <div class="floating-menu" id="floating-menu">
-        <div class="float-icon"><i class="fas fa-home"></i></div>
-        <div class="float-icon"><i class="fas fa-fire"></i></div>
-        <div class="float-icon"><i class="fas fa-film"></i></div>
-        <div class="float-icon"><i class="fas fa-tv"></i></div>
-    </div>
-
-    <!-- SCRIPTS (orden importante) -->
+    <!-- Scripts -->
     <script src="js/core/utils.js"></script>
     <script src="js/core/api.js"></script>
     <script src="js/app/home.js"></script>
     <script src="js/components/navbar.js"></script>
+    <script src="js/components/floating-menu.js"></script>
     <script src="js/main.js"></script>
 </body>
 </html>
