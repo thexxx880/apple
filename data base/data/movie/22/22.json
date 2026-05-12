@@ -1,0 +1,133 @@
+{
+  "id_tmdb": 22,
+  "poster": "https://image.tmdb.org/t/p/w500/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bgH4fgvP0nyw1BprzXmguT3an7v.png",
+  "titulo": "Piratas del Caribe: La maldición de la Perla Negra",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.8,
+  "año": "2003",
+  "duracion": "2h 23min",
+  "edad_minima": 13,
+  "sinopsis": "El aventurero capitán Jack Sparrow recorre las aguas caribeñas. Pero su andanzas terminan cuando su enemigo, el capitán Barbossa le roba su barco, la Perla Negra, y ataca la ciudad de Port Royal, secuestrando a Elizabeth Swann, hija del gobernador. Will Turner, el amigo de la infancia de Elizabeth, se une a Jack para rescatarla y recuperar la Perla Negra. Pero el prometido de Elizabeth, comodoro Norrington, les persigue a bordo del HMS Impávido. Además, Barbossa y su tripulación son víctimas de un conjuro por el que están condenados a vivir eternamente, y a transformarse cada noche en esqueletos vivientes, en fantasmas guerreros.",
+  "fecha_estreno": "2003-07-09",
+  "titulo_original": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Johnny Depp",
+      "personaje": "Jack Sparrow",
+      "foto": "https://image.tmdb.org/t/p/w500/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+    },
+    {
+      "nombre": "Geoffrey Rush",
+      "personaje": "Barbossa",
+      "foto": "https://image.tmdb.org/t/p/w500/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+    },
+    {
+      "nombre": "Orlando Bloom",
+      "personaje": "Will Turner",
+      "foto": "https://image.tmdb.org/t/p/w500/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+    },
+    {
+      "nombre": "Keira Knightley",
+      "personaje": "Elizabeth Swann",
+      "foto": "https://image.tmdb.org/t/p/w500/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg"
+    },
+    {
+      "nombre": "Jack Davenport",
+      "personaje": "Norrington",
+      "foto": "https://image.tmdb.org/t/p/w500/shGH0YWJBfiJznidS0f2ZfN056c.jpg"
+    },
+    {
+      "nombre": "Jonathan Pryce",
+      "personaje": "Governor Weatherby Swann",
+      "foto": "https://image.tmdb.org/t/p/w500/zwSv5uXzPTtmitFe39UdqnVwmdL.jpg"
+    },
+    {
+      "nombre": "Lee Arenberg",
+      "personaje": "Pintel",
+      "foto": "https://image.tmdb.org/t/p/w500/sjv8tdXzLwC8lZi6Ou6i6z5RbrW.jpg"
+    },
+    {
+      "nombre": "Mackenzie Crook",
+      "personaje": "Ragetti",
+      "foto": "https://image.tmdb.org/t/p/w500/lN96i9ez4FUrQgpYdLMYr0l3Ggy.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jerry Bruckheimer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gore Verbinski",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Terry Rossio",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ted Elliott",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dariusz Wolski",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Craig Wood",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Stephen E. Rivkin",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Arthur Schmidt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Brian Morris",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ve Neill",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Klaus Badelt",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ronna Kress",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Penny Rose",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Allan Graf",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Gore Verbinski",
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "",
+  "trailer": "https://www.youtube.com/watch?v=5Itr2jHuJaw"
+}
