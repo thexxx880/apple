@@ -15,10 +15,10 @@ function renderNavbar(containerId = "main-header") {
         </a>
        
         <div class="nav-center">
-            <a href="../../index.html" class="nav-link">Inicio</a>
+            <a href="../index.html" class="nav-link">Inicio</a>
             <a href="#" class="nav-link">Tendencias</a>
-            <a href="../../data/movie.html" class="nav-link">Películas</a>
-            <a href="../../data/serie.html" class="nav-link">Series</a>
+            <a href="../data/movie.html" class="nav-link">Películas</a>
+            <a href="../data/serie.html" class="nav-link">Series</a>
             <div class="search-box">
                 <i class="fas fa-search"></i>
                 <input type="text" placeholder="Buscar películas o series">
