@@ -1,5 +1,5 @@
 // =============================================
-// CONTENIDO.JS - Mi Lista con datos completos + Icono Dorado
+// CONTENIDO.JS - Versión FINAL y CORREGIDA
 // =============================================
 
 const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/";
@@ -61,23 +61,26 @@ async function loadContent() {
 
 // ================== RENDERIZAR PÁGINA ==================
 let currentMovieId = null;
-let currentMovieData = null;   // Guardamos todos los datos para Mi Lista
+let currentMovieData = null;
 
 function renderPage(data, vistasData, id) {
   currentMovieId = id;
-  currentMovieData = data;     // Guardamos los datos completos
+  currentMovieData = data;
 
   document.getElementById('pageTitle').textContent = `${data.titulo} • LzPlay`;
 
+  // Hero Background
   const heroBg = document.getElementById('heroBg');
   heroBg.style.backgroundImage = `url('${data.backdrop || data.poster}')`;
   setTimeout(() => heroBg.classList.add('loaded'), 100);
 
+  // Hero Logo
   const heroLogo = document.getElementById('heroLogo');
   heroLogo.innerHTML = data.logo 
     ? `<img src="${data.logo}" alt="${data.titulo}">`
     : `<h1 style="font-size:3.8rem;line-height:1;color:white;font-family:'Bebas Neue',sans-serif;">${data.titulo}</h1>`;
 
+  // Meta
   document.getElementById('heroMeta').innerHTML = `
     <span class="match-score"><i class="fa-solid fa-thumbs-up"></i> ${Math.round(data.puntuacion * 10)}% para ti</span>
     <div class="meta-dot"></div>
@@ -89,12 +92,14 @@ function renderPage(data, vistasData, id) {
     <span class="meta-badge">${data.edad_minima || '13'}+</span>
   `;
 
+  // Sinopsis y géneros
   document.getElementById('sinopsis').textContent = data.sinopsis || "Sin sinopsis disponible.";
   const generosContainer = document.getElementById('generos');
   generosContainer.innerHTML = (data.generos || []).map(g => 
     `<span class="genre-chip">${g}</span>`
   ).join('');
 
+  // Stats
   const vistas = vistasData.vistas[id] || 0;
   document.getElementById('statsRow').innerHTML = `
     <div class="stat-card"><i class="fa-solid fa-calendar-days stat-icon"></i><div class="stat-value">${data.año}</div><div class="stat-label">Estreno</div></div>
@@ -103,6 +108,7 @@ function renderPage(data, vistasData, id) {
     <div class="stat-card"><i class="fa-solid fa-eye stat-icon"></i><div class="stat-value">${vistas.toLocaleString('es-ES')}</div><div class="stat-label">Vistas</div></div>
   `;
 
+  // Reparto y Crew
   const castContainer = document.getElementById('castScroll');
   castContainer.innerHTML = (data.reparto || []).map(actor => `
     <div class="cast-card" onclick="showCastInfo('${actor.nombre}')">
@@ -121,21 +127,23 @@ function renderPage(data, vistasData, id) {
     </div>
   `).join('');
 
-  // Asignar eventos
+  // ================== ASIGNAR EVENTOS ==================
   const playBtn = document.getElementById('playBtn');
   const trailerBtn = document.getElementById('trailerBtn');
+
   if (playBtn) playBtn.onclick = () => showPlayerModal(data);
   if (trailerBtn) trailerBtn.onclick = () => playTrailer(data);
 
   loadFavoriteState(id);
 
+  // Ocultar loader
   const loader = document.getElementById('loader');
   if (loader) loader.style.display = 'none';
 
   console.log(`%c✅ Contenido cargado | ID ${id}`, 'color:#46d369;font-weight:bold');
 }
 
-// ================== MI LISTA CON DATOS COMPLETOS ==================
+// ================== MI LISTA CON FIREBASE ==================
 async function toggleFavorite(movieId, movieData) {
   const auth = window.firebaseAuth;
   const db = window.firebaseDb;
@@ -153,12 +161,9 @@ async function toggleFavorite(movieId, movieData) {
     let favorites = docSnap.exists() && docSnap.data().favorites ? { ...docSnap.data().favorites } : {};
 
     if (favorites[movieId]) {
-      // Ya existe → eliminar
       delete favorites[movieId];
     } else {
-      // No existe → agregar con todos los datos
       const currentUrl = window.location.href;
-
       favorites[movieId] = {
         id: movieId,
         url: currentUrl,
@@ -198,12 +203,12 @@ async function loadFavoriteState(movieId) {
     if (isSaved) {
       icon.className = 'fa-solid fa-bookmark';
       btn.classList.add('saved');
-      btn.style.color = '#f5c518';           // Dorado
+      btn.style.color = '#f5c518';
       btn.querySelector('span').textContent = 'Guardado';
     } else {
       icon.className = 'fa-regular fa-bookmark';
       btn.classList.remove('saved');
-      btn.style.color = '';                  // Color original
+      btn.style.color = '';
       btn.querySelector('span').textContent = 'Mi lista';
     }
   } catch (e) {
@@ -213,7 +218,6 @@ async function loadFavoriteState(movieId) {
 
 function toggleList(btn) {
   if (!currentMovieId || !currentMovieData) return;
-
   toggleFavorite(currentMovieId, currentMovieData).then(isSaved => {
     const icon = btn.querySelector('i');
     if (isSaved) {
@@ -232,7 +236,7 @@ function toggleList(btn) {
   });
 }
 
-// ================== TRAILER Y MODAL ==================
+// ================== TRAILER ==================
 function playTrailer(data) {
   const trailerUrl = data.trailer || data.youtube || data.video_trailer;
   if (trailerUrl) {
@@ -242,6 +246,7 @@ function playTrailer(data) {
   }
 }
 
+// ================== MODAL REPRODUCTORES ==================
 function showPlayerModal(data) {
   const modal = document.getElementById('playerModal');
   window.currentMovieData = {
@@ -267,7 +272,7 @@ function openPlayer(option) {
 
   let url = '';
   if (option === 1) {
-    url = `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
+    url = `https://lzplayhd.online/lzpro/?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
   } else if (option === 2) {
     url = `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
   }
