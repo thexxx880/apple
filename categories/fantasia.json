@@ -2,14 +2,6 @@
   "name": "Fantasía",
   "movies": [
     {
-      "id": 58,
-      "titulo": "Piratas del Caribe: El cofre del hombre muerto",
-      "titulo_es_mx": "Piratas del Caribe - El cofre de la muerte",
-      "poster": "https://image.tmdb.org/t/p/original/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
-      "anio": "2006",
-      "calificacion": 7.375
-    },
-    {
       "id": 14836,
       "titulo": "Los mundos de Coraline",
       "titulo_es_mx": "Coraline Y La Puerta Secreta",
@@ -24,6 +16,14 @@
       "poster": "https://image.tmdb.org/t/p/original/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg",
       "anio": "2003",
       "calificacion": 7.8
+    },
+    {
+      "id": 58,
+      "titulo": "Piratas del Caribe: El cofre del hombre muerto",
+      "titulo_es_mx": "Piratas del Caribe - El cofre de la muerte",
+      "poster": "https://image.tmdb.org/t/p/original/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
+      "anio": "2006",
+      "calificacion": 7.376
     }
   ]
 }
