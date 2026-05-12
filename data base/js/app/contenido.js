@@ -1,5 +1,5 @@
 // =============================================
-// CONTENIDO.JS - Página de detalle de película/serie
+// CONTENIDO.JS - Página de detalle + Contador de vistas
 // =============================================
 
 const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/";
@@ -27,7 +27,7 @@ function showError(message) {
     }
 }
 
-// ================== CARGAR DATOS ==================
+// ================== CARGAR DATOS + INCREMENTAR VISTAS ==================
 async function loadContent() {
     const id = getContentId();
     if (!id) return;
@@ -45,9 +45,22 @@ async function loadContent() {
 
         const contenido = await contenidoRes.json();
         let vistasData = { vistas: {} };
-        if (dataRes.ok) vistasData = await dataRes.json();
 
+        if (dataRes.ok) {
+            vistasData = await dataRes.json();
+        }
+
+        // === INCREMENTAR CONTADOR DE VISTAS ===
+        if (!vistasData.vistas) vistasData.vistas = {};
+        vistasData.vistas[id] = (vistasData.vistas[id] || 0) + 1;
+
+        const nuevasVistas = vistasData.vistas[id];
+
+        console.log(`👁️ Vista registrada → ID ${id} | Total vistas: ${nuevasVistas}`);
+
+        // Renderizar la página con el nuevo contador
         renderPage(contenido, vistasData, id);
+
     } catch (err) {
         console.error(err);
         showError(`No se encontró el contenido<br><small>ID: ${id}</small>`);
@@ -74,7 +87,7 @@ function renderPage(data, vistasData, id) {
 
     // Eyebrow / Trending
     const eyebrow = document.getElementById('heroEyebrow');
-    eyebrow.innerHTML = data.trending 
+    eyebrow.innerHTML = data.trending
         ? `<span class="tag"><i class="fa-solid fa-fire-flame-curved"></i> Tendencia #1</span>`
         : `<span class="tag outline">${data.generos ? data.generos[0] : 'Película'}</span>`;
 
@@ -95,11 +108,11 @@ function renderPage(data, vistasData, id) {
 
     // Géneros
     const generosContainer = document.getElementById('generos');
-    generosContainer.innerHTML = (data.generos || []).map(g => 
+    generosContainer.innerHTML = (data.generos || []).map(g =>
         `<span class="genre-chip">${g}</span>`
     ).join('');
 
-    // Stats Row
+    // Stats Row (con vistas actualizadas)
     const vistas = vistasData.vistas[id] || 0;
     document.getElementById('statsRow').innerHTML = `
         <div class="stat-card">
@@ -153,7 +166,7 @@ function renderPage(data, vistasData, id) {
     const loader = document.getElementById('loader');
     if (loader) loader.style.display = 'none';
 
-    console.log('%c✅ Contenido cargado correctamente', 'color:#46d369;font-weight:bold');
+    console.log(`%c✅ Contenido cargado | ID ${id} | Vistas totales: ${vistas}`, 'color:#46d369;font-weight:bold');
 }
 
 // ================== FUNCIONES INTERACTIVAS ==================
