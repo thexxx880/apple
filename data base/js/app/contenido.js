@@ -174,7 +174,7 @@ function openPlayer(option) {
 
     let url = '';
     if (option === 1) {
-        url = `https://lzplayhd.online/lzpro/?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
+        url = `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
     } else if (option === 2) {
         url = `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
     }
