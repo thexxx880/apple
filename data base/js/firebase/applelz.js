@@ -1,8 +1,4 @@
-// js/firebase/applelz.js
-import { initializeApp } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-app.js";
-import { getAuth, signInAnonymously } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-auth.js";
-import { getFirestore } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-firestore.js";
-
+// js/firebase/applelz.js - Versión COMPAT (más fácil)
 const firebaseConfig = {
   apiKey: "AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
   authDomain: "applelz-b5883.firebaseapp.com",
@@ -13,15 +9,17 @@ const firebaseConfig = {
   measurementId: "G-J085DHR8M3"
 };
 
-const app = initializeApp(firebaseConfig);
-const auth = getAuth(app);
-const db = getFirestore(app);
+// Inicializar Firebase (compat)
+firebase.initializeApp(firebaseConfig);
 
-// Exponer globalmente para que cualquier archivo JS pueda usarlo
+const auth = firebase.auth();
+const db = firebase.firestore();
+
+// Exponer globalmente
 window.firebaseAuth = auth;
 window.firebaseDb = db;
 
-// Iniciar sesión anónima automáticamente
-signInAnonymously(auth)
+// Iniciar sesión anónima
+auth.signInAnonymously()
   .then(() => console.log("✅ Firebase: Autenticado anónimamente"))
-  .catch(err => console.error("Error de autenticación Firebase:", err));
+  .catch(err => console.error("Error de autenticación:", err));
