@@ -94,7 +94,7 @@ function renderPage(data, vistasData, id) {
         `<span class="genre-chip">${g}</span>`
     ).join('');
 
-    // Stats
+    // Stats con vistas
     const vistas = vistasData.vistas[id] || 0;
     document.getElementById('statsRow').innerHTML = `
         <div class="stat-card"><i class="fa-solid fa-calendar-days stat-icon"></i><div class="stat-value">${data.año}</div><div class="stat-label">Estreno</div></div>
@@ -122,7 +122,7 @@ function renderPage(data, vistasData, id) {
         </div>
     `).join('');
 
-    // ================== ASIGNAR EVENTOS A LOS BOTONES ==================
+    // ================== ASIGNAR EVENTOS ==================
     const playBtn = document.getElementById('playBtn');
     const trailerBtn = document.getElementById('trailerBtn');
 
@@ -146,14 +146,16 @@ function playTrailer(data) {
     }
 }
 
-// ================== MODAL REPRODUCTORES ==================
+// ================== MODAL DE REPRODUCTORES ==================
 function showPlayerModal(data) {
     const modal = document.getElementById('playerModal');
+    
     window.currentMovieData = {
-        video: data.video || data.url || data.enlace,
+        video: data.enlace_video || data.video || data.url || data.enlace,   // ← CORREGIDO
         poster: data.backdrop || data.poster,
         title: encodeURIComponent(data.titulo || 'Película')
     };
+
     if (modal) modal.style.display = 'flex';
 }
 
