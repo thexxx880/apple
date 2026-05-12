@@ -1,4 +1,4 @@
-// js/firebase/applelz.js - Versión COMPAT (más fácil)
+// js/firebase/applelz.js
 const firebaseConfig = {
   apiKey: "AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
   authDomain: "applelz-b5883.firebaseapp.com",
@@ -9,7 +9,7 @@ const firebaseConfig = {
   measurementId: "G-J085DHR8M3"
 };
 
-// Inicializar Firebase (compat)
+// Inicializar Firebase
 firebase.initializeApp(firebaseConfig);
 
 const auth = firebase.auth();
