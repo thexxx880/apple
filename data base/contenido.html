@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="css/contenido.css">
 </head>
 <body>
-    <!-- HEADER (reutilizamos tu navbar.js) -->
+    <!-- HEADER - Tu navbar modular -->
     <header id="main-header"></header>
 
     <!-- LOADER -->
@@ -24,21 +24,13 @@
 
     <!-- HERO -->
     <section class="hero" id="hero">
-        <div class="mobile-topbar">
-            <button class="back-btn" onclick="goBack()" aria-label="Volver">
-                <i class="fa-solid fa-chevron-left"></i>
-            </button>
-            <div class="topbar-logo">NETFLIX</div>
-            <button class="topbar-more" aria-label="Más opciones">
-                <i class="fa-solid fa-ellipsis-vertical"></i>
-            </button>
-        </div>
         <div class="hero-bg" id="heroBg"></div>
         <div class="hero-overlay"></div>
         <div class="hero-content">
             <div class="hero-eyebrow" id="heroEyebrow"></div>
             <div class="hero-logo" id="heroLogo"></div>
             <div class="hero-meta" id="heroMeta"></div>
+            
             <div class="hero-cta">
                 <button class="btn-play" id="playBtn" onclick="togglePlay(this)">
                     <i class="fa-solid fa-play" id="playIcon"></i>
@@ -48,6 +40,7 @@
                     <i class="fa-solid fa-circle-info"></i> Más info
                 </button>
             </div>
+            
             <div class="hero-actions">
                 <button class="action-pill" id="likeBtn" onclick="toggleLike(this)">
                     <i class="fa-regular fa-thumbs-up"></i><span>Me gusta</span>
@@ -68,6 +61,7 @@
             <p id="sinopsis">Cargando sinopsis...</p>
             <div class="genres" id="generos"></div>
         </div>
+        
         <div class="stats-row" id="statsRow"></div>
 
         <div class="section-header">
