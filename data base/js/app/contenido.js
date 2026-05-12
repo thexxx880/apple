@@ -1,5 +1,5 @@
 // =============================================
-// CONTENIDO.JS - Página de detalle completa + Mi Lista con Firebase
+// CONTENIDO.JS - Mi Lista con datos completos + Icono Dorado
 // =============================================
 
 const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/";
@@ -61,9 +61,11 @@ async function loadContent() {
 
 // ================== RENDERIZAR PÁGINA ==================
 let currentMovieId = null;
+let currentMovieData = null;   // Guardamos todos los datos para Mi Lista
 
 function renderPage(data, vistasData, id) {
   currentMovieId = id;
+  currentMovieData = data;     // Guardamos los datos completos
 
   document.getElementById('pageTitle').textContent = `${data.titulo} • LzPlay`;
 
@@ -119,10 +121,9 @@ function renderPage(data, vistasData, id) {
     </div>
   `).join('');
 
-  // ================== ASIGNAR EVENTOS A LOS BOTONES ==================
+  // Asignar eventos
   const playBtn = document.getElementById('playBtn');
   const trailerBtn = document.getElementById('trailerBtn');
-
   if (playBtn) playBtn.onclick = () => showPlayerModal(data);
   if (trailerBtn) trailerBtn.onclick = () => playTrailer(data);
 
@@ -134,8 +135,8 @@ function renderPage(data, vistasData, id) {
   console.log(`%c✅ Contenido cargado | ID ${id}`, 'color:#46d369;font-weight:bold');
 }
 
-// ================== MI LISTA CON FIREBASE ==================
-async function toggleFavorite(movieId) {
+// ================== MI LISTA CON DATOS COMPLETOS ==================
+async function toggleFavorite(movieId, movieData) {
   const auth = window.firebaseAuth;
   const db = window.firebaseDb;
   const user = auth.currentUser;
@@ -149,17 +150,29 @@ async function toggleFavorite(movieId) {
 
   try {
     const docSnap = await getDoc(userRef);
-    let favorites = docSnap.exists() && docSnap.data().favorites ? [...docSnap.data().favorites] : [];
+    let favorites = docSnap.exists() && docSnap.data().favorites ? { ...docSnap.data().favorites } : {};
 
-    const index = favorites.indexOf(movieId);
-    if (index > -1) {
-      favorites.splice(index, 1);
+    if (favorites[movieId]) {
+      // Ya existe → eliminar
+      delete favorites[movieId];
     } else {
-      favorites.push(movieId);
+      // No existe → agregar con todos los datos
+      const currentUrl = window.location.href;
+
+      favorites[movieId] = {
+        id: movieId,
+        url: currentUrl,
+        titulo: document.getElementById('pageTitle').textContent.replace(' • LzPlay', ''),
+        año: movieData.año,
+        generos: movieData.generos || [],
+        backdrop: movieData.backdrop || movieData.poster,
+        poster: movieData.poster,
+        logo: movieData.logo || ''
+      };
     }
 
     await setDoc(userRef, { favorites }, { merge: true });
-    return favorites.includes(movieId);
+    return !!favorites[movieId];
   } catch (error) {
     console.error('Error en Mi lista:', error);
     showToast('Error al guardar', 'fa-exclamation-triangle');
@@ -178,17 +191,19 @@ async function loadFavoriteState(movieId) {
 
   try {
     const docSnap = await getDoc(doc(db, 'users', user.uid));
-    const favorites = docSnap.exists() && docSnap.data().favorites ? docSnap.data().favorites : [];
-    const isSaved = favorites.includes(movieId);
+    const favorites = docSnap.exists() && docSnap.data().favorites ? docSnap.data().favorites : {};
+    const isSaved = !!favorites[movieId];
 
     const icon = btn.querySelector('i');
     if (isSaved) {
       icon.className = 'fa-solid fa-bookmark';
       btn.classList.add('saved');
+      btn.style.color = '#f5c518';           // Dorado
       btn.querySelector('span').textContent = 'Guardado';
     } else {
       icon.className = 'fa-regular fa-bookmark';
       btn.classList.remove('saved');
+      btn.style.color = '';                  // Color original
       btn.querySelector('span').textContent = 'Mi lista';
     }
   } catch (e) {
@@ -197,25 +212,27 @@ async function loadFavoriteState(movieId) {
 }
 
 function toggleList(btn) {
-  if (!currentMovieId) return;
+  if (!currentMovieId || !currentMovieData) return;
 
-  toggleFavorite(currentMovieId).then(isSaved => {
+  toggleFavorite(currentMovieId, currentMovieData).then(isSaved => {
     const icon = btn.querySelector('i');
     if (isSaved) {
       icon.className = 'fa-solid fa-bookmark';
       btn.classList.add('saved');
+      btn.style.color = '#f5c518';
       btn.querySelector('span').textContent = 'Guardado';
       showToast('Añadido a Mi lista ✓', 'fa-bookmark');
     } else {
       icon.className = 'fa-regular fa-bookmark';
       btn.classList.remove('saved');
+      btn.style.color = '';
       btn.querySelector('span').textContent = 'Mi lista';
-      showToast('Quitado de Mi lista', 'fa-bookmark');
+      showToast('Eliminado de Mi lista', 'fa-bookmark');
     }
   });
 }
 
-// ================== TRAILER ==================
+// ================== TRAILER Y MODAL ==================
 function playTrailer(data) {
   const trailerUrl = data.trailer || data.youtube || data.video_trailer;
   if (trailerUrl) {
@@ -225,7 +242,6 @@ function playTrailer(data) {
   }
 }
 
-// ================== MODAL REPRODUCTORES ==================
 function showPlayerModal(data) {
   const modal = document.getElementById('playerModal');
   window.currentMovieData = {
@@ -251,7 +267,7 @@ function openPlayer(option) {
 
   let url = '';
   if (option === 1) {
-    url = `https://lzplayhd.online/lzpro/?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
+    url = `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
   } else if (option === 2) {
     url = `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
   }
