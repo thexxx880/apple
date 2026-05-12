@@ -1,6 +1,8 @@
 /* =============================================
    NAVBAR.CSS - Estilos específicos del Header/Navbar
+   Versión completa y responsive (igual que el original)
 ============================================= */
+
 header {
     position: fixed;
     top: 0;
@@ -20,15 +22,16 @@ header {
     font-size: 3rem;
     font-weight: 800;
     letter-spacing: 2px;
-    color: white !important;
-    text-decoration: none !important;
+    color: white;
+    text-decoration: none;
     cursor: pointer;
 }
+
 .logo:hover {
     color: #4f7cff;
 }
 
-/* Enlaces del navbar */
+/* Nav Center */
 .nav-center {
     display: flex;
     align-items: center;
@@ -36,15 +39,16 @@ header {
 }
 
 .nav-link {
-    color: white !important;
-    text-decoration: none !important;
+    color: white;
+    text-decoration: none;
     font-size: 1rem;
     opacity: 0.8;
     transition: 0.3s;
 }
+
 .nav-link:hover {
     opacity: 1;
-    color: #4f7cff !important;
+    color: #4f7cff;
 }
 
 /* Search Box */
@@ -97,7 +101,7 @@ header {
 }
 
 .icons .icon-btn {
-    display: none;
+    display: none; /* Oculto en desktop */
 }
 
 .icon-btn:hover {
@@ -123,4 +127,27 @@ header {
     width: 100%;
     height: 100%;
     object-fit: cover;
+}
+
+/* =============================================
+   RESPONSIVE - NAVBAR (Móvil)
+============================================= */
+@media (max-width: 900px) {
+    header {
+        padding: 18px;
+    }
+    
+    .nav-center {
+        display: none; /* Oculto en móvil */
+    }
+    
+    .icons .icon-btn {
+        display: flex; /* Mostrar búsqueda móvil */
+    }
+}
+
+@media (max-width: 600px) {
+    .logo {
+        font-size: 1.3rem;
+    }
 }
