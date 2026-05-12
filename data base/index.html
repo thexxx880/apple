@@ -15,60 +15,7 @@
     <!-- CSS -->
     <link rel="stylesheet" href="css/global.css">
     <link rel="stylesheet" href="css/home.css">
-   <script type="module">
-
-import { initializeApp } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-app.js";
-
-import {
-  getFirestore,
-  collection,
-  addDoc
-} from "https://www.gstatic.com/firebasejs/12.13.0/firebase-firestore.js";
-
-const firebaseConfig = {
-  apiKey: "AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
-  authDomain: "applelz-b5883.firebaseapp.com",
-  projectId: "applelz-b5883",
-  storageBucket: "applelz-b5883.firebasestorage.app",
-  messagingSenderId: "489468218632",
-  appId: "1:489468218632:web:598a550f7ebe7c6de7b0bd",
-  measurementId: "G-J085DHR8M3"
-};
-
-const app = initializeApp(firebaseConfig);
-
-const db = getFirestore(app);
-
-async function guardar() {
-
-  try {
-
-    await addDoc(collection(db, "usuarios"), {
-      nombre: "Chepo",
-      nivel: 99,
-      online: true,
-      fecha: new Date()
-    });
-
-    console.log("✅ Datos guardados");
-
-    document.body.innerHTML += `
-      <h1 style="color:lime;text-align:center;">
-        Datos guardados en Firebase ✅
-      </h1>
-    `;
-
-  } catch(error) {
-
-    console.error(error);
-
-  }
-
-}
-
-guardar();
-
-</script>
+<script type="module" src="js/firebase/applelz.js"></script>
 </head>
 <body>
 
