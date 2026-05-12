@@ -1,21 +1,21 @@
 // =============================================
-// FLOATING-MENU.JS - Componente de menú flotante (FAB)
+// FLOATING-MENU.JS - Versión limpia
 // =============================================
 
-function renderFloatingMenu() {
+function initFloatingMenu() {
+    // Crear contenedor
     let container = document.getElementById("floating-container");
-    
     if (!container) {
         container = document.createElement("div");
         container.id = "floating-container";
         document.body.appendChild(container);
     }
 
+    // Insertar HTML del menú
     container.innerHTML = `
         <div class="fab" id="fab">
             <i class="fas fa-plus"></i>
         </div>
-
         <div class="floating-menu" id="floating-menu">
             <div class="float-icon"><i class="fas fa-home"></i></div>
             <div class="float-icon"><i class="fas fa-fire"></i></div>
@@ -23,52 +23,48 @@ function renderFloatingMenu() {
             <div class="float-icon"><i class="fas fa-tv"></i></div>
         </div>
     `;
-}
-
-function initFloatingMenu() {
-    renderFloatingMenu();
 
     const fab = document.getElementById("fab");
-    const floatingMenu = document.getElementById("floating-menu");
+    const menu = document.getElementById("floating-menu");
 
-    if (!fab || !floatingMenu) {
-        console.error("Error: No se pudieron crear los elementos del Floating Menu");
+    if (!fab || !menu) {
+        console.error("No se encontraron los elementos del menú flotante");
         return;
     }
 
-    function openFloatingMenu() {
-        floatingMenu.style.display = "flex";
-        setTimeout(() => floatingMenu.classList.add("show"), 10);
+    // Funciones
+    function openMenu() {
+        menu.style.display = "flex";
+        setTimeout(() => menu.classList.add("show"), 10);
         fab.classList.add("hidden");
     }
 
-    function closeFloatingMenu() {
-        floatingMenu.classList.remove("show");
+    function closeMenu() {
+        menu.classList.remove("show");
         setTimeout(() => {
-            floatingMenu.style.display = "none";
+            menu.style.display = "none";
             fab.classList.remove("hidden");
-        }, 350);
+        }, 300);
     }
 
-    fab.addEventListener("click", (e) => {
+    // Eventos
+    fab.onclick = (e) => {
         e.stopPropagation();
-        openFloatingMenu();
-    });
+        openMenu();
+    };
 
-    document.addEventListener("click", (e) => {
-        if (floatingMenu.classList.contains("show") && !floatingMenu.contains(e.target)) {
-            closeFloatingMenu();
+    document.onclick = (e) => {
+        if (menu.classList.contains("show") && !menu.contains(e.target)) {
+            closeMenu();
         }
-    });
+    };
 
-    window.addEventListener("scroll", () => {
-        if (floatingMenu.classList.contains("show")) {
-            closeFloatingMenu();
-        }
-    }, { passive: true });
+    window.onscroll = () => {
+        if (menu.classList.contains("show")) closeMenu();
+    };
 
-    console.log("✅ Floating Menu renderizado e inicializado");
+    console.log("✅ Floating Menu funcionando correctamente");
 }
 
+// Exponer
 window.initFloatingMenu = initFloatingMenu;
-window.renderFloatingMenu = renderFloatingMenu;
