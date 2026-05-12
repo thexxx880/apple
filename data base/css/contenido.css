@@ -225,7 +225,7 @@ html {
   color: var(--green);
 }
 .action-pill.saved i {
-  color: #fff;
+  color: #f5c518 !important;
 }
 
 /* ─── CONTENT SECTION ─── */
