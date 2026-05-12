@@ -10,7 +10,9 @@ function renderNavbar(containerId = "main-header") {
     }
 
     container.innerHTML = `
-        <a href="../../index.html" class="logo">LZPLAY</a>
+        <a href="../index.html" class="logo">
+            LZPLAY
+        </a>
        
         <div class="nav-center">
             <a href="../../index.html" class="nav-link">Inicio</a>
