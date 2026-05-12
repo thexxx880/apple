@@ -1,51 +1,40 @@
 // =============================================
-// FLOATING MENU
+// FLOATING MENU - Con redirección
 // =============================================
 
 function initFloatingMenu() {
-
-    // Buscar contenedor
+    // Buscar o crear contenedor
     let container = document.getElementById("floating-container");
-
-    // Si no existe, crearlo
     if (!container) {
         container = document.createElement("div");
         container.id = "floating-container";
         document.body.appendChild(container);
     }
 
-    // Insertar HTML
+    // Insertar HTML con enlaces
     container.innerHTML = `
         <div class="fab" id="fab">
             <i class="fas fa-plus"></i>
         </div>
-
         <div class="floating-menu" id="floating-menu">
-
-            <div class="float-icon">
+            <a href="../../index.html" class="float-icon">
                 <i class="fas fa-home"></i>
-            </div>
-
-            <div class="float-icon">
+            </a>
+            <a href="#" class="float-icon">
                 <i class="fas fa-fire"></i>
-            </div>
-
-            <div class="float-icon">
+            </a>
+            <a href="../../data/movie.html" class="float-icon">
                 <i class="fas fa-film"></i>
-            </div>
-
-            <div class="float-icon">
+            </a>
+            <a href="../../data/serie.html" class="float-icon">
                 <i class="fas fa-tv"></i>
-            </div>
-
+            </a>
         </div>
     `;
 
-    // Elementos
     const fab = document.getElementById("fab");
     const menu = document.getElementById("floating-menu");
 
-    // Verificación
     if (!fab || !menu) {
         console.error("❌ Error cargando Floating Menu");
         return;
@@ -54,51 +43,40 @@ function initFloatingMenu() {
     // Abrir menú
     function openMenu() {
         menu.style.display = "flex";
-
-        setTimeout(() => {
-            menu.classList.add("show");
-        }, 10);
-
+        setTimeout(() => menu.classList.add("show"), 10);
         fab.classList.add("hidden");
     }
 
     // Cerrar menú
     function closeMenu() {
-
         menu.classList.remove("show");
-
         setTimeout(() => {
             menu.style.display = "none";
             fab.classList.remove("hidden");
         }, 300);
     }
 
-    // Click FAB
+    // Click en FAB
     fab.addEventListener("click", (e) => {
         e.stopPropagation();
         openMenu();
     });
 
-    // Click afuera
+    // Click fuera del menú
     document.addEventListener("click", (e) => {
-
-        if (
-            menu.classList.contains("show") &&
-            !menu.contains(e.target)
-        ) {
+        if (menu.classList.contains("show") && !menu.contains(e.target)) {
             closeMenu();
         }
     });
 
-    // Scroll
+    // Cerrar al hacer scroll
     window.addEventListener("scroll", () => {
-
         if (menu.classList.contains("show")) {
             closeMenu();
         }
-    });
+    }, { passive: true });
 
-    console.log("✅ Floating Menu cargado correctamente");
+    console.log("✅ Floating Menu cargado correctamente con enlaces");
 }
 
 // Exponer globalmente
