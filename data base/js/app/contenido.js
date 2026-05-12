@@ -119,6 +119,13 @@ function renderPage(data, vistasData, id) {
     </div>
   `).join('');
 
+  // ================== ASIGNAR EVENTOS A LOS BOTONES ==================
+  const playBtn = document.getElementById('playBtn');
+  const trailerBtn = document.getElementById('trailerBtn');
+
+  if (playBtn) playBtn.onclick = () => showPlayerModal(data);
+  if (trailerBtn) trailerBtn.onclick = () => playTrailer(data);
+
   loadFavoriteState(id);
 
   const loader = document.getElementById('loader');
@@ -208,7 +215,7 @@ function toggleList(btn) {
   });
 }
 
-// ================== TRAILER Y MODAL ==================
+// ================== TRAILER ==================
 function playTrailer(data) {
   const trailerUrl = data.trailer || data.youtube || data.video_trailer;
   if (trailerUrl) {
@@ -218,6 +225,7 @@ function playTrailer(data) {
   }
 }
 
+// ================== MODAL REPRODUCTORES ==================
 function showPlayerModal(data) {
   const modal = document.getElementById('playerModal');
   window.currentMovieData = {
@@ -276,7 +284,7 @@ function showToast(msg, icon = 'fa-circle-check') {
   toastTimer = setTimeout(() => t.classList.remove('show'), 2800);
 }
 
-// ================== SHOW ERROR (FALTABA) ==================
+// ================== SHOW ERROR ==================
 function showError(message) {
   const loader = document.getElementById('loader');
   if (loader) {
