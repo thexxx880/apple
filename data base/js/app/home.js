@@ -1,5 +1,5 @@
 // =============================================
-// HOME.JS - Lógica específica de la página de inicio
+// HOME.JS - Lógica específica de la página de inicio + Loader
 // =============================================
 
 async function loadRandomHero() {
@@ -14,24 +14,18 @@ async function loadRandomHero() {
         const data = await fetchRandomHero();
         if (!data) return;
 
-        // Fondo del hero
         if (data.backdrop) heroSection.style.backgroundImage = `url('${data.backdrop}')`;
-
-        // Logo
         if (data.logo && heroLogo) heroLogo.src = data.logo;
 
-        // Año y rating
         if (heroYear) heroYear.textContent = data.anio || "----";
         if (heroRating) heroRating.innerHTML = `⭐ ${data.calificacion || "N/A"}`;
 
-        // Sinopsis corta
         if (heroDesc) {
             let sinopsis = data.sinopsis || "";
             if (sinopsis.length > 220) sinopsis = sinopsis.substring(0, 220) + "...";
             heroDesc.textContent = sinopsis;
         }
 
-        // BOTÓN "VER AHORA" → Redirige al contenido
         if (heroPlayBtn && data.id) {
             heroPlayBtn.onclick = (e) => {
                 e.preventDefault();
@@ -73,12 +67,9 @@ async function loadMoviesSection() {
                 <div class="movie-overlay"></div>
             `;
 
-            // CLICK EN LA TARJETA → Redirige a contenido.html
             card.addEventListener("click", () => {
                 if (movie.id) {
                     window.location.href = `contenido.html?id=${movie.id}`;
-                } else {
-                    console.warn("La película no tiene ID:", movie);
                 }
             });
 
@@ -90,8 +81,25 @@ async function loadMoviesSection() {
     }
 }
 
-// ================== INICIO ==================
-document.addEventListener("DOMContentLoaded", () => {
-    loadRandomHero();
-    loadMoviesSection();
+// ================== INICIO + OCULTAR LOADER ==================
+document.addEventListener("DOMContentLoaded", async () => {
+    // Iniciar loader (por si no lo tienes en otro lugar)
+    if (typeof initLoader === "function") initLoader();
+
+    // Cargar todo el contenido
+    await Promise.all([
+        loadRandomHero(),
+        loadMoviesSection()
+    ]);
+
+    // Ocultar el loader cuando todo haya cargado
+    if (typeof hideLoader === "function") {
+        hideLoader();
+    } else {
+        // Fallback por si no tienes hideLoader
+        const loader = document.getElementById('loader');
+        if (loader) loader.style.display = 'none';
+    }
+
+    console.log("✅ Página de inicio cargada completamente");
 });
