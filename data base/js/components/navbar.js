@@ -10,19 +10,19 @@ function renderNavbar(containerId = "main-header") {
     }
 
     container.innerHTML = `
-        <div class="logo">CINEHAX</div>
-        
+        <a href="../../index.html" class="logo">LZPLAY</a>
+       
         <div class="nav-center">
-            <a href="#" class="nav-link">Inicio</a>
+            <a href="../../index.html" class="nav-link">Inicio</a>
             <a href="#" class="nav-link">Tendencias</a>
-            <a href="#" class="nav-link">Películas</a>
-            <a href="#" class="nav-link">Series</a>
+            <a href="../../data/movie.html" class="nav-link">Películas</a>
+            <a href="../../data/serie.html" class="nav-link">Series</a>
             <div class="search-box">
                 <i class="fas fa-search"></i>
                 <input type="text" placeholder="Buscar películas o series">
             </div>
         </div>
-        
+       
         <div class="icons">
             <div class="icon-btn mobile-search">
                 <i class="fas fa-search"></i>
