@@ -3,12 +3,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Super Mario Galaxy • Netflix</title>
-
+  <title id="pageTitle">Cargando...</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
   <style>
     :root {
       --red: #e50914;
@@ -28,10 +26,8 @@
       --bottom-nav-h: 72px;
       --transition: 0.22s cubic-bezier(0.4, 0, 0.2, 1);
     }
-
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
     html { scroll-behavior: smooth; }
-
     body {
       background: var(--bg);
       font-family: 'DM Sans', system-ui, sans-serif;
@@ -40,7 +36,6 @@
       overflow-x: hidden;
       -webkit-font-smoothing: antialiased;
     }
-
     /* ─── DESKTOP NAV ─── */
     .desktop-nav {
       display: none;
@@ -107,7 +102,6 @@
       transition: transform var(--transition);
     }
     .profile-chip:hover { transform: scale(1.08); }
-
     /* ─── HERO ─── */
     .hero {
       position: relative;
@@ -120,7 +114,6 @@
     .hero-bg {
       position: absolute;
       inset: 0;
-      background-image: url('https://images.unsplash.com/photo-1534447677768-be436bb09401?q=90&w=1800&auto=format&fit=crop');
       background-size: cover;
       background-position: center 20%;
       transform: scale(1.04);
@@ -147,8 +140,7 @@
       from { opacity: 0; transform: translateY(24px); }
       to { opacity: 1; transform: translateY(0); }
     }
-
-    /* Mobile back button */
+    /* Mobile top bar */
     .mobile-topbar {
       position: absolute;
       top: 0; left: 0; right: 0;
@@ -195,7 +187,6 @@
       transition: all var(--transition);
     }
     .topbar-more:hover { background: rgba(255,255,255,0.15); }
-
     /* Hero badges */
     .hero-eyebrow {
       display: flex;
@@ -219,17 +210,22 @@
       color: rgba(255,255,255,0.8);
     }
     .tag.gold { background: var(--gold); color: #000; }
-
-    /* Hero title */
-    .hero-title {
-      font-family: 'Bebas Neue', sans-serif;
-      line-height: 0.88;
-      letter-spacing: 1px;
+    /* Hero logo (reemplazo del título) */
+    .hero-logo {
+      max-width: 520px;
+      width: 35%;
+      margin-bottom: 12px;
     }
-    .hero-title .sub { display: block; font-size: clamp(18px, 4vw, 28px); color: rgba(255,255,255,0.75); letter-spacing: 3px; margin-bottom: 4px; }
-    .hero-title .main { display: block; font-size: clamp(54px, 12vw, 96px); background: linear-gradient(160deg, #fff 0%, #ffde59 40%, #e50914 75%, #7a5cff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-    .hero-title .sub2 { display: block; font-size: clamp(20px, 4.5vw, 32px); color: rgba(255,255,255,0.55); letter-spacing: 4px; margin-top: 2px; }
-
+    .hero-logo img {
+      width: 100%;
+      height: auto;
+      display: block;
+      filter: drop-shadow(0 10px 40px rgba(0, 0, 0, 0.7));
+      transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .hero-logo img:hover {
+      transform: scale(1.03);
+    }
     /* Meta row */
     .hero-meta {
       display: flex;
@@ -255,7 +251,6 @@
       color: rgba(255,255,255,0.85);
     }
     .meta-text { color: var(--text-muted); }
-
     /* CTA row */
     .hero-cta {
       display: flex;
@@ -301,7 +296,6 @@
       white-space: nowrap;
     }
     .btn-secondary:hover { background: rgba(255,255,255,0.22); border-color: rgba(255,255,255,0.4); }
-
     /* Quick Actions */
     .hero-actions {
       display: flex;
@@ -324,14 +318,12 @@
     .action-pill i { font-size: 26px; }
     .action-pill.liked i { color: var(--green); }
     .action-pill.saved i { color: #fff; }
-
     /* ─── CONTENT SECTION ─── */
     .content {
       position: relative;
       z-index: 2;
       padding: 32px 24px 120px;
     }
-
     /* Description */
     .description-block {
       max-width: 720px;
@@ -360,7 +352,6 @@
       transition: all var(--transition);
     }
     .genre-chip:hover { background: var(--bg3); border-color: rgba(255,255,255,0.3); color: #fff; }
-
     /* Stats row */
     .stats-row {
       display: grid;
@@ -380,7 +371,6 @@
     .stat-icon { font-size: 20px; color: var(--text-dim); }
     .stat-value { font-size: 20px; font-weight: 700; color: var(--text); }
     .stat-label { font-size: 12px; color: var(--text-muted); font-weight: 500; }
-
     /* Section headers */
     .section-header {
       display: flex;
@@ -417,7 +407,6 @@
       border: none;
     }
     .section-see-all:hover { color: var(--text); }
-
     /* Cast */
     .cast-scroll {
       display: flex;
@@ -478,7 +467,6 @@
       line-height: 1.3;
       margin-top: 2px;
     }
-
     /* Crew */
     .crew-grid {
       display: grid;
@@ -512,7 +500,6 @@
     }
     .crew-name { font-size: 14px; font-weight: 600; color: var(--text); }
     .crew-role { font-size: 12px; color: var(--text-dim); }
-
     /* Similar section */
     .similar-scroll {
       display: flex;
@@ -545,7 +532,6 @@
     .similar-title { font-size: 13px; font-weight: 600; margin-bottom: 4px; }
     .similar-meta { font-size: 11px; color: var(--text-dim); display: flex; gap: 8px; }
     .similar-match { color: var(--green); font-weight: 600; }
-
     /* Rating bar */
     .rating-block {
       background: var(--bg2);
@@ -600,7 +586,6 @@
       transition: width 1s ease;
     }
     .rbar-count { font-size: 12px; color: var(--text-dim); width: 28px; }
-
     /* ─── BOTTOM NAV (mobile) ─── */
     .bottom-nav {
       position: fixed;
@@ -655,30 +640,24 @@
       transition: opacity var(--transition);
     }
     .nav-item.active .nav-indicator { opacity: 1; }
-
     /* ─── RESPONSIVE ─── */
-
-    /* Small phones (< 380px) */
     @media (max-width: 380px) {
       .hero-content { padding: 0 18px 100px; }
       .hero-cta { flex-direction: column; align-items: flex-start; }
       .btn-play, .btn-secondary { width: 100%; justify-content: center; }
+      .hero-logo { max-width: 320px; }
     }
-
-    /* Tablet (600px+) */
     @media (min-width: 600px) {
       .content { padding: 40px 40px 120px; }
       .hero-content { padding: 0 40px 100px; }
       .cast-img-wrap img { width: 104px; height: 104px; }
       .cast-card { min-width: 110px; }
+      .hero-logo { max-width: 580px; }
     }
-
-    /* Tablet landscape / small desktop (900px+) */
     @media (min-width: 900px) {
       .desktop-nav { display: flex; }
       .mobile-topbar { display: none; }
       .bottom-nav { display: none; }
-
       .hero { height: 88vh; min-height: 600px; max-height: 860px; }
       .hero-overlay {
         background:
@@ -690,26 +669,51 @@
         padding: 0 5vw 80px;
         max-width: 700px;
       }
-      .hero-title .main { font-size: clamp(72px, 9vw, 110px); }
       .content { padding: 48px 5vw 80px; max-width: 1400px; margin: 0 auto; }
       .description-block { max-width: 680px; margin-bottom: 48px; }
       .stats-row { grid-template-columns: repeat(4, 1fr); margin-bottom: 48px; }
+      .hero-logo { max-width: 620px; }
     }
-
-    /* Large desktop (1200px+) */
     @media (min-width: 1200px) {
       .hero-content { max-width: 800px; padding: 0 6vw 90px; }
       .content { padding: 56px 6vw 80px; }
       .crew-grid { grid-template-columns: repeat(3, 1fr); }
       .cast-scroll { gap: 20px; }
+      .hero-logo { max-width: 680px; }
     }
-
-    /* Ultra-wide (1600px+) */
     @media (min-width: 1600px) {
       .content { max-width: 1480px; }
       .hero-content { max-width: 860px; }
+      .hero-logo { max-width: 720px; }
     }
-
+    /* ─── LOADER ─── */
+    .loader {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: #0a0a0a;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      z-index: 9999;
+      color: white;
+      gap: 20px;
+    }
+    .loader i { font-size: 3rem; }
+    /* ─── ERROR ─── */
+    .error-screen {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: #0a0a0a;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      z-index: 9999;
+      color: #ff6b6b;
+      text-align: center;
+      padding: 40px;
+    }
     /* ─── TOAST ─── */
     .toast {
       position: fixed;
@@ -738,13 +742,18 @@
       transform: translateX(-50%) translateY(0);
     }
     .toast i { color: var(--green); }
-
     @media (min-width: 900px) {
       .toast { bottom: 32px; }
     }
   </style>
 </head>
 <body>
+
+  <!-- LOADER -->
+  <div class="loader" id="loader">
+    <i class="fa-solid fa-spinner fa-spin"></i>
+    <p id="loaderText">Cargando contenido desde GitHub...</p>
+  </div>
 
   <!-- ═══ DESKTOP NAV ═══ -->
   <nav class="desktop-nav" id="desktopNav">
@@ -768,7 +777,6 @@
 
   <!-- ═══ HERO ═══ -->
   <section class="hero" id="hero">
-
     <!-- Mobile top bar -->
     <div class="mobile-topbar">
       <button class="back-btn" onclick="goBack()" aria-label="Volver">
@@ -779,38 +787,15 @@
         <i class="fa-solid fa-ellipsis-vertical"></i>
       </button>
     </div>
-
     <div class="hero-bg" id="heroBg"></div>
     <div class="hero-overlay"></div>
-
     <div class="hero-content">
       <!-- Eyebrow tags -->
-      <div class="hero-eyebrow">
-        <span class="tag"><i class="fa-solid fa-fire-flame-curved"></i> &nbsp;Tendencia #2</span>
-        <span class="tag gold"><i class="fa-solid fa-trophy"></i> &nbsp;Nominado Oscar</span>
-        <span class="tag outline">Animación</span>
-      </div>
-
-      <!-- Title -->
-      <div class="hero-title">
-        <span class="sub">THE SUPER</span>
-        <span class="main">MARIO<br>GALAXY</span>
-        <span class="sub2">MOVIE</span>
-      </div>
-
+      <div class="hero-eyebrow" id="heroEyebrow"></div>
+      <!-- LOGO / TÍTULO -->
+      <div class="hero-logo" id="heroLogo"></div>
       <!-- Meta -->
-      <div class="hero-meta">
-        <span class="match-score"><i class="fa-solid fa-thumbs-up"></i> 89% para ti</span>
-        <div class="meta-dot"></div>
-        <span class="meta-text">2026</span>
-        <div class="meta-dot"></div>
-        <span class="meta-text">1h 38m</span>
-        <div class="meta-dot"></div>
-        <span class="meta-badge">HD</span>
-        <span class="meta-badge"><i class="fa-solid fa-headphones"></i>&thinsp;5.1</span>
-        <span class="meta-badge">12+</span>
-      </div>
-
+      <div class="hero-meta" id="heroMeta"></div>
       <!-- CTA Buttons -->
       <div class="hero-cta">
         <button class="btn-play" id="playBtn" onclick="togglePlay(this)">
@@ -822,7 +807,6 @@
           Más info
         </button>
       </div>
-
       <!-- Quick actions -->
       <div class="hero-actions">
         <button class="action-pill" id="likeBtn" onclick="toggleLike(this)" aria-label="Me gusta">
@@ -847,143 +831,27 @@
 
   <!-- ═══ CONTENT ═══ -->
   <div class="content">
-
     <!-- Description + Genres -->
     <div class="description-block">
-      <p>Mario y Luigi se enfrentan a una nueva amenaza: Bowser Jr., quien está decidido a liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.</p>
-      <div class="genres">
-        <span class="genre-chip"><i class="fa-solid fa-dragon"></i> &nbsp;Aventura</span>
-        <span class="genre-chip"><i class="fa-solid fa-star-and-crescent"></i> &nbsp;Fantasía</span>
-        <span class="genre-chip"><i class="fa-solid fa-face-laugh"></i> &nbsp;Comedia</span>
-        <span class="genre-chip"><i class="fa-solid fa-rocket"></i> &nbsp;Sci-Fi</span>
-        <span class="genre-chip"><i class="fa-solid fa-child"></i> &nbsp;Familiar</span>
-      </div>
+      <p id="sinopsis">Cargando sinopsis...</p>
+      <div class="genres" id="generos"></div>
     </div>
 
     <!-- Stats -->
-    <div class="stats-row">
-      <div class="stat-card">
-        <i class="fa-solid fa-calendar-days stat-icon"></i>
-        <div class="stat-value">2026</div>
-        <div class="stat-label">Estreno</div>
-      </div>
-      <div class="stat-card">
-        <i class="fa-solid fa-clock stat-icon"></i>
-        <div class="stat-value">98 min</div>
-        <div class="stat-label">Duración</div>
-      </div>
-      <div class="stat-card">
-        <i class="fa-solid fa-star stat-icon" style="color:var(--gold)"></i>
-        <div class="stat-value" style="color:var(--gold)">8.7</div>
-        <div class="stat-label">IMDb Score</div>
-      </div>
-      <div class="stat-card">
-        <i class="fa-solid fa-earth-americas stat-icon"></i>
-        <div class="stat-value">ES / EN</div>
-        <div class="stat-label">Idiomas</div>
-      </div>
-    </div>
+    <div class="stats-row" id="statsRow"></div>
 
     <!-- Cast -->
     <div class="section-header">
       <h2 class="section-title">Reparto</h2>
       <button class="section-see-all">Ver todos <i class="fa-solid fa-chevron-right"></i></button>
     </div>
-    <div class="cast-scroll">
-      <div class="cast-card" onclick="showCastInfo('Chris Pratt')">
-        <div class="cast-img-wrap">
-          <img src="https://i.pravatar.cc/150?img=12" alt="Chris Pratt">
-          <div class="cast-badge"><i class="fa-solid fa-star" style="font-size:8px"></i></div>
-        </div>
-        <div class="cast-name">Chris Pratt</div>
-        <div class="cast-role">Mario (voz)</div>
-      </div>
-      <div class="cast-card" onclick="showCastInfo('Anya Taylor-Joy')">
-        <div class="cast-img-wrap">
-          <img src="https://i.pravatar.cc/150?img=32" alt="Anya Taylor-Joy">
-        </div>
-        <div class="cast-name">Anya Taylor-Joy</div>
-        <div class="cast-role">Princesa Peach</div>
-      </div>
-      <div class="cast-card" onclick="showCastInfo('Charlie Day')">
-        <div class="cast-img-wrap">
-          <img src="https://i.pravatar.cc/150?img=15" alt="Charlie Day">
-        </div>
-        <div class="cast-name">Charlie Day</div>
-        <div class="cast-role">Luigi (voz)</div>
-      </div>
-      <div class="cast-card" onclick="showCastInfo('Jack Black')">
-        <div class="cast-img-wrap">
-          <img src="https://i.pravatar.cc/150?img=45" alt="Jack Black">
-          <div class="cast-badge"><i class="fa-solid fa-star" style="font-size:8px"></i></div>
-        </div>
-        <div class="cast-name">Jack Black</div>
-        <div class="cast-role">Bowser (voz)</div>
-      </div>
-      <div class="cast-card" onclick="showCastInfo('Donald Glover')">
-        <div class="cast-img-wrap">
-          <img src="https://i.pravatar.cc/150?img=60" alt="Donald Glover">
-        </div>
-        <div class="cast-name">Donald Glover</div>
-        <div class="cast-role">Yoshi (voz)</div>
-      </div>
-      <div class="cast-card" onclick="showCastInfo('Keegan-Michael Key')">
-        <div class="cast-img-wrap">
-          <img src="https://i.pravatar.cc/150?img=70" alt="Keegan-Michael Key">
-        </div>
-        <div class="cast-name">Keegan M. Key</div>
-        <div class="cast-role">Toad (voz)</div>
-      </div>
-    </div>
+    <div class="cast-scroll" id="castScroll"></div>
 
     <!-- Crew -->
     <div class="section-header">
       <h2 class="section-title">Equipo creativo</h2>
     </div>
-    <div class="crew-grid">
-      <div class="crew-card">
-        <div class="crew-icon"><i class="fa-solid fa-clapperboard"></i></div>
-        <div>
-          <div class="crew-name">Michael Jelenic</div>
-          <div class="crew-role">Director</div>
-        </div>
-      </div>
-      <div class="crew-card">
-        <div class="crew-icon"><i class="fa-solid fa-clapperboard"></i></div>
-        <div>
-          <div class="crew-name">Aaron Horvath</div>
-          <div class="crew-role">Director</div>
-        </div>
-      </div>
-      <div class="crew-card">
-        <div class="crew-icon"><i class="fa-solid fa-pen-fancy"></i></div>
-        <div>
-          <div class="crew-name">Matthew Fogel</div>
-          <div class="crew-role">Guionista</div>
-        </div>
-      </div>
-      <div class="crew-card">
-        <div class="crew-icon"><i class="fa-solid fa-music"></i></div>
-        <div>
-          <div class="crew-name">Brian Tyler</div>
-          <div class="crew-role">Compositor</div>
-        </div>
-      </div>
-      <div class="crew-card">
-        <div class="crew-icon"><i class="fa-solid fa-film"></i></div>
-        <div>
-          <div class="crew-name">Illumination Ent.</div>
-          <div class="crew-role">Producción</div>
-        </div>
-      </div>
-      <div class="crew-card">
-        <div class="crew-icon"><i class="fa-solid fa-n"></i></div>
-        <div>
-          <div class="crew-name">Netflix Studios</div>
-          <div class="crew-role">Distribución</div>
-        </div>
-      </div>
-    </div>
+    <div class="crew-grid" id="crewGrid"></div>
 
     <!-- Rating -->
     <div class="section-header">
@@ -991,83 +859,25 @@
     </div>
     <div class="rating-block">
       <div class="rating-big">
-        <div class="rating-number">8.7</div>
+        <div class="rating-number" id="ratingNumber">8.7</div>
         <div>
-          <div class="rating-stars">
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star-half-stroke"></i>
-          </div>
-          <div style="font-size:13px;color:var(--text-dim)">24,800 valoraciones</div>
+          <div class="rating-stars" id="ratingStars"></div>
+          <div style="font-size:13px;color:var(--text-dim)" id="ratingCount">24,800 valoraciones</div>
         </div>
       </div>
-      <div class="rating-bars" id="ratingBars">
-        <div class="rbar-row">
-          <span class="rbar-label">5</span>
-          <div class="rbar-track"><div class="rbar-fill" style="width:0%;background:var(--gold)" data-w="72"></div></div>
-          <span class="rbar-count">72%</span>
-        </div>
-        <div class="rbar-row">
-          <span class="rbar-label">4</span>
-          <div class="rbar-track"><div class="rbar-fill" style="width:0%;background:#c8a400" data-w="18"></div></div>
-          <span class="rbar-count">18%</span>
-        </div>
-        <div class="rbar-row">
-          <span class="rbar-label">3</span>
-          <div class="rbar-track"><div class="rbar-fill" style="width:0%;background:#856c00" data-w="6"></div></div>
-          <span class="rbar-count">6%</span>
-        </div>
-        <div class="rbar-row">
-          <span class="rbar-label">2</span>
-          <div class="rbar-track"><div class="rbar-fill" style="width:0%;background:var(--bg3)" data-w="3"></div></div>
-          <span class="rbar-count">3%</span>
-        </div>
-        <div class="rbar-row">
-          <span class="rbar-label">1</span>
-          <div class="rbar-track"><div class="rbar-fill" style="width:0%;background:var(--bg3)" data-w="1"></div></div>
-          <span class="rbar-count">1%</span>
-        </div>
-      </div>
+      <div class="rating-bars" id="ratingBars"></div>
     </div>
 
-    <!-- Similar titles -->
+    <!-- Similar titles (static por ahora) -->
     <div class="section-header">
       <h2 class="section-title">Títulos similares</h2>
       <button class="section-see-all">Explorar <i class="fa-solid fa-chevron-right"></i></button>
     </div>
     <div class="similar-scroll">
-      <div class="similar-card" onclick="openSimilar('Sonic')">
-        <img src="https://images.unsplash.com/photo-1559181567-c3190ca9d222?q=80&w=400&auto=format&fit=crop" alt="Sonic">
-        <div class="similar-info">
-          <div class="similar-title">Sonic: La Película 3</div>
-          <div class="similar-meta"><span class="similar-match">91%</span><span>2025</span></div>
-        </div>
-      </div>
-      <div class="similar-card" onclick="openSimilar('Spider-Man')">
-        <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=400&auto=format&fit=crop" alt="Animated">
-        <div class="similar-info">
-          <div class="similar-title">Spider-Verse 3</div>
-          <div class="similar-meta"><span class="similar-match">95%</span><span>2026</span></div>
-        </div>
-      </div>
-      <div class="similar-card" onclick="openSimilar('Minions')">
-        <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=400&auto=format&fit=crop" alt="Minions">
-        <div class="similar-info">
-          <div class="similar-title">Minions: Rise 2</div>
-          <div class="similar-meta"><span class="similar-match">78%</span><span>2025</span></div>
-        </div>
-      </div>
-      <div class="similar-card" onclick="openSimilar('Zelda')">
-        <img src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?q=80&w=400&auto=format&fit=crop" alt="Zelda">
-        <div class="similar-info">
-          <div class="similar-title">Zelda: The Movie</div>
-          <div class="similar-meta"><span class="similar-match">88%</span><span>2026</span></div>
-        </div>
-      </div>
+      <!-- Se pueden hacer dinámicos más adelante -->
+      <div class="similar-card"><img src="https://picsum.photos/id/1015/300/200" alt=""><div class="similar-info"><div class="similar-title">Sonic 3</div><div class="similar-meta"><span class="similar-match">91%</span><span>2025</span></div></div></div>
+      <div class="similar-card"><img src="https://picsum.photos/id/201/300/200" alt=""><div class="similar-info"><div class="similar-title">Spider-Verse 3</div><div class="similar-meta"><span class="similar-match">95%</span><span>2026</span></div></div></div>
     </div>
-
   </div>
 
   <!-- ═══ BOTTOM NAV (mobile) ═══ -->
@@ -1100,46 +910,164 @@
     </button>
   </nav>
 
-  <!-- Toast notification -->
+  <!-- Toast -->
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
   <script>
-    // ── Hero background lazy load ──
-    const bg = document.getElementById('heroBg');
-    const img = new Image();
-    img.src = 'https://images.unsplash.com/photo-1534447677768-be436bb09401?q=90&w=1800&auto=format&fit=crop';
-    img.onload = () => bg.classList.add('loaded');
+    // ================== CONFIGURACIÓN GITHUB ==================
+    const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/";
 
-    // ── Desktop nav scroll effect ──
-    const nav = document.getElementById('desktopNav');
-    window.addEventListener('scroll', () => {
-      nav.classList.toggle('scrolled', window.scrollY > 60);
-    }, { passive: true });
-
-    // ── Rating bars animate on load ──
-    const observer = new IntersectionObserver(entries => {
-      entries.forEach(e => {
-        if (e.isIntersecting) {
-          document.querySelectorAll('.rbar-fill').forEach(b => {
-            b.style.width = b.dataset.w + '%';
-          });
-          observer.disconnect();
-        }
-      });
-    }, { threshold: 0.3 });
-    observer.observe(document.getElementById('ratingBars'));
-
-    // ── Toast helper ──
-    let toastTimer;
-    function showToast(msg, icon = 'fa-circle-check') {
-      const t = document.getElementById('toast');
-      t.innerHTML = `<i class="fa-solid ${icon}"></i> ${msg}`;
-      t.classList.add('show');
-      clearTimeout(toastTimer);
-      toastTimer = setTimeout(() => t.classList.remove('show'), 2800);
+    // ================== OBTENER ID DE LA URL ==================
+    function getContentId() {
+      const params = new URLSearchParams(window.location.search);
+      const id = params.get('id');
+      if (!id) {
+        showError("❌ Falta el parámetro ID<br>Usa: <b>contenido.html?id=22</b>");
+        return null;
+      }
+      return id;
     }
 
-    // ── Play / Pause ──
+    // ================== MOSTRAR ERROR ==================
+    function showError(message) {
+      document.getElementById('loader').innerHTML = `
+        <div class="error-screen">
+          <h2 style="font-size:2rem;margin-bottom:16px;">${message}</h2>
+          <p style="color:#ccc;">Verifica que la carpeta exista en tu repositorio de GitHub.</p>
+        </div>`;
+    }
+
+    // ================== CARGAR JSONS ==================
+    async function loadContent() {
+      const id = getContentId();
+      if (!id) return;
+
+      const contenidoUrl = `${GITHUB_RAW_BASE}${id}/${id}.json`;
+      const dataUrl = `${GITHUB_RAW_BASE}${id}/data.json`;
+
+      try {
+        const [contenidoRes, dataRes] = await Promise.all([
+          fetch(contenidoUrl),
+          fetch(dataUrl)
+        ]);
+
+        if (!contenidoRes.ok) throw new Error("El archivo " + id + ".json no existe");
+
+        const contenido = await contenidoRes.json();
+        let vistasData = { vistas: {} };
+        if (dataRes.ok) vistasData = await dataRes.json();
+
+        renderPage(contenido, vistasData, id);
+      } catch (err) {
+        console.error(err);
+        showError("No se encontró el contenido<br>ID: " + id);
+      }
+    }
+
+    // ================== RENDERIZAR TODO ==================
+    function renderPage(data, vistasData, id) {
+      // Título de la pestaña
+      document.getElementById('pageTitle').textContent = `${data.titulo} • Netflix`;
+
+      // Hero Background
+      const heroBg = document.getElementById('heroBg');
+      heroBg.style.backgroundImage = `url('${data.backdrop || data.poster}')`;
+      setTimeout(() => heroBg.classList.add('loaded'), 100);
+
+      // Hero Logo
+      const heroLogo = document.getElementById('heroLogo');
+      if (data.logo && data.logo !== "") {
+        heroLogo.innerHTML = `<img src="${data.logo}" alt="${data.titulo}">`;
+      } else {
+        heroLogo.innerHTML = `<h1 style="font-size:3.8rem;line-height:1;color:white;font-family:'Bebas Neue',sans-serif;">${data.titulo}</h1>`;
+      }
+
+      // Trending / Eyebrow
+      const eyebrow = document.getElementById('heroEyebrow');
+      if (data.trending) {
+        eyebrow.innerHTML = `<span class="tag"><i class="fa-solid fa-fire-flame-curved"></i> Tendencia #1</span>`;
+      } else {
+        eyebrow.innerHTML = `<span class="tag outline">${data.generos[0] || 'Película'}</span>`;
+      }
+
+      // Meta information
+      document.getElementById('heroMeta').innerHTML = `
+        <span class="match-score"><i class="fa-solid fa-thumbs-up"></i> ${Math.round(data.puntuacion * 10)}% para ti</span>
+        <div class="meta-dot"></div>
+        <span class="meta-text">${data.año}</span>
+        <div class="meta-dot"></div>
+        <span class="meta-text">${data.duracion}</span>
+        <div class="meta-dot"></div>
+        <span class="meta-badge">${data.calificacion}</span>
+        <span class="meta-badge">${data.edad_minima}+</span>
+      `;
+
+      // Sinopsis
+      document.getElementById('sinopsis').textContent = data.sinopsis || "Sin sinopsis disponible.";
+
+      // Géneros
+      const generosContainer = document.getElementById('generos');
+      generosContainer.innerHTML = data.generos.map(g => 
+        `<span class="genre-chip">${g}</span>`
+      ).join('');
+
+      // Stats Row
+      const vistas = vistasData.vistas[id] || 0;
+      document.getElementById('statsRow').innerHTML = `
+        <div class="stat-card">
+          <i class="fa-solid fa-calendar-days stat-icon"></i>
+          <div class="stat-value">${data.año}</div>
+          <div class="stat-label">Estreno</div>
+        </div>
+        <div class="stat-card">
+          <i class="fa-solid fa-clock stat-icon"></i>
+          <div class="stat-value">${data.duracion}</div>
+          <div class="stat-label">Duración</div>
+        </div>
+        <div class="stat-card">
+          <i class="fa-solid fa-star stat-icon" style="color:var(--gold)"></i>
+          <div class="stat-value" style="color:var(--gold)">${data.puntuacion}</div>
+          <div class="stat-label">Puntuación TMDB</div>
+        </div>
+        <div class="stat-card">
+          <i class="fa-solid fa-eye stat-icon"></i>
+          <div class="stat-value">${vistas.toLocaleString('es-ES')}</div>
+          <div class="stat-label">Vistas</div>
+        </div>
+      `;
+
+      // Reparto
+      const castContainer = document.getElementById('castScroll');
+      castContainer.innerHTML = data.reparto.map(actor => `
+        <div class="cast-card" onclick="showCastInfo('${actor.nombre}')">
+          <div class="cast-img-wrap">
+            <img src="${actor.foto || 'https://i.pravatar.cc/150?img=12'}" alt="${actor.nombre}">
+          </div>
+          <div class="cast-name">${actor.nombre}</div>
+          <div class="cast-role">${actor.personaje}</div>
+        </div>
+      `).join('');
+
+      // Equipo creativo + crew
+      const crewContainer = document.getElementById('crewGrid');
+      const allCrew = [...(data.equipo_creativo || []), ...(data.crew || []).slice(0, 6)];
+      crewContainer.innerHTML = allCrew.map(person => `
+        <div class="crew-card">
+          <div class="crew-icon"><i class="fa-solid fa-user-tie"></i></div>
+          <div>
+            <div class="crew-name">${person.nombre}</div>
+            <div class="crew-role">${person.rol}</div>
+          </div>
+        </div>
+      `).join('');
+
+      // Ocultar loader
+      document.getElementById('loader').style.display = 'none';
+
+      console.log('%c✅ Contenido cargado correctamente desde GitHub', 'color:#46d369;font-weight:bold');
+    }
+
+    // ================== FUNCIONES INTERACTIVAS (originales) ==================
     let isPlaying = false;
     function togglePlay(btn) {
       isPlaying = !isPlaying;
@@ -1149,16 +1077,15 @@
         icon.className = 'fa-solid fa-pause';
         text.textContent = 'Pausar';
         btn.classList.add('playing');
-        showToast('Reproduciendo Super Mario Galaxy Movie…', 'fa-play');
+        showToast('Reproduciendo...', 'fa-play');
       } else {
         icon.className = 'fa-solid fa-play';
         text.textContent = 'Reproducir';
         btn.classList.remove('playing');
-        showToast('Reproducción pausada', 'fa-pause');
+        showToast('Pausado', 'fa-pause');
       }
     }
 
-    // ── Like ──
     let liked = false;
     function toggleLike(btn) {
       liked = !liked;
@@ -1167,7 +1094,7 @@
         icon.className = 'fa-solid fa-thumbs-up';
         btn.classList.add('liked');
         btn.querySelector('span').textContent = 'Te gustó';
-        showToast('¡Te gusta esta película!', 'fa-heart');
+        showToast('¡Te gusta!', 'fa-heart');
       } else {
         icon.className = 'fa-regular fa-thumbs-up';
         btn.classList.remove('liked');
@@ -1175,7 +1102,6 @@
       }
     }
 
-    // ── My list ──
     let saved = false;
     function toggleList(btn) {
       saved = !saved;
@@ -1189,58 +1115,47 @@
         icon.className = 'fa-regular fa-bookmark';
         btn.classList.remove('saved');
         btn.querySelector('span').textContent = 'Mi lista';
-        showToast('Eliminado de Mi lista', 'fa-circle-check');
       }
     }
 
-    // ── Share ──
     function shareMovie() {
-      if (navigator.share) {
-        navigator.share({ title: 'Super Mario Galaxy Movie', text: 'Mira esto en Netflix', url: window.location.href });
-      } else {
-        showToast('Enlace copiado al portapapeles', 'fa-link');
-      }
+      showToast('Enlace copiado al portapapeles', 'fa-link');
     }
 
-    // ── Report ──
     function reportContent() {
       showToast('Reporte enviado. ¡Gracias!', 'fa-flag');
     }
 
-    // ── More info ──
     function showInfo() {
-      showToast('Cargando más información…', 'fa-circle-info');
+      showToast('Más información cargada', 'fa-circle-info');
     }
 
-    // ── Cast info ──
     function showCastInfo(name) {
-      showToast(`Ver filmografía de ${name}`, 'fa-person');
+      showToast(`Filmografía de ${name}`, 'fa-person');
     }
 
-    // ── Similar ──
-    function openSimilar(title) {
-      showToast(`Abriendo ${title}…`, 'fa-film');
-    }
-
-    // ── Back ──
     function goBack() {
-      if (window.history.length > 1) window.history.back();
-      else showToast('No hay página anterior', 'fa-circle-info');
+      window.history.back();
     }
 
-    // ── Bottom nav ──
-    const navLabels = {
-      home: '🏠 Inicio',
-      search: '🔍 Buscar',
-      mylist: '📌 Mi lista',
-      downloads: '⬇️ Descargas',
-      profile: '👤 Perfil'
-    };
     function navTo(section, el) {
       document.querySelectorAll('.bottom-nav .nav-item').forEach(i => i.classList.remove('active'));
       el.classList.add('active');
-      showToast(navLabels[section] || 'Navegando…', 'fa-circle-check');
+      showToast(section === 'home' ? 'Inicio' : section, 'fa-circle-check');
     }
+
+    // ================== TOAST ==================
+    let toastTimer;
+    function showToast(msg, icon = 'fa-circle-check') {
+      const t = document.getElementById('toast');
+      t.innerHTML = `<i class="fa-solid ${icon}"></i> ${msg}`;
+      t.classList.add('show');
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => t.classList.remove('show'), 2800);
+    }
+
+    // ================== INICIO ==================
+    window.onload = loadContent;
   </script>
 </body>
 </html>
