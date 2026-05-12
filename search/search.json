@@ -1,5 +1,56 @@
 [
   {
+    "id": 22,
+    "titulo": "Piratas del Caribe: La maldición de la Perla Negra",
+    "titulo_original": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "titulo_es_mx": "Piratas del Caribe: La maldición del Perla Negra",
+    "titulos_alternativos": [
+      "Pirati dei Caraibi - La maledizione della prima luna",
+      "Pirates Of The Caribbean ‐ The Curse of the Black Pearl",
+      "加勒比海盗：黑珍珠号的诅咒",
+      "캐리비안의 해적-블랙 펄의 저주",
+      "Pirates des Caraïbes : La Malédiction de la Perle noire",
+      "Piratas del Caribe La Maldición del Perla Negra",
+      "La maldición del Perla Negra",
+      "Shodeday Ha-Caribim: Klalat Ha-Pnina Ha-Sh'hora",
+      "Sjóræningjar á Karíbahafi: Bölvun svörtu perlunnar",
+      "Pirati sa Kariba: prokletstvo Crnog bisera",
+      "Piratas del Caribe: La maldición del Perla Negra",
+      "Пираты Карибского моря 1",
+      "Pirates of the Caribbean - Fluch der Karibik",
+      "Karibski pirati: Proklyatieto na Chernata perla",
+      "Oi Peiratés tis Karaïvikís: I Katára tou Mávrou Margaritarioú",
+      "Piraty Karybsʹkoho morya: Proklyattya Chornoyi perlyny",
+      "Piratas del Caribe: La maldición de la Perla Negra",
+      "Piratas del Caribe - La maldición del Perla Negra",
+      "Pirates of the Caribbean ։ The Curse of the Black Pearl",
+      "Fluch der Karibik - The Curse of the Black Pearl",
+      "Der Fluch der Karibik",
+      "Fluch der Karibik: Der Fluch der Black Pearl",
+      "Piraci z Karaibów - Klątwa Czarnej Perły",
+      "加勒比海盜：魔盜王決戰鬼盗船",
+      "加勒比海盗1：魔盗王决战鬼盗船",
+      "Cướp Biển Vùng Caribe: Lời Nguyền Của Tàu Ngọc Trai Đen",
+      "加勒比海盜1：魔盜王決戰鬼盗船",
+      "神鬼奇航：鬼盜船魔咒",
+      "Piráti Karibiku",
+      "Piráti Karibiku: Kliatba Čiernej perly",
+      "Піраты Карыбскага мора: Праклён Чорнай пярліны",
+      "Pirati dei Caraibi: La maledizione della prima luna"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg",
+    "anio": "2003",
+    "generos": [
+      "Aventura",
+      "Fantasía",
+      "Acción"
+    ],
+    "calificacion": 7.8,
+    "duracion": 143,
+    "director": "Gore Verbinski",
+    "sinopsis_corta": "El aventurero capitán Jack Sparrow recorre las aguas caribeñas. Pero su andanzas terminan cuando su enemigo, el capitán Barbossa le roba su barco, la Perla Negra, y ataca la ciudad de Port Royal, secu"
+  },
+  {
     "id": 58,
     "titulo": "Piratas del Caribe: El cofre del hombre muerto",
     "titulo_es_mx": "Piratas del Caribe - El cofre de la muerte",
@@ -12,19 +63,5 @@
     ],
     "calificacion": 7.375,
     "duracion": 151
-  },
-  {
-    "id": 22,
-    "titulo": "Piratas del Caribe: La maldición de la Perla Negra",
-    "titulo_es_mx": "Piratas del Caribe: La maldición del Perla Negra",
-    "poster": "https://image.tmdb.org/t/p/original/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg",
-    "anio": "2003",
-    "generos": [
-      "Aventura",
-      "Fantasía",
-      "Acción"
-    ],
-    "calificacion": 7.8,
-    "duracion": 143
   }
 ]
