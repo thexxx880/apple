@@ -1,0 +1,12 @@
+/* =============================================
+   ESTILOS ESPECÍFICOS PARA HOME
+============================================= */
+
+.movies-grid {
+    /* Ya está definido en global.css, aquí puedes agregar estilos extra si quieres */
+}
+
+/* Ejemplo: si quieres personalizar algo más del home */
+.section-title {
+    color: #ffffff;
+}
