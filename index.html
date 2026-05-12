@@ -415,7 +415,9 @@ header {
     header { padding: 18px; }
     .nav-center { display: none; }
     .hero { padding: 110px 25px 50px; height: 85vh; }
-    .section { padding: 30px 20px; }
+    .section {
+        padding: 40px 5px;
+    }
     .section-title { font-size: 2rem; }
 
     .icons .icon-btn,
@@ -426,7 +428,10 @@ header {
 
 @media (max-width: 600px) {
     .logo { font-size: 1.3rem; }
-    .hero { height: 75vh; padding: 100px 20px 40px; }
+  .hero {
+        height: 70vh;
+        padding: 260px 14px 25px;
+    }
     .hero-logo { max-width: 200px; margin-bottom: 8px; }
     .hero p { font-size: 0.65rem; line-height: 1.6; }
     .play-btn { padding: 15px 25px; }
@@ -577,30 +582,41 @@ function createRatingCircle(rating) {
 // CARGAR PELÍCULAS DESDE movie.json
 // =============================================
 async function loadMoviesSection() {
+    const container = document.getElementById("movies-grid");
+    container.innerHTML = `<p style="color:#888; padding: 40px 20px; font-size: 0.95rem;">Cargando películas...</p>`;
+
     try {
         const url = "https://raw.githubusercontent.com/thexxx880/apple/main/movie.json";
         const response = await fetch(url);
-        if (!response.ok) throw new Error("Error al cargar movie.json");
+
+        if (!response.ok) {
+            throw new Error(`Error HTTP: ${response.status}`);
+        }
 
         const data = await response.json();
-        const movies = data.movies.slice(0, 10);
 
-        const container = document.getElementById("movies-grid");
+        if (!data.movies || !Array.isArray(data.movies)) {
+            throw new Error("Estructura del JSON inválida.");
+        }
+
+        const movies = data.movies.slice(0, 10);
         container.innerHTML = "";
 
         movies.forEach(movie => {
             const card = document.createElement("div");
             card.className = "movie-card";
 
-            const ratingHTML = createRatingCircle(movie.calificacion);
+            const ratingHTML = createRatingCircle(movie.calificacion || 0);
 
             card.innerHTML = `
                 <img src="${movie.poster}" alt="${movie.titulo}">
+                
                 <div class="movie-rating">
                     ${ratingHTML}
                 </div>
+                
                 <div class="movie-overlay">
-                    <div class="movie-title">${movie.titulo}</div>
+                    <!-- Título eliminado -->
                 </div>
             `;
 
@@ -613,11 +629,36 @@ async function loadMoviesSection() {
 
     } catch (error) {
         console.error("Error cargando películas:", error);
-        document.getElementById("movies-grid").innerHTML = 
-            `<p style="color:#aaa; padding:20px;">No se pudieron cargar las películas.</p>`;
+        container.innerHTML = `
+            <p style="color:#ff6b6b; padding: 30px 20px;">
+                ❌ Error al cargar las películas.<br>
+                <span style="font-size: 0.85rem; color:#aaa;">${error.message}</span>
+            </p>
+        `;
     }
 }
 
+// Función del círculo de calificación (ya actualizada)
+function createRatingCircle(rating) {
+    const formattedRating = parseFloat(rating).toFixed(1);
+    const percentage = Math.min(Math.max(parseFloat(rating) * 10, 0), 100);
+    const circumference = 2 * Math.PI * 21;
+    const offset = circumference - (circumference * percentage / 100);
+
+    return `
+        <svg class="rating-circle" width="52" height="52">
+            <circle class="bg" cx="26" cy="26" r="21" 
+                    stroke="#333" stroke-width="5"/>
+            <circle class="progress" cx="26" cy="26" r="21" 
+                    stroke="#22c55e" stroke-width="5"
+                    stroke-dasharray="${circumference}"
+                    stroke-dashoffset="${offset}"/>
+        </svg>
+        <span class="rating-value">${formattedRating}</span>
+    `;
+}
+
+// Cargar películas
 loadMoviesSection();
 
 // =============================================
