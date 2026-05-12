@@ -53,7 +53,44 @@
   {
     "id": 58,
     "titulo": "Piratas del Caribe: El cofre del hombre muerto",
+    "titulo_original": "Pirates of the Caribbean: Dead Man's Chest",
     "titulo_es_mx": "Piratas del Caribe - El cofre de la muerte",
+    "titulos_alternativos": [
+      "Pirates of the Caribbean - Dead Man's Chest",
+      "Pirates of the Caribbean 2 - Dead Man's Chest",
+      "Пираты Карибского моря 2",
+      "Piratas del Caribe 2 El cofre de la muerte",
+      "Pirates des Caraïbes 2 - Le Secret du coffre maudit",
+      "캐리비안의 해적-망자의 함",
+      "Pirates des Caraïbes 2",
+      "Pirates des Caraïbes 2 : Le Secret du Coffre Maudit",
+      "Piratas do Caribe 2: O Baú da Morte",
+      "Le Coffre du mort",
+      "Piratas del Caribe El Cofre del Hombre Muerto",
+      "加勒比海盗2：聚魂棺",
+      "Piratas del Caribe - El cofre de la muerte",
+      "Piratas do Caribe 2 - O Baú da Morte",
+      "Pirates of the Caribbean deel 2",
+      "Piráti z Karibiku 2 - Truhla mrtvého muže",
+      "Piratas del Caribe 2. El cofre del hombre muerto",
+      "Pirates of the Caribbean II: Dead Man's Chest",
+      "Pirates of the Caribbean 2",
+      "Pirates of the Caribbean II",
+      "Pirates of the Caribbean։ Dead Man's Chest",
+      "Der Fluch der Karibik 2",
+      "Fluch der Karibik 2: Die Truhe des Todes",
+      "Pirates of the Caribbean 2: Dead Man's Chest",
+      "Fluch der Karibik 2 - Des toten Mannes Truhe",
+      "加勒比海盜：決戰魔盜王",
+      "加勒比海盗2：决战魔盗王",
+      "Cướp Biển Vùng Caribe 2: Chiếc Rương Tử Thần",
+      "加勒比海盗2：亡灵的宝藏",
+      "Piraci z Karaibów - Skrzynia Umarlaka",
+      "加勒比海盜2：決戰魔盜王",
+      "Pirates of the Caribbean Dead Man's Chest",
+      "Pirates of the Caribbean Dead Mans Chest",
+      "שודדי הקאריביים 2"
+    ],
     "poster": "https://image.tmdb.org/t/p/original/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
     "anio": "2006",
     "generos": [
@@ -62,6 +99,8 @@
       "Acción"
     ],
     "calificacion": 7.375,
-    "duracion": 151
+    "duracion": 151,
+    "director": "Gore Verbinski",
+    "sinopsis_corta": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida, Will tendrá que encon"
   }
 ]
