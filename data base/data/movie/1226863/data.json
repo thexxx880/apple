@@ -1,0 +1,64 @@
+{
+  "id": 1226863,
+  "title": "The Super Mario Galaxy Movie",
+  "originalTitle": "The Super Mario Galaxy Movie",
+  "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+  "releaseYear": "2026",
+  "rating": 6.714,
+  "duration": 98,
+  "genres": [
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Fantasy",
+    "Animation"
+  ],
+  "images": {
+    "banner": "banner.jpg",
+    "poster": "poster.jpg",
+    "logo": "logo.png"
+  },
+  "cast": [
+    {
+      "name": "Chris Pratt",
+      "character": "Mario (voice)",
+      "image": "cast/mario--voice-.jpg"
+    },
+    {
+      "name": "Anya Taylor-Joy",
+      "character": "Princess Peach (voice)",
+      "image": "cast/princess-peach--voice-.jpg"
+    },
+    {
+      "name": "Charlie Day",
+      "character": "Luigi (voice)",
+      "image": "cast/luigi--voice-.jpg"
+    },
+    {
+      "name": "Jack Black",
+      "character": "Bowser (voice)",
+      "image": "cast/bowser--voice-.jpg"
+    },
+    {
+      "name": "Donald Glover",
+      "character": "Yoshi (voice)",
+      "image": "cast/yoshi--voice-.jpg"
+    },
+    {
+      "name": "Benny Safdie",
+      "character": "Bowser Jr. (voice)",
+      "image": "cast/bowser-jr---voice-.jpg"
+    },
+    {
+      "name": "Brie Larson",
+      "character": "Rosalina (voice)",
+      "image": "cast/rosalina--voice-.jpg"
+    },
+    {
+      "name": "Keegan-Michael Key",
+      "character": "Toad (voice)",
+      "image": "cast/toad--voice-.jpg"
+    }
+  ],
+  "createdAt": "2026-05-12T07:56:38.426Z"
+}
