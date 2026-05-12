@@ -2,10 +2,7 @@
 // NAVBAR.JS - Componente de navegación (Header)
 // =============================================
 
-/**
- * Renderiza el header completo en el contenedor especificado
- */
-export function renderNavbar(containerId = "main-header") {
+function renderNavbar(containerId = "main-header") {
     const container = document.getElementById(containerId);
     if (!container) {
         console.error(`Contenedor #${containerId} no encontrado`);
@@ -39,9 +36,6 @@ export function renderNavbar(containerId = "main-header") {
     initNavbarEffects(container);
 }
 
-/**
- * Efectos del navbar (scroll, avatar, búsqueda móvil)
- */
 function initNavbarEffects(headerElement) {
     // Efecto de scroll
     window.addEventListener("scroll", () => {
@@ -58,7 +52,7 @@ function initNavbarEffects(headerElement) {
         });
     }
 
-    // Búsqueda en móvil
+    // Búsqueda móvil
     const mobileSearch = headerElement.querySelector(".mobile-search");
     if (mobileSearch) {
         mobileSearch.addEventListener("click", () => {
@@ -73,12 +67,9 @@ function initNavbarEffects(headerElement) {
     }
 }
 
-/**
- * Función principal para inicializar el navbar
- */
-export function initNavbar(containerId = "main-header") {
+function initNavbar(containerId = "main-header") {
     renderNavbar(containerId);
-    console.log("✅ Navbar inicializado");
+    console.log("✅ Navbar inicializado correctamente");
 }
 
 // Exponer globalmente
