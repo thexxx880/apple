@@ -1,5 +1,5 @@
 /* =============================================
-   ESTILOS BASE - LzPlay / CINEHAX
+   ESTILOS BASE - LzPlay / CINEHAX (sin navbar)
 ============================================= */
 *{
     margin: 0;
@@ -11,119 +11,6 @@ body{
     background: #020817;
     color: white;
     overflow-x: hidden;
-}
-
-/* =============================================
-   HEADER
-============================================= */
-header{
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 1000;
-    padding: 18px 30px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background: linear-gradient(to bottom, rgba(0,0,0,.75), transparent);
-    transition: background 0.3s ease;
-}
-
-/* === CORRECCIÓN DEL LOGO (azul y subrayado) === */
-.logo{
-    font-size: 3rem;
-    font-weight: 800;
-    letter-spacing: 2px;
-    color: white !important;
-    text-decoration: none !important;
-}
-.logo:hover{
-    color: #4f7cff;
-}
-
-/* === CORRECCIÓN DE LOS ENLACES DEL NAVBAR === */
-.nav-center{
-    display: flex;
-    align-items: center;
-    gap: 35px;
-}
-.nav-link{
-    color: white !important;
-    text-decoration: none !important;
-    font-size: 1rem;
-    opacity: 0.8;
-    transition: 0.3s;
-}
-.nav-link:hover{
-    opacity: 1;
-    color: #4f7cff;
-}
-
-.search-box{
-    width: 300px;
-    height: 45px;
-    background: rgba(255,255,255,.12);
-    border: 1px solid rgba(255,255,255,.1);
-    border-radius: 30px;
-    display: flex;
-    align-items: center;
-    padding: 0 18px;
-    gap: 10px;
-    backdrop-filter: blur(10px);
-}
-.search-box i{
-    color: #cfcfcf;
-    font-size: 1rem;
-}
-.search-box input{
-    width: 100%;
-    background: none;
-    border: none;
-    outline: none;
-    color: white;
-    font-size: .95rem;
-}
-.search-box input::placeholder{
-    color: #cfcfcf;
-}
-.icons{
-    display: flex;
-    align-items: center;
-    gap: 18px;
-}
-.icon-btn{
-    font-size: 1.35rem;
-    cursor: pointer;
-    color: #ccc;
-    transition: 0.3s;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.icons .icon-btn{
-    display: none;
-}
-.icon-btn:hover{
-    color: #4f7cff;
-}
-.user-avatar{
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    overflow: hidden;
-    border: 2px solid #4f7cff;
-    cursor: pointer;
-    transition: 0.3s;
-}
-.user-avatar:hover{
-    transform: scale(1.08);
-    border-color: #2563eb;
-}
-.user-avatar img{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
 }
 
 /* =============================================
@@ -321,8 +208,7 @@ header{
 }
 
 /* =============================================
-   FLOATING MENU
-   SOLO MOBILE
+   FLOATING MENU - SOLO MOBILE
 ============================================= */
 .fab,
 .floating-menu{
@@ -360,9 +246,7 @@ header{
     .icons .icon-btn{
         display: flex;
     }
-    /* =============================================
-       FLOATING MOBILE
-    ============================================= */
+    /* FLOATING MOBILE */
     .fab{
         position: fixed;
         right: 18px;
