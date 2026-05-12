@@ -1,162 +1,667 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Lz TV</title>
-
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>LzPlay</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 <style>
-body{
-  margin:0;
-  background:#000;
-  color:#fff;
-  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI";
+/* =============================================
+   ESTILOS BASE
+============================================= */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #020817;
+    color: white;
+    overflow-x: hidden;
+}
+
+/* HEADER */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    padding: 18px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(to bottom, rgba(0,0,0,.75), transparent);
+    transition: background 0.3s ease;
+}
+
+.logo {
+    font-size: 3rem;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+.nav-center {
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    opacity: 0.8;
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    opacity: 1;
+    color: #4f7cff;
+}
+
+.search-box {
+    width: 300px;
+    height: 45px;
+    background: rgba(255,255,255,.12);
+    border: 1px solid rgba(255,255,255,.1);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding: 0 18px;
+    gap: 10px;
+    backdrop-filter: blur(10px);
+}
+
+.search-box i {
+    color: #cfcfcf;
+    font-size: 1rem;
+}
+
+.search-box input {
+    width: 100%;
+    background: none;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: .95rem;
+}
+
+.search-box input::placeholder {
+    color: #cfcfcf;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+.icon-btn {
+    font-size: 1.35rem;
+    cursor: pointer;
+    color: #ccc;
+    transition: 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons .icon-btn {
+    display: none;
+}
+
+.icon-btn:hover {
+    color: #4f7cff;
+}
+
+.user-avatar {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 2px solid #4f7cff;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.user-avatar:hover {
+    transform: scale(1.08);
+    border-color: #2563eb;
+}
+
+.user-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 /* HERO */
-.hero{
-  height:380px;
-  display:flex;
-  flex-direction:column;
-  justify-content:center;
-  align-items:center;
-  text-align:center;
-  background:linear-gradient(to bottom,#000,transparent,#000),
-  url('https://image.tmdb.org/t/p/original') center/cover;
+.hero {
+    position: relative;
+    width: 100%;
+    height: 95vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    padding: 120px 70px 50px;
+    transition: background-image 0.6s ease;
 }
 
-.btn{
-  background:#fff;
-  color:#000;
-  padding:14px 30px;
-  border-radius:14px;
-  font-weight:bold;
-  cursor:pointer;
+.hero::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to right, rgba(0,0,0,.88) 18%, rgba(0,0,0,.35) 55%, transparent 75%);
+    z-index: 1;
 }
 
-/* SECTION */
-.section{
-  padding:20px;
+.hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 680px;
 }
 
-.row{
-  display:flex;
-  overflow-x:auto;
-  gap:15px;
+.badges {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
 }
 
-.card{
-  min-width:260px;
-  position:relative;
+.badge {
+    background: #2563eb;
+    padding: 8px 8px;
+    border-radius: 20px;
+    font-size: .65rem;
+    font-weight: 600;
 }
 
-.card img{
-  width:100%;
-  border-radius:15px;
+.badge.rating {
+    background: #0f172a;
 }
 
-.rank{
-  position:absolute;
-  bottom:-10px;
-  left:0;
-  font-size:60px;
-  font-weight:900;
+.hero-logo {
+    max-width: 420px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 25px;
+    filter: drop-shadow(0 10px 30px rgba(0,0,0,.6));
 }
 
-/* NAV */
-.nav{
-  position:fixed;
-  bottom:0;
-  width:100%;
-  background:#111;
-  display:flex;
-  justify-content:space-around;
-  padding:10px;
+.hero p {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: #d4d4d4;
+    margin-bottom: 35px;
+    max-width: 580px;
+}
+
+.play-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    padding: 18px 35px;
+    border-radius: 50px;
+    background: #2563eb;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s;
+    box-shadow: 0 10px 30px rgba(37,99,235,.4);
+}
+
+.play-btn:hover {
+    transform: translateY(-3px);
+}
+
+.play-btn i {
+    font-size: 1.1rem;
+}
+
+/* SECCIONES */
+.section {
+    padding: 40px 70px;
+}
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.section-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.view-all {
+    color: #4f7cff;
+    cursor: pointer;
+}
+
+/* MOVIES GRID - SCROLL HORIZONTAL */
+.movies-grid {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    padding-bottom: 20px;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+}
+
+.movies-grid::-webkit-scrollbar {
+    display: none;
+}
+
+.movie-card {
+    position: relative;
+    min-width: 200px;
+    max-width: 200px;
+    height: 300px;
+    border-radius: 20px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    flex-shrink: 0;
+    background: #111827;
+}
+
+.movie-card:hover {
+    transform: scale(1.05);
+}
+
+.movie-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.movie-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0,0,0,.9), transparent 55%);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 16px;
+}
+
+.movie-title {
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+/* =============================================
+   CÍRCULO DE CALIFICACIÓN CON PROGRESO
+============================================= */
+.movie-rating {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    width: 52px;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rating-circle {
+    width: 52px;
+    height: 52px;
+    transform: rotate(-90deg);
+}
+
+.rating-circle circle {
+    fill: none;
+    stroke-width: 5;
+}
+
+.rating-circle .bg {
+    stroke: rgba(0, 0, 0, 0.6);
+}
+
+.rating-circle .progress {
+    stroke: #22c55e;
+    stroke-linecap: round;
+    transition: stroke-dashoffset 0.4s ease;
+}
+
+.rating-value {
+    position: absolute;
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: white;
+}
+
+/* FLOATING MENU */
+.fab {
+    position: fixed;
+    right: 18px;
+    bottom: 25px;
+    width: 55px;
+    height: 55px;
+    background: #2563eb;
+    border-radius: 50%;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.6rem;
+    color: white;
+    box-shadow: 0 8px 25px rgba(37, 99, 235, 0.5);
+    cursor: pointer;
+    z-index: 999;
+    transition: all 0.3s ease;
+}
+
+.fab.hidden {
+    opacity: 0;
+    pointer-events: none;
+    transform: scale(0.6);
+}
+
+.floating-menu {
+    position: fixed;
+    right: 3px;
+    bottom: 0px;
+    width: 55px;
+    background: #0b1f4b;
+    border: 1px solid rgba(255, 255, 255, .1);
+    border-radius: 40px;
+    padding: 8px 0;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    z-index: 928;
+    backdrop-filter: blur(9px);
+    display: none;
+    opacity: 0;
+    transform: translateY(20px) scale(0.8);
+    transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.floating-menu.show {
+    display: flex;
+    opacity: 1;
+    transform: translateY(0) scale(1);
+}
+
+.float-icon {
+    font-size: 1.35rem;
+    color: #ccc;
+    cursor: pointer;
+    transition: 0.3s;
+    padding: 6px;
+}
+
+.float-icon:hover {
+    color: #4f7cff;
+    transform: scale(1.15);
+}
+
+/* RESPONSIVE */
+@media (max-width: 1200px) {
+    .hero-logo { max-width: 380px; }
+    .search-box { width: 220px; }
+}
+
+@media (max-width: 900px) {
+    header { padding: 18px; }
+    .nav-center { display: none; }
+    .hero { padding: 110px 25px 50px; height: 85vh; }
+    .section { padding: 30px 20px; }
+    .section-title { font-size: 2rem; }
+
+    .icons .icon-btn,
+    .fab {
+        display: flex;
+    }
+}
+
+@media (max-width: 600px) {
+    .logo { font-size: 1.3rem; }
+    .hero { height: 75vh; padding: 100px 20px 40px; }
+    .hero-logo { max-width: 200px; margin-bottom: 8px; }
+    .hero p { font-size: 0.65rem; line-height: 1.6; }
+    .play-btn { padding: 15px 25px; }
+    .movie-card { min-width: 160px; height: 240px; }
 }
 </style>
 </head>
-
 <body>
 
-<div class="hero" id="hero">
-  <h1>tv</h1>
-  <button class="btn">Prueba gratis</button>
+<!-- HEADER -->
+<header>
+    <div class="logo">CINEHAX</div>
+    
+    <div class="nav-center">
+        <a href="#" class="nav-link">Inicio</a>
+        <a href="#" class="nav-link">Tendencias</a>
+        <a href="#" class="nav-link">Películas</a>
+        <a href="#" class="nav-link">Series</a>
+        <div class="search-box">
+            <i class="fas fa-search"></i>
+            <input type="text" placeholder="Buscar películas o series">
+        </div>
+    </div>
+
+    <div class="icons">
+        <div class="icon-btn">
+            <i class="fas fa-search"></i>
+        </div>
+        <div class="user-avatar">
+            <img src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg" alt="Usuario">
+        </div>
+    </div>
+</header>
+
+<!-- HERO -->
+<section class="hero" id="hero">
+    <div class="hero-content">
+        <div class="badges">
+            <div class="badge" id="hero-type">PELÍCULA</div>
+            <div class="badge rating" id="hero-rating">⭐ --</div>
+            <div class="badge rating" id="hero-year">----</div>
+        </div>
+        <img id="hero-logo" class="hero-logo" alt="Logo">
+        <p id="hero-description"></p>
+        <a href="#" class="play-btn" id="hero-play-btn">
+            <i class="fas fa-play"></i> Ver ahora
+        </a>
+    </div>
+</section>
+
+<!-- PELÍCULAS MÁS VISTAS -->
+<section class="section">
+    <div class="section-header">
+        <h2 class="section-title">Películas más vistas</h2>
+        <span class="view-all">Ver todo</span>
+    </div>
+    <div class="movies-grid" id="movies-grid">
+        <!-- Se carga dinámicamente -->
+    </div>
+</section>
+
+<!-- FAB -->
+<div class="fab" id="fab">
+    <i class="fas fa-plus"></i>
 </div>
 
-<section class="section">
-  <h2>Top 10 Películas</h2>
-  <div class="row" id="movies"></div>
-</section>
-
-<section class="section">
-  <h2>Top 10 Series</h2>
-  <div class="row" id="series"></div>
-</section>
-
-<div class="nav">
-  <div>Inicio</div>
-  <div>TV</div>
-  <div>Buscar</div>
+<!-- FLOATING MENU -->
+<div class="floating-menu" id="floating-menu">
+    <div class="float-icon"><i class="fas fa-home"></i></div>
+    <div class="float-icon"><i class="fas fa-fire"></i></div>
+    <div class="float-icon"><i class="fas fa-film"></i></div>
+    <div class="float-icon"><i class="fas fa-tv"></i></div>
 </div>
 
 <script>
+// =============================================
+// HERO DINÁMICO
+// =============================================
+async function loadRandomHero() {
+    try {
+        const apiUrl = "https://api.github.com/repos/thexxx880/apple/contents/movie";
+        const response = await fetch(apiUrl);
+        if (!response.ok) return;
 
-var API_KEY = "38e497c6c1a043d1341416e80915669f";
+        const files = await response.json();
+        const jsonFiles = files.filter(f => f.name.endsWith(".json")).slice(0, 10);
+        if (jsonFiles.length === 0) return;
 
-// cargar películas
-fetch(`https://api.themoviedb.org/3/trending/movie/week?api_key=${API_KEY}&language=es`)
-.then(res => res.json())
-.then(data => {
+        const randomFile = jsonFiles[Math.floor(Math.random() * jsonFiles.length)];
+        const movieId = randomFile.name.replace(".json", "");
+        const rawUrl = `https://raw.githubusercontent.com/thexxx880/apple/main/movie/${movieId}.json`;
 
-  var container = document.getElementById("movies");
+        const content = await fetch(rawUrl);
+        const data = await content.json();
 
-  data.results.slice(0,10).forEach(function(item, index){
+        const heroSection = document.getElementById("hero");
+        const heroLogo = document.getElementById("hero-logo");
+        const heroDesc = document.getElementById("hero-description");
+        const heroRating = document.getElementById("hero-rating");
+        const heroYear = document.getElementById("hero-year");
 
-    var card = `
-      <div class="card">
-        <img src="https://image.tmdb.org/t/p/w500${item.poster_path}">
-        <div class="rank">${index+1}</div>
-        <div>${item.title}</div>
-      </div>
-    `;
+        if (data.backdrop) heroSection.style.backgroundImage = `url('${data.backdrop}')`;
+        if (data.logo) heroLogo.src = data.logo;
 
-    container.innerHTML += card;
+        heroYear.textContent = data.anio || "----";
+        heroRating.innerHTML = `⭐ ${data.calificacion || "N/A"}`;
 
-    // HERO dinámico
-    if(index === 0){
-      document.getElementById("hero").style.background =
-      `linear-gradient(to bottom,#000,transparent,#000),
-       url(https://image.tmdb.org/t/p/original${item.backdrop_path}) center/cover`;
+        let sinopsis = data.sinopsis || "";
+        if (sinopsis.length > 220) sinopsis = sinopsis.substring(0, 220) + "...";
+        heroDesc.textContent = sinopsis;
+
+    } catch (error) {
+        console.error("Error en Hero:", error);
     }
+}
 
-  });
+loadRandomHero();
 
-});
+// =============================================
+// FUNCIÓN PARA CREAR CÍRCULO DE CALIFICACIÓN
+// =============================================
+function createRatingCircle(rating) {
+    const percentage = Math.min(Math.max(rating * 10, 0), 100); // 0 a 100
+    const circumference = 2 * Math.PI * 21; // radio = 21
+    const offset = circumference - (circumference * percentage / 100);
 
-// cargar series
-fetch(`https://api.themoviedb.org/3/trending/tv/week?api_key=${API_KEY}&language=es`)
-.then(res => res.json())
-.then(data => {
-
-  var container = document.getElementById("series");
-
-  data.results.slice(0,10).forEach(function(item, index){
-
-    var card = `
-      <div class="card">
-        <img src="https://image.tmdb.org/t/p/w500${item.poster_path}">
-        <div class="rank">${index+1}</div>
-        <div>${item.name}</div>
-      </div>
+    return `
+        <svg class="rating-circle" width="52" height="52">
+            <!-- Fondo del círculo -->
+            <circle class="bg" 
+                    cx="26" cy="26" r="21" 
+                    stroke="#333" 
+                    stroke-width="5"/>
+            
+            <!-- Progreso verde -->
+            <circle class="progress" 
+                    cx="26" cy="26" r="21" 
+                    stroke="#22c55e" 
+                    stroke-width="5"
+                    stroke-dasharray="${circumference}"
+                    stroke-dashoffset="${offset}"/>
+        </svg>
+        <span class="rating-value">${rating}</span>
     `;
+}
 
-    container.innerHTML += card;
+// =============================================
+// CARGAR PELÍCULAS DESDE movie.json
+// =============================================
+async function loadMoviesSection() {
+    try {
+        const url = "https://raw.githubusercontent.com/thexxx880/apple/main/movie.json";
+        const response = await fetch(url);
+        if (!response.ok) throw new Error("Error al cargar movie.json");
 
-  });
+        const data = await response.json();
+        const movies = data.movies.slice(0, 10);
 
+        const container = document.getElementById("movies-grid");
+        container.innerHTML = "";
+
+        movies.forEach(movie => {
+            const card = document.createElement("div");
+            card.className = "movie-card";
+
+            const ratingHTML = createRatingCircle(movie.calificacion);
+
+            card.innerHTML = `
+                <img src="${movie.poster}" alt="${movie.titulo}">
+                <div class="movie-rating">
+                    ${ratingHTML}
+                </div>
+                <div class="movie-overlay">
+                    <div class="movie-title">${movie.titulo}</div>
+                </div>
+            `;
+
+            card.addEventListener("click", () => {
+                alert(`Abrir película: ${movie.titulo} (ID: ${movie.id})`);
+            });
+
+            container.appendChild(card);
+        });
+
+    } catch (error) {
+        console.error("Error cargando películas:", error);
+        document.getElementById("movies-grid").innerHTML = 
+            `<p style="color:#aaa; padding:20px;">No se pudieron cargar las películas.</p>`;
+    }
+}
+
+loadMoviesSection();
+
+// =============================================
+// FLOATING MENU
+// =============================================
+const fab = document.getElementById("fab");
+const floatingMenu = document.getElementById("floating-menu");
+
+function openFloatingMenu() {
+    floatingMenu.style.display = "flex";
+    setTimeout(() => floatingMenu.classList.add("show"), 10);
+    fab.classList.add("hidden");
+}
+
+function closeFloatingMenu() {
+    floatingMenu.classList.remove("show");
+    setTimeout(() => {
+        floatingMenu.style.display = "none";
+        fab.classList.remove("hidden");
+    }, 350);
+}
+
+fab.addEventListener("click", (e) => {
+    e.stopPropagation();
+    openFloatingMenu();
 });
 
-</script>
+document.addEventListener("click", (e) => {
+    if (floatingMenu.classList.contains("show") && !floatingMenu.contains(e.target)) {
+        closeFloatingMenu();
+    }
+});
 
+window.addEventListener("scroll", () => {
+    if (floatingMenu.classList.contains("show")) closeFloatingMenu();
+}, { passive: true });
+
+// Scroll navbar
+window.addEventListener("scroll", () => {
+    const header = document.querySelector("header");
+    header.style.background = window.scrollY > 20 
+        ? "rgba(2,8,23,.92)" 
+        : "linear-gradient(to bottom, rgba(0,0,0,.75), transparent)";
+}, { passive: true });
+</script>
 </body>
 </html>
