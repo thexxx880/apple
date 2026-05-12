@@ -73,15 +73,13 @@ html {
     );
 }
 
-/* Mobile topbar removido (usamos tu navbar.js) */
-
 /* Hero Content */
 .hero-content {
   position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
-  padding: 0 24px 110px;
+  padding: 0 8px 10px;
   display: flex;
   flex-direction: column;
   gap: 18px;
@@ -126,7 +124,7 @@ html {
 
 .hero-logo {
   max-width: 520px;
-  width: 35%;
+  width: 40%;
   margin-bottom: 12px;
 }
 
