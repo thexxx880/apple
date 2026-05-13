@@ -61,11 +61,11 @@ async function loadContent() {
 
 // ================== RENDERIZAR PÁGINA ==================
 let currentMovieId = null;
-let currentMovieData = null;   // Guardamos todos los datos para Mi Lista
+let currentMovieData = null;
 
 function renderPage(data, vistasData, id) {
   currentMovieId = id;
-  currentMovieData = data;     // Guardamos los datos completos
+  currentMovieData = data;
 
   document.getElementById('pageTitle').textContent = `${data.titulo} • LzPlay`;
 
@@ -74,7 +74,7 @@ function renderPage(data, vistasData, id) {
   setTimeout(() => heroBg.classList.add('loaded'), 100);
 
   const heroLogo = document.getElementById('heroLogo');
-  heroLogo.innerHTML = data.logo 
+  heroLogo.innerHTML = data.logo
     ? `<img src="${data.logo}" alt="${data.titulo}">`
     : `<h1 style="font-size:3.8rem;line-height:1;color:white;font-family:'Bebas Neue',sans-serif;">${data.titulo}</h1>`;
 
@@ -90,8 +90,9 @@ function renderPage(data, vistasData, id) {
   `;
 
   document.getElementById('sinopsis').textContent = data.sinopsis || "Sin sinopsis disponible.";
+
   const generosContainer = document.getElementById('generos');
-  generosContainer.innerHTML = (data.generos || []).map(g => 
+  generosContainer.innerHTML = (data.generos || []).map(g =>
     `<span class="genre-chip">${g}</span>`
   ).join('');
 
@@ -129,8 +130,13 @@ function renderPage(data, vistasData, id) {
 
   loadFavoriteState(id);
 
-  const loader = document.getElementById('loader');
-  if (loader) loader.style.display = 'none';
+  // ✅ OCULTAR LOADER (con mínimo 2 segundos)
+  if (typeof hideLoader === "function") {
+    hideLoader();
+  } else {
+    const loader = document.getElementById('loader');
+    if (loader) loader.style.display = 'none';
+  }
 
   console.log(`%c✅ Contenido cargado | ID ${id}`, 'color:#46d369;font-weight:bold');
 }
@@ -140,25 +146,18 @@ async function toggleFavorite(movieId, movieData) {
   const auth = window.firebaseAuth;
   const db = window.firebaseDb;
   const user = auth.currentUser;
-
   if (!user) {
     showToast('Iniciando sesión...', 'fa-spinner fa-spin');
     return false;
   }
-
   const userRef = doc(db, 'users', user.uid);
-
   try {
     const docSnap = await getDoc(userRef);
     let favorites = docSnap.exists() && docSnap.data().favorites ? { ...docSnap.data().favorites } : {};
-
     if (favorites[movieId]) {
-      // Ya existe → eliminar
       delete favorites[movieId];
     } else {
-      // No existe → agregar con todos los datos
       const currentUrl = window.location.href;
-
       favorites[movieId] = {
         id: movieId,
         url: currentUrl,
@@ -170,7 +169,6 @@ async function toggleFavorite(movieId, movieData) {
         logo: movieData.logo || ''
       };
     }
-
     await setDoc(userRef, { favorites }, { merge: true });
     return !!favorites[movieId];
   } catch (error) {
@@ -183,27 +181,24 @@ async function toggleFavorite(movieId, movieData) {
 async function loadFavoriteState(movieId) {
   const btn = document.getElementById('listBtn');
   if (!btn) return;
-
   const auth = window.firebaseAuth;
   const db = window.firebaseDb;
   const user = auth.currentUser;
   if (!user) return;
-
   try {
     const docSnap = await getDoc(doc(db, 'users', user.uid));
     const favorites = docSnap.exists() && docSnap.data().favorites ? docSnap.data().favorites : {};
     const isSaved = !!favorites[movieId];
-
     const icon = btn.querySelector('i');
     if (isSaved) {
       icon.className = 'fa-solid fa-bookmark';
       btn.classList.add('saved');
-      btn.style.color = '#f5c518';           // Dorado
+      btn.style.color = '#f5c518';
       btn.querySelector('span').textContent = 'Guardado';
     } else {
       icon.className = 'fa-regular fa-bookmark';
       btn.classList.remove('saved');
-      btn.style.color = '';                  // Color original
+      btn.style.color = '';
       btn.querySelector('span').textContent = 'Mi lista';
     }
   } catch (e) {
@@ -213,7 +208,6 @@ async function loadFavoriteState(movieId) {
 
 function toggleList(btn) {
   if (!currentMovieId || !currentMovieData) return;
-
   toggleFavorite(currentMovieId, currentMovieData).then(isSaved => {
     const icon = btn.querySelector('i');
     if (isSaved) {
@@ -264,14 +258,12 @@ function openPlayer(option) {
     closeModal();
     return;
   }
-
   let url = '';
   if (option === 1) {
     url = `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
   } else if (option === 2) {
     url = `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
   }
-
   closeModal();
   window.open(url, '_blank');
 }
@@ -303,13 +295,16 @@ function showToast(msg, icon = 'fa-circle-check') {
 // ================== SHOW ERROR ==================
 function showError(message) {
   const loader = document.getElementById('loader');
-  if (loader) {
-    loader.innerHTML = `
-      <div class="error-screen">
-        <h2 style="font-size:2rem;margin-bottom:16px;">${message}</h2>
-        <p style="color:#ccc;">Verifica que el archivo exista en tu repositorio de GitHub.</p>
-      </div>`;
-  }
+  if (!loader) return;
+
+  loader.innerHTML = `
+    <div class="error-screen" style="text-align:center;color:white;padding:40px;">
+      <h2 style="font-size:2rem;margin-bottom:16px;">${message}</h2>
+      <p style="color:#ccc;">Verifica que el archivo exista en tu repositorio de GitHub.</p>
+      <button onclick="window.location.reload()" style="margin-top:25px;padding:12px 28px;background:#4f7cff;color:white;border:none;border-radius:8px;font-size:1rem;cursor:pointer;">
+        Recargar página
+      </button>
+    </div>`;
 }
 
 // ================== INICIO ==================
