@@ -300,7 +300,7 @@ function showError(message) {
   loader.innerHTML = `
     <div class="error-screen" style="text-align:center;color:white;padding:40px;">
       <h2 style="font-size:2rem;margin-bottom:16px;">${message}</h2>
-      <p style="color:#ccc;">Verifica que el archivo exista en tu repositorio de GitHub.</p>
+      <p style="color:#ccc;">Verifica que el archivo exista</p>
       <button onclick="window.location.reload()" style="margin-top:25px;padding:12px 28px;background:#4f7cff;color:white;border:none;border-radius:8px;font-size:1rem;cursor:pointer;">
         Recargar página
       </button>
