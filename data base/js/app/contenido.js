@@ -1,7 +1,9 @@
 // =============================================
 // CONTENIDO.JS - Mi Lista con datos completos + Icono Dorado
 // =============================================
+
 const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/";
+
 // ================== OBTENER ID ==================
 function getContentId() {
   const params = new URLSearchParams(window.location.search);
@@ -12,6 +14,7 @@ function getContentId() {
   }
   return id;
 }
+
 // ================== INCREMENTAR VISTAS ==================
 async function incrementViewCount(id) {
   const dataUrl = `${GITHUB_RAW_BASE}${id}/data.json`;
@@ -25,43 +28,56 @@ async function incrementViewCount(id) {
     return 0;
   }
 }
+
 // ================== CARGAR CONTENIDO ==================
 async function loadContent() {
   const id = getContentId();
   if (!id) return;
+
   const contenidoUrl = `${GITHUB_RAW_BASE}${id}/${id}.json`;
   const dataUrl = `${GITHUB_RAW_BASE}${id}/data.json`;
+
   try {
     const [contenidoRes, dataRes] = await Promise.all([
       fetch(contenidoUrl),
       fetch(dataUrl)
     ]);
+
     if (!contenidoRes.ok) throw new Error(`No se encontró ${id}.json`);
+
     const contenido = await contenidoRes.json();
     let vistasData = { vistas: {} };
     if (dataRes.ok) vistasData = await dataRes.json();
+
     const vistasActuales = await incrementViewCount(id);
     vistasData.vistas[id] = vistasActuales;
+
     renderPage(contenido, vistasData, id);
   } catch (err) {
     console.error(err);
     showError(`No se encontró el contenido<br><small>ID: ${id}</small>`);
   }
 }
+
 // ================== RENDERIZAR PÁGINA ==================
 let currentMovieId = null;
-let currentMovieData = null; // Guardamos todos los datos para Mi Lista
+let currentMovieData = null;   // Guardamos todos los datos para Mi Lista
+
 function renderPage(data, vistasData, id) {
   currentMovieId = id;
-  currentMovieData = data; // Guardamos los datos completos
+  currentMovieData = data;     // Guardamos los datos completos
+
   document.getElementById('pageTitle').textContent = `${data.titulo} • LzPlay`;
+
   const heroBg = document.getElementById('heroBg');
   heroBg.style.backgroundImage = `url('${data.backdrop || data.poster}')`;
   setTimeout(() => heroBg.classList.add('loaded'), 100);
+
   const heroLogo = document.getElementById('heroLogo');
-  heroLogo.innerHTML = data.logo
+  heroLogo.innerHTML = data.logo 
     ? `<img src="${data.logo}" alt="${data.titulo}">`
     : `<h1 style="font-size:3.8rem;line-height:1;color:white;font-family:'Bebas Neue',sans-serif;">${data.titulo}</h1>`;
+
   document.getElementById('heroMeta').innerHTML = `
     <span class="match-score"><i class="fa-solid fa-thumbs-up"></i> ${Math.round(data.puntuacion * 10)}% para ti</span>
     <div class="meta-dot"></div>
@@ -72,11 +88,13 @@ function renderPage(data, vistasData, id) {
     <span class="meta-badge">${data.calificacion}</span>
     <span class="meta-badge">${data.edad_minima || '13'}+</span>
   `;
+
   document.getElementById('sinopsis').textContent = data.sinopsis || "Sin sinopsis disponible.";
   const generosContainer = document.getElementById('generos');
-  generosContainer.innerHTML = (data.generos || []).map(g =>
+  generosContainer.innerHTML = (data.generos || []).map(g => 
     `<span class="genre-chip">${g}</span>`
   ).join('');
+
   const vistas = vistasData.vistas[id] || 0;
   document.getElementById('statsRow').innerHTML = `
     <div class="stat-card"><i class="fa-solid fa-calendar-days stat-icon"></i><div class="stat-value">${data.año}</div><div class="stat-label">Estreno</div></div>
@@ -84,6 +102,7 @@ function renderPage(data, vistasData, id) {
     <div class="stat-card"><i class="fa-solid fa-star stat-icon" style="color:var(--gold)"></i><div class="stat-value" style="color:var(--gold)">${data.puntuacion}</div><div class="stat-label">Puntuación</div></div>
     <div class="stat-card"><i class="fa-solid fa-eye stat-icon"></i><div class="stat-value">${vistas.toLocaleString('es-ES')}</div><div class="stat-label">Vistas</div></div>
   `;
+
   const castContainer = document.getElementById('castScroll');
   castContainer.innerHTML = (data.reparto || []).map(actor => `
     <div class="cast-card" onclick="showCastInfo('${actor.nombre}')">
@@ -92,6 +111,7 @@ function renderPage(data, vistasData, id) {
       <div class="cast-role">${actor.personaje}</div>
     </div>
   `).join('');
+
   const crewContainer = document.getElementById('crewGrid');
   const allCrew = [...(data.equipo_creativo || []), ...(data.crew || [])];
   crewContainer.innerHTML = allCrew.map(person => `
@@ -100,35 +120,45 @@ function renderPage(data, vistasData, id) {
       <div><div class="crew-name">${person.nombre}</div><div class="crew-role">${person.rol}</div></div>
     </div>
   `).join('');
+
   // Asignar eventos
   const playBtn = document.getElementById('playBtn');
   const trailerBtn = document.getElementById('trailerBtn');
   if (playBtn) playBtn.onclick = () => showPlayerModal(data);
   if (trailerBtn) trailerBtn.onclick = () => playTrailer(data);
+
   loadFavoriteState(id);
+
   const loader = document.getElementById('loader');
   if (loader) loader.style.display = 'none';
+
   console.log(`%c✅ Contenido cargado | ID ${id}`, 'color:#46d369;font-weight:bold');
 }
+
 // ================== MI LISTA CON DATOS COMPLETOS ==================
 async function toggleFavorite(movieId, movieData) {
   const auth = window.firebaseAuth;
   const db = window.firebaseDb;
   const user = auth.currentUser;
+
   if (!user) {
     showToast('Iniciando sesión...', 'fa-spinner fa-spin');
     return false;
   }
+
   const userRef = doc(db, 'users', user.uid);
+
   try {
     const docSnap = await getDoc(userRef);
     let favorites = docSnap.exists() && docSnap.data().favorites ? { ...docSnap.data().favorites } : {};
+
     if (favorites[movieId]) {
       // Ya existe → eliminar
       delete favorites[movieId];
     } else {
       // No existe → agregar con todos los datos
       const currentUrl = window.location.href;
+
       favorites[movieId] = {
         id: movieId,
         url: currentUrl,
@@ -140,6 +170,7 @@ async function toggleFavorite(movieId, movieData) {
         logo: movieData.logo || ''
       };
     }
+
     await setDoc(userRef, { favorites }, { merge: true });
     return !!favorites[movieId];
   } catch (error) {
@@ -148,35 +179,41 @@ async function toggleFavorite(movieId, movieData) {
     return false;
   }
 }
+
 async function loadFavoriteState(movieId) {
   const btn = document.getElementById('listBtn');
   if (!btn) return;
+
   const auth = window.firebaseAuth;
   const db = window.firebaseDb;
   const user = auth.currentUser;
   if (!user) return;
+
   try {
     const docSnap = await getDoc(doc(db, 'users', user.uid));
     const favorites = docSnap.exists() && docSnap.data().favorites ? docSnap.data().favorites : {};
     const isSaved = !!favorites[movieId];
+
     const icon = btn.querySelector('i');
     if (isSaved) {
       icon.className = 'fa-solid fa-bookmark';
       btn.classList.add('saved');
-      btn.style.color = '#f5c518'; // Dorado
+      btn.style.color = '#f5c518';           // Dorado
       btn.querySelector('span').textContent = 'Guardado';
     } else {
       icon.className = 'fa-regular fa-bookmark';
       btn.classList.remove('saved');
-      btn.style.color = ''; // Color original
+      btn.style.color = '';                  // Color original
       btn.querySelector('span').textContent = 'Mi lista';
     }
   } catch (e) {
     console.error('Error cargando Mi lista:', e);
   }
 }
+
 function toggleList(btn) {
   if (!currentMovieId || !currentMovieData) return;
+
   toggleFavorite(currentMovieId, currentMovieData).then(isSaved => {
     const icon = btn.querySelector('i');
     if (isSaved) {
@@ -194,6 +231,7 @@ function toggleList(btn) {
     }
   });
 }
+
 // ================== TRAILER Y MODAL ==================
 function playTrailer(data) {
   const trailerUrl = data.trailer || data.youtube || data.video_trailer;
@@ -203,6 +241,7 @@ function playTrailer(data) {
     showToast('No hay trailer disponible', 'fa-exclamation-triangle');
   }
 }
+
 function showPlayerModal(data) {
   const modal = document.getElementById('playerModal');
   window.currentMovieData = {
@@ -212,10 +251,12 @@ function showPlayerModal(data) {
   };
   modal.style.display = 'flex';
 }
+
 function closeModal() {
   const modal = document.getElementById('playerModal');
   if (modal) modal.style.display = 'none';
 }
+
 function openPlayer(option) {
   const d = window.currentMovieData;
   if (!d || !d.video) {
@@ -223,22 +264,27 @@ function openPlayer(option) {
     closeModal();
     return;
   }
+
   let url = '';
   if (option === 1) {
     url = `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
   } else if (option === 2) {
     url = `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
   }
+
   closeModal();
   window.open(url, '_blank');
 }
+
 // ================== FUNCIONES AUXILIARES ==================
 function showCastInfo(name) {
   showToast(`Filmografía de ${name}`, 'fa-person');
 }
+
 function goBack() {
   window.history.back();
 }
+
 // ================== TOAST ==================
 let toastTimer;
 function showToast(msg, icon = 'fa-circle-check') {
@@ -253,6 +299,7 @@ function showToast(msg, icon = 'fa-circle-check') {
   clearTimeout(toastTimer);
   toastTimer = setTimeout(() => t.classList.remove('show'), 2800);
 }
+
 // ================== SHOW ERROR ==================
 function showError(message) {
   const loader = document.getElementById('loader');
@@ -264,5 +311,6 @@ function showError(message) {
       </div>`;
   }
 }
+
 // ================== INICIO ==================
 document.addEventListener("DOMContentLoaded", loadContent);
