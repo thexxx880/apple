@@ -16,10 +16,9 @@ async function loadRandomHero() {
 
         if (data.backdrop) heroSection.style.backgroundImage = `url('${data.backdrop}')`;
         if (data.logo && heroLogo) heroLogo.src = data.logo;
-
         if (heroYear) heroYear.textContent = data.anio || "----";
         if (heroRating) heroRating.innerHTML = `⭐ ${data.calificacion || "N/A"}`;
-
+        
         if (heroDesc) {
             let sinopsis = data.sinopsis || "";
             if (sinopsis.length > 220) sinopsis = sinopsis.substring(0, 220) + "...";
@@ -45,14 +44,12 @@ async function loadMoviesSection() {
 
     try {
         const movies = await fetchMovies(10);
-
         if (movies.length === 0) {
             container.innerHTML = `<p style="color:#ff6b6b; padding: 30px 20px;">No se encontraron películas.</p>`;
             return;
         }
 
         container.innerHTML = "";
-
         movies.forEach(movie => {
             const card = document.createElement("div");
             card.className = "movie-card";
@@ -81,22 +78,23 @@ async function loadMoviesSection() {
     }
 }
 
-// ================== INICIO + OCULTAR LOADER ==================
+// ================== INICIO + LOADER (Mínimo 2 segundos) ==================
 document.addEventListener("DOMContentLoaded", async () => {
-    // Iniciar loader (por si no lo tienes en otro lugar)
-    if (typeof initLoader === "function") initLoader();
+    // Iniciar loader
+    if (typeof initLoader === "function") {
+        initLoader();
+    }
 
-    // Cargar todo el contenido
+    // Cargar todo el contenido de la página
     await Promise.all([
         loadRandomHero(),
         loadMoviesSection()
     ]);
 
-    // Ocultar el loader cuando todo haya cargado
+    // Ocultar loader (respeta siempre los 2 segundos gracias a loader.js)
     if (typeof hideLoader === "function") {
         hideLoader();
     } else {
-        // Fallback por si no tienes hideLoader
         const loader = document.getElementById('loader');
         if (loader) loader.style.display = 'none';
     }
