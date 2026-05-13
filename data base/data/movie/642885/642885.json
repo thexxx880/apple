@@ -1,0 +1,218 @@
+{
+  "id_tmdb": 642885,
+  "poster": "https://image.tmdb.org/t/p/w500/gbbZNVuGSD6cPGZ4sfcrA59EKNY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ml8YBTJq7UkALfI022FWscCQuQW.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9G1KxftgQsXDIgLUXU0bTZchfpU.png",
+  "titulo": "El retorno de las brujas 2",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Comedia"
+  ],
+  "calificacion": "PG",
+  "puntuacion": 7.2,
+  "año": "2022",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Han pasado 29 años desde que alguien encendió la Vela de la Llama Negra y resucitó a las hermanas Sanderson del siglo XVII, y ahora buscan venganza. De tres estudiantes de secundaria depende impedir que las voraces brujas causen un nuevo tipo de estrago en Salem antes del amanecer el día de Halloween.",
+  "fecha_estreno": "2022-09-27",
+  "titulo_original": "Hocus Pocus 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Bette Midler",
+      "personaje": "Winifred Sanderson",
+      "foto": "https://image.tmdb.org/t/p/w500/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
+    },
+    {
+      "nombre": "Sarah Jessica Parker",
+      "personaje": "Sarah Sanderson",
+      "foto": "https://image.tmdb.org/t/p/w500/tEhHY7Uyn8VktwLhawBRuR0tdaJ.jpg"
+    },
+    {
+      "nombre": "Kathy Najimy",
+      "personaje": "Mary Sanderson",
+      "foto": "https://image.tmdb.org/t/p/w500/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+    },
+    {
+      "nombre": "Whitney Peak",
+      "personaje": "Becca",
+      "foto": "https://image.tmdb.org/t/p/w500/qjWZGTjaMcRm8lzHXvlryTH3TxG.jpg"
+    },
+    {
+      "nombre": "Belissa Escobedo",
+      "personaje": "Izzy",
+      "foto": "https://image.tmdb.org/t/p/w500/584tOsPVFbzq7GJxET5diOGZ8p0.jpg"
+    },
+    {
+      "nombre": "Lilia Buckingham",
+      "personaje": "Cassie",
+      "foto": "https://image.tmdb.org/t/p/w500/orShxWj84XBVW4zEMoNkYaVsnc5.jpg"
+    },
+    {
+      "nombre": "Froy Gutierrez",
+      "personaje": "Mike",
+      "foto": "https://image.tmdb.org/t/p/w500/8sCm6Jl8jDUwRBin6k7CIFIm0yg.jpg"
+    },
+    {
+      "nombre": "Sam Richardson",
+      "personaje": "Gilbert",
+      "foto": "https://image.tmdb.org/t/p/w500/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Anne Fletcher",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jen D'Angelo",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lynn Harris",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 29214,
+      "known_for_department": "Directing",
+      "name": "Anne Fletcher",
+      "original_name": "Anne Fletcher",
+      "popularity": 0.9639,
+      "profile_path": "/8gD32nqf3fghg6FZhDbHxuowtyu.jpg",
+      "credit_id": "60a694ae4b0c630078d2abd1",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 20739,
+      "known_for_department": "Directing",
+      "name": "Adam Shankman",
+      "original_name": "Adam Shankman",
+      "popularity": 0.6854,
+      "profile_path": "/6Eu0BNd8rMuXaIXkF7nPD7qYYW2.jpg",
+      "credit_id": "60a69776cb5c8e00409a53e0",
+      "department": "Production",
+      "job": "Executive Producer"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1665465,
+      "known_for_department": "Crew",
+      "name": "Heidi Pascoe",
+      "original_name": "Heidi Pascoe",
+      "popularity": 0.3302,
+      "profile_path": "/diaSegIeYfjjhMMr3TJZsZ7m0DH.jpg",
+      "credit_id": "64d7ac9fbf31f201cd4f6d36",
+      "department": "Crew",
+      "job": "Stunt Double"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 3446125,
+      "known_for_department": "Crew",
+      "name": "Amanda MacLeod",
+      "original_name": "Amanda MacLeod",
+      "popularity": 0.0943,
+      "profile_path": "/eKQZndPvQkIPyEc3QwEWkpPpzot.jpg",
+      "credit_id": "64f1417b3a9937011cbdfcbe",
+      "department": "Crew",
+      "job": "Stunt Double"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1554926,
+      "known_for_department": "Crew",
+      "name": "Shawnna Thibodeau",
+      "original_name": "Shawnna Thibodeau",
+      "popularity": 0.4261,
+      "profile_path": "/GQog3hoCbJugk6wqKFB91Ysuo4.jpg",
+      "credit_id": "6519fcff967cc73426099995",
+      "department": "Crew",
+      "job": "Stunts"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1045964,
+      "known_for_department": "Crew",
+      "name": "Aaron Vexler",
+      "original_name": "Aaron Vexler",
+      "popularity": 0.3438,
+      "profile_path": "/plHE3PjUw25hbIED3k0tpeEayNT.jpg",
+      "credit_id": "652f1908358da75b5f7ac1c9",
+      "department": "Crew",
+      "job": "Stunts"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 2376069,
+      "known_for_department": "Crew",
+      "name": "Becca GT",
+      "original_name": "Becca GT",
+      "popularity": 0.2157,
+      "profile_path": null,
+      "credit_id": "65343fa9a0be2800c568821d",
+      "department": "Crew",
+      "job": "Stunt Double"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 92492,
+      "known_for_department": "Crew",
+      "name": "Jayson Dumenigo",
+      "original_name": "Jayson Dumenigo",
+      "popularity": 0.2542,
+      "profile_path": null,
+      "credit_id": "65343fcd91f0ea00ac5cf4f2",
+      "department": "Crew",
+      "job": "Stunt Coordinator"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1554921,
+      "known_for_department": "Crew",
+      "name": "Shane Geraghty",
+      "original_name": "Shane Geraghty",
+      "popularity": 0.2533,
+      "profile_path": "/nVOnoG7HFm7Csk7DvVwVkajW77L.jpg",
+      "credit_id": "65343fc0c8a5ac00e2b6c070",
+      "department": "Crew",
+      "job": "Stunts"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1959481,
+      "known_for_department": "Acting",
+      "name": "G. Grant Jewett",
+      "original_name": "G. Grant Jewett",
+      "popularity": 0.1327,
+      "profile_path": null,
+      "credit_id": "65343f9f8cfcc700aa023a35",
+      "department": "Crew",
+      "job": "Stunts"
+    }
+  ],
+  "director": "Anne Fletcher",
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20El%20retorno%20de%20las%20brujas%202%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4",
+  "trailer": "https://www.youtube.com/watch?v=YQKkDuTVRbE"
+}
