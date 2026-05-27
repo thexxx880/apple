@@ -71,6 +71,16 @@
             <div class="section-header"><h2 class="section-title">Equipo creativo</h2></div>
             <div class="crew-grid" id="crewGrid"></div>
         </div>
+
+        <!-- VALORACIONES (TMDB) -->
+        <div class="section-header"><h2 class="section-title">Valoraciones</h2></div>
+        <div class="rating-block">
+            <div class="rating-big">
+                <div class="rating-number" id="ratingNumber">—</div>
+                <small id="ratingSource" style="display:block; font-size:0.8rem; color:#aaa; margin-top:4px;">TMDB</small>
+            </div>
+            <div class="rating-bars" id="ratingBars"></div>
+        </div>
     </div>
 
     <!-- FLOATING MENU -->
@@ -110,11 +120,8 @@
     <script src="js/components/floating-menu.js"></script>
     <script src="js/app/contenido.js"></script>
     <script src="js/main.js"></script>
-
-    <!-- SCRIPT PARA EL BOTÓN DE EQUIPO CREATIVO + FILTRO DE "undefined" -->
     <script>
-        // Toggle para mostrar/ocultar el equipo creativo
-        function toggleCrew() {
+      function toggleCrew() {
             const section = document.getElementById('crewSection');
             const btn = document.getElementById('crewToggleBtn');
             
@@ -127,31 +134,94 @@
             }
         }
 
-        // Asignar el evento al botón
-        document.addEventListener('DOMContentLoaded', () => {
-            const btn = document.getElementById('crewToggleBtn');
-            btn.addEventListener('click', toggleCrew);
-        });
-
-        // FILTRO AUTOMÁTICO DE "undefined" (se ejecuta después de que tu JS cargue los datos)
-        function limpiarUndefinedEnCrew() {
+       function limpiarUndefinedEnCrew() {
             const crewGrid = document.getElementById('crewGrid');
             if (!crewGrid) return;
-
-            // Esperamos un pequeño momento para que tu código de contenido.js ya haya llenado el grid
             setTimeout(() => {
-                const items = crewGrid.querySelectorAll('.crew-item, div'); // ajusta el selector si tus items tienen otra clase
+                const items = crewGrid.querySelectorAll('.crew-item, div');
                 items.forEach(item => {
                     const text = item.textContent.trim();
                     if (text === 'undefined' || text === '' || text.includes('undefined')) {
                         item.style.display = 'none';
                     }
                 });
-            }, 800); // ajusta el tiempo si tu JS tarda más en cargar los datos
+            }, 800);
         }
 
-        // Ejecutar el filtro automáticamente
-        window.addEventListener('load', limpiarUndefinedEnCrew);
+       const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
+
+        async function loadTMDBRating() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const tmdbId = urlParams.get('id') || urlParams.get('tmdb_id');
+            const mediaType = urlParams.get('type') || urlParams.get('media_type') || 'movie';
+
+            const ratingNumber = document.getElementById('ratingNumber');
+            const ratingBars = document.getElementById('ratingBars');
+
+            if (!tmdbId) {
+                ratingNumber.textContent = '—';
+                return;
+            }
+
+            try {
+                const response = await fetch(`https://api.themoviedb.org/3/${mediaType}/${tmdbId}?api_key=${TMDB_API_KEY}&language=es-ES`);
+                if (!response.ok) throw new Error('Error en TMDB');
+                const data = await response.json();
+                
+                const voteAverage = data.vote_average ? data.vote_average.toFixed(1) : '—';
+                ratingNumber.textContent = voteAverage;
+
+                if (data.vote_count) {
+                    ratingBars.innerHTML = `
+                        <div style="font-size:0.85rem; color:#aaa; margin-top:8px;">
+                            Basado en <strong>${data.vote_count.toLocaleString('es-ES')}</strong> valoraciones en TMDB
+                        </div>
+                    `;
+                }
+            } catch (error) {
+                console.error('Error TMDB rating:', error);
+                ratingNumber.textContent = '—';
+            }
+        }
+
+      async function incrementarVistas() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const tmdbId = urlParams.get('id') || urlParams.get('tmdb_id');
+
+            if (!tmdbId) {
+                console.warn('No se encontró ID en la URL para contar vistas');
+                return;
+            }
+
+          const COLLECTION_NAME = "contenidos";   // ←←←←← Cambia aquí si es "peliculas", "series", etc.
+
+            try {
+                const db = firebase.firestore();
+                const docRef = db.collection(COLLECTION_NAME).doc(tmdbId.toString());
+
+              await docRef.set({
+                    vistas: firebase.firestore.FieldValue.increment(1)
+                }, { merge: true });
+
+                console.log(`✅ Vistas incrementadas correctamente (ID: ${tmdbId})`);
+                
+              if (typeof window.recargarStats === 'function') {
+                    window.recargarStats();
+                }
+            } catch (error) {
+                console.error('Error al incrementar vistas:', error);
+            }
+        }
+
+     document.addEventListener('DOMContentLoaded', () => {
+            const btn = document.getElementById('crewToggleBtn');
+            btn.addEventListener('click', toggleCrew);
+
+          window.addEventListener('load', limpiarUndefinedEnCrew);
+
+        loadTMDBRating();
+         incrementarVistas();
+        });
     </script>
 </body>
 </html>
