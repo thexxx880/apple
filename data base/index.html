@@ -20,19 +20,15 @@ firebase.auth().onAuthStateChanged(user => {
 
 if(!user){
 window.location.href =
-"https://lzplayhd.online/apple/login.html";
+"https://lzplayhd.online/apple/data base/login.html";
 }
 
 });
 </script>
 </head>
 <body>
-
-    <!-- HEADER -->
-    <header id="main-header"></header>
-
-    <!-- HERO -->
-    <section class="hero" id="hero">
+<header id="main-header"></header>
+ <section class="hero" id="hero">
         <div class="hero-content">
 
             <div class="badges">
@@ -52,9 +48,7 @@ window.location.href =
 
         </div>
     </section>
-
-    <!-- PELÍCULAS MÁS VISTAS -->
-    <section class="section">
+ <section class="section">
 
         <div class="section-header">
             <h2 class="section-title">Películas más vistas</h2>
@@ -64,20 +58,12 @@ window.location.href =
         <div class="movies-grid" id="movies-grid"></div>
 
     </section>
-
-    <!-- CONTENEDOR DEL MENÚ FLOTANTE -->
-    <div id="floating-container"></div>
-
-    <!-- SCRIPTS -->
+  <div id="floating-container"></div>
     <script src="js/core/utils.js"></script>
     <script src="js/core/api.js"></script>
     <script src="js/app/home.js"></script>
     <script src="js/components/navbar.js"></script>
-
-    <!-- IMPORTANTE -->
     <script src="js/components/floating-menu.js"></script>
-
     <script src="js/main.js"></script>
-
 </body>
 </html>
