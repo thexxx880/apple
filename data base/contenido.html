@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/loader.css">
     <link rel="stylesheet" href="css/navbar.css">
     <link rel="stylesheet" href="css/global.css">
     <link rel="stylesheet" href="css/contenido.css">
@@ -19,13 +18,7 @@
 <body>
     <!-- HEADER -->
     <header id="main-header"></header>
-
-    <!-- LOADER -->
-    <div class="loader" id="loader">
-        <i class="fa-solid fa-spinner fa-spin"></i>
-        <p id="loaderText">Cargando contenido desde GitHub...</p>
-    </div>
-
+    
     <!-- HERO -->
     <section class="hero" id="hero">
         <div class="hero-bg" id="heroBg"></div>
@@ -34,20 +27,18 @@
             <div class="hero-eyebrow" id="heroEyebrow"></div>
             <div class="hero-logo" id="heroLogo"></div>
             <div class="hero-meta" id="heroMeta"></div>
-            
+           
             <div class="hero-cta">
-                <!-- BOTÓN REPRODUCIR (abre modal) -->
                 <button class="btn-play" id="playBtn">
                     <i class="fa-solid fa-play" id="playIcon"></i>
                     <span id="playText">Reproducir</span>
                 </button>
-                
-                <!-- BOTÓN TRAILER -->
+               
                 <button class="btn-secondary" id="trailerBtn">
                     <i class="fa-solid fa-film"></i> Trailer
                 </button>
             </div>
-            
+           
             <div class="hero-actions">
                 <button class="action-pill" id="likeBtn"><i class="fa-regular fa-thumbs-up"></i><span>Me gusta</span></button>
                <button class="action-pill" id="listBtn" onclick="toggleList(this)">
@@ -66,16 +57,19 @@
         </div>
         <div class="stats-row" id="statsRow"></div>
 
+        <!-- REPARTO -->
         <div class="section-header"><h2 class="section-title">Reparto</h2></div>
         <div class="cast-scroll" id="castScroll"></div>
 
-        <div class="section-header"><h2 class="section-title">Equipo creativo</h2></div>
-        <div class="crew-grid" id="crewGrid"></div>
+        <!-- BOTÓN PARA MOSTRAR EQUIPO CREATIVO -->
+        <button id="crewToggleBtn" class="btn-secondary" style="margin: 30px 0 15px; width: 100%; max-width: 320px; display: block; margin-left: auto; margin-right: auto;">
+            <i class="fa-solid fa-users"></i> Ver detalles del equipo creativo
+        </button>
 
-        <div class="section-header"><h2 class="section-title">Valoraciones</h2></div>
-        <div class="rating-block">
-            <div class="rating-big"><div class="rating-number" id="ratingNumber">8.7</div></div>
-            <div class="rating-bars" id="ratingBars"></div>
+        <!-- EQUIPO CREATIVO (oculto por defecto) -->
+        <div id="crewSection" style="display: none;">
+            <div class="section-header"><h2 class="section-title">Equipo creativo</h2></div>
+            <div class="crew-grid" id="crewGrid"></div>
         </div>
     </div>
 
@@ -116,5 +110,48 @@
     <script src="js/components/floating-menu.js"></script>
     <script src="js/app/contenido.js"></script>
     <script src="js/main.js"></script>
+
+    <!-- SCRIPT PARA EL BOTÓN DE EQUIPO CREATIVO + FILTRO DE "undefined" -->
+    <script>
+        // Toggle para mostrar/ocultar el equipo creativo
+        function toggleCrew() {
+            const section = document.getElementById('crewSection');
+            const btn = document.getElementById('crewToggleBtn');
+            
+            if (section.style.display === 'none') {
+                section.style.display = 'block';
+                btn.innerHTML = `<i class="fa-solid fa-chevron-up"></i> Ocultar equipo creativo`;
+            } else {
+                section.style.display = 'none';
+                btn.innerHTML = `<i class="fa-solid fa-users"></i> Ver detalles del equipo creativo`;
+            }
+        }
+
+        // Asignar el evento al botón
+        document.addEventListener('DOMContentLoaded', () => {
+            const btn = document.getElementById('crewToggleBtn');
+            btn.addEventListener('click', toggleCrew);
+        });
+
+        // FILTRO AUTOMÁTICO DE "undefined" (se ejecuta después de que tu JS cargue los datos)
+        function limpiarUndefinedEnCrew() {
+            const crewGrid = document.getElementById('crewGrid');
+            if (!crewGrid) return;
+
+            // Esperamos un pequeño momento para que tu código de contenido.js ya haya llenado el grid
+            setTimeout(() => {
+                const items = crewGrid.querySelectorAll('.crew-item, div'); // ajusta el selector si tus items tienen otra clase
+                items.forEach(item => {
+                    const text = item.textContent.trim();
+                    if (text === 'undefined' || text === '' || text.includes('undefined')) {
+                        item.style.display = 'none';
+                    }
+                });
+            }, 800); // ajusta el tiempo si tu JS tarda más en cargar los datos
+        }
+
+        // Ejecutar el filtro automáticamente
+        window.addEventListener('load', limpiarUndefinedEnCrew);
+    </script>
 </body>
 </html>
