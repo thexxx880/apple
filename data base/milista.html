@@ -28,16 +28,14 @@ font-family:'Poppins',sans-serif;
 body{
 background:#000;
 color:#fff;
-padding:30px;
+padding:20px;
 }
 
 .header{
 display:flex;
 justify-content:space-between;
 align-items:center;
-margin-bottom:35px;
-flex-wrap:wrap;
-gap:15px;
+margin-bottom:25px;
 }
 
 .title{
@@ -45,7 +43,7 @@ font-size:34px;
 font-weight:700;
 }
 
-.logout-btn{
+.back-btn{
 background:#111;
 border:none;
 color:#fff;
@@ -55,37 +53,32 @@ cursor:pointer;
 font-size:14px;
 }
 
-.logout-btn:hover{
-background:#222;
-}
-
 .grid{
 display:grid;
 grid-template-columns:
-repeat(auto-fill,
-minmax(180px,1fr));
+repeat(auto-fill,minmax(180px,1fr));
 gap:20px;
 }
 
 .card{
 background:#111;
-border-radius:22px;
+border-radius:20px;
 overflow:hidden;
-transition:.3s;
-position:relative;
 cursor:pointer;
+position:relative;
+transition:.3s;
 }
 
 .card:hover{
-transform:translateY(-6px);
+transform:translateY(-5px);
 }
 
 .poster{
 width:100%;
 aspect-ratio:2/3;
 object-fit:cover;
-display:block;
 background:#151515;
+display:block;
 }
 
 .info{
@@ -96,8 +89,7 @@ padding:14px;
 font-size:15px;
 font-weight:600;
 line-height:1.4;
-margin-bottom:6px;
-
+margin-bottom:5px;
 display:-webkit-box;
 -webkit-line-clamp:2;
 -webkit-box-orient:vertical;
@@ -105,50 +97,27 @@ overflow:hidden;
 }
 
 .year{
-color:#aaa;
 font-size:13px;
+color:#aaa;
 }
 
 .remove-btn{
 position:absolute;
 top:10px;
 right:10px;
-width:38px;
-height:38px;
+width:40px;
+height:40px;
 border:none;
 border-radius:50%;
-background:rgba(0,0,0,.8);
+background:rgba(0,0,0,.85);
 color:#fff;
 cursor:pointer;
-backdrop-filter:blur(10px);
-transition:.3s;
-}
-
-.remove-btn:hover{
-transform:scale(1.08);
+z-index:5;
 }
 
 .empty{
-display:flex;
-flex-direction:column;
-justify-content:center;
-align-items:center;
-height:60vh;
 text-align:center;
-}
-
-.empty i{
-font-size:70px;
-color:#333;
-margin-bottom:20px;
-}
-
-.empty h2{
-font-size:25px;
-margin-bottom:10px;
-}
-
-.empty p{
+margin-top:100px;
 color:#888;
 }
 
@@ -156,25 +125,6 @@ color:#888;
 text-align:center;
 margin-top:100px;
 color:#888;
-font-size:16px;
-}
-
-@media(max-width:600px){
-
-body{
-padding:18px;
-}
-
-.title{
-font-size:26px;
-}
-
-.grid{
-grid-template-columns:
-repeat(2,1fr);
-gap:16px;
-}
-
 }
 
 </style>
@@ -187,11 +137,12 @@ gap:16px;
 Mi Lista
 </h1>
 
-<button class="logout-btn"
-onclick="logout()">
+<button
+class="back-btn"
+onclick="history.back()">
 
-<i class="fa-solid fa-right-from-bracket"></i>
-Cerrar sesión
+<i class="fa-solid fa-arrow-left"></i>
+Regresar
 
 </button>
 
@@ -200,40 +151,37 @@ Cerrar sesión
 <div id="content">
 
 <div class="loading">
-Cargando contenido...
+Cargando...
 </div>
 
 </div>
 
 <script>
 
-/* ==========================
-FIREBASE CONFIG
-========================== */
+const TMDB_API_KEY =
+"38e497c6c1a043d1341416e80915669f";
 
 const firebaseConfig = {
-apiKey: "AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
-authDomain: "applelz-b5883.firebaseapp.com",
-projectId: "applelz-b5883",
-storageBucket: "applelz-b5883.firebasestorage.app",
-messagingSenderId: "489468218632",
-appId: "1:489468218632:web:598a550f7ebe7c6de7b0bd",
-measurementId: "G-J085DHR8M3"
+apiKey:"AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
+authDomain:"applelz-b5883.firebaseapp.com",
+projectId:"applelz-b5883",
+storageBucket:"applelz-b5883.firebasestorage.app",
+messagingSenderId:"489468218632",
+appId:"1:489468218632:web:598a550f7ebe7c6de7b0bd"
 };
 
 firebase.initializeApp(firebaseConfig);
 
-const auth = firebase.auth();
-const db = firebase.firestore();
+const auth =
+firebase.auth();
+
+const db =
+firebase.firestore();
 
 const content =
 document.getElementById(
 "content"
 );
-
-/* ==========================
-AUTH CHECK
-========================== */
 
 auth.onAuthStateChanged(
 (user)=>{
@@ -250,40 +198,20 @@ loadMyList(user.uid);
 
 });
 
-/* ==========================
-CARGAR MI LISTA
-========================== */
-
 async function loadMyList(uid){
-
-try{
 
 const snapshot =
 await db.collection("users")
 .doc(uid)
 .collection("myList")
-.orderBy(
-"addedAt",
-"desc"
-)
+.orderBy("addedAt","desc")
 .get();
 
 if(snapshot.empty){
 
-content.innerHTML = `
+content.innerHTML=`
 <div class="empty">
-
-<i class="fa-regular fa-bookmark"></i>
-
-<h2>
-Tu lista está vacía
-</h2>
-
-<p>
-Guarda películas y series
-para verlas después
-</p>
-
+<h2>Tu lista está vacía</h2>
 </div>
 `;
 
@@ -293,26 +221,50 @@ return;
 let html =
 `<div class="grid">`;
 
-snapshot.forEach(doc=>{
+for(const doc of snapshot.docs){
 
 const item =
 doc.data();
 
+try{
+
+const res =
+await fetch(
+`https://api.themoviedb.org/3/${item.type}/${item.id}?api_key=${TMDB_API_KEY}&language=es-ES`
+);
+
+const data =
+await res.json();
+
+const poster =
+data.poster_path
+? `https://image.tmdb.org/t/p/w500${data.poster_path}`
+: "";
+
+const title =
+data.title
+|| data.name
+|| "Sin título";
+
+const year =
+(
+data.release_date
+||
+data.first_air_date
+||
+""
+).slice(0,4);
+
 html += `
 
 <div class="card"
-onclick="openContent(
-'${item.url}'
-)">
+onclick="openContent('${item.url}')">
 
 <button
 class="remove-btn"
-
 onclick="
 event.stopPropagation();
-removeItem(
-'${doc.id}'
-)
+removeItem('${doc.id}')
 ">
 
 <i class="fa-solid fa-xmark"></i>
@@ -321,73 +273,49 @@ removeItem(
 
 <img
 class="poster"
-src="${
-item.poster ||
-'https://via.placeholder.com/500x750?text=LzPlay'
-}"
-loading="lazy">
+src="${poster}">
 
 <div class="info">
 
 <div class="movie-title">
-${item.title || 'Sin título'}
+${title}
 </div>
 
 <div class="year">
-${item.year || '---'}
+${year}
 </div>
 
 </div>
+
 </div>
 `;
-});
+
+}catch(e){
+
+console.log(e);
+
+}
+
+}
 
 html += `</div>`;
 
 content.innerHTML =
 html;
 
-}catch(error){
-
-console.error(error);
-
-content.innerHTML = `
-<div class="empty">
-
-<h2>
-Error cargando Mi Lista
-</h2>
-
-</div>
-`;
-
 }
-
-}
-
-/* ==========================
-ABRIR CONTENIDO
-========================== */
 
 function openContent(url){
 
-window.location.href =
+location.href =
 url;
 
 }
-
-/* ==========================
-ELIMINAR
-========================== */
 
 async function removeItem(id){
 
 const user =
 auth.currentUser;
-
-if(!user) return;
-
-try{
 
 await db.collection("users")
 .doc(user.uid)
@@ -395,32 +323,7 @@ await db.collection("users")
 .doc(id)
 .delete();
 
-loadMyList(
-user.uid
-);
-
-}catch(error){
-
-console.error(error);
-
-alert(
-"Error eliminando"
-);
-
-}
-
-}
-
-/* ==========================
-LOGOUT
-========================== */
-
-async function logout(){
-
-await auth.signOut();
-
-location.href =
-"https://lzplayhd.online/apple/data base/login.html";
+loadMyList(user.uid);
 
 }
 
