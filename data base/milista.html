@@ -155,12 +155,8 @@ Cargando...
 </div>
 
 </div>
-
+<script src="js/core/tmdb.js"></script>
 <script>
-
-const TMDB_API_KEY =
-"38e497c6c1a043d1341416e80915669f";
-
 const firebaseConfig = {
 apiKey:"AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
 authDomain:"applelz-b5883.firebaseapp.com",
@@ -170,7 +166,9 @@ messagingSenderId:"489468218632",
 appId:"1:489468218632:web:598a550f7ebe7c6de7b0bd"
 };
 
-firebase.initializeApp(firebaseConfig);
+firebase.initializeApp(
+firebaseConfig
+);
 
 const auth =
 firebase.auth();
@@ -183,35 +181,56 @@ document.getElementById(
 "content"
 );
 
+/* ==========================
+VERIFICAR SESION
+========================== */
+
 auth.onAuthStateChanged(
 (user)=>{
 
 if(!user){
 
 location.href =
-"https://lzplayhd.online/apple/login.html";
+"https://lzplayhd.online/apple/data base/login.html";
 
 return;
 }
 
-loadMyList(user.uid);
+loadMyList(
+user.uid
+);
 
 });
 
-async function loadMyList(uid){
+/* ==========================
+CARGAR MI LISTA
+========================== */
+
+async function loadMyList(
+uid
+){
 
 const snapshot =
-await db.collection("users")
+await db.collection(
+"users"
+)
 .doc(uid)
-.collection("myList")
-.orderBy("addedAt","desc")
+.collection(
+"myList"
+)
+.orderBy(
+"addedAt",
+"desc"
+)
 .get();
 
 if(snapshot.empty){
 
-content.innerHTML=`
+content.innerHTML = `
 <div class="empty">
-<h2>Tu lista está vacía</h2>
+<h2>
+Tu lista está vacía
+</h2>
 </div>
 `;
 
@@ -221,20 +240,27 @@ return;
 let html =
 `<div class="grid">`;
 
-for(const doc of snapshot.docs){
+for(
+const doc
+of snapshot.docs
+){
 
 const item =
 doc.data();
 
 try{
 
-const res =
-await fetch(
-`https://api.themoviedb.org/3/${item.type}/${item.id}?api_key=${TMDB_API_KEY}&language=es-ES`
-);
+/* ==========================
+TMDB REMOTO
+========================== */
 
 const data =
-await res.json();
+await fetchTMDB(
+`${item.type}/${item.id}`
+);
+
+if(!data)
+continue;
 
 const poster =
 data.poster_path
@@ -243,8 +269,10 @@ data.poster_path
 
 const title =
 data.title
-|| data.name
-|| "Sin título";
+||
+data.name
+||
+"Sin título";
 
 const year =
 (
@@ -292,41 +320,61 @@ ${year}
 
 }catch(e){
 
-console.log(e);
+console.log(
+e
+);
 
 }
 
 }
 
-html += `</div>`;
+html +=
+`</div>`;
 
 content.innerHTML =
 html;
 
 }
 
-function openContent(url){
+/* ==========================
+ABRIR CONTENIDO
+========================== */
+
+function openContent(
+url
+){
 
 location.href =
 url;
 
 }
 
-async function removeItem(id){
+/* ==========================
+ELIMINAR ITEM
+========================== */
+
+async function removeItem(
+id
+){
 
 const user =
 auth.currentUser;
 
-await db.collection("users")
+await db.collection(
+"users"
+)
 .doc(user.uid)
-.collection("myList")
+.collection(
+"myList"
+)
 .doc(id)
 .delete();
 
-loadMyList(user.uid);
+loadMyList(
+user.uid
+);
 
 }
-
 </script>
 
 </body>
