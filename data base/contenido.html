@@ -41,7 +41,7 @@
            
             <div class="hero-actions">
                 <button class="action-pill" id="likeBtn"><i class="fa-regular fa-thumbs-up"></i><span>Me gusta</span></button>
-               <button class="action-pill" id="listBtn" onclick="toggleList(this)">
+        <button class="action-pill" id="listBtn">
     <i class="fa-regular fa-bookmark"></i>
     <span>Mi lista</span>
 </button>
@@ -49,7 +49,6 @@
         </div>
     </section>
 
-    <!-- CONTENIDO PRINCIPAL -->
     <div class="content">
         <div class="description-block">
             <p id="sinopsis">Cargando sinopsis...</p>
@@ -112,7 +111,6 @@
         </div>
     </div>
 
-    <!-- SCRIPTS -->
     <script src="js/core/utils.js"></script>
     <script src="js/core/api.js"></script>
     <script src="js/app/home.js"></script>
@@ -120,6 +118,236 @@
     <script src="js/components/floating-menu.js"></script>
     <script src="js/app/contenido.js"></script>
     <script src="js/main.js"></script>
+    <script>
+
+let isSaved = false;
+
+document.addEventListener("DOMContentLoaded", () => {
+
+    firebase.auth().onAuthStateChanged(async(user)=>{
+
+        if(!user) return;
+
+        await verificarMiLista();
+
+        document
+        .getElementById("listBtn")
+        .addEventListener(
+            "click",
+            toggleList
+        );
+
+    });
+
+});
+
+/* ==========================
+   VERIFICAR SI YA EXISTE
+========================== */
+
+async function verificarMiLista(){
+
+    const user =
+    firebase.auth().currentUser;
+
+    if(!user) return;
+
+    const params =
+    new URLSearchParams(
+        location.search
+    );
+
+    const tmdbId =
+    params.get("id");
+
+    if(!tmdbId) return;
+
+    try{
+
+        const doc =
+        await firebase.firestore()
+        .collection("users")
+        .doc(user.uid)
+        .collection("myList")
+        .doc(tmdbId)
+        .get();
+
+        const btn =
+        document.getElementById(
+            "listBtn"
+        );
+
+        if(doc.exists){
+
+            isSaved = true;
+
+            btn.innerHTML = `
+            <i class="fa-solid fa-bookmark"></i>
+            <span>Guardado</span>
+            `;
+
+        }
+
+    }catch(error){
+        console.error(error);
+    }
+
+}
+
+/* ==========================
+   GUARDAR / ELIMINAR
+========================== */
+
+async function toggleList(){
+
+    const user =
+    firebase.auth().currentUser;
+
+    if(!user){
+        alert(
+            "Debes iniciar sesión"
+        );
+        return;
+    }
+
+    const btn =
+    document.getElementById(
+        "listBtn"
+    );
+
+    const params =
+    new URLSearchParams(
+        location.search
+    );
+
+    const tmdbId =
+    params.get("id");
+
+    if(!tmdbId){
+        alert(
+            "Contenido no encontrado"
+        );
+        return;
+    }
+
+    try{
+
+        const docRef =
+        firebase.firestore()
+        .collection("users")
+        .doc(user.uid)
+        .collection("myList")
+        .doc(tmdbId);
+
+        /* ELIMINAR */
+        if(isSaved){
+
+            await docRef.delete();
+
+            isSaved = false;
+
+            btn.innerHTML = `
+            <i class="fa-regular fa-bookmark"></i>
+            <span>Mi lista</span>
+            `;
+
+            return;
+        }
+
+        /* OBTENER INFO DEL CONTENIDO */
+
+        const heroBg =
+        document
+        .getElementById("heroBg")
+        ?.style.backgroundImage || "";
+
+        const backdrop =
+        heroBg
+        .replace('url("','')
+        .replace('")','')
+        .replace('url(','')
+        .replace(')','');
+
+        const poster =
+        document
+        .querySelector(
+            "#heroLogo img"
+        )?.src || "";
+
+        const title =
+        document
+        .getElementById(
+            "pageTitle"
+        )?.innerText ||
+        document.title ||
+        "";
+
+        const year =
+        document
+        .getElementById(
+            "heroMeta"
+        )?.innerText
+        ?.match(/\d{4}/)?.[0]
+        || "";
+
+        const overview =
+        document
+        .getElementById(
+            "sinopsis"
+        )?.innerText || "";
+
+        const contentUrl =
+        window.location.href;
+
+        /* GUARDAR EN FIRESTORE */
+
+        await docRef.set({
+
+            id: Number(tmdbId),
+
+            url: contentUrl,
+
+            title: title,
+
+            poster: poster,
+
+            backdrop: backdrop,
+
+            year: year,
+
+            overview: overview,
+
+            addedAt:
+            firebase.firestore
+            .FieldValue
+            .serverTimestamp()
+
+        });
+
+        isSaved = true;
+
+        btn.innerHTML = `
+        <i class="fa-solid fa-bookmark"></i>
+        <span>Guardado</span>
+        `;
+
+        console.log(
+            "✅ Guardado en Mi Lista"
+        );
+
+    }catch(error){
+
+        console.error(error);
+
+        alert(
+            "Error guardando"
+        );
+
+    }
+
+}
+
+</script>
     <script>
       function toggleCrew() {
             const section = document.getElementById('crewSection');
