@@ -118,108 +118,124 @@
     <script src="js/components/floating-menu.js"></script>
     <script src="js/app/contenido.js"></script>
     <script src="js/main.js"></script>
-   <script>
+ <script>
+
+/* ==========================
+MI LISTA FIREBASE
+========================== */
 
 let isSaved = false;
 
+/* ==========================
+INICIAR
+========================== */
+
 document.addEventListener(
 "DOMContentLoaded",
-() => {
+()=>{
 
-    firebase.auth()
-    .onAuthStateChanged(
-    async(user)=>{
+firebase.auth()
+.onAuthStateChanged(
+async(user)=>{
 
-        if(!user) return;
+if(!user){
 
-        await verificarMiLista();
+console.log(
+"No hay sesión iniciada"
+);
 
-        const btn =
-        document.getElementById(
-            "listBtn"
-        );
+return;
+}
 
-        if(btn){
+await verificarMiLista();
 
-            btn.addEventListener(
-                "click",
-                toggleList
-            );
+const listBtn =
+document.getElementById(
+"listBtn"
+);
 
-        }
+if(listBtn){
 
-    });
+listBtn.addEventListener(
+"click",
+toggleList
+);
+
+}
+
+});
 
 });
 
 /* ==========================
-VERIFICAR SI YA EXISTE
+VERIFICAR SI YA ESTÁ
+EN MI LISTA
 ========================== */
 
 async function verificarMiLista(){
 
-    const user =
-    firebase.auth()
-    .currentUser;
+const user =
+firebase.auth()
+.currentUser;
 
-    if(!user) return;
+if(!user) return;
 
-    const params =
-    new URLSearchParams(
-        location.search
-    );
+const params =
+new URLSearchParams(
+window.location.search
+);
 
-    const tmdbId =
-    params.get("id");
+const tmdbId =
+params.get("id");
 
-    if(!tmdbId) return;
+if(!tmdbId) return;
 
-    try{
+try{
 
-        const doc =
-        await firebase
-        .firestore()
-        .collection("users")
-        .doc(user.uid)
-        .collection("myList")
-        .doc(tmdbId)
-        .get();
+const doc =
+await firebase
+.firestore()
+.collection("users")
+.doc(user.uid)
+.collection("myList")
+.doc(tmdbId)
+.get();
 
-        const btn =
-        document.getElementById(
-            "listBtn"
-        );
+const btn =
+document.getElementById(
+"listBtn"
+);
 
-        if(!btn) return;
+if(!btn) return;
 
-        if(doc.exists){
+if(doc.exists){
 
-            isSaved = true;
+isSaved = true;
 
-            btn.innerHTML = `
-            <i class="fa-solid fa-bookmark"></i>
-            <span>Guardado</span>
-            `;
+btn.innerHTML = `
+<i class="fa-solid fa-bookmark"></i>
+<span>Guardado</span>
+`;
 
-        }else{
+}else{
 
-            isSaved = false;
+isSaved = false;
 
-            btn.innerHTML = `
-            <i class="fa-regular fa-bookmark"></i>
-            <span>Mi lista</span>
-            `;
+btn.innerHTML = `
+<i class="fa-regular fa-bookmark"></i>
+<span>Mi lista</span>
+`;
 
-        }
+}
 
-    }catch(error){
+}catch(error){
 
-        console.error(
-            "Error verificando Mi Lista:",
-            error
-        );
+console.error(
+"Error verificando Mi Lista:",
+error
+);
 
-    }
+}
 
 }
 
@@ -229,263 +245,120 @@ GUARDAR / ELIMINAR
 
 async function toggleList(){
 
-    const user =
-    firebase.auth()
-    .currentUser;
+const user =
+firebase.auth()
+.currentUser;
 
-    if(!user){
+if(!user){
 
-        alert(
-            "Debes iniciar sesión"
-        );
+window.location.href =
+"https://lzplayhd.online/apple/login.html";
 
-        return;
-    }
+return;
+}
 
-    const btn =
-    document.getElementById(
-        "listBtn"
-    );
+const params =
+new URLSearchParams(
+window.location.search
+);
 
-    const params =
-    new URLSearchParams(
-        location.search
-    );
+const tmdbId =
+params.get("id");
 
-    const tmdbId =
-    params.get("id");
+const mediaType =
+params.get("type")
+|| "movie";
 
-    if(!tmdbId){
+if(!tmdbId){
 
-        alert(
-            "Contenido no encontrado"
-        );
+alert(
+"Contenido no encontrado"
+);
 
-        return;
-    }
+return;
+}
 
-    try{
+const btn =
+document.getElementById(
+"listBtn"
+);
 
-        const docRef =
-        firebase.firestore()
-        .collection("users")
-        .doc(user.uid)
-        .collection("myList")
-        .doc(tmdbId);
+try{
 
-        /* ==========================
-        ELIMINAR
-        ========================== */
+const docRef =
+firebase.firestore()
+.collection("users")
+.doc(user.uid)
+.collection("myList")
+.doc(tmdbId);
 
-        if(isSaved){
+/* ==========================
+ELIMINAR
+========================== */
 
-            await docRef.delete();
+if(isSaved){
 
-            isSaved = false;
+await docRef.delete();
 
-            btn.innerHTML = `
-            <i class="fa-regular fa-bookmark"></i>
-            <span>Mi lista</span>
-            `;
+isSaved = false;
 
-            console.log(
-                "🗑 Eliminado de Mi Lista"
-            );
+btn.innerHTML = `
+<i class="fa-regular fa-bookmark"></i>
+<span>Mi lista</span>
+`;
 
-            return;
-        }
+console.log(
+"🗑 Eliminado de Mi Lista"
+);
 
-        /* ==========================
-        OBTENER BACKDROP REAL
-        ========================== */
+return;
+}
 
-        let backdrop = "";
+/* ==========================
+GUARDAR
+========================== */
 
-        const heroBg =
-        document.getElementById(
-            "heroBg"
-        );
+await docRef.set({
 
-        if(heroBg){
+id:
+Number(tmdbId),
 
-            const bg =
-            window.getComputedStyle(
-                heroBg
-            ).backgroundImage;
+type:
+mediaType,
 
-            if(
-                bg &&
-                bg !== "none"
-            ){
+url:
+window.location.href,
 
-                backdrop = bg
-                .replace(
-                    /^url\(["']?/,
-                    ""
-                )
-                .replace(
-                    /["']?\)$/,
-                    ""
-                );
+addedAt:
+firebase.firestore
+.FieldValue
+.serverTimestamp()
 
-            }
+});
 
-        }
+isSaved = true;
 
-        /* fallback TMDB */
+btn.innerHTML = `
+<i class="fa-solid fa-bookmark"></i>
+<span>Guardado</span>
+`;
 
-        if(!backdrop){
+console.log(
+"✅ Guardado en Mi Lista"
+);
 
-            backdrop =
-            `https://image.tmdb.org/t/p/original${
-                window.currentMovie
-                ?.backdrop_path || ""
-            }`;
+}catch(error){
 
-        }
+console.error(
+"Error guardando:",
+error
+);
 
-        /* ==========================
-        OBTENER POSTER REAL
-        ========================== */
+alert(
+"Error guardando en Mi Lista"
+);
 
-        let poster = "";
-
-        const posterImg =
-        document.querySelector(
-            ".hero-poster img"
-        );
-
-        if(
-            posterImg &&
-            posterImg.src
-        ){
-
-            poster =
-            posterImg.src;
-
-        }
-
-        /* fallback TMDB */
-
-        if(!poster){
-
-            poster =
-            `https://image.tmdb.org/t/p/w500${
-                window.currentMovie
-                ?.poster_path || ""
-            }`;
-
-        }
-
-        /* ==========================
-        TÍTULO
-        ========================== */
-
-        const title =
-
-        document.title ||
-
-        document
-        .getElementById(
-            "pageTitle"
-        )
-        ?.innerText ||
-
-        "Sin título";
-
-        /* ==========================
-        AÑO
-        ========================== */
-
-        const year =
-
-        document
-        .getElementById(
-            "heroMeta"
-        )
-        ?.innerText
-        ?.match(/\d{4}/)?.[0]
-
-        || "";
-
-        /* ==========================
-        SINOPSIS
-        ========================== */
-
-        const overview =
-
-        document
-        .getElementById(
-            "sinopsis"
-        )
-        ?.innerText
-
-        || "";
-
-        /* ==========================
-        URL
-        ========================== */
-
-        const contentUrl =
-        window.location.href;
-
-        /* ==========================
-        GUARDAR EN FIRESTORE
-        ========================== */
-
-        await docRef.set({
-
-            id:
-            Number(tmdbId),
-
-            url:
-            contentUrl,
-
-            title:
-            title,
-
-            poster:
-            poster,
-
-            backdrop:
-            backdrop,
-
-            year:
-            year,
-
-            overview:
-            overview,
-
-            addedAt:
-            firebase.firestore
-            .FieldValue
-            .serverTimestamp()
-
-        });
-
-        isSaved = true;
-
-        btn.innerHTML = `
-        <i class="fa-solid fa-bookmark"></i>
-        <span>Guardado</span>
-        `;
-
-        console.log(
-            "✅ Guardado en Mi Lista"
-        );
-
-    }catch(error){
-
-        console.error(
-            "Error guardando:",
-            error
-        );
-
-        alert(
-            "Error guardando en Mi Lista"
-        );
-
-    }
+}
 
 }
 
