@@ -118,37 +118,49 @@
     <script src="js/components/floating-menu.js"></script>
     <script src="js/app/contenido.js"></script>
     <script src="js/main.js"></script>
-    <script>
+   <script>
 
 let isSaved = false;
 
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener(
+"DOMContentLoaded",
+() => {
 
-    firebase.auth().onAuthStateChanged(async(user)=>{
+    firebase.auth()
+    .onAuthStateChanged(
+    async(user)=>{
 
         if(!user) return;
 
         await verificarMiLista();
 
-        document
-        .getElementById("listBtn")
-        .addEventListener(
-            "click",
-            toggleList
+        const btn =
+        document.getElementById(
+            "listBtn"
         );
+
+        if(btn){
+
+            btn.addEventListener(
+                "click",
+                toggleList
+            );
+
+        }
 
     });
 
 });
 
 /* ==========================
-   VERIFICAR SI YA EXISTE
+VERIFICAR SI YA EXISTE
 ========================== */
 
 async function verificarMiLista(){
 
     const user =
-    firebase.auth().currentUser;
+    firebase.auth()
+    .currentUser;
 
     if(!user) return;
 
@@ -165,7 +177,8 @@ async function verificarMiLista(){
     try{
 
         const doc =
-        await firebase.firestore()
+        await firebase
+        .firestore()
         .collection("users")
         .doc(user.uid)
         .collection("myList")
@@ -177,6 +190,8 @@ async function verificarMiLista(){
             "listBtn"
         );
 
+        if(!btn) return;
+
         if(doc.exists){
 
             isSaved = true;
@@ -186,27 +201,44 @@ async function verificarMiLista(){
             <span>Guardado</span>
             `;
 
+        }else{
+
+            isSaved = false;
+
+            btn.innerHTML = `
+            <i class="fa-regular fa-bookmark"></i>
+            <span>Mi lista</span>
+            `;
+
         }
 
     }catch(error){
-        console.error(error);
+
+        console.error(
+            "Error verificando Mi Lista:",
+            error
+        );
+
     }
 
 }
 
 /* ==========================
-   GUARDAR / ELIMINAR
+GUARDAR / ELIMINAR
 ========================== */
 
 async function toggleList(){
 
     const user =
-    firebase.auth().currentUser;
+    firebase.auth()
+    .currentUser;
 
     if(!user){
+
         alert(
             "Debes iniciar sesión"
         );
+
         return;
     }
 
@@ -224,9 +256,11 @@ async function toggleList(){
     params.get("id");
 
     if(!tmdbId){
+
         alert(
             "Contenido no encontrado"
         );
+
         return;
     }
 
@@ -239,7 +273,10 @@ async function toggleList(){
         .collection("myList")
         .doc(tmdbId);
 
-        /* ELIMINAR */
+        /* ==========================
+        ELIMINAR
+        ========================== */
+
         if(isSaved){
 
             await docRef.delete();
@@ -251,71 +288,173 @@ async function toggleList(){
             <span>Mi lista</span>
             `;
 
+            console.log(
+                "🗑 Eliminado de Mi Lista"
+            );
+
             return;
         }
 
-        /* OBTENER INFO DEL CONTENIDO */
+        /* ==========================
+        OBTENER BACKDROP REAL
+        ========================== */
+
+        let backdrop = "";
 
         const heroBg =
-        document
-        .getElementById("heroBg")
-        ?.style.backgroundImage || "";
+        document.getElementById(
+            "heroBg"
+        );
 
-        const backdrop =
-        heroBg
-        .replace('url("','')
-        .replace('")','')
-        .replace('url(','')
-        .replace(')','');
+        if(heroBg){
 
-        const poster =
-        document
-        .querySelector(
-            "#heroLogo img"
-        )?.src || "";
+            const bg =
+            window.getComputedStyle(
+                heroBg
+            ).backgroundImage;
+
+            if(
+                bg &&
+                bg !== "none"
+            ){
+
+                backdrop = bg
+                .replace(
+                    /^url\(["']?/,
+                    ""
+                )
+                .replace(
+                    /["']?\)$/,
+                    ""
+                );
+
+            }
+
+        }
+
+        /* fallback TMDB */
+
+        if(!backdrop){
+
+            backdrop =
+            `https://image.tmdb.org/t/p/original${
+                window.currentMovie
+                ?.backdrop_path || ""
+            }`;
+
+        }
+
+        /* ==========================
+        OBTENER POSTER REAL
+        ========================== */
+
+        let poster = "";
+
+        const posterImg =
+        document.querySelector(
+            ".hero-poster img"
+        );
+
+        if(
+            posterImg &&
+            posterImg.src
+        ){
+
+            poster =
+            posterImg.src;
+
+        }
+
+        /* fallback TMDB */
+
+        if(!poster){
+
+            poster =
+            `https://image.tmdb.org/t/p/w500${
+                window.currentMovie
+                ?.poster_path || ""
+            }`;
+
+        }
+
+        /* ==========================
+        TÍTULO
+        ========================== */
 
         const title =
+
+        document.title ||
+
         document
         .getElementById(
             "pageTitle"
-        )?.innerText ||
-        document.title ||
-        "";
+        )
+        ?.innerText ||
+
+        "Sin título";
+
+        /* ==========================
+        AÑO
+        ========================== */
 
         const year =
+
         document
         .getElementById(
             "heroMeta"
-        )?.innerText
+        )
+        ?.innerText
         ?.match(/\d{4}/)?.[0]
+
         || "";
 
+        /* ==========================
+        SINOPSIS
+        ========================== */
+
         const overview =
+
         document
         .getElementById(
             "sinopsis"
-        )?.innerText || "";
+        )
+        ?.innerText
+
+        || "";
+
+        /* ==========================
+        URL
+        ========================== */
 
         const contentUrl =
         window.location.href;
 
-        /* GUARDAR EN FIRESTORE */
+        /* ==========================
+        GUARDAR EN FIRESTORE
+        ========================== */
 
         await docRef.set({
 
-            id: Number(tmdbId),
+            id:
+            Number(tmdbId),
 
-            url: contentUrl,
+            url:
+            contentUrl,
 
-            title: title,
+            title:
+            title,
 
-            poster: poster,
+            poster:
+            poster,
 
-            backdrop: backdrop,
+            backdrop:
+            backdrop,
 
-            year: year,
+            year:
+            year,
 
-            overview: overview,
+            overview:
+            overview,
 
             addedAt:
             firebase.firestore
@@ -337,10 +476,13 @@ async function toggleList(){
 
     }catch(error){
 
-        console.error(error);
+        console.error(
+            "Error guardando:",
+            error
+        );
 
         alert(
-            "Error guardando"
+            "Error guardando en Mi Lista"
         );
 
     }
