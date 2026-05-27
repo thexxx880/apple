@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>Mi Lista - LzPlay</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
+}
+
+body{
+background:#000;
+color:#fff;
+padding:30px;
+}
+
+.header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+margin-bottom:35px;
+flex-wrap:wrap;
+gap:15px;
+}
+
+.title{
+font-size:34px;
+font-weight:700;
+}
+
+.logout-btn{
+background:#111;
+border:none;
+color:#fff;
+padding:12px 18px;
+border-radius:14px;
+cursor:pointer;
+font-size:14px;
+}
+
+.logout-btn:hover{
+background:#222;
+}
+
+.grid{
+display:grid;
+grid-template-columns:
+repeat(auto-fill,
+minmax(180px,1fr));
+gap:20px;
+}
+
+.card{
+background:#111;
+border-radius:22px;
+overflow:hidden;
+transition:.3s;
+position:relative;
+cursor:pointer;
+}
+
+.card:hover{
+transform:translateY(-6px);
+}
+
+.poster{
+width:100%;
+aspect-ratio:2/3;
+object-fit:cover;
+display:block;
+background:#151515;
+}
+
+.info{
+padding:14px;
+}
+
+.movie-title{
+font-size:15px;
+font-weight:600;
+line-height:1.4;
+margin-bottom:6px;
+
+display:-webkit-box;
+-webkit-line-clamp:2;
+-webkit-box-orient:vertical;
+overflow:hidden;
+}
+
+.year{
+color:#aaa;
+font-size:13px;
+}
+
+.remove-btn{
+position:absolute;
+top:10px;
+right:10px;
+width:38px;
+height:38px;
+border:none;
+border-radius:50%;
+background:rgba(0,0,0,.8);
+color:#fff;
+cursor:pointer;
+backdrop-filter:blur(10px);
+transition:.3s;
+}
+
+.remove-btn:hover{
+transform:scale(1.08);
+}
+
+.empty{
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+height:60vh;
+text-align:center;
+}
+
+.empty i{
+font-size:70px;
+color:#333;
+margin-bottom:20px;
+}
+
+.empty h2{
+font-size:25px;
+margin-bottom:10px;
+}
+
+.empty p{
+color:#888;
+}
+
+.loading{
+text-align:center;
+margin-top:100px;
+color:#888;
+font-size:16px;
+}
+
+@media(max-width:600px){
+
+body{
+padding:18px;
+}
+
+.title{
+font-size:26px;
+}
+
+.grid{
+grid-template-columns:
+repeat(2,1fr);
+gap:16px;
+}
+
+}
+
+</style>
+</head>
+<body>
+
+<div class="header">
+
+<h1 class="title">
+Mi Lista
+</h1>
+
+<button class="logout-btn"
+onclick="logout()">
+
+<i class="fa-solid fa-right-from-bracket"></i>
+Cerrar sesión
+
+</button>
+
+</div>
+
+<div id="content">
+
+<div class="loading">
+Cargando contenido...
+</div>
+
+</div>
+
+<script>
+
+/* ==========================
+FIREBASE CONFIG
+========================== */
+
+const firebaseConfig = {
+apiKey: "AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
+authDomain: "applelz-b5883.firebaseapp.com",
+projectId: "applelz-b5883",
+storageBucket: "applelz-b5883.firebasestorage.app",
+messagingSenderId: "489468218632",
+appId: "1:489468218632:web:598a550f7ebe7c6de7b0bd",
+measurementId: "G-J085DHR8M3"
+};
+
+firebase.initializeApp(firebaseConfig);
+
+const auth = firebase.auth();
+const db = firebase.firestore();
+
+const content =
+document.getElementById(
+"content"
+);
+
+/* ==========================
+AUTH CHECK
+========================== */
+
+auth.onAuthStateChanged(
+(user)=>{
+
+if(!user){
+
+location.href =
+"https://lzplayhd.online/apple/login.html";
+
+return;
+}
+
+loadMyList(user.uid);
+
+});
+
+/* ==========================
+CARGAR MI LISTA
+========================== */
+
+async function loadMyList(uid){
+
+try{
+
+const snapshot =
+await db.collection("users")
+.doc(uid)
+.collection("myList")
+.orderBy(
+"addedAt",
+"desc"
+)
+.get();
+
+if(snapshot.empty){
+
+content.innerHTML = `
+<div class="empty">
+
+<i class="fa-regular fa-bookmark"></i>
+
+<h2>
+Tu lista está vacía
+</h2>
+
+<p>
+Guarda películas y series
+para verlas después
+</p>
+
+</div>
+`;
+
+return;
+}
+
+let html =
+`<div class="grid">`;
+
+snapshot.forEach(doc=>{
+
+const item =
+doc.data();
+
+html += `
+
+<div class="card"
+onclick="openContent(
+'${item.url}'
+)">
+
+<button
+class="remove-btn"
+
+onclick="
+event.stopPropagation();
+removeItem(
+'${doc.id}'
+)
+">
+
+<i class="fa-solid fa-xmark"></i>
+
+</button>
+
+<img
+class="poster"
+src="${
+item.poster ||
+'https://via.placeholder.com/500x750?text=LzPlay'
+}"
+loading="lazy">
+
+<div class="info">
+
+<div class="movie-title">
+${item.title || 'Sin título'}
+</div>
+
+<div class="year">
+${item.year || '---'}
+</div>
+
+</div>
+</div>
+`;
+});
+
+html += `</div>`;
+
+content.innerHTML =
+html;
+
+}catch(error){
+
+console.error(error);
+
+content.innerHTML = `
+<div class="empty">
+
+<h2>
+Error cargando Mi Lista
+</h2>
+
+</div>
+`;
+
+}
+
+}
+
+/* ==========================
+ABRIR CONTENIDO
+========================== */
+
+function openContent(url){
+
+window.location.href =
+url;
+
+}
+
+/* ==========================
+ELIMINAR
+========================== */
+
+async function removeItem(id){
+
+const user =
+auth.currentUser;
+
+if(!user) return;
+
+try{
+
+await db.collection("users")
+.doc(user.uid)
+.collection("myList")
+.doc(id)
+.delete();
+
+loadMyList(
+user.uid
+);
+
+}catch(error){
+
+console.error(error);
+
+alert(
+"Error eliminando"
+);
+
+}
+
+}
+
+/* ==========================
+LOGOUT
+========================== */
+
+async function logout(){
+
+await auth.signOut();
+
+location.href =
+"https://lzplayhd.online/apple/login.html";
+
+}
+
+</script>
+
+</body>
+</html>
