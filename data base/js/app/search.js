@@ -1,5 +1,5 @@
 // =============================================
-// SEARCH.JS - Buscador avanzado con sugerencias en tiempo real + Modal
+// SEARCH.JS - Buscador corregido y mejorado
 // =============================================
 const JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search/search.json";
 
@@ -12,13 +12,13 @@ async function loadDatabase() {
     let data = await res.json();
     if (!Array.isArray(data)) data = [data];
     database = data;
-    console.log(`✅ Buscador cargado: ${database.length} contenidos`);
+    console.log(`✅ Buscador cargado correctamente: ${database.length} contenidos`);
   } catch (e) {
     console.error("❌ Error cargando search.json", e);
   }
 }
 
-// ================== FUNCIÓN DE BÚSQUEDA INTELIGENTE ==================
+// ================== FUNCIÓN DE BÚSQUEDA ==================
 function search(query) {
   if (!query || query.length < 2) return [];
   const q = query.toLowerCase().trim();
@@ -43,28 +43,115 @@ function search(query) {
     .sort((a, b) => b.score - a.score);
 }
 
-// ================== INYECTAR CSS ==================
+// ================== INYECTAR CSS (estilo moderno que combina con tu página) ==================
 function injectSearchCSS() {
   if (document.getElementById("lz-search-css")) return;
   const style = document.createElement("style");
   style.id = "lz-search-css";
   style.textContent = `
-    .lz-suggestions { position:absolute; top:100%; left:0; right:0; background:rgba(25,25,25,0.98); border-radius:18px; max-height:420px; overflow-y:auto; box-shadow:0 15px 35px rgba(0,0,0,.7); z-index:9999; display:none; margin-top:8px; }
-    .lz-suggestion-item { padding:14px 20px; display:flex; align-items:center; gap:15px; cursor:pointer; border-bottom:1px solid #333; }
-    .lz-suggestion-item:hover { background:rgba(255,204,0,0.15); }
-    .lz-suggestion-poster { width:48px; height:70px; object-fit:cover; border-radius:8px; }
-    .lz-modal { display:none; position:fixed; inset:0; background:rgba(0,0,0,0.9); backdrop-filter:blur(12px); z-index:100000; align-items:center; justify-content:center; }
-    .lz-modal-content { background:rgba(20,20,20,0.97); width:95%; max-width:1100px; max-height:92vh; border-radius:24px; padding:25px; overflow-y:auto; }
-    .lz-modal-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:20px; padding-bottom:15px; border-bottom:1px solid #333; }
-    .lz-close-btn { font-size:34px; cursor:pointer; color:#aaa; }
-    .lz-results-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); gap:20px; }
-    .lz-result-card { background:#111; border-radius:16px; overflow:hidden; cursor:pointer; transition:all .3s; }
-    .lz-result-card:hover { transform:scale(1.06); box-shadow:0 15px 30px rgba(255,204,0,.3); }
-    .lz-result-card img { width:100%; height:260px; object-fit:cover; }
-    .lz-result-info { padding:14px; }
-    .lz-result-info h4 { font-size:15px; line-height:1.3; margin-bottom:6px; }
-    .lz-result-info small { color:#ffcc00; }
-    .no-results { text-align:center; padding:80px 20px; color:#aaa; font-size:18px; }
+    .lz-suggestions {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: #0f172a;
+      border: 1px solid #2563eb;
+      border-radius: 16px;
+      max-height: 420px;
+      overflow-y: auto;
+      box-shadow: 0 15px 35px rgba(0,0,0,.7);
+      z-index: 99999;
+      display: none;
+      margin-top: 6px;
+    }
+    .lz-suggestion-item {
+      padding: 12px 16px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      cursor: pointer;
+      border-bottom: 1px solid #1e2937;
+    }
+    .lz-suggestion-item:hover {
+      background: #1e40af;
+    }
+    .lz-suggestion-poster {
+      width: 46px;
+      height: 68px;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+    .lz-modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(2,8,23,0.92);
+      backdrop-filter: blur(12px);
+      z-index: 100000;
+      align-items: center;
+      justify-content: center;
+    }
+    .lz-modal-content {
+      background: #020817;
+      width: 95%;
+      max-width: 1100px;
+      max-height: 90vh;
+      border-radius: 20px;
+      padding: 25px;
+      overflow-y: auto;
+      border: 1px solid #2563eb;
+    }
+    .lz-modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      border-bottom: 1px solid #1e2937;
+    }
+    .lz-close-btn {
+      font-size: 34px;
+      cursor: pointer;
+      color: #94a3b8;
+    }
+    .lz-results-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: 20px;
+    }
+    .lz-result-card {
+      background: #111827;
+      border-radius: 16px;
+      overflow: hidden;
+      cursor: pointer;
+      transition: all .3s;
+    }
+    .lz-result-card:hover {
+      transform: scale(1.06);
+      box-shadow: 0 15px 30px rgba(37,99,235,.4);
+    }
+    .lz-result-card img {
+      width: 100%;
+      height: 260px;
+      object-fit: cover;
+    }
+    .lz-result-info {
+      padding: 14px;
+    }
+    .lz-result-info h4 {
+      font-size: 15px;
+      line-height: 1.3;
+      margin-bottom: 6px;
+    }
+    .lz-result-info small {
+      color: #60a5fa;
+    }
+    .no-results {
+      text-align: center;
+      padding: 80px 20px;
+      color: #64748b;
+      font-size: 18px;
+    }
   `;
   document.head.appendChild(style);
 }
@@ -76,7 +163,7 @@ function injectModal() {
     <div id="lz-searchModal" class="lz-modal">
       <div class="lz-modal-content">
         <div class="lz-modal-header">
-          <h2>Resultados para: <span id="lz-modalQuery"></span></h2>
+          <h2>Resultados para: <span id="lz-modalQuery" style="color:#60a5fa"></span></h2>
           <span class="lz-close-btn" id="lz-closeModal">×</span>
         </div>
         <div id="lz-resultsGrid" class="lz-results-grid"></div>
@@ -84,13 +171,15 @@ function injectModal() {
     </div>`;
   document.body.insertAdjacentHTML("beforeend", modalHTML);
 
-  document.getElementById("lz-closeModal").onclick = () => document.getElementById("lz-searchModal").style.display = "none";
+  document.getElementById("lz-closeModal").onclick = () => {
+    document.getElementById("lz-searchModal").style.display = "none";
+  };
   document.getElementById("lz-searchModal").onclick = (e) => {
     if (e.target.id === "lz-searchModal") document.getElementById("lz-searchModal").style.display = "none";
   };
 }
 
-// ================== MOSTRAR SUGERENCIAS ==================
+// ================== MOSTRAR SUGERENCIAS EN TIEMPO REAL ==================
 function showSuggestions(input, results) {
   let box = input.parentElement.querySelector(".lz-suggestions");
   if (!box) {
@@ -99,17 +188,23 @@ function showSuggestions(input, results) {
     input.parentElement.style.position = "relative";
     input.parentElement.appendChild(box);
   }
+
   if (results.length === 0) {
     box.style.display = "none";
     return;
   }
+
   let html = "";
   results.slice(0, 8).forEach(item => {
     html += `<div class="lz-suggestion-item" onclick="window.openContent('${item.url}')">
-      <img src="${item.poster}" class="lz-suggestion-poster">
-      <div><h4>${item.titulo}</h4><small>${item.año}</small></div>
+      <img src="${item.poster}" class="lz-suggestion-poster" alt="">
+      <div>
+        <h4>${item.titulo}</h4>
+        <small>${item.año}</small>
+      </div>
     </div>`;
   });
+
   box.innerHTML = html;
   box.style.display = "block";
 }
@@ -118,6 +213,7 @@ function showSuggestions(input, results) {
 function showSearchModal(query, results) {
   document.getElementById("lz-modalQuery").textContent = `"${query}"`;
   const grid = document.getElementById("lz-resultsGrid");
+
   if (results.length === 0) {
     grid.innerHTML = `<div class="no-results">😕 No encontramos resultados para <strong>${query}</strong></div>`;
   } else {
@@ -125,7 +221,10 @@ function showSearchModal(query, results) {
     results.forEach(item => {
       html += `<div class="lz-result-card" onclick="window.openContent('${item.url}')">
         <img src="${item.poster}" alt="${item.titulo}">
-        <div class="lz-result-info"><h4>${item.titulo}</h4><small>${item.año}</small></div>
+        <div class="lz-result-info">
+          <h4>${item.titulo}</h4>
+          <small>${item.año}</small>
+        </div>
       </div>`;
     });
     grid.innerHTML = html;
@@ -133,51 +232,61 @@ function showSearchModal(query, results) {
   document.getElementById("lz-searchModal").style.display = "flex";
 }
 
-// ================== ABRIR CONTENIDO ==================
 window.openContent = function(url) {
   window.location.href = url;
 };
 
-// ================== INICIALIZAR ==================
-function initSearch() {
+// ================== INICIALIZAR BUSCADOR ==================
+async function initSearch() {
+  await loadDatabase();           // ← ESTO ERA EL ERROR PRINCIPAL
   injectSearchCSS();
   injectModal();
 
-  const searchInputs = document.querySelectorAll('.search-box input');
-  searchInputs.forEach(input => {
-    let timeout;
-    input.addEventListener("input", () => {
-      clearTimeout(timeout);
-      timeout = setTimeout(() => {
-        const query = input.value.trim();
-        const results = search(query);
-        showSuggestions(input, results);
-      }, 180);
+  // Esperamos un momento por si el navbar se renderiza después
+  setTimeout(() => {
+    const searchInputs = document.querySelectorAll('.search-box input');
+    if (searchInputs.length === 0) {
+      console.warn("⚠️ No se encontró .search-box input. ¿El navbar ya se renderizó?");
+      return;
+    }
+
+    searchInputs.forEach(input => {
+      let timeout;
+
+      input.addEventListener("input", () => {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => {
+          const query = input.value.trim();
+          const results = search(query);
+          showSuggestions(input, results);
+        }, 160);
+      });
+
+      input.addEventListener("keypress", (e) => {
+        if (e.key === "Enter") {
+          const query = input.value.trim();
+          if (query.length < 2) return;
+          const results = search(query);
+          showSearchModal(query, results);
+          const box = input.parentElement.querySelector(".lz-suggestions");
+          if (box) box.style.display = "none";
+        }
+      });
+
+      // Cerrar sugerencias al hacer clic fuera
+      document.addEventListener("click", (e) => {
+        if (!input.parentElement.contains(e.target)) {
+          const box = input.parentElement.querySelector(".lz-suggestions");
+          if (box) box.style.display = "none";
+        }
+      });
     });
 
-    input.addEventListener("keypress", (e) => {
-      if (e.key === "Enter") {
-        const query = input.value.trim();
-        if (query.length < 2) return;
-        const results = search(query);
-        showSearchModal(query, results);
-        const box = input.parentElement.querySelector(".lz-suggestions");
-        if (box) box.style.display = "none";
-      }
-    });
-
-    document.addEventListener("click", (e) => {
-      if (!input.parentElement.contains(e.target)) {
-        const box = input.parentElement.querySelector(".lz-suggestions");
-        if (box) box.style.display = "none";
-      }
-    });
-  });
-
-  console.log("%c✅ Buscador avanzado LzPlay cargado correctamente", "color:#ffcc00; font-weight:bold");
+    console.log("%c✅ Buscador avanzado LzPlay funcionando correctamente", "color:#60a5fa; font-weight:bold");
+  }, 300);
 }
 
-// Auto-inicialización
+// ================== AUTO INICIALIZACIÓN ==================
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", initSearch);
 } else {
