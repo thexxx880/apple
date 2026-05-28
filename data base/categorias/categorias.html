@@ -68,13 +68,20 @@
         color: white;
     }
 
-    /* HEADER */
-    header {
-        background: rgba(15, 23, 42, .95) !important;
-        border-bottom: 1px solid rgba(255,255,255,.08) !important;
-        backdrop-filter: blur(12px);
-    }
 
+	  /* =============================================
+   ESPACIO PARA NAVBAR DINÁMICO
+============================================= */
+.page-content {
+    padding-top: 90px;
+}
+
+@media (max-width: 768px){
+    .page-content{
+        padding-top: 78px;
+    }
+}
+	  
     /* BOTONES DE CATEGORÍA */
     .categoria-btn {
         background: rgba(255,255,255,.05) !important;
@@ -172,11 +179,11 @@
 <body class="min-h-screen pb-12">
    <header id="main-header"></header>
 
-    <div class="max-w-screen-2xl mx-auto px-8 pt-8">
+    <div class="page-content max-w-screen-2xl mx-auto px-8">
         <!-- LOADING -->
         <div id="loading" class="flex flex-col items-center justify-center py-20">
             <div class="animate-spin w-12 h-12 border-4 border-cyan-400 border-t-transparent rounded-full mb-4"></div>
-            <p class="text-zinc-400">Cargando contenidos desde tu base.json y TMDB...</p>
+            <p class="text-zinc-400">Cargando contenidos</p>
         </div>
 
         <!-- CONTENIDO -->
