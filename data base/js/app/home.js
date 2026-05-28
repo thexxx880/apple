@@ -1,7 +1,58 @@
 // =============================================
-// HOME.JS - Lógica específica de la página de inicio + Loader
+// HOME.JS - Nueva versión: Últimos 10 de base.json + TMDB Dinámico
 // =============================================
 
+const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/";
+const BASE_REGISTRY_URL = `${GITHUB_RAW_BASE}data/base/base.json`;
+const TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p/";
+
+// ================== OBTENER ÚLTIMOS 10 CONTENIDOS ==================
+async function getLast10Contents() {
+    try {
+        const res = await fetch(BASE_REGISTRY_URL);
+        if (!res.ok) throw new Error("No se pudo cargar base.json");
+        const baseData = await res.json();
+
+        // Tomamos las últimas 10 claves (las más recientes agregadas)
+        const keys = Object.keys(baseData).slice(-10).reverse(); // newest first
+
+        const promises = keys.map(async (id) => {
+            try {
+                // Llamada a TMDB usando el ID (clave del JSON)
+                const tmdbData = await fetchTMDB(`movie/${id}`);
+
+                return {
+                    id: id,
+                    titulo: tmdbData.title || "Sin título",
+                    poster: tmdbData.poster_path 
+                        ? `${TMDB_IMAGE_BASE}w500${tmdbData.poster_path}` 
+                        : "assets/posters/placeholder.jpg",
+                    backdrop: tmdbData.backdrop_path 
+                        ? `${TMDB_IMAGE_BASE}original${tmdbData.backdrop_path}` 
+                        : "",
+                    calificacion: tmdbData.vote_average 
+                        ? parseFloat(tmdbData.vote_average.toFixed(1)) 
+                        : 7.5,
+                    anio: (tmdbData.release_date || "").substring(0, 4) || "----",
+                    sinopsis: tmdbData.overview || "Sin sinopsis disponible.",
+                    // El enlace del video se guarda pero no se usa aquí
+                    enlace_video: baseData[id]
+                };
+            } catch (e) {
+                console.warn(`Error cargando TMDB ID ${id}:`, e);
+                return null;
+            }
+        });
+
+        const results = await Promise.all(promises);
+        return results.filter(item => item !== null); // quitar los que fallaron
+    } catch (error) {
+        console.error("Error al cargar últimos 10 contenidos:", error);
+        return [];
+    }
+}
+
+// ================== HERO RANDOM (de los últimos 10) ==================
 async function loadRandomHero() {
     const heroSection = document.getElementById("hero");
     const heroLogo = document.getElementById("hero-logo");
@@ -10,88 +61,84 @@ async function loadRandomHero() {
     const heroYear = document.getElementById("hero-year");
     const heroPlayBtn = document.getElementById("hero-play-btn");
 
-    try {
-        const data = await fetchRandomHero();
-        if (!data) return;
+    const contents = await getLast10Contents();
+    if (contents.length === 0) return;
 
-        if (data.backdrop) heroSection.style.backgroundImage = `url('${data.backdrop}')`;
-        if (data.logo && heroLogo) heroLogo.src = data.logo;
-        if (heroYear) heroYear.textContent = data.anio || "----";
-        if (heroRating) heroRating.innerHTML = `⭐ ${data.calificacion || "N/A"}`;
-        
-        if (heroDesc) {
-            let sinopsis = data.sinopsis || "";
-            if (sinopsis.length > 220) sinopsis = sinopsis.substring(0, 220) + "...";
-            heroDesc.textContent = sinopsis;
-        }
+    // Elegir uno al azar
+    const data = contents[Math.floor(Math.random() * contents.length)];
 
-        if (heroPlayBtn && data.id) {
-            heroPlayBtn.onclick = (e) => {
-                e.preventDefault();
-                window.location.href = `contenido.html?id=${data.id}`;
-            };
-        }
-    } catch (error) {
-        console.error("Error cargando héroe:", error);
+    if (data.backdrop) heroSection.style.backgroundImage = `url('${data.backdrop}')`;
+    if (data.logo && heroLogo) heroLogo.src = data.logo; // si algún día agregas logo en base.json
+    if (heroYear) heroYear.textContent = data.anio || "----";
+    if (heroRating) heroRating.innerHTML = `⭐ ${data.calificacion || "N/A"}`;
+
+    if (heroDesc) {
+        let sinopsis = data.sinopsis || "";
+        if (sinopsis.length > 220) sinopsis = sinopsis.substring(0, 220) + "...";
+        heroDesc.textContent = sinopsis;
+    }
+
+    if (heroPlayBtn && data.id) {
+        heroPlayBtn.onclick = (e) => {
+            e.preventDefault();
+            window.location.href = `contenido.html?id=${data.id}`;
+        };
     }
 }
 
+// ================== SECCIÓN DE PELÍCULAS (últimos 10) ==================
 async function loadMoviesSection() {
     const container = document.getElementById("movies-grid");
     if (!container) return;
 
-    container.innerHTML = `<p style="color:#888; padding: 40px 20px; font-size: 0.95rem;">Cargando películas...</p>`;
+    container.innerHTML = `<p style="color:#888; padding: 40px 20px; font-size: 0.95rem;">Cargando últimas películas...</p>`;
 
-    try {
-        const movies = await fetchMovies(10);
-        if (movies.length === 0) {
-            container.innerHTML = `<p style="color:#ff6b6b; padding: 30px 20px;">No se encontraron películas.</p>`;
-            return;
-        }
+    const movies = await getLast10Contents();
 
-        container.innerHTML = "";
-        movies.forEach(movie => {
-            const card = document.createElement("div");
-            card.className = "movie-card";
-
-            const ratingHTML = window.createRatingCircle ?
-                window.createRatingCircle(movie.calificacion || 0) :
-                `<span>${movie.calificacion || 0}</span>`;
-
-            card.innerHTML = `
-                <img src="${movie.poster || 'assets/posters/placeholder.jpg'}" alt="${movie.titulo}">
-                <div class="movie-rating">${ratingHTML}</div>
-                <div class="movie-overlay"></div>
-            `;
-
-            card.addEventListener("click", () => {
-                if (movie.id) {
-                    window.location.href = `contenido.html?id=${movie.id}`;
-                }
-            });
-
-            container.appendChild(card);
-        });
-    } catch (error) {
-        console.error("Error cargando películas:", error);
-        container.innerHTML = `<p style="color:#ff6b6b; padding: 30px 20px;">❌ Error al cargar las películas.</p>`;
+    if (movies.length === 0) {
+        container.innerHTML = `<p style="color:#ff6b6b; padding: 30px 20px;">No se encontraron películas recientes.</p>`;
+        return;
     }
+
+    container.innerHTML = "";
+
+    movies.forEach(movie => {
+        const card = document.createElement("div");
+        card.className = "movie-card";
+
+        const ratingHTML = window.createRatingCircle 
+            ? window.createRatingCircle(movie.calificacion || 0) 
+            : `<span>${movie.calificacion || 0}</span>`;
+
+        card.innerHTML = `
+            <img src="${movie.poster}" alt="${movie.titulo}" loading="lazy">
+            <div class="movie-rating">${ratingHTML}</div>
+            <div class="movie-overlay"></div>
+            <div class="movie-title">${movie.titulo}</div>
+        `;
+
+        card.addEventListener("click", () => {
+            window.location.href = `contenido.html?id=${movie.id}`;
+        });
+
+        container.appendChild(card);
+    });
 }
 
-// ================== INICIO + LOADER (Mínimo 2 segundos) ==================
+// ================== INICIO + LOADER ==================
 document.addEventListener("DOMContentLoaded", async () => {
     // Iniciar loader
     if (typeof initLoader === "function") {
         initLoader();
     }
 
-    // Cargar todo el contenido de la página
+    // Cargar hero y películas en paralelo
     await Promise.all([
         loadRandomHero(),
         loadMoviesSection()
     ]);
 
-    // Ocultar loader (respeta siempre los 2 segundos gracias a loader.js)
+    // Ocultar loader (respeta los 2 segundos gracias a loader.js)
     if (typeof hideLoader === "function") {
         hideLoader();
     } else {
@@ -99,5 +146,5 @@ document.addEventListener("DOMContentLoaded", async () => {
         if (loader) loader.style.display = 'none';
     }
 
-    console.log("✅ Página de inicio cargada completamente");
+    console.log("✅ Página de inicio cargada con los últimos 10 contenidos + TMDB");
 });
