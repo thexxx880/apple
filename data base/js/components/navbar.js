@@ -16,7 +16,7 @@ function renderNavbar(containerId = "main-header") {
         </a>
     
         <div class="nav-center">
-            <a href="../index.html" class="nav-link">Inicio</a>
+            <a href="https://lzplayhd.online/apple/data%20base/" class="nav-link">Inicio</a>
             <a href="#" class="nav-link">Tendencias</a>
             <a href="../data/movie.html" class="nav-link">Películas</a>
             <a href="../data/serie.html" class="nav-link">Series</a>
@@ -38,7 +38,7 @@ function renderNavbar(containerId = "main-header") {
             </a>
 
             <!-- PERFIL / MENÚ -->
-            <a href="../../menu.html" class="user-avatar">
+            <a href="https://lzplayhd.online/apple/data%20base/" class="user-avatar">
                 <img src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg" alt="Usuario">
             </a>
 
