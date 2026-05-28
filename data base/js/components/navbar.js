@@ -1,19 +1,17 @@
 // =============================================
 // NAVBAR.JS - Componente de navegación (Header)
 // =============================================
-
 function renderNavbar(containerId = "main-header") {
     const container = document.getElementById(containerId);
     if (!container) {
         console.error(`Contenedor #${containerId} no encontrado`);
         return;
     }
-
     container.innerHTML = `
         <a href="https://lzplayhd.online/apple/data%20base/" class="logo">
             LZPLAY
         </a>
-       
+      
         <div class="nav-center">
             <a href="../index.html" class="nav-link">Inicio</a>
             <a href="#" class="nav-link">Tendencias</a>
@@ -24,7 +22,7 @@ function renderNavbar(containerId = "main-header") {
                 <input type="text" placeholder="Buscar películas o series">
             </div>
         </div>
-       
+      
         <div class="icons">
             <div class="icon-btn mobile-search">
                 <i class="fas fa-search"></i>
@@ -34,7 +32,6 @@ function renderNavbar(containerId = "main-header") {
             </div>
         </div>
     `;
-
     initNavbarEffects(container);
 }
 
@@ -66,6 +63,11 @@ function initNavbarEffects(headerElement) {
                 }
             }
         });
+    }
+
+    // ✅ INICIALIZAR BUSCADOR AVANZADO
+    if (typeof window.initSearch === "function") {
+        window.initSearch();
     }
 }
 
