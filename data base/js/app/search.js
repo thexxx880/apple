@@ -43,7 +43,7 @@ function search(query) {
     .sort((a, b) => b.score - a.score);
 }
 
-// ================== INYECTAR CSS (una sola vez) ==================
+// ================== INYECTAR CSS ==================
 function injectSearchCSS() {
   if (document.getElementById("lz-search-css")) return;
   const style = document.createElement("style");
@@ -84,63 +84,49 @@ function injectModal() {
     </div>`;
   document.body.insertAdjacentHTML("beforeend", modalHTML);
 
-  // Eventos del modal
-  document.getElementById("lz-closeModal").onclick = () => {
-    document.getElementById("lz-searchModal").style.display = "none";
-  };
+  document.getElementById("lz-closeModal").onclick = () => document.getElementById("lz-searchModal").style.display = "none";
   document.getElementById("lz-searchModal").onclick = (e) => {
     if (e.target.id === "lz-searchModal") document.getElementById("lz-searchModal").style.display = "none";
   };
 }
 
-// ================== MOSTRAR SUGERENCIAS DEBAJO DEL INPUT ==================
+// ================== MOSTRAR SUGERENCIAS ==================
 function showSuggestions(input, results) {
-  let suggestionsBox = input.parentElement.querySelector(".lz-suggestions");
-  if (!suggestionsBox) {
-    suggestionsBox = document.createElement("div");
-    suggestionsBox.className = "lz-suggestions";
+  let box = input.parentElement.querySelector(".lz-suggestions");
+  if (!box) {
+    box = document.createElement("div");
+    box.className = "lz-suggestions";
     input.parentElement.style.position = "relative";
-    input.parentElement.appendChild(suggestionsBox);
+    input.parentElement.appendChild(box);
   }
-
   if (results.length === 0) {
-    suggestionsBox.style.display = "none";
+    box.style.display = "none";
     return;
   }
-
   let html = "";
   results.slice(0, 8).forEach(item => {
-    html += `
-      <div class="lz-suggestion-item" onclick="window.openContent('${item.url}')">
-        <img src="${item.poster}" class="lz-suggestion-poster">
-        <div>
-          <h4>${item.titulo}</h4>
-          <small>${item.año}</small>
-        </div>
-      </div>`;
+    html += `<div class="lz-suggestion-item" onclick="window.openContent('${item.url}')">
+      <img src="${item.poster}" class="lz-suggestion-poster">
+      <div><h4>${item.titulo}</h4><small>${item.año}</small></div>
+    </div>`;
   });
-  suggestionsBox.innerHTML = html;
-  suggestionsBox.style.display = "block";
+  box.innerHTML = html;
+  box.style.display = "block";
 }
 
 // ================== MOSTRAR MODAL ==================
 function showSearchModal(query, results) {
   document.getElementById("lz-modalQuery").textContent = `"${query}"`;
   const grid = document.getElementById("lz-resultsGrid");
-
   if (results.length === 0) {
     grid.innerHTML = `<div class="no-results">😕 No encontramos resultados para <strong>${query}</strong></div>`;
   } else {
     let html = "";
     results.forEach(item => {
-      html += `
-        <div class="lz-result-card" onclick="window.openContent('${item.url}')">
-          <img src="${item.poster}" alt="${item.titulo}">
-          <div class="lz-result-info">
-            <h4>${item.titulo}</h4>
-            <small>${item.año}</small>
-          </div>
-        </div>`;
+      html += `<div class="lz-result-card" onclick="window.openContent('${item.url}')">
+        <img src="${item.poster}" alt="${item.titulo}">
+        <div class="lz-result-info"><h4>${item.titulo}</h4><small>${item.año}</small></div>
+      </div>`;
     });
     grid.innerHTML = html;
   }
@@ -152,17 +138,14 @@ window.openContent = function(url) {
   window.location.href = url;
 };
 
-// ================== INICIALIZAR BUSCADOR ==================
+// ================== INICIALIZAR ==================
 function initSearch() {
   injectSearchCSS();
   injectModal();
 
-  // Buscar todos los inputs de búsqueda (desktop + móvil)
   const searchInputs = document.querySelectorAll('.search-box input');
-
   searchInputs.forEach(input => {
     let timeout;
-
     input.addEventListener("input", () => {
       clearTimeout(timeout);
       timeout = setTimeout(() => {
@@ -172,24 +155,21 @@ function initSearch() {
       }, 180);
     });
 
-    // Al presionar Enter → abrir modal
     input.addEventListener("keypress", (e) => {
       if (e.key === "Enter") {
         const query = input.value.trim();
         if (query.length < 2) return;
         const results = search(query);
         showSearchModal(query, results);
-        // ocultar sugerencias
-        const suggestionsBox = input.parentElement.querySelector(".lz-suggestions");
-        if (suggestionsBox) suggestionsBox.style.display = "none";
+        const box = input.parentElement.querySelector(".lz-suggestions");
+        if (box) box.style.display = "none";
       }
     });
 
-    // Cerrar sugerencias al hacer clic fuera
     document.addEventListener("click", (e) => {
       if (!input.parentElement.contains(e.target)) {
-        const suggestionsBox = input.parentElement.querySelector(".lz-suggestions");
-        if (suggestionsBox) suggestionsBox.style.display = "none";
+        const box = input.parentElement.querySelector(".lz-suggestions");
+        if (box) box.style.display = "none";
       }
     });
   });
@@ -197,12 +177,11 @@ function initSearch() {
   console.log("%c✅ Buscador avanzado LzPlay cargado correctamente", "color:#ffcc00; font-weight:bold");
 }
 
-// ================== AUTO-INICIALIZACIÓN ==================
+// Auto-inicialización
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", initSearch);
 } else {
   initSearch();
 }
 
-// Exponer para poder llamarlo manualmente desde navbar.js
 window.initSearch = initSearch;
