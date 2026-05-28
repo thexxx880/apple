@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>Menú • LzPlay</title>
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial,sans-serif;
+}
+
+body{
+
+background:
+linear-gradient(
+180deg,
+#070b14 0%,
+#000 100%
+);
+
+color:white;
+min-height:100vh;
+overflow-x:hidden;
+}
+
+/* =========================
+HEADER
+========================= */
+
+.topbar{
+
+padding:22px;
+display:flex;
+align-items:center;
+justify-content:space-between;
+position:sticky;
+top:0;
+z-index:50;
+
+background:
+rgba(0,0,0,.65);
+
+backdrop-filter:
+blur(20px);
+}
+
+.back-btn{
+
+width:45px;
+height:45px;
+border-radius:50%;
+border:none;
+background:
+rgba(255,255,255,.08);
+
+color:white;
+font-size:18px;
+cursor:pointer;
+transition:.2s;
+}
+
+.back-btn:hover{
+
+transform:scale(1.05);
+
+background:
+rgba(255,255,255,.12);
+}
+
+.logo{
+
+font-size:1.7rem;
+font-weight:900;
+letter-spacing:2px;
+}
+
+/* =========================
+PERFIL
+========================= */
+
+.profile-box{
+
+padding:25px;
+display:flex;
+align-items:center;
+gap:18px;
+}
+
+.avatar{
+
+width:90px;
+height:90px;
+border-radius:24px;
+object-fit:cover;
+border:3px solid
+rgba(255,255,255,.1);
+}
+
+.user-info h2{
+
+font-size:1.5rem;
+margin-bottom:6px;
+}
+
+.user-info p{
+
+color:#9ca3af;
+font-size:.95rem;
+}
+
+/* =========================
+MENU
+========================= */
+
+.menu{
+
+padding:20px;
+display:flex;
+flex-direction:column;
+gap:14px;
+}
+
+.menu-item{
+
+display:flex;
+align-items:center;
+gap:18px;
+
+padding:18px;
+border-radius:24px;
+
+background:
+rgba(255,255,255,.05);
+
+text-decoration:none;
+color:white;
+
+transition:.25s ease;
+border:1px solid
+rgba(255,255,255,.06);
+}
+
+.menu-item:hover{
+
+transform:
+translateY(-2px);
+
+background:
+rgba(255,255,255,.08);
+}
+
+.menu-icon{
+
+width:55px;
+height:55px;
+border-radius:18px;
+
+display:flex;
+align-items:center;
+justify-content:center;
+
+font-size:1.3rem;
+
+background:
+rgba(255,255,255,.08);
+}
+
+.menu-content{
+
+flex:1;
+}
+
+.menu-title{
+
+font-size:1rem;
+font-weight:700;
+margin-bottom:4px;
+}
+
+.menu-desc{
+
+font-size:.88rem;
+color:#9ca3af;
+}
+
+.arrow{
+
+font-size:1rem;
+opacity:.6;
+}
+
+/* =========================
+BOTON CERRAR SESION
+========================= */
+
+.logout{
+
+margin-top:20px;
+
+background:
+rgba(255,0,0,.12);
+
+border:
+1px solid
+rgba(255,0,0,.2);
+}
+
+.logout .menu-icon{
+
+background:
+rgba(255,0,0,.15);
+
+color:#ff4d4d;
+}
+
+/* =========================
+MOBILE
+========================= */
+
+@media(max-width:768px){
+
+.profile-box{
+
+flex-direction:column;
+text-align:center;
+}
+
+.avatar{
+
+width:110px;
+height:110px;
+}
+
+}
+
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="topbar">
+
+<button
+class="back-btn"
+onclick="history.back()">
+
+<i class="fa-solid fa-arrow-left"></i>
+
+</button>
+
+<div class="logo">
+LZPLAY
+</div>
+
+<div style="width:45px;"></div>
+
+</div>
+
+<!-- PERFIL -->
+<div class="profile-box">
+
+<img
+class="avatar"
+src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg">
+
+<div class="user-info">
+
+<h2 id="username">
+Cargando...
+</h2>
+
+<p>
+Cuenta Premium activa
+</p>
+
+</div>
+
+</div>
+
+<!-- MENU -->
+<div class="menu">
+
+<a href="mylist.html"
+class="menu-item">
+
+<div class="menu-icon">
+<i class="fa-solid fa-bookmark"></i>
+</div>
+
+<div class="menu-content">
+<div class="menu-title">
+Mi lista
+</div>
+<div class="menu-desc">
+Tus películas y series guardadas
+</div>
+</div>
+
+<i class="fa-solid fa-chevron-right arrow"></i>
+
+</a>
+
+<a href="#"
+class="menu-item">
+
+<div class="menu-icon">
+<i class="fa-solid fa-clock-rotate-left"></i>
+</div>
+
+<div class="menu-content">
+<div class="menu-title">
+Seguir viendo
+</div>
+<div class="menu-desc">
+Continúa donde te quedaste
+</div>
+</div>
+
+<i class="fa-solid fa-chevron-right arrow"></i>
+
+</a>
+
+<a href="#"
+class="menu-item">
+
+<div class="menu-icon">
+<i class="fa-solid fa-bell"></i>
+</div>
+
+<div class="menu-content">
+<div class="menu-title">
+Notificaciones
+</div>
+<div class="menu-desc">
+Novedades y actualizaciones
+</div>
+</div>
+
+<i class="fa-solid fa-chevron-right arrow"></i>
+
+</a>
+
+<a href="#"
+class="menu-item">
+
+<div class="menu-icon">
+<i class="fa-solid fa-gear"></i>
+</div>
+
+<div class="menu-content">
+<div class="menu-title">
+Configuración
+</div>
+<div class="menu-desc">
+Preferencias de la aplicación
+</div>
+</div>
+
+<i class="fa-solid fa-chevron-right arrow"></i>
+
+</a>
+
+<a href="#"
+class="menu-item">
+
+<div class="menu-icon">
+<i class="fa-solid fa-user-pen"></i>
+</div>
+
+<div class="menu-content">
+<div class="menu-title">
+Editar Perfil
+</div>
+<div class="menu-desc">
+Cambia avatar y nombre
+</div>
+</div>
+
+<i class="fa-solid fa-chevron-right arrow"></i>
+
+</a>
+
+<!-- LOGOUT -->
+<div
+class="menu-item logout"
+onclick="logout()">
+
+<div class="menu-icon">
+<i class="fa-solid fa-right-from-bracket"></i>
+</div>
+
+<div class="menu-content">
+<div class="menu-title">
+Cerrar sesión
+</div>
+<div class="menu-desc">
+Salir de tu cuenta
+</div>
+</div>
+
+</div>
+
+</div>
+
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+
+<script src="js/firebase/applelz.js"></script>
+
+<script>
+
+/* ==========================
+USUARIO
+========================== */
+
+firebase.auth()
+.onAuthStateChanged(
+(user)=>{
+
+if(user){
+
+document
+.getElementById(
+"username"
+)
+.textContent =
+user.displayName
+||
+"Usuario LzPlay";
+
+}else{
+
+location.href =
+"https://lzplayhd.online/apple/login.html";
+}
+});
+
+/* ==========================
+LOGOUT
+========================== */
+
+async function logout(){
+
+try{
+
+await firebase
+.auth()
+.signOut();
+
+location.href =
+"https://lzplayhd.online/apple/data base/login.html";
+
+}catch(error){
+
+console.error(
+error
+);
+}
+}
+
+</script>
+
+</body>
+</html>
