@@ -7,7 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 	<link rel="stylesheet" href="../css/navbar.css">
-  <style>
+ <style>
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
     
     :root {
@@ -25,8 +25,25 @@
         font-family: 'Poppins', sans-serif;
         background: var(--bg-main);
         color: var(--text-primary);
+        overflow-x: hidden;
     }
-    
+
+    /* =============================================
+       ESPACIO PARA NAVBAR DINÁMICO
+    ============================================= */
+    .page-content {
+        padding-top: 8rem;
+    }
+
+    @media (max-width: 768px) {
+        .page-content {
+            padding-top: 5rem;
+        }
+    }
+
+    /* =============================================
+       CARDS
+    ============================================= */
     .card {
         transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     }
@@ -68,21 +85,9 @@
         color: white;
     }
 
-
-	  /* =============================================
-   ESPACIO PARA NAVBAR DINÁMICO
-============================================= */
-.page-content {
-    padding-top: 90px;
-}
-
-@media (max-width: 768px){
-    .page-content{
-        padding-top: 78px;
-    }
-}
-	  
-    /* BOTONES DE CATEGORÍA */
+    /* =============================================
+       BOTONES DE CATEGORÍA
+    ============================================= */
     .categoria-btn {
         background: rgba(255,255,255,.05) !important;
         border: 1px solid rgba(255,255,255,.08);
@@ -102,7 +107,9 @@
         box-shadow: 0 8px 25px rgba(37,99,235,.35);
     }
 
-    /* LINKS */
+    /* =============================================
+       LINKS
+    ============================================= */
     a {
         transition: .25s ease;
     }
@@ -111,12 +118,18 @@
         color: #4f7cff !important;
     }
 
-    /* TITULOS */
-    h1, h2, h3 {
+    /* =============================================
+       TITULOS
+    ============================================= */
+    h1,
+    h2,
+    h3 {
         color: white;
     }
 
-    /* SUBTEXTOS */
+    /* =============================================
+       SUBTEXTOS
+    ============================================= */
     .text-zinc-400 {
         color: var(--text-secondary) !important;
     }
@@ -129,7 +142,9 @@
         color: #4f7cff !important;
     }
 
-    /* BADGES */
+    /* =============================================
+       BADGES
+    ============================================= */
     .bg-white\/10 {
         background: rgba(255,255,255,.05) !important;
     }
@@ -138,7 +153,9 @@
         background: rgba(255,255,255,.08) !important;
     }
 
-    /* LOADING */
+    /* =============================================
+       LOADING
+    ============================================= */
     .border-cyan-400 {
         border-color: var(--primary-blue) !important;
     }
@@ -151,12 +168,16 @@
         background: #1d4ed8 !important;
     }
 
-    /* CARD INFO */
+    /* =============================================
+       CARD INFO
+    ============================================= */
     .group-hover\:text-cyan-400:hover {
         color: #4f7cff !important;
     }
 
-    /* SCROLL */
+    /* =============================================
+       SCROLLBAR
+    ============================================= */
     ::-webkit-scrollbar {
         width: 8px;
         height: 8px;
