@@ -30,18 +30,19 @@ function renderNavbar(containerId = "main-header") {
             </div>
         </div>
     
-        <div class="icons">
+       <div class="icons">
 
-            <!-- BOTÓN BUSCADOR MÓVIL -->
-            <div class="icon-btn mobile-search">
-                <i class="fas fa-search"></i>
-            </div>
+    <!-- BUSCADOR -->
+    <a href="../search.html" class="icon-btn mobile-search">
+        <i class="fas fa-search"></i>
+    </a>
 
-            <div class="user-avatar">
-                <img src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg" alt="Usuario">
-            </div>
+    <!-- PERFIL -->
+    <a href="../../menu.html" class="user-avatar">
+        <img src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg" alt="Usuario">
+    </a>
 
-        </div>
+</div>
     `;
 
     initNavbarEffects(container);
