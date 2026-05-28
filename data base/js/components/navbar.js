@@ -11,7 +11,7 @@ function renderNavbar(containerId = "main-header") {
         <a href="https://lzplayhd.online/apple/data%20base/" class="logo">
             LZPLAY
         </a>
-      
+     
         <div class="nav-center">
             <a href="../index.html" class="nav-link">Inicio</a>
             <a href="#" class="nav-link">Tendencias</a>
@@ -22,7 +22,7 @@ function renderNavbar(containerId = "main-header") {
                 <input type="text" placeholder="Buscar películas o series">
             </div>
         </div>
-      
+     
         <div class="icons">
             <div class="icon-btn mobile-search">
                 <i class="fas fa-search"></i>
@@ -51,21 +51,18 @@ function initNavbarEffects(headerElement) {
         });
     }
 
-    // Búsqueda móvil
+    // ================== BÚSQUEDA MÓVIL ==================
     const mobileSearch = headerElement.querySelector(".mobile-search");
     if (mobileSearch) {
         mobileSearch.addEventListener("click", () => {
-            const searchBox = headerElement.querySelector(".search-box");
-            if (searchBox) {
-                searchBox.style.display = searchBox.style.display === "flex" ? "none" : "flex";
-                if (searchBox.style.display === "flex") {
-                    searchBox.querySelector("input").focus();
-                }
+            // En móvil abrimos directamente el modal
+            if (typeof window.openSearchModal === "function") {
+                window.openSearchModal("");
             }
         });
     }
 
-    // ✅ INICIALIZAR BUSCADOR AVANZADO
+    // Inicializar buscador avanzado
     if (typeof window.initSearch === "function") {
         window.initSearch();
     }
