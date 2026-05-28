@@ -363,7 +363,7 @@ alert(
 }
 
 </script>
- <script>
+<script>
 function toggleCrew() {
 
     const section =
@@ -551,26 +551,6 @@ async function incrementarVistas() {
         return;
     }
 
-    /* ==========================
-    EVITAR DUPLICADO EN SESION
-    ========================== */
-
-    const viewKey =
-    `viewed_${tmdbId}`;
-
-    if (
-        sessionStorage.getItem(
-            viewKey
-        )
-    ) {
-
-        console.log(
-            'Vista ya contada'
-        );
-
-        return;
-    }
-
     const COLLECTION_NAME =
     "contenidos";
 
@@ -588,15 +568,31 @@ async function incrementarVistas() {
         );
 
         /* ==========================
+        OBTENER VISTAS ACTUALES
+        ========================== */
+
+        const doc =
+        await docRef.get();
+
+        let currentViews = 0;
+
+        if (
+            doc.exists &&
+            doc.data().vistas
+        ) {
+
+            currentViews =
+            doc.data().vistas;
+        }
+
+        /* ==========================
         SUMAR VISTA
         ========================== */
 
         await docRef.set({
 
             vistas:
-            firebase.firestore
-            .FieldValue
-            .increment(1),
+            currentViews + 1,
 
             updatedAt:
             firebase.firestore
@@ -607,25 +603,24 @@ async function incrementarVistas() {
             merge: true
         });
 
-        /* ==========================
-        GUARDAR SESION
-        ========================== */
-
-        sessionStorage.setItem(
-            viewKey,
-            "true"
-        );
-
         console.log(
-            `✅ Vista incrementada correctamente (ID: ${tmdbId})`
+            `✅ Vista incrementada (ID: ${tmdbId}) | Total: ${currentViews + 1}`
         );
+
+        /* ==========================
+        RECARGAR STATS
+        ========================== */
 
         if (
             typeof window.recargarStats
             === 'function'
         ) {
 
-            window.recargarStats();
+            setTimeout(() => {
+
+                window.recargarStats();
+
+            }, 500);
         }
 
     } catch (error) {
@@ -666,7 +661,9 @@ document.addEventListener(
         loadTMDBRating();
 
         setTimeout(() => {
+
             incrementarVistas();
+
         }, 1000);
 
     }
