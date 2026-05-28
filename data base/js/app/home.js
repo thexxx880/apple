@@ -1,25 +1,33 @@
 // =============================================
-// HOME.JS - Nueva versión: Últimos 10 de base.json + TMDB Dinámico
+// HOME.JS - Versión con depuración (debug) + Últimos 10
 // =============================================
 
 const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/";
 const BASE_REGISTRY_URL = `${GITHUB_RAW_BASE}data/base/base.json`;
 const TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p/";
 
-// ================== OBTENER ÚLTIMOS 10 CONTENIDOS ==================
+console.log("🔍 HOME.JS cargado - URL de base.json:", BASE_REGISTRY_URL);
+
+// ================== OBTENER ÚLTIMOS 10 ==================
 async function getLast10Contents() {
+    console.log("📡 Intentando cargar base.json...");
     try {
         const res = await fetch(BASE_REGISTRY_URL);
-        if (!res.ok) throw new Error("No se pudo cargar base.json");
+        console.log("📡 Estado de base.json:", res.status, res.statusText);
+        
+        if (!res.ok) throw new Error(`HTTP ${res.status} - ${res.statusText}`);
+        
         const baseData = await res.json();
+        console.log("✅ base.json cargado correctamente. IDs encontrados:", Object.keys(baseData));
 
-        // Tomamos las últimas 10 claves (las más recientes agregadas)
-        const keys = Object.keys(baseData).slice(-10).reverse(); // newest first
+        const keys = Object.keys(baseData).slice(-10).reverse(); // últimos 10
 
         const promises = keys.map(async (id) => {
             try {
-                // Llamada a TMDB usando el ID (clave del JSON)
+                console.log(`📡 Consultando TMDB para ID: ${id}`);
                 const tmdbData = await fetchTMDB(`movie/${id}`);
+
+                if (!tmdbData) throw new Error("TMDB devolvió null");
 
                 return {
                     id: id,
@@ -34,26 +42,26 @@ async function getLast10Contents() {
                         ? parseFloat(tmdbData.vote_average.toFixed(1)) 
                         : 7.5,
                     anio: (tmdbData.release_date || "").substring(0, 4) || "----",
-                    sinopsis: tmdbData.overview || "Sin sinopsis disponible.",
-                    // El enlace del video se guarda pero no se usa aquí
+                    sinopsis: tmdbData.overview || "",
                     enlace_video: baseData[id]
                 };
             } catch (e) {
-                console.warn(`Error cargando TMDB ID ${id}:`, e);
+                console.warn(`⚠️ Error con ID ${id}:`, e.message);
                 return null;
             }
         });
 
         const results = await Promise.all(promises);
-        return results.filter(item => item !== null); // quitar los que fallaron
+        return results.filter(item => item !== null);
     } catch (error) {
-        console.error("Error al cargar últimos 10 contenidos:", error);
+        console.error("❌ Error grave al cargar últimos 10:", error);
         return [];
     }
 }
 
-// ================== HERO RANDOM (de los últimos 10) ==================
+// ================== HERO RANDOM ==================
 async function loadRandomHero() {
+    // ... (mismo código que te di antes, sin cambios)
     const heroSection = document.getElementById("hero");
     const heroLogo = document.getElementById("hero-logo");
     const heroDesc = document.getElementById("hero-description");
@@ -64,11 +72,9 @@ async function loadRandomHero() {
     const contents = await getLast10Contents();
     if (contents.length === 0) return;
 
-    // Elegir uno al azar
     const data = contents[Math.floor(Math.random() * contents.length)];
 
     if (data.backdrop) heroSection.style.backgroundImage = `url('${data.backdrop}')`;
-    if (data.logo && heroLogo) heroLogo.src = data.logo; // si algún día agregas logo en base.json
     if (heroYear) heroYear.textContent = data.anio || "----";
     if (heroRating) heroRating.innerHTML = `⭐ ${data.calificacion || "N/A"}`;
 
@@ -86,7 +92,7 @@ async function loadRandomHero() {
     }
 }
 
-// ================== SECCIÓN DE PELÍCULAS (últimos 10) ==================
+// ================== SECCIÓN PELÍCULAS ==================
 async function loadMoviesSection() {
     const container = document.getElementById("movies-grid");
     if (!container) return;
@@ -125,20 +131,15 @@ async function loadMoviesSection() {
     });
 }
 
-// ================== INICIO + LOADER ==================
+// ================== INICIO ==================
 document.addEventListener("DOMContentLoaded", async () => {
-    // Iniciar loader
-    if (typeof initLoader === "function") {
-        initLoader();
-    }
+    if (typeof initLoader === "function") initLoader();
 
-    // Cargar hero y películas en paralelo
     await Promise.all([
         loadRandomHero(),
         loadMoviesSection()
     ]);
 
-    // Ocultar loader (respeta los 2 segundos gracias a loader.js)
     if (typeof hideLoader === "function") {
         hideLoader();
     } else {
@@ -146,5 +147,5 @@ document.addEventListener("DOMContentLoaded", async () => {
         if (loader) loader.style.display = 'none';
     }
 
-    console.log("✅ Página de inicio cargada con los últimos 10 contenidos + TMDB");
+    console.log("✅ HOME.JS finalizado correctamente");
 });
