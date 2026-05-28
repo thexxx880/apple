@@ -5,11 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Categorías - LZ Play HD</title>
     
-    <!-- === TUS CSS EXACTOS (igual que en index.html) === -->
-    <link rel="stylesheet" href="css/global.css">
-    <link rel="stylesheet" href="css/home.css">
+    <!-- === RUTAS CORREGIDAS (subiendo un nivel) === -->
+    <link rel="stylesheet" href="../css/global.css">
+    <link rel="stylesheet" href="../css/home.css">
     
-    <!-- Font Awesome y Poppins (ya lo usas) -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
@@ -44,7 +43,6 @@
         .movies-grid::-webkit-scrollbar {
             display: none;
         }
-        /* Aseguramos que las cards sean exactamente como en tu home */
         .movie-card {
             min-width: 200px;
             max-width: 200px;
@@ -60,31 +58,11 @@
         .movie-card:hover {
             transform: scale(1.05);
         }
-        .movie-overlay {
-            padding: 16px;
-        }
-        .movie-title {
-            font-size: 1rem;
-            font-weight: 600;
-            line-height: 1.3;
-            color: white;
-        }
-        .loading-spinner {
-            border: 4px solid #2563eb;
-            border-top-color: transparent;
-            border-radius: 50%;
-            width: 50px;
-            height: 50px;
-            animation: spin 1s linear infinite;
-        }
-        @keyframes spin {
-            to { transform: rotate(360deg); }
-        }
     </style>
 </head>
 <body>
 
-    <!-- Header simple (igual estilo que tu sitio) -->
+    <!-- Header simple (igual que tu index) -->
     <div style="background:#0a1428; padding:25px 70px; border-bottom:1px solid #1e2937; display:flex; align-items:center; gap:15px;">
         <div style="width:42px; height:42px; background:linear-gradient(#2563eb, #3b82f6); border-radius:12px; display:flex; align-items:center; justify-content:center; font-size:22px; font-weight:700;">LZ</div>
         <h1 style="font-size:2.1rem; font-weight:700; margin:0;">Categorías</h1>
@@ -107,7 +85,6 @@
     </div>
 
     <script>
-        // ====================== TMDB (exacto igual a tu tmdb.js) ======================
         const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
 
         async function fetchTMDB(endpoint) {
@@ -125,13 +102,11 @@
             }
         }
 
-        // ====================== CÍRCULO DE CALIFICACIÓN (exacto igual que en tu home.js) ======================
         function createRatingCircle(rating) {
             if (!rating) rating = 0;
             const percent = Math.min(Math.max(rating * 10, 0), 100);
-            const circumference = 144.5; // 2 * π * 23
+            const circumference = 144.5;
             const offset = circumference - (percent / 100 * circumference);
-
             return `
                 <svg class="rating-circle" width="52" height="52" viewBox="0 0 52 52">
                     <circle class="bg" cx="26" cy="26" r="23" stroke="#1e2937" stroke-width="5" fill="none"/>
@@ -145,29 +120,25 @@
             `;
         }
 
-        // ====================== URL DE TU BASE.JSON (ruta relativa desde categorias.html) ======================
-        const BASE_JSON_URL = "data base/data/base/base.json";   // ← Cambia si tu ruta es diferente
+        // ====================== RUTAS CORREGIDAS ======================
+        const BASE_JSON_URL = "../data/base/base.json";   // ← Ruta corregida
 
         let allContents = [];
 
-        // ====================== CARGAR TODO ======================
         async function cargarCategorias() {
             const loading = document.getElementById('loading');
             const container = document.getElementById('content');
 
             try {
-                // 1. Cargar tu base.json
                 const baseRes = await fetch(BASE_JSON_URL);
                 if (!baseRes.ok) throw new Error("No se pudo cargar base.json");
                 const baseData = await baseRes.json();
 
                 const ids = Object.keys(baseData);
 
-                // 2. Cargar datos de TMDB
                 const promesas = ids.map(async (id) => {
                     const movie = await fetchTMDB(`movie/${id}`);
                     if (!movie) return null;
-
                     return {
                         id: parseInt(id),
                         url: baseData[id],
@@ -184,7 +155,6 @@
                 const resultados = await Promise.all(promesas);
                 allContents = resultados.filter(item => item !== null);
 
-                // 3. Agrupar por categorías (géneros de TMDB)
                 const categoriasMap = {};
                 allContents.forEach(item => {
                     if (item.genres.length === 0) {
@@ -198,11 +168,9 @@
                     }
                 });
 
-                // Ordenar categorías por cantidad de contenidos
                 const categoriasOrdenadas = Object.keys(categoriasMap)
                     .sort((a, b) => categoriasMap[b].length - categoriasMap[a].length);
 
-                // 4. Renderizar secciones (estilo idéntico a tu home)
                 let html = '';
                 categoriasOrdenadas.forEach(nombre => {
                     const items = categoriasMap[nombre];
@@ -253,11 +221,9 @@
         }
 
         function verTodo(nombre) {
-            alert(`Mostrando todos los contenidos de la categoría "${nombre}"\n\n(En una futura versión se puede filtrar solo esta categoría)`);
-            // Aquí podrías añadir filtro si quieres
+            alert(`📂 Mostrando todos los contenidos de "${nombre}"\n\n(Próximamente podrás filtrar solo esta categoría)`);
         }
 
-        // ====================== INICIAR ======================
         document.addEventListener('DOMContentLoaded', cargarCategorias);
     </script>
 </body>
