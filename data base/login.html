@@ -4,9 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>LzPlay Login</title>
-
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
 <style>
 *{
 margin:0;
@@ -14,7 +12,6 @@ padding:0;
 box-sizing:border-box;
 font-family:'Poppins',sans-serif;
 }
-
 body{
 background:#000;
 color:#fff;
@@ -25,7 +22,6 @@ align-items:center;
 padding:20px;
 overflow:hidden;
 }
-
 .bg{
 position:fixed;
 top:0;
@@ -41,7 +37,6 @@ z-index:-1;
 filter:blur(5px);
 transform:scale(1.1);
 }
-
 .card{
 width:100%;
 max-width:420px;
@@ -51,26 +46,23 @@ backdrop-filter:blur(20px);
 border-radius:30px;
 padding:35px;
 box-shadow:0 20px 60px rgba(0,0,0,.6);
+position:relative;
 }
-
 .logo{
 font-size:38px;
 font-weight:700;
 text-align:center;
 margin-bottom:8px;
 }
-
 .logo span{
 color:#fff;
 }
-
 .subtitle{
 text-align:center;
 color:#999;
 font-size:14px;
 margin-bottom:35px;
 }
-
 .tabs{
 display:flex;
 background:#111;
@@ -78,7 +70,6 @@ border-radius:14px;
 padding:4px;
 margin-bottom:25px;
 }
-
 .tab{
 flex:1;
 border:none;
@@ -90,16 +81,13 @@ cursor:pointer;
 font-weight:600;
 transition:.3s;
 }
-
 .tab.active{
 background:#fff;
 color:#000;
 }
-
 .input-group{
 margin-bottom:16px;
 }
-
 .input{
 width:100%;
 height:55px;
@@ -113,11 +101,9 @@ font-size:15px;
 border:1px solid #222;
 transition:.3s;
 }
-
 .input:focus{
 border-color:#555;
 }
-
 .btn{
 width:100%;
 height:56px;
@@ -128,17 +114,14 @@ font-weight:700;
 cursor:pointer;
 transition:.3s;
 }
-
 .btn-primary{
 background:#fff;
 color:#000;
 margin-top:10px;
 }
-
 .btn-primary:hover{
 transform:translateY(-2px);
 }
-
 .google-btn{
 background:#111;
 color:#fff;
@@ -149,18 +132,15 @@ gap:12px;
 margin-top:15px;
 border:1px solid #222;
 }
-
 .google-btn img{
 width:20px;
 }
-
 .or{
 text-align:center;
 margin:18px 0;
 font-size:13px;
 color:#777;
 }
-
 .link{
 text-align:center;
 margin-top:18px;
@@ -168,11 +148,9 @@ font-size:14px;
 color:#999;
 cursor:pointer;
 }
-
 .link:hover{
 color:#fff;
 }
-
 .loading{
 display:none;
 margin-top:20px;
@@ -181,282 +159,314 @@ font-size:14px;
 color:#aaa;
 }
 
-@media(max-width:480px){
-.card{
-padding:28px 22px;
-border-radius:24px;
+/* TOAST NOTIFICACIÓN */
+#toast{
+position:fixed;
+bottom:20px;
+left:50%;
+transform:translateX(-50%);
+background:rgba(30,30,30,0.95);
+color:#fff;
+padding:16px 24px;
+border-radius:16px;
+box-shadow:0 10px 30px rgba(0,0,0,.5);
+display:flex;
+align-items:center;
+gap:12px;
+font-size:15px;
+opacity:0;
+transition:all .3s ease;
+pointer-events:none;
+z-index:9999;
+white-space:nowrap;
 }
+#toast.show{
+opacity:1;
+transform:translateX(-50%) translateY(-10px);
+pointer-events:auto;
+}
+#toast i{
+font-size:20px;
+}
+
+/* MODAL NOMBRE DE PERFIL */
+#profileModal{
+display:none;
+position:fixed;
+top:0; left:0;
+width:100%; height:100%;
+background:rgba(0,0,0,.85);
+z-index:10000;
+align-items:center;
+justify-content:center;
+}
+#profileModal.show{
+display:flex;
+}
+.modal-content{
+background:#1a1a1a;
+padding:30px;
+border-radius:24px;
+width:100%;
+max-width:380px;
+text-align:center;
+box-shadow:0 20px 60px rgba(0,0,0,.6);
+}
+.modal-content h2{
+margin-bottom:12px;
+font-size:24px;
+}
+.modal-content p{
+color:#aaa;
+margin-bottom:25px;
+font-size:15px;
+}
+.modal-content input{
+width:100%;
+height:55px;
+background:#222;
+border:none;
+border-radius:14px;
+padding:0 20px;
+color:#fff;
+font-size:16px;
+margin-bottom:20px;
+}
+.modal-content .btn{
+height:52px;
+margin-top:10px;
 }
 </style>
 </head>
 <body>
-
 <div class="bg"></div>
 
 <div class="card">
+  <div class="logo">Lz<span>Play</span></div>
+  <p class="subtitle">Accede a tu cuenta</p>
 
-<div class="logo">Lz<span>Play</span></div>
-<p class="subtitle">Accede a tu cuenta</p>
+  <div class="tabs">
+    <button class="tab active" id="loginTab">Iniciar sesión</button>
+    <button class="tab" id="registerTab">Registrarse</button>
+  </div>
 
-<div class="tabs">
-<button class="tab active" id="loginTab">
-Iniciar sesión
-</button>
+  <div class="input-group">
+    <input type="email" id="email" class="input" placeholder="Correo electrónico">
+  </div>
+  <div class="input-group">
+    <input type="password" id="password" class="input" placeholder="Contraseña">
+  </div>
 
-<button class="tab" id="registerTab">
-Registrarse
-</button>
+  <button class="btn btn-primary" id="mainBtn">Iniciar sesión</button>
+
+  <div class="or">o continuar con</div>
+  <button class="btn google-btn" id="googleBtn">
+    <img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg">
+    Continuar con Google
+  </button>
+
+  <div class="link" id="forgotPassword">¿Olvidaste tu contraseña?</div>
+  <div class="loading" id="loading">Procesando...</div>
 </div>
 
-<div class="input-group">
-<input type="email"
-id="email"
-class="input"
-placeholder="Correo electrónico">
-</div>
+<!-- TOAST NOTIFICACIÓN -->
+<div id="toast"></div>
 
-<div class="input-group">
-<input type="password"
-id="password"
-class="input"
-placeholder="Contraseña">
-</div>
-
-<button class="btn btn-primary"
-id="mainBtn">
-Iniciar sesión
-</button>
-
-<div class="or">
-o continuar con
-</div>
-
-<button class="btn google-btn"
-id="googleBtn">
-<img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg">
-Continuar con Google
-</button>
-
-<div class="link"
-id="forgotPassword">
-¿Olvidaste tu contraseña?
-</div>
-
-<div class="loading"
-id="loading">
-Procesando...
-</div>
-
+<!-- MODAL NOMBRE DE PERFIL -->
+<div id="profileModal">
+  <div class="modal-content">
+    <h2>¡Casi listo!</h2>
+    <p>Elige un nombre para tu perfil en LzPlay</p>
+    <input type="text" id="profileNameInput" placeholder="Nombre de perfil" maxlength="25">
+    <button class="btn btn-primary" id="saveProfileBtn">Guardar y continuar</button>
+  </div>
 </div>
 
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
-
 <script>
-
 const firebaseConfig = {
-apiKey: "AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
-authDomain: "applelz-b5883.firebaseapp.com",
-projectId: "applelz-b5883",
-storageBucket: "applelz-b5883.firebasestorage.app",
-messagingSenderId: "489468218632",
-appId: "1:489468218632:web:598a550f7ebe7c6de7b0bd",
-measurementId: "G-J085DHR8M3"
+  apiKey: "AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
+  authDomain: "applelz-b5883.firebaseapp.com",
+  projectId: "applelz-b5883",
+  storageBucket: "applelz-b5883.firebasestorage.app",
+  messagingSenderId: "489468218632",
+  appId: "1:489468218632:web:598a550f7ebe7c6de7b0bd",
+  measurementId: "G-J085DHR8M3"
 };
 
 firebase.initializeApp(firebaseConfig);
-
 const auth = firebase.auth();
 const db = firebase.firestore();
 
-const REDIRECT_URL =
-"https://lzplayhd.online/apple/data%20base/";
+const REDIRECT_URL = "https://lzplayhd.online/apple/data%20base/";
 
 let isLogin = true;
+let currentUser = null; // para guardar el usuario temporalmente
 
-const email =
-document.getElementById("email");
+const emailInput = document.getElementById("email");
+const passwordInput = document.getElementById("password");
+const mainBtn = document.getElementById("mainBtn");
+const loginTab = document.getElementById("loginTab");
+const registerTab = document.getElementById("registerTab");
+const loading = document.getElementById("loading");
 
-const password =
-document.getElementById("password");
+// ================== TOAST NOTIFICACIÓN ==================
+function showToast(message, icon = "fa-circle-check", color = "#46d369") {
+  const toast = document.getElementById("toast");
+  toast.innerHTML = `<i class="fa-solid ${icon}" style="color:${color}"></i> ${message}`;
+  toast.style.borderLeft = `5px solid ${color}`;
+  toast.classList.add("show");
+  
+  setTimeout(() => {
+    toast.classList.remove("show");
+  }, 3200);
+}
 
-const mainBtn =
-document.getElementById("mainBtn");
+// ================== MODAL NOMBRE DE PERFIL ==================
+function showProfileNameModal(user) {
+  currentUser = user;
+  const modal = document.getElementById("profileModal");
+  const input = document.getElementById("profileNameInput");
+  input.value = user.displayName || ""; // si viene de Google
+  modal.classList.add("show");
+  
+  // Enter key support
+  input.focus();
+  input.onkeydown = (e) => {
+    if (e.key === "Enter") saveProfileName();
+  };
+}
 
-const loginTab =
-document.getElementById("loginTab");
+async function saveProfileName() {
+  const name = document.getElementById("profileNameInput").value.trim();
+  const modal = document.getElementById("profileModal");
+  
+  if (!name) {
+    showToast("Por favor escribe un nombre de perfil", "fa-exclamation-triangle", "#ffcc00");
+    return;
+  }
 
-const registerTab =
-document.getElementById("registerTab");
+  try {
+    await db.collection("users").doc(currentUser.uid).set({
+      uid: currentUser.uid,
+      email: currentUser.email || "",
+      name: name,                    // ← Nombre de perfil solicitado
+      photo: currentUser.photoURL || "",
+      createdAt: firebase.firestore.FieldValue.serverTimestamp(),
+      lastLogin: firebase.firestore.FieldValue.serverTimestamp(),
+      settings: { theme: "dark", language: "es" },
+      myList: []
+    }, { merge: true });
 
-const loading =
-document.getElementById("loading");
+    showToast(`¡Bienvenido, ${name}!`, "fa-check-circle", "#46d369");
+    modal.classList.remove("show");
+    setTimeout(() => {
+      window.location.href = REDIRECT_URL;
+    }, 800);
+  } catch (e) {
+    console.error(e);
+    showToast("Error al guardar el nombre", "fa-exclamation-triangle", "#ff4444");
+  }
+}
 
+// ================== TABS ==================
 loginTab.onclick = () => {
-isLogin = true;
-
-loginTab.classList.add("active");
-registerTab.classList.remove("active");
-
-mainBtn.innerText =
-"Iniciar sesión";
+  isLogin = true;
+  loginTab.classList.add("active");
+  registerTab.classList.remove("active");
+  mainBtn.innerText = "Iniciar sesión";
 };
 
 registerTab.onclick = () => {
-isLogin = false;
-
-registerTab.classList.add("active");
-loginTab.classList.remove("active");
-
-mainBtn.innerText =
-"Crear cuenta";
+  isLogin = false;
+  registerTab.classList.add("active");
+  loginTab.classList.remove("active");
+  mainBtn.innerText = "Crear cuenta";
 };
 
-function showLoading(show=true){
-loading.style.display =
-show ? "block" : "none";
-}
-
+// ================== BOTÓN PRINCIPAL ==================
 mainBtn.onclick = async () => {
+  const emailValue = emailInput.value.trim();
+  const passwordValue = passwordInput.value.trim();
 
-const emailValue =
-email.value.trim();
+  if (!emailValue || !passwordValue) {
+    showToast("Completa todos los campos", "fa-exclamation-triangle", "#ffcc00");
+    return;
+  }
 
-const passwordValue =
-password.value.trim();
-
-if(!emailValue || !passwordValue){
-alert("Completa todos los campos");
-return;
-}
-
-try{
-
-showLoading();
-
-if(isLogin){
-
-await auth.signInWithEmailAndPassword(
-emailValue,
-passwordValue
-);
-
-}else{
-
-const userCredential =
-await auth.createUserWithEmailAndPassword(
-emailValue,
-passwordValue
-);
-
-const user =
-userCredential.user;
-
-await db.collection("users")
-.doc(user.uid)
-.set({
-uid:user.uid,
-email:user.email,
-createdAt:
-firebase.firestore.FieldValue.serverTimestamp(),
-settings:{
-theme:"dark",
-language:"es"
-},
-myList:[]
-},{merge:true});
-
-}
-
-window.location.href =
-REDIRECT_URL;
-
-}catch(error){
-
-alert(error.message);
-
-}finally{
-showLoading(false);
-}
-
+  try {
+    loading.style.display = "block";
+    if (isLogin) {
+      await auth.signInWithEmailAndPassword(emailValue, passwordValue);
+      showToast("Inicio de sesión exitoso", "fa-check-circle", "#46d369");
+      window.location.href = REDIRECT_URL;
+    } else {
+      const userCredential = await auth.createUserWithEmailAndPassword(emailValue, passwordValue);
+      showProfileNameModal(userCredential.user); // ← Pedimos nombre de perfil
+    }
+  } catch (error) {
+    console.error(error);
+    if (error.code === "auth/email-already-in-use") {
+      showToast("Este correo ya está registrado", "fa-exclamation-triangle", "#ff4444");
+    } else if (error.code === "auth/invalid-email") {
+      showToast("Correo inválido", "fa-exclamation-triangle", "#ff4444");
+    } else if (error.code === "auth/weak-password") {
+      showToast("La contraseña es muy débil", "fa-exclamation-triangle", "#ff4444");
+    } else {
+      showToast("Error: " + error.message, "fa-exclamation-triangle", "#ff4444");
+    }
+  } finally {
+    loading.style.display = "none";
+  }
 };
 
-document.getElementById("googleBtn")
-.onclick = async () => {
-
-try{
-
-showLoading();
-
-const provider =
-new firebase.auth.GoogleAuthProvider();
-
-const result =
-await auth.signInWithPopup(provider);
-
-const user =
-result.user;
-
-await db.collection("users")
-.doc(user.uid)
-.set({
-uid:user.uid,
-name:user.displayName || "",
-email:user.email || "",
-photo:user.photoURL || "",
-lastLogin:
-firebase.firestore.FieldValue.serverTimestamp()
-},{merge:true});
-
-window.location.href =
-REDIRECT_URL;
-
-}catch(error){
-alert(error.message);
-}finally{
-showLoading(false);
-}
-
+// ================== GOOGLE ==================
+document.getElementById("googleBtn").onclick = async () => {
+  try {
+    loading.style.display = "block";
+    const provider = new firebase.auth.GoogleAuthProvider();
+    const result = await auth.signInWithPopup(provider);
+    showProfileNameModal(result.user); // ← También pedimos nombre de perfil en Google
+  } catch (error) {
+    console.error(error);
+    if (error.code === "auth/popup-closed-by-user" || error.code === "auth/cancelled-popup-request") {
+      showToast("Has cancelado el inicio con Google", "fa-info-circle", "#888");
+    } else {
+      showToast("Error con Google: " + error.message, "fa-exclamation-triangle", "#ff4444");
+    }
+  } finally {
+    loading.style.display = "none";
+  }
 };
 
-document.getElementById("forgotPassword")
-.onclick = async () => {
-
-const emailValue =
-email.value.trim();
-
-if(!emailValue){
-alert("Ingresa tu correo");
-return;
-}
-
-try{
-
-await auth.sendPasswordResetEmail(
-emailValue
-);
-
-alert(
-"Correo enviado para restablecer contraseña"
-);
-
-}catch(error){
-alert(error.message);
-}
-
+// ================== OLVIDASTE CONTRASEÑA ==================
+document.getElementById("forgotPassword").onclick = async () => {
+  const emailValue = emailInput.value.trim();
+  if (!emailValue) {
+    showToast("Ingresa tu correo para restablecer", "fa-exclamation-triangle", "#ffcc00");
+    return;
+  }
+  try {
+    await auth.sendPasswordResetEmail(emailValue);
+    showToast("Correo de restablecimiento enviado ✓", "fa-envelope", "#46d369");
+  } catch (error) {
+    showToast("Error: " + error.message, "fa-exclamation-triangle", "#ff4444");
+  }
 };
 
-auth.onAuthStateChanged((user)=>{
-
-if(user){
-window.location.href =
-REDIRECT_URL;
-}
-
+// ================== INICIO AUTOMÁTICO ==================
+auth.onAuthStateChanged((user) => {
+  if (user) {
+    window.location.href = REDIRECT_URL;
+  }
 });
 
-</script>
+// Botón de guardar nombre
+document.getElementById("saveProfileBtn").onclick = saveProfileName;
 
+console.log("%c✅ Login page mejorada con toast y nombre de perfil", "color:#46d369;font-weight:bold");
+</script>
 </body>
 </html>
