@@ -3,88 +3,203 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Categorías - LZ Play HD</title>
-    
-    <!-- === RUTAS CORREGIDAS (subiendo un nivel) === -->
-    <link rel="stylesheet" href="../css/global.css">
-    <link rel="stylesheet" href="../css/home.css">
-    
+    <title>Categorías TMDB - LZ Play HD</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="css/navbar.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
     
-    <style>
-        body {
-            background: #020817;
-        }
-        .categorias-container {
-            padding: 40px 70px;
-        }
-        .section {
-            margin-bottom: 70px;
-        }
-        .section-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 28px;
-        }
-        .section-title {
-            font-size: 2.4rem;
-            font-weight: 700;
-            color: #fff;
-        }
-        .movies-grid {
-            display: flex;
-            gap: 20px;
-            overflow-x: auto;
-            padding-bottom: 25px;
-            scroll-behavior: smooth;
-        }
-        .movies-grid::-webkit-scrollbar {
-            display: none;
-        }
-        .movie-card {
-            min-width: 200px;
-            max-width: 200px;
-            height: 300px;
-            border-radius: 20px;
-            overflow: hidden;
-            cursor: pointer;
-            transition: transform 0.3s ease;
-            flex-shrink: 0;
-            background: #111827;
-            position: relative;
-        }
-        .movie-card:hover {
-            transform: scale(1.05);
-        }
-    </style>
+    :root {
+        --primary-blue: #2563eb;
+        --bg-main: #020817;
+        --bg-secondary: #0f172a;
+        --card-bg: #111827;
+        --border-color: rgba(255,255,255,.08);
+        --text-primary: #ffffff;
+        --text-secondary: #d1d5db;
+        --text-muted: #9ca3af;
+    }
+    
+    body {
+        font-family: 'Poppins', sans-serif;
+        background: var(--bg-main);
+        color: var(--text-primary);
+    }
+    
+    .card {
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    
+    .card:hover {
+        transform: scale(1.08);
+        box-shadow: 0 20px 40px rgba(0,0,0,.45);
+    }
+    
+    .poster-container {
+        position: relative;
+        overflow: hidden;
+        background: var(--card-bg);
+        border: 1px solid var(--border-color);
+    }
+    
+    .poster-container::after {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(
+            to top,
+            rgba(2, 8, 23, 0.95),
+            rgba(2, 8, 23, 0.3),
+            transparent
+        );
+        opacity: 0;
+        transition: opacity 0.3s ease;
+    }
+    
+    .card:hover .poster-container::after {
+        opacity: 1;
+    }
+    
+    .rating {
+        background: rgba(15, 23, 42, 0.92);
+        backdrop-filter: blur(8px);
+        border: 1px solid rgba(255,255,255,.08);
+        color: white;
+    }
+
+    /* HEADER */
+    header {
+        background: rgba(15, 23, 42, .95) !important;
+        border-bottom: 1px solid rgba(255,255,255,.08) !important;
+        backdrop-filter: blur(12px);
+    }
+
+    /* BOTONES DE CATEGORÍA */
+    .categoria-btn {
+        background: rgba(255,255,255,.05) !important;
+        border: 1px solid rgba(255,255,255,.08);
+        color: var(--text-secondary);
+        transition: all .25s ease;
+    }
+
+    .categoria-btn:hover {
+        background: rgba(255,255,255,.08) !important;
+        color: white;
+    }
+
+    .categoria-btn.active {
+        background: var(--primary-blue) !important;
+        color: white !important;
+        border-color: transparent;
+        box-shadow: 0 8px 25px rgba(37,99,235,.35);
+    }
+
+    /* LINKS */
+    a {
+        transition: .25s ease;
+    }
+
+    a:hover {
+        color: #4f7cff !important;
+    }
+
+    /* TITULOS */
+    h1, h2, h3 {
+        color: white;
+    }
+
+    /* SUBTEXTOS */
+    .text-zinc-400 {
+        color: var(--text-secondary) !important;
+    }
+
+    .text-zinc-500 {
+        color: var(--text-muted) !important;
+    }
+
+    .text-cyan-400 {
+        color: #4f7cff !important;
+    }
+
+    /* BADGES */
+    .bg-white\/10 {
+        background: rgba(255,255,255,.05) !important;
+    }
+
+    .hover\:bg-white\/20:hover {
+        background: rgba(255,255,255,.08) !important;
+    }
+
+    /* LOADING */
+    .border-cyan-400 {
+        border-color: var(--primary-blue) !important;
+    }
+
+    .bg-cyan-500 {
+        background: var(--primary-blue) !important;
+    }
+
+    .hover\:bg-cyan-600:hover {
+        background: #1d4ed8 !important;
+    }
+
+    /* CARD INFO */
+    .group-hover\:text-cyan-400:hover {
+        color: #4f7cff !important;
+    }
+
+    /* SCROLL */
+    ::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+    }
+
+    ::-webkit-scrollbar-track {
+        background: transparent;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: rgba(255,255,255,.12);
+        border-radius: 10px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: rgba(255,255,255,.22);
+    }
+</style>
 </head>
-<body>
+<body class="min-h-screen pb-12">
+   <header id="main-header"></header>
 
-    <!-- Header simple (igual que tu index) -->
-    <div style="background:#0a1428; padding:25px 70px; border-bottom:1px solid #1e2937; display:flex; align-items:center; gap:15px;">
-        <div style="width:42px; height:42px; background:linear-gradient(#2563eb, #3b82f6); border-radius:12px; display:flex; align-items:center; justify-content:center; font-size:22px; font-weight:700;">LZ</div>
-        <h1 style="font-size:2.1rem; font-weight:700; margin:0;">Categorías</h1>
-        <div style="margin-left:auto; font-size:0.95rem; color:#64748b; display:flex; align-items:center; gap:8px;">
-            <i class="fas fa-sync-alt"></i>
-            <span onclick="location.reload()" style="cursor:pointer;">Actualizar</span>
-        </div>
-    </div>
-
-    <div class="categorias-container">
-        
+    <div class="max-w-screen-2xl mx-auto px-8 pt-8">
         <!-- LOADING -->
-        <div id="loading" style="text-align:center; padding:120px 20px;">
-            <div class="loading-spinner mx-auto mb-6"></div>
-            <p style="color:#64748b; font-size:1.1rem;">Cargando tu base.json + datos de TMDB...</p>
+        <div id="loading" class="flex flex-col items-center justify-center py-20">
+            <div class="animate-spin w-12 h-12 border-4 border-cyan-400 border-t-transparent rounded-full mb-4"></div>
+            <p class="text-zinc-400">Cargando contenidos desde tu base.json y TMDB...</p>
         </div>
 
         <!-- CONTENIDO -->
-        <div id="content" class="hidden"></div>
-    </div>
+        <div id="contenido-principal" class="hidden">
+            
+            <!-- FILTRO RÁPIDO -->
+            <div class="flex items-center gap-3 mb-8 overflow-x-auto pb-4 scrollbar-hide">
+                <button onclick="filtrarPorCategoria('todos')" 
+                        class="categoria-btn active flex items-center gap-2 bg-white/10 hover:bg-white/20 px-6 py-2 rounded-3xl text-sm font-medium whitespace-nowrap transition-all">
+                    <i class="fas fa-th-large"></i>
+                    <span>Todos</span>
+                </button>
+                <!-- Los botones de categorías se generan dinámicamente -->
+                <div id="botones-categorias" class="flex gap-3"></div>
+            </div>
 
+            <!-- SECCIONES POR CATEGORÍA -->
+            <div id="secciones-categorias"></div>
+        </div>
+    </div>
+<script src="js/components/navbar.js"></script>
     <script>
+        // ====================== TMDB API ======================
         const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
 
         async function fetchTMDB(endpoint) {
@@ -102,129 +217,229 @@
             }
         }
 
-        function createRatingCircle(rating) {
-            if (!rating) rating = 0;
-            const percent = Math.min(Math.max(rating * 10, 0), 100);
-            const circumference = 144.5;
-            const offset = circumference - (percent / 100 * circumference);
-            return `
-                <svg class="rating-circle" width="52" height="52" viewBox="0 0 52 52">
-                    <circle class="bg" cx="26" cy="26" r="23" stroke="#1e2937" stroke-width="5" fill="none"/>
-                    <circle class="progress" cx="26" cy="26" r="23" 
-                            stroke="#22c55e" stroke-width="5" fill="none"
-                            stroke-dasharray="${circumference}" 
-                            stroke-dashoffset="${offset}"
-                            stroke-linecap="round"/>
-                </svg>
-                <div class="rating-value">${rating.toFixed(1)}</div>
-            `;
-        }
+        // ====================== URL BASE.JSON ======================
+        // Cambia esta URL si tu base.json está en otro lugar
+        const BASE_JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/base/base.json";
+        // Si lo tienes en tu servidor:
+        // const BASE_JSON_URL = "https://lzplayhd.online/apple/data%20base/data/base/base.json";
 
-        // ====================== RUTAS CORREGIDAS ======================
-        const BASE_JSON_URL = "../data/base/base.json";   // ← Ruta corregida
+        let todosLosContenidos = []; // {id, url, title, poster, year, rating, genres, ...}
 
-        let allContents = [];
-
-        async function cargarCategorias() {
+        // ====================== CARGAR BASE.JSON Y TMDB ======================
+        async function cargarTodo() {
             const loading = document.getElementById('loading');
-            const container = document.getElementById('content');
+            const principal = document.getElementById('contenido-principal');
+            
+            loading.classList.remove('hidden');
+            principal.classList.add('hidden');
 
             try {
+                // 1. Cargar base.json
                 const baseRes = await fetch(BASE_JSON_URL);
                 if (!baseRes.ok) throw new Error("No se pudo cargar base.json");
                 const baseData = await baseRes.json();
 
+                // 2. Obtener todos los IDs
                 const ids = Object.keys(baseData);
+                console.log(`📂 Encontrados ${ids.length} contenidos en tu base.json`);
 
+                // 3. Cargar datos de TMDB en paralelo
                 const promesas = ids.map(async (id) => {
-                    const movie = await fetchTMDB(`movie/${id}`);
-                    if (!movie) return null;
+                    const detalle = await fetchTMDB(`movie/${id}`);
+                    if (!detalle) return null;
+
                     return {
                         id: parseInt(id),
-                        url: baseData[id],
-                        titulo: movie.title || "Sin título",
-                        poster: movie.poster_path 
-                            ? `https://image.tmdb.org/t/p/w500${movie.poster_path}` 
-                            : "https://via.placeholder.com/500x750?text=Sin+Poster",
-                        calificacion: movie.vote_average || 0,
-                        anio: movie.release_date ? movie.release_date.substring(0,4) : "N/A",
-                        genres: movie.genres || []
+                        url: baseData[id],                    // enlace a contenido.html?id=XX
+                        title: detalle.title || detalle.name,
+                        poster: detalle.poster_path 
+                            ? `https://image.tmdb.org/t/p/w500${detalle.poster_path}` 
+                            : 'https://via.placeholder.com/500x750?text=Sin+Poster',
+                        year: detalle.release_date 
+                            ? detalle.release_date.split('-')[0] 
+                            : 'N/A',
+                        rating: detalle.vote_average 
+                            ? detalle.vote_average.toFixed(1) 
+                            : '0.0',
+                        genres: detalle.genres || [],
+                        backdrop: detalle.backdrop_path 
+                            ? `https://image.tmdb.org/t/p/original${detalle.backdrop_path}` 
+                            : null
                     };
                 });
 
                 const resultados = await Promise.all(promesas);
-                allContents = resultados.filter(item => item !== null);
+                todosLosContenidos = resultados.filter(item => item !== null);
 
-                const categoriasMap = {};
-                allContents.forEach(item => {
-                    if (item.genres.length === 0) {
-                        if (!categoriasMap["Otros"]) categoriasMap["Otros"] = [];
-                        categoriasMap["Otros"].push(item);
-                    } else {
-                        item.genres.forEach(genre => {
-                            if (!categoriasMap[genre.name]) categoriasMap[genre.name] = [];
-                            categoriasMap[genre.name].push(item);
-                        });
-                    }
-                });
+                document.getElementById('total-contenido').textContent = todosLosContenidos.length;
 
-                const categoriasOrdenadas = Object.keys(categoriasMap)
-                    .sort((a, b) => categoriasMap[b].length - categoriasMap[a].length);
+                if (todosLosContenidos.length === 0) {
+                    loading.innerHTML = `<p class="text-red-400 text-xl">❌ No se encontraron contenidos válidos en TMDB.</p>`;
+                    return;
+                }
 
-                let html = '';
-                categoriasOrdenadas.forEach(nombre => {
-                    const items = categoriasMap[nombre];
-                    html += `
-                    <div class="section">
-                        <div class="section-header">
-                            <h2 class="section-title">${nombre}</h2>
-                            <span style="color:#4f7cff; font-size:1rem; cursor:pointer;" onclick="verTodo('${nombre}')">
-                                Ver todo (${items.length})
-                            </span>
-                        </div>
-                        
-                        <div class="movies-grid">
-                            ${items.map(item => `
-                                <div class="movie-card" onclick="abrirContenido('${item.url}')">
-                                    <img src="${item.poster}" alt="${item.titulo}" style="width:100%; height:100%; object-fit:cover;">
-                                    <div class="movie-rating">
-                                        ${createRatingCircle(item.calificacion)}
-                                    </div>
-                                    <div class="movie-overlay">
-                                        <div class="movie-title">${item.titulo}</div>
-                                        <div style="font-size:0.85rem; color:#94a3b8; margin-top:4px;">${item.anio}</div>
-                                    </div>
-                                </div>
-                            `).join('')}
-                        </div>
-                    </div>`;
-                });
-
-                container.innerHTML = html || `<p style="text-align:center; color:#f87171; padding:80px 20px;">No se encontraron contenidos válidos.</p>`;
-                
+                // 4. Renderizar
+                renderizarCategorias();
+                principal.classList.remove('hidden');
                 loading.classList.add('hidden');
-                container.classList.remove('hidden');
 
             } catch (error) {
                 console.error(error);
                 loading.innerHTML = `
-                    <p style="color:#f87171; font-size:1.2rem;">⚠️ Error al cargar</p>
-                    <p style="color:#64748b;">${error.message}</p>
-                    <button onclick="location.reload()" style="margin-top:30px; padding:14px 32px; background:#2563eb; color:white; border:none; border-radius:50px; cursor:pointer;">
+                    <p class="text-red-400 text-xl mb-4">⚠️ Error al cargar datos</p>
+                    <p class="text-zinc-400">${error.message}</p>
+                    <button onclick="cargarTodo()" class="mt-6 px-6 py-3 bg-cyan-500 hover:bg-cyan-600 rounded-2xl text-white font-medium">
                         Intentar de nuevo
                     </button>`;
             }
         }
 
+        // ====================== AGRUPAR POR CATEGORÍAS ======================
+        function obtenerCategorias() {
+            const mapa = {};
+            
+            todosLosContenidos.forEach(contenido => {
+                if (contenido.genres && contenido.genres.length > 0) {
+                    contenido.genres.forEach(genre => {
+                        if (!mapa[genre.name]) {
+                            mapa[genre.name] = [];
+                        }
+                        mapa[genre.name].push(contenido);
+                    });
+                }
+            });
+
+            // Ordenar categorías por cantidad de contenidos (más populares primero)
+            return Object.entries(mapa)
+                .sort((a, b) => b[1].length - a[1].length)
+                .map(([nombre, items]) => ({ nombre, items }));
+        }
+
+        // ====================== RENDERIZAR ======================
+        function renderizarCategorias() {
+            const contenedor = document.getElementById('secciones-categorias');
+            contenedor.innerHTML = '';
+
+            const categorias = obtenerCategorias();
+
+            // Botones superiores de filtro
+            const botonesContainer = document.getElementById('botones-categorias');
+            botonesContainer.innerHTML = categorias.map(cat => `
+                <button onclick="filtrarPorCategoria('${cat.nombre}')" 
+                        class="categoria-btn flex items-center gap-2 bg-white/10 hover:bg-white/20 px-5 py-2 rounded-3xl text-sm font-medium whitespace-nowrap transition-all">
+                    <span>${cat.nombre}</span>
+                    <span class="text-[10px] bg-white/20 px-2 py-px rounded-full">${cat.items.length}</span>
+                </button>
+            `).join('');
+
+            // Secciones completas
+            categorias.forEach(categoria => {
+                const seccionHTML = `
+                <div class="mb-16" data-categoria="${categoria.nombre}">
+                    <div class="flex items-center justify-between mb-6">
+                        <h2 class="text-2xl font-semibold flex items-center gap-3">
+                            <span class="text-cyan-400">${categoria.nombre}</span>
+                            <span class="text-sm font-normal text-zinc-500">(${categoria.items.length})</span>
+                        </h2>
+                        <a href="#" onclick="filtrarPorCategoria('${categoria.nombre}'); return false" 
+                           class="text-cyan-400 text-sm flex items-center gap-1 hover:underline">
+                            Ver todo 
+                            <i class="fas fa-chevron-right text-xs"></i>
+                        </a>
+                    </div>
+                    
+                    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-6">
+                        ${categoria.items.map(item => `
+                            <div onclick="abrirContenido('${item.url}')" class="card cursor-pointer group">
+                                <div class="poster-container rounded-3xl overflow-hidden shadow-2xl">
+                                    <img src="${item.poster}" 
+                                         alt="${item.title}"
+                                         class="w-full aspect-[2/3] object-cover transition-transform group-hover:scale-110">
+                                    
+                                    <!-- Overlay rating -->
+                                    <div class="rating absolute top-3 right-3 flex items-center gap-1 text-xs font-bold px-2.5 py-1 rounded-2xl text-white">
+                                        <i class="fas fa-star text-yellow-400"></i>
+                                        <span>${item.rating}</span>
+                                    </div>
+                                </div>
+                                
+                                <div class="mt-3 px-1">
+                                    <h3 class="font-semibold text-base line-clamp-2 leading-tight group-hover:text-cyan-400 transition-colors">
+                                        ${item.title}
+                                    </h3>
+                                    <div class="flex items-center justify-between text-xs text-zinc-400 mt-2">
+                                        <span>${item.year}</span>
+                                        <span class="flex items-center gap-1">
+                                            <i class="fas fa-film text-[10px]"></i>
+                                            Película
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>`;
+                
+                contenedor.innerHTML += seccionHTML;
+            });
+
+            // Si no hay categorías (raro), mostrar todos
+            if (categorias.length === 0) {
+                contenedor.innerHTML = `
+                <div class="text-center py-20">
+                    <p class="text-xl text-zinc-400">No se encontraron categorías</p>
+                </div>`;
+            }
+        }
+
+        // ====================== ABRIR CONTENIDO ======================
         function abrirContenido(url) {
-            window.location.href = url;
+            window.open(url, '_blank');
+            // o window.location.href = url; si quieres abrir en la misma pestaña
         }
 
-        function verTodo(nombre) {
-            alert(`📂 Mostrando todos los contenidos de "${nombre}"\n\n(Próximamente podrás filtrar solo esta categoría)`);
+        // ====================== FILTRAR POR CATEGORÍA ======================
+        function filtrarPorCategoria(categoria) {
+            // Desactivar todos los botones
+            document.querySelectorAll('.categoria-btn').forEach(btn => {
+                btn.classList.remove('active', 'bg-cyan-500', 'text-white');
+                btn.classList.add('bg-white/10', 'hover:bg-white/20');
+            });
+
+            // Activar el botón seleccionado
+            const botones = document.querySelectorAll('.categoria-btn');
+            for (let btn of botones) {
+                if (categoria === 'todos') {
+                    if (btn.textContent.includes('Todos')) {
+                        btn.classList.add('active', 'bg-cyan-500', 'text-white');
+                        break;
+                    }
+                } else if (btn.textContent.includes(categoria)) {
+                    btn.classList.add('active', 'bg-cyan-500', 'text-white');
+                    break;
+                }
+            }
+
+            // Mostrar/ocultar secciones
+            const secciones = document.querySelectorAll('#secciones-categorias > div');
+            secciones.forEach(seccion => {
+                if (categoria === 'todos') {
+                    seccion.style.display = 'block';
+                } else {
+                    seccion.style.display = seccion.dataset.categoria === categoria ? 'block' : 'none';
+                }
+            });
         }
 
-        document.addEventListener('DOMContentLoaded', cargarCategorias);
+      window.onload = () => {
+    // Renderizar navbar dinámico
+    if (typeof renderNavbar === "function") {
+        renderNavbar("main-header");
+    }
+
+    // Cargar categorías
+    cargarTodo();
+};
     </script>
 </body>
 </html>
