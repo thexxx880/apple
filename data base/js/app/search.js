@@ -1,5 +1,5 @@
 // =============================================
-// SEARCH.JS - Versión FINAL con CSS FUERTE y bonito
+// SEARCH.JS - Versión FINAL (Mobile + Diseño mejorado)
 // =============================================
 const JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search/search.json";
 let database = [];
@@ -19,7 +19,7 @@ async function loadDatabase() {
   }
 }
 
-// Búsqueda inteligente
+// Función de búsqueda
 function search(query) {
   if (!query || query.length < 2) return [];
   const q = query.toLowerCase().trim();
@@ -43,7 +43,7 @@ function search(query) {
     .sort((a, b) => b.score - a.score);
 }
 
-// ================== CSS FUERTE (ya no se distorsiona) ==================
+// ================== CSS MEJORADO ==================
 function injectSearchCSS() {
   if (document.getElementById("lz-search-css")) return;
   const style = document.createElement("style");
@@ -70,11 +70,8 @@ function injectSearchCSS() {
       align-items: center !important;
       gap: 16px !important;
       cursor: pointer !important;
-      border-bottom: 1px solid #1e2937 !important;
     }
-    .lz-suggestion-item:hover {
-      background: #1e40af !important;
-    }
+    .lz-suggestion-item:hover { background: #1e40af !important; }
     .lz-suggestion-poster {
       width: 48px !important;
       height: 70px !important;
@@ -97,30 +94,30 @@ function injectSearchCSS() {
       background: #020817 !important;
       width: 95% !important;
       max-width: 1100px !important;
-      max-height: 90vh !important;
+      max-height: 92vh !important;
       border-radius: 24px !important;
-      padding: 30px !important;
+      padding: 25px !important;
       overflow-y: auto !important;
       border: 2px solid #2563eb !important;
-      box-shadow: 0 30px 60px rgba(0,0,0,.9) !important;
     }
     .lz-modal-header {
       display: flex !important;
       justify-content: space-between !important;
       align-items: center !important;
-      margin-bottom: 25px !important;
-      padding-bottom: 20px !important;
+      margin-bottom: 20px !important;
+      padding-bottom: 15px !important;
       border-bottom: 1px solid #1e2937 !important;
     }
     .lz-close-btn {
       font-size: 38px !important;
       cursor: pointer !important;
       color: #94a3b8 !important;
-      line-height: 1 !important;
     }
+
+    /* Resultados del modal */
     .lz-results-grid {
       display: grid !important;
-      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)) !important;
+      grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)) !important;
       gap: 22px !important;
     }
     .lz-result-card {
@@ -136,15 +133,20 @@ function injectSearchCSS() {
     }
     .lz-result-card img {
       width: 100% !important;
-      height: 260px !important;
+      height: 290px !important;     /* Poster más grande */
       object-fit: cover !important;
     }
     .lz-result-info {
-      padding: 16px !important;
+      padding: 14px !important;
     }
     .lz-result-info h4 {
       font-size: 15px !important;
       line-height: 1.3 !important;
+      display: -webkit-box !important;
+      -webkit-line-clamp: 2 !important;      /* Máximo 2 líneas */
+      -webkit-box-orient: vertical !important;
+      overflow: hidden !important;
+      text-overflow: ellipsis !important;
       margin-bottom: 6px !important;
     }
     .lz-result-info small {
@@ -161,30 +163,43 @@ function injectSearchCSS() {
   document.head.appendChild(style);
 }
 
-// Inyectar modal
+// Inyectar modal con input de búsqueda (para escribir en móvil)
 function injectModal() {
   if (document.getElementById("lz-searchModal")) return;
   const modalHTML = `
     <div id="lz-searchModal" class="lz-modal">
       <div class="lz-modal-content">
         <div class="lz-modal-header">
-          <h2 style="margin:0; color:white;">Resultados de búsqueda</h2>
+          <h2 style="margin:0; color:white;">Buscar en LzPlay</h2>
           <span class="lz-close-btn" id="lz-closeModal">×</span>
         </div>
+        <input type="text" id="modalSearchInput" placeholder="Escribe para buscar..." 
+               style="width:100%; padding:14px 18px; border-radius:50px; border:1px solid #2563eb; background:#111827; color:white; margin-bottom:20px; font-size:1rem;">
         <div id="lz-resultsGrid" class="lz-results-grid"></div>
       </div>
     </div>`;
   document.body.insertAdjacentHTML("beforeend", modalHTML);
 
-  document.getElementById("lz-closeModal").onclick = () => {
-    document.getElementById("lz-searchModal").style.display = "none";
-  };
+  const closeBtn = document.getElementById("lz-closeModal");
+  const modalInput = document.getElementById("modalSearchInput");
+
+  closeBtn.onclick = () => document.getElementById("lz-searchModal").style.display = "none";
   document.getElementById("lz-searchModal").onclick = (e) => {
     if (e.target.id === "lz-searchModal") document.getElementById("lz-searchModal").style.display = "none";
   };
+
+  // Búsqueda en tiempo real dentro del modal
+  let timeout;
+  modalInput.addEventListener("input", () => {
+    clearTimeout(timeout);
+    timeout = setTimeout(() => {
+      const query = modalInput.value.trim();
+      window.openSearchModal(query);
+    }, 180);
+  });
 }
 
-// Mostrar sugerencias (Desktop)
+// Mostrar sugerencias en desktop
 function showSuggestions(input, results) {
   let box = input.parentElement.querySelector(".lz-suggestions");
   if (!box) {
@@ -208,7 +223,7 @@ function showSuggestions(input, results) {
   box.style.display = "block";
 }
 
-// Abrir modal (Mobile + Enter en desktop)
+// Abrir modal (usado por mobile y por Enter en desktop)
 window.openSearchModal = function(query = "") {
   const grid = document.getElementById("lz-resultsGrid");
   const results = search(query);
@@ -229,6 +244,12 @@ window.openSearchModal = function(query = "") {
     grid.innerHTML = html;
   }
   document.getElementById("lz-searchModal").style.display = "flex";
+
+  // Enfocar el input del modal automáticamente
+  setTimeout(() => {
+    const modalInput = document.getElementById("modalSearchInput");
+    if (modalInput) modalInput.focus();
+  }, 300);
 };
 
 window.openContent = function(url) {
@@ -272,7 +293,7 @@ async function initSearch() {
       });
     });
 
-    console.log("%c✅ Buscador con estilo corregido y bonito", "color:#60a5fa; font-weight:bold");
+    console.log("%c✅ Buscador mejorado (Mobile + Diseño final)", "color:#60a5fa; font-weight:bold");
   }, 400);
 }
 
