@@ -30,19 +30,19 @@ function renderNavbar(containerId = "main-header") {
             </div>
         </div>
     
-       <div class="icons">
+        <div class="icons">
 
-    <!-- BUSCADOR -->
-    <a href="../search.html" class="icon-btn mobile-search">
-        <i class="fas fa-search"></i>
-    </a>
+            <!-- BUSCADOR -->
+            <a href="../search.html" class="icon-btn mobile-search">
+                <i class="fas fa-search"></i>
+            </a>
 
-    <!-- PERFIL -->
-    <a href="../../menu.html" class="user-avatar">
-        <img src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg" alt="Usuario">
-    </a>
+            <!-- PERFIL / MENÚ -->
+            <a href="../../menu.html" class="user-avatar">
+                <img src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg" alt="Usuario">
+            </a>
 
-</div>
+        </div>
     `;
 
     initNavbarEffects(container);
@@ -61,106 +61,12 @@ function initNavbarEffects(headerElement) {
                 : "linear-gradient(to bottom, rgba(0,0,0,.75), transparent)";
     }, { passive: true });
 
-    // Click avatar
-    const avatar = headerElement.querySelector(".user-avatar");
-
-    if (avatar) {
-        avatar.addEventListener("click", () => {
-            alert("Perfil de usuario (próximamente)");
-        });
-    }
-
-    // =============================================
-    // BUSCADOR MÓVIL (FIX DEFINITIVO)
-    // =============================================
-    const mobileSearch =
-        headerElement.querySelector(".mobile-search");
-
-    if (mobileSearch) {
-
-        // Click normal
-        mobileSearch.addEventListener("click", (e) => {
-            e.preventDefault();
-            e.stopPropagation();
-            openMobileSearch();
-        });
-
-        // Soporte táctil Android / iPhone
-        mobileSearch.addEventListener(
-            "touchstart",
-            (e) => {
-                e.preventDefault();
-                e.stopPropagation();
-                openMobileSearch();
-            },
-            { passive: false }
-        );
-    }
-}
-
-// =============================================
-// FUNCIÓN ROBUSTA PARA ABRIR MODAL
-// =============================================
-function openMobileSearch() {
-
-    const tryOpen = () => {
-
-        const modal =
-            document.getElementById("lz-searchModal");
-
-        if (
-            modal &&
-            typeof window.openSearchModal ===
-                "function"
-        ) {
-            window.openSearchModal("");
-            return true;
-        }
-
-        return false;
-    };
-
-    // Intento inmediato
-    if (tryOpen()) return;
-
-    console.log(
-        "⏳ Esperando modal del buscador..."
-    );
-
-    // Reintentos
-    let attempts = 0;
-
-    const interval = setInterval(() => {
-
-        attempts++;
-
-        if (tryOpen()) {
-            clearInterval(interval);
-
-            console.log(
-                "✅ Modal abierto correctamente"
-            );
-        }
-
-        // Evitar loop infinito
-        if (attempts >= 15) {
-
-            clearInterval(interval);
-
-            console.warn(
-                "⚠️ No se pudo abrir el buscador"
-            );
-        }
-
-    }, 200);
 }
 
 // =============================================
 // INICIALIZAR NAVBAR
 // =============================================
-function initNavbar(
-    containerId = "main-header"
-) {
+function initNavbar(containerId = "main-header") {
     renderNavbar(containerId);
 
     console.log(
@@ -173,5 +79,3 @@ function initNavbar(
 // =============================================
 window.initNavbar = initNavbar;
 window.renderNavbar = renderNavbar;
-window.openMobileSearch =
-    openMobileSearch;
