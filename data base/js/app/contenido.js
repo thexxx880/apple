@@ -1,13 +1,12 @@
 // =============================================
 // CONTENIDO.JS - Mi Lista con datos completos + Icono Dorado
 // =============================================
-
 const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/";
 
 // ================== OBTENER ID ==================
 function getContentId() {
   const params = new URLSearchParams(window.location.search);
-  const id = params.get('id');
+  const id = params.get('id') || params.get('tmdb_id');
   if (!id) {
     showError("❌ Falta el parámetro <b>id</b>");
     return null;
@@ -15,19 +14,75 @@ function getContentId() {
   return id;
 }
 
-// ================== INCREMENTAR VISTAS ==================
-async function incrementViewCount(id) {
-  const dataUrl = `${GITHUB_RAW_BASE}${id}/data.json`;
-  try {
-    const res = await fetch(dataUrl);
-    let data = res.ok ? await res.json() : { vistas: {} };
-    if (!data.vistas) data.vistas = {};
-    data.vistas[id] = (data.vistas[id] || 0) + 1;
-    return data.vistas[id];
-  } catch (e) {
-    return 0;
-  }
+// ================== INCREMENTAR VISTAS (Nueva lógica con Firebase) ==================
+async function incrementarVistas() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const tmdbId = urlParams.get('id') || urlParams.get('tmdb_id');
+    if (!tmdbId) {
+        console.warn('No se encontró ID en la URL');
+        return;
+    }
+
+    const COLLECTION_NAME = "contenidos";
+    try {
+        const db = firebase.firestore();
+        const docRef = db.collection(COLLECTION_NAME).doc(tmdbId.toString());
+
+        /* ==========================
+        OBTENER VISTAS ACTUALES
+        ========================== */
+        const doc = await docRef.get();
+        let currentViews = 0;
+        if (doc.exists && doc.data().vistas) {
+            currentViews = doc.data().vistas;
+        }
+
+        /* ==========================
+        SUMAR VISTA
+        ========================== */
+        await docRef.set({
+            vistas: currentViews + 1,
+            updatedAt: firebase.firestore.FieldValue.serverTimestamp()
+        }, {
+            merge: true
+        });
+
+        console.log(`✅ Vista incrementada (ID: ${tmdbId}) | Total: ${currentViews + 1}`);
+
+        /* ==========================
+        RECARGAR STATS
+        ========================== */
+        if (typeof window.recargarStats === 'function') {
+            setTimeout(() => {
+                window.recargarStats();
+            }, 500);
+        }
+    } catch (error) {
+        console.error('Error al incrementar vistas:', error);
+    }
 }
+
+// ================== RECARGAR STATS (actualiza el contador de vistas en pantalla) ==================
+window.recargarStats = async function() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const tmdbId = urlParams.get('id') || urlParams.get('tmdb_id');
+    if (!tmdbId) return;
+
+    try {
+        const db = firebase.firestore();
+        const doc = await db.collection("contenidos").doc(tmdbId.toString()).get();
+        
+        if (doc.exists && doc.data().vistas !== undefined) {
+            const vistas = doc.data().vistas;
+            const viewCountEl = document.getElementById('viewCount');
+            if (viewCountEl) {
+                viewCountEl.textContent = vistas.toLocaleString('es-ES');
+            }
+        }
+    } catch (e) {
+        console.error("Error recargando stats de vistas:", e);
+    }
+};
 
 // ================== CARGAR CONTENIDO ==================
 async function loadContent() {
@@ -35,24 +90,21 @@ async function loadContent() {
   if (!id) return;
 
   const contenidoUrl = `${GITHUB_RAW_BASE}${id}/${id}.json`;
-  const dataUrl = `${GITHUB_RAW_BASE}${id}/data.json`;
 
   try {
-    const [contenidoRes, dataRes] = await Promise.all([
-      fetch(contenidoUrl),
-      fetch(dataUrl)
-    ]);
-
+    const contenidoRes = await fetch(contenidoUrl);
     if (!contenidoRes.ok) throw new Error(`No se encontró ${id}.json`);
 
     const contenido = await contenidoRes.json();
-    let vistasData = { vistas: {} };
-    if (dataRes.ok) vistasData = await dataRes.json();
 
-    const vistasActuales = await incrementViewCount(id);
-    vistasData.vistas[id] = vistasActuales;
+    // Renderizamos primero (vistas se actualizarán vía Firebase)
+    renderPage(contenido, id);
 
-    renderPage(contenido, vistasData, id);
+    // Incrementamos vistas (con delay como en el código funcional)
+    setTimeout(() => {
+        incrementarVistas();
+    }, 1000);
+
   } catch (err) {
     console.error(err);
     showError(`No se encontró el contenido<br><small>ID: ${id}</small>`);
@@ -63,10 +115,9 @@ async function loadContent() {
 let currentMovieId = null;
 let currentMovieData = null;
 
-function renderPage(data, vistasData, id) {
+function renderPage(data, id) {
   currentMovieId = id;
   currentMovieData = data;
-
   document.getElementById('pageTitle').textContent = `${data.titulo} • LzPlay`;
 
   const heroBg = document.getElementById('heroBg');
@@ -96,12 +147,12 @@ function renderPage(data, vistasData, id) {
     `<span class="genre-chip">${g}</span>`
   ).join('');
 
-  const vistas = vistasData.vistas[id] || 0;
+  // Stats con vistas iniciales (se actualizará automáticamente con Firebase)
   document.getElementById('statsRow').innerHTML = `
     <div class="stat-card"><i class="fa-solid fa-calendar-days stat-icon"></i><div class="stat-value">${data.año}</div><div class="stat-label">Estreno</div></div>
     <div class="stat-card"><i class="fa-solid fa-clock stat-icon"></i><div class="stat-value">${data.duracion}</div><div class="stat-label">Duración</div></div>
     <div class="stat-card"><i class="fa-solid fa-star stat-icon" style="color:var(--gold)"></i><div class="stat-value" style="color:var(--gold)">${data.puntuacion}</div><div class="stat-label">Puntuación</div></div>
-    <div class="stat-card"><i class="fa-solid fa-eye stat-icon"></i><div class="stat-value">${vistas.toLocaleString('es-ES')}</div><div class="stat-label">Vistas</div></div>
+    <div class="stat-card"><i class="fa-solid fa-eye stat-icon"></i><div class="stat-value" id="viewCount">—</div><div class="stat-label">Vistas</div></div>
   `;
 
   const castContainer = document.getElementById('castScroll');
@@ -296,7 +347,6 @@ function showToast(msg, icon = 'fa-circle-check') {
 function showError(message) {
   const loader = document.getElementById('loader');
   if (!loader) return;
-
   loader.innerHTML = `
     <div class="error-screen" style="text-align:center;color:white;padding:40px;">
       <h2 style="font-size:2rem;margin-bottom:16px;">${message}</h2>
