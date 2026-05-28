@@ -1,28 +1,26 @@
 // =============================================
-// SEARCH.JS - Buscador corregido y mejorado
+// SEARCH.JS - Buscador (Desktop: sugerencias | Mobile: modal directo)
 // =============================================
 const JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search/search.json";
-
 let database = [];
 
-// ================== CARGAR BASE DE DATOS ==================
+// Cargar base de datos
 async function loadDatabase() {
   try {
     const res = await fetch(JSON_URL);
     let data = await res.json();
     if (!Array.isArray(data)) data = [data];
     database = data;
-    console.log(`✅ Buscador cargado correctamente: ${database.length} contenidos`);
+    console.log(`✅ Buscador cargado: ${database.length} contenidos`);
   } catch (e) {
     console.error("❌ Error cargando search.json", e);
   }
 }
 
-// ================== FUNCIÓN DE BÚSQUEDA ==================
+// Función de búsqueda
 function search(query) {
   if (!query || query.length < 2) return [];
   const q = query.toLowerCase().trim();
-
   return database
     .map(item => {
       let score = 0;
@@ -43,127 +41,40 @@ function search(query) {
     .sort((a, b) => b.score - a.score);
 }
 
-// ================== INYECTAR CSS (estilo moderno que combina con tu página) ==================
+// Inyectar CSS
 function injectSearchCSS() {
   if (document.getElementById("lz-search-css")) return;
   const style = document.createElement("style");
   style.id = "lz-search-css";
   style.textContent = `
-    .lz-suggestions {
-      position: absolute;
-      top: 100%;
-      left: 0;
-      right: 0;
-      background: #0f172a;
-      border: 1px solid #2563eb;
-      border-radius: 16px;
-      max-height: 420px;
-      overflow-y: auto;
-      box-shadow: 0 15px 35px rgba(0,0,0,.7);
-      z-index: 99999;
-      display: none;
-      margin-top: 6px;
-    }
-    .lz-suggestion-item {
-      padding: 12px 16px;
-      display: flex;
-      align-items: center;
-      gap: 14px;
-      cursor: pointer;
-      border-bottom: 1px solid #1e2937;
-    }
-    .lz-suggestion-item:hover {
-      background: #1e40af;
-    }
-    .lz-suggestion-poster {
-      width: 46px;
-      height: 68px;
-      object-fit: cover;
-      border-radius: 8px;
-    }
-    .lz-modal {
-      display: none;
-      position: fixed;
-      inset: 0;
-      background: rgba(2,8,23,0.92);
-      backdrop-filter: blur(12px);
-      z-index: 100000;
-      align-items: center;
-      justify-content: center;
-    }
-    .lz-modal-content {
-      background: #020817;
-      width: 95%;
-      max-width: 1100px;
-      max-height: 90vh;
-      border-radius: 20px;
-      padding: 25px;
-      overflow-y: auto;
-      border: 1px solid #2563eb;
-    }
-    .lz-modal-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 20px;
-      padding-bottom: 15px;
-      border-bottom: 1px solid #1e2937;
-    }
-    .lz-close-btn {
-      font-size: 34px;
-      cursor: pointer;
-      color: #94a3b8;
-    }
-    .lz-results-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-      gap: 20px;
-    }
-    .lz-result-card {
-      background: #111827;
-      border-radius: 16px;
-      overflow: hidden;
-      cursor: pointer;
-      transition: all .3s;
-    }
-    .lz-result-card:hover {
-      transform: scale(1.06);
-      box-shadow: 0 15px 30px rgba(37,99,235,.4);
-    }
-    .lz-result-card img {
-      width: 100%;
-      height: 260px;
-      object-fit: cover;
-    }
-    .lz-result-info {
-      padding: 14px;
-    }
-    .lz-result-info h4 {
-      font-size: 15px;
-      line-height: 1.3;
-      margin-bottom: 6px;
-    }
-    .lz-result-info small {
-      color: #60a5fa;
-    }
-    .no-results {
-      text-align: center;
-      padding: 80px 20px;
-      color: #64748b;
-      font-size: 18px;
-    }
+    .lz-suggestions { position:absolute; top:100%; left:0; right:0; background:#0f172a; border:1px solid #2563eb; border-radius:16px; max-height:420px; overflow-y:auto; box-shadow:0 15px 35px rgba(0,0,0,.7); z-index:99999; display:none; margin-top:6px; }
+    .lz-suggestion-item { padding:12px 16px; display:flex; align-items:center; gap:14px; cursor:pointer; border-bottom:1px solid #1e2937; }
+    .lz-suggestion-item:hover { background:#1e40af; }
+    .lz-suggestion-poster { width:46px; height:68px; object-fit:cover; border-radius:8px; }
+    .lz-modal { display:none; position:fixed; inset:0; background:rgba(2,8,23,0.92); backdrop-filter:blur(12px); z-index:100000; align-items:center; justify-content:center; }
+    .lz-modal-content { background:#020817; width:95%; max-width:1100px; max-height:92vh; border-radius:20px; padding:25px; overflow-y:auto; border:1px solid #2563eb; }
+    .lz-modal-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:20px; padding-bottom:15px; border-bottom:1px solid #1e2937; }
+    .lz-close-btn { font-size:34px; cursor:pointer; color:#94a3b8; }
+    .lz-results-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); gap:20px; }
+    .lz-result-card { background:#111827; border-radius:16px; overflow:hidden; cursor:pointer; transition:all .3s; }
+    .lz-result-card:hover { transform:scale(1.06); box-shadow:0 15px 30px rgba(37,99,235,.4); }
+    .lz-result-card img { width:100%; height:260px; object-fit:cover; }
+    .lz-result-info { padding:14px; }
+    .lz-result-info h4 { font-size:15px; line-height:1.3; margin-bottom:6px; }
+    .lz-result-info small { color:#60a5fa; }
+    .no-results { text-align:center; padding:80px 20px; color:#64748b; font-size:18px; }
   `;
   document.head.appendChild(style);
 }
 
-// ================== INYECTAR MODAL ==================
+// Inyectar modal
 function injectModal() {
   if (document.getElementById("lz-searchModal")) return;
   const modalHTML = `
     <div id="lz-searchModal" class="lz-modal">
       <div class="lz-modal-content">
         <div class="lz-modal-header">
-          <h2>Resultados para: <span id="lz-modalQuery" style="color:#60a5fa"></span></h2>
+          <h2>Buscar en LzPlay</h2>
           <span class="lz-close-btn" id="lz-closeModal">×</span>
         </div>
         <div id="lz-resultsGrid" class="lz-results-grid"></div>
@@ -179,7 +90,7 @@ function injectModal() {
   };
 }
 
-// ================== MOSTRAR SUGERENCIAS EN TIEMPO REAL ==================
+// Mostrar sugerencias (solo desktop)
 function showSuggestions(input, results) {
   let box = input.parentElement.querySelector(".lz-suggestions");
   if (!box) {
@@ -188,71 +99,58 @@ function showSuggestions(input, results) {
     input.parentElement.style.position = "relative";
     input.parentElement.appendChild(box);
   }
-
   if (results.length === 0) {
     box.style.display = "none";
     return;
   }
-
   let html = "";
   results.slice(0, 8).forEach(item => {
     html += `<div class="lz-suggestion-item" onclick="window.openContent('${item.url}')">
-      <img src="${item.poster}" class="lz-suggestion-poster" alt="">
-      <div>
-        <h4>${item.titulo}</h4>
-        <small>${item.año}</small>
-      </div>
+      <img src="${item.poster}" class="lz-suggestion-poster">
+      <div><h4>${item.titulo}</h4><small>${item.año}</small></div>
     </div>`;
   });
-
   box.innerHTML = html;
   box.style.display = "block";
 }
 
-// ================== MOSTRAR MODAL ==================
-function showSearchModal(query, results) {
-  document.getElementById("lz-modalQuery").textContent = `"${query}"`;
+// Abrir modal (usado tanto en desktop como en móvil)
+window.openSearchModal = function(query = "") {
   const grid = document.getElementById("lz-resultsGrid");
+  const results = search(query);
 
   if (results.length === 0) {
-    grid.innerHTML = `<div class="no-results">😕 No encontramos resultados para <strong>${query}</strong></div>`;
+    grid.innerHTML = `<div class="no-results">😕 No encontramos resultados</div>`;
   } else {
     let html = "";
     results.forEach(item => {
       html += `<div class="lz-result-card" onclick="window.openContent('${item.url}')">
         <img src="${item.poster}" alt="${item.titulo}">
-        <div class="lz-result-info">
-          <h4>${item.titulo}</h4>
-          <small>${item.año}</small>
-        </div>
+        <div class="lz-result-info"><h4>${item.titulo}</h4><small>${item.año}</small></div>
       </div>`;
     });
     grid.innerHTML = html;
   }
   document.getElementById("lz-searchModal").style.display = "flex";
-}
+};
 
+// Abrir contenido
 window.openContent = function(url) {
   window.location.href = url;
 };
 
-// ================== INICIALIZAR BUSCADOR ==================
+// Inicializar buscador
 async function initSearch() {
-  await loadDatabase();           // ← ESTO ERA EL ERROR PRINCIPAL
+  await loadDatabase();
   injectSearchCSS();
   injectModal();
 
-  // Esperamos un momento por si el navbar se renderiza después
   setTimeout(() => {
     const searchInputs = document.querySelectorAll('.search-box input');
-    if (searchInputs.length === 0) {
-      console.warn("⚠️ No se encontró .search-box input. ¿El navbar ya se renderizó?");
-      return;
-    }
-
     searchInputs.forEach(input => {
       let timeout;
 
+      // Sugerencias en tiempo real (Desktop)
       input.addEventListener("input", () => {
         clearTimeout(timeout);
         timeout = setTimeout(() => {
@@ -262,18 +160,18 @@ async function initSearch() {
         }, 160);
       });
 
+      // Enter abre modal completo
       input.addEventListener("keypress", (e) => {
         if (e.key === "Enter") {
           const query = input.value.trim();
-          if (query.length < 2) return;
           const results = search(query);
-          showSearchModal(query, results);
+          window.openSearchModal(query);
           const box = input.parentElement.querySelector(".lz-suggestions");
           if (box) box.style.display = "none";
         }
       });
 
-      // Cerrar sugerencias al hacer clic fuera
+      // Cerrar sugerencias al clic fuera
       document.addEventListener("click", (e) => {
         if (!input.parentElement.contains(e.target)) {
           const box = input.parentElement.querySelector(".lz-suggestions");
@@ -282,11 +180,11 @@ async function initSearch() {
       });
     });
 
-    console.log("%c✅ Buscador avanzado LzPlay funcionando correctamente", "color:#60a5fa; font-weight:bold");
+    console.log("%c✅ Buscador LzPlay listo (Desktop: sugerencias | Mobile: modal)", "color:#60a5fa; font-weight:bold");
   }, 300);
 }
 
-// ================== AUTO INICIALIZACIÓN ==================
+// Auto-inicialización
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", initSearch);
 } else {
