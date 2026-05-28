@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 855,
+  "poster": "https://image.tmdb.org/t/p/w500/A2vZprRrBbcwLMwf4Oswtk1jodh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/o6f1sJ0ZYg6TA2tMgoHdupB68QB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/moyIeRQaObtxWWf6bnbSTLEIqnl.png",
+  "titulo": "La caída del halcón negro",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Bélica",
+    "Historia"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.392,
+  "año": "2001",
+  "duracion": "2h 25min",
+  "edad_minima": 13,
+  "sinopsis": "En octubre de 1993, una unidad de élite del Ejército de Estados Unidos es enviada a Mogadiscio, la capital de Somalia, para realizar una misión en plena guerra civil. Sin embargo, lo que parecía ser una misión sencilla se convierte en una pesadilla.",
+  "fecha_estreno": "2001-12-28",
+  "titulo_original": "Black Hawk Down",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Josh Hartnett",
+      "personaje": "SSG Matthew Eversmann",
+      "foto": "https://image.tmdb.org/t/p/w500/9JS3PeypxTmHVXOnLCMRzJzySxO.jpg"
+    },
+    {
+      "nombre": "Eric Bana",
+      "personaje": "SFC Norm 'Hoot' Gibson",
+      "foto": "https://image.tmdb.org/t/p/w500/l9yoDgw3YFC2gMD1HTo5djGOwSY.jpg"
+    },
+    {
+      "nombre": "Ewan McGregor",
+      "personaje": "SPC John Grimes",
+      "foto": "https://image.tmdb.org/t/p/w500/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg"
+    },
+    {
+      "nombre": "Tom Sizemore",
+      "personaje": "LTC Danny McKnight",
+      "foto": "https://image.tmdb.org/t/p/w500/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+    },
+    {
+      "nombre": "William Fichtner",
+      "personaje": "SFC Jeff Sanderson",
+      "foto": "https://image.tmdb.org/t/p/w500/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+    },
+    {
+      "nombre": "Sam Shepard",
+      "personaje": "MG William F. Garrison",
+      "foto": "https://image.tmdb.org/t/p/w500/mVR3Le1rSGIbQmld3Ve42RVFcyI.jpg"
+    },
+    {
+      "nombre": "Jason Isaacs",
+      "personaje": "CPT Mike Steele",
+      "foto": "https://image.tmdb.org/t/p/w500/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+    },
+    {
+      "nombre": "Ewen Bremner",
+      "personaje": "SPC Shawn Nelson",
+      "foto": "https://image.tmdb.org/t/p/w500/u80rtfJRqCg4qKcdEPmYv8IkCvu.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ridley Scott",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ken Nolan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ridley Scott",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jerry Bruckheimer",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sławomir Idziak",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mark Bowden",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Chad Oman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bonnie Timmermann",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Branko Lustig",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elli Griff",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Mike Stenson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Simon West",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pietro Scalia",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Arthur Max",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Basil Grillo",
+      "rol": "Second Second Assistant Director"
+    }
+  ],
+  "director": "Ridley Scott",
+  "valoraciones": {
+    "tmdb": 7.392,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Jerry Bruckheimer Films",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/0d/s8/2/I/m/a/r/ImarA.aaa.mp4",
+  "trailer": ""
+}
