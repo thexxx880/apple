@@ -11,7 +11,7 @@ function renderNavbar(containerId = "main-header") {
         <a href="https://lzplayhd.online/apple/data%20base/" class="logo">
             LZPLAY
         </a>
-     
+    
         <div class="nav-center">
             <a href="../index.html" class="nav-link">Inicio</a>
             <a href="#" class="nav-link">Tendencias</a>
@@ -22,7 +22,7 @@ function renderNavbar(containerId = "main-header") {
                 <input type="text" placeholder="Buscar películas o series">
             </div>
         </div>
-     
+    
         <div class="icons">
             <div class="icon-btn mobile-search">
                 <i class="fas fa-search"></i>
@@ -51,20 +51,34 @@ function initNavbarEffects(headerElement) {
         });
     }
 
-    // ================== BÚSQUEDA MÓVIL ==================
+    // ================== BÚSQUEDA MÓVIL (CORREGIDO) ==================
     const mobileSearch = headerElement.querySelector(".mobile-search");
     if (mobileSearch) {
         mobileSearch.addEventListener("click", () => {
-            // En móvil abrimos directamente el modal
-            if (typeof window.openSearchModal === "function") {
-                window.openSearchModal("");
-            }
+            openMobileSearch();
         });
     }
 
     // Inicializar buscador avanzado
     if (typeof window.initSearch === "function") {
         window.initSearch();
+    }
+}
+
+// Función robusta para abrir el modal (espera si aún no está listo)
+function openMobileSearch() {
+    if (typeof window.openSearchModal === "function") {
+        window.openSearchModal("");
+    } else {
+        // Si aún no se cargó el buscador, esperamos un poco y reintentamos
+        console.log("⏳ Esperando a que se cargue el buscador...");
+        setTimeout(() => {
+            if (typeof window.openSearchModal === "function") {
+                window.openSearchModal("");
+            } else {
+                console.warn("⚠️ openSearchModal aún no está disponible");
+            }
+        }, 600);
     }
 }
 
@@ -76,3 +90,4 @@ function initNavbar(containerId = "main-header") {
 // Exponer globalmente
 window.initNavbar = initNavbar;
 window.renderNavbar = renderNavbar;
+window.openMobileSearch = openMobileSearch; // por si acaso
