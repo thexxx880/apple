@@ -38,7 +38,7 @@ function renderNavbar(containerId = "main-header") {
             </a>
 
             <!-- PERFIL / MENÚ -->
-            <a href="https://lzplayhd.online/apple/data%20base/" class="user-avatar">
+            <a href="https://lzplayhd.online/apple/data%20base/menu.html" class="user-avatar">
                 <img src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg" alt="Usuario">
             </a>
 
