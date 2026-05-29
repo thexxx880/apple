@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 491480,
+  "poster": "https://image.tmdb.org/t/p/w500/f9LYaF5Q4pfaF8Gzk64S78VLBKh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lB8mrGjgOxVuiGzBNbHfUrFw02d.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/re5G2E2bSuMdUkEqErVT9YRrPof.png",
+  "titulo": "El niño que domó el viento",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Historia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.879,
+  "año": "2019",
+  "duracion": "1h 53min",
+  "edad_minima": 13,
+  "sinopsis": "Un chico de la República de Malaui decide ayudar a las personas de su pueblo construyendo una turbina después de leer un libro en el que se explican los pasos para su creación. Película basada en el libro homónimo de William Kamkwamba y Bryan Mealer",
+  "fecha_estreno": "2019-02-14",
+  "titulo_original": "The Boy Who Harnessed the Wind",
+  "pais_origen": "Malawi",
+  "reparto": [
+    {
+      "nombre": "Maxwell Simba",
+      "personaje": "William Kamkwamba",
+      "foto": "https://image.tmdb.org/t/p/w500/1JTEDVhADvVAJF2L36q6zckk7yf.jpg"
+    },
+    {
+      "nombre": "Chiwetel Ejiofor",
+      "personaje": "Trywell Kamkwamba",
+      "foto": "https://image.tmdb.org/t/p/w500/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+      "nombre": "Aïssa Maïga",
+      "personaje": "Agnes Kamkwamba",
+      "foto": "https://image.tmdb.org/t/p/w500/9FF3z5T9W9FsSNJ367YlwpfGiqM.jpg"
+    },
+    {
+      "nombre": "Lily Banda",
+      "personaje": "Annie Kamkwamba",
+      "foto": "https://image.tmdb.org/t/p/w500/hTgKVcLDIojrBEK1Jn6vDjcIwEB.jpg"
+    },
+    {
+      "nombre": "Joseph Marcell",
+      "personaje": "Chief Wembe",
+      "foto": "https://image.tmdb.org/t/p/w500/mbjY5qqeT9aV7weLzvbN1ikPq0M.jpg"
+    },
+    {
+      "nombre": "Lemogang Tsipa",
+      "personaje": "Mike Kachigunda",
+      "foto": "https://image.tmdb.org/t/p/w500/tQcrjy2PdKYvzPAQEz0eTBgQ5Xi.jpg"
+    },
+    {
+      "nombre": "Philbert Falakeza",
+      "personaje": "Gilbert Wimbe",
+      "foto": null
+    },
+    {
+      "nombre": "Noma Dumezweni",
+      "personaje": "Edith Sikelo",
+      "foto": "https://image.tmdb.org/t/p/w500/fDEOIZfAQoOZKH1o4xn7qgOoTyM.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chiwetel Ejiofor",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Andrea Calderwood",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gail Egan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chiwetel Ejiofor",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tulé Peak",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Dick Pope",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Antonio Pinto",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Compton Ross",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "William Kamkwamba",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Bia Salgado",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Francesca Van Der Feyst",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Natascha Wharton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "João Bueno",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Joe Oppenheimer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Valerio Bonelli",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mario Zvan",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Chiwetel Ejiofor",
+  "valoraciones": {
+    "tmdb": 7.879,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Participant",
+  "enlace_video": "https://rumble.com/hls-vod/6v456m/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=nPkr9HmglG0"
+}
