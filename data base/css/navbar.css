@@ -1,3 +1,8 @@
+```css
+/* =============================================
+   NAVBAR.CSS - LZPLAY (v3.0)
+   Navbar + Buscador + Modal responsive
+============================================= */
 
 /* ---------- HEADER PRINCIPAL ---------- */
 header {
@@ -10,8 +15,12 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: linear-gradient(to bottom, rgba(0,0,0,.75), transparent);
-    transition: background 0.3s ease;
+    background: linear-gradient(
+        to bottom,
+        rgba(0,0,0,.75),
+        transparent
+    );
+    transition: background .3s ease;
 }
 
 /* ---------- LOGO ---------- */
@@ -22,26 +31,30 @@ header {
     color: white;
     text-decoration: none;
     cursor: pointer;
-    transition: color 0.3s ease;
+    transition: color .3s ease,
+                transform .25s ease;
 }
 
 .logo:hover {
     color: #4f7cff;
+    transform: scale(1.03);
 }
 
-/* ---------- NAVEGACIÓN CENTRAL ---------- */
+/* ---------- NAV CENTER ---------- */
 .nav-center {
     display: flex;
     align-items: center;
     gap: 35px;
 }
 
+/* ---------- LINKS ---------- */
 .nav-link {
     color: white;
     text-decoration: none;
     font-size: 1rem;
-    opacity: 0.85;
-    transition: all 0.3s ease;
+    opacity: .85;
+    transition: all .3s ease;
+    position: relative;
 }
 
 .nav-link:hover {
@@ -49,30 +62,62 @@ header {
     color: #4f7cff;
 }
 
-/* ---------- BUSCADOR DESKTOP ---------- */
+.nav-link::after {
+    content: "";
+    position: absolute;
+    bottom: -6px;
+    left: 0;
+    width: 0%;
+    height: 2px;
+    background: #4f7cff;
+    transition: width .25s ease;
+}
+
+.nav-link:hover::after {
+    width: 100%;
+}
+
+/* =============================================
+   BUSCADOR DESKTOP
+============================================= */
 .search-box {
-    position: relative;           /* Importante para las sugerencias */
-    width: 300px;
-    height: 45px;
+    position: relative;
+    width: 320px;
+    height: 46px;
     background: rgba(255,255,255,.12);
-    border: 1px solid rgba(255,255,255,.1);
+    border: 1px solid rgba(255,255,255,.08);
     border-radius: 30px;
     display: flex;
     align-items: center;
     padding: 0 18px;
-    gap: 10px;
-    backdrop-filter: blur(10px);
-    transition: all 0.3s ease;
+    gap: 12px;
+    backdrop-filter: blur(12px);
+    transition: all .25s ease;
+}
+
+.search-box:hover {
+    background: rgba(255,255,255,.15);
 }
 
 .search-box:focus-within {
     border-color: #4f7cff;
     background: rgba(255,255,255,.15);
+    box-shadow: 0 0 0 4px rgba(79,124,255,.15);
 }
 
-.search-box i {
+.search-box i,
+.search-icon {
     color: #cfcfcf;
     font-size: 1rem;
+    cursor: pointer;
+    transition: color .25s ease,
+                transform .25s ease;
+}
+
+.search-box i:hover,
+.search-icon:hover {
+    color: #4f7cff;
+    transform: scale(1.08);
 }
 
 .search-box input {
@@ -81,14 +126,17 @@ header {
     border: none;
     outline: none;
     color: white;
-    font-size: 0.95rem;
+    font-size: .95rem;
+    font-family: inherit;
 }
 
 .search-box input::placeholder {
     color: #cfcfcf;
 }
 
-/* ---------- ICONOS (Perfil + Búsqueda móvil) ---------- */
+/* =============================================
+   ICONOS
+============================================= */
 .icons {
     display: flex;
     align-items: center;
@@ -99,7 +147,7 @@ header {
     font-size: 1.35rem;
     cursor: pointer;
     color: #ccc;
-    transition: color 0.3s ease;
+    transition: all .25s ease;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -107,25 +155,28 @@ header {
 
 .icon-btn:hover {
     color: #4f7cff;
+    transform: scale(1.08);
 }
 
 .icons .icon-btn {
-    display: none; /* Oculto en desktop */
+    display: none;
 }
 
+/* ---------- PERFIL ---------- */
 .user-avatar {
-    width: 36px;
-    height: 36px;
+    width: 38px;
+    height: 38px;
     border-radius: 50%;
     overflow: hidden;
     border: 2px solid #4f7cff;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: all .25s ease;
 }
 
 .user-avatar:hover {
     transform: scale(1.08);
     border-color: #2563eb;
+    box-shadow: 0 0 18px rgba(37,99,235,.35);
 }
 
 .user-avatar img {
@@ -135,7 +186,210 @@ header {
 }
 
 /* =============================================
-   RESPONSIVE - MÓVIL
+   SUGERENCIAS BUSCADOR
+============================================= */
+.lz-suggestions {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    width: 100%;
+    background: #0f172a;
+    border: 2px solid #2563eb;
+    border-radius: 18px;
+    max-height: 420px;
+    overflow-y: auto;
+    box-shadow: 0 20px 40px rgba(0,0,0,.9);
+    z-index: 99999;
+    display: none;
+    animation: fadeIn .2s ease;
+}
+
+.lz-suggestions::-webkit-scrollbar {
+    width: 6px;
+}
+
+.lz-suggestions::-webkit-scrollbar-thumb {
+    background: #2563eb;
+    border-radius: 12px;
+}
+
+.lz-suggestion-item {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 14px 18px;
+    cursor: pointer;
+    transition: background .2s ease;
+}
+
+.lz-suggestion-item:hover {
+    background: rgba(37,99,235,.22);
+}
+
+.lz-suggestion-poster {
+    width: 50px;
+    height: 74px;
+    border-radius: 8px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.lz-suggestion-item h4 {
+    color: white;
+    font-size: .95rem;
+    margin: 0;
+    line-height: 1.35;
+    font-weight: 600;
+}
+
+.lz-suggestion-item small {
+    color: #60a5fa;
+    font-size: .82rem;
+}
+
+/* =============================================
+   MODAL BUSCADOR
+============================================= */
+.lz-modal {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(2,8,23,.95);
+    backdrop-filter: blur(14px);
+    z-index: 100000;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.lz-modal-content {
+    background: #020817;
+    width: 100%;
+    max-width: 1100px;
+    max-height: 92vh;
+    overflow-y: auto;
+    border-radius: 26px;
+    padding: 28px;
+    border: 2px solid #2563eb;
+    box-shadow: 0 25px 60px rgba(0,0,0,.45);
+}
+
+.lz-modal-content::-webkit-scrollbar {
+    width: 8px;
+}
+
+.lz-modal-content::-webkit-scrollbar-thumb {
+    background: rgba(37,99,235,.6);
+    border-radius: 12px;
+}
+
+.lz-modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+}
+
+.lz-modal-header h2 {
+    color: white;
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.lz-close-btn {
+    font-size: 38px;
+    cursor: pointer;
+    color: #94a3b8;
+    transition: all .25s ease;
+}
+
+.lz-close-btn:hover {
+    color: white;
+    transform: scale(1.08);
+}
+
+/* ---------- INPUT MODAL ---------- */
+#modalSearchInput {
+    width: 100%;
+    padding: 16px 22px;
+    border-radius: 50px;
+    border: 1px solid rgba(37,99,235,.4);
+    background: #111827;
+    color: white;
+    outline: none;
+    font-size: 1rem;
+    transition: all .25s ease;
+    margin-bottom: 24px;
+}
+
+#modalSearchInput::placeholder {
+    color: #94a3b8;
+}
+
+#modalSearchInput:focus {
+    border-color: #2563eb;
+    box-shadow: 0 0 0 4px rgba(37,99,235,.18);
+}
+
+/* ---------- GRID RESULTADOS ---------- */
+.lz-results-grid {
+    display: grid;
+    grid-template-columns:
+        repeat(auto-fill, minmax(190px, 1fr));
+    gap: 22px;
+}
+
+.lz-result-card {
+    background: #111827;
+    border-radius: 18px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all .28s ease;
+    border: 1px solid transparent;
+}
+
+.lz-result-card:hover {
+    transform: translateY(-6px) scale(1.03);
+    border-color: rgba(37,99,235,.35);
+    box-shadow: 0 18px 40px rgba(37,99,235,.22);
+}
+
+.lz-result-card img {
+    width: 100%;
+    height: 290px;
+    object-fit: cover;
+}
+
+.lz-result-info {
+    padding: 14px;
+}
+
+.lz-result-info h4 {
+    color: white;
+    margin: 0;
+    font-size: .95rem;
+    line-height: 1.35;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.lz-result-info small {
+    color: #60a5fa;
+    font-weight: 600;
+}
+
+.no-results {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 80px 20px;
+    color: #64748b;
+    font-size: 1rem;
+}
+
+/* =============================================
+   RESPONSIVE
 ============================================= */
 @media (max-width: 900px) {
     header {
@@ -149,76 +403,57 @@ header {
     .icons .icon-btn {
         display: flex;
     }
+
+    .user-avatar {
+        width: 36px;
+        height: 36px;
+    }
+}
+
+@media (max-width: 768px) {
+    .lz-modal-content {
+        padding: 20px;
+        border-radius: 22px;
+    }
+
+    .lz-results-grid {
+        grid-template-columns:
+            repeat(2, 1fr);
+        gap: 16px;
+    }
+
+    .lz-result-card img {
+        height: 240px;
+    }
 }
 
 @media (max-width: 600px) {
     .logo {
         font-size: 1.35rem;
     }
-    
-    .search-box {
-        width: 260px;
+
+    .lz-results-grid {
+        grid-template-columns:
+            repeat(2, 1fr);
+    }
+
+    .lz-result-card img {
+        height: 220px;
     }
 }
 
 /* =============================================
-   SUGERENCIAS DEL BUSCADOR (lz-suggestions)
+   ANIMACIONES
 ============================================= */
-.lz-suggestions {
-    position: absolute;
-    top: calc(100% + 8px);
-    left: 0;
-    width: 100%;
-    background: #0f172a;
-    border: 2px solid #2563eb;
-    border-radius: 16px;
-    max-height: 420px;
-    overflow-y: auto;
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.9);
-    z-index: 99999;
-    display: none;
-}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(8px);
+    }
 
-.lz-suggestions::-webkit-scrollbar {
-    width: 6px;
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
-
-.lz-suggestions::-webkit-scrollbar-thumb {
-    background: #2563eb;
-    border-radius: 10px;
-}
-
-.lz-suggestion-item {
-    display: flex;
-    align-items: center;
-    gap: 14px;
-    padding: 13px 18px;
-    cursor: pointer;
-    transition: background 0.2s ease;
-}
-
-.lz-suggestion-item:hover {
-    background: #1e40af;
-}
-
-.lz-suggestion-poster {
-    width: 48px;
-    height: 70px;
-    border-radius: 8px;
-    object-fit: cover;
-    flex-shrink: 0;
-}
-
-.lz-suggestion-item h4 {
-    color: white;
-    font-size: 0.95rem;
-    margin: 0;
-    line-height: 1.3;
-    font-weight: 600;
-}
-
-.lz-suggestion-item small {
-    color: #60a5fa;
-    font-size: 0.8rem;
-    font-weight: 500;
-}
+```
