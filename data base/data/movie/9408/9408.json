@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 9408,
+  "poster": "https://image.tmdb.org/t/p/w500/uyqxYCnc6sCAdqAW6UzyQP8wv3D.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Y50RfoNVKIj9dSJavE8uBdN377.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uTWeZl0UDfi8DtW0c5Qw7xvbVKI.png",
+  "titulo": "Reyes de las olas",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 6.5,
+  "año": "2007",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "Seguido por un equipo que documenta su vida, Cody Maverick, un pingüino surfista, deja a su familia por participar en un campeonato de surf.",
+  "fecha_estreno": "2007-06-08",
+  "titulo_original": "Surf's Up",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Shia LaBeouf",
+      "personaje": "Cody Maverick (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
+    },
+    {
+      "nombre": "Jeff Bridges",
+      "personaje": "Big Z / Geek (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+    },
+    {
+      "nombre": "Zooey Deschanel",
+      "personaje": "Lani Aliikai (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oNnMSaLlPyieTc01ObJZb7ezgGq.jpg"
+    },
+    {
+      "nombre": "Jon Heder",
+      "personaje": "Chicken Joe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xGLRJEKKmNsDpz6MefPMU4gqQj1.jpg"
+    },
+    {
+      "nombre": "James Woods",
+      "personaje": "Reggie Belafonte (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tLH7mpH4KqkWL5VgjueTbewGsfK.jpg"
+    },
+    {
+      "nombre": "Diedrich Bader",
+      "personaje": "Tank Evans (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/z7CctykPTuXDfAs7pkAA7vW4b3T.jpg"
+    },
+    {
+      "nombre": "Mario Cantone",
+      "personaje": "Mikey Abromowitz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ZcWKRPvoOgPSn24M5eQD90FTST.jpg"
+    },
+    {
+      "nombre": "Kelly Slater",
+      "personaje": "Kelly (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jTOFGN0ncbRHV5h5jZcKXxYBPkk.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Christopher Jenkins",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ash Brannon",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chris Buck",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lydia Bottegoni",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Jenkins",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Don Rhymer",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Christopher Jenkins",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Christian Darren",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mychael Danna",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Mary Hidalgo",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Paul Lasaine",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ivan Bilancio",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Andrea Miloro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marcelo Vignali",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ron Lukas",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Steven Ticknor",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Tateum Kohut",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Martin Lopez",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Sylvain Deboissy",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Larry White",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Ash Brannon",
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/73q7xu/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=7mPdQRXFiPA"
+}
