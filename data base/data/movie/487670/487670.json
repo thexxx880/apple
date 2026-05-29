@@ -1,0 +1,126 @@
+{
+  "id_tmdb": 487670,
+  "poster": "https://image.tmdb.org/t/p/w500/2eTqYQ2g0hKOuYfIazgy2EdH1SS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dSD9aSZtgFthuMQ78GD1QOQf54V.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uWDelaEekS5RXfdGrKUsmewF6gc.png",
+  "titulo": "La muerte de Superman",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Animación",
+    "Acción",
+    "Drama"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.4,
+  "año": "2018",
+  "duracion": "1h 21min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando un monstruo alienigena salvaje emerge de un lugar subterráneo de descanso y desata una devastación descontrolada, la Liga de la justicia es rápidamente llamada para detener a esa colosal fuerza de la naturaleza. Pero pronto se hace evidente que sólo Superman puede lidiar contra esa monstruosidad que ha sido apodada como Doomsday. Luchando a través de todo Estados Unidos, los dos luchan hasta el cansancio hasta llegar al corazón de Metrópolis. Golpe a golpe, Superman finalmente acaba con la amenaza de Doomsday a medida que lanza un último puñetazo y colapsa para siempre.",
+  "fecha_estreno": "2018-07-24",
+  "titulo_original": "The Death of Superman",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jerry O'Connell",
+      "personaje": "Clark Kent / Superman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p2zcFeDIKUrPrbT5ODqoLifdN3Q.jpg"
+    },
+    {
+      "nombre": "Rebecca Romijn",
+      "personaje": "Lois Lane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/doqFBHNbNhoLF9RX9SYPqwu1mvd.jpg"
+    },
+    {
+      "nombre": "Rainn Wilson",
+      "personaje": "Lex Luthor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yRTElSeC3q9nBqBuleI6OODlDMS.jpg"
+    },
+    {
+      "nombre": "Rosario Dawson",
+      "personaje": "Diana Prince / Wonder Woman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1mm7JGHIUX3GRRGXEV9QCzsI0ao.jpg"
+    },
+    {
+      "nombre": "Nathan Fillion",
+      "personaje": "Hal Jordan / Green Lantern (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg"
+    },
+    {
+      "nombre": "Christopher Gorham",
+      "personaje": "Barry Allen / The Flash (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKFXHJ3KBJaeQ50udMdBEC0VFvI.jpg"
+    },
+    {
+      "nombre": "Matt Lanter",
+      "personaje": "Arthur Curry / Aquaman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2ms8DR9n4wh9ZU6lIuqsE58LPT9.jpg"
+    },
+    {
+      "nombre": "Shemar Moore",
+      "personaje": "Victor Stone / Cyborg (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/epkv0UiwrPfCK3c0sHemSMi2jeh.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jake Castorena",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sam Liu",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sam Liu",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Peter Tomasi",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jarelle Dampier",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Bill Finger",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "강희철",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "강희철",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Frederik Wiedmann",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Sang Hyouk Bang",
+      "rol": "Key Animation"
+    }
+  ],
+  "director": "Jake Castorena",
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC Entertainment",
+  "enlace_video": "https://rumble.com/hls-vod/73qcle/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=J5aMJ1qMgA8"
+}
