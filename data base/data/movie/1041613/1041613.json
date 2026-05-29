@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1041613,
+  "poster": "https://image.tmdb.org/t/p/w500/kz4y4ngB2DyhIwe81hL76Jj6rKU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3zKU2EznBtOPtheyCTQwdZL4b93.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5267tdCBWASrrqNH2zaxNo2l8v4.png",
+  "titulo": "Inmaculada",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Misterio",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.208,
+  "año": "2024",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "Cecilia, una monja de fe devota, emprende una nueva aventura en un remoto convento en la pintoresca campiña italiana. Pero lo que parecía ser el lugar ideal, rápidamente se convierte en una pesadilla cuando se hace evidente que su nuevo hogar alberga un siniestro secreto y horrores indescriptibles. ¿Será que los milagros no vienen sólo de Dios?",
+  "fecha_estreno": "2024-03-20",
+  "titulo_original": "Immaculate",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sydney Sweeney",
+      "personaje": "Sister Cecilia",
+      "foto": "https://image.tmdb.org/t/p/w500/uDnIdU4KGjQg7liFvb9wnALvg95.jpg"
+    },
+    {
+      "nombre": "Álvaro Morte",
+      "personaje": "Father Sal Tedeschi",
+      "foto": "https://image.tmdb.org/t/p/w500/2TGPhdpRC5wjdFEJqnLYiN5kbwg.jpg"
+    },
+    {
+      "nombre": "Simona Tabasco",
+      "personaje": "Sister Mary",
+      "foto": "https://image.tmdb.org/t/p/w500/eHH3kzBwc69E9BvDRCtOEtY1CSc.jpg"
+    },
+    {
+      "nombre": "Benedetta Porcaroli",
+      "personaje": "Sister Gwen",
+      "foto": "https://image.tmdb.org/t/p/w500/2gMJlDxsMrlIzzvq2veDYaK3Lt2.jpg"
+    },
+    {
+      "nombre": "Giorgio Colangeli",
+      "personaje": "Cardinal Franco Merola",
+      "foto": "https://image.tmdb.org/t/p/w500/3LxOBPqDPT4k0CJ4hJGMSrYKtP1.jpg"
+    },
+    {
+      "nombre": "Dora Romano",
+      "personaje": "Mother Superior",
+      "foto": "https://image.tmdb.org/t/p/w500/4WvIHeaG66oAN58NlyC1DSOQGHi.jpg"
+    },
+    {
+      "nombre": "Giulia Heathfield Di Renzi",
+      "personaje": "Sister Isabelle",
+      "foto": "https://image.tmdb.org/t/p/w500/q8TbepuMy5APcEKks4egeQWuFzb.jpg"
+    },
+    {
+      "nombre": "Giampiero Judica",
+      "personaje": "Doctor Gallo",
+      "foto": "https://image.tmdb.org/t/p/w500/eldh49EkjXUqE2PpED8DsiKTRqf.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Mohan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sydney Sweeney",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Teddy Schwarzman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Heimler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Lobel",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Bernad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jonathan Davino",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Riccardo Neri",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christopher Casanova",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Friedberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Will Greenfield",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Shafer",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Lowell A. Meyer",
+      "rol": "Additional Photography"
+    },
+    {
+      "nombre": "Bryan Parker",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Elvis Pasqual",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Francesca Antonetti",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Zack Goldsborough",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Christian P. Minkler",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Casey Roberts",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Federica Emidi",
+      "rol": "Makeup Department Head"
+    }
+  ],
+  "director": "Michael Mohan",
+  "valoraciones": {
+    "tmdb": 6.208,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Black Bear Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/73qpri/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=lywekKHvLjo"
+}
