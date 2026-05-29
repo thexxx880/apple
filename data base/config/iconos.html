@@ -94,6 +94,7 @@
     </div>
 
     <script type="module">
+        // ====================== FIREBASE ======================
         import { initializeApp } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-app.js";
         import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-auth.js";
         import { getFirestore, doc, getDoc, updateDoc } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-firestore.js";
@@ -111,8 +112,9 @@
         const auth = getAuth(app);
         const db = getFirestore(app);
 
+        // ====================== VARIABLES ======================
         let currentUser = null;
-        let selectedIconUrl = null;   // ← Declarado SOLO UNA VEZ
+        let selectedIconUrl = null;   // ← Solo declarada UNA VEZ
 
         // ====================== LISTA DE ICONOS ======================
         const iconos = {
@@ -182,9 +184,8 @@
             ]
         };
 
-        let selectedIconUrl = null;   // ← Solo declarada una vez
+        // ====================== FUNCIONES ======================
 
-        // Cargar todos los iconos
         function loadIcons() {
             const sections = {
                 "netflix-v1": document.getElementById("netflix-v1"),
@@ -205,7 +206,10 @@
                     div.innerHTML = `<img src="${url}" alt="Icono">`;
 
                     div.onclick = () => {
+                        // Quitar selección anterior
                         document.querySelectorAll(".icono-item").forEach(el => el.classList.remove("selected"));
+                        
+                        // Seleccionar actual
                         div.classList.add("selected");
                         selectedIconUrl = url;
                     };
@@ -215,7 +219,7 @@
             });
         }
 
-        // Guardar icono en Firestore
+        // Guardar en Firestore
         window.saveSelectedIcon = async function() {
             if (!selectedIconUrl || !currentUser) {
                 alert("Por favor selecciona un icono");
@@ -260,20 +264,20 @@
                                 selectedIconUrl = currentUrl;
                             }
                         });
-                    }, 400);
+                    }, 500);
                 } else {
                     // Seleccionar el primer icono por defecto
                     setTimeout(() => {
                         const first = document.querySelector(".icono-item");
                         if (first) first.click();
-                    }, 400);
+                    }, 500);
                 }
             } catch (error) {
                 console.error("Error cargando icono:", error);
             }
         }
 
-        // Inicializar
+        // ====================== INICIALIZACIÓN ======================
         onAuthStateChanged(auth, (user) => {
             if (user) {
                 loadCurrentIcon(user);
@@ -282,35 +286,9 @@
             }
         });
 
-        // Cargar grid al iniciar
+        // Cargar todo al iniciar
         window.onload = function() {
-            const sections = {
-                "netflix-v1": document.getElementById("netflix-v1"),
-                "netflix-v2": document.getElementById("netflix-v2"),
-                "aventura": document.getElementById("aventura"),
-                "titans": document.getElementById("titans"),
-                "zerotwo": document.getElementById("zerotwo"),
-                "marvel": document.getElementById("marvel")
-            };
-
-            Object.keys(iconos).forEach(category => {
-                const row = sections[category];
-                if (!row) return;
-
-                iconos[category].forEach(url => {
-                    const div = document.createElement("div");
-                    div.className = "icono-item";
-                    div.innerHTML = `<img src="${url}" alt="Icono">`;
-
-                    div.onclick = () => {
-                        document.querySelectorAll(".icono-item").forEach(el => el.classList.remove("selected"));
-                        div.classList.add("selected");
-                        selectedIconUrl = url;
-                    };
-
-                    row.appendChild(div);
-                });
-            });
+            loadIcons();
         };
     </script>
 </body>
