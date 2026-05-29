@@ -129,72 +129,119 @@ async function loadRandomHero() {
 
 // ================== CARGAR PELÍCULAS ORDENADAS POR VISTAS ==================
 async function loadMoviesSection() {
-  const container = document.getElementById("movies-grid");
-  if (!container) return;
+    const container = document.getElementById("movies-grid");
+    if (!container) return;
 
-  container.innerHTML = `<p style="color:#888; padding: 40px 20px; font-size: 0.95rem;">Cargando películas más vistas...</p>`;
+    container.innerHTML = `
+        <p style="color:#888; padding:40px 20px; font-size:0.95rem;">
+            Cargando películas...
+        </p>
+    `;
 
-  try {
-    const ids = await getAllMovieIds();
-    if (ids.length === 0) {
-      container.innerHTML = `<p style="color:#ff6b6b; padding: 30px 20px;">No se encontraron películas.</p>`;
-      return;
+    try {
+        const ids = await getAllMovieIds();
+
+        if (ids.length === 0) {
+            container.innerHTML = `
+                <p style="color:#ff6b6b; padding:30px 20px;">
+                    No se encontraron películas.
+                </p>
+            `;
+            return;
+        }
+
+        // ===============================
+        // OBTENER PELÍCULAS + VISTAS
+        // ===============================
+        const movies = await Promise.all(
+            ids.map(async (id) => {
+                try {
+                    const movie = await fetchMovieById(id);
+                    if (!movie) return null;
+
+                    // Obtener vistas desde Firestore
+                    let views = 0;
+
+                    try {
+                        const docRef = db.collection("views").doc(String(movie.id));
+                        const docSnap = await docRef.get();
+
+                        if (docSnap.exists) {
+                            views = docSnap.data().views || 0;
+                        }
+                    } catch (firestoreError) {
+                        console.warn(`Error obteniendo vistas de ${id}:`, firestoreError);
+                    }
+
+                    return {
+                        ...movie,
+                        views
+                    };
+
+                } catch (error) {
+                    console.error(`Error cargando ${id}:`, error);
+                    return null;
+                }
+            })
+        );
+
+        // Filtrar nulos
+        const validMovies = movies.filter(Boolean);
+
+        if (validMovies.length === 0) {
+            container.innerHTML = `
+                <p style="color:#ff6b6b; padding:30px 20px;">
+                    No se encontraron películas.
+                </p>
+            `;
+            return;
+        }
+
+        // ===============================
+        // ORDENAR POR MÁS VISTAS
+        // ===============================
+        validMovies.sort((a, b) => b.views - a.views);
+
+        // Tomar top 10
+        const topMovies = validMovies.slice(0, 10);
+
+        container.innerHTML = "";
+
+        topMovies.forEach(movie => {
+            const card = document.createElement("div");
+            card.className = "movie-card";
+
+            const ratingHTML = window.createRatingCircle
+                ? window.createRatingCircle(movie.calificacion || 0)
+                : `<span>${movie.calificacion || 0}</span>`;
+
+            card.innerHTML = `
+                <img src="${movie.poster || 'assets/posters/placeholder.jpg'}" alt="${movie.titulo}">
+                <div class="movie-rating">${ratingHTML}</div>
+                <div class="movie-overlay"></div>
+            `;
+
+            card.addEventListener("click", () => {
+                if (movie.id) {
+                    window.location.href = `contenido.html?id=${movie.id}`;
+                }
+            });
+
+            container.appendChild(card);
+        });
+
+        console.log("🔥 Top películas por vistas:", topMovies);
+
+    } catch (error) {
+        console.error("Error cargando películas:", error);
+
+        container.innerHTML = `
+            <p style="color:#ff6b6b; padding:30px 20px;">
+                ❌ Error al cargar las películas.
+            </p>
+        `;
     }
-
-    const viewsMap = await getMovieViewsMap();
-    const movies = [];
-
-    for (const id of ids) {
-      const movie = await fetchMovieById(id);
-      if (movie) {
-        movie.views = viewsMap[id] || 0;
-        movies.push(movie);
-      }
-    }
-
-    if (movies.length === 0) {
-      container.innerHTML = `<p style="color:#ff6b6b; padding: 30px 20px;">No se encontraron películas.</p>`;
-      return;
-    }
-
-    // 🔥 ORDENAR DE MAYOR A MENOR VISTAS
-    movies.sort((a, b) => (b.views || 0) - (a.views || 0));
-
-    // Tomar las 10 más vistas
-    const topMovies = movies.slice(0, 10);
-
-    container.innerHTML = "";
-
-    topMovies.forEach(movie => {
-      const card = document.createElement("div");
-      card.className = "movie-card";
-
-      const ratingHTML = window.createRatingCircle 
-        ? window.createRatingCircle(movie.calificacion || 0)
-        : `<span>${movie.calificacion || 0}</span>`;
-
-      card.innerHTML = `
-        <img src="${movie.poster || 'assets/posters/placeholder.jpg'}" alt="${movie.titulo}">
-        <div class="movie-rating">${ratingHTML}</div>
-        <div class="movie-overlay"></div>
-        ${movie.views > 0 ? `<div class="view-count">${movie.views.toLocaleString()} vistas</div>` : ''}
-      `;
-
-      // Incrementar vistas + redirigir
-      card.addEventListener("click", () => {
-        incrementMovieViews(movie.id);
-        window.location.href = `contenido.html?id=${movie.id}`;
-      });
-
-      container.appendChild(card);
-    });
-
-  } catch (error) {
-    console.error("Error cargando sección de películas:", error);
-    container.innerHTML = `<p style="color:#ff6b6b; padding: 30px 20px;">❌ Error al cargar las películas.</p>`;
-  }
 }
-
 // ================== INICIO DE LA PÁGINA ==================
 document.addEventListener("DOMContentLoaded", async () => {
   // Iniciar loader si existe
