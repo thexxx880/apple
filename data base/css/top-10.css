@@ -1,0 +1,230 @@
+ .lzplay-top10-netflix {
+          margin: 40px 0;
+          padding: 10px 0;
+          display: block;
+          background: transparent;
+        }
+        .lzplay-top10-netflix .heading {
+          font-size: 26px;
+          color: #fff;
+          margin-bottom: 14px;
+          font-weight: 700;
+          padding-left: 10px;
+        }
+        .lzplay-top10-netflix .outer_container {
+          max-width: 1400px;
+          margin: 0 auto;
+          overflow: hidden;
+        }
+        .lzplay-top10-netflix .inner_container {
+          padding-bottom: 32.8%;
+          position: relative;
+        }
+        .lzplay-top10-netflix .ul_container {
+          position: absolute;
+          display: flex;
+          flex-direction: row;
+          width: 100%;
+          height: 100%;
+          padding: 0;
+          margin: 0;
+          list-style: none;
+          gap: 4px;
+        }
+        .lzplay-top10-netflix .item_container {
+          flex: 1 1 0%;
+          position: relative;
+          transition: all 0.4s ease;
+          cursor: pointer;
+          background-color: #111;
+          box-shadow: 0 0 10px 5px rgb(0 0 0 / 70%);
+          overflow: hidden;
+          border-radius: 10px;
+        }
+        .lzplay-top10-netflix .item_container:hover:not(.expanded) {
+          flex-basis: 8%;
+        }
+        .lzplay-top10-netflix .expanded {
+          flex-basis: 56.25% !important;
+          z-index: 10;
+        }
+        .lzplay-top10-netflix .item_number {
+          position: absolute;
+          right: 10px;
+          top: 10px;
+          font-size: 1.4rem;
+          font-weight: 800;
+          color: #fff;
+          opacity: 0.8;
+          z-index: 20;
+          text-shadow: 0 0 8px black;
+        }
+        .lzplay-top10-netflix .image {
+          position: absolute;
+          left: 0;
+          top: 0;
+          width: 100%;
+          height: 100%;
+        }
+        .lzplay-top10-netflix .image img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          transition: all 0.4s ease;
+        }
+        .lzplay-top10-netflix .status-dot {
+          position: absolute;
+          top: 10px;
+          left: 10px;
+          width: 15px;
+          height: 15px;
+          border-radius: 50%;
+          border: 2.5px solid #fff;
+          z-index: 30;
+          box-shadow: 0 0 6px rgba(0,0,0,0.6);
+        }
+        /* Panel lateral */
+        .lzplay-top10-netflix .info_container {
+          position: absolute;
+          left: 0;
+          top: 0;
+          width: 280px;
+          height: 100%;
+          background: rgba(0,0,0,0.82);
+          padding: 20px;
+          display: none;
+          flex-direction: column;
+          z-index: 15;
+        }
+        .lzplay-top10-netflix .expanded .info_container {
+          display: flex;
+        }
+        .lzplay-top10-netflix .info_header {
+          display: flex;
+          align-items: center;
+          margin-bottom: 18px;
+          gap: 18px;
+        }
+        .lzplay-top10-netflix .info_number img {
+          max-width: 75%;
+          height: auto;
+        }
+        .lzplay-top10-netflix .info_title {
+          color: #fff;
+          font-size: 1.65rem;
+          font-weight: 700;
+          line-height: 1.1;
+          flex: 1;
+        }
+        .lzplay-top10-netflix .info_bottom_text {
+          color: #ddd;
+          font-size: 14.5px;
+          line-height: 1.5;
+          flex: 1;
+        }
+        .lzplay-top10-netflix .watch-btn {
+          display: inline-flex;
+          align-items: center;
+          gap: 8px;
+          background: #e50914;
+          color: white !important;
+          text-decoration: none;
+          padding: 12px 22px;
+          border-radius: 10px;
+          font-weight: 700;
+          font-size: 15px;
+          transition: all 0.3s ease;
+        }
+        .lzplay-top10-netflix .watch-btn:hover {
+          background: #ff1f2d;
+          transform: scale(1.03);
+        }
+
+        /* ==================== RESPONSIVE MÓVIL ==================== */
+        @media (max-width: 768px) {
+          .lzplay-top10-netflix {
+            margin-left: -8px;
+            margin-right: -8px;
+          }
+          .lzplay-top10-netflix .heading {
+            font-size: 22px;
+            padding-left: 16px;
+          }
+          .lzplay-top10-netflix .outer_container {
+            overflow-x: auto;
+            overflow-y: hidden;
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: none;
+            width: 100%;
+            padding: 0 8px;
+            box-sizing: border-box;
+            scroll-behavior: smooth;
+            scroll-snap-type: x mandatory;
+            overscroll-behavior-x: contain;
+          }
+          .lzplay-top10-netflix .outer_container::-webkit-scrollbar {
+            display: none;
+          }
+          .lzplay-top10-netflix .inner_container {
+            padding-bottom: 0;
+            position: static;
+            min-height: 300px;
+          }
+          .lzplay-top10-netflix .ul_container {
+            position: static;
+            display: flex;
+            flex-wrap: nowrap;
+            width: max-content;
+            min-width: 100%;
+            height: auto;
+            padding: 8px 4px 14px;
+            gap: 10px;
+            overflow: visible;
+          }
+          .lzplay-top10-netflix .item_container {
+            flex: 0 0 auto;
+            width: clamp(135px, 38vw, 160px);
+            min-width: clamp(135px, 38vw, 160px);
+            height: 245px;
+            border-radius: 14px;
+            scroll-snap-align: center;
+            scroll-snap-stop: always;
+            transition: all 0.4s ease;
+          }
+          .lzplay-top10-netflix .expanded {
+            width: clamp(280px, 86vw, 420px) !important;
+            min-width: clamp(280px, 86vw, 420px) !important;
+            flex-basis: auto !important;
+            scroll-snap-align: center;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+            z-index: 20;
+          }
+          .lzplay-top10-netflix .info_container {
+            width: 100%;
+            padding: 20px;
+            background: rgba(0,0,0,0.88);
+          }
+          .lzplay-top10-netflix .info_header {
+            gap: 16px;
+          }
+          .lzplay-top10-netflix .info_number img {
+            max-width: 65px;
+          }
+          .lzplay-top10-netflix .info_title {
+            font-size: 1.45rem;
+          }
+          .lzplay-top10-netflix .info_bottom_text {
+            font-size: 14px;
+          }
+        }
+        @media (max-width: 480px) {
+          .lzplay-top10-netflix .item_container {
+            width: 132px;
+            min-width: 132px;
+            height: 235px;
+          }
+          .lzplay-top10-netflix .expanded {
+            width: 88vw !important;
+            min-width: 88vw !important;
+          }
+        }
