@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 81005,
+  "poster": "https://image.tmdb.org/t/p/w500/e2QO4XUXIDvaRlix6Ybjal4pTqd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/djSAd6HUm66eVNC3PiZbYwOpD5A.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/enas9f3lOOUYAWO0oDE5e86jQRQ.png",
+  "titulo": "Jack: El Cazagigantes",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Acción",
+    "Aventura",
+    "Drama"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.882,
+  "año": "2013",
+  "duracion": "1h 54min",
+  "edad_minima": 13,
+  "sinopsis": "Una antigua guerra se vuelve a encender cuando un granjero joven Jack, sin darse cuenta, abre una puerta entre nuestro mundo y una raza terrible de gigantes. Desatados en la Tierra, por primera vez en siglos, los gigantes se esfuerzan por recuperar la tierra que habían perdido, forzando al joven, Jack, a embarcarse en la batalla de su vida para detenerlos.",
+  "fecha_estreno": "2013-02-27",
+  "titulo_original": "Jack the Giant Slayer",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Nicholas Hoult",
+      "personaje": "Jack",
+      "foto": "https://image.tmdb.org/t/p/w500/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg"
+    },
+    {
+      "nombre": "Eleanor Tomlinson",
+      "personaje": "Princess Isabelle",
+      "foto": "https://image.tmdb.org/t/p/w500/A2lE5kvZE3tIpKwpAtKbjsMHpf2.jpg"
+    },
+    {
+      "nombre": "Ewan McGregor",
+      "personaje": "Elmont",
+      "foto": "https://image.tmdb.org/t/p/w500/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg"
+    },
+    {
+      "nombre": "Stanley Tucci",
+      "personaje": "Roderick",
+      "foto": "https://image.tmdb.org/t/p/w500/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+      "nombre": "Ian McShane",
+      "personaje": "King Brahmwell",
+      "foto": "https://image.tmdb.org/t/p/w500/qh9RTLbnr128TZLdGuXwUH9mdBM.jpg"
+    },
+    {
+      "nombre": "Bill Nighy",
+      "personaje": "General Fallon",
+      "foto": "https://image.tmdb.org/t/p/w500/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+      "nombre": "Eddie Marsan",
+      "personaje": "Crawe",
+      "foto": "https://image.tmdb.org/t/p/w500/9atfOgIxhfOKvv2be8HEp6SzOct.jpg"
+    },
+    {
+      "nombre": "Ewen Bremner",
+      "personaje": "Wicke",
+      "foto": "https://image.tmdb.org/t/p/w500/u80rtfJRqCg4qKcdEPmYv8IkCvu.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Darren Lemke",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Christopher McQuarrie",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Darren Lemke",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bryan Singer",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Dobkin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Studney",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Dobkin",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Patrick McCormick",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jeremy Rich",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Richard Roberts",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Ori Marmur",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nina Gold",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Joanna Johnston",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "John Rickard",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jon Jashni",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Russell",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Thomas Tull",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rod McLean",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Gary Tomkins",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Colin Cunningham",
+      "rol": "Special Effects"
+    }
+  ],
+  "director": "Bryan Singer",
+  "valoraciones": {
+    "tmdb": 5.882,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://1a-1791.com/video/s8/2/q/h/X/x/qhXxo.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=xpkcEIsgGmU"
+}
