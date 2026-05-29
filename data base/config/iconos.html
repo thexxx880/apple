@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elige tu icono - LZPLAY</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: #020817;
+            color: white;
+        }
+        
+        .icon-option {
+            position: relative;
+            cursor: pointer;
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            border: 4px solid transparent;
+        }
+        
+        .icon-option:hover {
+            transform: scale(1.08);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+        }
+        
+        .icon-option.selected {
+            border-color: #2563eb;
+            box-shadow: 0 0 0 8px rgba(37, 99, 235, 0.25);
+            transform: scale(1.05);
+        }
+        
+        .icon-option img {
+            width: 100%;
+            aspect-ratio: 1/1;
+            object-fit: cover;
+            transition: all 0.3s ease;
+        }
+        
+        .selected-check {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #2563eb;
+            color: white;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            box-shadow: 0 4px 15px rgba(37, 99, 235, 0.5);
+        }
+        
+        .section-title {
+            font-size: 2.2rem;
+            font-weight: 700;
+            margin-bottom: 12px;
+        }
+        
+        .lzplay-btn {
+            background: #2563eb;
+            color: white;
+            transition: all 0.3s ease;
+        }
+        
+        .lzplay-btn:hover {
+            background: #1e40af;
+            transform: translateY(-2px);
+        }
+    </style>
+</head>
+<body class="min-h-screen pb-16">
+
+    <!-- HEADER -->
+    <header class="sticky top-0 z-50 bg-[#020817]/95 backdrop-blur-md border-b border-white/10">
+        <div class="max-w-screen-2xl mx-auto px-6 py-5 flex items-center justify-between">
+            <div class="flex items-center gap-4">
+                <a href="index.html" class="text-3xl font-black text-white">LZPLAY</a>
+            </div>
+            
+            <a href="menu.html" class="flex items-center gap-2 text-sm text-zinc-400 hover:text-white transition-colors">
+                <i class="fas fa-arrow-left"></i>
+                <span>Volver a mi cuenta</span>
+            </a>
+        </div>
+    </header>
+
+    <div class="max-w-4xl mx-auto px-6 pt-10">
+        
+        <!-- TÍTULO -->
+        <div class="mb-10 text-center">
+            <h1 class="section-title">Elige tu icono de perfil</h1>
+            <p class="text-zinc-400 max-w-md mx-auto">Selecciona el icono que más te represente. Este aparecerá en tu perfil y en todas las pantallas de LZPLAY.</p>
+        </div>
+
+        <!-- GRID DE ICONOS -->
+        <div id="icon-grid" 
+             class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 gap-5 mb-12">
+            <!-- Se genera con JavaScript -->
+        </div>
+
+        <!-- BOTONES -->
+        <div class="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
+            <button onclick="saveSelectedIcon()"
+                    class="flex-1 py-4 lzplay-btn rounded-3xl font-semibold text-lg flex items-center justify-center gap-3 shadow-lg">
+                <i class="fas fa-save"></i>
+                <span>Guardar cambios</span>
+            </button>
+            
+            <button onclick="cancelSelection()"
+                    class="flex-1 py-4 bg-white/10 hover:bg-white/20 border border-white/20 rounded-3xl font-semibold text-lg transition-all">
+                Cancelar
+            </button>
+        </div>
+        
+        <p class="text-center text-xs text-zinc-500 mt-8">Tu icono se guardará automáticamente en tu cuenta</p>
+        
+    </div>
+
+    <!-- TOAST -->
+    <div id="toast" class="hidden fixed bottom-8 left-1/2 transform -translate-x-1/2 bg-[#020817] border border-white/10 px-6 py-4 rounded-2xl shadow-2xl flex items-center gap-3 z-[9999]">
+        <i class="fas fa-check-circle text-green-400"></i>
+        <span id="toast-message" class="text-sm"></span>
+    </div>
+
+    <script type="module">
+        // =============================================
+        // FIREBASE
+        // =============================================
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-app.js";
+        import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-auth.js";
+        import { getFirestore, doc, getDoc, updateDoc } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-firestore.js";
+
+        const firebaseConfig = {
+            apiKey: "AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
+            authDomain: "applelz-b5883.firebaseapp.com",
+            projectId: "applelz-b5883",
+            storageBucket: "applelz-b5883.firebasestorage.app",
+            messagingSenderId: "489468218632",
+            appId: "1:489468218632:web:598a550f7ebe7c6de7b0bd",
+            measurementId: "G-J085DHR8M3"
+        };
+
+        const app = initializeApp(firebaseConfig);
+        const auth = getAuth(app);
+        const db = getFirestore(app);
+
+        // =============================================
+        // LISTA DE ICONOS
+        // =============================================
+        const PROFILE_ICONS = [
+            { id: "icon-1", url: "https://i.pravatar.cc/300?img=1" },
+            { id: "icon-2", url: "https://i.pravatar.cc/300?img=2" },
+            { id: "icon-3", url: "https://i.pravatar.cc/300?img=3" },
+            { id: "icon-4", url: "https://i.pravatar.cc/300?img=4" },
+            { id: "icon-5", url: "https://i.pravatar.cc/300?img=5" },
+            { id: "icon-6", url: "https://i.pravatar.cc/300?img=6" },
+            { id: "icon-7", url: "https://i.pravatar.cc/300?img=7" },
+            { id: "icon-8", url: "https://i.pravatar.cc/300?img=8" },
+            { id: "icon-9", url: "https://i.pravatar.cc/300?img=9" },
+            { id: "icon-10", url: "https://i.pravatar.cc/300?img=10" },
+            { id: "icon-11", url: "https://i.pravatar.cc/300?img=11" },
+            { id: "icon-12", url: "https://i.pravatar.cc/300?img=12" },
+            { id: "icon-13", url: "https://i.pravatar.cc/300?img=13" },
+            { id: "icon-14", url: "https://i.pravatar.cc/300?img=14" },
+            { id: "icon-15", url: "https://i.pravatar.cc/300?img=15" },
+            { id: "icon-16", url: "https://i.pravatar.cc/300?img=16" }
+        ];
+
+        let currentUser = null;
+        let selectedIconId = null;
+
+        // Cargar iconos
+        function loadIconGrid(currentIcon = null) {
+            const grid = document.getElementById("icon-grid");
+            grid.innerHTML = "";
+
+            selectedIconId = currentIcon || "icon-1";
+
+            PROFILE_ICONS.forEach(icon => {
+                const isSelected = icon.id === selectedIconId;
+
+                const div = document.createElement("div");
+                div.className = `icon-option relative ${isSelected ? 'selected' : ''}`;
+                
+                div.innerHTML = `
+                    <img src="${icon.url}" alt="Icono ${icon.id}">
+                    ${isSelected ? `
+                        <div class="selected-check">
+                            <i class="fas fa-check"></i>
+                        </div>
+                    ` : ''}
+                `;
+
+                div.onclick = () => selectIcon(icon.id, div);
+                grid.appendChild(div);
+            });
+        }
+
+        // Seleccionar icono
+        function selectIcon(iconId, element) {
+            document.querySelectorAll(".icon-option").forEach(el => {
+                el.classList.remove("selected");
+                const check = el.querySelector(".selected-check");
+                if (check) check.remove();
+            });
+
+            element.classList.add("selected");
+            
+            const check = document.createElement("div");
+            check.className = "selected-check";
+            check.innerHTML = `<i class="fas fa-check"></i>`;
+            element.appendChild(check);
+
+            selectedIconId = iconId;
+        }
+
+        // Guardar en Firestore
+        async function saveSelectedIcon() {
+            if (!selectedIconId || !currentUser) {
+                showToast("Por favor selecciona un icono", "error");
+                return;
+            }
+
+            try {
+                await updateDoc(doc(db, "users", currentUser.uid), {
+                    profileIcon: selectedIconId,
+                    updatedAt: new Date()
+                });
+
+                showToast("¡Icono guardado correctamente!");
+                updateGlobalAvatar(selectedIconId);
+
+                setTimeout(() => {
+                    window.location.href = "menu.html";
+                }, 1400);
+
+            } catch (error) {
+                console.error("Error:", error);
+                showToast("Error al guardar el icono", "error");
+            }
+        }
+
+        function updateGlobalAvatar(iconId) {
+            const icon = PROFILE_ICONS.find(i => i.id === iconId);
+            if (!icon) return;
+
+            document.querySelectorAll(".user-avatar img").forEach(avatar => {
+                avatar.src = icon.url;
+            });
+        }
+
+        // Cargar icono actual
+        async function loadUserIcon(user) {
+            currentUser = user;
+            
+            try {
+                const docSnap = await getDoc(doc(db, "users", user.uid));
+                const currentIcon = docSnap.exists() && docSnap.data().profileIcon 
+                    ? docSnap.data().profileIcon 
+                    : "icon-1";
+
+                loadIconGrid(currentIcon);
+            } catch (error) {
+                loadIconGrid("icon-1");
+            }
+        }
+
+        function cancelSelection() {
+            window.location.href = "menu.html";
+        }
+
+        function showToast(message, type = "success") {
+            const toast = document.getElementById("toast");
+            const msg = document.getElementById("toast-message");
+            
+            msg.textContent = message;
+            toast.style.borderColor = type === "error" ? "#ef4444" : "#22c55e";
+            
+            toast.style.display = "flex";
+            toast.classList.remove("hidden");
+            
+            setTimeout(() => {
+                toast.style.transition = "all 0.3s ease";
+                toast.style.opacity = "0";
+                setTimeout(() => {
+                    toast.style.opacity = "1";
+                    toast.style.transition = "";
+                    toast.style.display = "none";
+                    toast.classList.add("hidden");
+                }, 300);
+            }, 2200);
+        }
+
+        // Inicializar
+        onAuthStateChanged(auth, (user) => {
+            if (user) {
+                loadUserIcon(user);
+            } else {
+                window.location.href = "login.html";
+            }
+        });
+    </script>
+</body>
+</html>
