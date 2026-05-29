@@ -81,20 +81,7 @@
     <h2 class="text-xl font-semibold mt-10 mb-3">DISNEY+ Icons Marvel</h2>
     <div class="icon-row" id="marvel"></div>
 
-    <!-- BOTONES -->
-    <div class="flex flex-col sm:flex-row gap-4 max-w-md mx-auto mt-10">
-        <button onclick="saveSelectedIcon()"
-                class="flex-1 py-4 bg-[#2563eb] hover:bg-[#1e40af] rounded-3xl font-semibold text-lg transition-all">
-            Guardar icono
-        </button>
-        <button onclick="cancelSelection()"
-                class="flex-1 py-4 bg-white/10 hover:bg-white/20 border border-white/20 rounded-3xl font-semibold text-lg transition-all">
-            Cancelar
-        </button>
-    </div>
-
     <script type="module">
-        // ====================== FIREBASE ======================
         import { initializeApp } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-app.js";
         import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-auth.js";
         import { getFirestore, doc, getDoc, updateDoc } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-firestore.js";
@@ -112,11 +99,8 @@
         const auth = getAuth(app);
         const db = getFirestore(app);
 
-        // ====================== VARIABLES ======================
         let currentUser = null;
-        let selectedIconUrl = null;   // ← Solo declarada UNA VEZ
 
-        // ====================== LISTA DE ICONOS ======================
         const iconos = {
             "netflix-v1": [
                 "https://i.pinimg.com/736x/91/86/1b/91861b749841221d52122f0c2933d8a6.jpg",
@@ -184,8 +168,36 @@
             ]
         };
 
-        // ====================== FUNCIONES ======================
+        // ====================== FUNCIÓN PRINCIPAL ======================
+        async function selectAndSaveIcon(url, element) {
+            if (!currentUser) {
+                alert("Debes iniciar sesión");
+                return;
+            }
 
+            try {
+                // Quitar selección anterior
+                document.querySelectorAll(".icono-item").forEach(el => el.classList.remove("selected"));
+                
+                // Marcar como seleccionado
+                element.classList.add("selected");
+
+                // Guardar automáticamente en Firestore
+                await updateDoc(doc(db, "users", currentUser.uid), {
+                    profileIcon: url,
+                    updatedAt: new Date()
+                });
+
+                // Redirigir a menu.html
+                window.location.href = "menu.html";
+
+            } catch (error) {
+                console.error("Error al guardar icono:", error);
+                alert("Error al guardar el icono");
+            }
+        }
+
+        // Cargar todos los iconos
         function loadIcons() {
             const sections = {
                 "netflix-v1": document.getElementById("netflix-v1"),
@@ -205,47 +217,15 @@
                     div.className = "icono-item";
                     div.innerHTML = `<img src="${url}" alt="Icono">`;
 
-                    div.onclick = () => {
-                        // Quitar selección anterior
-                        document.querySelectorAll(".icono-item").forEach(el => el.classList.remove("selected"));
-                        
-                        // Seleccionar actual
-                        div.classList.add("selected");
-                        selectedIconUrl = url;
-                    };
+                    // Al hacer clic → guardar automáticamente y redirigir
+                    div.onclick = () => selectAndSaveIcon(url, div);
 
                     row.appendChild(div);
                 });
             });
         }
 
-        // Guardar en Firestore
-        window.saveSelectedIcon = async function() {
-            if (!selectedIconUrl || !currentUser) {
-                alert("Por favor selecciona un icono");
-                return;
-            }
-
-            try {
-                await updateDoc(doc(db, "users", currentUser.uid), {
-                    profileIcon: selectedIconUrl,
-                    updatedAt: new Date()
-                });
-
-                alert("¡Icono guardado correctamente!");
-                window.location.href = "menu.html";
-
-            } catch (error) {
-                console.error("Error al guardar:", error);
-                alert("Error al guardar el icono");
-            }
-        };
-
-        window.cancelSelection = function() {
-            window.location.href = "menu.html";
-        };
-
-        // Cargar icono actual del usuario
+        // Cargar icono actual
         async function loadCurrentIcon(user) {
             currentUser = user;
            
@@ -261,15 +241,8 @@
                             if (img.src === currentUrl) {
                                 const parent = img.parentElement;
                                 parent.classList.add("selected");
-                                selectedIconUrl = currentUrl;
                             }
                         });
-                    }, 500);
-                } else {
-                    // Seleccionar el primer icono por defecto
-                    setTimeout(() => {
-                        const first = document.querySelector(".icono-item");
-                        if (first) first.click();
                     }, 500);
                 }
             } catch (error) {
@@ -277,7 +250,7 @@
             }
         }
 
-        // ====================== INICIALIZACIÓN ======================
+        // Inicializar
         onAuthStateChanged(auth, (user) => {
             if (user) {
                 loadCurrentIcon(user);
@@ -286,7 +259,7 @@
             }
         });
 
-        // Cargar todo al iniciar
+        // Cargar grid
         window.onload = function() {
             loadIcons();
         };
