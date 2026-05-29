@@ -28,7 +28,6 @@
     </style>
 </head>
 <body>
-
     <!-- HEADER -->
     <div class="topbar">
         <button class="back-btn" onclick="history.back()"><i class="fa-solid fa-arrow-left"></i></button>
@@ -38,7 +37,7 @@
 
     <!-- PERFIL -->
     <div class="profile-box">
-        <img class="avatar" id="user-avatar" 
+        <img class="avatar" id="user-avatar"
              src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg">
         <div class="user-info">
             <h2 id="username">Cargando...</h2>
@@ -53,31 +52,26 @@
             <div class="menu-content"><div class="menu-title">Mi lista</div><div class="menu-desc">Tus películas y series guardadas</div></div>
             <i class="fa-solid fa-chevron-right arrow"></i>
         </a>
-
         <a href="#" class="menu-item">
             <div class="menu-icon"><i class="fa-solid fa-clock-rotate-left"></i></div>
             <div class="menu-content"><div class="menu-title">Seguir viendo</div><div class="menu-desc">Continúa donde te quedaste</div></div>
             <i class="fa-solid fa-chevron-right arrow"></i>
         </a>
-
         <a href="#" class="menu-item">
             <div class="menu-icon"><i class="fa-solid fa-bell"></i></div>
             <div class="menu-content"><div class="menu-title">Notificaciones</div><div class="menu-desc">Novedades y actualizaciones</div></div>
             <i class="fa-solid fa-chevron-right arrow"></i>
         </a>
-
         <a href="#" class="menu-item">
             <div class="menu-icon"><i class="fa-solid fa-gear"></i></div>
             <div class="menu-content"><div class="menu-title">Configuración</div><div class="menu-desc">Preferencias de la aplicación</div></div>
             <i class="fa-solid fa-chevron-right arrow"></i>
         </a>
-
         <a href="#" class="menu-item" onclick="showEditProfileModal()">
             <div class="menu-icon"><i class="fa-solid fa-user-pen"></i></div>
             <div class="menu-content"><div class="menu-title">Editar Perfil</div><div class="menu-desc">Cambia avatar y nombre</div></div>
             <i class="fa-solid fa-chevron-right arrow"></i>
         </a>
-
         <div class="menu-item logout" onclick="logout()">
             <div class="menu-icon"><i class="fa-solid fa-right-from-bracket"></i></div>
             <div class="menu-content"><div class="menu-title">Cerrar sesión</div><div class="menu-desc">Salir de tu cuenta</div></div>
@@ -89,12 +83,12 @@
         <div style="background:#111827; padding:30px; border-radius:20px; width:90%; max-width:380px; text-align:center; position:relative;">
             <span onclick="closeModal()" style="position:absolute; top:15px; right:20px; font-size:1.5rem; cursor:pointer;">&times;</span>
             <h3 style="margin-bottom:25px;">Editar Perfil</h3>
-            
+           
             <div onclick="editName()" style="padding:18px; margin:10px 0; background:rgba(255,255,255,.08); border-radius:16px; cursor:pointer;">
                 <i class="fa-solid fa-user-edit" style="font-size:1.4rem; margin-bottom:8px;"></i>
                 <div><strong>Editar Nombre</strong></div>
             </div>
-            
+           
             <div onclick="changeIcon()" style="padding:18px; margin:10px 0; background:rgba(255,255,255,.08); border-radius:16px; cursor:pointer;">
                 <i class="fa-solid fa-image" style="font-size:1.4rem; margin-bottom:8px;"></i>
                 <div><strong>Cambiar Icono</strong></div>
@@ -102,177 +96,111 @@
         </div>
     </div>
 
-    <!-- FIREBASE -->
+    <!-- FIREBASE (SOLO UNA VEZ - CORREGIDO) -->
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
     <script src="js/firebase/applelz.js"></script>
 
-   <script>
-
-    // ==========================
-    // CARGAR PERFIL
-    // ==========================
-    firebase.auth().onAuthStateChanged(async (user) => {
-
-        if (!user) {
-            window.location.href = "login.html";
-            return;
-        }
-
-        try {
-
-            const userDoc = await firebase.firestore()
-                .collection("users")
-                .doc(user.uid)
-                .get();
-
-            // ==========================
-            // DATOS FIRESTORE
-            // ==========================
-            if (userDoc.exists) {
-
-                const data = userDoc.data();
-
-                // NOMBRE
-                document.getElementById("username").textContent =
-                    data.displayName || "Usuario LzPlay";
-
-                // ICONO
-                if (data.profileIcon) {
-
-                    document.getElementById("user-avatar").src =
-                        data.profileIcon;
-
-                    // Guardar cache local
-                    localStorage.setItem(
-                        "profileIcon",
-                        data.profileIcon
-                    );
-
-                }
-
-                console.log("✅ Perfil cargado:", data);
-
-            } else {
-
-                console.log("❌ Documento no encontrado");
-
+    <script>
+        // =============================================
+        // CARGAR PERFIL (CORREGIDO Y MEJORADO)
+        // =============================================
+        firebase.auth().onAuthStateChanged(async (user) => {
+            if (!user) {
+                window.location.href = "login.html";
+                return;
             }
 
-        } catch (error) {
-
-            console.error("❌ Error cargando perfil:", error);
-
-            // ==========================
-            // FALLBACK LOCALSTORAGE
-            // ==========================
-            const savedIcon =
-                localStorage.getItem("profileIcon");
-
+            // 1. Carga INSTANTÁNEA desde localStorage
+            const savedIcon = localStorage.getItem("profileIcon");
             if (savedIcon) {
-
-                document.getElementById("user-avatar").src =
-                    savedIcon;
-
+                document.getElementById("user-avatar").src = savedIcon;
             }
 
+            try {
+                const userDoc = await firebase.firestore()
+                    .collection("users")
+                    .doc(user.uid)
+                    .get();
+
+                if (userDoc.exists) {
+                    const data = userDoc.data();
+
+                    // Nombre con fallback
+                    const displayName = data.displayName || user.displayName || "Usuario LzPlay";
+                    document.getElementById("username").textContent = displayName;
+
+                    // Icono
+                    if (data.profileIcon) {
+                        document.getElementById("user-avatar").src = data.profileIcon;
+                        localStorage.setItem("profileIcon", data.profileIcon);
+                    }
+
+                    console.log("✅ Perfil cargado correctamente");
+                }
+            } catch (error) {
+                console.error("❌ Error cargando perfil:", error);
+            }
+        });
+
+        // =============================================
+        // FUNCIONES DEL MODAL
+        // =============================================
+        function showEditProfileModal() {
+            document.getElementById("edit-modal").style.display = "flex";
         }
 
-    });
-
-
-    // ==========================
-    // MODAL
-    // ==========================
-    function showEditProfileModal() {
-
-        document.getElementById("edit-modal").style.display = "flex";
-
-    }
-
-    function closeModal() {
-
-        document.getElementById("edit-modal").style.display = "none";
-
-    }
-
-
-    // ==========================
-    // EDITAR NOMBRE
-    // ==========================
-    async function editName() {
-
-        closeModal();
-
-        const newName = prompt("Ingresa tu nuevo nombre:");
-
-        if (!newName) return;
-
-        try {
-
-            const user = firebase.auth().currentUser;
-
-            await user.updateProfile({
-                displayName: newName
-            });
-
-            await firebase.firestore()
-                .collection("users")
-                .doc(user.uid)
-                .update({
-                    displayName: newName
-                });
-
-            document.getElementById("username").textContent =
-                newName;
-
-            alert("✅ Nombre actualizado");
-
-        } catch (error) {
-
-            console.error(error);
-
-            alert("❌ Error al actualizar nombre");
-
+        function closeModal() {
+            document.getElementById("edit-modal").style.display = "none";
         }
 
-    }
+        // =============================================
+        // EDITAR NOMBRE
+        // =============================================
+        async function editName() {
+            closeModal();
+            const newName = prompt("Ingresa tu nuevo nombre:");
+            if (!newName || newName.trim() === "") return;
 
+            try {
+                const user = firebase.auth().currentUser;
 
-    // ==========================
-    // CAMBIAR ICONO
-    // ==========================
-    function changeIcon() {
+                await user.updateProfile({ displayName: newName });
+                await firebase.firestore()
+                    .collection("users")
+                    .doc(user.uid)
+                    .update({ displayName: newName });
 
-        closeModal();
-
-        window.location.href = "config/iconos.html";
-
-    }
-
-
-    // ==========================
-    // LOGOUT
-    // ==========================
-    async function logout() {
-
-        try {
-
-            localStorage.removeItem("profileIcon");
-
-            await firebase.auth().signOut();
-
-            window.location.href = "login.html";
-
-        } catch (error) {
-
-            console.error("❌ Error logout:", error);
-
+                document.getElementById("username").textContent = newName;
+                alert("✅ Nombre actualizado correctamente");
+            } catch (error) {
+                console.error("Error al actualizar nombre:", error);
+                alert("❌ Error al actualizar el nombre");
+            }
         }
 
-    }
+        // =============================================
+        // CAMBIAR ICONO
+        // =============================================
+        function changeIcon() {
+            closeModal();
+            window.location.href = "config/iconos.html";
+        }
 
-</script>
+        // =============================================
+        // CERRAR SESIÓN
+        // =============================================
+        async function logout() {
+            try {
+                localStorage.removeItem("profileIcon");
+                await firebase.auth().signOut();
+                window.location.href = "login.html";
+            } catch (error) {
+                console.error("❌ Error al cerrar sesión:", error);
+                alert("Error al cerrar sesión");
+            }
+        }
+    </script>
 </body>
 </html>
