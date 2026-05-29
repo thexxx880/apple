@@ -2,55 +2,22 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Selector de Iconos - LZPLAY</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
-        body {
-            background-color: #0e1a2b;
-            color: white;
-            font-family: 'Montserrat', sans-serif;
-            padding: 24px;
-        }
-        .icon-row {
-            display: flex;
-            overflow-x: auto;
-            gap: 16px;
-            padding-bottom: 8px;
-            scroll-snap-type: x mandatory;
-            margin-bottom: 40px;
-        }
+        body { background-color: #0e1a2b; color: white; font-family: 'Montserrat', sans-serif; padding: 24px; }
+        .icon-row { display: flex; overflow-x: auto; gap: 16px; padding-bottom: 8px; scroll-snap-type: x mandatory; margin-bottom: 40px; }
         .icon-row::-webkit-scrollbar { display: none; }
-       
         .icono-item {
-            flex: 0 0 auto;
-            width: 100px;
-            height: 100px;
-            border-radius: 9999px;
-            border: 4px solid transparent;
-            transition: transform .35s ease, box-shadow .35s ease, border-color .35s ease;
-            cursor: pointer;
+            flex: 0 0 auto; width: 100px; height: 100px; border-radius: 9999px;
+            border: 4px solid transparent; transition: all 0.3s ease; cursor: pointer;
             box-shadow: 0 0 8px rgba(255,255,255,.15);
-            scroll-snap-align: start;
-            position: relative;
         }
-        .icono-item:hover {
-            transform: scale(1.15);
-            box-shadow: 0 0 25px rgba(37, 99, 235, 0.6);
-            border-color: #2563eb;
-        }
-        .icono-item.selected {
-            border-color: #2563eb;
-            box-shadow: 0 0 0 8px rgba(37, 99, 235, 0.3);
-            transform: scale(1.1);
-        }
-        .icono-item img {
-            width: 100%;
-            height: 100%;
-            border-radius: 9999px;
-            object-fit: cover;
-        }
+        .icono-item:hover { transform: scale(1.15); border-color: #2563eb; }
+        .icono-item.selected { border-color: #2563eb; box-shadow: 0 0 0 8px rgba(37, 99, 235, 0.3); }
+        .icono-item img { width: 100%; height: 100%; border-radius: 9999px; object-fit: cover; }
     </style>
 </head>
 <body>
@@ -84,7 +51,7 @@
     <script type="module">
         import { initializeApp } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-app.js";
         import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-auth.js";
-        import { getFirestore, doc, getDoc, updateDoc } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-firestore.js";
+        import { getFirestore, doc, updateDoc } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-firestore.js";
 
         const firebaseConfig = {
             apiKey: "AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
@@ -102,7 +69,7 @@
         let currentUser = null;
 
         const iconos = {
-            "netflix-v1": [
+             "netflix-v1": [
                 "https://i.pinimg.com/736x/91/86/1b/91861b749841221d52122f0c2933d8a6.jpg",
                 "https://i.pinimg.com/736x/b4/0b/51/b40b51418293936a6e0ad09ffa229cb7.jpg",
                 "https://i.pinimg.com/736x/32/a8/49/32a849aaf205b143c1a2b78d4b8bcf4b.jpg",
@@ -168,36 +135,32 @@
             ]
         };
 
-        // ====================== FUNCIÓN PRINCIPAL ======================
-        async function selectAndSaveIcon(url, element) {
+        // ====================== FUNCIÓN DE GUARDADO ======================
+        async function saveIcon(url) {
             if (!currentUser) {
-                alert("Debes iniciar sesión");
+                alert("Debes iniciar sesión primero");
                 return;
             }
 
             try {
-                // Quitar selección anterior
-                document.querySelectorAll(".icono-item").forEach(el => el.classList.remove("selected"));
-                
-                // Marcar como seleccionado
-                element.classList.add("selected");
-
-                // Guardar automáticamente en Firestore
+                // Guardar en Firestore
                 await updateDoc(doc(db, "users", currentUser.uid), {
                     profileIcon: url,
                     updatedAt: new Date()
                 });
 
+                console.log("✅ Icono guardado correctamente:", url);
+
                 // Redirigir a menu.html
                 window.location.href = "../menu.html";
 
             } catch (error) {
-                console.error("Error al guardar icono:", error);
+                console.error("❌ Error al guardar icono:", error);
                 alert("Error al guardar el icono");
             }
         }
 
-        // Cargar todos los iconos
+        // Cargar iconos
         function loadIcons() {
             const sections = {
                 "netflix-v1": document.getElementById("netflix-v1"),
@@ -217,52 +180,25 @@
                     div.className = "icono-item";
                     div.innerHTML = `<img src="${url}" alt="Icono">`;
 
-                    // Al hacer clic → guardar automáticamente y redirigir
-                    div.onclick = () => selectAndSaveIcon(url, div);
+                    // Al hacer clic → guardar y redirigir
+                    div.onclick = () => saveIcon(url);
 
                     row.appendChild(div);
                 });
             });
         }
 
-        // Cargar icono actual
-        async function loadCurrentIcon(user) {
-            currentUser = user;
-           
-            try {
-                const docSnap = await getDoc(doc(db, "users", user.uid));
-               
-                if (docSnap.exists() && docSnap.data().profileIcon) {
-                    const currentUrl = docSnap.data().profileIcon;
-                   
-                    setTimeout(() => {
-                        const allIcons = document.querySelectorAll(".icono-item img");
-                        allIcons.forEach(img => {
-                            if (img.src === currentUrl) {
-                                const parent = img.parentElement;
-                                parent.classList.add("selected");
-                            }
-                        });
-                    }, 500);
-                }
-            } catch (error) {
-                console.error("Error cargando icono:", error);
-            }
-        }
-
-        // Inicializar
+        // Inicializar usuario
         onAuthStateChanged(auth, (user) => {
             if (user) {
-                loadCurrentIcon(user);
+                currentUser = user;
+                console.log("✅ Usuario autenticado:", user.uid);
             } else {
-                window.location.href = "login.html";
+                window.location.href = "../login.html";
             }
         });
 
-        // Cargar grid
-        window.onload = function() {
-            loadIcons();
-        };
+        window.onload = loadIcons;
     </script>
 </body>
 </html>
