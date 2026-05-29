@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 10715,
+  "poster": "https://image.tmdb.org/t/p/w500/6QIy1WUEX4piBh2mXkJAZ6zEU6r.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iZiYzix7sMS0NEWsHURSzHF1wxt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/e57vXPo2JG19qzenqsydgJDnm3O.png",
+  "titulo": "Looney Tunes: De nuevo en acción",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 6.363,
+  "año": "2003",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "Los Looney Tunes buscan al padre desaparecido de un hombre y el mítico diamante Mono Azul.",
+  "fecha_estreno": "2003-11-14",
+  "titulo_original": "Looney Tunes: Back in Action",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Brendan Fraser",
+      "personaje": "DJ Drake / Tasmanian Devil (voice) / She-Devil (voice) / Self",
+      "foto": "https://image.tmdb.org/t/p/w500/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    },
+    {
+      "nombre": "Jenna Elfman",
+      "personaje": "Kate",
+      "foto": "https://image.tmdb.org/t/p/w500/AsXlf2XtVF3tyx0GrUPRq72NLIa.jpg"
+    },
+    {
+      "nombre": "Steve Martin",
+      "personaje": "Mr. Chairman",
+      "foto": "https://image.tmdb.org/t/p/w500/d0KthX8hVWU9BxTCG1QUO8FURRm.jpg"
+    },
+    {
+      "nombre": "Joe Alaskey",
+      "personaje": "Bugs Bunny-Daffy Duck / Beaky Buzzard / Sylvester / Mama Bear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1ZzvyokyF4rfoMFwCSqF6ytthjn.jpg"
+    },
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Yosemite Sam / Foghorn Leghorn / Nasty Canasta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "Timothy Dalton",
+      "personaje": "Damien Drake",
+      "foto": "https://image.tmdb.org/t/p/w500/rKYQd6ihqWiOaCHEDrvgV2VPtAo.jpg"
+    },
+    {
+      "nombre": "Billy West",
+      "personaje": "Elmer Fudd / Peter Lorre (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+    },
+    {
+      "nombre": "Heather Locklear",
+      "personaje": "Dusty Tails",
+      "foto": "https://image.tmdb.org/t/p/w500/rIvuZwIMRkwSVGMza7Tm2yBXD5g.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Larry Doyle",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bernie Goldmann",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paula Weinstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Dante",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Roger S.H. Schulman",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Larry Doyle",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jerry Goldsmith",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Dean Cundey",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Rick Finney",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Marshall Harvey",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Glory Fioramonti",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Tom Knott",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Karen Hamrock",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Bob Camp",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Rachel Wyn Dunn",
+      "rol": "Compositors"
+    },
+    {
+      "nombre": "Jennifer Yuan",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Chris Aguirre",
+      "rol": "Storyboard"
+    }
+  ],
+  "director": "Joe Dante",
+  "valoraciones": {
+    "tmdb": 6.363,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Goldmann Pictures",
+  "enlace_video": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelismar23%2FVer%20Looney%20Tunes-%20De%20nuevo%20en%20acci%C3%B3n%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4",
+  "trailer": "https://www.youtube.com/watch?v=5cKjOl2wr2A"
+}
