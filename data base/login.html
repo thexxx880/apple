@@ -5,306 +5,155 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>LzPlay Login</title>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 <style>
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:'Poppins',sans-serif;
-}
-body{
-background:#000;
-color:#fff;
-min-height:100vh;
-display:flex;
-justify-content:center;
-align-items:center;
-padding:20px;
-overflow:hidden;
-}
-.bg{
-position:fixed;
-top:0;
-left:0;
-width:100%;
-height:100%;
-background:
-linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.9)),
-url('https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=1974&auto=format&fit=crop');
-background-size:cover;
-background-position:center;
-z-index:-1;
-filter:blur(5px);
-transform:scale(1.1);
-}
-.card{
-width:100%;
-max-width:420px;
-background:rgba(20,20,20,.95);
-border:1px solid rgba(255,255,255,.08);
-backdrop-filter:blur(20px);
-border-radius:30px;
-padding:35px;
-box-shadow:0 20px 60px rgba(0,0,0,.6);
-position:relative;
-}
-.logo{
-font-size:38px;
-font-weight:700;
-text-align:center;
-margin-bottom:8px;
-}
-.logo span{
-color:#fff;
-}
-.subtitle{
-text-align:center;
-color:#999;
-font-size:14px;
-margin-bottom:35px;
-}
-.tabs{
-display:flex;
-background:#111;
-border-radius:14px;
-padding:4px;
-margin-bottom:25px;
-}
-.tab{
-flex:1;
-border:none;
-background:none;
-color:#999;
-padding:12px;
-border-radius:10px;
-cursor:pointer;
-font-weight:600;
-transition:.3s;
-}
-.tab.active{
-background:#fff;
-color:#000;
-}
-.input-group{
-margin-bottom:16px;
-}
-.input{
-width:100%;
-height:55px;
-border:none;
-outline:none;
-border-radius:14px;
-background:#151515;
-padding:0 18px;
-color:#fff;
-font-size:15px;
-border:1px solid #222;
-transition:.3s;
-}
-.input:focus{
-border-color:#555;
-}
-.btn{
-width:100%;
-height:56px;
-border:none;
-border-radius:16px;
-font-size:15px;
-font-weight:700;
-cursor:pointer;
-transition:.3s;
-}
-.btn-primary{
-background:#fff;
-color:#000;
-margin-top:10px;
-}
-.btn-primary:hover{
-transform:translateY(-2px);
-}
-.google-btn{
-background:#111;
-color:#fff;
-display:flex;
-align-items:center;
-justify-content:center;
-gap:12px;
-margin-top:15px;
-border:1px solid #222;
-}
-.google-btn img{
-width:20px;
-}
-.or{
-text-align:center;
-margin:18px 0;
-font-size:13px;
-color:#777;
-}
-.link{
-text-align:center;
-margin-top:18px;
-font-size:14px;
-color:#999;
-cursor:pointer;
-}
-.link:hover{
-color:#fff;
-}
-.loading{
-display:none;
-margin-top:20px;
-text-align:center;
-font-size:14px;
-color:#aaa;
-}
+* { margin:0; padding:0; box-sizing:border-box; font-family:'Poppins',sans-serif; }
+body { background:#000; color:#fff; min-height:100vh; display:flex; justify-content:center; align-items:center; padding:20px; overflow:hidden; }
+.bg { position:fixed; top:0; left:0; width:100%; height:100%; background:linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.9)), url('https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=1974&auto=format&fit=crop'); background-size:cover; background-position:center; z-index:-1; filter:blur(5px); transform:scale(1.1); }
+.card { width:100%; max-width:420px; background:rgba(20,20,20,.95); border:1px solid rgba(255,255,255,.08); backdrop-filter:blur(20px); border-radius:30px; padding:35px; box-shadow:0 20px 60px rgba(0,0,0,.6); }
 
-/* TOAST NOTIFICACIÓN */
-#toast{
-position:fixed;
-bottom:20px;
-left:50%;
-transform:translateX(-50%);
-background:rgba(30,30,30,0.95);
-color:#fff;
-padding:16px 24px;
-border-radius:16px;
-box-shadow:0 10px 30px rgba(0,0,0,.5);
-display:flex;
-align-items:center;
-gap:12px;
-font-size:15px;
-opacity:0;
-transition:all .3s ease;
-pointer-events:none;
-z-index:9999;
-white-space:nowrap;
-}
-#toast.show{
-opacity:1;
-transform:translateX(-50%) translateY(-10px);
-pointer-events:auto;
-}
-#toast i{
-font-size:20px;
-}
+/* Formulario */
+.logo { font-size:38px; font-weight:700; text-align:center; margin-bottom:8px; }
+.logo span { color:#fff; }
+.subtitle { text-align:center; color:#999; font-size:14px; margin-bottom:35px; }
+.tabs { display:flex; background:#111; border-radius:14px; padding:4px; margin-bottom:25px; }
+.tab { flex:1; border:none; background:none; color:#999; padding:12px; border-radius:10px; cursor:pointer; font-weight:600; transition:.3s; }
+.tab.active { background:#fff; color:#000; }
+.input-group { margin-bottom:16px; }
+.input { width:100%; height:55px; border:none; outline:none; border-radius:14px; background:#151515; padding:0 18px; color:#fff; font-size:15px; border:1px solid #222; transition:.3s; }
+.input:focus { border-color:#555; }
+.btn { width:100%; height:56px; border:none; border-radius:16px; font-size:15px; font-weight:700; cursor:pointer; transition:.3s; }
+.btn-primary { background:#fff; color:#000; margin-top:10px; }
+.btn-primary:hover { transform:translateY(-2px); }
+.google-btn { background:#111; color:#fff; display:flex; align-items:center; justify-content:center; gap:12px; margin-top:15px; border:1px solid #222; }
+.google-btn img { width:20px; }
+.or { text-align:center; margin:18px 0; font-size:13px; color:#777; }
+.link { text-align:center; margin-top:18px; font-size:14px; color:#999; cursor:pointer; }
+.link:hover { color:#fff; }
+.loading { display:none; margin-top:20px; text-align:center; font-size:14px; color:#aaa; }
 
-/* MODAL NOMBRE DE PERFIL */
-#profileModal{
-display:none;
-position:fixed;
-top:0; left:0;
-width:100%; height:100%;
-background:rgba(0,0,0,.85);
-z-index:10000;
-align-items:center;
-justify-content:center;
+/* TOAST */
+#toast { position:fixed; bottom:20px; left:50%; transform:translateX(-50%); background:rgba(30,30,30,0.95); color:#fff; padding:16px 24px; border-radius:16px; box-shadow:0 10px 30px rgba(0,0,0,.5); display:flex; align-items:center; gap:12px; font-size:15px; opacity:0; transition:all .3s ease; pointer-events:none; z-index:9999; white-space:nowrap; }
+#toast.show { opacity:1; transform:translateX(-50%) translateY(-10px); pointer-events:auto; }
+
+/* PANTALLA DE BIENVENIDA */
+#welcomeScreen {
+    display: none;
+    width: 100%;
+    max-width: 420px;
+    background: rgba(20,20,20,.95);
+    border: 1px solid rgba(255,255,255,.08);
+    backdrop-filter: blur(20px);
+    border-radius: 30px;
+    padding: 40px 30px;
+    box-shadow: 0 20px 60px rgba(0,0,0,.6);
+    text-align: center;
 }
-#profileModal.show{
-display:flex;
+.welcome-avatar {
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    border: 4px solid #4f7cff;
+    margin: 0 auto 20px;
+    overflow: hidden;
+    box-shadow: 0 0 30px rgba(79, 124, 255, 0.4);
 }
-.modal-content{
-background:#1a1a1a;
-padding:30px;
-border-radius:24px;
-width:100%;
-max-width:380px;
-text-align:center;
-box-shadow:0 20px 60px rgba(0,0,0,.6);
+.welcome-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
-.modal-content h2{
-margin-bottom:12px;
-font-size:24px;
+.welcome-name {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 8px;
 }
-.modal-content p{
-color:#aaa;
-margin-bottom:25px;
-font-size:15px;
+.welcome-subtitle {
+    color: #aaa;
+    margin-bottom: 30px;
 }
-.modal-content input{
-width:100%;
-height:55px;
-background:#222;
-border:none;
-border-radius:14px;
-padding:0 20px;
-color:#fff;
-font-size:16px;
-margin-bottom:20px;
+.welcome-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
 }
-.modal-content .btn{
-height:52px;
-margin-top:10px;
+.btn-secondary {
+    background: #222;
+    color: #fff;
+    border: 1px solid #444;
+}
+.btn-secondary:hover {
+    background: #333;
 }
 </style>
 </head>
 <body>
 <div class="bg"></div>
 
-<div class="card">
+<!-- FORMULARIO DE LOGIN -->
+<div class="card" id="loginCard">
   <div class="logo">Lz<span>Play</span></div>
   <p class="subtitle">Accede a tu cuenta</p>
-
   <div class="tabs">
     <button class="tab active" id="loginTab">Iniciar sesión</button>
     <button class="tab" id="registerTab">Registrarse</button>
   </div>
-
   <div class="input-group">
     <input type="email" id="email" class="input" placeholder="Correo electrónico">
   </div>
   <div class="input-group">
     <input type="password" id="password" class="input" placeholder="Contraseña">
   </div>
-
   <button class="btn btn-primary" id="mainBtn">Iniciar sesión</button>
-
   <div class="or">o continuar con</div>
   <button class="btn google-btn" id="googleBtn">
     <img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg">
     Continuar con Google
   </button>
-
   <div class="link" id="forgotPassword">¿Olvidaste tu contraseña?</div>
   <div class="loading" id="loading">Procesando...</div>
 </div>
 
-<!-- TOAST NOTIFICACIÓN -->
-<div id="toast"></div>
-
-<!-- MODAL NOMBRE DE PERFIL -->
-<div id="profileModal">
-  <div class="modal-content">
-    <h2>¡Casi listo!</h2>
-    <p>Elige un nombre para tu perfil en LzPlay</p>
-    <input type="text" id="profileNameInput" placeholder="Nombre de perfil" maxlength="25">
-    <button class="btn btn-primary" id="saveProfileBtn">Guardar y continuar</button>
+<!-- PANTALLA DE BIENVENIDA (cuando ya está logueado) -->
+<div id="welcomeScreen">
+  <div class="welcome-avatar">
+    <img id="welcomeAvatar" src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg" alt="Avatar">
+  </div>
+  <div class="welcome-name" id="welcomeName">¡Hola!</div>
+  <div class="welcome-subtitle">Bienvenido de nuevo a LzPlay</div>
+  
+  <div class="welcome-buttons">
+    <button class="btn btn-primary" onclick="goToHome()">Ir al inicio</button>
+    <button class="btn btn-secondary" onclick="logout()">Cerrar sesión</button>
   </div>
 </div>
+
+<!-- TOAST -->
+<div id="toast"></div>
 
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+
 <script>
+// ================== FIREBASE ==================
 const firebaseConfig = {
   apiKey: "AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
   authDomain: "applelz-b5883.firebaseapp.com",
   projectId: "applelz-b5883",
   storageBucket: "applelz-b5883.firebasestorage.app",
   messagingSenderId: "489468218632",
-  appId: "1:489468218632:web:598a550f7ebe7c6de7b0bd",
-  measurementId: "G-J085DHR8M3"
+  appId: "1:489468218632:web:598a550f7ebe7c6de7b0bd"
 };
-
 firebase.initializeApp(firebaseConfig);
 const auth = firebase.auth();
 const db = firebase.firestore();
 
 const REDIRECT_URL = "https://lzplayhd.online/apple/data%20base/";
 
-let isLogin = true;
-let currentUser = null; // para guardar el usuario temporalmente
-
+// ================== ELEMENTOS ==================
+const loginCard = document.getElementById("loginCard");
+const welcomeScreen = document.getElementById("welcomeScreen");
 const emailInput = document.getElementById("email");
 const passwordInput = document.getElementById("password");
 const mainBtn = document.getElementById("mainBtn");
@@ -312,63 +161,59 @@ const loginTab = document.getElementById("loginTab");
 const registerTab = document.getElementById("registerTab");
 const loading = document.getElementById("loading");
 
-// ================== TOAST NOTIFICACIÓN ==================
+let isLogin = true;
+
+// ================== TOAST ==================
 function showToast(message, icon = "fa-circle-check", color = "#46d369") {
   const toast = document.getElementById("toast");
   toast.innerHTML = `<i class="fa-solid ${icon}" style="color:${color}"></i> ${message}`;
   toast.style.borderLeft = `5px solid ${color}`;
   toast.classList.add("show");
-  
-  setTimeout(() => {
-    toast.classList.remove("show");
-  }, 3200);
+  setTimeout(() => toast.classList.remove("show"), 3200);
 }
 
-// ================== MODAL NOMBRE DE PERFIL ==================
-function showProfileNameModal(user) {
-  currentUser = user;
-  const modal = document.getElementById("profileModal");
-  const input = document.getElementById("profileNameInput");
-  input.value = user.displayName || ""; // si viene de Google
-  modal.classList.add("show");
-  
-  // Enter key support
-  input.focus();
-  input.onkeydown = (e) => {
-    if (e.key === "Enter") saveProfileName();
-  };
-}
-
-async function saveProfileName() {
-  const name = document.getElementById("profileNameInput").value.trim();
-  const modal = document.getElementById("profileModal");
-  
-  if (!name) {
-    showToast("Por favor escribe un nombre de perfil", "fa-exclamation-triangle", "#ffcc00");
-    return;
-  }
-
+// ================== CARGAR DATOS DEL USUARIO ==================
+async function loadUserData(user) {
   try {
-    await db.collection("users").doc(currentUser.uid).set({
-      uid: currentUser.uid,
-      email: currentUser.email || "",
-      name: name,                    // ← Nombre de perfil solicitado
-      photo: currentUser.photoURL || "",
-      createdAt: firebase.firestore.FieldValue.serverTimestamp(),
-      lastLogin: firebase.firestore.FieldValue.serverTimestamp(),
-      settings: { theme: "dark", language: "es" },
-      myList: []
-    }, { merge: true });
+    const doc = await db.collection("users").doc(user.uid).get();
+    let name = "Usuario";
+    let avatar = "https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg";
 
-    showToast(`¡Bienvenido, ${name}!`, "fa-check-circle", "#46d369");
-    modal.classList.remove("show");
-    setTimeout(() => {
-      window.location.href = REDIRECT_URL;
-    }, 800);
-  } catch (e) {
-    console.error(e);
-    showToast("Error al guardar el nombre", "fa-exclamation-triangle", "#ff4444");
+    if (doc.exists) {
+      const data = doc.data();
+      name = data.name || data.displayName || user.displayName || "Usuario";
+      if (data.photo) avatar = data.photo;
+    } else {
+      name = user.displayName || "Usuario";
+      if (user.photoURL) avatar = user.photoURL;
+    }
+
+    const savedIcon = localStorage.getItem("profileIcon");
+    if (savedIcon) avatar = savedIcon;
+
+    document.getElementById("welcomeName").innerHTML = `¡Hola, <strong>${name}</strong>!`;
+    document.getElementById("welcomeAvatar").src = avatar;
+
+  } catch (error) {
+    console.error("Error cargando datos:", error);
+    document.getElementById("welcomeName").innerHTML = `¡Hola!`;
   }
+}
+
+// ================== CERRAR SESIÓN ==================
+async function logout() {
+  try {
+    localStorage.removeItem("profileIcon");
+    await auth.signOut();
+    location.reload();
+  } catch (error) {
+    showToast("Error al cerrar sesión", "fa-exclamation-triangle", "#ff4444");
+  }
+}
+
+// ================== IR AL INICIO ==================
+function goToHome() {
+  window.location.href = REDIRECT_URL;
 }
 
 // ================== TABS ==================
@@ -390,21 +235,21 @@ registerTab.onclick = () => {
 mainBtn.onclick = async () => {
   const emailValue = emailInput.value.trim();
   const passwordValue = passwordInput.value.trim();
-
   if (!emailValue || !passwordValue) {
     showToast("Completa todos los campos", "fa-exclamation-triangle", "#ffcc00");
     return;
   }
-
   try {
     loading.style.display = "block";
     if (isLogin) {
       await auth.signInWithEmailAndPassword(emailValue, passwordValue);
       showToast("Inicio de sesión exitoso", "fa-check-circle", "#46d369");
-      window.location.href = REDIRECT_URL;
+      setTimeout(() => window.location.href = REDIRECT_URL, 800);
     } else {
       const userCredential = await auth.createUserWithEmailAndPassword(emailValue, passwordValue);
-      showProfileNameModal(userCredential.user); // ← Pedimos nombre de perfil
+      showToast("Cuenta creada. Ahora elige tu nombre", "fa-check-circle", "#46d369");
+      // Aquí puedes agregar el modal de nombre si quieres
+      setTimeout(() => window.location.href = REDIRECT_URL, 1200);
     }
   } catch (error) {
     console.error(error);
@@ -428,10 +273,11 @@ document.getElementById("googleBtn").onclick = async () => {
     loading.style.display = "block";
     const provider = new firebase.auth.GoogleAuthProvider();
     const result = await auth.signInWithPopup(provider);
-    showProfileNameModal(result.user); // ← También pedimos nombre de perfil en Google
+    showToast("Inicio con Google exitoso", "fa-check-circle", "#46d369");
+    setTimeout(() => window.location.href = REDIRECT_URL, 800);
   } catch (error) {
     console.error(error);
-    if (error.code === "auth/popup-closed-by-user" || error.code === "auth/cancelled-popup-request") {
+    if (error.code === "auth/popup-closed-by-user") {
       showToast("Has cancelado el inicio con Google", "fa-info-circle", "#888");
     } else {
       showToast("Error con Google: " + error.message, "fa-exclamation-triangle", "#ff4444");
@@ -456,17 +302,21 @@ document.getElementById("forgotPassword").onclick = async () => {
   }
 };
 
-// ================== INICIO AUTOMÁTICO ==================
-auth.onAuthStateChanged((user) => {
+// ================== DETECTAR SI YA ESTÁ LOGUEADO ==================
+auth.onAuthStateChanged(async (user) => {
   if (user) {
-    window.location.href = REDIRECT_URL;
+    // Ya tiene sesión → Mostrar pantalla de bienvenida
+    loginCard.style.display = "none";
+    welcomeScreen.style.display = "block";
+    await loadUserData(user);
+  } else {
+    // No tiene sesión → Mostrar formulario
+    loginCard.style.display = "block";
+    welcomeScreen.style.display = "none";
   }
 });
 
-// Botón de guardar nombre
-document.getElementById("saveProfileBtn").onclick = saveProfileName;
-
-console.log("%c✅ Login page mejorada con toast y nombre de perfil", "color:#46d369;font-weight:bold");
+console.log("%c✅ Login completo con pantalla de bienvenida", "color:#46d369;font-weight:bold");
 </script>
 </body>
 </html>
