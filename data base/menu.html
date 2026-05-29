@@ -6,62 +6,27 @@
     <title>Menú • LzPlay</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <style>
-        * { margin:0; padding:0; box-sizing:border-box; font-family:Arial,sans-serif; }
-        body { background: linear-gradient(180deg, #070b14 0%, #000 100%); color:white; min-height:100vh; }
-        .topbar { padding:22px; display:flex; align-items:center; justify-content:space-between; position:sticky; top:0; z-index:50; background:rgba(0,0,0,.65); backdrop-filter:blur(20px); }
-        .back-btn { width:45px; height:45px; border-radius:50%; border:none; background:rgba(255,255,255,.08); color:white; font-size:18px; cursor:pointer; }
-        .logo { font-size:1.7rem; font-weight:900; letter-spacing:2px; }
-        .profile-box { padding:25px; display:flex; align-items:center; gap:18px; }
-        .avatar { width:90px; height:90px; border-radius:24px; object-fit:cover; border:3px solid rgba(255,255,255,.1); }
-        .user-info h2 { font-size:1.5rem; margin-bottom:6px; }
-        .user-info p { color:#9ca3af; font-size:.95rem; }
-        .menu { padding:20px; display:flex; flex-direction:column; gap:14px; }
-        .menu-item { display:flex; align-items:center; gap:18px; padding:18px; border-radius:24px; background:rgba(255,255,255,.05); text-decoration:none; color:white; transition:.25s ease; border:1px solid rgba(255,255,255,.06); }
-        .menu-item:hover { transform:translateY(-2px); background:rgba(255,255,255,.08); }
-        .menu-icon { width:55px; height:55px; border-radius:18px; display:flex; align-items:center; justify-content:center; font-size:1.3rem; background:rgba(255,255,255,.08); }
-        .menu-content { flex:1; }
-        .menu-title { font-size:1rem; font-weight:700; margin-bottom:4px; }
-        .menu-desc { font-size:.88rem; color:#9ca3af; }
-        .arrow { font-size:1rem; opacity:.6; }
-        .logout { margin-top:20px; background:rgba(255,0,0,.12); border:1px solid rgba(255,0,0,.2); }
-        .logout .menu-icon { background:rgba(255,0,0,.15); color:#ff4d4d; }
+        body { background: linear-gradient(180deg, #070b14 0%, #000 100%); color: white; }
+        .avatar { width: 90px; height: 90px; border-radius: 24px; object-fit: cover; border: 3px solid rgba(255,255,255,.1); }
     </style>
 </head>
 <body>
 
-    <!-- HEADER -->
     <div class="topbar">
-        <button class="back-btn" onclick="history.back()"><i class="fa-solid fa-arrow-left"></i></button>
+        <button onclick="history.back()">←</button>
         <div class="logo">LZPLAY</div>
-        <div style="width:45px;"></div>
     </div>
 
-    <!-- PERFIL -->
     <div class="profile-box">
         <img class="avatar" id="user-avatar" 
              src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg">
-        <div class="user-info">
+        <div>
             <h2 id="username">Cargando...</h2>
-            <p>Cuenta Premium activa</p>
         </div>
     </div>
 
-    <!-- MENU -->
-    <div class="menu">
-        <!-- ... (tus menús normales) ... -->
-        <a href="mylist.html" class="menu-item">...</a>
-        <!-- ... resto de tus menús ... -->
+    <!-- Resto de tu menú aquí -->
 
-        <div class="menu-item logout" onclick="logout()">
-            <div class="menu-icon"><i class="fa-solid fa-right-from-bracket"></i></div>
-            <div class="menu-content">
-                <div class="menu-title">Cerrar sesión</div>
-                <div class="menu-desc">Salir de tu cuenta</div>
-            </div>
-        </div>
-    </div>
-
-    <!-- FIREBASE -->
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
@@ -74,42 +39,37 @@
                 return;
             }
 
-            document.getElementById("username").textContent = user.displayName || "Usuario LzPlay";
+            document.getElementById("username").textContent = user.displayName || "Usuario";
 
-            // === LÓGICA DE CARGA DEL ICONO ===
+            // === CARGA DEL ICONO ===
             try {
                 const docRef = firebase.firestore().collection("users").doc(user.uid);
                 const docSnap = await docRef.get();
 
                 if (docSnap.exists) {
                     const data = docSnap.data();
-                    console.log("Datos completos del documento:", data);
+                    
+                    console.log("=== DATOS COMPLETOS DEL DOCUMENTO ===");
+                    console.log(data);
+                    console.log("=====================================");
 
-                    // Buscamos el campo profileIcon (con diferentes posibles nombres)
-                    let iconUrl = data.profileIcon || data.profileicon || data.avatar || data.photoURL;
+                    // Intentamos obtener el icono de diferentes formas
+                    const iconUrl = data.profileIcon || data.profileicon || data.avatar;
 
                     if (iconUrl) {
                         document.getElementById("user-avatar").src = iconUrl;
                         console.log("✅ Icono cargado correctamente:", iconUrl);
                     } else {
-                        console.warn("⚠️ No se encontró ningún campo de icono en el documento.");
+                        console.warn("⚠️ El campo 'profileIcon' NO existe en este documento.");
+                        console.log("Campos disponibles:", Object.keys(data));
                     }
                 } else {
-                    console.warn("⚠️ El documento del usuario no existe en Firestore.");
+                    console.warn("⚠️ El documento del usuario no existe.");
                 }
             } catch (error) {
-                console.error("❌ Error al cargar el icono:", error);
+                console.error("❌ Error:", error);
             }
         });
-
-        async function logout() {
-            try {
-                await firebase.auth().signOut();
-                window.location.href = "login.html";
-            } catch (error) {
-                console.error("Error al cerrar sesión:", error);
-            }
-        }
     </script>
 </body>
 </html>
