@@ -10,19 +10,18 @@ function renderNavbar(containerId = "main-header") {
        
         <div class="nav-center">
             <a href="https://lzplayhd.online/apple/data%20base/" class="nav-link">Inicio</a>
-            <a href="#" class="nav-link">Tendencias</a>
-            <a href="https://lzplayhd.online/apple/data%20base/data/movie.html" class="nav-link">Películas</a>
+            <a href="https://lzplayhd.online/apple/data%20base/categorias/categorias.html" class="nav-link">Películas</a>
             <a href="https://lzplayhd.online/apple/data%20base/data/serie.html" class="nav-link">Series</a>
            
             <!-- ICONO DE BÚSQUEDA -->
-            <a href="search/search.html" class="search-icon-link" id="searchIcon">
+            <a href="https://lzplayhd.online/apple/data%20base/search/search.html" class="search-icon-link" id="searchIcon">
                 <i class="fas fa-search"></i>
             </a>
         </div>
        
         <div class="icons">
             <!-- ICONO MÓVIL -->
-            <a href="search/search.html" class="icon-btn mobile-search" id="mobileSearchIcon">
+            <a href="https://lzplayhd.online/apple/data%20base/search/search.html" class="icon-btn mobile-search" id="mobileSearchIcon">
                 <i class="fas fa-search"></i>
             </a>
            
@@ -35,7 +34,6 @@ function renderNavbar(containerId = "main-header") {
         </div>
     `;
 
-    // Cargar icono de perfil dinámico
     loadNavbarProfileIcon();
 
     initNavbarEffects(container);
