@@ -1,7 +1,6 @@
 /* =============================================
-   HEADER
+   HEADER - NAVBAR LZPLAY
 ============================================= */
-
 header {
     position: fixed;
     top: 0;
@@ -12,18 +11,13 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: linear-gradient(
-        to bottom,
-        rgba(0,0,0,.75),
-        transparent
-    );
+    background: linear-gradient(to bottom, rgba(0,0,0,.75), transparent);
     transition: background .3s ease;
 }
 
 /* =============================================
    LOGO
 ============================================= */
-
 .logo {
     font-size: 3rem;
     font-weight: 800;
@@ -31,8 +25,7 @@ header {
     color: white;
     text-decoration: none;
     cursor: pointer;
-    transition: color .3s ease,
-                transform .25s ease;
+    transition: color .3s ease, transform .25s ease;
 }
 
 .logo:hover {
@@ -43,7 +36,6 @@ header {
 /* =============================================
    NAV CENTER
 ============================================= */
-
 .nav-center {
     display: flex;
     align-items: center;
@@ -51,16 +43,14 @@ header {
 }
 
 /* =============================================
-   LINKS
+   LINKS (sin líneas abajo)
 ============================================= */
-
 .nav-link {
     color: white;
     text-decoration: none;
     font-size: 1rem;
     opacity: .85;
     transition: all .3s ease;
-    position: relative;
 }
 
 .nav-link:hover {
@@ -68,25 +58,9 @@ header {
     color: #4f7cff;
 }
 
-.nav-link::after {
-    content: "";
-    position: absolute;
-    bottom: -6px;
-    left: 0;
-    width: 0%;
-    height: 2px;
-    background: #4f7cff;
-    transition: width .25s ease;
-}
-
-.nav-link:hover::after {
-    width: 100%;
-}
-
 /* =============================================
    SEARCH BOX
 ============================================= */
-
 .search-box {
     position: relative;
     width: 320px;
@@ -117,8 +91,7 @@ header {
     color: #cfcfcf;
     font-size: 1rem;
     cursor: pointer;
-    transition: color .25s ease,
-                transform .25s ease;
+    transition: color .25s ease, transform .25s ease;
 }
 
 .search-box i:hover,
@@ -142,13 +115,12 @@ header {
 }
 
 /* =============================================
-   ICONS
+   ICONS - MEJOR ORDENADO
 ============================================= */
-
 .icons {
     display: flex;
     align-items: center;
-    gap: 18px;
+    gap: 20px;                    /* Mejor separación */
 }
 
 .icon-btn {
@@ -159,6 +131,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
+    text-decoration: none;        /* Quita posible subrayado */
 }
 
 .icon-btn:hover {
@@ -166,14 +139,14 @@ header {
     transform: scale(1.08);
 }
 
+/* Ocultar iconos móviles en desktop */
 .icons .icon-btn {
     display: none;
 }
 
 /* =============================================
-   USER AVATAR
+   USER AVATAR (Perfil)
 ============================================= */
-
 .user-avatar {
     width: 38px;
     height: 38px;
@@ -182,6 +155,9 @@ header {
     border: 2px solid #4f7cff;
     cursor: pointer;
     transition: all .25s ease;
+    display: flex;                /* Mejor alineación */
+    align-items: center;
+    justify-content: center;
 }
 
 .user-avatar:hover {
@@ -194,12 +170,12 @@ header {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    display: block;
 }
 
 /* =============================================
    SUGGESTIONS
 ============================================= */
-
 .lz-suggestions {
     position: absolute;
     top: calc(100% + 8px);
@@ -262,21 +238,19 @@ header {
 /* =============================================
    RESPONSIVE
 ============================================= */
-
 @media (max-width: 900px) {
-
     header {
         padding: 18px 20px;
     }
-
+    
     .nav-center {
         display: none;
     }
-
+    
     .icons .icon-btn {
         display: flex;
     }
-
+    
     .user-avatar {
         width: 36px;
         height: 36px;
@@ -284,23 +258,19 @@ header {
 }
 
 @media (max-width: 600px) {
-
     .logo {
         font-size: 1.35rem;
     }
 }
 
 /* =============================================
-   ANIMATION
+   ANIMATIONS
 ============================================= */
-
 @keyframes fadeIn {
-
     from {
         opacity: 0;
         transform: translateY(8px);
     }
-
     to {
         opacity: 1;
         transform: translateY(0);
