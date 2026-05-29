@@ -166,85 +166,230 @@ function injectSearchCSS() {
   style.id = "lz-search-css";
 
   style.textContent = `
-    .lz-modal{
-        display:none;
-        position:fixed;
-        inset:0;
-        background:rgba(2,8,23,.95);
-        backdrop-filter:blur(12px);
-        z-index:100000;
-        justify-content:center;
-        align-items:center;
-        padding:20px;
+.lz-modal {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 100000;
+    background: rgba(0,0,0,.78);
+    backdrop-filter: blur(12px);
+    justify-content: center;
+    align-items: flex-start;
+    overflow-y: auto;
+    padding: 80px 16px 20px;
+}
+
+/* CONTENEDOR */
+.lz-modal-content {
+    width: 100%;
+    max-width: 1150px;
+    background: #0b1120;
+    border: 1px solid rgba(255,255,255,.08);
+    border-radius: 24px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    max-height: 92vh;
+    box-shadow: 0 25px 60px rgba(0,0,0,.45);
+    animation: modalShow .22s ease;
+}
+
+/* HEADER */
+.lz-modal-header {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 22px 22px 16px;
+    background: rgba(11,17,32,.95);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(255,255,255,.06);
+}
+
+.lz-modal-header h2 {
+    color: white;
+    margin: 0;
+    font-size: 1.15rem;
+    font-weight: 700;
+}
+
+/* BOTON CERRAR */
+.lz-close-btn {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: rgba(255,255,255,.08);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #d1d5db;
+    font-size: 1.6rem;
+    cursor: pointer;
+    transition: .25s ease;
+}
+
+.lz-close-btn:hover {
+    background: rgba(255,255,255,.15);
+    color: white;
+}
+
+/* INPUT */
+.lz-search-area {
+    padding: 20px 22px;
+}
+
+#modalSearchInput {
+    width: 100%;
+    height: 52px;
+    border-radius: 16px;
+    border: 1px solid rgba(255,255,255,.08);
+    background: #111827;
+    color: white;
+    padding: 0 18px;
+    font-size: .98rem;
+    outline: none;
+    transition: .25s ease;
+}
+
+#modalSearchInput:focus {
+    border-color: #2563eb;
+    box-shadow: 0 0 0 4px rgba(37,99,235,.18);
+}
+
+/* GRID RESPONSIVE REAL */
+.lz-results-grid {
+    display: grid;
+  grid-template-columns: repeat(
+    auto-fill,
+    minmax(125px, 1fr)
+);
+    gap: 14px;
+    padding: 0 22px 24px;
+}
+
+/* CARD */
+.lz-result-card {
+    background: #111827;
+    border-radius: 16px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: .25s ease;
+}
+
+.lz-result-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 14px 35px rgba(0,0,0,.35);
+}
+
+/* POSTER */
+.lz-result-card img {
+    width: 100%;
+    aspect-ratio: 2 / 3;
+    object-fit: cover;
+}
+
+/* INFO */
+.lz-result-info {
+    padding: 10px;
+}
+
+.lz-result-info h4 {
+    color: white;
+    font-size: .88rem;
+    margin: 0;
+    line-height: 1.35;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.lz-result-info small {
+    color: #60a5fa;
+    font-size: .78rem;
+}
+
+/* SIN RESULTADOS */
+.no-results {
+    grid-column: 1/-1;
+    text-align: center;
+    color: #94a3b8;
+    padding: 70px 20px;
+    font-size: .95rem;
+}
+
+/* RESPONSIVE */
+@media (max-width: 900px) {
+    .lz-modal {
+        padding: 60px 12px 12px;
     }
 
-    .lz-modal-content{
-        background:#020817;
-        width:100%;
-        max-width:1100px;
-        max-height:92vh;
-        overflow-y:auto;
-        border-radius:24px;
-        padding:25px;
-        border:2px solid #2563eb;
+    .lz-modal-content {
+        border-radius: 20px;
     }
 
-    .lz-modal-header{
-        display:flex;
-        justify-content:space-between;
-        align-items:center;
-        margin-bottom:20px;
-    }
-
-    .lz-close-btn{
-        font-size:40px;
-        cursor:pointer;
-        color:#94a3b8;
-    }
-
-    .lz-results-grid{
-        display:grid;
+    .lz-results-grid {
         grid-template-columns:
-            repeat(auto-fill,minmax(190px,1fr));
-        gap:22px;
+            repeat(auto-fill, minmax(110px, 1fr));
+        gap: 12px;
+        padding: 0 16px 20px;
     }
 
-    .lz-result-card{
-        background:#111827;
-        border-radius:18px;
-        overflow:hidden;
-        cursor:pointer;
-        transition:.3s;
+    .lz-search-area {
+        padding: 16px;
     }
 
-    .lz-result-card:hover{
-        transform:scale(1.05);
+    .lz-modal-header {
+        padding: 18px 16px 14px;
+    }
+}
+
+@media (max-width: 600px) {
+
+    .lz-modal {
+        padding: 0;
+        align-items: flex-end;
     }
 
-    .lz-result-card img{
-        width:100%;
-        height:290px;
-        object-fit:cover;
+    .lz-modal-content {
+        max-width: 100%;
+        height: 92vh;
+        border-radius: 24px 24px 0 0;
     }
 
-    .lz-result-info{
-        padding:14px;
+    .lz-results-grid {
+    grid-template-columns:
+        repeat(auto-fill, minmax(90px, 1fr));
+    gap: 10px;
+}
+
+    .lz-result-info h4 {
+        font-size: .80rem;
     }
 
-    .lz-result-info h4{
-        color:white;
-        margin:0;
+    .lz-result-info small {
+        font-size: .72rem;
     }
 
-    .lz-result-info small{
-        color:#60a5fa;
+    #modalSearchInput {
+        height: 48px;
+        border-radius: 14px;
+        font-size: .92rem;
     }
+}
 
-    .no-results{
-        text-align:center;
-        padding:60px;
-        color:#64748b;
+@keyframes modalShow {
+    from {
+        opacity: 0;
+        transform: translateY(16px);
     }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
   `;
 
   document.head.appendChild(style);
@@ -262,9 +407,9 @@ function injectModal() {
       <div class="lz-modal-content">
 
         <div class="lz-modal-header">
-            <h2 style="color:white">
-                Buscar en LzPlay
-            </h2>
+           <h2 id="resultsTitle">
+    Resultados de búsqueda
+</h2>
 
             <span
                 class="lz-close-btn"
@@ -273,21 +418,13 @@ function injectModal() {
             </span>
         </div>
 
-        <input
-          id="modalSearchInput"
-          type="text"
-          placeholder="Buscar películas o series..."
-          style="
-            width:100%;
-            padding:15px 20px;
-            border-radius:50px;
-            border:1px solid #2563eb;
-            background:#111827;
-            color:white;
-            margin-bottom:25px;
-          "
-        >
-
+      <div class="lz-search-area">
+<input
+    id="modalSearchInput"
+    type="text"
+    placeholder="Buscar películas o series..."
+>
+</div>
         <div
             id="lz-resultsGrid"
             class="lz-results-grid">
@@ -348,7 +485,11 @@ function renderModalResults(query) {
       <div class="lz-result-card"
            onclick="window.openContent('${item.url}')">
 
-          <img src="${item.poster}">
+          <img 
+  src="${item.poster || 'https://via.placeholder.com/300x450/111827/ffffff?text=LZPLAY'}"
+  loading="lazy"
+  alt="${item.titulo}"
+>
 
           <div class="lz-result-info">
               <h4>${item.titulo}</h4>
@@ -361,28 +502,36 @@ function renderModalResults(query) {
 }
 
 // ==================== OPEN MODAL ====================
-window.openSearchModal = function (
-  query = ""
-) {
-  const modal =
-    document.getElementById(
-      "lz-searchModal"
-    );
+window.openSearchModal = function(query = "") {
 
-  const input =
-    document.getElementById(
-      "modalSearchInput"
-    );
+    const modal =
+        document.getElementById(
+            "lz-searchModal"
+        );
 
-  modal.style.display = "flex";
+    const input =
+        document.getElementById(
+            "modalSearchInput"
+        );
 
-  input.value = query;
+    const title =
+        document.getElementById(
+            "resultsTitle"
+        );
 
-  renderModalResults(query);
+    modal.style.display = "flex";
 
-  setTimeout(() => {
-    input.focus();
-  }, 50);
+    input.value = query;
+
+    title.textContent = query
+        ? `Resultados de: "${query}"`
+        : "Buscar contenido";
+
+    renderModalResults(query);
+
+    setTimeout(() => {
+        input.focus();
+    }, 80);
 };
 
 // ==================== OPEN CONTENT ====================
@@ -457,15 +606,27 @@ async function initSearch() {
     }
   );
 
-  // BUSCAR EN MODAL
-  modalInput?.addEventListener(
-    "input",
-    () => {
-      renderModalResults(
-        modalInput.value.trim()
+  
+ // BUSCAR EN MODAL
+modalInput?.addEventListener(
+  "input",
+  () => {
+
+    const query =
+      modalInput.value.trim();
+
+    const title =
+      document.getElementById(
+        "resultsTitle"
       );
-    }
-  );
+
+    title.textContent = query
+      ? `Resultados de: "${query}"`
+      : "Buscar contenido";
+
+    renderModalResults(query);
+  }
+);
 
   // ENTER MODAL
   modalInput?.addEventListener(
