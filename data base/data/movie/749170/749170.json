@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 749170,
+  "poster": "https://image.tmdb.org/t/p/w500/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vJbEUMeI2AxBUZKjP6ZVeVNNTLh.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/2VLbTs11eF3Ecw7coArU1oEGj1G.png",
+  "titulo": "Jefes de Estado",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.812,
+  "año": "2025",
+  "duracion": "1h 57min",
+  "edad_minima": 13,
+  "sinopsis": "El Primer Ministro del Reino Unido (Idris Elba) y el Presidente de los Estados Unidos (John Cena) mantienen una rivalidad pública que pone en peligro la alianza de sus países. Pero cuando se convierten en objetivos de un poderoso enemigo, se ven obligados a confiar el uno en el otro mientras emprenden una alocada carrera multinacional. Aliados con Noel, una brillante agente del MI6 (Priyanka Chopra Jonas), deben encontrar la forma de frustrar una conspiración que amenaza al mundo libre.",
+  "fecha_estreno": "2025-06-24",
+  "titulo_original": "Heads of State",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "John Cena",
+      "personaje": "Will Derringer",
+      "foto": "https://image.tmdb.org/t/p/w500/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+    },
+    {
+      "nombre": "Idris Elba",
+      "personaje": "Sam Clarke",
+      "foto": "https://image.tmdb.org/t/p/w500/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "nombre": "Priyanka Chopra Jonas",
+      "personaje": "Noel Bisset",
+      "foto": "https://image.tmdb.org/t/p/w500/9n2n3fUFI553HKH0CEAb2TPLtCx.jpg"
+    },
+    {
+      "nombre": "Paddy Considine",
+      "personaje": "Viktor Gradov",
+      "foto": "https://image.tmdb.org/t/p/w500/uIKOm4w2wtUegxratSHj2KPFF7i.jpg"
+    },
+    {
+      "nombre": "Carla Gugino",
+      "personaje": "VP Elizabeth Kirk",
+      "foto": "https://image.tmdb.org/t/p/w500/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
+    },
+    {
+      "nombre": "Stephen Root",
+      "personaje": "Arthur Hammond",
+      "foto": "https://image.tmdb.org/t/p/w500/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+    },
+    {
+      "nombre": "Jack Quaid",
+      "personaje": "Marty Comer",
+      "foto": "https://image.tmdb.org/t/p/w500/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+    },
+    {
+      "nombre": "Sarah Niles",
+      "personaje": "Simone Bradshaw",
+      "foto": "https://image.tmdb.org/t/p/w500/ySelhnmCCX9VnlPvceO9c5XOelK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Илья Найшуллер",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Peter Safran",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Rickard",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Harrison Query",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Josh Appelbaum",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "André Nemec",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Harrison Query",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tom Harrison-Read",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John Cena",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Idris Elba",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marcus Viscidi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Oleg Podobin",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Ben Davis",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Matthew Bell",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Aidan Brindle",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Doren John Farmer",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Julian Morson",
+      "rol": "\"A\" Camera Operator"
+    },
+    {
+      "nombre": "Julian Morson",
+      "rol": "Steadicam Operator"
+    },
+    {
+      "nombre": "Chiabella James",
+      "rol": "Still Photographer"
+    }
+  ],
+  "director": "Илья Найшуллер",
+  "valoraciones": {
+    "tmdb": 6.812,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Safran Company",
+  "enlace_video": "https://rumble.com/hls-vod/6ttqxo/playlist.m3u8?key=HbScqmEPemlECOMYj3qykXpeFq2KSQri8l-NesJPPsI2RKBdeGHBPA&u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=f70LlXPC7VI"
+}
