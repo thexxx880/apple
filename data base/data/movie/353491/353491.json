@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 353491,
+  "poster": "https://image.tmdb.org/t/p/w500/eVTlk5O6simP30vTd3sA1BNQZgV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pVVobDO8cezhVPvwD6EBUN0g3mt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/w6qLm3uHpWrEb5OW7WuK1KwFDLv.png",
+  "titulo": "La Torre Oscura",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.792,
+  "año": "2017",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "El último Gunslinger, Roland Deschain, ha estado encerrado en una eterna batalla con Walter O'Dim, también conocido como el Hombre de Negro, decidido a evitar que derribe a la Torre Oscura, que mantiene unido al universo. Con el destino de los mundos en juego, el bien y el mal colisionarán en la última batalla ya que solo Roland puede defender la Torre del Hombre de Negro.",
+  "fecha_estreno": "2017-08-03",
+  "titulo_original": "The Dark Tower",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Idris Elba",
+      "personaje": "Roland Deschain",
+      "foto": "https://image.tmdb.org/t/p/w500/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "nombre": "Matthew McConaughey",
+      "personaje": "Walter O’Dim",
+      "foto": "https://image.tmdb.org/t/p/w500/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+      "nombre": "Tom Taylor",
+      "personaje": "Jake Chambers",
+      "foto": "https://image.tmdb.org/t/p/w500/pEDSmASONpB9FKLgb354fVpHBm3.jpg"
+    },
+    {
+      "nombre": "수현",
+      "personaje": "Arra Champignon",
+      "foto": "https://image.tmdb.org/t/p/w500/kLADYH3QpmFM6TEP2tZaGSVx1yi.jpg"
+    },
+    {
+      "nombre": "Fran Kranz",
+      "personaje": "Pimli Prentiss",
+      "foto": "https://image.tmdb.org/t/p/w500/hBg88mL38BxMpSjtMjSAz2NnDKg.jpg"
+    },
+    {
+      "nombre": "Abbey Lee",
+      "personaje": "Tirana",
+      "foto": "https://image.tmdb.org/t/p/w500/y4ZIuFjtglTjSLxhGTkzsCPFMQZ.jpg"
+    },
+    {
+      "nombre": "Jackie Earle Haley",
+      "personaje": "Richard Sayre",
+      "foto": "https://image.tmdb.org/t/p/w500/xDPeiyklN8f9Ilowsti4lGVbioj.jpg"
+    },
+    {
+      "nombre": "Katheryn Winnick",
+      "personaje": "Laurie Chambers",
+      "foto": "https://image.tmdb.org/t/p/w500/vQSqH3ybDWZHZIqX4NZKhOCXAhQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Nikolaj Arcel",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Nikolaj Arcel",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Akiva Goldsman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Anders Thomas Jensen",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jeff Pinkner",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ron Howard",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Akiva Goldsman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Erica Huggins",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jason Collins",
+      "rol": "Makeup Effects Designer"
+    },
+    {
+      "nombre": "Shayne Hartigan",
+      "rol": "Extras Casting"
+    },
+    {
+      "nombre": "Anshad Abu",
+      "rol": "VFX Lighting Artist"
+    },
+    {
+      "nombre": "Leonardo Ledesma",
+      "rol": "VFX Lighting Artist"
+    },
+    {
+      "nombre": "Natalia Valbuena",
+      "rol": "VFX Lighting Artist"
+    },
+    {
+      "nombre": "Tim Crowson",
+      "rol": "VFX Lighting Artist"
+    },
+    {
+      "nombre": "Aby John Ettonnil",
+      "rol": "VFX Lighting Artist"
+    },
+    {
+      "nombre": "Liz Feldstein",
+      "rol": "VFX Lighting Artist"
+    },
+    {
+      "nombre": "Patrick O'Connor",
+      "rol": "VFX Lighting Artist"
+    },
+    {
+      "nombre": "Yoann Schmid",
+      "rol": "VFX Lighting Artist"
+    },
+    {
+      "nombre": "Clifford Otomi Green",
+      "rol": "VFX Lighting Artist"
+    },
+    {
+      "nombre": "Aeryn Gray",
+      "rol": "Matte Painter"
+    }
+  ],
+  "director": "Nikolaj Arcel",
+  "valoraciones": {
+    "tmdb": 5.792,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/9/q/y/7/9qy7o.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=wZC5FoJ-cPU"
+}
