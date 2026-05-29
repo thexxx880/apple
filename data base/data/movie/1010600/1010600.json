@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 1010600,
+  "poster": "https://image.tmdb.org/t/p/w500/za4jDcPQ5IV4p27UGcC5uEgsNGG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/59AJ2w9tKRSbBpnxKfB5UyIg6Jf.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/zCHjNidpakOEcFjZtSnGUpTVwLB.png",
+  "titulo": "Los Extraños Capítulo 1",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.694,
+  "año": "2024",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Durante una parada en un viaje por carretera, en una remota casa de alquiler en el bosque, una joven pareja se convierte en la presa de una misteriosa banda de tres extraños enmascarados que atacan sin previo aviso ni motivo.",
+  "fecha_estreno": "2024-05-15",
+  "titulo_original": "The Strangers: Chapter 1",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Madelaine Petsch",
+      "personaje": "Maya",
+      "foto": "https://image.tmdb.org/t/p/w500/mfZo30YgMx7vhAUajM8OG6I6VM8.jpg"
+    },
+    {
+      "nombre": "Froy Gutierrez",
+      "personaje": "Ryan",
+      "foto": "https://image.tmdb.org/t/p/w500/8sCm6Jl8jDUwRBin6k7CIFIm0yg.jpg"
+    },
+    {
+      "nombre": "Gabriel Basso",
+      "personaje": "Gregory",
+      "foto": "https://image.tmdb.org/t/p/w500/6jHYQf6Y37BEouavp03WWpWpFyR.jpg"
+    },
+    {
+      "nombre": "Ema Horvath",
+      "personaje": "Shelly",
+      "foto": "https://image.tmdb.org/t/p/w500/4YindT5cKhekpAilc6q0scQeUQx.jpg"
+    },
+    {
+      "nombre": "Ella Bruccoleri",
+      "personaje": "Jasmine",
+      "foto": "https://image.tmdb.org/t/p/w500/vAP4LZ6ZMwtjsZtkhymND1HJ0xI.jpg"
+    },
+    {
+      "nombre": "Richard Brake",
+      "personaje": "Sheriff Rotter",
+      "foto": "https://image.tmdb.org/t/p/w500/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
+    },
+    {
+      "nombre": "Brooke Lena Johnson",
+      "personaje": "911 Operator / Nurse Danica",
+      "foto": "https://image.tmdb.org/t/p/w500/gcidhYtCeH19FdpMjbVgjvBhbtA.jpg"
+    },
+    {
+      "nombre": "Rafaella Biscayn-Debest",
+      "personaje": "Eden",
+      "foto": "https://image.tmdb.org/t/p/w500/1M3PUG0kwBTPjSRhxBNCSroi3VT.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Renny Harlin",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark Canton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Milburn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Courtney Solomon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gary Raskin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alan Freedland",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bryan Bertino",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Alan R. Cohen",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Madelaine Petsch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Simon Haupt",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Rafaella Biscayn-Debest",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dorothy Canton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Roy Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrei Boncea",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bryan Bertino",
+      "rol": "Original Film Writer"
+    },
+    {
+      "nombre": "Matt Curtis",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "Michelle Harrison",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Olivia Kreutzová",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Ben Burrell",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Michal Veselý",
+      "rol": "Stunt Double"
+    }
+  ],
+  "director": "Renny Harlin",
+  "valoraciones": {
+    "tmdb": 5.694,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fifth Element Productions",
+  "enlace_video": "https://1a-1791.com/video/s8/2/A/U/h/e/AUhes.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=3pZUQmZdOi4"
+}
