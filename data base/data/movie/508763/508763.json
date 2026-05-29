@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 508763,
+  "poster": "https://image.tmdb.org/t/p/w500/eLkMb4AT31jABolXiEo3E7qeTKy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/w7MsyOpP003FYhsiTgVHa3rNsrz.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/paEDq9mSUIve1inHpFalKjYECcL.png",
+  "titulo": "Mis Huellas a Casa",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Aventura",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.4,
+  "año": "2019",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Mis Huellas a Casa narra las tiernas aventuras de Bella, una cachorrita que se embarca en una aventura para regresar a casa después de ser separada de su amado humano.",
+  "fecha_estreno": "2019-01-10",
+  "titulo_original": "A Dog's Way Home",
+  "pais_origen": "China",
+  "reparto": [
+    {
+      "nombre": "Bryce Dallas Howard",
+      "personaje": "Bella (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg"
+    },
+    {
+      "nombre": "Jonah Hauer-King",
+      "personaje": "Lucas",
+      "foto": "https://image.tmdb.org/t/p/w500/yXGsk9UtOV9tprU5ZSuhwdFtaBB.jpg"
+    },
+    {
+      "nombre": "Alexandra Shipp",
+      "personaje": "Olivia",
+      "foto": "https://image.tmdb.org/t/p/w500/v1OqFPLrp25B6ZzerTRJQK8xHED.jpg"
+    },
+    {
+      "nombre": "Ashley Judd",
+      "personaje": "Terri",
+      "foto": "https://image.tmdb.org/t/p/w500/5771ZxVIs5rQbI1SV8TOlAFcF15.jpg"
+    },
+    {
+      "nombre": "Edward James Olmos",
+      "personaje": "Axel",
+      "foto": "https://image.tmdb.org/t/p/w500/mXnilUrQBIMLHSQkPjQk99mX70x.jpg"
+    },
+    {
+      "nombre": "Wes Studi",
+      "personaje": "Captain Mica",
+      "foto": "https://image.tmdb.org/t/p/w500/28vlZlyIVR4B1p5knjbzj4CtNPE.jpg"
+    },
+    {
+      "nombre": "Chris Bauer",
+      "personaje": "Kurch",
+      "foto": "https://image.tmdb.org/t/p/w500/1AjdNxbVmy6azlOxIfnCX5OruEA.jpg"
+    },
+    {
+      "nombre": "Barry Watson",
+      "personaje": "Gavin",
+      "foto": "https://image.tmdb.org/t/p/w500/PjjFRCn8s8tgjO9nWmVlBVzpha.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Charles Martin Smith",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Gavin Polone",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "W. Bruce Cameron",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cathryn Michon",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "W. Bruce Cameron",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Owen Walstrom",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Matteo Veglia",
+      "rol": "VFX Production Coordinator"
+    },
+    {
+      "nombre": "Debra Neil-Fisher",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "David S. Clark",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sabrina Plisco",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Monique Prudhomme",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Derrick Williams",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mychael Danna",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Eric Fraser",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mike Crestejo",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Peter Menzies Jr.",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "W. Bruce Cameron",
+      "rol": "Book"
+    }
+  ],
+  "director": "Charles Martin Smith",
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Bona Film Group",
+  "enlace_video": "https://rumble.com/hls-vod/6qxxxt/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=CRhSIUFFRgU"
+}
