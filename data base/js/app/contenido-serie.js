@@ -188,8 +188,19 @@ async function loadSeasonEpisodes(seriesId, seasonNumber) {
     try {
         const res = await fetch(url);
         if (!res.ok) throw new Error("Sin episodios");
-        const seasonData = await res.json();
-        renderEpisodes(seasonData.episodes || [], seasonNumber);
+        
+        const seasonData = await res.json(); // Nuevo formato: { "1": "url", "2": "url", ... }
+
+        // Convertir objeto a array de episodios
+        const episodes = Object.keys(seasonData)
+            .map(key => ({
+                episode_number: parseInt(key),
+                video_url: seasonData[key]
+            }))
+            .sort((a, b) => a.episode_number - b.episode_number);
+
+        renderEpisodes(episodes, seasonNumber);
+
     } catch (e) {
         container.innerHTML = `
             <div style="padding:40px; text-align:center; color:#ff6b6b;">
@@ -209,18 +220,20 @@ function renderEpisodes(episodes, seasonNumber) {
         return;
     }
 
+    // Usar el backdrop de la serie como thumbnail para todos los episodios
+    const thumbnail = currentSeriesData?.backdrop || 'https://picsum.photos/id/1015/600/340';
+
     episodes.forEach(ep => {
         const card = document.createElement('div');
         card.className = 'episode-card';
         card.innerHTML = `
-            <div class="episode-thumbnail" style="background-image: url('${ep.thumbnail || currentSeriesData?.backdrop || 'https://picsum.photos/id/1015/600/340'}')">
+            <div class="episode-thumbnail" style="background-image: url('${thumbnail}')">
                 <div class="episode-number">E${ep.episode_number}</div>
-                <div class="episode-duration">${ep.duracion || '45 min'}</div>
+                <div class="episode-duration">45 min</div>
             </div>
             <div class="episode-info">
-                <div class="episode-title">${ep.titulo || `Episodio ${ep.episode_number}`}</div>
-                <div class="episode-sinopsis">${ep.sinopsis || 'Sin descripción.'}</div>
-                <button class="episode-play-btn" data-video="${ep.video_url || ''}">
+                <div class="episode-title">Episodio ${ep.episode_number}</div>
+                <button class="episode-play-btn" data-video="${ep.video_url}">
                     <i class="fa-solid fa-play"></i> 
                     <span>Reproducir episodio</span>
                 </button>
@@ -235,7 +248,7 @@ function renderEpisodes(episodes, seasonNumber) {
             }
             currentEpisodeData = {
                 video: ep.video_url,
-                poster: ep.thumbnail || currentSeriesData?.backdrop || '',
+                poster: thumbnail,
                 title: encodeURIComponent(`${currentSeriesData.titulo} - T${seasonNumber}E${ep.episode_number}`)
             };
             document.getElementById('playerModal').style.display = 'flex';
