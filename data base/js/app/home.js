@@ -1,17 +1,15 @@
-// =============================================
-// HOME.JS - Lógica de la página de inicio + Vistas con Firebase
-// =============================================
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-app.js";
 import { getAnalytics } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-analytics.js";
-import { 
-  getFirestore, 
-  collection, 
-  doc, 
-  getDocs, 
-  setDoc, 
-  increment, 
-  serverTimestamp 
+import {
+  getFirestore,
+  collection,
+  doc,
+  getDocs,
+  getDoc,           // ← AÑADIDO
+  setDoc,
+  increment,
+  serverTimestamp
 } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-firestore.js";
 
 // ================== CONFIGURACIÓN FIREBASE ==================
@@ -47,10 +45,7 @@ async function fetchMovieById(id) {
     const url = `https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/${id}/${id}.json`;
     const res = await fetch(url);
     if (!res.ok) return null;
-
     const data = await res.json();
-
-    // Normalización de campos
     data.id = data.id_tmdb || id;
     data.anio = data.año || data.anio || "----";
     data.calificacion = data.puntuacion || data.calificacion || "N/A";
@@ -61,7 +56,7 @@ async function fetchMovieById(id) {
   }
 }
 
-// ================== FUNCIONES DE VISTAS (FIRESTORE) ==================
+// ================== FUNCIONES DE VISTAS (FIRESTORE) - MODULAR ==================
 async function incrementMovieViews(movieId) {
   try {
     const ref = doc(db, "movieViews", movieId);
@@ -127,135 +122,102 @@ async function loadRandomHero() {
   }
 }
 
-// ================== CARGAR PELÍCULAS ORDENADAS POR VISTAS ==================
+// ================== CARGAR PELÍCULAS ORDENADAS POR VISTAS (CORREGIDO) ==================
 async function loadMoviesSection() {
-    const container = document.getElementById("movies-grid");
-    if (!container) return;
+  const container = document.getElementById("movies-grid");
+  if (!container) return;
 
-    container.innerHTML = `
-        <p style="color:#888; padding:40px 20px; font-size:0.95rem;">
-            Cargando películas...
-        </p>
-    `;
+  container.innerHTML = `
+    <p style="color:#888; padding:40px 20px; font-size:0.95rem;">
+      Cargando películas...
+    </p>
+  `;
 
-    try {
-        const ids = await getAllMovieIds();
-
-        if (ids.length === 0) {
-            container.innerHTML = `
-                <p style="color:#ff6b6b; padding:30px 20px;">
-                    No se encontraron películas.
-                </p>
-            `;
-            return;
-        }
-
-        // ===============================
-        // OBTENER PELÍCULAS + VISTAS
-        // ===============================
-        const movies = await Promise.all(
-            ids.map(async (id) => {
-                try {
-                    const movie = await fetchMovieById(id);
-                    if (!movie) return null;
-
-                    // Obtener vistas desde Firestore
-                    let views = 0;
-
-                    try {
-                        const docRef = db.collection("views").doc(String(movie.id));
-                        const docSnap = await docRef.get();
-
-                        if (docSnap.exists) {
-                            views = docSnap.data().views || 0;
-                        }
-                    } catch (firestoreError) {
-                        console.warn(`Error obteniendo vistas de ${id}:`, firestoreError);
-                    }
-
-                    return {
-                        ...movie,
-                        views
-                    };
-
-                } catch (error) {
-                    console.error(`Error cargando ${id}:`, error);
-                    return null;
-                }
-            })
-        );
-
-        // Filtrar nulos
-        const validMovies = movies.filter(Boolean);
-
-        if (validMovies.length === 0) {
-            container.innerHTML = `
-                <p style="color:#ff6b6b; padding:30px 20px;">
-                    No se encontraron películas.
-                </p>
-            `;
-            return;
-        }
-
-        // ===============================
-        // ORDENAR POR MÁS VISTAS
-        // ===============================
-        validMovies.sort((a, b) => b.views - a.views);
-
-        // Tomar top 10
-        const topMovies = validMovies.slice(0, 10);
-
-        container.innerHTML = "";
-
-        topMovies.forEach(movie => {
-            const card = document.createElement("div");
-            card.className = "movie-card";
-
-            const ratingHTML = window.createRatingCircle
-                ? window.createRatingCircle(movie.calificacion || 0)
-                : `<span>${movie.calificacion || 0}</span>`;
-
-            card.innerHTML = `
-                <img src="${movie.poster || 'assets/posters/placeholder.jpg'}" alt="${movie.titulo}">
-                <div class="movie-rating">${ratingHTML}</div>
-                <div class="movie-overlay"></div>
-            `;
-
-            card.addEventListener("click", () => {
-                if (movie.id) {
-                    window.location.href = `contenido.html?id=${movie.id}`;
-                }
-            });
-
-            container.appendChild(card);
-        });
-
-        console.log("🔥 Top películas por vistas:", topMovies);
-
-    } catch (error) {
-        console.error("Error cargando películas:", error);
-
-        container.innerHTML = `
-            <p style="color:#ff6b6b; padding:30px 20px;">
-                ❌ Error al cargar las películas.
-            </p>
-        `;
+  try {
+    const ids = await getAllMovieIds();
+    if (ids.length === 0) {
+      container.innerHTML = `<p style="color:#ff6b6b; padding:30px 20px;">No se encontraron películas.</p>`;
+      return;
     }
+
+    // 1. Obtener todas las películas
+    const movies = await Promise.all(
+      ids.map(async (id) => {
+        try {
+          const movie = await fetchMovieById(id);
+          return movie || null;
+        } catch (error) {
+          console.error(`Error cargando ${id}:`, error);
+          return null;
+        }
+      })
+    );
+
+    const validMovies = movies.filter(Boolean);
+    if (validMovies.length === 0) {
+      container.innerHTML = `<p style="color:#ff6b6b; padding:30px 20px;">No se encontraron películas.</p>`;
+      return;
+    }
+
+    // 2. Obtener mapa de vistas UNA SOLA VEZ (mucho más eficiente)
+    const viewsMap = await getMovieViewsMap();
+
+    // 3. Agregar vistas a cada película
+    const moviesWithViews = validMovies.map(movie => ({
+      ...movie,
+      views: viewsMap[movie.id] || 0
+    }));
+
+    // 4. Ordenar por más vistas
+    moviesWithViews.sort((a, b) => b.views - a.views);
+    const topMovies = moviesWithViews.slice(0, 10);
+
+    // 5. Renderizar
+    container.innerHTML = "";
+    topMovies.forEach(movie => {
+      const card = document.createElement("div");
+      card.className = "movie-card";
+
+      const ratingHTML = window.createRatingCircle
+        ? window.createRatingCircle(movie.calificacion || 0)
+        : `<span>${movie.calificacion || 0}</span>`;
+
+      card.innerHTML = `
+        <img src="${movie.poster || 'assets/posters/placeholder.jpg'}" alt="${movie.titulo}">
+        <div class="movie-rating">${ratingHTML}</div>
+        <div class="movie-overlay"></div>
+      `;
+
+      card.addEventListener("click", () => {
+        if (movie.id) {
+          window.location.href = `contenido.html?id=${movie.id}`;
+        }
+      });
+
+      container.appendChild(card);
+    });
+
+    console.log("🔥 Top películas por vistas:", topMovies);
+
+  } catch (error) {
+    console.error("Error cargando películas:", error);
+    container.innerHTML = `
+      <p style="color:#ff6b6b; padding:30px 20px;">
+        ❌ Error al cargar las películas.
+      </p>
+    `;
+  }
 }
+
 // ================== INICIO DE LA PÁGINA ==================
 document.addEventListener("DOMContentLoaded", async () => {
-  // Iniciar loader si existe
-  if (typeof initLoader === "function") {
-    initLoader();
-  }
+  if (typeof initLoader === "function") initLoader();
 
-  // Cargar contenido
   await Promise.all([
     loadRandomHero(),
     loadMoviesSection()
   ]);
 
-  // Ocultar loader
   if (typeof hideLoader === "function") {
     hideLoader();
   } else {
@@ -263,5 +225,5 @@ document.addEventListener("DOMContentLoaded", async () => {
     if (loader) loader.style.display = 'none';
   }
 
-  console.log("✅ home.js cargado correctamente - Películas ordenadas por vistas");
+  console.log("✅ home.js cargado correctamente - Películas ordenadas por vistas (versión corregida)");
 });
