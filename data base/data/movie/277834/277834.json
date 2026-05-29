@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 277834,
+  "poster": "https://image.tmdb.org/t/p/w500/hw4FlDdufQuLIsYiqBYIL0Bxn26.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iYLKMV7PIBtFmtygRrhSiyzcVsF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/2oz43DmZK7543tdIJfme1a7DgeI.png",
+  "titulo": "Moana: Un mar de aventuras",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Familia",
+    "Animación"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.565,
+  "año": "2016",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "En la antigua Polinesia, cuando una terrible maldición del semidiós Maui llega a la isla de Moana, ella responde al llamado del océano para buscar al semidiós y arreglar las cosas.",
+  "fecha_estreno": "2016-10-13",
+  "titulo_original": "Moana",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Auliʻi Cravalho",
+      "personaje": "Moana (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vEroqcnM2g6yY7qXDAie7hx2Cyp.jpg"
+    },
+    {
+      "nombre": "Dwayne Johnson",
+      "personaje": "Maui (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+    },
+    {
+      "nombre": "Rachel House",
+      "personaje": "Gramma Tala (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2LCQF7Bn0I91o17GGkox0ZhhbE7.jpg"
+    },
+    {
+      "nombre": "Temuera Morrison",
+      "personaje": "Chief Tui (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AvtSC0f9QW7fMyFFNXEWDeQyfUk.jpg"
+    },
+    {
+      "nombre": "Jemaine Clement",
+      "personaje": "Tamatoa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+    },
+    {
+      "nombre": "Nicole Scherzinger",
+      "personaje": "Sina (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kKG7zJvVReTipBYDD3aqHj4uPBe.jpg"
+    },
+    {
+      "nombre": "Alan Tudyk",
+      "personaje": "Heihei / Villager #3 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+    },
+    {
+      "nombre": "Louise Bush",
+      "personaje": "Toddler Moana (voice)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Osnat Shurer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jared Bush",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ron Clements",
+      "rol": "Story"
+    },
+    {
+      "nombre": "John Musker",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Chris Williams",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Don Hall",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Pamela Ribon",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Aaron Kandell",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Olivia Foa'i",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David G. Derrick Jr.",
+      "rol": "Story Artist"
+    },
+    {
+      "nombre": "Mark Mancina",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Hyrum Virl Osmond",
+      "rol": "Head of Animation"
+    },
+    {
+      "nombre": "Jeff Draheim",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jamie Sparer Roberts",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ian Gooding",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Adam Green",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Jennifer Hager",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Mack Kablan",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Daniel Klug",
+      "rol": "Animation Supervisor"
+    }
+  ],
+  "director": "John Musker",
+  "valoraciones": {
+    "tmdb": 7.565,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Animation Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/3/b/X/C/3bXCm.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=tmpTGztGJ8E"
+}
