@@ -1,0 +1,133 @@
+{
+  "id_tmdb": 273240,
+  "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/pI4sEVVbswtyOL2uaFxZs2tPOnQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/fcCwj0sW4artvtetHzZnmJbwM7s.png",
+  "titulo": "Off Campus",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Romance",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.7,
+  "año": "2023",
+  "duracion": "1h 56min",
+  "edad_minima": 13,
+  "sinopsis": "Noah debe dejar su ciudad, novio y amigos para mudarse a la mansión del nuevo marido de su madre. Allí conoce a su nuevo hermanastro Nick y sus personalidades chocan desde el primer momento. Pero la atracción que sienten les llevará a vivir una relación prohibida, donde el carácter rebelde y atormentado de cada uno de ellos pondrá del revés sus mundos haciendo que acaben perdidamente enamorados. Adaptación del primer libro de la trilogía \"Culpables\" de Mercedes Ron.",
+  "fecha_estreno": "2023-06-08",
+  "titulo_original": "Culpa mía",
+  "pais_origen": "Spain",
+  "reparto": [
+    {
+      "nombre": "Nicole Wallace",
+      "personaje": "Noah Morán",
+      "foto": "https://image.tmdb.org/t/p/w500/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg"
+    },
+    {
+      "nombre": "Gabriel Guevara",
+      "personaje": "Nick Leister",
+      "foto": "https://image.tmdb.org/t/p/w500/pviRYKEEmoPUfLYwP1VHJ6LQcRg.jpg"
+    },
+    {
+      "nombre": "Marta Hazas",
+      "personaje": "Rafaella Leister",
+      "foto": "https://image.tmdb.org/t/p/w500/1dbeTFRCbWBt70dIGjYHKVLnpaG.jpg"
+    },
+    {
+      "nombre": "Iván Sánchez",
+      "personaje": "William Leister",
+      "foto": "https://image.tmdb.org/t/p/w500/woVz8D7t1VUKjFJnsTAdc8tyz5C.jpg"
+    },
+    {
+      "nombre": "Eva Ruiz",
+      "personaje": "Jenna",
+      "foto": "https://image.tmdb.org/t/p/w500/bcu0nmQvhxwTzh4csc4kuxJsQee.jpg"
+    },
+    {
+      "nombre": "Víctor Varona",
+      "personaje": "Lion",
+      "foto": "https://image.tmdb.org/t/p/w500/lcwFAjHjhJXkxf59TXGSjGGOlLj.jpg"
+    },
+    {
+      "nombre": "Fran Berenguer",
+      "personaje": "Ronnie",
+      "foto": "https://image.tmdb.org/t/p/w500/uYi3MOwqtNdfZt82DdvzKCZku50.jpg"
+    },
+    {
+      "nombre": "Adriana Ubani",
+      "personaje": "Anna",
+      "foto": "https://image.tmdb.org/t/p/w500/7TlpwffkqeTu1mQNZW3OG0IdTFm.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Domingo González",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Domingo González",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joana Ginart",
+      "rol": "Props"
+    },
+    {
+      "nombre": "Gonzalo Fernández de la Vega",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Víctor Garoz Ruiz",
+      "rol": "Key Grip"
+    },
+    {
+      "nombre": "Shantall González",
+      "rol": "Second Assistant Camera"
+    },
+    {
+      "nombre": "Fernando Moleón",
+      "rol": "\"A\" Camera Operator"
+    },
+    {
+      "nombre": "Guillermo Moreno Garcia",
+      "rol": "\"A\" Camera Operator"
+    },
+    {
+      "nombre": "Nicolás Ramírez López",
+      "rol": "Data Wrangler"
+    },
+    {
+      "nombre": "Fernando Moleón",
+      "rol": "Steadicam Operator"
+    },
+    {
+      "nombre": "Mercedes Ron",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Álex de la Iglesia",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carolina Bang",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "María Contreras",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Domingo González",
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pokeepsie Films",
+  "enlace_video": "https://1a-1791.com/video/s8/2/A/G/F/p/AGFpk.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=xY-qRGC6Yu0"
+}
