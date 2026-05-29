@@ -151,3 +151,55 @@ header {
         font-size: 1.3rem;
     }
 }
+
+/* ==========================
+   SEARCH SUGGESTIONS
+========================== */
+
+.search-box {
+    position: relative;
+}
+
+.lz-suggestions {
+    position: absolute;
+    top: calc(100% + 10px);
+    left: 0;
+    width: 100%;
+    background: #0f172a;
+    border: 1px solid rgba(255,255,255,.08);
+    border-radius: 18px;
+    overflow: hidden;
+    display: none;
+    box-shadow: 0 15px 40px rgba(0,0,0,.35);
+    z-index: 999;
+}
+
+.lz-suggestion-item {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 12px;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.lz-suggestion-item:hover {
+    background: rgba(37,99,235,.2);
+}
+
+.lz-suggestion-poster {
+    width: 50px;
+    height: 74px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.lz-suggestion-item h4 {
+    color: white;
+    font-size: .92rem;
+    margin: 0;
+}
+
+.lz-suggestion-item small {
+    color: #60a5fa;
+}
