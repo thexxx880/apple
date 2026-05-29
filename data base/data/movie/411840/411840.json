@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 411840,
+  "poster": "https://image.tmdb.org/t/p/w500/vFaDN23JbbFnij84y5YyQk5hbCJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3ozfGOxzwsVS5C5QiJN3qOD8CZE.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/f6G4qRpSVviPKXOUfw4Vd3uFIpX.png",
+  "titulo": "Reyes de las olas 2",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.968,
+  "año": "2017",
+  "duracion": "1h 24min",
+  "edad_minima": 13,
+  "sinopsis": "Cody, Chicken Joe y Lani han vuelto con su aventura más épica. El Dream Team de los surferos, los Hang 5 pone a prueba a Cody y a sus amigos y les enseñan el significado de trabajar en equipo mientras se dirigen al lugar más legendario del mundo para surfear.",
+  "fecha_estreno": "2017-01-26",
+  "titulo_original": "Surf's Up 2: WaveMania",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Jeremy Shada",
+      "personaje": "Cody Maverick (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/r4Gasfu032PQ4jOQsTrHTaQoHb8.jpg"
+    },
+    {
+      "nombre": "Jon Heder",
+      "personaje": "Chicken Joe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xGLRJEKKmNsDpz6MefPMU4gqQj1.jpg"
+    },
+    {
+      "nombre": "Melissa Sturm",
+      "personaje": "Lani Aliikai (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lPeB7kfr4ddPqCAamzVohm1lhnD.jpg"
+    },
+    {
+      "nombre": "John Cena",
+      "personaje": "J.C. (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+    },
+    {
+      "nombre": "Mark Calaway",
+      "personaje": "Undertaker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/heCzgyoGCXYi0Y8maDAilkDMnRj.jpg"
+    },
+    {
+      "nombre": "Paul Levesque",
+      "personaje": "Hunter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gOeQvjY8B9E81f3hDjOTmxx9ig4.jpg"
+    },
+    {
+      "nombre": "Vince McMahon",
+      "personaje": "Mr. McMahon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3m4Z7YwnTqgLlQWP7A7TgYOJrj7.jpg"
+    },
+    {
+      "nombre": "Saraya Bevis",
+      "personaje": "Paige (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ohU0nlR5PHvih4nfDK8P4s7iQGH.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michelle L.M. Wong",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Henry Yu",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Abdul Williams",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nathaniel Anozie",
+      "rol": "Pipeline Technical Director"
+    },
+    {
+      "nombre": "Chin Ko",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Pamela Prostarr",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Keith Baxter",
+      "rol": "Story Artist"
+    },
+    {
+      "nombre": "Joey Chou",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Bryan Andrews",
+      "rol": "Story Artist"
+    },
+    {
+      "nombre": "Juston Gordon-Montgomery",
+      "rol": "Story Artist"
+    },
+    {
+      "nombre": "Robert Jackson",
+      "rol": "ADR Supervisor"
+    },
+    {
+      "nombre": "Michael J. Luisi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Luis Almazan",
+      "rol": "Lighting Artist"
+    },
+    {
+      "nombre": "Mark Yeager",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Denise Koyama",
+      "rol": "Story Artist"
+    }
+  ],
+  "director": "Henry Yu",
+  "valoraciones": {
+    "tmdb": 5.968,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sony Pictures Animation",
+  "enlace_video": "https://rumble.com/hls-vod/73q8rs/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=c7dD6Wdf5Ac"
+}
