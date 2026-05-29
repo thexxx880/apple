@@ -17,13 +17,13 @@ function initFloatingMenu() {
             <i class="fas fa-plus"></i>
         </div>
         <div class="floating-menu" id="floating-menu">
-            <a href="../../index.html" class="float-icon">
+            <a href="https://lzplayhd.online/apple/data%20base/" class="float-icon">
                 <i class="fas fa-home"></i>
             </a>
             <a href="#" class="float-icon">
                 <i class="fas fa-fire"></i>
             </a>
-            <a href="../../data/movie.html" class="float-icon">
+            <a href="https://lzplayhd.online/apple/data%20base/categorias/categorias.html" class="float-icon">
                 <i class="fas fa-film"></i>
             </a>
             <a href="../../data/serie.html" class="float-icon">
