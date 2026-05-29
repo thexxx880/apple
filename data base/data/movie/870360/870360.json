@@ -1,0 +1,159 @@
+{
+  "id_tmdb": 870360,
+  "poster": "https://image.tmdb.org/t/p/w500/thBHkIs4xLlNM3EEIM62vMvuSMj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5U3VLeWr2H4Nd3G7IkHItFimsIz.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ps79664UJDYLnRvT5IeSdC98ICd.png",
+  "titulo": "El día que la Tierra explotó: Una película de Looney Tunes",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Comedia",
+    "Aventura",
+    "Animación",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.546,
+  "año": "2024",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Porky y el Pato Lucas, la clásica pareja de dibujos animados, se convierten en héroes improbables cuando sus travesuras en la fábrica de chicles local destapan un complot secreto de control mental alienígena. Contra todo pronóstico, los dos están decididos a salvar su ciudad y el mundo.",
+  "fecha_estreno": "2024-08-01",
+  "titulo_original": "The Day the Earth Blew Up: A Looney Tunes Movie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Eric Bauza",
+      "personaje": "Porky Pig / Daffy Duck (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+    },
+    {
+      "nombre": "Candi Milo",
+      "personaje": "Petunia Pig / Old Lady (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tUjXMG2118Oagj7IjWJDEdmtCRW.jpg"
+    },
+    {
+      "nombre": "Peter MacNicol",
+      "personaje": "The Invader (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8gizugTP8hykdfBkOY0Qg0aqpiP.jpg"
+    },
+    {
+      "nombre": "Fred Tatasciore",
+      "personaje": "Scientist / Farmer Jim (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    },
+    {
+      "nombre": "Laraine Newman",
+      "personaje": "Mrs. Grecht (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c50cGamQWIfDRDgYmHCiuj5Crpx.jpg"
+    },
+    {
+      "nombre": "Wayne Knight",
+      "personaje": "Mayor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ecc2Detpzqu6XyCUPh0BqOBwZyO.jpg"
+    },
+    {
+      "nombre": "Ruth Clampett",
+      "personaje": "Waitress Maude (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Andrew Kishino",
+      "personaje": "Floor Manager (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dnQ6GYWWfogRnzapjzz7qgi5wPe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Costello",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Peter Browngardt",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alex Kirwan",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Andrew Dickman",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Peter Browngardt",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "David Gemmill",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Darrick Bachman",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ryan Kramer",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Browngardt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nick Simotas",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Joshua Moshier",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Nick Cross",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jim Soper",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Aaron Spurgeon",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Michael Baum",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Sarah Noonan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Agnes Kim",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Joey Capps",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "David Gemmill",
+      "rol": "Head of Story"
+    }
+  ],
+  "director": "Peter Browngardt",
+  "valoraciones": {
+    "tmdb": 7.546,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://rumble.com/hls-vod/6qxxxt/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=rfavar8cEPs"
+}
