@@ -1,474 +1,301 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport"
-content="width=device-width, initial-scale=1.0">
-
-<title>Menú • LzPlay</title>
-
-<link rel="stylesheet"
-href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-
-<style>
-
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:Arial,sans-serif;
-}
-
-body{
-
-background:
-linear-gradient(
-180deg,
-#070b14 0%,
-#000 100%
-);
-
-color:white;
-min-height:100vh;
-overflow-x:hidden;
-}
-
-/* =========================
-HEADER
-========================= */
-
-.topbar{
-
-padding:22px;
-display:flex;
-align-items:center;
-justify-content:space-between;
-position:sticky;
-top:0;
-z-index:50;
-
-background:
-rgba(0,0,0,.65);
-
-backdrop-filter:
-blur(20px);
-}
-
-.back-btn{
-
-width:45px;
-height:45px;
-border-radius:50%;
-border:none;
-background:
-rgba(255,255,255,.08);
-
-color:white;
-font-size:18px;
-cursor:pointer;
-transition:.2s;
-}
-
-.back-btn:hover{
-
-transform:scale(1.05);
-
-background:
-rgba(255,255,255,.12);
-}
-
-.logo{
-
-font-size:1.7rem;
-font-weight:900;
-letter-spacing:2px;
-}
-
-/* =========================
-PERFIL
-========================= */
-
-.profile-box{
-
-padding:25px;
-display:flex;
-align-items:center;
-gap:18px;
-}
-
-.avatar{
-
-width:90px;
-height:90px;
-border-radius:24px;
-object-fit:cover;
-border:3px solid
-rgba(255,255,255,.1);
-}
-
-.user-info h2{
-
-font-size:1.5rem;
-margin-bottom:6px;
-}
-
-.user-info p{
-
-color:#9ca3af;
-font-size:.95rem;
-}
-
-/* =========================
-MENU
-========================= */
-
-.menu{
-
-padding:20px;
-display:flex;
-flex-direction:column;
-gap:14px;
-}
-
-.menu-item{
-
-display:flex;
-align-items:center;
-gap:18px;
-
-padding:18px;
-border-radius:24px;
-
-background:
-rgba(255,255,255,.05);
-
-text-decoration:none;
-color:white;
-
-transition:.25s ease;
-border:1px solid
-rgba(255,255,255,.06);
-}
-
-.menu-item:hover{
-
-transform:
-translateY(-2px);
-
-background:
-rgba(255,255,255,.08);
-}
-
-.menu-icon{
-
-width:55px;
-height:55px;
-border-radius:18px;
-
-display:flex;
-align-items:center;
-justify-content:center;
-
-font-size:1.3rem;
-
-background:
-rgba(255,255,255,.08);
-}
-
-.menu-content{
-
-flex:1;
-}
-
-.menu-title{
-
-font-size:1rem;
-font-weight:700;
-margin-bottom:4px;
-}
-
-.menu-desc{
-
-font-size:.88rem;
-color:#9ca3af;
-}
-
-.arrow{
-
-font-size:1rem;
-opacity:.6;
-}
-
-/* =========================
-BOTON CERRAR SESION
-========================= */
-
-.logout{
-
-margin-top:20px;
-
-background:
-rgba(255,0,0,.12);
-
-border:
-1px solid
-rgba(255,0,0,.2);
-}
-
-.logout .menu-icon{
-
-background:
-rgba(255,0,0,.15);
-
-color:#ff4d4d;
-}
-
-/* =========================
-MOBILE
-========================= */
-
-@media(max-width:768px){
-
-.profile-box{
-
-flex-direction:column;
-text-align:center;
-}
-
-.avatar{
-
-width:110px;
-height:110px;
-}
-
-}
-
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú • LzPlay</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, sans-serif; }
+        body {
+            background: linear-gradient(180deg, #070b14 0%, #000 100%);
+            color: white;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        .topbar {
+            padding: 22px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            position: sticky;
+            top: 0;
+            z-index: 50;
+            background: rgba(0,0,0,.65);
+            backdrop-filter: blur(20px);
+        }
+        .back-btn {
+            width: 45px; height: 45px;
+            border-radius: 50%; border: none;
+            background: rgba(255,255,255,.08);
+            color: white; font-size: 18px; cursor: pointer;
+        }
+        .logo { font-size: 1.7rem; font-weight: 900; letter-spacing: 2px; }
+        .profile-box {
+            padding: 25px; display: flex; align-items: center; gap: 18px;
+        }
+        .avatar {
+            width: 90px; height: 90px; border-radius: 24px;
+            object-fit: cover; border: 3px solid rgba(255,255,255,.1);
+        }
+        .user-info h2 { font-size: 1.5rem; margin-bottom: 6px; }
+        .user-info p { color: #9ca3af; font-size: .95rem; }
+        .menu {
+            padding: 20px; display: flex; flex-direction: column; gap: 14px;
+        }
+        .menu-item {
+            display: flex; align-items: center; gap: 18px;
+            padding: 18px; border-radius: 24px;
+            background: rgba(255,255,255,.05);
+            text-decoration: none; color: white;
+            transition: .25s ease; border: 1px solid rgba(255,255,255,.06);
+        }
+        .menu-item:hover { transform: translateY(-2px); background: rgba(255,255,255,.08); }
+        .menu-icon {
+            width: 55px; height: 55px; border-radius: 18px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.3rem; background: rgba(255,255,255,.08);
+        }
+        .menu-content { flex: 1; }
+        .menu-title { font-size: 1rem; font-weight: 700; margin-bottom: 4px; }
+        .menu-desc { font-size: .88rem; color: #9ca3af; }
+        .arrow { font-size: 1rem; opacity: .6; }
+        .logout {
+            margin-top: 20px;
+            background: rgba(255,0,0,.12);
+            border: 1px solid rgba(255,0,0,.2);
+        }
+        .logout .menu-icon { background: rgba(255,0,0,.15); color: #ff4d4d; }
+
+        /* MODAL */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,.8);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+        }
+        .modal-content {
+            background: #111827;
+            padding: 30px;
+            border-radius: 20px;
+            width: 90%;
+            max-width: 380px;
+            text-align: center;
+        }
+        .modal-option {
+            padding: 18px;
+            margin: 10px 0;
+            background: rgba(255,255,255,.08);
+            border-radius: 16px;
+            cursor: pointer;
+            transition: .2s;
+        }
+        .modal-option:hover {
+            background: rgba(255,255,255,.15);
+        }
+        .modal-option i { font-size: 1.4rem; margin-bottom: 8px; }
+        .close-btn {
+            position: absolute;
+            top: 15px; right: 20px;
+            font-size: 1.5rem;
+            cursor: pointer;
+        }
+    </style>
 </head>
 <body>
 
-<!-- HEADER -->
-<div class="topbar">
+    <!-- HEADER -->
+    <div class="topbar">
+        <button class="back-btn" onclick="history.back()">
+            <i class="fa-solid fa-arrow-left"></i>
+        </button>
+        <div class="logo">LZPLAY</div>
+        <div style="width:45px;"></div>
+    </div>
 
-<button
-class="back-btn"
-onclick="history.back()">
+    <!-- PERFIL -->
+    <div class="profile-box">
+        <img class="avatar" id="user-avatar" 
+             src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg">
+        <div class="user-info">
+            <h2 id="username">Cargando...</h2>
+            <p>Cuenta Premium activa</p>
+        </div>
+    </div>
 
-<i class="fa-solid fa-arrow-left"></i>
+    <!-- MENU -->
+    <div class="menu">
+        <a href="mylist.html" class="menu-item">
+            <div class="menu-icon"><i class="fa-solid fa-bookmark"></i></div>
+            <div class="menu-content">
+                <div class="menu-title">Mi lista</div>
+                <div class="menu-desc">Tus películas y series guardadas</div>
+            </div>
+            <i class="fa-solid fa-chevron-right arrow"></i>
+        </a>
 
-</button>
+        <a href="#" class="menu-item">
+            <div class="menu-icon"><i class="fa-solid fa-clock-rotate-left"></i></div>
+            <div class="menu-content">
+                <div class="menu-title">Seguir viendo</div>
+                <div class="menu-desc">Continúa donde te quedaste</div>
+            </div>
+            <i class="fa-solid fa-chevron-right arrow"></i>
+        </a>
 
-<div class="logo">
-LZPLAY
-</div>
+        <a href="#" class="menu-item">
+            <div class="menu-icon"><i class="fa-solid fa-bell"></i></div>
+            <div class="menu-content">
+                <div class="menu-title">Notificaciones</div>
+                <div class="menu-desc">Novedades y actualizaciones</div>
+            </div>
+            <i class="fa-solid fa-chevron-right arrow"></i>
+        </a>
 
-<div style="width:45px;"></div>
+        <a href="#" class="menu-item">
+            <div class="menu-icon"><i class="fa-solid fa-gear"></i></div>
+            <div class="menu-content">
+                <div class="menu-title">Configuración</div>
+                <div class="menu-desc">Preferencias de la aplicación</div>
+            </div>
+            <i class="fa-solid fa-chevron-right arrow"></i>
+        </a>
 
-</div>
+        <!-- EDITAR PERFIL -->
+        <div class="menu-item" onclick="showEditProfileModal()">
+            <div class="menu-icon"><i class="fa-solid fa-user-pen"></i></div>
+            <div class="menu-content">
+                <div class="menu-title">Editar Perfil</div>
+                <div class="menu-desc">Cambia avatar y nombre</div>
+            </div>
+            <i class="fa-solid fa-chevron-right arrow"></i>
+        </div>
 
-<!-- PERFIL -->
-<div class="profile-box">
+        <!-- CERRAR SESIÓN -->
+        <div class="menu-item logout" onclick="logout()">
+            <div class="menu-icon"><i class="fa-solid fa-right-from-bracket"></i></div>
+            <div class="menu-content">
+                <div class="menu-title">Cerrar sesión</div>
+                <div class="menu-desc">Salir de tu cuenta</div>
+            </div>
+        </div>
+    </div>
 
-<img
-class="avatar"
-src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg">
+    <!-- MODAL EDITAR PERFIL -->
+    <div id="edit-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn" onclick="closeModal()">&times;</span>
+            <h3 style="margin-bottom: 25px;">Editar Perfil</h3>
+            
+            <div class="modal-option" onclick="editName()">
+                <i class="fa-solid fa-user-edit"></i>
+                <div><strong>Editar Nombre</strong></div>
+            </div>
+            
+            <div class="modal-option" onclick="changeIcon()">
+                <i class="fa-solid fa-image"></i>
+                <div><strong>Cambiar Icono</strong></div>
+            </div>
+        </div>
+    </div>
 
-<div class="user-info">
+    <!-- FIREBASE -->
+    <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+    <script src="js/firebase/applelz.js"></script>
 
-<h2 id="username">
-Cargando...
-</h2>
+    <script>
+        /* ==========================
+           CARGAR DATOS DEL USUARIO
+        ========================== */
+        firebase.auth().onAuthStateChanged(async (user) => {
+            if (user) {
+                document.getElementById("username").textContent = user.displayName || "Usuario LzPlay";
 
-<p>
-Cuenta Premium activa
-</p>
+                // Cargar icono desde Firestore
+                try {
+                    const doc = await firebase.firestore()
+                        .collection("users")
+                        .doc(user.uid)
+                        .get();
 
-</div>
+                    if (doc.exists && doc.data().profileIcon) {
+                        document.getElementById("user-avatar").src = doc.data().profileIcon;
+                    }
+                } catch (error) {
+                    console.error("Error cargando icono:", error);
+                }
+            } else {
+                location.href = "login.html";
+            }
+        });
 
-</div>
+        /* ==========================
+           MODAL EDITAR PERFIL
+        ========================== */
+        function showEditProfileModal() {
+            document.getElementById("edit-modal").style.display = "flex";
+        }
 
-<!-- MENU -->
-<div class="menu">
+        function closeModal() {
+            document.getElementById("edit-modal").style.display = "none";
+        }
 
-<a href="mylist.html"
-class="menu-item">
+        /* ==========================
+           EDITAR NOMBRE
+        ========================== */
+        async function editName() {
+            closeModal();
+            
+            const newName = prompt("Ingresa tu nuevo nombre:");
+            if (!newName || newName.trim() === "") return;
 
-<div class="menu-icon">
-<i class="fa-solid fa-bookmark"></i>
-</div>
+            try {
+                const user = firebase.auth().currentUser;
 
-<div class="menu-content">
-<div class="menu-title">
-Mi lista
-</div>
-<div class="menu-desc">
-Tus películas y series guardadas
-</div>
-</div>
+                // Actualizar en Firebase Auth
+                await user.updateProfile({ displayName: newName });
 
-<i class="fa-solid fa-chevron-right arrow"></i>
+                // Actualizar en Firestore
+                await firebase.firestore()
+                    .collection("users")
+                    .doc(user.uid)
+                    .update({ displayName: newName });
 
-</a>
+                // Actualizar en pantalla
+                document.getElementById("username").textContent = newName;
 
-<a href="#"
-class="menu-item">
+                alert("Nombre actualizado correctamente");
 
-<div class="menu-icon">
-<i class="fa-solid fa-clock-rotate-left"></i>
-</div>
+            } catch (error) {
+                console.error("Error al actualizar nombre:", error);
+                alert("Error al actualizar el nombre");
+            }
+        }
 
-<div class="menu-content">
-<div class="menu-title">
-Seguir viendo
-</div>
-<div class="menu-desc">
-Continúa donde te quedaste
-</div>
-</div>
+        /* ==========================
+           CAMBIAR ICONO
+        ========================== */
+        function changeIcon() {
+            closeModal();
+            window.location.href = "config/iconos.html";
+        }
 
-<i class="fa-solid fa-chevron-right arrow"></i>
-
-</a>
-
-<a href="#"
-class="menu-item">
-
-<div class="menu-icon">
-<i class="fa-solid fa-bell"></i>
-</div>
-
-<div class="menu-content">
-<div class="menu-title">
-Notificaciones
-</div>
-<div class="menu-desc">
-Novedades y actualizaciones
-</div>
-</div>
-
-<i class="fa-solid fa-chevron-right arrow"></i>
-
-</a>
-
-<a href="#"
-class="menu-item">
-
-<div class="menu-icon">
-<i class="fa-solid fa-gear"></i>
-</div>
-
-<div class="menu-content">
-<div class="menu-title">
-Configuración
-</div>
-<div class="menu-desc">
-Preferencias de la aplicación
-</div>
-</div>
-
-<i class="fa-solid fa-chevron-right arrow"></i>
-
-</a>
-
-<a href="#"
-class="menu-item">
-
-<div class="menu-icon">
-<i class="fa-solid fa-user-pen"></i>
-</div>
-
-<div class="menu-content">
-<div class="menu-title">
-Editar Perfil
-</div>
-<div class="menu-desc">
-Cambia avatar y nombre
-</div>
-</div>
-
-<i class="fa-solid fa-chevron-right arrow"></i>
-
-</a>
-
-<!-- LOGOUT -->
-<div
-class="menu-item logout"
-onclick="logout()">
-
-<div class="menu-icon">
-<i class="fa-solid fa-right-from-bracket"></i>
-</div>
-
-<div class="menu-content">
-<div class="menu-title">
-Cerrar sesión
-</div>
-<div class="menu-desc">
-Salir de tu cuenta
-</div>
-</div>
-
-</div>
-
-</div>
-
-<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
-<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
-
-<script src="js/firebase/applelz.js"></script>
-
-<script>
-
-/* ==========================
-USUARIO
-========================== */
-
-firebase.auth()
-.onAuthStateChanged(
-(user)=>{
-
-if(user){
-
-document
-.getElementById(
-"username"
-)
-.textContent =
-user.displayName
-||
-"Usuario LzPlay";
-
-}else{
-
-location.href =
-"https://lzplayhd.online/apple/login.html";
-}
-});
-
-/* ==========================
-LOGOUT
-========================== */
-
-async function logout(){
-
-try{
-
-await firebase
-.auth()
-.signOut();
-
-location.href =
-"https://lzplayhd.online/apple/data base/login.html";
-
-}catch(error){
-
-console.error(
-error
-);
-}
-}
-
-</script>
-
+        /* ==========================
+           CERRAR SESIÓN
+        ========================== */
+        async function logout() {
+            try {
+                await firebase.auth().signOut();
+                location.href = "login.html";   // ← Redirige a login.html
+            } catch (error) {
+                console.error("Error al cerrar sesión:", error);
+            }
+        }
+    </script>
 </body>
 </html>
