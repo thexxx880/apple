@@ -2,138 +2,113 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elige tu icono - LZPLAY</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no"/>
+    <title>Selector de Iconos - LZPLAY</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
-        
-        body {
-            font-family: 'Poppins', sans-serif;
-            background: #020817;
-            color: white;
+        body { 
+            background-color: #0e1a2b; 
+            color: white; 
+            font-family: 'Montserrat', sans-serif; 
+            padding: 24px; 
         }
+        .icon-row {
+            display: flex;
+            overflow-x: auto;
+            gap: 16px;
+            padding-bottom: 8px;
+            scroll-snap-type: x mandatory;
+            margin-bottom: 40px;
+        }
+        .icon-row::-webkit-scrollbar { display: none; }
         
-        .icon-option {
-            position: relative;
-            cursor: pointer;
-            border-radius: 16px;
-            overflow: hidden;
-            transition: all 0.3s ease;
+        .icono-item {
+            flex: 0 0 auto;
+            width: 100px;
+            height: 100px;
+            border-radius: 9999px;
             border: 4px solid transparent;
+            transition: transform .35s ease, box-shadow .35s ease, border-color .35s ease;
+            cursor: pointer;
+            box-shadow: 0 0 8px rgba(255,255,255,.15);
+            scroll-snap-align: start;
+            position: relative;
         }
-        
-        .icon-option:hover {
-            transform: scale(1.08);
-            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
-        }
-        
-        .icon-option.selected {
+        .icono-item:hover {
+            transform: scale(1.15);
+            box-shadow: 0 0 25px rgba(37, 99, 235, 0.6);
             border-color: #2563eb;
-            box-shadow: 0 0 0 8px rgba(37, 99, 235, 0.25);
-            transform: scale(1.05);
         }
-        
-        .icon-option img {
+        .icono-item.selected {
+            border-color: #2563eb;
+            box-shadow: 0 0 0 8px rgba(37, 99, 235, 0.3);
+            transform: scale(1.1);
+        }
+        .icono-item img {
             width: 100%;
-            aspect-ratio: 1/1;
+            height: 100%;
+            border-radius: 9999px;
             object-fit: cover;
-            transition: all 0.3s ease;
         }
-        
         .selected-check {
             position: absolute;
-            top: 10px;
-            right: 10px;
+            top: 8px;
+            right: 8px;
             background: #2563eb;
             color: white;
-            width: 30px;
-            height: 30px;
+            width: 26px;
+            height: 26px;
             border-radius: 50%;
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 14px;
-            box-shadow: 0 4px 15px rgba(37, 99, 235, 0.5);
-        }
-        
-        .section-title {
-            font-size: 2.2rem;
-            font-weight: 700;
-            margin-bottom: 12px;
-        }
-        
-        .lzplay-btn {
-            background: #2563eb;
-            color: white;
-            transition: all 0.3s ease;
-        }
-        
-        .lzplay-btn:hover {
-            background: #1e40af;
-            transform: translateY(-2px);
+            font-size: 13px;
         }
     </style>
 </head>
-<body class="min-h-screen pb-16">
+<body>
 
-    <!-- HEADER -->
-    <header class="sticky top-0 z-50 bg-[#020817]/95 backdrop-blur-md border-b border-white/10">
-        <div class="max-w-screen-2xl mx-auto px-6 py-5 flex items-center justify-between">
-            <div class="flex items-center gap-4">
-                <a href="index.html" class="text-3xl font-black text-white">LZPLAY</a>
-            </div>
-            
-            <a href="menu.html" class="flex items-center gap-2 text-sm text-zinc-400 hover:text-white transition-colors">
-                <i class="fas fa-arrow-left"></i>
-                <span>Volver a mi cuenta</span>
-            </a>
-        </div>
-    </header>
+    <h1 class="text-3xl font-bold text-center mb-8">Elige tu icono de perfil</h1>
 
-    <div class="max-w-4xl mx-auto px-6 pt-10">
-        
-        <!-- TÍTULO -->
-        <div class="mb-10 text-center">
-            <h1 class="section-title">Elige tu icono de perfil</h1>
-            <p class="text-zinc-400 max-w-md mx-auto">Selecciona el icono que más te represente. Este aparecerá en tu perfil y en todas las pantallas de LZPLAY.</p>
-        </div>
+    <!-- NETFLIX V.1 -->
+    <h2 class="text-xl font-semibold mb-3">NETFLIX V.1</h2>
+    <div class="icon-row" id="netflix-v1"></div>
 
-        <!-- GRID DE ICONOS -->
-        <div id="icon-grid" 
-             class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 gap-5 mb-12">
-            <!-- Se genera con JavaScript -->
-        </div>
+    <!-- NETFLIX V.2 -->
+    <h2 class="text-xl font-semibold mt-10 mb-3">NETFLIX V.2</h2>
+    <div class="icon-row" id="netflix-v2"></div>
 
-        <!-- BOTONES -->
-        <div class="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
-            <button onclick="saveSelectedIcon()"
-                    class="flex-1 py-4 lzplay-btn rounded-3xl font-semibold text-lg flex items-center justify-center gap-3 shadow-lg">
-                <i class="fas fa-save"></i>
-                <span>Guardar cambios</span>
-            </button>
-            
-            <button onclick="cancelSelection()"
-                    class="flex-1 py-4 bg-white/10 hover:bg-white/20 border border-white/20 rounded-3xl font-semibold text-lg transition-all">
-                Cancelar
-            </button>
-        </div>
-        
-        <p class="text-center text-xs text-zinc-500 mt-8">Tu icono se guardará automáticamente en tu cuenta</p>
-        
-    </div>
+    <!-- Hora De Aventura -->
+    <h2 class="text-xl font-semibold mt-10 mb-3">Hora De Aventura</h2>
+    <div class="icon-row" id="aventura"></div>
 
-    <!-- TOAST -->
-    <div id="toast" class="hidden fixed bottom-8 left-1/2 transform -translate-x-1/2 bg-[#020817] border border-white/10 px-6 py-4 rounded-2xl shadow-2xl flex items-center gap-3 z-[9999]">
-        <i class="fas fa-check-circle text-green-400"></i>
-        <span id="toast-message" class="text-sm"></span>
+    <!-- Teen Titans Go! -->
+    <h2 class="text-xl font-semibold mt-10 mb-3">Teen Titans Go!</h2>
+    <div class="icon-row" id="titans"></div>
+
+    <!-- ZeroTwo -->
+    <h2 class="text-xl font-semibold mt-10 mb-3">ZeroTwo - Darling in the franxx</h2>
+    <div class="icon-row" id="zerotwo"></div>
+
+    <!-- DISNEY+ Marvel -->
+    <h2 class="text-xl font-semibold mt-10 mb-3">DISNEY+ Icons Marvel</h2>
+    <div class="icon-row" id="marvel"></div>
+
+    <!-- BOTONES -->
+    <div class="flex flex-col sm:flex-row gap-4 max-w-md mx-auto mt-10">
+        <button onclick="saveSelectedIcon()" 
+                class="flex-1 py-4 bg-[#2563eb] hover:bg-[#1e40af] rounded-3xl font-semibold text-lg transition-all">
+            Guardar icono
+        </button>
+        <button onclick="cancelSelection()" 
+                class="flex-1 py-4 bg-white/10 hover:bg-white/20 border border-white/20 rounded-3xl font-semibold text-lg transition-all">
+            Cancelar
+        </button>
     </div>
 
     <script type="module">
-        // =============================================
-        // FIREBASE
-        // =============================================
+        // ====================== FIREBASE ======================
         import { initializeApp } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-app.js";
         import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-auth.js";
         import { getFirestore, doc, getDoc, updateDoc } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-firestore.js";
@@ -144,169 +119,194 @@
             projectId: "applelz-b5883",
             storageBucket: "applelz-b5883.firebasestorage.app",
             messagingSenderId: "489468218632",
-            appId: "1:489468218632:web:598a550f7ebe7c6de7b0bd",
-            measurementId: "G-J085DHR8M3"
+            appId: "1:489468218632:web:598a550f7ebe7c6de7b0bd"
         };
 
         const app = initializeApp(firebaseConfig);
         const auth = getAuth(app);
         const db = getFirestore(app);
 
-        // =============================================
-        // LISTA DE ICONOS
-        // =============================================
-        const PROFILE_ICONS = [
-            { id: "icon-1", url: "https://i.pravatar.cc/300?img=1" },
-            { id: "icon-2", url: "https://i.pravatar.cc/300?img=2" },
-            { id: "icon-3", url: "https://i.pravatar.cc/300?img=3" },
-            { id: "icon-4", url: "https://i.pravatar.cc/300?img=4" },
-            { id: "icon-5", url: "https://i.pravatar.cc/300?img=5" },
-            { id: "icon-6", url: "https://i.pravatar.cc/300?img=6" },
-            { id: "icon-7", url: "https://i.pravatar.cc/300?img=7" },
-            { id: "icon-8", url: "https://i.pravatar.cc/300?img=8" },
-            { id: "icon-9", url: "https://i.pravatar.cc/300?img=9" },
-            { id: "icon-10", url: "https://i.pravatar.cc/300?img=10" },
-            { id: "icon-11", url: "https://i.pravatar.cc/300?img=11" },
-            { id: "icon-12", url: "https://i.pravatar.cc/300?img=12" },
-            { id: "icon-13", url: "https://i.pravatar.cc/300?img=13" },
-            { id: "icon-14", url: "https://i.pravatar.cc/300?img=14" },
-            { id: "icon-15", url: "https://i.pravatar.cc/300?img=15" },
-            { id: "icon-16", url: "https://i.pravatar.cc/300?img=16" }
-        ];
-
         let currentUser = null;
-        let selectedIconId = null;
+        let selectedIconUrl = null;
+
+        // ====================== ICONOS ======================
+        const iconos = {
+            "netflix-v1": [
+                "https://i.pinimg.com/736x/91/86/1b/91861b749841221d52122f0c2933d8a6.jpg",
+                "https://i.pinimg.com/736x/b4/0b/51/b40b51418293936a6e0ad09ffa229cb7.jpg",
+                "https://i.pinimg.com/736x/32/a8/49/32a849aaf205b143c1a2b78d4b8bcf4b.jpg",
+                "https://i.pinimg.com/736x/61/54/76/61547625e01d8daf941aae3ffb37f653.jpg",
+                "https://i.pinimg.com/236x/3c/e6/72/3ce67241681dc17a8be9632f14728cf9.jpg",
+                "https://i.pinimg.com/236x/4b/34/f9/4b34f96c2eb99a38847f02302085a7fe.jpg",
+                "https://i.pinimg.com/236x/89/51/35/89513597910ab6ce4285402ab7c0e591.jpg",
+                "https://i.pinimg.com/474x/c3/cc/31/c3cc317a85e0953ea7320d4792353374.jpg",
+                "https://i.pinimg.com/236x/7b/c5/03/7bc5033c74a96a161f1283de506b817c.jpg"
+            ],
+            "netflix-v2": [
+                "https://i.pinimg.com/736x/9d/ee/d0/9deed0484d40afe4599461212d55f021.jpg",
+                "https://i.pinimg.com/736x/54/28/67/542867c5d6a1f92e10ad4f7d004ab4a0.jpg",
+                "https://i.pinimg.com/736x/69/36/38/69363865af3394397824c36632491633.jpg",
+                "https://i.pinimg.com/736x/68/1b/05/681b05ca7a44a1dbe43a8a2c7bf12c2a.jpg"
+            ],
+            "aventura": [
+                "https://i.pinimg.com/736x/c5/eb/c1/c5ebc1876b70cd468ac48fe9e630c3dc.jpg",
+                "https://i.pinimg.com/736x/c3/10/b6/c310b6c69f107e6cfdd71ff02bf714aa.jpg",
+                "https://i.pinimg.com/736x/8d/2d/ad/8d2dad6e0b79cf69b3d4028869dabc34.jpg",
+                "https://i.pinimg.com/736x/9e/56/db/9e56dbbd674bcefbb3b3b5156ddb224b.jpg",
+                "https://i.pinimg.com/736x/cc/79/7f/cc797fc57df0dda9670d11ab9968b1c0.jpg",
+                "https://i.pinimg.com/736x/bc/58/56/bc585650a366b535ddbbbe502bb2886d.jpg",
+                "https://i.pinimg.com/736x/32/0c/ee/320ceeb94ec936dbecd4dbbec8a6972e.jpg",
+                "https://i.pinimg.com/736x/92/bf/38/92bf384ab54b17f3536c39b6202d611a.jpg",
+                "https://i.pinimg.com/736x/e9/bd/6f/e9bd6f8fd913b0c22f5ec37a2d4a854a.jpg",
+                "https://i.pinimg.com/736x/22/a5/27/22a527858c67cb72dc05fe37d19c7c68.jpg",
+                "https://i.pinimg.com/736x/46/a7/96/46a796af53e8e9303674d9aa2003b8d9.jpg"
+            ],
+            "titans": [
+                "https://i.pinimg.com/originals/88/13/55/881355b8ae4d80df9f4d57057bfe7caa.gif",
+                "https://i.pinimg.com/originals/fd/1b/4a/fd1b4a728f87001ca319a0458251c234.gif",
+                "https://i.pinimg.com/originals/65/9a/b8/659ab898e603c193ebbb94ff036f783d.gif",
+                "https://i.pinimg.com/originals/39/2b/e1/392be142b2e663a86db75d06ad9167f5.gif",
+                "https://i.pinimg.com/originals/79/cf/7f/79cf7f4a318c4a50f849c7a06c24a241.gif"
+            ],
+            "zerotwo": [
+                "https://i.pinimg.com/736x/c4/f4/b8/c4f4b836754e4854613dd6fbfdd2311e.jpg",
+                "https://i.pinimg.com/736x/b7/cd/48/b7cd481f7d757d806f1a341b2d734d88.jpg",
+                "https://i.pinimg.com/736x/a6/2c/23/a62c23872801f8370d909b81e5acb811.jpg",
+                "https://i.pinimg.com/736x/3a/12/59/3a1259475b1d271b3769db18b6276655.jpg",
+                "https://i.pinimg.com/736x/c5/da/e7/c5dae7e8f685db93b2718388568fd514.jpg",
+                "https://cdn.rafled.com/anime-icons/images/7bf3df1bc7b41d094df55bcb1a078f6408eed7f99757518cebe566369b35ba4c.jpg",
+                "https://i.pinimg.com/736x/38/0e/b3/380eb3e6ba00ed24892f972be3d5109c.jpg",
+                "https://i.pinimg.com/236x/7a/b0/b2/7ab0b242a17f115a3121e082791c811d.jpg",
+                "https://i.pinimg.com/736x/68/91/0f/68910f891894ac7121bd9007488ed77a.jpg"
+            ],
+            "marvel": [
+                "https://i.pinimg.com/1200x/3c/ac/23/3cac238d735ec8b3ac2de2f07b133da2.jpg",
+                "https://i.pinimg.com/736x/9b/bd/92/9bbd9297b91dd8d8de331a4bfb6439db.jpg",
+                "https://i.pinimg.com/736x/58/b4/0e/58b40ed0390bf9af62c5a7d2ec18d9bf.jpg",
+                "https://i.pinimg.com/736x/b2/ac/31/b2ac312290dcccee02bec7c3613f92d9.jpg",
+                "https://i.pinimg.com/736x/09/7b/7e/097b7ea4b53c7a7e3f740a00fb4fd3e7.jpg",
+                "https://i.pinimg.com/736x/40/59/bc/4059bc6cc8d9cfa5df0887d2aaba2be6.jpg",
+                "https://i.pinimg.com/1200x/06/33/59/063359dc0c7fef9b55d26fbd3f85a928.jpg",
+                "https://i.pinimg.com/736x/c1/8a/7b/c18a7b404c47af0bf3feeecfc12c9959.jpg",
+                "https://i.pinimg.com/736x/7b/fe/d1/7bfed13ffa25f9489efaa9cbd00ae35a.jpg",
+                "https://i.pinimg.com/736x/64/a7/1f/64a71f890c27be8838426383573b0f64.jpg",
+                "https://i.pinimg.com/736x/bd/53/55/bd5355aaab329acc4bca4cebcbced629.jpg",
+                "https://i.pinimg.com/736x/22/8b/c4/228bc4968580e044060b8eeec4af043f.jpg",
+                "https://i.pinimg.com/1200x/b0/fa/e2/b0fae2af7d5f8cfb1af6f193edf4d948.jpg",
+                "https://i.pinimg.com/1200x/0f/7e/5e/0f7e5e07d725e91361a96deaa9ad4e9b.jpg"
+            ]
+        };
+
+        let selectedIconUrl = null;
 
         // Cargar iconos
-        function loadIconGrid(currentIcon = null) {
-            const grid = document.getElementById("icon-grid");
-            grid.innerHTML = "";
+        function loadIcons() {
+            const container = document.getElementById("icon-grid");
+            container.innerHTML = "";
 
-            selectedIconId = currentIcon || "icon-1";
-
-            PROFILE_ICONS.forEach(icon => {
-                const isSelected = icon.id === selectedIconId;
-
-                const div = document.createElement("div");
-                div.className = `icon-option relative ${isSelected ? 'selected' : ''}`;
+            Object.keys(iconos).forEach(category => {
+                const row = document.createElement("div");
+                row.className = "icon-row";
                 
-                div.innerHTML = `
-                    <img src="${icon.url}" alt="Icono ${icon.id}">
-                    ${isSelected ? `
-                        <div class="selected-check">
-                            <i class="fas fa-check"></i>
-                        </div>
-                    ` : ''}
-                `;
-
-                div.onclick = () => selectIcon(icon.id, div);
-                grid.appendChild(div);
+                iconos[category].forEach(url => {
+                    const div = document.createElement("div");
+                    div.className = "icono-item";
+                    div.innerHTML = `<img src="${url}" alt="Icono">`;
+                    
+                    div.onclick = () => selectIcon(url, div);
+                    row.appendChild(div);
+                });
+                
+                container.appendChild(row);
             });
         }
 
-        // Seleccionar icono
-        function selectIcon(iconId, element) {
-            document.querySelectorAll(".icon-option").forEach(el => {
-                el.classList.remove("selected");
-                const check = el.querySelector(".selected-check");
-                if (check) check.remove();
-            });
-
-            element.classList.add("selected");
+        function selectIcon(url, element) {
+            // Quitar selección anterior
+            document.querySelectorAll(".icono-item").forEach(el => el.classList.remove("selected"));
             
-            const check = document.createElement("div");
-            check.className = "selected-check";
-            check.innerHTML = `<i class="fas fa-check"></i>`;
-            element.appendChild(check);
-
-            selectedIconId = iconId;
+            element.classList.add("selected");
+            selectedIconUrl = url;
         }
 
         // Guardar en Firestore
-        async function saveSelectedIcon() {
-            if (!selectedIconId || !currentUser) {
-                showToast("Por favor selecciona un icono", "error");
+        window.saveSelectedIcon = async function() {
+            if (!selectedIconUrl || !currentUser) {
+                alert("Por favor selecciona un icono");
                 return;
             }
 
             try {
                 await updateDoc(doc(db, "users", currentUser.uid), {
-                    profileIcon: selectedIconId,
+                    profileIcon: selectedIconUrl,
                     updatedAt: new Date()
                 });
 
-                showToast("¡Icono guardado correctamente!");
-                updateGlobalAvatar(selectedIconId);
-
-                setTimeout(() => {
-                    window.location.href = "menu.html";
-                }, 1400);
+                alert("¡Icono guardado correctamente!");
+                window.location.href = "menu.html";
 
             } catch (error) {
                 console.error("Error:", error);
-                showToast("Error al guardar el icono", "error");
+                alert("Error al guardar el icono");
             }
-        }
+        };
 
-        function updateGlobalAvatar(iconId) {
-            const icon = PROFILE_ICONS.find(i => i.id === iconId);
-            if (!icon) return;
-
-            document.querySelectorAll(".user-avatar img").forEach(avatar => {
-                avatar.src = icon.url;
-            });
-        }
+        window.cancelSelection = function() {
+            window.location.href = "menu.html";
+        };
 
         // Cargar icono actual
-        async function loadUserIcon(user) {
+        async function loadCurrentIcon(user) {
             currentUser = user;
             
             try {
                 const docSnap = await getDoc(doc(db, "users", user.uid));
-                const currentIcon = docSnap.exists() && docSnap.data().profileIcon 
-                    ? docSnap.data().profileIcon 
-                    : "icon-1";
-
-                loadIconGrid(currentIcon);
+                
+                if (docSnap.exists() && docSnap.data().profileIcon) {
+                    const currentUrl = docSnap.data().profileIcon;
+                    
+                    // Buscar y seleccionar el icono actual
+                    setTimeout(() => {
+                        const icons = document.querySelectorAll(".icono-item img");
+                        icons.forEach(img => {
+                            if (img.src === currentUrl) {
+                                const parent = img.parentElement;
+                                parent.classList.add("selected");
+                                
+                                const check = document.createElement("div");
+                                check.className = "selected-check";
+                                check.innerHTML = `<i class="fas fa-check"></i>`;
+                                parent.appendChild(check);
+                                
+                                selectedIconUrl = currentUrl;
+                            }
+                        });
+                    }, 300);
+                } else {
+                    // Seleccionar el primero por defecto
+                    setTimeout(() => {
+                        const first = document.querySelector(".icono-item");
+                        if (first) first.click();
+                    }, 300);
+                }
             } catch (error) {
-                loadIconGrid("icon-1");
+                console.error("Error cargando icono:", error);
             }
-        }
-
-        function cancelSelection() {
-            window.location.href = "menu.html";
-        }
-
-        function showToast(message, type = "success") {
-            const toast = document.getElementById("toast");
-            const msg = document.getElementById("toast-message");
-            
-            msg.textContent = message;
-            toast.style.borderColor = type === "error" ? "#ef4444" : "#22c55e";
-            
-            toast.style.display = "flex";
-            toast.classList.remove("hidden");
-            
-            setTimeout(() => {
-                toast.style.transition = "all 0.3s ease";
-                toast.style.opacity = "0";
-                setTimeout(() => {
-                    toast.style.opacity = "1";
-                    toast.style.transition = "";
-                    toast.style.display = "none";
-                    toast.classList.add("hidden");
-                }, 300);
-            }, 2200);
         }
 
         // Inicializar
         onAuthStateChanged(auth, (user) => {
             if (user) {
-                loadUserIcon(user);
+                loadCurrentIcon(user);
             } else {
                 window.location.href = "login.html";
             }
         });
+
+        // Cargar grid al iniciar
+        window.onload = function() {
+            loadIcons();
+        };
     </script>
 </body>
 </html>
