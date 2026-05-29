@@ -12,7 +12,6 @@ body { background:#000; color:#fff; min-height:100vh; display:flex; justify-cont
 .bg { position:fixed; top:0; left:0; width:100%; height:100%; background:linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.9)), url('https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=1974&auto=format&fit=crop'); background-size:cover; background-position:center; z-index:-1; filter:blur(5px); transform:scale(1.1); }
 .card { width:100%; max-width:420px; background:rgba(20,20,20,.95); border:1px solid rgba(255,255,255,.08); backdrop-filter:blur(20px); border-radius:30px; padding:35px; box-shadow:0 20px 60px rgba(0,0,0,.6); }
 
-/* Formulario */
 .logo { font-size:38px; font-weight:700; text-align:center; margin-bottom:8px; }
 .logo span { color:#fff; }
 .subtitle { text-align:center; color:#999; font-size:14px; margin-bottom:35px; }
@@ -32,11 +31,9 @@ body { background:#000; color:#fff; min-height:100vh; display:flex; justify-cont
 .link:hover { color:#fff; }
 .loading { display:none; margin-top:20px; text-align:center; font-size:14px; color:#aaa; }
 
-/* TOAST */
 #toast { position:fixed; bottom:20px; left:50%; transform:translateX(-50%); background:rgba(30,30,30,0.95); color:#fff; padding:16px 24px; border-radius:16px; box-shadow:0 10px 30px rgba(0,0,0,.5); display:flex; align-items:center; gap:12px; font-size:15px; opacity:0; transition:all .3s ease; pointer-events:none; z-index:9999; white-space:nowrap; }
 #toast.show { opacity:1; transform:translateX(-50%) translateY(-10px); pointer-events:auto; }
 
-/* PANTALLA DE BIENVENIDA */
 #welcomeScreen {
     display: none;
     width: 100%;
@@ -114,7 +111,7 @@ body { background:#000; color:#fff; min-height:100vh; display:flex; justify-cont
   <div class="loading" id="loading">Procesando...</div>
 </div>
 
-<!-- PANTALLA DE BIENVENIDA (cuando ya está logueado) -->
+<!-- PANTALLA DE BIENVENIDA -->
 <div id="welcomeScreen">
   <div class="welcome-avatar">
     <img id="welcomeAvatar" src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg" alt="Avatar">
@@ -128,7 +125,6 @@ body { background:#000; color:#fff; min-height:100vh; display:flex; justify-cont
   </div>
 </div>
 
-<!-- TOAST -->
 <div id="toast"></div>
 
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
@@ -151,7 +147,6 @@ const db = firebase.firestore();
 
 const REDIRECT_URL = "https://lzplayhd.online/apple/data%20base/";
 
-// ================== ELEMENTOS ==================
 const loginCard = document.getElementById("loginCard");
 const welcomeScreen = document.getElementById("welcomeScreen");
 const emailInput = document.getElementById("email");
@@ -231,7 +226,7 @@ registerTab.onclick = () => {
   mainBtn.innerText = "Crear cuenta";
 };
 
-// ================== BOTÓN PRINCIPAL ==================
+// ================== BOTÓN PRINCIPAL (LOGIN / REGISTRO) ==================
 mainBtn.onclick = async () => {
   const emailValue = emailInput.value.trim();
   const passwordValue = passwordInput.value.trim();
@@ -244,12 +239,11 @@ mainBtn.onclick = async () => {
     if (isLogin) {
       await auth.signInWithEmailAndPassword(emailValue, passwordValue);
       showToast("Inicio de sesión exitoso", "fa-check-circle", "#46d369");
-      setTimeout(() => window.location.href = REDIRECT_URL, 800);
+      // ← Ya NO redirige. La pantalla de bienvenida aparecerá sola
     } else {
       const userCredential = await auth.createUserWithEmailAndPassword(emailValue, passwordValue);
-      showToast("Cuenta creada. Ahora elige tu nombre", "fa-check-circle", "#46d369");
-      // Aquí puedes agregar el modal de nombre si quieres
-      setTimeout(() => window.location.href = REDIRECT_URL, 1200);
+      showToast("Cuenta creada exitosamente", "fa-check-circle", "#46d369");
+      // ← Ya NO redirige
     }
   } catch (error) {
     console.error(error);
@@ -274,7 +268,7 @@ document.getElementById("googleBtn").onclick = async () => {
     const provider = new firebase.auth.GoogleAuthProvider();
     const result = await auth.signInWithPopup(provider);
     showToast("Inicio con Google exitoso", "fa-check-circle", "#46d369");
-    setTimeout(() => window.location.href = REDIRECT_URL, 800);
+    // ← Ya NO redirige. La pantalla de bienvenida aparecerá sola
   } catch (error) {
     console.error(error);
     if (error.code === "auth/popup-closed-by-user") {
@@ -305,18 +299,18 @@ document.getElementById("forgotPassword").onclick = async () => {
 // ================== DETECTAR SI YA ESTÁ LOGUEADO ==================
 auth.onAuthStateChanged(async (user) => {
   if (user) {
-    // Ya tiene sesión → Mostrar pantalla de bienvenida
+    // Usuario logueado → Mostrar pantalla de bienvenida
     loginCard.style.display = "none";
     welcomeScreen.style.display = "block";
     await loadUserData(user);
   } else {
-    // No tiene sesión → Mostrar formulario
+    // No logueado → Mostrar formulario
     loginCard.style.display = "block";
     welcomeScreen.style.display = "none";
   }
 });
 
-console.log("%c✅ Login completo con pantalla de bienvenida", "color:#46d369;font-weight:bold");
+console.log("%c✅ Login actualizado - Sin auto-redirect", "color:#46d369;font-weight:bold");
 </script>
 </body>
 </html>
