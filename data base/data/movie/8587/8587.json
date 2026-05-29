@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 8587,
+  "poster": "https://image.tmdb.org/t/p/w500/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/oIjNoucWBbtwk4TcJfsP0kffur0.png",
+  "titulo": "El rey león",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Drama"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 8.254,
+  "año": "1994",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "El príncipe león Simba y su padre son el blanco de su amargado tío, que quiere ascender al trono.",
+  "fecha_estreno": "1994-06-15",
+  "titulo_original": "The Lion King",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Matthew Broderick",
+      "personaje": "Simba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/papqFgpyroZJEqd7WvuNGN8ti2k.jpg"
+    },
+    {
+      "nombre": "Moira Kelly",
+      "personaje": "Nala (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3yQRnGSfbPWQDInZHTzzXsrAhUR.jpg"
+    },
+    {
+      "nombre": "Jeremy Irons",
+      "personaje": "Scar (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+    },
+    {
+      "nombre": "Nathan Lane",
+      "personaje": "Timon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jLPp3RoDhwOpLimKj3NhhBofPfT.jpg"
+    },
+    {
+      "nombre": "Ernie Sabella",
+      "personaje": "Pumbaa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tOJUui0e88SmGKF5iLlYKBxDKvx.jpg"
+    },
+    {
+      "nombre": "James Earl Jones",
+      "personaje": "Mufasa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
+    },
+    {
+      "nombre": "Robert Guillaume",
+      "personaje": "Rafiki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/prqxpeFeyyarRxxfaMHrqCKVyhV.jpg"
+    },
+    {
+      "nombre": "Rowan Atkinson",
+      "personaje": "Zazu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jonathan Roberts",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Roger Allers",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rob Minkoff",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Linda Woolverton",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Irene Mecchi",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Rick Maki",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Lorna Cook",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Francis Glebas",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ivan Bilancio",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Vera Pacheco",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "James Baxter",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Craig Sost",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Andreas Deja",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Anthony DeRosa",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Tim Allen",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Larry White",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Rick Moore",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Jennifer Yuan",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Carl Canga",
+      "rol": "Production Office Assistant"
+    }
+  ],
+  "director": "Roger Allers",
+  "valoraciones": {
+    "tmdb": 8.254,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://1a-1791.com/video/fwe2/93/s8/2/c/i/H/M/ciHMw.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=lFzVJEksoDY"
+}
