@@ -8,13 +8,13 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
-        
+       
         body {
             font-family: 'Poppins', sans-serif;
             background: #020817;
             color: white;
         }
-        
+       
         .card {
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }
@@ -22,24 +22,20 @@
             transform: scale(1.06);
             box-shadow: 0 20px 40px rgba(0,0,0,.45);
         }
-
         .poster-container {
             position: relative;
             overflow: hidden;
             background: #111827;
         }
-
         .rating {
             background: rgba(15, 23, 42, 0.95);
             backdrop-filter: blur(8px);
         }
-
         .filtro-activo {
             background-color: #2563eb !important;
             color: white !important;
             border-color: #2563eb !important;
         }
-
         .fab {
             position: fixed;
             bottom: 24px;
@@ -56,27 +52,32 @@
             font-size: 1.5rem;
             z-index: 9999;
         }
+        .highlight {
+            background-color: #3b82f6;
+            padding: 0 4px;
+            border-radius: 4px;
+            color: white;
+        }
     </style>
-	<link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/navbar.css">
 </head>
 <body class="min-h-screen pb-12">
-
-       <header id="main-header"></header>
-
+    <header id="main-header"></header>
+    
     <div class="max-w-screen-2xl mx-auto px-6 pt-8">
-        
+       
         <!-- BUSCADOR -->
         <div class="mb-8">
             <h1 class="text-4xl font-bold mb-4">Buscar Contenido</h1>
-            
+           
             <div class="flex gap-4">
                 <div class="flex-1 relative">
-                    <input type="text" id="search-input" 
+                    <input type="text" id="search-input"
                            class="w-full bg-[#111827] border border-white/10 rounded-3xl px-6 py-4 text-lg focus:outline-none focus:border-blue-500 pl-14"
-                           placeholder="Buscar películas o series...">
+                           placeholder="Buscar películas o series... (ej: cadaver novia)">
                     <i class="fas fa-search absolute left-6 top-5 text-xl text-zinc-400"></i>
                 </div>
-                
+               
                 <button onclick="abrirModalFiltros()"
                         class="px-6 py-4 bg-white/10 hover:bg-white/20 border border-white/10 rounded-3xl flex items-center gap-3 text-sm font-medium transition-all">
                     <i class="fas fa-filter"></i>
@@ -84,74 +85,79 @@
                 </button>
             </div>
         </div>
-
+        
         <!-- CONTADOR -->
-        <div class="mb-4">
+        <div class="mb-4 flex items-center justify-between">
             <p class="text-zinc-400" id="result-count">Escribe algo para comenzar a buscar</p>
+            <div id="search-stats" class="text-xs text-zinc-500 hidden"></div>
         </div>
-
+        
         <!-- GRID -->
-        <div id="results-grid" 
+        <div id="results-grid"
              class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-6">
         </div>
-
+        
         <!-- SIN RESULTADOS -->
         <div id="no-results" class="hidden text-center py-16">
             <i class="fas fa-search text-6xl text-zinc-700 mb-4"></i>
             <p class="text-xl text-zinc-400">No se encontraron resultados</p>
+            <p class="text-sm text-zinc-500 mt-2">Intenta con otras palabras clave</p>
         </div>
     </div>
-
+    
     <!-- BOTÓN FLOTANTE -->
     <button onclick="volverArriba()" class="fab hidden" id="btn-volver-arriba">
         <i class="fas fa-arrow-up"></i>
     </button>
-
+    
     <!-- MODAL DE FILTROS -->
-    <div id="modal-filtros" onclick="cerrarModalFiltros()" 
+    <div id="modal-filtros" onclick="cerrarModalFiltros()"
          class="hidden fixed inset-0 bg-black/70 backdrop-blur-sm z-[10000] flex items-center justify-center">
-        <div onclick="event.stopImmediatePropagation()" 
+        <div onclick="event.stopImmediatePropagation()"
              class="modal bg-[#020817] border border-white/10 rounded-3xl w-full max-w-md mx-4 overflow-hidden">
-            
+           
             <div class="flex items-center justify-between px-6 py-5 border-b border-white/10">
                 <h3 class="text-xl font-semibold">Filtros Avanzados</h3>
                 <button onclick="cerrarModalFiltros()" class="text-3xl text-zinc-400 hover:text-white">×</button>
             </div>
-
+            
             <div class="p-6 space-y-8">
-                
+               
                 <!-- LETRAS A-Z -->
                 <div>
                     <label class="block text-sm text-zinc-400 mb-3">Empieza con la letra</label>
                     <div class="flex flex-wrap gap-2" id="filtro-letras"></div>
                 </div>
-
+                
                 <!-- AÑOS (BOTONES) -->
                 <div>
                     <label class="block text-sm text-zinc-400 mb-3">Año</label>
                     <div class="flex flex-wrap gap-2 max-h-40 overflow-y-auto pr-2" id="filtro-anos"></div>
                 </div>
             </div>
-
+            
             <div class="flex gap-3 p-6 border-t border-white/10">
-                <button onclick="limpiarFiltros()" 
+                <button onclick="limpiarFiltros()"
                         class="flex-1 py-3 text-sm border border-white/20 rounded-2xl hover:bg-white/5 transition-all">
                     Limpiar
                 </button>
-                <button onclick="aplicarFiltros()" 
+                <button onclick="aplicarFiltros()"
                         class="flex-1 py-3 text-sm bg-blue-600 hover:bg-blue-700 rounded-2xl transition-all">
                     Aplicar filtros
                 </button>
             </div>
         </div>
     </div>
-<script src="../js/components/navbar.js"></script>
+
+    <script src="../js/components/navbar.js"></script>
+    
     <script>
         const SEARCH_JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search/search.json";
-
+        
         let todosLosContenidos = [];
         let contenidosFiltrados = [];
 
+        // ==================== NORMALIZACIÓN MEJORADA ====================
         function normalizeText(str) {
             if (!str) return "";
             return str.toString().toLowerCase()
@@ -160,35 +166,85 @@
                 .replace(/\s+/g, " ").trim();
         }
 
+        // ==================== BÚSQUEDA INTELIGENTE (ORDEN INDEPENDIENTE) ====================
+        function buscarInteligente(query, item) {
+            const q = normalizeText(query);
+            if (!q || q.length < 2) return { match: false, score: 0 };
+
+            const qWords = q.split(" ").filter(w => w.length > 1);
+            if (qWords.length === 0) return { match: false, score: 0 };
+
+            // Texto completo del item
+            const fullText = normalizeText(
+                (item.title || "") + " " + 
+                (item.tituloAlternos || "") + " " + 
+                (item.sinopsis || "")
+            );
+
+            const itemWords = fullText.split(" ");
+
+            let matchedWords = 0;
+            let exactTitleMatch = false;
+
+            // Verificar cada palabra de la búsqueda
+            qWords.forEach(qWord => {
+                // Buscar coincidencia exacta o parcial
+                const found = itemWords.some(iWord => 
+                    iWord === qWord || 
+                    iWord.includes(qWord) || 
+                    qWord.includes(iWord)
+                );
+                
+                if (found) matchedWords++;
+            });
+
+            // Bonus si el título coincide casi exactamente
+            const titleNorm = normalizeText(item.title || "");
+            if (titleNorm.includes(q) || q.includes(titleNorm)) {
+                exactTitleMatch = true;
+            }
+
+            const score = matchedWords / qWords.length; // 0 a 1
+            const finalScore = exactTitleMatch ? score + 0.5 : score;
+
+            return {
+                match: matchedWords === qWords.length, // Todas las palabras deben coincidir
+                score: finalScore
+            };
+        }
+
+        // ==================== CARGAR DATOS ====================
         async function cargarDatos() {
             try {
                 const res = await fetch(SEARCH_JSON_URL);
                 const data = await res.json();
-
+                
                 todosLosContenidos = data.map(item => ({
                     id: item.id_tmdb,
                     url: item.url,
-                    title: item.titulo,
+                    title: item.titulo || "",
                     poster: item.poster,
                     year: item.año || "N/A",
                     sinopsis: item.sinopsis || "",
                     tituloAlternos: item["titulo alternos"] || ""
                 }));
-
+                
                 inicializarFiltros();
-
             } catch (error) {
                 console.error("Error cargando datos:", error);
             }
         }
 
+        // ==================== RENDERIZAR RESULTADOS ====================
         function renderizarResultados() {
             const grid = document.getElementById("results-grid");
             const noResults = document.getElementById("no-results");
             const count = document.getElementById("result-count");
+            const stats = document.getElementById("search-stats");
 
             grid.innerHTML = "";
             noResults.classList.add("hidden");
+            stats.classList.add("hidden");
 
             if (contenidosFiltrados.length === 0) {
                 noResults.classList.remove("hidden");
@@ -198,22 +254,26 @@
 
             count.textContent = `${contenidosFiltrados.length} resultados encontrados`;
 
+            // Ordenar por relevancia (score más alto primero)
+            contenidosFiltrados.sort((a, b) => (b._score || 0) - (a._score || 0));
+
             contenidosFiltrados.forEach(item => {
                 const card = document.createElement("div");
                 card.className = "card cursor-pointer group";
+                
                 card.innerHTML = `
-                    <div class="poster-container rounded-3xl overflow-hidden shadow-2xl border border-white/10">
-                        <img src="${item.poster}" 
-                             alt="${item.title}" 
+                    <div class="poster-container rounded-3xl overflow-hidden shadow-2xl border border-white/10 relative">
+                        <img src="${item.poster}"
+                             alt="${item.title}"
                              class="w-full aspect-[2/3] object-cover transition-transform group-hover:scale-110"
                              loading="lazy">
-                        
+                       
                         <div class="rating absolute top-3 right-3 flex items-center gap-1 text-xs font-bold px-2.5 py-1 rounded-2xl">
                             <i class="fas fa-star text-yellow-400"></i>
                             <span>8.5</span>
                         </div>
                     </div>
-                    
+                   
                     <div class="mt-3 px-1">
                         <h3 class="font-semibold text-base line-clamp-2 leading-tight group-hover:text-blue-400 transition-colors">
                             ${item.title}
@@ -226,69 +286,63 @@
                         </div>
                     </div>
                 `;
-
+                
                 card.onclick = () => window.location.href = item.url;
                 grid.appendChild(card);
             });
         }
 
+        // ==================== INICIALIZAR FILTROS ====================
         function inicializarFiltros() {
-            // === LETRAS A-Z ===
+            // LETRAS A-Z
             const letrasContainer = document.getElementById("filtro-letras");
             letrasContainer.innerHTML = "";
-            
+           
             for (let i = 65; i <= 90; i++) {
                 const letra = String.fromCharCode(i);
                 const btn = document.createElement("button");
                 btn.className = "px-3 py-1 text-xs bg-white/10 hover:bg-white/20 rounded-xl border border-white/10 transition-all";
                 btn.textContent = letra;
-                btn.onclick = () => {
-                    btn.classList.toggle("filtro-activo");
-                };
+                btn.onclick = () => btn.classList.toggle("filtro-activo");
                 letrasContainer.appendChild(btn);
             }
 
-            // === AÑOS (solo los que existen) ===
+            // AÑOS
             const anosContainer = document.getElementById("filtro-anos");
             const anosUnicos = [...new Set(todosLosContenidos.map(item => item.year))]
                 .filter(año => año !== "N/A")
                 .sort((a, b) => b - a);
-
+            
             anosUnicos.forEach(año => {
                 const btn = document.createElement("button");
                 btn.className = "px-4 py-1.5 text-xs bg-white/10 hover:bg-white/20 rounded-2xl border border-white/10 transition-all";
                 btn.textContent = año;
-                btn.onclick = () => {
-                    btn.classList.toggle("filtro-activo");
-                };
+                btn.onclick = () => btn.classList.toggle("filtro-activo");
                 anosContainer.appendChild(btn);
             });
         }
 
+        // ==================== APLICAR FILTROS ====================
         function aplicarFiltros() {
-            const nombre = normalizeText(document.getElementById("search-input").value);
-            
+            const query = document.getElementById("search-input").value;
             const letrasActivas = Array.from(document.querySelectorAll("#filtro-letras button.filtro-activo"))
                 .map(b => b.textContent);
-            
             const anosActivos = Array.from(document.querySelectorAll("#filtro-anos button.filtro-activo"))
                 .map(b => b.textContent);
 
             contenidosFiltrados = todosLosContenidos.filter(item => {
-                const tituloNorm = normalizeText(item.title);
-                const alternosNorm = normalizeText(item.tituloAlternos);
-                const sinopsisNorm = normalizeText(item.sinopsis);
+                // Búsqueda inteligente
+                const searchResult = buscarInteligente(query, item);
+                if (query.length >= 2 && !searchResult.match) return false;
 
-                if (nombre && 
-                    !tituloNorm.includes(nombre) && 
-                    !alternosNorm.includes(nombre) && 
-                    !sinopsisNorm.includes(nombre)) {
-                    return false;
-                }
-
+                // Filtro por letra inicial
                 if (letrasActivas.length > 0 && !letrasActivas.includes(item.title[0].toUpperCase())) return false;
+
+                // Filtro por año
                 if (anosActivos.length > 0 && !anosActivos.includes(item.year)) return false;
 
+                // Guardar score para ordenamiento
+                item._score = searchResult.score || 0;
                 return true;
             });
 
@@ -296,14 +350,16 @@
             renderizarResultados();
         }
 
+        // ==================== LIMPIAR FILTROS ====================
         function limpiarFiltros() {
             document.getElementById("search-input").value = "";
             document.querySelectorAll("#filtro-letras button, #filtro-anos button").forEach(b => b.classList.remove("filtro-activo"));
-            
+           
             contenidosFiltrados = [];
             document.getElementById("results-grid").innerHTML = "";
             document.getElementById("result-count").textContent = "Escribe algo para comenzar a buscar";
             document.getElementById("no-results").classList.add("hidden");
+            document.getElementById("search-stats").classList.add("hidden");
             cerrarModalFiltros();
         }
 
@@ -321,29 +377,35 @@
             window.scrollTo({ top: 0, behavior: "smooth" });
         }
 
-        // BÚSQUEDA EN TIEMPO REAL
+        // ==================== BÚSQUEDA EN TIEMPO REAL MEJORADA ====================
+        let searchTimeout;
+        
         document.getElementById("search-input").addEventListener("input", () => {
-            const query = normalizeText(document.getElementById("search-input").value);
+            clearTimeout(searchTimeout);
             
-            if (query.length < 2) {
-                contenidosFiltrados = [];
-                document.getElementById("results-grid").innerHTML = "";
-                document.getElementById("result-count").textContent = "Escribe algo para comenzar a buscar";
-                document.getElementById("no-results").classList.add("hidden");
-                return;
-            }
+            searchTimeout = setTimeout(() => {
+                const query = document.getElementById("search-input").value.trim();
+                
+                if (query.length < 2) {
+                    contenidosFiltrados = [];
+                    document.getElementById("results-grid").innerHTML = "";
+                    document.getElementById("result-count").textContent = "Escribe algo para comenzar a buscar";
+                    document.getElementById("no-results").classList.add("hidden");
+                    document.getElementById("search-stats").classList.add("hidden");
+                    return;
+                }
 
-            contenidosFiltrados = todosLosContenidos.filter(item => {
-                const tituloNorm = normalizeText(item.title);
-                const alternosNorm = normalizeText(item.tituloAlternos);
-                const sinopsisNorm = normalizeText(item.sinopsis);
+                // Búsqueda inteligente
+                contenidosFiltrados = todosLosContenidos
+                    .map(item => {
+                        const result = buscarInteligente(query, item);
+                        return { ...item, _score: result.score, _match: result.match };
+                    })
+                    .filter(item => item._match)
+                    .sort((a, b) => b._score - a._score);
 
-                return tituloNorm.includes(query) || 
-                       alternosNorm.includes(query) || 
-                       sinopsisNorm.includes(query);
-            });
-
-            renderizarResultados();
+                renderizarResultados();
+            }, 180);
         });
 
         // Scroll
@@ -358,6 +420,7 @@
             }
         });
 
+        // Iniciar
         window.onload = () => {
             cargarDatos();
         };
