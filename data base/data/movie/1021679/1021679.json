@@ -1,0 +1,154 @@
+{
+  "id_tmdb": 1021679,
+  "poster": "https://image.tmdb.org/t/p/w500/As2UKY4gNYS4w2U2ViGUdzTI472.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gTGlgtHAwQjJA3G9g2fLWuqg8zG.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uM2mvhtfzaWuinfAmnqIMAiP2Nt.png",
+  "titulo": "La rosa de Versalles",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Romance",
+    "Drama",
+    "Historia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7,
+  "año": "2025",
+  "duracion": "1h 53min",
+  "edad_minima": 13,
+  "sinopsis": "En la época de la revolución, dos mujeres —María Antonieta y su protectora Oscar François de Jarjayes— cumplen sus distintos roles y enfrentan difíciles decisiones.",
+  "fecha_estreno": "2025-01-31",
+  "titulo_original": "ベルサイユのばら",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "沢城みゆき",
+      "personaje": "Oscar François de Jarjayes (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
+    },
+    {
+      "nombre": "平野綾",
+      "personaje": "Marie Antoinette (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zaSJKfuKhw7e4VTnTKnlHBRzjQU.jpg"
+    },
+    {
+      "nombre": "豊永利行",
+      "personaje": "André Grandier (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/duhxGjWjgo6WagvGgKu529ztz7u.jpg"
+    },
+    {
+      "nombre": "加藤和樹",
+      "personaje": "Hans Axel von Fersen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gT9DXatKhCEGxcmVarp5BWAHB9g.jpg"
+    },
+    {
+      "nombre": "武内駿輔",
+      "personaje": "Alain de Soissons (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p1bD76bPptJ41mKRtv0mIr8ZcvO.jpg"
+    },
+    {
+      "nombre": "江口拓也",
+      "personaje": "Florian de Gerodelle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hPPhUp0mM65Lc87Q8WXUEmGQAXx.jpg"
+    },
+    {
+      "nombre": "入野自由",
+      "personaje": "Bernard Châtelet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+    },
+    {
+      "nombre": "落合福嗣",
+      "personaje": "Louis XVI (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xE2FoiUjb9N51J7jg0U8eGmfK19.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "吉村愛",
+      "rol": "Director"
+    },
+    {
+      "nombre": "金春智子",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "磯輪のぞみ",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "富原大稀",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "二瓶茂人",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "柴田葵",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "白石嵩詞",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "池田理代子",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "KOHTA YAMAMOTO",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "澤野弘之",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "澤野弘之",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "岡真里子",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "絢香",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Testimony",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Mahmoud Moftah",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "岡本ルーク飛鳥",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "El Adaba",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Kamille Areopagita",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Jeremy Anderson",
+      "rol": "Key Animation"
+    }
+  ],
+  "director": "吉村愛",
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "MAPPA",
+  "enlace_video": "https://1a-1791.com/video/fww1/27/s8/2/t/E/4/H/tE4Hy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=MXmGxRfC014"
+}
