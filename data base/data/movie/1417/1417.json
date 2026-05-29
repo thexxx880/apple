@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 1417,
+  "poster": "https://image.tmdb.org/t/p/w500/6mLdx2asXKNXAq1PGETiopCWWvm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uWwaa2Dm9RHYyKNCdDgcblxzzHF.png",
+  "titulo": "El laberinto del fauno",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Drama",
+    "Bélica"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.763,
+  "año": "2006",
+  "duracion": "1h 58min",
+  "edad_minima": 13,
+  "sinopsis": "Un cuento oscuro y mágico ambientado en la posguerra española. La joven Ofelia se adentra en un mundo de fantasía lleno de criaturas extrañas mientras lucha contra la brutalidad del mundo real. Con una mezcla de horror y maravilla, la película explora la lucha por la inocencia y la esperanza en tiempos de oscuridad.",
+  "fecha_estreno": "2006-10-11",
+  "titulo_original": "El laberinto del fauno",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Ivana Baquero",
+      "personaje": "Ofelia",
+      "foto": "https://image.tmdb.org/t/p/w500/j64Xt1nQTFSZidgCHDq5wN5dLjW.jpg"
+    },
+    {
+      "nombre": "Sergi López",
+      "personaje": "Capitán Vidal",
+      "foto": "https://image.tmdb.org/t/p/w500/n3HcmUflYYaHUiQmzaayi0yqcRf.jpg"
+    },
+    {
+      "nombre": "Maribel Verdú",
+      "personaje": "Mercedes",
+      "foto": "https://image.tmdb.org/t/p/w500/xfpNy6z0eN2jwhv8NQnUxUYGq2P.jpg"
+    },
+    {
+      "nombre": "Doug Jones",
+      "personaje": "Fauno / Pale Man",
+      "foto": "https://image.tmdb.org/t/p/w500/rpvvWATYWHGjedJea0G97XufOwU.jpg"
+    },
+    {
+      "nombre": "Ariadna Gil",
+      "personaje": "Carmen",
+      "foto": "https://image.tmdb.org/t/p/w500/4g5IyK6br9UCRqLLlW8z5ZLFtYf.jpg"
+    },
+    {
+      "nombre": "Álex Angulo",
+      "personaje": "Dr. Ferreiro",
+      "foto": null
+    },
+    {
+      "nombre": "Roger Casamajor",
+      "personaje": "Pedro",
+      "foto": "https://image.tmdb.org/t/p/w500/1UQozr5Y4C9HlFAWvsjsLPvThLF.jpg"
+    },
+    {
+      "nombre": "Manolo Solo",
+      "personaje": "Garcés",
+      "foto": "https://image.tmdb.org/t/p/w500/hp422wUkCWW2lsitzJrANv4N92u.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bertha Navarro",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Álvaro Augustín",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Frida Torresblanco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Guillermo del Toro",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Guillermo del Toro",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alfonso Cuarón",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Guillermo del Toro",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Guillermo Navarro",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Sara Bilbatúa",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Elena Manrique",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lala Huete",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Héctor Gil",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Víctor Albarrán",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Belén Atienza",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eugenio Caballero",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Javier Navarrete",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Bernat Vilaplana",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Roland N. Thai",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Patricia Cuevas",
+      "rol": "Property Master"
+    }
+  ],
+  "director": "Guillermo del Toro",
+  "valoraciones": {
+    "tmdb": 7.763,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Estudios Picasso",
+  "enlace_video": "https://1a-1791.com/video/s8/2/O/C/X/r/OCXrk.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=6tYUOAMsydg"
+}
