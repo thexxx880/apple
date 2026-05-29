@@ -1,116 +1,212 @@
 // =============================================
-// CONTENIDO.JS - Mi Lista con datos completos + Icono Dorado
+// CONTENIDO.JS - Sistema de vistas Firebase
 // =============================================
-const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/";
+const GITHUB_RAW_BASE =
+  "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/";
 
 // ================== OBTENER ID ==================
 function getContentId() {
-  const params = new URLSearchParams(window.location.search);
-  const id = params.get('id') || params.get('tmdb_id');
+  const params =
+    new URLSearchParams(
+      window.location.search
+    );
+
+  const id =
+    params.get("id") ||
+    params.get("tmdb_id");
+
   if (!id) {
-    showError("❌ Falta el parámetro <b>id</b>");
+    showError(
+      "❌ Falta el parámetro <b>id</b>"
+    );
+
     return null;
   }
-  return id;
+
+  return id.toString();
 }
 
-// ================== INCREMENTAR VISTAS (Nueva lógica con Firebase) ==================
+// ================== INCREMENTAR VISTAS ==================
 async function incrementarVistas() {
-    const urlParams = new URLSearchParams(window.location.search);
-    const tmdbId = urlParams.get('id') || urlParams.get('tmdb_id');
-    if (!tmdbId) {
-        console.warn('No se encontró ID en la URL');
-        return;
-    }
 
-    const COLLECTION_NAME = "contenidos";
-    try {
-        const db = firebase.firestore();
-        const docRef = db.collection(COLLECTION_NAME).doc(tmdbId.toString());
+  const contentId =
+    getContentId();
 
-        /* ==========================
-        OBTENER VISTAS ACTUALES
-        ========================== */
-        const doc = await docRef.get();
-        let currentViews = 0;
-        if (doc.exists && doc.data().vistas) {
-            currentViews = doc.data().vistas;
-        }
+  if (!contentId) {
+    console.warn(
+      "No se encontró ID"
+    );
 
-        /* ==========================
-        SUMAR VISTA
-        ========================== */
-        await docRef.set({
-            vistas: currentViews + 1,
-            updatedAt: firebase.firestore.FieldValue.serverTimestamp()
-        }, {
-            merge: true
-        });
+    return;
+  }
 
-        console.log(`✅ Vista incrementada (ID: ${tmdbId}) | Total: ${currentViews + 1}`);
+  try {
 
-        /* ==========================
-        RECARGAR STATS
-        ========================== */
-        if (typeof window.recargarStats === 'function') {
-            setTimeout(() => {
-                window.recargarStats();
-            }, 500);
-        }
-    } catch (error) {
-        console.error('Error al incrementar vistas:', error);
-    }
+    const db =
+      firebase.firestore();
+
+    const docRef =
+      db
+        .collection(
+          "contenidos"
+        )
+        .doc(contentId);
+
+    // Incremento seguro
+    await docRef.set({
+      vistas:
+        firebase.firestore.FieldValue.increment(1),
+
+      updatedAt:
+        firebase.firestore.FieldValue.serverTimestamp()
+    }, {
+      merge: true
+    });
+
+    console.log(
+      `✅ Vista incrementada: ${contentId}`
+    );
+
+    // Actualizar contador
+    setTimeout(() => {
+      if (
+        typeof window.recargarStats ===
+        "function"
+      ) {
+        window.recargarStats();
+      }
+    }, 300);
+
+  } catch (error) {
+
+    console.error(
+      "❌ Error incrementando vistas:",
+      error
+    );
+  }
 }
 
-// ================== RECARGAR STATS (actualiza el contador de vistas en pantalla) ==================
-window.recargarStats = async function() {
-    const urlParams = new URLSearchParams(window.location.search);
-    const tmdbId = urlParams.get('id') || urlParams.get('tmdb_id');
-    if (!tmdbId) return;
+// ================== RECARGAR STATS ==================
+window.recargarStats =
+  async function () {
+
+    const contentId =
+      getContentId();
+
+    if (!contentId) return;
 
     try {
-        const db = firebase.firestore();
-        const doc = await db.collection("contenidos").doc(tmdbId.toString()).get();
-        
-        if (doc.exists && doc.data().vistas !== undefined) {
-            const vistas = doc.data().vistas;
-            const viewCountEl = document.getElementById('viewCount');
-            if (viewCountEl) {
-                viewCountEl.textContent = vistas.toLocaleString('es-ES');
-            }
-        }
-    } catch (e) {
-        console.error("Error recargando stats de vistas:", e);
+
+      const db =
+        firebase.firestore();
+
+      const docSnap =
+        await db
+          .collection(
+            "contenidos"
+          )
+          .doc(contentId)
+          .get();
+
+      const viewCountEl =
+        document.getElementById(
+          "viewCount"
+        );
+
+      if (!viewCountEl) {
+        return;
+      }
+
+      if (docSnap.exists) {
+
+        const data =
+          docSnap.data();
+
+        const vistas =
+          data.vistas || 0;
+
+        viewCountEl.textContent =
+          vistas.toLocaleString(
+            "es-ES"
+          );
+
+        console.log(
+          "👁️ Vistas:",
+          vistas
+        );
+
+      } else {
+
+        // Si no existe el documento
+        viewCountEl.textContent =
+          "0";
+      }
+
+    } catch (error) {
+
+      console.error(
+        "❌ Error recargando vistas:",
+        error
+      );
     }
-};
+  };
 
 // ================== CARGAR CONTENIDO ==================
 async function loadContent() {
-  const id = getContentId();
+
+  const id =
+    getContentId();
+
   if (!id) return;
 
-  const contenidoUrl = `${GITHUB_RAW_BASE}${id}/${id}.json`;
+  const contenidoUrl =
+    `${GITHUB_RAW_BASE}${id}/${id}.json`;
 
   try {
-    const contenidoRes = await fetch(contenidoUrl);
-    if (!contenidoRes.ok) throw new Error(`No se encontró ${id}.json`);
 
-    const contenido = await contenidoRes.json();
+    const contenidoRes =
+      await fetch(
+        contenidoUrl
+      );
 
-    // Renderizamos primero (vistas se actualizarán vía Firebase)
-    renderPage(contenido, id);
+    if (
+      !contenidoRes.ok
+    ) {
+      throw new Error(
+        `No se encontró ${id}.json`
+      );
+    }
 
-    // Incrementamos vistas (con delay como en el código funcional)
+    const contenido =
+      await contenidoRes.json();
+
+    // Renderizar primero
+    renderPage(
+      contenido,
+      id
+    );
+
+    // Mostrar vistas actuales
     setTimeout(() => {
-        incrementarVistas();
+      window.recargarStats?.();
+    }, 300);
+
+    // Incrementar vista
+    setTimeout(() => {
+      incrementarVistas();
     }, 1000);
 
   } catch (err) {
+
     console.error(err);
-    showError(`No se encontró el contenido<br><small>ID: ${id}</small>`);
+
+    showError(
+      `No se encontró el contenido
+      <br>
+      <small>ID: ${id}</small>`
+    );
   }
 }
-
 // ================== RENDERIZAR PÁGINA ==================
 let currentMovieId = null;
 let currentMovieData = null;
