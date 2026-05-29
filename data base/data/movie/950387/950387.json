@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 950387,
+  "poster": "https://image.tmdb.org/t/p/w500/rZYYmjgyF5UP1AVsvhzzDOFLCwG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ggGYbniHbvWDA9GAQYBUUdN3AKP.png",
+  "titulo": "Una película de Minecraft",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Fantasía",
+    "Comedia",
+    "Aventura"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.268,
+  "año": "2025",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Henry, Natalie, Dawn y Garrett, cuatro inadaptados, son arrastrados a un misterioso portal hacia el extraño y cúbico mundo principal. Para volver a casa, tendrán que dominar este mundo con la ayuda de un artesano inesperado y experto llamado, Steve, mientras se embarcan en una búsqueda mágica.",
+  "fecha_estreno": "2025-03-31",
+  "titulo_original": "A Minecraft Movie",
+  "pais_origen": "Sweden",
+  "reparto": [
+    {
+      "nombre": "Jason Momoa",
+      "personaje": "Garrett",
+      "foto": "https://image.tmdb.org/t/p/w500/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+    },
+    {
+      "nombre": "Jack Black",
+      "personaje": "Steve",
+      "foto": "https://image.tmdb.org/t/p/w500/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "nombre": "Sebastian Eugene Hansen",
+      "personaje": "Henry",
+      "foto": "https://image.tmdb.org/t/p/w500/40HNkoB3RKPMPgLhTyKQU6kG0sc.jpg"
+    },
+    {
+      "nombre": "Emma Myers",
+      "personaje": "Natalie",
+      "foto": "https://image.tmdb.org/t/p/w500/v1Y8RP39135ZOary9M4MbkrCAdn.jpg"
+    },
+    {
+      "nombre": "Danielle Brooks",
+      "personaje": "Dawn",
+      "foto": "https://image.tmdb.org/t/p/w500/hwrMFbcALcqrV7S2pRP9C5BXrU0.jpg"
+    },
+    {
+      "nombre": "Jennifer Coolidge",
+      "personaje": "Vice Principal Marlene",
+      "foto": "https://image.tmdb.org/t/p/w500/hcpbV0dY4ZJxmZi1WcAWe8euqV2.jpg"
+    },
+    {
+      "nombre": "Rachel House",
+      "personaje": "Malgosha (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2LCQF7Bn0I91o17GGkox0ZhhbE7.jpg"
+    },
+    {
+      "nombre": "Allan Henry",
+      "personaje": "Malgosha (Creature Performer)",
+      "foto": "https://image.tmdb.org/t/p/w500/iZKNvaQutjb5Otlb7IyYqdfWJ7d.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Roy Lee",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jared Hess",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mary Parent",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Vu Bui",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Momoa",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Torfi Frans Ólafsson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cale Boyter",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jill Messick",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jon Spaihts",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Grant Major",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Markus Persson",
+      "rol": "Video Game"
+    },
+    {
+      "nombre": "Jon Valera",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Jon Valera",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Yvan Lucas",
+      "rol": "Colorist"
+    },
+    {
+      "nombre": "Todd Hallowell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kayleen Walters",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Andrew Mendoza",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pete Chiappetta",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Enrique Chediak",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "James Thomas",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Jared Hess",
+  "valoraciones": {
+    "tmdb": 6.268,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://1a-1791.com/video/fww1/db/s8/2/R/w/_/J/Rw_Jy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=aSh_L6bvaCQ"
+}
