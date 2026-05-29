@@ -16,7 +16,6 @@
         .card:hover { transform: scale(1.06); box-shadow: 0 20px 40px rgba(0,0,0,.45); }
 
         .poster-container { position: relative; overflow: hidden; background: #111827; }
-
         .rating { background: rgba(15, 23, 42, 0.95); backdrop-filter: blur(8px); }
 
         .fab {
@@ -34,7 +33,6 @@
             to { opacity: 1; transform: scale(1); }
         }
 
-        /* Estilo activo para filtros */
         .filtro-activo {
             background-color: #2563eb !important;
             color: white !important;
@@ -44,18 +42,15 @@
 </head>
 <body class="min-h-screen pb-12">
 
-    <!-- NAVBAR -->
     <header id="main-header"></header>
 
     <div class="page-content max-w-screen-2xl mx-auto px-6">
         
-        <!-- LOADING -->
         <div id="loading" class="flex flex-col items-center justify-center py-20">
             <div class="animate-spin w-12 h-12 border-4 border-blue-500 border-t-transparent rounded-full mb-4"></div>
             <p class="text-zinc-400">Cargando películas...</p>
         </div>
 
-        <!-- CONTENIDO PRINCIPAL -->
         <div id="contenido-principal" class="hidden">
             
             <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-8">
@@ -64,7 +59,6 @@
                     <p class="text-zinc-400 mt-1" id="total-contenido">Cargando...</p>
                 </div>
 
-                <!-- BOTÓN FILTRAR -->
                 <button onclick="abrirModalFiltros()"
                         class="flex items-center gap-3 px-6 py-3 bg-white/10 hover:bg-white/20 border border-white/10 rounded-3xl text-sm font-medium transition-all">
                     <i class="fas fa-filter"></i>
@@ -72,23 +66,23 @@
                 </button>
             </div>
 
-            <!-- GRID -->
+            <!-- GRID DE PELÍCULAS -->
             <div id="grid-peliculas" 
                  class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-6">
             </div>
 
-            <!-- BOTÓN CARGAR MÁS -->
+            <!-- BOTÓN VER MÁS -->
             <div class="flex justify-center mt-10">
-                <button id="btn-cargar-mas" onclick="cargarMas()"
-                        class="hidden px-10 py-3 bg-white/10 hover:bg-white/20 border border-white/10 rounded-3xl text-sm font-medium flex items-center gap-3">
-                    <span>Cargar más</span>
+                <button id="btn-ver-mas" onclick="verMas()"
+                        class="hidden px-12 py-3.5 bg-white/10 hover:bg-white/20 active:bg-white/30 border border-white/20 rounded-3xl text-sm font-semibold flex items-center gap-3 transition-all">
+                    <span>Ver más</span>
                     <i class="fas fa-chevron-down"></i>
                 </button>
             </div>
         </div>
     </div>
 
-    <!-- BOTÓN FLOTANTE VOLVER ARRIBA -->
+    <!-- Botón flotante volver arriba -->
     <button onclick="volverArriba()" class="fab hidden" id="btn-volver-arriba">
         <i class="fas fa-arrow-up"></i>
     </button>
@@ -105,29 +99,23 @@
             </div>
 
             <div class="p-6 space-y-8">
-                
-                <!-- Buscar por nombre -->
                 <div>
                     <label class="block text-sm text-zinc-400 mb-2">Buscar por nombre</label>
                     <input type="text" id="filtro-nombre" 
                            class="w-full bg-[#111827] border border-white/10 rounded-2xl px-4 py-3 text-sm focus:outline-none focus:border-blue-500"
-                           placeholder="Ej: Avatar, Dune...">
+                           placeholder="Escribe para buscar...">
                 </div>
 
-                <!-- Categorías -->
                 <div>
                     <label class="block text-sm text-zinc-400 mb-3">Categorías</label>
-                    <div id="filtro-categorias" class="flex flex-wrap gap-2 max-h-40 overflow-y-auto pr-2">
-                    </div>
+                    <div id="filtro-categorias" class="flex flex-wrap gap-2 max-h-40 overflow-y-auto pr-2"></div>
                 </div>
 
-                <!-- Letra -->
                 <div>
                     <label class="block text-sm text-zinc-400 mb-3">Empieza con la letra</label>
                     <div class="flex flex-wrap gap-2" id="filtro-letras"></div>
                 </div>
 
-                <!-- Año -->
                 <div>
                     <label class="block text-sm text-zinc-400 mb-2">Año</label>
                     <div class="flex gap-3">
@@ -156,19 +144,19 @@
 
     <script src="../js/components/navbar.js"></script>
     <script>
-        const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
-        const BASE_JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/base/base.json";
+        const SEARCH_JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search/search.json";
 
         let todosLosContenidos = [];
         let contenidosFiltrados = [];
         let displayedCount = 15;
         let observer;
 
-        async function fetchTMDB(endpoint) {
-            try {
-                const res = await fetch(`https://api.themoviedb.org/3/${endpoint}${endpoint.includes('?') ? '&' : '?'}api_key=${TMDB_API_KEY}&language=es-ES`);
-                return res.ok ? await res.json() : null;
-            } catch (e) { return null; }
+        function normalizeText(str) {
+            if (!str) return "";
+            return str.toString().toLowerCase()
+                .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+                .replace(/[^a-z0-9\s]/g, " ")
+                .replace(/\s+/g, " ").trim();
         }
 
         async function cargarTodo() {
@@ -179,28 +167,21 @@
             principal.classList.add("hidden");
 
             try {
-                const baseRes = await fetch(BASE_JSON_URL);
-                const baseData = await baseRes.json();
-                const ids = Object.keys(baseData);
+                const res = await fetch(SEARCH_JSON_URL);
+                let data = await res.json();
 
-                const promesas = ids.map(async (id) => {
-                    const detalle = await fetchTMDB(`movie/${id}`);
-                    if (!detalle) return null;
+                todosLosContenidos = data.map(item => ({
+                    id: item.id_tmdb,
+                    url: item.url,
+                    title: item.titulo,
+                    poster: item.poster,
+                    year: item.año || "N/A",
+                    rating: "8.5",
+                    genres: [],
+                    sinopsis: item.sinopsis || "",
+                    tituloAlternos: item["titulo alternos"] || ""
+                }));
 
-                    return {
-                        id: parseInt(id),
-                        url: baseData[id],
-                        title: detalle.title || detalle.name,
-                        poster: detalle.poster_path ? `https://image.tmdb.org/t/p/w500${detalle.poster_path}` : null,
-                        year: detalle.release_date ? detalle.release_date.split("-")[0] : "N/A",
-                        rating: detalle.vote_average ? detalle.vote_average.toFixed(1) : "0.0",
-                        genres: detalle.genres || []
-                    };
-                });
-
-                const resultados = await Promise.all(promesas);
-                todosLosContenidos = resultados.filter(item => item !== null);
-                
                 document.getElementById("total-contenido").textContent = `${todosLosContenidos.length} películas`;
 
                 inicializarFiltrosModal();
@@ -219,7 +200,7 @@
 
         function renderizarPeliculas(reset = true) {
             const grid = document.getElementById("grid-peliculas");
-            const btnCargarMas = document.getElementById("btn-cargar-mas");
+            const btnVerMas = document.getElementById("btn-ver-mas");
 
             if (reset) {
                 grid.innerHTML = "";
@@ -233,7 +214,7 @@
                 card.className = "card cursor-pointer group";
                 card.innerHTML = `
                     <div class="poster-container rounded-3xl overflow-hidden shadow-2xl border border-white/10">
-                        <img data-src="${item.poster || 'https://via.placeholder.com/500x750?text=Sin+Poster'}" 
+                        <img data-src="${item.poster}" 
                              alt="${item.title}" 
                              class="w-full aspect-[2/3] object-cover transition-transform group-hover:scale-110 lazy-image">
                         
@@ -256,22 +237,23 @@
                     </div>
                 `;
 
-                // ABRIR EN LA MISMA PÁGINA
                 card.onclick = () => window.location.href = item.url;
                 grid.appendChild(card);
             });
 
             activarLazyLoading();
 
+            // Mostrar u ocultar botón "Ver más"
             if (displayedCount < contenidosFiltrados.length) {
-                btnCargarMas.classList.remove("hidden");
-                btnCargarMas.classList.add("flex");
+                btnVerMas.classList.remove("hidden");
+                btnVerMas.classList.add("flex");
             } else {
-                btnCargarMas.classList.add("hidden");
+                btnVerMas.classList.add("hidden");
+                btnVerMas.classList.remove("flex");
             }
         }
 
-        function cargarMas() {
+        function verMas() {
             displayedCount += 15;
             renderizarPeliculas(false);
         }
@@ -297,6 +279,9 @@
         function abrirModalFiltros() {
             document.getElementById("modal-filtros").classList.remove("hidden");
             document.getElementById("modal-filtros").classList.add("flex");
+
+            const nombreInput = document.getElementById("filtro-nombre");
+            nombreInput.oninput = () => aplicarFiltros(true);
         }
 
         function cerrarModalFiltros() {
@@ -305,7 +290,6 @@
         }
 
         function inicializarFiltrosModal() {
-            // Letras A-Z
             const letrasContainer = document.getElementById("filtro-letras");
             letrasContainer.innerHTML = "";
             for (let i = 65; i <= 90; i++) {
@@ -315,11 +299,11 @@
                 btn.textContent = letra;
                 btn.onclick = () => {
                     btn.classList.toggle("filtro-activo");
+                    aplicarFiltros(true);
                 };
                 letrasContainer.appendChild(btn);
             }
 
-            // Años
             const anos = [...new Set(todosLosContenidos.map(c => c.year))].sort((a, b) => b - a);
             const minSelect = document.getElementById("filtro-ano-min");
             const maxSelect = document.getElementById("filtro-ano-max");
@@ -327,47 +311,44 @@
             minSelect.innerHTML = `<option value="">Desde</option>` + anos.map(a => `<option value="${a}">${a}</option>`).join("");
             maxSelect.innerHTML = `<option value="">Hasta</option>` + anos.map(a => `<option value="${a}">${a}</option>`).join("");
 
-            // Categorías
-            const catsContainer = document.getElementById("filtro-categorias");
-            catsContainer.innerHTML = "";
-            const categoriasUnicas = [...new Set(todosLosContenidos.flatMap(c => c.genres.map(g => g.name)))].sort();
+            minSelect.onchange = () => aplicarFiltros(true);
+            maxSelect.onchange = () => aplicarFiltros(true);
 
-            categoriasUnicas.forEach(cat => {
-                const div = document.createElement("div");
-                div.className = "px-4 py-1.5 text-xs bg-white/10 hover:bg-white/20 rounded-2xl cursor-pointer border border-white/10 transition-all";
-                div.textContent = cat;
-                div.onclick = () => div.classList.toggle("filtro-activo");
-                catsContainer.appendChild(div);
-            });
+            const catsContainer = document.getElementById("filtro-categorias");
+            catsContainer.innerHTML = `<p class="text-xs text-zinc-500">Las categorías se agregarán pronto</p>`;
         }
 
-        function aplicarFiltros() {
-            const nombre = document.getElementById("filtro-nombre").value.toLowerCase().trim();
-            
+        function aplicarFiltros(keepOpen = false) {
+            const nombre = normalizeText(document.getElementById("filtro-nombre").value);
+
             const letrasActivas = Array.from(document.querySelectorAll("#filtro-letras button.filtro-activo"))
                 .map(b => b.textContent);
             
             const anoMin = document.getElementById("filtro-ano-min").value;
             const anoMax = document.getElementById("filtro-ano-max").value;
-            
-            const catsActivas = Array.from(document.querySelectorAll("#filtro-categorias div.filtro-activo"))
-                .map(d => d.textContent);
 
             contenidosFiltrados = todosLosContenidos.filter(item => {
-                if (nombre && !item.title.toLowerCase().includes(nombre)) return false;
+                const tituloNorm = normalizeText(item.title);
+                const alternosNorm = normalizeText(item.tituloAlternos);
+                const sinopsisNorm = normalizeText(item.sinopsis);
+
+                if (nombre && 
+                    !tituloNorm.includes(nombre) && 
+                    !alternosNorm.includes(nombre) && 
+                    !sinopsisNorm.includes(nombre)) {
+                    return false;
+                }
+
                 if (letrasActivas.length > 0 && !letrasActivas.includes(item.title[0].toUpperCase())) return false;
                 if (anoMin && item.year < anoMin) return false;
                 if (anoMax && item.year > anoMax) return false;
 
-                if (catsActivas.length > 0) {
-                    const itemCats = item.genres.map(g => g.name);
-                    if (!catsActivas.some(cat => itemCats.includes(cat))) return false;
-                }
                 return true;
             });
 
-            cerrarModalFiltros();
             renderizarPeliculas(true);
+
+            if (!keepOpen) cerrarModalFiltros();
         }
 
         function limpiarFiltros() {
@@ -375,11 +356,10 @@
             document.querySelectorAll("#filtro-letras button").forEach(b => b.classList.remove("filtro-activo"));
             document.getElementById("filtro-ano-min").value = "";
             document.getElementById("filtro-ano-max").value = "";
-            document.querySelectorAll("#filtro-categorias div").forEach(d => d.classList.remove("filtro-activo"));
 
             contenidosFiltrados = [...todosLosContenidos];
-            cerrarModalFiltros();
             renderizarPeliculas(true);
+            cerrarModalFiltros();
         }
 
         function volverArriba() {
