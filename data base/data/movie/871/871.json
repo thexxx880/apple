@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 871,
+  "poster": "https://image.tmdb.org/t/p/w500/pMLpuzyeXFsttiW0dHzJLH5FXyK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1xbe1lqDC5k32xTkkFpEd5UZ8kW.png",
+  "titulo": "El planeta de los simios",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Aventura",
+    "Drama",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.651,
+  "año": "1968",
+  "duracion": "1h 53min",
+  "edad_minima": 13,
+  "sinopsis": "Una tripulación de astronautas se estrelló en un planeta en un futuro lejano donde los simios parlantes inteligentes son la especie dominante, y los humanos son los oprimidos y esclavos.",
+  "fecha_estreno": "1968-02-07",
+  "titulo_original": "Planet of the Apes",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Charlton Heston",
+      "personaje": "George Taylor",
+      "foto": "https://image.tmdb.org/t/p/w500/mJabHWZrjlFiF8U8Bbr8lSFtLX6.jpg"
+    },
+    {
+      "nombre": "Roddy McDowall",
+      "personaje": "Cornelius",
+      "foto": "https://image.tmdb.org/t/p/w500/mGO0pDPi5p91k2Og09HTf270rxL.jpg"
+    },
+    {
+      "nombre": "Kim Hunter",
+      "personaje": "Zira",
+      "foto": "https://image.tmdb.org/t/p/w500/knu87rUxQVZ65Plp6BgoyasAHOT.jpg"
+    },
+    {
+      "nombre": "Maurice Evans",
+      "personaje": "Dr. Zaius",
+      "foto": "https://image.tmdb.org/t/p/w500/l5IKeUtuLMMb2oMj7VMOGFRgYK3.jpg"
+    },
+    {
+      "nombre": "James Whitmore",
+      "personaje": "President of the Assembly",
+      "foto": "https://image.tmdb.org/t/p/w500/nYMAbkfwFIgKK84vnLoQctI6vHg.jpg"
+    },
+    {
+      "nombre": "James Daly",
+      "personaje": "Dr. Honorious",
+      "foto": "https://image.tmdb.org/t/p/w500/nm0UHeXAiNFeqpLQ8izonYeVleR.jpg"
+    },
+    {
+      "nombre": "Linda Harrison",
+      "personaje": "Nova",
+      "foto": "https://image.tmdb.org/t/p/w500/9TGLtHHLwGY4THTt1StPdf1tngF.jpg"
+    },
+    {
+      "nombre": "Robert Gunner",
+      "personaje": "Landon",
+      "foto": "https://image.tmdb.org/t/p/w500/tmH4H9vdaXFlZltaMFFR0RYTDFq.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Franklin J. Schaffner",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Arthur P. Jacobs",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Wilson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Rod Serling",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jerry Goldsmith",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Leon Shamroy",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Hugh S. Fowler",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Joe Scully",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Pierre Boulle",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "William J. Creber",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jack Martin Smith",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Norman Rockett",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Walter M. Scott",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Morton Haack",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Ben Nye",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "William Kissell",
+      "rol": "Assistant Director"
+    }
+  ],
+  "director": "Franklin J. Schaffner",
+  "valoraciones": {
+    "tmdb": 7.651,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "APJAC Productions",
+  "enlace_video": "https://1a-1791.com/video/fwe1/fb/s8/2/8/T/k/9/8Tk9v.caa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=k0-dUM_A-Cg"
+}
