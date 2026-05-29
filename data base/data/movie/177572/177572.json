@@ -1,0 +1,159 @@
+{
+  "id_tmdb": 177572,
+  "poster": "https://image.tmdb.org/t/p/w500/h3EyFrAQQbwccSDOzZvdgUBt1wM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ganZhk94eaicQBcx3QGypDUT80I.png",
+  "titulo": "Grandes Héroes",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Familia",
+    "Animación",
+    "Acción",
+    "Comedia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.724,
+  "año": "2014",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "Se desarrolla un vínculo especial entre el robot inflable de gran tamaño Baymax y el prodigio Hiro Hamada, quienes se unen a un grupo de amigos para formar una banda de héroes de alta tecnología.",
+  "fecha_estreno": "2014-10-24",
+  "titulo_original": "Big Hero 6",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Scott Adsit",
+      "personaje": "Baymax (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hhFWlYAasLldXD1fvzwmmzo9X43.jpg"
+    },
+    {
+      "nombre": "Ryan Potter",
+      "personaje": "Hiro Hamada (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3Hdip1zNYrea3V7uzJQYxTps5Ne.jpg"
+    },
+    {
+      "nombre": "Daniel Henney",
+      "personaje": "Tadashi Hamada (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/elAolohpUG5nS99EZxHZjd44DsS.jpg"
+    },
+    {
+      "nombre": "T.J. Miller",
+      "personaje": "Fred (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg"
+    },
+    {
+      "nombre": "Jamie Chung",
+      "personaje": "GoGo Tomago (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5KS919slWvKwK2fcE3jpkEodlxs.jpg"
+    },
+    {
+      "nombre": "Damon Wayans Jr.",
+      "personaje": "Wasabi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/f6gNg71Js9XqCiXUtyFyXXbJ9ni.jpg"
+    },
+    {
+      "nombre": "Genesis Rodriguez",
+      "personaje": "Honey Lemon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg"
+    },
+    {
+      "nombre": "James Cromwell",
+      "personaje": "Professor Robert Callaghan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Roy Conli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert L. Baird",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Robert L. Baird",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Daniel Gerson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jordan Roberts",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joseph Mateo",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Chris Williams",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Don Hall",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jang Lee",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Duncan Rouleau",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Steven T. Seagle",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Kristina Reed",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jamie Sparer Roberts",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Henry Jackman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tim Mertens",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Bradford Simonsen",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Paul A. Felix",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Mitja Rabar",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Jeff Williams",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Chris Williams",
+  "valoraciones": {
+    "tmdb": 7.724,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Animation Studios",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/V/l/k/K/VlkKo.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=UC7KNAthiVQ"
+}
