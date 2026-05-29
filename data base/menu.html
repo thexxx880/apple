@@ -11,7 +11,6 @@
             background: linear-gradient(180deg, #070b14 0%, #000 100%);
             color: white;
             min-height: 100vh;
-            overflow-x: hidden;
         }
         .topbar {
             padding: 22px;
@@ -66,43 +65,6 @@
             border: 1px solid rgba(255,0,0,.2);
         }
         .logout .menu-icon { background: rgba(255,0,0,.15); color: #ff4d4d; }
-
-        /* MODAL */
-        .modal {
-            display: none;
-            position: fixed;
-            top: 0; left: 0; width: 100%; height: 100%;
-            background: rgba(0,0,0,.8);
-            z-index: 1000;
-            align-items: center;
-            justify-content: center;
-        }
-        .modal-content {
-            background: #111827;
-            padding: 30px;
-            border-radius: 20px;
-            width: 90%;
-            max-width: 380px;
-            text-align: center;
-        }
-        .modal-option {
-            padding: 18px;
-            margin: 10px 0;
-            background: rgba(255,255,255,.08);
-            border-radius: 16px;
-            cursor: pointer;
-            transition: .2s;
-        }
-        .modal-option:hover {
-            background: rgba(255,255,255,.15);
-        }
-        .modal-option i { font-size: 1.4rem; margin-bottom: 8px; }
-        .close-btn {
-            position: absolute;
-            top: 15px; right: 20px;
-            font-size: 1.5rem;
-            cursor: pointer;
-        }
     </style>
 </head>
 <body>
@@ -118,8 +80,10 @@
 
     <!-- PERFIL -->
     <div class="profile-box">
+        <!-- ESTA ES LA LÍNEA QUE PEDISTE -->
         <img class="avatar" id="user-avatar" 
              src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg">
+        
         <div class="user-info">
             <h2 id="username">Cargando...</h2>
             <p>Cuenta Premium activa</p>
@@ -164,17 +128,15 @@
             <i class="fa-solid fa-chevron-right arrow"></i>
         </a>
 
-        <!-- EDITAR PERFIL -->
-        <div class="menu-item" onclick="showEditProfileModal()">
+        <a href="#" class="menu-item" onclick="showEditProfileModal()">
             <div class="menu-icon"><i class="fa-solid fa-user-pen"></i></div>
             <div class="menu-content">
                 <div class="menu-title">Editar Perfil</div>
                 <div class="menu-desc">Cambia avatar y nombre</div>
             </div>
             <i class="fa-solid fa-chevron-right arrow"></i>
-        </div>
+        </a>
 
-        <!-- CERRAR SESIÓN -->
         <div class="menu-item logout" onclick="logout()">
             <div class="menu-icon"><i class="fa-solid fa-right-from-bracket"></i></div>
             <div class="menu-content">
@@ -185,18 +147,18 @@
     </div>
 
     <!-- MODAL EDITAR PERFIL -->
-    <div id="edit-modal" class="modal">
-        <div class="modal-content">
-            <span class="close-btn" onclick="closeModal()">&times;</span>
-            <h3 style="margin-bottom: 25px;">Editar Perfil</h3>
+    <div id="edit-modal" class="modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,.8); z-index:1000; align-items:center; justify-content:center;">
+        <div style="background:#111827; padding:30px; border-radius:20px; width:90%; max-width:380px; text-align:center;">
+            <span onclick="closeModal()" style="position:absolute; top:15px; right:20px; font-size:1.5rem; cursor:pointer;">&times;</span>
+            <h3 style="margin-bottom:25px;">Editar Perfil</h3>
             
-            <div class="modal-option" onclick="editName()">
-                <i class="fa-solid fa-user-edit"></i>
+            <div onclick="editName()" style="padding:18px; margin:10px 0; background:rgba(255,255,255,.08); border-radius:16px; cursor:pointer;">
+                <i class="fa-solid fa-user-edit" style="font-size:1.4rem; margin-bottom:8px;"></i>
                 <div><strong>Editar Nombre</strong></div>
             </div>
             
-            <div class="modal-option" onclick="changeIcon()">
-                <i class="fa-solid fa-image"></i>
+            <div onclick="changeIcon()" style="padding:18px; margin:10px 0; background:rgba(255,255,255,.08); border-radius:16px; cursor:pointer;">
+                <i class="fa-solid fa-image" style="font-size:1.4rem; margin-bottom:8px;"></i>
                 <div><strong>Cambiar Icono</strong></div>
             </div>
         </div>
@@ -210,13 +172,14 @@
 
     <script>
         /* ==========================
-           CARGAR DATOS DEL USUARIO
+           CARGAR ICONO DESDE FIRESTORE
         ========================== */
         firebase.auth().onAuthStateChanged(async (user) => {
             if (user) {
+                // Mostrar nombre
                 document.getElementById("username").textContent = user.displayName || "Usuario LzPlay";
 
-                // Cargar icono desde Firestore
+                // === CARGAR ICONO DESDE FIRESTORE ===
                 try {
                     const doc = await firebase.firestore()
                         .collection("users")
@@ -224,18 +187,20 @@
                         .get();
 
                     if (doc.exists && doc.data().profileIcon) {
+                        // ← Aquí se carga el icono guardado en Firestore
                         document.getElementById("user-avatar").src = doc.data().profileIcon;
                     }
                 } catch (error) {
-                    console.error("Error cargando icono:", error);
+                    console.error("Error al cargar el icono:", error);
                 }
+
             } else {
                 location.href = "login.html";
             }
         });
 
         /* ==========================
-           MODAL EDITAR PERFIL
+           FUNCIONES DEL MODAL
         ========================== */
         function showEditProfileModal() {
             document.getElementById("edit-modal").style.display = "flex";
@@ -245,53 +210,31 @@
             document.getElementById("edit-modal").style.display = "none";
         }
 
-        /* ==========================
-           EDITAR NOMBRE
-        ========================== */
         async function editName() {
             closeModal();
-            
             const newName = prompt("Ingresa tu nuevo nombre:");
-            if (!newName || newName.trim() === "") return;
+            if (!newName) return;
 
             try {
                 const user = firebase.auth().currentUser;
-
-                // Actualizar en Firebase Auth
                 await user.updateProfile({ displayName: newName });
-
-                // Actualizar en Firestore
-                await firebase.firestore()
-                    .collection("users")
-                    .doc(user.uid)
-                    .update({ displayName: newName });
-
-                // Actualizar en pantalla
+                await firebase.firestore().collection("users").doc(user.uid).update({ displayName: newName });
                 document.getElementById("username").textContent = newName;
-
                 alert("Nombre actualizado correctamente");
-
             } catch (error) {
-                console.error("Error al actualizar nombre:", error);
                 alert("Error al actualizar el nombre");
             }
         }
 
-        /* ==========================
-           CAMBIAR ICONO
-        ========================== */
         function changeIcon() {
             closeModal();
             window.location.href = "config/iconos.html";
         }
 
-        /* ==========================
-           CERRAR SESIÓN
-        ========================== */
         async function logout() {
             try {
                 await firebase.auth().signOut();
-                location.href = "login.html";   // ← Redirige a login.html
+                location.href = "login.html";
             } catch (error) {
                 console.error("Error al cerrar sesión:", error);
             }
