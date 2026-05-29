@@ -1,0 +1,111 @@
+{
+  "id_tmdb": 13413,
+  "poster": "https://image.tmdb.org/t/p/w500/zQ7FsHbl2r75tfhqaU1vGNtK1Ec.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gaLg3gpoJScDNfkDw4itX79Gi8x.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rkZD9OCxB0mG6JTroaRPpoEFa09.png",
+  "titulo": "WALL·E en BURN·E",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.505,
+  "año": "2008",
+  "duracion": "0h 8min",
+  "edad_minima": 13,
+  "sinopsis": "Cortometraje de Pixar.  ¿Hasta dónde llegaria un robot para hacer su trabajo?  BURN·E es un robot dedicado y trabajador que se encuentra encerrado en su barco (nave).  BURN·E aprende rápidamente que completar una tarea simple a menudo puede ser una tarea muy difícil.",
+  "fecha_estreno": "2008-11-17",
+  "titulo_original": "BURN·E",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Angus MacLane",
+      "personaje": "BURN-E (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hSdzAk70cHvxvOFvZn8qiNnZPoZ.jpg"
+    },
+    {
+      "nombre": "Tessa Swigart",
+      "personaje": "Maintenance Computer (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Ben Burtt",
+      "personaje": "WALL·E / M-O (voice) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/7asFDWjls2bYQSfXJf5StjXmlhI.jpg"
+    },
+    {
+      "nombre": "Jeff Garlin",
+      "personaje": "Captain (voice) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/8shJOwynglerVVxhOKbvDYTThBd.jpg"
+    },
+    {
+      "nombre": "Elissa Knight",
+      "personaje": "EVE (voice) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/exRLyaNaHcgawQA0DoBxo5IvdoI.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Angus MacLane",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Derek Thompson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Angus MacLane",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Raymond Wong",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Brandon Onstott",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jacob Speirs",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Stephen King",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Bloom",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ben Burtt",
+      "rol": "Sound Designer"
+    }
+  ],
+  "director": "Angus MacLane",
+  "valoraciones": {
+    "tmdb": 7.505,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://1a-1791.com/video/fwe2/f8/s8/2/e/x/5/X/ex5Xz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=osErRS4m4S8"
+}
