@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 21542,
+  "poster": "https://image.tmdb.org/t/p/w500/3Lr5FSzeTno0Ybg9N8bpdXx6xOU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bYk4H2MSvNWckhrYhZNQHe8v90o.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mwgf08oBSX26HL5Y2khYfbPJQE0.png",
+  "titulo": "El amor no cuesta nada",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.611,
+  "año": "2003",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Un chico poco popular en el insituto paga a una cheerleader para que finja ser su novia y así adquirir su deseada popularidad. Remake, versión afroamericana, de la comedia para adolescentes de 1987 \"Can't Buy Me Love\" (No puedes comprar mi amor), protagonizada entonces por Patrick Dempsey.",
+  "fecha_estreno": "2003-12-12",
+  "titulo_original": "Love Don't Co$t a Thing",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Nick Cannon",
+      "personaje": "Alvin Johnson",
+      "foto": "https://image.tmdb.org/t/p/w500/u8b5uinYCwdlCu6P3qcKZqeCgQe.jpg"
+    },
+    {
+      "nombre": "Christina Milian",
+      "personaje": "Paris Morgan",
+      "foto": "https://image.tmdb.org/t/p/w500/9aBvgyiWKk90pbCFMR1JBgwcriu.jpg"
+    },
+    {
+      "nombre": "Kenan Thompson",
+      "personaje": "Walter Colley",
+      "foto": "https://image.tmdb.org/t/p/w500/vHPhDGc1om91TzoIQ4zMscpNmxF.jpg"
+    },
+    {
+      "nombre": "Kal Penn",
+      "personaje": "Kenneth Warman",
+      "foto": "https://image.tmdb.org/t/p/w500/yICM1JcxKbEpaqTUreY0yFMIc8W.jpg"
+    },
+    {
+      "nombre": "Steve Harvey",
+      "personaje": "Clarence Johnson",
+      "foto": "https://image.tmdb.org/t/p/w500/m9eYD66VtHPxgrXGhHw7gtugftE.jpg"
+    },
+    {
+      "nombre": "Vanessa Bell Calloway",
+      "personaje": "Vivian Johnson",
+      "foto": "https://image.tmdb.org/t/p/w500/6gJua6IKvhGrCTU1UzgRhOM9oyl.jpg"
+    },
+    {
+      "nombre": "Reagan Gomez-Preston",
+      "personaje": "Olivia",
+      "foto": "https://image.tmdb.org/t/p/w500/n27y65SOqdm4KzQY9GeNReq3Vgl.jpg"
+    },
+    {
+      "nombre": "Nicole Scherzinger",
+      "personaje": "Champagne Girl",
+      "foto": "https://image.tmdb.org/t/p/w500/kKG7zJvVReTipBYDD3aqHj4uPBe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Troy Byer",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Swerdlick",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Troy Byer",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Reuben Cannon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kira Davis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nava Levin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steven P. Wegner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Burg",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Billy Taylor",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Alexander H. Gayner",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "David Ellis",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Joyce Anne Gilstrap",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jennifer Mallini",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Christine Peters",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Carol Brown",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Kweli Calderon",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Jasmine Kimble",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Reuben Cannon",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kim Williams",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Timothy Pearson",
+      "rol": "Foley Artist"
+    }
+  ],
+  "director": "Troy Byer",
+  "valoraciones": {
+    "tmdb": 7.611,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "CRML Productions",
+  "enlace_video": "https://rumble.com/hls-vod/6uevno/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=qi83JMiIq1c"
+}
