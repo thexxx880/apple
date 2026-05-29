@@ -262,7 +262,7 @@ function injectSearchCSS() {
     display: grid;
   grid-template-columns: repeat(
     auto-fill,
-    minmax(125px, 1fr)
+    minmax(190px, 0fr)
 );
     gap: 14px;
     padding: 0 22px 24px;
@@ -332,7 +332,7 @@ function injectSearchCSS() {
 
     .lz-results-grid {
         grid-template-columns:
-            repeat(auto-fill, minmax(110px, 1fr));
+            repeat(auto-fill, minmax(165px, 0fr));
         gap: 12px;
         padding: 0 16px 20px;
     }
@@ -361,7 +361,7 @@ function injectSearchCSS() {
 
     .lz-results-grid {
     grid-template-columns:
-        repeat(auto-fill, minmax(90px, 1fr));
+        repeat(auto-fill, minmax(145px, 0fr));
     gap: 10px;
 }
 
