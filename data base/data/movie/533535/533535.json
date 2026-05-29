@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 533535,
+  "poster": "https://image.tmdb.org/t/p/w500/6aY3OzCIdxoBMYdiH5s17rWFFFA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ufpeVEM64uZHPpzzeiDNIAdaeOD.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8tM2mDr1dj7eaXYrMdLlop3wypw.png",
+  "titulo": "Deadpool & Wolverine",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.569,
+  "año": "2024",
+  "duracion": "2h 8min",
+  "edad_minima": 13,
+  "sinopsis": "Un Wade Wilson apático se esfuerza en la vida civil. Sus días como el mercenario moralmente flexible Deadpool quedaron atrás. Cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe, a regañadientes, volver a la acción junto a un reacio Wolverine.",
+  "fecha_estreno": "2024-07-24",
+  "titulo_original": "Deadpool & Wolverine",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ryan Reynolds",
+      "personaje": "Wade Wilson / Deadpool / Nicepool",
+      "foto": "https://image.tmdb.org/t/p/w500/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+      "nombre": "Hugh Jackman",
+      "personaje": "Logan / Wolverine",
+      "foto": "https://image.tmdb.org/t/p/w500/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg"
+    },
+    {
+      "nombre": "Emma Corrin",
+      "personaje": "Cassandra Nova",
+      "foto": "https://image.tmdb.org/t/p/w500/A9iBXj089rZYN00KgJcYSN8PJ99.jpg"
+    },
+    {
+      "nombre": "Matthew Macfadyen",
+      "personaje": "Mr. Paradox",
+      "foto": "https://image.tmdb.org/t/p/w500/2IWtWZTpAGh8QFVBjry1IZMN7F3.jpg"
+    },
+    {
+      "nombre": "Dafne Keen",
+      "personaje": "Laura / X-23",
+      "foto": "https://image.tmdb.org/t/p/w500/g325OIjIHrFr0te8ewPfhKQ2SKj.jpg"
+    },
+    {
+      "nombre": "Jon Favreau",
+      "personaje": "Happy Hogan",
+      "foto": "https://image.tmdb.org/t/p/w500/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+    },
+    {
+      "nombre": "Morena Baccarin",
+      "personaje": "Vanessa",
+      "foto": "https://image.tmdb.org/t/p/w500/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg"
+    },
+    {
+      "nombre": "Rob Delaney",
+      "personaje": "Peter",
+      "foto": "https://image.tmdb.org/t/p/w500/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rhett Reese",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Paul Wernick",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ryan Reynolds",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan Reynolds",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lauren Shuler Donner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dave Jordan",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Naomi Moore",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Shane Reid",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rhett Reese",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mary McLaglen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh McLaglen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Wendy Jacobson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul Wernick",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "George Dewey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathon Komack Martin",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Shawn Levy",
+  "valoraciones": {
+    "tmdb": 7.569,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://rumble.com/hls-vod/73qazo/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=rrgsj6S0_4A"
+}
