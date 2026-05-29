@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 869,
+  "poster": "https://image.tmdb.org/t/p/w500/rRvUkYCByrlVMy4GMME3iDAe6er.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1N0MYYFvYwpM5fi3mjw4150ReoR.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kwH1aTQoCDPkeJ26cFCbVDsQNtr.png",
+  "titulo": "El Planeta De Los Simios",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Ciencia ficción",
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.771,
+  "año": "2001",
+  "duracion": "1h 59min",
+  "edad_minima": 13,
+  "sinopsis": "Luego de un espectacular aterrizaje forzoso en un planeta inexplorado, el intrépido astronauta Leo Davidson se encuentra atrapado en un mundo salvaje donde los monos parlantes dominan a la raza humana. Desesperado por encontrar un camino a casa, Leo debe evadir al invencible ejército de gorilas liderado por el despiadado general Thade.",
+  "fecha_estreno": "2001-07-26",
+  "titulo_original": "Planet of the Apes",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mark Wahlberg",
+      "personaje": "Captain Leo Davidson",
+      "foto": "https://image.tmdb.org/t/p/w500/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
+    },
+    {
+      "nombre": "Tim Roth",
+      "personaje": "Thade",
+      "foto": "https://image.tmdb.org/t/p/w500/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg"
+    },
+    {
+      "nombre": "Helena Bonham Carter",
+      "personaje": "Ari",
+      "foto": "https://image.tmdb.org/t/p/w500/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "nombre": "Michael Clarke Duncan",
+      "personaje": "Attar",
+      "foto": "https://image.tmdb.org/t/p/w500/3RX8OBqt3gbvFwKYZqiom4O3Ta6.jpg"
+    },
+    {
+      "nombre": "Paul Giamatti",
+      "personaje": "Limbo",
+      "foto": "https://image.tmdb.org/t/p/w500/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+    },
+    {
+      "nombre": "Estella Warren",
+      "personaje": "Daena",
+      "foto": "https://image.tmdb.org/t/p/w500/tE2nM7UcJpDdZwdjSTwY8RfOXyw.jpg"
+    },
+    {
+      "nombre": "Cary-Hiroyuki Tagawa",
+      "personaje": "Krull",
+      "foto": "https://image.tmdb.org/t/p/w500/5F8MQ4J4qIqUwGIfcWN4osrTUtP.jpg"
+    },
+    {
+      "nombre": "David Warner",
+      "personaje": "Sandar",
+      "foto": "https://image.tmdb.org/t/p/w500/sJ5NyKkTmFGyiTrpCnZ1v0DSnQG.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tim Burton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Richard D. Zanuck",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Rosenthal",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "William Broyles Jr.",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lawrence Konner",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chris Lebenzon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Danny Elfman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Philippe Rousselot",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Susan Anderson",
+      "rol": "Costumer"
+    },
+    {
+      "nombre": "Bill Corso",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Amy Schmiederer",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Donna-Lou Henderson",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Martie Schribner",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Barney Burman",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Geneva Nash Morgan",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Mike Smithson",
+      "rol": "Key Makeup Artist"
+    },
+    {
+      "nombre": "Vera Steimberg",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Tim Burton",
+  "valoraciones": {
+    "tmdb": 5.771,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Fox",
+  "enlace_video": "https://rumble.com/hls-vod/74h0he/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=h2yzzzfLSeE"
+}
