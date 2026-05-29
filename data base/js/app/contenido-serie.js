@@ -1,7 +1,5 @@
 // =============================================
-// CONTENIDO-SERIE.JS
-// Lógica completa para página de Series
-// NO MEZCLAR CON contenido.js
+// CONTENIDO-SERIE.JS - Versión Final con Slider + LocalStorage
 // =============================================
 
 const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/serie/";
@@ -189,9 +187,8 @@ async function loadSeasonEpisodes(seriesId, seasonNumber) {
         const res = await fetch(url);
         if (!res.ok) throw new Error("Sin episodios");
         
-        const seasonData = await res.json(); // Nuevo formato: { "1": "url", "2": "url", ... }
+        const seasonData = await res.json();
 
-        // Convertir objeto a array de episodios
         const episodes = Object.keys(seasonData)
             .map(key => ({
                 episode_number: parseInt(key),
@@ -210,22 +207,27 @@ async function loadSeasonEpisodes(seriesId, seasonNumber) {
     }
 }
 
-// ================== RENDERIZAR EPISODIOS ==================
+// ================== RENDERIZAR EPISODIOS EN SLIDER ==================
 function renderEpisodes(episodes, seasonNumber) {
     const container = document.getElementById('episodesList');
     container.innerHTML = '';
+    container.className = 'episodes-slider';
 
     if (!episodes.length) {
         container.innerHTML = `<p style="color:#888; padding:30px;">No hay episodios en esta temporada.</p>`;
         return;
     }
 
-    // Usar el backdrop de la serie como thumbnail para todos los episodios
     const thumbnail = currentSeriesData?.backdrop || 'https://picsum.photos/id/1015/600/340';
+    const lastWatched = getLastWatchedEpisode();
 
     episodes.forEach(ep => {
+        const isActive = lastWatched && 
+                         lastWatched.season === seasonNumber && 
+                         lastWatched.episode === ep.episode_number;
+
         const card = document.createElement('div');
-        card.className = 'episode-card';
+        card.className = `episode-card ${isActive ? 'active-episode' : ''}`;
         card.innerHTML = `
             <div class="episode-thumbnail" style="background-image: url('${thumbnail}')">
                 <div class="episode-number">E${ep.episode_number}</div>
@@ -246,16 +248,63 @@ function renderEpisodes(episodes, seasonNumber) {
                 alert("Este episodio aún no tiene video disponible.");
                 return;
             }
+
+            // Guardar en localStorage
+            saveLastWatchedEpisode(seasonNumber, ep.episode_number);
+
             currentEpisodeData = {
                 video: ep.video_url,
                 poster: thumbnail,
                 title: encodeURIComponent(`${currentSeriesData.titulo} - T${seasonNumber}E${ep.episode_number}`)
             };
+
             document.getElementById('playerModal').style.display = 'flex';
         };
 
         container.appendChild(card);
     });
+
+    // Scroll automático al episodio guardado
+    setTimeout(() => {
+        if (lastWatched && lastWatched.season === seasonNumber) {
+            const activeCard = container.querySelector('.active-episode');
+            if (activeCard) {
+                activeCard.scrollIntoView({ 
+                    behavior: 'smooth', 
+                    block: 'nearest', 
+                    inline: 'center' 
+                });
+            }
+        }
+    }, 700);
+}
+
+// ================== GUARDAR ÚLTIMO EPISODIO VISTO ==================
+function saveLastWatchedEpisode(season, episode) {
+    if (!currentSeriesId) return;
+    
+    const data = {
+        seriesId: currentSeriesId,
+        season: season,
+        episode: episode,
+        timestamp: Date.now()
+    };
+    
+    localStorage.setItem(`lastWatched_${currentSeriesId}`, JSON.stringify(data));
+}
+
+// ================== OBTENER ÚLTIMO EPISODIO VISTO ==================
+function getLastWatchedEpisode() {
+    if (!currentSeriesId) return null;
+    
+    const saved = localStorage.getItem(`lastWatched_${currentSeriesId}`);
+    if (!saved) return null;
+    
+    try {
+        return JSON.parse(saved);
+    } catch (e) {
+        return null;
+    }
 }
 
 // ================== REPRODUCTOR ==================
