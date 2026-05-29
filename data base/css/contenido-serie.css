@@ -667,3 +667,56 @@ html {
 .section-header {
     margin-top: 42px;
 }
+
+/* =============================================
+   SLIDER DE EPISODIOS
+============================================= */
+.episodes-slider {
+    display: flex;
+    gap: 18px;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    padding: 10px 5px 20px;
+    scrollbar-width: none;
+}
+
+.episodes-slider::-webkit-scrollbar {
+    display: none;
+}
+
+.episode-card {
+    flex: 0 0 300px;           /* Ancho fijo de cada tarjeta */
+    min-width: 300px;
+    scroll-snap-align: start;
+}
+
+/* Estilo del episodio activo */
+.episode-card.active-episode {
+    border: 3px solid #e50914;
+    box-shadow: 0 0 0 4px rgba(229, 9, 20, 0.3);
+    transform: scale(1.02);
+}
+
+/* Botones de navegación (opcional pero recomendado) */
+.slider-nav {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.slider-nav button {
+    background: #1f1f1f;
+    border: none;
+    color: white;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 16px;
+    transition: all 0.2s;
+}
+
+.slider-nav button:hover {
+    background: #e50914;
+}
