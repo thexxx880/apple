@@ -1,0 +1,121 @@
+{
+  "id_tmdb": 90660,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/yB8e1BnzrXoPbxfi3GnUgjCiN41.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wJtrctuWTKgIi45zLw9tTjWQFY3.jpg",
+  "logo": "",
+  "titulo": "KENGAN ASHURA",
+  "titulo_original": "ケンガンアシュラ",
+  "fecha_estreno": "2019-07-31",
+  "duracion": "23min",
+  "año": "2019",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.3,
+  "sinopsis": "Ohma Tokita se adentra en un submundo en el que las disputas empresariales se solucionan a base de brutales peleas. El dinero le da igual: él solo quiere luchar y ganar.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Tatsuhisa Suzuki",
+      "personaje": "Tokita Ohma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/foytL2OreKzQcTNftz2qMgClKKg.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "高橋知子",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "池邉真佐哉",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "岩野貢",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "沢辺伸政",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "大島靖",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "阿久澤奈緒子",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "野崎圭一",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "下山和人",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Shigemitsu Hamao",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "吉田健人",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hiroyuki Aoi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "伊藤裕史",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "Masaki Sakamoto",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Hiroaki Kaguchi",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "Kazuaki Morita",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "佐々木礼子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tetsuya Kinoshita",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "石黒達也",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "別役裕之",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "福島涼太",
+      "rol": "CGI Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.3,
+    "imdb": "tt9058134",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": ""
+}
