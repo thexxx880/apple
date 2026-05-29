@@ -1,5 +1,5 @@
 // =============================================
-// TOP 10 NETFLIX STYLE - LZPLAY
+// TOP 10 NETFLIX STYLE - LZPLAY (v2)
 // =============================================
 document.addEventListener('DOMContentLoaded', function () {
     const container = document.getElementById('lzplay-top10-netflix');
@@ -11,7 +11,8 @@ document.addEventListener('DOMContentLoaded', function () {
     const outerContainer = document.querySelector('.lzplay-top10-netflix .outer_container');
 
     const MEDIA_BREAKPOINT = 768;
-    let autoRotateEnabled = window.innerWidth > MEDIA_BREAKPOINT;
+    const isMobile = window.innerWidth <= MEDIA_BREAKPOINT;
+    let autoRotateEnabled = !isMobile;
     let rotationInterval = null;
     let rotationDelay = 5000;
 
@@ -30,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function centerExpandedItem(item, behavior = 'smooth') {
-        if (window.innerWidth > 768 || !outerContainer || !item) return;
+        if (!outerContainer || !item || window.innerWidth > 768) return;
         const doCenter = () => {
             const outerRect = outerContainer.getBoundingClientRect();
             const itemRect = item.getBoundingClientRect();
@@ -91,13 +92,17 @@ document.addEventListener('DOMContentLoaded', function () {
 
             const item = document.createElement('li');
             item.className = 'item_container';
-            if (rank === 1) item.classList.add('expanded');
+
+            // Solo expandir el primero en DESKTOP
+            if (rank === 1 && !isMobile) {
+                item.classList.add('expanded');
+            }
 
             item.innerHTML = `
                 <div class="item_number">${rank}</div>
                 <div class="status-dot" style="background-color: ${hasVideo ? '#22c55e' : '#ef4444'}"></div>
                 <div class="image">
-                    <img src="${rank === 1 ? backdrop : poster}" 
+                    <img src="${(rank === 1 && !isMobile) ? backdrop : poster}" 
                          data-poster="${poster}" 
                          data-backdrop="${backdrop}" 
                          alt="${movie.title}">
@@ -128,10 +133,12 @@ document.addEventListener('DOMContentLoaded', function () {
                     openPlayer(movie, videoData);
                     return;
                 }
+
                 document.querySelectorAll('.lzplay-top10-netflix .item_container').forEach(el => {
                     el.classList.remove('expanded');
                     setImageMode(el, 'poster');
                 });
+
                 item.classList.add('expanded');
                 setImageMode(item, 'backdrop');
                 centerExpandedItem(item, 'smooth');
@@ -155,11 +162,11 @@ document.addEventListener('DOMContentLoaded', function () {
             listContainer.appendChild(item);
         });
 
-        // Centrado inicial en móvil
-        if (window.innerWidth <= 768) {
+        // Centrado inicial en móvil (si hay uno expandido)
+        if (isMobile) {
             setTimeout(() => {
-                const firstItem = getActiveItem();
-                if (firstItem) centerExpandedItem(firstItem, 'auto');
+                const active = getActiveItem();
+                if (active) centerExpandedItem(active, 'auto');
             }, 400);
         }
 
