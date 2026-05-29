@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 250546,
+  "poster": "https://image.tmdb.org/t/p/w500/sFxgTJizaUUI3NByNT80oCVnkA2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pWZ0srAfPx4XyJMlFkKBlmYfx3C.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/55yXzqRXL2pBuXuYEVUWBvit8VK.png",
+  "titulo": "Annabelle",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 5.79,
+  "año": "2014",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "John Form encuentra el regalo perfecto para Mia, su mujer embarazada; una preciosa e inusual muñeca con vestido de novia blanco inmaculado. Sin embargo, la alegría de Mia al recibir a Annabelle no dura mucho...",
+  "fecha_estreno": "2014-10-01",
+  "titulo_original": "Annabelle",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Annabelle Wallis",
+      "personaje": "Mia Form",
+      "foto": "https://image.tmdb.org/t/p/w500/b6PltW1e18BdmRz3nKZ7ID9uZ24.jpg"
+    },
+    {
+      "nombre": "Ward Horton",
+      "personaje": "John Form",
+      "foto": "https://image.tmdb.org/t/p/w500/qN28HktqfOCIaLVRK8W6bofdbvs.jpg"
+    },
+    {
+      "nombre": "Tony Amendola",
+      "personaje": "Father Perez",
+      "foto": "https://image.tmdb.org/t/p/w500/eGgQGEwO2vCqhFcmDfyyjctmWcl.jpg"
+    },
+    {
+      "nombre": "Alfre Woodard",
+      "personaje": "Evelyn",
+      "foto": "https://image.tmdb.org/t/p/w500/jaojqEDdOBWfDpQfdWIbvyLDy5z.jpg"
+    },
+    {
+      "nombre": "Eric Ladin",
+      "personaje": "Detective Clarkin",
+      "foto": "https://image.tmdb.org/t/p/w500/7uX4JUqMmPdrC550BeJWalMv72Y.jpg"
+    },
+    {
+      "nombre": "Kerry O'Malley",
+      "personaje": "Sharon Higgins",
+      "foto": "https://image.tmdb.org/t/p/w500/8a1wpq7lC8S3XiokACHkJOqJv5v.jpg"
+    },
+    {
+      "nombre": "Brian Howe",
+      "personaje": "Pete Higgins",
+      "foto": "https://image.tmdb.org/t/p/w500/6JpzCLWbKG6Hp44r09ro0ZkJDSH.jpg"
+    },
+    {
+      "nombre": "Ivar Brogger",
+      "personaje": "Dr. Burgher",
+      "foto": "https://image.tmdb.org/t/p/w500/g5SGHvfGKvNhCRBfjBXcaP9RKAO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John R. Leonetti",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Peter Safran",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gary Dauberman",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Justin Dzuban",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "John Fox",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Hans Ritter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joseph Bishara",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tom Elkins",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Lia Roldan",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jordan Bass",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Douglas Cumming",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "James Kniest",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Lauren Bass",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Janet Ingram",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Martina Kohl",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "John R. Leonetti",
+  "valoraciones": {
+    "tmdb": 5.79,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Atomic Monster",
+  "enlace_video": "https://rumble.com/hls-vod/77942u/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=8kmLHwKH31M"
+}
