@@ -8,13 +8,13 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
-       
+      
         body {
             font-family: 'Poppins', sans-serif;
             background: #020817;
             color: white;
         }
-       
+      
         .card {
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }
@@ -63,13 +63,13 @@
 </head>
 <body class="min-h-screen pb-12">
     <header id="main-header"></header>
-    
+   
     <div class="max-w-screen-2xl mx-auto px-6 pt-8">
-       
+      
         <!-- BUSCADOR -->
         <div class="mb-8">
             <h1 class="text-4xl font-bold mb-4">Buscar Contenido</h1>
-           
+          
             <div class="flex gap-4">
                 <div class="flex-1 relative">
                     <input type="text" id="search-input"
@@ -77,7 +77,7 @@
                            placeholder="Buscar películas o series... (ej: cadaver novia)">
                     <i class="fas fa-search absolute left-6 top-5 text-xl text-zinc-400"></i>
                 </div>
-               
+              
                 <button onclick="abrirModalFiltros()"
                         class="px-6 py-4 bg-white/10 hover:bg-white/20 border border-white/10 rounded-3xl flex items-center gap-3 text-sm font-medium transition-all">
                     <i class="fas fa-filter"></i>
@@ -85,18 +85,18 @@
                 </button>
             </div>
         </div>
-        
+       
         <!-- CONTADOR -->
         <div class="mb-4 flex items-center justify-between">
             <p class="text-zinc-400" id="result-count">Escribe algo para comenzar a buscar</p>
             <div id="search-stats" class="text-xs text-zinc-500 hidden"></div>
         </div>
-        
+       
         <!-- GRID -->
         <div id="results-grid"
              class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-6">
         </div>
-        
+       
         <!-- SIN RESULTADOS -->
         <div id="no-results" class="hidden text-center py-16">
             <i class="fas fa-search text-6xl text-zinc-700 mb-4"></i>
@@ -104,38 +104,38 @@
             <p class="text-sm text-zinc-500 mt-2">Intenta con otras palabras clave</p>
         </div>
     </div>
-    
+   
     <!-- BOTÓN FLOTANTE -->
     <button onclick="volverArriba()" class="fab hidden" id="btn-volver-arriba">
         <i class="fas fa-arrow-up"></i>
     </button>
-    
+   
     <!-- MODAL DE FILTROS -->
     <div id="modal-filtros" onclick="cerrarModalFiltros()"
          class="hidden fixed inset-0 bg-black/70 backdrop-blur-sm z-[10000] flex items-center justify-center">
         <div onclick="event.stopImmediatePropagation()"
              class="modal bg-[#020817] border border-white/10 rounded-3xl w-full max-w-md mx-4 overflow-hidden">
-           
+          
             <div class="flex items-center justify-between px-6 py-5 border-b border-white/10">
                 <h3 class="text-xl font-semibold">Filtros Avanzados</h3>
                 <button onclick="cerrarModalFiltros()" class="text-3xl text-zinc-400 hover:text-white">×</button>
             </div>
-            
+           
             <div class="p-6 space-y-8">
-               
+              
                 <!-- LETRAS A-Z -->
                 <div>
                     <label class="block text-sm text-zinc-400 mb-3">Empieza con la letra</label>
                     <div class="flex flex-wrap gap-2" id="filtro-letras"></div>
                 </div>
-                
+               
                 <!-- AÑOS (BOTONES) -->
                 <div>
                     <label class="block text-sm text-zinc-400 mb-3">Año</label>
                     <div class="flex flex-wrap gap-2 max-h-40 overflow-y-auto pr-2" id="filtro-anos"></div>
                 </div>
             </div>
-            
+           
             <div class="flex gap-3 p-6 border-t border-white/10">
                 <button onclick="limpiarFiltros()"
                         class="flex-1 py-3 text-sm border border-white/20 rounded-2xl hover:bg-white/5 transition-all">
@@ -148,12 +148,12 @@
             </div>
         </div>
     </div>
-
     <script src="../js/components/navbar.js"></script>
-    
+   
     <script>
-      const SEARCH_JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search/search.json";
-        
+        const SEARCH_JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search/search.json";
+        const SERIES_JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search/search-serie.json";
+       
         let todosLosContenidos = [];
         let contenidosFiltrados = [];
 
@@ -166,79 +166,91 @@
                 .replace(/\s+/g, " ").trim();
         }
 
-        // ==================== BÚSQUEDA INTELIGENTE CON PRIORIDAD ====================
+        // ==================== BÚSQUEDA INTELIGENTE ====================
         function buscarInteligente(query, item) {
             const q = normalizeText(query);
             if (!q || q.length < 2) return { match: false, score: 0, source: '' };
-
             const qWords = q.split(" ").filter(w => w.length > 1);
             if (qWords.length === 0) return { match: false, score: 0, source: '' };
-
+            
             const titleNorm = normalizeText(item.title || "");
             const alternosNorm = normalizeText(item.tituloAlternos || "");
             const sinopsisNorm = normalizeText(item.sinopsis || "");
-
+            
             let totalScore = 0;
             let matchedWords = 0;
             let source = '';
-
+            
             qWords.forEach(qWord => {
                 let wordScore = 0;
                 let wordSource = '';
-
-                // 1. TÍTULO (MÁXIMA PRIORIDAD)
+                
                 if (titleNorm.includes(qWord)) {
                     wordScore = 12;
                     wordSource = 'title';
-                } 
-                // 2. TÍTULOS ALTERNOS
-                else if (alternosNorm.includes(qWord)) {
+                } else if (alternosNorm.includes(qWord)) {
                     wordScore = 8;
                     wordSource = 'alternos';
-                } 
-                // 3. SINOPSIS (BAJA PRIORIDAD)
-                else if (sinopsisNorm.includes(qWord)) {
+                } else if (sinopsisNorm.includes(qWord)) {
                     wordScore = 3;
                     wordSource = 'sinopsis';
                 }
-
+                
                 if (wordScore > 0) {
                     matchedWords++;
                     totalScore += wordScore;
                     if (!source) source = wordSource;
                 }
             });
-
+            
             const allWordsMatched = matchedWords === qWords.length;
             if (!allWordsMatched) return { match: false, score: 0, source: '' };
-
-            // Bonus si la frase completa aparece en el título
+            
             if (titleNorm.includes(q) || q.includes(titleNorm)) {
                 totalScore += 20;
             }
-
-            return { 
-                match: true, 
-                score: totalScore, 
-                source: source 
+            
+            return {
+                match: true,
+                score: totalScore,
+                source: source
             };
         }
 
-        // ==================== CARGAR DATOS ====================
+        // ==================== CARGAR DATOS (PELÍCULAS + SERIES) ====================
         async function cargarDatos() {
             try {
-                const res = await fetch(SEARCH_JSON_URL);
-                const data = await res.json();
+                const [resMovies, resSeries] = await Promise.all([
+                    fetch(SEARCH_JSON_URL),
+                    fetch(SERIES_JSON_URL)
+                ]);
                 
-                todosLosContenidos = data.map(item => ({
-                    id: item.id_tmdb,
-                    url: item.url,
-                    title: item.titulo || "",
-                    poster: item.poster,
-                    year: item.año || "N/A",
-                    sinopsis: item.sinopsis || "",
-                    tituloAlternos: item["titulo alternos"] || ""
-                }));
+                const movies = await resMovies.json();
+                const series = await resSeries.json();
+                
+                // Unimos ambos catálogos
+                todosLosContenidos = [
+                    ...movies.map(item => ({
+                        id: item.id_tmdb,
+                        url: item.url,
+                        title: item.titulo || "",
+                        poster: item.poster,
+                        year: item.año || "N/A",
+                        sinopsis: item.sinopsis || "",
+                        tituloAlternos: item["titulo alternos"] || "",
+                        tipo: 'pelicula'
+                    })),
+                    ...series.map(item => ({
+                        id: item.id_tmdb || item.id,
+                        url: item.url,
+                        title: item.titulo || "",
+                        poster: item.poster,
+                        year: item.año || "N/A",
+                        sinopsis: item.sinopsis || "",
+                        tituloAlternos: item["titulo alternos"] || "",
+                        tipo: 'serie'
+                    }))
+                ];
                 
                 inicializarFiltros();
             } catch (error) {
@@ -251,21 +263,25 @@
             const grid = document.getElementById("results-grid");
             const noResults = document.getElementById("no-results");
             const count = document.getElementById("result-count");
-
+            
             grid.innerHTML = "";
             noResults.classList.add("hidden");
-
+            
             if (contenidosFiltrados.length === 0) {
                 noResults.classList.remove("hidden");
                 count.textContent = "No se encontraron resultados";
                 return;
             }
-
+            
             count.textContent = `${contenidosFiltrados.length} resultados encontrados`;
-
+            
             contenidosFiltrados.forEach(item => {
                 const card = document.createElement("div");
                 card.className = "card cursor-pointer group";
+                
+                const tipoLabel = item.tipo === 'serie' ? 'Serie' : 'Película';
+                const tipoIcon = item.tipo === 'serie' ? 'fa-tv' : 'fa-film';
+                const tipoColor = item.tipo === 'serie' ? 'text-purple-400' : 'text-blue-400';
                 
                 card.innerHTML = `
                     <div class="poster-container rounded-3xl overflow-hidden shadow-2xl border border-white/10 relative">
@@ -273,26 +289,32 @@
                              alt="${item.title}"
                              class="w-full aspect-[2/3] object-cover transition-transform group-hover:scale-110"
                              loading="lazy">
-                       
+                      
                         <div class="rating absolute top-3 right-3 flex items-center gap-1 text-xs font-bold px-2.5 py-1 rounded-2xl">
                             <i class="fas fa-star text-yellow-400"></i>
                             <span>8.5</span>
                         </div>
+                        
+                        <!-- Badge de tipo -->
+                        <div class="absolute top-3 left-3 px-2.5 py-1 rounded-2xl text-xs font-bold flex items-center gap-1.5 ${item.tipo === 'serie' ? 'bg-purple-600/90' : 'bg-blue-600/90'}">
+                            <i class="fas ${tipoIcon}"></i>
+                            <span>${tipoLabel}</span>
+                        </div>
                     </div>
-                   
+                  
                     <div class="mt-3 px-1">
                         <h3 class="font-semibold text-base line-clamp-2 leading-tight group-hover:text-blue-400 transition-colors">
                             ${item.title}
                         </h3>
                         <div class="flex items-center justify-between text-xs text-zinc-400 mt-2">
                             <span>${item.year}</span>
-                            <span class="flex items-center gap-1">
-                                <i class="fas fa-film text-[10px]"></i> Película
+                            <span class="flex items-center gap-1 ${tipoColor}">
+                                <i class="fas ${tipoIcon} text-[10px]"></i> ${tipoLabel}
                             </span>
                         </div>
                     </div>
                 `;
-                
+               
                 card.onclick = () => window.location.href = item.url;
                 grid.appendChild(card);
             });
@@ -302,7 +324,7 @@
         function inicializarFiltros() {
             const letrasContainer = document.getElementById("filtro-letras");
             letrasContainer.innerHTML = "";
-           
+          
             for (let i = 65; i <= 90; i++) {
                 const letra = String.fromCharCode(i);
                 const btn = document.createElement("button");
@@ -311,12 +333,12 @@
                 btn.onclick = () => btn.classList.toggle("filtro-activo");
                 letrasContainer.appendChild(btn);
             }
-
+            
             const anosContainer = document.getElementById("filtro-anos");
             const anosUnicos = [...new Set(todosLosContenidos.map(item => item.year))]
                 .filter(año => año !== "N/A")
                 .sort((a, b) => b - a);
-            
+           
             anosUnicos.forEach(año => {
                 const btn = document.createElement("button");
                 btn.className = "px-4 py-1.5 text-xs bg-white/10 hover:bg-white/20 rounded-2xl border border-white/10 transition-all";
@@ -333,31 +355,27 @@
                 .map(b => b.textContent);
             const anosActivos = Array.from(document.querySelectorAll("#filtro-anos button.filtro-activo"))
                 .map(b => b.textContent);
-
+            
             contenidosFiltrados = todosLosContenidos
                 .map(item => {
                     const result = buscarInteligente(query, item);
-                    return { 
-                        ...item, 
-                        _score: result.score, 
-                        _source: result.source 
+                    return {
+                        ...item,
+                        _score: result.score,
+                        _source: result.source
                     };
                 })
                 .filter(item => {
                     if (query.length >= 2 && item._score === 0) return false;
-                    
                     if (letrasActivas.length > 0 && !letrasActivas.includes(item.title[0].toUpperCase())) return false;
                     if (anosActivos.length > 0 && !anosActivos.includes(item.year)) return false;
-                    
                     return true;
                 })
                 .sort((a, b) => {
-                    // 1. Por score (relevancia)
                     if (b._score !== a._score) return b._score - a._score;
-                    // 2. Por ID (ascendente)
                     return a.id - b.id;
                 });
-
+            
             cerrarModalFiltros();
             renderizarResultados();
         }
@@ -366,7 +384,7 @@
         function limpiarFiltros() {
             document.getElementById("search-input").value = "";
             document.querySelectorAll("#filtro-letras button, #filtro-anos button").forEach(b => b.classList.remove("filtro-activo"));
-           
+          
             contenidosFiltrados = [];
             document.getElementById("results-grid").innerHTML = "";
             document.getElementById("result-count").textContent = "Escribe algo para comenzar a buscar";
@@ -378,25 +396,25 @@
             document.getElementById("modal-filtros").classList.remove("hidden");
             document.getElementById("modal-filtros").classList.add("flex");
         }
-
+        
         function cerrarModalFiltros() {
             document.getElementById("modal-filtros").classList.add("hidden");
             document.getElementById("modal-filtros").classList.remove("flex");
         }
-
+        
         function volverArriba() {
             window.scrollTo({ top: 0, behavior: "smooth" });
         }
 
         // ==================== BÚSQUEDA EN TIEMPO REAL ====================
         let searchTimeout;
-        
+       
         document.getElementById("search-input").addEventListener("input", () => {
             clearTimeout(searchTimeout);
-            
+           
             searchTimeout = setTimeout(() => {
                 const query = document.getElementById("search-input").value.trim();
-                
+               
                 if (query.length < 2) {
                     contenidosFiltrados = [];
                     document.getElementById("results-grid").innerHTML = "";
@@ -404,14 +422,14 @@
                     document.getElementById("no-results").classList.add("hidden");
                     return;
                 }
-
+                
                 contenidosFiltrados = todosLosContenidos
                     .map(item => {
                         const result = buscarInteligente(query, item);
-                        return { 
-                            ...item, 
-                            _score: result.score, 
-                            _source: result.source 
+                        return {
+                            ...item,
+                            _score: result.score,
+                            _source: result.source
                         };
                     })
                     .filter(item => item._score > 0)
@@ -419,7 +437,7 @@
                         if (b._score !== a._score) return b._score - a._score;
                         return a.id - b.id;
                     });
-
+                
                 renderizarResultados();
             }, 160);
         });
