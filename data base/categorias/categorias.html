@@ -8,70 +8,37 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="../css/navbar.css">
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
-        
-        body {
-            font-family: 'Poppins', sans-serif;
-            background: #020817;
-            color: white;
-        }
-        
+        body { font-family: 'Poppins', sans-serif; background: #020817; color: white; }
         .page-content { padding-top: 8rem; }
         @media (max-width: 768px) { .page-content { padding-top: 5rem; } }
 
-        .card {
-            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-        }
-        .card:hover {
-            transform: scale(1.06);
-            box-shadow: 0 20px 40px rgba(0,0,0,.45);
-        }
+        .card { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+        .card:hover { transform: scale(1.06); box-shadow: 0 20px 40px rgba(0,0,0,.45); }
 
-        .poster-container {
-            position: relative;
-            overflow: hidden;
-            background: #111827;
-        }
+        .poster-container { position: relative; overflow: hidden; background: #111827; }
 
-        .rating {
-            background: rgba(15, 23, 42, 0.95);
-            backdrop-filter: blur(8px);
-        }
+        .rating { background: rgba(15, 23, 42, 0.95); backdrop-filter: blur(8px); }
 
-        .categoria-btn.active {
-            background: #2563eb !important;
-            color: white !important;
-        }
-
-        /* Botón flotante */
         .fab {
-            position: fixed;
-            bottom: 24px;
-            right: 24px;
-            width: 56px;
-            height: 56px;
-            background: #2563eb;
-            color: white;
-            border-radius: 9999px;
+            position: fixed; bottom: 24px; right: 24px; width: 56px; height: 56px;
+            background: #2563eb; color: white; border-radius: 9999px;
             box-shadow: 0 10px 30px rgba(37, 99, 235, 0.4);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.5rem;
-            z-index: 9999;
-            transition: all 0.3s ease;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.5rem; z-index: 9999; transition: all 0.3s ease;
         }
-        .fab:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 15px 40px rgba(37, 99, 235, 0.5);
-        }
+        .fab:hover { transform: translateY(-4px); box-shadow: 0 15px 40px rgba(37, 99, 235, 0.5); }
 
-        .modal {
-            animation: modalPop 0.2s ease forwards;
-        }
+        .modal { animation: modalPop 0.2s ease forwards; }
         @keyframes modalPop {
             from { opacity: 0; transform: scale(0.95); }
             to { opacity: 1; transform: scale(1); }
+        }
+
+        /* Estilo activo para filtros */
+        .filtro-activo {
+            background-color: #2563eb !important;
+            color: white !important;
+            border-color: #2563eb !important;
         }
     </style>
 </head>
@@ -91,7 +58,6 @@
         <!-- CONTENIDO PRINCIPAL -->
         <div id="contenido-principal" class="hidden">
             
-            <!-- HEADER + FILTRO -->
             <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-8">
                 <div>
                     <h1 class="text-4xl font-bold">Películas</h1>
@@ -106,16 +72,14 @@
                 </button>
             </div>
 
-            <!-- GRID DE PELÍCULAS -->
+            <!-- GRID -->
             <div id="grid-peliculas" 
                  class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-6">
-                <!-- Se llena con JS -->
             </div>
 
             <!-- BOTÓN CARGAR MÁS -->
             <div class="flex justify-center mt-10">
-                <button id="btn-cargar-mas"
-                        onclick="cargarMas()"
+                <button id="btn-cargar-mas" onclick="cargarMas()"
                         class="hidden px-10 py-3 bg-white/10 hover:bg-white/20 border border-white/10 rounded-3xl text-sm font-medium flex items-center gap-3">
                     <span>Cargar más</span>
                     <i class="fas fa-chevron-down"></i>
@@ -125,8 +89,7 @@
     </div>
 
     <!-- BOTÓN FLOTANTE VOLVER ARRIBA -->
-    <button onclick="volverArriba()" 
-            class="fab hidden" id="btn-volver-arriba">
+    <button onclick="volverArriba()" class="fab hidden" id="btn-volver-arriba">
         <i class="fas fa-arrow-up"></i>
     </button>
 
@@ -136,7 +99,6 @@
         <div onclick="event.stopImmediatePropagation()" 
              class="modal bg-[#020817] border border-white/10 rounded-3xl w-full max-w-md mx-4 overflow-hidden">
             
-            <!-- Header del modal -->
             <div class="flex items-center justify-between px-6 py-5 border-b border-white/10">
                 <h3 class="text-xl font-semibold">Filtrar películas</h3>
                 <button onclick="cerrarModalFiltros()" class="text-3xl text-zinc-400 hover:text-white">×</button>
@@ -156,16 +118,13 @@
                 <div>
                     <label class="block text-sm text-zinc-400 mb-3">Categorías</label>
                     <div id="filtro-categorias" class="flex flex-wrap gap-2 max-h-40 overflow-y-auto pr-2">
-                        <!-- Se generan dinámicamente -->
                     </div>
                 </div>
 
                 <!-- Letra -->
                 <div>
                     <label class="block text-sm text-zinc-400 mb-3">Empieza con la letra</label>
-                    <div class="flex flex-wrap gap-2" id="filtro-letras">
-                        <!-- Se generan con JS -->
-                    </div>
+                    <div class="flex flex-wrap gap-2" id="filtro-letras"></div>
                 </div>
 
                 <!-- Año -->
@@ -197,16 +156,14 @@
 
     <script src="../js/components/navbar.js"></script>
     <script>
-        // ====================== CONFIG ======================
         const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
         const BASE_JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/base/base.json";
 
         let todosLosContenidos = [];
         let contenidosFiltrados = [];
         let displayedCount = 15;
-        let observer; // Intersection Observer
+        let observer;
 
-        // ====================== FUNCIONES TMDB ======================
         async function fetchTMDB(endpoint) {
             try {
                 const res = await fetch(`https://api.themoviedb.org/3/${endpoint}${endpoint.includes('?') ? '&' : '?'}api_key=${TMDB_API_KEY}&language=es-ES`);
@@ -214,7 +171,6 @@
             } catch (e) { return null; }
         }
 
-        // ====================== CARGAR DATOS ======================
         async function cargarTodo() {
             const loading = document.getElementById("loading");
             const principal = document.getElementById("contenido-principal");
@@ -247,10 +203,8 @@
                 
                 document.getElementById("total-contenido").textContent = `${todosLosContenidos.length} películas`;
 
-                // Inicializar filtros
                 inicializarFiltrosModal();
 
-                // Mostrar "Todos" por defecto
                 contenidosFiltrados = [...todosLosContenidos];
                 renderizarPeliculas();
 
@@ -263,7 +217,6 @@
             }
         }
 
-        // ====================== RENDERIZAR PELÍCULAS (15 en 15 + Lazy Load) ======================
         function renderizarPeliculas(reset = true) {
             const grid = document.getElementById("grid-peliculas");
             const btnCargarMas = document.getElementById("btn-cargar-mas");
@@ -275,7 +228,7 @@
 
             const porMostrar = contenidosFiltrados.slice(0, displayedCount);
 
-            porMostrar.forEach((item, index) => {
+            porMostrar.forEach((item) => {
                 const card = document.createElement("div");
                 card.className = "card cursor-pointer group";
                 card.innerHTML = `
@@ -303,14 +256,13 @@
                     </div>
                 `;
 
-                card.onclick = () => window.open(item.url, "_blank");
+                // ABRIR EN LA MISMA PÁGINA
+                card.onclick = () => window.location.href = item.url;
                 grid.appendChild(card);
             });
 
-            // Activar Intersection Observer para imágenes
             activarLazyLoading();
 
-            // Mostrar/ocultar botón "Cargar más"
             if (displayedCount < contenidosFiltrados.length) {
                 btnCargarMas.classList.remove("hidden");
                 btnCargarMas.classList.add("flex");
@@ -324,7 +276,6 @@
             renderizarPeliculas(false);
         }
 
-        // ====================== LAZY LOADING CON INTERSECTION OBSERVER ======================
         function activarLazyLoading() {
             if (observer) observer.disconnect();
 
@@ -337,11 +288,9 @@
                         observer.unobserve(img);
                     }
                 });
-            }, { rootMargin: "200px" }); // Carga 200px antes de entrar en pantalla
+            }, { rootMargin: "200px" });
 
-            document.querySelectorAll(".lazy-image").forEach(img => {
-                observer.observe(img);
-            });
+            document.querySelectorAll(".lazy-image").forEach(img => observer.observe(img));
         }
 
         // ====================== MODAL DE FILTROS ======================
@@ -362,11 +311,10 @@
             for (let i = 65; i <= 90; i++) {
                 const letra = String.fromCharCode(i);
                 const btn = document.createElement("button");
-                btn.className = "px-3 py-1 text-xs bg-white/10 hover:bg-white/20 rounded-xl border border-white/10";
+                btn.className = "px-3 py-1 text-xs bg-white/10 hover:bg-white/20 rounded-xl border border-white/10 transition-all";
                 btn.textContent = letra;
                 btn.onclick = () => {
-                    btn.classList.toggle("bg-blue-600");
-                    btn.classList.toggle("text-white");
+                    btn.classList.toggle("filtro-activo");
                 };
                 letrasContainer.appendChild(btn);
             }
@@ -386,37 +334,35 @@
 
             categoriasUnicas.forEach(cat => {
                 const div = document.createElement("div");
-                div.className = "px-4 py-1.5 text-xs bg-white/10 hover:bg-white/20 rounded-2xl cursor-pointer border border-white/10";
+                div.className = "px-4 py-1.5 text-xs bg-white/10 hover:bg-white/20 rounded-2xl cursor-pointer border border-white/10 transition-all";
                 div.textContent = cat;
-                div.onclick = () => div.classList.toggle("bg-blue-600");
+                div.onclick = () => div.classList.toggle("filtro-activo");
                 catsContainer.appendChild(div);
             });
         }
 
         function aplicarFiltros() {
             const nombre = document.getElementById("filtro-nombre").value.toLowerCase().trim();
-            const letrasActivas = Array.from(document.querySelectorAll("#filtro-letras button.bg-blue-600")).map(b => b.textContent);
+            
+            const letrasActivas = Array.from(document.querySelectorAll("#filtro-letras button.filtro-activo"))
+                .map(b => b.textContent);
+            
             const anoMin = document.getElementById("filtro-ano-min").value;
             const anoMax = document.getElementById("filtro-ano-max").value;
-            const catsActivas = Array.from(document.querySelectorAll("#filtro-categorias div.bg-blue-600")).map(d => d.textContent);
+            
+            const catsActivas = Array.from(document.querySelectorAll("#filtro-categorias div.filtro-activo"))
+                .map(d => d.textContent);
 
             contenidosFiltrados = todosLosContenidos.filter(item => {
-                // Nombre
                 if (nombre && !item.title.toLowerCase().includes(nombre)) return false;
-
-                // Letra
                 if (letrasActivas.length > 0 && !letrasActivas.includes(item.title[0].toUpperCase())) return false;
-
-                // Año
                 if (anoMin && item.year < anoMin) return false;
                 if (anoMax && item.year > anoMax) return false;
 
-                // Categorías
                 if (catsActivas.length > 0) {
                     const itemCats = item.genres.map(g => g.name);
                     if (!catsActivas.some(cat => itemCats.includes(cat))) return false;
                 }
-
                 return true;
             });
 
@@ -426,22 +372,20 @@
 
         function limpiarFiltros() {
             document.getElementById("filtro-nombre").value = "";
-            document.querySelectorAll("#filtro-letras button").forEach(b => b.classList.remove("bg-blue-600", "text-white"));
+            document.querySelectorAll("#filtro-letras button").forEach(b => b.classList.remove("filtro-activo"));
             document.getElementById("filtro-ano-min").value = "";
             document.getElementById("filtro-ano-max").value = "";
-            document.querySelectorAll("#filtro-categorias div").forEach(d => d.classList.remove("bg-blue-600"));
+            document.querySelectorAll("#filtro-categorias div").forEach(d => d.classList.remove("filtro-activo"));
 
             contenidosFiltrados = [...todosLosContenidos];
             cerrarModalFiltros();
             renderizarPeliculas(true);
         }
 
-        // ====================== BOTÓN VOLVER ARRIBA ======================
         function volverArriba() {
             window.scrollTo({ top: 0, behavior: "smooth" });
         }
 
-        // Mostrar/Ocultar botón flotante
         window.addEventListener("scroll", () => {
             const btn = document.getElementById("btn-volver-arriba");
             if (window.scrollY > 400) {
@@ -453,7 +397,6 @@
             }
         });
 
-        // ====================== INICIAR ======================
         window.onload = () => {
             if (typeof initNavbar === "function") {
                 initNavbar("main-header");
