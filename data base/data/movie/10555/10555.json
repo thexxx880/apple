@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 10555,
+  "poster": "https://image.tmdb.org/t/p/w500/3vI17Q3mfkIEpvwItomxMy5w1gw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7ZmZxar3bYORcl0TPA4oceyxcaE.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vKFyTAlxTDqeEEAeYm9cXJxl18p.png",
+  "titulo": "El espanta tiburones",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.039,
+  "año": "2004",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando el hijo de un jefe gángster de los tiburones muere accidentalmente durante la caza, su presa potencial y su hermano vegetariano deciden utilizar el incidente en su propio beneficio.",
+  "fecha_estreno": "2004-09-20",
+  "titulo_original": "Shark Tale",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Will Smith",
+      "personaje": "Oscar (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+    },
+    {
+      "nombre": "Robert De Niro",
+      "personaje": "Don Lino (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "nombre": "Renée Zellweger",
+      "personaje": "Angie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iNnPqkEF0hPWhmWpjyuLuUdbKN8.jpg"
+    },
+    {
+      "nombre": "Jack Black",
+      "personaje": "Lenny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "nombre": "Angelina Jolie",
+      "personaje": "Lola (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
+    },
+    {
+      "nombre": "Ziggy Marley",
+      "personaje": "Ernie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9WZVDvWi6P8sg5hQ6JUf017d2SQ.jpg"
+    },
+    {
+      "nombre": "Martin Scorsese",
+      "personaje": "Sykes (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg"
+    },
+    {
+      "nombre": "David P. Smith",
+      "personaje": "Crazy Joe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aStDapu9EAObbEwXyE1L2tDs7qN.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bill Damaschke",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael J. Wilson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Allison Lyon Segan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Janet Healy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rob Letterman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lona Williams",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Vicky Jenson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bibo Bergeron",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Venzon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Peter Lonsdale",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Andie Derrick",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Peter Burgis",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Missy Elliott",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Christina Aguilera",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Laura Z. Wasserman",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Kevin Rafferty",
+      "rol": "CGI Supervisor"
+    },
+    {
+      "nombre": "Steve Cunningham",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Simon Otto",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Jean-Francois Rey",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Vicky Jenson",
+  "valoraciones": {
+    "tmdb": 6.039,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/X/m/V/y/XmVyr.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=mp2SbaK8dDg"
+}
