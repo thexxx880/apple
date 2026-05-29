@@ -1,3 +1,7 @@
+// =============================================
+// NAVBAR - LZPLAY (v5.3)
+// Ruta correcta al buscador
+// =============================================
 
 function renderNavbar(containerId = "main-header") {
     const container = document.getElementById(containerId);
@@ -12,15 +16,15 @@ function renderNavbar(containerId = "main-header") {
             <a href="https://lzplayhd.online/apple/data%20base/data/movie.html" class="nav-link">Películas</a>
             <a href="https://lzplayhd.online/apple/data%20base/data/serie.html" class="nav-link">Series</a>
             
-            <!-- ICONO DE BÚSQUEDA (solo enlace) -->
-            <a href="../search/search.html" class="search-icon-link" id="searchIcon">
+            <!-- ICONO DE BÚSQUEDA -->
+            <a href="search/search.html" class="search-icon-link" id="searchIcon">
                 <i class="fas fa-search"></i>
             </a>
         </div>
         
         <div class="icons">
             <!-- ICONO MÓVIL -->
-            <a href="../search/search.html" class="icon-btn mobile-search" id="mobileSearchIcon">
+            <a href="search/search.html" class="icon-btn mobile-search" id="mobileSearchIcon">
                 <i class="fas fa-search"></i>
             </a>
             
@@ -32,10 +36,6 @@ function renderNavbar(containerId = "main-header") {
     `;
 
     initNavbarEffects(container);
-    
-    // Opcional: Puedes cambiar estos enlaces desde aquí
-    // document.getElementById("searchIcon").href = "TU_PAGINA_AQUI";
-    // document.getElementById("mobileSearchIcon").href = "TU_PAGINA_AQUI";
 }
 
 // ==================== EFECTOS NAVBAR ====================
@@ -50,7 +50,7 @@ function initNavbarEffects(headerElement) {
 // ==================== INIT ====================
 function initNavbar(containerId = "main-header") {
     renderNavbar(containerId);
-    console.log("%c✅ Navbar simple listo (v5.1 - Sin búsqueda)", "color:#22c55e;font-weight:bold");
+    console.log("%c✅ Navbar actualizado (v5.3)", "color:#22c55e;font-weight:bold");
 }
 
 window.initNavbar = initNavbar;
