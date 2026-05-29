@@ -108,73 +108,171 @@
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
     <script src="js/firebase/applelz.js"></script>
 
-    <script>
-        /* ==========================
-           CARGAR ICONO DESDE FIRESTORE
-        ========================== */
-        firebase.auth().onAuthStateChanged(async (user) => {
-            if (!user) {
-                window.location.href = "login.html";
-                return;
-            }
+   <script>
 
-            document.getElementById("username").textContent = user.displayName || "Usuario LzPlay";
+    // ==========================
+    // CARGAR PERFIL
+    // ==========================
+    firebase.auth().onAuthStateChanged(async (user) => {
 
-            // Cargar icono desde Firestore
-            try {
-                const doc = await firebase.firestore()
-                    .collection("users")
-                    .doc(user.uid)
-                    .get();
+        if (!user) {
+            window.location.href = "login.html";
+            return;
+        }
 
-                if (doc.exists && doc.data().profileIcon) {
-                    document.getElementById("user-avatar").src = doc.data().profileIcon;
+        try {
+
+            const userDoc = await firebase.firestore()
+                .collection("users")
+                .doc(user.uid)
+                .get();
+
+            // ==========================
+            // DATOS FIRESTORE
+            // ==========================
+            if (userDoc.exists) {
+
+                const data = userDoc.data();
+
+                // NOMBRE
+                document.getElementById("username").textContent =
+                    data.displayName || "Usuario LzPlay";
+
+                // ICONO
+                if (data.profileIcon) {
+
+                    document.getElementById("user-avatar").src =
+                        data.profileIcon;
+
+                    // Guardar cache local
+                    localStorage.setItem(
+                        "profileIcon",
+                        data.profileIcon
+                    );
+
                 }
-            } catch (error) {
-                console.error("Error cargando icono:", error);
+
+                console.log("✅ Perfil cargado:", data);
+
+            } else {
+
+                console.log("❌ Documento no encontrado");
+
             }
-        });
 
-        /* ==========================
-           MODAL EDITAR PERFIL
-        ========================== */
-        function showEditProfileModal() {
-            document.getElementById("edit-modal").style.display = "flex";
-        }
+        } catch (error) {
 
-        function closeModal() {
-            document.getElementById("edit-modal").style.display = "none";
-        }
+            console.error("❌ Error cargando perfil:", error);
 
-        async function editName() {
-            closeModal();
-            const newName = prompt("Ingresa tu nuevo nombre:");
-            if (!newName) return;
+            // ==========================
+            // FALLBACK LOCALSTORAGE
+            // ==========================
+            const savedIcon =
+                localStorage.getItem("profileIcon");
 
-            try {
-                const user = firebase.auth().currentUser;
-                await user.updateProfile({ displayName: newName });
-                await firebase.firestore().collection("users").doc(user.uid).update({ displayName: newName });
-                document.getElementById("username").textContent = newName;
-                alert("Nombre actualizado correctamente");
-            } catch (error) {
-                alert("Error al actualizar el nombre");
+            if (savedIcon) {
+
+                document.getElementById("user-avatar").src =
+                    savedIcon;
+
             }
+
         }
 
-        function changeIcon() {
-            closeModal();
-            window.location.href = "config/iconos.html";
+    });
+
+
+    // ==========================
+    // MODAL
+    // ==========================
+    function showEditProfileModal() {
+
+        document.getElementById("edit-modal").style.display = "flex";
+
+    }
+
+    function closeModal() {
+
+        document.getElementById("edit-modal").style.display = "none";
+
+    }
+
+
+    // ==========================
+    // EDITAR NOMBRE
+    // ==========================
+    async function editName() {
+
+        closeModal();
+
+        const newName = prompt("Ingresa tu nuevo nombre:");
+
+        if (!newName) return;
+
+        try {
+
+            const user = firebase.auth().currentUser;
+
+            await user.updateProfile({
+                displayName: newName
+            });
+
+            await firebase.firestore()
+                .collection("users")
+                .doc(user.uid)
+                .update({
+                    displayName: newName
+                });
+
+            document.getElementById("username").textContent =
+                newName;
+
+            alert("✅ Nombre actualizado");
+
+        } catch (error) {
+
+            console.error(error);
+
+            alert("❌ Error al actualizar nombre");
+
         }
 
-        async function logout() {
-            try {
-                await firebase.auth().signOut();
-                window.location.href = "login.html";
-            } catch (error) {
-                console.error("Error al cerrar sesión:", error);
-            }
+    }
+
+
+    // ==========================
+    // CAMBIAR ICONO
+    // ==========================
+    function changeIcon() {
+
+        closeModal();
+
+        window.location.href = "config/iconos.html";
+
+    }
+
+
+    // ==========================
+    // LOGOUT
+    // ==========================
+    async function logout() {
+
+        try {
+
+            localStorage.removeItem("profileIcon");
+
+            await firebase.auth().signOut();
+
+            window.location.href = "login.html";
+
+        } catch (error) {
+
+            console.error("❌ Error logout:", error);
+
         }
-    </script>
+
+    }
+
+</script>
 </body>
 </html>
