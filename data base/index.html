@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/navbar.css">
     <link rel="stylesheet" href="css/global.css">
     <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="css/top-10.css">
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
@@ -48,7 +49,16 @@ window.location.href =
         </div>
     </section>
  <section class="section">
-
+   <!-- 🔥 NUEVO TOP 10 (reemplazado con tu código) -->
+        <div id="lzplay-top10-netflix" class="lzplay-top10-netflix">
+            <div class="heading">🔥 Top 10 en El Salvador</div>
+            <div class="outer_container">
+                <div class="inner_container">
+                    <ul class="ul_container" id="lzplay-top10-list"></ul>
+                </div>
+            </div>
+        </div>
+     
        <div class="section-header">
     <h2 class="section-title">Películas más vistas</h2>
     <a href="categorias/categorias.html" class="view-all">Ver todo</a>
@@ -58,6 +68,7 @@ window.location.href =
 
     </section>
     <div id="floating-container"></div>
+    <script src="js/app/top-10.js"></script>
     <script src="js/core/utils.js"></script>
     <script src="js/core/api.js"></script>
     <script type="module" src="js/app/home.js"></script>
