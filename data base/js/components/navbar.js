@@ -1,41 +1,62 @@
 // =============================================
-// NAVBAR - LZPLAY (v5.3)
-// Ruta correcta al buscador
+// NAVBAR - LZPLAY (v5.4) - Con icono de perfil dinámico
 // =============================================
-
 function renderNavbar(containerId = "main-header") {
     const container = document.getElementById(containerId);
     if (!container) return;
 
     container.innerHTML = `
         <a href="https://lzplayhd.online/apple/data%20base/" class="logo">LZPLAY</a>
-        
+       
         <div class="nav-center">
             <a href="https://lzplayhd.online/apple/data%20base/" class="nav-link">Inicio</a>
             <a href="#" class="nav-link">Tendencias</a>
             <a href="https://lzplayhd.online/apple/data%20base/data/movie.html" class="nav-link">Películas</a>
             <a href="https://lzplayhd.online/apple/data%20base/data/serie.html" class="nav-link">Series</a>
-            
+           
             <!-- ICONO DE BÚSQUEDA -->
             <a href="search/search.html" class="search-icon-link" id="searchIcon">
                 <i class="fas fa-search"></i>
             </a>
         </div>
-        
+       
         <div class="icons">
             <!-- ICONO MÓVIL -->
             <a href="search/search.html" class="icon-btn mobile-search" id="mobileSearchIcon">
                 <i class="fas fa-search"></i>
             </a>
-            
-            <!-- PERFIL -->
-            <a href="https://lzplayhd.online/apple/data%20base/menu.html" class="user-avatar">
-                <img src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg" alt="Usuario">
+           
+            <!-- PERFIL CON ICONO DINÁMICO -->
+            <a href="https://lzplayhd.online/apple/data%20base/menu.html" class="user-avatar" id="navbar-avatar-link">
+                <img id="navbar-user-avatar" 
+                     src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg" 
+                     alt="Usuario">
             </a>
         </div>
     `;
 
+    // Cargar icono de perfil dinámico
+    loadNavbarProfileIcon();
+
     initNavbarEffects(container);
+}
+
+// =============================================
+// CARGAR ICONO DE PERFIL EN EL NAVBAR
+// =============================================
+function loadNavbarProfileIcon() {
+    const avatarImg = document.getElementById("navbar-user-avatar");
+    if (!avatarImg) return;
+
+    // 1. Intentar cargar desde localStorage (más rápido)
+    const savedIcon = localStorage.getItem("profileIcon");
+    
+    if (savedIcon) {
+        avatarImg.src = savedIcon;
+    } else {
+        // 2. Si no hay en localStorage, usar imagen por defecto
+        avatarImg.src = "https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg";
+    }
 }
 
 // ==================== EFECTOS NAVBAR ====================
@@ -50,7 +71,7 @@ function initNavbarEffects(headerElement) {
 // ==================== INIT ====================
 function initNavbar(containerId = "main-header") {
     renderNavbar(containerId);
-    console.log("%c✅ Navbar actualizado (v5.3)", "color:#22c55e;font-weight:bold");
+    console.log("%c✅ Navbar actualizado (v5.4) - Icono dinámico", "color:#22c55e;font-weight:bold");
 }
 
 window.initNavbar = initNavbar;
