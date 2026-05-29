@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 986056,
+  "poster": "https://image.tmdb.org/t/p/w500/yDWU8YyFkPnlVY627QXPvct8bz9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4sUkCkcG4MPBEJLC7OAhRwKir2.png",
+  "titulo": "Thunderbolts*",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.291,
+  "año": "2025",
+  "duracion": "2h 7min",
+  "edad_minima": 13,
+  "sinopsis": "Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados deben embarcarse en una peligrosa misión que les obligará a enfrentarse a los recovecos más oscuros de su pasado.",
+  "fecha_estreno": "2025-04-30",
+  "titulo_original": "Thunderbolts*",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Florence Pugh",
+      "personaje": "Yelena Belova",
+      "foto": "https://image.tmdb.org/t/p/w500/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+    },
+    {
+      "nombre": "Sebastian Stan",
+      "personaje": "Bucky Barnes",
+      "foto": "https://image.tmdb.org/t/p/w500/v20RLWst39klatsqUgSrwHxhwee.jpg"
+    },
+    {
+      "nombre": "Julia Louis-Dreyfus",
+      "personaje": "Valentina Allegra de Fontaine",
+      "foto": "https://image.tmdb.org/t/p/w500/iEfHQNrVbVFesDPjdySom9nqsFg.jpg"
+    },
+    {
+      "nombre": "Lewis Pullman",
+      "personaje": "Robert Reynolds",
+      "foto": "https://image.tmdb.org/t/p/w500/ws3WR1F2DfjtLLbK8XOGHEZbX1A.jpg"
+    },
+    {
+      "nombre": "David Harbour",
+      "personaje": "Alexei Shostakov",
+      "foto": "https://image.tmdb.org/t/p/w500/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+    },
+    {
+      "nombre": "Wyatt Russell",
+      "personaje": "John Walker",
+      "foto": "https://image.tmdb.org/t/p/w500/zIldBzXdBWskPZB7x35G2hYEVDo.jpg"
+    },
+    {
+      "nombre": "Hannah John-Kamen",
+      "personaje": "Ava Starr",
+      "foto": "https://image.tmdb.org/t/p/w500/V8P9EVelewGVXbuyEylqrzF6iG.jpg"
+    },
+    {
+      "nombre": "Ольга Куриленко",
+      "personaje": "Antonia Dreykov",
+      "foto": "https://image.tmdb.org/t/p/w500/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jake Schreier",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Eric Pearson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Eric Pearson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joanna Calo",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brian Chapek",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Halley Finn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Andrew Droz Palermo",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Sanja Milkovic Hays",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jake Morrison",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Bryan Searing",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "George Cottle",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Vasilios Tanis",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Kevin Houlihan",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Rory Bruen",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Giles",
+      "rol": "Sound Mixer"
+    }
+  ],
+  "director": "Jake Schreier",
+  "valoraciones": {
+    "tmdb": 7.291,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://rumble.com/hls-vod/6qxxxt/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=7rs_HhSA7XY"
+}
