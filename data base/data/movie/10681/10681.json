@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 10681,
+  "poster": "https://image.tmdb.org/t/p/w500/m3gKwcubqhN8J7pLcMcCDY1YJLJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hYeoW9SW7EHzvAsA5HcVEJmNsuY.png",
+  "titulo": "WALL·E",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 8.112,
+  "año": "2008",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "En un futuro lejano, un pequeño robot recolector de residuos se embarca inadvertidamente en un viaje espacial que decidirá en última instancia el destino de la humanidad.",
+  "fecha_estreno": "2008-06-26",
+  "titulo_original": "WALL·E",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ben Burtt",
+      "personaje": "WALL·E / M-O (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7asFDWjls2bYQSfXJf5StjXmlhI.jpg"
+    },
+    {
+      "nombre": "Elissa Knight",
+      "personaje": "EVE (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/exRLyaNaHcgawQA0DoBxo5IvdoI.jpg"
+    },
+    {
+      "nombre": "Jeff Garlin",
+      "personaje": "Captain (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8shJOwynglerVVxhOKbvDYTThBd.jpg"
+    },
+    {
+      "nombre": "Fred Willard",
+      "personaje": "Shelby Forthright, BnL CEO",
+      "foto": "https://image.tmdb.org/t/p/w500/AaHxpkee9nQfBpQeDyJLoPNtYR6.jpg"
+    },
+    {
+      "nombre": "John Ratzenberger",
+      "personaje": "John (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    },
+    {
+      "nombre": "Kathy Najimy",
+      "personaje": "Mary (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+    },
+    {
+      "nombre": "Sigourney Weaver",
+      "personaje": "Ship's Computer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "nombre": "Lori Alan",
+      "personaje": "Additional Voices (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cavATg4fX0zAl2MHwlt1IZei7EI.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jim Morris",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lindsey Collins",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jim Reardon",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Thomas Newman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Thomas Porter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stephen Schaffer",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jeremy Lasky",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Natalie Lyon",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kevin Reher",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ralph Eggleston",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Bert Berry",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Karen Bradley",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Andrea Warren",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "David Fincher",
+      "rol": "Thanks"
+    }
+  ],
+  "director": "Andrew Stanton",
+  "valoraciones": {
+    "tmdb": 8.112,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://1a-1791.com/video/s8/2/t/O/O/x/tOOxp.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=geplBr2fcZc"
+}
