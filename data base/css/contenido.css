@@ -45,15 +45,22 @@ html {
 .hero-bg {
   position: absolute;
   inset: 0;
-  background-size: 92%;
+
+  /* Ajuste correcto */
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center;
-  transform: scale(1);
+
+  /* Centrado cinematográfico */
+  background-position: center top;
+
+  /* Zoom MUY ligero */
+  transform: scale(1.03);
+
   transition: transform 8s ease-out;
   will-change: transform;
 }
 
-/* Estado cargado */
+/* Cuando carga */
 .hero-bg.loaded {
   transform: scale(1);
 }
