@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 1705,
+  "poster": "https://image.tmdb.org/t/p/w500/f2nAuuytIGbCdFCt4DOV8DwCYR1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3ap6vhJN7q87mziDP6EltPGQ0hW.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rluSVTgZCHw2RdG0Jgm5EDV44c0.png",
+  "titulo": "La batalla por el planeta de los simios",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.688,
+  "año": "1973",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Diez años después de una serie mundial de revoluciones de simios y una brutal guerra nuclear entre humanos, César debe proteger a los sobrevivientes de ambas especies de un insidioso culto humano y de una facción de simios militantes por igual.",
+  "fecha_estreno": "1973-06-15",
+  "titulo_original": "Battle for the Planet of the Apes",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Roddy McDowall",
+      "personaje": "Caesar",
+      "foto": "https://image.tmdb.org/t/p/w500/mGO0pDPi5p91k2Og09HTf270rxL.jpg"
+    },
+    {
+      "nombre": "Natalie Trundy",
+      "personaje": "Lisa",
+      "foto": "https://image.tmdb.org/t/p/w500/A3Kdp47M80a4LGELSOCwch7a7lM.jpg"
+    },
+    {
+      "nombre": "Austin Stoker",
+      "personaje": "MacDonald",
+      "foto": "https://image.tmdb.org/t/p/w500/l79ljSqio7NWR9t5MwyVzGtwqBn.jpg"
+    },
+    {
+      "nombre": "Severn Darden",
+      "personaje": "Kolp",
+      "foto": "https://image.tmdb.org/t/p/w500/kWMiUbAuprhewB5I7zbov7bImgT.jpg"
+    },
+    {
+      "nombre": "Claude Akins",
+      "personaje": "Aldo",
+      "foto": "https://image.tmdb.org/t/p/w500/bPj4MN7pI96WiIp0vK7cyNY0wtX.jpg"
+    },
+    {
+      "nombre": "Paul Williams",
+      "personaje": "Virgil",
+      "foto": "https://image.tmdb.org/t/p/w500/hfBFenLU5reDGVi4wiP5P1VcP3G.jpg"
+    },
+    {
+      "nombre": "Richard Eastham",
+      "personaje": "Mutant",
+      "foto": "https://image.tmdb.org/t/p/w500/eRK6NuwEnhdz4m8y0LbQREH2bTE.jpg"
+    },
+    {
+      "nombre": "Lew Ayres",
+      "personaje": "Mandemus",
+      "foto": "https://image.tmdb.org/t/p/w500/nNinKMWvSxrhiNMnMkbpUd4HEZO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Joyce Hooper Corrington",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "J. Lee Thompson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Arthur P. Jacobs",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John William Corrington",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Paul Dehn",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alan Jaggs",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Richard H. Kline",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "John C. Horger",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Leonard Rosenman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Pierre Boulle",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Nick Dimitri",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Erik Cord",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Eddie Hice",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Carol Pershing",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Jack Barron",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Craig R. Baxley",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Victor Paul",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "J. Lee Thompson",
+  "valoraciones": {
+    "tmdb": 5.688,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Apjac International",
+  "enlace_video": "https://1a-1791.com/video/fwe2/3a/s8/2/_/s/k/9/_sk9v.caa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=yg_cSD2VnE8"
+}
