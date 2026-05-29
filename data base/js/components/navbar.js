@@ -248,14 +248,16 @@ function injectSearchCSS() {
     max-width:1200px;
     background:#020817;
     border-radius:24px;
-    overflow:hidden;
     border:1px solid rgba(255,255,255,.08);
     box-shadow:0 25px 70px rgba(0,0,0,.45);
+
     max-height:92vh;
+
     display:flex;
     flex-direction:column;
-}
 
+    overflow:hidden;
+}
 .lz-modal-header{
     display:flex;
     align-items:center;
@@ -295,8 +297,25 @@ function injectSearchCSS() {
     display:grid;
     grid-template-columns:
         repeat(auto-fill,minmax(190px,1fr));
+
     gap:18px;
+
     padding:0 22px 24px;
+
+    overflow-y:auto;
+
+    flex:1;
+
+    min-height:0;
+}
+
+.lz-results-grid::-webkit-scrollbar{
+    width:8px;
+}
+
+.lz-results-grid::-webkit-scrollbar-thumb{
+    background:rgba(255,255,255,.12);
+    border-radius:20px;
 }
 
 .lz-result-card{
