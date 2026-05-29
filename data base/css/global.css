@@ -33,6 +33,7 @@ body{
     padding: 120px 70px 50px;
     transition: background-image 0.6s ease;
 }
+
 .hero::after{
     content: '';
     position: absolute;
@@ -52,16 +53,19 @@ body{
             transparent 80%
         );
 }
+
 .hero-content{
     position: relative;
     z-index: 2;
     max-width: 680px;
 }
+
 .badges{
     display: flex;
     gap: 12px;
     margin-bottom: 20px;
 }
+
 .badge{
     background: #2563eb;
     padding: 8px 8px;
@@ -69,16 +73,20 @@ body{
     font-size: .65rem;
     font-weight: 600;
 }
+
 .badge.rating{
     background: #0f172a;
 }
+
 .hero-logo{
     max-width: 420px;
     width: 100%;
     height: auto;
     margin-bottom: 25px;
     filter: drop-shadow(0 10px 30px rgba(0,0,0,.6));
+    object-fit: contain;           /* ← Evita distorsión */
 }
+
 .hero p{
     font-size: 1.1rem;
     line-height: 1.7;
@@ -86,6 +94,7 @@ body{
     margin-bottom: 35px;
     max-width: 580px;
 }
+
 .play-btn{
     display: inline-flex;
     align-items: center;
@@ -99,9 +108,11 @@ body{
     transition: 0.3s;
     box-shadow: 0 10px 30px rgba(37,99,235,.4);
 }
+
 .play-btn:hover{
     transform: translateY(-3px);
 }
+
 .play-btn i{
     font-size: 1.1rem;
 }
@@ -112,16 +123,19 @@ body{
 .section{
     padding: 40px 70px;
 }
+
 .section-header{
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 30px;
 }
+
 .section-title{
     font-size: 2.5rem;
     font-weight: 700;
 }
+
 .view-all{
     color: #4f7cff;
     cursor: pointer;
@@ -138,9 +152,11 @@ body{
     scroll-behavior: smooth;
     scrollbar-width: none;
 }
+
 .movies-grid::-webkit-scrollbar{
     display: none;
 }
+
 .movie-card{
     position: relative;
     min-width: 200px;
@@ -153,14 +169,17 @@ body{
     flex-shrink: 0;
     background: #111827;
 }
+
 .movie-card:hover{
     transform: scale(1.05);
 }
+
 .movie-card img{
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
+
 .movie-overlay{
     position: absolute;
     inset: 0;
@@ -170,6 +189,7 @@ body{
     justify-content: flex-end;
     padding: 16px;
 }
+
 .movie-title{
     font-size: 1rem;
     font-weight: 600;
@@ -189,23 +209,28 @@ body{
     align-items: center;
     justify-content: center;
 }
+
 .rating-circle{
     width: 52px;
     height: 52px;
     transform: rotate(-90deg);
 }
+
 .rating-circle circle{
     fill: none;
     stroke-width: 5;
 }
+
 .rating-circle .bg{
     stroke: rgba(0, 0, 0, 0.6);
 }
+
 .rating-circle .progress{
     stroke: #22c55e;
     stroke-linecap: round;
     transition: stroke-dashoffset 0.4s ease;
 }
+
 .rating-value{
     position: absolute;
     font-weight: 700;
@@ -232,6 +257,7 @@ body{
         width: 220px;
     }
 }
+
 @media (max-width: 900px){
     header{
         padding: 18px;
@@ -252,7 +278,7 @@ body{
     .icons .icon-btn{
         display: flex;
     }
-    /* FLOATING MOBILE */
+
     .fab{
         position: fixed;
         right: 18px;
@@ -271,11 +297,13 @@ body{
         box-shadow: 0 8px 25px rgba(37, 99, 235, 0.5);
         transition: all .3s ease;
     }
+
     .fab.hidden{
         opacity: 0;
         pointer-events: none;
         transform: scale(.6);
     }
+
     .floating-menu{
         position: fixed;
         right: 18px;
@@ -295,11 +323,13 @@ body{
         transform: translateY(20px) scale(.85);
         transition: all .35s cubic-bezier(0.4, 0, 0.2, 1);
     }
+
     .floating-menu.show{
         display: flex;
         opacity: 1;
         transform: translateY(0) scale(1);
     }
+
     .float-icon{
         width: 42px;
         height: 42px;
@@ -312,31 +342,45 @@ body{
         cursor: pointer;
         transition: all .25s ease;
     }
+
     .float-icon:hover{
         color: #4f7cff;
         background: rgba(255,255,255,.08);
         transform: scale(1.08);
     }
 }
+
 @media (max-width: 600px){
     .logo{
         font-size: 1.3rem;
     }
+    
     .hero{
-        height: 70vh;
-        padding: 260px 14px 25px;
+        height: 75vh;
+        padding: 200px 16px 30px;
     }
+    
     .hero-logo{
-        max-width: 200px;
-        margin-bottom: 8px;
+        max-width: 85%;
+        max-height: 130px;
+        width: auto;
+        height: auto;
+        margin-bottom: 12px;
+        object-fit: contain;
+        filter: drop-shadow(0 8px 25px rgba(0,0,0,.6));
     }
+    
     .hero p{
-        font-size: 0.65rem;
-        line-height: 1.6;
+        font-size: 0.85rem;
+        line-height: 1.5;
+        max-width: 100%;
     }
+    
     .play-btn{
-        padding: 15px 25px;
+        padding: 14px 28px;
+        font-size: 0.95rem;
     }
+    
     .movie-card{
         min-width: 160px;
         height: 240px;
