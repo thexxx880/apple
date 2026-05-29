@@ -41,14 +41,19 @@ html {
   max-height: 900px;
   overflow: hidden;
 }
+/* ─── HERO BACKDROP ─── */
 .hero-bg {
   position: absolute;
   inset: 0;
-  background-size: cover;
-  background-position: center 20%;
-  transform: scale(1.04);
+  background-size: 92%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  transform: scale(1);
   transition: transform 8s ease-out;
+  will-change: transform;
 }
+
+/* Estado cargado */
 .hero-bg.loaded {
   transform: scale(1);
 }
