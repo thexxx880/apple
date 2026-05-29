@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 44683,
+  "poster": "https://image.tmdb.org/t/p/w500/AmUOjwjgz1vGnAmnR51NVv0hqAe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5HRAb4wHgovzICuo3ZqgHXmqzeK.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/yxA6deb4HqahlIiqSufXkJTpmJf.png",
+  "titulo": "Tinker Bell: Hadas al Rescate",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Aventura",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 6.766,
+  "año": "2010",
+  "duracion": "1h 16min",
+  "edad_minima": 13,
+  "sinopsis": "Durante una estancia de verano en algún lugar, Tinker Bell es descubierta accidentalmente mientras investigaba la casa de hadas de una niña. Mientras, las otras hadas lideradas por la impetuosa Vidia, planean un audaz rescate en medio de una tormenta feroz, Tinker desarrolla un vínculo especial con la pequeña y solitaria niña.",
+  "fecha_estreno": "2010-07-29",
+  "titulo_original": "Tinker Bell and the Great Fairy Rescue",
+  "pais_origen": "India",
+  "reparto": [
+    {
+      "nombre": "Mae Whitman",
+      "personaje": "Tinker Bell (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oy89WyETM8T3Z4aRJb2EnmqZ7A3.jpg"
+    },
+    {
+      "nombre": "Lauren Mote",
+      "personaje": "Lizzy Griffiths (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Michael Sheen",
+      "personaje": "Dr. Griffiths (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
+    },
+    {
+      "nombre": "Pamela Adlon",
+      "personaje": "Vidia (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pYfho6LCJvCxqqANl6PycK15hH1.jpg"
+    },
+    {
+      "nombre": "Lucy Liu",
+      "personaje": "Silvermist (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
+    },
+    {
+      "nombre": "Raven-Symoné",
+      "personaje": "Iridessa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vIEKG0JH3DFnhswCL8bYejfxfRi.jpg"
+    },
+    {
+      "nombre": "Kristin Chenoweth",
+      "personaje": "Rosetta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/q3ENDu5n23FARhyij4FVRaTkSg4.jpg"
+    },
+    {
+      "nombre": "Angela Bartys",
+      "personaje": "Fawn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cv2V55LZgC280up7XxZ2eshs7TU.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Paul Germain",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bradley Raymond",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rob Muir",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joe Ansolabehere",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Margot Pipkin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeffrey M. Howard",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bradley Raymond",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bob Hilgenberg",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bridgit Mendler",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Armen Ksajikian",
+      "rol": "Musician"
+    },
+    {
+      "nombre": "Julia Wu",
+      "rol": "Production Accountant"
+    },
+    {
+      "nombre": "Jenny Aleman-Holman",
+      "rol": "Production Accountant"
+    },
+    {
+      "nombre": "Michael Galbraith",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Jared Heisterkamp",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Dan O'Connell",
+      "rol": "Foley"
+    },
+    {
+      "nombre": "Chris Montan",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Jim Harrison",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Desi Scarpone",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Donald J. Malouf",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Randy Babajtis",
+      "rol": "Sound Effects Editor"
+    }
+  ],
+  "director": "Bradley Raymond",
+  "valoraciones": {
+    "tmdb": 6.766,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DisneyToon Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/C/T/j/C/CTjCv.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=5ztzhchMcsY"
+}
