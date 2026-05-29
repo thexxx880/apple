@@ -3,617 +3,463 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Categorías</title>
+    <title>Películas - LZPLAY</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-	<link rel="stylesheet" href="../css/navbar.css">
- <style>
-    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
-    
-    :root {
-        --primary-blue: #2563eb;
-        --bg-main: #020817;
-        --bg-secondary: #0f172a;
-        --card-bg: #111827;
-        --border-color: rgba(255,255,255,.08);
-        --text-primary: #ffffff;
-        --text-secondary: #d1d5db;
-        --text-muted: #9ca3af;
-    }
-    
-    body {
-        font-family: 'Poppins', sans-serif;
-        background: var(--bg-main);
-        color: var(--text-primary);
-        overflow-x: hidden;
-    }
-
-    /* =============================================
-       ESPACIO PARA NAVBAR DINÁMICO
-    ============================================= */
-    .page-content {
-        padding-top: 8rem;
-    }
-
-    @media (max-width: 768px) {
-        .page-content {
-            padding-top: 5rem;
+    <link rel="stylesheet" href="../css/navbar.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: #020817;
+            color: white;
         }
-    }
+        
+        .page-content { padding-top: 8rem; }
+        @media (max-width: 768px) { .page-content { padding-top: 5rem; } }
 
-    /* =============================================
-       CARDS
-    ============================================= */
-    .card {
-        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    }
-    
-    .card:hover {
-        transform: scale(1.08);
-        box-shadow: 0 20px 40px rgba(0,0,0,.45);
-    }
-    
-    .poster-container {
-        position: relative;
-        overflow: hidden;
-        background: var(--card-bg);
-        border: 1px solid var(--border-color);
-    }
-    
-    .poster-container::after {
-        content: '';
-        position: absolute;
-        inset: 0;
-        background: linear-gradient(
-            to top,
-            rgba(2, 8, 23, 0.95),
-            rgba(2, 8, 23, 0.3),
-            transparent
-        );
-        opacity: 0;
-        transition: opacity 0.3s ease;
-    }
-    
-    .card:hover .poster-container::after {
-        opacity: 1;
-    }
-    
-    .rating {
-        background: rgba(15, 23, 42, 0.92);
-        backdrop-filter: blur(8px);
-        border: 1px solid rgba(255,255,255,.08);
-        color: white;
-    }
+        .card {
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .card:hover {
+            transform: scale(1.06);
+            box-shadow: 0 20px 40px rgba(0,0,0,.45);
+        }
 
-    /* =============================================
-       BOTONES DE CATEGORÍA
-    ============================================= */
-    .categoria-btn {
-        background: rgba(255,255,255,.05) !important;
-        border: 1px solid rgba(255,255,255,.08);
-        color: var(--text-secondary);
-        transition: all .25s ease;
-    }
+        .poster-container {
+            position: relative;
+            overflow: hidden;
+            background: #111827;
+        }
 
-    .categoria-btn:hover {
-        background: rgba(255,255,255,.08) !important;
-        color: white;
-    }
+        .rating {
+            background: rgba(15, 23, 42, 0.95);
+            backdrop-filter: blur(8px);
+        }
 
-    .categoria-btn.active {
-        background: var(--primary-blue) !important;
-        color: white !important;
-        border-color: transparent;
-        box-shadow: 0 8px 25px rgba(37,99,235,.35);
-    }
+        .categoria-btn.active {
+            background: #2563eb !important;
+            color: white !important;
+        }
 
-    /* =============================================
-       LINKS
-    ============================================= */
-    a {
-        transition: .25s ease;
-    }
+        /* Botón flotante */
+        .fab {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            width: 56px;
+            height: 56px;
+            background: #2563eb;
+            color: white;
+            border-radius: 9999px;
+            box-shadow: 0 10px 30px rgba(37, 99, 235, 0.4);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            z-index: 9999;
+            transition: all 0.3s ease;
+        }
+        .fab:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 15px 40px rgba(37, 99, 235, 0.5);
+        }
 
-    a:hover {
-        color: #4f7cff !important;
-    }
-
-    /* =============================================
-       TITULOS
-    ============================================= */
-    h1,
-    h2,
-    h3 {
-        color: white;
-    }
-
-    /* =============================================
-       SUBTEXTOS
-    ============================================= */
-    .text-zinc-400 {
-        color: var(--text-secondary) !important;
-    }
-
-    .text-zinc-500 {
-        color: var(--text-muted) !important;
-    }
-
-    .text-cyan-400 {
-        color: #4f7cff !important;
-    }
-
-    /* =============================================
-       BADGES
-    ============================================= */
-    .bg-white\/10 {
-        background: rgba(255,255,255,.05) !important;
-    }
-
-    .hover\:bg-white\/20:hover {
-        background: rgba(255,255,255,.08) !important;
-    }
-
-    /* =============================================
-       LOADING
-    ============================================= */
-    .border-cyan-400 {
-        border-color: var(--primary-blue) !important;
-    }
-
-    .bg-cyan-500 {
-        background: var(--primary-blue) !important;
-    }
-
-    .hover\:bg-cyan-600:hover {
-        background: #1d4ed8 !important;
-    }
-
-    /* =============================================
-       CARD INFO
-    ============================================= */
-    .group-hover\:text-cyan-400:hover {
-        color: #4f7cff !important;
-    }
-
-    /* =============================================
-       SCROLLBAR
-    ============================================= */
-    ::-webkit-scrollbar {
-        width: 8px;
-        height: 8px;
-    }
-
-    ::-webkit-scrollbar-track {
-        background: transparent;
-    }
-
-    ::-webkit-scrollbar-thumb {
-        background: rgba(255,255,255,.12);
-        border-radius: 10px;
-    }
-
-    ::-webkit-scrollbar-thumb:hover {
-        background: rgba(255,255,255,.22);
-    }
-</style>
+        .modal {
+            animation: modalPop 0.2s ease forwards;
+        }
+        @keyframes modalPop {
+            from { opacity: 0; transform: scale(0.95); }
+            to { opacity: 1; transform: scale(1); }
+        }
+    </style>
 </head>
 <body class="min-h-screen pb-12">
-   <header id="main-header"></header>
 
-    <div class="page-content max-w-screen-2xl mx-auto px-8">
+    <!-- NAVBAR -->
+    <header id="main-header"></header>
+
+    <div class="page-content max-w-screen-2xl mx-auto px-6">
+        
         <!-- LOADING -->
         <div id="loading" class="flex flex-col items-center justify-center py-20">
-            <div class="animate-spin w-12 h-12 border-4 border-cyan-400 border-t-transparent rounded-full mb-4"></div>
-            <p class="text-zinc-400">Cargando contenidos</p>
+            <div class="animate-spin w-12 h-12 border-4 border-blue-500 border-t-transparent rounded-full mb-4"></div>
+            <p class="text-zinc-400">Cargando películas...</p>
         </div>
 
-        <!-- CONTENIDO -->
+        <!-- CONTENIDO PRINCIPAL -->
         <div id="contenido-principal" class="hidden">
             
-            <!-- FILTRO RÁPIDO -->
-            <div class="flex items-center gap-3 mb-8 overflow-x-auto pb-4 scrollbar-hide">
-                <button onclick="filtrarPorCategoria('todos')" 
-                        class="categoria-btn active flex items-center gap-2 bg-white/10 hover:bg-white/20 px-6 py-2 rounded-3xl text-sm font-medium whitespace-nowrap transition-all">
-                    <i class="fas fa-th-large"></i>
-                    <span>Todos</span>
+            <!-- HEADER + FILTRO -->
+            <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-8">
+                <div>
+                    <h1 class="text-4xl font-bold">Películas</h1>
+                    <p class="text-zinc-400 mt-1" id="total-contenido">Cargando...</p>
+                </div>
+
+                <!-- BOTÓN FILTRAR -->
+                <button onclick="abrirModalFiltros()"
+                        class="flex items-center gap-3 px-6 py-3 bg-white/10 hover:bg-white/20 border border-white/10 rounded-3xl text-sm font-medium transition-all">
+                    <i class="fas fa-filter"></i>
+                    <span>Filtrar</span>
                 </button>
-                <!-- Los botones de categorías se generan dinámicamente -->
-                <div id="botones-categorias" class="flex gap-3"></div>
             </div>
 
-            <!-- SECCIONES POR CATEGORÍA -->
-            <div id="secciones-categorias"></div>
+            <!-- GRID DE PELÍCULAS -->
+            <div id="grid-peliculas" 
+                 class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-6">
+                <!-- Se llena con JS -->
+            </div>
+
+            <!-- BOTÓN CARGAR MÁS -->
+            <div class="flex justify-center mt-10">
+                <button id="btn-cargar-mas"
+                        onclick="cargarMas()"
+                        class="hidden px-10 py-3 bg-white/10 hover:bg-white/20 border border-white/10 rounded-3xl text-sm font-medium flex items-center gap-3">
+                    <span>Cargar más</span>
+                    <i class="fas fa-chevron-down"></i>
+                </button>
+            </div>
         </div>
     </div>
-<script src="../js/components/navbar.js"></script>
-	<script src="../js/app/search.js"></script>
-	 <script>
-  document.addEventListener("DOMContentLoaded", () => {
-   initNavbar("main-header");
-  });
-</script>
-    <script>
-    // ====================== TMDB API ======================
-const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
 
-async function fetchTMDB(endpoint) {
-    try {
-        const response = await fetch(
-            `https://api.themoviedb.org/3/${endpoint}${
-                endpoint.includes("?") ? "&" : "?"
-            }api_key=${TMDB_API_KEY}&language=es-ES`
-        );
+    <!-- BOTÓN FLOTANTE VOLVER ARRIBA -->
+    <button onclick="volverArriba()" 
+            class="fab hidden" id="btn-volver-arriba">
+        <i class="fas fa-arrow-up"></i>
+    </button>
 
-        if (!response.ok) throw new Error("Error en TMDB");
-
-        return await response.json();
-    } catch (error) {
-        console.error("TMDB Error:", error);
-        return null;
-    }
-}
-
-// ====================== URL BASE.JSON ======================
-const BASE_JSON_URL =
-"https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/base/base.json";
-
-let todosLosContenidos = [];
-
-// ====================== CARGAR BASE.JSON Y TMDB ======================
-async function cargarTodo() {
-    const loading = document.getElementById("loading");
-    const principal = document.getElementById("contenido-principal");
-
-    loading.classList.remove("hidden");
-    principal.classList.add("hidden");
-
-    try {
-        // 1. Cargar base.json
-        const baseRes = await fetch(BASE_JSON_URL);
-
-        if (!baseRes.ok) {
-            throw new Error("No se pudo cargar base.json");
-        }
-
-        const baseData = await baseRes.json();
-
-        // 2. Obtener IDs
-        const ids = Object.keys(baseData);
-
-        console.log(
-            `📂 Encontrados ${ids.length} contenidos en tu base.json`
-        );
-
-        // 3. Cargar datos de TMDB en paralelo
-        const promesas = ids.map(async (id) => {
-            const detalle = await fetchTMDB(`movie/${id}`);
-
-            if (!detalle) return null;
-
-            return {
-                id: parseInt(id),
-                url: baseData[id],
-                title: detalle.title || detalle.name,
-                poster: detalle.poster_path
-                    ? `https://image.tmdb.org/t/p/w500${detalle.poster_path}`
-                    : "https://via.placeholder.com/500x750?text=Sin+Poster",
-
-                year: detalle.release_date
-                    ? detalle.release_date.split("-")[0]
-                    : "N/A",
-
-                rating: detalle.vote_average
-                    ? detalle.vote_average.toFixed(1)
-                    : "0.0",
-
-                genres: detalle.genres || [],
-
-                backdrop: detalle.backdrop_path
-                    ? `https://image.tmdb.org/t/p/original${detalle.backdrop_path}`
-                    : null
-            };
-        });
-
-        const resultados = await Promise.all(promesas);
-
-        todosLosContenidos = resultados.filter(
-            (item) => item !== null
-        );
-
-        // ======================
-        // TOTAL CONTENIDO (sin romper si no existe)
-        // ======================
-        const totalContenido =
-            document.getElementById("total-contenido");
-
-        if (totalContenido) {
-            totalContenido.textContent =
-                todosLosContenidos.length;
-        }
-
-        // ======================
-        // VALIDACIÓN
-        // ======================
-        if (todosLosContenidos.length === 0) {
-            loading.innerHTML = `
-                <p class="text-red-400 text-xl">
-                    ❌ No se encontraron contenidos válidos en TMDB.
-                </p>
-            `;
-            return;
-        }
-
-        // ======================
-        // RENDERIZAR
-        // ======================
-        renderizarCategorias();
-
-        principal.classList.remove("hidden");
-        loading.classList.add("hidden");
-
-    } catch (error) {
-        console.error(error);
-
-        loading.innerHTML = `
-            <p class="text-red-400 text-xl mb-4">
-                ⚠️ Error al cargar datos
-            </p>
-
-            <p class="text-zinc-400">
-                ${error.message}
-            </p>
-
-            <button
-                onclick="cargarTodo()"
-                class="mt-6 px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-2xl text-white font-medium"
-            >
-                Intentar de nuevo
-            </button>
-        `;
-    }
-}
-
-// ====================== AGRUPAR POR CATEGORÍAS ======================
-function obtenerCategorias() {
-    const mapa = {};
-
-    todosLosContenidos.forEach((contenido) => {
-        if (
-            contenido.genres &&
-            contenido.genres.length > 0
-        ) {
-            contenido.genres.forEach((genre) => {
-                if (!mapa[genre.name]) {
-                    mapa[genre.name] = [];
-                }
-
-                mapa[genre.name].push(contenido);
-            });
-        }
-    });
-
-    // Ordenar por cantidad de contenido
-    return Object.entries(mapa)
-        .sort((a, b) => b[1].length - a[1].length)
-        .map(([nombre, items]) => ({
-            nombre,
-            items
-        }));
-}
-
-// ====================== RENDERIZAR ======================
-function renderizarCategorias() {
-    const contenedor =
-        document.getElementById(
-            "secciones-categorias"
-        );
-
-    contenedor.innerHTML = "";
-
-    const categorias = obtenerCategorias();
-
-    // ======================
-    // BOTONES DE CATEGORÍAS
-    // ======================
-    const botonesContainer =
-        document.getElementById(
-            "botones-categorias"
-        );
-
-    botonesContainer.innerHTML =
-        categorias.map((cat) => `
-            <button
-                onclick="filtrarPorCategoria('${cat.nombre}')"
-                class="categoria-btn flex items-center gap-2 bg-white/10 hover:bg-white/20 px-5 py-2 rounded-3xl text-sm font-medium whitespace-nowrap transition-all"
-            >
-                <span>${cat.nombre}</span>
-
-                <span class="text-[10px] bg-white/20 px-2 py-px rounded-full">
-                    ${cat.items.length}
-                </span>
-            </button>
-        `).join("");
-
-    // ======================
-    // SECCIONES
-    // ======================
-    categorias.forEach((categoria) => {
-
-        const seccionHTML = `
-        <div class="mb-16"
-             data-categoria="${categoria.nombre}">
-
-            <div class="flex items-center justify-between mb-6">
-
-                <h2 class="text-2xl font-semibold flex items-center gap-3">
-                    <span class="text-blue-400">
-                        ${categoria.nombre}
-                    </span>
-
-                    <span class="text-sm font-normal text-zinc-500">
-                        (${categoria.items.length})
-                    </span>
-                </h2>
-
-                <a href="#"
-                   onclick="filtrarPorCategoria('${categoria.nombre}'); return false"
-                   class="text-blue-400 text-sm flex items-center gap-1 hover:underline">
-
-                    Ver todo
-                    <i class="fas fa-chevron-right text-xs"></i>
-                </a>
+    <!-- MODAL DE FILTROS -->
+    <div id="modal-filtros" onclick="cerrarModalFiltros()" 
+         class="hidden fixed inset-0 bg-black/70 backdrop-blur-sm z-[10000] flex items-center justify-center">
+        <div onclick="event.stopImmediatePropagation()" 
+             class="modal bg-[#020817] border border-white/10 rounded-3xl w-full max-w-md mx-4 overflow-hidden">
+            
+            <!-- Header del modal -->
+            <div class="flex items-center justify-between px-6 py-5 border-b border-white/10">
+                <h3 class="text-xl font-semibold">Filtrar películas</h3>
+                <button onclick="cerrarModalFiltros()" class="text-3xl text-zinc-400 hover:text-white">×</button>
             </div>
 
-            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-6">
+            <div class="p-6 space-y-8">
+                
+                <!-- Buscar por nombre -->
+                <div>
+                    <label class="block text-sm text-zinc-400 mb-2">Buscar por nombre</label>
+                    <input type="text" id="filtro-nombre" 
+                           class="w-full bg-[#111827] border border-white/10 rounded-2xl px-4 py-3 text-sm focus:outline-none focus:border-blue-500"
+                           placeholder="Ej: Avatar, Dune...">
+                </div>
 
-                ${categoria.items.map(item => `
-                    <div
-                        onclick="abrirContenido('${item.url}')"
-                        class="card cursor-pointer group"
-                    >
-                        <div class="poster-container rounded-3xl overflow-hidden shadow-2xl">
-
-                            <img
-                                src="${item.poster}"
-                                alt="${item.title}"
-                                class="w-full aspect-[2/3] object-cover transition-transform group-hover:scale-110"
-                            >
-
-                            <div class="rating absolute top-3 right-3 flex items-center gap-1 text-xs font-bold px-2.5 py-1 rounded-2xl text-white">
-
-                                <i class="fas fa-star text-yellow-400"></i>
-
-                                <span>${item.rating}</span>
-                            </div>
-                        </div>
-
-                        <div class="mt-3 px-1">
-
-                            <h3 class="font-semibold text-base line-clamp-2 leading-tight group-hover:text-blue-400 transition-colors">
-                                ${item.title}
-                            </h3>
-
-                            <div class="flex items-center justify-between text-xs text-zinc-400 mt-2">
-
-                                <span>${item.year}</span>
-
-                                <span class="flex items-center gap-1">
-                                    <i class="fas fa-film text-[10px]"></i>
-                                    Película
-                                </span>
-                            </div>
-                        </div>
+                <!-- Categorías -->
+                <div>
+                    <label class="block text-sm text-zinc-400 mb-3">Categorías</label>
+                    <div id="filtro-categorias" class="flex flex-wrap gap-2 max-h-40 overflow-y-auto pr-2">
+                        <!-- Se generan dinámicamente -->
                     </div>
-                `).join("")}
+                </div>
+
+                <!-- Letra -->
+                <div>
+                    <label class="block text-sm text-zinc-400 mb-3">Empieza con la letra</label>
+                    <div class="flex flex-wrap gap-2" id="filtro-letras">
+                        <!-- Se generan con JS -->
+                    </div>
+                </div>
+
+                <!-- Año -->
+                <div>
+                    <label class="block text-sm text-zinc-400 mb-2">Año</label>
+                    <div class="flex gap-3">
+                        <select id="filtro-ano-min" class="flex-1 bg-[#111827] border border-white/10 rounded-2xl px-4 py-3 text-sm">
+                            <option value="">Desde</option>
+                        </select>
+                        <select id="filtro-ano-max" class="flex-1 bg-[#111827] border border-white/10 rounded-2xl px-4 py-3 text-sm">
+                            <option value="">Hasta</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flex gap-3 p-6 border-t border-white/10">
+                <button onclick="limpiarFiltros()" 
+                        class="flex-1 py-3 text-sm border border-white/20 rounded-2xl hover:bg-white/5 transition-all">
+                    Limpiar
+                </button>
+                <button onclick="aplicarFiltros()" 
+                        class="flex-1 py-3 text-sm bg-blue-600 hover:bg-blue-700 rounded-2xl transition-all">
+                    Aplicar filtros
+                </button>
             </div>
         </div>
-        `;
+    </div>
 
-        contenedor.innerHTML += seccionHTML;
-    });
+    <script src="../js/components/navbar.js"></script>
+    <script>
+        // ====================== CONFIG ======================
+        const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
+        const BASE_JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/base/base.json";
 
-    // ======================
-    // SI NO HAY CATEGORÍAS
-    // ======================
-    if (categorias.length === 0) {
-        contenedor.innerHTML = `
-            <div class="text-center py-20">
-                <p class="text-xl text-zinc-400">
-                    No se encontraron categorías
-                </p>
-            </div>
-        `;
-    }
-}
+        let todosLosContenidos = [];
+        let contenidosFiltrados = [];
+        let displayedCount = 15;
+        let observer; // Intersection Observer
 
-// ====================== ABRIR CONTENIDO ======================
-function abrirContenido(url) {
-    window.open(url, "_blank");
-}
+        // ====================== FUNCIONES TMDB ======================
+        async function fetchTMDB(endpoint) {
+            try {
+                const res = await fetch(`https://api.themoviedb.org/3/${endpoint}${endpoint.includes('?') ? '&' : '?'}api_key=${TMDB_API_KEY}&language=es-ES`);
+                return res.ok ? await res.json() : null;
+            } catch (e) { return null; }
+        }
 
-// ====================== FILTRAR POR CATEGORÍA ======================
-function filtrarPorCategoria(categoria) {
+        // ====================== CARGAR DATOS ======================
+        async function cargarTodo() {
+            const loading = document.getElementById("loading");
+            const principal = document.getElementById("contenido-principal");
 
-    // Reset botones
-    document
-        .querySelectorAll(".categoria-btn")
-        .forEach((btn) => {
+            loading.classList.remove("hidden");
+            principal.classList.add("hidden");
 
-            btn.classList.remove(
-                "active",
-                "bg-blue-600",
-                "text-white"
-            );
+            try {
+                const baseRes = await fetch(BASE_JSON_URL);
+                const baseData = await baseRes.json();
+                const ids = Object.keys(baseData);
 
-            btn.classList.add(
-                "bg-white/10",
-                "hover:bg-white/20"
-            );
+                const promesas = ids.map(async (id) => {
+                    const detalle = await fetchTMDB(`movie/${id}`);
+                    if (!detalle) return null;
+
+                    return {
+                        id: parseInt(id),
+                        url: baseData[id],
+                        title: detalle.title || detalle.name,
+                        poster: detalle.poster_path ? `https://image.tmdb.org/t/p/w500${detalle.poster_path}` : null,
+                        year: detalle.release_date ? detalle.release_date.split("-")[0] : "N/A",
+                        rating: detalle.vote_average ? detalle.vote_average.toFixed(1) : "0.0",
+                        genres: detalle.genres || []
+                    };
+                });
+
+                const resultados = await Promise.all(promesas);
+                todosLosContenidos = resultados.filter(item => item !== null);
+                
+                document.getElementById("total-contenido").textContent = `${todosLosContenidos.length} películas`;
+
+                // Inicializar filtros
+                inicializarFiltrosModal();
+
+                // Mostrar "Todos" por defecto
+                contenidosFiltrados = [...todosLosContenidos];
+                renderizarPeliculas();
+
+                loading.classList.add("hidden");
+                principal.classList.remove("hidden");
+
+            } catch (error) {
+                loading.innerHTML = `<p class="text-red-400">Error al cargar películas</p>`;
+                console.error(error);
+            }
+        }
+
+        // ====================== RENDERIZAR PELÍCULAS (15 en 15 + Lazy Load) ======================
+        function renderizarPeliculas(reset = true) {
+            const grid = document.getElementById("grid-peliculas");
+            const btnCargarMas = document.getElementById("btn-cargar-mas");
+
+            if (reset) {
+                grid.innerHTML = "";
+                displayedCount = 15;
+            }
+
+            const porMostrar = contenidosFiltrados.slice(0, displayedCount);
+
+            porMostrar.forEach((item, index) => {
+                const card = document.createElement("div");
+                card.className = "card cursor-pointer group";
+                card.innerHTML = `
+                    <div class="poster-container rounded-3xl overflow-hidden shadow-2xl border border-white/10">
+                        <img data-src="${item.poster || 'https://via.placeholder.com/500x750?text=Sin+Poster'}" 
+                             alt="${item.title}" 
+                             class="w-full aspect-[2/3] object-cover transition-transform group-hover:scale-110 lazy-image">
+                        
+                        <div class="rating absolute top-3 right-3 flex items-center gap-1 text-xs font-bold px-2.5 py-1 rounded-2xl">
+                            <i class="fas fa-star text-yellow-400"></i>
+                            <span>${item.rating}</span>
+                        </div>
+                    </div>
+                    
+                    <div class="mt-3 px-1">
+                        <h3 class="font-semibold text-base line-clamp-2 leading-tight group-hover:text-blue-400 transition-colors">
+                            ${item.title}
+                        </h3>
+                        <div class="flex items-center justify-between text-xs text-zinc-400 mt-2">
+                            <span>${item.year}</span>
+                            <span class="flex items-center gap-1">
+                                <i class="fas fa-film text-[10px]"></i> Película
+                            </span>
+                        </div>
+                    </div>
+                `;
+
+                card.onclick = () => window.open(item.url, "_blank");
+                grid.appendChild(card);
+            });
+
+            // Activar Intersection Observer para imágenes
+            activarLazyLoading();
+
+            // Mostrar/ocultar botón "Cargar más"
+            if (displayedCount < contenidosFiltrados.length) {
+                btnCargarMas.classList.remove("hidden");
+                btnCargarMas.classList.add("flex");
+            } else {
+                btnCargarMas.classList.add("hidden");
+            }
+        }
+
+        function cargarMas() {
+            displayedCount += 15;
+            renderizarPeliculas(false);
+        }
+
+        // ====================== LAZY LOADING CON INTERSECTION OBSERVER ======================
+        function activarLazyLoading() {
+            if (observer) observer.disconnect();
+
+            observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const img = entry.target;
+                        img.src = img.dataset.src;
+                        img.classList.remove("lazy-image");
+                        observer.unobserve(img);
+                    }
+                });
+            }, { rootMargin: "200px" }); // Carga 200px antes de entrar en pantalla
+
+            document.querySelectorAll(".lazy-image").forEach(img => {
+                observer.observe(img);
+            });
+        }
+
+        // ====================== MODAL DE FILTROS ======================
+        function abrirModalFiltros() {
+            document.getElementById("modal-filtros").classList.remove("hidden");
+            document.getElementById("modal-filtros").classList.add("flex");
+        }
+
+        function cerrarModalFiltros() {
+            document.getElementById("modal-filtros").classList.add("hidden");
+            document.getElementById("modal-filtros").classList.remove("flex");
+        }
+
+        function inicializarFiltrosModal() {
+            // Letras A-Z
+            const letrasContainer = document.getElementById("filtro-letras");
+            letrasContainer.innerHTML = "";
+            for (let i = 65; i <= 90; i++) {
+                const letra = String.fromCharCode(i);
+                const btn = document.createElement("button");
+                btn.className = "px-3 py-1 text-xs bg-white/10 hover:bg-white/20 rounded-xl border border-white/10";
+                btn.textContent = letra;
+                btn.onclick = () => {
+                    btn.classList.toggle("bg-blue-600");
+                    btn.classList.toggle("text-white");
+                };
+                letrasContainer.appendChild(btn);
+            }
+
+            // Años
+            const anos = [...new Set(todosLosContenidos.map(c => c.year))].sort((a, b) => b - a);
+            const minSelect = document.getElementById("filtro-ano-min");
+            const maxSelect = document.getElementById("filtro-ano-max");
+
+            minSelect.innerHTML = `<option value="">Desde</option>` + anos.map(a => `<option value="${a}">${a}</option>`).join("");
+            maxSelect.innerHTML = `<option value="">Hasta</option>` + anos.map(a => `<option value="${a}">${a}</option>`).join("");
+
+            // Categorías
+            const catsContainer = document.getElementById("filtro-categorias");
+            catsContainer.innerHTML = "";
+            const categoriasUnicas = [...new Set(todosLosContenidos.flatMap(c => c.genres.map(g => g.name)))].sort();
+
+            categoriasUnicas.forEach(cat => {
+                const div = document.createElement("div");
+                div.className = "px-4 py-1.5 text-xs bg-white/10 hover:bg-white/20 rounded-2xl cursor-pointer border border-white/10";
+                div.textContent = cat;
+                div.onclick = () => div.classList.toggle("bg-blue-600");
+                catsContainer.appendChild(div);
+            });
+        }
+
+        function aplicarFiltros() {
+            const nombre = document.getElementById("filtro-nombre").value.toLowerCase().trim();
+            const letrasActivas = Array.from(document.querySelectorAll("#filtro-letras button.bg-blue-600")).map(b => b.textContent);
+            const anoMin = document.getElementById("filtro-ano-min").value;
+            const anoMax = document.getElementById("filtro-ano-max").value;
+            const catsActivas = Array.from(document.querySelectorAll("#filtro-categorias div.bg-blue-600")).map(d => d.textContent);
+
+            contenidosFiltrados = todosLosContenidos.filter(item => {
+                // Nombre
+                if (nombre && !item.title.toLowerCase().includes(nombre)) return false;
+
+                // Letra
+                if (letrasActivas.length > 0 && !letrasActivas.includes(item.title[0].toUpperCase())) return false;
+
+                // Año
+                if (anoMin && item.year < anoMin) return false;
+                if (anoMax && item.year > anoMax) return false;
+
+                // Categorías
+                if (catsActivas.length > 0) {
+                    const itemCats = item.genres.map(g => g.name);
+                    if (!catsActivas.some(cat => itemCats.includes(cat))) return false;
+                }
+
+                return true;
+            });
+
+            cerrarModalFiltros();
+            renderizarPeliculas(true);
+        }
+
+        function limpiarFiltros() {
+            document.getElementById("filtro-nombre").value = "";
+            document.querySelectorAll("#filtro-letras button").forEach(b => b.classList.remove("bg-blue-600", "text-white"));
+            document.getElementById("filtro-ano-min").value = "";
+            document.getElementById("filtro-ano-max").value = "";
+            document.querySelectorAll("#filtro-categorias div").forEach(d => d.classList.remove("bg-blue-600"));
+
+            contenidosFiltrados = [...todosLosContenidos];
+            cerrarModalFiltros();
+            renderizarPeliculas(true);
+        }
+
+        // ====================== BOTÓN VOLVER ARRIBA ======================
+        function volverArriba() {
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        }
+
+        // Mostrar/Ocultar botón flotante
+        window.addEventListener("scroll", () => {
+            const btn = document.getElementById("btn-volver-arriba");
+            if (window.scrollY > 400) {
+                btn.classList.remove("hidden");
+                btn.classList.add("flex");
+            } else {
+                btn.classList.add("hidden");
+                btn.classList.remove("flex");
+            }
         });
 
-    // Activar botón
-    const botones =
-        document.querySelectorAll(
-            ".categoria-btn"
-        );
-
-    for (let btn of botones) {
-
-        if (
-            categoria === "todos" &&
-            btn.textContent.includes("Todos")
-        ) {
-            btn.classList.add(
-                "active",
-                "bg-blue-600",
-                "text-white"
-            );
-            break;
-        }
-
-        if (
-            btn.textContent.includes(categoria)
-        ) {
-            btn.classList.add(
-                "active",
-                "bg-blue-600",
-                "text-white"
-            );
-            break;
-        }
-    }
-
-    // Mostrar/Ocultar secciones
-    const secciones =
-        document.querySelectorAll(
-            "#secciones-categorias > div"
-        );
-
-    secciones.forEach((seccion) => {
-
-        if (categoria === "todos") {
-            seccion.style.display = "block";
-        } else {
-            seccion.style.display =
-                seccion.dataset.categoria === categoria
-                    ? "block"
-                    : "none";
-        }
-    });
-}
-
-// ====================== INICIAR
-// ======================
-window.onload = () => {
-
-    // Navbar dinámico
-    if (typeof renderNavbar === "function") {
-        renderNavbar("main-header");
-    }
-
-    // Cargar categorías
-    cargarTodo();
-};
+        // ====================== INICIAR ======================
+        window.onload = () => {
+            if (typeof initNavbar === "function") {
+                initNavbar("main-header");
+            }
+            cargarTodo();
+        };
     </script>
 </body>
 </html>
