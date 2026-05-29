@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1427,
+  "poster": "https://image.tmdb.org/t/p/w500/dAR6MYoz8VrUhGsT0F8ZsqONtdp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kvdy0Ijjo2r9qsnWV4Dzx07qwnc.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/a5NYemJ1CWFfhnwHFjYwT4nDksQ.png",
+  "titulo": "El Perfume: Historia de un asesino",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Fantasía",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.364,
+  "año": "2006",
+  "duracion": "2h 27min",
+  "edad_minima": 13,
+  "sinopsis": "Jean-Baptiste Grenouille, nacido con un sentido olfativo superior, crea el mejor perfume del mundo. Su trabajo, sin embargo, toma un giro oscuro mientras busca el aroma definitivo.",
+  "fecha_estreno": "2006-09-13",
+  "titulo_original": "Perfume: The Story of a Murderer",
+  "pais_origen": "Germany",
+  "reparto": [
+    {
+      "nombre": "Ben Whishaw",
+      "personaje": "Jean-Baptiste Grenouille",
+      "foto": "https://image.tmdb.org/t/p/w500/sgZXPptHQLzKJknF6SKLl7HRiu8.jpg"
+    },
+    {
+      "nombre": "Alan Rickman",
+      "personaje": "Richis",
+      "foto": "https://image.tmdb.org/t/p/w500/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    },
+    {
+      "nombre": "Rachel Hurd-Wood",
+      "personaje": "Laura",
+      "foto": "https://image.tmdb.org/t/p/w500/9OMWHFdFAk45dF00BgZR4BcjANI.jpg"
+    },
+    {
+      "nombre": "Dustin Hoffman",
+      "personaje": "Giuseppe Baldini",
+      "foto": "https://image.tmdb.org/t/p/w500/yxNGnTiou25c3zjppT5dW2eWAve.jpg"
+    },
+    {
+      "nombre": "John Hurt",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+    },
+    {
+      "nombre": "Karoline Herfurth",
+      "personaje": "The Plum Girl",
+      "foto": "https://image.tmdb.org/t/p/w500/tuG0Jy82jC9ReiD9qXIDBLCYfhi.jpg"
+    },
+    {
+      "nombre": "David Calder",
+      "personaje": "Bishop of Grasse",
+      "foto": "https://image.tmdb.org/t/p/w500/7l4WZ0IufRCx3A0AHwRAH7K2Ccz.jpg"
+    },
+    {
+      "nombre": "Simon Chandler",
+      "personaje": "Mayor of Grasse",
+      "foto": "https://image.tmdb.org/t/p/w500/uqiDrIp84VEJY3vPCr95Cxp4mKY.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Andrew Birkin",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Tom Tykwer",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bernd Eichinger",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bernd Eichinger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Tykwer",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Andreas Schmid",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pierre-Yves Gayraud",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Uli Hanisch",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Silvia Tollmann",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Manuel Malle",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Samuel Hadida",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthias Lempert",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Roland Winke",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "Tom Tykwer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Alexander Berner",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Julio Fernández",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andreas Grosch",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Tom Tykwer",
+  "valoraciones": {
+    "tmdb": 7.364,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Constantin Film",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/c/O/a/j/cOajp.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=zutiIw_2e2g"
+}
