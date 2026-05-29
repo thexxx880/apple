@@ -112,9 +112,9 @@
         const db = getFirestore(app);
 
         let currentUser = null;
-        let selectedIconUrl = null;   // ← Declarado solo una vez
+        let selectedIconUrl = null;   // ← Declarado SOLO UNA VEZ
 
-        // ====================== ICONOS ======================
+        // ====================== LISTA DE ICONOS ======================
         const iconos = {
             "netflix-v1": [
                 "https://i.pinimg.com/736x/91/86/1b/91861b749841221d52122f0c2933d8a6.jpg",
@@ -182,9 +182,9 @@
             ]
         };
 
-        let selectedIconUrl = null;   // ← Declarado solo una vez
+        let selectedIconUrl = null;   // ← Solo declarada una vez
 
-        // Cargar todos los iconos en sus filas
+        // Cargar todos los iconos
         function loadIcons() {
             const sections = {
                 "netflix-v1": document.getElementById("netflix-v1"),
@@ -215,7 +215,7 @@
             });
         }
 
-        // Guardar en Firestore
+        // Guardar icono en Firestore
         window.saveSelectedIcon = async function() {
             if (!selectedIconUrl || !currentUser) {
                 alert("Por favor selecciona un icono");
@@ -232,7 +232,7 @@
                 window.location.href = "menu.html";
 
             } catch (error) {
-                console.error("Error:", error);
+                console.error("Error al guardar:", error);
                 alert("Error al guardar el icono");
             }
         };
@@ -284,7 +284,6 @@
 
         // Cargar grid al iniciar
         window.onload = function() {
-            // Cargar iconos
             const sections = {
                 "netflix-v1": document.getElementById("netflix-v1"),
                 "netflix-v2": document.getElementById("netflix-v2"),
