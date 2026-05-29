@@ -16,7 +16,6 @@
             box-shadow: 0 0 8px rgba(255,255,255,.15);
         }
         .icono-item:hover { transform: scale(1.15); border-color: #2563eb; }
-        .icono-item.selected { border-color: #2563eb; box-shadow: 0 0 0 8px rgba(37, 99, 235, 0.3); }
         .icono-item img { width: 100%; height: 100%; border-radius: 9999px; object-fit: cover; }
     </style>
 </head>
@@ -69,7 +68,7 @@
         let currentUser = null;
 
         const iconos = {
-             "netflix-v1": [
+            "netflix-v1": [
                 "https://i.pinimg.com/736x/91/86/1b/91861b749841221d52122f0c2933d8a6.jpg",
                 "https://i.pinimg.com/736x/b4/0b/51/b40b51418293936a6e0ad09ffa229cb7.jpg",
                 "https://i.pinimg.com/736x/32/a8/49/32a849aaf205b143c1a2b78d4b8bcf4b.jpg",
@@ -138,24 +137,21 @@
         // ====================== FUNCIÓN DE GUARDADO ======================
         async function saveIcon(url) {
             if (!currentUser) {
-                alert("Debes iniciar sesión primero");
+                alert("Debes iniciar sesión");
                 return;
             }
 
             try {
-                // Guardar en Firestore
                 await updateDoc(doc(db, "users", currentUser.uid), {
                     profileIcon: url,
                     updatedAt: new Date()
                 });
 
-                console.log("✅ Icono guardado correctamente:", url);
-
-                // Redirigir a menu.html
+                console.log("✅ Icono guardado correctamente en Firestore");
                 window.location.href = "../menu.html";
 
             } catch (error) {
-                console.error("❌ Error al guardar icono:", error);
+                console.error("❌ Error al guardar:", error);
                 alert("Error al guardar el icono");
             }
         }
@@ -180,7 +176,7 @@
                     div.className = "icono-item";
                     div.innerHTML = `<img src="${url}" alt="Icono">`;
 
-                    // Al hacer clic → guardar y redirigir
+                    // Al hacer clic → guardar
                     div.onclick = () => saveIcon(url);
 
                     row.appendChild(div);
@@ -188,11 +184,11 @@
             });
         }
 
-        // Inicializar usuario
+        // Inicializar
         onAuthStateChanged(auth, (user) => {
             if (user) {
                 currentUser = user;
-                console.log("✅ Usuario autenticado:", user.uid);
+                console.log("✅ Usuario listo para guardar iconos");
             } else {
                 window.location.href = "../login.html";
             }
