@@ -152,12 +152,12 @@
     <script src="../js/components/navbar.js"></script>
     
     <script>
-        const SEARCH_JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search/search.json";
+      const SEARCH_JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search/search.json";
         
         let todosLosContenidos = [];
         let contenidosFiltrados = [];
 
-        // ==================== NORMALIZACIÓN MEJORADA ====================
+        // ==================== NORMALIZACIÓN ====================
         function normalizeText(str) {
             if (!str) return "";
             return str.toString().toLowerCase()
@@ -166,50 +166,61 @@
                 .replace(/\s+/g, " ").trim();
         }
 
-        // ==================== BÚSQUEDA INTELIGENTE (ORDEN INDEPENDIENTE) ====================
+        // ==================== BÚSQUEDA INTELIGENTE CON PRIORIDAD ====================
         function buscarInteligente(query, item) {
             const q = normalizeText(query);
-            if (!q || q.length < 2) return { match: false, score: 0 };
+            if (!q || q.length < 2) return { match: false, score: 0, source: '' };
 
             const qWords = q.split(" ").filter(w => w.length > 1);
-            if (qWords.length === 0) return { match: false, score: 0 };
+            if (qWords.length === 0) return { match: false, score: 0, source: '' };
 
-            // Texto completo del item
-            const fullText = normalizeText(
-                (item.title || "") + " " + 
-                (item.tituloAlternos || "") + " " + 
-                (item.sinopsis || "")
-            );
+            const titleNorm = normalizeText(item.title || "");
+            const alternosNorm = normalizeText(item.tituloAlternos || "");
+            const sinopsisNorm = normalizeText(item.sinopsis || "");
 
-            const itemWords = fullText.split(" ");
-
+            let totalScore = 0;
             let matchedWords = 0;
-            let exactTitleMatch = false;
+            let source = '';
 
-            // Verificar cada palabra de la búsqueda
             qWords.forEach(qWord => {
-                // Buscar coincidencia exacta o parcial
-                const found = itemWords.some(iWord => 
-                    iWord === qWord || 
-                    iWord.includes(qWord) || 
-                    qWord.includes(iWord)
-                );
-                
-                if (found) matchedWords++;
+                let wordScore = 0;
+                let wordSource = '';
+
+                // 1. TÍTULO (MÁXIMA PRIORIDAD)
+                if (titleNorm.includes(qWord)) {
+                    wordScore = 12;
+                    wordSource = 'title';
+                } 
+                // 2. TÍTULOS ALTERNOS
+                else if (alternosNorm.includes(qWord)) {
+                    wordScore = 8;
+                    wordSource = 'alternos';
+                } 
+                // 3. SINOPSIS (BAJA PRIORIDAD)
+                else if (sinopsisNorm.includes(qWord)) {
+                    wordScore = 3;
+                    wordSource = 'sinopsis';
+                }
+
+                if (wordScore > 0) {
+                    matchedWords++;
+                    totalScore += wordScore;
+                    if (!source) source = wordSource;
+                }
             });
 
-            // Bonus si el título coincide casi exactamente
-            const titleNorm = normalizeText(item.title || "");
+            const allWordsMatched = matchedWords === qWords.length;
+            if (!allWordsMatched) return { match: false, score: 0, source: '' };
+
+            // Bonus si la frase completa aparece en el título
             if (titleNorm.includes(q) || q.includes(titleNorm)) {
-                exactTitleMatch = true;
+                totalScore += 20;
             }
 
-            const score = matchedWords / qWords.length; // 0 a 1
-            const finalScore = exactTitleMatch ? score + 0.5 : score;
-
-            return {
-                match: matchedWords === qWords.length, // Todas las palabras deben coincidir
-                score: finalScore
+            return { 
+                match: true, 
+                score: totalScore, 
+                source: source 
             };
         }
 
@@ -240,11 +251,9 @@
             const grid = document.getElementById("results-grid");
             const noResults = document.getElementById("no-results");
             const count = document.getElementById("result-count");
-            const stats = document.getElementById("search-stats");
 
             grid.innerHTML = "";
             noResults.classList.add("hidden");
-            stats.classList.add("hidden");
 
             if (contenidosFiltrados.length === 0) {
                 noResults.classList.remove("hidden");
@@ -253,9 +262,6 @@
             }
 
             count.textContent = `${contenidosFiltrados.length} resultados encontrados`;
-
-            // Ordenar por relevancia (score más alto primero)
-            contenidosFiltrados.sort((a, b) => (b._score || 0) - (a._score || 0));
 
             contenidosFiltrados.forEach(item => {
                 const card = document.createElement("div");
@@ -294,7 +300,6 @@
 
         // ==================== INICIALIZAR FILTROS ====================
         function inicializarFiltros() {
-            // LETRAS A-Z
             const letrasContainer = document.getElementById("filtro-letras");
             letrasContainer.innerHTML = "";
            
@@ -307,7 +312,6 @@
                 letrasContainer.appendChild(btn);
             }
 
-            // AÑOS
             const anosContainer = document.getElementById("filtro-anos");
             const anosUnicos = [...new Set(todosLosContenidos.map(item => item.year))]
                 .filter(año => año !== "N/A")
@@ -330,21 +334,29 @@
             const anosActivos = Array.from(document.querySelectorAll("#filtro-anos button.filtro-activo"))
                 .map(b => b.textContent);
 
-            contenidosFiltrados = todosLosContenidos.filter(item => {
-                // Búsqueda inteligente
-                const searchResult = buscarInteligente(query, item);
-                if (query.length >= 2 && !searchResult.match) return false;
-
-                // Filtro por letra inicial
-                if (letrasActivas.length > 0 && !letrasActivas.includes(item.title[0].toUpperCase())) return false;
-
-                // Filtro por año
-                if (anosActivos.length > 0 && !anosActivos.includes(item.year)) return false;
-
-                // Guardar score para ordenamiento
-                item._score = searchResult.score || 0;
-                return true;
-            });
+            contenidosFiltrados = todosLosContenidos
+                .map(item => {
+                    const result = buscarInteligente(query, item);
+                    return { 
+                        ...item, 
+                        _score: result.score, 
+                        _source: result.source 
+                    };
+                })
+                .filter(item => {
+                    if (query.length >= 2 && item._score === 0) return false;
+                    
+                    if (letrasActivas.length > 0 && !letrasActivas.includes(item.title[0].toUpperCase())) return false;
+                    if (anosActivos.length > 0 && !anosActivos.includes(item.year)) return false;
+                    
+                    return true;
+                })
+                .sort((a, b) => {
+                    // 1. Por score (relevancia)
+                    if (b._score !== a._score) return b._score - a._score;
+                    // 2. Por ID (ascendente)
+                    return a.id - b.id;
+                });
 
             cerrarModalFiltros();
             renderizarResultados();
@@ -359,7 +371,6 @@
             document.getElementById("results-grid").innerHTML = "";
             document.getElementById("result-count").textContent = "Escribe algo para comenzar a buscar";
             document.getElementById("no-results").classList.add("hidden");
-            document.getElementById("search-stats").classList.add("hidden");
             cerrarModalFiltros();
         }
 
@@ -377,7 +388,7 @@
             window.scrollTo({ top: 0, behavior: "smooth" });
         }
 
-        // ==================== BÚSQUEDA EN TIEMPO REAL MEJORADA ====================
+        // ==================== BÚSQUEDA EN TIEMPO REAL ====================
         let searchTimeout;
         
         document.getElementById("search-input").addEventListener("input", () => {
@@ -391,21 +402,26 @@
                     document.getElementById("results-grid").innerHTML = "";
                     document.getElementById("result-count").textContent = "Escribe algo para comenzar a buscar";
                     document.getElementById("no-results").classList.add("hidden");
-                    document.getElementById("search-stats").classList.add("hidden");
                     return;
                 }
 
-                // Búsqueda inteligente
                 contenidosFiltrados = todosLosContenidos
                     .map(item => {
                         const result = buscarInteligente(query, item);
-                        return { ...item, _score: result.score, _match: result.match };
+                        return { 
+                            ...item, 
+                            _score: result.score, 
+                            _source: result.source 
+                        };
                     })
-                    .filter(item => item._match)
-                    .sort((a, b) => b._score - a._score);
+                    .filter(item => item._score > 0)
+                    .sort((a, b) => {
+                        if (b._score !== a._score) return b._score - a._score;
+                        return a.id - b.id;
+                    });
 
                 renderizarResultados();
-            }, 180);
+            }, 160);
         });
 
         // Scroll
