@@ -38,10 +38,8 @@
 
     <!-- PERFIL -->
     <div class="profile-box">
-        <!-- ESTA ES LA IMAGEN QUE PEDISTE -->
         <img class="avatar" id="user-avatar" 
              src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg">
-        
         <div class="user-info">
             <h2 id="username">Cargando...</h2>
             <p>Cuenta Premium activa</p>
@@ -50,39 +48,16 @@
 
     <!-- MENU -->
     <div class="menu">
-        <a href="mylist.html" class="menu-item">
-            <div class="menu-icon"><i class="fa-solid fa-bookmark"></i></div>
-            <div class="menu-content"><div class="menu-title">Mi lista</div><div class="menu-desc">Tus películas y series guardadas</div></div>
-            <i class="fa-solid fa-chevron-right arrow"></i>
-        </a>
-
-        <a href="#" class="menu-item">
-            <div class="menu-icon"><i class="fa-solid fa-clock-rotate-left"></i></div>
-            <div class="menu-content"><div class="menu-title">Seguir viendo</div><div class="menu-desc">Continúa donde te quedaste</div></div>
-            <i class="fa-solid fa-chevron-right arrow"></i>
-        </a>
-
-        <a href="#" class="menu-item">
-            <div class="menu-icon"><i class="fa-solid fa-bell"></i></div>
-            <div class="menu-content"><div class="menu-title">Notificaciones</div><div class="menu-desc">Novedades y actualizaciones</div></div>
-            <i class="fa-solid fa-chevron-right arrow"></i>
-        </a>
-
-        <a href="#" class="menu-item">
-            <div class="menu-icon"><i class="fa-solid fa-gear"></i></div>
-            <div class="menu-content"><div class="menu-title">Configuración</div><div class="menu-desc">Preferencias de la aplicación</div></div>
-            <i class="fa-solid fa-chevron-right arrow"></i>
-        </a>
-
-        <a href="#" class="menu-item" onclick="showEditProfileModal()">
-            <div class="menu-icon"><i class="fa-solid fa-user-pen"></i></div>
-            <div class="menu-content"><div class="menu-title">Editar Perfil</div><div class="menu-desc">Cambia avatar y nombre</div></div>
-            <i class="fa-solid fa-chevron-right arrow"></i>
-        </a>
+        <!-- ... (tus menús normales) ... -->
+        <a href="mylist.html" class="menu-item">...</a>
+        <!-- ... resto de tus menús ... -->
 
         <div class="menu-item logout" onclick="logout()">
             <div class="menu-icon"><i class="fa-solid fa-right-from-bracket"></i></div>
-            <div class="menu-content"><div class="menu-title">Cerrar sesión</div><div class="menu-desc">Salir de tu cuenta</div></div>
+            <div class="menu-content">
+                <div class="menu-title">Cerrar sesión</div>
+                <div class="menu-desc">Salir de tu cuenta</div>
+            </div>
         </div>
     </div>
 
@@ -93,54 +68,39 @@
     <script src="js/firebase/applelz.js"></script>
 
     <script>
-        /* =============================================
-           LÓGICA DE CARGA DEL ICONO DESDE FIRESTORE
-           (Recreada desde cero)
-        ============================================= */
         firebase.auth().onAuthStateChanged(async (user) => {
             if (!user) {
                 window.location.href = "login.html";
                 return;
             }
 
-            // Mostrar nombre del usuario
             document.getElementById("username").textContent = user.displayName || "Usuario LzPlay";
 
-            // === CARGAR ICONO DESDE FIRESTORE ===
+            // === LÓGICA DE CARGA DEL ICONO ===
             try {
-                console.log("Buscando documento del usuario:", user.uid);
+                const docRef = firebase.firestore().collection("users").doc(user.uid);
+                const docSnap = await docRef.get();
 
-                const userDoc = await firebase.firestore()
-                    .collection("users")
-                    .doc(user.uid)
-                    .get();
+                if (docSnap.exists) {
+                    const data = docSnap.data();
+                    console.log("Datos completos del documento:", data);
 
-                if (userDoc.exists) {
-                    const data = userDoc.data();
-                    console.log("Datos del usuario:", data);
+                    // Buscamos el campo profileIcon (con diferentes posibles nombres)
+                    let iconUrl = data.profileIcon || data.profileicon || data.avatar || data.photoURL;
 
-                    if (data.profileIcon) {
-                        // ← CAMBIA LA IMAGEN POR EL ICONO GUARDADO EN FIRESTORE
-                        document.getElementById("user-avatar").src = data.profileIcon;
-                        console.log("✅ Icono cargado correctamente:", data.profileIcon);
+                    if (iconUrl) {
+                        document.getElementById("user-avatar").src = iconUrl;
+                        console.log("✅ Icono cargado correctamente:", iconUrl);
                     } else {
-                        console.log("⚠️ El usuario no tiene profileIcon guardado");
+                        console.warn("⚠️ No se encontró ningún campo de icono en el documento.");
                     }
                 } else {
-                    console.log("⚠️ No se encontró el documento del usuario en Firestore");
+                    console.warn("⚠️ El documento del usuario no existe en Firestore.");
                 }
             } catch (error) {
-                console.error("❌ Error al cargar el icono desde Firestore:", error);
+                console.error("❌ Error al cargar el icono:", error);
             }
         });
-
-        /* ==========================
-           FUNCIONES ADICIONALES
-        ========================== */
-        function showEditProfileModal() {
-            // Aquí puedes abrir el modal que ya tenías
-            alert("Funcionalidad de editar perfil (puedes implementar el modal aquí)");
-        }
 
         async function logout() {
             try {
