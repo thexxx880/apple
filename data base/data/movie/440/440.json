@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 440,
+  "poster": "https://image.tmdb.org/t/p/w500/1oHhdpITbDVIJGyt0xfDEMrk0fG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jXntuh47VtKLeoyBQ268rv24Igw.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5RmuRmf0XUWa3jdKwD4aVwS0ZJK.png",
+  "titulo": "Alien vs. Depredador 2",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Suspense",
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.175,
+  "año": "2007",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "Una secuela de 2004 Alien vs. Depredador, las criaturas icónicas de dos de las franquicias cinematográficas más aterradoras en la historia del cine libran su batalla más brutal jamás: en nuestro propio patio trasero. La pequeña ciudad de Gunnison, Colorado se convierte en una zona de guerra entre dos de las formas de vida extraterrestre más mortíferas: Alien y Depredador. Cuando un barco explorador Depredador se estrella en las colinas fuera de la ciudad, Alien Facehuggers y un híbrido Alien / Depredador son liberados y comienzan a aterrorizar a la ciudad.",
+  "fecha_estreno": "2007-12-25",
+  "titulo_original": "Aliens vs Predator: Requiem",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "David Paetkau",
+      "personaje": "Dale",
+      "foto": "https://image.tmdb.org/t/p/w500/c2LHO9ERSk8D5SW4vgRvgS9sSmb.jpg"
+    },
+    {
+      "nombre": "Sam Trammell",
+      "personaje": "Tim",
+      "foto": "https://image.tmdb.org/t/p/w500/nt4uogoUsX3gR3kUcxuEZzsonep.jpg"
+    },
+    {
+      "nombre": "Steven Pasquale",
+      "personaje": "Dallas Howard",
+      "foto": "https://image.tmdb.org/t/p/w500/exO1cSAwbKsqaXAGnkvVXMgKNFl.jpg"
+    },
+    {
+      "nombre": "Reiko Aylesworth",
+      "personaje": "Kelly O'Brien",
+      "foto": "https://image.tmdb.org/t/p/w500/bznmFIKDFalcTDUxneXgY33YOn0.jpg"
+    },
+    {
+      "nombre": "John Ortiz",
+      "personaje": "Sheriff Eddie Morales",
+      "foto": "https://image.tmdb.org/t/p/w500/o2SOFI53N6Gv5S3fDEBNbeimbzY.jpg"
+    },
+    {
+      "nombre": "Johnny Lewis",
+      "personaje": "Ricky",
+      "foto": "https://image.tmdb.org/t/p/w500/ebfmLC4cr4F31aDw6DGMJcjOJNz.jpg"
+    },
+    {
+      "nombre": "Ariel Gade",
+      "personaje": "Molly O'Brien",
+      "foto": "https://image.tmdb.org/t/p/w500/ltyl0Yoai1zwJLhGGlhaJVsjb1m.jpg"
+    },
+    {
+      "nombre": "Kristen Hager",
+      "personaje": "Jesse",
+      "foto": "https://image.tmdb.org/t/p/w500/2PviKeFR98erJ8KocpM3ZQRbVQL.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Colin Strause",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Greg Strause",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Davis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Giler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Walter Hill",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Shane Salerno",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brian Tyler",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Daniel Pearl",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Dan Zimmerman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Heike Brandstatter",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mindy Marin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Coreen Mayrs",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Andrew Neskoromny",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Shane Vieau",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Angus Strathie",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Dan O'Bannon",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Ronald Shusett",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jim Thomas",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Colin Strause",
+  "valoraciones": {
+    "tmdb": 5.175,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Dune Entertainment",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/65/s8/2/X/u/-/P/Xu-Py.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=XbTWLrZLYmU"
+}
