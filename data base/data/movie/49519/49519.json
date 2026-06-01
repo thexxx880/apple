@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 49519,
+  "poster": "https://image.tmdb.org/t/p/w500/3X3qtBTgKt5mCB30RJwbIjgjzdw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wFN8llYh215M8i2fqWAcPV8CSyL.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/phU4jQXrrCzdhmABIdack9raPB1.png",
+  "titulo": "Los Croods",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Aventura",
+    "Familia",
+    "Comedia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 6.939,
+  "año": "2013",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Los Croods es una aventura de comedia prehistórica que sigue a la primera familia del mundo mientras se embarcan en un viaje de toda una vida cuando la cueva que siempre los ha protegido del peligro se destruye. Viajando a través de un paisaje espectacular, los Croods descubrir un nuevo mundo increíble lleno de criaturas fantásticas, y maravillosas aventuras,  haciendo que su perspectiva se cambie para siempre.",
+  "fecha_estreno": "2013-03-15",
+  "titulo_original": "The Croods",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Nicolas Cage",
+      "personaje": "Grug (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+      "nombre": "Emma Stone",
+      "personaje": "Eep (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
+    },
+    {
+      "nombre": "Ryan Reynolds",
+      "personaje": "Guy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+      "nombre": "Catherine Keener",
+      "personaje": "Ugga (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+    },
+    {
+      "nombre": "Cloris Leachman",
+      "personaje": "Gran (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/o8pnV9urjuHZDAR2u4UjPy2CR1u.jpg"
+    },
+    {
+      "nombre": "Clark Duke",
+      "personaje": "Thunk (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qL7x57avA9IupsjtwnpIuJ8p8BD.jpg"
+    },
+    {
+      "nombre": "Chris Sanders",
+      "personaje": "Belt (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6CtrIOCxggJ5eIAWeFQqd4Hs9FP.jpg"
+    },
+    {
+      "nombre": "Randy Thom",
+      "personaje": "Sandy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kirk DeMicco",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chris Sanders",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chris Sanders",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kristine Belson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jane Hartwell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kirk DeMicco",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Cleese",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Chris Sanders",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Randy Thom",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Randy Thom",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Al Nelson",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "James Baxter",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Steve Cunningham",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "David Lee",
+      "rol": "Digital Producer"
+    },
+    {
+      "nombre": "Simon Rodgers",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "Shane Prigmore",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "Yong Duk Jhun",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Alan Silvestri",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Darren T. Holmes",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Leslee Feldman",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Kirk DeMicco",
+  "valoraciones": {
+    "tmdb": 6.939,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://rumble.com/hls-vod/6u1hi6/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=4fVCKy69zUY"
+}
