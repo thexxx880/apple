@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 10386,
+  "poster": "https://image.tmdb.org/t/p/w500/voPAzJFyopCnLEwaBWpoX8uDvGI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wfClZdRb1x4LZ8B73Y9RSn8XAPa.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vRnaA1Qe3z2l0G8KpVDb4SRZ6PJ.png",
+  "titulo": "El gigante de hierro",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama",
+    "Familia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.955,
+  "año": "1999",
+  "duracion": "1h 26min",
+  "edad_minima": 13,
+  "sinopsis": "Un joven se hace amigo de un robot gigante del espacio exterior que un paranoico agente del gobierno quiere destruir.",
+  "fecha_estreno": "1999-08-06",
+  "titulo_original": "The Iron Giant",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jennifer Aniston",
+      "personaje": "Annie Hughes (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7sQcYpMkmZMc2pXnkmAuYzNVhXB.jpg"
+    },
+    {
+      "nombre": "Harry Connick Jr.",
+      "personaje": "Dean McCoppin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cMagjJsa0nSZzEueihV721dgxNn.jpg"
+    },
+    {
+      "nombre": "Vin Diesel",
+      "personaje": "The Iron Giant (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+    },
+    {
+      "nombre": "James Gammon",
+      "personaje": "Foreman Marv Loach / Floyd Turbeaux (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ar7am7PST1c91LYPYnrmJJxc9zH.jpg"
+    },
+    {
+      "nombre": "Cloris Leachman",
+      "personaje": "Mrs. Lynley Tensedge (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/o8pnV9urjuHZDAR2u4UjPy2CR1u.jpg"
+    },
+    {
+      "nombre": "Christopher McDonald",
+      "personaje": "Kent Mansley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg"
+    },
+    {
+      "nombre": "John Mahoney",
+      "personaje": "General Rogard (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+    },
+    {
+      "nombre": "Eli Marienthal",
+      "personaje": "Hogarth Hughes (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lrIygexYKs1bhcIjbHtyCejRaAe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Brad Bird",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tim McCanlies",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Allison Abbate",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Des McAnuff",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brad Bird",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Kamen",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Steven Wilzbach",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Darren T. Holmes",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Laura Leganza Reynolds",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Dao Le",
+      "rol": "Production Office Assistant"
+    },
+    {
+      "nombre": "Amy Richards",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Jeannine Berger",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Scott T. Petersen",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Bill Perkins",
+      "rol": "Technical Supervisor"
+    },
+    {
+      "nombre": "Tanya Calderon",
+      "rol": "Production Office Assistant"
+    },
+    {
+      "nombre": "Craig R. Maras",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "John Williamson",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Brad Bird",
+  "valoraciones": {
+    "tmdb": 7.955,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Feature Animation",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/w/W/7/X/wW7Xo.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=2izFEWmzPdk"
+}
