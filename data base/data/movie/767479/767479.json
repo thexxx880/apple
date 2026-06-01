@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 767479,
+  "poster": "https://image.tmdb.org/t/p/w500/reJmewTkOUX1he9Wb3uR3xfQshV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7QXpK9JmwUHFOjl8RQVdMUOg1YA.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/KA0gINqOCgIXwOkvLKz2PXeeQZ.png",
+  "titulo": "Sin hijos",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.355,
+  "año": "2020",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "Sin hijos narra la historia de Marina, un alma libre que viaja desde que acabó la escuela y siempre ha estado enamorada de Fidel. Él, un solitario, rechazó la oferta de Marina de viajar por atender la tienda de música de su abuelo y quedarse amarrado a algo seguro. Un día, Marina decide regresar a buscarlo a ver si está solo. Cuando se encuentran, los dos vuelven a sentir las mariposas que sintieron años atrás pero las cosas se complican cuando Fidel, que es papá soltero y cuya vida entera es su hija, descubre que ella es un bicho raro al que no le gustan los niños y a los niños no les cae bien ella.",
+  "fecha_estreno": "2020-07-27",
+  "titulo_original": "Sin hijos",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Alfonso Dosal",
+      "personaje": "Fidel",
+      "foto": "https://image.tmdb.org/t/p/w500/rU5OxxV1lsJuhUM1n5TSWdZSb8S.jpg"
+    },
+    {
+      "nombre": "Regina Blandón",
+      "personaje": "Marina",
+      "foto": "https://image.tmdb.org/t/p/w500/EOJMYO7k6DBJAnsqvNTSIOsxYM.jpg"
+    },
+    {
+      "nombre": "Francesca Mercadante",
+      "personaje": "Ari",
+      "foto": null
+    },
+    {
+      "nombre": "Jorge Muñiz",
+      "personaje": "Bernardo",
+      "foto": null
+    },
+    {
+      "nombre": "Miguel Jiménez",
+      "personaje": "Temo",
+      "foto": null
+    },
+    {
+      "nombre": "Michelle Rodríguez",
+      "personaje": "Sonia",
+      "foto": "https://image.tmdb.org/t/p/w500/nLuOLXauZhInejLSFqUl18nfoHn.jpg"
+    },
+    {
+      "nombre": "Gustavo Egelhaaf",
+      "personaje": "Ernesto",
+      "foto": "https://image.tmdb.org/t/p/w500/8l2k3MUEEzpA6Pmc36Klzs7pl5M.jpg"
+    },
+    {
+      "nombre": "Giovanna Zacarías",
+      "personaje": "Sara",
+      "foto": "https://image.tmdb.org/t/p/w500/hyw0Bd8kKkAXNG008R8NVkNCgEx.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Mariano Vera",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Roberto Fiesco",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Anaí López",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Mariano Vera",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Isabel Menchaca",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jonathan Hernández",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Alejandro Caraza",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "Mario Guerrero",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Omar Juárez",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Omar Juárez",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Emiliano Arenales Osorio",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Roberto Zamarripa",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Connie Calderón",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Anaí López",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Pablo Solarz",
+      "rol": "Screenstory"
+    },
+    {
+      "nombre": "Julián Hernández",
+      "rol": "Script"
+    }
+  ],
+  "director": "Roberto Fiesco",
+  "valoraciones": {
+    "tmdb": 6.355,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Mil Nubes-Cine",
+  "enlace_video": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismarz%2FSin%20Hijos%20(2020)%20LAT.mp4",
+  "trailer": ""
+}
