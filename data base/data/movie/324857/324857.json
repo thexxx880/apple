@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 324857,
+  "poster": "https://image.tmdb.org/t/p/w500/e47p9fHR6jMrrLeoa7l5hU05vhR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/cCZ26gWTDyLadOmcFjug72jEo8H.png",
+  "titulo": "Spider-Man: Un nuevo universo",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8.393,
+  "año": "2018",
+  "duracion": "1h 57min",
+  "edad_minima": 13,
+  "sinopsis": "En un universo paralelo donde Peter Parker ha muerto, un jóven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk (a.k.a Kingpin) construye el \"Super Colisionador\" trae a una versión alternativa de Peter Parker que tratará de enseñarle a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo, 4 versiones alternas de Spidey aparecerán y buscarán regresar a su universo antes de que toda la realidad colapse.",
+  "fecha_estreno": "2018-12-06",
+  "titulo_original": "Spider-Man: Into the Spider-Verse",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Shameik Moore",
+      "personaje": "Miles Morales (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ovUKfVOwJ7CadEHaG3NDsfA5xRq.jpg"
+    },
+    {
+      "nombre": "Jake Johnson",
+      "personaje": "Peter B. Parker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+    },
+    {
+      "nombre": "Hailee Steinfeld",
+      "personaje": "Gwen Stacy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4K2dzM3odGiVZOQOD6RjVxNq2ZQ.jpg"
+    },
+    {
+      "nombre": "Mahershala Ali",
+      "personaje": "Uncle Aaron (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+    },
+    {
+      "nombre": "Brian Tyree Henry",
+      "personaje": "Jefferson Davis (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+    },
+    {
+      "nombre": "Lily Tomlin",
+      "personaje": "Aunt May (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eoFMSqRykiaXMGCiz7Kxehfqy1W.jpg"
+    },
+    {
+      "nombre": "Luna Lauren Vélez",
+      "personaje": "Rio Morales (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
+    },
+    {
+      "nombre": "Zoë Kravitz",
+      "personaje": "Mary Jane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hJKmhbuzDjmfw2nPBDWGbLagj16.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Phil Lord",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Phil Lord",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Miller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bob Persichetti",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Peter Ramsey",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rodney Rothman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Phil Lord",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lisa Bechard",
+      "rol": "Digital Producer"
+    },
+    {
+      "nombre": "Jesús Alonso Iglesias",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Vivek 'Vic' Sharma",
+      "rol": "Associate Editor"
+    },
+    {
+      "nombre": "Matt Hausman",
+      "rol": "CG Supervisor"
+    },
+    {
+      "nombre": "Michael Muir",
+      "rol": "CG Supervisor"
+    },
+    {
+      "nombre": "Bret Allen",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Min Hong",
+      "rol": "Supervising Animator"
+    },
+    {
+      "nombre": "Meghan Malloy",
+      "rol": "Production Consultant"
+    },
+    {
+      "nombre": "Sei Riondet",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Larry Weiss",
+      "rol": "CG Supervisor"
+    },
+    {
+      "nombre": "Omar Smith",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Matthew Landon",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Bob Persichetti",
+  "valoraciones": {
+    "tmdb": 8.393,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/Q/x/H/a/QxHaq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=qLObEn9IK20"
+}
