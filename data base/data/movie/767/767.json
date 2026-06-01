@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 767,
+  "poster": "https://image.tmdb.org/t/p/w500/tO0UGkNuQoxyXve0mvwtXP49NAO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4mRJ3jZs3zUnlver3RN7w1siurp.png",
+  "titulo": "Harry Potter y el misterio del príncipe",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.68,
+  "año": "2009",
+  "duracion": "2h 33min",
+  "edad_minima": 13,
+  "sinopsis": "A pesar de la oscuridad que Lord Voldemort entrelaza el mundo muggle y el mágico, Hogwarts continúa adelante. Mientras está en una misión por orden de el director Dumbledore, Harry obtiene un viejo libro de posiciones de el \"Príncipe Mestizo\".",
+  "fecha_estreno": "2009-07-15",
+  "titulo_original": "Harry Potter and the Half-Blood Prince",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Daniel Radcliffe",
+      "personaje": "Harry Potter",
+      "foto": "https://image.tmdb.org/t/p/w500/e64VeB4Mybwm2tOhyLY1h7XQQ8N.jpg"
+    },
+    {
+      "nombre": "Rupert Grint",
+      "personaje": "Ron Weasley",
+      "foto": "https://image.tmdb.org/t/p/w500/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "nombre": "Emma Watson",
+      "personaje": "Hermione Granger",
+      "foto": "https://image.tmdb.org/t/p/w500/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+    },
+    {
+      "nombre": "Jim Broadbent",
+      "personaje": "Horace Slughorn",
+      "foto": "https://image.tmdb.org/t/p/w500/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg"
+    },
+    {
+      "nombre": "Michael Gambon",
+      "personaje": "Albus Dumbledore",
+      "foto": "https://image.tmdb.org/t/p/w500/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "nombre": "Tom Felton",
+      "personaje": "Draco Malfoy",
+      "foto": "https://image.tmdb.org/t/p/w500/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+    },
+    {
+      "nombre": "Alan Rickman",
+      "personaje": "Severus Snape",
+      "foto": "https://image.tmdb.org/t/p/w500/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    },
+    {
+      "nombre": "Bonnie Wright",
+      "personaje": "Ginny Weasley",
+      "foto": "https://image.tmdb.org/t/p/w500/1O3bVJp2geFCqlDkOCJuTeSuqx.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Yates",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Steve Kloves",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Barron",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Heyman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "J.K. Rowling",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Lionel Wigram",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bruno Delbonnel",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mark Day",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Fiona Weir",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Stuart Craig",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Stephenie McMillan",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jany Temime",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Peter Gleaves",
+      "rol": "ADR Mixer"
+    },
+    {
+      "nombre": "Peter Burgis",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Andie Derrick",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Ed Colyer",
+      "rol": "Foley Mixer"
+    }
+  ],
+  "director": "David Yates",
+  "valoraciones": {
+    "tmdb": 7.68,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/e/o/o/e/eooer.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=tAiy66Xrsz4"
+}
