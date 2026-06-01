@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 10495,
+  "poster": "https://image.tmdb.org/t/p/w500/1vpDcoILmWHuqd2HNFMncSEuIyV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/c12c7Rpq4kakQiaZIQgp5aTaDFB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jqiS1TjEzkLPmvEdvQ04nXZlH4G.png",
+  "titulo": "Karate Kid III: El desafío final",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Familia",
+    "Drama",
+    "Aventura"
+  ],
+  "calificacion": "A",
+  "puntuacion": 5.93,
+  "año": "1989",
+  "duracion": "1h 52min",
+  "edad_minima": 13,
+  "sinopsis": "El joven karateka Daniel Larusso libra su batalla mas difícil cuando el malvado Kreese le arrastra a una complicada situacion, al obligarle a defender su título de campeón del torneo del Valley. Su maestro Miyagi no está de acuerdo y el joven rompe con él. Daniel tendra un nuevo profesor, que más que como karateka realmente le entrena como si fuera un asesino. Cuando Daniel comprende que el kárate sólo debe usarse para defender el honor y la vida, regresa a las enseñanzas de su viejo maestro.",
+  "fecha_estreno": "1989-06-16",
+  "titulo_original": "The Karate Kid Part III",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ralph Macchio",
+      "personaje": "Daniel LaRusso",
+      "foto": "https://image.tmdb.org/t/p/w500/AoqqL9UlyPrcTLnpzbQvKXPvXrz.jpg"
+    },
+    {
+      "nombre": "Pat Morita",
+      "personaje": "Mr. Miyagi",
+      "foto": "https://image.tmdb.org/t/p/w500/dwnjbEvhKRanS5xTaI1NkZ98aM9.jpg"
+    },
+    {
+      "nombre": "Robyn Lively",
+      "personaje": "Jessica Andrews",
+      "foto": "https://image.tmdb.org/t/p/w500/tz4oKXOkJhHZezaQUTgo66gPn77.jpg"
+    },
+    {
+      "nombre": "Thomas Ian Griffith",
+      "personaje": "Terry Silver",
+      "foto": "https://image.tmdb.org/t/p/w500/4h1qQeZMG2drwEEat6WKG0rbPVC.jpg"
+    },
+    {
+      "nombre": "Martin Kove",
+      "personaje": "John Kreese",
+      "foto": "https://image.tmdb.org/t/p/w500/cuRi6YRaCrXOFU8cmqf5uTk0sUV.jpg"
+    },
+    {
+      "nombre": "Sean Kanan",
+      "personaje": "Mike Barnes",
+      "foto": "https://image.tmdb.org/t/p/w500/3QV1TdLajOtS35J4OUI57LKeRRG.jpg"
+    },
+    {
+      "nombre": "Jonathan Avildsen",
+      "personaje": "Snake",
+      "foto": "https://image.tmdb.org/t/p/w500/tdANBHx86AZ6csMOq31LnQzelav.jpg"
+    },
+    {
+      "nombre": "William Christopher Ford",
+      "personaje": "Dennis",
+      "foto": "https://image.tmdb.org/t/p/w500/v4naDbZehFkxRWQYOc1g2neOWJl.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John G. Avildsen",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jerry Weintraub",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Mark Kamen",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Steve Yaconelli",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Bill Conti",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John G. Avildsen",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Edward Morey III",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Joseph A. Ponticelle",
+      "rol": "Second Assistant Camera"
+    },
+    {
+      "nombre": "Ralph Nelson Jr.",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "Jeffrey R. Clark",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Ronald Batzdorff",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "Elizabeth Ziegler",
+      "rol": "Steadicam Operator"
+    },
+    {
+      "nombre": "Mike Benson",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Jeffrey Norvet",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Frank Keever",
+      "rol": "Key Grip"
+    }
+  ],
+  "director": "John G. Avildsen",
+  "valoraciones": {
+    "tmdb": 5.93,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/6qygkp/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=RjKac-JPchs"
+}
