@@ -1,0 +1,159 @@
+{
+  "id_tmdb": 326,
+  "poster": "https://image.tmdb.org/t/p/w500/rTjw79YPCqPZoCQZyth41XR2soV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wxGhAD63EM7N2YIQw9bktgQR8QM.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/p4t7qv7v1T7kWfTJPI4TwLtkNkI.png",
+  "titulo": "Serpientes a Bordo",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Aventura",
+    "Crimen",
+    "Terror"
+  ],
+  "calificacion": "C",
+  "puntuacion": 5.491,
+  "año": "2006",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Un agente del FBI (Samuel L. Jackson) tiene que escoltar a un importante testigo desde Hawaii a Los Ángeles. Para evitar que testifique, un asesino libera cientos de serpientes venenosas en el avión comercial en pleno vuelo. El agente del FBI, un piloto novato y una tripulación aterrorizada intentarán sobrevivir como sea a la mortal invasión.",
+  "fecha_estreno": "2006-08-17",
+  "titulo_original": "Snakes on a Plane",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Samuel L. Jackson",
+      "personaje": "Neville Flynn",
+      "foto": "https://image.tmdb.org/t/p/w500/aF7jIjZ66M0af5c02P9Duzq1zO7.jpg"
+    },
+    {
+      "nombre": "Julianna Margulies",
+      "personaje": "Claire Miller",
+      "foto": "https://image.tmdb.org/t/p/w500/erBzXAfkPCcW9sW2cGAcY50RdPm.jpg"
+    },
+    {
+      "nombre": "Nathan Phillips",
+      "personaje": "Sean Jones",
+      "foto": "https://image.tmdb.org/t/p/w500/9t54w1XE7u7fOWQv83IP0xYAWkh.jpg"
+    },
+    {
+      "nombre": "Kenan Thompson",
+      "personaje": "Troy",
+      "foto": "https://image.tmdb.org/t/p/w500/vHPhDGc1om91TzoIQ4zMscpNmxF.jpg"
+    },
+    {
+      "nombre": "Rachel Blanchard",
+      "personaje": "Mercedes",
+      "foto": "https://image.tmdb.org/t/p/w500/l8vUgOu1xVE1BKVCyrBf4M5PCBG.jpg"
+    },
+    {
+      "nombre": "Flex Alexander",
+      "personaje": "Three G's",
+      "foto": "https://image.tmdb.org/t/p/w500/hxsb6X2TmUVkNvMq5K12NK6z7w2.jpg"
+    },
+    {
+      "nombre": "Keith Dallas",
+      "personaje": "Big Leroy",
+      "foto": "https://image.tmdb.org/t/p/w500/wF5r0FdmnKfg4O493VwMeZNvkJ6.jpg"
+    },
+    {
+      "nombre": "Sunny Mabrey",
+      "personaje": "Tiffany",
+      "foto": "https://image.tmdb.org/t/p/w500/kY4QiKUYVBfCV7SJaWstug7hVE7.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David R. Ellis",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Craig Berenson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gary Levinsohn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Don Granger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Heffernan",
+      "rol": "Story"
+    },
+    {
+      "nombre": "David Dalessandro",
+      "rol": "Story"
+    },
+    {
+      "nombre": "John Heffernan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sebastian Gutierrez",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mindy Elliott",
+      "rol": "First Assistant Editor"
+    },
+    {
+      "nombre": "Cindy Smith",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Megan Harkness",
+      "rol": "First Assistant Makeup Artist"
+    },
+    {
+      "nombre": "Erik Holmberg",
+      "rol": "Executive In Charge Of Production"
+    },
+    {
+      "nombre": "Jay Vinitsky",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Paula Janos",
+      "rol": "Additional Second Assistant Director"
+    },
+    {
+      "nombre": "Adam Lawson",
+      "rol": "First Assistant Director (Prep)"
+    },
+    {
+      "nombre": "Marianne Olsen",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Renee Dombrosky",
+      "rol": "First Assistant Hairstylist"
+    },
+    {
+      "nombre": "Robert A. Pandini",
+      "rol": "Key Hair Stylist"
+    },
+    {
+      "nombre": "Jody Levin",
+      "rol": "Executive In Charge Of Post Production"
+    },
+    {
+      "nombre": "Delia Circelli",
+      "rol": "Production Supervisor"
+    }
+  ],
+  "director": "David R. Ellis",
+  "valoraciones": {
+    "tmdb": 5.491,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://1a-1791.com/video/s8/2/b/y/r/8/byr8t.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=5noedIVk8Cs"
+}
