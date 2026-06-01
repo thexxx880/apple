@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 581387,
+  "poster": "https://image.tmdb.org/t/p/w500/A3BP44EvnJIIhyNVwPT0IpvNAoc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2TgMAAstOJjRywwmPeBnpyDiQMw.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hFRsvlEMDiG1Wb6MJpIT8gigGey.png",
+  "titulo": "Ashfall: Alerta Roja",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.837,
+  "año": "2019",
+  "duracion": "2h 8min",
+  "edad_minima": 13,
+  "sinopsis": "Un volcán en la montaña Baekdu entra en erupción de repente. El pandemonio se produce en la península de Corea, con más erupciones previstas en el área. Para evitar otro desastre, Jeon Yoo Kyung planea una operación basada en una teoría del profesor Kang Bong Rae. Él había estudiado la montaña Baekdu y sus posibles erupciones. Jo In Chang es el capitán de un equipo de fuerzas especiales. Tiene la tarea de participar en la operación, que mantiene el destino de Corea del Sur y del Norte en juego. Jo In Chang contacta a Lee Joon Pyeong quien es parte del Ministerio de las Fuerzas Armadas del Pueblo de Corea del Norte. Mientras tanto, la esposa de Jo In Chang, Choi Ji Young está sola en Seúl. Ella lucha por sobrevivir contra el desastre.",
+  "fecha_estreno": "2019-12-19",
+  "titulo_original": "백두산",
+  "pais_origen": "South Korea",
+  "reparto": [
+    {
+      "nombre": "Lee Byung Hun",
+      "personaje": "Lee Jun-pyeong",
+      "foto": "https://image.tmdb.org/t/p/w500/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg"
+    },
+    {
+      "nombre": "하정우",
+      "personaje": "Jo In-chang",
+      "foto": "https://image.tmdb.org/t/p/w500/9KINm0XIwbt4Qql4oZX55krzKxg.jpg"
+    },
+    {
+      "nombre": "마동석",
+      "personaje": "Kang Bong-rae",
+      "foto": "https://image.tmdb.org/t/p/w500/ckxoXz3l4mCcHEIRaqUc7oGoIFg.jpg"
+    },
+    {
+      "nombre": "전혜진",
+      "personaje": "Jeon Yu-gyeong",
+      "foto": "https://image.tmdb.org/t/p/w500/7PliJIOzUei41vyE9FaIWvFMNzC.jpg"
+    },
+    {
+      "nombre": "수지",
+      "personaje": "Seo Ji-young",
+      "foto": "https://image.tmdb.org/t/p/w500/xdmQeM0UuwVGyZucc3eLhynlb7b.jpg"
+    },
+    {
+      "nombre": "이경영",
+      "personaje": "General Choi",
+      "foto": "https://image.tmdb.org/t/p/w500/aDNcLCWs7KHToiXxfG7ACwvne3l.jpg"
+    },
+    {
+      "nombre": "김시아",
+      "personaje": "Sun-ok",
+      "foto": "https://image.tmdb.org/t/p/w500/qZaWrdjunjPBGe5buyeANeH4W9V.jpg"
+    },
+    {
+      "nombre": "이상원",
+      "personaje": "Park Tae-sik",
+      "foto": "https://image.tmdb.org/t/p/w500/kF8RJL5DFUpzUamV15i400vKIM9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lim Joon-hyung",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kim Tae-yun",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "곽정덕",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "김병서",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lee Hey-jun",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Choi Jee-sun",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Choi Won-ki",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lee Hey-jun",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "강종익",
+      "rol": "VFX Supervisor"
+    },
+    {
+      "nombre": "정도안",
+      "rol": "Special Effects Supervisor"
+    },
+    {
+      "nombre": "Hwang Jin-mo",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Cho Hyun-chul",
+      "rol": "Lighting Artist"
+    },
+    {
+      "nombre": "최슬기",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "노남석",
+      "rol": "Martial Arts Choreographer"
+    },
+    {
+      "nombre": "Choi Rin",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Kim Sung-han",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "박재완",
+      "rol": "Props"
+    },
+    {
+      "nombre": "강명찬",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "하정우",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Seo Byeong-chul",
+      "rol": "VFX Supervisor"
+    }
+  ],
+  "director": "김병서",
+  "valoraciones": {
+    "tmdb": 6.837,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Dexter Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/1/f/o/B/1foBt.caa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=jTiHbwUWkns"
+}
