@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 13394,
+  "poster": "https://image.tmdb.org/t/p/w500/3G2Xs4lKCkhTcechHSu85o7auXr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5lUaKCo9ypmXbuVeZqKQ9gm8zk4.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5ezkoxJJ1p2FPdnOkkg6ju0i3aK.png",
+  "titulo": "Shrek ogrorisa la Navidad",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Fantasía",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.368,
+  "año": "2007",
+  "duracion": "0h 29min",
+  "edad_minima": 13,
+  "sinopsis": "Shrek trata de entrar en el espíritu de la Navidad. Después de prometer a Fiona y a los niños una Navidad que recordarán, se ve obligado a hacer un curso intensivo sobre las vacaciones. Pero justo cuando cree que tiene todo listo para su tranquila Navidad familiar, llaman a la puerta.",
+  "fecha_estreno": "2007-11-28",
+  "titulo_original": "Shrek the Halls",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mike Myers",
+      "personaje": "Shrek (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+    },
+    {
+      "nombre": "Eddie Murphy",
+      "personaje": "Donkey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    },
+    {
+      "nombre": "Cameron Diaz",
+      "personaje": "Princess Fiona (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+    },
+    {
+      "nombre": "Antonio Banderas",
+      "personaje": "Puss in Boots (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+    },
+    {
+      "nombre": "Cody Cameron",
+      "personaje": "Pinocchio / Three Pigs (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gmlav8ikKPojgvQOQ8vQSQt9hoj.jpg"
+    },
+    {
+      "nombre": "Conrad Vernon",
+      "personaje": "Gingerbread Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+    },
+    {
+      "nombre": "Aron Warner",
+      "personaje": "Wolf (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xufgIi9MJIuLmn3q4qi3AMmFtkM.jpg"
+    },
+    {
+      "nombre": "Christopher Knights",
+      "personaje": "Blind Mice (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fsdaXx2ytNx2KEW438mlFfSSzkc.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gary Trousdale",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sean Bishop",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Theresa Cullen",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bill Riling",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Teresa Cheng",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gina Shay",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gary Trousdale",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "William J. Caparella",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Aron Warner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Henrik Tamm",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "William Steig",
+      "rol": "Author"
+    },
+    {
+      "nombre": "Peter Zaslav",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Leslee Feldman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mark Griffith",
+      "rol": "Colorist"
+    },
+    {
+      "nombre": "Philippe Denis",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Harry Gregson-Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "William Steig",
+      "rol": "Book"
+    }
+  ],
+  "director": "Gary Trousdale",
+  "valoraciones": {
+    "tmdb": 6.368,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://rumble.com/hls-vod/74z1fy/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=AJKvTHemJCA"
+}
