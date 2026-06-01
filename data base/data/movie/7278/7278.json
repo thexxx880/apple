@@ -1,0 +1,152 @@
+{
+  "id_tmdb": 7278,
+  "poster": "https://image.tmdb.org/t/p/w500/iX4ArGBpWfUEqu12knFb5ptUx9U.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8D3dBwSoPSGWRusbTYS8oR1tAu9.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/g0E6LQpRqtZ8fL15j1Zi6Rwrswo.png",
+  "titulo": "Una loca película de Esparta",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Fantasía"
+  ],
+  "calificacion": "B",
+  "puntuacion": 4.09,
+  "año": "2008",
+  "duracion": "1h 24min",
+  "edad_minima": 13,
+  "sinopsis": "Parodia de la exitosa película \"300\". El heroico Leónidas, sin más armas que la ropa interior de cuero y una capa, lidera un grupo de 13 espartanos en defensa de su patria contra los invasores persas.",
+  "fecha_estreno": "2008-01-24",
+  "titulo_original": "Meet the Spartans",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Travis Van Winkle",
+      "personaje": "Sonio",
+      "foto": "https://image.tmdb.org/t/p/w500/t1hkmekr1WcaNq9C0Ou0Lf3rSZy.jpg"
+    },
+    {
+      "nombre": "Sean Maguire",
+      "personaje": "Leonidas",
+      "foto": "https://image.tmdb.org/t/p/w500/nxOLFv8QHExopu8sHVNPAuOZwys.jpg"
+    },
+    {
+      "nombre": "Carmen Electra",
+      "personaje": "Queen Margo",
+      "foto": "https://image.tmdb.org/t/p/w500/lBCUm1gGNTFI3OIjPx8maaEDXUQ.jpg"
+    },
+    {
+      "nombre": "Ken Davitian",
+      "personaje": "Xerxes",
+      "foto": "https://image.tmdb.org/t/p/w500/odykKQKSJDDJ5O5Drq1RVNaTbqM.jpg"
+    },
+    {
+      "nombre": "Kevin Sorbo",
+      "personaje": "Hauptmann",
+      "foto": "https://image.tmdb.org/t/p/w500/a6rDi3tkNJwaVoP7VGbdGelwtYw.jpg"
+    },
+    {
+      "nombre": "Diedrich Bader",
+      "personaje": "Traitoro",
+      "foto": "https://image.tmdb.org/t/p/w500/z7CctykPTuXDfAs7pkAA7vW4b3T.jpg"
+    },
+    {
+      "nombre": "Method Man",
+      "personaje": "Persian Emissary",
+      "foto": "https://image.tmdb.org/t/p/w500/mYJFxOcrda410rS5JHPf0nPuimZ.jpg"
+    },
+    {
+      "nombre": "Ike Barinholtz",
+      "personaje": "Dane Cook Look-a-Like / Bond Villain / Prophet",
+      "foto": "https://image.tmdb.org/t/p/w500/pxK1HXsQFfh3zT1KA3t6lEKMiZK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jason Friedberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Safran",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aaron Seltzer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Friedberg",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Aaron Seltzer",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jason Friedberg",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Aaron Seltzer",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Arnon Milchan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peck Prior",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "William A. Elliott",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Shawn Maurer",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Frank Helmer",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Dane Farwell",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Mirela Rupic",
+      "rol": "Assistant Costume Designer"
+    },
+    {
+      "nombre": "Helena Barrett",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Nicole Randall",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Sandra Lee Gimpel",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Dave Jordan",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Greg Guzik",
+      "rol": "Second Assistant Director"
+    }
+  ],
+  "director": "Jason Friedberg",
+  "valoraciones": {
+    "tmdb": 4.09,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Regency Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/h/W/u/w/hWuwr.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=RY-zJtYYolo"
+}
