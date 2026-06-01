@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 615677,
+  "poster": "https://image.tmdb.org/t/p/w500/5AcJFpvxcqjLNADrCNAUYOsIrQP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/y6FYAhaeFMj9Lsk8OdF2NeWQkbd.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mRMcPjLHmXzHwJbq60egBUCKvon.png",
+  "titulo": "Superheroicos",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Acción",
+    "Fantasía",
+    "Comedia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 5.949,
+  "año": "2020",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando unos invasores alienígenas capturan a los superhéroes de la Tierra, sus hijos tienen que aprender a trabajar en equipo para rescatarlos y salvar el planeta.",
+  "fecha_estreno": "2020-12-25",
+  "titulo_original": "We Can Be Heroes",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "YaYa Gosselin",
+      "personaje": "Missy Moreno",
+      "foto": "https://image.tmdb.org/t/p/w500/iIvXJszeDlRsq5HOIbmDC7oryt9.jpg"
+    },
+    {
+      "nombre": "Lyon Daniels",
+      "personaje": "Noodles",
+      "foto": "https://image.tmdb.org/t/p/w500/sz6ioT6uaocxhBNJns1wm5OZ5AV.jpg"
+    },
+    {
+      "nombre": "Andy Walken",
+      "personaje": "Wheels",
+      "foto": "https://image.tmdb.org/t/p/w500/d6DfTzz8x1kaOGGNmzVybjR2B5X.jpg"
+    },
+    {
+      "nombre": "Hala Finley",
+      "personaje": "Ojo",
+      "foto": "https://image.tmdb.org/t/p/w500/9tU0kFjCGNiEe55KAxXkExBVMPC.jpg"
+    },
+    {
+      "nombre": "Lotus Blossom",
+      "personaje": "A Capella",
+      "foto": "https://image.tmdb.org/t/p/w500/jNmgnYgKVt2AQ9WPx4357PdsMej.jpg"
+    },
+    {
+      "nombre": "Dylan Henry Lau",
+      "personaje": "Slo-Mo",
+      "foto": "https://image.tmdb.org/t/p/w500/ho9oGn9ZtKxQjSZlkLv70ouPqZM.jpg"
+    },
+    {
+      "nombre": "Andrew Díaz",
+      "personaje": "Facemaker",
+      "foto": "https://image.tmdb.org/t/p/w500/u3HB6Wt8WwdJsdHlp7cBI69n5Tj.jpg"
+    },
+    {
+      "nombre": "Isaiah Russell-Bailey",
+      "personaje": "Rewind",
+      "foto": "https://image.tmdb.org/t/p/w500/qZ5piz3Iby9WWCXClwVOXcrm5vj.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Robert Rodriguez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robert Rodriguez",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Racer Rodriguez",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Rodriguez",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Matt Leonard",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kay Hoddy",
+      "rol": "Rotoscoping Artist"
+    },
+    {
+      "nombre": "Stevie Marceaux",
+      "rol": "Stand In"
+    },
+    {
+      "nombre": "Kelli Barksdale",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Marny Eng",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Bart Brown",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jennifer Long",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Robert Rodriguez",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Michelle Wade Byrd",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Paul Alix",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Mary Vernieu",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Marc Baroni",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Robert Rodriguez",
+  "valoraciones": {
+    "tmdb": 5.949,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Troublemaker Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/u/O/_/m/uO_ms.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=omn2PJEuOTw"
+}
