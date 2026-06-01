@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 285,
+  "poster": "https://image.tmdb.org/t/p/w500/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qvfBqKrcarW0NoLoH41zsErtoAJ.png",
+  "titulo": "Piratas del Caribe 3: En el Fin del Mundo",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.272,
+  "año": "2007",
+  "duracion": "2h 48min",
+  "edad_minima": 13,
+  "sinopsis": "Siguiendo la estela de lo sucedido en “Piratas del Caribe: El cofre de la muerte”, nuestros héroes, Will Turner y Elizabeth Swann, se han aliado con el capitán Barbossa para buscar y liberar al capitán Jack Sparrow del poder de Davy Jones. Mientras el Holandés Errante y la East India Trading Company causan estragos a lo largo de los Siete Mares, Will y Elizabeth navegan hacia Singapur, donde deben enfrentarse al astuto pirata chino Sao Feng. Ahora, en los mismísimos confines de la tierra, todos ellos deben elegir un bando en la batalla final, ya que no sólo sus vidas y fortunas, sino también el futuro de la piratería clásica, pende de un hilo.",
+  "fecha_estreno": "2007-05-19",
+  "titulo_original": "Pirates of the Caribbean: At World's End",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Johnny Depp",
+      "personaje": "Jack Sparrow",
+      "foto": "https://image.tmdb.org/t/p/w500/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+    },
+    {
+      "nombre": "Geoffrey Rush",
+      "personaje": "Barbossa",
+      "foto": "https://image.tmdb.org/t/p/w500/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+    },
+    {
+      "nombre": "Orlando Bloom",
+      "personaje": "Will Turner",
+      "foto": "https://image.tmdb.org/t/p/w500/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+    },
+    {
+      "nombre": "Keira Knightley",
+      "personaje": "Elizabeth Swann",
+      "foto": "https://image.tmdb.org/t/p/w500/k69IOXdz8PAvaegAI8WYvQvyyUJ.jpg"
+    },
+    {
+      "nombre": "Jack Davenport",
+      "personaje": "Norrington",
+      "foto": "https://image.tmdb.org/t/p/w500/shGH0YWJBfiJznidS0f2ZfN056c.jpg"
+    },
+    {
+      "nombre": "Bill Nighy",
+      "personaje": "Davy Jones",
+      "foto": "https://image.tmdb.org/t/p/w500/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+      "nombre": "Jonathan Pryce",
+      "personaje": "Governor Weatherby Swann",
+      "foto": "https://image.tmdb.org/t/p/w500/zwSv5uXzPTtmitFe39UdqnVwmdL.jpg"
+    },
+    {
+      "nombre": "Lee Arenberg",
+      "personaje": "Pintel",
+      "foto": "https://image.tmdb.org/t/p/w500/sjv8tdXzLwC8lZi6Ou6i6z5RbrW.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Eric McLeod",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jerry Bruckheimer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Terry Rossio",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Pat Sandston",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gore Verbinski",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Peter Kohn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ted Elliott",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jack Kney",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stephen E. Rivkin",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ve Neill",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Denise Chamian",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "John Dexter",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Mike Stenson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Penny Rose",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Liz Dann",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Priscilla John",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Rick Heinrichs",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Dariusz Wolski",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Cheryl Carasik",
+      "rol": "Set Decoration"
+    }
+  ],
+  "director": "Gore Verbinski",
+  "valoraciones": {
+    "tmdb": 7.272,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Jerry Bruckheimer Films",
+  "enlace_video": "https://1a-1791.com/video/s8/2/l/2/w/p/l2wpp.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=HKSZtp_OGHY"
+}
