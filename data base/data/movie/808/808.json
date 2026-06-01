@@ -1,0 +1,159 @@
+{
+  "id_tmdb": 808,
+  "poster": "https://image.tmdb.org/t/p/w500/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/cG7OAQ70wQHI3Ala2fen5r3hOlY.png",
+  "titulo": "Shrek",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Fantasía",
+    "Aventura",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.763,
+  "año": "2001",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "Un malvado lord exilia a las criaturas de cuentos de hadas al pantano de un ogro gruñón, que debe ir en busca y rescatar a una princesa para el lord con el fin de recuperar su tierra.",
+  "fecha_estreno": "2001-05-18",
+  "titulo_original": "Shrek",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mike Myers",
+      "personaje": "Shrek / Blind Mouse (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+    },
+    {
+      "nombre": "Eddie Murphy",
+      "personaje": "Donkey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    },
+    {
+      "nombre": "Cameron Diaz",
+      "personaje": "Princess Fiona (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+    },
+    {
+      "nombre": "John Lithgow",
+      "personaje": "Lord Farquaad (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ajfuBSm1HuVqFJlbTmAlza62Xxr.jpg"
+    },
+    {
+      "nombre": "Vincent Cassel",
+      "personaje": "Monsieur Hood (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ivUQfhn5olOmR5hthN8C8GThBV4.jpg"
+    },
+    {
+      "nombre": "Peter Dennis",
+      "personaje": "Ogre Hunter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/A2lPsbLYrhXcKL82byfU8FAfaMY.jpg"
+    },
+    {
+      "nombre": "Clive Pearse",
+      "personaje": "Ogre Hunter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aRwEqA2YmmymjuJ0lheFKLE6gwU.jpg"
+    },
+    {
+      "nombre": "Jim Cummings",
+      "personaje": "Captain of the Guards (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Andrew Adamson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Vicky Jenson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jeffrey Katzenberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aron Warner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John H. Williams",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Terry Rossio",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joe Stillman",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ted Elliott",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Penney Finkelman Cox",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sandra Rabins",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Harry Gregson-Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John Powell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Sim Evan-Jones",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Leslee Feldman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "James Hegedus",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Guillaume Aretos",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Douglas Rogers",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Isis Mussenden",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Steve Harwell",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Luc Desmarchelier",
+      "rol": "Production Accountant"
+    }
+  ],
+  "director": "Andrew Adamson",
+  "valoraciones": {
+    "tmdb": 7.763,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pacific Data Images",
+  "enlace_video": "https://1a-1791.com/video/s8/2/Q/k/x/2/Qkx2n.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=ppDwfm6e498"
+}
