@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 351286,
+  "poster": "https://image.tmdb.org/t/p/w500/wIY4bdVbXMUtfiYqWe5Uhf6JXIK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6WA9stUMbIkEPxn3D5SWlA8FIi7.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/p3p1L8acukXzeE1kEMNxG44WZHf.png",
+  "titulo": "Jurassic World 2: El Reino Caído",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.5,
+  "año": "2018",
+  "duracion": "2h 8min",
+  "edad_minima": 13,
+  "sinopsis": "Una erupción volcánica amenaza a los dinosaurios restantes en la Isla Nublar, donde las criaturas han vagado libremente durante años tras de la desaparición del parque temático \"Jurassic World\". Claire Dearing, ex gerente del parque, ahora fundó el Grupo de Protección de Dinosaurios, una organización dedicada a intentar preservarlos. Cuando a Claire le ofrecen la oportunidad de rescatar algunos ejemplares de la isla, acude a Owen Grady, el ex entrenador de dinosaurios que trabajó en el parque, para que la ayude a evitar la extinción de los dinosaurios... Secuela de \"Jurassic World\".",
+  "fecha_estreno": "2018-06-06",
+  "titulo_original": "Jurassic World: Fallen Kingdom",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chris Pratt",
+      "personaje": "Owen Grady",
+      "foto": "https://image.tmdb.org/t/p/w500/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "nombre": "Bryce Dallas Howard",
+      "personaje": "Claire Dearing",
+      "foto": "https://image.tmdb.org/t/p/w500/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg"
+    },
+    {
+      "nombre": "Rafe Spall",
+      "personaje": "Eli Mills",
+      "foto": "https://image.tmdb.org/t/p/w500/5tGhC9MGT4FGaJHr2LGYcRV4rbJ.jpg"
+    },
+    {
+      "nombre": "Justice Smith",
+      "personaje": "Franklin Webb",
+      "foto": "https://image.tmdb.org/t/p/w500/htJrcOzYkLVcnF4ExT4O1bDN5e5.jpg"
+    },
+    {
+      "nombre": "Daniella Pineda",
+      "personaje": "Zia Rodriguez",
+      "foto": "https://image.tmdb.org/t/p/w500/o8h5qbyy8A0zKTRN57YOlQOafyQ.jpg"
+    },
+    {
+      "nombre": "James Cromwell",
+      "personaje": "Benjamin Lockwood",
+      "foto": "https://image.tmdb.org/t/p/w500/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+    },
+    {
+      "nombre": "Toby Jones",
+      "personaje": "Mr. Eversoll",
+      "foto": "https://image.tmdb.org/t/p/w500/y6kLmjLgZ1sceaE4Zi1fwF0YsvZ.jpg"
+    },
+    {
+      "nombre": "Ted Levine",
+      "personaje": "Ken Wheatley",
+      "foto": "https://image.tmdb.org/t/p/w500/451KSkowLW6M2Au0wBKZZcidgGm.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Derek Connolly",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Colin Trevorrow",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "J. A. Bayona",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Patrick Crowley",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Belén Atienza",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Thomas Hayslip",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Frank Marshall",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mike Ryan",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jared Hasselbach",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "David Lowery",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Phil Tippett",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Martin Bell",
+      "rol": "Pre-Visualization Supervisor"
+    },
+    {
+      "nombre": "Michael Crichton",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Michael Giacchino",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Óscar Faura",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Sammy Sheldon",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Steven Spielberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Colin Trevorrow",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thomas Tull",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "J. A. Bayona",
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Amblin Entertainment",
+  "enlace_video": "https://jurassic-world1.zonaaps-peliculas7590.workers.dev/0:/Jurassic%20World/Jurassic%20World-%20El%20Reino%20Ca%C3%ADdo%20HD.mp4",
+  "trailer": "https://www.youtube.com/watch?v=Pbxxz5uytCo"
+}
