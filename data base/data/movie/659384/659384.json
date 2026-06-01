@@ -1,0 +1,128 @@
+{
+  "id_tmdb": 659384,
+  "poster": "https://image.tmdb.org/t/p/w500/im1sYcEskurUCIknzAcytaLoPzE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f7YIqQmPuBLhheNCpvmLVMLH4Gn.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/psyLgGTAX1FmVwBWa7vkRMOPAZR.png",
+  "titulo": "Pasajero 666",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.391,
+  "año": "2021",
+  "duracion": "1h 17min",
+  "edad_minima": 13,
+  "sinopsis": "Una joven doctora con una hija de 6 años está en un vuelo nocturno atrapada en una terrible tormenta. En una cabina medio vacía, se enfrenta a muertes inexplicables de sus compañeros de viaje, pierde el control de la realidad y revive la peor pesadilla de su infancia.",
+  "fecha_estreno": "2021-11-11",
+  "titulo_original": "Ряд 19",
+  "pais_origen": "Russia",
+  "reparto": [
+    {
+      "nombre": "Светлана Иванова",
+      "personaje": "Katya",
+      "foto": "https://image.tmdb.org/t/p/w500/4YKFshSLYzMXibw6NBmc3pTmcDO.jpg"
+    },
+    {
+      "nombre": "Wolfgang Cerny",
+      "personaje": "Alexey",
+      "foto": "https://image.tmdb.org/t/p/w500/xBhu43lVyTfWle3Em8oT6T4XdfS.jpg"
+    },
+    {
+      "nombre": "Марта Кесслер",
+      "personaje": "Diana",
+      "foto": "https://image.tmdb.org/t/p/w500/xwAeS3aE3RfqbGP2bZuj0a601sv.jpg"
+    },
+    {
+      "nombre": "Екатерина Вилкова",
+      "personaje": "Elena",
+      "foto": "https://image.tmdb.org/t/p/w500/pjszU6HQH5S2UHzCDWggW0SUZjG.jpg"
+    },
+    {
+      "nombre": "Анатолий Кот",
+      "personaje": "Nikolay",
+      "foto": "https://image.tmdb.org/t/p/w500/2kgiMT9bsOCigYLNaQl3MHO2mc2.jpg"
+    },
+    {
+      "nombre": "Виталия Корниенко",
+      "personaje": "Katya (childhood)",
+      "foto": "https://image.tmdb.org/t/p/w500/4C87fJityzFxR2ERBjUqARECKDp.jpg"
+    },
+    {
+      "nombre": "Денис Ясик",
+      "personaje": "Pavel",
+      "foto": "https://image.tmdb.org/t/p/w500/oPxMCqYzh5zrfvAoHNeqPcT8uW0.jpg"
+    },
+    {
+      "nombre": "Анна Глаубэ",
+      "personaje": "Tatyana",
+      "foto": "https://image.tmdb.org/t/p/w500/iNSE9ruQPCzzXHAqDmdsaW30GX0.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Heth",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Джаник Файзиев",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Austin Sepulveda",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Дмитрий Лемешев",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "James Rabb",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Michael Smiy",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mariya Mikheleva",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Вадим Верещагин",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Николай Смирнов",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Наталья Шишкина",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Yuriy Karasik",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Vladimir Markov",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ruslan Muratov",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Alexander Babaev",
+  "valoraciones": {
+    "tmdb": 5.391,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "KIT Film Studio",
+  "enlace_video": "https://1a-1791.com/video/s8/2/E/f/x/M/EfxMr.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=yZOb-FX7T3Q"
+}
