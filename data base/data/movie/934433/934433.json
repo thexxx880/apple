@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 934433,
+  "poster": "https://image.tmdb.org/t/p/w500/zh0JffFtxcWEJBLKayH3d34WnNT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/44immBwzhDVyjn87b3x3l9mlhAD.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1BNt7BwqBGPm5YvvRsTdZHoOC5D.png",
+  "titulo": "Scream 6",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense",
+    "Crimen"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.949,
+  "año": "2023",
+  "duracion": "2h 3min",
+  "edad_minima": 13,
+  "sinopsis": "A pesar de iniciar una nueva vida en Nueva York, Ghostface continúa acechando nuevos asesinatos. Así que Sam, Tara, Mindy y Chad están dispuestos a no rendirse.",
+  "fecha_estreno": "2023-03-08",
+  "titulo_original": "Scream VI",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Melissa Barrera",
+      "personaje": "Sam Carpenter",
+      "foto": "https://image.tmdb.org/t/p/w500/at6I2x6J7hPAKadsDLdQl2VEw3a.jpg"
+    },
+    {
+      "nombre": "Jenna Ortega",
+      "personaje": "Tara Carpenter",
+      "foto": "https://image.tmdb.org/t/p/w500/dQb6COORkv8liT5FMtXdHuvjUsb.jpg"
+    },
+    {
+      "nombre": "Jasmin Savoy Brown",
+      "personaje": "Mindy Meeks-Martin",
+      "foto": "https://image.tmdb.org/t/p/w500/yWaCA2iKmVps20SFxwiB1DvbN6j.jpg"
+    },
+    {
+      "nombre": "Mason Gooding",
+      "personaje": "Chad Meeks-Martin",
+      "foto": "https://image.tmdb.org/t/p/w500/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
+    },
+    {
+      "nombre": "Jack Champion",
+      "personaje": "Ethan Landry",
+      "foto": "https://image.tmdb.org/t/p/w500/8PXFKzhjFJ0oYP60Bj1kA44XBjY.jpg"
+    },
+    {
+      "nombre": "Roger L. Jackson",
+      "personaje": "'The Voice' (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kDAoLRPVKgfTXRhDep0JNouhyAV.jpg"
+    },
+    {
+      "nombre": "Liana Liberato",
+      "personaje": "Quinn Bailey",
+      "foto": "https://image.tmdb.org/t/p/w500/5EEvVU9EDZ1ricNizDYUgclG1BF.jpg"
+    },
+    {
+      "nombre": "Dermot Mulroney",
+      "personaje": "Detective Bailey",
+      "foto": "https://image.tmdb.org/t/p/w500/kkrMKD6b4vEdphVgKsenRY4NgiC.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Matt Bettinelli-Olpin",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Guy Busick",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tyler Gillett",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paul Neinstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Sherak",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Vanderbilt",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "James Vanderbilt",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Cathy Konrad",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marianne Maddalena",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gary Barber",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ron Lynch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Williamson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Oillataguerre",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chad Villella",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Williamson",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Suzanne Cloutier",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Léa-Valérie Létourneau",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Michele Laliberte",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Laiko Foroughi",
+      "rol": "Stunt Double"
+    }
+  ],
+  "director": "Matt Bettinelli-Olpin",
+  "valoraciones": {
+    "tmdb": 6.949,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Radio Silence",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/00/s8/2/0/h/y/i/0hyiA.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=1Ie2qmAOc6Q"
+}
