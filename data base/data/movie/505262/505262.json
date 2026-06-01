@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 505262,
+  "poster": "https://image.tmdb.org/t/p/w500/9LjBVBcRM0VW2yywXu5p6bqX965.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/b9qGMCOrMbxUjD6xDAYPoIPnYcC.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nX7S7Fz3D6LTKui7sypulFs3CDZ.png",
+  "titulo": "My Hero Academia: Dos héroes",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.884,
+  "año": "2018",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "Deku y All-Might visitan la isla I, una ciudad flotante hecha por el hombre. Allí, conocen a una chica y pelean contra un villano que domina el lugar. Además, se develará información sobre el pasado de All-Might.",
+  "fecha_estreno": "2018-08-03",
+  "titulo_original": "僕のヒーローアカデミア THE MOVIE ～2人の英雄～",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "山下大輝",
+      "personaje": "Izuku Midoriya (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+    },
+    {
+      "nombre": "三宅健太",
+      "personaje": "All Might (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7YL8vM2KYzPMeQqTpHWmNj6s1AP.jpg"
+    },
+    {
+      "nombre": "志田未来",
+      "personaje": "Melissa Shield (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wfacZjLuVkaiW32ZNZqdjfLFNxC.jpg"
+    },
+    {
+      "nombre": "生瀬勝久",
+      "personaje": "David Shield (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qq9WR3q5P1zeUuFUnUYtnARZH2a.jpg"
+    },
+    {
+      "nombre": "岡本信彦",
+      "personaje": "Katsuki Bakugo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg"
+    },
+    {
+      "nombre": "佐倉綾音",
+      "personaje": "Ochako Uraraka (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yPbTmntASE9psPIMhNGU5oo6vIH.jpg"
+    },
+    {
+      "nombre": "石川界人",
+      "personaje": "Tenya Iida (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
+    },
+    {
+      "nombre": "梶裕貴",
+      "personaje": "Shoto Todoroki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "永井幸治",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "岡村和佳菜",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "大藪芳広",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "長崎健司",
+      "rol": "Director"
+    },
+    {
+      "nombre": "三條場一正",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "黒田洋介",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "堀越耕平",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Masahiro Umakoshi",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "田上祐二",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "高瀬健一",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "佐藤利幸",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "石井百合子",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "村田理",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "中野悟史",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "万怡",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "安田周平",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "鈴木典光",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "楠元祐也",
+      "rol": "Background Designer"
+    }
+  ],
+  "director": "長崎健司",
+  "valoraciones": {
+    "tmdb": 7.884,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "BONES",
+  "enlace_video": "https://1a-1791.com/video/s8/2/A/Y/C/A/AYCAt.caa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=uaX-5EJMn58"
+}
