@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 132232,
+  "poster": "https://image.tmdb.org/t/p/w500/9nYzxKmVlMKEhzUHnQBz326OBWR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cu3uaBqPORcfpKQWaIjA1GJbvEg.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/2NSJYMJ0vrALQ8hM1L8Q7HkZaTc.png",
+  "titulo": "Mamá",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.296,
+  "año": "2013",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "El día que su padre mató a su madre, las hermanas Victoria y Lilly desaparecieron en el bosque cercano a la urbanización donde vivían. Su tío Lucas y su novia Annabel las han buscado sin cesar durante cinco años. Cuando ocurre lo imposible y las niñas aparecen en una cabaña medio derruida, la pareja empieza a preguntarse si no ha llegado alguien más a su casa acompañando a las niñas. Annabel intenta ofrecer una vida normal a las niñas, pero acaba convencida de que hay una presencia malévola en la casa. ¿Sufren las hermanas de estrés traumático o viene un fantasma a visitarlas? Mientras intenta contestar a estas inquietantes preguntas, la nueva madre acabará descubriendo que los susurros que se oyen a la hora de dormir proceden de los labios de una presencia letal.",
+  "fecha_estreno": "2013-01-17",
+  "titulo_original": "Mama",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Jessica Chastain",
+      "personaje": "Annabel",
+      "foto": "https://image.tmdb.org/t/p/w500/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
+    },
+    {
+      "nombre": "Nikolaj Coster-Waldau",
+      "personaje": "Lucas Desange",
+      "foto": "https://image.tmdb.org/t/p/w500/rpFOERbHkj7GWxkinUNiQ76sSGk.jpg"
+    },
+    {
+      "nombre": "Megan Charpentier",
+      "personaje": "Victoria Desange",
+      "foto": "https://image.tmdb.org/t/p/w500/vu9V04MIAneVDIgZEW54FvtbZBQ.jpg"
+    },
+    {
+      "nombre": "Isabelle Nélisse",
+      "personaje": "Lilly Desange",
+      "foto": "https://image.tmdb.org/t/p/w500/sRM6Emnh6kWC44prmuitKOnM2KJ.jpg"
+    },
+    {
+      "nombre": "Daniel Kash",
+      "personaje": "Dr. Dreyfuss",
+      "foto": "https://image.tmdb.org/t/p/w500/v8xa3aFbdk0t7RXpXiLlXI7QepH.jpg"
+    },
+    {
+      "nombre": "Melina Matthews",
+      "personaje": "Mama (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bPwRAyD6DrAEj3DIzTibVDdJ51M.jpg"
+    },
+    {
+      "nombre": "Morgan McGarry",
+      "personaje": "Young Victoria",
+      "foto": "https://image.tmdb.org/t/p/w500/9KL0pC62bMFtFRqu2ZtOPNBpcX6.jpg"
+    },
+    {
+      "nombre": "Javier Botet",
+      "personaje": "Mama (body)",
+      "foto": "https://image.tmdb.org/t/p/w500/nuVbt1oreUUPPR0MhKKL7y6i9Dt.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "J. Miles Dale",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Barbara Muschietti",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andy Muschietti",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Andy Muschietti",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Andy Muschietti",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Barbara Muschietti",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Barbara Muschietti",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Neil Cross",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Fernando Velázquez",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Michele Conroy",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Anastasia Masaro",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Luis Sequeira",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Guillermo del Toro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robin D. Cook",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Alison Reid",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Doug Reid",
+      "rol": "Best Boy Electric"
+    },
+    {
+      "nombre": "Elis Y. Lam",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Patricia Cuccia",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Kari Measham",
+      "rol": "Set Decoration Buyer"
+    },
+    {
+      "nombre": "Andrij Molodecky",
+      "rol": "Set Dresser"
+    }
+  ],
+  "director": "Andy Muschietti",
+  "valoraciones": {
+    "tmdb": 6.296,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Toma 78",
+  "enlace_video": "https://1a-1791.com/video/s8/2/5/1/v/M/51vMr.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=iBAn6uAGrHE"
+}
