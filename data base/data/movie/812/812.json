@@ -1,0 +1,159 @@
+{
+  "id_tmdb": 812,
+  "poster": "https://image.tmdb.org/t/p/w500/5ALwczKzFxbsiMDlHuy7aREDCzr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nYWnPUdktgzxSXufNVE1JTH746m.png",
+  "titulo": "Aladdin",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura",
+    "Fantasía",
+    "Romance"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.654,
+  "año": "1992",
+  "duracion": "1h 27min",
+  "edad_minima": 13,
+  "sinopsis": "Un niño de la calle de buen corazón y un Gran Visir hambriento de poder compiten por una lámpara mágica que tiene el poder de hacer realidad sus deseos más profundos.",
+  "fecha_estreno": "1992-11-25",
+  "titulo_original": "Aladdin",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Scott Weinger",
+      "personaje": "Aladdin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5EvrWMz2xi3hOkrEMNGH2Rts2jz.jpg"
+    },
+    {
+      "nombre": "Robin Williams",
+      "personaje": "Genie / Peddler (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+    },
+    {
+      "nombre": "Linda Larkin",
+      "personaje": "Jasmine (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uN35v1Z374JvfdnDJBVmvnB2JNQ.jpg"
+    },
+    {
+      "nombre": "Jonathan Freeman",
+      "personaje": "Jafar (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ceyXr2JHuB32l74sFuzgMGGVLGQ.jpg"
+    },
+    {
+      "nombre": "Gilbert Gottfried",
+      "personaje": "Iago (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hkkAgJD0HKcuyd8EuvhyN5vHcDQ.jpg"
+    },
+    {
+      "nombre": "Douglas Seale",
+      "personaje": "Sultan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4RFHIJ3xbmOpgsr7JLZeRfY9yhb.jpg"
+    },
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Abu / Cave of Wonders / Rajah (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Brad Kane",
+      "personaje": "Aladdin (singing voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5kH9BzRX1osFjvWsh9vmjwTyE7h.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ron Clements",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Musker",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ron Clements",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ted Elliott",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Terry Rossio",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ron Clements",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Musker",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Musker",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alan Menken",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Vera Pacheco",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "H. Lee Peterson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Bill Perkins",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Mark Mangini",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "Ron Bartlett",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Danny Troob",
+      "rol": "Orchestrator"
+    },
+    {
+      "nombre": "Hans Bacher",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Ian Gooding",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Aaron Blaise",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Donald W. Ernst",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Alan Menken",
+      "rol": "Songs"
+    }
+  ],
+  "director": "Ron Clements",
+  "valoraciones": {
+    "tmdb": 7.654,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Feature Animation",
+  "enlace_video": "https://1a-1791.com/video/s8/2/q/R/s/k/qRsks.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=f2NQvVjf0ZY"
+}
