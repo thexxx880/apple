@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 11024,
+  "poster": "https://image.tmdb.org/t/p/w500/3mSD1qN1JC1LDKeROoCVk1S9YQB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/m8y7OjvCBLmJfG6CIb5gpXFSLec.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/k71OzW5cqOlRz6gSuLd4XzXs7rT.png",
+  "titulo": "Scooby-Doo 2: Monstruos sueltos",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Aventura",
+    "Comedia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.105,
+  "año": "2004",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "La pandilla de Misterio a la Orden debe salvar a Coolsville de un ataque realizado por sus monstruos del pasado, que han sido revividos por un malvado enmascarado que intenta acabar con la pandilla.",
+  "fecha_estreno": "2004-03-24",
+  "titulo_original": "Scooby-Doo 2: Monsters Unleashed",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Freddie Prinze Jr.",
+      "personaje": "Fred",
+      "foto": "https://image.tmdb.org/t/p/w500/8V9yNBjCNRBKROyjCLKLJGcCBdG.jpg"
+    },
+    {
+      "nombre": "Sarah Michelle Gellar",
+      "personaje": "Daphne",
+      "foto": "https://image.tmdb.org/t/p/w500/xKe52w4tpv61ohz9iz75wNdzcwZ.jpg"
+    },
+    {
+      "nombre": "Matthew Lillard",
+      "personaje": "Shaggy",
+      "foto": "https://image.tmdb.org/t/p/w500/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    },
+    {
+      "nombre": "Linda Cardellini",
+      "personaje": "Velma",
+      "foto": "https://image.tmdb.org/t/p/w500/bcycvynDprC1rrhBNrnBjn5uOUd.jpg"
+    },
+    {
+      "nombre": "Neil Fanning",
+      "personaje": "Scooby-Doo Voice / Tasmanian Devil (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bOeVV04QAKMNRQocVPNsyFesjth.jpg"
+    },
+    {
+      "nombre": "Seth Green",
+      "personaje": "Patrick",
+      "foto": "https://image.tmdb.org/t/p/w500/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+    },
+    {
+      "nombre": "Peter Boyle",
+      "personaje": "Old Man Wickles",
+      "foto": "https://image.tmdb.org/t/p/w500/6TapQmC46mPDYrwm67tyJaEM97I.jpg"
+    },
+    {
+      "nombre": "Tim Blake Nelson",
+      "personaje": "Jacobo",
+      "foto": "https://image.tmdb.org/t/p/w500/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Gunn",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Richard Suckle",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Raja Gosnell",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Charles Roven",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kelley Smith-Wait",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Newman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Oliver Wood",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Kent Beyda",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Brent O'Connor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alette Falle",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Richard Brooks",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ashlea Earl",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Hugo Dominguez",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Andrew Arnett",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Bill Haller",
+      "rol": "Supervising Animator"
+    }
+  ],
+  "director": "Raja Gosnell",
+  "valoraciones": {
+    "tmdb": 6.105,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Mosaic Media Group",
+  "enlace_video": "https://1a-1791.com/video/s8/2/c/H/O/v/cHOvt.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=mwsDWv26sVM"
+}
