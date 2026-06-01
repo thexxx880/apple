@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 1174618,
+  "poster": "https://image.tmdb.org/t/p/w500/llRUOYj8RLVTzpEUfcKrcQEVpTx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xKJTWGvheOMMlTHgrjN18KaD9Ra.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/doT1Tr70EJfZiTpf1azBsLZnSF4.png",
+  "titulo": "Alicia en el país de las pesadillas",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.787,
+  "año": "2023",
+  "duracion": "1h 17min",
+  "edad_minima": 13,
+  "sinopsis": "Una adolescente conflictuada se va a vivir con su abuela a una casa aislada en el bosque, sin saber que fuerzas siniestras la acechan.",
+  "fecha_estreno": "2023-12-26",
+  "titulo_original": "Alice in Terrorland",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Lizzy Willis",
+      "personaje": "Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/izfcKD7SP5Eq1jmO5RyGeH5hDs6.jpg"
+    },
+    {
+      "nombre": "Rula Lenska",
+      "personaje": "Beth",
+      "foto": "https://image.tmdb.org/t/p/w500/4lgQ8AIVaQQxgLnl097PRMu8pp8.jpg"
+    },
+    {
+      "nombre": "Jon-Paul Gates",
+      "personaje": "The Mad Hatter",
+      "foto": null
+    },
+    {
+      "nombre": "Steve Wraith",
+      "personaje": "The Rabbit",
+      "foto": null
+    },
+    {
+      "nombre": "Lila Sarner",
+      "personaje": "The Twins",
+      "foto": null
+    },
+    {
+      "nombre": "Nigel Troup",
+      "personaje": "The Smoking Man",
+      "foto": null
+    },
+    {
+      "nombre": "Nikol Atanasova",
+      "personaje": "The Cheshire Ripper",
+      "foto": null
+    },
+    {
+      "nombre": "Rikki Kimpton",
+      "personaje": "The Walrus",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Richard John Taylor",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Richard John Taylor",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Richard John Taylor",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Charlotte Smeulders",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Jude William Lytton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeremy Rothwell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Beckett Charlie Lytton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "May Monteiro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Arthur Leslie Lytton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Craig Gannon",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Glenn Griffin",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Ed Hutcheson",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Ryan Noire",
+      "rol": "Fight Choreographer"
+    },
+    {
+      "nombre": "Harry Tali Cord",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Lewis Carroll",
+      "rol": "Novel"
+    }
+  ],
+  "director": "Richard John Taylor",
+  "valoraciones": {
+    "tmdb": 5.787,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Hello Princess",
+  "enlace_video": "https://1a-1791.com/video/s8/2/x/5/X/r/x5Xrs.caa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=vk3bFFCKWZk"
+}
