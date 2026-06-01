@@ -1,0 +1,154 @@
+{
+  "id_tmdb": 71469,
+  "poster": "https://image.tmdb.org/t/p/w500/7AsiAQIAkG7rwYmupWm1UZKS7lP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ogRXgYKABTqiqmBen9hkbo3Fvz1.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3L9waykgtug8ZRDjYKVLw2Hcl4w.png",
+  "titulo": "La última noche de la humanidad",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Acción",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.3,
+  "año": "2011",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "Cuatro jóvenes estadounidenses en Moscú no imaginan que la noche de fiesta y alcohol en la que se han conocido va a convertirse en una pesadilla interminable, cuando se desate sobre la Tierra una brutal invasión alienígena.",
+  "fecha_estreno": "2011-12-22",
+  "titulo_original": "The Darkest Hour",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Emile Hirsch",
+      "personaje": "Sean",
+      "foto": "https://image.tmdb.org/t/p/w500/NQjX6KjtDDyLnvbxhrU9xQWaYJ.jpg"
+    },
+    {
+      "nombre": "Rachael Taylor",
+      "personaje": "Anne",
+      "foto": "https://image.tmdb.org/t/p/w500/9K3u4xM3fnyzulvqT0cVg8s2mKt.jpg"
+    },
+    {
+      "nombre": "Olivia Thirlby",
+      "personaje": "Natalie",
+      "foto": "https://image.tmdb.org/t/p/w500/x9ZlUX617wi9li2TJ5UuYpHzPfN.jpg"
+    },
+    {
+      "nombre": "Joel Kinnaman",
+      "personaje": "Skyler",
+      "foto": "https://image.tmdb.org/t/p/w500/cVfYzTyQdJ4xtxKPZe7IcW3BJN4.jpg"
+    },
+    {
+      "nombre": "Max Minghella",
+      "personaje": "Ben",
+      "foto": "https://image.tmdb.org/t/p/w500/AhVDxsOOoAnwwVBL7ZY8W0mGsYJ.jpg"
+    },
+    {
+      "nombre": "Вероника Вернадская",
+      "personaje": "Vika",
+      "foto": "https://image.tmdb.org/t/p/w500/4YNDuRGXhp0ULZAcdJgVMf2MwPs.jpg"
+    },
+    {
+      "nombre": "დათო ბახტაძე",
+      "personaje": "Sergei",
+      "foto": "https://image.tmdb.org/t/p/w500/o3TjoB0iVpWGYkmRAnx2yv0RZTU.jpg"
+    },
+    {
+      "nombre": "Гоша Куценко",
+      "personaje": "Matvei",
+      "foto": "https://image.tmdb.org/t/p/w500/lwolU8kCUWRaW2NfkefvXXThb0f.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Gorak",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Timur Bekmambetov",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Jacobson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jon Spaihts",
+      "rol": "Story"
+    },
+    {
+      "nombre": "M.T. Ahern",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jon Spaihts",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Leslie Bohem",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Варвара Авдюшко",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Mary Vernieu",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Venus Kanani",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Nataliya Papyan",
+      "rol": "Makeup & Hair Assistant"
+    },
+    {
+      "nombre": "K.C. Colwell",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Matt Codd",
+      "rol": "Concept Artist"
+    },
+    {
+      "nombre": "Maksim Ignatiev",
+      "rol": "Makeup & Hair Assistant"
+    },
+    {
+      "nombre": "James Moriana",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Linda Eisenhamerová",
+      "rol": "Key Hair Stylist"
+    },
+    {
+      "nombre": "Tami Treadwell",
+      "rol": "ADR Recordist"
+    },
+    {
+      "nombre": "Dominic Mainl",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Linda Eisenhamerová",
+      "rol": "Key Makeup Artist"
+    }
+  ],
+  "director": "Chris Gorak",
+  "valoraciones": {
+    "tmdb": 5.3,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Regency Enterprises",
+  "enlace_video": "https://1a-1791.com/video/s8/2/N/h/H/o/NhHou.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=IgXzLMQuQ6Y"
+}
