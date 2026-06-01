@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 569094,
+  "poster": "https://image.tmdb.org/t/p/w500/rXhgHQmtjTIQOEDU8E2TbUFMjWM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kFV7w6AfJogA5io4UyhGD4eNgyJ.png",
+  "titulo": "Spider-Man: A través del Spider-Verso",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 8.335,
+  "año": "2023",
+  "duracion": "2h 20min",
+  "edad_minima": 13,
+  "sinopsis": "Después de reunirse con Gwen Stacy, Miles Morales, el amigable Spider-Man del vecindario de tiempo completo de Brooklyn, es catapultado a través del Multiverso, donde se encuentra con un equipo de Spider-People encargado de proteger su existencia. Pero cuando los héroes chocan sobre cómo manejar una nueva amenaza, Miles se enfrenta a las otras arañas y debe redefinir lo que significa ser un héroe para poder salvar a las personas que más ama.",
+  "fecha_estreno": "2023-05-31",
+  "titulo_original": "Spider-Man: Across the Spider-Verse",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Shameik Moore",
+      "personaje": "Miles Morales (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ovUKfVOwJ7CadEHaG3NDsfA5xRq.jpg"
+    },
+    {
+      "nombre": "Hailee Steinfeld",
+      "personaje": "Gwen Stacy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rJjIVF9ovx3gPb6xPtTlNme5k2.jpg"
+    },
+    {
+      "nombre": "Brian Tyree Henry",
+      "personaje": "Jeff Morales (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+    },
+    {
+      "nombre": "Luna Lauren Vélez",
+      "personaje": "Rio Morales (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
+    },
+    {
+      "nombre": "Jake Johnson",
+      "personaje": "Peter B. Parker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+    },
+    {
+      "nombre": "Oscar Isaac",
+      "personaje": "Miguel O'Hara (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+    },
+    {
+      "nombre": "Jason Schwartzman",
+      "personaje": "Spot (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+    },
+    {
+      "nombre": "Issa Rae",
+      "personaje": "Jessica Drew (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uFjimuDgBv8kckApr19t8DykxPH.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kemp Powers",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Justin K. Thompson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christina Steinberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Phil Lord",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Christopher Miller",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "David Callaham",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joaquim Dos Santos",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alonzo Ruvalcaba",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Daniel Pemberton",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Mary Hidalgo",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Bret Allen",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Arthur D. Noda",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Morgan Schweitzer",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Danilo Rodrigues",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Bret St. Clair",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Pawel Grochola",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Kris Anka",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Peter Ramsey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aditya Sood",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Kemp Powers",
+  "valoraciones": {
+    "tmdb": 8.335,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/v/9/2/S/v92Su.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=yFrxzaBLDQM"
+}
