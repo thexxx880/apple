@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 673,
+  "poster": "https://image.tmdb.org/t/p/w500/xBph7rrwtxUuDxyZVDQtbP2H0sM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rd3MaMcrU6FFx0cYa53bgAbde2W.png",
+  "titulo": "Harry Potter y el prisionero de Azkaban",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8.009,
+  "año": "2004",
+  "duracion": "2h 22min",
+  "edad_minima": 13,
+  "sinopsis": "Durante sus días en la escuela Hogwarts, nuevos peligros se le presentan a Harry y sus amigos. La llegada de los Dementores, seres que absorben el alma, un peligroso aliado acecha dentro de los muros del castillo y el temible mago Sirius Black escapa Azkaban.",
+  "fecha_estreno": "2004-05-31",
+  "titulo_original": "Harry Potter and the Prisoner of Azkaban",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Daniel Radcliffe",
+      "personaje": "Harry Potter",
+      "foto": "https://image.tmdb.org/t/p/w500/e64VeB4Mybwm2tOhyLY1h7XQQ8N.jpg"
+    },
+    {
+      "nombre": "Rupert Grint",
+      "personaje": "Ron Weasley",
+      "foto": "https://image.tmdb.org/t/p/w500/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "nombre": "Emma Watson",
+      "personaje": "Hermione Granger",
+      "foto": "https://image.tmdb.org/t/p/w500/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+    },
+    {
+      "nombre": "Robbie Coltrane",
+      "personaje": "Rubeus Hagrid",
+      "foto": "https://image.tmdb.org/t/p/w500/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    },
+    {
+      "nombre": "Michael Gambon",
+      "personaje": "Albus Dumbledore",
+      "foto": "https://image.tmdb.org/t/p/w500/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "nombre": "Gary Oldman",
+      "personaje": "Sirius Black",
+      "foto": "https://image.tmdb.org/t/p/w500/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+    },
+    {
+      "nombre": "David Thewlis",
+      "personaje": "Remus Lupin",
+      "foto": "https://image.tmdb.org/t/p/w500/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg"
+    },
+    {
+      "nombre": "Timothy Spall",
+      "personaje": "Peter Pettigrew",
+      "foto": "https://image.tmdb.org/t/p/w500/pcR6t8kpAgGwIUo4UjlP5gyKkNA.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alfonso Cuarón",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Steve Kloves",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Heyman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Radcliffe",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lorne Orleans",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Columbus",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "J.K. Rowling",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "John Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Michael Seresin",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Steven Weisberg",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jina Jay",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Stuart Craig",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Alan Gilmore",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Steven Lawrence",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Gary Tomkins",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Alexandra Walker",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Stephenie McMillan",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jany Temime",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "Alfonso Cuarón",
+  "valoraciones": {
+    "tmdb": 8.009,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/I/y/M/4/IyM4q.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=VwErvYgoH70"
+}
