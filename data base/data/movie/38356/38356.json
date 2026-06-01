@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 38356,
+  "poster": "https://image.tmdb.org/t/p/w500/fMqXNNgzTaxalU1ve9KevpELiGe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/h3js4rulxzKMOokM2oO5Kr0mBZU.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/khTn4iYWaGn32cJFxKFsK1sfztX.png",
+  "titulo": "Transformers: el lado oscuro de la luna",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.231,
+  "año": "2011",
+  "duracion": "2h 34min",
+  "edad_minima": 13,
+  "sinopsis": "En esta tercera entrega de la saga Transformers, los Autobots y los Decepticons se ven envueltos en una peligrosa carrera espacial en la Tierra entre los EE.UU. y Rusia, donde un acontecimiento amenaza con provocar una guerra tan grande que ni los propios transformers puede que sean capaces de salvar nuestro planeta. Y una vez más, como casi siempre, Sam Witwicky se encuentra involuntariamente en medio del conflicto.",
+  "fecha_estreno": "2011-06-28",
+  "titulo_original": "Transformers: Dark of the Moon",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Shia LaBeouf",
+      "personaje": "Sam Witwicky",
+      "foto": "https://image.tmdb.org/t/p/w500/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
+    },
+    {
+      "nombre": "Rosie Huntington-Whiteley",
+      "personaje": "Carly",
+      "foto": "https://image.tmdb.org/t/p/w500/oq5iX2VoLGF41P5DmNDNJcczESR.jpg"
+    },
+    {
+      "nombre": "Peter Cullen",
+      "personaje": "Optimus Prime (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
+    },
+    {
+      "nombre": "Leonard Nimoy",
+      "personaje": "Sentinel Prime (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vyo1sOdwEIP8adhts3UpelyiBwn.jpg"
+    },
+    {
+      "nombre": "John Turturro",
+      "personaje": "Simmons",
+      "foto": "https://image.tmdb.org/t/p/w500/63zA58rSyJxBMLBdgeMjjETmpDQ.jpg"
+    },
+    {
+      "nombre": "Frances McDormand",
+      "personaje": "Mearing",
+      "foto": "https://image.tmdb.org/t/p/w500/gBkoteKZshmQXEyEoyT6WE7N0tF.jpg"
+    },
+    {
+      "nombre": "Josh Duhamel",
+      "personaje": "Lennox",
+      "foto": "https://image.tmdb.org/t/p/w500/5Rp9aeWdN2S623KCjwfii9MhDK1.jpg"
+    },
+    {
+      "nombre": "Tyrese Gibson",
+      "personaje": "Epps",
+      "foto": "https://image.tmdb.org/t/p/w500/jxoy4fbXNKFQtBdK73cLXEz3ufS.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Bay",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ehren Kruger",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kenny Bates",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ian Bryce",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom DeSanto",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lorenzo di Bonaventura",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Don Murphy",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Steven Spielberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Heidi Pascoe",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Matthew Zolan",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Eddie Yansick",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Newton Wimer",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Tim Walkey",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Tom Vicini",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Alicia Vela-Bailey",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Alicia Vela-Bailey",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "C.C. Taylor",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Russell Solberg",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Brian Simpson",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Michael Bay",
+  "valoraciones": {
+    "tmdb": 6.231,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/6/w/5/d/6w5dt.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=XeUtb5L9iNE"
+}
