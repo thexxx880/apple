@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 129,
+  "poster": "https://image.tmdb.org/t/p/w500/2RcxjDykOssx4SfqshewyI9vfSl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/2S73KeDuLJXOddfOrF4BKHjQBJd.png",
+  "titulo": "El viaje de Chihiro",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8.535,
+  "año": "2001",
+  "duracion": "2h 5min",
+  "edad_minima": 13,
+  "sinopsis": "Durante la mudanza de su familia a los suburbios, una huraña niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
+  "fecha_estreno": "2001-07-20",
+  "titulo_original": "千と千尋の神隠し",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "柊瑠美",
+      "personaje": "Chihiro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nTKM4GgfkrZvAOFL55uhEuckt7M.jpg"
+    },
+    {
+      "nombre": "入野自由",
+      "personaje": "Haku (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+    },
+    {
+      "nombre": "夏木マリ",
+      "personaje": "Yubaba / Zeniba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/MIFzUc77Sx57FQOZsoiGWEbpH2.jpg"
+    },
+    {
+      "nombre": "内藤剛志",
+      "personaje": "Father (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xwsm0ygjG79jLIogutwo6r64igy.jpg"
+    },
+    {
+      "nombre": "沢口靖子",
+      "personaje": "Mother (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rWspusb13VeJowmctnniXYYTcqq.jpg"
+    },
+    {
+      "nombre": "我修院達也",
+      "personaje": "Aogaeru (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fLqIdkShknsJmZy4EfBWuWyHN4C.jpg"
+    },
+    {
+      "nombre": "神木隆之介",
+      "personaje": "Boh (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+    },
+    {
+      "nombre": "玉井夕海",
+      "personaje": "Rin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/x9Td7e5F21cK9S1FCkobfqiJZ1c.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "鈴木敏夫",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hayao Miyazaki",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Hayao Miyazaki",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "瀬山武司",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "奥井敦",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "久石譲",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "徳間康快",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "武重洋二",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "高坂希太郎",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "賀川愛",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "安藤雅司",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "田村淳",
+      "rol": "Compositing Artist"
+    },
+    {
+      "nombre": "米林宏昌",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "古川尚哉",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "田中敦子",
+      "rol": "Key Animation"
+    }
+  ],
+  "director": "Hayao Miyazaki",
+  "valoraciones": {
+    "tmdb": 8.535,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Studio Ghibli",
+  "enlace_video": "https://1a-1791.com/video/s8/2/X/q/F/T/XqFTl.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=GAp2_0JJskk"
+}
