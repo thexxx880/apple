@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 671,
+  "poster": "https://image.tmdb.org/t/p/w500/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/omeA5Y581lHVTSDkvqDIzDytVNR.png",
+  "titulo": "Harry Potter y la piedra filosofal",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.899,
+  "año": "2001",
+  "duracion": "2h 32min",
+  "edad_minima": 13,
+  "sinopsis": "Al cumplir los once años, Harry Potter descubre que es un mago y que es hijo de dos destacados hechiceros. Mientras estudia en la escuela Hogwarts de Magia y Hechicería, poco a poco descubre más la verdad sobre la muerte de sus padres hechiceros.",
+  "fecha_estreno": "2001-11-16",
+  "titulo_original": "Harry Potter and the Philosopher's Stone",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Daniel Radcliffe",
+      "personaje": "Harry Potter",
+      "foto": "https://image.tmdb.org/t/p/w500/e64VeB4Mybwm2tOhyLY1h7XQQ8N.jpg"
+    },
+    {
+      "nombre": "Rupert Grint",
+      "personaje": "Ron Weasley",
+      "foto": "https://image.tmdb.org/t/p/w500/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "nombre": "Emma Watson",
+      "personaje": "Hermione Granger",
+      "foto": "https://image.tmdb.org/t/p/w500/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+    },
+    {
+      "nombre": "Richard Harris",
+      "personaje": "Albus Dumbledore",
+      "foto": "https://image.tmdb.org/t/p/w500/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg"
+    },
+    {
+      "nombre": "Tom Felton",
+      "personaje": "Draco Malfoy",
+      "foto": "https://image.tmdb.org/t/p/w500/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+    },
+    {
+      "nombre": "Alan Rickman",
+      "personaje": "Severus Snape",
+      "foto": "https://image.tmdb.org/t/p/w500/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    },
+    {
+      "nombre": "Robbie Coltrane",
+      "personaje": "Rubeus Hagrid",
+      "foto": "https://image.tmdb.org/t/p/w500/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    },
+    {
+      "nombre": "Maggie Smith",
+      "personaje": "Minerva McGonagall",
+      "foto": "https://image.tmdb.org/t/p/w500/Ae7DnC7mLIiHVtQZE6YPs8MInx7.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Steve Kloves",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chris Columbus",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Heyman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Greg Powell",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Karen Lindsay-Stewart",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Stephenie McMillan",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jim Berney",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Richard Francis-Bruce",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Andrew Ackland-Snow",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Martin Cantwell",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Stuart Craig",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "J.K. Rowling",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Henry Allen",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "John Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Susie Figgis",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Chris Columbus",
+  "valoraciones": {
+    "tmdb": 7.899,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/N/Y/J/V/NYJVp.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=l91Km49W9qI"
+}
