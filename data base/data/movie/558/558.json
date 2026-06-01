@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 558,
+  "poster": "https://image.tmdb.org/t/p/w500/9vAx9vN27TpRv98fREN4aXIdhbp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/z5wqGJAow4j5LNyVeEKiqBUvi6H.png",
+  "titulo": "El hombre araña 2",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.308,
+  "año": "2004",
+  "duracion": "2h 7min",
+  "edad_minima": 13,
+  "sinopsis": "Peter Parker se ve acosado por problemas en su fallida vida personal mientras lucha contra un brillante científico llamado Doctor Otto Octavius.",
+  "fecha_estreno": "2004-06-25",
+  "titulo_original": "Spider-Man 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tobey Maguire",
+      "personaje": "Spider-Man / Peter Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+    },
+    {
+      "nombre": "Kirsten Dunst",
+      "personaje": "Mary Jane Watson",
+      "foto": "https://image.tmdb.org/t/p/w500/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+    },
+    {
+      "nombre": "James Franco",
+      "personaje": "Harry Osborn",
+      "foto": "https://image.tmdb.org/t/p/w500/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+    },
+    {
+      "nombre": "Alfred Molina",
+      "personaje": "Doc Ock / Otto Octavius",
+      "foto": "https://image.tmdb.org/t/p/w500/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "nombre": "Rosemary Harris",
+      "personaje": "May Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/3Mu02enwaF8dFuT195f7esILXns.jpg"
+    },
+    {
+      "nombre": "J.K. Simmons",
+      "personaje": "J. Jonah Jameson",
+      "foto": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+      "nombre": "Donna Murphy",
+      "personaje": "Rosalie Octavius",
+      "foto": "https://image.tmdb.org/t/p/w500/tmre2oZkIHGqnLhWeldpX2Ujgl0.jpg"
+    },
+    {
+      "nombre": "Daniel Gillies",
+      "personaje": "John Jameson",
+      "foto": "https://image.tmdb.org/t/p/w500/3EVKjIDFZOHeLzxOvJ4DmAVYMXg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sam Raimi",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alvin Sargent",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lorne Orleans",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Laura Ziskin",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joseph M. Caracciolo Jr.",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Danny Elfman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Bill Pope",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Bob Murawski",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Dianne Crittenden",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Neil Spisak",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jay Hart",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "James Acheson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Cinzia Angelini",
+      "rol": "Senior Animator"
+    },
+    {
+      "nombre": "Alexa Sheehan",
+      "rol": "Production Assistant"
+    }
+  ],
+  "director": "Sam Raimi",
+  "valoraciones": {
+    "tmdb": 7.308,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Enterprises",
+  "enlace_video": "0ByibEzjq_Q9LVGlWa3hOS2s3Zlk",
+  "trailer": "https://www.youtube.com/watch?v=CA5vsCnLm34"
+}
