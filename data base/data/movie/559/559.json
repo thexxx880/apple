@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 559,
+  "poster": "https://image.tmdb.org/t/p/w500/yqQRaD0uBWKLvSVe6LuMveb0ZLv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/x4rJtsXLFUmN9ezJ4yyN049JS40.png",
+  "titulo": "El hombre araña 3",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.5,
+  "año": "2007",
+  "duracion": "2h 19min",
+  "edad_minima": 13,
+  "sinopsis": "Una extraña entidad negra de otro mundo se vincula con Peter Parker y le provoca confusión interna mientras lucha contra nuevos villanos, tentaciones y venganza.",
+  "fecha_estreno": "2007-05-01",
+  "titulo_original": "Spider-Man 3",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tobey Maguire",
+      "personaje": "Spider-Man / Peter Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+    },
+    {
+      "nombre": "Kirsten Dunst",
+      "personaje": "Mary Jane Watson",
+      "foto": "https://image.tmdb.org/t/p/w500/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+    },
+    {
+      "nombre": "James Franco",
+      "personaje": "New Goblin / Harry Osborn",
+      "foto": "https://image.tmdb.org/t/p/w500/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+    },
+    {
+      "nombre": "Thomas Haden Church",
+      "personaje": "Sandman / Flint Marko",
+      "foto": "https://image.tmdb.org/t/p/w500/74NK9HCYvNafMggSp1PAK5Nwkpe.jpg"
+    },
+    {
+      "nombre": "Topher Grace",
+      "personaje": "Venom / Eddie Brock",
+      "foto": "https://image.tmdb.org/t/p/w500/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg"
+    },
+    {
+      "nombre": "Bryce Dallas Howard",
+      "personaje": "Gwen Stacy",
+      "foto": "https://image.tmdb.org/t/p/w500/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg"
+    },
+    {
+      "nombre": "Rosemary Harris",
+      "personaje": "May Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/3Mu02enwaF8dFuT195f7esILXns.jpg"
+    },
+    {
+      "nombre": "J.K. Simmons",
+      "personaje": "J. Jonah Jameson",
+      "foto": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Grant Curtis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Laura Ziskin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sam Raimi",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alvin Sargent",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sam Raimi",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ivan Raimi",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "J. Michael Riva",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Leslie A. Pope",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "James Acheson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Francine Maisler",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Katina Le Kerr",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Joseph M. Caracciolo Jr.",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bob Murawski",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Christopher Young",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Kathy Driscoll-Mohler",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Neil Spisak",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Sam Raimi",
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Laura Ziskin Productions",
+  "enlace_video": "https://1a-1791.com/video/s8/2/g/X/M/k/gXMkq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=e5wUilOeOmg"
+}
