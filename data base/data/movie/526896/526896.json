@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 526896,
+  "poster": "https://image.tmdb.org/t/p/w500/4jcJHqIVsb4MFdYrDajXeEVlDvH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jzWT0zd8U77fqWg5WgUfYaMzSFz.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9yXfRmPJdeaSAVgyq3USqkgwLg7.png",
+  "titulo": "Morbius",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Fantasía"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.91,
+  "año": "2022",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Gravemente enfermo con un trastorno sanguíneo poco común y decidido a salvar a otros que sufren de ese mismo destino, el Dr. Morbius hace una arriesgada apuesta. Si bien al principio, parece ser un éxito radical, una oscuridad dentro de él se desata. ¿El bien prevalecerá sobre el mal o Morbius sucumbirá a sus misteriosos nuevos impulsos?",
+  "fecha_estreno": "2022-03-30",
+  "titulo_original": "Morbius",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jared Leto",
+      "personaje": "Dr. Michael Morbius",
+      "foto": "https://image.tmdb.org/t/p/w500/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+    },
+    {
+      "nombre": "Matt Smith",
+      "personaje": "Milo",
+      "foto": "https://image.tmdb.org/t/p/w500/xr2GSp8Pm6fT5VGm0I9tsWVcZ8q.jpg"
+    },
+    {
+      "nombre": "Adria Arjona",
+      "personaje": "Martine Bancroft",
+      "foto": "https://image.tmdb.org/t/p/w500/gzrI92WZFANIBXOmXl3QGfb8Jak.jpg"
+    },
+    {
+      "nombre": "Jared Harris",
+      "personaje": "Dr. Emil Nicholas",
+      "foto": "https://image.tmdb.org/t/p/w500/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg"
+    },
+    {
+      "nombre": "Tyrese Gibson",
+      "personaje": "Agent Simon Stroud",
+      "foto": "https://image.tmdb.org/t/p/w500/jxoy4fbXNKFQtBdK73cLXEz3ufS.jpg"
+    },
+    {
+      "nombre": "Al Madrigal",
+      "personaje": "Agent Rodriguez",
+      "foto": "https://image.tmdb.org/t/p/w500/p4vN80EGGlzLb5J7G8Ss3n9K2pc.jpg"
+    },
+    {
+      "nombre": "Michael Keaton",
+      "personaje": "Adrian Toomes",
+      "foto": "https://image.tmdb.org/t/p/w500/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+    },
+    {
+      "nombre": "Zaris-Angel Hator",
+      "personaje": "Anna",
+      "foto": "https://image.tmdb.org/t/p/w500/9dqaoHGVcKg2B8ziq9mucFnTQiQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Daniel Espinosa",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lucas Foster",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Tolmach",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Burk Sharpless",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Matt Sazama",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Cindy Evans",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Pietro Scalia",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Fred M. Ortiz",
+      "rol": "Set Dresser"
+    },
+    {
+      "nombre": "Paul Massey",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Louis Mackall",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Jane Harwood",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Beau Borders",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Joel Behrens",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Shamim Seifzadeh",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Ann Scibelli",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Tina Jones",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Per Hallberg",
+      "rol": "Supervising Sound Editor"
+    }
+  ],
+  "director": "Daniel Espinosa",
+  "valoraciones": {
+    "tmdb": 5.91,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/w/Q/a/5/wQa5o.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=wG2TjtueeSU"
+}
