@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 1356039,
+  "poster": "https://image.tmdb.org/t/p/w500/kxnFdLJhi37ZVFDCL1ka0yeQVU5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/deUWVEgNh2IGjShyymZhaYP40ye.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/j7thvBCy6bPQl4gNIt3sMITVurr.png",
+  "titulo": "Contraataque",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 8.242,
+  "año": "2025",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "Tras rescatar a dos rehenes y hacerse de un nuevo enemigo, el capitán Guerrero y su escuadrón de élite se enfrentan a la emboscada de un grupo criminal.",
+  "fecha_estreno": "2025-02-27",
+  "titulo_original": "Contraataque",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Luis Alberti",
+      "personaje": "Capitán Guerrero",
+      "foto": "https://image.tmdb.org/t/p/w500/1uf6WXebWuL0oEMM2z8ulcnRro.jpg"
+    },
+    {
+      "nombre": "Noé Hernández",
+      "personaje": "Josefo \"El Aguijón\" Urías",
+      "foto": "https://image.tmdb.org/t/p/w500/l3NXUy1x5buKHawSw4xye5JW8pl.jpg"
+    },
+    {
+      "nombre": "Leonardo Alonso",
+      "personaje": "Tanque",
+      "foto": "https://image.tmdb.org/t/p/w500/3SJUI4IeqjZfG7yNh76CbkQfzfg.jpg"
+    },
+    {
+      "nombre": "Luis Curiel",
+      "personaje": "Pollo",
+      "foto": "https://image.tmdb.org/t/p/w500/5FMxoburwNLvKlYIFPEoSLDDogu.jpg"
+    },
+    {
+      "nombre": "Guillermo Nava",
+      "personaje": "Toro",
+      "foto": "https://image.tmdb.org/t/p/w500/yKMqnDsv4rfKYOg1t4EHkIDPywQ.jpg"
+    },
+    {
+      "nombre": "David Calderón León",
+      "personaje": "Combo",
+      "foto": "https://image.tmdb.org/t/p/w500/mwAilgEQ8LZjsLau2X7nmL3PmvB.jpg"
+    },
+    {
+      "nombre": "Mayra Batalla",
+      "personaje": "Lucía",
+      "foto": "https://image.tmdb.org/t/p/w500/2tHR2fCTNfs3bxu53BQZUM3ybFq.jpg"
+    },
+    {
+      "nombre": "Israel Islas",
+      "personaje": "Román \"El Sacristán\" Urías",
+      "foto": "https://image.tmdb.org/t/p/w500/2LEQGnhXBrmtscQfNtf9igVeN2E.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chava Cartas",
+      "rol": "Director"
+    },
+    {
+      "nombre": "José Rubén Escalante Méndez",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Francisco González Compeán",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sebastian Jurado",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Carlos Silva Vallejo",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ximena Basaguren",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rodrigo de Pedro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sofía Legarreta Monroy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Karina Blanco",
+      "rol": "Production Director"
+    },
+    {
+      "nombre": "Sam Baixauli",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Tato Cartas",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Atzin Hernández",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "Catalina Hernandez",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Beto Casillas",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Alejandro de Icaza",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Sandra Ramírez Aguilera",
+      "rol": "Sound Designer"
+    }
+  ],
+  "director": "Chava Cartas",
+  "valoraciones": {
+    "tmdb": 8.242,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Draco Films",
+  "enlace_video": "https://1a-1791.com/video/fwe2/a8/s8/2/y/F/v/o/yFvoy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=pEO34SeTsY0"
+}
