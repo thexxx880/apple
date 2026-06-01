@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 12187,
+  "poster": "https://image.tmdb.org/t/p/w500/6ZzWtwtTxRWxE8rDVQvRQre5UR5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/orjpvbnfiDQvqRJIy9cLAb8WTgF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/p2bIkTA0Is3Tg83Q3WLG82C1iEB.png",
+  "titulo": "El cielo los esperaba",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Comedia",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.91,
+  "año": "1993",
+  "duracion": "1h 44min",
+  "edad_minima": 13,
+  "sinopsis": "Cuatro personas, dos hombres y dos mujeres, mueren en un accidente de autobús, y sus almas se convierten en los amigos invisibles de un niño que nace en el mismo momento en que ellos mueren. Treinta años después, los cuatro personajes utilizarán el cuerpo de su amigo para resolver aquellas cosas que dejaron pendientes y que les permitirá hacer el viaje final.",
+  "fecha_estreno": "1993-08-13",
+  "titulo_original": "Heart and Souls",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Robert Downey Jr.",
+      "personaje": "Thomas Reilly",
+      "foto": "https://image.tmdb.org/t/p/w500/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "nombre": "Charles Grodin",
+      "personaje": "Harrison Winslow",
+      "foto": "https://image.tmdb.org/t/p/w500/k3LIbJE9nxn4nI79tef4zdjtEzq.jpg"
+    },
+    {
+      "nombre": "Alfre Woodard",
+      "personaje": "Penny Washington",
+      "foto": "https://image.tmdb.org/t/p/w500/jaojqEDdOBWfDpQfdWIbvyLDy5z.jpg"
+    },
+    {
+      "nombre": "Kyra Sedgwick",
+      "personaje": "Julia",
+      "foto": "https://image.tmdb.org/t/p/w500/cfpLVZWChElvkKegZopC0xDjEWk.jpg"
+    },
+    {
+      "nombre": "Tom Sizemore",
+      "personaje": "Milo Peck",
+      "foto": "https://image.tmdb.org/t/p/w500/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+    },
+    {
+      "nombre": "David Paymer",
+      "personaje": "Hal the Bus Driver",
+      "foto": "https://image.tmdb.org/t/p/w500/owoOdDFgXpls1OFKwmQ104Nkl5.jpg"
+    },
+    {
+      "nombre": "Elisabeth Shue",
+      "personaje": "Anne",
+      "foto": "https://image.tmdb.org/t/p/w500/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg"
+    },
+    {
+      "nombre": "Bill Calvert",
+      "personaje": "Frank Reilly",
+      "foto": "https://image.tmdb.org/t/p/w500/u0VjXyNPWbbH3FSzd3FdeoC648J.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sean Daniel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nancy Roberts",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ron Underwood",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Brent Maddock",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Erik Hansen",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "S.S. Wilson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gregory Hansen",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marc Shaiman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "O. Nicholas Brown",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael W. Watkins",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mic Rodgers",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Michael Runyard",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Sonja Davis",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Adam Shankman",
+      "rol": "Choreographer"
+    },
+    {
+      "nombre": "John C. Meier",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Tom Martinek",
+      "rol": "I/O Supervisor"
+    },
+    {
+      "nombre": "Brent Maddock",
+      "rol": "Screenstory"
+    },
+    {
+      "nombre": "Mike Helbig",
+      "rol": "Set Dresser"
+    },
+    {
+      "nombre": "Hugo Herrera",
+      "rol": "Greensman"
+    }
+  ],
+  "director": "Ron Underwood",
+  "valoraciones": {
+    "tmdb": 6.91,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Alphaville Films",
+  "enlace_video": "https://1a-1791.com/video/fwe1/23/s8/2/y/Q/8/9/yQ89x.caa.mp4?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=8qEYlO-QMZs"
+}
