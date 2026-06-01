@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 198184,
+  "poster": "https://image.tmdb.org/t/p/w500/g2kVBpRljENCi8KskBi0tedK3UE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3pKIcv6KhUE35jsKnv3MylQ3OT2.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/f9jEQr6YSatPrULo6gBpXDiHKdJ.png",
+  "titulo": "Chappie",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.8,
+  "año": "2015",
+  "duracion": "2h 0min",
+  "edad_minima": 13,
+  "sinopsis": "En un futuro cercano, el crimen es combatido por una fuerza de policías robots. Uno de estos robots, llamado Chappie, es secuestrado por un grupo de delincuentes que le instalan un nuevo programa que lo convertirá en el primer robot capaz de tener pensamientos y sentimientos propios.",
+  "fecha_estreno": "2015-03-04",
+  "titulo_original": "Chappie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sharlto Copley",
+      "personaje": "Chappie",
+      "foto": "https://image.tmdb.org/t/p/w500/em89OJJvBRX7kNJJPASmNKQujsC.jpg"
+    },
+    {
+      "nombre": "Dev Patel",
+      "personaje": "Deon Wilson",
+      "foto": "https://image.tmdb.org/t/p/w500/1g07SUVwZHvKgM1Z7H4RYIEOXcm.jpg"
+    },
+    {
+      "nombre": "Hugh Jackman",
+      "personaje": "Vincent Moore",
+      "foto": "https://image.tmdb.org/t/p/w500/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg"
+    },
+    {
+      "nombre": "Ninja",
+      "personaje": "Ninja",
+      "foto": "https://image.tmdb.org/t/p/w500/qDd7x2sRQq32DV8wBuPsVq2DTGZ.jpg"
+    },
+    {
+      "nombre": "Yo-Landi Visser",
+      "personaje": "Yo-Landi",
+      "foto": "https://image.tmdb.org/t/p/w500/qwsY5XM5mIJQzZyReBLHlHJx9n0.jpg"
+    },
+    {
+      "nombre": "Sigourney Weaver",
+      "personaje": "Michelle Bradley",
+      "foto": "https://image.tmdb.org/t/p/w500/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "nombre": "Chris Shields",
+      "personaje": "Journalist",
+      "foto": "https://image.tmdb.org/t/p/w500/wMi2k3l9lyuJJchQLh87RAUiVWl.jpg"
+    },
+    {
+      "nombre": "Anderson Cooper",
+      "personaje": "Anderson Cooper",
+      "foto": "https://image.tmdb.org/t/p/w500/p2p0b6NSJb37DdCZSRtatva1Ob9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Neill Blomkamp",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Neill Blomkamp",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Terri Tatchell",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Neill Blomkamp",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Andrew Malesky",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Jeremy Stewart",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Julian Clarke",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jules Cook",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Emilia Roux",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Mark Goldblatt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Bobby Cardoso",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ben Waisbren",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "James Bitonti",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Victoria Burkhart",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Trent Opaloch",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Neill Blomkamp",
+  "valoraciones": {
+    "tmdb": 6.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/Q/A/h/d/QAhds.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=q7_qn9KgFJE"
+}
