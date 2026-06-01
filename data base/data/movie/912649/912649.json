@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 912649,
+  "poster": "https://image.tmdb.org/t/p/w500/toZiAd0n0NKhiuHTiGk7kBMmhtG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/niP0a873863IwLrQU0cCrRAINbj.png",
+  "titulo": "Venom: El último baile",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.667,
+  "año": "2024",
+  "duracion": "1h 49min",
+  "edad_minima": 13,
+  "sinopsis": "Eddie y Venom están huyendo. Perseguidos por sus dos mundos, el dúo se ve obligado a tomar una decisión devastadora que bajará el telón en un último baile entre Venom y Eddie.",
+  "fecha_estreno": "2024-10-22",
+  "titulo_original": "Venom: The Last Dance",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Hardy",
+      "personaje": "Eddie Brock / Venom",
+      "foto": "https://image.tmdb.org/t/p/w500/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+    },
+    {
+      "nombre": "Chiwetel Ejiofor",
+      "personaje": "Strickland",
+      "foto": "https://image.tmdb.org/t/p/w500/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+      "nombre": "Juno Temple",
+      "personaje": "Dr. Teddy Paine",
+      "foto": "https://image.tmdb.org/t/p/w500/nvsPrM4OKHVCDivgMx4FF6PgE5f.jpg"
+    },
+    {
+      "nombre": "Rhys Ifans",
+      "personaje": "Martin",
+      "foto": "https://image.tmdb.org/t/p/w500/AfXRP33ncRunR83JPehZ06Kgh8e.jpg"
+    },
+    {
+      "nombre": "Stephen Graham",
+      "personaje": "Detective Mulligan",
+      "foto": "https://image.tmdb.org/t/p/w500/yguEO9zFvuccq87kOJpFLsmUgvs.jpg"
+    },
+    {
+      "nombre": "Peggy Lu",
+      "personaje": "Mrs. Chen",
+      "foto": "https://image.tmdb.org/t/p/w500/ng5eaDcOf9kSwIYGNmwF9wEfIHp.jpg"
+    },
+    {
+      "nombre": "Clark Backo",
+      "personaje": "Sadie",
+      "foto": "https://image.tmdb.org/t/p/w500/d24KKFxfoql6PBsBPsejFgzhSlH.jpg"
+    },
+    {
+      "nombre": "Alanna Ubach",
+      "personaje": "Nova",
+      "foto": "https://image.tmdb.org/t/p/w500/p2sIpgftEIkhPrrpgu8wW8XEpDg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Tolmach",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kelly Marcel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kelly Marcel",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Hutch Parker",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kelly Marcel",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Kelly Marcel",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tom Hardy",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Michelinie",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Todd McFarlane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jacob Tomuri",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Joseph M. Caracciolo Jr.",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Fabian Wagner",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Christina Petrou",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "John Moffatt",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Greg Baxter",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Aharon Bourland",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Andrew Palmer",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Sean Haworth",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Chris Lowe",
+      "rol": "Production Design"
+    }
+  ],
+  "director": "Kelly Marcel",
+  "valoraciones": {
+    "tmdb": 6.667,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/5c/s8/2/Y/_/W/t/Y_Wty.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=FKBN1qAzW3s"
+}
