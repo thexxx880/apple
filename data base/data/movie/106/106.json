@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 106,
+  "poster": "https://image.tmdb.org/t/p/w500/bzLLeqhNBNmO6WImHrrmLNyhMxi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/otkJlfjB7zJ5h34FEIfemenMbCy.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/e4dOUF9wnKgRGglTsozEPOee9U4.png",
+  "titulo": "Depredador",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Acción",
+    "Aventura",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.554,
+  "año": "1987",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "Un grupo de mercenarios es contratado por la CIA para rescatar a unos pilotos que han sido apresados por la guerrilla en la selva centroamericana. La misión es un éxito, pero durante el viaje de regreso se dan cuenta de que algo misterioso e invisible está dándoles caza uno a uno. Ese algo resulta ser un cazador alienígena que se queda con las calaveras de sus víctimas como trofeos.",
+  "fecha_estreno": "1987-06-12",
+  "titulo_original": "Predator",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Arnold Schwarzenegger",
+      "personaje": "Major Alan \"Dutch\" Schaefer",
+      "foto": "https://image.tmdb.org/t/p/w500/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
+    },
+    {
+      "nombre": "Carl Weathers",
+      "personaje": "Al Dillon",
+      "foto": "https://image.tmdb.org/t/p/w500/9Tot1ywxTQA3vFCcAjyK6h9Dao3.jpg"
+    },
+    {
+      "nombre": "Kevin Peter Hall",
+      "personaje": "The Predator / Helicopter Pilot",
+      "foto": "https://image.tmdb.org/t/p/w500/wdW2sUAQPonZcQo8oDY1j60h7DP.jpg"
+    },
+    {
+      "nombre": "Elpidia Carrillo",
+      "personaje": "Anna Gonsalves",
+      "foto": "https://image.tmdb.org/t/p/w500/u8ZEUAUdVjUE8DTddv81rE1Qer7.jpg"
+    },
+    {
+      "nombre": "Bill Duke",
+      "personaje": "Mac Eliot",
+      "foto": "https://image.tmdb.org/t/p/w500/hZrYPwer5PeK77OEILkNWHVb3ss.jpg"
+    },
+    {
+      "nombre": "Jesse Ventura",
+      "personaje": "Blain Cooper",
+      "foto": "https://image.tmdb.org/t/p/w500/j1OaAOYJbelxGrFMzlwz6wfGaXA.jpg"
+    },
+    {
+      "nombre": "Sonny Landham",
+      "personaje": "Billy Sole",
+      "foto": "https://image.tmdb.org/t/p/w500/873kBnyYgm8xYyeb26EXdCGDgnv.jpg"
+    },
+    {
+      "nombre": "Richard Chaves",
+      "personaje": "Jorge \"Poncho\" Ramirez",
+      "foto": "https://image.tmdb.org/t/p/w500/leJa0My0VtHINCpmose619KXupp.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John McTiernan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lawrence Gordon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joel Silver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jim Thomas",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "John Thomas",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "John Davis",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alan Silvestri",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jackie Burch",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "John F. Link",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Donald McAlpine",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mark Helfrich",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John Vallone",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Marilyn Vance",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jeff Dawn",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "John Oteri",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Screaming Mad George",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Tony Holtham",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "William H. Burton Sr.",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "John McTiernan",
+  "valoraciones": {
+    "tmdb": 7.554,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Fox",
+  "enlace_video": "https://1a-1791.com/video/s8/2/G/c/C/K/GcCKl.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=SFoQL6gqhFM"
+}
