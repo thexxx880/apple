@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 672,
+  "poster": "https://image.tmdb.org/t/p/w500/d7lK3K1QWmcgjHyRMBV3rT2yzTM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/f79rol2Sf9xPhhTbgNeH6mhRNfL.png",
+  "titulo": "Harry Potter y la cámara secreta",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.704,
+  "año": "2002",
+  "duracion": "2h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Harry Potter se prepara para ir a Hogwarts cuando recibe a un elfo doméstico llamado Dobby, quién le advierte que corre en un gran peligro. Llegando a la escuela, sucesos inquietantes motiva a Harry y sus amigos, Ron y Hermione, a investigar lo que está sucediendo en Hogwarts.",
+  "fecha_estreno": "2002-11-13",
+  "titulo_original": "Harry Potter and the Chamber of Secrets",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Daniel Radcliffe",
+      "personaje": "Harry Potter",
+      "foto": "https://image.tmdb.org/t/p/w500/e64VeB4Mybwm2tOhyLY1h7XQQ8N.jpg"
+    },
+    {
+      "nombre": "Rupert Grint",
+      "personaje": "Ron Weasley",
+      "foto": "https://image.tmdb.org/t/p/w500/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "nombre": "Emma Watson",
+      "personaje": "Hermione Granger",
+      "foto": "https://image.tmdb.org/t/p/w500/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+    },
+    {
+      "nombre": "Kenneth Branagh",
+      "personaje": "Gilderoy Lockhart",
+      "foto": "https://image.tmdb.org/t/p/w500/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+    },
+    {
+      "nombre": "Toby Jones",
+      "personaje": "Dobby (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y6kLmjLgZ1sceaE4Zi1fwF0YsvZ.jpg"
+    },
+    {
+      "nombre": "Robbie Coltrane",
+      "personaje": "Rubeus Hagrid",
+      "foto": "https://image.tmdb.org/t/p/w500/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    },
+    {
+      "nombre": "Richard Harris",
+      "personaje": "Albus Dumbledore",
+      "foto": "https://image.tmdb.org/t/p/w500/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg"
+    },
+    {
+      "nombre": "Alan Rickman",
+      "personaje": "Severus Snape",
+      "foto": "https://image.tmdb.org/t/p/w500/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Columbus",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Steve Kloves",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Heyman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "J.K. Rowling",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "John Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Roger Pratt",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Peter Honess",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Karen Lindsay-Stewart",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Stuart Craig",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Andrew Ackland-Snow",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Mark Bartholomew",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Peter Francis",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Stephenie McMillan",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Lindy Hemming",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Clare Le Vesconte",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Chris Columbus",
+  "valoraciones": {
+    "tmdb": 7.704,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/F/A/3/L/FA3Lq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=nE11U5iBnH0"
+}
