@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>LzPlay</title>
+     <link rel="stylesheet" href="css/load.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
@@ -15,6 +16,7 @@
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
     <script src="js/firebase/applelz.js"></script>
+    <script src="js/components/load.js"></script>
     <script>
 firebase.auth().onAuthStateChanged(user => {
 
@@ -27,6 +29,19 @@ window.location.href =
 </script>
 </head>
 <body>
+    <div id="loader">
+    <div class="loader-glow"></div>
+
+    <img
+        src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3dK3-XAKrEia-lWmiUqAYRfFQ1lR9eJX6ZZH8e_vHf576qf9GJjIWBW9Jg5LsilXX7WO2MOEkg5gzc4pESziaPeMJ9ws9mwtCDdp3p_17D0e0Uop_ZxavwwJeNLBvoyZJ0cxTKQpjzrJIR6LjJslB24tj-77AYrRCacQ3F2S2VPoXpPzPhM1zndxyd1Rg/s3307/B64D5386-DCA4-410B-A0A6-6ACB19D0A06F.png"
+        alt="LzPlay"
+        class="loader-logo"
+    >
+
+    <div class="loader-bar">
+        <span></span>
+    </div>
+</div>
 <header id="main-header"></header>
  <section class="hero" id="hero">
         <div class="hero-content">
