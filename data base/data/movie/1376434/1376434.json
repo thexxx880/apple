@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 1376434,
+  "poster": "https://image.tmdb.org/t/p/w500/dTlMY8qQ0721i1r7kURqvM4T7us.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3AGZKVr2DPT9H53gYtkSEC1tK1E.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bwNt35kwuoK7T1VdRThDbGVBp7H.png",
+  "titulo": "Depredador: Cazador de asesinos",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.798,
+  "año": "2025",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "Esta antología animada original sigue a tres de los guerreros más feroces de la historia de la humanidad: una saqueadora vikinga que guía a su joven hijo en una sangrienta misión de venganza, un ninja del Japón feudal que se enfrenta a su hermano samurái en una brutal batalla por la sucesión, y un piloto de la Segunda Guerra Mundial que surca los cielos para investigar una amenaza de otro mundo que pone en riesgo a la causa aliada.",
+  "fecha_estreno": "2025-06-05",
+  "titulo_original": "Predator: Killer of Killers",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Lindsay LaVanchy",
+      "personaje": "Ursa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/izTspHKOpOAslVtlOsMv89o0rNe.jpg"
+    },
+    {
+      "nombre": "Louis Ozawa",
+      "personaje": "Kenji / Kiyoshi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Vyyw66FFslmfrgKauzUUoetC8F.jpg"
+    },
+    {
+      "nombre": "Rick Gonzalez",
+      "personaje": "Torres (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pVHDPq1a2oCZktgI3VumMRzGBd3.jpg"
+    },
+    {
+      "nombre": "Michael Biehn",
+      "personaje": "Vandy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    },
+    {
+      "nombre": "Doug Cockle",
+      "personaje": "Einar (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sQGrr2Sjn5o9hrKvcFEnCyTuNw4.jpg"
+    },
+    {
+      "nombre": "Damien C. Haas",
+      "personaje": "Anders (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kNW0wsbsigNkJi0lFHARo0GRZDa.jpg"
+    },
+    {
+      "nombre": "Lauren Holt",
+      "personaje": "Freya (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2dPQDpa9Q3tWUOlFiGspxFAOw6l.jpg"
+    },
+    {
+      "nombre": "Jeff Leach",
+      "personaje": "Ivar (voice)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Dan Trachtenberg",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Dan Trachtenberg",
+      "rol": "Story"
+    },
+    {
+      "nombre": "John Davis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Trachtenberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marc Toberoff",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ben Rosenblatt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Micho Rutare",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Micho Rutare",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jim Thomas",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "John Thomas",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Joshua Wassung",
+      "rol": "Co-Director"
+    },
+    {
+      "nombre": "Lawrence Gordon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jim Thomas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Thomas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stefan Grube",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jessica Sherman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Benjamin Wallfisch",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Stefan Grube",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jesse Harbold",
+      "rol": "First Assistant Editor"
+    },
+    {
+      "nombre": "Michelle Gold",
+      "rol": "Assistant Editor"
+    }
+  ],
+  "director": "Dan Trachtenberg",
+  "valoraciones": {
+    "tmdb": 7.798,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Studios",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/55/s8/2/p/t/V/Q/ptVQy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=6LxrgVndwgk"
+}
