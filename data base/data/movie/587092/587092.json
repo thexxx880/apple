@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 587092,
+  "poster": "https://image.tmdb.org/t/p/w500/joOEYpfltqoqkaiQio24TUTntGM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rbUPJoJJquPbX1AiV6GzOqcmJME.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/2lPJa7eGe5p2JrOVqP2tdCGN7aP.png",
+  "titulo": "Unicorn Wars",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Animación",
+    "Fantasía",
+    "Terror",
+    "Bélica"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.696,
+  "año": "2022",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "El ejército osito adoctrina a jóvenes reclutas para la guerra que libran contra los unicornios y amenaza la seguridad del pueblo osito. Los hermanos Azulín y Gordi, junto a un inexperto grupo de reclutas, serán enviados a una peligrosa misión para salvar el Bosque Mágico.",
+  "fecha_estreno": "2022-10-21",
+  "titulo_original": "Unicorn Wars",
+  "pais_origen": "Belgium",
+  "reparto": [
+    {
+      "nombre": "Jon Goiri",
+      "personaje": "Azulín (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Jaione Insausti",
+      "personaje": "Gordi (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Ramón Barea",
+      "personaje": "Narrador (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7KJMpbljybgVMhHuNosECDrzact.jpg"
+    },
+    {
+      "nombre": "Txema Regalado",
+      "personaje": "Padre (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Manu Heras",
+      "personaje": "Sargento Caricias / Papá (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Gaizka Soria",
+      "personaje": "Coco (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Iker Diaz",
+      "personaje": "Achuchones (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Estívaliz Lizárraga",
+      "personaje": "Pandi (voice)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Iván Miñambres",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chelo Loureiro",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alberto Vázquez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alberto Vázquez",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Shanti Bourse",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Fiona Cohen",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Iván Miñambres",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chelo Loureiro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Khris Cembe",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Estanis Bañuelos",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Khris Cembe",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Joseba Hernández",
+      "rol": "Colorist"
+    },
+    {
+      "nombre": "Nicolas Schmerkin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alberto Vázquez",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Joseba Beristain",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Alberto Vázquez",
+  "valoraciones": {
+    "tmdb": 7.696,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "UniKo",
+  "enlace_video": "https://1a-1791.com/video/s8/2/P/O/W/m/POWmt.caa.mp4?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=G_I23TmiHMc"
+}
