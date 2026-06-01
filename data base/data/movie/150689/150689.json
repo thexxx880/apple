@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 150689,
+  "poster": "https://image.tmdb.org/t/p/w500/9QLgQpooeU4UDIv5fDCJgVDl2tw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q7vmCCmyiHnuKGMzHZlr0fD44b9.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xBf8FQ5ozperL7NWIPQEj4R5Knu.png",
+  "titulo": "La Cenicienta",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Fantasía",
+    "Familia",
+    "Drama"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.8,
+  "año": "2015",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "A pesar del maltrato de su madrastra, Lady Tremaine, y sus hermanastras, Anastasia y Drisella, Ella se aferra a la bondad y la esperanza. Su vida da un giro inesperado cuando conoce al Príncipe Kit, sin saber su verdadera identidad. Con la ayuda de su Hada Madrina, Ella tendrá la oportunidad de cambiar su destino y descubrir su verdadero valor.",
+  "fecha_estreno": "2015-03-06",
+  "titulo_original": "Cinderella",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Lily James",
+      "personaje": "Cinderella",
+      "foto": "https://image.tmdb.org/t/p/w500/7UN8GVsDzccK9UVYzMx3hooLyzZ.jpg"
+    },
+    {
+      "nombre": "Cate Blanchett",
+      "personaje": "Stepmother, Lady Tremaine",
+      "foto": "https://image.tmdb.org/t/p/w500/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+    },
+    {
+      "nombre": "Richard Madden",
+      "personaje": "Prince",
+      "foto": "https://image.tmdb.org/t/p/w500/9QQFfVZ6PLe3WVmOL56wGNOnbGL.jpg"
+    },
+    {
+      "nombre": "Stellan Skarsgård",
+      "personaje": "Grand Duke",
+      "foto": "https://image.tmdb.org/t/p/w500/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+    },
+    {
+      "nombre": "Holliday Grainger",
+      "personaje": "Anastasia Tremaine",
+      "foto": "https://image.tmdb.org/t/p/w500/oAqAaZhpVTJJoYdfJdhkncICoFs.jpg"
+    },
+    {
+      "nombre": "Sophie McShera",
+      "personaje": "Drizella Tremaine",
+      "foto": "https://image.tmdb.org/t/p/w500/L6wVjwr01fSe2kL4xp6vEDwu72.jpg"
+    },
+    {
+      "nombre": "Derek Jacobi",
+      "personaje": "King",
+      "foto": "https://image.tmdb.org/t/p/w500/yHENzHZSVpnNrqsoATuDSMiQflf.jpg"
+    },
+    {
+      "nombre": "Helena Bonham Carter",
+      "personaje": "Fairy Godmother",
+      "foto": "https://image.tmdb.org/t/p/w500/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kenneth Branagh",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chris Weitz",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Charles Perrault",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Allison Shearmur",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Barron",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lucy Bevan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Martin Walsh",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Patrick Doyle",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Dante Ferretti",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Chris Benstead",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Mike Dowson",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Richard Pryke",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Steve Dent",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Patrick Ledda",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "François Dumoulin",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Charley Henley",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Katherine Tibbetts",
+      "rol": "Production Supervisor"
+    }
+  ],
+  "director": "Kenneth Branagh",
+  "valoraciones": {
+    "tmdb": 6.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/o/T/M/O/oTMOq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=n44EWI92Tc8"
+}
