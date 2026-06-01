@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 11917,
+  "poster": "https://image.tmdb.org/t/p/w500/fkb5iYclS18yvEBWkRLau3bKhnE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jIjVPKDow5ai8dbs4PgWmtqg9Ol.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1QIv1s6to1wYaLgbcdOOvdHYKDE.png",
+  "titulo": "El juego del miedo 5",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.173,
+  "año": "2008",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "Hoffman (Costas Mandylor) es la última persona viva para heredar el legado de Jigsaw (Tobin Bell). Pero cuando su secreto se ve amenazado, Hoffman debe iniciar la caza para eliminar todos los cabos sueltos. Nueva entrega de la saga dirigida por el diseñador de producción de las tres anteriores.",
+  "fecha_estreno": "2008-10-23",
+  "titulo_original": "Saw V",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tobin Bell",
+      "personaje": "John Kramer / Jigsaw",
+      "foto": "https://image.tmdb.org/t/p/w500/y5rppj4alNn2dYXR94DGp08baAx.jpg"
+    },
+    {
+      "nombre": "Costas Mandylor",
+      "personaje": "Mark Hoffman",
+      "foto": "https://image.tmdb.org/t/p/w500/yPkQdbhCj2EJM0cjDtkuJTlFp86.jpg"
+    },
+    {
+      "nombre": "Scott Patterson",
+      "personaje": "Agent Strahm",
+      "foto": "https://image.tmdb.org/t/p/w500/qTm0LFuV8DktunzKa5T3UZoq1tC.jpg"
+    },
+    {
+      "nombre": "Betsy Russell",
+      "personaje": "Jill Tuck",
+      "foto": "https://image.tmdb.org/t/p/w500/kXXYUAwC1HGTzIyyHEdw7WeXnuL.jpg"
+    },
+    {
+      "nombre": "Julie Benz",
+      "personaje": "Brit",
+      "foto": "https://image.tmdb.org/t/p/w500/avcCYkQjRM7qgE0MZ5VXcK3XcKz.jpg"
+    },
+    {
+      "nombre": "Meagan Good",
+      "personaje": "Luba",
+      "foto": "https://image.tmdb.org/t/p/w500/iwSNBQKKDhEbtNe8I4ROYoYmWqE.jpg"
+    },
+    {
+      "nombre": "Mark Rolston",
+      "personaje": "Dan Erickson",
+      "foto": "https://image.tmdb.org/t/p/w500/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
+    },
+    {
+      "nombre": "Carlo Rota",
+      "personaje": "Charles",
+      "foto": "https://image.tmdb.org/t/p/w500/rS0i9g7L0oLyIkCJ3w9GQzIT0Pr.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Hackl",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark Burg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gregg Hoffman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Oren Koules",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marcus Dunstan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Patrick Melton",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jane Rogers",
+      "rol": "Background Casting Director"
+    },
+    {
+      "nombre": "Billy Oliver",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Duncan McLeod",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Dwayne McLean",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Blair Johannes",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Susan Horton",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Shelley Cook",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Chad Camilleri",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Chad Camilleri",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Stephanie Gorin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Alex Kavanagh",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Anthony Ianni",
+      "rol": "Production Design"
+    }
+  ],
+  "director": "David Hackl",
+  "valoraciones": {
+    "tmdb": 6.173,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Twisted Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/f/5/f/X/f5fXs.aaa.mp4?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=J9TpHotLQk8"
+}
