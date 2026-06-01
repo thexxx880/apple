@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 39254,
+  "poster": "https://image.tmdb.org/t/p/w500/2iYS1XVm8vh5vokZhO3N4dtgODn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/48Nn0GQrtmH27EiaP36IiolamIl.png",
+  "titulo": "Gigantes de Acero",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Drama"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.092,
+  "año": "2011",
+  "duracion": "2h 6min",
+  "edad_minima": 13,
+  "sinopsis": "En un futuro no muy lejano el boxeo es robótico: en los combates ya no se enfrentan seres humanos, sino robots humanoides, sofisticadas máquinas diseñadas para luchar. Charlie Kenton, un antiguo boxeador que casi llegó a alcanzar la gloria, está pasando una mala racha como promotor de combates. Un día, encuentra un viejo robot desechado y, al comprobar que es un gran boxeador, decide entrenarlo.",
+  "fecha_estreno": "2011-09-28",
+  "titulo_original": "Real Steel",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Hugh Jackman",
+      "personaje": "Charlie Kenton",
+      "foto": "https://image.tmdb.org/t/p/w500/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg"
+    },
+    {
+      "nombre": "Dakota Goyo",
+      "personaje": "Max Kenton",
+      "foto": "https://image.tmdb.org/t/p/w500/xHfxZDILa8JRZu5OoaXKiDa781o.jpg"
+    },
+    {
+      "nombre": "Evangeline Lilly",
+      "personaje": "Bailey Tallet",
+      "foto": "https://image.tmdb.org/t/p/w500/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg"
+    },
+    {
+      "nombre": "Kevin Durand",
+      "personaje": "Ricky",
+      "foto": "https://image.tmdb.org/t/p/w500/hINvryvce5tpod6kTnUg9ZTH8wg.jpg"
+    },
+    {
+      "nombre": "Anthony Mackie",
+      "personaje": "Finn",
+      "foto": "https://image.tmdb.org/t/p/w500/kfTwOYr3iUucmYz8kPjhYy07G2Z.jpg"
+    },
+    {
+      "nombre": "Hope Davis",
+      "personaje": "Aunt Debra",
+      "foto": "https://image.tmdb.org/t/p/w500/dJb76YQDFmfJ6ptlvBvx0ZBP44C.jpg"
+    },
+    {
+      "nombre": "James Rebhorn",
+      "personaje": "Marvin",
+      "foto": "https://image.tmdb.org/t/p/w500/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+    },
+    {
+      "nombre": "Karl Yune",
+      "personaje": "Tak Mashido",
+      "foto": "https://image.tmdb.org/t/p/w500/4GI4p5aPfW0vI20IdJOcxD5BEqr.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Susan Montford",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Don Murphy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeremy Leven",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Dan Gilroy",
+      "rol": "Story"
+    },
+    {
+      "nombre": "John Gatins",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jack Rapke",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dean Zimmerman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Steven Spielberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Danny Elfman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Richard Hicks",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Steve Starkey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh McLaglen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mary McLaglen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Rubin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tom Meyer",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Kevin McTurk",
+      "rol": "Special Effects Technician"
+    }
+  ],
+  "director": "Shawn Levy",
+  "valoraciones": {
+    "tmdb": 7.092,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/Q/I/m/B/QImBt.caa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=obYuPJH2oTE"
+}
