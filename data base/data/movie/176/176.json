@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 176,
+  "poster": "https://image.tmdb.org/t/p/w500/ee9gOVGZmemoJiK6nG1tGkZv10L.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rvZkzOQqQosUIqupBsCdYQxpOf1.png",
+  "titulo": "El juego del miedo",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Misterio",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.421,
+  "año": "2004",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Adam se despierta encadenado a un tubo oxidado dentro de una decrépita cámara subterránea. A su lado, hay otra persona encadenada, el Dr. Lawrence Gordon. Entre ellos hay un hombre muerto. Ninguno de los dos sabe por qué está allí, pero tienen un casette con instrucciones para que el Dr. Gordon mate a Adam en un plazo de ocho horas. Recordando una investigación de asesinato llevada a cabo por un detective llamado Tapp, Gordon descubre que él y Adam son victimas de un psicópata conocido como Jigsaw. Sólo disponen de unas horas para desenredar el complicado rompecabezas en el que están inmersos.",
+  "fecha_estreno": "2004-10-01",
+  "titulo_original": "Saw",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tobin Bell",
+      "personaje": "John Kramer / Jigsaw",
+      "foto": "https://image.tmdb.org/t/p/w500/y5rppj4alNn2dYXR94DGp08baAx.jpg"
+    },
+    {
+      "nombre": "Cary Elwes",
+      "personaje": "Dr. Lawrence Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/9UszBdQJ9PmyBydIeIBxlStozhW.jpg"
+    },
+    {
+      "nombre": "Leigh Whannell",
+      "personaje": "Adam Radford",
+      "foto": "https://image.tmdb.org/t/p/w500/wvoTbsROOHfCqJ3Voe9zpal429L.jpg"
+    },
+    {
+      "nombre": "Danny Glover",
+      "personaje": "David Tapp",
+      "foto": "https://image.tmdb.org/t/p/w500/2PJbpI9AyuhG4SWUIDxZwuBnuMb.jpg"
+    },
+    {
+      "nombre": "Monica Potter",
+      "personaje": "Alison Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/jCFOlFAjNPMkX9pJF2Au0cquZ6v.jpg"
+    },
+    {
+      "nombre": "Ken Leung",
+      "personaje": "Detective Steven Sing",
+      "foto": "https://image.tmdb.org/t/p/w500/hpatUP6u74gkpDRmn9voNY9V43O.jpg"
+    },
+    {
+      "nombre": "Makenzie Vega",
+      "personaje": "Diana Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/yPJ11EdP5rggFUNorQtSCzIag9d.jpg"
+    },
+    {
+      "nombre": "Michael Emerson",
+      "personaje": "Zep Hindle",
+      "foto": "https://image.tmdb.org/t/p/w500/xOpr90SF1RCtjFNTu32nZQ90buY.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Wan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark Burg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gregg Hoffman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Oren Koules",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Leigh Whannell",
+      "rol": "Story"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Leigh Whannell",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Charlie Clouser",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "David A. Armstrong",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Kevin Greutert",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Amy Lippens",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jennifer L. Soulages",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Eleanor Sabaduquia",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Julie Berghoff",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Nanet Harty",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jonathan Miller",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Jonathan Miller",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Lark Bernini",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Peter Block",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "James Wan",
+  "valoraciones": {
+    "tmdb": 7.421,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Twisted Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/f/f/O/Y/ffOYs.aaa.mp4?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=0bHDblokwv0"
+}
