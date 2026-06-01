@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1930,
+  "poster": "https://image.tmdb.org/t/p/w500/4cw1Vpp68ec518BHiS6gfa3yDoU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/HVcza6tJtWFrLriuh3Ano4Vt46.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/fr6n8dnbqokUhreICh5eIuSXyJW.png",
+  "titulo": "El Sorprendente Hombre-Araña",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.736,
+  "año": "2012",
+  "duracion": "2h 16min",
+  "edad_minima": 13,
+  "sinopsis": "Peter Parker es un estudiante que fue abandonado por sus padres cuando era niño, quedando a cargo de su tío Ben y su tía May. Cuando Peter descubre un misterioso maletín perteneciente a su padre, comienza la búsqueda para entender la desaparición de sus padres, que lo lleva directamente al laboratorio en Oscorp del Dr. Curt Connors , ex compañero de trabajo de su padre.",
+  "fecha_estreno": "2012-06-23",
+  "titulo_original": "The Amazing Spider-Man",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Andrew Garfield",
+      "personaje": "Spider-Man / Peter Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
+    },
+    {
+      "nombre": "Emma Stone",
+      "personaje": "Gwen Stacy",
+      "foto": "https://image.tmdb.org/t/p/w500/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
+    },
+    {
+      "nombre": "Rhys Ifans",
+      "personaje": "The Lizard / Dr. Curt Connors",
+      "foto": "https://image.tmdb.org/t/p/w500/AfXRP33ncRunR83JPehZ06Kgh8e.jpg"
+    },
+    {
+      "nombre": "Denis Leary",
+      "personaje": "Captain Stacy",
+      "foto": "https://image.tmdb.org/t/p/w500/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+    },
+    {
+      "nombre": "Martin Sheen",
+      "personaje": "Uncle Ben",
+      "foto": "https://image.tmdb.org/t/p/w500/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
+    },
+    {
+      "nombre": "Sally Field",
+      "personaje": "Aunt May",
+      "foto": "https://image.tmdb.org/t/p/w500/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg"
+    },
+    {
+      "nombre": "Irrfan Khan",
+      "personaje": "Rajit Ratha",
+      "foto": "https://image.tmdb.org/t/p/w500/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg"
+    },
+    {
+      "nombre": "Campbell Scott",
+      "personaje": "Richard Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/lJCxZpQru76zBeuZGxc0Gm5Pm9y.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Marc Webb",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Tolmach",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Laura Ziskin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Vanderbilt",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Alvin Sargent",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Steve Kloves",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "James Vanderbilt",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ve Neill",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "John Schwartzman",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "James Horner",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Alan Edward Bell",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pietro Scalia",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Kym Barrett",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Grillo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Samantha MacIvor",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Jennifer Lamb",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Gary Archer",
+      "rol": "Prosthetics"
+    }
+  ],
+  "director": "Marc Webb",
+  "valoraciones": {
+    "tmdb": 6.736,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Entertainment",
+  "enlace_video": "https://rumble.com/hls-vod/778cz4/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=XmR5HlEPYiw"
+}
