@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 62177,
+  "poster": "https://image.tmdb.org/t/p/w500/iNmfdZ1UqYoccsUxfuQJDcZ7De5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qx9ts2hBYJrkIQxhryitxnLlm2u.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qpCyqK4J9nBh0l02MnZEYX4dI3I.png",
+  "titulo": "Valiente",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7,
+  "año": "2012",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Decidida a labrarse su propio camino en la vida, la princesa Mérida desafía una costumbre que siembra el caos en su reino. Al concedérsele un deseo, Mérida deberá confiar en su valentía y en su destreza con el arco para romper una bestial maldición.",
+  "fecha_estreno": "2012-06-21",
+  "titulo_original": "Brave",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Kelly Macdonald",
+      "personaje": "Merida (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+    },
+    {
+      "nombre": "Emma Thompson",
+      "personaje": "Elinor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
+    },
+    {
+      "nombre": "Billy Connolly",
+      "personaje": "Fergus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/imqsEA1EPet7OvHx80VfTYfFcWf.jpg"
+    },
+    {
+      "nombre": "Julie Walters",
+      "personaje": "The Witch (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+    },
+    {
+      "nombre": "Robbie Coltrane",
+      "personaje": "Lord Dingwall (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    },
+    {
+      "nombre": "Kevin McKidd",
+      "personaje": "Lord MacGuffin / Young MacGuffin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/KtmEKOSehmQ35JfGjEjpqlypbP.jpg"
+    },
+    {
+      "nombre": "Craig Ferguson",
+      "personaje": "Lord Macintosh (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mBxNrOxdQeM7bVBveE47Syj9ES6.jpg"
+    },
+    {
+      "nombre": "Peigi Barker",
+      "personaje": "Young Merida (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xwlTiTmOTvyhRYjAeYHOdxMgeZQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Irene Mecchi",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Katherine Sarafian",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brenda Chapman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Mark Andrews",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Brenda Chapman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark Andrews",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Brenda Chapman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Steve Purcell",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Carter Goodrich",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Pete Docter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Natalie Lyon",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Patrick Doyle",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Kevin Reher",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Robert Anderson",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Michael Phillis",
+      "rol": "Security"
+    },
+    {
+      "nombre": "Steve Pilcher",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Teresa Eckton",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Mark Thomas Henne",
+      "rol": "Simulation & Effects Artist"
+    },
+    {
+      "nombre": "Thomas Moser",
+      "rol": "Simulation & Effects Artist"
+    },
+    {
+      "nombre": "Olivier Soares",
+      "rol": "Simulation & Effects Artist"
+    }
+  ],
+  "director": "Mark Andrews",
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://1a-1791.com/video/s8/2/S/y/9/T/Sy9Tt.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=OKdLpBLp3nM"
+}
