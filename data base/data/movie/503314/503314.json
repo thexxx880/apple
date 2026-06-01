@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 503314,
+  "poster": "https://image.tmdb.org/t/p/w500/ylSduoEUU750sTT7De088flcymS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Dnk4iSqqNkZBJBPeFdAegTaxD5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/oSlxmPh8KXcXoBiKiIIDsRFe1TI.svg",
+  "titulo": "Dragon Ball Super: Broly",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Animación"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.922,
+  "año": "2018",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "La Tierra se encuentra en paz luego de disputarse el Torneo del Poder. Al darse cuenta de que en el universo aún hay personas extremadamente fuertes, Goku pasa los días entrenando para alcanzar un nivel superior. Pero un día, Goku y Vegeta son confrontados por un misterioso Saiyajin llamado Broly. La raza Saiyajin debería haberse extinguido por completo tras la destrucción del Planeta Vegeta, pero entonces, ¿qué está haciendo en la Tierra? Freezer, que ha regresado del infierno, está involucrado nuevamente y el encuentro entre estos tres Saiyajins, que han tenido un destino totalmente diferente, se convertirá en una batalla feroz.",
+  "fecha_estreno": "2018-12-14",
+  "titulo_original": "ドラゴンボール超 ブロリー",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "Masako Nozawa",
+      "personaje": "Son Goku / Son Goten / Bardock (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+    },
+    {
+      "nombre": "Aya Hisakawa",
+      "personaje": "Bulma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5asVy8H7VSDQKVdURubT0QHjsld.jpg"
+    },
+    {
+      "nombre": "Ryō Horikawa",
+      "personaje": "Vegeta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vZ69WQJfR5D2xow5FkddduRjq6c.jpg"
+    },
+    {
+      "nombre": "古川登志夫",
+      "personaje": "Piccolo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg"
+    },
+    {
+      "nombre": "Takeshi Kusao",
+      "personaje": "Trunks (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gDiYLUdl9zXXJmhE0bAuB1Jm3FJ.jpg"
+    },
+    {
+      "nombre": "中尾隆聖",
+      "personaje": "Frieza (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fsxlwNIWj7taqpXRYETmXFk0x1P.jpg"
+    },
+    {
+      "nombre": "山寺宏一",
+      "personaje": "Beerus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+    },
+    {
+      "nombre": "森田成一",
+      "personaje": "Whis (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "長峯達也",
+      "rol": "Director"
+    },
+    {
+      "nombre": "臼井裕詞",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "鈴木篤志",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Akira Toriyama",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Akira Toriyama",
+      "rol": "Story"
+    },
+    {
+      "nombre": "林田師博",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "冨永理生子",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "森佳佑",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "林祐己",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "志田直俊",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "舘直樹",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "高橋優也",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "高橋優也",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Naohiro Shintani",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "橋本敬史",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "須江信人",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "Kazuya Karasawa",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "三塚雅人",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "西村睦弘",
+      "rol": "Sound Effects"
+    }
+  ],
+  "director": "長峯達也",
+  "valoraciones": {
+    "tmdb": 7.922,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Toei Company",
+  "enlace_video": "https://1a-1791.com/video/s8/2/v/0/H/0/v0H0s.aaa.mp4?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=1GtIJsvIFAQ"
+}
