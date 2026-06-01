@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 679,
+  "poster": "https://image.tmdb.org/t/p/w500/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/b9rfPHx7qURf8uUo0CvQeTpJ8vJ.png",
+  "titulo": "Aliens: El Regreso",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.963,
+  "año": "1986",
+  "duracion": "2h 17min",
+  "edad_minima": 13,
+  "sinopsis": "La teniente Ripley regresa al planeta alienígena LV-426 con un equipo de marines para investigar la desaparición de una colonia. Pronto descubren que están en medio de un enfrentamiento con los letales xenomorfos. Es una batalla por la supervivencia mientras luchan contra estas criaturas y la corrupta Corporación Weyland-Yutani.",
+  "fecha_estreno": "1986-07-18",
+  "titulo_original": "Aliens",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sigourney Weaver",
+      "personaje": "Ripley",
+      "foto": "https://image.tmdb.org/t/p/w500/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "nombre": "Carrie Henn",
+      "personaje": "Newt",
+      "foto": "https://image.tmdb.org/t/p/w500/iNaYp4liKvKsEZp5g5xjd94OFCz.jpg"
+    },
+    {
+      "nombre": "Michael Biehn",
+      "personaje": "Corporal Hicks",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    },
+    {
+      "nombre": "Paul Reiser",
+      "personaje": "Burke",
+      "foto": "https://image.tmdb.org/t/p/w500/rGryzG00uSk8LsidacSBXVgo3iv.jpg"
+    },
+    {
+      "nombre": "Lance Henriksen",
+      "personaje": "Bishop",
+      "foto": "https://image.tmdb.org/t/p/w500/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg"
+    },
+    {
+      "nombre": "Bill Paxton",
+      "personaje": "Private Hudson",
+      "foto": "https://image.tmdb.org/t/p/w500/aLdNe6mt1cSi2zWlUYRregzfis5.jpg"
+    },
+    {
+      "nombre": "William Hope",
+      "personaje": "Lieutenant Gorman",
+      "foto": "https://image.tmdb.org/t/p/w500/blKMEeCftWVBPI2hqvzycmdE9nS.jpg"
+    },
+    {
+      "nombre": "Jenette Goldstein",
+      "personaje": "Private Vasquez",
+      "foto": "https://image.tmdb.org/t/p/w500/4YZVLLWEFtxPLaOAlndfzxH1WG1.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gale Anne Hurd",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Giler",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Walter Hill",
+      "rol": "Story"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bill Damaschke",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Fred Hole",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ray Lovejoy",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Lamont",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Crispian Sallis",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Emma Porteous",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Adrian Biddle",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Bert Davey",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ken Court",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Michael Clifford",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "James Horner",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Peter Lamont",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Brian Johnson",
+      "rol": "Special Effects"
+    }
+  ],
+  "director": "James Cameron",
+  "valoraciones": {
+    "tmdb": 7.963,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "SLM Production Group",
+  "enlace_video": "https://1a-1791.com/video/s8/2/v/O/C/P/vOCPt.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=8OxirbuHsBA"
+}
