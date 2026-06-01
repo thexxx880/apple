@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 557,
+  "poster": "https://image.tmdb.org/t/p/w500/or6XJBVpcEbIkma0V9zshnbEtx4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/fM5ni6WfBflgwTrab7Oqk9Vh5M.png",
+  "titulo": "El hombre araña",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.329,
+  "año": "2002",
+  "duracion": "2h 1min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando es mordido por una araña genéticamente modificada, un estudiante de secundaria nerd, tímido y torpe, adquiere habilidades parecidas a las de una araña que eventualmente debe usar para luchar contra el mal como un superhéroe después de que la tragedia cae sobre su familia.",
+  "fecha_estreno": "2002-05-01",
+  "titulo_original": "Spider-Man",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tobey Maguire",
+      "personaje": "Spider-Man / Peter Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+    },
+    {
+      "nombre": "Willem Dafoe",
+      "personaje": "Green Goblin / Norman Osborn",
+      "foto": "https://image.tmdb.org/t/p/w500/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "nombre": "Kirsten Dunst",
+      "personaje": "Mary Jane Watson",
+      "foto": "https://image.tmdb.org/t/p/w500/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+    },
+    {
+      "nombre": "James Franco",
+      "personaje": "Harry Osborn",
+      "foto": "https://image.tmdb.org/t/p/w500/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+    },
+    {
+      "nombre": "Cliff Robertson",
+      "personaje": "Ben Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/8pH2RWCPtXKzT9P33MbzgnzPlF0.jpg"
+    },
+    {
+      "nombre": "Rosemary Harris",
+      "personaje": "May Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/3Mu02enwaF8dFuT195f7esILXns.jpg"
+    },
+    {
+      "nombre": "J.K. Simmons",
+      "personaje": "J. Jonah Jameson",
+      "foto": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+      "nombre": "Joe Manganiello",
+      "personaje": "Flash Thompson",
+      "foto": "https://image.tmdb.org/t/p/w500/mTdACmitdrwor0Nrv5sr0u123vZ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ian Bryce",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Laura Ziskin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Koepp",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sam Raimi",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Francine Maisler",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Arthur Coburn",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Tony Fanning",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Stella Vaccaro",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Neil Spisak",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Bob Murawski",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "James Acheson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Danny Elfman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Karen O'Hara",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Don Burgess",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Stephen Hunter Flick",
+      "rol": "Sound Designer"
+    }
+  ],
+  "director": "Sam Raimi",
+  "valoraciones": {
+    "tmdb": 7.329,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Enterprises",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/66/s8/2/8/t/T/l/8tTlA.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=t06RUxPbp_c"
+}
