@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 299536,
+  "poster": "https://image.tmdb.org/t/p/w500/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6SH4ANv9KvArYxdJ2TDvSJCvGhG.png",
+  "titulo": "Avengers: Infinity War",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 8.236,
+  "año": "2018",
+  "duracion": "2h 29min",
+  "edad_minima": 13,
+  "sinopsis": "Los Vengadores y sus aliados deben estar dispuestos a sacrificarlo todo para intentar derrotar al poderoso Thanos antes de que su ataque de devastación y ruina ponga fin al universo.",
+  "fecha_estreno": "2018-04-25",
+  "titulo_original": "Avengers: Infinity War",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Robert Downey Jr.",
+      "personaje": "Tony Stark / Iron Man",
+      "foto": "https://image.tmdb.org/t/p/w500/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "nombre": "Chris Evans",
+      "personaje": "Steve Rogers / Captain America",
+      "foto": "https://image.tmdb.org/t/p/w500/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "nombre": "Chris Hemsworth",
+      "personaje": "Thor",
+      "foto": "https://image.tmdb.org/t/p/w500/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "nombre": "Josh Brolin",
+      "personaje": "Thanos",
+      "foto": "https://image.tmdb.org/t/p/w500/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "nombre": "Mark Ruffalo",
+      "personaje": "Bruce Banner / Hulk",
+      "foto": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "nombre": "Scarlett Johansson",
+      "personaje": "Natasha Romanoff / Black Widow",
+      "foto": "https://image.tmdb.org/t/p/w500/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "nombre": "Don Cheadle",
+      "personaje": "James Rhodes / War Machine",
+      "foto": "https://image.tmdb.org/t/p/w500/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+    },
+    {
+      "nombre": "Benedict Cumberbatch",
+      "personaje": "Doctor Strange",
+      "foto": "https://image.tmdb.org/t/p/w500/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Stephen McFeely",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Christopher Markus",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joe Russo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Anthony Russo",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Paul Schneider",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "John David Duncan",
+      "rol": "Assistant Set Decoration"
+    },
+    {
+      "nombre": "Jwaundace Candece",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Scott Loeser",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Glenn Foster",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "CC Ice",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Michael Sims",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Aaron Toney",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Amber Whelan",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Steven Atkinson",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Shauna Galligan",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Anthony N.",
+      "rol": "Utility Stunts"
+    }
+  ],
+  "director": "Joe Russo",
+  "valoraciones": {
+    "tmdb": 8.236,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/P/3/u/f/P3ufr.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=-f5PwE_Q8Fs"
+}
