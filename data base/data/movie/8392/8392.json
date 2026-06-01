@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 8392,
+  "poster": "https://image.tmdb.org/t/p/w500/uu6RaEAfkIQaolf20axWaRU4h3w.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9EZz40J9JOWJnWK1cGG7uCNEW8s.png",
+  "titulo": "Mi vecino Totoro",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8.062,
+  "año": "1988",
+  "duracion": "1h 26min",
+  "edad_minima": 13,
+  "sinopsis": "Dos chicas jóvenes, Mei y Satsuki, se mudan a una nueva casa cerca del hospital en el que se encuentra su madre. En el patio junto a la casa ,existe un gran árbol que es el hogar de tres Totoros, dioses de la selva. Poco después, reciben noticias desde el hospital de que su madre no puede venir a casa como había prometido, por lo que Mei (la más joven) se escapa para ir a visitarla. Satsuki tiene que recurrir a un Totoro para ayudar a encontrarla.",
+  "fecha_estreno": "1988-04-16",
+  "titulo_original": "となりのトトロ",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "日髙のり子",
+      "personaje": "Satsuki Kusakabe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/43OuwsjqGf7JxpFpUvB75OdDDXQ.jpg"
+    },
+    {
+      "nombre": "坂本千夏",
+      "personaje": "Mei Kusakabe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lIIwnLmcgGpifpRflBq0kLW9EpK.jpg"
+    },
+    {
+      "nombre": "高木均",
+      "personaje": "Totoro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lQWkgAGIdJ3Q93xI95ke6LZfzHW.jpg"
+    },
+    {
+      "nombre": "糸井重里",
+      "personaje": "Tatsuo Kusakabe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2V17CMIcxb6JEHT5Qp3FKdlHUoE.jpg"
+    },
+    {
+      "nombre": "Sumi Shimamoto",
+      "personaje": "Yasuko Kusakabe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iKIDv2VFpAgzJ0uMQi7pzcMHB9i.jpg"
+    },
+    {
+      "nombre": "北林谷栄",
+      "personaje": "Granny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vGG6ErgXfrZuRsVfDP3Po3XReST.jpg"
+    },
+    {
+      "nombre": "雨笠利幸",
+      "personaje": "Kanta Ogaki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7DK21dlVcsltO92rcTq5BpZ2J7j.jpg"
+    },
+    {
+      "nombre": "丸山優子",
+      "personaje": "Kanta's Mother (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fmzNKKcuVpdT2xfdlpk8PAI5kSX.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Hayao Miyazaki",
+      "rol": "Director"
+    },
+    {
+      "nombre": "原徹",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "鈴木敏夫",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hayao Miyazaki",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "徳間康快",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "久石譲",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "瀬山武司",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "男鹿和雄",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "山川浩臣",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "大塚伸治",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "伊奈淳子",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "金子英俊",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "木村真二",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "コマサ",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "松室剛",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "松岡聡",
+      "rol": "Background Designer"
+    }
+  ],
+  "director": "Hayao Miyazaki",
+  "valoraciones": {
+    "tmdb": 8.062,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Studio Ghibli",
+  "enlace_video": "https://1a-1791.com/video/s8/2/X/o/V/T/XoVTl.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=HaLISMAGdOE"
+}
