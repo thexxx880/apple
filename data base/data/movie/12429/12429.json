@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 12429,
+  "poster": "https://image.tmdb.org/t/p/w500/zSbeQ5DQ2z4TKoazh1I613cNxj4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/shqLeIkqPAAXM8iT6wVDiXUYz1p.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/lWOG1L2w2FeUwuDJX5xmUupZO2m.png",
+  "titulo": "Ponyo y el secreto de la sirenita",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Fantasía",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.754,
+  "año": "2008",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "La historia se centra en Sosuke, un niño de 5 años, y su relación con una princesa pez que ansía convertirse en un ser humano. Libre adaptación de \"La sirenita\" que obtuvo muy buena acogida de la crítica en el Festival de Venecia 2008.",
+  "fecha_estreno": "2008-07-19",
+  "titulo_original": "崖の上のポニョ",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "神月柚莉愛",
+      "personaje": "Ponyo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tCI0CLCBXFme17d8aiyc7oxiwlC.jpg"
+    },
+    {
+      "nombre": "土井洋輝",
+      "personaje": "Sosuke (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zWcRrhmnXjJosEhAp9KJUBICqSW.jpg"
+    },
+    {
+      "nombre": "所ジョージ",
+      "personaje": "Fujimoto (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bndtzl3ghsdYqjgGqsmp4oUtxtw.jpg"
+    },
+    {
+      "nombre": "山口智子",
+      "personaje": "Risa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/a6g8bSRKeKkFR7A1NP7mMTG3VSe.jpg"
+    },
+    {
+      "nombre": "天海祐希",
+      "personaje": "Gran Mamare (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/h5OODF0k6lOomoA6T4BzyqFTcdL.jpg"
+    },
+    {
+      "nombre": "長嶋一茂",
+      "personaje": "Koichi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vfC3O4DPPXI5RWnUmne1w25uOJf.jpg"
+    },
+    {
+      "nombre": "矢野顕子",
+      "personaje": "Ponyo's Sister (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hvxKBkHN0ycCRR5agukqq0bgldL.jpg"
+    },
+    {
+      "nombre": "羽鳥慎一",
+      "personaje": "Anchorman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hU5C3QKuzZH1kTeuPCgjYds6EXk.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "鈴木敏夫",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hayao Miyazaki",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Hayao Miyazaki",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "山口美香",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "木村絵理子",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "井上秀司",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "吉田昇",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "瀬山武司",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "星野康二",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "奥井敦",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "西川洋一",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "横田匡史",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "福山亮一",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "杉野左秩子",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "渡邊洋一",
+      "rol": "Background Designer"
+    }
+  ],
+  "director": "Hayao Miyazaki",
+  "valoraciones": {
+    "tmdb": 7.754,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Studio Ghibli",
+  "enlace_video": "https://1a-1791.com/video/s8/2/L/j/A/a/LjAat.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=h6XP82TyFWw"
+}
