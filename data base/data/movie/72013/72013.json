@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 72013,
+  "poster": "https://image.tmdb.org/t/p/w500/qe34eoNN6JwzxLUU0SBodK2hYC9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/89z0QrU5Wepd9Je4klPq1uUzEC1.jpg",
+  "logo": null,
+  "titulo": "Yu-Gi-Oh! - Lazos más allá del tiempo",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.567,
+  "año": "2010",
+  "duracion": "0h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Tras caer en un agujero temporal, Yusei Fudo se encuentra a Judai Yuki y Yugi Muto, que acuerdan ayudar a Yusei a derrotar al malvado Paradox que quiere acabar con Pegasus, antes de que invente Duelo de Monstruos. Película realizada por el 10º aniversario de la franquicia Yu-Gi-Oh!",
+  "fecha_estreno": "2010-01-23",
+  "titulo_original": "劇場版 遊☆戯☆王 ～超融合！時空を越えた絆～",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "宮下雄也",
+      "personaje": "Yusei Fudo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8i7dfkNB7wQUlENkLXAqQaMcodR.jpg"
+    },
+    {
+      "nombre": "KENN",
+      "personaje": "Judai Yuki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y7Gtn1PchXJ1MxmUxU9jtt138EO.jpg"
+    },
+    {
+      "nombre": "風間俊介",
+      "personaje": "Yugi Mutou / Yami Yugi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/t79dfh9bC0XlYbkCMsKGRotlFaI.jpg"
+    },
+    {
+      "nombre": "田村淳",
+      "personaje": "Paradox (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5czRdtrFK6sKexPOeohprtakowG.jpg"
+    },
+    {
+      "nombre": "高杉'Jay'二郎",
+      "personaje": "Pegasus J. Crawford (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9ZEo1JVbGEY09msnnNh4LZ9X5QG.jpg"
+    },
+    {
+      "nombre": "星野貴紀",
+      "personaje": "Jack Atlas (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ypoZIKRueZs3Fo8zxxe65O7Qwt.jpg"
+    },
+    {
+      "nombre": "浅沼晋太郎",
+      "personaje": "Crow Hogan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5D2YC0c4zg9TXyOi0PpIXRugvzb.jpg"
+    },
+    {
+      "nombre": "木下あゆ美",
+      "personaje": "Aki Izayoi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hhiqK6PiSlq2LcIiL4OvJsgZjtl.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "竹下健一",
+      "rol": "Director"
+    },
+    {
+      "nombre": "吉田伸",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "田村明彦",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "佐々木亮",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "山﨑立志",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "実松照晃",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "石田慶一",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "大木賢一",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "徳田夢之介",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "飯村真一",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "小丸敏之",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "市野瀬亜由美",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "小笠原綾乃",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "加々美高浩",
+      "rol": "Supervising Animation Director"
+    },
+    {
+      "nombre": "佐藤恵",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Yukie Akiya",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "田中ちゆき",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Tomohiro Matsumaru",
+      "rol": "Key Animation"
+    }
+  ],
+  "director": "竹下健一",
+  "valoraciones": {
+    "tmdb": 6.567,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "NAS",
+  "enlace_video": "https://rumble.com/hls-vod/78h6bm/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=sIlDL2AsPSg"
+}
