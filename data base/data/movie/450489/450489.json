@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 450489,
+  "poster": "https://image.tmdb.org/t/p/w500/zEak97hxXEdgwm2Z22tUGoR4NlC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/A29oACLcWmIo8RDzNH7GNQziBbG.jpg",
+  "logo": null,
+  "titulo": "Y nadie más que tú",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.938,
+  "año": "2018",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Abbie y Sam, almas gemelas desde la edad de 8, se destinaron para estar juntos para siempre hasta que las complicaciones entren en el camino.",
+  "fecha_estreno": "2018-02-16",
+  "titulo_original": "Irreplaceable You",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Gugu Mbatha-Raw",
+      "personaje": "Abbie",
+      "foto": "https://image.tmdb.org/t/p/w500/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+    },
+    {
+      "nombre": "Michiel Huisman",
+      "personaje": "Sam",
+      "foto": "https://image.tmdb.org/t/p/w500/4QQp2HIrBubKSBZpSWLzI21fNzA.jpg"
+    },
+    {
+      "nombre": "Steve Coogan",
+      "personaje": "Mitch",
+      "foto": "https://image.tmdb.org/t/p/w500/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+    },
+    {
+      "nombre": "Timothy Simons",
+      "personaje": "Dominic",
+      "foto": "https://image.tmdb.org/t/p/w500/upav8HyWsF6ksAkvogEhR9sBlNN.jpg"
+    },
+    {
+      "nombre": "Jacki Weaver",
+      "personaje": "Estelle",
+      "foto": "https://image.tmdb.org/t/p/w500/zalCqZnNQMKseFmwQwOlLrl3w2P.jpg"
+    },
+    {
+      "nombre": "Kate McKinnon",
+      "personaje": "Glass Half Full Kate",
+      "foto": "https://image.tmdb.org/t/p/w500/2cNetzianFcxPQbyOQnkAIkKUZE.jpg"
+    },
+    {
+      "nombre": "Christopher Walken",
+      "personaje": "Myron",
+      "foto": "https://image.tmdb.org/t/p/w500/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    },
+    {
+      "nombre": "Zach Cherry",
+      "personaje": "Jim",
+      "foto": "https://image.tmdb.org/t/p/w500/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Stephanie Laing",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Farah Abushwesha",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Robbins",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jonathan Tropper",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Stephanie Laing",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Kaplan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bess Wohl",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kelsey McCullagh",
+      "rol": "Assistant Makeup Artist"
+    },
+    {
+      "nombre": "Joe Klotz",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Christie Colliopoulos",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Giovanna Trischitta",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michele Ganeless",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Scott Spencer Miller",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Magdalena Górka",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Deirdre Slevin",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sherry Thomas",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Whitney Anne Adams",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Seven Andrew Moore",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Brian O'Shea",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Stephanie Laing",
+  "valoraciones": {
+    "tmdb": 6.938,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Rocliffe",
+  "enlace_video": "https://1a-1791.com/video/s8/2/x/d/4/Z/xd4Zq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=LKnQVCCX8vU"
+}
