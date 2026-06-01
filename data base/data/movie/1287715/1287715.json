@@ -1,0 +1,81 @@
+{
+  "id_tmdb": 1287715,
+  "poster": "https://image.tmdb.org/t/p/w500/iDWHM93ySgfW172ygXXdsoWTkmg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uFpifg7ze4xY23w4Qlt1JbS4SYV.jpg",
+  "logo": null,
+  "titulo": "Deadly Invitations",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Terror",
+    "Película de TV"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 4,
+  "año": "2024",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2024-05-09",
+  "titulo_original": "Deadly Invitations",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Natalie Brown",
+      "personaje": "Alex",
+      "foto": "https://image.tmdb.org/t/p/w500/2q0LPb7pTGAADUD2UJDtudCwPX5.jpg"
+    },
+    {
+      "nombre": "Lola Flanery",
+      "personaje": "Nicole",
+      "foto": "https://image.tmdb.org/t/p/w500/kTGN0XEuKL0m1UayuxcZ8dedXmo.jpg"
+    },
+    {
+      "nombre": "Marnie Mahannah",
+      "personaje": "Rachel",
+      "foto": "https://image.tmdb.org/t/p/w500/bzruhttEqD86Le9dB1KqqCU7fVA.jpg"
+    },
+    {
+      "nombre": "Nik Andrews",
+      "personaje": "Gabe",
+      "foto": "https://image.tmdb.org/t/p/w500/nMWeI8INOoPpJA62QBQWFaLuFWI.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Monika Mitchell",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Miriam Lyapin",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Helen Marsh",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kent Rock",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Miriam Lyapin",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Christina Sturgeon",
+      "rol": "Associate Producer"
+    }
+  ],
+  "director": "Monika Mitchell",
+  "valoraciones": {
+    "tmdb": 4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Invite Productions",
+  "enlace_video": "https://1a-1791.com/video/s8/2/1/3/d/T/13dTs.baa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=hAg4bskwSt4"
+}
