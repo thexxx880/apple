@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 38575,
+  "poster": "https://image.tmdb.org/t/p/w500/tHoASPhXRGJM6XFvDooJHIFcP3r.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/v8DepuF6gizphLzIyNZeQiB0hij.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9H1CtSxDg2vCOGxMyHqPDPe2VcZ.png",
+  "titulo": "Karate Kid",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.567,
+  "año": "2010",
+  "duracion": "2h 20min",
+  "edad_minima": 13,
+  "sinopsis": "Dre Parker podría haber sido el más popular en Detroit, pero la carrera profesional de su madre los lleva a ambos a China. Allí logra hacer conexión con su compañera de clase Mei Ying y el sentimiento es mutuo, hasta que las diferencias culturales hacen que su amistad sea imposible. Para que la situación empeore, Dre se consigue un enemigo, el peleonero de la clase, Cheng. Dre no tiene amigos a quién acudir, excepto el encargado de mantenimiento, el Sr. Han.",
+  "fecha_estreno": "2010-06-10",
+  "titulo_original": "The Karate Kid",
+  "pais_origen": "China",
+  "reparto": [
+    {
+      "nombre": "Jaden Smith",
+      "personaje": "Dre Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/aXCn1kRjs4sZS55xSrdmjbht7SM.jpg"
+    },
+    {
+      "nombre": "Jackie Chan",
+      "personaje": "Mr. Han",
+      "foto": "https://image.tmdb.org/t/p/w500/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "nombre": "Taraji P. Henson",
+      "personaje": "Sherry Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/jUU2X9mDwJaAniEmJOfvImBS9qb.jpg"
+    },
+    {
+      "nombre": "Wenwen Han",
+      "personaje": "Meiying",
+      "foto": "https://image.tmdb.org/t/p/w500/86LJVLV4qcF2g6SxfDlqW1lkzZB.jpg"
+    },
+    {
+      "nombre": "王振威",
+      "personaje": "Cheng",
+      "foto": "https://image.tmdb.org/t/p/w500/bXVR7TbR8xXBT1fAwCAgLmbubq1.jpg"
+    },
+    {
+      "nombre": "于荣光",
+      "personaje": "Master Li",
+      "foto": "https://image.tmdb.org/t/p/w500/qRPhrqPLYvca6Wdv9lMxwEm7ZD6.jpg"
+    },
+    {
+      "nombre": "Wu Zhensu",
+      "personaje": "Meiying's Dad",
+      "foto": "https://image.tmdb.org/t/p/w500/rW5biwaC3qIaHjcX14UfWodDNG.jpg"
+    },
+    {
+      "nombre": "王姬",
+      "personaje": "Mrs. Po",
+      "foto": "https://image.tmdb.org/t/p/w500/ib7CzBRaL0PtAGkaquGGFmpK6OX.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Harald Zwart",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Christopher Murphey",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Robert Mark Kamen",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jada Pinkett Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Will Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ken Stovitz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Lassiter",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jerry Weintraub",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dany Wolf",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Susan Ekins",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "韩三平",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Solon So Chi-Hung",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "James Horner",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Han Feng",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Joel Negron",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Roger Pratt",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "François Séguin",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Zoe Thompson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "PoPing AuYeung",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Pilar McCurry",
+      "rol": "Music Supervisor"
+    }
+  ],
+  "director": "Harald Zwart",
+  "valoraciones": {
+    "tmdb": 6.567,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Jerry Weintraub Productions",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/45/s8/2/6/q/w/p/6qwpy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=vKC4q9Gialo"
+}
