@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 6479,
+  "poster": "https://image.tmdb.org/t/p/w500/gTixr9G9qFllyCpcON4gOV2aC2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aTLq0TMKdsmIy1ZyFM1LfPs326d.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5GE4jq5bgR4HzkVXw7BIdRjirk0.png",
+  "titulo": "Soy Leyenda",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.215,
+  "año": "2007",
+  "duracion": "1h 44min",
+  "edad_minima": 13,
+  "sinopsis": "Año 2012. Robert Neville es el último hombre vivo que hay sobre la Tierra, pero no está solo. Los demás seres humanos se han convertido en unos mutantes nocturnos llamados “Darkseekers” y todos ansían beber su sangre. Durante el día vive en estado de alerta, como un cazador, y busca a los muertos vivientes mientras duermen; pero durante la noche debe esconderse de ellos y esperar el amanecer. Esta pesadilla empezó hace tres años: Neville era un brillante científico, pero no pudo impedir la expansión de un terrible virus creado por el hombre. Él ha sobrevivido porque es inmune al virus; todos los días envía mensajes por radio con la esperanza de que haya otros supervivientes, pero es inútil. Lo único que puede hacer es buscar una fórmula que le permita utilizar su sangre inmune para devolverles a los hombres su naturaleza. Pero está en inferioridad de condiciones y el tiempo se acaba.",
+  "fecha_estreno": "2007-12-12",
+  "titulo_original": "I Am Legend",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Will Smith",
+      "personaje": "Robert Neville",
+      "foto": "https://image.tmdb.org/t/p/w500/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+    },
+    {
+      "nombre": "Alice Braga",
+      "personaje": "Anna Montez",
+      "foto": "https://image.tmdb.org/t/p/w500/d9JdgvUiqyWuGQLmozNfGZOpIBz.jpg"
+    },
+    {
+      "nombre": "Charlie Tahan",
+      "personaje": "Ethan",
+      "foto": "https://image.tmdb.org/t/p/w500/isCdDBAxrSOjugK3HjgESi6rXcn.jpg"
+    },
+    {
+      "nombre": "Dash Mihok",
+      "personaje": "Alpha Male",
+      "foto": "https://image.tmdb.org/t/p/w500/jnruNUJv57nNtO66SR3oJ5tQuM5.jpg"
+    },
+    {
+      "nombre": "Salli Richardson-Whitfield",
+      "personaje": "Zoe Neville",
+      "foto": "https://image.tmdb.org/t/p/w500/wMQaIzY5kyRQd8UwF1lphKK6oQm.jpg"
+    },
+    {
+      "nombre": "Willow Smith",
+      "personaje": "Marley Neville",
+      "foto": "https://image.tmdb.org/t/p/w500/gXZnwJlPJet90CtW9BbI3JkXpRn.jpg"
+    },
+    {
+      "nombre": "Emma Thompson",
+      "personaje": "Dr. Alice Krippin",
+      "foto": "https://image.tmdb.org/t/p/w500/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
+    },
+    {
+      "nombre": "Darrell Foster",
+      "personaje": "Mike - Military Escort",
+      "foto": "https://image.tmdb.org/t/p/w500/w7uws68GndS8KEP63qcbD0miEMu.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Francis Lawrence",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Akiva Goldsman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Lassiter",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Heyman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Neal H. Moritz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Protosevich",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Akiva Goldsman",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Tadross",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Erwin Stoff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bruce Berman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrew Lesnie",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Naomi Shohan",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Wayne Wahrman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Kaplan",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Kathleen Chopin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Janek Sirrs",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Jeffrey Wetzel",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Vic Armstrong",
+      "rol": "Stunt Coordinator"
+    }
+  ],
+  "director": "Francis Lawrence",
+  "valoraciones": {
+    "tmdb": 7.215,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Village Roadshow Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/h/E/Y/D/hEYDq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=4uDU6SUpr8k"
+}
