@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 933260,
+  "poster": "https://image.tmdb.org/t/p/w500/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8ODNt5olCeIqBYTP3GgXEQYTfeX.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png",
+  "titulo": "La sustancia",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.135,
+  "año": "2024",
+  "duracion": "2h 20min",
+  "edad_minima": 13,
+  "sinopsis": "Elisabeth Sparkle, una celebridad en decadencia, decide usar una droga del mercado negro que replica células y crea temporalmente una versión más joven y mejor de ella misma.",
+  "fecha_estreno": "2024-09-07",
+  "titulo_original": "The Substance",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Demi Moore",
+      "personaje": "Elisabeth",
+      "foto": "https://image.tmdb.org/t/p/w500/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+    },
+    {
+      "nombre": "Margaret Qualley",
+      "personaje": "Sue",
+      "foto": "https://image.tmdb.org/t/p/w500/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
+    },
+    {
+      "nombre": "Dennis Quaid",
+      "personaje": "Harvey",
+      "foto": "https://image.tmdb.org/t/p/w500/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+    },
+    {
+      "nombre": "Edward Hamilton-Clark",
+      "personaje": "Fred",
+      "foto": "https://image.tmdb.org/t/p/w500/q1EWL2z2xMcbf84TpOTqGs6Csxs.jpg"
+    },
+    {
+      "nombre": "Gore Abrams",
+      "personaje": "Oliver",
+      "foto": "https://image.tmdb.org/t/p/w500/bKMTqbl0FYlzIC6aTMKQZNAhhXK.jpg"
+    },
+    {
+      "nombre": "Oscar Lesage",
+      "personaje": "Troy",
+      "foto": "https://image.tmdb.org/t/p/w500/8N31SCzlmRBEHRXD7AIE50Wh7Fs.jpg"
+    },
+    {
+      "nombre": "Christian Erickson",
+      "personaje": "Man at Diner",
+      "foto": "https://image.tmdb.org/t/p/w500/cpEzQNW1EsRmK8SMj4y5xwevXwM.jpg"
+    },
+    {
+      "nombre": "Robin Greer",
+      "personaje": "Male Nurse",
+      "foto": "https://image.tmdb.org/t/p/w500/6oAOwJt2LywrGqkB8fGjvAbkLB.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Coralie Fargeat",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Coralie Fargeat",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tim Bevan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eric Fellner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Coralie Fargeat",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Anne Juin",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Matthieu de la Mortière",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Erik Baiers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stanislas Reydellet",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jérôme Gaspard",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Sebastian Lochmann",
+      "rol": "Concept Artist"
+    },
+    {
+      "nombre": "Richard Martin",
+      "rol": "Prosthetics Sculptor"
+    },
+    {
+      "nombre": "Benjamin Kračun",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Marie Bouvet",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Frédéric Balmer",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Andrea Leanza",
+      "rol": "Prosthetics Sculptor"
+    },
+    {
+      "nombre": "Krystell Morantin",
+      "rol": "Assistant Art Director"
+    }
+  ],
+  "director": "Coralie Fargeat",
+  "valoraciones": {
+    "tmdb": 7.135,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Working Title Films",
+  "enlace_video": "https://1a-1791.com/video/s8/2/9/w/U/_/9wU_t.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=lR5nlovVgvQ"
+}
