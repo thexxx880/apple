@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 315635,
+  "poster": "https://image.tmdb.org/t/p/w500/81qIJbnS2L0rUAAB55G8CZODpS5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1AE40jRvQpvQczbgq0P0LkVZgBi.png",
+  "titulo": "Spider-Man: De regreso a casa",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.331,
+  "año": "2017",
+  "duracion": "2h 13min",
+  "edad_minima": 13,
+  "sinopsis": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man (El Hombre Araña). Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
+  "fecha_estreno": "2017-07-05",
+  "titulo_original": "Spider-Man: Homecoming",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Holland",
+      "personaje": "Peter Parker / Spider-Man",
+      "foto": "https://image.tmdb.org/t/p/w500/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+    },
+    {
+      "nombre": "Michael Keaton",
+      "personaje": "Adrian Toomes / Vulture",
+      "foto": "https://image.tmdb.org/t/p/w500/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+    },
+    {
+      "nombre": "Robert Downey Jr.",
+      "personaje": "Tony Stark / Iron Man",
+      "foto": "https://image.tmdb.org/t/p/w500/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "nombre": "Marisa Tomei",
+      "personaje": "May Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/5w6qM8FWsl5SutKSpx6Va64eCTE.jpg"
+    },
+    {
+      "nombre": "Jon Favreau",
+      "personaje": "Happy Hogan",
+      "foto": "https://image.tmdb.org/t/p/w500/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+    },
+    {
+      "nombre": "Gwyneth Paltrow",
+      "personaje": "Pepper Potts",
+      "foto": "https://image.tmdb.org/t/p/w500/ylN4A7fnnNXvHURENl5sQI8Jbib.jpg"
+    },
+    {
+      "nombre": "Zendaya",
+      "personaje": "Michelle",
+      "foto": "https://image.tmdb.org/t/p/w500/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+      "nombre": "Donald Glover",
+      "personaje": "Aaron Davis",
+      "foto": "https://image.tmdb.org/t/p/w500/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Amy Pascal",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris McKenna",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Erik Sommers",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jonathan Goldstein",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Francis Daley",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jon Watts",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Christopher Ford",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mitchell Bell",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Patricia Whitcher",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeremy Latcham",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Victoria Alonso",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Riley Flanagan",
+      "rol": "Set Production Assistant"
+    },
+    {
+      "nombre": "Shawnna Thibodeau",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Casey Ann Zeller",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Paul E. Short",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Chris Silcox",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Rachel O'Connor",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Peter Epstein",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Jon Watts",
+  "valoraciones": {
+    "tmdb": 7.331,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/g/R/P/l/gRPlq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=8lI3_UpQyYA"
+}
