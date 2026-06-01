@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 284053,
+  "poster": "https://image.tmdb.org/t/p/w500/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wBzMnQ01R9w58W6ucltdYfOyP4j.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/b152CiC3nNIUqNTa04OmAN06ceM.png",
+  "titulo": "Thor: Ragnarok",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Comedia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.581,
+  "año": "2017",
+  "duracion": "2h 11min",
+  "edad_minima": 13,
+  "sinopsis": "Encarcelado en el planeta Sakaar, Thor debe correr contra el tiempo para volver a Asgard y detener a Ragnarök, la destrucción de su mundo, a manos del poderoso y despiadado villano Hela.",
+  "fecha_estreno": "2017-10-02",
+  "titulo_original": "Thor: Ragnarok",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chris Hemsworth",
+      "personaje": "Thor",
+      "foto": "https://image.tmdb.org/t/p/w500/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "nombre": "Mark Ruffalo",
+      "personaje": "Bruce Banner / Hulk",
+      "foto": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "nombre": "Tom Hiddleston",
+      "personaje": "Loki",
+      "foto": "https://image.tmdb.org/t/p/w500/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+    },
+    {
+      "nombre": "Cate Blanchett",
+      "personaje": "Hela",
+      "foto": "https://image.tmdb.org/t/p/w500/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+    },
+    {
+      "nombre": "Idris Elba",
+      "personaje": "Heimdall",
+      "foto": "https://image.tmdb.org/t/p/w500/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "nombre": "Jeff Goldblum",
+      "personaje": "Grandmaster",
+      "foto": "https://image.tmdb.org/t/p/w500/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg"
+    },
+    {
+      "nombre": "Tessa Thompson",
+      "personaje": "Valkyrie",
+      "foto": "https://image.tmdb.org/t/p/w500/19ze60jXlb2j7dXc2UpA3MujXA8.jpg"
+    },
+    {
+      "nombre": "Karl Urban",
+      "personaje": "Skurge",
+      "foto": "https://image.tmdb.org/t/p/w500/6CkZLwEJxfqqcJHyeXegMAvOlPh.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Craig Kyle",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Christopher L. Yost",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Taika Waititi",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eric Pearson",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brittany Morris",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Rosalie Button",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Marky Lee Campbell",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Aston Crabtree",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Mana Hira Davis",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Clint Elvy",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Daniel Andrews",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Chris Balualua",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Harley Durst",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kim Fardy",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Shauna Galligan",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Shane Rangi",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Taika Waititi",
+  "valoraciones": {
+    "tmdb": 7.581,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/M/k/W/5/MkW5r.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=Cdp7Xo0x0Uw"
+}
