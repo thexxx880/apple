@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1234821,
+  "poster": "https://image.tmdb.org/t/p/w500/v49ceVcpW4Vj0tveTWlzrRdsFf4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aSdhD1eDGbWN0sd6IedxFBEY4cc.png",
+  "titulo": "Jurassic World: Renace",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Aventura",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.269,
+  "año": "2025",
+  "duracion": "2h 13min",
+  "edad_minima": 13,
+  "sinopsis": "Cinco años después de los acontecimientos de Jurassic World Dominion, Zora Bennett, una experta en operaciones encubiertas, es contratada para dirigir a un equipo de especialistas cuya misión es conseguir fabricar un medicamento hecho de ADN de tres criaturas más grandes para la raza humana.",
+  "fecha_estreno": "2025-06-23",
+  "titulo_original": "Jurassic World Rebirth",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Scarlett Johansson",
+      "personaje": "Zora Bennett",
+      "foto": "https://image.tmdb.org/t/p/w500/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "nombre": "Mahershala Ali",
+      "personaje": "Duncan Kincaid",
+      "foto": "https://image.tmdb.org/t/p/w500/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+    },
+    {
+      "nombre": "Jonathan Bailey",
+      "personaje": "Dr. Henry Loomis",
+      "foto": "https://image.tmdb.org/t/p/w500/i9m6JsYKQot3kbMMFsvbEuFarvq.jpg"
+    },
+    {
+      "nombre": "Rupert Friend",
+      "personaje": "Martin Krebs",
+      "foto": "https://image.tmdb.org/t/p/w500/a3HeMHmlXnoRlHLX9h31ZdZgCXM.jpg"
+    },
+    {
+      "nombre": "Manuel Garcia-Rulfo",
+      "personaje": "Reuben Delgado",
+      "foto": "https://image.tmdb.org/t/p/w500/54Rk1hKfNdNKGHQMnONDGmNtUv3.jpg"
+    },
+    {
+      "nombre": "Luna Blaise",
+      "personaje": "Teresa Delgado",
+      "foto": "https://image.tmdb.org/t/p/w500/y4GIzipFLyC90WcA27XRrokggYR.jpg"
+    },
+    {
+      "nombre": "David Iacono",
+      "personaje": "Xavier Dobbs",
+      "foto": "https://image.tmdb.org/t/p/w500/3QTinnl70cvU3a22fLKCLk4Wpbx.jpg"
+    },
+    {
+      "nombre": "Audrina Miranda",
+      "personaje": "Isabella Delgado",
+      "foto": "https://image.tmdb.org/t/p/w500/nkKWtafw6r7ekbjbHr3AmKNlybZ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Frank Marshall",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Koepp",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Patrick Crowley",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gareth Edwards",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Janine Modder",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Steven Spielberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Crichton",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Neil Corbould",
+      "rol": "Special Effects Supervisor"
+    },
+    {
+      "nombre": "John Mathieson",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Denis L. Stewart",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jim Spencer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Vickery",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Jina Jay",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "James Clyne",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Sammy Sheldon",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Doren John Farmer",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "David Vickery",
+      "rol": "Second Unit Director"
+    }
+  ],
+  "director": "Gareth Edwards",
+  "valoraciones": {
+    "tmdb": 6.269,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/ad/s8/2/A/3/7/8/A378y.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=2ZhB-YO5Tnk"
+}
