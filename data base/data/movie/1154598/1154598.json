@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1154598,
+  "poster": "https://image.tmdb.org/t/p/w500/4ba3Kw9isyWvu6cupzUagm8ejw2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oFSQEG1lJTTISj3QKB7cJ9ANkFw.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hEwFVMVoyyWsiOs6QqZSM6aRmnn.png",
+  "titulo": "LEGO Marvel Avengers: Código rojo",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.525,
+  "año": "2023",
+  "duracion": "0h 48min",
+  "edad_minima": 13,
+  "sinopsis": "Los Vengadores se unen para salvar a Nueva York, pero Black Widow discute con su padre, el Guardián Rojo. Éste desaparece en circunstancias misteriosas. Los Vengadores investigan y descubren que el malvado Coleccionista está secuestrando a todos los personajes que llevan la palabra \"rojo\" en su nombre. Decidida a encontrar a su padre, Black Widow tendrá que liderar a los Vengadores en busca de la guarida del Coleccionista y liberar a los prisioneros de sus garras.",
+  "fecha_estreno": "2023-10-26",
+  "titulo_original": "LEGO Marvel Avengers: Code Red",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Laura Bailey",
+      "personaje": "Black Widow / Little Girl / Sister (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xrq33v9N78hhmApcfkoYx0TAw1A.jpg"
+    },
+    {
+      "nombre": "Trevor Devall",
+      "personaje": "Red Guardian / Hydra Goon 1 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iCFqgVzkhLkMOw9DKmUmfQ3OyCZ.jpg"
+    },
+    {
+      "nombre": "Haley Joel Osment",
+      "personaje": "The Collector (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
+    },
+    {
+      "nombre": "Steve Blum",
+      "personaje": "Wolverine / Wendigo 3 / Hydra Goon 5 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+    },
+    {
+      "nombre": "Will Friedle",
+      "personaje": "Hydra Goon 3 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/Ao3fp9f4loVQ1Vvk6ph8HU5p0Lu.jpg"
+    },
+    {
+      "nombre": "James C. Mathis III",
+      "personaje": "Black Panther (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/m2K3qkTJYtpSOWbEKRLBsAM8W9H.jpg"
+    },
+    {
+      "nombre": "Liam O'Brien",
+      "personaje": "Red Skull / Hydra Goon 2 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ko7Bba6fQEaAbVFAp1kQHTzuYCp.jpg"
+    },
+    {
+      "nombre": "Laura Post",
+      "personaje": "Red She-Hulk / Milk Woman / Computer Voice (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/q95vgGRfaweU7ro1O4VA7KR11RY.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Harrison Wilcox",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Eugene Son",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Eugene Son",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ken Cunningham",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jason Cosler",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kevin Chai",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Steffan Andrews",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Collette Sunderman",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Steffan Andrews",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Eugene Son",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Harrison Wilcox",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jill Wilfert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Keith Malone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven L. Grover",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Dan Langlois",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Alex Harrison",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Mark MacKay",
+      "rol": "Production Manager"
+    }
+  ],
+  "director": "Ken Cunningham",
+  "valoraciones": {
+    "tmdb": 6.525,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Atomic Cartoons",
+  "enlace_video": "https://rumble.com/hls-vod/778crk/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=hOipVahJw7w"
+}
