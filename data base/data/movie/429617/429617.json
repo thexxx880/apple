@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 429617,
+  "poster": "https://image.tmdb.org/t/p/w500/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/34jW8LvjRplM8Pv06cBFDpLlenR.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/dIYnOm2XU982Ky3CMpcACoZor8F.png",
+  "titulo": "Spider-Man 2: Lejos de Casa",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.4,
+  "año": "2019",
+  "duracion": "2h 10min",
+  "edad_minima": 13,
+  "sinopsis": "Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que están causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.",
+  "fecha_estreno": "2019-06-28",
+  "titulo_original": "Spider-Man: Far From Home",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Holland",
+      "personaje": "Peter Parker / Spider-Man",
+      "foto": "https://image.tmdb.org/t/p/w500/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+    },
+    {
+      "nombre": "Jake Gyllenhaal",
+      "personaje": "Quentin Beck / Mysterio",
+      "foto": "https://image.tmdb.org/t/p/w500/j2Yahha9C0zN5DRaTDzYA7WtdOT.jpg"
+    },
+    {
+      "nombre": "Samuel L. Jackson",
+      "personaje": "Nick Fury",
+      "foto": "https://image.tmdb.org/t/p/w500/aF7jIjZ66M0af5c02P9Duzq1zO7.jpg"
+    },
+    {
+      "nombre": "Marisa Tomei",
+      "personaje": "May Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/5w6qM8FWsl5SutKSpx6Va64eCTE.jpg"
+    },
+    {
+      "nombre": "Jon Favreau",
+      "personaje": "Happy Hogan",
+      "foto": "https://image.tmdb.org/t/p/w500/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+    },
+    {
+      "nombre": "Zendaya",
+      "personaje": "MJ",
+      "foto": "https://image.tmdb.org/t/p/w500/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+      "nombre": "Jacob Batalon",
+      "personaje": "Ned Leeds",
+      "foto": "https://image.tmdb.org/t/p/w500/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    },
+    {
+      "nombre": "Tony Revolori",
+      "personaje": "Flash Thompson",
+      "foto": "https://image.tmdb.org/t/p/w500/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris McKenna",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Erik Sommers",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jon Watts",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Amy Pascal",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kiante Elam",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Petr Bozdech",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Liam Carey",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "George Cottle",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Lucky Davis",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Giampiero Comanducci",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Matous Brichcin",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Massimiliano Catasta",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kevin Cassidy",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Paola Altobelli",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Georgina Armstrong",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Liam Coote",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Jon Watts",
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/L/1/2/l/L12lq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=Sz-CfAthSVk"
+}
