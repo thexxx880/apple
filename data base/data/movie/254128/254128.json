@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 254128,
+  "poster": "https://image.tmdb.org/t/p/w500/sgj6jxw1lcGm8E76IMr32im3qQP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zcySy6dnSmyqiichtDgO7AEeZoq.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kynlQvxtkBRiEpyig5PZjjWQseT.png",
+  "titulo": "Terremoto: La Falla De San Andrés",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Drama",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.246,
+  "año": "2015",
+  "duracion": "1h 54min",
+  "edad_minima": 13,
+  "sinopsis": "La falla de San Andrés acaba cediendo ante las temibles fuerzas telúricas y desencadena un terremoto de magnitud 9 en California. Ante tal catástrofe, el piloto de helicóptero de búsqueda y rescate Ray y su ex esposa Emma viajan juntos desde Los Ángeles hasta San Francisco para salvar a su única hija, Blake. Pero su tortuoso viaje hacia el norte solamente es el comienzo del desomoronamiento de todo lo que creían firme en su vida.",
+  "fecha_estreno": "2015-05-27",
+  "titulo_original": "San Andreas",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Dwayne Johnson",
+      "personaje": "Ray Gaines",
+      "foto": "https://image.tmdb.org/t/p/w500/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+    },
+    {
+      "nombre": "Alexandra Daddario",
+      "personaje": "Blake Gaines",
+      "foto": "https://image.tmdb.org/t/p/w500/mP3N1LTIaIG5Q0BHyt1XxjtIyYi.jpg"
+    },
+    {
+      "nombre": "Carla Gugino",
+      "personaje": "Emma Gaines",
+      "foto": "https://image.tmdb.org/t/p/w500/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
+    },
+    {
+      "nombre": "Ioan Gruffudd",
+      "personaje": "Daniel Riddick",
+      "foto": "https://image.tmdb.org/t/p/w500/h2pg2XwJPcOWotHgiohXjEZUBLa.jpg"
+    },
+    {
+      "nombre": "Archie Panjabi",
+      "personaje": "Serena Johnson",
+      "foto": "https://image.tmdb.org/t/p/w500/1kSx9zUPwpTe35TbL7T2BWOp3bp.jpg"
+    },
+    {
+      "nombre": "Paul Giamatti",
+      "personaje": "Dr. Lawrence Hayes",
+      "foto": "https://image.tmdb.org/t/p/w500/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+    },
+    {
+      "nombre": "Hugo Johnstone-Burt",
+      "personaje": "Ben Taylor",
+      "foto": "https://image.tmdb.org/t/p/w500/gt37OZhM4dwpLaaZ0xpYbWExzef.jpg"
+    },
+    {
+      "nombre": "Art Parkinson",
+      "personaje": "Ollie Taylor",
+      "foto": "https://image.tmdb.org/t/p/w500/ejAKOJME1DsvHECLWdQ7dEtXyyc.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Brad Peyton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Andre Fabrizio",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Carlton Cuse",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jeremy Passmore",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Beau Flynn",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brittany Morris",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Chris O'Connell",
+      "rol": "Compositors"
+    },
+    {
+      "nombre": "Brian N. Bentley",
+      "rol": "Compositors"
+    },
+    {
+      "nombre": "Sean Button",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Tanoai Reed",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Barry Chusid",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Bob Ducsay",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Keith Campbell",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Remy Torre",
+      "rol": "CG Supervisor"
+    },
+    {
+      "nombre": "Cristofer Adrian",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Tom Kramer",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Per Hallberg",
+      "rol": "Supervising Sound Editor"
+    }
+  ],
+  "director": "Brad Peyton",
+  "valoraciones": {
+    "tmdb": 6.246,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/9b/s8/2/W/B/X/6/WBX6y.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=NZNHs7gyANA"
+}
