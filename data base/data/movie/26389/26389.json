@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 26389,
+  "poster": "https://image.tmdb.org/t/p/w500/7r8rytAnQVoae9knES6cSTWA4Q2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fra7Gk8xHPWaY4g8p6ue0o2yKOJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6Ri58TsIjZ7c89hroiFxdtyolGk.png",
+  "titulo": "París en la mira",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.393,
+  "año": "2010",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "A Charlie Wax, un singular agente secreto estadounidense, le ha sido encomendada en París una misión de alto riesgo relacionada con el terrorismo y el tráfico de cocaína. El problema es que tropezará con James Reece (Rhys Meyers), un empleado de la embajada norteamericana, nada acostumbrado a los métodos poco ortodoxos de Wax.",
+  "fecha_estreno": "2010-02-04",
+  "titulo_original": "From Paris with Love",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "John Travolta",
+      "personaje": "Charlie Wax",
+      "foto": "https://image.tmdb.org/t/p/w500/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+    },
+    {
+      "nombre": "Jonathan Rhys Meyers",
+      "personaje": "James Reece",
+      "foto": "https://image.tmdb.org/t/p/w500/RsrGA98aMmyjTTxTLhAaOqnfLz.jpg"
+    },
+    {
+      "nombre": "Kasia Smutniak",
+      "personaje": "Caroline",
+      "foto": "https://image.tmdb.org/t/p/w500/t7pf7Lsfxzt0QqILBB1mmCbf81U.jpg"
+    },
+    {
+      "nombre": "Richard Durden",
+      "personaje": "Ambassador Bennington",
+      "foto": "https://image.tmdb.org/t/p/w500/eH5gdjtoCMFNs2OlSyWb0ha2yHn.jpg"
+    },
+    {
+      "nombre": "Bing Yin",
+      "personaje": "M. Wong",
+      "foto": "https://image.tmdb.org/t/p/w500/AiwAuBLK8XjuZ4e5hPFCteQr7yf.jpg"
+    },
+    {
+      "nombre": "Amber Rose Revah",
+      "personaje": "Nichole",
+      "foto": "https://image.tmdb.org/t/p/w500/AjVg1UrGqm0mlbis8CVm0O56Ae2.jpg"
+    },
+    {
+      "nombre": "Éric Godon",
+      "personaje": "Foreign Minister",
+      "foto": "https://image.tmdb.org/t/p/w500/1Wx4gUEVUexDJ80PzX8dyYXrEQc.jpg"
+    },
+    {
+      "nombre": "François Bredon",
+      "personaje": "The Thug",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Adi Hasak",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Pierre Morel",
+      "rol": "Director"
+    },
+    {
+      "nombre": "India Osborne",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gilles Geraud",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Christophe Niaux",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Olivier Nguyen",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Olivier Bériot",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Gregory Fromentin",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Véronique Melery",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Olivier Schneider",
+      "rol": "Choreographer"
+    },
+    {
+      "nombre": "Marthe Faucouit",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Anne Dolet",
+      "rol": "Sculptor"
+    },
+    {
+      "nombre": "Gil Pannetier",
+      "rol": "Second Unit Cinematographer"
+    },
+    {
+      "nombre": "Michel Abramowicz",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Thierry Flament",
+      "rol": "Visual Effects Producer"
+    }
+  ],
+  "director": "Pierre Morel",
+  "valoraciones": {
+    "tmdb": 6.393,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "M6",
+  "enlace_video": "https://1a-1791.com/video/fww1/f9/s8/2/t/8/0/K/t80Ky.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=-jAbatBqqSc"
+}
