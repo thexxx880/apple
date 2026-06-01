@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 748783,
+  "poster": "https://image.tmdb.org/t/p/w500/6QR2FOCQr41gSduN70WulRIhJb7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ctv7q97lJOxGaPZAloE0mZpJlR4.png",
+  "titulo": "Garfield: Fuera de casa",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Comedia",
+    "Aventura",
+    "Animación"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.987,
+  "año": "2024",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Garfield, el famoso gato que odia los lunes y es amante de la lasaña, está a punto de vivir una salvaje aventura al aire libre. Tras un inesperado reencuentro con su padre, el desaliñado gato callejero Vic, Garfield y su amigo canino Odie se ven obligados a abandonar su mimada vida para unirse a Vic en un divertidísimo atraco de alto riesgo.",
+  "fecha_estreno": "2024-04-30",
+  "titulo_original": "The Garfield Movie",
+  "pais_origen": "Hong Kong",
+  "reparto": [
+    {
+      "nombre": "Chris Pratt",
+      "personaje": "Garfield (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "nombre": "Samuel L. Jackson",
+      "personaje": "Vic (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aF7jIjZ66M0af5c02P9Duzq1zO7.jpg"
+    },
+    {
+      "nombre": "Hannah Waddingham",
+      "personaje": "Jinx (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eHAICyhvjiRZCgzKyJCk9hWnnjr.jpg"
+    },
+    {
+      "nombre": "Ving Rhames",
+      "personaje": "Otto (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+      "nombre": "Nicholas Hoult",
+      "personaje": "Jon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qjdDsrJCx9wgrXDTc7TwZiPn9OC.jpg"
+    },
+    {
+      "nombre": "Cecily Strong",
+      "personaje": "Marge Malone (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/g1WbsojbgQAB72UfUJnNWPaB4b5.jpg"
+    },
+    {
+      "nombre": "Harvey Guillén",
+      "personaje": "Odie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yiNBonobPwqMVweB02JWufzp2l9.jpg"
+    },
+    {
+      "nombre": "Brett Goldstein",
+      "personaje": "Roland (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xYdFNE7EkncE8uiPJzT3RrkqcAQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Broderick Johnson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew A. Kosove",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Namit Malhotra",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Torgove",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Paul A. Kaplan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Craig Sost",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steven P. Wegner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Reynolds",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jim Davis",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Steve Sarowitz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Pflug",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Luo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jim Davis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Simon Hedges",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Reynolds",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Parish",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "古天樂",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carl Rogers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Boose",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Freddy Chaleur",
+      "rol": "Visual Effects Supervisor"
+    }
+  ],
+  "director": "Mark Dindal",
+  "valoraciones": {
+    "tmdb": 6.987,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Alcon Entertainment",
+  "enlace_video": "https://rumble.com/hls-vod/74yzcm/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=yk2Ej59DnrE"
+}
