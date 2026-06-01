@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 10222,
+  "poster": "https://image.tmdb.org/t/p/w500/q3NCTsIb5mzOuf3XbQr9AfZyAaF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sl7hpSJR11FlfcewMJ6ihsbbAuJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/gS2KK19so8WKs2MEt8zf2SCapFx.png",
+  "titulo": "Kickboxer",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.846,
+  "año": "1989",
+  "duracion": "1h 38min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando Tong Po, el sanguinario campeón de Kickboxing, deja paralítico a su hermano, Eric jura vengarse del hombre a quienes todos consideran invencible, aunque le cueste la vida.",
+  "fecha_estreno": "1989-04-20",
+  "titulo_original": "Kickboxer",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jean-Claude Van Damme",
+      "personaje": "Kurt Sloane",
+      "foto": "https://image.tmdb.org/t/p/w500/7DP3bm3MS0qa0L8tBLHGebbCu6H.jpg"
+    },
+    {
+      "nombre": "Dennis Alexio",
+      "personaje": "Eric Sloane",
+      "foto": null
+    },
+    {
+      "nombre": "陳國新",
+      "personaje": "Xian",
+      "foto": "https://image.tmdb.org/t/p/w500/wW90J7wyACpndFPgwq5TFtyKHaO.jpg"
+    },
+    {
+      "nombre": "Haskell V. Anderson III",
+      "personaje": "Winston Taylor",
+      "foto": "https://image.tmdb.org/t/p/w500/eHMkXS54U17AtKmZyth8g6DP2M2.jpg"
+    },
+    {
+      "nombre": "Rochelle Ashana",
+      "personaje": "Mylee",
+      "foto": "https://image.tmdb.org/t/p/w500/appwwrNWhcnkUH6E47jHB0Ibgpb.jpg"
+    },
+    {
+      "nombre": "Michel Qissi",
+      "personaje": "Tong Po",
+      "foto": "https://image.tmdb.org/t/p/w500/zl64reyhHgnrDFcDWx7lNKaVfmm.jpg"
+    },
+    {
+      "nombre": "李家鼎",
+      "personaje": "Freddy Li",
+      "foto": "https://image.tmdb.org/t/p/w500/9YgnU7dd3EOAefdaLOgfc6LIgBn.jpg"
+    },
+    {
+      "nombre": "金彪",
+      "personaje": "Tao Liu",
+      "foto": "https://image.tmdb.org/t/p/w500/R19GFiYnN3OIuJEA6kHkcCf5M2.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Mark DiSalle",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Worth",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark DiSalle",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Glenn A. Bruce",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mark DiSalle",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jean-Claude Van Damme",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Wayne Wahrman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Paul Hertzog",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jon Kranhouse",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jean-Claude Van Damme",
+      "rol": "Martial Arts Choreographer"
+    },
+    {
+      "nombre": "张午郎",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Jean-Claude Van Damme",
+      "rol": "Action Director"
+    },
+    {
+      "nombre": "Jon H. Epstein",
+      "rol": "Martial Arts Choreographer"
+    },
+    {
+      "nombre": "Jean-Claude Van Damme",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "张午郎",
+      "rol": "Martial Arts Choreographer"
+    },
+    {
+      "nombre": "Stan Bush",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Charlie Sungkawess",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "林輝泰",
+      "rol": "Steadicam Operator"
+    }
+  ],
+  "director": "David Worth",
+  "valoraciones": {
+    "tmdb": 6.846,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Kings Road Entertainment",
+  "enlace_video": "https://1a-1791.com/video/s8/2/8/c/w/X/8cwXq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=H6Yxw4gxfpI"
+}
