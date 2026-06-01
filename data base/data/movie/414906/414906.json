@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 414906,
+  "poster": "https://image.tmdb.org/t/p/w500/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png",
+  "titulo": "Batman",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Misterio",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.66,
+  "año": "2022",
+  "duracion": "2h 55min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+  "fecha_estreno": "2022-03-01",
+  "titulo_original": "The Batman",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Robert Pattinson",
+      "personaje": "Bruce Wayne / The Batman",
+      "foto": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+      "nombre": "Zoë Kravitz",
+      "personaje": "Selina Kyle",
+      "foto": "https://image.tmdb.org/t/p/w500/hJKmhbuzDjmfw2nPBDWGbLagj16.jpg"
+    },
+    {
+      "nombre": "Jeffrey Wright",
+      "personaje": "Lt. James Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+    },
+    {
+      "nombre": "Colin Farrell",
+      "personaje": "Oz / The Penguin",
+      "foto": "https://image.tmdb.org/t/p/w500/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg"
+    },
+    {
+      "nombre": "Paul Dano",
+      "personaje": "The Riddler",
+      "foto": "https://image.tmdb.org/t/p/w500/aoMS5ITUgDfLyHIyjes7BO9oCIz.jpg"
+    },
+    {
+      "nombre": "John Turturro",
+      "personaje": "Carmine Falcone",
+      "foto": "https://image.tmdb.org/t/p/w500/63zA58rSyJxBMLBdgeMjjETmpDQ.jpg"
+    },
+    {
+      "nombre": "Andy Serkis",
+      "personaje": "Alfred",
+      "foto": "https://image.tmdb.org/t/p/w500/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+      "nombre": "Peter Sarsgaard",
+      "personaje": "District Attorney Gil Colson",
+      "foto": "https://image.tmdb.org/t/p/w500/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Peter Craig",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Matt Reeves",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Matt Reeves",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Dylan Clark",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Reeves",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Robert Alonzo",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Bradley Parker",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Ben Dixon",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Nikita Rae",
+      "rol": "Makeup Supervisor"
+    },
+    {
+      "nombre": "Diego Perez",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Craig Henighan",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Dennis O'Neil",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Steve Englehart",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Bob Haney",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Tim Sale",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Brian Azzarello",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Greg Rucka",
+      "rol": "Thanks"
+    }
+  ],
+  "director": "Matt Reeves",
+  "valoraciones": {
+    "tmdb": 7.66,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "6th & Idaho Motion Picture Company",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/4e/s8/2/i/w/b/9/iwb9y.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=vc7_mH2PWHs"
+}
