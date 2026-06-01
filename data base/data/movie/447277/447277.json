@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 447277,
+  "poster": "https://image.tmdb.org/t/p/w500/mdszPVnIY7cWgbgJ8zbwu1PiU5V.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lAs4Y5a8Pi86xDwuv8cx2prOVI2.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/dCnXNFlINudL8p3KGkepQhcUnmh.png",
+  "titulo": "La sirenita",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Familia",
+    "Fantasía",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.271,
+  "año": "2023",
+  "duracion": "2h 15min",
+  "edad_minima": 13,
+  "sinopsis": "Ariel, la más joven de las hijas del rey Tritón y la más desafiante, anhela saber más sobre el mundo más allá del mar y, mientras visita la superficie, se enamora del apuesto príncipe Eric. Con las sirenas prohibidas para interactuar con los humanos, Ariel hace un trato con la malvada bruja del mar, Ursula, que le da la oportunidad de experimentar la vida en la tierra, pero finalmente pone en peligro su vida y la corona de su padre.",
+  "fecha_estreno": "2023-05-18",
+  "titulo_original": "The Little Mermaid",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Halle Bailey",
+      "personaje": "Ariel",
+      "foto": "https://image.tmdb.org/t/p/w500/1Gjdlx81P7xTeVwHNIDgjgmzZq5.jpg"
+    },
+    {
+      "nombre": "Jonah Hauer-King",
+      "personaje": "Eric",
+      "foto": "https://image.tmdb.org/t/p/w500/yXGsk9UtOV9tprU5ZSuhwdFtaBB.jpg"
+    },
+    {
+      "nombre": "Melissa McCarthy",
+      "personaje": "Ursula",
+      "foto": "https://image.tmdb.org/t/p/w500/yl0qva0O4u92fvtItakdvKmKrW9.jpg"
+    },
+    {
+      "nombre": "Javier Bardem",
+      "personaje": "King Triton",
+      "foto": "https://image.tmdb.org/t/p/w500/IShnFg6ijWhpbu29dFBd9PtqQg.jpg"
+    },
+    {
+      "nombre": "Noma Dumezweni",
+      "personaje": "The Queen",
+      "foto": "https://image.tmdb.org/t/p/w500/fDEOIZfAQoOZKH1o4xn7qgOoTyM.jpg"
+    },
+    {
+      "nombre": "Art Malik",
+      "personaje": "Sir Grimsby",
+      "foto": "https://image.tmdb.org/t/p/w500/hZmb9wWsteP21QA29PHEk6NlOh3.jpg"
+    },
+    {
+      "nombre": "Daveed Diggs",
+      "personaje": "Sebastian (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/codalhZzB4LvJTSGOnOyrTEsqsF.jpg"
+    },
+    {
+      "nombre": "Jacob Tremblay",
+      "personaje": "Flounder (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lin-Manuel Miranda",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marc Platt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rob Marshall",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John DeLuca",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rob Marshall",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Magee",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ron Clements",
+      "rol": "Original Film Writer"
+    },
+    {
+      "nombre": "Hans Christian Andersen",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "John Musker",
+      "rol": "Original Film Writer"
+    },
+    {
+      "nombre": "Kevin Day",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Christoph Roth",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Howard Ashman",
+      "rol": "Lyricist"
+    },
+    {
+      "nombre": "Lin-Manuel Miranda",
+      "rol": "Lyricist"
+    },
+    {
+      "nombre": "Michael Higham",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Michael Higham",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "Ferran Domenech",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Reetu Aggarwal",
+      "rol": "3D Artist"
+    },
+    {
+      "nombre": "Joey Pizzi",
+      "rol": "Choreographer"
+    }
+  ],
+  "director": "Rob Marshall",
+  "valoraciones": {
+    "tmdb": 6.271,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/A/B/7/f/AB7fl.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=RdxqdIc7xlQ"
+}
