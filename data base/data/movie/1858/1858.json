@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1858,
+  "poster": "https://image.tmdb.org/t/p/w500/jNZOozjyWKC0jTTvpZ3KOobGcED.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wcTDxW9JEr9cORajaQLrv8ls9Ly.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/68juai5iHBt7N8Whj3oTqemvhFF.png",
+  "titulo": "Transformers",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Ciencia ficción",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.83,
+  "año": "2007",
+  "duracion": "2h 24min",
+  "edad_minima": 13,
+  "sinopsis": "El joven adolescente Sam Witwicky se ve envuelto en la antigua lucha entre dos facciones extraterrestres de robots transformables: los heroicos Autobots y los malvados Decepticons. Sam tiene la clave para acceder a un poder inimaginable y los Decepticons no se detendrán ante nada para recuperarla.",
+  "fecha_estreno": "2007-06-27",
+  "titulo_original": "Transformers",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Shia LaBeouf",
+      "personaje": "Sam Witwicky",
+      "foto": "https://image.tmdb.org/t/p/w500/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
+    },
+    {
+      "nombre": "Megan Fox",
+      "personaje": "Mikaela Banes",
+      "foto": "https://image.tmdb.org/t/p/w500/7VzUcdoeiXcjQabaWd47DwDcv8j.jpg"
+    },
+    {
+      "nombre": "Mark Ryan",
+      "personaje": "Bumblebee (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9I0mFMnJJutVwVsCJhh3PtfqtFv.jpg"
+    },
+    {
+      "nombre": "Peter Cullen",
+      "personaje": "Optimus Prime (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
+    },
+    {
+      "nombre": "Hugo Weaving",
+      "personaje": "Megatron (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+    },
+    {
+      "nombre": "Josh Duhamel",
+      "personaje": "Captain Lennox",
+      "foto": "https://image.tmdb.org/t/p/w500/5Rp9aeWdN2S623KCjwfii9MhDK1.jpg"
+    },
+    {
+      "nombre": "Tyrese Gibson",
+      "personaje": "USAF Tech Sergeant Epps",
+      "foto": "https://image.tmdb.org/t/p/w500/jxoy4fbXNKFQtBdK73cLXEz3ufS.jpg"
+    },
+    {
+      "nombre": "Charlie Adler",
+      "personaje": "Starscream (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hVENHdlEqsX6vhBW4MTpfYEFFQ3.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Bay",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tom DeSanto",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Don Murphy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lorenzo di Bonaventura",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Roberto Orci",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Alex Kurtzman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ian Bryce",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Rogers",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Steven Spielberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Goldner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Vahradian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mitchell Amundsen",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jeff Mann",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Paul Rubell",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Glen Scantlebury",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Tom Muldoon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John Frazier",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Deborah L. Scott",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Barbara Anne Klein",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Nina Kaczorowski",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Michael Bay",
+  "valoraciones": {
+    "tmdb": 6.83,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/T/l/4/d/Tl4dt.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=ahYjx0rQvqQ"
+}
