@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 420817,
+  "poster": "https://image.tmdb.org/t/p/w500/trnyoKkkvvjZvRvCMrNDtSf25nH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rVqY0Bo4Npf6EIONUROxjYAJfmD.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bTMpar7TCt2irtQui1JjrBhOA2w.png",
+  "titulo": "Aladdín",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Romance",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.085,
+  "año": "2019",
+  "duracion": "2h 8min",
+  "edad_minima": 13,
+  "sinopsis": "Aladdin es un adorable pero desafortunado ladronzuelo enamorado de la hija del Sultán, la princesa Jasmine. Para intentar conquistarla, acepta el desafío de Jafar, que consiste en entrar a una cueva en mitad del desierto para dar con una lámpara mágica que le concederá todos sus deseos. Allí es donde Aladdín conocerá al Genio, dando inicio a una aventura como nunca antes había imaginado.",
+  "fecha_estreno": "2019-05-22",
+  "titulo_original": "Aladdin",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Will Smith",
+      "personaje": "Genie / Mariner",
+      "foto": "https://image.tmdb.org/t/p/w500/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+    },
+    {
+      "nombre": "Mena Massoud",
+      "personaje": "Aladdin",
+      "foto": "https://image.tmdb.org/t/p/w500/3Ng1Cxcln1tAMcgBY8L6aXNgGdV.jpg"
+    },
+    {
+      "nombre": "Naomi Scott",
+      "personaje": "Jasmine",
+      "foto": "https://image.tmdb.org/t/p/w500/knSGMaEaH6CZaYw7GQpvxyJcsz7.jpg"
+    },
+    {
+      "nombre": "Marwan Kenzari",
+      "personaje": "Jafar",
+      "foto": "https://image.tmdb.org/t/p/w500/66903sgNtyzHN0Mi3D88UYgbH86.jpg"
+    },
+    {
+      "nombre": "Navid Negahban",
+      "personaje": "Sultan",
+      "foto": "https://image.tmdb.org/t/p/w500/pWi5tINf4mDvTYbNKZDJPODYKra.jpg"
+    },
+    {
+      "nombre": "Nasim Pedrad",
+      "personaje": "Dalia",
+      "foto": "https://image.tmdb.org/t/p/w500/vsTcEjvHi6CpkRPiASOfYXl2bNq.jpg"
+    },
+    {
+      "nombre": "Billy Magnussen",
+      "personaje": "Prince Anders",
+      "foto": "https://image.tmdb.org/t/p/w500/ugyx7Wn2uAWsNlR5eX4yWFsGV2Y.jpg"
+    },
+    {
+      "nombre": "Numan Acar",
+      "personaje": "Hakim",
+      "foto": "https://image.tmdb.org/t/p/w500/f08eHdN5CGeb7QUKN43BguYWjPG.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Dan Lin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Guy Ritchie",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John August",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Guy Ritchie",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jonathan Eirich",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Flora Miller",
+      "rol": "Post Production Coordinator"
+    },
+    {
+      "nombre": "Michael Schlingmann",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "鈴木亜矢",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Glen Gathard",
+      "rol": "Foley Mixer"
+    },
+    {
+      "nombre": "Jemma Riley-Tolch",
+      "rol": "Foley Mixer"
+    },
+    {
+      "nombre": "Peter Burgis",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Rod McLean",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Zoe Freed",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Chris Navarro",
+      "rol": "ADR Mixer"
+    },
+    {
+      "nombre": "Chris Lyons",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Mark Taylor",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Mark DeSimone",
+      "rol": "ADR Mixer"
+    }
+  ],
+  "director": "Guy Ritchie",
+  "valoraciones": {
+    "tmdb": 7.085,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe1/94/s8/2/N/y/m/m/Nymmy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=h44kpghglWw"
+}
