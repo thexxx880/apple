@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 417859,
+  "poster": "https://image.tmdb.org/t/p/w500/1VmrC82zY4U33l9UHlZTWDB1asN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/c5MCkebYhFuhmi32x760HfcvLIO.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5YifuppwdnXqj0a86CJVRgzOqpQ.png",
+  "titulo": "Gato con botas",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 6.593,
+  "año": "2011",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "\"Gato con botas\" se sitúa en el tiempo como la precuela de Shrek 2. Mucho tiempo antes de conocer a Shrek, el Gato con Botas emprendió un viaje aliándose con el ingenioso Humpty Dumpty y con la avispada Kitty Softpaws para robar el famoso ganso de los huevos de oro.",
+  "fecha_estreno": "2011-10-27",
+  "titulo_original": "Puss in Boots",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Antonio Banderas",
+      "personaje": "Puss in Boots (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+    },
+    {
+      "nombre": "Salma Hayek Pinault",
+      "personaje": "Kitty Softpaws (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1qfYF7NGRObmeKR7IVXUFVIC0CN.jpg"
+    },
+    {
+      "nombre": "Zach Galifianakis",
+      "personaje": "Humpty Dumpty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c2RKFiezoJfVlgWebO6mdU8fLbM.jpg"
+    },
+    {
+      "nombre": "Billy Bob Thornton",
+      "personaje": "Jack (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uJBFml6efjg34u2jvT5ugVa1cPI.jpg"
+    },
+    {
+      "nombre": "Amy Sedaris",
+      "personaje": "Jill (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iQClumvSfTHgysxSofFmcLXmkCc.jpg"
+    },
+    {
+      "nombre": "Constance Marie",
+      "personaje": "Imelda (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4s5IKXj9gKHwNWjm8o5LgAkBVal.jpg"
+    },
+    {
+      "nombre": "Mike Mitchell",
+      "personaje": "Andy Beanstalk (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/w6ibMbbw7KBrcWxUb7N7h3GEQGO.jpg"
+    },
+    {
+      "nombre": "Rich Dietl",
+      "personaje": "Bounty Hunter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qHGYPYTCCXpkLLElc0Z92Wlj4et.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Miller",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tom Wheeler",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Brian Lynch",
+      "rol": "Story"
+    },
+    {
+      "nombre": "William Davies",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Latifa Ouaou",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Wheeler",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Joe M. Aguilar",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rich Dietl",
+      "rol": "Associate Editor"
+    },
+    {
+      "nombre": "Josh Wood",
+      "rol": "Post Production Assistant"
+    },
+    {
+      "nombre": "Ken Bielenberg",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Bob Persichetti",
+      "rol": "Head of Story"
+    },
+    {
+      "nombre": "Roger Tang",
+      "rol": "Music Coordinator"
+    },
+    {
+      "nombre": "Antony Gray",
+      "rol": "Supervising Animator"
+    },
+    {
+      "nombre": "Christopher K. Jefferies",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Gil Zimmerman",
+      "rol": "Head of Layout"
+    },
+    {
+      "nombre": "Judah Mambu",
+      "rol": "Story Coordinator"
+    },
+    {
+      "nombre": "Mark Fattibene",
+      "rol": "Lighting Supervisor"
+    },
+    {
+      "nombre": "Rafael Chaidez",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Isis Mussenden",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "Chris Miller",
+  "valoraciones": {
+    "tmdb": 6.593,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://1a-1791.com/video/s8/2/L/k/Z/9/LkZ9n.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=Znuq-daWfLE"
+}
