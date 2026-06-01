@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 11224,
+  "poster": "https://image.tmdb.org/t/p/w500/3i0ktVrtFbQGlSl5tVRSnLORwfP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8qtznXJmyS8ak01U8aSuI12EfqY.png",
+  "titulo": "La cenicienta",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Fantasía",
+    "Animación",
+    "Romance"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7,
+  "año": "1950",
+  "duracion": "1h 14min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando la cruel madrastra de Cenicienta le impide asistir al Baile Real, recibe ayuda inesperada de los adorables ratones Gus y Jaq, y de su Hada Madrina.",
+  "fecha_estreno": "1950-02-22",
+  "titulo_original": "Cinderella",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ilene Woods",
+      "personaje": "Cinderella (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ApIXw423GZoMnwYUmkqEq5awpng.jpg"
+    },
+    {
+      "nombre": "Eleanor Audley",
+      "personaje": "Lady Tremaine (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rppllmBSCZhkhCWoomVvbB1pB4T.jpg"
+    },
+    {
+      "nombre": "Verna Felton",
+      "personaje": "Fairy Godmother (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xJ7mohLuufsNn6dkvzjKi5nlaFn.jpg"
+    },
+    {
+      "nombre": "Claire Du Brey",
+      "personaje": "(credit only) (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/e8WDoA2IhvjkFMZ2OEsr7PinZEe.jpg"
+    },
+    {
+      "nombre": "Rhoda Williams",
+      "personaje": "Drizella (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qKNBo1p359fWPko78DzRHXwVUZt.jpg"
+    },
+    {
+      "nombre": "James MacDonald",
+      "personaje": "Gus / Jaq (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qf3IMvOrc39jKz6Bddtv4Ur2ski.jpg"
+    },
+    {
+      "nombre": "Helene Stanley",
+      "personaje": "(credit only)",
+      "foto": "https://image.tmdb.org/t/p/w500/9Y4gkFhSyvnuqOr3YlX7gXKgjaj.jpg"
+    },
+    {
+      "nombre": "Luis van Rooten",
+      "personaje": "King / Grand Duke (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/s99W900HgYsSYlnDMxaP4tKa7lZ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Walt Disney",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hamilton Luske",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Clyde Geronimi",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Wilfred Jackson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Homer Brightman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ted Sears",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ken Anderson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Joe Rinaldi",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Donald Halliday",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Oliver Wallace",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Charles Perrault",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Paul J. Smith",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Merle Cox",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Ub Iwerks",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Phil Duncan",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Jack Boyd",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Joshua Meador",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Hugh Fraser",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Fred Moore",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Harvey Toombs",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Hamilton Luske",
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Productions",
+  "enlace_video": "https://1a-1791.com/video/s8/2/o/T/M/O/oTMOq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=rPTMApBFfcI"
+}
