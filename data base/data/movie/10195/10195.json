@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 10195,
+  "poster": "https://image.tmdb.org/t/p/w500/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/41G1yzrJywCiTFTgmCAsQtrvLCA.png",
+  "titulo": "Thor",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.769,
+  "año": "2011",
+  "duracion": "1h 55min",
+  "edad_minima": 13,
+  "sinopsis": "El poderoso Thor es desterrado del fantástico reino de Asgard por su padre Odin debido a su arrogancia y es enviado a Midgard, la Tierra, para que viva entre los humanos. Ahí conocerá a Jane y sus amigos, y en donde aprenderá para convertirse en un gran defensor de este reino.",
+  "fecha_estreno": "2011-04-21",
+  "titulo_original": "Thor",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chris Hemsworth",
+      "personaje": "Thor",
+      "foto": "https://image.tmdb.org/t/p/w500/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "nombre": "Natalie Portman",
+      "personaje": "Jane Foster",
+      "foto": "https://image.tmdb.org/t/p/w500/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+      "nombre": "Tom Hiddleston",
+      "personaje": "Loki",
+      "foto": "https://image.tmdb.org/t/p/w500/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+    },
+    {
+      "nombre": "Anthony Hopkins",
+      "personaje": "Odin",
+      "foto": "https://image.tmdb.org/t/p/w500/dYVQTK1dPrQl1mugeLEWSSmA6Im.jpg"
+    },
+    {
+      "nombre": "Stellan Skarsgård",
+      "personaje": "Erik Selvig",
+      "foto": "https://image.tmdb.org/t/p/w500/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+    },
+    {
+      "nombre": "Kat Dennings",
+      "personaje": "Darcy Lewis",
+      "foto": "https://image.tmdb.org/t/p/w500/nJHGtedRCIeAdysg18oJngUZmL3.jpg"
+    },
+    {
+      "nombre": "Clark Gregg",
+      "personaje": "Agent Coulson",
+      "foto": "https://image.tmdb.org/t/p/w500/mq686D91XoZpqkzELn0888NOiZW.jpg"
+    },
+    {
+      "nombre": "Colm Feore",
+      "personaje": "King Laufey",
+      "foto": "https://image.tmdb.org/t/p/w500/oOxcf1qB1IvVZrBEE1PdrfMiyBK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Zack Stentz",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ashley Miller",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Don Payne",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kenneth Branagh",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "J. Michael Straczynski",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Mark Protosevich",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David J. Grant",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Vic Armstrong",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Greg Hale",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Don Zepfel",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Patricia Whitcher",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Craig Kyle",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Alan Fine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ryan Meinerding",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Charlie Wen",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Luc Etienne",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Patricia Whitcher",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Kenneth Branagh",
+  "valoraciones": {
+    "tmdb": 6.769,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/q/-/9/v/q-9vl.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=uHBnrJowBZE"
+}
