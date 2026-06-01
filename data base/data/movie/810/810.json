@@ -1,0 +1,159 @@
+{
+  "id_tmdb": 810,
+  "poster": "https://image.tmdb.org/t/p/w500/7sTwtmVPTX77CFOUXdwAM7lKtKL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ml4ZAXZrJHvFb3WjaPRy3NF3xzq.png",
+  "titulo": "Shrek Tercero",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.31,
+  "año": "2007",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Designado a regañadientes como el heredero de la tierra de Muy Muy Lejano, Shrek urde un plan para instalar al rebelde Artie como el nuevo rey mientras la princesa Fiona trata de evitar un golpe de estado por parte del Príncipe Encantador.",
+  "fecha_estreno": "2007-05-17",
+  "titulo_original": "Shrek the Third",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mike Myers",
+      "personaje": "Shrek (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+    },
+    {
+      "nombre": "Eddie Murphy",
+      "personaje": "Donkey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    },
+    {
+      "nombre": "Cameron Diaz",
+      "personaje": "Princess Fiona (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+    },
+    {
+      "nombre": "Antonio Banderas",
+      "personaje": "Puss in Boots (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+    },
+    {
+      "nombre": "Julie Andrews",
+      "personaje": "Queen Lillian (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kTXM2KfsXh2vSav0s9vaDKfs4lR.jpg"
+    },
+    {
+      "nombre": "John Cleese",
+      "personaje": "King Harold (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nQpBf77cStmR35V0XOinm2zZMWG.jpg"
+    },
+    {
+      "nombre": "Rupert Everett",
+      "personaje": "Prince Charming (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/g0kqfIxf9eIV7rOMQcbebsgMS9Z.jpg"
+    },
+    {
+      "nombre": "Eric Idle",
+      "personaje": "Merlin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1Vj7Lvrl8OHby7AeOK1Z07JyeMp.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Peter S. Seaman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chris Miller",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jeffrey Price",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Denise Nolan Cascino",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aron Warner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Miller",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Andrew Adamson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Aron Warner",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Harry Gregson-Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John H. Williams",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joyce Arrastia",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Guillaume Aretos",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Andrew Adamson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Andrews",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "許誠毅",
+      "rol": "Co-Director"
+    },
+    {
+      "nombre": "Wayne Hellinger",
+      "rol": "Post Production Coordinator"
+    },
+    {
+      "nombre": "Ken Bielenberg",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Philippe Gluckman",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Michelle Belforte",
+      "rol": "Additional Editor"
+    },
+    {
+      "nombre": "Roger S.H. Schulman",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Chris Miller",
+  "valoraciones": {
+    "tmdb": 6.31,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://1a-1791.com/video/fw/s8/2/p/O/r/5/pOr5r.aaa.MP4",
+  "trailer": "https://www.youtube.com/watch?v=InR865IDDjU"
+}
