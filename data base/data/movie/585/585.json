@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 585,
+  "poster": "https://image.tmdb.org/t/p/w500/w4EJRJNyKcMQns8dUbBeKayi9DT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/AjXCJ8VGSdhQdLmHzKH2VTNnJmv.png",
+  "titulo": "Monsters, Inc.",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.849,
+  "año": "2001",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "Para alimentar la ciudad, los monstruos tienen que asustar a los niños para que griten. Sin embargo, los niños son tóxicos para los monstruos, y después de que un niño pasa, dos monstruos se dan cuenta de que las cosas pueden no ser lo que ellos piensan.",
+  "fecha_estreno": "2001-11-01",
+  "titulo_original": "Monsters, Inc.",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "John Goodman",
+      "personaje": "Sullivan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+    },
+    {
+      "nombre": "Billy Crystal",
+      "personaje": "Mike (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jfcCceTnP7rrHz1pSjCxiqRosw3.jpg"
+    },
+    {
+      "nombre": "Mary Gibbs",
+      "personaje": "Boo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nqYOXIaf8ztfacrludRtS1Bytzz.jpg"
+    },
+    {
+      "nombre": "Steve Buscemi",
+      "personaje": "Randall (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+    },
+    {
+      "nombre": "James Coburn",
+      "personaje": "Waternoose (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9GApjInyrVvjnTAr652C1aViPqZ.jpg"
+    },
+    {
+      "nombre": "Jennifer Tilly",
+      "personaje": "Celia (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9vYoYF385cVq9oDO3pDpXihP4vz.jpg"
+    },
+    {
+      "nombre": "Bob Peterson",
+      "personaje": "Roz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg"
+    },
+    {
+      "nombre": "John Ratzenberger",
+      "personaje": "Yeti (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Darla K. Anderson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pete Docter",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Daniel Gerson",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Katherine Sarafian",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Kevin Hawkes",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Jay Ward",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "Derek Williams",
+      "rol": "Sequence Leads"
+    },
+    {
+      "nombre": "Phat Phuong",
+      "rol": "Set Dressing Artist"
+    },
+    {
+      "nombre": "Jessica Hutchison",
+      "rol": "Set Dressing Production Assistant"
+    },
+    {
+      "nombre": "Robert H. Russ",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Atsuko Yamagishi",
+      "rol": "Editorial Production Assistant"
+    },
+    {
+      "nombre": "James Bancroft",
+      "rol": "Modeling"
+    },
+    {
+      "nombre": "Kim White",
+      "rol": "Modeling"
+    },
+    {
+      "nombre": "Jill Culton",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Laura Phillips",
+      "rol": "CG Painter"
+    }
+  ],
+  "director": "Pete Docter",
+  "valoraciones": {
+    "tmdb": 7.849,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/6/L/o/u/6Lour.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=6tCxnHCqqxg"
+}
