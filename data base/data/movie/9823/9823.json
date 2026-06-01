@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 9823,
+  "poster": "https://image.tmdb.org/t/p/w500/wImgbIw8knn5WQvvqV5wdnIHdWn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/19EpgKZDkLIwY1TI1pjBJtQ5qdr.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4MAT4zqvhiPBY6Vk8VZCzdKj26h.png",
+  "titulo": "Mortal Kombat: Aniquilación",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Fantasía",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 4.6,
+  "año": "1997",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "Estamos en el universo del Emperador Shao-Khan, donde las reglas no existen y la vida es una continua batalla. Los esbirros del maquiavélico Khan han sido adiestrados para matar y están dispuestos a cumplir las órdenes de su amo, conseguir el control de la Tierra para iniciar su aniquilación total. Un héroe, llamado Liu Kang, les hará frente.",
+  "fecha_estreno": "1997-11-11",
+  "titulo_original": "Mortal Kombat: Annihilation",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Robin Shou",
+      "personaje": "Liu Kang",
+      "foto": "https://image.tmdb.org/t/p/w500/cnL8HqBowYu9ssTkShDfEmxTgdZ.jpg"
+    },
+    {
+      "nombre": "Talisa Soto",
+      "personaje": "Kitana",
+      "foto": "https://image.tmdb.org/t/p/w500/tpEGbGgASne8m1iHzncuxdSLIkX.jpg"
+    },
+    {
+      "nombre": "James Remar",
+      "personaje": "Raiden",
+      "foto": "https://image.tmdb.org/t/p/w500/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+    },
+    {
+      "nombre": "Brian Thompson",
+      "personaje": "Shao Kahn",
+      "foto": "https://image.tmdb.org/t/p/w500/qooSjBMA1P85JhBpHlwmmisGroO.jpg"
+    },
+    {
+      "nombre": "Sandra Hess",
+      "personaje": "Sonya Blade",
+      "foto": "https://image.tmdb.org/t/p/w500/qqXxOm6UzrjxQ4yQ9jhApHw8ZXD.jpg"
+    },
+    {
+      "nombre": "Lynn 'Red' Williams",
+      "personaje": "Jax",
+      "foto": "https://image.tmdb.org/t/p/w500/gXhZfx3F98V8QX5WqWlSnHIKe9l.jpg"
+    },
+    {
+      "nombre": "Irina Pantaeva",
+      "personaje": "Jade",
+      "foto": "https://image.tmdb.org/t/p/w500/uZiajwCHfKXhnLXPT9Bb2vg4GX6.jpg"
+    },
+    {
+      "nombre": "Reiner Schöne",
+      "personaje": "Shinnok",
+      "foto": "https://image.tmdb.org/t/p/w500/2vuOaIvN6mxwcoc4HbxlloX53Ta.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John R. Leonetti",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lawrence Kasanoff",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lawrence Kasanoff",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Joshua Wexler",
+      "rol": "Story"
+    },
+    {
+      "nombre": "John Tobias",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Brent V. Friedman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bryce Zabel",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brian Witten",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Hee",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Ed Boon",
+      "rol": "Video Game"
+    },
+    {
+      "nombre": "John Tobias",
+      "rol": "Video Game"
+    },
+    {
+      "nombre": "Simon Wakefield",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Shaune Harrison",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Gary Pollard",
+      "rol": "Makeup Effects Designer"
+    },
+    {
+      "nombre": "Matt Jordon",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Pat E. Johnson",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Apichart Chusakul",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Lee Cleary",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Jamie Christopher",
+      "rol": "Second Assistant Director"
+    }
+  ],
+  "director": "John R. Leonetti",
+  "valoraciones": {
+    "tmdb": 4.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://rumble.com/hls-vod/78h95o/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=dimVCTUBJEA"
+}
