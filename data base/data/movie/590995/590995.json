@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 590995,
+  "poster": "https://image.tmdb.org/t/p/w500/nPngRyZrEyHLoEtTC0fiv6ErAJr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1GyjyL1xFXHQKP8ztci2BPZbFUS.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tZwvzctndrZcnxJzXGFz7vw1ozz.png",
+  "titulo": "Jóvenes Brujas: La Nueva Hermandad",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Drama",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.093,
+  "año": "2020",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "Un grupo de estudiantes de instituto deciden formar un aquelarre de brujas. Remake de \"The Craft\", estrenada originalmente en 1996.",
+  "fecha_estreno": "2020-10-28",
+  "titulo_original": "The Craft: Legacy",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Cailee Spaeny",
+      "personaje": "Lily",
+      "foto": "https://image.tmdb.org/t/p/w500/lFHI90dbgMXwKtVDYR4NzbVTWMy.jpg"
+    },
+    {
+      "nombre": "Zoey Luna",
+      "personaje": "Lourdes",
+      "foto": "https://image.tmdb.org/t/p/w500/raqPWDnjGn6iipbvMMgGhBjMX4h.jpg"
+    },
+    {
+      "nombre": "Gideon Adlon",
+      "personaje": "Frankie",
+      "foto": "https://image.tmdb.org/t/p/w500/l8BSlg87Mn75n28P2aXzot6G0pi.jpg"
+    },
+    {
+      "nombre": "Lovie Simone",
+      "personaje": "Tabby",
+      "foto": "https://image.tmdb.org/t/p/w500/8O709kbtGUtffT2eypPpzYZemYR.jpg"
+    },
+    {
+      "nombre": "David Duchovny",
+      "personaje": "Adam",
+      "foto": "https://image.tmdb.org/t/p/w500/rZ2pEvu9IYsnHx3ElWUy4KgK3ia.jpg"
+    },
+    {
+      "nombre": "Michelle Monaghan",
+      "personaje": "Helen",
+      "foto": "https://image.tmdb.org/t/p/w500/xpNSu7oCD81L3YxcVhqhInyI5JR.jpg"
+    },
+    {
+      "nombre": "Nicholas Galitzine",
+      "personaje": "Timmy",
+      "foto": "https://image.tmdb.org/t/p/w500/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+    },
+    {
+      "nombre": "Julian Grey",
+      "personaje": "Abe",
+      "foto": "https://image.tmdb.org/t/p/w500/zX57GXBu9v75IWupH9Cp9Ju7wMr.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Zoe Lister-Jones",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lucy Fisher",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Douglas Wick",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Blum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Zoe Lister-Jones",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ève Corrêa-Guedes",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Marvyn Dennis",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Christian T. Cooke",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Lori Dovi",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Glen Gauthier",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Mark Dejczak",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Pachi Gambra",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Steve Baine",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "David Lebensfeld",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Russ Dyck",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Grant Miller",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Dashen Naidoo",
+      "rol": "Sound Effects Editor"
+    }
+  ],
+  "director": "Zoe Lister-Jones",
+  "valoraciones": {
+    "tmdb": 6.093,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Blumhouse Productions",
+  "enlace_video": "https://1a-1791.com/video/s8/2/n/J/1/F/nJ1Fu.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=dNP78RAWxUo"
+}
