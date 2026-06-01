@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 11231,
+  "poster": "https://image.tmdb.org/t/p/w500/4BTiBFW4jbMEUewbOWqidkEjrL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kgqgbPB2snzVlkMkQjYAvmF1hkc.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6lxaYSjzERYtg3G3YTy4G1M7d3R.png",
+  "titulo": "Karate Kid 4: La nueva aventura",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Drama",
+    "Familia",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.4,
+  "año": "1994",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "Julie perdió a sus padres cuando sólo era una niña. Ahora, a sus 17 años, vive con el señor Miyagi, un anciano japonés amigo de su abuela. La joven además tiene problemas en el instituto con una banda de muchachos que juegan a proteger a su país de enemigos interiores que ya no respetan el viejo orden.",
+  "fecha_estreno": "1994-07-18",
+  "titulo_original": "The Next Karate Kid",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Pat Morita",
+      "personaje": "Mr. Miyagi",
+      "foto": "https://image.tmdb.org/t/p/w500/dwnjbEvhKRanS5xTaI1NkZ98aM9.jpg"
+    },
+    {
+      "nombre": "Hilary Swank",
+      "personaje": "Julie Pierce",
+      "foto": "https://image.tmdb.org/t/p/w500/uin6aAehUGpPCiJCaSjZG8B7M7d.jpg"
+    },
+    {
+      "nombre": "Michael Ironside",
+      "personaje": "Colonel Paul Dugan",
+      "foto": "https://image.tmdb.org/t/p/w500/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg"
+    },
+    {
+      "nombre": "Constance Towers",
+      "personaje": "Louisa Pierce",
+      "foto": "https://image.tmdb.org/t/p/w500/7zuktmfwrpZQ9h3Q7wYddZxnOaz.jpg"
+    },
+    {
+      "nombre": "Chris Conrad",
+      "personaje": "Eric McGowen",
+      "foto": "https://image.tmdb.org/t/p/w500/bT3imD3L01okntIJRM1SiHt6gTG.jpg"
+    },
+    {
+      "nombre": "Arsenio Trinidad",
+      "personaje": "Abbot Monk",
+      "foto": "https://image.tmdb.org/t/p/w500/b3hCkrsQPjTP90OPxWl0XbWhf8j.jpg"
+    },
+    {
+      "nombre": "Michael Cavalieri",
+      "personaje": "Ned",
+      "foto": "https://image.tmdb.org/t/p/w500/2K4LAmP8yO7j3pvxLw5hz1WiyEf.jpg"
+    },
+    {
+      "nombre": "Walton Goggins",
+      "personaje": "Charlie",
+      "foto": "https://image.tmdb.org/t/p/w500/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Christopher Cain",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark Lee",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jerry Weintraub",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Robert Mark Kamen",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "R.J. Louis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bill Conti",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "László Kovács",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Ronald Roose",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Joy Todd",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Susan Ekins",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Walter P. Martishius",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Pat E. Johnson",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Pat E. Johnson",
+      "rol": "Choreographer"
+    },
+    {
+      "nombre": "Tracey A. Doyle",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Steve LaPorte",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Christopher Cain",
+  "valoraciones": {
+    "tmdb": 5.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/6r188l/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=eDchGHJdRVs"
+}
