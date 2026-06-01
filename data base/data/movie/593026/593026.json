@@ -1,0 +1,124 @@
+{
+  "id_tmdb": 593026,
+  "poster": "https://image.tmdb.org/t/p/w500/gIU2uImtNZksNnKok8yVQPzww7y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xSyWuzl85F83hnZeuwznlKNXGjQ.jpg",
+  "logo": null,
+  "titulo": "Mascota Jurásica",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.541,
+  "año": "2019",
+  "duracion": "1h 24min",
+  "edad_minima": 13,
+  "sinopsis": "Un adolescente aventurero reúne el valor necesario para ayudar a un dinosaurio a escapar de las garras de un científico loco que quiere emplearle para realizar experimentos.",
+  "fecha_estreno": "2019-06-12",
+  "titulo_original": "The Adventures of Jurassic Pet",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Molly McCann",
+      "personaje": "Carrie",
+      "foto": "https://image.tmdb.org/t/p/w500/zj9W1ztt5sRnpwOwy7zicXjmLrA.jpg"
+    },
+    {
+      "nombre": "Brooks Ryan",
+      "personaje": "Museum Man",
+      "foto": "https://image.tmdb.org/t/p/w500/oxJcqb9SNGCfIAWZcP2nwRVesNV.jpg"
+    },
+    {
+      "nombre": "Jamie Loy",
+      "personaje": "Guard #2",
+      "foto": null
+    },
+    {
+      "nombre": "Kyler Charles Beck",
+      "personaje": "Chris",
+      "foto": "https://image.tmdb.org/t/p/w500/AdU1VfwZJ185mbP8GtnxhKQsX68.jpg"
+    },
+    {
+      "nombre": "Evan Assante",
+      "personaje": "Middle School Boy",
+      "foto": "https://image.tmdb.org/t/p/w500/f5ZtumV6Z4WfvfZmfCLBHC5ICxL.jpg"
+    },
+    {
+      "nombre": "Lisandro Boccacci",
+      "personaje": "Police Officer",
+      "foto": "https://image.tmdb.org/t/p/w500/zmX8zEN1owhrBWo854kGsZ9fIO1.jpg"
+    },
+    {
+      "nombre": "Ashtyn Barlow Nguyen",
+      "personaje": "Student",
+      "foto": "https://image.tmdb.org/t/p/w500/ijFR5ww0OU5CcXaJ765Vti7m0a1.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Hoyt",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ryan Bellgardt",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jerome Reygner-Kalfon",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sebastien Semon",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ryan Bellgardt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sebastien Semon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Galen Christy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Josh McKamie",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ryan S. Black",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "David Stone Hamilton",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Barry Brooker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Wertlieb",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh McKamie",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Ryan Bellgardt",
+  "valoraciones": {
+    "tmdb": 6.541,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anton Capital Entertainment",
+  "enlace_video": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelissep%2FMi%20mascota%20es%20un%20dinosaurio%20Online%20-%20PelisPlus.mp4",
+  "trailer": "https://www.youtube.com/watch?v=zIYC_8dp9AA"
+}
