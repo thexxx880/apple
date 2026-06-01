@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 1885,
+  "poster": "https://image.tmdb.org/t/p/w500/qupC1Jxss4YH5Y2ZeIB4XXokGcd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/j1xaeJZOEOiVBD1rk3dg4YaAk23.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5xvdB55ZiJ3XUIaNDqvn4NkASxl.png",
+  "titulo": "Karate Kid",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Drama",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.222,
+  "año": "1984",
+  "duracion": "2h 6min",
+  "edad_minima": 13,
+  "sinopsis": "Daniel Larusso llega a Los Angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo. En tal situación, no tiene más remedio que pedirle ayuda a Miyagi, un maestro de artes marciales, para que le enseñe kárate. Bajo la tutela de Miyagi, Daniel desarrolla no sólo sus aptitudes físicas, sino también la seguridad en sí mismo que necesita para superar todos los obstáculos.",
+  "fecha_estreno": "1984-06-22",
+  "titulo_original": "The Karate Kid",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ralph Macchio",
+      "personaje": "Daniel LaRusso",
+      "foto": "https://image.tmdb.org/t/p/w500/AoqqL9UlyPrcTLnpzbQvKXPvXrz.jpg"
+    },
+    {
+      "nombre": "Pat Morita",
+      "personaje": "Mr. Miyagi",
+      "foto": "https://image.tmdb.org/t/p/w500/dwnjbEvhKRanS5xTaI1NkZ98aM9.jpg"
+    },
+    {
+      "nombre": "Elisabeth Shue",
+      "personaje": "Ali Mills",
+      "foto": "https://image.tmdb.org/t/p/w500/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg"
+    },
+    {
+      "nombre": "William Zabka",
+      "personaje": "Johnny Lawrence",
+      "foto": "https://image.tmdb.org/t/p/w500/AoTxNif6Kv5KtIk3YdfQUxLrLeR.jpg"
+    },
+    {
+      "nombre": "Martin Kove",
+      "personaje": "John Kreese",
+      "foto": "https://image.tmdb.org/t/p/w500/cuRi6YRaCrXOFU8cmqf5uTk0sUV.jpg"
+    },
+    {
+      "nombre": "Randee Heller",
+      "personaje": "Lucille LaRusso",
+      "foto": null
+    },
+    {
+      "nombre": "Ron Thomas",
+      "personaje": "Bobby",
+      "foto": "https://image.tmdb.org/t/p/w500/rjaSjOIQwg77r6ZvZlER1Vblzpu.jpg"
+    },
+    {
+      "nombre": "Rob Garrison",
+      "personaje": "Tommy",
+      "foto": "https://image.tmdb.org/t/p/w500/9Vs91nvKTDtKyzNk4ygqftEkZEj.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jerry Weintraub",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John G. Avildsen",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robert Mark Kamen",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bill Conti",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John G. Avildsen",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Bud S. Smith",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Walt Mulconery",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "William J. Cassidy",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "James Crabe",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Scott Wilder",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "William F. Matthews",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Pat Green",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Fumio Demura",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Clarke Coleman",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Spike Silver",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "John G. Avildsen",
+  "valoraciones": {
+    "tmdb": 7.222,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/c/y/N/w/cyNwu.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=r_8Rw16uscg"
+}
