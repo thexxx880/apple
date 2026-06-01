@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 505642,
+  "poster": "https://image.tmdb.org/t/p/w500/mYpT2R7639KvKZ668uoQGS2QNFp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/au1WAGowPOKk4J5duTP2CWhwlX5.png",
+  "titulo": "Pantera Negra: Wakanda por siempre",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.006,
+  "año": "2022",
+  "duracion": "2h 42min",
+  "edad_minima": 13,
+  "sinopsis": "La reina Ramonda, Shuri, M'Baku, Okoye y las Dora Milaje luchan por proteger a su nación de las potencias mundiales que intervienen tras la muerte del Rey T'Challa. Mientras los habitantes de Wakanda se esfuerzan por embarcarse en un nuevo capítulo, los héroes deben unirse con la ayuda de Nakia y Everett Ross y forjar un nuevo camino para el reino de Wakanda.",
+  "fecha_estreno": "2022-11-09",
+  "titulo_original": "Black Panther: Wakanda Forever",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Letitia Wright",
+      "personaje": "Shuri",
+      "foto": "https://image.tmdb.org/t/p/w500/f7PevpEeBqwzACPhoZ8K3ktrKvE.jpg"
+    },
+    {
+      "nombre": "Tenoch Huerta Mejía",
+      "personaje": "Namor",
+      "foto": "https://image.tmdb.org/t/p/w500/cgHc2IeZ5ifsAhTKW4Rddh2EP9h.jpg"
+    },
+    {
+      "nombre": "Lupita Nyong'o",
+      "personaje": "Nakia",
+      "foto": "https://image.tmdb.org/t/p/w500/fGBB6Er4S6hb5zOp8xQtpMrxx5q.jpg"
+    },
+    {
+      "nombre": "Danai Gurira",
+      "personaje": "Okoye",
+      "foto": "https://image.tmdb.org/t/p/w500/z7H7QeQvr24vskGlANQhG43vozQ.jpg"
+    },
+    {
+      "nombre": "Winston Duke",
+      "personaje": "M'Baku",
+      "foto": "https://image.tmdb.org/t/p/w500/MhBiZbryibwuoEtPL9Ns8pYHC1.jpg"
+    },
+    {
+      "nombre": "Angela Bassett",
+      "personaje": "Ramonda",
+      "foto": "https://image.tmdb.org/t/p/w500/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+    },
+    {
+      "nombre": "Martin Freeman",
+      "personaje": "Everett Ross",
+      "foto": "https://image.tmdb.org/t/p/w500/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+    },
+    {
+      "nombre": "Julia Louis-Dreyfus",
+      "personaje": "Valentina Allegra de Fontaine",
+      "foto": "https://image.tmdb.org/t/p/w500/iEfHQNrVbVFesDPjdySom9nqsFg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Nate Moore",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan Coogler",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ryan Coogler",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joe Robert Cole",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan Coogler",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lisa K. Sessions",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jason T. Clark",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jasmine Alexia Jackson",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Autumn Durald Arkapaw",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jennifer Badger",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Aakomon Jones",
+      "rol": "Choreographer"
+    },
+    {
+      "nombre": "Ludwig Göransson",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Victoria Alonso",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin R. Wright",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Barry H. Waldman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Leigha Hancock",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Ryan Coogler",
+  "valoraciones": {
+    "tmdb": 7.006,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://workanga.zonaaps-peliculas7590.workers.dev/0:/Wakanga Forever/1080 p.mp4",
+  "trailer": "https://www.youtube.com/watch?v=_Z3QKkl1WyM"
+}
