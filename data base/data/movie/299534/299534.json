@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 299534,
+  "poster": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/buRixJDsTvxTHuY6xXK8p9wZoYU.png",
+  "titulo": "Avengers: Endgame",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Ciencia ficción",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 8.236,
+  "año": "2019",
+  "duracion": "3h 0min",
+  "edad_minima": 13,
+  "sinopsis": "Después de los devastadores eventos de los Vengadores: Infinity War (2018), el universo está en ruinas. Con la ayuda de los aliados restantes, los Vengadores se reúnen una vez más para revertir las acciones de Thanos y restaurar el equilibrio del universo.",
+  "fecha_estreno": "2019-04-24",
+  "titulo_original": "Avengers: Endgame",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Robert Downey Jr.",
+      "personaje": "Tony Stark / Iron Man",
+      "foto": "https://image.tmdb.org/t/p/w500/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "nombre": "Chris Evans",
+      "personaje": "Steve Rogers / Captain America",
+      "foto": "https://image.tmdb.org/t/p/w500/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "nombre": "Mark Ruffalo",
+      "personaje": "Bruce Banner / Hulk",
+      "foto": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "nombre": "Chris Hemsworth",
+      "personaje": "Thor",
+      "foto": "https://image.tmdb.org/t/p/w500/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "nombre": "Scarlett Johansson",
+      "personaje": "Natasha Romanoff / Black Widow",
+      "foto": "https://image.tmdb.org/t/p/w500/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "nombre": "Jeremy Renner",
+      "personaje": "Clint Barton / Hawkeye",
+      "foto": "https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+    },
+    {
+      "nombre": "Josh Brolin",
+      "personaje": "Thanos",
+      "foto": "https://image.tmdb.org/t/p/w500/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "nombre": "Don Cheadle",
+      "personaje": "James Rhodes / War Machine",
+      "foto": "https://image.tmdb.org/t/p/w500/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Stephen McFeely",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Christopher Markus",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Anthony Russo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joe Russo",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Paul Schneider",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carlos Pacheco",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "John David Duncan",
+      "rol": "Assistant Set Decoration"
+    },
+    {
+      "nombre": "Riley Flanagan",
+      "rol": "Key Set Production Assistant"
+    },
+    {
+      "nombre": "Monique Ganderton",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Janene Carleton",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Shauna Galligan",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Don McGregor",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Steve Gan",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jack Kirby",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Bill Mantlo",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Anthony Russo",
+  "valoraciones": {
+    "tmdb": 8.236,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/j/K/2/f/jK2fq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=AMSITikqKiM"
+}
