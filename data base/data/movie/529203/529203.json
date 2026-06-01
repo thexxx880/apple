@@ -1,0 +1,159 @@
+{
+  "id_tmdb": 529203,
+  "poster": "https://image.tmdb.org/t/p/w500/5uMWKEmegf5aTJnp1u98JF4QerP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qqXQfpe27jYM8h7SmvLk3qWvcJ7.png",
+  "titulo": "Los Croods 2: Una Nueva Era",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura",
+    "Fantasía",
+    "Comedia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.44,
+  "año": "2020",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "La familia prehistórica Los Croods es desafiada por una familia rival, los Betterman, que dicen ser mejores y más evolucionados.",
+  "fecha_estreno": "2020-11-25",
+  "titulo_original": "The Croods: A New Age",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Nicolas Cage",
+      "personaje": "Grug (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+      "nombre": "Emma Stone",
+      "personaje": "Eep (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
+    },
+    {
+      "nombre": "Ryan Reynolds",
+      "personaje": "Guy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+      "nombre": "Catherine Keener",
+      "personaje": "Ugga (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+    },
+    {
+      "nombre": "Cloris Leachman",
+      "personaje": "Gran (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/o8pnV9urjuHZDAR2u4UjPy2CR1u.jpg"
+    },
+    {
+      "nombre": "Clark Duke",
+      "personaje": "Thunk (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qL7x57avA9IupsjtwnpIuJ8p8BD.jpg"
+    },
+    {
+      "nombre": "Leslie Mann",
+      "personaje": "Hope Betterman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/x3OS9RL3qsv50kzRtpR2OhbuTkr.jpg"
+    },
+    {
+      "nombre": "Peter Dinklage",
+      "personaje": "Phil Betterman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Dan Hageman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joel Crawford",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kevin Hageman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mark Swift",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bob Logan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Paul Fisher",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chris Sanders",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Kirk DeMicco",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Randy Thom",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Leff Lefferts",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Chris Scarabosio",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Brian Chumney",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Leff Lefferts",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Natalia Cronembold",
+      "rol": "Associate Editor"
+    },
+    {
+      "nombre": "James Ryan",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Shaun Collaco",
+      "rol": "Lighting Supervisor"
+    },
+    {
+      "nombre": "Anthony Zierhut",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Antony Gray",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Natalia Cronembold",
+      "rol": "First Assistant Editor"
+    },
+    {
+      "nombre": "Mary Blee",
+      "rol": "Associate Editor"
+    }
+  ],
+  "director": "Joel Crawford",
+  "valoraciones": {
+    "tmdb": 7.44,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://rumble.com/hls-vod/6u1hv8/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=hy4vAqF9Ko0"
+}
