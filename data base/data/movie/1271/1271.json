@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 1271,
+  "poster": "https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nodzyMLZpqzh1U0FgUXamgjd7mZ.png",
+  "titulo": "300",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Bélica"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.198,
+  "año": "2007",
+  "duracion": "1h 57min",
+  "edad_minima": 13,
+  "sinopsis": "En el año 480 antes de Cristo, existe un estado de guerra entre Persia, dirigida por el rey Jerjes, y Grecia. En la batalla de la Termópilas, Leonidas, rey de la ciudad griega de Esparta, encabeza a sus 300 bravos soldados en contra del numeroso ejército persa. A pesar de que la muerte aguarda a los espartanos, su sacrificio inspira a toda Grecia para unirla en contra de su enemigo común.",
+  "fecha_estreno": "2007-03-07",
+  "titulo_original": "300",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Gerard Butler",
+      "personaje": "King Leonidas",
+      "foto": "https://image.tmdb.org/t/p/w500/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+    },
+    {
+      "nombre": "Lena Headey",
+      "personaje": "Gorgo",
+      "foto": "https://image.tmdb.org/t/p/w500/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+    },
+    {
+      "nombre": "Dominic West",
+      "personaje": "Theron",
+      "foto": "https://image.tmdb.org/t/p/w500/6y2M3EWslBPwPlugEFg8XDHfSJ0.jpg"
+    },
+    {
+      "nombre": "David Wenham",
+      "personaje": "Dilios/Narrator",
+      "foto": "https://image.tmdb.org/t/p/w500/F7CWSqUE75HtrcdqIQ7UMZ9aTX.jpg"
+    },
+    {
+      "nombre": "Vincent Regan",
+      "personaje": "Captain",
+      "foto": "https://image.tmdb.org/t/p/w500/7VHu79GciN5QlQTmWdBS86eE2mu.jpg"
+    },
+    {
+      "nombre": "Michael Fassbender",
+      "personaje": "Stelios",
+      "foto": "https://image.tmdb.org/t/p/w500/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+    },
+    {
+      "nombre": "Tom Wisdom",
+      "personaje": "Astinos",
+      "foto": "https://image.tmdb.org/t/p/w500/84jgVW6GGeha5T3FsFwN6BQ4qOu.jpg"
+    },
+    {
+      "nombre": "Andrew Pleavin",
+      "personaje": "Daxos",
+      "foto": "https://image.tmdb.org/t/p/w500/hp20HveWeBveVYtE87DPwmXEpD2.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Zack Snyder",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Zack Snyder",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kurt Johnstad",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gianni Nunnari",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bernie Goldmann",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeffrey Silver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael B. Gordon",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Larry Fong",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "William Hoy",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Kristy Carlson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Carrie Hilton",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Andrea Kenyon",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Nicolas Lepage",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "William Fay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Craig J. Flores",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Mednick",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Frank Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Deborah Snyder",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thomas Tull",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Zack Snyder",
+  "valoraciones": {
+    "tmdb": 7.198,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Virtual Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/A/P/3/E/AP3Eo.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=UrIbxk7idYA"
+}
