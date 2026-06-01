@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 394117,
+  "poster": "https://image.tmdb.org/t/p/w500/c2Jwrq1AbGt2vpbdFXGwjy82UU3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lO5c0zG8s1dBPHcRparpNlNGWU9.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/l73Gj7n6VgGRQ1fUzb5w07xj6fu.png",
+  "titulo": "Proyecto Florida",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.432,
+  "año": "2017",
+  "duracion": "1h 52min",
+  "edad_minima": 13,
+  "sinopsis": "Una niña de 6 años y sus amigos pasan el verano en un pequeño motel muy próximo a Disneyworld, mientras sus padres y el resto de adultos que les rodean sufren aún los efectos de la crisis.",
+  "fecha_estreno": "2017-10-06",
+  "titulo_original": "The Florida Project",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Brooklynn Prince",
+      "personaje": "Moonee",
+      "foto": "https://image.tmdb.org/t/p/w500/k9oSIk7V8Sbgs0Dw8tX71f9YeXi.jpg"
+    },
+    {
+      "nombre": "Bria Vinaite",
+      "personaje": "Halley",
+      "foto": "https://image.tmdb.org/t/p/w500/rxWpLRHLt3PXSWeUQMKEU48jjeI.jpg"
+    },
+    {
+      "nombre": "Willem Dafoe",
+      "personaje": "Bobby",
+      "foto": "https://image.tmdb.org/t/p/w500/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "nombre": "Christopher Rivera",
+      "personaje": "Scooty",
+      "foto": "https://image.tmdb.org/t/p/w500/3nDamVZZkn7ngthoCvb9KHYmz6S.jpg"
+    },
+    {
+      "nombre": "Valeria Cotto",
+      "personaje": "Jancey",
+      "foto": "https://image.tmdb.org/t/p/w500/bLfizLadY8x3SLQsKjoonnInLgE.jpg"
+    },
+    {
+      "nombre": "Mela Murder",
+      "personaje": "Ashley",
+      "foto": "https://image.tmdb.org/t/p/w500/sE5QJ3a46Nk1Zx1ibGfvjI50R1v.jpg"
+    },
+    {
+      "nombre": "Josie Olivo",
+      "personaje": "Grandma Stacy",
+      "foto": null
+    },
+    {
+      "nombre": "Caleb Landry Jones",
+      "personaje": "Jack",
+      "foto": "https://image.tmdb.org/t/p/w500/8M5lPHrERwAIfWK56RkH30FOjhV.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sean Baker",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sean Baker",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sean Baker",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Chinoy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Francesca Silvestri",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Saks",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Duncan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "鄒時擎",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jesse Pomeroy",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Matt Snedecor",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Eve Garnier",
+      "rol": "Visual Effects Editor"
+    },
+    {
+      "nombre": "David Danesi",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Guillaume Chiavassa",
+      "rol": "Visual Effects Editor"
+    },
+    {
+      "nombre": "Marten W. Piccinini",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Sean Baker",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Lorne Balfe",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Dani Johnson",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Diana Thomas-Madison",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Samantha Quan",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Elayne Schneiderman Schmidt",
+      "rol": "Line Producer"
+    }
+  ],
+  "director": "Sean Baker",
+  "valoraciones": {
+    "tmdb": 7.432,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cre Film",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/2a/s8/2/i/N/1/s/iN1sA.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=IicK7bmcZlw"
+}
