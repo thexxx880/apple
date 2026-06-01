@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 162,
+  "poster": "https://image.tmdb.org/t/p/w500/uLn4xdrPNKVjMYhKaBIktmYDwbk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/k7KFGDGW7WnvbOcQiOJdGfvlXLk.png",
+  "titulo": "El Joven Manos de Tijera",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Drama",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.721,
+  "año": "1990",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Un hombre artificial, que fue construido incompletamente y tiene tijeras por manos, lleva una vida solitaria. Un día, una dama de los suburbios lo conoce y lo introduce a su mundo.",
+  "fecha_estreno": "1990-12-07",
+  "titulo_original": "Edward Scissorhands",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Johnny Depp",
+      "personaje": "Edward Scissorhands",
+      "foto": "https://image.tmdb.org/t/p/w500/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+    },
+    {
+      "nombre": "Winona Ryder",
+      "personaje": "Kim",
+      "foto": "https://image.tmdb.org/t/p/w500/gATeG0K6zaZ0wUuu7eB5XjHhySy.jpg"
+    },
+    {
+      "nombre": "Dianne Wiest",
+      "personaje": "Peg",
+      "foto": "https://image.tmdb.org/t/p/w500/p9mfzY68FtEbedOMNB5X4eBShhx.jpg"
+    },
+    {
+      "nombre": "Anthony Michael Hall",
+      "personaje": "Jim",
+      "foto": "https://image.tmdb.org/t/p/w500/nLthzoCuNxxd3KteIrnnMg1066G.jpg"
+    },
+    {
+      "nombre": "Kathy Baker",
+      "personaje": "Joyce",
+      "foto": "https://image.tmdb.org/t/p/w500/34zuI0qWTD5jdqmJRtPwaW70JcQ.jpg"
+    },
+    {
+      "nombre": "Robert Oliveri",
+      "personaje": "Kevin",
+      "foto": "https://image.tmdb.org/t/p/w500/nVQaZ3cBGPXYzPheCoYpCV2Vz7I.jpg"
+    },
+    {
+      "nombre": "Conchata Ferrell",
+      "personaje": "Helen",
+      "foto": "https://image.tmdb.org/t/p/w500/1CuSudlDbvrhFSpXPckzlMfzLiJ.jpg"
+    },
+    {
+      "nombre": "Caroline Aaron",
+      "personaje": "Marge",
+      "foto": "https://image.tmdb.org/t/p/w500/7nnic1Dao3XoScrwX7Ac39N2BC1.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tim Burton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Denise Di Novi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tim Burton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Caroline Thompson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Caroline Thompson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Tim Burton",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Colleen Atwood",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Colleen Halsey",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ve Neill",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Victoria Thomas",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Richard Halsey",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Danny Elfman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Stefan Czapsky",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Richard Hashimoto",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Richard L. Anderson",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Caroline Thompson",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Cheryl Carasik",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Ann Harris",
+      "rol": "Set Designer"
+    }
+  ],
+  "director": "Tim Burton",
+  "valoraciones": {
+    "tmdb": 7.721,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Fox",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe1/b7/s8/2/e/2/A/x/e2Axx.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=S8bBjpUBbro"
+}
