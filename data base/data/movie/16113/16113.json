@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 16113,
+  "poster": "https://image.tmdb.org/t/p/w500/vaDIsDbPUfZ5M4PceB7VUvf5JWb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vo7lHgGCMm8mvZfjXZfDlPvYxY2.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hY9EoribAPU0CLl6tmqT8lqVGli.png",
+  "titulo": "Fuerza delta",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Bélica"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6,
+  "año": "1986",
+  "duracion": "2h 8min",
+  "edad_minima": 13,
+  "sinopsis": "Un 707 avión a reacción de avión en su camino de Atenas a Roma y luego a Ciudad de Nueva York es robado por terroristas libaneses. Los terroristas exigen que el piloto los tome a Beirut. Lo que los terroristas no realizan es que han llamado un equipo de la elite de comandos encabezado por el comandante McCoy (Norris) y por el coronel Alexander (Marvin) en el servicio para eliminar a todos los terroristas en el avión a reacción.",
+  "fecha_estreno": "1986-02-14",
+  "titulo_original": "The Delta Force",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chuck Norris",
+      "personaje": "Major Scott McCoy",
+      "foto": "https://image.tmdb.org/t/p/w500/m3uLikdhi9qObRvGVHsKX5H93lR.jpg"
+    },
+    {
+      "nombre": "Lee Marvin",
+      "personaje": "Colonel Nick Alexander",
+      "foto": "https://image.tmdb.org/t/p/w500/bXVCrjGbGhPg6mgDi9OIrp5jK9b.jpg"
+    },
+    {
+      "nombre": "Martin Balsam",
+      "personaje": "Ben Kaplan",
+      "foto": "https://image.tmdb.org/t/p/w500/2q7xs6j6vGll3pc9Mm6TUEvvwBf.jpg"
+    },
+    {
+      "nombre": "Joey Bishop",
+      "personaje": "Harry Goldman",
+      "foto": "https://image.tmdb.org/t/p/w500/3iDZ0usbPT35aHydBkMsUFzSdMk.jpg"
+    },
+    {
+      "nombre": "Robert Forster",
+      "personaje": "Abdul",
+      "foto": "https://image.tmdb.org/t/p/w500/vGDifxN2PnO69rnpg6FoWkocFCD.jpg"
+    },
+    {
+      "nombre": "Lainie Kazan",
+      "personaje": "Sylvia Goldman",
+      "foto": "https://image.tmdb.org/t/p/w500/6BpG5cRYtT2Trtaq6IshpLY9jgf.jpg"
+    },
+    {
+      "nombre": "George Kennedy",
+      "personaje": "Father O'Malley",
+      "foto": "https://image.tmdb.org/t/p/w500/fIVmcPEcPmh0Rbx4mYf9aneCmDe.jpg"
+    },
+    {
+      "nombre": "Hanna Schygulla",
+      "personaje": "Ingrid",
+      "foto": "https://image.tmdb.org/t/p/w500/hAZVxNCVzYBq3ToWzE01LXK6Oum.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Menahem Golan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James Bruner",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Menahem Golan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Yoram Globus",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Menahem Golan",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alan Silvestri",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "דוד גורפינקל",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Alain Jakubowicz",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Luciano Spadoni",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ladislav Wilheim",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Tami Mor",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Vittorio Biseo",
+      "rol": "Key Makeup Artist"
+    },
+    {
+      "nombre": "Esty Kariv",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Tamy Levy",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Patrice Morieres",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Zivit Yakir",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Dov Maoz",
+      "rol": "Production Manager"
+    }
+  ],
+  "director": "Menahem Golan",
+  "valoraciones": {
+    "tmdb": 6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Cannon Group",
+  "enlace_video": "https://rumble.com/hls-vod/75bw8a/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=eEqj2cBYUAo"
+}
