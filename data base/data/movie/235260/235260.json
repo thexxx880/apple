@@ -1,0 +1,151 @@
+{
+  "id_tmdb": 235260,
+  "poster": "https://image.tmdb.org/t/p/w500/pJ2qK5r3zqXhB0MQxkAmEPZSSXF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hONTXxtQVSYySKW5f3nRndKUfhc.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bZ56HUEBy7NygVvC7Bpox0MYHXp.png",
+  "titulo": "Hijo de Dios",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.888,
+  "año": "2014",
+  "duracion": "2h 18min",
+  "edad_minima": 13,
+  "sinopsis": "Juan, el último discípulo sobreviviente de Cristo, que vive en el exilio, cuenta su historia.  Jesús nace de una virgen (Leila Mimmack), y entonces tres hombres sabios lo visitan y declaran que va a ser el futuro rey. 33 años después, un adulto, Jesucristo (Diogo Morgado) viaja a Galilea y comienza a reclutar seguidores, a Santiago, a su hermano Juan, a Pedro el pescador, a Mateo, el recaudador de impuestos. Estos hombres se convertirían en sus discípulos.",
+  "fecha_estreno": "2014-02-28",
+  "titulo_original": "Son of God",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Diogo Morgado",
+      "personaje": "Jesus",
+      "foto": "https://image.tmdb.org/t/p/w500/gT30yF7Nqv66B2CQl8Id0HOPmGt.jpg"
+    },
+    {
+      "nombre": "Roma Downey",
+      "personaje": "Mary, Mother of Jesus",
+      "foto": "https://image.tmdb.org/t/p/w500/nmo93m36akFM33NsPNsVFl3Uiil.jpg"
+    },
+    {
+      "nombre": "Greg Hicks",
+      "personaje": "Pilate",
+      "foto": "https://image.tmdb.org/t/p/w500/5thG2OdtPMGi3qKDCSsG8IInRnK.jpg"
+    },
+    {
+      "nombre": "Adrian Schiller",
+      "personaje": "Caiaphas",
+      "foto": "https://image.tmdb.org/t/p/w500/hzaZSk4J0C78bU3zlqLjCruNGBQ.jpg"
+    },
+    {
+      "nombre": "Darwin Shaw",
+      "personaje": "Peter",
+      "foto": "https://image.tmdb.org/t/p/w500/gtBBjesu9Q0krTK6ACyZGGdt3Bz.jpg"
+    },
+    {
+      "nombre": "Sebastian Knapp",
+      "personaje": "John",
+      "foto": "https://image.tmdb.org/t/p/w500/9kLNskiMufzhpXeRbPP95Wo2OoV.jpg"
+    },
+    {
+      "nombre": "Joe Wredden",
+      "personaje": "Judas",
+      "foto": "https://image.tmdb.org/t/p/w500/5p6yYsDCYZPMcOIBPLkfVAwUC1I.jpg"
+    },
+    {
+      "nombre": "Simon Kunz",
+      "personaje": "Nicodemus",
+      "foto": "https://image.tmdb.org/t/p/w500/7Kh3IbRU4bmeiH210CgHu9lofo7.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Richard Bedser",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Christopher Spencer",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Christopher Spencer",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Richard Bedser",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Roma Downey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nic Young",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Colin Swash",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Hauke Richter",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Said El Kounti",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Claudia Parker",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jeremy Price",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Rob Goldie",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Ros Little",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Simon Gershon",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Robin Green",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Alan Spalding",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Nigel Squibbs",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Robert 'Rob' Hall",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Joanna Beatty",
+      "rol": "Costume Supervisor"
+    }
+  ],
+  "director": "Christopher Spencer",
+  "valoraciones": {
+    "tmdb": 6.888,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Hearst Entertainment Productions",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/2/8/G/P/28GPq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=-Hsl5UG9O_c"
+}
