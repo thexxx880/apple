@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 12155,
+  "poster": "https://image.tmdb.org/t/p/w500/l3Ng3mRtQ6YN4SfFPCk9oxSGa3i.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ocOWbTzHcJVTw9Tz173KPeskDOP.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/i3A60c2cnPbByWzwXK6oLkeQHdo.png",
+  "titulo": "Alicia en el país de las maravillas",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Fantasía",
+    "Aventura"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.6,
+  "año": "2010",
+  "duracion": "1h 48min",
+  "edad_minima": 13,
+  "sinopsis": "Alice, ahora de 19 años, regresa al mundo de maravillas, en el que entró cuando era niña, y se embarca en un viaje para descubrir su verdadero destino.",
+  "fecha_estreno": "2010-03-03",
+  "titulo_original": "Alice in Wonderland",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mia Wasikowska",
+      "personaje": "Alice Kingsleigh",
+      "foto": "https://image.tmdb.org/t/p/w500/xOYlAZsLwFZ0gNHLnt1Hzuo2yqN.jpg"
+    },
+    {
+      "nombre": "Johnny Depp",
+      "personaje": "Tarrant Hightopp / Mad Hatter",
+      "foto": "https://image.tmdb.org/t/p/w500/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+    },
+    {
+      "nombre": "Anne Hathaway",
+      "personaje": "Mirana / White Queen",
+      "foto": "https://image.tmdb.org/t/p/w500/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+      "nombre": "Helena Bonham Carter",
+      "personaje": "Iracebeth / Red Queen",
+      "foto": "https://image.tmdb.org/t/p/w500/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "nombre": "Crispin Glover",
+      "personaje": "Ilosovic Stayne / Knave of Hearts",
+      "foto": "https://image.tmdb.org/t/p/w500/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg"
+    },
+    {
+      "nombre": "Matt Lucas",
+      "personaje": "Tweedledee / Tweedledum",
+      "foto": "https://image.tmdb.org/t/p/w500/2OhGLJqiknaWlbTkG2KDwT935km.jpg"
+    },
+    {
+      "nombre": "Alan Rickman",
+      "personaje": "Absolem / Caterpillar (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    },
+    {
+      "nombre": "Stephen Fry",
+      "personaje": "Cheshire Cat (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lv2nwyciDv1P5FPsjD6DmFzV7Nt.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tim Burton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Linda Woolverton",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Katterli Frauenfelder",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Roth",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jennifer Todd",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Suzanne Todd",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard D. Zanuck",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Danny Elfman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Mary Richards",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Chris Lebenzon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter M. Tobyansen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dariusz Wolski",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Chris Lebenzon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Colleen Atwood",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Adam Hart",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Eunice Huthart",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Ilram Choi",
+      "rol": "Fight Choreographer"
+    },
+    {
+      "nombre": "Theo Kypri",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Jesse V. Johnson",
+      "rol": "Utility Stunts"
+    }
+  ],
+  "director": "Tim Burton",
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/0/R/k/I/0RkIm.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=9POCgSRVvf0"
+}
