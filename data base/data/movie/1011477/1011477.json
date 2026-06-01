@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 1011477,
+  "poster": "https://image.tmdb.org/t/p/w500/bwNAjGUsHt35eqT0Aj8NHU02WPl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7Q2CmqIVJuDAESPPp76rWIiA0AD.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6BEBpypi6kT0HZchQIVR23l537p.png",
+  "titulo": "Karate Kid: Leyendas",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.997,
+  "año": "2025",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "Tras una tragedia familiar, el prodigio del kung fu Li Fong se ve obligado a abandonar su hogar en Pekín y trasladarse a Nueva York con su madre. Li lucha por dejar atrás su pasado mientras intenta encajar con sus nuevos compañeros de clase y, aunque no quiere pelear, los problemas parecen encontrarle en todas partes. Cuando un nuevo amigo necesita su ayuda, Li se presenta a una competición de kárate, pero sus habilidades no son suficientes. El profesor de kung fu de Li, el Sr. Han, pide ayuda al Karate Kid original, Daniel LaRusso, y Li aprende una nueva forma de luchar, fusionando sus dos estilos en uno solo para el enfrentamiento definitivo de artes marciales.",
+  "fecha_estreno": "2025-05-08",
+  "titulo_original": "Karate Kid: Legends",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jackie Chan",
+      "personaje": "Mr. Han",
+      "foto": "https://image.tmdb.org/t/p/w500/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "nombre": "Ben Wang",
+      "personaje": "Li Fong",
+      "foto": "https://image.tmdb.org/t/p/w500/5A6JgNR9nlFVjuzJ1oOXyj2hfJo.jpg"
+    },
+    {
+      "nombre": "Joshua Jackson",
+      "personaje": "Victor Lipani",
+      "foto": "https://image.tmdb.org/t/p/w500/mH2a5YFd8J7upjjWwEzM75vitA2.jpg"
+    },
+    {
+      "nombre": "Sadie Stanley",
+      "personaje": "Mia Lipani",
+      "foto": "https://image.tmdb.org/t/p/w500/zfjr9nkUTWJ2EekyiWmYdxscrSJ.jpg"
+    },
+    {
+      "nombre": "Ming-Na Wen",
+      "personaje": "Dr. Fong",
+      "foto": "https://image.tmdb.org/t/p/w500/eqCzFF83It56cUdjpskzvg8jgq.jpg"
+    },
+    {
+      "nombre": "Wyatt Oleff",
+      "personaje": "Alan",
+      "foto": "https://image.tmdb.org/t/p/w500/wEka1IzC5OtkKGGhlMmItAfDUqW.jpg"
+    },
+    {
+      "nombre": "Aramis Knight",
+      "personaje": "Conor",
+      "foto": "https://image.tmdb.org/t/p/w500/l1w7atqr6aJuxwzcM4soZ9ZWBJc.jpg"
+    },
+    {
+      "nombre": "Ralph Macchio",
+      "personaje": "Daniel LaRusso",
+      "foto": "https://image.tmdb.org/t/p/w500/AoqqL9UlyPrcTLnpzbQvKXPvXrz.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rob Lieber",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jonathan Entwistle",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Karen Rosenfelt",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Robert Mark Kamen",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Christopher Murphey",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Justin Brown",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Richard Graves",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Jenny Hinkey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ralph Macchio",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "George Drakoulias",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Dominic Lewis",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Mirren Gordon-Crozier",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Dana E. Glauberman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Maya Sigel",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Shanna Roberts Salée",
+      "rol": "Second Second Assistant Director"
+    }
+  ],
+  "director": "Jonathan Entwistle",
+  "valoraciones": {
+    "tmdb": 6.997,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/f9/s8/2/i/X/N/3/iXN3y.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=LhRXf-yEQqA"
+}
