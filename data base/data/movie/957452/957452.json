@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 957452,
+  "poster": "https://image.tmdb.org/t/p/w500/X9iFHeIYgfqoZImvdidx8b9v4R.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/503LUrI9juBk1rktOPzxyMUTDEu.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bW9XH0JznUZKK91pTKcNThmc6vY.png",
+  "titulo": "El Cuervo",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Fantasía",
+    "Terror"
+  ],
+  "calificacion": "C",
+  "puntuacion": 5.792,
+  "año": "2024",
+  "duracion": "1h 51min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando las almas gemelas, Eric y Shelly, son brutalmente asesinadas, los demonios de su oscuro pasado los alcanzan.  Ante la oportunidad de salvar a su verdadero amor sacrificándose, Eric se propone vengarse despiadadamente de sus asesinos, atravesando los mundos de los vivos y los muertos para arreglar las cosas equivocadas.",
+  "fecha_estreno": "2024-08-21",
+  "titulo_original": "The Crow",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Bill Skarsgård",
+      "personaje": "Eric",
+      "foto": "https://image.tmdb.org/t/p/w500/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+    },
+    {
+      "nombre": "FKA twigs",
+      "personaje": "Shelly Webster",
+      "foto": "https://image.tmdb.org/t/p/w500/8bUUu7jPEY1aQgAtJXM2NyYpfgN.jpg"
+    },
+    {
+      "nombre": "Danny Huston",
+      "personaje": "Vincent Roeg",
+      "foto": "https://image.tmdb.org/t/p/w500/mNz9t7MNANopavbLgcsZMMQBJ0u.jpg"
+    },
+    {
+      "nombre": "Josette Simon",
+      "personaje": "Sophia Webster",
+      "foto": "https://image.tmdb.org/t/p/w500/uLvLGR6a60To8AAlj0C5124d7Xu.jpg"
+    },
+    {
+      "nombre": "Laura Birn",
+      "personaje": "Marion",
+      "foto": "https://image.tmdb.org/t/p/w500/67BraXKgQwZplWBS7PUh8tWssWL.jpg"
+    },
+    {
+      "nombre": "Sami Bouajila",
+      "personaje": "Kronos",
+      "foto": "https://image.tmdb.org/t/p/w500/xq8TMMCA4RI2omGxbPtLVsBMWX8.jpg"
+    },
+    {
+      "nombre": "Karel Dobrý",
+      "personaje": "Roman",
+      "foto": "https://image.tmdb.org/t/p/w500/mcvTqsqIPTVZiT4saALPljNUQ5B.jpg"
+    },
+    {
+      "nombre": "Jordan Bolger",
+      "personaje": "Chance",
+      "foto": "https://image.tmdb.org/t/p/w500/zGSxXrllgm3MNVT0jjvnAQFacPS.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rupert Sanders",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Edward R. Pressman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Molly Hassell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Victor Hadida",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Jencks",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Samuel Hadida",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Josef Schneider",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Zach Baylin",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "James O'Barr",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Holly Thurman",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Kurt Swanson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Bart Mueller",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Robin Brown",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Pavel Tatar",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Rob Bliss",
+      "rol": "Concept Artist"
+    },
+    {
+      "nombre": "Dan Farah",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Pressman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevan Van Thompson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joe Neurauter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan Bross",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Rupert Sanders",
+  "valoraciones": {
+    "tmdb": 5.792,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Davis Films",
+  "enlace_video": "https://rumble.com/hls-vod/78h86m/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=4CLE3pWAAr8"
+}
