@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 395,
+  "poster": "https://image.tmdb.org/t/p/w500/2wHDyHrjIXkYjEtUKts6yUld6Ld.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xvq1RLaiwSdHwPHe7WUhqZa1rCA.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4OtY5jLMpHALI8XuMiiVbxnBT8n.png",
+  "titulo": "Alien vs. Depredador",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Ciencia ficción",
+    "Acción",
+    "Terror"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 5.946,
+  "año": "2004",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "El descubrimiento de una antigua pirámide enterrada en la Antártida lleva a un grupo de científicos y aventureros al continente helado. Allí harán un terrorífico descubrimiento: dos violentas e implacables razas alienígenas libran entre sí la última batalla. Poco importa quién gane… nosotros perderemos.",
+  "fecha_estreno": "2004-08-12",
+  "titulo_original": "AVP: Alien vs. Predator",
+  "pais_origen": "Czech Republic",
+  "reparto": [
+    {
+      "nombre": "Sanaa Lathan",
+      "personaje": "Alexa Woods",
+      "foto": "https://image.tmdb.org/t/p/w500/mYrlBt33pPbdsgscTuWdHScu7md.jpg"
+    },
+    {
+      "nombre": "Lance Henriksen",
+      "personaje": "Charles Bishop Weyland",
+      "foto": "https://image.tmdb.org/t/p/w500/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg"
+    },
+    {
+      "nombre": "Ian Whyte",
+      "personaje": "Scar",
+      "foto": "https://image.tmdb.org/t/p/w500/svlJyDgPbTHoGjbQKU4S2J6g5hi.jpg"
+    },
+    {
+      "nombre": "Raoul Bova",
+      "personaje": "Sebastian de Rosa",
+      "foto": "https://image.tmdb.org/t/p/w500/hJQCTTCB6mCspjjhOkXQ5u0ekWj.jpg"
+    },
+    {
+      "nombre": "Ewen Bremner",
+      "personaje": "Graeme Miller",
+      "foto": "https://image.tmdb.org/t/p/w500/u80rtfJRqCg4qKcdEPmYv8IkCvu.jpg"
+    },
+    {
+      "nombre": "Colin Salmon",
+      "personaje": "Maxwell Stafford",
+      "foto": "https://image.tmdb.org/t/p/w500/mLlAU6Zl2MIL5znp5UHdX3sVTN7.jpg"
+    },
+    {
+      "nombre": "Tommy Flanagan",
+      "personaje": "Mark Verheiden",
+      "foto": "https://image.tmdb.org/t/p/w500/5OnvT1KpEk3juZavqOCSAEYOtwl.jpg"
+    },
+    {
+      "nombre": "Joseph Rye",
+      "personaje": "Joe Connors",
+      "foto": "https://image.tmdb.org/t/p/w500/1bk4kfBetEEYSzcWrpy7ra5WDeK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Gordon Carroll",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Davis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Giler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Walter Hill",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Harald Kloser",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "David Johnson",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Alexander Berner",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Richard Bridgland",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Nancy Bishop",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Simon Price",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Ray Chan",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Stephen Dobric",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jindřich Kočí",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Milena Koubková",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Justin Warburton-Brown",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Peter Walpole",
+      "rol": "Set Decoration"
+    }
+  ],
+  "director": "Paul W. S. Anderson",
+  "valoraciones": {
+    "tmdb": 5.946,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Studio Babelsberg",
+  "enlace_video": "https://depredador-3.zonaaps-peliculas7590.workers.dev/0:/Depredador 3/depredador vs alien.mp4",
+  "trailer": "https://www.youtube.com/watch?v=fQE62sQBkqA"
+}
