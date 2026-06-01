@@ -1,0 +1,111 @@
+/* =============================================
+   LOADER LZPLAY
+============================================= */
+
+#loader{
+    position: fixed;
+    inset: 0;
+    background:
+        radial-gradient(circle at center,
+        rgba(37,99,235,.15) 0%,
+        rgba(2,8,23,1) 60%),
+        #020817;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    z-index: 999999;
+    transition: opacity .8s ease;
+}
+
+#loader.hide{
+    opacity: 0;
+    pointer-events: none;
+}
+
+.loader-glow{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    background: rgba(37,99,235,.15);
+    filter: blur(80px);
+    animation: pulseGlow 2s infinite ease-in-out;
+}
+
+.loader-logo{
+    width: 200px;
+    max-width: 70vw;
+    position: relative;
+    z-index: 2;
+    animation: logoReveal 2.5s ease forwards;
+    filter: drop-shadow(0 0 25px rgba(37,99,235,.45));
+}
+
+.loader-bar{
+    margin-top: 40px;
+    width: 220px;
+    height: 5px;
+    background: #0f172a;
+    border-radius: 30px;
+    overflow: hidden;
+    position: relative;
+    z-index: 2;
+    border: 1px solid rgba(255,255,255,.05);
+}
+
+.loader-bar span{
+    display: block;
+    width: 0%;
+    height: 100%;
+    background: linear-gradient(
+        90deg,
+        #2563eb,
+        #4f7cff,
+        #2563eb
+    );
+    border-radius: 30px;
+    animation: loadingProgress 3s linear forwards;
+}
+
+@keyframes loadingProgress{
+    from{
+        width:0%;
+    }
+    to{
+        width:100%;
+    }
+}
+
+@keyframes logoReveal{
+    0%{
+        opacity:0;
+        transform:scale(.7);
+    }
+
+    40%{
+        opacity:1;
+    }
+
+    70%{
+        transform:scale(1.08);
+    }
+
+    100%{
+        transform:scale(1);
+    }
+}
+
+@keyframes pulseGlow{
+    0%,100%{
+        transform:scale(1);
+        opacity:.4;
+    }
+
+    50%{
+        transform:scale(1.25);
+        opacity:.8;
+    }
+}
