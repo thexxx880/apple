@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 460465,
+  "poster": "https://image.tmdb.org/t/p/w500/wsbYUyEYO6dtOoTIBr8et8kGAhb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qP34tR8SB1yoLeRGqZqPLLveHXk.png",
+  "titulo": "Mortal Kombat",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Fantasía",
+    "Aventura"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.035,
+  "año": "2021",
+  "duracion": "1h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Un boxeador fracasado descubre un secreto familiar que le lleva a un torneo místico llamado Mortal Kombat donde conoce a un grupo de guerreros que luchan a muerte para salvar los reinos del malvado hechicero Shang Tsung.",
+  "fecha_estreno": "2021-04-07",
+  "titulo_original": "Mortal Kombat",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Lewis Tan",
+      "personaje": "Cole Young",
+      "foto": "https://image.tmdb.org/t/p/w500/yMr3mwHHBpfbXwDDkahOzFtTCak.jpg"
+    },
+    {
+      "nombre": "Jessica McNamee",
+      "personaje": "Sonya Blade",
+      "foto": "https://image.tmdb.org/t/p/w500/sKgsW78FCDWAes0SeCp5lgq3eou.jpg"
+    },
+    {
+      "nombre": "Mehcad Brooks",
+      "personaje": "Jax",
+      "foto": "https://image.tmdb.org/t/p/w500/s7Cu6Si9n5qsH64eLBVGXaf55bE.jpg"
+    },
+    {
+      "nombre": "Josh Lawson",
+      "personaje": "Kano",
+      "foto": "https://image.tmdb.org/t/p/w500/Am9vM77uZd9bGODugwmWtOfzx6E.jpg"
+    },
+    {
+      "nombre": "Ludi Lin",
+      "personaje": "Liu Kang",
+      "foto": "https://image.tmdb.org/t/p/w500/9Ila4K8POeuVWRO9hzyekFjvCDk.jpg"
+    },
+    {
+      "nombre": "Max Huang",
+      "personaje": "Kung Lao",
+      "foto": "https://image.tmdb.org/t/p/w500/pHntB82hNVVKZtTAUgUKr2KE1Zt.jpg"
+    },
+    {
+      "nombre": "浅野忠信",
+      "personaje": "Lord Raiden",
+      "foto": "https://image.tmdb.org/t/p/w500/3CBpfGRcPq1jEeYr51TiOiNbZzT.jpg"
+    },
+    {
+      "nombre": "Chin Han",
+      "personaje": "Shang Tsung",
+      "foto": "https://image.tmdb.org/t/p/w500/3XJXmYm6r4Hvm3izOArU58fhQrT.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Simon McQuoid",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Todd Garner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Greg Russo",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "E. Bennett Walsh",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Greg Russo",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Oren Uziel",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Simon McQuoid",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mick Boraso",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "James Ashton",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Steve Burgess",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Robert Mackenzie",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Robbie Clissold",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Zia Kelly",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jade Amantea",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Marky Lee Campbell",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Anna Steel",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Chan Griffin",
+      "rol": "Fight Choreographer"
+    },
+    {
+      "nombre": "Brad Buckley",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Chris Webb",
+      "rol": "First Assistant Director"
+    }
+  ],
+  "director": "Simon McQuoid",
+  "valoraciones": {
+    "tmdb": 7.035,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Atomic Monster",
+  "enlace_video": "https://1a-1791.com/video/s8/2/Q/m/Q/N/QmQNp.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=jBa_aHwCbC4"
+}
