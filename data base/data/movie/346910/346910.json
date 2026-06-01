@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 346910,
+  "poster": "https://image.tmdb.org/t/p/w500/AjKdpERsFYRhdAHvbdAZMtYD4UV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/b96OdaJce7Zu70NYe8vmlfOQUUN.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nkRzdtuTkLt2d6vixpqS07mOkvz.png",
+  "titulo": "El Depredador",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 5.622,
+  "año": "2018",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "Desde los confines del espacio hasta los suburbios de las pequeñas ciudades, la búsqueda llega a la casa de la reinvención por Shane Black de la saga \"Predator\". Ahora, los cazadores más letales del universo son más fuertes, más inteligentes y más mortales que nunca, y se han mejorado genéticamente con ADN de otras especies. Cuando un niño accidentalmente desencadena su regreso a la Tierra, solo un grupo de ex soldados y una profesora de ciencias podrán evitar, quizá el fin de la raza humana...",
+  "fecha_estreno": "2018-09-05",
+  "titulo_original": "The Predator",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Boyd Holbrook",
+      "personaje": "Quinn McKenna",
+      "foto": "https://image.tmdb.org/t/p/w500/xmkpedcct3ey1d1HGDNsUMQPHcB.jpg"
+    },
+    {
+      "nombre": "Trevante Rhodes",
+      "personaje": "Nebraska Williams",
+      "foto": "https://image.tmdb.org/t/p/w500/mx11nZOnT5nZbuzFi3TPVBQBZr.jpg"
+    },
+    {
+      "nombre": "Sterling K. Brown",
+      "personaje": "Traeger",
+      "foto": "https://image.tmdb.org/t/p/w500/vjFATaJfAyBie56J4Qv2DQ9Dyem.jpg"
+    },
+    {
+      "nombre": "Jacob Tremblay",
+      "personaje": "Rory McKenna",
+      "foto": "https://image.tmdb.org/t/p/w500/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
+    },
+    {
+      "nombre": "Keegan-Michael Key",
+      "personaje": "Coyle",
+      "foto": "https://image.tmdb.org/t/p/w500/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg"
+    },
+    {
+      "nombre": "Olivia Munn",
+      "personaje": "Casey Brackett",
+      "foto": "https://image.tmdb.org/t/p/w500/ha4W3WfxBopQK2FZmVochNrN1GT.jpg"
+    },
+    {
+      "nombre": "Thomas Jane",
+      "personaje": "Baxley",
+      "foto": "https://image.tmdb.org/t/p/w500/9frnlc2zoDcoeqZALB6aeYSQddl.jpg"
+    },
+    {
+      "nombre": "Alfie Allen",
+      "personaje": "Lynch",
+      "foto": "https://image.tmdb.org/t/p/w500/aF3SyXNd2JfktnYkUvC1tsFHJDu.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Shane Black",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Fred Dekker",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "John Davis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Shane Black",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Clay Virtue",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Guy Bews",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Marshall Virtue",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Brett Armstrong",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Michael Furniss",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Thomas Ma",
+      "rol": "Second Unit First Assistant Director"
+    },
+    {
+      "nombre": "Jodi Stecyk",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Lauro David Chartrand-DelValle",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jennifer Mylrea",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Breanna Watkins",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Tish Monaghan",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Matt Sloan",
+      "rol": "Visual Effects Supervisor"
+    }
+  ],
+  "director": "Shane Black",
+  "valoraciones": {
+    "tmdb": 5.622,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Davis Entertainment",
+  "enlace_video": "https://rumble.com/hls-vod/6te96h/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=pfkcAEvxjDc"
+}
