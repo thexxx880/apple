@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 38365,
+  "poster": "https://image.tmdb.org/t/p/w500/poUK5Gg7IkPokaBTjadzjPfJgKw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kARonxQpuSZdFraTKlCThWOBCtu.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/r86Qri4SVRjYxugNJIu7sA7h7D4.png",
+  "titulo": "Son Como Niños",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.412,
+  "año": "2010",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "Después de muchos años, su antiguo entrenador de basquet muere y cinco amigos deciden pasar un fin de semana, ahora con sus respectivas familias, en la casa de  antaño donde celebraron, el campeonato.",
+  "fecha_estreno": "2010-06-24",
+  "titulo_original": "Grown Ups",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Adam Sandler",
+      "personaje": "Lenny Feder",
+      "foto": "https://image.tmdb.org/t/p/w500/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+    },
+    {
+      "nombre": "Kevin James",
+      "personaje": "Eric Lamonsoff",
+      "foto": "https://image.tmdb.org/t/p/w500/3WPW5duZyQcjveefxwLULgIyhM0.jpg"
+    },
+    {
+      "nombre": "Chris Rock",
+      "personaje": "Kurt McKenzie",
+      "foto": "https://image.tmdb.org/t/p/w500/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
+    },
+    {
+      "nombre": "David Spade",
+      "personaje": "Marcus Higgins",
+      "foto": "https://image.tmdb.org/t/p/w500/vKU8JKKjluUrEIGHTvitdZBtZBc.jpg"
+    },
+    {
+      "nombre": "Rob Schneider",
+      "personaje": "Rob Hilliard",
+      "foto": "https://image.tmdb.org/t/p/w500/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+    },
+    {
+      "nombre": "Salma Hayek Pinault",
+      "personaje": "Roxanne Chase-Feder",
+      "foto": "https://image.tmdb.org/t/p/w500/1qfYF7NGRObmeKR7IVXUFVIC0CN.jpg"
+    },
+    {
+      "nombre": "Maria Bello",
+      "personaje": "Sally Lamonsoff",
+      "foto": "https://image.tmdb.org/t/p/w500/it1f5mxiGIWO0DzTBfwtLTjphZb.jpg"
+    },
+    {
+      "nombre": "Maya Rudolph",
+      "personaje": "Deanne McKenzie",
+      "foto": "https://image.tmdb.org/t/p/w500/bpEVMFMyHEQ8wLdii9WKB279w8p.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Adam Sandler",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Fred Wolf",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jack Giarraputo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Sandler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dennis Dugan",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Paul E. Short",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Barry Bernardi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Allen Covert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Grady",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Tim Herlihy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daryl Kass",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Steve Koren",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rupert Gregson-Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tom Costain",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Roger Mussenden",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jeremy Rich",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Alan Au",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Dennis Dugan",
+  "valoraciones": {
+    "tmdb": 6.412,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/d/y/E/y/dyEyu.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=Nk1ERmswxsY"
+}
