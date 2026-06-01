@@ -1,0 +1,159 @@
+{
+  "id_tmdb": 809,
+  "poster": "https://image.tmdb.org/t/p/w500/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3xIgLhQhqQOeRXbYIOi4rYkFulH.png",
+  "titulo": "Shrek 2",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía",
+    "Romance"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.316,
+  "año": "2004",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Shrek y Fiona viajan al Reino de Muy Muy Lejano, donde los padres de Fiona son el Rey y la Reina, para celebrar su matrimonio. Cuando llegan, se dan cuenta de que no son tan bienvenidos como pensaban.",
+  "fecha_estreno": "2004-05-19",
+  "titulo_original": "Shrek 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mike Myers",
+      "personaje": "Shrek (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+    },
+    {
+      "nombre": "Eddie Murphy",
+      "personaje": "Donkey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    },
+    {
+      "nombre": "Cameron Diaz",
+      "personaje": "Princess Fiona (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+    },
+    {
+      "nombre": "Julie Andrews",
+      "personaje": "Queen Lillian (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kTXM2KfsXh2vSav0s9vaDKfs4lR.jpg"
+    },
+    {
+      "nombre": "Antonio Banderas",
+      "personaje": "Puss in Boots (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+    },
+    {
+      "nombre": "John Cleese",
+      "personaje": "King Harold (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nQpBf77cStmR35V0XOinm2zZMWG.jpg"
+    },
+    {
+      "nombre": "Rupert Everett",
+      "personaje": "Prince Charming (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/g0kqfIxf9eIV7rOMQcbebsgMS9Z.jpg"
+    },
+    {
+      "nombre": "Jennifer Saunders",
+      "personaje": "Fairy Godmother (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pTgxwHcz9L8SNVYvPJS0o0lgHya.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Conrad Vernon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David N. Weiss",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kelly Asbury",
+      "rol": "Director"
+    },
+    {
+      "nombre": "J. David Stem",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Lipman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aron Warner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Stillman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John H. Williams",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Harry Gregson-Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Guillaume Aretos",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Leslee Feldman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Sim Evan-Jones",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Steve Pilcher",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jeffrey Katzenberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Isis Mussenden",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Mike de Seve",
+      "rol": "Story Consultant"
+    },
+    {
+      "nombre": "James Baxter",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Amy Rae Jones",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Trey Thomas",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Emile Ghorayeb",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Conrad Vernon",
+  "valoraciones": {
+    "tmdb": 7.316,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://1a-1791.com/video/s8/2/C/c/8/N/Cc8Nn.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=iuNghO1XsHI"
+}
