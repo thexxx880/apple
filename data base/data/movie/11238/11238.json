@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 11238,
+  "poster": "https://image.tmdb.org/t/p/w500/8hNo4sagsaO6ZnZO52QKX7Ggco6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gkzfPl0rjp5COdFXPaxitp9J3X3.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kZDJMDHOxZbw8nJRkZT7YCogM05.png",
+  "titulo": "Aladdín y el rey de los ladrones",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.3,
+  "año": "1996",
+  "duracion": "1h 21min",
+  "edad_minima": 13,
+  "sinopsis": "Por fin Aladdin se va a casar con la princesa Jasmine. A pesar de la presencia y ánimo de sus amigos Genio, Alfombra y el mono Abú, está algo preocupado: tiene miedo porque no sabe qué tipo de padre va a ser, si él nunca tuvo ninguno. Pero todas sus preocupaciones quedarán de lado cuando 40 ladrones irrumpen en la boda para robar un mágico talismán.",
+  "fecha_estreno": "1996-05-20",
+  "titulo_original": "Aladdin and the King of Thieves",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Scott Weinger",
+      "personaje": "Aladdin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5EvrWMz2xi3hOkrEMNGH2Rts2jz.jpg"
+    },
+    {
+      "nombre": "Brad Kane",
+      "personaje": "Aladdin (singing voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5kH9BzRX1osFjvWsh9vmjwTyE7h.jpg"
+    },
+    {
+      "nombre": "Robin Williams",
+      "personaje": "Genie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+    },
+    {
+      "nombre": "Linda Larkin",
+      "personaje": "Jasmine (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uN35v1Z374JvfdnDJBVmvnB2JNQ.jpg"
+    },
+    {
+      "nombre": "Liz Callaway",
+      "personaje": "Jasmine (singing voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zCPIvHAFAMSEHQxfbl6taChMsVu.jpg"
+    },
+    {
+      "nombre": "John Rhys-Davies",
+      "personaje": "Cassim (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+    },
+    {
+      "nombre": "Merwin Foard",
+      "personaje": "Cassim (singing voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Gilbert Gottfried",
+      "personaje": "Iago (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hkkAgJD0HKcuyd8EuvhyN5vHcDQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tad Stones",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark McCorkle",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Tad Stones",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bob Schooley",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Elen Orson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John Kimball",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Rick Leon",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Dale Case",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Jeannine Roussel",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Marsh Lamore",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Jamie Thomason",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Eddy Houchins",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Phil Weinstein",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Rick Freeman",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Kenny Thompkins",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Paul Hulme",
+      "rol": "Sound Mixer"
+    }
+  ],
+  "director": "Tad Stones",
+  "valoraciones": {
+    "tmdb": 6.3,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney Television Animation",
+  "enlace_video": "https://rumble.com/hls-vod/6w5gxy/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=9GOQF17VO24"
+}
