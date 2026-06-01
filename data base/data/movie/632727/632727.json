@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 632727,
+  "poster": "https://image.tmdb.org/t/p/w500/2VnuxwgdMBEgVO7VKvkW6nmYfaM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aTSA5zMWlVFTYBIZxTCMbLkfOtb.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aEkgIJMw9ID9Go63WTLhdojFVVh.png",
+  "titulo": "La masacre de Texas",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Crimen",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.195,
+  "año": "2022",
+  "duracion": "1h 23min",
+  "edad_minima": 13,
+  "sinopsis": "Melody (Sarah Yarkin), su hermana adolescente Lila (Elsie Fisher) y sus amigos Dante (Jacob Latimore) y Ruth (Nell Hudson) viajan al remoto pueblo de Harlow (Texas) para montar un negocio muy idealista. Pero su sueño se convierte en una auténtica pesadilla cuando molestan sin querer a Leatherface, el desquiciado asesino en serie cuyo sangriento legado sigue acechando a los habitantes de la zona, entre ellos Sally Hardesty (Olwen Fouéré), la única superviviente de su masacre de 1973, decidida a vengarse a muerte.",
+  "fecha_estreno": "2022-02-18",
+  "titulo_original": "Texas Chainsaw Massacre",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sarah Yarkin",
+      "personaje": "Melody",
+      "foto": "https://image.tmdb.org/t/p/w500/bO0SXUgXeJ8Y6oltHJ2tuIppXdt.jpg"
+    },
+    {
+      "nombre": "Elsie Fisher",
+      "personaje": "Lila",
+      "foto": "https://image.tmdb.org/t/p/w500/lSmrN828nMMXHvwr7IgO1qlYPSa.jpg"
+    },
+    {
+      "nombre": "Mark Burnham",
+      "personaje": "Leatherface",
+      "foto": "https://image.tmdb.org/t/p/w500/7MXSK9i4rU96zHeUZTVPqEsciv.jpg"
+    },
+    {
+      "nombre": "Jacob Latimore",
+      "personaje": "Dante",
+      "foto": "https://image.tmdb.org/t/p/w500/8bdhpFXGJpXYsOB6Jn8o85VJItz.jpg"
+    },
+    {
+      "nombre": "Moe Dunford",
+      "personaje": "Richter",
+      "foto": "https://image.tmdb.org/t/p/w500/tJ64S9CzXXuVQQo6jpxLool6okw.jpg"
+    },
+    {
+      "nombre": "Olwen Fouéré",
+      "personaje": "Sally Hardesty",
+      "foto": "https://image.tmdb.org/t/p/w500/jvBLYkqqEdZGGcg4YVUZhBl6or4.jpg"
+    },
+    {
+      "nombre": "Jessica Allain",
+      "personaje": "Catherine",
+      "foto": "https://image.tmdb.org/t/p/w500/yCA3PrphTrn7WY2eqxBttwXkdCh.jpg"
+    },
+    {
+      "nombre": "Nell Hudson",
+      "personaje": "Ruth",
+      "foto": "https://image.tmdb.org/t/p/w500/AjJmr3aoRSPmi97Le6jwhXJEhTq.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rodo Sayagues",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Fede Álvarez",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Fede Álvarez",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Thomas Devlin",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Rodo Sayagues",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Blue Garcia",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Pat Cassidy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kim Henkel",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tsvetoslav Yordanov",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Kess Bonnet",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Peter Afterman",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Alexei Tylevich",
+      "rol": "Creative Producer"
+    },
+    {
+      "nombre": "Andrew Silver",
+      "rol": "Supervising Music Editor"
+    },
+    {
+      "nombre": "Alison Litton",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Colin Stetson",
+      "rol": "Musician"
+    },
+    {
+      "nombre": "Art Ford",
+      "rol": "Music Consultant"
+    },
+    {
+      "nombre": "Ivan Todorov Ivanov",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Maria Djidrova",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Ivan Neshev",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Victor Rangelov",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "David Blue Garcia",
+  "valoraciones": {
+    "tmdb": 5.195,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Legendary Pictures",
+  "enlace_video": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisfeeb%2FVer%20La%20Masacre%20de%20Texas%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4",
+  "trailer": "https://www.youtube.com/watch?v=zcI6SFiK_yk"
+}
