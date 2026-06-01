@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 216015,
+  "poster": "https://image.tmdb.org/t/p/w500/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7IGKrY1f1KfwMipx9wZC4NRgIdF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/v1DD5blcUvPnbZ50zolOCBsme85.png",
+  "titulo": "Cincuenta Sombras de Grey",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Romance",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.869,
+  "año": "2015",
+  "duracion": "2h 4min",
+  "edad_minima": 13,
+  "sinopsis": "Anastasia Steele, una joven estudiante de literatura, conoce al carismático y misterioso empresario Christian Grey durante una entrevista. A pesar de sus diferencias, la atracción entre ellos es innegable, llevándolos a una relación intensa donde Ana descubrirá facetas inesperadas de Grey y de sí misma.",
+  "fecha_estreno": "2015-02-11",
+  "titulo_original": "Fifty Shades of Grey",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Dakota Johnson",
+      "personaje": "Anastasia Steele",
+      "foto": "https://image.tmdb.org/t/p/w500/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg"
+    },
+    {
+      "nombre": "Jamie Dornan",
+      "personaje": "Christian Grey",
+      "foto": "https://image.tmdb.org/t/p/w500/dPCjxgq4YsqkcZ3fsE84Ifq0Wxv.jpg"
+    },
+    {
+      "nombre": "Jennifer Ehle",
+      "personaje": "Carla",
+      "foto": "https://image.tmdb.org/t/p/w500/rmHaDj5xQu3ZPoI5XWgA5BZj3zH.jpg"
+    },
+    {
+      "nombre": "Eloise Mumford",
+      "personaje": "Kate",
+      "foto": "https://image.tmdb.org/t/p/w500/qSZvYfSDO6hyecInknWpcyrQ7Hz.jpg"
+    },
+    {
+      "nombre": "Victor Rasuk",
+      "personaje": "José",
+      "foto": "https://image.tmdb.org/t/p/w500/1vh2Yzp9bhmaxLfpNCrO7DVoURd.jpg"
+    },
+    {
+      "nombre": "Luke Grimes",
+      "personaje": "Elliot Grey",
+      "foto": "https://image.tmdb.org/t/p/w500/c547Xiwf9feeDbGfQchfJCkC111.jpg"
+    },
+    {
+      "nombre": "Marcia Gay Harden",
+      "personaje": "Dr. Grey",
+      "foto": "https://image.tmdb.org/t/p/w500/5vxcHIHABJxqhweAsTiXVOhT4SE.jpg"
+    },
+    {
+      "nombre": "Rita Ora",
+      "personaje": "Mia Grey",
+      "foto": "https://image.tmdb.org/t/p/w500/tti3t4tDPt0LgSfY2vBsR5rofn0.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sam Taylor-Johnson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kelly Marcel",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Michael De Luca",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "E.L. James",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dana Brunetti",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "E.L. James",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Roger Fires",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Kurtis Reeves",
+      "rol": "Costume Coordinator"
+    },
+    {
+      "nombre": "Codey Blair",
+      "rol": "First Assistant Hairstylist"
+    },
+    {
+      "nombre": "Stuart Haggerty",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Melissa R. Stubbs",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Bret Kiene",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Patrick Dunn-Baker",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Sanna Seppanen",
+      "rol": "Key Hair Stylist"
+    },
+    {
+      "nombre": "Victoria Down",
+      "rol": "Key Makeup Artist"
+    },
+    {
+      "nombre": "Tina Charad",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Dan Sissons",
+      "rol": "Property Master"
+    }
+  ],
+  "director": "Sam Taylor-Johnson",
+  "valoraciones": {
+    "tmdb": 5.869,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://50-sombras1.zonaaps-peliculas7590.workers.dev/0:/50%20SOMBRAS%20DE%20GREY/50%20Sombras%20De%20Grey.mp4",
+  "trailer": "https://www.youtube.com/watch?v=6FDTMRK7-24"
+}
