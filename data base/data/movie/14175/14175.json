@@ -1,0 +1,151 @@
+{
+  "id_tmdb": 14175,
+  "poster": "https://image.tmdb.org/t/p/w500/ewJmDPU3uK7jQ3CR4iu7mlslZO3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zHunoIc5AWtVK5YlPY2OC7yvM6U.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kyKOMZlC19WAhn5U4Bazgw3iHvF.png",
+  "titulo": "Valiant",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Aventura",
+    "Comedia",
+    "Bélica"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.575,
+  "año": "2005",
+  "duracion": "1h 16min",
+  "edad_minima": 13,
+  "sinopsis": "Valiant es un joven pichón que queda maravillado con el Servicio Real de Palomas Mensajeras y aunque es muy joven consigue alistarse gracias a la ayuda de un palomo tramposo y jugador llamado Bugsy. Casi antes de acabar su instrucción y debido a las múltiples bajas provocadas por los halcones (Falco subbuteo) alemanes, deben marchar al frente.",
+  "fecha_estreno": "2005-03-25",
+  "titulo_original": "Valiant",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Ewan McGregor",
+      "personaje": "Valiant (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg"
+    },
+    {
+      "nombre": "Ricky Gervais",
+      "personaje": "Bugsy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zv50aVyBVDBOsMHXpeUYLi4kBhn.jpg"
+    },
+    {
+      "nombre": "Tim Curry",
+      "personaje": "Von Talon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lYVYVNsPDzeLL6ReCRhh8kezu4y.jpg"
+    },
+    {
+      "nombre": "Jim Broadbent",
+      "personaje": "Sergeant (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg"
+    },
+    {
+      "nombre": "Hugh Laurie",
+      "personaje": "Gutsy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/akArncggHnusP5jxzMBKmJDRrMo.jpg"
+    },
+    {
+      "nombre": "John Cleese",
+      "personaje": "Mercury (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nQpBf77cStmR35V0XOinm2zZMWG.jpg"
+    },
+    {
+      "nombre": "John Hurt",
+      "personaje": "Felix (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+    },
+    {
+      "nombre": "Pip Torrens",
+      "personaje": "Lofty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1n7pzFfT6jDHe8kc6I0AEfRryhz.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gary Chapman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jordan Katz",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "George Webster",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "George Melrod",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "John H. Williams",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Bernhardt",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Pedro van der Eecken",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Peter Burgis",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Mark Taylor",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Andie Derrick",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Rik Elliott",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Ted Swanscott",
+      "rol": "ADR Mixer"
+    },
+    {
+      "nombre": "Robert Bourke",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Mike Dowson",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Robert Farr",
+      "rol": "Foley Mixer"
+    },
+    {
+      "nombre": "Carl Jones",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Celestia Fox",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Curtis Augspurger",
+      "rol": "Co-Producer"
+    }
+  ],
+  "director": "Gary Chapman",
+  "valoraciones": {
+    "tmdb": 5.575,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Vanguard Animation",
+  "enlace_video": "https://rumble.com/hls-vod/6w5goc/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=HPurt-LTyKM"
+}
