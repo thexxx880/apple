@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 65759,
+  "poster": "https://image.tmdb.org/t/p/w500/kCGdzG0XUij3BqIsygdNEAuFM1Z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/icAAqHhVXuSQlKNvUfL257AFTwN.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/eJc5VQzLyzg72GoDuIQbswFr8Yz.png",
+  "titulo": "Happy Feet: El Pingüino 2",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 6.21,
+  "año": "2011",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Mumble tiene un problema: su hijo Erik, se resiste a bailar. Un día, Erik huye de su casa y conoce a Mighty Sven, un pingüino que puede volar. Sin embargo, el mundo es sacudido por unas fuerzas poderosas, entonces Mumble es obligado a reunir a las naciones de pingüinos y a sus aliados para arreglar las cosas.",
+  "fecha_estreno": "2011-11-17",
+  "titulo_original": "Happy Feet Two",
+  "pais_origen": "Australia",
+  "reparto": [
+    {
+      "nombre": "Elijah Wood",
+      "personaje": "Mumble (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ayARmqAe9Aab1zg6FjJG0u9MEBo.jpg"
+    },
+    {
+      "nombre": "Robin Williams",
+      "personaje": "Ramon / Lovelace (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+    },
+    {
+      "nombre": "P!nk",
+      "personaje": "Gloria (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kFtzIXVbyMgO71NHfRpKhQq1aA6.jpg"
+    },
+    {
+      "nombre": "E. G. Daily",
+      "personaje": "Erik (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sWLXj0yvpMEsZTIsS1ReVQzGnwO.jpg"
+    },
+    {
+      "nombre": "Johnny A. Sanchez",
+      "personaje": "Lombardo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKM3WYwjtKe9dOSKkPiK2xI9LWr.jpg"
+    },
+    {
+      "nombre": "Lombardo Boyar",
+      "personaje": "Raul (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wwWs0u2QDz1XOakR05C0BYJCfM1.jpg"
+    },
+    {
+      "nombre": "Sofía Vergara",
+      "personaje": "Carmen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xK7e7NrSm1igQecDQkdy9Uc1KAg.jpg"
+    },
+    {
+      "nombre": "Common",
+      "personaje": "Seymour (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "George Miller",
+      "rol": "Director"
+    },
+    {
+      "nombre": "George Miller",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Gary Eck",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "George Miller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Doug Mitchell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bill Miller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Warren Coleman",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Paul Livingston",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Powell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Kristy Carlson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Bruce Berman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Avner Engel",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Simon Bull",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Jarrod Anderson",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Graham Burke",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stewart Alves",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Pablo Calvillo",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Jeannette Maher-Manifold",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Eddie Prickett",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Jessie Erikson",
+      "rol": "Technical Supervisor"
+    }
+  ],
+  "director": "George Miller",
+  "valoraciones": {
+    "tmdb": 6.21,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/l/h/r/N/lhrNs.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=ZjJnKjkwEKw"
+}
