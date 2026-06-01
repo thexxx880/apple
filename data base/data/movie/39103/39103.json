@@ -1,0 +1,133 @@
+{
+  "id_tmdb": 39103,
+  "poster": "https://image.tmdb.org/t/p/w500/2ivHzBWWprgQKJTB70yVli4HOVu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cZD27c2H9wLAsIOeouzqiL4OaBr.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/fMdn2zpBZaD3xrNwTkDY8aMnbJZ.png",
+  "titulo": "Dragon Ball Z: Los Guerreros más Poderosos",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Animación",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.5,
+  "año": "1992",
+  "duracion": "0h 46min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando Dende, el nuevo kamisama, se entera de que el planeta Namek está en peligro, pide ayuda a Goku y sus amigos para que salven su planeta natal. Al llegar, Goku y los demás se dan cuenta de que una especie de estrella está atacando al planeta. Detrás de todo esto está Cooler, el hermano mayor de Freezer, al que pensaban que Goku había vencido.",
+  "fecha_estreno": "1992-03-07",
+  "titulo_original": "ドラゴンボールZ 激突!!100億パワーの戦士たち",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "Masako Nozawa",
+      "personaje": "Son Gokû / Son Gohan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+    },
+    {
+      "nombre": "古川登志夫",
+      "personaje": "Piccolo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg"
+    },
+    {
+      "nombre": "田中真弓",
+      "personaje": "Kuririn / Yajirobe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"
+    },
+    {
+      "nombre": "Ryō Horikawa",
+      "personaje": "Vegeta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vZ69WQJfR5D2xow5FkddduRjq6c.jpg"
+    },
+    {
+      "nombre": "Kōhei Miyauchi",
+      "personaje": "Kame-sen'nin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zmA0Pf53wW2VbaBT54NDtGCPQNQ.jpg"
+    },
+    {
+      "nombre": "龍田直樹",
+      "personaje": "Oolong (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hgQOOPATD48vqos1YnRwqDTV2ab.jpg"
+    },
+    {
+      "nombre": "鈴木富子",
+      "personaje": "Dende (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wngJTGZ4I0jiK6RyL1RvLqGIDRv.jpg"
+    },
+    {
+      "nombre": "西尾徳",
+      "personaje": "Mr. Popo (voice)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "西尾大介",
+      "rol": "Director"
+    },
+    {
+      "nombre": "小山高生",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Akira Toriyama",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "ゲン・フクナガ",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "新井浩一",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "志田直俊",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "沖本日出子",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "大森英敏",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "島貫正弘",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "井手武生",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "宮原直樹",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "長谷川眞也",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "小原太一郎",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Tetsuya Numako",
+      "rol": "Key Animation"
+    }
+  ],
+  "director": "西尾大介",
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Toei Company",
+  "enlace_video": "https://1a-1791.com/video/s8/2/L/k/G/m/LkGmt.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=sGqAtYAkwDo"
+}
