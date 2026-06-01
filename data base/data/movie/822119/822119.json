@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 822119,
+  "poster": "https://image.tmdb.org/t/p/w500/vUNj55xlF0pSU5FU3yDHC6L5wVX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8eifdha9GQeZAkexgtD45546XKx.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/v1ZqN0k7prhjkSANsiqbzJT5UkU.png",
+  "titulo": "Capitán América: Un nuevo mundo",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.981,
+  "año": "2025",
+  "duracion": "1h 59min",
+  "edad_minima": 13,
+  "sinopsis": "Tras reunirse con el recientemente electo presidente de los Estados Unidos Thaddeus Ross, Sam se encuentra en medio de un conflicto internacional. Debe descubrir la razón de un nefasto complot mundial antes de que el verdadero artífice detrás del mismo haga que el mundo entero entre en caos.",
+  "fecha_estreno": "2025-02-12",
+  "titulo_original": "Captain America: Brave New World",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Anthony Mackie",
+      "personaje": "Sam Wilson / Captain America",
+      "foto": "https://image.tmdb.org/t/p/w500/kfTwOYr3iUucmYz8kPjhYy07G2Z.jpg"
+    },
+    {
+      "nombre": "Harrison Ford",
+      "personaje": "President Thaddeus Ross",
+      "foto": "https://image.tmdb.org/t/p/w500/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+    },
+    {
+      "nombre": "Danny Ramirez",
+      "personaje": "Joaquin Torres",
+      "foto": "https://image.tmdb.org/t/p/w500/7ZvcfWA5O5ULiupbHZtGGEPwnpI.jpg"
+    },
+    {
+      "nombre": "Shira Haas",
+      "personaje": "Ruth Bat-Seraph",
+      "foto": "https://image.tmdb.org/t/p/w500/eZRs79ZMoctjDk0SbPhzMNcs34a.jpg"
+    },
+    {
+      "nombre": "Tim Blake Nelson",
+      "personaje": "Samuel Sterns",
+      "foto": "https://image.tmdb.org/t/p/w500/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+    },
+    {
+      "nombre": "Carl Lumbly",
+      "personaje": "Isaiah Bradley",
+      "foto": "https://image.tmdb.org/t/p/w500/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg"
+    },
+    {
+      "nombre": "Giancarlo Esposito",
+      "personaje": "Sidewinder",
+      "foto": "https://image.tmdb.org/t/p/w500/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+    },
+    {
+      "nombre": "Liv Tyler",
+      "personaje": "Betty Ross",
+      "foto": "https://image.tmdb.org/t/p/w500/aYlqS4wYuNCiN9wmvDwKRAE9BQ9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Julius Onah",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Nate Moore",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Malcolm Spellman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Dalan Musson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Rob Edwards",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Julius Onah",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Peter Glanz",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sarah Halley Finn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Michele Panelli-Venetis",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "David Atherton",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Kramer Morgenthau",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Bill Westenhofer",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Mitchell Bell",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Dave Jordan",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Alan Hook",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Nix Herrera",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Zachary Fannin",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Russell Bobbitt",
+      "rol": "Property Master"
+    }
+  ],
+  "director": "Julius Onah",
+  "valoraciones": {
+    "tmdb": 5.981,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/f0/s8/2/Y/c/h/r/Ychry.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
+}
