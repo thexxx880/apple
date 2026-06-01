@@ -1,0 +1,107 @@
+{
+  "id_tmdb": 96826,
+  "poster": "https://image.tmdb.org/t/p/w500/kB0q3pXKRQ9f8IGzYrrM1qUXuuF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cSMMrcFXHsnieG78TXOZwUx5GFa.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5IzTK9v4udlCjfpSVoi7D3UXGzB.png",
+  "titulo": "Ben 10: destrucción alienígena",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Ciencia ficción",
+    "Familia",
+    "Acción",
+    "Película de TV"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.67,
+  "año": "2012",
+  "duracion": "1h 9min",
+  "edad_minima": 13,
+  "sinopsis": "En Ben 10: La destrucción de los aliens Ben tiene 10 años y tras regresar a casa de sus vacaciones de verano, su vida se convierte en una locura: agobiado por su profesor, perseguido por los matones del colegio, castigado por sus padres y encima con un Omnitrix roto ¡que le borra sus deberes! Ben caza al vuelo la oportunidad de escapar de todo esto explorando la galaxia con su amigo alienígena Tetrax. Sin embargo, pronto regresa a la Tierra de manera accidentada y convertido en alien, ¡y no puede volver a su forma humana!",
+  "fecha_estreno": "2012-03-11",
+  "titulo_original": "Ben 10: Destroy All Aliens",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tara Strong",
+      "personaje": "Ben Tennyson / Upgrade / Sandra Tennyson / Computer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+    },
+    {
+      "nombre": "Meagan Moore",
+      "personaje": "Gwen Tennyson / Girl Student (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1XjXATNVs8gcV7sullORxEXIbEh.jpg"
+    },
+    {
+      "nombre": "Paul Eiding",
+      "personaje": "Grandpa Max (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3Gxs9fTnkQLFlmMHROlgiDJ4p10.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Stinkfly / Vulpimancers / Carl Tennyson / Cash Murray (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Steve Blum",
+      "personaje": "Heatblast / Mechamorph",
+      "foto": "https://image.tmdb.org/t/p/w500/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+    },
+    {
+      "nombre": "Jim Ward",
+      "personaje": "Diamondhead",
+      "foto": "https://image.tmdb.org/t/p/w500/7Um56ftGoxN6c5GxJSNckeARCDy.jpg"
+    },
+    {
+      "nombre": "Richard McGonagle",
+      "personaje": "Four Arms / Ben’s Teacher (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eso1WgiZiqwOb1vp2sOF6uJyJn1.jpg"
+    },
+    {
+      "nombre": "Fred Tatasciore",
+      "personaje": "Way Big / Evil Way Big (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Victor Cook",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Marty Isenberg",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jeff Johnson",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "Jeff Johnson",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Kristopher Carter",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Michael McCuistion",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Lolita Ritmanis",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Victor Cook",
+  "valoraciones": {
+    "tmdb": 6.67,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Network Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/j/3/5/_/j35_t.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=IjggS1Fa7lI"
+}
