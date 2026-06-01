@@ -1,0 +1,152 @@
+{
+  "id_tmdb": 951491,
+  "poster": "https://image.tmdb.org/t/p/w500/hx6riiVXOLo3fdFaT3dU9gSlHIb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uUJp5I4IbzuhdUiEx4R9OAoFpbz.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/lyk8p9fW7xYN4AxZ22Q2kaITfhP.png",
+  "titulo": "Saw X: El juego del miedo",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Misterio"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.163,
+  "año": "2023",
+  "duracion": "1h 58min",
+  "edad_minima": 13,
+  "sinopsis": "Entre los acontecimientos de 'Saw' y 'Saw II', un enfermo y desesperado John Kramer viaja a México para someterse a un procedimiento médico arriesgado y experimental con la esperanza de encontrar una cura milagrosa para su cáncer, sólo para descubrir que toda la operación es una estafa para defraudar. los más vulnerables. Armado con un nuevo propósito, el infame asesino en serie regresa a su trabajo, dándole la vuelta a los estafadores en su forma visceral característica a través de trampas tortuosas, trastornadas e ingeniosas.",
+  "fecha_estreno": "2023-09-27",
+  "titulo_original": "Saw X",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tobin Bell",
+      "personaje": "John Kramer",
+      "foto": "https://image.tmdb.org/t/p/w500/y5rppj4alNn2dYXR94DGp08baAx.jpg"
+    },
+    {
+      "nombre": "Shawnee Smith",
+      "personaje": "Amanda Young",
+      "foto": "https://image.tmdb.org/t/p/w500/s2Ouz4b7xqDH72aU48TSW5zS40v.jpg"
+    },
+    {
+      "nombre": "Synnøve Macody Lund",
+      "personaje": "Cecilia Pederson",
+      "foto": "https://image.tmdb.org/t/p/w500/1tZzyfHjmn3EmlyQtYoaNmvexqd.jpg"
+    },
+    {
+      "nombre": "Steven Brand",
+      "personaje": "Parker Sears",
+      "foto": "https://image.tmdb.org/t/p/w500/oWkitw5jzILwb775CVGjsqMSrqz.jpg"
+    },
+    {
+      "nombre": "Renata Vaca",
+      "personaje": "Gabriela",
+      "foto": "https://image.tmdb.org/t/p/w500/zsa1B7cOTa1o7inR2zmoznxL9Hm.jpg"
+    },
+    {
+      "nombre": "Joshua Okamoto",
+      "personaje": "Diego",
+      "foto": "https://image.tmdb.org/t/p/w500/v0sfdrxVzZ6vWNjZFsotscaU8Et.jpg"
+    },
+    {
+      "nombre": "Octavio Hinojosa Martínez",
+      "personaje": "Mateo",
+      "foto": "https://image.tmdb.org/t/p/w500/7Kor87Vt0XRrpdxYXry7c1o3B8Y.jpg"
+    },
+    {
+      "nombre": "Paulette Hernández",
+      "personaje": "Valentina",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Greutert",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Oren Koules",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Burg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pete Goldfinger",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Josh Stolberg",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ulrich Maier",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Erick Ahedo",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Simon Han",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Cailin Munroe",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Beau Parsons",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Jimena Tenorio",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Anthony R. Stabley",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Steve Forner",
+      "rol": "First Assistant Editor"
+    },
+    {
+      "nombre": "Ozzy Alvarez",
+      "rol": "Prosthetic Makeup Artist"
+    },
+    {
+      "nombre": "David Rose",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Leigh Whannell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carrie Morrow",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Barbara Jane Cole",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Renan Bendersky",
+      "rol": "First Assistant Director"
+    }
+  ],
+  "director": "Kevin Greutert",
+  "valoraciones": {
+    "tmdb": 7.163,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Twisted Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/a/u/x/P/auxPn.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=w0Aq7IoHxmo"
+}
