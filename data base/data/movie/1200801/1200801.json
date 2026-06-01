@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 1200801,
+  "poster": "https://image.tmdb.org/t/p/w500/ch8xssebs5SAGszFFVMquElAgMN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kYC6Z4XUvZ9JQKhrkvsif4bAJl3.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7go8cGMfRwQ7d1eMUHuw96ugMCI.png",
+  "titulo": "F*llar Casar Matar",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Suspense",
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.1,
+  "año": "2025",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando Eva Vaugh, una adicta a los crímenes reales, es empujada al mundo de las aplicaciones de citas por sus amigas en su 30 cumpleaños, de repente se encuentra en el centro de un caso de asesinato en la vida real. A medida que se revelan nuevos detalles sobre los asesinatos en su podcast favorito, se da cuenta de que uno de los tres hombres con los que está saliendo podría ser el infame \"asesino del deslizamiento a la derecha\" que aterroriza a la ciudad. Ahora depende de Eva y de sus amigas descubrir qué cita es un f-boy, un marido potencial o un asesino.",
+  "fecha_estreno": "2025-03-06",
+  "titulo_original": "F Marry Kill",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Lucy Hale",
+      "personaje": "Eva Vaugh",
+      "foto": "https://image.tmdb.org/t/p/w500/v8R89A0INFJmh87SwIofadFiSCa.jpg"
+    },
+    {
+      "nombre": "Jedidiah Goodacre",
+      "personaje": "Kyle",
+      "foto": "https://image.tmdb.org/t/p/w500/tdPKfDlQn83qw0OqYnccxpuxuUc.jpg"
+    },
+    {
+      "nombre": "Virginia Gardner",
+      "personaje": "Kelly",
+      "foto": "https://image.tmdb.org/t/p/w500/wD0Ib0AqzfIxBL9X0x8YDbKoI2E.jpg"
+    },
+    {
+      "nombre": "RJ Fetherstonhaugh",
+      "personaje": "Jake",
+      "foto": "https://image.tmdb.org/t/p/w500/9wq0Z7pHlTkujX0eJ1WMqkAqshX.jpg"
+    },
+    {
+      "nombre": "Brooke Nevin",
+      "personaje": "Valerie",
+      "foto": "https://image.tmdb.org/t/p/w500/tVtVgUauFOWRZf5euyxLP9rn9LX.jpg"
+    },
+    {
+      "nombre": "Brendan Morgan",
+      "personaje": "Mitch",
+      "foto": "https://image.tmdb.org/t/p/w500/6eqJShDBTzGobdJUBFp0dB9IQuy.jpg"
+    },
+    {
+      "nombre": "Samer Salem",
+      "personaje": "Norman",
+      "foto": "https://image.tmdb.org/t/p/w500/pfxFWXTau3vZF4MHQMN8TMDOpKG.jpg"
+    },
+    {
+      "nombre": "Bethany Brown",
+      "personaje": "Robin",
+      "foto": "https://image.tmdb.org/t/p/w500/cPXNU3xZQP1tYhOkBdHwJqyI0lU.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Laura Murphy",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ivan Diaz",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Meghan Brown",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jason Bell",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Danica Dreyer",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "Danica Dreyer",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Maria Georgescu",
+      "rol": "Casting Assistant"
+    },
+    {
+      "nombre": "Heidi Ford",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Cody Laudan",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Zoe O'Neil",
+      "rol": "Foley Editor"
+    },
+    {
+      "nombre": "Eric Offin",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Jazz Gaudet",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Nicholas Kinney",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Jenna Tresidder",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Marina Ragimova",
+      "rol": "On Set Dresser"
+    }
+  ],
+  "director": "Laura Murphy",
+  "valoraciones": {
+    "tmdb": 6.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "BuzzFeed Studios",
+  "enlace_video": "https://rumble.com/hls-vod/6w5gb4/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=9hxuNfoWNs0"
+}
