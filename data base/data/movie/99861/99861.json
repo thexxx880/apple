@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 99861,
+  "poster": "https://image.tmdb.org/t/p/w500/ggyEm4OkePLo8zEdDm5Pac2fOgz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vGwih539oBuo4kYZSywx0t4pGze.png",
+  "titulo": "Avengers 2: Era de Ultrón",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.272,
+  "año": "2015",
+  "duracion": "2h 21min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando Tony Stark y Bruce Banner intentan poner en marcha un inactivo programa de mantenimiento de la paz llamado Ultrón, las cosas van terriblemente mal y depende de los héroes más poderosos de la Tierra evitar que el villano Ultrón lleve a cabo su terrible plan.",
+  "fecha_estreno": "2015-04-22",
+  "titulo_original": "Avengers: Age of Ultron",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Robert Downey Jr.",
+      "personaje": "Tony Stark / Iron Man",
+      "foto": "https://image.tmdb.org/t/p/w500/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "nombre": "Chris Hemsworth",
+      "personaje": "Thor",
+      "foto": "https://image.tmdb.org/t/p/w500/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "nombre": "Mark Ruffalo",
+      "personaje": "Bruce Banner / Hulk",
+      "foto": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "nombre": "Chris Evans",
+      "personaje": "Steve Rogers / Captain America",
+      "foto": "https://image.tmdb.org/t/p/w500/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "nombre": "Scarlett Johansson",
+      "personaje": "Natasha Romanoff / Black Widow",
+      "foto": "https://image.tmdb.org/t/p/w500/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "nombre": "Jeremy Renner",
+      "personaje": "Clint Barton / Hawkeye",
+      "foto": "https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+    },
+    {
+      "nombre": "James Spader",
+      "personaje": "Ultron (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uET0mbf2bMkUXbRb1Oxi8Qjqcw3.jpg"
+    },
+    {
+      "nombre": "Samuel L. Jackson",
+      "personaje": "Nick Fury",
+      "foto": "https://image.tmdb.org/t/p/w500/aF7jIjZ66M0af5c02P9Duzq1zO7.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joss Whedon",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joss Whedon",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Hayao Miyazaki",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Jeremy Latcham",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hwang Seon-kwon",
+      "rol": "Location Manager"
+    },
+    {
+      "nombre": "Zarene Dallas",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Tom Hannibal",
+      "rol": "Visual Effects Assistant Editor"
+    },
+    {
+      "nombre": "Matt Crook",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jack Kirby",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Jim Starlin",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Lucy Scarfe",
+      "rol": "Stand In"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Joe Simon",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Joss Whedon",
+  "valoraciones": {
+    "tmdb": 7.272,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/C/M/-/8/CM-8q.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=JAUoeqvedMo"
+}
