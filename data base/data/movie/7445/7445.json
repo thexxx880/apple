@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 7445,
+  "poster": "https://image.tmdb.org/t/p/w500/2NOjFvggqCN7Nzx3DnimyfkEIuA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xERofiEyzGekTNi3oIppQvdLDZB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jZsODN4kbqyl7Y5bGQrAVQ1MBLZ.png",
+  "titulo": "Hermanos",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Suspense",
+    "Bélica"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.313,
+  "año": "2009",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Remake del film danés de Susanne Bier, \"Brothers\" (2004). El condecorado capitán Sam Cahill es enviado a combatir en Afganistán. Unos meses después, el gobierno lo da por muerto o desaparecido. Tras conocer la noticia, su hermano Tommy se queda en Estados Unidos, cuidando de su cuñada y sus sobrinos. Con el tiempo, Tommy se gana su cariño y llega a sustituir a su hermano como marido y como padre. Pero un día reciben una noticia inesperada que perturbará sus vidas.",
+  "fecha_estreno": "2009-12-02",
+  "titulo_original": "Brothers",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tobey Maguire",
+      "personaje": "Capt. Sam Cahill",
+      "foto": "https://image.tmdb.org/t/p/w500/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+    },
+    {
+      "nombre": "Jake Gyllenhaal",
+      "personaje": "Tommy Cahill",
+      "foto": "https://image.tmdb.org/t/p/w500/j2Yahha9C0zN5DRaTDzYA7WtdOT.jpg"
+    },
+    {
+      "nombre": "Natalie Portman",
+      "personaje": "Grace Cahill",
+      "foto": "https://image.tmdb.org/t/p/w500/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+      "nombre": "Sam Shepard",
+      "personaje": "Hank Cahill",
+      "foto": "https://image.tmdb.org/t/p/w500/mVR3Le1rSGIbQmld3Ve42RVFcyI.jpg"
+    },
+    {
+      "nombre": "Mare Winningham",
+      "personaje": "Elsie Cahill",
+      "foto": "https://image.tmdb.org/t/p/w500/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+    },
+    {
+      "nombre": "Bailee Madison",
+      "personaje": "Isabelle Cahill",
+      "foto": "https://image.tmdb.org/t/p/w500/ltGpL7Yub5XshzWfUb8XJbsIDMT.jpg"
+    },
+    {
+      "nombre": "Taylor Geare",
+      "personaje": "Maggie Cahill",
+      "foto": "https://image.tmdb.org/t/p/w500/av6jHo6Sn9H0Bklb4oiJHO3OUy4.jpg"
+    },
+    {
+      "nombre": "Patrick John Flueger",
+      "personaje": "Private Joe Willis",
+      "foto": "https://image.tmdb.org/t/p/w500/gfUmEGjAUwXJOJs0YekWx8aV2ZP.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Mark Fischer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sigurjón Sighvatsson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan Kavanaugh",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ken Halsband",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jim Sheridan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Susanne Bier",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Michael De Luca",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Benioff",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Scott Fischer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeremiah Samuels",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Avy Kaufman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Thomas Newman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tucker Tooley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Durinda Wood",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Frederick Elmes",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jay Cassidy",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Zach Schiff-Abrams",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jon Feltheimer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Guy Barnes",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Wendy Ozols-Barnes",
+      "rol": "Set Decoration"
+    }
+  ],
+  "director": "Jim Sheridan",
+  "valoraciones": {
+    "tmdb": 7.313,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lionsgate",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/U/v/5/J/Uv5Jn.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=BvIj2H1ne0k"
+}
