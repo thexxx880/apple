@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 616037,
+  "poster": "https://image.tmdb.org/t/p/w500/4gHWDa9hngo4RJy4BImChkMHooi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/sR0hyRuXG3xnkC9pKkZvxzORQ4.png",
+  "titulo": "Thor: Amor y Trueno",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Acción",
+    "Comedia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.369,
+  "año": "2022",
+  "duracion": "1h 59min",
+  "edad_minima": 13,
+  "sinopsis": "Mucho tiempo después de los eventos sucedidos en Avengers: Endgame, los Guardianes de la Galaxia deben convencer a Thor para que regrese al campo de batalla y se enfrente a un villano empeñado en matar a todas las criaturas divinas en todo el cosmos. Para luchar contra esta amenaza, Thor debe reclutar a sus amigos Valkyrie, Korg y su ex novia Jane Foster, quien misteriosamente puede empuñar el martillo de Thor y por ende poseer su gran poder.",
+  "fecha_estreno": "2022-07-06",
+  "titulo_original": "Thor: Love and Thunder",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chris Hemsworth",
+      "personaje": "Thor",
+      "foto": "https://image.tmdb.org/t/p/w500/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "nombre": "Natalie Portman",
+      "personaje": "Jane Foster / The Mighty Thor",
+      "foto": "https://image.tmdb.org/t/p/w500/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+      "nombre": "Christian Bale",
+      "personaje": "Gorr",
+      "foto": "https://image.tmdb.org/t/p/w500/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+      "nombre": "Tessa Thompson",
+      "personaje": "King Valkyrie",
+      "foto": "https://image.tmdb.org/t/p/w500/19ze60jXlb2j7dXc2UpA3MujXA8.jpg"
+    },
+    {
+      "nombre": "Taika Waititi",
+      "personaje": "Korg / Old Kronan God (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+    },
+    {
+      "nombre": "Russell Crowe",
+      "personaje": "Zeus",
+      "foto": "https://image.tmdb.org/t/p/w500/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "nombre": "Jaimie Alexander",
+      "personaje": "Sif",
+      "foto": "https://image.tmdb.org/t/p/w500/21IQHPAXNUHiqPrpIYr4X8h2wmf.jpg"
+    },
+    {
+      "nombre": "Idris Elba",
+      "personaje": "Heimdall",
+      "foto": "https://image.tmdb.org/t/p/w500/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Brad Winderbaum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Taika Waititi",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jennifer Kaytin Robinson",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Taika Waititi",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sooyeon Lim",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Michelle Chan Wong",
+      "rol": "Executive Assistant"
+    },
+    {
+      "nombre": "Michael Matthews",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Dave Jordan",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Andy Park",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Jake Morrison",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Matthew Schmidt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Peter S. Elliot",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Tim Roche",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jennifer Vecchiarello",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "David J. Grant",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Chris Hemsworth",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Taika Waititi",
+  "valoraciones": {
+    "tmdb": 6.369,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/8/d/-/v/8d-vl.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=9jrffoywRUU"
+}
