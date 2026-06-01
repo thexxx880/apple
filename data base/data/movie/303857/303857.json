@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 303857,
+  "poster": "https://image.tmdb.org/t/p/w500/pPYQy7CJUdeGwo12U5HJpHbOmPX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/usrUizny0dLNJTrrJSxsvu5V0z0.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/yU0KVcu65POAuL344uz4SgNAmcu.png",
+  "titulo": "Dragon Ball Z: La Resurrección de Freezer",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Animación",
+    "Ciencia ficción"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.878,
+  "año": "2015",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Después de que Bills, el Dios de la destrucción, decidiera no destruir la Tierra, se vive una gran época de paz. Hasta que Sorbet y Tagoma, antiguos miembros élite de la armada de Freezer, llegan a la Tierra con el objetivo de revivir a su líder por medio de las Bolas de Dragón. Su deseo es concedido y ahora Freezer planea su venganza en contra de los Saiyajin. La historia hace que una gran oleada de hombres bajo el mando de Freezer lo acompañe.",
+  "fecha_estreno": "2015-04-18",
+  "titulo_original": "ドラゴンボールZ 復活の「F」",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "Masako Nozawa",
+      "personaje": "Son Goku / Son Gohan / Son Goten (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+    },
+    {
+      "nombre": "Ryō Horikawa",
+      "personaje": "Vegeta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vZ69WQJfR5D2xow5FkddduRjq6c.jpg"
+    },
+    {
+      "nombre": "中尾隆聖",
+      "personaje": "Frieza (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fsxlwNIWj7taqpXRYETmXFk0x1P.jpg"
+    },
+    {
+      "nombre": "山寺宏一",
+      "personaje": "Beerus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+    },
+    {
+      "nombre": "森田成一",
+      "personaje": "Whis (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+    },
+    {
+      "nombre": "鶴ひろみ",
+      "personaje": "Bulma Briefs (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFU9CCNLUhklLhEuLutM0FyTUbt.jpg"
+    },
+    {
+      "nombre": "田中真弓",
+      "personaje": "Kuririn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"
+    },
+    {
+      "nombre": "佐藤正治",
+      "personaje": "Kame Sen'in (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lSmnhprafAe4RI27AZMzDpQ3Rjz.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Akira Toriyama",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "山室直儀",
+      "rol": "Director"
+    },
+    {
+      "nombre": "林田師博",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "冨永理生子",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "住友紀人",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "山室直儀",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Yasunori Goto",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Paul Zaldivar",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Ed Martin Crisostomo",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "江口寿志",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "久保正",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "山室直儀",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "木下ゆうき",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "林祐己",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "伊藤哲也",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Allen Geraldino",
+      "rol": "Key Animation"
+    }
+  ],
+  "director": "山室直儀",
+  "valoraciones": {
+    "tmdb": 6.878,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Toei Animation",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/u/h/G/0/uhG0s.aaa.mp4?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=uRlSMA1XKYA"
+}
