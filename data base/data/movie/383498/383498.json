@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 383498,
+  "poster": "https://image.tmdb.org/t/p/w500/84NUrv5kuMUDDlOPqi97KGJMdLm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ksACm6SZq32nckHOHWsgw1vRjUp.png",
+  "titulo": "Deadpool 2",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Aventura"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.491,
+  "año": "2018",
+  "duracion": "2h 0min",
+  "edad_minima": 13,
+  "sinopsis": "El mercenario mutante malhablado Wade Wilson (alias Deadpool), reúne a un equipo de mutantes para proteger a un joven con habilidades sobrenaturales del brutal cyborg Cable, que viaja a través del tiempo.",
+  "fecha_estreno": "2018-05-15",
+  "titulo_original": "Deadpool 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ryan Reynolds",
+      "personaje": "Wade Wilson / Deadpool / Juggernaut (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+      "nombre": "Josh Brolin",
+      "personaje": "Cable",
+      "foto": "https://image.tmdb.org/t/p/w500/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "nombre": "Morena Baccarin",
+      "personaje": "Vanessa",
+      "foto": "https://image.tmdb.org/t/p/w500/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg"
+    },
+    {
+      "nombre": "Julian Dennison",
+      "personaje": "Firefist",
+      "foto": "https://image.tmdb.org/t/p/w500/pP9tymIRkOEEQqetcC1Yby5rGbi.jpg"
+    },
+    {
+      "nombre": "Zazie Beetz",
+      "personaje": "Domino",
+      "foto": "https://image.tmdb.org/t/p/w500/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+    },
+    {
+      "nombre": "T.J. Miller",
+      "personaje": "Weasel",
+      "foto": "https://image.tmdb.org/t/p/w500/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg"
+    },
+    {
+      "nombre": "Leslie Uggams",
+      "personaje": "Blind Al",
+      "foto": "https://image.tmdb.org/t/p/w500/peLaqLcs3y2WY4TbrLOXQGt9I8S.jpg"
+    },
+    {
+      "nombre": "Karan Soni",
+      "personaje": "Dopinder",
+      "foto": "https://image.tmdb.org/t/p/w500/t3eNrzRKy3wTVCUiEp002UXbjxX.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rhett Reese",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Paul Wernick",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ryan Reynolds",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Leitch",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ryan Reynolds",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lauren Shuler Donner",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ethan Smith",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathon Komack Martin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kelly McCormick",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael McCusker",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Joe Ross",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Hugh Jackman",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Cynthia Pett-Dante",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "James Mangold",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "George Dewey",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Rob Liefeld",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Fabian Nicieza",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Louise Simonson",
+      "rol": "Thanks"
+    }
+  ],
+  "director": "David Leitch",
+  "valoraciones": {
+    "tmdb": 7.491,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Maximum Effort",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/t/5/w/_/t5w_p.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=20bpjtCbCz0"
+}
