@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 482321,
+  "poster": "https://image.tmdb.org/t/p/w500/1kkVXCAy11pZEyVn1BJsJTN2kOc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/40WhgHxqkVPJeFIGeVFF48DB5e5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/dzthen5RRSxoOYXpgC6EoLxXnDv.png",
+  "titulo": "Ron da error",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Ciencia ficción",
+    "Familia",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.862,
+  "año": "2021",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "Ambientada en un mundo donde los robots se han convertido en los mejores amigos de los niños, Ron's Gone Wrong cuenta la historia de un niño de 11 años que descubre que su amigo robot no funciona del todo.",
+  "fecha_estreno": "2021-10-14",
+  "titulo_original": "Ron's Gone Wrong",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Jack Dylan Grazer",
+      "personaje": "Barney (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wkLAOleFx9Pis97g6t3noJRhAwg.jpg"
+    },
+    {
+      "nombre": "Zach Galifianakis",
+      "personaje": "Ron (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c2RKFiezoJfVlgWebO6mdU8fLbM.jpg"
+    },
+    {
+      "nombre": "Ed Helms",
+      "personaje": "Graham (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    },
+    {
+      "nombre": "Olivia Colman",
+      "personaje": "Donka (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4kceB4JYBcFTdzVhfq3cDnExcGa.jpg"
+    },
+    {
+      "nombre": "Rob Delaney",
+      "personaje": "Andrew (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
+    },
+    {
+      "nombre": "Justice Smith",
+      "personaje": "Marc (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/htJrcOzYkLVcnF4ExT4O1bDN5e5.jpg"
+    },
+    {
+      "nombre": "Kylie Cantrall",
+      "personaje": "Savannah (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/A2onyG1HcYgcmKrxZKSX80g9eY0.jpg"
+    },
+    {
+      "nombre": "Ricardo Hurtado",
+      "personaje": "Rich (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jz8uatjwVN3lV1R0VqsPQLEclT9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sarah Smith",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lara Breay",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sarah Smith",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jean-Philippe Vine",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Peter Baynham",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Julie Lockhart",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sarah Smith",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Baynham",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elisabeth Murdoch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tomas Blazukas",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Till Nowak",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Philippe Denis",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Kapil Sharma",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Vitor Sérgio Sampaio",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Santiago Colomo Martinez",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Max Perkins",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Alessandra Sorrentino",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "David Burrows",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Sarah Smith",
+  "valoraciones": {
+    "tmdb": 7.862,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Locksmith Animation",
+  "enlace_video": "https://1a-1791.com/video/s8/2/D/G/0/A/DG0At.caa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=PdK2dbtd46s"
+}
