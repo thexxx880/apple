@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 49538,
+  "poster": "https://image.tmdb.org/t/p/w500/6ED3G0lpBXRZtEDJD2xVYsqIwxI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yhp5Pt4GugkCs5mz63qWz5khHXe.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/lQTBuCeHMBKRqvHVm554nT157JV.png",
+  "titulo": "X-Men: Primera generación",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.3,
+  "año": "2011",
+  "duracion": "2h 11min",
+  "edad_minima": 13,
+  "sinopsis": "En la década de 1960, los humanos con superpoderes Charles Xavier y Erik Lensherr trabajan juntos para encontrar otros como ellos, pero la búsqueda vengativa de Erik de un ambicioso mutante que arruinó su vida provoca un cisma que los divide.",
+  "fecha_estreno": "2011-06-01",
+  "titulo_original": "X-Men: First Class",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "James McAvoy",
+      "personaje": "Charles Xavier",
+      "foto": "https://image.tmdb.org/t/p/w500/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+    },
+    {
+      "nombre": "Michael Fassbender",
+      "personaje": "Erik Lehnsherr",
+      "foto": "https://image.tmdb.org/t/p/w500/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+    },
+    {
+      "nombre": "Jennifer Lawrence",
+      "personaje": "Raven / Mystique",
+      "foto": "https://image.tmdb.org/t/p/w500/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
+    },
+    {
+      "nombre": "Rose Byrne",
+      "personaje": "Moira MacTaggert",
+      "foto": "https://image.tmdb.org/t/p/w500/6YauDiiTBwRGC1xnwspPmNvPWUu.jpg"
+    },
+    {
+      "nombre": "Kevin Bacon",
+      "personaje": "Sebastian Shaw",
+      "foto": "https://image.tmdb.org/t/p/w500/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+    },
+    {
+      "nombre": "January Jones",
+      "personaje": "Emma Frost",
+      "foto": "https://image.tmdb.org/t/p/w500/9HYdabnECNzUPG9QcO9qLnZZG8h.jpg"
+    },
+    {
+      "nombre": "Nicholas Hoult",
+      "personaje": "Hank / Beast",
+      "foto": "https://image.tmdb.org/t/p/w500/qjdDsrJCx9wgrXDTc7TwZiPn9OC.jpg"
+    },
+    {
+      "nombre": "Lucas Till",
+      "personaje": "Alex Summers / Havok",
+      "foto": "https://image.tmdb.org/t/p/w500/5m8xgsOgT3FgCBo2AsMn7dewe57.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Matthew Vaughn",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lauren Shuler Donner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bryan Singer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gregory Goodman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sheldon Turner",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bryan Singer",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ashley Miller",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Steve Burgess",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Sian Milne",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Gregory Goodman",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Janine Modder",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Kim H. Winther",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Josh Robertson",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Lee Tailor",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Brian Smrz",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Denise Davis",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Jeff Habberstad",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Robin Mulcahy Fisichella",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Cheryl Gould Strang",
+      "rol": "Leadman"
+    }
+  ],
+  "director": "Matthew Vaughn",
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Donners' Company",
+  "enlace_video": "https://1a-1791.com/video/fw/s8/2/m/t/X/A/mtXAr.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=2BAYQD_j6Xc"
+}
