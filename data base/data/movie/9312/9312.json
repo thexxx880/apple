@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 9312,
+  "poster": "https://image.tmdb.org/t/p/w500/yQA2tNUex9usFP4Tp6NEuZNGtxN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dfU9xyEEyLxvZ5unTn05Whm9Lce.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8TbyRuPgd1DIrOFvIWM5yNUUZqY.png",
+  "titulo": "Mortal Kombat",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Fantasía"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.896,
+  "año": "1995",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Durante nueve generaciones, Shang Tsung, un brujo malvado, ha llevado a un poderoso príncipe a la victoria contra sus mortales enemigos. Si vence el décimo torneo Mortal Kombat, la desolación y el mal que han florecido en el mundo exterior reinarán la Tierra por siempre.",
+  "fecha_estreno": "1995-08-18",
+  "titulo_original": "Mortal Kombat",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Robin Shou",
+      "personaje": "Liu Kang",
+      "foto": "https://image.tmdb.org/t/p/w500/cnL8HqBowYu9ssTkShDfEmxTgdZ.jpg"
+    },
+    {
+      "nombre": "Cary-Hiroyuki Tagawa",
+      "personaje": "Shang Tsung",
+      "foto": "https://image.tmdb.org/t/p/w500/5F8MQ4J4qIqUwGIfcWN4osrTUtP.jpg"
+    },
+    {
+      "nombre": "Linden Ashby",
+      "personaje": "Johnny Cage",
+      "foto": "https://image.tmdb.org/t/p/w500/l1Px1Nw9rMA2p3yBYj51JjOneQB.jpg"
+    },
+    {
+      "nombre": "Bridgette Wilson-Sampras",
+      "personaje": "Sonya Blade",
+      "foto": "https://image.tmdb.org/t/p/w500/cnupaYpuHkkXDEHgyd1CsWpTf84.jpg"
+    },
+    {
+      "nombre": "Christopher Lambert",
+      "personaje": "Lord Raiden",
+      "foto": "https://image.tmdb.org/t/p/w500/nWcAHW2ZN4cP3VPWYH9WJCvhFvt.jpg"
+    },
+    {
+      "nombre": "Talisa Soto",
+      "personaje": "Kitana",
+      "foto": "https://image.tmdb.org/t/p/w500/tpEGbGgASne8m1iHzncuxdSLIkX.jpg"
+    },
+    {
+      "nombre": "Trevor Goddard",
+      "personaje": "Kano",
+      "foto": "https://image.tmdb.org/t/p/w500/hQvYSwjP8beKIKyAf2N5OlPkW7Q.jpg"
+    },
+    {
+      "nombre": "Chris Casamassa",
+      "personaje": "Scorpion",
+      "foto": "https://image.tmdb.org/t/p/w500/4isia13goX4Op437JJUMCv3GlXO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kevin Droney",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lawrence Kasanoff",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Robert Engelman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Danny Simon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "George S. Clinton",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John R. Leonetti",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Martin Hunter",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Cheryl Cravedi",
+      "rol": "Set Costumer"
+    },
+    {
+      "nombre": "Jules Stewart",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Dana Hee",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Kurt Bryant",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jeff Imada",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Ed Boon",
+      "rol": "Video Game"
+    },
+    {
+      "nombre": "John Tobias",
+      "rol": "Video Game"
+    }
+  ],
+  "director": "Paul W. S. Anderson",
+  "valoraciones": {
+    "tmdb": 5.896,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://1a-1791.com/video/s8/2/z/5/_/S/z5_Sp.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=a1P1j6MP920"
+}
