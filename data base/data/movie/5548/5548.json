@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 5548,
+  "poster": "https://image.tmdb.org/t/p/w500/aWUZ3gcjaWzjEr0KcZubpeJ4hFr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vMGkly71Jm2KwHN407mxheMGUYR.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kk3qw6QpkvnHItqDqAxQwnuednI.png",
+  "titulo": "RoboCop",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.358,
+  "año": "1987",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "En un Detroit violento, casi apocalíptico, la empresa malvada Omni Consumer Products gana un contrato del gobierno de la ciudad para privatizar la fuerza policial. Para probar sus cyborgs de erradicación del crimen, la compañía lleva al policía de la calle Alex Murphy a una confrontación armada con el señor del crimen Boddicker para que puedan usar su cuerpo para respaldar su prototipo RoboCop no probado. Pero cuando RoboCop se entera de los planes nefastos de la compañía, se convierte en su maestro.",
+  "fecha_estreno": "1987-07-17",
+  "titulo_original": "RoboCop",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Peter Weller",
+      "personaje": "Officer Alex J. Murphy / RoboCop",
+      "foto": "https://image.tmdb.org/t/p/w500/3xevrmofgDhXBqV0UzSLOgR3jkk.jpg"
+    },
+    {
+      "nombre": "Nancy Allen",
+      "personaje": "Officer Anne Lewis",
+      "foto": "https://image.tmdb.org/t/p/w500/lgCqBlGhgxTNINoYeDhxhLUuLf.jpg"
+    },
+    {
+      "nombre": "Dan O'Herlihy",
+      "personaje": "The Old Man",
+      "foto": "https://image.tmdb.org/t/p/w500/vhZodGF9IiHdpbU78ShpyCgBr3X.jpg"
+    },
+    {
+      "nombre": "Ronny Cox",
+      "personaje": "Dick Jones",
+      "foto": "https://image.tmdb.org/t/p/w500/cKkVkqft2RacSDhsKxO8nMFgeAd.jpg"
+    },
+    {
+      "nombre": "Kurtwood Smith",
+      "personaje": "Clarence Boddicker",
+      "foto": "https://image.tmdb.org/t/p/w500/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg"
+    },
+    {
+      "nombre": "Miguel Ferrer",
+      "personaje": "Bob Morton",
+      "foto": "https://image.tmdb.org/t/p/w500/n6VZ8OQmozHmnJQRwR55gBH8Tl0.jpg"
+    },
+    {
+      "nombre": "Robert DoQui",
+      "personaje": "Sgt. Warren Reed",
+      "foto": "https://image.tmdb.org/t/p/w500/uLQsWehFSYRn2LNfzT9fUjSRpkF.jpg"
+    },
+    {
+      "nombre": "Ray Wise",
+      "personaje": "Leon Nash",
+      "foto": "https://image.tmdb.org/t/p/w500/60313U01R1j9eueDBXiIh9o55RQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Paul Verhoeven",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Arne Schmidt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Edward Neumeier",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Michael Miner",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Basil Poledouris",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jost Vacano",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Russell Towery",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Randy Fife",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Frank Ferrara Sr.",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Vickie Creach",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Mike Shanks",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jamie Bunch Elliott",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jackie Resch",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Gary Combs",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Sol Negrin",
+      "rol": "Additional Photography"
+    },
+    {
+      "nombre": "Miles Teves",
+      "rol": "Conceptual Illustrator"
+    }
+  ],
+  "director": "Paul Verhoeven",
+  "valoraciones": {
+    "tmdb": 7.358,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Orion Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/i/l/l/J/illJq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=IqvRDhW-XVA"
+}
