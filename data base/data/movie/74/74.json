@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 74,
+  "poster": "https://image.tmdb.org/t/p/w500/voW0ysgAalYWqm2SsBzSfkNNN1K.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bzNoJBoQqeBGKEfbzbBo4dZ661J.png",
+  "titulo": "La Guerra de los Mundos",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.541,
+  "año": "2005",
+  "duracion": "1h 57min",
+  "edad_minima": 13,
+  "sinopsis": "Mientras la Tierra es invadida por máquinas alienígenas de combate, una familia lucha por la supervivencia.",
+  "fecha_estreno": "2005-06-28",
+  "titulo_original": "War of the Worlds",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Cruise",
+      "personaje": "Ray Ferrier",
+      "foto": "https://image.tmdb.org/t/p/w500/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg"
+    },
+    {
+      "nombre": "Dakota Fanning",
+      "personaje": "Rachel Ferrier",
+      "foto": "https://image.tmdb.org/t/p/w500/hwcO08SVWkelfvgfIa5HsTMxsK8.jpg"
+    },
+    {
+      "nombre": "Justin Chatwin",
+      "personaje": "Robbie Ferrier",
+      "foto": "https://image.tmdb.org/t/p/w500/nEHYlooGSwRzkhze1rQ7DOpJXLD.jpg"
+    },
+    {
+      "nombre": "Miranda Otto",
+      "personaje": "Mary-Ann",
+      "foto": "https://image.tmdb.org/t/p/w500/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg"
+    },
+    {
+      "nombre": "Tim Robbins",
+      "personaje": "Harlan Ogilvy",
+      "foto": "https://image.tmdb.org/t/p/w500/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+    },
+    {
+      "nombre": "Rick Gonzalez",
+      "personaje": "Vincent",
+      "foto": "https://image.tmdb.org/t/p/w500/pVHDPq1a2oCZktgI3VumMRzGBd3.jpg"
+    },
+    {
+      "nombre": "Yul Vazquez",
+      "personaje": "Julio",
+      "foto": "https://image.tmdb.org/t/p/w500/chAxqgeJVoRoQukw7zRYgtlo4KI.jpg"
+    },
+    {
+      "nombre": "Lenny Venito",
+      "personaje": "Manny the Mechanic",
+      "foto": "https://image.tmdb.org/t/p/w500/3Ok9n02a13poLdb5cZaIJKTBHrC.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Steven Spielberg",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Colin Wilson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kathleen Kennedy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Koepp",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Josh Friedman",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Joanna Johnston",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "H. G. Wells",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Doug J. Meerdink",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Janusz Kamiński",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Terri Taylor",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Rick Carter",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Michael Kahn",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Debra Zane",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Cari Finken",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Stephanie Finochio",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "David Gere",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Steven Spielberg",
+  "valoraciones": {
+    "tmdb": 6.541,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/Q/m/L/v/QmLvt.aaa.mp4?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=TLnQXsKn5-E"
+}
