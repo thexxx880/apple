@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 347969,
+  "poster": "https://image.tmdb.org/t/p/w500/l6sK4FIxKf3KLHqY5v6aQPYWKiP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cB9XLza46oXuBtfuEUktThmQf6F.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vYUw0FDF93idHCJuukwGWW7dzUG.png",
+  "titulo": "Los 6 Ridículos",
+  "trending": false,
+  "generos": [
+    "Western",
+    "Comedia",
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.233,
+  "año": "2015",
+  "duracion": "1h 59min",
+  "edad_minima": 13,
+  "sinopsis": "En la época del Lejano Oeste, un hombre tranquilo llamado Tommy \"Cuchillo Blanco\" Stockburn (Adam Sandler) junto a sus cinco hermanos -todos huérfanos- han crecido bajo el cuidado de una tribu de nativos americanos. Cuando todos ellos alcanzan la edad adulta, la seguridad de la zona es cada vez más frágil y surgen problemas para mantener el orden en la región, por lo que, a menudo, tiene encuentros violentos con un grupo de bandidos con parches en el ojo liderados por Will Patch (Will Forte).\r Todo cambia cuando en la ciudad reaparece un ladrón de bancos llamado Frank Stockburn (Nick Nolte), quien dice ser el padre biológico de Tommy y a quien se dio por muerto durante mucho tiempo. Junto a él, Tommy tiene que emprender un viaje lleno de aventuras que hará que ambos revivan recuerdos del pasado al mismo tiempo que buscan dentro de sí mismos una valentía inexistente de la que habrá que echar mano cuando llegue el momento de enfrentarse a nuevos y temidos enemigos....",
+  "fecha_estreno": "2015-12-11",
+  "titulo_original": "The Ridiculous 6",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Adam Sandler",
+      "personaje": "Tommy",
+      "foto": "https://image.tmdb.org/t/p/w500/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+    },
+    {
+      "nombre": "Terry Crews",
+      "personaje": "Chico",
+      "foto": "https://image.tmdb.org/t/p/w500/pxTY4SglLo5hFcMH00MxPeC5u55.jpg"
+    },
+    {
+      "nombre": "Jorge Garcia",
+      "personaje": "Herm",
+      "foto": "https://image.tmdb.org/t/p/w500/hIt31bI76cvwijImRZke3WCoEI4.jpg"
+    },
+    {
+      "nombre": "Taylor Lautner",
+      "personaje": "Lil Pete",
+      "foto": "https://image.tmdb.org/t/p/w500/xyRXoKM7UQdijwmjpiCcLGPzcc7.jpg"
+    },
+    {
+      "nombre": "Rob Schneider",
+      "personaje": "Ramon",
+      "foto": "https://image.tmdb.org/t/p/w500/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+    },
+    {
+      "nombre": "Luke Wilson",
+      "personaje": "Danny",
+      "foto": "https://image.tmdb.org/t/p/w500/nH1h9dZGSBuWIOyX27HpYyYykvr.jpg"
+    },
+    {
+      "nombre": "Will Forte",
+      "personaje": "Will Patch",
+      "foto": "https://image.tmdb.org/t/p/w500/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg"
+    },
+    {
+      "nombre": "Steve Zahn",
+      "personaje": "Clem",
+      "foto": "https://image.tmdb.org/t/p/w500/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Frank Coraci",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tim Herlihy",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Adam Sandler",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Allen Covert",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Sandler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ted Sarandos",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alan Au",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Naython Vane",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Sara M. Pennington",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "Timothy S. Wiles",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Barry Bernardi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pauline Fischer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Bowen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tim Herlihy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nick Swardson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Heather Parry",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aimee Keen",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Kevin Grady",
+      "rol": "Co-Producer"
+    }
+  ],
+  "director": "Frank Coraci",
+  "valoraciones": {
+    "tmdb": 5.233,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Happy Madison Productions",
+  "enlace_video": "https://1a-1791.com/video/fwe2/43/s8/2/9/I/b/J/9IbJx.caa.mp4?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=sCpYfjJZ1Z4"
+}
