@@ -1,0 +1,159 @@
+{
+  "id_tmdb": 508442,
+  "poster": "https://image.tmdb.org/t/p/w500/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/goglHaLvgEEF1PUrYziBjOWLPuK.png",
+  "titulo": "Soul",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Drama",
+    "Música",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8.093,
+  "año": "2020",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Joe Gardner, un maestro de música, le ofrecen una oportunidad para convertirse en un reconocido músico de jazz que tanto soñaba. Sin embargo, después de un pequeño accidente, termina en un lugar misterioso donde las nuevas almas reciben las personalidad, el carácter y los intereses antes de ir a la tierra.",
+  "fecha_estreno": "2020-12-25",
+  "titulo_original": "Soul",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jamie Foxx",
+      "personaje": "Joe Gardner (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/25zzvFA6yx2Q9BYnugsbd4JWDfu.jpg"
+    },
+    {
+      "nombre": "Tina Fey",
+      "personaje": "22 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yPTAi1iucXf85UpiFPtyiTSM6do.jpg"
+    },
+    {
+      "nombre": "Graham Norton",
+      "personaje": "Moonwind (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zndDiPrNXtbxGLVhFhSlpCkaHIH.jpg"
+    },
+    {
+      "nombre": "Rachel House",
+      "personaje": "Terry (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2LCQF7Bn0I91o17GGkox0ZhhbE7.jpg"
+    },
+    {
+      "nombre": "Alice Braga",
+      "personaje": "Counselor Jerry (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d9JdgvUiqyWuGQLmozNfGZOpIBz.jpg"
+    },
+    {
+      "nombre": "Richard Ayoade",
+      "personaje": "Counselor Jerry (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qHKoy9kP4bsv4G9EkvU4FMUmYkS.jpg"
+    },
+    {
+      "nombre": "Phylicia Rashād",
+      "personaje": "Libba Gardner (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/o0sQd9JvPsxRq7BJLOeP6ASsh5Q.jpg"
+    },
+    {
+      "nombre": "Donnell Rawlings",
+      "personaje": "Dez (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aX3heIwidVKia6xjqib6pPsjzkY.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Pete Docter",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Pete Docter",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Dana Murray",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mike Jones",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kemp Powers",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Pete Docter",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Kemp Powers",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mike Jones",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sungyeon Joh",
+      "rol": "Lighting Artist"
+    },
+    {
+      "nombre": "Hyein Park",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Seong-Young Kim",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Jaclyn Simon",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Kristen Lester",
+      "rol": "Story Supervisor"
+    },
+    {
+      "nombre": "Michael Warch",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Jon Batiste",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Rebecca Euphrat",
+      "rol": "Animation Manager"
+    },
+    {
+      "nombre": "Justin Pearson",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Grace Geller",
+      "rol": "Lighting Coordinator"
+    },
+    {
+      "nombre": "Jeanette Elizabeth Mckillop",
+      "rol": "Lighting Coordinator"
+    },
+    {
+      "nombre": "Jonathon Stevens",
+      "rol": "Sound Effects Editor"
+    }
+  ],
+  "director": "Pete Docter",
+  "valoraciones": {
+    "tmdb": 8.093,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://1a-1791.com/video/s8/2/b/K/s/2/bKs2t.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=NloXY1WRSQw"
+}
