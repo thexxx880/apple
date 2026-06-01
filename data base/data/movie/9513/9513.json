@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 9513,
+  "poster": "https://image.tmdb.org/t/p/w500/n10AuSUxcJQEPtRw0uNdukpKQ1G.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/blaT3gGa0gjz9pxn7xfvVx1DcyN.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/adMI7qVa9P5hclFwNHS06LdpM9C.png",
+  "titulo": "Garfield 2",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.611,
+  "año": "2006",
+  "duracion": "1h 20min",
+  "edad_minima": 13,
+  "sinopsis": "Jon y Garfield visitan el Reino Unido, donde un caso de identidad felina equivocada encuentra a Garfield gobernando un castillo. Su reinado pronto se ve amenazado por el nefasto Lord Dargis, que tiene planes para la mansión.",
+  "fecha_estreno": "2006-06-15",
+  "titulo_original": "Garfield: A Tail of Two Kitties",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Breckin Meyer",
+      "personaje": "Jon Arbuckle",
+      "foto": "https://image.tmdb.org/t/p/w500/oN1jpTL59wbzS1qvPhsJ3FIL2Ev.jpg"
+    },
+    {
+      "nombre": "Jennifer Love Hewitt",
+      "personaje": "Liz",
+      "foto": "https://image.tmdb.org/t/p/w500/acoA8Gm2QVWTOyldWb6ykkWirHZ.jpg"
+    },
+    {
+      "nombre": "Billy Connolly",
+      "personaje": "Dargis",
+      "foto": "https://image.tmdb.org/t/p/w500/imqsEA1EPet7OvHx80VfTYfFcWf.jpg"
+    },
+    {
+      "nombre": "Bill Murray",
+      "personaje": "Garfield (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+    },
+    {
+      "nombre": "Tim Curry",
+      "personaje": "Prince (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lYVYVNsPDzeLL6ReCRhh8kezu4y.jpg"
+    },
+    {
+      "nombre": "Ian Abercrombie",
+      "personaje": "Smithee",
+      "foto": "https://image.tmdb.org/t/p/w500/fKAYk2Fp5GzKizw4wlUgNPIt136.jpg"
+    },
+    {
+      "nombre": "Roger Rees",
+      "personaje": "Mr. Hobbs",
+      "foto": "https://image.tmdb.org/t/p/w500/pVZwILdpzTXECMUvLOSu12RbTHa.jpg"
+    },
+    {
+      "nombre": "Lucy Davis",
+      "personaje": "Abby",
+      "foto": "https://image.tmdb.org/t/p/w500/A1ymILbxQA5w5TduCNaU0xD9C5a.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tim Hill",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joel Cohen",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Alec Sokolow",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Davis",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brian Manis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter S. Elliot",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michele Imperato Stabile",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christophe Beck",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Peter Lyons Collister",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Julie Socash",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "John Berri",
+      "rol": "Visual Effects Editor"
+    },
+    {
+      "nombre": "Jason Solberg",
+      "rol": "First Assistant Editor"
+    },
+    {
+      "nombre": "John 'Jake' Jacobson",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Michele Panelli-Venetis",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Mary Morrisey",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Matthew Iadarola",
+      "rol": "Sound Re-Recording Mixer"
+    }
+  ],
+  "director": "Tim Hill",
+  "valoraciones": {
+    "tmdb": 5.611,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Fox",
+  "enlace_video": "https://garfield-server1.zonaaps-peliculas7590.workers.dev/0:/GARFIELD/Garfield%202%20Latino%20Hd.mp4",
+  "trailer": "https://www.youtube.com/watch?v=1u0rQ7J3oS4"
+}
