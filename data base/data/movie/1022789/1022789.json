@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 1022789,
+  "poster": "https://image.tmdb.org/t/p/w500/4HEJdpcmTGm3BWWic31G4aCnuC6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/2pThxAbwd3L1XQ5LpHxWmADXzTx.png",
+  "titulo": "IntensaMente 2",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Aventura",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.545,
+  "año": "2024",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Riley, ahora adolescente, enfrenta una reforma en la Central de sus emociones. Alegría, Tristeza, Ira, Miedo y Asco deben adaptarse a la llegada de nuevas emociones: Ansiedad, Vergüenza, Envidia y Ennui.",
+  "fecha_estreno": "2024-06-11",
+  "titulo_original": "Inside Out 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Amy Poehler",
+      "personaje": "Joy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rwmvRonpluV6dCPiQissYrchvSD.jpg"
+    },
+    {
+      "nombre": "Maya Hawke",
+      "personaje": "Anxiety (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cqOCRIKMhLaoVVIaB7e9LCZDuHB.jpg"
+    },
+    {
+      "nombre": "Kensington Tallman",
+      "personaje": "Riley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tBqawwg2VJq1V4mZjAOFQ7fnXNW.jpg"
+    },
+    {
+      "nombre": "Liza Lapira",
+      "personaje": "Disgust (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/o3jvQAGWtxi5rEycslhC6CY8BWX.jpg"
+    },
+    {
+      "nombre": "Tony Hale",
+      "personaje": "Fear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg"
+    },
+    {
+      "nombre": "Lewis Black",
+      "personaje": "Anger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1Yvp5dwnJ1UI0KtXGNhZ384wTgv.jpg"
+    },
+    {
+      "nombre": "Phyllis Smith",
+      "personaje": "Sadness (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/h9w9pQbiderRWAC2mi7spjzuIGz.jpg"
+    },
+    {
+      "nombre": "Ayo Edebiri",
+      "personaje": "Envy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wrqYWaAmVPM2yueEEQUtMo6kCp2.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kelsey Mann",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark Nielsen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Meg LeFauve",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Meg LeFauve",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kelsey Mann",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Dave Holstein",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Pete Docter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonas Rivera",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Scanlon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Deamer",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Sudeep Rangaswamy",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "John Hoffman",
+      "rol": "Story Supervisor"
+    },
+    {
+      "nombre": "Maurissa Horwitz",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Andrea Datzman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Evan Bonifacio",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Adam Habib",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Dovi Anderson",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Michael Venturini",
+      "rol": "Animation Supervisor"
+    }
+  ],
+  "director": "Kelsey Mann",
+  "valoraciones": {
+    "tmdb": 7.545,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://1a-1791.com/video/s8/2/e/3/b/p/e3bps.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=u69y5Ie519M"
+}
