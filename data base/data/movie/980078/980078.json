@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 980078,
+  "poster": "https://image.tmdb.org/t/p/w500/xDnHQMLHpziWsU1htVwq429fvEE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jEybIB7yl3zgEdTHukaiR8b9yJp.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1nsgAU9pbtJ0i2Eu6bX1Og42UG7.png",
+  "titulo": "Winnie the Pooh: Miel y Sangre",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "C",
+  "puntuacion": 4.959,
+  "año": "2023",
+  "duracion": "1h 24min",
+  "edad_minima": 13,
+  "sinopsis": "Ahora asilvestrados y sedientos de sangre, Winnie the Pooh y Piglet aterrorizan a Christopher Robin y a unas jóvenes en una casa del bosque.",
+  "fecha_estreno": "2023-01-26",
+  "titulo_original": "Winnie the Pooh: Blood and Honey",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Nikolai Leon",
+      "personaje": "Christopher Robin",
+      "foto": "https://image.tmdb.org/t/p/w500/mHS05o1LEKkiloTgtowSI5YTDuL.jpg"
+    },
+    {
+      "nombre": "Craig David Dowsett",
+      "personaje": "Winnie the Pooh",
+      "foto": "https://image.tmdb.org/t/p/w500/2Uiq20GsF4WWKE32CQIfmlNT06g.jpg"
+    },
+    {
+      "nombre": "Chris Cordell",
+      "personaje": "Piglet / Stalker",
+      "foto": "https://image.tmdb.org/t/p/w500/wOVBygkhFS5qVrrjWTEGNiuYFzh.jpg"
+    },
+    {
+      "nombre": "Maria Taylor",
+      "personaje": "Maria",
+      "foto": "https://image.tmdb.org/t/p/w500/2EkSvK3lhngYWS3W9PbrtxnxlAU.jpg"
+    },
+    {
+      "nombre": "Natasha Rose Mills",
+      "personaje": "Jessica",
+      "foto": "https://image.tmdb.org/t/p/w500/cSDJ7WZplRNQfg4LYeEeXHGnWS8.jpg"
+    },
+    {
+      "nombre": "Amber Doig-Thorne",
+      "personaje": "Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/j9xRUNvCv0SlBDTUFR50oKU0bDr.jpg"
+    },
+    {
+      "nombre": "Danielle Ronald",
+      "personaje": "Zoe",
+      "foto": "https://image.tmdb.org/t/p/w500/g3lEsB7kDLd3siglBhDGWfZ3Whc.jpg"
+    },
+    {
+      "nombre": "Natasha Tosini",
+      "personaje": "Lara",
+      "foto": "https://image.tmdb.org/t/p/w500/6MP62JCtnLJ3cyZfUim1N6NOhsj.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rhys Frake-Waterfield",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rhys Frake-Waterfield",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Scott Chambers",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rhys Frake-Waterfield",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stuart Alson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicole Holland",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Chambers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rhys Frake-Waterfield",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hunter Clin",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Rebecca Wheeler",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "A.A. Milne",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Rhys Frake-Waterfield",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Scott Chambers",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Carlos Rincon",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Vince Knight",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Andrew Scott Bell",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Rhys Frake-Waterfield",
+  "valoraciones": {
+    "tmdb": 4.959,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Jagged Edge Productions",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/M/R/j/F/MRjFj.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=dcpcwARBMJ4"
+}
