@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 293660,
+  "poster": "https://image.tmdb.org/t/p/w500/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/en971MEXui9diirXlogOrPKmsEn.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/piuamNKC09lepRcjrWx9GfEa8hN.png",
+  "titulo": "Deadpool",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Comedia"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.624,
+  "año": "2016",
+  "duracion": "1h 48min",
+  "edad_minima": 13,
+  "sinopsis": "Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.",
+  "fecha_estreno": "2016-02-09",
+  "titulo_original": "Deadpool",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ryan Reynolds",
+      "personaje": "Wade Wilson / Deadpool",
+      "foto": "https://image.tmdb.org/t/p/w500/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+      "nombre": "Morena Baccarin",
+      "personaje": "Vanessa",
+      "foto": "https://image.tmdb.org/t/p/w500/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg"
+    },
+    {
+      "nombre": "Ed Skrein",
+      "personaje": "Ajax",
+      "foto": "https://image.tmdb.org/t/p/w500/btJvbQbWf3ciYM4SM5tMWSJEkXX.jpg"
+    },
+    {
+      "nombre": "T.J. Miller",
+      "personaje": "Weasel",
+      "foto": "https://image.tmdb.org/t/p/w500/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg"
+    },
+    {
+      "nombre": "Gina Carano",
+      "personaje": "Angel Dust",
+      "foto": "https://image.tmdb.org/t/p/w500/6K89PVbt3v2N7cqbPyZiO74yuOj.jpg"
+    },
+    {
+      "nombre": "Leslie Uggams",
+      "personaje": "Blind Al",
+      "foto": "https://image.tmdb.org/t/p/w500/peLaqLcs3y2WY4TbrLOXQGt9I8S.jpg"
+    },
+    {
+      "nombre": "Brianna Hildebrand",
+      "personaje": "Negasonic Teenage Warhead",
+      "foto": "https://image.tmdb.org/t/p/w500/8lGwV4rMQReWMlsXhLBYMRTYzTA.jpg"
+    },
+    {
+      "nombre": "Stefan Kapičić",
+      "personaje": "Colossus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6qHO7ckiyjLNOmW0v5RZj1MpLBj.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rhett Reese",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Paul Wernick",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tim Miller",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ryan Reynolds",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lauren Shuler Donner",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Thom McIntyre",
+      "rol": "Assistant Hairstylist"
+    },
+    {
+      "nombre": "Brittany Fontaine",
+      "rol": "Assistant Makeup Artist"
+    },
+    {
+      "nombre": "Sven Granlund",
+      "rol": "Assistant Makeup Artist"
+    },
+    {
+      "nombre": "Neal Kennemore",
+      "rol": "Assistant Makeup Artist"
+    },
+    {
+      "nombre": "David Dupuis",
+      "rol": "Assistant Makeup Artist"
+    },
+    {
+      "nombre": "Richard Alonzo",
+      "rol": "Assistant Makeup Artist"
+    },
+    {
+      "nombre": "Diane Holme",
+      "rol": "First Assistant Hairstylist"
+    },
+    {
+      "nombre": "Beth Boxall",
+      "rol": "First Assistant Makeup Artist"
+    },
+    {
+      "nombre": "Ailsa Macmillan",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Danna Rutherford",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Anne Carroll",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Monica Huppert",
+      "rol": "Makeup Department Head"
+    }
+  ],
+  "director": "Tim Miller",
+  "valoraciones": {
+    "tmdb": 7.624,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Fox",
+  "enlace_video": "https://1a-1791.com/video/s8/2/O/B/d/-/OBd-p.oaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=yGkD9QAVSz4"
+}
