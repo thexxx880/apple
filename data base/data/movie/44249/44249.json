@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 44249,
+  "poster": "https://image.tmdb.org/t/p/w500/x4vucEsBBD3ZGCpn1VMcLT3eSfh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4jCHr55RGHQlXzcDYwJ70b0mYj9.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ohc1V9w7tfTMPcbeAEjyrg0SnLr.png",
+  "titulo": "Ip Man: Nace la leyenda",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Acción",
+    "Historia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.855,
+  "año": "2010",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Especie de precuela del biopic del \"maestro de Bruce Lee\" (Ip Man). Narrará la vida del maestro del Wing Chun entre las los 11 a 28 años, así como el significado y la filosofía que conlleva este estilo de lucha.",
+  "fecha_estreno": "2010-06-24",
+  "titulo_original": "葉問前傳",
+  "pais_origen": "Hong Kong",
+  "reparto": [
+    {
+      "nombre": "杜宇航",
+      "personaje": "Ip Man",
+      "foto": "https://image.tmdb.org/t/p/w500/xQ4wrXt4L5u9A9yfkN4s8RzPuOJ.jpg"
+    },
+    {
+      "nombre": "黄奕",
+      "personaje": "Cheung Wing-shing",
+      "foto": "https://image.tmdb.org/t/p/w500/bsAdYFdtDldL1FoHEvXMm2LxY46.jpg"
+    },
+    {
+      "nombre": "元彪",
+      "personaje": "Ng Chung-so",
+      "foto": "https://image.tmdb.org/t/p/w500/pgO9Im1QKPjLozvsWODLtZDTjw7.jpg"
+    },
+    {
+      "nombre": "樊少皇",
+      "personaje": "Ip Tin-chi",
+      "foto": "https://image.tmdb.org/t/p/w500/jBuu1y50Qeq27tJyikx6KHGcyJE.jpg"
+    },
+    {
+      "nombre": "陳嘉桓",
+      "personaje": "Li Mei-wai",
+      "foto": "https://image.tmdb.org/t/p/w500/AswveVWFEPHGvXe2yjG9QUepluW.jpg"
+    },
+    {
+      "nombre": "葉準",
+      "personaje": "Leung Bik",
+      "foto": "https://image.tmdb.org/t/p/w500/7CPOvGv9Rbly5ucV19OSupfB7jB.jpg"
+    },
+    {
+      "nombre": "洪金寶",
+      "personaje": "Chan Wah-Shun",
+      "foto": "https://image.tmdb.org/t/p/w500/3ZMBd3nPKfOrevdyWQWbmMiWEXQ.jpg"
+    },
+    {
+      "nombre": "廖碧兒",
+      "personaje": "Kitano Yumi",
+      "foto": "https://image.tmdb.org/t/p/w500/pwQtaZID8bButeHIbmX6Kibp21d.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "邱禮濤",
+      "rol": "Director"
+    },
+    {
+      "nombre": "冼國林",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Xu Wen-Cai",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "羅寶兒",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "冼國林",
+      "rol": "Story"
+    },
+    {
+      "nombre": "李敏",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "李昇",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "麥振鴻",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "陳廣鴻",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "冼國林",
+      "rol": "Presenter"
+    },
+    {
+      "nombre": "Xu Yong-An",
+      "rol": "Presenter"
+    },
+    {
+      "nombre": "李国兴",
+      "rol": "Presenter"
+    },
+    {
+      "nombre": "Stephen Lam Shu-Chung",
+      "rol": "Presenter"
+    },
+    {
+      "nombre": "Chan Man-Lung",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Ren Li-Rong",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Andrew Sundjaja",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "馮志偉",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Liu Zhi-Jiang",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Leung Lok-man",
+      "rol": "Production Design"
+    }
+  ],
+  "director": "邱禮濤",
+  "valoraciones": {
+    "tmdb": 6.855,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Mei Ah Entertainment",
+  "enlace_video": "https://1a-1791.com/video/fwe2/70/s8/2/o/k/J/v/okJvx.caa.mp4?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=aAyDKXhpUsY"
+}
