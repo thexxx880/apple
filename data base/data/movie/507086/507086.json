@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 507086,
+  "poster": "https://image.tmdb.org/t/p/w500/sXeWfpT1EhG7f4uBouqraOhmouH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/698FjyzLdpgXmUSr63LaRwblTmx.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/va5NU8qdUhy0tgwiqubC7jopEdU.png",
+  "titulo": "Jurassic World Dominio",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.6,
+  "año": "2022",
+  "duracion": "2h 27min",
+  "edad_minima": 13,
+  "sinopsis": "Cuatro años después de la destrucción de Isla Nublar, los dinosaurios ahora viven y cazan junto a los humanos en todo el mundo. Este frágil equilibrio cambiará el futuro y determinará, de una vez por todas, si los seres humanos deben seguir siendo los depredadores máximos en un planeta que ahora comparten con las criaturas más temibles de la historia.",
+  "fecha_estreno": "2022-06-01",
+  "titulo_original": "Jurassic World Dominion",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chris Pratt",
+      "personaje": "Owen Grady",
+      "foto": "https://image.tmdb.org/t/p/w500/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "nombre": "Bryce Dallas Howard",
+      "personaje": "Claire Dearing",
+      "foto": "https://image.tmdb.org/t/p/w500/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg"
+    },
+    {
+      "nombre": "Laura Dern",
+      "personaje": "Ellie Sattler",
+      "foto": "https://image.tmdb.org/t/p/w500/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+    },
+    {
+      "nombre": "Sam Neill",
+      "personaje": "Alan Grant",
+      "foto": "https://image.tmdb.org/t/p/w500/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+      "nombre": "Jeff Goldblum",
+      "personaje": "Ian Malcolm",
+      "foto": "https://image.tmdb.org/t/p/w500/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg"
+    },
+    {
+      "nombre": "DeWanda Wise",
+      "personaje": "Kayla Watts",
+      "foto": "https://image.tmdb.org/t/p/w500/daQjduDoTzaDTC6SIsGWs55dzcM.jpg"
+    },
+    {
+      "nombre": "Mamoudou Athie",
+      "personaje": "Ramsay Cole",
+      "foto": "https://image.tmdb.org/t/p/w500/ycUbhfZRKC8MtNK9oMwscRsl3uM.jpg"
+    },
+    {
+      "nombre": "Isabella Sermon",
+      "personaje": "Maisie Lockwood / Young Charlotte Lockwood",
+      "foto": "https://image.tmdb.org/t/p/w500/oIyUuT1WopsuKHck9o1ttjyGZux.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Colin Trevorrow",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Emily Carmichael",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Frank Marshall",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patrick Crowley",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Colin Trevorrow",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Colin Trevorrow",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Derek Connolly",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kevin Jenkins",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mark Sanger",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Nina Jalava",
+      "rol": "Stand In"
+    },
+    {
+      "nombre": "John Williams",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Colin Trevorrow",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Deanna Marshall",
+      "rol": "Accounting Trainee"
+    },
+    {
+      "nombre": "Paul Biddiss",
+      "rol": "Military Consultant"
+    },
+    {
+      "nombre": "Jeanie King",
+      "rol": "Executive Visual Effects Producer"
+    },
+    {
+      "nombre": "Fenilconic",
+      "rol": "Sound Effects Designer"
+    },
+    {
+      "nombre": "Laurie Pellard",
+      "rol": "Special Effects Technician"
+    },
+    {
+      "nombre": "Davide Losi",
+      "rol": "Sculptor"
+    },
+    {
+      "nombre": "Anna Henderson",
+      "rol": "Sculptor"
+    }
+  ],
+  "director": "Colin Trevorrow",
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Amblin Entertainment",
+  "enlace_video": "https://jurassic-world-dominion1.zonaaps-peliculas7590.workers.dev/0:/Jurassic%20World%20-%20Dominion/Jurassic%20World%20Dominio.mp4",
+  "trailer": "https://www.youtube.com/watch?v=RJ4b1ZQxPmE"
+}
