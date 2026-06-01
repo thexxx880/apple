@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 791373,
+  "poster": "https://image.tmdb.org/t/p/w500/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ncNxJiqd2Lx8XHN44hwiPj4k10k.png",
+  "titulo": "La Liga de la Justicia de Zack Snyder",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 8.09,
+  "año": "2021",
+  "duracion": "4h 2min",
+  "edad_minima": 13,
+  "sinopsis": "Decidido a asegurarse de que el sacrificio final de Superman no fue en vano, Bruce Wayne alinea fuerzas con Diana Prince con planes para reclutar un equipo de metahumanos para proteger al mundo de una amenaza de proporciones catastróficas que se aproxima.",
+  "fecha_estreno": "2021-03-18",
+  "titulo_original": "Zack Snyder's Justice League",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ben Affleck",
+      "personaje": "Batman / Bruce Wayne",
+      "foto": "https://image.tmdb.org/t/p/w500/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+    },
+    {
+      "nombre": "Henry Cavill",
+      "personaje": "Superman / Clark Kent",
+      "foto": "https://image.tmdb.org/t/p/w500/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+    },
+    {
+      "nombre": "Gal Gadot",
+      "personaje": "Wonder Woman / Diana Prince",
+      "foto": "https://image.tmdb.org/t/p/w500/qCJB1ACi5VjtY4ypXuv3hjAvbSu.jpg"
+    },
+    {
+      "nombre": "Ray Fisher",
+      "personaje": "Cyborg / Victor Stone",
+      "foto": "https://image.tmdb.org/t/p/w500/310snvA05xDOQZDn2fJSp242GHw.jpg"
+    },
+    {
+      "nombre": "Jason Momoa",
+      "personaje": "Aquaman / Arthur Curry",
+      "foto": "https://image.tmdb.org/t/p/w500/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+    },
+    {
+      "nombre": "Ezra Miller",
+      "personaje": "The Flash / Barry Allen",
+      "foto": "https://image.tmdb.org/t/p/w500/6wmTpbYpmhthaxzM5ss3377F9IV.jpg"
+    },
+    {
+      "nombre": "Ciarán Hinds",
+      "personaje": "Steppenwolf (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+    },
+    {
+      "nombre": "Amy Adams",
+      "personaje": "Lois Lane",
+      "foto": "https://image.tmdb.org/t/p/w500/lub0nBRhsCu2pByvfvxt5DcW86d.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Zack Snyder",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Charles Roven",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Deborah Snyder",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Terrio",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Chris Terrio",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Zack Snyder",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Will Beall",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gardner Fox",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Marianne Jenkins",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Marianne Jenkins",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Misha Bukowski",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Ben Howard",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Dody Dorn",
+      "rol": "Additional Editor"
+    },
+    {
+      "nombre": "Autumn Snyder",
+      "rol": "In Memory Of"
+    },
+    {
+      "nombre": "Carlos Castillon",
+      "rol": "Additional Editor"
+    },
+    {
+      "nombre": "Josh R. Jaggars",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Damon Caro",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Andrea Wertheim",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Andrea Wertheim",
+      "rol": "Post Production Supervisor"
+    }
+  ],
+  "director": "Zack Snyder",
+  "valoraciones": {
+    "tmdb": 8.09,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismarz%2FZack%20Snyders%20Justice%20League%20(2021)%20LAT_2.mp4",
+  "trailer": "https://www.youtube.com/watch?v=ui37YKQ9AC4"
+}
