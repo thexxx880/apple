@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 100402,
+  "poster": "https://image.tmdb.org/t/p/w500/9rOKIhncjNaaTA71Q0zHpVkajoU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/j3qfatOtBaETO8nme8dLvefD2mx.png",
+  "titulo": "Capitán América y el Soldado del Invierno",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.654,
+  "año": "2014",
+  "duracion": "2h 16min",
+  "edad_minima": 13,
+  "sinopsis": "Mientras Steve Rogers lucha por asumir su papel en el mundo moderno, se une a un compañero Vengador y agente de S.H.I.E.L.D., Viuda Negra, para luchar contra una nueva amenaza de la historia: un asesino conocido como el Soldado de Invierno.",
+  "fecha_estreno": "2014-03-20",
+  "titulo_original": "Captain America: The Winter Soldier",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chris Evans",
+      "personaje": "Steve Rogers / Captain America",
+      "foto": "https://image.tmdb.org/t/p/w500/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "nombre": "Samuel L. Jackson",
+      "personaje": "Nick Fury",
+      "foto": "https://image.tmdb.org/t/p/w500/aF7jIjZ66M0af5c02P9Duzq1zO7.jpg"
+    },
+    {
+      "nombre": "Scarlett Johansson",
+      "personaje": "Natasha Romanoff / Black Widow",
+      "foto": "https://image.tmdb.org/t/p/w500/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "nombre": "Robert Redford",
+      "personaje": "Alexander Pierce",
+      "foto": "https://image.tmdb.org/t/p/w500/hNiy78lk26xTE6tjisSCowcOVw0.jpg"
+    },
+    {
+      "nombre": "Sebastian Stan",
+      "personaje": "Bucky Barnes / Winter Soldier",
+      "foto": "https://image.tmdb.org/t/p/w500/v20RLWst39klatsqUgSrwHxhwee.jpg"
+    },
+    {
+      "nombre": "Anthony Mackie",
+      "personaje": "Sam Wilson / Falcon",
+      "foto": "https://image.tmdb.org/t/p/w500/kfTwOYr3iUucmYz8kPjhYy07G2Z.jpg"
+    },
+    {
+      "nombre": "Cobie Smulders",
+      "personaje": "Maria Hill",
+      "foto": "https://image.tmdb.org/t/p/w500/1b0mYokcGsfFRge4bjXlS5ihtek.jpg"
+    },
+    {
+      "nombre": "Frank Grillo",
+      "personaje": "Brock Rumlow",
+      "foto": "https://image.tmdb.org/t/p/w500/kuEco4vo1xrsM8DyrNSZUEi593P.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Stephen McFeely",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Christopher Markus",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Russo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Anthony Russo",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Henry Jackman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Samantha MacIvor",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Riley Flanagan",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Jennifer Badger",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Clay Cullen",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Kevin Ishioka",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Doug Crawford",
+      "rol": "Propmaker"
+    },
+    {
+      "nombre": "Gary Kosko",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Judianna Makovsky",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "G. Lynn Maughan",
+      "rol": "Propmaker"
+    },
+    {
+      "nombre": "Stephen Christensen",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Cuitlahuac Morales Velazquez",
+      "rol": "Sculptor"
+    }
+  ],
+  "director": "Joe Russo",
+  "valoraciones": {
+    "tmdb": 7.654,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://1a-1791.com/video/fwe2/25/s8/2/C/L/h/l/CLhlA.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=7SlILk2WMTI"
+}
