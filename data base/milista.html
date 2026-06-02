@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mi Lista • LzPlay</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-    <link rel="stylesheet" href="css/load.css">
     <script src="js/components/load.js"></script>
    
     <!-- Firebase SDK -->
@@ -17,11 +16,7 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin:0; padding:0; box-sizing:border-box; }
 
         body {
             font-family: 'Poppins', sans-serif;
@@ -46,25 +41,15 @@
         }
 
         .back-btn {
-            width: 45px;
-            height: 45px;
-            border: none;
-            border-radius: 14px;
-            background: #0f172a;
-            color: white;
-            cursor: pointer;
-            transition: .3s;
+            width: 45px; height: 45px;
+            border: none; border-radius: 14px;
+            background: #0f172a; color: white;
+            cursor: pointer; transition: .3s;
         }
+        .back-btn:hover { background: #1e293b; transform: translateY(-2px); }
 
-        .back-btn:hover {
-            background: #1e293b;
-            transform: translateY(-2px);
-        }
-
-        .logo {
-            font-size: 1.35rem;
-            font-weight: 800;
-            letter-spacing: 2px;
+        .logo { 
+            font-size: 1.35rem; font-weight: 800; letter-spacing: 2px;
             background: linear-gradient(90deg, #ffffff, #38bdf8);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
@@ -104,7 +89,6 @@
             cursor: pointer;
             transition: .3s;
         }
-
         .clear-btn:hover {
             background: #dc2626;
             transform: translateY(-2px);
@@ -113,7 +97,7 @@
         /* ==================== GRID ==================== */
         .mylist-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
             gap: 28px;
         }
 
@@ -130,12 +114,12 @@
 
         .card:hover {
             transform: translateY(-10px) scale(1.03);
-            box-shadow: 0 25px 60px rgba(0, 0, 0, 0.4);
+            box-shadow: 0 25px 60px rgba(0,0,0,0.45);
         }
 
         .backdrop {
             width: 100%;
-            aspect-ratio: 16 / 9;
+            aspect-ratio: 16/9;
             object-fit: cover;
             transition: transform .6s ease;
         }
@@ -144,120 +128,106 @@
             transform: scale(1.08);
         }
 
-        /* Logo TMDB - Ahora arriba de la imagen */
+        /* Logo grande encima del backdrop */
         .logo-img {
             position: absolute;
-            top: 20px;
-            left: 20px;
-            max-width: 160px;
-            max-height: 65px;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            max-width: 78%;
+            max-height: 140px;
             object-fit: contain;
-            z-index: 5;
-            filter: drop-shadow(0 8px 15px rgba(0,0,0,0.7));
+            z-index: 4;
+            filter: drop-shadow(0 10px 25px rgba(0,0,0,0.8));
+            transition: transform .4s ease;
         }
 
-        /* Overlay */
-        .card::after {
-            content: '';
+        .card:hover .logo-img {
+            transform: translate(-50%, -50%) scale(1.06);
+        }
+
+        /* Badge Tipo (Película / Serie) */
+        .type-badge {
             position: absolute;
-            inset: 0;
-            background: linear-gradient(
-                to top,
-                rgba(2,8,23,0.95) 10%,
-                rgba(2,8,23,0.6) 50%,
-                rgba(2,8,23,0.1) 100%
-            );
-            z-index: 2;
-            pointer-events: none;
+            top: 18px;
+            left: 18px;
+            padding: 6px 16px;
+            border-radius: 30px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            z-index: 5;
+            backdrop-filter: blur(10px);
         }
 
-        /* Botón eliminar */
+        .type-movie { background: rgba(59, 130, 246, 0.95); color: white; }
+        .type-tv    { background: rgba(236, 72, 153, 0.95); color: white; }
+
+        /* Botón Eliminar */
         .remove-btn {
             position: absolute;
             top: 18px;
             right: 18px;
-            width: 42px;
-            height: 42px;
+            width: 44px;
+            height: 44px;
             border: none;
             border-radius: 50%;
             background: rgba(239, 68, 68, 0.95);
-            backdrop-filter: blur(10px);
             color: white;
             z-index: 6;
             cursor: pointer;
             transition: .3s;
         }
-
         .remove-btn:hover {
             transform: scale(1.15);
             background: #dc2626;
         }
 
-        /* Info */
+        /* Punto Verde Brillante */
+        .status-dot {
+            position: absolute;
+            bottom: 22px;
+            right: 22px;
+            width: 20px;
+            height: 20px;
+            background: #22c55e;
+            border-radius: 50%;
+            box-shadow: 0 0 10px #22c55e,
+                        0 0 20px #22c55e,
+                        0 0 30px rgba(34, 197, 94, 0.6);
+            z-index: 5;
+        }
+
+        /* Info (solo año) */
         .info {
             position: absolute;
             bottom: 0;
             left: 0;
             right: 0;
-            padding: 22px;
+            padding: 20px;
             z-index: 4;
-        }
-
-        .title {
-            font-size: 1.05rem;
-            font-weight: 700;
-            line-height: 1.3;
-            margin-bottom: 6px;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
+            text-align: center;
         }
 
         .year {
             color: #94a3b8;
-            font-size: 0.9rem;
+            font-size: 0.95rem;
+            font-weight: 500;
         }
 
         /* ==================== RESPONSIVE ==================== */
         @media (max-width: 768px) {
             .mylist-grid {
-                grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-                gap: 20px;
+                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
             }
-            
-            .header h1 {
-                font-size: 2rem;
-            }
-            
-            .logo-img {
-                max-width: 130px;
-                top: 15px;
-                left: 15px;
-            }
+            .logo-img { max-height: 115px; }
         }
 
         @media (max-width: 480px) {
-            .mylist-container {
-                padding: 25px 15px 60px;
-            }
-            
-            .topbar {
-                padding: 0 15px;
-                height: 70px;
-            }
-            
-            .header {
-                flex-direction: column;
-                align-items: flex-start;
-            }
-            
-            .card {
-                border-radius: 20px;
-            }
+            .mylist-container { padding: 25px 15px 60px; }
+            .logo-img { max-height: 105px; }
         }
 
-        /* Otros estilos (empty, modal, etc.) */
+        /* Empty */
         .empty {
             min-height: 60vh;
             display: flex;
@@ -267,25 +237,10 @@
             text-align: center;
             color: #94a3b8;
         }
-
-        .empty-icon {
-            font-size: 85px;
-            margin-bottom: 20px;
-            opacity: 0.7;
-        }
+        .empty-icon { font-size: 85px; margin-bottom: 20px; opacity: 0.7; }
     </style>
 </head>
 <body>
-
-    <!-- LOADER -->
-    <div id="loader">
-        <div class="loader-glow"></div>
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3dK3-XAKrEia-lWmiUqAYRfFQ1lR9eJX6ZZH8e_vHf576qf9GJjIWBW9Jg5LsilXX7WO2MOEkg5gzc4pESziaPeMJ9ws9mwtCDdp3p_17D0e0Uop_ZxavwwJeNLBvoyZJ0cxTKQpjzrJIR6LjJslB24tj-77AYrRCacQ3F2S2VPoXpPzPhM1zndxyd1Rg/s3307/B64D5386-DCA4-410B-A0A6-6ACB19D0A06F.png"
-             alt="LzPlay" class="loader-logo">
-        <div class="loader-bar">
-            <span></span>
-        </div>
-    </div>
 
     <!-- TOPBAR -->
     <div class="topbar">
@@ -309,11 +264,11 @@
     </div>
 
     <!-- MODAL -->
-    <div id="confirmModal" class="modal" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.75); backdrop-filter:blur(10px); z-index:99999; align-items:center; justify-content:center;">
-        <div class="modal-content" style="background:#0f172a; padding:30px; border-radius:24px; max-width:420px; width:90%; border:1px solid rgba(255,255,255,0.08);">
+    <div id="confirmModal" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.8); backdrop-filter:blur(10px); z-index:99999; align-items:center; justify-content:center;">
+        <div style="background:#0f172a; padding:30px; border-radius:24px; max-width:420px; width:90%; border:1px solid rgba(255,255,255,0.08);">
             <h3>¿Eliminar de Mi Lista?</h3>
-            <p id="modalItemTitle" style="color:#94a3b8; margin:15px 0;"></p>
-            <div style="display:flex; gap:12px; margin-top:25px;">
+            <p id="modalItemTitle" style="color:#94a3b8; margin:15px 0 25px;"></p>
+            <div style="display:flex; gap:12px;">
                 <button onclick="cancelDelete()" style="flex:1; padding:14px; border-radius:14px; background:#1e293b; color:white; border:none; font-weight:600;">Cancelar</button>
                 <button onclick="confirmDelete()" style="flex:1; padding:14px; border-radius:14px; background:#ef4444; color:white; border:none; font-weight:600;">Eliminar</button>
             </div>
@@ -321,7 +276,6 @@
     </div>
 
 <script>
-// Tu JavaScript actualizado (con pequeños ajustes)
 let currentUser = null;
 let itemToDelete = null;
 const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
@@ -334,7 +288,7 @@ firebase.auth().onAuthStateChanged(async (user) => {
 
 async function loadMyList() {
     const container = document.getElementById("mylistContainer");
-    container.innerHTML = `<div style="text-align:center;padding:80px 20px;color:#64748b;">
+    container.innerHTML = `<div style="text-align:center;padding:80px;color:#64748b;">
         <i class="fa-solid fa-spinner fa-spin" style="font-size:2.2rem;"></i><br><br>Cargando tu lista...
     </div>`;
 
@@ -354,9 +308,12 @@ async function loadMyList() {
                     ...data,
                     docId: docSnap.id,
                     title: tmdb.title || tmdb.name || "Sin título",
-                    backdrop: tmdb.backdrop_path ? `https://image.tmdb.org/t/p/w780${tmdb.backdrop_path}` : "https://via.placeholder.com/780x160/1e2937/64748b?text=Sin+Imagen",
-                    logo: tmdb.images?.logos?.[0]?.file_path ? `https://image.tmdb.org/t/p/w500${tmdb.images.logos[0].file_path}` : null,
-                    year: (tmdb.release_date || tmdb.first_air_date || "").substring(0, 4) || "N/A"
+                    backdrop: tmdb.backdrop_path ? `https://image.tmdb.org/t/p/w780${tmdb.backdrop_path}` : "https://via.placeholder.com/780x440/1e2937/64748b?text=Sin+Imagen",
+                    logo: tmdb.images?.logos?.[0]?.file_path 
+                        ? `https://image.tmdb.org/t/p/w500${tmdb.images.logos[0].file_path}` 
+                        : "https://via.placeholder.com/500x200/1e2937/64748b?text=Sin+Logo",
+                    year: (tmdb.release_date || tmdb.first_air_date || "").substring(0, 4) || "N/A",
+                    type: data.type
                 });
             }
         }
@@ -373,18 +330,24 @@ async function loadMyList() {
 
         let html = `<div class="mylist-grid">`;
         items.forEach(item => {
+            const typeText = item.type === "movie" ? "Película" : "Serie";
+            const typeClass = item.type === "movie" ? "type-movie" : "type-tv";
+
             html += `
                 <div class="card" onclick="goToContent('${item.url || '#'}')">
                     <img src="${item.backdrop}" class="backdrop" alt="${item.title}">
                     
-                    ${item.logo ? `<img src="${item.logo}" class="logo-img" alt="logo">` : ''}
+                    <img src="${item.logo}" class="logo-img" alt="${item.title}">
+                    
+                    <div class="type-badge ${typeClass}">${typeText}</div>
                     
                     <button class="remove-btn" onclick="event.stopImmediatePropagation(); prepareDelete('${item.docId}', '${item.title.replace(/'/g, "\\'")}')">
                         <i class="fa-solid fa-trash"></i>
                     </button>
                     
+                    <div class="status-dot"></div>
+                    
                     <div class="info">
-                        <div class="title">${item.title}</div>
                         <div class="year">${item.year}</div>
                     </div>
                 </div>`;
@@ -396,9 +359,6 @@ async function loadMyList() {
         container.innerHTML = `<div style="text-align:center;color:#ef4444;padding:60px;">Error al cargar la lista</div>`;
     }
 }
-
-// Resto de tus funciones (getTMDBInfo, goToContent, prepareDelete, etc.)
-// ... (mantén el resto igual)
 
 async function getTMDBInfo(type, id) {
     try {
