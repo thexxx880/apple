@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 10144,
+  "poster": "https://image.tmdb.org/t/p/w500/Vc0KvO7z2OzEbRs6nyZs9xD81s.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qGZXYHvWR1TYOU9raCaEABrj9m7.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/b5ZAo6CvvbMdiFQY13YqTBns0C9.png",
+  "titulo": "La sirenita",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.351,
+  "año": "1989",
+  "duracion": "1h 22min",
+  "edad_minima": 13,
+  "sinopsis": "Una princesa sirena hace un pacto fáustico en un intento por convertirse en humana y ganar el amor de un príncipe.",
+  "fecha_estreno": "1989-11-17",
+  "titulo_original": "The Little Mermaid",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jodi Benson",
+      "personaje": "Ariel / Vanessa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4mxtuq3mXLZwPKbI7t0KFxf0PRW.jpg"
+    },
+    {
+      "nombre": "Samuel E. Wright",
+      "personaje": "Sebastian (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fNdu3ge0Bf8kKvJCkrGTUbBaJKB.jpg"
+    },
+    {
+      "nombre": "Pat Carroll",
+      "personaje": "Ursula (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/r7JwQ9wmolpgPUFz8iSmgPy0SbH.jpg"
+    },
+    {
+      "nombre": "Christopher Daniel Barnes",
+      "personaje": "Prince Eric (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dE99eEJ9F8RweONabFIzb2p57iK.jpg"
+    },
+    {
+      "nombre": "Kenneth Mars",
+      "personaje": "King Triton (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dhvJ6DlH5n85Q1fN16rJsRJ0KiH.jpg"
+    },
+    {
+      "nombre": "Buddy Hackett",
+      "personaje": "Scuttle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tc9A8gHLAwMliIwRUs9O9QzlYZF.jpg"
+    },
+    {
+      "nombre": "Jason Marin",
+      "personaje": "Flounder (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kZeZQWUbpONa7IX4hEjNGp2hDGi.jpg"
+    },
+    {
+      "nombre": "René Auberjonois",
+      "personaje": "Louis (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1EZ6FnJGzwRl7XndkX8fBo8Tej3.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John Musker",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Howard Ashman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Musker",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ron Clements",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Musker",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ron Clements",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alan Menken",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Mark A. Hester",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Vera Pacheco",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Christopher Flick",
+      "rol": "Foley Editor"
+    },
+    {
+      "nombre": "James Ashwill",
+      "rol": "Foley Mixer"
+    },
+    {
+      "nombre": "Alan Smart",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Bill Perkins",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Mark Dindal",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Howard Ashman",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "John Carnochan",
+      "rol": "Supervising Film Editor"
+    },
+    {
+      "nombre": "Roger Allers",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Joe Ranft",
+      "rol": "Storyboard"
+    }
+  ],
+  "director": "John Musker",
+  "valoraciones": {
+    "tmdb": 7.351,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Silver Screen Partners IV",
+  "enlace_video": "https://rumble.com/hls-vod/78i8lw/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=ZGZX5-PAwR8"
+}
