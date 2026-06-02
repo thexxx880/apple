@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 98,
+  "poster": "https://image.tmdb.org/t/p/w500/p08mUnCktZ2opGihZTAn7OqzOoi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aF9ldcxU5HOEvrrhkZnd9jePoWu.png",
+  "titulo": "Gladiador",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Drama",
+    "Aventura"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 8.227,
+  "año": "2000",
+  "duracion": "2h 35min",
+  "edad_minima": 13,
+  "sinopsis": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+  "fecha_estreno": "2000-05-04",
+  "titulo_original": "Gladiator",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Russell Crowe",
+      "personaje": "Maximus",
+      "foto": "https://image.tmdb.org/t/p/w500/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "nombre": "Joaquin Phoenix",
+      "personaje": "Commodus",
+      "foto": "https://image.tmdb.org/t/p/w500/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+    },
+    {
+      "nombre": "Connie Nielsen",
+      "personaje": "Lucilla",
+      "foto": "https://image.tmdb.org/t/p/w500/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+    },
+    {
+      "nombre": "Oliver Reed",
+      "personaje": "Proximo",
+      "foto": "https://image.tmdb.org/t/p/w500/dWfotc1X71wNCGyPO9hXpv8U9Gw.jpg"
+    },
+    {
+      "nombre": "Richard Harris",
+      "personaje": "Marcus Aurelius",
+      "foto": "https://image.tmdb.org/t/p/w500/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg"
+    },
+    {
+      "nombre": "Derek Jacobi",
+      "personaje": "Gracchus",
+      "foto": "https://image.tmdb.org/t/p/w500/yHENzHZSVpnNrqsoATuDSMiQflf.jpg"
+    },
+    {
+      "nombre": "Djimon Hounsou",
+      "personaje": "Juba",
+      "foto": "https://image.tmdb.org/t/p/w500/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+    },
+    {
+      "nombre": "David Schofield",
+      "personaje": "Falco",
+      "foto": "https://image.tmdb.org/t/p/w500/2Dlxu9pqbjKA0dbfy4yMUFjiqeW.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Franzoni",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "William Nicholson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Branko Lustig",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Franzoni",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Douglas Wick",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Logan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ridley Scott",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Franzoni",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Colin Coull",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Lisa Gerrard",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Pietro Scalia",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Janty Yates",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Arthur Max",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Crispian Sallis",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Louis DiGiaimo",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "William McPhail",
+      "rol": "Wardrobe Master"
+    },
+    {
+      "nombre": "David Appleby",
+      "rol": "Key Grip"
+    },
+    {
+      "nombre": "Branko Lustig",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Terry Needham",
+      "rol": "First Assistant Director"
+    }
+  ],
+  "director": "Ridley Scott",
+  "valoraciones": {
+    "tmdb": 8.227,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://1a-1791.com/video/fwe2/95/s8/2/y/B/0/f/yB0fw.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=P5ieIbInFpg"
+}
