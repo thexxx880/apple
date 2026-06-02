@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 752,
+  "poster": "https://image.tmdb.org/t/p/w500/8pDM7gryUV0FqaniCXcw5KhH5SS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5EKplo61HbA5sMGAN0XAvzdo1MX.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/AiQsHyrHppmkFUwjzjNv3Oj78qN.png",
+  "titulo": "V de Venganza",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.9,
+  "año": "2006",
+  "duracion": "2h 12min",
+  "edad_minima": 13,
+  "sinopsis": "Una tarde, tras el toque de queda, Evey es rescatada en plena calle por un misterioso enmascarado cuyo nombre es \"V\". El extraño personaje le explica cuáles son sus planes para recuperar la libertad.",
+  "fecha_estreno": "2006-02-23",
+  "titulo_original": "V for Vendetta",
+  "pais_origen": "Germany",
+  "reparto": [
+    {
+      "nombre": "Natalie Portman",
+      "personaje": "Evey",
+      "foto": "https://image.tmdb.org/t/p/w500/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+      "nombre": "Hugo Weaving",
+      "personaje": "V / William Rookwood",
+      "foto": "https://image.tmdb.org/t/p/w500/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+    },
+    {
+      "nombre": "Stephen Rea",
+      "personaje": "Finch",
+      "foto": "https://image.tmdb.org/t/p/w500/e4zy2Js6Yz7G2dGYZh1vZRAL5DI.jpg"
+    },
+    {
+      "nombre": "Stephen Fry",
+      "personaje": "Deitrich",
+      "foto": "https://image.tmdb.org/t/p/w500/lv2nwyciDv1P5FPsjD6DmFzV7Nt.jpg"
+    },
+    {
+      "nombre": "John Hurt",
+      "personaje": "Adam Sutler",
+      "foto": "https://image.tmdb.org/t/p/w500/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+    },
+    {
+      "nombre": "Tim Pigott-Smith",
+      "personaje": "Creedy",
+      "foto": "https://image.tmdb.org/t/p/w500/37OZUY7cq8eoWxhKR2VD1ppusJM.jpg"
+    },
+    {
+      "nombre": "Rupert Graves",
+      "personaje": "Dominic",
+      "foto": "https://image.tmdb.org/t/p/w500/6tS8XMuTS04xXTfeWFjJED6SFBF.jpg"
+    },
+    {
+      "nombre": "Roger Allam",
+      "personaje": "Lewis Prothero",
+      "foto": "https://image.tmdb.org/t/p/w500/hrtVjATnltwatFCOjhtCZTnN2hW.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lana Wachowski",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lana Wachowski",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lilly Wachowski",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James McTeigue",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joel Silver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lilly Wachowski",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Grant Hill",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lorne Orleans",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lucinda Syson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Nicolas de Pruyssenaere",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Thorsten Gliewe",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Andreas Schulz",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Martin Walsh",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Peter Walpole",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Marco Bittner Rosser",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Matthias Günther",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Stephen Bream",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Sammy Sheldon",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Ben Waisbren",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Owen Paterson",
+      "rol": "Production Design"
+    }
+  ],
+  "director": "James McTeigue",
+  "valoraciones": {
+    "tmdb": 7.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Virtual Studios",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe1/3e/s8/2/f/8/1/S/f81Sw.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=3ge0navn9E0"
+}
