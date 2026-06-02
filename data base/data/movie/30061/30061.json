@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 30061,
+  "poster": "https://image.tmdb.org/t/p/w500/dRJzhOVZ4d3b2bMa24PusStb9ro.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/okRY6YHbakM9cQz08EfcaLfzDoX.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ucDMITOY6fJ13f9mrbfrvycV981.png",
+  "titulo": "Liga de la Justicia: Crisis en las dos tierras",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Animación",
+    "Ciencia ficción",
+    "Fantasía"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.315,
+  "año": "2010",
+  "duracion": "1h 15min",
+  "edad_minima": 13,
+  "sinopsis": "Un Lex Luthor bueno, llega desde un universo alterno para reclutar a la Liga de la Justicia para ayudar a salvar a su Tierra de la amenaza Sindicato del Crimen, un grupo de personajes malévolos con super poderes idénticos a los de la Liga de la Justicia. Lo que está asegurado es la batalla definitiva entre el bien y el mal en una guerra que amenaza a ambos planetas y que, a través de un plan diabólico puesto en marcha por Owlman, pone a toda nuestra existencia en peligro.",
+  "fecha_estreno": "2010-02-23",
+  "titulo_original": "Justice League: Crisis on Two Earths",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "William Baldwin",
+      "personaje": "Batman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mFCUAl6Rko6ocONhFDCpztcmKXd.jpg"
+    },
+    {
+      "nombre": "Mark Harmon",
+      "personaje": "Superman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jDRXlmBItH9IyXk9UhafpOSBIq7.jpg"
+    },
+    {
+      "nombre": "Chris Noth",
+      "personaje": "Lex Luthor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9awGeDN5MSbSefDMAyMglm96vcy.jpg"
+    },
+    {
+      "nombre": "Gina Torres",
+      "personaje": "Superwoman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ukDNHgvEgdU95eaw6pngiAPucv4.jpg"
+    },
+    {
+      "nombre": "James Woods",
+      "personaje": "Owlman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tLH7mpH4KqkWL5VgjueTbewGsfK.jpg"
+    },
+    {
+      "nombre": "Jonathan Adams",
+      "personaje": "J'Onn J'Onzz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mkgyl2MciZ14wsYi6zedyj6hnR8.jpg"
+    },
+    {
+      "nombre": "Brian Bloom",
+      "personaje": "Ultraman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9mZKhI3aVbzZ5Xq43n7fGzWAqi0.jpg"
+    },
+    {
+      "nombre": "Bruce Davison",
+      "personaje": "President Wilson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/41JtouCUhnnBwWmdsemPydtk3FB.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Dwayne McDuffie",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sam Liu",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lauren Montgomery",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Dwayne McDuffie",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bruce Timm",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rick Morales",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Jay Oliva",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Margaret Hou",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jerry Siegel",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Joe Shuster",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "William Moulton Marston",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Gregory Noveck",
+      "rol": "Executive In Charge Of Production"
+    },
+    {
+      "nombre": "Michael Macasero",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Sherrian Felix",
+      "rol": "Assistant Production Manager"
+    },
+    {
+      "nombre": "Will Feng",
+      "rol": "Assistant Production Manager"
+    }
+  ],
+  "director": "Sam Liu",
+  "valoraciones": {
+    "tmdb": 7.315,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Premiere",
+  "enlace_video": "https://rumble.com/hls-vod/78i4ww/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=zGRCVWk8weQ"
+}
