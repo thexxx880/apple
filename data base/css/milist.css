@@ -6,6 +6,13 @@
     display: none; /* Se activa vía JS si hay contenido */
 }
 
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
 .section-header h2 {
     font-size: 1.45rem;
     font-weight: 100;
