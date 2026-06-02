@@ -2,7 +2,7 @@
    SEGUIR VIENDO - Compacto (con tus ajustes)
 ============================================= */
 .continue-section {
-    margin: 0px 0;
+    margin: 10px 0;
     display: none; /* Se activa vía JS si hay contenido */
 }
 
