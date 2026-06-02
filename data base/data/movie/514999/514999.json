@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 514999,
+  "poster": "https://image.tmdb.org/t/p/w500/cCu3lbeGNxBNwGE2plneJMmu5g7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wL8KA3zIJQPbbU5hJlyIdmmLZit.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bmVZctOxdTArXWo2sqigCE9yk90.png",
+  "titulo": "Misterio a bordo",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Misterio"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.258,
+  "año": "2019",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Un policía de Nueva York y su esposa se van de vacaciones a Europa para revitalizar la chispa de su matrimonio, pero terminan incriminados y huyendo por la muerte de un multimillonario anciano.",
+  "fecha_estreno": "2019-05-25",
+  "titulo_original": "Murder Mystery",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Adam Sandler",
+      "personaje": "Nick Spitz",
+      "foto": "https://image.tmdb.org/t/p/w500/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+    },
+    {
+      "nombre": "Jennifer Aniston",
+      "personaje": "Audrey Spitz",
+      "foto": "https://image.tmdb.org/t/p/w500/7sQcYpMkmZMc2pXnkmAuYzNVhXB.jpg"
+    },
+    {
+      "nombre": "Luke Evans",
+      "personaje": "Charles Cavendish",
+      "foto": "https://image.tmdb.org/t/p/w500/qUkYJcrDc4M0LHNYASs30luFvw0.jpg"
+    },
+    {
+      "nombre": "Terence Stamp",
+      "personaje": "Malcolm Quince",
+      "foto": "https://image.tmdb.org/t/p/w500/ept9urkuhPbGndVXkERw39R9oid.jpg"
+    },
+    {
+      "nombre": "Gemma Arterton",
+      "personaje": "Grace Ballard",
+      "foto": "https://image.tmdb.org/t/p/w500/dbBjz1EC9SqoudIaJ75NOB56bbh.jpg"
+    },
+    {
+      "nombre": "David Walliams",
+      "personaje": "Tobey Quince",
+      "foto": "https://image.tmdb.org/t/p/w500/abdmkEncVFg0pBrt8Li3mM3L4Sh.jpg"
+    },
+    {
+      "nombre": "Dany Boon",
+      "personaje": "Inspector Laurent de la Croix",
+      "foto": "https://image.tmdb.org/t/p/w500/6jMvseHpFra7tkfDIg64u5pJcI2.jpg"
+    },
+    {
+      "nombre": "John Kani",
+      "personaje": "Colonel Ulenga",
+      "foto": "https://image.tmdb.org/t/p/w500/g7tqg3q128a5O2qXMCwVnXsow9I.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Vanderbilt",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kyle Newacheck",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Adam Sandler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tripp Vinson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "A.J. Dix",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Vanderbilt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James D. Stern",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Allen Covert",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tony Sarandos",
+      "rol": "Post Production Assistant"
+    },
+    {
+      "nombre": "Joe Watts",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "William Shively",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Beth Kono",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Stoneham Jr.",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Gary Powell",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Michele Laliberte",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Amir Mokri",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Barry Bernardi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christine Felman",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Tara Farney",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Lucas Smith",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Kyle Newacheck",
+  "valoraciones": {
+    "tmdb": 6.258,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Vinson Films",
+  "enlace_video": "https://rumble.com/hls-vod/78i65w/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=5YEVQDr2f3Q"
+}
