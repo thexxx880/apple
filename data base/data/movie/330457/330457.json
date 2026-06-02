@@ -1,0 +1,159 @@
+{
+  "id_tmdb": 330457,
+  "poster": "https://image.tmdb.org/t/p/w500/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uVLjCFRS4cv1mFijWkzeKeI16DL.png",
+  "titulo": "Frozen 2",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Aventura",
+    "Comedia",
+    "Fantasía"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.231,
+  "año": "2019",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "¿Por qué Elsa nació con poderes mágicos? La respuesta la está llamando y amenazando su reino. Junto con Anna, Kristoff, Olaf y Sven, se embarcará en un peligroso, pero extraordinario viaje. En Frozen: Una Aventura Congelada, Elsa temía que sus poderes fueran demasiado para el mundo. En Frozen 2, ella debe esperar que sean suficientes. Del equipo ganador del Óscar®, los directores Jennifer Lee y Chris Buck, y el productor Peter Del Vecho; con las voces originales en inglés de Idina Menzel, Kristen Bell, Jonathan Groff y Josh Gad; y la música de los compositores Kristen Anderson-Lopez y Robert Lopez, ganadores del premio de la Academia, llega Frozen 2, la nueva película animada de Disney.",
+  "fecha_estreno": "2019-11-20",
+  "titulo_original": "Frozen II",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Idina Menzel",
+      "personaje": "Elsa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eGsyJmAZNV5tUU4RYy2DIRlFVpW.jpg"
+    },
+    {
+      "nombre": "Kristen Bell",
+      "personaje": "Anna (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
+    },
+    {
+      "nombre": "Josh Gad",
+      "personaje": "Olaf (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p9hWNRwrVEBpl8We2bxLMHkk5Mj.jpg"
+    },
+    {
+      "nombre": "Jonathan Groff",
+      "personaje": "Kristoff / Sven / Reindeers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+    },
+    {
+      "nombre": "Evan Rachel Wood",
+      "personaje": "Iduna (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ksXTb2bvqt60bCGRwBlWrNbZHnr.jpg"
+    },
+    {
+      "nombre": "Sterling K. Brown",
+      "personaje": "Mattias (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vjFATaJfAyBie56J4Qv2DQ9Dyem.jpg"
+    },
+    {
+      "nombre": "Alfred Molina",
+      "personaje": "Agnarr (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "nombre": "Rachel Matthews",
+      "personaje": "Honeymaren (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rPm9vlAEsFTLict8nLmRVt4Zfhe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Allison Schroeder",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Peter Del Vecho",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marc Smith",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Robert Lopez",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jennifer Lee",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Chris Buck",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jennifer Lee",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kristen Anderson-Lopez",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Hans Christian Andersen",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "John Roesch",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Christophe Beck",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jennifer Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jamie Sparer Roberts",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Robert Lopez",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Kristen Anderson-Lopez",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Jeff Draheim",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Robert Lopez",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Byron Howard",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kristen Anderson-Lopez",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Heather Blodget",
+      "rol": "Production Supervisor"
+    }
+  ],
+  "director": "Jennifer Lee",
+  "valoraciones": {
+    "tmdb": 7.231,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Animation Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/d/H/X/k/dHXkv.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=vSKlICmmi98"
+}
