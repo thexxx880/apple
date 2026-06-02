@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 787699,
+  "poster": "https://image.tmdb.org/t/p/w500/6eHcR7zwvNSvkOl9jbctU0lvZQ1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4MdzluUXHjgVRwRRNh5vSPq0TB5.png",
+  "titulo": "Wonka",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7,
+  "año": "2023",
+  "duracion": "1h 52min",
+  "edad_minima": 13,
+  "sinopsis": "Willy Wonka, repleto de ideas y decidido a cambiar el mundo con un delicioso bocado a la vez, es una prueba de que las mejores cosas de la vida comienzan con un sueño y, si tienes la suerte de conocer a Willy Wonka, todo es posible.",
+  "fecha_estreno": "2023-12-06",
+  "titulo_original": "Wonka",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Timothée Chalamet",
+      "personaje": "Willy Wonka",
+      "foto": "https://image.tmdb.org/t/p/w500/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+    },
+    {
+      "nombre": "Calah Lane",
+      "personaje": "Noodle",
+      "foto": "https://image.tmdb.org/t/p/w500/rhEcrfvtkIuzjOvt010xHiVHWXY.jpg"
+    },
+    {
+      "nombre": "Keegan-Michael Key",
+      "personaje": "Chief of Police",
+      "foto": "https://image.tmdb.org/t/p/w500/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg"
+    },
+    {
+      "nombre": "Hugh Grant",
+      "personaje": "Oompa Loompa",
+      "foto": "https://image.tmdb.org/t/p/w500/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+    },
+    {
+      "nombre": "Paterson Joseph",
+      "personaje": "Arthur Slugworth",
+      "foto": "https://image.tmdb.org/t/p/w500/7CIVAl4HiuWrmp4r8Jk09sqxTBy.jpg"
+    },
+    {
+      "nombre": "Olivia Colman",
+      "personaje": "Mrs. Scrubbit",
+      "foto": "https://image.tmdb.org/t/p/w500/4kceB4JYBcFTdzVhfq3cDnExcGa.jpg"
+    },
+    {
+      "nombre": "Tom Davis",
+      "personaje": "Bleacher",
+      "foto": "https://image.tmdb.org/t/p/w500/n7JqvXrpPsbpfeelPpZ5R8HTWMG.jpg"
+    },
+    {
+      "nombre": "Jim Carter",
+      "personaje": "Abacus Crunch",
+      "foto": "https://image.tmdb.org/t/p/w500/okiL3gc0mNqP0kPfMQHHvFjKnHb.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Simon Farnaby",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Luke Kelly",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul King",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Paul King",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Alexandra Derbyshire",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Heyman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul King",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Siegel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nathan Crowley",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Rob Harris",
+      "rol": "Set Production Assistant"
+    },
+    {
+      "nombre": "Chris D Walker",
+      "rol": "Special Effects Assistant"
+    },
+    {
+      "nombre": "Melis Alpas",
+      "rol": "Digital Compositor"
+    },
+    {
+      "nombre": "Pete Blaxill",
+      "rol": "Second Assistant Sound"
+    },
+    {
+      "nombre": "Alistair Poulter",
+      "rol": "Special Effects Technician"
+    },
+    {
+      "nombre": "Luke Rutter",
+      "rol": "Special Effects Technician"
+    },
+    {
+      "nombre": "Sheridan Bailey",
+      "rol": "Special Effects Technician"
+    },
+    {
+      "nombre": "Damián Babbaro",
+      "rol": "Digital Compositor"
+    },
+    {
+      "nombre": "Chris Murphy",
+      "rol": "Boom Operator"
+    },
+    {
+      "nombre": "Rupert Morency",
+      "rol": "Special Effects Technician"
+    }
+  ],
+  "director": "Paul King",
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/j/8/v/H/j8vHp.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=hQdTXGfDWgY"
+}
