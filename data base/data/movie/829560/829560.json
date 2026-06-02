@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 829560,
+  "poster": "https://image.tmdb.org/t/p/w500/dvKpJZUxI1Rsgvrl8HHv62CpBBh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6cpRpfD3isvluFwXDGSiDVyibPJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/fQD0iIDqa1yr0Yjg7KMD2agE2La.png",
+  "titulo": "365 días más",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.381,
+  "año": "2022",
+  "duracion": "1h 52min",
+  "edad_minima": 13,
+  "sinopsis": "La relación de Laura y Massimo pende de un hilo mientras intentan superar los problemas de confianza y los celos, mientras que un tenaz Nacho trabaja para separarlos.",
+  "fecha_estreno": "2022-08-18",
+  "titulo_original": "Kolejne 365 dni",
+  "pais_origen": "Poland",
+  "reparto": [
+    {
+      "nombre": "Anna-Maria Sieklucka",
+      "personaje": "Laura Torricelli",
+      "foto": "https://image.tmdb.org/t/p/w500/6ZqAE1XTtspfshatfNaBVHSu1fx.jpg"
+    },
+    {
+      "nombre": "Michele Morrone",
+      "personaje": "Massimo Torricelli",
+      "foto": "https://image.tmdb.org/t/p/w500/cOWSjiG2CI2PiCx69bCJiQVHyrD.jpg"
+    },
+    {
+      "nombre": "Simone Susinna",
+      "personaje": "Marcelo 'Nacho' Matos",
+      "foto": "https://image.tmdb.org/t/p/w500/ave6292vdlcySUKee9T3oMUVhvY.jpg"
+    },
+    {
+      "nombre": "Magdalena Lamparska",
+      "personaje": "Olga",
+      "foto": "https://image.tmdb.org/t/p/w500/52eglsEGV71N5LcWj6I0YqGw8ke.jpg"
+    },
+    {
+      "nombre": "Otar Saralidze",
+      "personaje": "Domenico",
+      "foto": "https://image.tmdb.org/t/p/w500/fqY7p0kotc9uuwB7UF3aYXXmY0R.jpg"
+    },
+    {
+      "nombre": "Ewa Kasprzyk",
+      "personaje": "Klara Biel",
+      "foto": "https://image.tmdb.org/t/p/w500/hNqsUYiFNYZrKKG9mXlEl3EfuPY.jpg"
+    },
+    {
+      "nombre": "Dariusz Jakubowski",
+      "personaje": "Tomasz Biel",
+      "foto": "https://image.tmdb.org/t/p/w500/bVsDOkPEBGUitIfvWIGoiZufWke.jpg"
+    },
+    {
+      "nombre": "Ramón Langa",
+      "personaje": "Don Fernando Matos",
+      "foto": "https://image.tmdb.org/t/p/w500/xqF6bJrJOOac88IVgPVVl3fX869.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tomasz Mandes",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tomasz Mandes",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Barbara Białowąs",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ewa Lewandowska",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Maciej Kawulski",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tomasz Mandes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Blanka Lipińska",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Mojca Tirš",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Blanka Lipińska",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Bartek Cierlica",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Marcin Drewnowski",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Piotr Koncki",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "Joanna Białousz",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Patryk Komór",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Dominic Buczkowski-Wojtaszek",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Barbara Burska",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Agata Biedrzycka",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Adrianna Bartkowska",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Tomasz Mandes",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Agata Biedrzycka",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Tomasz Mandes",
+  "valoraciones": {
+    "tmdb": 6.381,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Ekipa",
+  "enlace_video": "https://1a-1791.com/video/s8/2/t/R/o/e/tRoep.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=iXdw5wYI4cY"
+}
