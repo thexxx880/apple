@@ -12,11 +12,11 @@
     <link rel="stylesheet" href="css/global.css">
     <link rel="stylesheet" href="css/home.css">
     <link rel="stylesheet" href="css/top-10.css">
+    <link rel="stylesheet" href="css/milist.css">
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
-    <script src="js/firebase/applelz.js"></script>
-    <script src="js/components/load.js"></script>
+   
     <script>
 firebase.auth().onAuthStateChanged(user => {
 
@@ -64,6 +64,13 @@ window.location.href =
         </div>
     </section>
  <section class="section">
+     <!-- SEGUIR VIENDO -->
+<div class="continue-section">
+    <div class="section-header">
+        <h2>▶ Seguir Viendo</h2>
+    </div>
+    <div id="continueGrid" class="continue-grid"></div>
+</div>
    <!-- 🔥 NUEVO TOP 10 (reemplazado con tu código) -->
         <div id="lzplay-top10-netflix" class="lzplay-top10-netflix">
             <div class="heading">🔥 Top 10 🔥</div>
@@ -90,6 +97,9 @@ window.location.href =
     <script src="js/components/navbar.js"></script>
     <script src="js/components/floating-menu.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/firebase/applelz.js"></script>
+    <script src="js/components/load.js"></script>
+    <script src="js/components/milist.js"></script>
     <script>
   document.addEventListener("DOMContentLoaded", () => {
    initNavbar("main-header");
