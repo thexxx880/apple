@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 10661,
+  "poster": "https://image.tmdb.org/t/p/w500/2qjmj0tYlKxq82mUKA2Xb6gqlYa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tfUotS2rLaIu7ieJPDonyDn5EqQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/sqfsNgx1SKy5MqroVOwZ8x51CDp.png",
+  "titulo": "No te metas con Zohan",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Acción"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 5.714,
+  "año": "2008",
+  "duracion": "1h 53min",
+  "edad_minima": 13,
+  "sinopsis": "Un soldado de las fuerzas especiales israelíes finge su muerte para poder resurgir en Nueva York como estilista.",
+  "fecha_estreno": "2008-06-05",
+  "titulo_original": "You Don't Mess with the Zohan",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Adam Sandler",
+      "personaje": "Zohan Dvir",
+      "foto": "https://image.tmdb.org/t/p/w500/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+    },
+    {
+      "nombre": "Emmanuelle Chriqui",
+      "personaje": "Dalia Hakbarah",
+      "foto": "https://image.tmdb.org/t/p/w500/5ll30bFOYMlIucGNrqWQ4bAA14U.jpg"
+    },
+    {
+      "nombre": "John Turturro",
+      "personaje": "Fatoush 'The Phantom' Hakbarah",
+      "foto": "https://image.tmdb.org/t/p/w500/63zA58rSyJxBMLBdgeMjjETmpDQ.jpg"
+    },
+    {
+      "nombre": "Nick Swardson",
+      "personaje": "Michael Klayman",
+      "foto": "https://image.tmdb.org/t/p/w500/eyZkNQvpvNzYBg9oXh2IM6zOE5G.jpg"
+    },
+    {
+      "nombre": "Lainie Kazan",
+      "personaje": "Gail Klayman",
+      "foto": "https://image.tmdb.org/t/p/w500/6BpG5cRYtT2Trtaq6IshpLY9jgf.jpg"
+    },
+    {
+      "nombre": "Rob Schneider",
+      "personaje": "Salim Yousfobdal",
+      "foto": "https://image.tmdb.org/t/p/w500/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+    },
+    {
+      "nombre": "Kevin Nealon",
+      "personaje": "Kevin",
+      "foto": "https://image.tmdb.org/t/p/w500/5eV3T45dXMzXaKy9A3wE2UueRvx.jpg"
+    },
+    {
+      "nombre": "Mariah Carey",
+      "personaje": "Mariah Carey",
+      "foto": "https://image.tmdb.org/t/p/w500/k5vdcaZHKuP4UgHReFWVdo0MXGI.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Dennis Dugan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jack Giarraputo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Sandler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Judd Apatow",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Adam Sandler",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Robert Smigel",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rupert Gregson-Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tom Costain",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Barry Bernardi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Barrett",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Robert Smigel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Hertlein",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Marc Glassman",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Kathleen Freeman",
+      "rol": "Key Makeup Artist"
+    },
+    {
+      "nombre": "Denise Paulson",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Robert A. Blackburn",
+      "rol": "Construction Coordinator"
+    },
+    {
+      "nombre": "Chuck Askerneese",
+      "rol": "Assistant Property Master"
+    },
+    {
+      "nombre": "Edward Flotard",
+      "rol": "Transportation Captain"
+    }
+  ],
+  "director": "Dennis Dugan",
+  "valoraciones": {
+    "tmdb": 5.714,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Relativity Media",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/y/b/h/g/ybhgv.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=ucmnTmYpGhI"
+}
