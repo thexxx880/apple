@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 617505,
+  "poster": "https://image.tmdb.org/t/p/w500/dHH1TvTUJT6P4n8qgFYrYpAZPdt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aOeshAxAhiDVIiHsXVFmF6bgclh.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/elLFfDQ1DhemD3Fhr4uDCMPFVsn.png",
+  "titulo": "El Halloween de Hubie",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Terror",
+    "Misterio"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.889,
+  "año": "2020",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "Pese a su devoción por el pueblo de Salem, Hubie Dubois (Sandler) reconoce que la noche de Halloween no es precisamente la más atractiva para los jóvenes desde hace unos años. En esta ocasión, no obstante, algo distinto está a punto de suceder, y sólo él podrá salvar esta mágica noche.",
+  "fecha_estreno": "2020-10-07",
+  "titulo_original": "Hubie Halloween",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Adam Sandler",
+      "personaje": "Hubie Dubois",
+      "foto": "https://image.tmdb.org/t/p/w500/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+    },
+    {
+      "nombre": "Kevin James",
+      "personaje": "Sgt. Steve Downey",
+      "foto": "https://image.tmdb.org/t/p/w500/3WPW5duZyQcjveefxwLULgIyhM0.jpg"
+    },
+    {
+      "nombre": "Julie Bowen",
+      "personaje": "Violet Valentine",
+      "foto": "https://image.tmdb.org/t/p/w500/5ewqnbPAY0EzZObGHIKU4VsCanD.jpg"
+    },
+    {
+      "nombre": "Ray Liotta",
+      "personaje": "Mr. Landolfa",
+      "foto": "https://image.tmdb.org/t/p/w500/jdwGJbJNSRQiG2kB5MJxiu2clCQ.jpg"
+    },
+    {
+      "nombre": "Steve Buscemi",
+      "personaje": "Walter Lambert",
+      "foto": "https://image.tmdb.org/t/p/w500/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+    },
+    {
+      "nombre": "Rob Schneider",
+      "personaje": "Richie Hartman",
+      "foto": "https://image.tmdb.org/t/p/w500/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+    },
+    {
+      "nombre": "Maya Rudolph",
+      "personaje": "Mrs. Hennessey",
+      "foto": "https://image.tmdb.org/t/p/w500/bpEVMFMyHEQ8wLdii9WKB279w8p.jpg"
+    },
+    {
+      "nombre": "Tim Meadows",
+      "personaje": "Mr. Lester Hennessey",
+      "foto": "https://image.tmdb.org/t/p/w500/u9MCgfy0n5jJ2GTsGALdist19C1.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Steven Brill",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Adam Sandler",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tim Herlihy",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Adam Sandler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Grady",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Allen Covert",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Teddy Pryor",
+      "rol": "Electrician"
+    },
+    {
+      "nombre": "Gary Archer",
+      "rol": "Prosthetics"
+    },
+    {
+      "nombre": "Christina Fong",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Lori Rozzi",
+      "rol": "Set Costumer"
+    },
+    {
+      "nombre": "Cameron Boyce",
+      "rol": "In Memory Of"
+    },
+    {
+      "nombre": "Abigail Hard",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Josephine Allegretti",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Rupert Gregson-Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Seamus Tierney",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Tom Costain",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Brian Robinson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Wendy Chuck",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "Steven Brill",
+  "valoraciones": {
+    "tmdb": 5.889,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Happy Madison Productions",
+  "enlace_video": "https://rumble.com/hls-vod/78i5gs/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=kY3SuNvqQPw"
+}
