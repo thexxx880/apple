@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 507089,
+  "poster": "https://image.tmdb.org/t/p/w500/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/2he0rqCEGv6pCZdn9Hv8fG6PdxS.png",
+  "titulo": "Five Nights at Freddy's",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.317,
+  "año": "2023",
+  "duracion": "1h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Un guardia de seguridad con problemas comienza a trabajar en Freddy Fazbear's Pizza. Mientras pasa su primera noche en el trabajo, se da cuenta de que el turno de noche en Freddy's no será tan fácil de superar.",
+  "fecha_estreno": "2023-10-25",
+  "titulo_original": "Five Nights at Freddy's",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Josh Hutcherson",
+      "personaje": "Mike",
+      "foto": "https://image.tmdb.org/t/p/w500/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+    },
+    {
+      "nombre": "Piper Rubio",
+      "personaje": "Abby",
+      "foto": "https://image.tmdb.org/t/p/w500/kIg9VvVBi1H8Bl9B697f2GE9rPo.jpg"
+    },
+    {
+      "nombre": "Elizabeth Lail",
+      "personaje": "Vanessa",
+      "foto": "https://image.tmdb.org/t/p/w500/lDYjEyqojUs2sF3CgdsOZ9vr2KL.jpg"
+    },
+    {
+      "nombre": "Matthew Lillard",
+      "personaje": "Steve Raglan / William Afton",
+      "foto": "https://image.tmdb.org/t/p/w500/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    },
+    {
+      "nombre": "Mary Stuart Masterson",
+      "personaje": "Aunt Jane",
+      "foto": "https://image.tmdb.org/t/p/w500/sxQksTRKrubxcfjA5f1cQIr7dk9.jpg"
+    },
+    {
+      "nombre": "Kat Conner Sterling",
+      "personaje": "Max",
+      "foto": "https://image.tmdb.org/t/p/w500/5Mq6X1MeVuoSa37VRQw987aF3pZ.jpg"
+    },
+    {
+      "nombre": "David Lind",
+      "personaje": "Jeff",
+      "foto": "https://image.tmdb.org/t/p/w500/4fDDnqq5WlBI6DOkXe1YGdCJ0a2.jpg"
+    },
+    {
+      "nombre": "Christian Stokes",
+      "personaje": "Hank",
+      "foto": "https://image.tmdb.org/t/p/w500/h8pgK1CIMVNint4NHdI9V4qTly0.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Emma Tammi",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Scott Cawthon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Blum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Emma Tammi",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Seth Cuddeback",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Scott Cawthon",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brian S. Johnston",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Ashley Levy",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Scott Cawthon",
+      "rol": "Screenstory"
+    },
+    {
+      "nombre": "Christopher H. Warner",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Marc Mostman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gregory T. Geniusz",
+      "rol": "Set Dresser"
+    },
+    {
+      "nombre": "Alexander Klein",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Danny Gonzalez",
+      "rol": "Second Second Assistant Director"
+    },
+    {
+      "nombre": "Brad Quintana",
+      "rol": "Prop Maker"
+    },
+    {
+      "nombre": "Jessica Lee",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "P.K. Hooker",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "P.K. Hooker",
+      "rol": "Sound Designer"
+    }
+  ],
+  "director": "Emma Tammi",
+  "valoraciones": {
+    "tmdb": 7.317,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Blumhouse Productions",
+  "enlace_video": "https://1a-1791.com/video/s8/2/L/Q/f/E/LQfEt.caa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=wb59_A2vUCk"
+}
