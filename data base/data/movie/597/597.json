@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 597,
+  "poster": "https://image.tmdb.org/t/p/w500/2tltWMvvTqscFtdujTXDsRFTqKQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ce9WIzV5NkPWUxA4ZCQ3HWEhAEv.png",
+  "titulo": "Titanic",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.903,
+  "año": "1997",
+  "duracion": "3h 15min",
+  "edad_minima": 13,
+  "sinopsis": "El romance florece entre Jack Dawson y Rose DeWitt Bukater en el esplendoroso transatlántico RMS Titanic. Su amor, como el barco, desafía las olas del destino. Pero cuando el Titanic choca con el iceberg, su historia se convierte en una épica de sacrificio y supervivencia, en la que el amor perdurará más allá de las profundidades del mar.",
+  "fecha_estreno": "1997-12-18",
+  "titulo_original": "Titanic",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Leonardo DiCaprio",
+      "personaje": "Jack Dawson",
+      "foto": "https://image.tmdb.org/t/p/w500/mkdRcVIQl4WZhDf1vXKWTD7HZrZ.jpg"
+    },
+    {
+      "nombre": "Kate Winslet",
+      "personaje": "Rose DeWitt Bukater",
+      "foto": "https://image.tmdb.org/t/p/w500/surklDlLW6g2D7EqycEQwHXsoD1.jpg"
+    },
+    {
+      "nombre": "Billy Zane",
+      "personaje": "Cal Hockley",
+      "foto": "https://image.tmdb.org/t/p/w500/wr4fuwLzQvW1G0MS7cmQ3ObFjvL.jpg"
+    },
+    {
+      "nombre": "Kathy Bates",
+      "personaje": "Molly Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/qZRTzTjV4OC1Ii9a0n8QBS9zMOd.jpg"
+    },
+    {
+      "nombre": "Frances Fisher",
+      "personaje": "Ruth DeWitt Bukater",
+      "foto": "https://image.tmdb.org/t/p/w500/3iNDgd54IIj8g8hGqhhUjM6TeWd.jpg"
+    },
+    {
+      "nombre": "Gloria Stuart",
+      "personaje": "Old Rose",
+      "foto": "https://image.tmdb.org/t/p/w500/9aG7UUX3PWIGGf1KRY5TsBSoNz9.jpg"
+    },
+    {
+      "nombre": "Bill Paxton",
+      "personaje": "Brock Lovett",
+      "foto": "https://image.tmdb.org/t/p/w500/aLdNe6mt1cSi2zWlUYRregzfis5.jpg"
+    },
+    {
+      "nombre": "Bernard Hill",
+      "personaje": "Captain Smith",
+      "foto": "https://image.tmdb.org/t/p/w500/5i8bj2nsTrFU2ddSynleOjapxor.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Cameron",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jon Landau",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Martin Laing",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Russell Carpenter",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Giedra Rackauskas",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Peter Lamont",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Lisa Dennis",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Richard A. Harris",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Ford",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "James Horner",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Mali Finn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Deborah L. Scott",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Anna Roth",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Emily Schweber",
+      "rol": "Casting"
+    }
+  ],
+  "director": "James Cameron",
+  "valoraciones": {
+    "tmdb": 7.903,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/6a/s8/2/P/8/5/p/P85px.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=wO44qBPBG4c"
+}
