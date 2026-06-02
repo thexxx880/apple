@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 771,
+  "poster": "https://image.tmdb.org/t/p/w500/iruzQaa7OHmtb6qKbW278v6Ml4b.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jcaBcXai5LMZsjrcP6rrzyrHw0o.png",
+  "titulo": "Mi pobre angelito",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.465,
+  "año": "1990",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "Kevin McAllister es un niño de ocho años, miembro de una familia numerosa que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de dos bribones que se proponen asaltar todas las casas cerradas de su vecindario.",
+  "fecha_estreno": "1990-11-16",
+  "titulo_original": "Home Alone",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Macaulay Culkin",
+      "personaje": "Kevin",
+      "foto": "https://image.tmdb.org/t/p/w500/5We9Y4zUJ5TUnRgfmkzWQx0mLIF.jpg"
+    },
+    {
+      "nombre": "Joe Pesci",
+      "personaje": "Harry",
+      "foto": "https://image.tmdb.org/t/p/w500/zbAdhqbMfRXSz26TjxJvB5f2eL5.jpg"
+    },
+    {
+      "nombre": "Daniel Stern",
+      "personaje": "Marv",
+      "foto": "https://image.tmdb.org/t/p/w500/939oerf8bJPrqT2a0N0oGuM1bjn.jpg"
+    },
+    {
+      "nombre": "John Heard",
+      "personaje": "Peter",
+      "foto": "https://image.tmdb.org/t/p/w500/zjhcxrCFK4q0C1gtVmeN8FeqCw0.jpg"
+    },
+    {
+      "nombre": "Roberts Blossom",
+      "personaje": "Marley",
+      "foto": "https://image.tmdb.org/t/p/w500/CP19Dvjvx2xSrkyJQEdmAC4wug.jpg"
+    },
+    {
+      "nombre": "Catherine O'Hara",
+      "personaje": "Kate",
+      "foto": "https://image.tmdb.org/t/p/w500/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg"
+    },
+    {
+      "nombre": "Angela Goethals",
+      "personaje": "Linnie",
+      "foto": "https://image.tmdb.org/t/p/w500/uX0ZLfklHtIk4IHZqduEvlOiNBL.jpg"
+    },
+    {
+      "nombre": "Devin Ratray",
+      "personaje": "Buzz",
+      "foto": "https://image.tmdb.org/t/p/w500/Wh3Sy8wTnYusO0kCsXGC7DoEZN.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John Hughes",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chris Columbus",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Hughes",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jane Jenkins",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Janet Hirshenson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Dan Webster",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jay Hurley",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "John Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Julio Macat",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Raja Gosnell",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John Muto",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Eve Cauley",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Joe Tomko",
+      "rol": "Best Boy Grip"
+    },
+    {
+      "nombre": "Geoffrey Hansen",
+      "rol": "Second Second Assistant Director"
+    },
+    {
+      "nombre": "Gary A. Hecker",
+      "rol": "Foley Mixer"
+    }
+  ],
+  "director": "Chris Columbus",
+  "valoraciones": {
+    "tmdb": 7.465,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Hughes Entertainment",
+  "enlace_video": "https://1a-1791.com/video/s8/2/G/U/8/f/GU8fo.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=dzdpqRGA1qc"
+}
