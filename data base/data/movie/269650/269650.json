@@ -1,0 +1,125 @@
+{
+  "id_tmdb": 269650,
+  "poster": "https://image.tmdb.org/t/p/w500/be1Oa4JihT875bPJpv7QaWvYiYt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/myxbgobjPN13kdKBrVneiyc3tmM.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/AsxexfSyx74b8crjrGFqMiLtbaC.png",
+  "titulo": "Appleseed Alpha",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Ciencia ficción",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.733,
+  "año": "2014",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "Basada en el cómic del creador de Ghost in the Shell, cuenta el pasado de Deunan y Briareos en busca de la legendaria ciudad Olympus.",
+  "fecha_estreno": "2014-05-28",
+  "titulo_original": "Appleseed Alpha",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "小松由佳",
+      "personaje": "Deunan Knute (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iqlPvX1pwrbs9ju9WgMaRPuBiCs.jpg"
+    },
+    {
+      "nombre": "諏訪部順一",
+      "personaje": "Briareos Hecatonchires (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+    },
+    {
+      "nombre": "悠木碧",
+      "personaje": "Iris (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
+    },
+    {
+      "nombre": "高橋広樹",
+      "personaje": "Olson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8vC4fuIORjrgFcXle4bjgDeaNhE.jpg"
+    },
+    {
+      "nombre": "東地宏樹",
+      "personaje": "Talos (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg"
+    },
+    {
+      "nombre": "名塚佳織",
+      "personaje": "Nyx (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cIMS99s6jpgGBbMnih8gx9hLPFi.jpg"
+    },
+    {
+      "nombre": "Tesshō Genda",
+      "personaje": "Two Horns (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7eJeYv2OCHKAadeFVdabVkpWldo.jpg"
+    },
+    {
+      "nombre": "堀勝之祐",
+      "personaje": "Mathews (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/te1G5bgP0wE3cLY6pdvaDmjczeW.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "荒牧伸志",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joseph Chou",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marianne Krawczyk",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "鎌形 英一",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "高橋徹也",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Takashi Oya",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "松本勝",
+      "rol": "CGI Director"
+    },
+    {
+      "nombre": "士郎正宗",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "安井輝",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "山本英俊",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Maki Nagano",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "西雅太郎",
+      "rol": "Co-Producer"
+    }
+  ],
+  "director": "荒牧伸志",
+  "valoraciones": {
+    "tmdb": 6.733,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Stage 6 Films",
+  "enlace_video": "https://1a-1791.com/video/s8/2/d/A/f/C/dAfCv.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=4DtWCjogd1M"
+}
