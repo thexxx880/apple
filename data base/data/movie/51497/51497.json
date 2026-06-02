@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 51497,
+  "poster": "https://image.tmdb.org/t/p/w500/k1OKkkn6dekDTaZqzZK7sVI44eg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lvSxooYCRuF3S2kHWXYTrcOtYco.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/gGbGVRcKfZEWBH8gUv7v9L6ZYvI.png",
+  "titulo": "Rápidos y Furiosos: 5in Control",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Crimen"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.241,
+  "año": "2011",
+  "duracion": "2h 10min",
+  "edad_minima": 13,
+  "sinopsis": "Dominic Toretto y su equipo de corredores callejeros planean un atraco masivo para comprar su libertad mientras están en la mira de un poderoso capo de la droga brasileño y un peligroso agente federal.",
+  "fecha_estreno": "2011-04-20",
+  "titulo_original": "Fast Five",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Vin Diesel",
+      "personaje": "Dominic Toretto",
+      "foto": "https://image.tmdb.org/t/p/w500/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+    },
+    {
+      "nombre": "Paul Walker",
+      "personaje": "Brian O'Conner",
+      "foto": "https://image.tmdb.org/t/p/w500/q2PLqKHYCs35HR7QybaNPH3JT96.jpg"
+    },
+    {
+      "nombre": "Jordana Brewster",
+      "personaje": "Mia Toretto",
+      "foto": "https://image.tmdb.org/t/p/w500/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg"
+    },
+    {
+      "nombre": "Tyrese Gibson",
+      "personaje": "Roman Pearce",
+      "foto": "https://image.tmdb.org/t/p/w500/jxoy4fbXNKFQtBdK73cLXEz3ufS.jpg"
+    },
+    {
+      "nombre": "Ludacris",
+      "personaje": "Tej Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/erkJijujhe48vhJ8iCEtVpNEeVn.jpg"
+    },
+    {
+      "nombre": "Matt Schulze",
+      "personaje": "Vince",
+      "foto": "https://image.tmdb.org/t/p/w500/1dPinwDyFIEN30wUQG9Mm3Emnjh.jpg"
+    },
+    {
+      "nombre": "Sung Kang",
+      "personaje": "Han Lue",
+      "foto": "https://image.tmdb.org/t/p/w500/ox4ti0WmpJoN19n3iYJ2T2vHP5f.jpg"
+    },
+    {
+      "nombre": "Gal Gadot",
+      "personaje": "Gisele Yashar",
+      "foto": "https://image.tmdb.org/t/p/w500/qCJB1ACi5VjtY4ypXuv3hjAvbSu.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Justin Lin",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chris Morgan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Vin Diesel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Fottrell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Neal H. Moritz",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Samantha Vincent",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Tyler",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Debra Zane",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kelly Matsumoto",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Christian Wagner",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Peter Wenham",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Beat Frutiger",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Andrew Neskoromny",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Bob Kensinger",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Sanja Milkovic Hays",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Justin Lin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amanda Lewis",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Justin Lin",
+  "valoraciones": {
+    "tmdb": 7.241,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Original Film",
+  "enlace_video": "https://1a-1791.com/video/s8/2/9/Q/o/c/9Qoct.caa.mp4?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=P1UVXvKnCLM"
+}
