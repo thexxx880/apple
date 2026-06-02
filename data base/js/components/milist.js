@@ -1,6 +1,18 @@
-// =============== SEGUIR VIENDO (Compacto) ===============
+// =============== SEGUIR VIENDO - Versión Corregida ===============
 
 let currentUser = null;
+
+// Esperar a que Firebase esté listo
+function waitForFirebase() {
+    return new Promise((resolve) => {
+        const checkFirebase = setInterval(() => {
+            if (typeof firebase !== "undefined" && firebase.apps && firebase.apps.length > 0) {
+                clearInterval(checkFirebase);
+                resolve();
+            }
+        }, 300);
+    });
+}
 
 async function loadContinueWatching() {
     const section = document.getElementById("continueSection");
@@ -9,18 +21,26 @@ async function loadContinueWatching() {
     if (!container || !section) return;
 
     container.innerHTML = `
-        <div style="padding: 40px 20px; color: #64748b; text-align:center; width:100%;">
+        <div style="padding: 50px 20px; color: #64748b; text-align:center; width:100%;">
             <i class="fa-solid fa-spinner fa-spin"></i>
         </div>`;
 
     try {
+        await waitForFirebase();
+
+        if (!firebase.auth().currentUser) {
+            section.style.display = "none";
+            return;
+        }
+
+        currentUser = firebase.auth().currentUser;
+
         const snapshot = await firebase.firestore()
             .collection("users")
             .doc(currentUser.uid)
             .collection("myList")
             .get();
 
-        // Si no hay contenido → Ocultar toda la sección
         if (snapshot.empty) {
             section.style.display = "none";
             return;
@@ -47,12 +67,11 @@ async function loadContinueWatching() {
             return;
         }
 
-        // Mostrar la sección
         section.style.display = "block";
 
         let html = '';
         items.forEach(item => {
-            const typeText = item.type === "movie" ? "P" : "S"; // Más pequeño
+            const typeText = item.type === "movie" ? "P" : "S";
             const typeClass = item.type === "movie" ? "type-movie" : "type-tv";
 
             html += `
@@ -68,7 +87,7 @@ async function loadContinueWatching() {
 
         container.innerHTML = html;
     } catch (error) {
-        console.error(error);
+        console.error("Error en Seguir Viendo:", error);
         section.style.display = "none";
     }
 }
@@ -88,10 +107,8 @@ function goToContent(url) {
     if (url && url !== "#") window.location.href = url;
 }
 
-// Cargar automáticamente
-firebase.auth().onAuthStateChanged(user => {
-    if (user) {
-        currentUser = user;
-        setTimeout(loadContinueWatching, 700);
-    }
+// Iniciar cuando la página cargue
+document.addEventListener("DOMContentLoaded", () => {
+    // Pequeño delay para asegurar que applelz.js se cargó
+    setTimeout(loadContinueWatching, 1200);
 });
