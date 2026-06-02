@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 214756,
+  "poster": "https://image.tmdb.org/t/p/w500/bO59Vn36fQauTDQpKNlHxvcK9Nw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xtHonIIIQXverDQM08TMQXjn9Fe.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iNJR287LWbqdhz6WWmb0JtnMd8J.png",
+  "titulo": "Ted 2",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Fantasía"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.323,
+  "año": "2015",
+  "duracion": "1h 55min",
+  "edad_minima": 13,
+  "sinopsis": "Se trata de una secuela de la exitosa comedia escrita y dirigida por el cómico Seth MacFarlane. Recién casados Ted y Tami-Lynn deciden tener un bebé. John se ofrece en donar su esperma para que su mejor amigo pueda cumplir su sueño de tener un hijo, pero inesperadamente reciben una carta legal que dice que el estado no le permite ser padre ya que no está demostrado que sea una persona. Todos juntos tendrán que unir fuerzas para luchar por sus derechos en un tribunal de justicia.",
+  "fecha_estreno": "2015-06-25",
+  "titulo_original": "Ted 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mark Wahlberg",
+      "personaje": "John",
+      "foto": "https://image.tmdb.org/t/p/w500/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
+    },
+    {
+      "nombre": "Seth MacFarlane",
+      "personaje": "Ted (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8oQJqM51Z0Qtdb7sE6ZfX1peNCB.jpg"
+    },
+    {
+      "nombre": "Amanda Seyfried",
+      "personaje": "Samantha",
+      "foto": "https://image.tmdb.org/t/p/w500/qvfwAfUfKfX4DraCgfn0YriiLO0.jpg"
+    },
+    {
+      "nombre": "Jessica Barth",
+      "personaje": "Tami-Lynn",
+      "foto": "https://image.tmdb.org/t/p/w500/vQBxmLtlGqT8CuOnBwtzIWdwnNH.jpg"
+    },
+    {
+      "nombre": "Giovanni Ribisi",
+      "personaje": "Donny",
+      "foto": "https://image.tmdb.org/t/p/w500/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg"
+    },
+    {
+      "nombre": "Morgan Freeman",
+      "personaje": "Patrick Meighan",
+      "foto": "https://image.tmdb.org/t/p/w500/1ahENoyEgKSbRUd0IsydIff7rt1.jpg"
+    },
+    {
+      "nombre": "Sam J. Jones",
+      "personaje": "Sam J. Jones",
+      "foto": "https://image.tmdb.org/t/p/w500/x2xX7Az0nlAD5C2WEnnr2ZNj1np.jpg"
+    },
+    {
+      "nombre": "Patrick Warburton",
+      "personaje": "Guy",
+      "foto": "https://image.tmdb.org/t/p/w500/nDoOii5HaGwPxYa28xFC2sDkF8y.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Scott Stuber",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Seth MacFarlane",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Jacobs",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Seth MacFarlane",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Clark",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Seth MacFarlane",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Wellesley Wild",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Alec Sulkin",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christopher Ferguson",
+      "rol": "Electrician"
+    },
+    {
+      "nombre": "Joe Bucaro III",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jarrod Anderson",
+      "rol": "Technical Supervisor"
+    },
+    {
+      "nombre": "Andy Hass",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Mike Safianoff",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Jenny Fulle",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Danny Southard",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Seung Hoo Ihm",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Nick Fredin",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Michael Parks",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Michael Bomagat",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Chuck Duke",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Seth MacFarlane",
+  "valoraciones": {
+    "tmdb": 6.323,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Smart Entertainment",
+  "enlace_video": "https://1a-1791.com/video/s8/2/Q/1/W/T/Q1WTt.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=mSG3R_2Uisw"
+}
