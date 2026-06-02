@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 1165466,
+  "poster": "https://image.tmdb.org/t/p/w500/8I69HKlLPnq8hnQdvBORadGgfgh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5PuM2lWFRVLZbyzErGVd8qHi55p.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jsNakCUCwDjpklhNghsuqvlK7PM.png",
+  "titulo": "Cacería Sangrienta",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.754,
+  "año": "2024",
+  "duracion": "1h 20min",
+  "edad_minima": 13,
+  "sinopsis": "Un grupo de jóvenes activistas decide hacer una declaración ambiental vandalizando una tienda de artículos para el hogar justo cuando la tienda está por cerrar. Pero su plan sale terriblemente mal cuando quedan atrapados dentro y deben enfrentarse a un guardia de seguridad trastornado con una pasión macabra por la caza primitiva. A medida que la noche se llena de violencia y terror, los adolescentes se encuentran en una lucha desesperada por sus vidas.",
+  "fecha_estreno": "2024-05-08",
+  "titulo_original": "Wake Up",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Turlough Convery",
+      "personaje": "Kevin",
+      "foto": "https://image.tmdb.org/t/p/w500/xDHf65t9vtxmIAmDxp5yMKZUtPt.jpg"
+    },
+    {
+      "nombre": "Benny O. Arthur",
+      "personaje": "Ethan",
+      "foto": "https://image.tmdb.org/t/p/w500/hFWkp2jf8sw3NFslAmZxmTFNM1b.jpg"
+    },
+    {
+      "nombre": "Jacqueline Moré",
+      "personaje": "Yasmin",
+      "foto": "https://image.tmdb.org/t/p/w500/xJkBhubOa4QsxYnVEPz1YtDm4gQ.jpg"
+    },
+    {
+      "nombre": "Thomas Gould",
+      "personaje": "Karim",
+      "foto": "https://image.tmdb.org/t/p/w500/oB1wunTDj09SqKT2j3UFeqE69qV.jpg"
+    },
+    {
+      "nombre": "Alessia Yoko Fontana",
+      "personaje": "Grace",
+      "foto": "https://image.tmdb.org/t/p/w500/dfjc5axF2R021rySFLeXuYXtzMG.jpg"
+    },
+    {
+      "nombre": "Kyle Scudder",
+      "personaje": "Tyler",
+      "foto": "https://image.tmdb.org/t/p/w500/7HL4M0Em1lNNtPJjmx6ckb4HawA.jpg"
+    },
+    {
+      "nombre": "Charlotte Stoiber",
+      "personaje": "Emily",
+      "foto": "https://image.tmdb.org/t/p/w500/j4NL06atvYyVHyKAohtX6I9Q6Aa.jpg"
+    },
+    {
+      "nombre": "Aidan O'Hare",
+      "personaje": "Jack",
+      "foto": "https://image.tmdb.org/t/p/w500/kQZACPyVcWvwP7V5ZWpdxGhgV7X.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "François Simard",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Yoann-Karl Whissell",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Anouk Whissell",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Laurent Baudens",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alberto Marini",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Adrià Monés",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gael Nouaille",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joris Laquittant",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Arnau Bataller",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Léo Hinstin",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "François Simard",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Yann Degay",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Albert Morera",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Julia Caldas",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Maud Petit",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Barnaby Wass",
+      "rol": "Co-Producer"
+    }
+  ],
+  "director": "François Simard",
+  "valoraciones": {
+    "tmdb": 6.754,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "StudioCanal",
+  "enlace_video": "https://1a-1791.com/video/s8/2/-/i/_/l/-i_lu.caa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=spMtApMBA8U"
+}
