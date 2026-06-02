@@ -2,7 +2,7 @@
    SEGUIR VIENDO - Slider Horizontal (Netflix Style)
 ============================================= */
 .continue-section {
-    margin: 40px 0;
+    margin: 0px 0;
 }
 
 .section-header h2 {
@@ -15,9 +15,9 @@
 
 .continue-grid {
     display: flex;
-    gap: 18px;
+    gap: 15px;
     overflow-x: auto;
-    padding: 10px 0 25px;
+    padding: 0px 0 10px;
     scroll-behavior: smooth;
     scrollbar-width: thin;
     scrollbar-color: #475569 transparent;
