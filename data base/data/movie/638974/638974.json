@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 638974,
+  "poster": "https://image.tmdb.org/t/p/w500/c1iiWZ55YhmuFqMabx2PiIGzXSZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AwB7HGeDTrBGkP2WEnNwg8Wa0E4.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qma2ivuuo3PKLYH82kbWaZBvx2m.png",
+  "titulo": "Misterio a la vista",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Misterio",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.37,
+  "año": "2023",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Luego de abrir su propia agencia de detectives, Nick y Audrey Spitz consiguen un caso de altísimo perfil cuando su amigo multimillonario es secuestrado en su propia boda.",
+  "fecha_estreno": "2023-03-28",
+  "titulo_original": "Murder Mystery 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Adam Sandler",
+      "personaje": "Nick Spitz",
+      "foto": "https://image.tmdb.org/t/p/w500/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+    },
+    {
+      "nombre": "Jennifer Aniston",
+      "personaje": "Audrey Spitz",
+      "foto": "https://image.tmdb.org/t/p/w500/7sQcYpMkmZMc2pXnkmAuYzNVhXB.jpg"
+    },
+    {
+      "nombre": "Mark Strong",
+      "personaje": "Miller",
+      "foto": "https://image.tmdb.org/t/p/w500/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+    },
+    {
+      "nombre": "Mélanie Laurent",
+      "personaje": "Claudette",
+      "foto": "https://image.tmdb.org/t/p/w500/i99ogEo4gQyanCmHWYYoS6hsUqL.jpg"
+    },
+    {
+      "nombre": "Jodie Turner-Smith",
+      "personaje": "Countess Sekou",
+      "foto": "https://image.tmdb.org/t/p/w500/70w93LWJqpt0Ibw0mqNc6NKNA8U.jpg"
+    },
+    {
+      "nombre": "John Kani",
+      "personaje": "Colonel Ulenga",
+      "foto": "https://image.tmdb.org/t/p/w500/g7tqg3q128a5O2qXMCwVnXsow9I.jpg"
+    },
+    {
+      "nombre": "Kuhoo Verma",
+      "personaje": "Saira",
+      "foto": "https://image.tmdb.org/t/p/w500/bQS0RGeUCj705uaeIUa5EDZR0zZ.jpg"
+    },
+    {
+      "nombre": "Dany Boon",
+      "personaje": "Inspector Delacroix",
+      "foto": "https://image.tmdb.org/t/p/w500/6jMvseHpFra7tkfDIg64u5pJcI2.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jeremy Garelick",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jennifer Aniston",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Allen Covert",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tripp Vinson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James D. Stern",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Vanderbilt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "A.J. Dix",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Vanderbilt",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bojan Bazelli",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Chuck Borden",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Maria Gnecchi",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Peter Epstein",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Steve Kelso",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Remi Bakkar",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Vincent Bouillon",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Bridgette Michelle Bentley",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Sybille Blouin",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Guillemette Buffet",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Francesca Cozier",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Andre Da Silva",
+      "rol": "Stunt Double"
+    }
+  ],
+  "director": "Jeremy Garelick",
+  "valoraciones": {
+    "tmdb": 6.37,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Happy Madison Productions",
+  "enlace_video": "https://rumble.com/hls-vod/78i5yq/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=LM2F56uK0fs"
+}
