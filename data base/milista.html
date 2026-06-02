@@ -1,283 +1,365 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mis Favoritos</title>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-<style>
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family:'Poppins',sans-serif;
-}
-body{
-    background:#020817;
-    color:#fff;
-    min-height:100vh;
-    padding:30px;
-}
-.container{
-    max-width:1400px;
-    margin:auto;
-}
-.header{
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-    margin-bottom:30px;
-}
-.header h1{
-    font-size:2rem;
-    font-weight:700;
-}
-.count{
-    background:#0f172a;
-    padding:8px 15px;
-    border-radius:10px;
-    color:#94a3b8;
-}
-.favorites-grid{
-    display:grid;
-    grid-template-columns:repeat(auto-fill,minmax(180px,1fr));
-    gap:20px;
-}
-.card{
-    background:#0f172a;
-    border-radius:15px;
-    overflow:hidden;
-    transition:.3s;
-    position:relative;
-}
-.card:hover{
-    transform:translateY(-5px);
-}
-.poster{
-    width:100%;
-    height:270px;
-    object-fit:cover;
-}
-.info{
-    padding:12px;
-}
-.title{
-    font-size:14px;
-    font-weight:600;
-    margin-bottom:4px;
-    display:-webkit-box;
-    -webkit-line-clamp:2;
-    -webkit-box-orient:vertical;
-    overflow:hidden;
-}
-.year{
-    font-size:13px;
-    color:#94a3b8;
-    margin-bottom:10px;
-}
-.remove-btn{
-    width:100%;
-    border:none;
-    background:#ef4444;
-    color:white;
-    padding:10px;
-    cursor:pointer;
-    font-weight:600;
-    transition:.3s;
-}
-.remove-btn:hover{
-    background:#dc2626;
-}
-.empty{
-    text-align:center;
-    padding:80px 20px;
-    color:#94a3b8;
-}
-.empty-icon{
-    font-size:70px;
-    margin-bottom:15px;
-}
-.clear-all{
-    background:#dc2626;
-    border:none;
-    color:white;
-    padding:10px 18px;
-    border-radius:10px;
-    cursor:pointer;
-    font-weight:600;
-}
-.loading{
-    text-align:center;
-    padding:50px;
-    color:#94a3b8;
-}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Lista • LzPlay</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="css/menu.css">
+    <link rel="stylesheet" href="css/load.css">
+    <script src="js/components/load.js"></script>
+    
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+    <script src="js/firebase/applelz.js"></script>
+
+    <style>
+        .mylist-container {
+            padding: 20px 15px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+            padding: 0 5px;
+        }
+        .header h1 {
+            font-size: 1.8rem;
+            font-weight: 700;
+        }
+        .mylist-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+        }
+        .card {
+            background: #0f172a;
+            border-radius: 16px;
+            overflow: hidden;
+            position: relative;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        .card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.6);
+        }
+        .backdrop {
+            width: 100%;
+            height: 160px;
+            object-fit: cover;
+        }
+        .logo {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            max-width: 160px;
+            max-height: 65px;
+            filter: drop-shadow(0 4px 8px rgba(0,0,0,0.9));
+            z-index: 5;
+        }
+        .remove-btn {
+            position: absolute;
+            top: 12px;
+            right: 12px;
+            background: rgba(0,0,0,0.75);
+            color: #ef4444;
+            border: none;
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            z-index: 10;
+            transition: 0.2s;
+        }
+        .remove-btn:hover {
+            background: #ef4444;
+            color: white;
+        }
+        .info {
+            padding: 12px 15px;
+        }
+        .title {
+            font-size: 15.5px;
+            font-weight: 600;
+            margin-bottom: 4px;
+            line-height: 1.3;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .year {
+            font-size: 13.5px;
+            color: #94a3b8;
+        }
+        .empty {
+            text-align: center;
+            padding: 100px 20px;
+            color: #94a3b8;
+        }
+        .empty-icon {
+            font-size: 85px;
+            margin-bottom: 20px;
+        }
+
+        /* Modal Confirmación */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            background: rgba(0,0,0,0.9);
+            z-index: 2000;
+            align-items: center;
+            justify-content: center;
+        }
+        .modal-content {
+            background: #1e2937;
+            padding: 30px;
+            border-radius: 20px;
+            width: 90%;
+            max-width: 360px;
+            text-align: center;
+        }
+        .modal-content h3 {
+            margin-bottom: 10px;
+        }
+        .modal-content p {
+            color: #cbd5e1;
+            margin: 15px 0 25px;
+        }
+        .modal-buttons {
+            display: flex;
+            gap: 12px;
+        }
+        .modal-buttons button {
+            flex: 1;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .btn-cancel {
+            background: #334155;
+            color: white;
+        }
+        .btn-delete {
+            background: #ef4444;
+            color: white;
+        }
+    </style>
 </head>
 <body>
-<div class="container">
-    <div class="header">
-        <h1>⭐ Mis Favoritos</h1>
-        <div style="display:flex;gap:10px;align-items:center;">
-            <span class="count" id="count">0 Favoritos</span>
-            <button class="clear-all" onclick="clearFavorites()">Limpiar Todo</button>
-        </div>
+
+<!-- LOADER -->
+<div id="loader">
+    <div class="loader-glow"></div>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3dK3-XAKrEia-lWmiUqAYRfFQ1lR9eJX6ZZH8e_vHf576qf9GJjIWBW9Jg5LsilXX7WO2MOEkg5gzc4pESziaPeMJ9ws9mwtCDdp3p_17D0e0Uop_ZxavwwJeNLBvoyZJ0cxTKQpjzrJIR6LjJslB24tj-77AYrRCacQ3F2S2VPoXpPzPhM1zndxyd1Rg/s3307/B64D5386-DCA4-410B-A0A6-6ACB19D0A06F.png"
+         alt="LzPlay" class="loader-logo">
+    <div class="loader-bar">
+        <span></span>
     </div>
-    <div id="favoritesContainer"></div>
 </div>
 
-<!-- Firebase SDK -->
-<script type="module">
-import { initializeApp } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-app.js";
-import { getFirestore, collection, getDocs, deleteDoc, doc } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-firestore.js";
-import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-auth.js";
+<!-- HEADER -->
+<div class="topbar">
+    <button class="back-btn" onclick="window.location.href='index.html'">
+        <i class="fa-solid fa-arrow-left"></i>
+    </button>
+    <div class="logo">LZPLAY</div>
+    <div style="width:45px;"></div>
+</div>
 
-// Configuración Firebase
-const firebaseConfig = {
-    apiKey: "AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
-    authDomain: "applelz-b5883.firebaseapp.com",
-    projectId: "applelz-b5883",
-    storageBucket: "applelz-b5883.firebasestorage.app",
-    messagingSenderId: "489468218632",
-    appId: "1:489468218632:web:598a550f7ebe7c6de7b0bd"
-};
+<!-- CONTENIDO PRINCIPAL -->
+<div class="mylist-container">
+    <div class="header">
+        <h1>⭐ Mi Lista</h1>
+        <button onclick="clearAllFavorites()" style="background:#ef4444; color:white; border:none; padding:10px 18px; border-radius:12px; cursor:pointer;">
+            <i class="fa-solid fa-trash"></i> Limpiar
+        </button>
+    </div>
 
-const app = initializeApp(firebaseConfig);
-const db = getFirestore(app);
-const auth = getAuth(app);
+    <div id="mylistContainer"></div>
+</div>
+
+<!-- MODAL DE CONFIRMACIÓN -->
+<div id="confirmModal" class="modal">
+    <div class="modal-content">
+        <h3>¿Eliminar de Mi Lista?</h3>
+        <p id="modalItemTitle"></p>
+        <div class="modal-buttons">
+            <button class="btn-cancel" onclick="cancelDelete()">Cancelar</button>
+            <button class="btn-delete" onclick="confirmDelete()">Eliminar</button>
+        </div>
+    </div>
+</div>
+
+<script>
+let currentUser = null;
+let itemToDelete = null;
 
 const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
-const TMDB_BASE_URL = "https://api.themoviedb.org/3";
 
-let currentUser = null;
-
-// Función para obtener datos de TMDB
-async function getTMDBData(type, id) {
-    try {
-        const endpoint = type === "movie" ? "movie" : "tv";
-        const res = await fetch(`${TMDB_BASE_URL}/${endpoint}/${id}?api_key=${TMDB_API_KEY}&language=es-ES`);
-        const data = await res.json();
-        return data;
-    } catch (e) {
-        console.error("Error TMDB:", e);
-        return null;
-    }
-}
-
-async function loadFavorites() {
-    const container = document.getElementById("favoritesContainer");
-    const countEl = document.getElementById("count");
-
-    if (!currentUser) {
-        container.innerHTML = `<div class="empty"><p>Debes iniciar sesión</p></div>`;
+firebase.auth().onAuthStateChanged(async (user) => {
+    if (!user) {
+        window.location.href = "login.html";
         return;
     }
+    currentUser = user;
+    loadMyList();
+});
 
-    container.innerHTML = `<div class="loading">Cargando tus favoritos...</div>`;
+async function loadMyList() {
+    const container = document.getElementById("mylistContainer");
+    container.innerHTML = `<div style="text-align:center; padding:80px 20px; color:#64748b;">
+        <i class="fa-solid fa-spinner fa-spin" style="font-size:2rem;"></i><br><br>Cargando tu lista...
+    </div>`;
 
     try {
-        const myListRef = collection(db, "users", currentUser.uid, "myList");
-        const snapshot = await getDocs(myListRef);
+        const snapshot = await firebase.firestore()
+            .collection("users")
+            .doc(currentUser.uid)
+            .collection("myList")
+            .get();
 
-        const favorites = [];
+        let items = [];
+
         for (const docSnap of snapshot.docs) {
-            const item = docSnap.data();
-            const tmdbData = await getTMDBData(item.type, item.id);
+            const data = docSnap.data();
+            const tmdb = await getTMDBInfo(data.type, data.id);
 
-            if (tmdbData) {
-                favorites.push({
-                    ...item,
-                    title: tmdbData.title || tmdbData.name,
-                    poster: tmdbData.poster_path 
-                        ? `https://image.tmdb.org/t/p/w500${tmdbData.poster_path}` 
-                        : "https://via.placeholder.com/500x750?text=No+Image",
-                    year: tmdbData.release_date || tmdbData.first_air_date 
-                        ? (tmdbData.release_date || tmdbData.first_air_date).substring(0,4) 
-                        : "N/A",
-                    backdrop: tmdbData.backdrop_path 
-                        ? `https://image.tmdb.org/t/p/original${tmdbData.backdrop_path}` 
+            if (tmdb) {
+                items.push({
+                    ...data,
+                    docId: docSnap.id,
+                    title: tmdb.title || tmdb.name || "Sin título",
+                    backdrop: tmdb.backdrop_path 
+                        ? `https://image.tmdb.org/t/p/w780${tmdb.backdrop_path}` 
+                        : "https://via.placeholder.com/780x160/1e2937/64748b?text=Sin+Imagen",
+                    logo: tmdb.images?.logos?.[0]?.file_path 
+                        ? `https://image.tmdb.org/t/p/w500${tmdb.images.logos[0].file_path}` 
                         : null,
-                    docId: docSnap.id // Para eliminar
+                    year: (tmdb.release_date || tmdb.first_air_date || "").substring(0, 4) || "N/A"
                 });
             }
         }
 
-        countEl.textContent = `${favorites.length} Favoritos`;
-
-        if (favorites.length === 0) {
+        if (items.length === 0) {
             container.innerHTML = `
                 <div class="empty">
-                    <div class="empty-icon">💔</div>
-                    <h2>No tienes favoritos guardados</h2>
-                    <p>Agrega películas o series a tu lista.</p>
-                </div>
-            `;
+                    <div class="empty-icon">📭</div>
+                    <h2>Tu lista está vacía</h2>
+                    <p>Aún no tienes contenido guardado.</p>
+                </div>`;
             return;
         }
 
-        container.innerHTML = `
-            <div class="favorites-grid">
-                ${favorites.map(item => `
-                    <div class="card">
-                        <img src="${item.poster}" class="poster" alt="${item.title}">
-                        <div class="info">
-                            <div class="title">${item.title}</div>
-                            <div class="year">${item.year}</div>
-                        </div>
-                        <button class="remove-btn" onclick="removeFavorite('${item.docId}')">
-                            Eliminar
-                        </button>
+        let html = `<div class="mylist-grid">`;
+        
+        items.forEach(item => {
+            html += `
+                <div class="card" onclick="goToContent('${item.url || '#'}')">
+                    <img src="${item.backdrop}" class="backdrop" alt="${item.title}">
+                    
+                    ${item.logo ? `<img src="${item.logo}" class="logo" alt="logo">` : ''}
+                    
+                    <button class="remove-btn" onclick="event.stopImmediatePropagation(); prepareDelete('${item.docId}', '${item.title.replace(/'/g, "\\'")}')">
+                        <i class="fa-solid fa-trash"></i>
+                    </button>
+                    
+                    <div class="info">
+                        <div class="title">${item.title}</div>
+                        <div class="year">${item.year}</div>
                     </div>
-                `).join("")}
-            </div>
-        `;
+                </div>`;
+        });
+
+        html += `</div>`;
+        container.innerHTML = html;
 
     } catch (error) {
-        console.error("Error cargando favoritos:", error);
-        container.innerHTML = `<div class="empty"><p>Error al cargar favoritos</p></div>`;
+        console.error("Error:", error);
+        container.innerHTML = `<div style="text-align:center; color:#ef4444; padding:50px;">Error al cargar la lista</div>`;
     }
 }
 
-window.removeFavorite = async function(docId) {
-    if (!currentUser) return;
-    if (!confirm("¿Eliminar este contenido de favoritos?")) return;
+async function getTMDBInfo(type, id) {
+    try {
+        const endpoint = type === "movie" ? "movie" : "tv";
+        const url = `https://api.themoviedb.org/3/${endpoint}/${id}?api_key=${TMDB_API_KEY}&language=es-ES&append_to_response=images`;
+        const res = await fetch(url);
+        return await res.json();
+    } catch (e) {
+        console.error("TMDB Error:", e);
+        return null;
+    }
+}
+
+function goToContent(url) {
+    if (url && url !== "#") {
+        window.location.href = url;
+    }
+}
+
+// ==================== ELIMINAR ====================
+function prepareDelete(docId, title) {
+    itemToDelete = docId;
+    document.getElementById("modalItemTitle").textContent = title;
+    document.getElementById("confirmModal").style.display = "flex";
+}
+
+function cancelDelete() {
+    document.getElementById("confirmModal").style.display = "none";
+    itemToDelete = null;
+}
+
+async function confirmDelete() {
+    if (!itemToDelete || !currentUser) return;
 
     try {
-        await deleteDoc(doc(db, "users", currentUser.uid, "myList", docId));
-        loadFavorites();
-    } catch (e) {
-        alert("Error al eliminar");
-    }
-};
+        await firebase.firestore()
+            .collection("users")
+            .doc(currentUser.uid)
+            .collection("myList")
+            .doc(itemToDelete)
+            .delete();
 
-window.clearFavorites = async function() {
-    if (!currentUser) return;
-    if (!confirm("¿Eliminar TODOS los favoritos?")) return;
+        document.getElementById("confirmModal").style.display = "none";
+        loadMyList();
+    } catch (error) {
+        alert("❌ Error al eliminar el contenido");
+    }
+}
+
+async function clearAllFavorites() {
+    if (!confirm("⚠️ ¿Eliminar TODA tu lista de favoritos?")) return;
 
     try {
-        const myListRef = collection(db, "users", currentUser.uid, "myList");
-        const snapshot = await getDocs(myListRef);
-        
-        for (const docSnap of snapshot.docs) {
-            await deleteDoc(docSnap.ref);
-        }
-        loadFavorites();
-    } catch (e) {
-        alert("Error al limpiar favoritos");
-    }
-};
+        const snapshot = await firebase.firestore()
+            .collection("users")
+            .doc(currentUser.uid)
+            .collection("myList")
+            .get();
 
-// Detectar usuario autenticado
-onAuthStateChanged(auth, (user) => {
-    currentUser = user;
-    if (user) {
-        loadFavorites();
-    } else {
-        document.getElementById("favoritesContainer").innerHTML = `
-            <div class="empty">
-                <p>Inicia sesión para ver tus favoritos</p>
-            </div>`;
+        const batch = firebase.firestore().batch();
+        snapshot.docs.forEach(doc => batch.delete(doc.ref));
+        await batch.commit();
+
+        loadMyList();
+    } catch (e) {
+        alert("❌ Error al limpiar la lista");
     }
-});
+}
 </script>
 </body>
 </html>
