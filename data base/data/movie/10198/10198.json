@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 10198,
+  "poster": "https://image.tmdb.org/t/p/w500/8DkHtn4RirSzCJXs7CzFQWsjkiV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/cltjEJ6YfE4qJmcFc9hJmbLp1tA.png",
+  "titulo": "La princesa y el sapo",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Romance",
+    "Fantasía",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.224,
+  "año": "2009",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Tiana, una muchacha de origen humilde que vive en Nueva Orleans, trabaja como camarera y cocinera para conseguir realizar el sueño que compartió con su padre, conseguir abrir su propio restaurante. Pero todo cambia cuando el Príncipe Naveen, heredero de la corona de Maldonia, llega a la ciudad. En su camino se cruza el Doctor Facilier, un brujo vudú que engaña al príncipe y lo convierte en un sapo. Atrapado en su nueva forma, Naveen intentará romper el encantamiento utilizando la forma clásica de los cuentos, es decir, con el beso de una princesa. Convence a Tiana para que le bese pero, las cosas no son tan sencillas.",
+  "fecha_estreno": "2009-12-08",
+  "titulo_original": "The Princess and the Frog",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Anika Noni Rose",
+      "personaje": "Tiana (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d7aLtuNXBqVtqNnZl8wXsFV4ML5.jpg"
+    },
+    {
+      "nombre": "Bruno Campos",
+      "personaje": "Prince Naveen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lktLbyUXwNX0FV38v0JBJIbbJZr.jpg"
+    },
+    {
+      "nombre": "Jim Cummings",
+      "personaje": "Ray (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "nombre": "Michael-Leon Wooley",
+      "personaje": "Louis (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tMUNtp3xPTHRBUhnOiHcU5sjBDS.jpg"
+    },
+    {
+      "nombre": "Keith David",
+      "personaje": "Dr. Facilier (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+    },
+    {
+      "nombre": "Jennifer Cody",
+      "personaje": "Charlotte (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8TYAxDWJyXz5aYusyW9cSoNqvDa.jpg"
+    },
+    {
+      "nombre": "Peter Bartlett",
+      "personaje": "Lawrence (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5VH6NXCaxpNLhPoP7mpSxvQrIXJ.jpg"
+    },
+    {
+      "nombre": "Jenifer Lewis",
+      "personaje": "Mama Odie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/htrTYcoJQQpSYo6BrRehe3h46vo.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ron Clements",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ron Clements",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Musker",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Musker",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Rob Edwards",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ron Clements",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jason Oremland",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Greg Erb",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Randy Newman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Craig Sost",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Nicole Mitchell",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Jennifer Yuan",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Leonard Robledo",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Sylvia Filcak",
+      "rol": "Compositors"
+    },
+    {
+      "nombre": "Maria Gonzalez",
+      "rol": "Compositors"
+    },
+    {
+      "nombre": "Dan Read",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "James P. Alles",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Claire Williams",
+      "rol": "Compositors"
+    },
+    {
+      "nombre": "Lorelay Bove",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Monica Lago-Kaytis",
+      "rol": "Production Manager"
+    }
+  ],
+  "director": "Ron Clements",
+  "valoraciones": {
+    "tmdb": 7.224,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Animation Studios",
+  "enlace_video": "https://zn21g5kls-n995.bitchute.com/KOKFBNI1lMPs/rh51vClR2vNu.mp4",
+  "trailer": "https://www.youtube.com/watch?v=QIB5xThGLcU"
+}
