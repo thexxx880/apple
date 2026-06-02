@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 11770,
+  "poster": "https://image.tmdb.org/t/p/w500/gMqHA1CoURwncG1iKBukFtTCSrG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lMRX4cLx4hxYth3iQ96c0E1RHGB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1R3TZphXA3Xgrc3cQr64eWBqx0a.png",
+  "titulo": "Shaolin Soccer",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.167,
+  "año": "2001",
+  "duracion": "1h 53min",
+  "edad_minima": 13,
+  "sinopsis": "Sing es un discipulo del Shaolin cuya ambición es popularizar el kung fu en la sociedad moderna. Un día se encontrará con Fung, antiguo futbolista fracasado. Ambos tendrán la idea de formar un equipo que mezcle fútbol con artes marciales.",
+  "fecha_estreno": "2001-07-05",
+  "titulo_original": "少林足球",
+  "pais_origen": "Hong Kong",
+  "reparto": [
+    {
+      "nombre": "周星馳",
+      "personaje": "Mighty Steel Leg / Sing",
+      "foto": "https://image.tmdb.org/t/p/w500/j5DWs54BGZfp92G43c9OyHPvkNG.jpg"
+    },
+    {
+      "nombre": "吳孟達",
+      "personaje": "Fung",
+      "foto": "https://image.tmdb.org/t/p/w500/l8Sfi9pT0YcyzGy0bt7XwY8OEBo.jpg"
+    },
+    {
+      "nombre": "赵薇",
+      "personaje": "Mui",
+      "foto": "https://image.tmdb.org/t/p/w500/tBtUIeGcc9sLV5IOMBfcTktvGio.jpg"
+    },
+    {
+      "nombre": "謝賢",
+      "personaje": "Hung",
+      "foto": "https://image.tmdb.org/t/p/w500/kqfgBxSQ8OflEQtWuKcvgjhkteD.jpg"
+    },
+    {
+      "nombre": "莫文蔚",
+      "personaje": "Team Moustache Player #2",
+      "foto": "https://image.tmdb.org/t/p/w500/b0scABsp11kvXx15RvolTUqucNm.jpg"
+    },
+    {
+      "nombre": "黃一飛",
+      "personaje": "Iron Head",
+      "foto": "https://image.tmdb.org/t/p/w500/eMpNYfWMxmIPWvDd1npajeDweI7.jpg"
+    },
+    {
+      "nombre": "莫美林",
+      "personaje": "Hooking Leg",
+      "foto": "https://image.tmdb.org/t/p/w500/crRoDs3ZSlloamCciJNBfvwj3rU.jpg"
+    },
+    {
+      "nombre": "田啟文",
+      "personaje": "Iron Shirt",
+      "foto": "https://image.tmdb.org/t/p/w500/jR3CpvD0uDu7GKchgUC5bFjfYTX.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "楊國輝",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "周星馳",
+      "rol": "Director"
+    },
+    {
+      "nombre": "周星馳",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "曾謹昌",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "馮勉恆",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "馮志強",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lo Mei",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "李力持",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Hai Kit-Wai",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "程小東",
+      "rol": "Action Director"
+    },
+    {
+      "nombre": "Ailen Sit Chun-Wai",
+      "rol": "Martial Arts Choreographer"
+    },
+    {
+      "nombre": "Wong Ming-Kin",
+      "rol": "Martial Arts Choreographer"
+    },
+    {
+      "nombre": "Chan Chun-Yu",
+      "rol": "Assistant Production Manager"
+    },
+    {
+      "nombre": "Chu Ching-Kwan",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "田啟文",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "陳偉年",
+      "rol": "Lighting Technician"
+    },
+    {
+      "nombre": "周星馳",
+      "rol": "Presenter"
+    },
+    {
+      "nombre": "Paco Yiu Fung-Suen",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "倪文賢",
+      "rol": "Focus Puller"
+    },
+    {
+      "nombre": "Stephen Wong Wai-Him",
+      "rol": "Assistant Director"
+    }
+  ],
+  "director": "周星馳",
+  "valoraciones": {
+    "tmdb": 7.167,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Star Overseas",
+  "enlace_video": "https://1a-1791.com/video/s8/2/p/W/o/B/pWoBv.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=KEWUDWYDdYs"
+}
