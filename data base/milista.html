@@ -2,380 +2,282 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport"
-content="width=device-width, initial-scale=1.0">
-
-<title>Mi Lista - LzPlay</title>
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mis Favoritos</title>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
-<link rel="stylesheet"
-href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
-<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
-<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
-<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
-
 <style>
-
 *{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:'Poppins',sans-serif;
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
 }
-
 body{
-background:#000;
-color:#fff;
-padding:20px;
+    background:#020817;
+    color:#fff;
+    min-height:100vh;
+    padding:30px;
 }
-
+.container{
+    max-width:1400px;
+    margin:auto;
+}
 .header{
-display:flex;
-justify-content:space-between;
-align-items:center;
-margin-bottom:25px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:30px;
 }
-
-.title{
-font-size:34px;
-font-weight:700;
+.header h1{
+    font-size:2rem;
+    font-weight:700;
 }
-
-.back-btn{
-background:#111;
-border:none;
-color:#fff;
-padding:12px 18px;
-border-radius:14px;
-cursor:pointer;
-font-size:14px;
+.count{
+    background:#0f172a;
+    padding:8px 15px;
+    border-radius:10px;
+    color:#94a3b8;
 }
-
-.grid{
-display:grid;
-grid-template-columns:
-repeat(auto-fill,minmax(180px,1fr));
-gap:20px;
+.favorites-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(180px,1fr));
+    gap:20px;
 }
-
 .card{
-background:#111;
-border-radius:20px;
-overflow:hidden;
-cursor:pointer;
-position:relative;
-transition:.3s;
+    background:#0f172a;
+    border-radius:15px;
+    overflow:hidden;
+    transition:.3s;
+    position:relative;
 }
-
 .card:hover{
-transform:translateY(-5px);
+    transform:translateY(-5px);
 }
-
 .poster{
-width:100%;
-aspect-ratio:2/3;
-object-fit:cover;
-background:#151515;
-display:block;
+    width:100%;
+    height:270px;
+    object-fit:cover;
 }
-
 .info{
-padding:14px;
+    padding:12px;
 }
-
-.movie-title{
-font-size:15px;
-font-weight:600;
-line-height:1.4;
-margin-bottom:5px;
-display:-webkit-box;
--webkit-line-clamp:2;
--webkit-box-orient:vertical;
-overflow:hidden;
+.title{
+    font-size:14px;
+    font-weight:600;
+    margin-bottom:4px;
+    display:-webkit-box;
+    -webkit-line-clamp:2;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
 }
-
 .year{
-font-size:13px;
-color:#aaa;
+    font-size:13px;
+    color:#94a3b8;
+    margin-bottom:10px;
 }
-
 .remove-btn{
-position:absolute;
-top:10px;
-right:10px;
-width:40px;
-height:40px;
-border:none;
-border-radius:50%;
-background:rgba(0,0,0,.85);
-color:#fff;
-cursor:pointer;
-z-index:5;
+    width:100%;
+    border:none;
+    background:#ef4444;
+    color:white;
+    padding:10px;
+    cursor:pointer;
+    font-weight:600;
+    transition:.3s;
 }
-
+.remove-btn:hover{
+    background:#dc2626;
+}
 .empty{
-text-align:center;
-margin-top:100px;
-color:#888;
+    text-align:center;
+    padding:80px 20px;
+    color:#94a3b8;
 }
-
+.empty-icon{
+    font-size:70px;
+    margin-bottom:15px;
+}
+.clear-all{
+    background:#dc2626;
+    border:none;
+    color:white;
+    padding:10px 18px;
+    border-radius:10px;
+    cursor:pointer;
+    font-weight:600;
+}
 .loading{
-text-align:center;
-margin-top:100px;
-color:#888;
+    text-align:center;
+    padding:50px;
+    color:#94a3b8;
 }
-
 </style>
 </head>
 <body>
-
-<div class="header">
-
-<h1 class="title">
-Mi Lista
-</h1>
-
-<button
-class="back-btn"
-onclick="history.back()">
-
-<i class="fa-solid fa-arrow-left"></i>
-Regresar
-
-</button>
-
+<div class="container">
+    <div class="header">
+        <h1>⭐ Mis Favoritos</h1>
+        <div style="display:flex;gap:10px;align-items:center;">
+            <span class="count" id="count">0 Favoritos</span>
+            <button class="clear-all" onclick="clearFavorites()">Limpiar Todo</button>
+        </div>
+    </div>
+    <div id="favoritesContainer"></div>
 </div>
 
-<div id="content">
+<!-- Firebase SDK -->
+<script type="module">
+import { initializeApp } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-app.js";
+import { getFirestore, collection, getDocs, deleteDoc, doc } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-firestore.js";
+import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.14.0/firebase-auth.js";
 
-<div class="loading">
-Cargando...
-</div>
-
-</div>
-<script src="js/core/tmdb.js"></script>
-<script>
+// Configuración Firebase
 const firebaseConfig = {
-apiKey:"AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
-authDomain:"applelz-b5883.firebaseapp.com",
-projectId:"applelz-b5883",
-storageBucket:"applelz-b5883.firebasestorage.app",
-messagingSenderId:"489468218632",
-appId:"1:489468218632:web:598a550f7ebe7c6de7b0bd"
+    apiKey: "AIzaSyDb1vEGCkNpcarttuwLLvuB40g8reRFTGM",
+    authDomain: "applelz-b5883.firebaseapp.com",
+    projectId: "applelz-b5883",
+    storageBucket: "applelz-b5883.firebasestorage.app",
+    messagingSenderId: "489468218632",
+    appId: "1:489468218632:web:598a550f7ebe7c6de7b0bd"
 };
 
-firebase.initializeApp(
-firebaseConfig
-);
+const app = initializeApp(firebaseConfig);
+const db = getFirestore(app);
+const auth = getAuth(app);
 
-const auth =
-firebase.auth();
+const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
+const TMDB_BASE_URL = "https://api.themoviedb.org/3";
 
-const db =
-firebase.firestore();
+let currentUser = null;
 
-const content =
-document.getElementById(
-"content"
-);
-
-/* ==========================
-VERIFICAR SESION
-========================== */
-
-auth.onAuthStateChanged(
-(user)=>{
-
-if(!user){
-
-location.href =
-"https://lzplayhd.online/apple/data base/login.html";
-
-return;
+// Función para obtener datos de TMDB
+async function getTMDBData(type, id) {
+    try {
+        const endpoint = type === "movie" ? "movie" : "tv";
+        const res = await fetch(`${TMDB_BASE_URL}/${endpoint}/${id}?api_key=${TMDB_API_KEY}&language=es-ES`);
+        const data = await res.json();
+        return data;
+    } catch (e) {
+        console.error("Error TMDB:", e);
+        return null;
+    }
 }
 
-loadMyList(
-user.uid
-);
+async function loadFavorites() {
+    const container = document.getElementById("favoritesContainer");
+    const countEl = document.getElementById("count");
 
+    if (!currentUser) {
+        container.innerHTML = `<div class="empty"><p>Debes iniciar sesión</p></div>`;
+        return;
+    }
+
+    container.innerHTML = `<div class="loading">Cargando tus favoritos...</div>`;
+
+    try {
+        const myListRef = collection(db, "users", currentUser.uid, "myList");
+        const snapshot = await getDocs(myListRef);
+
+        const favorites = [];
+        for (const docSnap of snapshot.docs) {
+            const item = docSnap.data();
+            const tmdbData = await getTMDBData(item.type, item.id);
+
+            if (tmdbData) {
+                favorites.push({
+                    ...item,
+                    title: tmdbData.title || tmdbData.name,
+                    poster: tmdbData.poster_path 
+                        ? `https://image.tmdb.org/t/p/w500${tmdbData.poster_path}` 
+                        : "https://via.placeholder.com/500x750?text=No+Image",
+                    year: tmdbData.release_date || tmdbData.first_air_date 
+                        ? (tmdbData.release_date || tmdbData.first_air_date).substring(0,4) 
+                        : "N/A",
+                    backdrop: tmdbData.backdrop_path 
+                        ? `https://image.tmdb.org/t/p/original${tmdbData.backdrop_path}` 
+                        : null,
+                    docId: docSnap.id // Para eliminar
+                });
+            }
+        }
+
+        countEl.textContent = `${favorites.length} Favoritos`;
+
+        if (favorites.length === 0) {
+            container.innerHTML = `
+                <div class="empty">
+                    <div class="empty-icon">💔</div>
+                    <h2>No tienes favoritos guardados</h2>
+                    <p>Agrega películas o series a tu lista.</p>
+                </div>
+            `;
+            return;
+        }
+
+        container.innerHTML = `
+            <div class="favorites-grid">
+                ${favorites.map(item => `
+                    <div class="card">
+                        <img src="${item.poster}" class="poster" alt="${item.title}">
+                        <div class="info">
+                            <div class="title">${item.title}</div>
+                            <div class="year">${item.year}</div>
+                        </div>
+                        <button class="remove-btn" onclick="removeFavorite('${item.docId}')">
+                            Eliminar
+                        </button>
+                    </div>
+                `).join("")}
+            </div>
+        `;
+
+    } catch (error) {
+        console.error("Error cargando favoritos:", error);
+        container.innerHTML = `<div class="empty"><p>Error al cargar favoritos</p></div>`;
+    }
+}
+
+window.removeFavorite = async function(docId) {
+    if (!currentUser) return;
+    if (!confirm("¿Eliminar este contenido de favoritos?")) return;
+
+    try {
+        await deleteDoc(doc(db, "users", currentUser.uid, "myList", docId));
+        loadFavorites();
+    } catch (e) {
+        alert("Error al eliminar");
+    }
+};
+
+window.clearFavorites = async function() {
+    if (!currentUser) return;
+    if (!confirm("¿Eliminar TODOS los favoritos?")) return;
+
+    try {
+        const myListRef = collection(db, "users", currentUser.uid, "myList");
+        const snapshot = await getDocs(myListRef);
+        
+        for (const docSnap of snapshot.docs) {
+            await deleteDoc(docSnap.ref);
+        }
+        loadFavorites();
+    } catch (e) {
+        alert("Error al limpiar favoritos");
+    }
+};
+
+// Detectar usuario autenticado
+onAuthStateChanged(auth, (user) => {
+    currentUser = user;
+    if (user) {
+        loadFavorites();
+    } else {
+        document.getElementById("favoritesContainer").innerHTML = `
+            <div class="empty">
+                <p>Inicia sesión para ver tus favoritos</p>
+            </div>`;
+    }
 });
-
-/* ==========================
-CARGAR MI LISTA
-========================== */
-
-async function loadMyList(
-uid
-){
-
-const snapshot =
-await db.collection(
-"users"
-)
-.doc(uid)
-.collection(
-"myList"
-)
-.orderBy(
-"addedAt",
-"desc"
-)
-.get();
-
-if(snapshot.empty){
-
-content.innerHTML = `
-<div class="empty">
-<h2>
-Tu lista está vacía
-</h2>
-</div>
-`;
-
-return;
-}
-
-let html =
-`<div class="grid">`;
-
-for(
-const doc
-of snapshot.docs
-){
-
-const item =
-doc.data();
-
-try{
-
-/* ==========================
-TMDB REMOTO
-========================== */
-
-const data =
-await fetchTMDB(
-`${item.type}/${item.id}`
-);
-
-if(!data)
-continue;
-
-const poster =
-data.poster_path
-? `https://image.tmdb.org/t/p/w500${data.poster_path}`
-: "";
-
-const title =
-data.title
-||
-data.name
-||
-"Sin título";
-
-const year =
-(
-data.release_date
-||
-data.first_air_date
-||
-""
-).slice(0,4);
-
-html += `
-
-<div class="card"
-onclick="openContent('${item.url}')">
-
-<button
-class="remove-btn"
-onclick="
-event.stopPropagation();
-removeItem('${doc.id}')
-">
-
-<i class="fa-solid fa-xmark"></i>
-
-</button>
-
-<img
-class="poster"
-src="${poster}">
-
-<div class="info">
-
-<div class="movie-title">
-${title}
-</div>
-
-<div class="year">
-${year}
-</div>
-
-</div>
-
-</div>
-`;
-
-}catch(e){
-
-console.log(
-e
-);
-
-}
-
-}
-
-html +=
-`</div>`;
-
-content.innerHTML =
-html;
-
-}
-
-/* ==========================
-ABRIR CONTENIDO
-========================== */
-
-function openContent(
-url
-){
-
-location.href =
-url;
-
-}
-
-/* ==========================
-ELIMINAR ITEM
-========================== */
-
-async function removeItem(
-id
-){
-
-const user =
-auth.currentUser;
-
-await db.collection(
-"users"
-)
-.doc(user.uid)
-.collection(
-"myList"
-)
-.doc(id)
-.delete();
-
-loadMyList(
-user.uid
-);
-
-}
 </script>
-
 </body>
 </html>
