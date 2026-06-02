@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 584,
+  "poster": "https://image.tmdb.org/t/p/w500/fZtSG5a6i5Ca39WQylLVmvWI5b.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/90ooE5SbUEO0OVJHewNO7pgySb6.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/dQRoOBQMCQ1pAGoBtb8riueCJr2.png",
+  "titulo": "Más rápido, más furioso",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.5,
+  "año": "2003",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "El expolicía Brian O'Conner es llamado a atrapar a un peligroso criminal y recluta la ayuda de un examigo de la infancia y corredor callejero que tiene la oportunidad de redimirse.",
+  "fecha_estreno": "2003-06-05",
+  "titulo_original": "2 Fast 2 Furious",
+  "pais_origen": "Germany",
+  "reparto": [
+    {
+      "nombre": "Paul Walker",
+      "personaje": "Brian O'Conner",
+      "foto": "https://image.tmdb.org/t/p/w500/q2PLqKHYCs35HR7QybaNPH3JT96.jpg"
+    },
+    {
+      "nombre": "Tyrese Gibson",
+      "personaje": "Roman Pearce",
+      "foto": "https://image.tmdb.org/t/p/w500/jxoy4fbXNKFQtBdK73cLXEz3ufS.jpg"
+    },
+    {
+      "nombre": "Eva Mendes",
+      "personaje": "Monica Fuentes",
+      "foto": "https://image.tmdb.org/t/p/w500/uj6IaUDEUB7swj46dPjHAi3TEk4.jpg"
+    },
+    {
+      "nombre": "Cole Hauser",
+      "personaje": "Carter Verone",
+      "foto": "https://image.tmdb.org/t/p/w500/1SNoIDILoXtAUJu4f7nDCPVQH5j.jpg"
+    },
+    {
+      "nombre": "Ludacris",
+      "personaje": "Tej Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/erkJijujhe48vhJ8iCEtVpNEeVn.jpg"
+    },
+    {
+      "nombre": "James Remar",
+      "personaje": "Agent Markham",
+      "foto": "https://image.tmdb.org/t/p/w500/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+    },
+    {
+      "nombre": "Thom Barry",
+      "personaje": "Agent Bilkins",
+      "foto": "https://image.tmdb.org/t/p/w500/9XhXqoqKqfQHZ5kGtuSkldcKYSF.jpg"
+    },
+    {
+      "nombre": "Michael Ealy",
+      "personaje": "Slap Jack",
+      "foto": "https://image.tmdb.org/t/p/w500/rOaJMKiy2JcwhRuJZ977kOvFQRS.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John Singleton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Brandt",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Derek Haas",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gary Scott Thompson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Michael Brandt",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Derek Haas",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Neal H. Moritz",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Fottrell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew F. Leonetti",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Bruce Cannon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Dallas Puett",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "David Arnold",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Gary Scott Thompson",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Lee R. Mayes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lawrence A. Hubbs",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Keith Brian Burns",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Brian Moon",
+      "rol": "Additional Second Assistant Director"
+    },
+    {
+      "nombre": "Kimberly Hardin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jon Danniells",
+      "rol": "Set Decoration"
+    }
+  ],
+  "director": "John Singleton",
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Ardustry Entertainment",
+  "enlace_video": "https://1a-1791.com/video/s8/2/S/6/N/b/S6Nbt.caa.mp4?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=fDooSsgINLQ"
+}
