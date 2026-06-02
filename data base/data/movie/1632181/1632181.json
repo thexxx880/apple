@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 1632181,
+  "poster": "https://image.tmdb.org/t/p/w500/sr1Yoj6XLPTWYcbDoBy67xivW4I.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tdY46jlxbcvgMHKlJhSCebahhBh.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qLFiJlEKLeBzz4HvRyfIIQjjLcf.png",
+  "titulo": "Socias por accidente",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "calificacion": "B",
+  "puntuacion": 9.131,
+  "año": "2026",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "Alexa y Regina se enamoran del mismo hombre, quien las engaña y les roba dinero. Al descubrir que ambas están embarazadas de él, deciden ser 'socias'.",
+  "fecha_estreno": "2026-03-12",
+  "titulo_original": "Socias por accidente",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Angelique Boyer",
+      "personaje": "Alexa Hernández",
+      "foto": "https://image.tmdb.org/t/p/w500/c73CU85L1sHganTpVUHnjw3gbba.jpg"
+    },
+    {
+      "nombre": "Bárbara de Regil",
+      "personaje": "Regina",
+      "foto": "https://image.tmdb.org/t/p/w500/2Oy7SFBIUtj4Qe2O6Ys9Bf8LJ86.jpg"
+    },
+    {
+      "nombre": "Diego Klein",
+      "personaje": "Roy / Sebastián Benavides / Erick López",
+      "foto": "https://image.tmdb.org/t/p/w500/zUSgyUwiQVMqX5iuVrqXCtbdC7F.jpg"
+    },
+    {
+      "nombre": "Lucía Uribe",
+      "personaje": "Claudia",
+      "foto": "https://image.tmdb.org/t/p/w500/zyuMAnbyG2a48B4602eoFI094pT.jpg"
+    },
+    {
+      "nombre": "Isabella Camil",
+      "personaje": "Leticia Letram",
+      "foto": "https://image.tmdb.org/t/p/w500/jpRcrulEFlsy1ZMb1U9SY5ZPv0w.jpg"
+    },
+    {
+      "nombre": "Gabriela Platas",
+      "personaje": "Majo",
+      "foto": "https://image.tmdb.org/t/p/w500/kU9Qpq7uLHsEQR4ECZsl3D0KsXD.jpg"
+    },
+    {
+      "nombre": "Laura Flores",
+      "personaje": "Paty",
+      "foto": "https://image.tmdb.org/t/p/w500/rJqyCEBqB4ua2SjQ7PlDvzjlsby.jpg"
+    },
+    {
+      "nombre": "Elena Pérez",
+      "personaje": "Nadia Letram",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ihtzi Hurtado",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jacobo Nazar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paulina Barros",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jesús 'Chuy' Hernández",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Victor Hugo Pujol Lopez",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Miguel García Moreno",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ihtzi Hurtado",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Mariana Palos",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Emiliano Mansilla",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Santiago Garcia Galvan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gerardo Gatica",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jorge Aragón",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Manuel Bustamante",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michelle Castro",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Carlos Silva Vallejo",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Carla Viancini",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Anilú Pardo",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Aimeé Aranda",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Abril Alamo",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "Paola M. Salguero",
+      "rol": "Line Producer"
+    }
+  ],
+  "director": "Ihtzi Hurtado",
+  "valoraciones": {
+    "tmdb": 9.131,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Videocine",
+  "enlace_video": "https://rumble.com/hls-vod/78i6ve/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=tsjsPgnCM2U"
+}
