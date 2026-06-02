@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 323027,
+  "poster": "https://image.tmdb.org/t/p/w500/pLj9T1wDzFWg8FEJSxTPZXWTPCu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/biu21pZCpfe6dv9rrl23k6m6MXJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tHzzEK2zOzqwKOqUGaRZxQNlwWb.png",
+  "titulo": "Liga de la justicia: Dioses y monstruos",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Animación",
+    "Fantasía",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.1,
+  "año": "2015",
+  "duracion": "1h 12min",
+  "edad_minima": 13,
+  "sinopsis": "La Liga de la Justicia: Dioses y Monstruos explora una realidad recién concebida en el Universo DC, donde los miembros de la Liga: Superman, Batman y Wonder Woman son versiones mucho más oscuras de los superhéroes que las personas piensan que conocen.",
+  "fecha_estreno": "2015-06-18",
+  "titulo_original": "Justice League: Gods and Monsters",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Benjamin Bratt",
+      "personaje": "Superman / Hernan Guerra (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+    },
+    {
+      "nombre": "Michael C. Hall",
+      "personaje": "Batman / Kirk Langstrom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
+    },
+    {
+      "nombre": "Tamara Taylor",
+      "personaje": "Wonder Woman / Bekka (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4hvMoHSki7mZUPxcJXysLEw5Z5I.jpg"
+    },
+    {
+      "nombre": "Jason Isaacs",
+      "personaje": "Lex Luthor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+    },
+    {
+      "nombre": "C. Thomas Howell",
+      "personaje": "Dr. Will Magnus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/739YbFWpAYyo9neHvBGThgmT4YH.jpg"
+    },
+    {
+      "nombre": "Paget Brewster",
+      "personaje": "Lois Lane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nq9ZuGPvzyfS8dOuPWTQUw7Igxg.jpg"
+    },
+    {
+      "nombre": "Kari Wahlgren",
+      "personaje": "Karen Beecher / Livewire (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Tina / Platinum (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sam Liu",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bruce Timm",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jose Delbo",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Bruce Timm",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Frederik Wiedmann",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "William Moulton Marston",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jerry Siegel",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Joe Shuster",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "John Ostrander",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Marv Wolfman",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jerry Ordway",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Louise Simonson",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jon Bogdanove",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Sam Liu",
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://rumble.com/hls-vod/78i4mg/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=yxL1Iw73azg"
+}
