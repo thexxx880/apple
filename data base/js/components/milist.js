@@ -1,14 +1,16 @@
-// =============== SEGUIR VIENDO (desde Mi Lista) ===============
+// =============== SEGUIR VIENDO (Compacto) ===============
 
 let currentUser = null;
 
 async function loadContinueWatching() {
+    const section = document.getElementById("continueSection");
     const container = document.getElementById("continueGrid");
-    if (!container) return;
+    
+    if (!container || !section) return;
 
     container.innerHTML = `
-        <div style="padding: 60px 20px; color: #64748b; text-align:center; width:100%;">
-            <i class="fa-solid fa-spinner fa-spin" style="font-size:2rem;"></i>
+        <div style="padding: 40px 20px; color: #64748b; text-align:center; width:100%;">
+            <i class="fa-solid fa-spinner fa-spin"></i>
         </div>`;
 
     try {
@@ -18,11 +20,9 @@ async function loadContinueWatching() {
             .collection("myList")
             .get();
 
+        // Si no hay contenido → Ocultar toda la sección
         if (snapshot.empty) {
-            container.innerHTML = `
-                <div style="padding:40px 20px; color:#94a3b8; text-align:center; width:100%;">
-                    Aún no tienes contenido en tu lista
-                </div>`;
+            section.style.display = "none";
             return;
         }
 
@@ -42,12 +42,17 @@ async function loadContinueWatching() {
             }
         }
 
-        // Ordenar por título (o puedes cambiar a random)
-        items.sort((a, b) => a.title.localeCompare(b.title));
+        if (items.length === 0) {
+            section.style.display = "none";
+            return;
+        }
+
+        // Mostrar la sección
+        section.style.display = "block";
 
         let html = '';
         items.forEach(item => {
-            const typeText = item.type === "movie" ? "Película" : "Serie";
+            const typeText = item.type === "movie" ? "P" : "S"; // Más pequeño
             const typeClass = item.type === "movie" ? "type-movie" : "type-tv";
 
             html += `
@@ -63,11 +68,8 @@ async function loadContinueWatching() {
 
         container.innerHTML = html;
     } catch (error) {
-        console.error("Error en Seguir Viendo:", error);
-        container.innerHTML = `
-            <div style="padding:40px; color:#ef4444; text-align:center; width:100%;">
-                Error al cargar los contenidos
-            </div>`;
+        console.error(error);
+        section.style.display = "none";
     }
 }
 
@@ -78,7 +80,6 @@ async function getTMDBInfo(type, id) {
         const res = await fetch(url);
         return await res.json();
     } catch (e) {
-        console.error(e);
         return null;
     }
 }
@@ -87,10 +88,10 @@ function goToContent(url) {
     if (url && url !== "#") window.location.href = url;
 }
 
-// Cargar automáticamente cuando el usuario esté logueado
+// Cargar automáticamente
 firebase.auth().onAuthStateChanged(user => {
     if (user) {
         currentUser = user;
-        setTimeout(loadContinueWatching, 600);
+        setTimeout(loadContinueWatching, 700);
     }
 });
