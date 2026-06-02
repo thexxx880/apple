@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 489326,
+  "poster": "https://image.tmdb.org/t/p/w500/b3QfqB5hYIBaguFxKliDabRIciU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pcIwP8OdcYk1hFyDLHs3Mrrb7PR.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/s28Du6toRr7nfQGPlERydFO2Es9.png",
+  "titulo": "Mortal",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Fantasía",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.475,
+  "año": "2020",
+  "duracion": "1h 44min",
+  "edad_minima": 13,
+  "sinopsis": "Historia de origen de aventuras de fantasía sobre un joven que descubre que tiene poderes divinos basados en la antigua mitología noruega.",
+  "fecha_estreno": "2020-02-28",
+  "titulo_original": "Mortal",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Nat Wolff",
+      "personaje": "Eric",
+      "foto": "https://image.tmdb.org/t/p/w500/g9noCweddwSb3VBSRpX3vo7TbuP.jpg"
+    },
+    {
+      "nombre": "Iben Akerlie",
+      "personaje": "Christine",
+      "foto": "https://image.tmdb.org/t/p/w500/dk3DcKhMIlvuiSQc69oESQudCfb.jpg"
+    },
+    {
+      "nombre": "Per Frisch",
+      "personaje": "Henrik",
+      "foto": "https://image.tmdb.org/t/p/w500/4kLXKyT9YSTx4VyzzASrKBnggak.jpg"
+    },
+    {
+      "nombre": "Priyanka Bose",
+      "personaje": "Hathaway",
+      "foto": "https://image.tmdb.org/t/p/w500/2sISoCre8JbMZgx8ZWjLF02X4FN.jpg"
+    },
+    {
+      "nombre": "Arthur Hakalahti",
+      "personaje": "Ole",
+      "foto": "https://image.tmdb.org/t/p/w500/qht46cJvlFQV9Rjoxzm9IE5xJhO.jpg"
+    },
+    {
+      "nombre": "Kai Kolstad Rødseth",
+      "personaje": "PST Officer",
+      "foto": null
+    },
+    {
+      "nombre": "Niko Rusakov",
+      "personaje": "Army soldier",
+      "foto": "https://image.tmdb.org/t/p/w500/ytR0gGPOZfxSO2pIrpONagOjsjd.jpg"
+    },
+    {
+      "nombre": "Ravdeep Singh Bajwa",
+      "personaje": "Radiologist",
+      "foto": "https://image.tmdb.org/t/p/w500/4a70vJMYOfjnUOA1djsgpp0pOJ4.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Geoff Bussetil",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "André Øvredal",
+      "rol": "Story"
+    },
+    {
+      "nombre": "André Øvredal",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Norman Lesperance",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "André Øvredal",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Rory Aitken",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Einar Hagen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Kavanaugh-Jones",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kristoffer Sindre Vittersø",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Adrian Politowski",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Nadia Khamlichi",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Aage Aaberge",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shanan Becker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Fred Berger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bill Bromiley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aron Eli Coleite",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marlene Ehlers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joshua Horsfield",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan Saba",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Henrik Zein",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "André Øvredal",
+  "valoraciones": {
+    "tmdb": 6.475,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Eldorado Films",
+  "enlace_video": "https://rumble.com/hls-vod/78i7ae/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=AwnToCTb-kQ"
+}
