@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 10830,
+  "poster": "https://image.tmdb.org/t/p/w500/icsytUzUc9f97a9SdafFG0eqijR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iXlHfi9hq7nfSv31pBab8fpMfZh.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7d4E6AKnNsNvAmY0CuTFFzTRt5v.png",
+  "titulo": "Matilda",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.18,
+  "año": "1996",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "La historia de una maravillosa niña, que resulta ser una genio, y su maravillosa profesora contra los peores padres de la historia y la peor directora de escuela que nadie se pueda imaginar.",
+  "fecha_estreno": "1996-08-02",
+  "titulo_original": "Matilda",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mara Wilson",
+      "personaje": "Matilda Wormwood",
+      "foto": "https://image.tmdb.org/t/p/w500/1nhOc2os4LS76OHLyjnsD8oXc3I.jpg"
+    },
+    {
+      "nombre": "Danny DeVito",
+      "personaje": "Harry Wormwood / Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+    },
+    {
+      "nombre": "Rhea Perlman",
+      "personaje": "Zinnia Wormwood",
+      "foto": "https://image.tmdb.org/t/p/w500/3kUrd75OesnsmicI15dWdswHy7T.jpg"
+    },
+    {
+      "nombre": "Embeth Davidtz",
+      "personaje": "Miss Honey",
+      "foto": "https://image.tmdb.org/t/p/w500/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+    },
+    {
+      "nombre": "Pam Ferris",
+      "personaje": "Agatha Trunchbull",
+      "foto": "https://image.tmdb.org/t/p/w500/aVvdYkgolh22FYqqCJhVO8jd7To.jpg"
+    },
+    {
+      "nombre": "Paul Reubens",
+      "personaje": "FBI Agent",
+      "foto": "https://image.tmdb.org/t/p/w500/9xGL3pGNAiZDtzKTVDQY90Mkyqs.jpg"
+    },
+    {
+      "nombre": "Tracey Walter",
+      "personaje": "FBI Agent",
+      "foto": "https://image.tmdb.org/t/p/w500/wm7XvEpYO6DoV6QnrlLLnNv1ONS.jpg"
+    },
+    {
+      "nombre": "Jean Speegle Howard",
+      "personaje": "Miss Phelps",
+      "foto": "https://image.tmdb.org/t/p/w500/y4KfUoxGaAc5Yn9P5cPbsQz6cla.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Danny DeVito",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Danny DeVito",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Liccy Dahl",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nicholas Kazan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Michael Shamberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Stacey Sher",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robin Swicord",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Newman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Brent White",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Stefan Czapsky",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Roald Dahl",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Lynzee Klingman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Gary Archer",
+      "rol": "Prosthetics"
+    },
+    {
+      "nombre": "Dana Dru Evenson",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Philip Toolin",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Bill Brzeski",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Michael Lantieri",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Michael Peyser",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cara Giallanza",
+      "rol": "First Assistant Director"
+    }
+  ],
+  "director": "Danny DeVito",
+  "valoraciones": {
+    "tmdb": 7.18,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Jersey Films",
+  "enlace_video": "https://1a-1791.com/video/s8/2/3/B/Z/D/3BZDu.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=c2DK0o-uEnU"
+}
