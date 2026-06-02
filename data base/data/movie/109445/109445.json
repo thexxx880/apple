@@ -1,0 +1,154 @@
+{
+  "id_tmdb": 109445,
+  "poster": "https://image.tmdb.org/t/p/w500/8aAkLBwrnBuKWyWowgj9KTNnjzo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/btBSMBV41VXBOfGVFnnQdM9Uflz.png",
+  "titulo": "Frozen: Una Aventura Congelada",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.2,
+  "año": "2013",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando la recién coronada Reina Elsa accidentalmente usa su poder para convertir cosas en hielo y maldecir su hogar en un invierno infinito, su hermana Anna se une a un hombre de montaña, su juguetón reno y un muñeco de nieve para cambiar las condiciones climáticas.",
+  "fecha_estreno": "2013-11-20",
+  "titulo_original": "Frozen",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Idina Menzel",
+      "personaje": "Elsa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eGsyJmAZNV5tUU4RYy2DIRlFVpW.jpg"
+    },
+    {
+      "nombre": "Kristen Bell",
+      "personaje": "Anna (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
+    },
+    {
+      "nombre": "Jonathan Groff",
+      "personaje": "Kristoff (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+    },
+    {
+      "nombre": "Josh Gad",
+      "personaje": "Olaf (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p9hWNRwrVEBpl8We2bxLMHkk5Mj.jpg"
+    },
+    {
+      "nombre": "Livvy Stubenrauch",
+      "personaje": "Young Anna (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/13BqIDnKbVt43SVvVxXa0glwzWw.jpg"
+    },
+    {
+      "nombre": "Santino Fontana",
+      "personaje": "Hans (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3EtNGPVBN5bBamV817n43kFd4MB.jpg"
+    },
+    {
+      "nombre": "Eva Bella",
+      "personaje": "Young Elsa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8XmnkpEEEtXYXTQ9PFBBtIUAaBR.jpg"
+    },
+    {
+      "nombre": "Alan Tudyk",
+      "personaje": "Duke (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Buck",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jennifer Lee",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Chris Buck",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Shane Morris",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Peter Del Vecho",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jennifer Lee",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jennifer Lee",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeff Draheim",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Christophe Beck",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Scott Armstrong",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Aimee Scribner",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Thomas Baker",
+      "rol": "Camera Department Manager"
+    },
+    {
+      "nombre": "Bill Schwab",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "Mitja Rabar",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Nicole Mitchell",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Steve Cunningham",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Kendra Vander Vliet",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Rick Moore",
+      "rol": "Layout"
+    }
+  ],
+  "director": "Chris Buck",
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Animation Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/6/C/S/k/6CSkv.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=TbQm5doF_Uc"
+}
