@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 884605,
+  "poster": "https://image.tmdb.org/t/p/w500/aUtjDS46VWJm6Tc3Bsk7BAJBwFN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rRcNmiH55Tz0ugUsDUGmj8Bsa4V.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4TLuBMxCGG3nf9xzAbCeImuurHE.png",
+  "titulo": "Hazme el favor",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.675,
+  "año": "2023",
+  "duracion": "1h 44min",
+  "edad_minima": 13,
+  "sinopsis": "A punto de perder la casa en la que creció, Maddie descubre un intrigante anuncio clasificado de un trabajo: padres helicóptero millonarios buscan a alguien para poder “salir” con su hijo introvertido de 19 años, Percy, antes de que se vaya a la universidad. Para su sorpresa, Maddie, pronto descubre que el extraño Percy no es una cosa segura.",
+  "fecha_estreno": "2023-06-15",
+  "titulo_original": "No Hard Feelings",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jennifer Lawrence",
+      "personaje": "Maddie Barker",
+      "foto": "https://image.tmdb.org/t/p/w500/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
+    },
+    {
+      "nombre": "Andrew Barth Feldman",
+      "personaje": "Percy Becker",
+      "foto": "https://image.tmdb.org/t/p/w500/17rLE4Q4gKejJp1TsByGnzMpK00.jpg"
+    },
+    {
+      "nombre": "Laura Benanti",
+      "personaje": "Allison Becker",
+      "foto": "https://image.tmdb.org/t/p/w500/meoraoVzlCExK6RUFX2GqVNv0vw.jpg"
+    },
+    {
+      "nombre": "Natalie Morales",
+      "personaje": "Sara",
+      "foto": "https://image.tmdb.org/t/p/w500/4azsKjgJ18l0EiJBwtuHklnKH1t.jpg"
+    },
+    {
+      "nombre": "Matthew Broderick",
+      "personaje": "Laird Becker",
+      "foto": "https://image.tmdb.org/t/p/w500/papqFgpyroZJEqd7WvuNGN8ti2k.jpg"
+    },
+    {
+      "nombre": "Scott MacArthur",
+      "personaje": "Jim",
+      "foto": "https://image.tmdb.org/t/p/w500/rGTPhDMQYR7mmtcOwPMK7R4SDgV.jpg"
+    },
+    {
+      "nombre": "Ebon Moss-Bachrach",
+      "personaje": "Gary",
+      "foto": "https://image.tmdb.org/t/p/w500/xD8GVNayMpiTZxLfahy2DseYcQq.jpg"
+    },
+    {
+      "nombre": "Kyle Mooney",
+      "personaje": "Jody",
+      "foto": "https://image.tmdb.org/t/p/w500/xywmFOt1OkUGa2Ex2YnmjI6gyd7.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gene Stupnitsky",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jennifer Lawrence",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Saks",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Phillips",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Marc Provissiero",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gene Stupnitsky",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Naomi Odenkirk",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Justine Ciarrocchi",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ian Cymore",
+      "rol": "Supervising Dialogue Editor"
+    },
+    {
+      "nombre": "Joel Scheuneman",
+      "rol": "Sound Engineer"
+    },
+    {
+      "nombre": "Cynthia Balfour",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Susan Jacobs",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Kirston Mann",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "David Martin",
+      "rol": "3D Artist"
+    },
+    {
+      "nombre": "Lisa Sene",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Matthew R. Staley",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Mariela Villa",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Patrick O'Shea",
+      "rol": "Second Assistant Camera"
+    },
+    {
+      "nombre": "Sylvia Menno",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Otis Streeter",
+      "rol": "Assistant Sound Editor"
+    }
+  ],
+  "director": "Gene Stupnitsky",
+  "valoraciones": {
+    "tmdb": 6.675,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Excellent Cadaver",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/-/v/U/8/-vU8l.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=7psP7xBEa28"
+}
