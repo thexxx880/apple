@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 425,
+  "poster": "https://image.tmdb.org/t/p/w500/j52ufQ4Y5QIESpCdgSN3MVNvZOK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8PYmh8ERBT0a6P0jJCRpg2E9GsR.png",
+  "titulo": "La era de hielo",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Aventura"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.376,
+  "año": "2002",
+  "duracion": "1h 21min",
+  "edad_minima": 13,
+  "sinopsis": "La historia gira en torno a unos héroes bajo cero: un mamut lanudo, un tigre de dientes de sable, un perezoso y una combinación prehistórica de ardilla y rata, conocida como Scrat.",
+  "fecha_estreno": "2002-03-14",
+  "titulo_original": "Ice Age",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ray Romano",
+      "personaje": "Manfred 'Manny' (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zWT03QvuVYySlrjmHCojKrNYjoC.jpg"
+    },
+    {
+      "nombre": "John Leguizamo",
+      "personaje": "Sid (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "nombre": "Denis Leary",
+      "personaje": "Diego (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+    },
+    {
+      "nombre": "Goran Višnjić",
+      "personaje": "Soto (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2jFpq46QPjCbRmmGYdW9WSVC47W.jpg"
+    },
+    {
+      "nombre": "Jack Black",
+      "personaje": "Zeke (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "nombre": "Cedric the Entertainer",
+      "personaje": "Rhino (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/s6UrY5uofyxXsU5PydWBoLFReK0.jpg"
+    },
+    {
+      "nombre": "Stephen Root",
+      "personaje": "Rhino / Start (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+    },
+    {
+      "nombre": "Diedrich Bader",
+      "personaje": "Saber-Toothed Tiger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/z7CctykPTuXDfAs7pkAA7vW4b3T.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Wedge",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Berg",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Michael J. Wilson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Peter Ackerman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lori Forte",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael J. Wilson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "David Silverman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Yvette Kaplan",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chris Meledandri",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Carnochan",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "David Newman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John C. Donkin",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Mark Nakamine",
+      "rol": "Colorist"
+    },
+    {
+      "nombre": "Galen T. Chu",
+      "rol": "Additional Writing"
+    },
+    {
+      "nombre": "Galen T. Chu",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "James Bresnahan",
+      "rol": "Additional Writing"
+    },
+    {
+      "nombre": "Doug Compton",
+      "rol": "Additional Writing"
+    },
+    {
+      "nombre": "Mike Thurmeier",
+      "rol": "Additional Writing"
+    },
+    {
+      "nombre": "Jeff Siergey",
+      "rol": "Additional Writing"
+    },
+    {
+      "nombre": "Xeth Feinberg",
+      "rol": "Additional Writing"
+    }
+  ],
+  "director": "Chris Wedge",
+  "valoraciones": {
+    "tmdb": 7.376,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Blue Sky Studios",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe1/ea/s8/2/9/r/3/f/9r3fw.caa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=i4noiCRJRoE"
+}
