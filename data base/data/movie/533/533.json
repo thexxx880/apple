@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 533,
+  "poster": "https://image.tmdb.org/t/p/w500/8qTrKbP4SR8wPllFngvmpK8F9pt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Aqvtwgu1G4eEwIf8nSIxiCN5ewC.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tkbW9I7AqmSnruB3OQTLwmWAJfL.png",
+  "titulo": "Wallace y Gromit: La Batalla de los Vegetales",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.1,
+  "año": "2005",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "Se acerca el Concurso Anual de Verduras Gigantes y se desata una auténtica “vegetalmanía” en el pueblo donde residen Wallace y Gromit. Los dos amigos, tan emprendedores como siempre, se están haciendo de oro con su nuevo invento, el sistema “Anti-Pesto”, una forma humanitaria de controlar a los conejos que intentan invadir los preciados huertos. De pronto, todo se viene abajo cuando una enorme, misteriosa y voraz “bestia” empieza a aterrorizar al vecindario, atacando los huertos de noche y destrozándolo todo a su paso.",
+  "fecha_estreno": "2005-09-15",
+  "titulo_original": "Wallace & Gromit: The Curse of the Were-Rabbit",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Peter Sallis",
+      "personaje": "Wallace / Hutch (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rtupXNWLSILkwBBVgYamLvmJIkY.jpg"
+    },
+    {
+      "nombre": "Ralph Fiennes",
+      "personaje": "Victor Quartermaine (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pCnVXH1Uo2ODoOit4UXni8OD9VB.jpg"
+    },
+    {
+      "nombre": "Helena Bonham Carter",
+      "personaje": "Lady Campanula Tottington (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "nombre": "Peter Kay",
+      "personaje": "PC Mackintosh (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hzqItun8VYuXav06hjgUpaiXoja.jpg"
+    },
+    {
+      "nombre": "Nicholas Smith",
+      "personaje": "Reverend Clement Hedges (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tVvTQiGRBuaa1gZe1y8RS0SVwfM.jpg"
+    },
+    {
+      "nombre": "Liz Smith",
+      "personaje": "Mrs. Mulch (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nexS9F9J6v6mTqNv5cIUm9LfuNm.jpg"
+    },
+    {
+      "nombre": "John Thomson",
+      "personaje": "Mr. Windfall (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p7oShR4yImaPszUh3ywnJEu5a5.jpg"
+    },
+    {
+      "nombre": "Mark Gatiss",
+      "personaje": "Miss Blight (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rkZKKDRbnGqqg2fjd5iPYDS4syy.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Nick Park",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bob Baker",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Claire Jennings",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steve Box",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Sproxton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nick Park",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Steve Box",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mark Burton",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jennifer Duffy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Cecil Kramer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julian Nott",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Phil Lewis",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Nick Park",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "David McCormick",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Gregory Perler",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Angharad Owen",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Rose",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jo Fenton",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Philip Beglan",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Pascual Perez",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Steve Box",
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Aardman",
+  "enlace_video": "https://rumble.com/hls-vod/6pqwpb/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=BXYNHHj4KDw"
+}
