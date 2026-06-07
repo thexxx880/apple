@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 272878,
+  "poster": "https://image.tmdb.org/t/p/w500/d3ACos3t4YwXML8keTA0wKN8e36.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/phB8F1XeMhBEk6CbKMYgm6SIphi.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/liagjC79eaqEErZSOacxIPz0a2c.png",
+  "titulo": "Max",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Drama",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.113,
+  "año": "2015",
+  "duracion": "1h 51min",
+  "edad_minima": 13,
+  "sinopsis": "Un perro que ayudó a los soldados norteamericanos en Afganistán regresa a los Estados Unidos y es adoptado por la familia de su adiestrador, después de sufrir una experiencia traumática.",
+  "fecha_estreno": "2015-06-25",
+  "titulo_original": "Max",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Thomas Haden Church",
+      "personaje": "Ray",
+      "foto": "https://image.tmdb.org/t/p/w500/74NK9HCYvNafMggSp1PAK5Nwkpe.jpg"
+    },
+    {
+      "nombre": "Josh Wiggins",
+      "personaje": "Justin",
+      "foto": "https://image.tmdb.org/t/p/w500/8ibSjOrx62IRfcBVssu6q3lzlQp.jpg"
+    },
+    {
+      "nombre": "Lauren Graham",
+      "personaje": "Pamela",
+      "foto": "https://image.tmdb.org/t/p/w500/3leQVZnthAZwngH7HAD6T7qfsVu.jpg"
+    },
+    {
+      "nombre": "Robbie Amell",
+      "personaje": "Kyle Wincott",
+      "foto": "https://image.tmdb.org/t/p/w500/5MPx1TEdgPs9UEXV65nd80JikSH.jpg"
+    },
+    {
+      "nombre": "Mia Xitlali",
+      "personaje": "Carmen",
+      "foto": "https://image.tmdb.org/t/p/w500/gu3lL84ZDwuMM5Zx16lI6roH8dI.jpg"
+    },
+    {
+      "nombre": "Dejon LaQuake",
+      "personaje": "Chuy",
+      "foto": null
+    },
+    {
+      "nombre": "Luke Kleintank",
+      "personaje": "Tyler Harne",
+      "foto": "https://image.tmdb.org/t/p/w500/9iDyOwyeUyXNNjpqNwmXKwmwpTh.jpg"
+    },
+    {
+      "nombre": "Jay Hernandez",
+      "personaje": "Sergeant Reyes",
+      "foto": "https://image.tmdb.org/t/p/w500/rh4pzTAJvy0i84HYV4xZxCXuXgV.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Boaz Yakin",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Boaz Yakin",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sheldon Lettich",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Karen Rosenfelt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ken Blancato",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Boaz Yakin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Anthony Little",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Bill Pankow",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ben Ormand",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ronna Kress",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Sharon Davis",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Trevor Rabin",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Stefan Czapsky",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Kalina Ivanov",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ellen Lutter",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Eliza Coleman",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Doug Coleman",
+      "rol": "Stunt Coordinator"
+    }
+  ],
+  "director": "Boaz Yakin",
+  "valoraciones": {
+    "tmdb": 7.113,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Reel Chefs Catering",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/a/t/E/b/atEbk.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=6EPPMCwD5bw"
+}
