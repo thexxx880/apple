@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1844,
+  "poster": "https://image.tmdb.org/t/p/w500/6qeKe2Nez08HtcWBkg4UnkaEzaY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rsV4f4dzHyJIZ3WGNykh7K2WMHZ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ixq7mmgBmi09lHUu3KPmYDI1VoM.png",
+  "titulo": "La emboscada",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Drama",
+    "Misterio"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.237,
+  "año": "1999",
+  "duracion": "1h 52min",
+  "edad_minima": 13,
+  "sinopsis": "Siguiendo la pista de una valiosa pieza de arte robada, la agente de seguros Gin Baker convence a su compañía para que le permitan llevar a cabo un golpe en colaboración con un prestigioso y veterano ladrón, Robert \"Mac\" MacDouglas. Pero Mac la someterá a una serie de duros entrenamientos y pruebas antes de confiar en ella.",
+  "fecha_estreno": "1999-04-29",
+  "titulo_original": "Entrapment",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Catherine Zeta-Jones",
+      "personaje": "Virginia 'Gin' Baker",
+      "foto": "https://image.tmdb.org/t/p/w500/bBZKAbjNCGS9VpDKaK6TWGsL3ws.jpg"
+    },
+    {
+      "nombre": "Sean Connery",
+      "personaje": "Robert 'Mac' MacDougal",
+      "foto": "https://image.tmdb.org/t/p/w500/hbB676mW62gjsh0f51ICYE11niG.jpg"
+    },
+    {
+      "nombre": "Will Patton",
+      "personaje": "Hector Cruz",
+      "foto": "https://image.tmdb.org/t/p/w500/1V4DbU1mfEim4oaA5bvJywDAKwB.jpg"
+    },
+    {
+      "nombre": "Maury Chaykin",
+      "personaje": "Conrad Greene",
+      "foto": "https://image.tmdb.org/t/p/w500/Aqmsu1UHo40Md4RlLGfotSt8Lrr.jpg"
+    },
+    {
+      "nombre": "Ving Rhames",
+      "personaje": "Aaron Thibadeaux",
+      "foto": "https://image.tmdb.org/t/p/w500/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+      "nombre": "Kevin McNally",
+      "personaje": "Haas",
+      "foto": "https://image.tmdb.org/t/p/w500/1QvG7MbfeWxb4LlZrlR4OtwvB8v.jpg"
+    },
+    {
+      "nombre": "Terry O'Neill",
+      "personaje": "Quinn",
+      "foto": "https://image.tmdb.org/t/p/w500/fTXu5CxUCS3M9aPbRldEaGer9AF.jpg"
+    },
+    {
+      "nombre": "Madhav Sharma",
+      "personaje": "Security Chief",
+      "foto": "https://image.tmdb.org/t/p/w500/qspAb0s1mNVTkf467IjO6kD6d6O.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "William Broyles Jr.",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ronald Bass",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jon Amiel",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rhonda Tollefson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Hertzberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sean Connery",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ronald Bass",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Michael Hertzberg",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michelle Guish",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Terry Rawlings",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Donna Isaacson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Norman Garwood",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ronald Bass",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Arnon Milchan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Iain Smith",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Phil Meheux",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Penny Rose",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Lisa Vick",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "David Appleby",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "Colin Jamison",
+      "rol": "Hair Department Head"
+    }
+  ],
+  "director": "Jon Amiel",
+  "valoraciones": {
+    "tmdb": 6.237,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fountainbridge Films",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/0/_/k/n/0_knm.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=LFSpRNtxd8I"
+}
