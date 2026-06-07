@@ -1,0 +1,154 @@
+{
+  "id_tmdb": 953,
+  "poster": "https://image.tmdb.org/t/p/w500/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tPaurpIUskVji5vwV0dhy9pq4Vs.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4WxLPaAiWA2bCEW76XRwt09hmBJ.png",
+  "titulo": "Madagascar",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.923,
+  "año": "2005",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "Cuatro amigos animales prueban la vida salvaje cuando, luego de escapar de su cautiverio en el zoológico de Central Park, van a parar a la orilla de la isla de Madagascar.",
+  "fecha_estreno": "2005-05-25",
+  "titulo_original": "Madagascar",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ben Stiller",
+      "personaje": "Alex (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "nombre": "Chris Rock",
+      "personaje": "Marty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
+    },
+    {
+      "nombre": "David Schwimmer",
+      "personaje": "Melman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/XtKzJ9lM5Xwa7vCmE4xNHy6Owf.jpg"
+    },
+    {
+      "nombre": "Jada Pinkett Smith",
+      "personaje": "Gloria (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3RyvVVSlgRbZANDFkYiAsRMaHW.jpg"
+    },
+    {
+      "nombre": "Sacha Baron Cohen",
+      "personaje": "King Julien (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bGzXHu8zwWqUY5gEExSh3deQd2j.jpg"
+    },
+    {
+      "nombre": "Cedric the Entertainer",
+      "personaje": "Maurice (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/s6UrY5uofyxXsU5PydWBoLFReK0.jpg"
+    },
+    {
+      "nombre": "Andy Richter",
+      "personaje": "Mort (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5Qr7N6TzC8cI0ULxDm6EC5GpZ4C.jpg"
+    },
+    {
+      "nombre": "Tom McGrath",
+      "personaje": "Skipper / Fossa / Panicky Man on Subway (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/83lSBvaRShYObPvhE89UDUkUfWo.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Billy Frolick",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Eric Darnell",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark Burton",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tom McGrath",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mireille Soria",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom McGrath",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Eric Darnell",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "James Baxter",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Trey Thomas",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Pilar Flynn",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Emile Ghorayeb",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Paul Carrera",
+      "rol": "First Assistant Editor"
+    },
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Mark A. Hester",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Teresa Cheng",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "H. Lee Peterson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Clare Knight",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Leslee Feldman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Damon Bard",
+      "rol": "Sculptor"
+    }
+  ],
+  "director": "Eric Darnell",
+  "valoraciones": {
+    "tmdb": 6.923,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pacific Data Images",
+  "enlace_video": "https://rumble.com/hls-vod/6uy8qg/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=fq5zU9T_Hl4"
+}
