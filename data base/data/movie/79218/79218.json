@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 79218,
+  "poster": "https://image.tmdb.org/t/p/w500/4LLMtSfy6Ga9ryOvCzzggZJlpaU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fHGrJK08XuVlfiCaUkWYOn3L7QA.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wPI8d3iJGEMX2TLTFA8raQtEk3Z.png",
+  "titulo": "La Era de Hielo: Una Navidad tamaño mamut",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Película de TV"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.454,
+  "año": "2011",
+  "duracion": "0h 26min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando Sid accidentalmente destruye la reliquia navideña de Manny y termina en la lista traviesa de Santa Claus, dirige una divertida aventura al Polo Norte para arreglar las cosas y termina empeorando las cosas. Ahora le toca a Manny y su grupo prehistórico unirse y salvar la Navidad para todo el mundo.",
+  "fecha_estreno": "2011-11-24",
+  "titulo_original": "Ice Age: A Mammoth Christmas",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ray Romano",
+      "personaje": "Manny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zWT03QvuVYySlrjmHCojKrNYjoC.jpg"
+    },
+    {
+      "nombre": "John Leguizamo",
+      "personaje": "Sid (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "nombre": "Queen Latifah",
+      "personaje": "Ellie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AeNoPcSWTsl1mOxiyXAKjVnzrwl.jpg"
+    },
+    {
+      "nombre": "Denis Leary",
+      "personaje": "Diego (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+    },
+    {
+      "nombre": "Seann William Scott",
+      "personaje": "Crash (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mKc2YXdh8d4U2jYDwpLWaOY6Jwg.jpg"
+    },
+    {
+      "nombre": "Josh Peck",
+      "personaje": "Eddie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qoapD8slSdb550o1JEoepv1SvT0.jpg"
+    },
+    {
+      "nombre": "Billy Gardell",
+      "personaje": "Santa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/72axeCDkiRm7HPYYO5lbNjKVFC.jpg"
+    },
+    {
+      "nombre": "Ciara Bravo",
+      "personaje": "Peaches (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/m6Mp8Qkq4yWQlJvzhlEgQbtzCrf.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sam Harper",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Karen Disher",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mike Reiss",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lori Forte",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tyler DeLisle",
+      "rol": "Lighting Artist"
+    },
+    {
+      "nombre": "Mike Dharney",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Roger Huynh",
+      "rol": "Lighting Artist"
+    },
+    {
+      "nombre": "John Paesano",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Christian Kaplan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Russell Eaton",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Carlos Saldanha",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Wedge",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mac Smith",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Michael J. Wilson",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Michael Berg",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Peter Ackerman",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Karen Disher",
+  "valoraciones": {
+    "tmdb": 6.454,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Fox Animation",
+  "enlace_video": "https://rumble.com/hls-vod/765u1i/playlist.m3u8?u=0&b=0",
+  "trailer": ""
+}
