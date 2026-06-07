@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 16761,
+  "poster": "https://image.tmdb.org/t/p/w500/eHqGqr5xBat3P2b9YdRbKMLli4J.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bdo313RjHEymI0W5tKYBKE54Las.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/lHmAjIYNMHb7LsKkVcqYIBXlV0H.png",
+  "titulo": "Una película de huevos",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.836,
+  "año": "2006",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "Un pequeño huevo llamado Toto decide que quiere cumplir su propósito en la vida y convertirse en un pollo en lugar de morir en una sartén; por lo que comienza una búsqueda para regresar a las granjas junto con su nuevo amigo, el ruidoso huevo Willy y una loca raya de tocino. Los tres amigos enfrentarán muchos obstáculos en su búsqueda.",
+  "fecha_estreno": "2006-04-21",
+  "titulo_original": "Una película de huevos",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Bruno Bichir",
+      "personaje": "Toto (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/af6MbUchuOv9bPh080cF7Awqxi7.jpg"
+    },
+    {
+      "nombre": "Carlos Espejel",
+      "personaje": "Willy (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Angélica Vale",
+      "personaje": "Bibi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/v7sqnNlV6dQmUjp1gI3ZeJLGOby.jpg"
+    },
+    {
+      "nombre": "Rodolfo Riva Palacio Alatriste",
+      "personaje": "Coco / Cuache / Iguano (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4p8h5j16ApTxCWapPDWS0AIgGzX.jpg"
+    },
+    {
+      "nombre": "Gabriel Riva Palacio Alatriste",
+      "personaje": "Confi / Serp / Torti / Huevo Poeta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/f3XmlNp4O5stQ6ayFOkugScgOno.jpg"
+    },
+    {
+      "nombre": "Humberto Vélez",
+      "personaje": "Huevo de chocolate (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tWqoWVwf0nIibTLyCOi1U97xUFm.jpg"
+    },
+    {
+      "nombre": "Blas García",
+      "personaje": "Huevo Líder (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hVjqQrl0HDqJrpswjPjyDtaD7SM.jpg"
+    },
+    {
+      "nombre": "Rubén Moya",
+      "personaje": "Cocodrilo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iGIQXdAvPdYuKGM5O9NFcUmHuKJ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rodolfo Riva Palacio Alatriste",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Gabriel Riva Palacio Alatriste",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rodolfo Riva Palacio Alatriste",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gabriel Riva Palacio Alatriste",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Francisco Arriagada",
+      "rol": "Author"
+    },
+    {
+      "nombre": "Leandro Spatz",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Rodolfo Riva Palacio Alatriste",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Beatriz Ramírez Blankenhorst",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Rodolfo Riva Palacio Velasco",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carlos Zepeda Chehaibar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Francisco Arriagada",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Martha Camarillo",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Gabriel Riva Palacio Alatriste",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Valeria Forster",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Gabriel Riva Palacio Alatriste",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Juan Cancerelli",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Rodolfo Riva Palacio Alatriste",
+  "valoraciones": {
+    "tmdb": 7.836,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Huevocartoon Producciones",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/c/s/6/d/cs6du.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=b_I54aXqe9k"
+}
