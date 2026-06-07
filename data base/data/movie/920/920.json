@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 920,
+  "poster": "https://image.tmdb.org/t/p/w500/lgBe9KD6DoLyQP28JZ6fSUGK8j0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/z3Q1DzNjYH6ituxrv62HtqeBEGX.png",
+  "titulo": "Cars",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Aventura",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.031,
+  "año": "2006",
+  "duracion": "1h 56min",
+  "edad_minima": 13,
+  "sinopsis": "El aspirante campeón de carreras, Rayo McQueen, parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado. Sin embargo, Rayo cometió el error de desviar su destino y terminó llegando a un pequeño pueblo olvidado de la Ruta 66.",
+  "fecha_estreno": "2006-06-08",
+  "titulo_original": "Cars",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Owen Wilson",
+      "personaje": "Lightning McQueen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lFxHIlcywMlYpe6wkW39sfBrqag.jpg"
+    },
+    {
+      "nombre": "Paul Newman",
+      "personaje": "Doc Hudson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bP2fByqNR7BorsUNuD6nSm0u2vJ.jpg"
+    },
+    {
+      "nombre": "Bonnie Hunt",
+      "personaje": "Sally Carrera (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+    },
+    {
+      "nombre": "Larry the Cable Guy",
+      "personaje": "Mater (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/34pX2sQj9DddaQWRBGukSWYdXxS.jpg"
+    },
+    {
+      "nombre": "Cheech Marin",
+      "personaje": "Ramone (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg"
+    },
+    {
+      "nombre": "Tony Shalhoub",
+      "personaje": "Luigi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
+    },
+    {
+      "nombre": "Guido Quaroni",
+      "personaje": "Guido (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ie2Q3UcrASkiDKqJOMlhaRaSgFS.jpg"
+    },
+    {
+      "nombre": "Jenifer Lewis",
+      "personaje": "Flo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/htrTYcoJQQpSYo6BrRehe3h46vo.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Dan Fogelman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Darla K. Anderson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Ranft",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jørgen Klubien",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Phil Lorin",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kiel Murray",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bruno Coon",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Ken Schretzmann",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Randy Newman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tom Myers",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "David Munier",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Teresa Eckton",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "William Cone",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Bob Pauley",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jessica Giampietro McMackin",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Tom Myers",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Laura Leganza Reynolds",
+      "rol": "Manager of Operations"
+    },
+    {
+      "nombre": "Enrico Casarosa",
+      "rol": "Story Artist"
+    }
+  ],
+  "director": "John Lasseter",
+  "valoraciones": {
+    "tmdb": 7.031,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://1a-1791.com/video/s8/2/i/P/J/3/iPJ3r.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=aGFJBGz5BmE"
+}
