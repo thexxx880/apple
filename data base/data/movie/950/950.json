@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 950,
+  "poster": "https://image.tmdb.org/t/p/w500/ifAsle0SWkYnL4CnqhwryGtBDl2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/o1jr0UqVjxIZ1JnFzuVLN4ulWey.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/g1TDxgGzdXwugw3c4mktvm7Fmm6.png",
+  "titulo": "La era de hielo 2",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia",
+    "Aventura"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.719,
+  "año": "2006",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Manny, Sid y Diego descubren que la Edad de Hielo está llegando a su fin y se unen al resto del grupo para emprender un viaje hacia tierras más altas. Durante el trayecto, descubren que Manny no es, en realidad, el último de los mamuts lanudos.",
+  "fecha_estreno": "2006-03-29",
+  "titulo_original": "Ice Age: The Meltdown",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ray Romano",
+      "personaje": "Manny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zWT03QvuVYySlrjmHCojKrNYjoC.jpg"
+    },
+    {
+      "nombre": "John Leguizamo",
+      "personaje": "Sid (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "nombre": "Denis Leary",
+      "personaje": "Diego (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+    },
+    {
+      "nombre": "Queen Latifah",
+      "personaje": "Ellie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AeNoPcSWTsl1mOxiyXAKjVnzrwl.jpg"
+    },
+    {
+      "nombre": "Seann William Scott",
+      "personaje": "Crash (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mKc2YXdh8d4U2jYDwpLWaOY6Jwg.jpg"
+    },
+    {
+      "nombre": "Josh Peck",
+      "personaje": "Eddie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qoapD8slSdb550o1JEoepv1SvT0.jpg"
+    },
+    {
+      "nombre": "Jay Leno",
+      "personaje": "Fast Tony (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cplpY6q2VFtR7c1gMHM50wPzdU3.jpg"
+    },
+    {
+      "nombre": "Will Arnett",
+      "personaje": "Lone Gunslinger Vulture (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cXupYqk2ERP13XBkw816skYdVDO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Carlos Saldanha",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lori Forte",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Gaulke",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gerry Swallow",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jim Hecht",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Peter Gaulke",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Gerry Swallow",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Patrick Worlock",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Powell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Yujin Ito",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Ben Sanders",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Arun Ram-Mohan",
+      "rol": "Lighting Artist"
+    },
+    {
+      "nombre": "Jeannine Berger",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Robert Cardone",
+      "rol": "Layout Supervisor"
+    },
+    {
+      "nombre": "Bob Gordon",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Chris Meledandri",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Wedge",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Will Edwards",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Craig Grasso",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Harry Hitner",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Carlos Saldanha",
+  "valoraciones": {
+    "tmdb": 6.719,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Fox Animation",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/02/s8/2/t/b/4/f/tb4fw.caa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=HWfzpkmeISU"
+}
