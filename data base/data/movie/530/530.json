@@ -1,0 +1,104 @@
+{
+  "id_tmdb": 530,
+  "poster": "https://image.tmdb.org/t/p/w500/tSATysMjCt08TNVu6afSZhJWYA7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bWpk3hGj95bDxDVk4pvU2K7tN0H.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/dpxqNHjkONY0Pt43PzgkQtMvxYj.png",
+  "titulo": "Wallace & Gromit: Un Día de Campo en la Luna",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Comedia",
+    "Ciencia ficción",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.489,
+  "año": "1990",
+  "duracion": "0h 24min",
+  "edad_minima": 13,
+  "sinopsis": "Wallace y su inseparable perro Gromit disfrutan de un día de picnic, pero tendrán que sobreponerse a unos imprevistos contratiempos.",
+  "fecha_estreno": "1990-05-18",
+  "titulo_original": "A Grand Day Out",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Peter Sallis",
+      "personaje": "Wallace (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rtupXNWLSILkwBBVgYamLvmJIkY.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rob Copeland",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nick Park",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Nick Park",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nick Park",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Rob Copeland",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Danny Hambrook",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Danny Hambrook",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Julian Nott",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Adrian Rhodes",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Adrian Rhodes",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Nick Park",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Peter Bath",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Peter Lord",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "David Fine",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Melanie Cole",
+      "rol": "Thanks"
+    }
+  ],
+  "director": "Nick Park",
+  "valoraciones": {
+    "tmdb": 7.489,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Aardman",
+  "enlace_video": "https://rumble.com/hls-vod/6q4xpb/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=ablYsAGtuSM"
+}
