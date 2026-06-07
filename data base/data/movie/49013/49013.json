@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 49013,
+  "poster": "https://image.tmdb.org/t/p/w500/oBA66Wt5ITme3KWxJDqqMHeFx3y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4BS8tgBNWg2jPiDlBwM2iJe1xB7.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/sdavSzwUu7fzbWeRhZMZuc80yja.png",
+  "titulo": "Cars 2",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.181,
+  "año": "2011",
+  "duracion": "1h 46min",
+  "edad_minima": 13,
+  "sinopsis": "El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.",
+  "fecha_estreno": "2011-06-11",
+  "titulo_original": "Cars 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Larry the Cable Guy",
+      "personaje": "Mater (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/34pX2sQj9DddaQWRBGukSWYdXxS.jpg"
+    },
+    {
+      "nombre": "Owen Wilson",
+      "personaje": "Lightning McQueen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lFxHIlcywMlYpe6wkW39sfBrqag.jpg"
+    },
+    {
+      "nombre": "Michael Caine",
+      "personaje": "Finn McMissile (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+      "nombre": "Emily Mortimer",
+      "personaje": "Holley Shiftwell (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oZ4CZW2eW8lL2alD1mwZrFkfACI.jpg"
+    },
+    {
+      "nombre": "Eddie Izzard",
+      "personaje": "Sir Miles Axlerod (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yo55CX1eirka40DSkniv7xgy2LZ.jpg"
+    },
+    {
+      "nombre": "John Turturro",
+      "personaje": "Francesco Bernoulli (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+    },
+    {
+      "nombre": "Brent Musburger",
+      "personaje": "Brent Mustangburger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/u0mJBsgoRe1STcffOQ1Py4Egi3u.jpg"
+    },
+    {
+      "nombre": "Joe Mantegna",
+      "personaje": "Grem (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John Lasseter",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Denise Ream",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ben Queen",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kevin Reher",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Michael Giacchino",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jay Shuster",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Stephen Schaffer",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Natalie Lyon",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Harley Jessup",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Nick Sung",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Shawn Krause",
+      "rol": "Supervising Animator"
+    },
+    {
+      "nombre": "Colin Bohrer",
+      "rol": "Editorial Manager"
+    },
+    {
+      "nombre": "Nathan Stanton",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Jeremy Lasky",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Steve Jobs",
+      "rol": "Thanks"
+    }
+  ],
+  "director": "John Lasseter",
+  "valoraciones": {
+    "tmdb": 6.181,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/8/x/5/3/8x53r.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=lg5hj2c5Nkk"
+}
