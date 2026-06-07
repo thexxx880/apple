@@ -1,0 +1,106 @@
+{
+  "id_tmdb": 531,
+  "poster": "https://image.tmdb.org/t/p/w500/97YLmWqBoUEbdi6mpPduQTsm7MF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9AbessEz2YKjmPtYKATDeYRW3Px.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/lhnnV4dOhevZTMixVrQWeb24iAJ.png",
+  "titulo": "Wallace & Gromit: Los Pantalones Equivocados",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.8,
+  "año": "1993",
+  "duracion": "0h 30min",
+  "edad_minima": 13,
+  "sinopsis": "En esta nueva aventura, Wallace le regala unos modernos pantalones a Gromit que le acabarán saliendo más caros de lo que esperaba después de conocer al huesped al que hospedarán en su casa, un aparentemente inocente pingüino...",
+  "fecha_estreno": "1993-12-17",
+  "titulo_original": "The Wrong Trousers",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Peter Sallis",
+      "personaje": "Wallace (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rtupXNWLSILkwBBVgYamLvmJIkY.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Nick Park",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bob Baker",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Christopher Moll",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nick Park",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Helen Garrard",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Nick Park",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Julian Nott",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Steve Box",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Nick Park",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Peter Lord",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Salmon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Wignall",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Jason Wheeler",
+      "rol": "Editorial Services"
+    },
+    {
+      "nombre": "Simon Rhodes",
+      "rol": "Scoring Mixer"
+    },
+    {
+      "nombre": "Brian Sibley",
+      "rol": "Additional Writing"
+    },
+    {
+      "nombre": "Tamsin Parry",
+      "rol": "Assistant Editor"
+    }
+  ],
+  "director": "Nick Park",
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Aardman",
+  "enlace_video": "https://dn720401.ca.archive.org/0/items/wallace-cortos-latino-vzla-tv/Wallace%20y%20Gromit%20-%20Los%20pantalones%20equivocados%20%28Latino%2C%20TVRip%29.mp4",
+  "trailer": "https://www.youtube.com/watch?v=4dOESXuTH2U"
+}
