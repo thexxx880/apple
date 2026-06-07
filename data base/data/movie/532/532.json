@@ -1,0 +1,115 @@
+{
+  "id_tmdb": 532,
+  "poster": "https://image.tmdb.org/t/p/w500/1fzJ1CeajjvAbRkn6lfe5cjWxu6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aD8ZhhrlJ6PXDiyyIvaMltxfbSz.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/awLdurWqZs1vPZM4zSNGssvf8Ox.png",
+  "titulo": "Wallace & Gromit: Una Afeitada al Ras",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.585,
+  "año": "1996",
+  "duracion": "0h 30min",
+  "edad_minima": 13,
+  "sinopsis": "En esta aventura, Wallace y Gromit tendrán que detener a unos desconocidos ladrones de ovejas, pero las cosas se complican cuando Gromit es acusado de ser el ladrón de ovejas, por lo que tendrán que descubrir quien está detrás de todo esto.",
+  "fecha_estreno": "1996-03-07",
+  "titulo_original": "A Close Shave",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Peter Sallis",
+      "personaje": "Wallace (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rtupXNWLSILkwBBVgYamLvmJIkY.jpg"
+    },
+    {
+      "nombre": "Anne Reid",
+      "personaje": "Wendolene (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d9ujsWfh1SfKNaiLs40cFue0CfE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Nick Park",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bob Baker",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Nick Park",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Michael Rose",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Carla Shelley",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gary Kachelhoffer",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Peter Lord",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Sproxton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julian Nott",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Dave Alex Riddett",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Helen Garrard",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Phil Lewis",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Nic Raine",
+      "rol": "Orchestrator"
+    },
+    {
+      "nombre": "Simon Rhodes",
+      "rol": "Scoring Mixer"
+    },
+    {
+      "nombre": "Mike Booth",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Nick Upton",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Harry Linden",
+      "rol": "Other"
+    }
+  ],
+  "director": "Nick Park",
+  "valoraciones": {
+    "tmdb": 7.585,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Aardman",
+  "enlace_video": "https://rumble.com/hls-vod/6q4y47/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=36GfaI0_B8E"
+}
