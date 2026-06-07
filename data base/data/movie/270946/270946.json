@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 270946,
+  "poster": "https://image.tmdb.org/t/p/w500/ynGGKSCUIuZNayNu9lJHFEScx10.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2QMgoiDlTmrO9FngZft8GgZ2SbX.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4IGC296noenbOFLI8QcH4tZAL5F.png",
+  "titulo": "Los Pingüinos de Madagascar",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Aventura",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.535,
+  "año": "2014",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "Spin-off de 'Madagascar' protagonizado por los pingüinos de la isla. Las más divertidas aves encubiertas del mundo del espionaje: Capitán, Kowalski, Rico y Soldado. Son la élite de la élite y juntos unen sus fuerzas a una elegante organización encubierta llamada Viento Norte, liderada por el apuesto y musculoso Agente Clasificado. Entre todos deben evitar que el villano Dr. Octavio Salitre destruya el mundo tal y como lo conocemos.",
+  "fecha_estreno": "2014-11-22",
+  "titulo_original": "Penguins of Madagascar",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom McGrath",
+      "personaje": "Skipper (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/83lSBvaRShYObPvhE89UDUkUfWo.jpg"
+    },
+    {
+      "nombre": "Chris Miller",
+      "personaje": "Kowalski (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qKdbhP9amIRlydcoivWlTx3szuS.jpg"
+    },
+    {
+      "nombre": "Christopher Knights",
+      "personaje": "Private (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fsdaXx2ytNx2KEW438mlFfSSzkc.jpg"
+    },
+    {
+      "nombre": "Conrad Vernon",
+      "personaje": "Rico (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+    },
+    {
+      "nombre": "John Malkovich",
+      "personaje": "Dave (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7GoOdGNc4ra1L0F5nJTkmIB37iu.jpg"
+    },
+    {
+      "nombre": "Benedict Cumberbatch",
+      "personaje": "Classified (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+      "nombre": "Ken Jeong",
+      "personaje": "Short Fuse (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
+    },
+    {
+      "nombre": "Annet Mahendru",
+      "personaje": "Eva (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kEeokLN5vJsOdKSEFaN36qlzCRa.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Simon J. Smith",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Colton",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Aboud",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Eric Darnell",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lara Breay",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Aboud",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Brandon Sawyer",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Michael Colton",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nelson Yokota",
+      "rol": "Story Artist"
+    },
+    {
+      "nombre": "Rani Naamani",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Christopher Leahy",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Nick Kenway",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ryan Genji Thomas",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Floriane Marchix",
+      "rol": "Conceptual Design"
+    },
+    {
+      "nombre": "David Edmunds",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Shashank Ashok Kulkarni",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Swetha Madhavan",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Leslee Feldman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Garrett Prince",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Balaji Anbalagan",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Simon J. Smith",
+  "valoraciones": {
+    "tmdb": 6.535,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/88/s8/2/I/c/c/p/Iccpy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=BjfID263ViI"
+}
