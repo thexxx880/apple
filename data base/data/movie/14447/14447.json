@@ -1,0 +1,129 @@
+{
+  "id_tmdb": 14447,
+  "poster": "https://image.tmdb.org/t/p/w500/sksEtIqrcNUWQrBYMzl9chITWEc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p55hZFMTWHl2j6xrPKp1qA9kF1I.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/p0g7LijtD5Xa5B1332BwHXuLAYK.png",
+  "titulo": "Wallace & Gromit: Un Asunto de Pan o Muerte",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Comedia",
+    "Misterio",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.356,
+  "año": "2008",
+  "duracion": "0h 30min",
+  "edad_minima": 13,
+  "sinopsis": "Wallace y Gromit abren una panadería y se ven envueltos en un misterioso caso de asesinato. Pero, cuando Wallace se enamora, Gromit queda solo para solucionar el caso.",
+  "fecha_estreno": "2008-12-26",
+  "titulo_original": "A Matter of Loaf and Death",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Peter Sallis",
+      "personaje": "Wallace (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rtupXNWLSILkwBBVgYamLvmJIkY.jpg"
+    },
+    {
+      "nombre": "Sally Lindsay",
+      "personaje": "Piella (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tDBnkr1zKVydqAjjoA55XKs0hM1.jpg"
+    },
+    {
+      "nombre": "Melissa Collier",
+      "personaje": "Fluffles (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Sarah Laborde",
+      "personaje": "Bake-O-Lite Singer (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Geraldine McEwan",
+      "personaje": "Miss Thripp (voice) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/d6QPB4D5SubBnl10y0PcZjnJDav.jpg"
+    },
+    {
+      "nombre": "Ben Whitehead",
+      "personaje": "Bob the Baker (voice) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/botHgCahQqFE5bf5AXsRv4aaMs3.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Nick Park",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Steve Pegram",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Burton",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nick Park",
+      "rol": "Author"
+    },
+    {
+      "nombre": "Bob Baker",
+      "rol": "Author"
+    },
+    {
+      "nombre": "Julian Nott",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Miles Bullough",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Sproxton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dave Alex Riddett",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Matt Perry",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Peter Lord",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David McCormick",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Angharad Owen",
+      "rol": "Additional Editor"
+    },
+    {
+      "nombre": "Nic Raine",
+      "rol": "Conductor"
+    },
+    {
+      "nombre": "David Peacock",
+      "rol": "ADR Recordist"
+    }
+  ],
+  "director": "Nick Park",
+  "valoraciones": {
+    "tmdb": 7.356,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Aardman",
+  "enlace_video": "https://rumble.com/hls-vod/6q4y0j/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=zXBmZLmfQZ4"
+}
