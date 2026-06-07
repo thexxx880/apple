@@ -1,0 +1,126 @@
+{
+  "id_tmdb": 573171,
+  "poster": "https://image.tmdb.org/t/p/w500/d7i9UXE7IfPx2uYtYKzgjs6zYzR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9PxXSAnbVfvFacsGTJu1aXEWVg7.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mZsakTcUV4SJHgYVieXmiOdDwEH.png",
+  "titulo": "Huevitos congelados",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Aventura",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.65,
+  "año": "2022",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "En esta nueva aventura Toto y su familia tendrán que viajar al Polo Sur para cumplir la promesa que le hace a su madre antes de morir; para lograrlo, tendrán que vencer algunos obstáculos que les enseñaran lo importante que es el trabajo en equipo.",
+  "fecha_estreno": "2022-12-14",
+  "titulo_original": "Huevitos congelados",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Bruno Bichir",
+      "personaje": "Toto (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/af6MbUchuOv9bPh080cF7Awqxi7.jpg"
+    },
+    {
+      "nombre": "Carlos Espejel",
+      "personaje": "Willy (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Angélica Vale",
+      "personaje": "Bibi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/v7sqnNlV6dQmUjp1gI3ZeJLGOby.jpg"
+    },
+    {
+      "nombre": "Maite Perroni",
+      "personaje": "Di (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tjPRz0amUhsKSSgps0adJlNdyuU.jpg"
+    },
+    {
+      "nombre": "Gabriel Riva Palacio Alatriste",
+      "personaje": "Confi / Venancio / Dodo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/f3XmlNp4O5stQ6ayFOkugScgOno.jpg"
+    },
+    {
+      "nombre": "Rodolfo Riva Palacio Alatriste",
+      "personaje": "Cuache / Antonio / Don Fidencio (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4p8h5j16ApTxCWapPDWS0AIgGzX.jpg"
+    },
+    {
+      "nombre": "Dione Riva Palacio Santacruz",
+      "personaje": "Uly (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Oliver Díaz Barba",
+      "personaje": "Max (voice)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gabriel Riva Palacio Alatriste",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ignacio Martínez Casares",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rodolfo Riva Palacio Alatriste",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gabriel Riva Palacio Alatriste",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gabriel Riva Palacio Alatriste",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rodolfo Riva Palacio Alatriste",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rodolfo Riva Palacio Alatriste",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Zacarías M. de la Riva",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Daniela Rodríguez",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "R. Edgardo Ávalos Cuenca",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Rodolfo Riva Palacio Alatriste",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Gabriel Riva Palacio Alatriste",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Gabriel Riva Palacio Alatriste",
+  "valoraciones": {
+    "tmdb": 7.65,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Huevocartoon Producciones",
+  "enlace_video": "https://seed163.bitchute.com/KOKFBNI1lMPs/DN3lOMUfjGRL.mp4",
+  "trailer": "https://www.youtube.com/watch?v=6htlqn6yMeg"
+}
