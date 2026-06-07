@@ -1,8 +1,38 @@
 // =============================================
 // CONTENIDO.JS - Sistema de vistas Firebase
 // =============================================
+
 const GITHUB_RAW_BASE =
   "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/";
+
+// ✅ JSON CENTRAL CON LOS ENLACES DE VIDEO
+const LIST_MOVIE_JSON =
+  "https://raw.githubusercontent.com/thexxx880/API/main/content/API/JSON/list-movie.JSON";
+
+// ================== CACHE DE ENLACES ==================
+let videoLinksCache = null;
+
+// ================== OBTENER ENLACE DE VIDEO ==================
+async function getVideoLink(id) {
+  try {
+    if (!videoLinksCache) {
+      const res = await fetch(LIST_MOVIE_JSON);
+      if (!res.ok) throw new Error("No se pudo cargar list-movie.JSON");
+      videoLinksCache = await res.json();
+    }
+
+    const entry = videoLinksCache[id];
+    if (entry && entry.enlace) {
+      return entry.enlace;
+    }
+
+    console.warn(`⚠️ No se encontró enlace para ID: ${id}`);
+    return null;
+  } catch (err) {
+    console.error("❌ Error cargando enlace de video:", err);
+    return null;
+  }
+}
 
 // ================== OBTENER ID ==================
 function getContentId() {
@@ -10,64 +40,48 @@ function getContentId() {
     new URLSearchParams(
       window.location.search
     );
-
   const id =
     params.get("id") ||
     params.get("tmdb_id");
-
   if (!id) {
     showError(
       "❌ Falta el parámetro <b>id</b>"
     );
-
     return null;
   }
-
   return id.toString();
 }
 
 // ================== INCREMENTAR VISTAS ==================
 async function incrementarVistas() {
-
   const contentId =
     getContentId();
-
   if (!contentId) {
     console.warn(
       "No se encontró ID"
     );
-
     return;
   }
-
   try {
-
     const db =
       firebase.firestore();
-
     const docRef =
       db
         .collection(
           "contenidos"
         )
         .doc(contentId);
-
-    // Incremento seguro
     await docRef.set({
       vistas:
         firebase.firestore.FieldValue.increment(1),
-
       updatedAt:
         firebase.firestore.FieldValue.serverTimestamp()
     }, {
       merge: true
     });
-
     console.log(
       `✅ Vista incrementada: ${contentId}`
     );
-
-    // Actualizar contador
     setTimeout(() => {
       if (
         typeof window.recargarStats ===
@@ -76,9 +90,7 @@ async function incrementarVistas() {
         window.recargarStats();
       }
     }, 300);
-
   } catch (error) {
-
     console.error(
       "❌ Error incrementando vistas:",
       error
@@ -89,17 +101,12 @@ async function incrementarVistas() {
 // ================== RECARGAR STATS ==================
 window.recargarStats =
   async function () {
-
     const contentId =
       getContentId();
-
     if (!contentId) return;
-
     try {
-
       const db =
         firebase.firestore();
-
       const docSnap =
         await db
           .collection(
@@ -107,43 +114,31 @@ window.recargarStats =
           )
           .doc(contentId)
           .get();
-
       const viewCountEl =
         document.getElementById(
           "viewCount"
         );
-
       if (!viewCountEl) {
         return;
       }
-
       if (docSnap.exists) {
-
         const data =
           docSnap.data();
-
         const vistas =
           data.vistas || 0;
-
         viewCountEl.textContent =
           vistas.toLocaleString(
             "es-ES"
           );
-
         console.log(
           "👁️ Vistas:",
           vistas
         );
-
       } else {
-
-        // Si no existe el documento
         viewCountEl.textContent =
           "0";
       }
-
     } catch (error) {
-
       console.error(
         "❌ Error recargando vistas:",
         error
@@ -153,22 +148,16 @@ window.recargarStats =
 
 // ================== CARGAR CONTENIDO ==================
 async function loadContent() {
-
   const id =
     getContentId();
-
   if (!id) return;
-
   const contenidoUrl =
     `${GITHUB_RAW_BASE}${id}/${id}.json`;
-
   try {
-
     const contenidoRes =
       await fetch(
         contenidoUrl
       );
-
     if (
       !contenidoRes.ok
     ) {
@@ -176,30 +165,20 @@ async function loadContent() {
         `No se encontró ${id}.json`
       );
     }
-
     const contenido =
       await contenidoRes.json();
-
-    // Renderizar primero
     renderPage(
       contenido,
       id
     );
-
-    // Mostrar vistas actuales
     setTimeout(() => {
       window.recargarStats?.();
     }, 300);
-
-    // Incrementar vista
     setTimeout(() => {
       incrementarVistas();
     }, 1000);
-
   } catch (err) {
-
     console.error(err);
-
     showError(
       `No se encontró el contenido
       <br>
@@ -207,6 +186,7 @@ async function loadContent() {
     );
   }
 }
+
 // ================== RENDERIZAR PÁGINA ==================
 let currentMovieId = null;
 let currentMovieData = null;
@@ -214,8 +194,8 @@ let currentMovieData = null;
 function renderPage(data, id) {
   currentMovieId = id;
   currentMovieData = data;
-  document.getElementById('pageTitle').textContent = `${data.titulo} • LzPlay`;
 
+  document.getElementById('pageTitle').textContent = `${data.titulo} • LzPlay`;
   const heroBg = document.getElementById('heroBg');
   heroBg.style.backgroundImage = `url('${data.backdrop || data.poster}')`;
   setTimeout(() => heroBg.classList.add('loaded'), 100);
@@ -243,7 +223,6 @@ function renderPage(data, id) {
     `<span class="genre-chip">${g}</span>`
   ).join('');
 
-  // Stats con vistas iniciales (se actualizará automáticamente con Firebase)
   document.getElementById('statsRow').innerHTML = `
     <div class="stat-card"><i class="fa-solid fa-calendar-days stat-icon"></i><div class="stat-value">${data.año}</div><div class="stat-label">Estreno</div></div>
     <div class="stat-card"><i class="fa-solid fa-clock stat-icon"></i><div class="stat-value">${data.duracion}</div><div class="stat-label">Duración</div></div>
@@ -272,12 +251,12 @@ function renderPage(data, id) {
   // Asignar eventos
   const playBtn = document.getElementById('playBtn');
   const trailerBtn = document.getElementById('trailerBtn');
-  if (playBtn) playBtn.onclick = () => showPlayerModal(data);
+  
+  if (playBtn) playBtn.onclick = () => showPlayerModal(data, id); // ← Modificado
   if (trailerBtn) trailerBtn.onclick = () => playTrailer(data);
 
   loadFavoriteState(id);
 
-  // ✅ OCULTAR LOADER (con mínimo 2 segundos)
   if (typeof hideLoader === "function") {
     hideLoader();
   } else {
@@ -383,13 +362,23 @@ function playTrailer(data) {
   }
 }
 
-function showPlayerModal(data) {
+// ================== SHOW PLAYER MODAL (MODIFICADO) ==================
+async function showPlayerModal(data, id) {
   const modal = document.getElementById('playerModal');
+  
+  const videoUrl = await getVideoLink(id);
+
+  if (!videoUrl) {
+    showToast('❌ No se encontró enlace de video para este contenido', 'fa-exclamation-triangle');
+    return;
+  }
+
   window.currentMovieData = {
-    video: data.enlace_video || data.video || data.url || data.enlace,
+    video: videoUrl,
     poster: data.backdrop || data.poster,
     title: encodeURIComponent(data.titulo || 'Película')
   };
+
   modal.style.display = 'flex';
 }
 
