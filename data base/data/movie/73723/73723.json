@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 73723,
+  "poster": "https://image.tmdb.org/t/p/w500/b7FMtquHglzxIi938cHIgVQuPx5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/71FjlP0qZPc1iymcHf8u5vXfH50.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/a43p3MV0GAvRs9r6uHtLlcChXLl.png",
+  "titulo": "Lórax: En Busca De La Trúfula Perdida",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.527,
+  "año": "2012",
+  "duracion": "1h 26min",
+  "edad_minima": 13,
+  "sinopsis": "Un chico se propone conquistar el afecto de la chica de sus sueños. Para conseguirlo, debe averiguar la historia del Lorax, una encantadora aunque gruñona criatura que lucha por proteger un mundo en vías de extinción.",
+  "fecha_estreno": "2012-03-01",
+  "titulo_original": "The Lorax",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Danny DeVito",
+      "personaje": "The Lorax (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+    },
+    {
+      "nombre": "Ed Helms",
+      "personaje": "Once-ler (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    },
+    {
+      "nombre": "Zac Efron",
+      "personaje": "Ted Wiggins (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6oXNHv7gAyXXYFpF943pKRsTtqQ.jpg"
+    },
+    {
+      "nombre": "Rob Riggle",
+      "personaje": "Mr. Aloysius O'Hare (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
+    },
+    {
+      "nombre": "Taylor Swift",
+      "personaje": "Audrey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rixYX4rVlWUhg0BWvclkFUNVYht.jpg"
+    },
+    {
+      "nombre": "Jenny Slate",
+      "personaje": "Mrs. Wiggins (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iNpXig5Djkh5moYG4TCekIATs5B.jpg"
+    },
+    {
+      "nombre": "Betty White",
+      "personaje": "Grammy Norma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2Vlr5E1EoD4GglLHoSolLztBQWM.jpg"
+    },
+    {
+      "nombre": "Nasim Pedrad",
+      "personaje": "Once-ler's Mom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vsTcEjvHi6CpkRPiASOfYXl2bNq.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Janet Healey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Renaud",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chris Meledandri",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cinco Paul",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ken Daurio",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mike Reiss",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Carter Goodrich",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Mitja Rabar",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Ken Daurio",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ken Schretzmann",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John Powell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Yarrow Cheney",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Cinco Paul",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Claire Dodgson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Steven Liu",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Audrey Geisel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Massimo Ruberto",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Fabrice Joubert",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Chris Renaud",
+  "valoraciones": {
+    "tmdb": 6.527,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Illumination",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe1/cc/s8/2/h/o/q/_/hoq_x.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=XbGnmKPSq9k"
+}
