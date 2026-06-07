@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 696806,
+  "poster": "https://image.tmdb.org/t/p/w500/k5waciRFMN5bwudDrgFLffoAorm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ewUqXnwiRLhgmGhuksOdLgh49Ch.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nURceh6rHmRZ0cDAN6H16eS0KCv.png",
+  "titulo": "El proyecto Adam",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Ciencia ficción",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.989,
+  "año": "2022",
+  "duracion": "1h 46min",
+  "edad_minima": 13,
+  "sinopsis": "Adam Reed es un viajero del tiempo del año 2050 que se ha aventurado en una misión de rescate para buscar a Laura, la mujer que ama, que se perdió en el continuo espacio-tiempo en circunstancias misteriosas. Cuando la nave de Adam se estropea, es enviado en espiral al año 2022, y al único lugar que conoce de esta época de su vida: su casa, donde vive su yo cuando tenía 13 años.",
+  "fecha_estreno": "2022-03-11",
+  "titulo_original": "The Adam Project",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ryan Reynolds",
+      "personaje": "Big Adam",
+      "foto": "https://image.tmdb.org/t/p/w500/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+      "nombre": "Walker Scobell",
+      "personaje": "Young Adam",
+      "foto": "https://image.tmdb.org/t/p/w500/gfIZFH6SpwpOU8zc04e5MkeJcj2.jpg"
+    },
+    {
+      "nombre": "Mark Ruffalo",
+      "personaje": "Louis Reed",
+      "foto": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "nombre": "Jennifer Garner",
+      "personaje": "Ellie Reed",
+      "foto": "https://image.tmdb.org/t/p/w500/ftymEXqdTnXfaI6dGd9qrJoFOSE.jpg"
+    },
+    {
+      "nombre": "Zoe Saldaña",
+      "personaje": "Laura",
+      "foto": "https://image.tmdb.org/t/p/w500/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+    },
+    {
+      "nombre": "Catherine Keener",
+      "personaje": "Maya Sorian",
+      "foto": "https://image.tmdb.org/t/p/w500/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+    },
+    {
+      "nombre": "Alex Mallari Jr.",
+      "personaje": "Christos",
+      "foto": "https://image.tmdb.org/t/p/w500/7rypBTal9cGPhExAzLpYSALJ3Px.jpg"
+    },
+    {
+      "nombre": "Braxton Bjerken",
+      "personaje": "Ray",
+      "foto": "https://image.tmdb.org/t/p/w500/21vO66zI6tMv1EmFY0sWpHv6dMs.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jennifer Flackett",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mark Levin",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "T.S. Nowlin",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jonathan Tropper",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan Reynolds",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jennifer Flackett",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Levin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mary McLaglen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh McLaglen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Levine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Cohen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Patrick Gooing",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "George Dewey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Vivian Baker",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Osama Gharib",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Alex Kyshkovych",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Mike Mitchell",
+      "rol": "Stunt Coordinator"
+    }
+  ],
+  "director": "Shawn Levy",
+  "valoraciones": {
+    "tmdb": 6.989,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Skydance Media",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/p/n/G/6/pnG6j.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=IE8HIsIrq4o"
+}
