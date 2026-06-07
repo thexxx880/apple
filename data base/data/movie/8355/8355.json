@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 8355,
+  "poster": "https://image.tmdb.org/t/p/w500/bFLbDLyE8BX4yccwoSotfHMJBZF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6Ybbh8TrO8bkEfQXDedekLwVDfA.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ePnxquKjSdq6ShVSP7wk7DxC8ED.png",
+  "titulo": "La era de hielo 3",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Aventura"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 6.767,
+  "año": "2009",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando Sid intenta adoptar tres huevos de dinosaurio y la verdadera madre de estos lo secuestra y lo lleva a un mundo perdido bajo tierra, sus amigos intentan rescatarlo.",
+  "fecha_estreno": "2009-06-26",
+  "titulo_original": "Ice Age: Dawn of the Dinosaurs",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ray Romano",
+      "personaje": "Manny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zWT03QvuVYySlrjmHCojKrNYjoC.jpg"
+    },
+    {
+      "nombre": "John Leguizamo",
+      "personaje": "Sid (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "nombre": "Denis Leary",
+      "personaje": "Diego (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+    },
+    {
+      "nombre": "Queen Latifah",
+      "personaje": "Ellie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AeNoPcSWTsl1mOxiyXAKjVnzrwl.jpg"
+    },
+    {
+      "nombre": "Simon Pegg",
+      "personaje": "Buck (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
+    },
+    {
+      "nombre": "Seann William Scott",
+      "personaje": "Crash (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mKc2YXdh8d4U2jYDwpLWaOY6Jwg.jpg"
+    },
+    {
+      "nombre": "Josh Peck",
+      "personaje": "Eddie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qoapD8slSdb550o1JEoepv1SvT0.jpg"
+    },
+    {
+      "nombre": "Chris Wedge",
+      "personaje": "Scrat (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mB0lfkbJEQ6lNsGgIcCMszAZYbu.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Peter Ackerman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Carlos Saldanha",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Berg",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lori Forte",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John C. Donkin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Carter Eaton",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Yoni Brenner",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mike Reiss",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Powell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Harry Hitner",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Galen T. Chu",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Peter de Sève",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Keith Stichweh",
+      "rol": "Visual Effects Technical Director"
+    },
+    {
+      "nombre": "Mark C. Harris",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Jacqueline Jones",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Marshall Winn",
+      "rol": "ADR Editor"
+    },
+    {
+      "nombre": "Kyrsten Mate",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Rylan Davies",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Eric Johnson",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Kyle Mohr",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Carlos Saldanha",
+  "valoraciones": {
+    "tmdb": 6.767,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Blue Sky Studios",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe1/8b/s8/2/D/K/4/f/DK4fw.caa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=wHhCZCdKZk8"
+}
