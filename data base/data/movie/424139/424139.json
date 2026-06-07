@@ -1,0 +1,152 @@
+{
+  "id_tmdb": 424139,
+  "poster": "https://image.tmdb.org/t/p/w500/tRwuTL3KhU03MA2EkXNdRXhH49V.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8VjIXC2x8SHwAO52rfFpejKL4wc.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6D111dAuzcAjM0o2bBJlmr1TkuK.png",
+  "titulo": "Halloween",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "B15 ",
+  "puntuacion": 6.566,
+  "año": "2018",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Jamie Lee Curtis regresa a su papel icónico como Laurie Strode, quien llega a su enfrentamiento final con Michael Myers, la figura enmascarada que la ha perseguido desde que escapó por poco de su juerga de asesinatos en la noche de Halloween de hace cuatro décadas. Esta película, la undécima película de la serie \"Halloween\", ignorará los eventos de todas las secuelas anteriores, retomando 40 años después de los eventos de la película original.",
+  "fecha_estreno": "2018-10-18",
+  "titulo_original": "Halloween",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jamie Lee Curtis",
+      "personaje": "Laurie Strode",
+      "foto": "https://image.tmdb.org/t/p/w500/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
+    },
+    {
+      "nombre": "Judy Greer",
+      "personaje": "Karen",
+      "foto": "https://image.tmdb.org/t/p/w500/pTLjIjh83R424RGxIfq4U0yx947.jpg"
+    },
+    {
+      "nombre": "Andi Matichak",
+      "personaje": "Allyson",
+      "foto": "https://image.tmdb.org/t/p/w500/8XGIcVo5flyPKIbaEQiw8cMXgBj.jpg"
+    },
+    {
+      "nombre": "James Jude Courtney",
+      "personaje": "The Shape",
+      "foto": "https://image.tmdb.org/t/p/w500/3bE8jZyPaOASww11gOwLP7QW0IY.jpg"
+    },
+    {
+      "nombre": "Nick Castle",
+      "personaje": "The Shape",
+      "foto": "https://image.tmdb.org/t/p/w500/bKJuXeKR8GZLyiutiDSCwwCzZ7n.jpg"
+    },
+    {
+      "nombre": "Haluk Bilginer",
+      "personaje": "Dr. Sartain",
+      "foto": "https://image.tmdb.org/t/p/w500/krCEBAIGmEUUcA4GpLt3RiTHKLC.jpg"
+    },
+    {
+      "nombre": "Will Patton",
+      "personaje": "Officer Hawkins",
+      "foto": "https://image.tmdb.org/t/p/w500/1V4DbU1mfEim4oaA5bvJywDAKwB.jpg"
+    },
+    {
+      "nombre": "Rhian Rees",
+      "personaje": "Dana Haines",
+      "foto": "https://image.tmdb.org/t/p/w500/iZQhvk0eXyfRQs9DPwNL45lekBM.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Gordon Green",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jason Blum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Gordon Green",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Danny McBride",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Malek Akkad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeff Fradley",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Bill Block",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Will Files",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Chris Terhune",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Mark DeSimone",
+      "rol": "ADR Mixer"
+    },
+    {
+      "nombre": "Oleg Kulchytskyi",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "David Bach",
+      "rol": "ADR Supervisor"
+    },
+    {
+      "nombre": "Howard London",
+      "rol": "ADR Mixer"
+    },
+    {
+      "nombre": "Steve Baine",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Ryan Cole",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Judah Getz",
+      "rol": "ADR Mixer"
+    },
+    {
+      "nombre": "Simon Maddison",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Jeremy B. Davis",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Lee Gilmore",
+      "rol": "Sound Effects Editor"
+    }
+  ],
+  "director": "David Gordon Green",
+  "valoraciones": {
+    "tmdb": 6.566,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe1/c1/s8/2/7/w/E/9/7wE9x.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=aW6MEeiNBv4"
+}
