@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 260514,
+  "poster": "https://image.tmdb.org/t/p/w500/b6UziEme94jVR23jhDHL1IPisWs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xtZhCcUJ1YJYpA2iimWpqtSQcmf.png",
+  "titulo": "Cars 3",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.86,
+  "año": "2017",
+  "duracion": "1h 49min",
+  "edad_minima": 13,
+  "sinopsis": "La elegante corredora Cruz Ramirez ayudará al veterano campeón Rayo McQueen a regresar a la pista enfrentando a una nueva generación de corredores de alta tecnología. Pronto, Rayo McQueen demostrará que sigue siendo el mejor del mundo.",
+  "fecha_estreno": "2017-06-15",
+  "titulo_original": "Cars 3",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Owen Wilson",
+      "personaje": "Lightning McQueen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lFxHIlcywMlYpe6wkW39sfBrqag.jpg"
+    },
+    {
+      "nombre": "Cristela Alonzo",
+      "personaje": "Cruz Ramirez (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/h4nQQZtVbB5Oimhu73eWmTbHtI4.jpg"
+    },
+    {
+      "nombre": "Chris Cooper",
+      "personaje": "Smokey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/j0sQDzaDlnNAdaYhy6HRRAFi22.jpg"
+    },
+    {
+      "nombre": "Nathan Fillion",
+      "personaje": "Sterling (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg"
+    },
+    {
+      "nombre": "Larry the Cable Guy",
+      "personaje": "Mater (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/34pX2sQj9DddaQWRBGukSWYdXxS.jpg"
+    },
+    {
+      "nombre": "Armie Hammer",
+      "personaje": "Jackson Storm (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4Z5nLW2biRjqstDMKqSaeQYAesK.jpg"
+    },
+    {
+      "nombre": "Ray Magliozzi",
+      "personaje": "Dusty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/11Zm2hnOqFkh5h6vQ0XiWXptOUt.jpg"
+    },
+    {
+      "nombre": "Tony Shalhoub",
+      "personaje": "Luigi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Brian Fee",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kevin Reher",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bob Peterson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kiel Murray",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mike Rich",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christian Roman",
+      "rol": "Story Artist"
+    },
+    {
+      "nombre": "Eyal Podell",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Kevin Reher",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Angelo Libutti",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Natalie Lyon",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Randy Newman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jeremy Lasky",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Aaron Conover",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Ben Queen",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Brian Fee",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathon E. Stewart",
+      "rol": "Original Story"
+    }
+  ],
+  "director": "Brian Fee",
+  "valoraciones": {
+    "tmdb": 6.86,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/3/F/z/8/3Fz8r.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=MKeUsy-d3_k"
+}
