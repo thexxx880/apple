@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 54318,
+  "poster": "https://image.tmdb.org/t/p/w500/jIQScY2dytYRYQDWJ6mt3PTH3oT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pz38t7dTtW6iNTGtiyL53M7cCw0.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xXwn7l1oSbJ0cOtnTbwK8m7Kigg.png",
+  "titulo": "Mi mascota es un monstruo",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.548,
+  "año": "2007",
+  "duracion": "1h 52min",
+  "edad_minima": 13,
+  "sinopsis": "El protagonista es Angus MacMorrow (Alex Etel), un solitario muchacho escocés que vive con el deseo de que su padre regrese de la guerra. Un día, Angus lleva a casa un extraño objeto que encuentra en la playa, se da cuenta muy pronto de que se trata de un huevo mágico y su fantasía se desborda: se imagina criando a un ser fabuloso: el \"monstruo del lago Ness\", uno de los mitos escoceses más populares. Intenta mantenerlo oculto y establecer con él un estrecho vínculo de amistad.",
+  "fecha_estreno": "2007-12-25",
+  "titulo_original": "The Water Horse",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Alex Etel",
+      "personaje": "Angus MacMorrow",
+      "foto": "https://image.tmdb.org/t/p/w500/hKlr9vcNG1HY5xOn26R9ldHmdRa.jpg"
+    },
+    {
+      "nombre": "Emily Watson",
+      "personaje": "Anne MacMorrow",
+      "foto": "https://image.tmdb.org/t/p/w500/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+    },
+    {
+      "nombre": "Ben Chaplin",
+      "personaje": "Lewis Mowbray",
+      "foto": "https://image.tmdb.org/t/p/w500/oJc9gA7cRvRg1v4tgeAmpkaqFxO.jpg"
+    },
+    {
+      "nombre": "David Morrissey",
+      "personaje": "Captain Thomas Hamilton",
+      "foto": "https://image.tmdb.org/t/p/w500/gj7ENB9pBobXA3wMfw6uKcWr2GM.jpg"
+    },
+    {
+      "nombre": "Priyanka Xi",
+      "personaje": "Kirstie MacMorrow",
+      "foto": "https://image.tmdb.org/t/p/w500/uHel5xUX8Wac4UhdSwsvp18ALfN.jpg"
+    },
+    {
+      "nombre": "Craig Hall",
+      "personaje": "Charlie MacMorrow",
+      "foto": "https://image.tmdb.org/t/p/w500/bdTS3OgiIkSa4iPheVHKJFgMV9Z.jpg"
+    },
+    {
+      "nombre": "Brian Cox",
+      "personaje": "Old Angus",
+      "foto": "https://image.tmdb.org/t/p/w500/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
+    },
+    {
+      "nombre": "Erroll Shand",
+      "personaje": "Lt. Wormsley",
+      "foto": "https://image.tmdb.org/t/p/w500/75nc5lUcp1So9RTNNr08NZ0oQDG.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Robert Nelson Jacobs",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jay Russell",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robert Bernstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Charlie Lyons",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Barrie M. Osborne",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Douglas Rae",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dick King-Smith",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Dan Hennah",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Pete Butters",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "John Bloomfield",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Oliver Stapleton",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mark Warner",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Brad Mill",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "James Newton Howard",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tony Burrough",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Simon Bright",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Erin Palmer",
+      "rol": "Sets & Props Artist"
+    },
+    {
+      "nombre": "Arun Ram-Mohan",
+      "rol": "Lighting Artist"
+    }
+  ],
+  "director": "Jay Russell",
+  "valoraciones": {
+    "tmdb": 6.548,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Revolution Studios",
+  "enlace_video": "https://1a-1791.com/video/s8/2/E/a/8/y/Ea8ys.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=iuvPpCMgA9U"
+}
