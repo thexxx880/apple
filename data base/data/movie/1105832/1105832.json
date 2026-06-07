@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 1105832,
+  "poster": "https://image.tmdb.org/t/p/w500/sllxb3Ydr9Rgjl1MuL7tT37ap35.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sb6YO8QwlJYJZCYroVWV0psNmXL.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/r9Zon7NTkA70BuC90Uvf9mqXMXG.png",
+  "titulo": "Simón",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.29,
+  "año": "2023",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Simón narra la apasionante y sentida historia de un joven luchador por la libertad que escapa de las garras del régimen venezolano y se traslada a Miami, donde ahora lucha contra sus traumas y su sentimiento de culpa mientras intenta conseguir asilo político antes de que lo devuelvan a la fuerza a su país.",
+  "fecha_estreno": "2023-04-15",
+  "titulo_original": "Simón",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Christian McGaffney",
+      "personaje": "Simón",
+      "foto": null
+    },
+    {
+      "nombre": "Jana Nawartschi",
+      "personaje": "Melissa",
+      "foto": "https://image.tmdb.org/t/p/w500/28AteuzbQHBSREtGoIwTi1D8C93.jpg"
+    },
+    {
+      "nombre": "Luis Silva",
+      "personaje": "Joaquín",
+      "foto": "https://image.tmdb.org/t/p/w500/9YeIyfVPXh08bR6lPmXNB0IFy8y.jpg"
+    },
+    {
+      "nombre": "Roberto Jaramillo",
+      "personaje": "Chucho",
+      "foto": null
+    },
+    {
+      "nombre": "Franklin Vírgüez",
+      "personaje": "Colonel Lugo",
+      "foto": "https://image.tmdb.org/t/p/w500/mZDqK2mVYdClSOWvGyyE0koxt0V.jpg"
+    },
+    {
+      "nombre": "Prakriti Maduro",
+      "personaje": "Helena",
+      "foto": null
+    },
+    {
+      "nombre": "Pedro Pablo Borras",
+      "personaje": "Main Guard",
+      "foto": null
+    },
+    {
+      "nombre": "Sallie Glaner",
+      "personaje": "Dr. Moore",
+      "foto": "https://image.tmdb.org/t/p/w500/jLyBwUxvBGBhe8ifIg5mv7LosSa.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Diego Vincentini",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Marcel Rasquin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jorge González",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Diego Vincentini",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Diego Vincentini",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Arturo Manuitt",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Lauren Herrel",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Heath Ryan",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Freddy Sheinfeld",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Carla Barrios",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Lauren Herrel",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Marcos Duran",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Diego Vincentini",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Rafael E. Rodríguez",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Dawid Konecki",
+      "rol": "Foley Editor"
+    },
+    {
+      "nombre": "Horacio Martinez",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jacek Wiśniewski",
+      "rol": "Foley Artist"
+    }
+  ],
+  "director": "Diego Vincentini",
+  "valoraciones": {
+    "tmdb": 8.29,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Black Hole Enterprises",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/U/V/f/o/UVfoq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=-6AFAeu33E4"
+}
