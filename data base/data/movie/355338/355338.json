@@ -1,0 +1,112 @@
+{
+  "id_tmdb": 355338,
+  "poster": "https://image.tmdb.org/t/p/w500/tYId7ILR86oAr00LoJ5WWbxdzhM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q2haCPQUzeMlRlX0wKJgddMbE0o.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1WIJZKCpLd9ufsnPjBoRC7SM0jj.png",
+  "titulo": "Primera cita de Riley",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.188,
+  "año": "2015",
+  "duracion": "0h 5min",
+  "edad_minima": 13,
+  "sinopsis": "Riley, ahora de 12 años, está colgando en casa con sus padres en San Francisco cuando el problema potencial viene golpeando: un muchacho aparece en la puerta.",
+  "fecha_estreno": "2015-11-03",
+  "titulo_original": "Riley's First Date?",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Kaitlyn Dias",
+      "personaje": "Riley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oO1srX4pLR87A7YRHayjwKKKqjp.jpg"
+    },
+    {
+      "nombre": "Ben Cox",
+      "personaje": "Jordan (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Kyle MacLachlan",
+      "personaje": "Dad (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg"
+    },
+    {
+      "nombre": "Diane Lane",
+      "personaje": "Mom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
+    },
+    {
+      "nombre": "Pete Docter",
+      "personaje": "Dad's Anger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vITDphkNpSn1LP5gUEheAnlclnl.jpg"
+    },
+    {
+      "nombre": "Carlos Alazraqui",
+      "personaje": "Dad's Fear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d2hufnjlfsZiY7N9NLZ6b7FE1IZ.jpg"
+    },
+    {
+      "nombre": "Josh Cooley",
+      "personaje": "Dad's Sadness (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eGN0vaFmKtqHu1nFi3Lv4roQ6P2.jpg"
+    },
+    {
+      "nombre": "Patrick Seitz",
+      "personaje": "Dad's Joy / Alarm (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dIAUmfTbC4duex4lRV5ET7JEQhs.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Josh Cooley",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark Nielsen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Josh Cooley",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brian Johnson",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Giacchino",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Pete Docter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonas Rivera",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Brodkey",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Josh Cooley",
+  "valoraciones": {
+    "tmdb": 7.188,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/m/p/m/H/mpmHs.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=Grb4O24QGcs"
+}
