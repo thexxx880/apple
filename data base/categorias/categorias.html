@@ -142,7 +142,6 @@
         let displayedCount = 15;
         let observer;
 
-        // ==================== FUNCIONES AUXILIARES ====================
         function normalizeText(str) {
             if (!str) return "";
             return str.toString().toLowerCase()
@@ -151,17 +150,23 @@
                 .replace(/\s+/g, " ").trim();
         }
 
-        // Generar categorías aproximadas (ya que el JSON no tiene campo "generos")
         function obtenerCategorias(item) {
-            const texto = normalizeText(item.title + " " + item.sinopsis + " " + item.tituloAlternos);
+            const texto = normalizeText(item.title + " " + (item.sinopsis || "") + " " + (item["titulo alternos"] || ""));
             const cats = [];
-            if (texto.includes("terror") || texto.includes("horror") || texto.includes("miedo")) cats.push("Terror");
-            if (texto.includes("accion") || texto.includes("action") || texto.includes("aventura")) cats.push("Acción");
+            if (texto.includes("terror") || texto.includes("horror")) cats.push("Terror");
+            if (texto.includes("accion") || texto.includes("action")) cats.push("Acción");
             if (texto.includes("comedia") || texto.includes("comedy")) cats.push("Comedia");
             if (texto.includes("drama")) cats.push("Drama");
-            if (texto.includes("animacion") || texto.includes("animación") || texto.includes("toy story") || texto.includes("pixar")) cats.push("Animación");
-            if (texto.includes("ciencia ficcion") || texto.includes("scifi") || texto.includes("sci-fi")) cats.push("Ciencia Ficción");
-            return [...new Set(cats)].slice(0, 2); // máximo 2 categorías por película
+            if (texto.includes("animacion") || texto.includes("animación")) cats.push("Animación");
+            if (texto.includes("ciencia ficcion") || texto.includes("scifi")) cats.push("Ciencia Ficción");
+            return [...new Set(cats)].slice(0, 2);
+        }
+
+        function actualizarContador() {
+            const totalElement = document.getElementById("total-contenido");
+            if (totalElement) {
+                totalElement.textContent = `${todosLosContenidos.length} películas`;
+            }
         }
 
         async function cargarTodo() {
@@ -181,13 +186,13 @@
                     poster: item.poster,
                     year: item.año || "N/A",
                     rating: "8.5",
-                    genres: obtenerCategorias(item),           // ← Nueva lógica
+                    genres: obtenerCategorias(item),
                     sinopsis: item.sinopsis || "",
                     tituloAlternos: item["titulo alternos"] || ""
                 }));
 
-                // Contador actualizado correctamente
-                document.getElementById("total-contenido").textContent = `${todosLosContenidos.length} películas`;
+                // Actualizar contador inmediatamente
+                actualizarContador();
 
                 inicializarFiltrosModal();
                 contenidosFiltrados = [...todosLosContenidos];
@@ -196,8 +201,8 @@
                 loading.classList.add("hidden");
                 principal.classList.remove("hidden");
             } catch (error) {
-                loading.innerHTML = `<p class="text-red-400">Error al cargar películas</p>`;
                 console.error(error);
+                loading.innerHTML = `<p class="text-red-400">Error al cargar películas</p>`;
             }
         }
 
@@ -219,13 +224,11 @@
                         <img data-src="${item.poster}"
                              alt="${item.title}"
                              class="w-full aspect-[2/3] object-cover transition-transform group-hover:scale-110 lazy-image">
-                      
                         <div class="rating absolute top-3 right-3 flex items-center gap-1 text-xs font-bold px-2.5 py-1 rounded-2xl">
                             <i class="fas fa-star text-yellow-400"></i>
                             <span>${item.rating}</span>
                         </div>
                     </div>
-                  
                     <div class="mt-3 px-1">
                         <h3 class="font-semibold text-base line-clamp-2 leading-tight group-hover:text-blue-400 transition-colors">
                             ${item.title}
@@ -274,7 +277,6 @@
             document.querySelectorAll(".lazy-image").forEach(img => observer.observe(img));
         }
 
-        // ====================== MODAL DE FILTROS ======================
         function abrirModalFiltros() {
             document.getElementById("modal-filtros").classList.remove("hidden");
             document.getElementById("modal-filtros").classList.add("flex");
@@ -286,7 +288,6 @@
         }
 
         function inicializarFiltrosModal() {
-            // Letras
             const letrasContainer = document.getElementById("filtro-letras");
             letrasContainer.innerHTML = "";
             for (let i = 65; i <= 90; i++) {
@@ -294,14 +295,10 @@
                 const btn = document.createElement("button");
                 btn.className = "px-3 py-1 text-xs bg-white/10 hover:bg-white/20 rounded-xl border border-white/10 transition-all";
                 btn.textContent = letra;
-                btn.onclick = () => {
-                    btn.classList.toggle("filtro-activo");
-                    aplicarFiltros(true);
-                };
+                btn.onclick = () => { btn.classList.toggle("filtro-activo"); aplicarFiltros(true); };
                 letrasContainer.appendChild(btn);
             }
 
-            // Años
             const anos = [...new Set(todosLosContenidos.map(c => c.year))].sort((a, b) => b - a);
             const minSelect = document.getElementById("filtro-ano-min");
             const maxSelect = document.getElementById("filtro-ano-max");
@@ -310,33 +307,22 @@
             minSelect.onchange = () => aplicarFiltros(true);
             maxSelect.onchange = () => aplicarFiltros(true);
 
-            // Categorías (ahora dinámicas)
             const catsContainer = document.getElementById("filtro-categorias");
             catsContainer.innerHTML = "";
-
-            const todasCategorias = [...new Set(
-                todosLosContenidos.flatMap(item => item.genres)
-            )].sort();
-
+            const todasCategorias = [...new Set(todosLosContenidos.flatMap(item => item.genres))].sort();
             todasCategorias.forEach(cat => {
                 const btn = document.createElement("button");
                 btn.className = "px-4 py-2 text-sm bg-white/10 hover:bg-white/20 rounded-2xl border border-white/10 transition-all";
                 btn.textContent = cat;
-                btn.onclick = () => {
-                    btn.classList.toggle("filtro-activo");
-                    aplicarFiltros(true);
-                };
+                btn.onclick = () => { btn.classList.toggle("filtro-activo"); aplicarFiltros(true); };
                 catsContainer.appendChild(btn);
             });
         }
 
         function aplicarFiltros(keepOpen = false) {
             const nombre = normalizeText(document.getElementById("filtro-nombre").value);
-            const letrasActivas = Array.from(document.querySelectorAll("#filtro-letras button.filtro-activo"))
-                .map(b => b.textContent);
-            const categoriasActivas = Array.from(document.querySelectorAll("#filtro-categorias button.filtro-activo"))
-                .map(b => b.textContent);
-            
+            const letrasActivas = Array.from(document.querySelectorAll("#filtro-letras button.filtro-activo")).map(b => b.textContent);
+            const categoriasActivas = Array.from(document.querySelectorAll("#filtro-categorias button.filtro-activo")).map(b => b.textContent);
             const anoMin = document.getElementById("filtro-ano-min").value;
             const anoMax = document.getElementById("filtro-ano-max").value;
 
@@ -345,24 +331,9 @@
                 const alternosNorm = normalizeText(item.tituloAlternos);
                 const sinopsisNorm = normalizeText(item.sinopsis);
 
-                // Filtro por nombre
-                if (nombre &&
-                    !tituloNorm.includes(nombre) &&
-                    !alternosNorm.includes(nombre) &&
-                    !sinopsisNorm.includes(nombre)) {
-                    return false;
-                }
-
-                // Filtro por letra inicial
+                if (nombre && !tituloNorm.includes(nombre) && !alternosNorm.includes(nombre) && !sinopsisNorm.includes(nombre)) return false;
                 if (letrasActivas.length > 0 && !letrasActivas.includes(item.title[0]?.toUpperCase())) return false;
-
-                // Filtro por categorías
-                if (categoriasActivas.length > 0) {
-                    const tieneCategoria = item.genres.some(g => categoriasActivas.includes(g));
-                    if (!tieneCategoria) return false;
-                }
-
-                // Filtro por año
+                if (categoriasActivas.length > 0 && !item.genres.some(g => categoriasActivas.includes(g))) return false;
                 if (anoMin && parseInt(item.year) < parseInt(anoMin)) return false;
                 if (anoMax && parseInt(item.year) > parseInt(anoMax)) return false;
 
@@ -375,8 +346,7 @@
 
         function limpiarFiltros() {
             document.getElementById("filtro-nombre").value = "";
-            document.querySelectorAll("#filtro-letras button").forEach(b => b.classList.remove("filtro-activo"));
-            document.querySelectorAll("#filtro-categorias button").forEach(b => b.classList.remove("filtro-activo"));
+            document.querySelectorAll("#filtro-letras button, #filtro-categorias button").forEach(b => b.classList.remove("filtro-activo"));
             document.getElementById("filtro-ano-min").value = "";
             document.getElementById("filtro-ano-max").value = "";
             
@@ -401,9 +371,7 @@
         });
 
         window.onload = () => {
-            if (typeof initNavbar === "function") {
-                initNavbar("main-header");
-            }
+            if (typeof initNavbar === "function") initNavbar("main-header");
             cargarTodo();
         };
     </script>
