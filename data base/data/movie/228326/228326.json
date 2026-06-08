@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 228326,
+  "poster": "https://image.tmdb.org/t/p/w500/k669nOalwu7NKhW7aWNJKN7Nxvi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/b0XkgWgCBurkCZdNXp7kEZdgxEi.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/2bTme0AUzsvjogibBhMQSxzXuqt.png",
+  "titulo": "El Libro de la Vida",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.534,
+  "año": "2014",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "La película cuenta el viaje de Manolo, un joven torero que se debate entre cumplir con las expectativas de su familia o seguir su corazón y dedicarse a su verdadera pasión: la música. Antes de escoger el camino que seguirá, emprende una aventura recorriendo tres mundos fantásticos, donde tendrá que superar sus peores miedos.",
+  "fecha_estreno": "2014-10-01",
+  "titulo_original": "The Book of Life",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Diego Luna",
+      "personaje": "Manolo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bxl7kj75ZsSDj5R4l4yuo3egewH.jpg"
+    },
+    {
+      "nombre": "Channing Tatum",
+      "personaje": "Joaquin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4TpgnS6l8YUXSne9Av9nda6mjxY.jpg"
+    },
+    {
+      "nombre": "Zoe Saldaña",
+      "personaje": "Maria (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+    },
+    {
+      "nombre": "Christina Applegate",
+      "personaje": "Mary Beth (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ncWS3iguCMCQ53ewacGpMGA6MHv.jpg"
+    },
+    {
+      "nombre": "Eugenio Derbez",
+      "personaje": "Chato (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6o1w3mYF947N6TTakQXcs3NNy4w.jpg"
+    },
+    {
+      "nombre": "Cheech Marin",
+      "personaje": "Pancho Rodriguez (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg"
+    },
+    {
+      "nombre": "Gabriel Iglesias",
+      "personaje": "Pepe Rodriguez (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8Bjy3RZ5TfNs3oUOUpxTv84G01f.jpg"
+    },
+    {
+      "nombre": "Ron Perlman",
+      "personaje": "Xibalba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pOgMRdJhbBsvwGLRFXPRASTfcay.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Guillermo del Toro",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jorge R. Gutierrez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jorge R. Gutierrez",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Doug Langdale",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Brad Booker",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aaron Berger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Carina Schulze",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tyler DeLisle",
+      "rol": "Lighting Artist"
+    },
+    {
+      "nombre": "Andy Hass",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Steve Cunningham",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Devin Roth",
+      "rol": "Score Engineer"
+    },
+    {
+      "nombre": "Dixie Pizani",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Travis Tohill",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Tom Caulfield",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Gustavo Santaolalla",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ahren Shaw",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Christian Kaplan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Simon Valdimir Varela",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Chris DiGiovanni",
+      "rol": "Associate Producer"
+    }
+  ],
+  "director": "Jorge R. Gutierrez",
+  "valoraciones": {
+    "tmdb": 7.534,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Reel FX Creative Studios",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/v/0/o/j/v0ojt.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=_i69CJc1BgE"
+}
