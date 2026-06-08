@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 284054,
+  "poster": "https://image.tmdb.org/t/p/w500/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/19Ed4XgjahPm4U8JT7SnntERIlt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ziiBAvzCgF19C6lYZV6mfNzI6B9.png",
+  "titulo": "Pantera Negra",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.364,
+  "año": "2018",
+  "duracion": "2h 14min",
+  "edad_minima": 13,
+  "sinopsis": "T’Challa regresa a su hogar en la apartada nación africana de Wakanda para servir como líder de su país. Tras suceder a su padre en el trono, pasa a convertirse en Pantera Negra, una sigilosa criatura de la noche, con agudos sentidos felinos y otras habilidades como súper fuerza e inteligencia, agilidad, estrategia o maestro del combate sin armas. Es bajo el liderazgo de T’Challa como Wakanda consigue convertirse en una de las naciones más ricas y tecnológicamente avanzadas del planeta.",
+  "fecha_estreno": "2018-02-13",
+  "titulo_original": "Black Panther",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chadwick Boseman",
+      "personaje": "T'Challa / Black Panther",
+      "foto": "https://image.tmdb.org/t/p/w500/1lz1wLOuPFSRIratMz0SxD3tkJ.jpg"
+    },
+    {
+      "nombre": "Michael B. Jordan",
+      "personaje": "Erik Killmonger",
+      "foto": "https://image.tmdb.org/t/p/w500/sMBpav8cK7t7Nk0yf4tuNOqNUyW.jpg"
+    },
+    {
+      "nombre": "Lupita Nyong'o",
+      "personaje": "Nakia",
+      "foto": "https://image.tmdb.org/t/p/w500/mJMpsADPpt0bmXEzs3ywrUiCkpD.jpg"
+    },
+    {
+      "nombre": "Danai Gurira",
+      "personaje": "Okoye",
+      "foto": "https://image.tmdb.org/t/p/w500/z7H7QeQvr24vskGlANQhG43vozQ.jpg"
+    },
+    {
+      "nombre": "Martin Freeman",
+      "personaje": "Everett K. Ross",
+      "foto": "https://image.tmdb.org/t/p/w500/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+    },
+    {
+      "nombre": "Daniel Kaluuya",
+      "personaje": "W'Kabi",
+      "foto": "https://image.tmdb.org/t/p/w500/jj2kZqJobjom36wlhlYhc38nTwN.jpg"
+    },
+    {
+      "nombre": "Letitia Wright",
+      "personaje": "Shuri",
+      "foto": "https://image.tmdb.org/t/p/w500/f7PevpEeBqwzACPhoZ8K3ktrKvE.jpg"
+    },
+    {
+      "nombre": "Winston Duke",
+      "personaje": "M'Baku",
+      "foto": "https://image.tmdb.org/t/p/w500/MhBiZbryibwuoEtPL9Ns8pYHC1.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ryan Coogler",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joe Robert Cole",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan Coogler",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brionna Maria Lynch",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Marie Mouroum",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jane Oshita",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jessica Nam",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Nancy Thurston",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Meredith Richardson",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Courtney Julien",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Tiara Kelly",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Niahlah Hope",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Jonathan Eusebio",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Maria Hippolyte",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Carrie Bernans",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Ryan Coogler",
+  "valoraciones": {
+    "tmdb": 7.364,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/e3/s8/2/N/e/t/1/Net1x.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=JK-wAfAvJ0g"
+}
