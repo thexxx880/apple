@@ -1,0 +1,96 @@
+{
+  "id_tmdb": 1151470,
+  "poster": "https://image.tmdb.org/t/p/w500/i6ZO28AmFatUHKwW3LYzBsJvUSs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lPYhkhkZ6MghEo8136nxxev5zy0.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3xl5btXauP0GVAuHS7LEfagKFiL.png",
+  "titulo": "El ultimo disparo",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.9,
+  "año": "2023",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Al regresar de Afganistán, Jessica, una marine de Spec OPS, se encuentra en una guerra que nunca imaginó y descubre que los suburbios del centro de Estados Unidos han cambiado cuando su hermana de trece años, Aimee, es secuestrada por traficantes sexuales.",
+  "fecha_estreno": "2023-09-08",
+  "titulo_original": "The Vigilante",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jet Jandreau",
+      "personaje": "Jessica",
+      "foto": "https://image.tmdb.org/t/p/w500/iZvmi8Q4mLwKk1ePLomGlspqLkA.jpg"
+    },
+    {
+      "nombre": "Alison Jaye Horowitz",
+      "personaje": "Mika",
+      "foto": "https://image.tmdb.org/t/p/w500/iEWtgDu0OweicGOl1rxybzCaota.jpg"
+    },
+    {
+      "nombre": "Ana Alexander",
+      "personaje": "Sophia",
+      "foto": "https://image.tmdb.org/t/p/w500/1IlEGAdccjtTZKNSxvTHnHG1ROI.jpg"
+    },
+    {
+      "nombre": "Eric Pierce",
+      "personaje": "Dan",
+      "foto": "https://image.tmdb.org/t/p/w500/530W9qnL4xP18VwPJzkUP6dMA3r.jpg"
+    },
+    {
+      "nombre": "Jamie Timmons",
+      "personaje": "Aimee",
+      "foto": null
+    },
+    {
+      "nombre": "Julien Cesario",
+      "personaje": "Brad",
+      "foto": null
+    },
+    {
+      "nombre": "Laur Allen",
+      "personaje": "Carmen",
+      "foto": "https://image.tmdb.org/t/p/w500/56gmoLqRYpuRTmiMvd7kORetJ8X.jpg"
+    },
+    {
+      "nombre": "Terence J. Rotolo",
+      "personaje": "Frank",
+      "foto": "https://image.tmdb.org/t/p/w500/tWLeQ7lxytRkWT1yw3PkCc0vsez.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lee Whittaker",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kara Myers",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lee Whittaker",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rachel Gelfeld",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Cambria Hankin",
+      "rol": "Casting Director"
+    }
+  ],
+  "director": "Lee Whittaker",
+  "valoraciones": {
+    "tmdb": 5.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Shattered Images Films",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/65/s8/2/4/E/5/u/4E5uy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=NUzXT8_1LN4"
+}
