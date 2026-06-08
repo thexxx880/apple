@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 10010,
+  "poster": "https://image.tmdb.org/t/p/w500/tHvNX0SSyCW9MyPeWK5myc9lTLS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dMqbyB5GQvDujXiKdKPhWT0VTRw.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/stVrNgS9oVEkItQvYarPLW8jC1R.png",
+  "titulo": "Tierra de Osos 2",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.664,
+  "año": "2006",
+  "duracion": "1h 13min",
+  "edad_minima": 13,
+  "sinopsis": "La trama se centra de nuevo en Kenai (que había sido transformado en oso durante la primera parte) y sus aventuras en la pintoresca costa del Pacífico Norte al final de la Edad de Hielo. Kenai sueña repetidamente con su anterior vida como humano, cuando era niño y su mejor amiga era Nita, la hija del jefe de la tribu. Ahora ambos revivirán este pasado común cuando se ven obligados a embarcarse en una peligrosa aventura…",
+  "fecha_estreno": "2006-08-17",
+  "titulo_original": "Brother Bear 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Patrick Dempsey",
+      "personaje": "Kenai (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2PpaYtXdaDmNi3jap4qPIdyVesL.jpg"
+    },
+    {
+      "nombre": "Mandy Moore",
+      "personaje": "Nita (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2n0rqUGojRNEHrmtPeCEptHREEY.jpg"
+    },
+    {
+      "nombre": "Jeremy Suarez",
+      "personaje": "Koda (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/j8r6JTIS5lZvoajCiaSyF64gGlg.jpg"
+    },
+    {
+      "nombre": "Rick Moranis",
+      "personaje": "Rutt (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nCIh203hALUsQW44x3dzpjSA4yf.jpg"
+    },
+    {
+      "nombre": "Dave Thomas",
+      "personaje": "Tuke (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aUU8H9o4jgOyV7D6nULrEiwi6mV.jpg"
+    },
+    {
+      "nombre": "Andrea Martin",
+      "personaje": "Anda (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg"
+    },
+    {
+      "nombre": "Catherine O'Hara",
+      "personaje": "Kata (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg"
+    },
+    {
+      "nombre": "Wanda Sykes",
+      "personaje": "Innoko (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xEOqT5G2Rjedgux1qH65oEQcqId.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Carolyn Bates",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ben Gluck",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jim Ballantine",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Otsuki",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Rich Burns",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Carole Holliday",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Robert Lence",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Nick Filippi",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nick Kenway",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mary Locatell",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Dave Metzger",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Peter J. Deluca",
+      "rol": "Location Manager"
+    },
+    {
+      "nombre": "Adam Murphy",
+      "rol": "Supervising Animator"
+    },
+    {
+      "nombre": "Jerry Liew",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Karen Hathaway",
+      "rol": "Additional Editing"
+    },
+    {
+      "nombre": "Carol Lewis",
+      "rol": "Supervising ADR Editor"
+    },
+    {
+      "nombre": "Keith Rogers",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "James Aaron Finch",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Zhiqiang Ding",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Stefano Pastorino",
+      "rol": "Layout"
+    }
+  ],
+  "director": "Ben Gluck",
+  "valoraciones": {
+    "tmdb": 6.664,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DisneyToon Studios",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/6e/s8/2/U/D/w/F/UDwFx.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=BHCLOiotTA8"
+}
