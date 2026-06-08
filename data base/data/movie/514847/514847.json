@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 514847,
+  "poster": "https://image.tmdb.org/t/p/w500/5WCuPRfa0h8jMT4Iu2jIIQXqllM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/evo3crueRIK9Eutb3lnDLVbD2xD.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iITXEFNK0xHteOm1ZNlEXzj3pm7.png",
+  "titulo": "La Cacería",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.647,
+  "año": "2020",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "Doce desconocidos despiertan en el claro de un bosque. No se conocen, pero tienen algo en común: un grupo de millonarios los ha elegido para divertirse cazándolos como si fueran animales salvajes. No obstante, algunos venderán cara su piel.",
+  "fecha_estreno": "2020-03-11",
+  "titulo_original": "The Hunt",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Betty Gilpin",
+      "personaje": "Crystal",
+      "foto": "https://image.tmdb.org/t/p/w500/hBOviIHCVqbWyyPUoIxZohDl5SL.jpg"
+    },
+    {
+      "nombre": "Hilary Swank",
+      "personaje": "Athena",
+      "foto": "https://image.tmdb.org/t/p/w500/uin6aAehUGpPCiJCaSjZG8B7M7d.jpg"
+    },
+    {
+      "nombre": "Ethan Suplee",
+      "personaje": "Gary",
+      "foto": "https://image.tmdb.org/t/p/w500/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg"
+    },
+    {
+      "nombre": "Teri Wyble",
+      "personaje": "Liberty",
+      "foto": "https://image.tmdb.org/t/p/w500/zOdjLw4GCDRT2kswPXIHH4ZT6d.jpg"
+    },
+    {
+      "nombre": "Ike Barinholtz",
+      "personaje": "Staten Island",
+      "foto": "https://image.tmdb.org/t/p/w500/pxK1HXsQFfh3zT1KA3t6lEKMiZK.jpg"
+    },
+    {
+      "nombre": "Wayne Duvall",
+      "personaje": "Don",
+      "foto": "https://image.tmdb.org/t/p/w500/uZNSrzslzDQ6xlOFyphGlm5cH20.jpg"
+    },
+    {
+      "nombre": "Emma Roberts",
+      "personaje": "Yoga Pants",
+      "foto": "https://image.tmdb.org/t/p/w500/rUK616pPe8VGvAK0qmKOEbA3iIx.jpg"
+    },
+    {
+      "nombre": "Christopher Berry",
+      "personaje": "Target",
+      "foto": "https://image.tmdb.org/t/p/w500/8y2HybPVLxUabwnMPjdBREbitKZ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jason Blum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Craig Zobel",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Damon Lindelof",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nick Cuse",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Damon Lindelof",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ted Barba",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Joanna Bennett",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Nicolas Bosc",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Nick Brandon",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Nick Benseman",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Taran Butler",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Todd Bloomer",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ashley Nicole Hudson",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Chelsea Bruland",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Chris Bryant",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Cara Marie Chooljian",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Caitlin Dechelle",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Craig Zobel",
+  "valoraciones": {
+    "tmdb": 6.647,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Blumhouse Productions",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/G/D/A/w/GDAwn.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=xoWmwsPU5cQ"
+}
