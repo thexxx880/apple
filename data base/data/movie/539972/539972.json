@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 539972,
+  "poster": "https://image.tmdb.org/t/p/w500/gabWTSVhzltlKkmcqPoJmjKJxyb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hnN9tJ2wsevdGdr0QQh3lyfvPej.png",
+  "titulo": "Kraven el cazador",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.443,
+  "año": "2024",
+  "duracion": "2h 7min",
+  "edad_minima": 13,
+  "sinopsis": "El inmigrante ruso Sergei Kravinoff está en una misión para demostrar que es el mejor cazador del mundo.",
+  "fecha_estreno": "2024-12-11",
+  "titulo_original": "Kraven the Hunter",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Aaron Taylor-Johnson",
+      "personaje": "Sergei Kravinoff / Kraven the Hunter",
+      "foto": "https://image.tmdb.org/t/p/w500/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+    },
+    {
+      "nombre": "Ariana DeBose",
+      "personaje": "Calypso Ezili",
+      "foto": "https://image.tmdb.org/t/p/w500/sPJo4F7NxllcPD1oSi6uh9OpAyj.jpg"
+    },
+    {
+      "nombre": "Fred Hechinger",
+      "personaje": "Dmitri Kravinoff",
+      "foto": "https://image.tmdb.org/t/p/w500/nxQfwTWev2VzQJDdKHixPvwXiZS.jpg"
+    },
+    {
+      "nombre": "Alessandro Nivola",
+      "personaje": "Aleksei Sytsevich",
+      "foto": "https://image.tmdb.org/t/p/w500/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
+    },
+    {
+      "nombre": "Christopher Abbott",
+      "personaje": "The Foreigner",
+      "foto": "https://image.tmdb.org/t/p/w500/qWmlTycQb3yXaGhxPb6LCyaDjqh.jpg"
+    },
+    {
+      "nombre": "Russell Crowe",
+      "personaje": "Nikolai Kravinoff",
+      "foto": "https://image.tmdb.org/t/p/w500/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "nombre": "Юрий Колокольников",
+      "personaje": "Semyon Chorney",
+      "foto": "https://image.tmdb.org/t/p/w500/77g4exFoU4FvCWoWVgn6aXR01rA.jpg"
+    },
+    {
+      "nombre": "Levi Miller",
+      "personaje": "Young Sergei",
+      "foto": "https://image.tmdb.org/t/p/w500/5ovVnN2ffAWzwhZQKZWZWUgf6tZ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Art Marcum",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Matt Holloway",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Richard Wenk",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Richard Wenk",
+      "rol": "Story"
+    },
+    {
+      "nombre": "David B. Householter",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Tolmach",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "J.C. Chandor",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ben Davis",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Eve Stewart",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Michael Standish",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Pancho Chamorro",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Sammy Sheldon",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Carley Armstrong",
+      "rol": "Additional Script Supervisor"
+    },
+    {
+      "nombre": "Colin Nicolson",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Craig Wood",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Benjamin Wallfisch",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Nicola Chisholm",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Raylin Sabo",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mary Vernieu",
+      "rol": "Casting"
+    }
+  ],
+  "director": "J.C. Chandor",
+  "valoraciones": {
+    "tmdb": 6.443,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe1/bc/s8/2/Z/A/-/1/ZA-1w.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=Xy8-OQbl-oM"
+}
