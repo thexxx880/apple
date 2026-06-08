@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 10865,
+  "poster": "https://image.tmdb.org/t/p/w500/uR7AKWMDTwyAub5r4QoPPiJImvx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4eTiLRTYwAVQyQAjuFuf3BXAony.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/yfgO6QTChYR93I40d87V8wWdd41.png",
+  "titulo": "Atlantis: El imperio perdido",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.044,
+  "año": "2001",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "El equipo más altamente calificado del mundo de arqueólogos y de exploradores es conducido por el historiador Milo Thatch mientras que abordan el submarino increíble Ulysses de 1.000 pies y cabeza profundamente en los misterios del mar.",
+  "fecha_estreno": "2001-06-02",
+  "titulo_original": "Atlantis: The Lost Empire",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Michael J. Fox",
+      "personaje": "Milo James Thatch (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+    },
+    {
+      "nombre": "Cree Summer",
+      "personaje": "Princess 'Kida' Kidagakash (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7DRq0zPUUWu55pUbnc2roVnzOJ9.jpg"
+    },
+    {
+      "nombre": "James Garner",
+      "personaje": "Commander Lyle Tiberius Rourke (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8186fvIAGrIGqnvb49CgULo34G4.jpg"
+    },
+    {
+      "nombre": "Claudia Christian",
+      "personaje": "Helga Katrina Sinclair (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bwmh731OxEyzgtR95nRraLDZLyB.jpg"
+    },
+    {
+      "nombre": "Corey Burton",
+      "personaje": "Gaetan 'The Mole' Moliere (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+    },
+    {
+      "nombre": "Phil Morris",
+      "personaje": "Dr. Joshua Strongbear Sweet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iZADKc1QdCFpTvu0KnU3BZBwtrE.jpg"
+    },
+    {
+      "nombre": "Jacqueline Obradors",
+      "personaje": "Audrey Rocio Ramirez (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bBIqqNjgGmMAGp0Xn931EmO9Ij4.jpg"
+    },
+    {
+      "nombre": "Don Novello",
+      "personaje": "Vincenzo 'Vinny' Santorini (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bbpgxoJRexVFpCDEqtOJYaRH4zQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gary Trousdale",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kirk Wise",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tab Murphy",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bryce Zabel",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Kirk Wise",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Joss Whedon",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Gary Trousdale",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jackie Zabel",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ellen Keneshea",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Thomas Baker",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Dan Lund",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "David 'Joey' Mildenberger",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Marlon West",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Maria Gonzalez",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "Matsune Suzuki",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Rick Maki",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Kendra Haaland",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Mary Hidalgo",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ruth Lambert",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "John K. Carr",
+      "rol": "Supervising Sound Editor"
+    }
+  ],
+  "director": "Gary Trousdale",
+  "valoraciones": {
+    "tmdb": 7.044,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/f0/s8/2/e/T/D/J/eTDJx.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=DIA1OxnY3s4"
+}
