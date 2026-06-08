@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 10193,
+  "poster": "https://image.tmdb.org/t/p/w500/xNMYWGov98EySsv31FVEcnMKt9q.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/dyMikSay1U2znuhQrn6LYwsL0AG.png",
+  "titulo": "Toy Story 3",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.806,
+  "año": "2010",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "Los juguetes son entregados por error a una guardería en lugar del ático justo antes de que Andy se vaya a la universidad, y depende de Woody convencer a los otros juguetes de que no fueron abandonados y volver a casa.",
+  "fecha_estreno": "2010-06-16",
+  "titulo_original": "Toy Story 3",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Woody (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Tim Allen",
+      "personaje": "Buzz Lightyear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "nombre": "Joan Cusack",
+      "personaje": "Jessie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+    },
+    {
+      "nombre": "Don Rickles",
+      "personaje": "Mr. Potato Head (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iGMOVxIQoTPepRvqSCtRulfpx7u.jpg"
+    },
+    {
+      "nombre": "Wallace Shawn",
+      "personaje": "Rex (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "nombre": "John Ratzenberger",
+      "personaje": "Hamm (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    },
+    {
+      "nombre": "Estelle Harris",
+      "personaje": "Mrs. Potato Head (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8L9umRwdjVs9CysJW24hhm2wNZ2.jpg"
+    },
+    {
+      "nombre": "Blake Clark",
+      "personaje": "Slinky Dog (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pA4OZQPyATEX9AqZYUIOItQ447o.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lee Unkrich",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Darla K. Anderson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Arndt",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Lee Unkrich",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nick Sung",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Nicole Paradis Grindle",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Ken Schretzmann",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Natalie Lyon",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Bob Pauley",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Daisuke \"Dice\" Tsutsumi",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Steve Jobs",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Hayao Miyazaki",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Isao Takahata",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "鈴木敏夫",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Andrew Jimenez",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Terry Claborn",
+      "rol": "Color Timer"
+    }
+  ],
+  "director": "Lee Unkrich",
+  "valoraciones": {
+    "tmdb": 7.806,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://1a-1791.com/video/s8/2/M/m/N/Y/MmNYq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=2BlMNH1QTeE"
+}
