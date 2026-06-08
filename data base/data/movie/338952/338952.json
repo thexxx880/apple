@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 338952,
+  "poster": "https://image.tmdb.org/t/p/w500/p4BabO5lvfXnIsVIBLDpN2wLORz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/i3rRY0EKYhSpyOLRAQ7iB05zhAp.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/h7OvZAahEfrTFSDFgzH17hENPa.png",
+  "titulo": "Animales Fantásticos 2: Los Crímenes de Grindelwald",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.834,
+  "año": "2018",
+  "duracion": "2h 14min",
+  "edad_minima": 13,
+  "sinopsis": "Gellert Grindelwald ha escapado de la prisión y ha comenzado a reunir seguidores para su causa, elevando a los magos por encima de todos los seres no mágicos. El único capaz de detenerlo es el mago que una vez llamó su amigo más cercano, Albus Dumbledore.",
+  "fecha_estreno": "2018-11-14",
+  "titulo_original": "Fantastic Beasts: The Crimes of Grindelwald",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Eddie Redmayne",
+      "personaje": "Newt Scamander",
+      "foto": "https://image.tmdb.org/t/p/w500/fSvG7qzoBBnJUmgtIuMgrK3EQPN.jpg"
+    },
+    {
+      "nombre": "Katherine Waterston",
+      "personaje": "Tina Goldstein",
+      "foto": "https://image.tmdb.org/t/p/w500/5fIEhBldLuIkFK0R3USTzngyE3c.jpg"
+    },
+    {
+      "nombre": "Dan Fogler",
+      "personaje": "Jacob Kowalski",
+      "foto": "https://image.tmdb.org/t/p/w500/zJWbLEjfbDthBMucq9M6L4GJXL3.jpg"
+    },
+    {
+      "nombre": "Alison Sudol",
+      "personaje": "Queenie Goldstein",
+      "foto": "https://image.tmdb.org/t/p/w500/BNrfybwhIhN74JMTQL2CHstXkx.jpg"
+    },
+    {
+      "nombre": "Johnny Depp",
+      "personaje": "Grindelwald",
+      "foto": "https://image.tmdb.org/t/p/w500/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+    },
+    {
+      "nombre": "Jude Law",
+      "personaje": "Albus Dumbledore",
+      "foto": "https://image.tmdb.org/t/p/w500/1rTmD8B1YAE1MrrBJs4krIiIvNM.jpg"
+    },
+    {
+      "nombre": "Ezra Miller",
+      "personaje": "Credence Barebone",
+      "foto": "https://image.tmdb.org/t/p/w500/hLtxNK8eeWZkFSeaAASFWm15Qv0.jpg"
+    },
+    {
+      "nombre": "Zoë Kravitz",
+      "personaje": "Leta Lestrange",
+      "foto": "https://image.tmdb.org/t/p/w500/n0mhAgmY6eJQmA7kaugsTZEJgHo.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Yates",
+      "rol": "Director"
+    },
+    {
+      "nombre": "J.K. Rowling",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Steve Kloves",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lionel Wigram",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "J.K. Rowling",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Heyman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Fallows",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "John King",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Adrian Rigby",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Zoe Freed",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Kate Grimble",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Chris Lyons",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Andy Nelson",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Jutta Russell",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Sam Leake",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Helen Xenopoulos",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Lydia Fry",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Anita Burger",
+      "rol": "Hairstylist"
+    }
+  ],
+  "director": "David Yates",
+  "valoraciones": {
+    "tmdb": 6.834,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/v/7/j/O/v7jOn.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=8bYBOVWLNIs"
+}
