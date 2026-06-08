@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 57214,
+  "poster": "https://image.tmdb.org/t/p/w500/owF9NIcQOPFAOjp2pni8BsVlnRq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cUqXHZtnptgvyAE1hN47Wsf3ami.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tJAU588azDn0uDrIZ3b7qHA3xYM.png",
+  "titulo": "Proyecto X",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.9,
+  "año": "2012",
+  "duracion": "1h 28min",
+  "edad_minima": 13,
+  "sinopsis": "Tres estudiantes de un instituto deciden organizar una fiesta salvaje en casa de uno de ellos, promocionándola en las redes sociales como la fiesta más loca de la temporada. Además, los chicos deciden grabarla para luego publicarla en la red. Pero, poco a poco, irán surgiendo una serie de complicaciones imprevistas...",
+  "fecha_estreno": "2012-03-01",
+  "titulo_original": "Project X",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Thomas Mann",
+      "personaje": "Thomas Kub",
+      "foto": "https://image.tmdb.org/t/p/w500/cJO10vU19SL82pgMB6LdAijDSJv.jpg"
+    },
+    {
+      "nombre": "Oliver Cooper",
+      "personaje": "Costa",
+      "foto": "https://image.tmdb.org/t/p/w500/dZyCpnWaW7gkTWOyhGUgg1xy19y.jpg"
+    },
+    {
+      "nombre": "Jonathan Daniel Brown",
+      "personaje": "JB",
+      "foto": "https://image.tmdb.org/t/p/w500/jCcqeJBn2ygbnKv2YZtZiZN4Nfk.jpg"
+    },
+    {
+      "nombre": "Dax Flame",
+      "personaje": "Dax",
+      "foto": "https://image.tmdb.org/t/p/w500/z4maTsn8UfJ1QSWxA72EpJWZvO4.jpg"
+    },
+    {
+      "nombre": "Kirby Bliss Blanton",
+      "personaje": "Kirby",
+      "foto": "https://image.tmdb.org/t/p/w500/ocjvHecG7af2WxqUbZhWg6o4ZC9.jpg"
+    },
+    {
+      "nombre": "Brady Hender",
+      "personaje": "Everett",
+      "foto": "https://image.tmdb.org/t/p/w500/diYYejeaDe6SF6oOpLoTfCYxCGO.jpg"
+    },
+    {
+      "nombre": "Nick Nervies",
+      "personaje": "Tyler",
+      "foto": "https://image.tmdb.org/t/p/w500/zTKeeCxb5VemjVL9v9EQNJ03Jmp.jpg"
+    },
+    {
+      "nombre": "Alexis Knapp",
+      "personaje": "Alexis",
+      "foto": "https://image.tmdb.org/t/p/w500/dgbhsyMfvDzB4dB2TcA1tDYdwGh.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Bacall",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Michael Bacall",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Matt Drake",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Todd Phillips",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nima Nourizadeh",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Andrew Rona",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Richards",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeff Groth",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Scott Budnick",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Seth Yanklewitz",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Bill Brzeski",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Marty P. Ewing",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Juel Bestrop",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Alex Heineman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joel Silver",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Luci Romberg",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Naomi Peters",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Nima Nourizadeh",
+  "valoraciones": {
+    "tmdb": 6.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Silver Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/t/2/t/l/t2tls.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=8DeJ0_hcSXQ"
+}
