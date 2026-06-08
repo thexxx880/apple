@@ -1,0 +1,135 @@
+{
+  "id_tmdb": 56828,
+  "poster": "https://image.tmdb.org/t/p/w500/oiul6dw0tOkPW6EMPsZyLnvTqzA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/m5annmG2kgJdIt0VmjNcLArSfAC.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/i6Yq724NcvKkWHtGp146Jpp0GHe.png",
+  "titulo": "El laboratorio de Dexter: El viaje de Dexter",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Ciencia ficción",
+    "Película de TV",
+    "Acción",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.5,
+  "año": "1999",
+  "duracion": "0h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Después de que Dexter se enfrente a los robots que quieren \"destruir el que salvó el futuro\", utiliza su máquina del tiempo para ver cómo lo salvó.",
+  "fecha_estreno": "1999-12-17",
+  "titulo_original": "Dexter's Laboratory: Ego Trip",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Christine Cavanaugh",
+      "personaje": "Dexter / D22 / Old Man Dexter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8fDGffuBfbMTRTALHpSQQvuzSuO.jpg"
+    },
+    {
+      "nombre": "Eddie Deezen",
+      "personaje": "Mandark / Executive Mandark / Overlord Mandark / Braindark (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AqjxoV14Jd3p5uvPsSPoAHmzQHI.jpg"
+    },
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Mandark Robot / Dad / Robot #1 / Officer 9412 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "Kath Soucie",
+      "personaje": "Mom / Head Secretary (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dSE1JtsdA1aSgIIw415bsXtmkPg.jpg"
+    },
+    {
+      "nombre": "Kat Cressida",
+      "personaje": "Dee Dee (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/np4jO1Qdv5Ch6DuFeWy8ZYolQQl.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Curator / Village Man / Robot #2 / Computer / Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Genndy Tartakovsky",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Craig McCracken",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Genndy Tartakovsky",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Chris Savino",
+      "rol": "Story"
+    },
+    {
+      "nombre": "John McIntyre",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Amy Keating Rogers",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Paul Rudish",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Craig Kellman",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Paul Rudish",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Dan Krall",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Paul Rudish",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "David P. Smith",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Genndy Tartakovsky",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Chris Savino",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Steve Rucker",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Thomas Chase",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Genndy Tartakovsky",
+  "valoraciones": {
+    "tmdb": 7.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Hanna-Barbera Cartoons",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe1/c9/s8/2/a/t/0/w/at0wy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=1vRScRibZ1M"
+}
