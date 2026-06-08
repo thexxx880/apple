@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 301528,
+  "poster": "https://image.tmdb.org/t/p/w500/yF1vPDuHVrAUMX5dy1tVMbAjkEL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mb34rpLNTctV7FwGEKgLzdPMv8d.png",
+  "titulo": "Toy Story 4",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Comedia",
+    "Animación",
+    "Aventura"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.463,
+  "año": "2019",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando un nuevo juguete llamado «Forky» se une a Woody y a la pandilla, un viaje por carretera junto a viejos y nuevos amigos revela lo grande que puede ser el mundo para un juguete.",
+  "fecha_estreno": "2019-06-19",
+  "titulo_original": "Toy Story 4",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Woody (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Tim Allen",
+      "personaje": "Buzz Lightyear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "nombre": "Annie Potts",
+      "personaje": "Bo Peep (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hWIzkAH7jkSkxBfwdudxbSPxeno.jpg"
+    },
+    {
+      "nombre": "Tony Hale",
+      "personaje": "Forky (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg"
+    },
+    {
+      "nombre": "Keegan-Michael Key",
+      "personaje": "Ducky (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg"
+    },
+    {
+      "nombre": "Madeleine McGraw",
+      "personaje": "Bonnie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6pCrbeTe4evCfn08sOeukWs6xg9.jpg"
+    },
+    {
+      "nombre": "Christina Hendricks",
+      "personaje": "Gabby Gabby (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nwSh3NXQtUT3joHbCVwLvOoBxJG.jpg"
+    },
+    {
+      "nombre": "Jordan Peele",
+      "personaje": "Bunny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kFUKn5g3ebpyZ3CSZZZo2HFWRNQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Josh Cooley",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Stephany Folsom",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mark Nielsen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jonas Rivera",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Galyn Susman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Hyein Park",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Sajan Skaria",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Rashida Jones",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Gary Bruins",
+      "rol": "Effects Supervisor"
+    },
+    {
+      "nombre": "Thomas Jordan",
+      "rol": "Set Supervisor"
+    },
+    {
+      "nombre": "Jesse Hollander",
+      "rol": "Lighting Supervisor"
+    },
+    {
+      "nombre": "Stephany Folsom",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Will McCormack",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Steve Karski",
+      "rol": "Set Supervisor"
+    },
+    {
+      "nombre": "Valerie LaPointe",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Original Story"
+    }
+  ],
+  "director": "Josh Cooley",
+  "valoraciones": {
+    "tmdb": 7.463,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/R/V/M/r/RVMrn.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=Pl9JS8-gnWQ"
+}
