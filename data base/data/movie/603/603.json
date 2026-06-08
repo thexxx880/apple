@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 603,
+  "poster": "https://image.tmdb.org/t/p/w500/iTeyYMmNqukMzJJyEz0LkD85dQU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/lXMeUVvpo49g563COiVtK8I8u8r.png",
+  "titulo": "Matrix",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 8.247,
+  "año": "1999",
+  "duracion": "2h 11min",
+  "edad_minima": 13,
+  "sinopsis": "Un hacker informático aprende de misteriosos rebeldes la verdadera naturaleza de su realidad y su papel en la guerra contra sus controladores.",
+  "fecha_estreno": "1999-03-31",
+  "titulo_original": "The Matrix",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Keanu Reeves",
+      "personaje": "Neo",
+      "foto": "https://image.tmdb.org/t/p/w500/kEoUZKEG7dzbCESDjd0CKAN1r0n.jpg"
+    },
+    {
+      "nombre": "Laurence Fishburne",
+      "personaje": "Morpheus",
+      "foto": "https://image.tmdb.org/t/p/w500/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+      "nombre": "Carrie-Anne Moss",
+      "personaje": "Trinity",
+      "foto": "https://image.tmdb.org/t/p/w500/xD4jTA3KmVp5Rq3aHcymL9DUGjD.jpg"
+    },
+    {
+      "nombre": "Hugo Weaving",
+      "personaje": "Agent Smith",
+      "foto": "https://image.tmdb.org/t/p/w500/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+    },
+    {
+      "nombre": "Gloria Foster",
+      "personaje": "Oracle",
+      "foto": "https://image.tmdb.org/t/p/w500/AriGXtC9fjBOia9Zr8CZjn4o3rx.jpg"
+    },
+    {
+      "nombre": "Joe Pantoliano",
+      "personaje": "Cypher",
+      "foto": "https://image.tmdb.org/t/p/w500/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
+    },
+    {
+      "nombre": "Marcus Chong",
+      "personaje": "Tank",
+      "foto": "https://image.tmdb.org/t/p/w500/q9HQttibTj2MoXVtLjq2kKqmPrE.jpg"
+    },
+    {
+      "nombre": "Julian Arahanga",
+      "personaje": "Apoc",
+      "foto": "https://image.tmdb.org/t/p/w500/g2YkF3PWSJU1vTKuURBH0DOMblm.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Joel Silver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lana Wachowski",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lana Wachowski",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lilly Wachowski",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lilly Wachowski",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Don Davis",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Bill Pope",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Zach Staenberg",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mali Finn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Shauna Wolifson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Owen Paterson",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Hugh Bateup",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Michelle McGahey",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Lisa Brennan",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Kym Barrett",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "袁和平",
+      "rol": "Fight Choreographer"
+    },
+    {
+      "nombre": "Mal Booth",
+      "rol": "Dolly Grip"
+    }
+  ],
+  "director": "Lana Wachowski",
+  "valoraciones": {
+    "tmdb": 8.247,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Village Roadshow Pictures",
+  "enlace_video": "https://1a-1791.com/video/fwe2/3a/s8/2/Q/U/9/h/QU9hy.caa.mp4?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=FVI84Dfx2-I"
+}
