@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 77950,
+  "poster": "https://image.tmdb.org/t/p/w500/lDARMqluCrWaFgybY9KHLY96L3n.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dxmp5eHarPlNyeRyuzD6oMWqTjs.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rVX14MWjb9KLztzr3cbHBltNQvh.png",
+  "titulo": "Turbo",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.269,
+  "año": "2013",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "La historia de un caracol de jardín común que sueña con ganar el Indy 500.",
+  "fecha_estreno": "2013-07-11",
+  "titulo_original": "Turbo",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ryan Reynolds",
+      "personaje": "Turbo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+      "nombre": "Paul Giamatti",
+      "personaje": "Chet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+    },
+    {
+      "nombre": "Michael Peña",
+      "personaje": "Tito (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+    },
+    {
+      "nombre": "Samuel L. Jackson",
+      "personaje": "Whiplash (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+      "nombre": "Luis Guzmán",
+      "personaje": "Angelo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+    },
+    {
+      "nombre": "Bill Hader",
+      "personaje": "Guy Gagné (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg"
+    },
+    {
+      "nombre": "Snoop Dogg",
+      "personaje": "Smoove Move (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rbxBK2m6fEq0oHeMoBUMVYkJEdJ.jpg"
+    },
+    {
+      "nombre": "Maya Rudolph",
+      "personaje": "Burn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bpEVMFMyHEQ8wLdii9WKB279w8p.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Soren",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Darren Lemke",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Soren",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lisa Stewart",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert D. Siegel",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Guy Bar'ely",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nishant Khanna",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Heidi Jo Gilbert",
+      "rol": "Story Artist"
+    },
+    {
+      "nombre": "Andy Schuhler",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Josh LaBrot",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Chris Stover",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "James Ryan",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ennio Torresan Jr.",
+      "rol": "Head of Story"
+    },
+    {
+      "nombre": "Michael Isaak",
+      "rol": "Production Designer"
+    },
+    {
+      "nombre": "Sean Phillips",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Chris Stover",
+      "rol": "Head of Layout"
+    },
+    {
+      "nombre": "Richard Daskas",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Chris Leahy",
+      "rol": "Production Manager"
+    }
+  ],
+  "director": "David Soren",
+  "valoraciones": {
+    "tmdb": 6.269,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/09/s8/2/y/q/v/v/yqvvy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=VlRtm8Gh9PQ"
+}
