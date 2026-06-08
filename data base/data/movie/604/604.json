@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 604,
+  "poster": "https://image.tmdb.org/t/p/w500/ljaXjqT9h5i8b8NiN9kCAQl32Cg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ihOJcrorpDQtHTzIOrobbOhpJsj.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/pkeMAdRsq92hEM8vYXw6fUxQcxL.png",
+  "titulo": "Matrix recargado",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.076,
+  "año": "2003",
+  "duracion": "2h 18min",
+  "edad_minima": 13,
+  "sinopsis": "Neo y sus aliados corren contra el tiempo antes de que las máquinas descubran la ciudad de Zion y la destruyan. Mientras busca la verdad sobre la Matrix, Neo debe salvar a Trinity de un oscuro destino.",
+  "fecha_estreno": "2003-05-15",
+  "titulo_original": "The Matrix Reloaded",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Keanu Reeves",
+      "personaje": "Neo",
+      "foto": "https://image.tmdb.org/t/p/w500/kEoUZKEG7dzbCESDjd0CKAN1r0n.jpg"
+    },
+    {
+      "nombre": "Laurence Fishburne",
+      "personaje": "Morpheus",
+      "foto": "https://image.tmdb.org/t/p/w500/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+      "nombre": "Carrie-Anne Moss",
+      "personaje": "Trinity",
+      "foto": "https://image.tmdb.org/t/p/w500/xD4jTA3KmVp5Rq3aHcymL9DUGjD.jpg"
+    },
+    {
+      "nombre": "Hugo Weaving",
+      "personaje": "Agent Smith",
+      "foto": "https://image.tmdb.org/t/p/w500/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+    },
+    {
+      "nombre": "Jada Pinkett Smith",
+      "personaje": "Niobe",
+      "foto": "https://image.tmdb.org/t/p/w500/3RyvVVSlgRbZANDFkYiAsRMaHW.jpg"
+    },
+    {
+      "nombre": "Gloria Foster",
+      "personaje": "The Oracle",
+      "foto": "https://image.tmdb.org/t/p/w500/AriGXtC9fjBOia9Zr8CZjn4o3rx.jpg"
+    },
+    {
+      "nombre": "Harold Perrineau",
+      "personaje": "Link",
+      "foto": "https://image.tmdb.org/t/p/w500/bVSLpGUaislREbujmknOqadrxYM.jpg"
+    },
+    {
+      "nombre": "Monica Bellucci",
+      "personaje": "Persephone",
+      "foto": "https://image.tmdb.org/t/p/w500/7g3k3u2gZpE7XU8GRYwHDuN1jlM.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lana Wachowski",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lilly Wachowski",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joel Silver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lana Wachowski",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lilly Wachowski",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kym Barrett",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Kenny Alexander",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Barney Burman",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Richard Adrian",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Hank Amos",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Mali Finn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Shauna Wolifson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Owen Paterson",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Hugh Bateup",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ronald R. Reiss",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Zach Staenberg",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Bill Pope",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Lana Wachowski",
+  "valoraciones": {
+    "tmdb": 7.076,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Village Roadshow Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/A/I/B/9/AIB9m.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=zmYE3tg26Qc"
+}
