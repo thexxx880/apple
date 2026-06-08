@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1083381,
+  "poster": "https://image.tmdb.org/t/p/w500/w8nrM9hCTxoeX96HmTQpC0HbkMY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1jPGgz8D23V3BtNp5hObQ1D6pID.png",
+  "titulo": "Backrooms: Sin salida",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Misterio",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.834,
+  "año": "2026",
+  "duracion": "1h 51min",
+  "edad_minima": 13,
+  "sinopsis": "Una extraña puerta aparece en el sótano de una exposición de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para salvarlo.",
+  "fecha_estreno": "2026-05-27",
+  "titulo_original": "Backrooms",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chiwetel Ejiofor",
+      "personaje": "Clark",
+      "foto": "https://image.tmdb.org/t/p/w500/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+      "nombre": "Renate Reinsve",
+      "personaje": "Mary",
+      "foto": "https://image.tmdb.org/t/p/w500/q0ljTd4fyFSJKxPgmcrKtdg3HKo.jpg"
+    },
+    {
+      "nombre": "Mark Duplass",
+      "personaje": "Phil",
+      "foto": "https://image.tmdb.org/t/p/w500/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
+    },
+    {
+      "nombre": "Finn Bennett",
+      "personaje": "Bobby",
+      "foto": "https://image.tmdb.org/t/p/w500/p4ya77nmLlhS2cyPKUZi9zVD4Mu.jpg"
+    },
+    {
+      "nombre": "Lukita Maxwell",
+      "personaje": "Kat",
+      "foto": "https://image.tmdb.org/t/p/w500/g5g6XxUAtSdPfsJrSoFkl7vH51d.jpg"
+    },
+    {
+      "nombre": "Avan Jogia",
+      "personaje": "Naren Warne",
+      "foto": "https://image.tmdb.org/t/p/w500/7BX0Lg39bHlgtvWZpszTr1YjTAW.jpg"
+    },
+    {
+      "nombre": "Robert Bobroczkyi",
+      "personaje": "Pirate Clark",
+      "foto": "https://image.tmdb.org/t/p/w500/3SK7NuuBKR5PSJwsQ7HO4qHIM9C.jpg"
+    },
+    {
+      "nombre": "Ember Ambrose",
+      "personaje": "Young Mary",
+      "foto": "https://image.tmdb.org/t/p/w500/w7h6l4ltuWaMYanGgzwyhAHGL2y.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kane Parsons",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Cohen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Levine",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Clear",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Roberto Patino",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kori Adelson",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Judson Scott",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christopher White",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mica Kayde",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Alayna Glasthal",
+      "rol": "Executive In Charge Of Production"
+    },
+    {
+      "nombre": "Wittney Horton",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jeremy Cox",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Danny Vermette",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Trevor Johnston",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Eugenio Battaglia",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Eugenio Battaglia",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Eugenio Battaglia",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Edo van Breemen",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Kane Parsons",
+  "valoraciones": {
+    "tmdb": 6.834,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Atomic Monster",
+  "enlace_video": "https://rumble.com/hls-vod/78skae/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik"
+}
