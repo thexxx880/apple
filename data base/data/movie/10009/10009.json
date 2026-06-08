@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 10009,
+  "poster": "https://image.tmdb.org/t/p/w500/bAEQpqMCXss1UyAARCj2j6KwDOK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sZhY0BAsN1bMAPLIqMRqG1fqb3A.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/syBaZ0x9nrhFHifBUlHMGCWWbI7.png",
+  "titulo": "Tierra de Osos",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.275,
+  "año": "2003",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "En los bosques del noroeste americano vive un niño indio llamado Kenai, cuya vida sufre un giro inesperado cuando los Grandes Espíritus lo transforman en un oso, el animal que más odia. Kenai se hace amigo de un osezno llamado Koda y se propone recuperar su forma humana. Mientras, su hermano (que no sabe que Kenai es ahora un oso) lo persigue para cumplir una misión de venganza en la que está en juego el honor familiar.",
+  "fecha_estreno": "2003-10-23",
+  "titulo_original": "Brother Bear",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Joaquin Phoenix",
+      "personaje": "Kenai (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+    },
+    {
+      "nombre": "Jeremy Suarez",
+      "personaje": "Koda (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/j8r6JTIS5lZvoajCiaSyF64gGlg.jpg"
+    },
+    {
+      "nombre": "Jason Raize",
+      "personaje": "Denahi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4IpCfsu7KKlwlarrSsas13FTtWk.jpg"
+    },
+    {
+      "nombre": "Rick Moranis",
+      "personaje": "Rutt (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nCIh203hALUsQW44x3dzpjSA4yf.jpg"
+    },
+    {
+      "nombre": "Dave Thomas",
+      "personaje": "Tuke (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aUU8H9o4jgOyV7D6nULrEiwi6mV.jpg"
+    },
+    {
+      "nombre": "D. B. Sweeney",
+      "personaje": "Sitka (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/enY28APVRWfyHjGAkh6VCkYCWOA.jpg"
+    },
+    {
+      "nombre": "Joan Copeland",
+      "personaje": "Tanana (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/z0qihfXL6McofFreokXr3AjWTRf.jpg"
+    },
+    {
+      "nombre": "Michael Clarke Duncan",
+      "personaje": "Tug (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3RX8OBqt3gbvFwKYZqiom4O3Ta6.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Aaron Blaise",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robert Walker",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tab Murphy",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lorne Cameron",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chuck Williams",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Hoselton",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Steve Bencich",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ron J. Friedman",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Mancina",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Matthew Jon Beck",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mary Hidalgo",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tim Mertens",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Phil Collins",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Bill Perkins",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Matt Whitlock",
+      "rol": "Animation Manager"
+    },
+    {
+      "nombre": "Bruce Anderson",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Hans Bacher",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Richie Chavez",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Paul A. Felix",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Douglas Henderson",
+      "rol": "Visual Development"
+    }
+  ],
+  "director": "Aaron Blaise",
+  "valoraciones": {
+    "tmdb": 7.275,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Feature Animation",
+  "enlace_video": "https://1a-1791.com/video/fwe2/f2/s8/2/R/9/c/F/R9cFx.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=_w897MMkjPA"
+}
