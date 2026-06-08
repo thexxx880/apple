@@ -1,0 +1,106 @@
+{
+  "id_tmdb": 594530,
+  "poster": "https://image.tmdb.org/t/p/w500/kBIkCS3PQlHY86agofKY411jLM7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dRPCsvwgB1eyoBEtoGqulNhLd5C.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4b6ncOiSEVEKkg6BOvoaN72RFrd.png",
+  "titulo": "Toy Story: Vida de lámpara",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.1,
+  "año": "2020",
+  "duracion": "0h 38min",
+  "edad_minima": 13,
+  "sinopsis": "Bo Peep hace un gran regreso en Toy Story 4 de Disney y Pixar y lidera el camino en este nuevo cortometraje animado, finalmente contesta las preguntas sobre dónde estaba Bo desde la última vez que la vimos en Toy Story 2.  Cortometraje estrenado en Disney+",
+  "fecha_estreno": "2020-01-31",
+  "titulo_original": "Lamp Life",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Annie Potts",
+      "personaje": "Bo Peep (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hWIzkAH7jkSkxBfwdudxbSPxeno.jpg"
+    },
+    {
+      "nombre": "Ally Maki",
+      "personaje": "Giggles McDimples (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jLeL0NSbV1j0snQugmFGzXhFbmv.jpg"
+    },
+    {
+      "nombre": "Jim Hanks",
+      "personaje": "Woody (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/id2l65f7uTzRMOK109bXtuUN7Ai.jpg"
+    },
+    {
+      "nombre": "Emily Davis",
+      "personaje": "Billy, Goat and Gruff (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3drB6lTLBC9SeQr2bjbP4O0C5Sd.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Valerie LaPointe",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Marc Sondheimer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Valerie LaPointe",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Natalie Lyon",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jake Monaco",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Pete Docter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Gold",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Jonas Rivera",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Derek Williams",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Shawn Krause",
+      "rol": "Supervising Animator"
+    },
+    {
+      "nombre": "Serena Warner",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Vandana Reddy Sahrawat",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Valerie LaPointe",
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/6xu35q/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=S4NBWqFS3io"
+}
