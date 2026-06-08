@@ -1,0 +1,135 @@
+{
+  "id_tmdb": 213927,
+  "poster": "https://image.tmdb.org/t/p/w500/sYYQ9kS6Twvt0UcjxGLmBcq5k11.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/57JIik4WQJ4SFUgRm7q6X6USlSF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rNT3ESYekChg76JwP3On6xSlSVl.png",
+  "titulo": "Nacido para Correr: Velocidad Máxima",
+  "trending": false,
+  "generos": [
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.6,
+  "año": "2014",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2014-03-20",
+  "titulo_original": "Born to Race: Fast Track",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Beau Mirchoff",
+      "personaje": "Jake",
+      "foto": "https://image.tmdb.org/t/p/w500/8IYD2ECualPTzxaslhfnLPtPypZ.jpg"
+    },
+    {
+      "nombre": "Brett Davern",
+      "personaje": "Danny",
+      "foto": "https://image.tmdb.org/t/p/w500/a2WEosnrvpGbdOu45bFa3T5UQg2.jpg"
+    },
+    {
+      "nombre": "Bill Sage",
+      "personaje": "Frank",
+      "foto": "https://image.tmdb.org/t/p/w500/3q2r6eDcC843GgVHVA7mSehcqC9.jpg"
+    },
+    {
+      "nombre": "Sharon Lawrence",
+      "personaje": "Mrs Dalton",
+      "foto": "https://image.tmdb.org/t/p/w500/bLu3mjAJKDq8WE3QfspIvInKGVu.jpg"
+    },
+    {
+      "nombre": "Nicole Badaan",
+      "personaje": "Jessica",
+      "foto": "https://image.tmdb.org/t/p/w500/9l8nGUxtAeguR8C4PRsOI56ycj5.jpg"
+    },
+    {
+      "nombre": "Tiffany Dupont",
+      "personaje": "Michelle",
+      "foto": "https://image.tmdb.org/t/p/w500/97DhDQTExvIlmWDWcT5XL6qRj6Z.jpg"
+    },
+    {
+      "nombre": "Steve Bond",
+      "personaje": "Richard",
+      "foto": "https://image.tmdb.org/t/p/w500/5zvpeJ57n7MdJQuTid5OroZ1xgr.jpg"
+    },
+    {
+      "nombre": "Corbin Bernsen",
+      "personaje": "Liam",
+      "foto": "https://image.tmdb.org/t/p/w500/zkftLlEO5fmKmcKienRKw9Gx0U9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Steve Sarno",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Alex Ranarivelo",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ali Afshar",
+      "rol": "Story"
+    },
+    {
+      "nombre": "George Shamieh",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ali Afshar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "George Shamieh",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Ranarivelo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Steve Sarno",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Frank R. Gardner",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Chevonne O'Shaughnessy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Sarno",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "George Shamieh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Reuben Steinberg",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Daniel Duncan",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jamie Christopherson",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Alex Ranarivelo",
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Soundscape Media",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/N/C/9/u/NC9un.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=L2nHNJkTBHk"
+}
