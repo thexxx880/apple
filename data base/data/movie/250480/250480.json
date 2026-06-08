@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 250480,
+  "poster": "https://image.tmdb.org/t/p/w500/nxYMMFrFiqfj4YLbOHAidRZBI3f.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/19lyrve8NcorainRPLXELTDVnA2.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/yXWoodtKdIZ3lZfVmivfX8Oww8.png",
+  "titulo": "Las aventuras de Winnie Pooh",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.235,
+  "año": "1977",
+  "duracion": "1h 14min",
+  "edad_minima": 13,
+  "sinopsis": "En esta colección de cortos animados basados en las historias y personajes de A.A. Milne, Winnie the Pooh, un osito de peluche amante de la miel, se embarca en algunas aventuras excéntricas.",
+  "fecha_estreno": "1977-03-11",
+  "titulo_original": "The Many Adventures of Winnie the Pooh",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sterling Holloway",
+      "personaje": "Winnie the Pooh (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/86gGSpQcfgQrumwwvOmO6DtTWkP.jpg"
+    },
+    {
+      "nombre": "John Fiedler",
+      "personaje": "Piglet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/27sXisLWQJQ49PD40j89miNhL73.jpg"
+    },
+    {
+      "nombre": "Junius Matthews",
+      "personaje": "Rabbit (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wfMbR7I6xjzO8n1y0wv0rRop4Fc.jpg"
+    },
+    {
+      "nombre": "Paul Winchell",
+      "personaje": "Tigger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aZjzqTlzhBpcXogubUP8wcPE4Da.jpg"
+    },
+    {
+      "nombre": "Ralph Wright",
+      "personaje": "Eeyore (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Howard Morris",
+      "personaje": "Gopher (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nb50cjIZX1tBzXlXGWuzihKXgPB.jpg"
+    },
+    {
+      "nombre": "Bruce Reitherman",
+      "personaje": "Christopher Robin (Honey Tree) (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uNhDojXYNB1AvgJzhzKNXXD2o6c.jpg"
+    },
+    {
+      "nombre": "Jon Walmsley",
+      "personaje": "Christopher Robin (Blustery Day) (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/it5RT4JWBGDvOjYjvX1UTthlmUZ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John Lounsbery",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Vance Gerry",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Wolfgang Reitherman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Larry Clemmons",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Wolfgang Reitherman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ralph Wright",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ted Berman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Xavier Atencio",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Thurl Ravenscroft",
+      "rol": "Vocals"
+    },
+    {
+      "nombre": "Eric Cleworth",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Dale Baer",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Buddy Baker",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Frank Thomas",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Eric Larson",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Burny Mattinson",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Basil Davidovich",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Tom Acosta",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Edward Hansen",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Cliff Nordberg",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Chuck Williams",
+      "rol": "Animation"
+    }
+  ],
+  "director": "John Lounsbery",
+  "valoraciones": {
+    "tmdb": 7.235,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Productions",
+  "enlace_video": "https://1a-1791.com/video/fwe1/64/s8/2/l/0/e/i/l0eiy.gaa.mp4?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=CRSCO78EuFU"
+}
