@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 984324,
+  "poster": "https://image.tmdb.org/t/p/w500/6cKzsWfDtGj5BMHi1dN9EkGz4lJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jBPG5F5WW2qv5diBzxUr52sPMef.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7gZVMUDExA4H2GNLhQ9NjhR3Grp.png",
+  "titulo": "El salario del miedo",
+  "trending": false,
+  "generos": [
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.212,
+  "año": "2024",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando la explosión de un pozo petrolero amenaza cientos de vidas, un equipo de expertos debe transportar nitroglicerina en una travesía mortal por el desierto.",
+  "fecha_estreno": "2024-03-28",
+  "titulo_original": "Le salaire de la peur",
+  "pais_origen": "Belgium",
+  "reparto": [
+    {
+      "nombre": "Franck Gastambide",
+      "personaje": "Fred",
+      "foto": "https://image.tmdb.org/t/p/w500/jEf57uD2UG36m0aFkWXm3EMQq8l.jpg"
+    },
+    {
+      "nombre": "Alban Lenoir",
+      "personaje": "Alex",
+      "foto": "https://image.tmdb.org/t/p/w500/jOWPgqzpvsaxzgBNzDqs2RR5jI6.jpg"
+    },
+    {
+      "nombre": "Ana Girardot",
+      "personaje": "Clara",
+      "foto": "https://image.tmdb.org/t/p/w500/lzr5TqGOYF7KPaqS4kOpKrTmcex.jpg"
+    },
+    {
+      "nombre": "Sofiane Zermani",
+      "personaje": "Gauthier",
+      "foto": "https://image.tmdb.org/t/p/w500/rhR5k0dYeLROEZy1W7BdJj2fuUi.jpg"
+    },
+    {
+      "nombre": "Astrid Whettnall",
+      "personaje": "Anne Marchand",
+      "foto": "https://image.tmdb.org/t/p/w500/lvxnZOpCM70INgfCg5IwnKWG6wa.jpg"
+    },
+    {
+      "nombre": "Bakary Diombera",
+      "personaje": "Djibril",
+      "foto": "https://image.tmdb.org/t/p/w500/3huF1EzLjKDF58up144qsftH6YZ.jpg"
+    },
+    {
+      "nombre": "Alka Matewa",
+      "personaje": "Alka",
+      "foto": "https://image.tmdb.org/t/p/w500/t6uP9FhplUkd1D62VbxOR7Z9eWV.jpg"
+    },
+    {
+      "nombre": "Rabie Kati",
+      "personaje": "Homme d'affaires",
+      "foto": "https://image.tmdb.org/t/p/w500/r0mBb9mtYtJpiiO0JDdgpXEHDM9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Mikael Govciyan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Julien Leclercq",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Hamid Hlioua",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Julien Leclercq",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Julien Leclercq",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Julien Madon",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jonathan Delerue",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Fadwa Hakimi",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "Jérémy Senelier",
+      "rol": "Fight Choreographer"
+    },
+    {
+      "nombre": "Charles Fréville",
+      "rol": "Colorist"
+    },
+    {
+      "nombre": "Camille Arpajou",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Youssef Elyania",
+      "rol": "Lighting Technician"
+    },
+    {
+      "nombre": "Harry Makanga",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Mourad Bounassi",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ranya Targhy",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Valentine Kervagoret",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Maxime Badcock",
+      "rol": "Data Wrangler"
+    },
+    {
+      "nombre": "Simon Binaut",
+      "rol": "Digital Compositor"
+    }
+  ],
+  "director": "Julien Leclercq",
+  "valoraciones": {
+    "tmdb": 6.212,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "TF1 Studio",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/L/N/M/U/LNMUq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=9SX-jF6dTPU"
+}
