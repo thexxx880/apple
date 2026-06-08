@@ -1,0 +1,68 @@
+{
+  "id_tmdb": 1433593,
+  "poster": "https://image.tmdb.org/t/p/w500/y7cqcjztLFbrN4PUmSJYJjiDOwg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2pn7qTvwB47KAjRnj20g6oriARz.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aVGXt0DaxbaIrOvfcPKNGUlc0I2.png",
+  "titulo": "El hilo rojo",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.857,
+  "año": "2025",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Abril, una azafata rebelde y audaz, y Manuel, un tímido y tradicional empresario, se conocen en un avión y sienten instantáneamente una atracción innegable.",
+  "fecha_estreno": "2025-02-13",
+  "titulo_original": "El hilo rojo",
+  "pais_origen": "Argentina",
+  "reparto": [
+    {
+      "nombre": "Michel Brown",
+      "personaje": "Manuel",
+      "foto": "https://image.tmdb.org/t/p/w500/4a4KLHBaDbB8MHDCqOsKMfBqxDR.jpg"
+    },
+    {
+      "nombre": "Mario Morán",
+      "personaje": "Bruno",
+      "foto": "https://image.tmdb.org/t/p/w500/2ZyVrCWilJjIJ9GwVRSPQtNg1ea.jpg"
+    },
+    {
+      "nombre": "Carolina Miranda",
+      "personaje": "Abril",
+      "foto": "https://image.tmdb.org/t/p/w500/4lJzUpFW37ZcVuQfqKPdQ2djImP.jpg"
+    },
+    {
+      "nombre": "Maya Zapata",
+      "personaje": "Laura",
+      "foto": "https://image.tmdb.org/t/p/w500/sk1MsMBOoTDyu33JSJwllRPDYpA.jpg"
+    },
+    {
+      "nombre": "Pilar Santacruz",
+      "personaje": "Sofia",
+      "foto": "https://image.tmdb.org/t/p/w500/ee56FKySzipXCj8oo8A8DUNjznz.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Celso R. García",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Celso R. García",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [],
+  "director": "Celso R. García",
+  "valoraciones": {
+    "tmdb": 7.857,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "FAM Contenidos",
+  "enlace_video": "https://1a-1791.com/video/fwe1/e2/s8/2/2/l/d/W/2ldWx.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=D6T8629tKUs"
+}
