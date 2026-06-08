@@ -1,0 +1,154 @@
+{
+  "id_tmdb": 862,
+  "poster": "https://image.tmdb.org/t/p/w500/jvn7wy3RSNEXnFSXLpH2of2LcV6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/eX8LcW1zdjxvWNB5ZsZuhPO7NtP.png",
+  "titulo": "Toy Story",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Comedia",
+    "Animación",
+    "Aventura"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.976,
+  "año": "1995",
+  "duracion": "1h 21min",
+  "edad_minima": 13,
+  "sinopsis": "Un muñeco vaquero se siente profundamente amenazado y celoso cuando una nueva figura del hombre del espacio lo suplanta como juguete principal en el cuarto de un niño.",
+  "fecha_estreno": "1995-11-22",
+  "titulo_original": "Toy Story",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Woody (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Tim Allen",
+      "personaje": "Buzz Lightyear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "nombre": "Don Rickles",
+      "personaje": "Mr. Potato Head (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iGMOVxIQoTPepRvqSCtRulfpx7u.jpg"
+    },
+    {
+      "nombre": "Jim Varney",
+      "personaje": "Slinky Dog (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zvBFmvKUrPvE6FW35O3RP4i1ZPp.jpg"
+    },
+    {
+      "nombre": "Wallace Shawn",
+      "personaje": "Rex (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "nombre": "John Ratzenberger",
+      "personaje": "Hamm (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    },
+    {
+      "nombre": "Annie Potts",
+      "personaje": "Bo Peep (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hWIzkAH7jkSkxBfwdudxbSPxeno.jpg"
+    },
+    {
+      "nombre": "John Morris",
+      "personaje": "Andy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lSdNMhN3DoXEQJ37IeOD5mTMUQK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ralph Guggenheim",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alec Sokolow",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joel Cohen",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bonnie Arnold",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joss Whedon",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lee Unkrich",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ralph Eggleston",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Edwin Catmull",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Jobs",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jill Culton",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Pete Docter",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Jason Katz",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "William Joyce",
+      "rol": "Concept Artist"
+    },
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Bob Peterson",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Kelly Asbury",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Bob McKnight",
+      "rol": "Character Designer"
+    }
+  ],
+  "director": "John Lasseter",
+  "valoraciones": {
+    "tmdb": 7.976,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/w/8/0/Z/w80Zq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=CxwTLktovTU"
+}
