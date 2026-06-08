@@ -1,0 +1,133 @@
+{
+  "id_tmdb": 130925,
+  "poster": "https://image.tmdb.org/t/p/w500/6AVL53Y4o1W2zkSuP1dDrMw0KoP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sRPMsLAygtI3GlZS8fLERQrzIvk.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xCsu9I49UPxF0vGzgsNm1rMsBnf.png",
+  "titulo": "Toy Story Toons: Fiesta Saurus Rex",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.1,
+  "año": "2012",
+  "duracion": "0h 7min",
+  "edad_minima": 13,
+  "sinopsis": "Los juguetes creen que Rex es un aguafiestas, pero cuando Bonnie lo lleva con ella a la hora del baño, organiza una gran fiesta de burbujas. ¡El rey de la bañera es el legendario Fiestasaurio Rex!",
+  "fecha_estreno": "2012-09-14",
+  "titulo_original": "Partysaurus Rex",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Wallace Shawn",
+      "personaje": "Rex (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Woody (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Tim Allen",
+      "personaje": "Buzz Lightyear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "nombre": "Corey Burton",
+      "personaje": "Captain Suds (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+    },
+    {
+      "nombre": "Tony Cox",
+      "personaje": "Chuck E. Duck (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sbZS0gxvRsAIgHxIEL8STINpn7u.jpg"
+    },
+    {
+      "nombre": "Donald Fullilove",
+      "personaje": "Chuck E. Duck (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/b1UESEs3V0ZdquOg1upLeu3R7zz.jpg"
+    },
+    {
+      "nombre": "Emily Hahn",
+      "personaje": "Bonnie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eO7iESoZfevSi05tgOQUBuYRYZ.jpg"
+    },
+    {
+      "nombre": "Don Rickles",
+      "personaje": "Mr. Potato Head (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iGMOVxIQoTPepRvqSCtRulfpx7u.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Mark A. Walsh",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Mark A. Walsh",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Mark A. Walsh",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kimberly Adams",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "BT",
+      "rol": "Music"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Munier",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Axel Geddes",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "A.J. Riebli III",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Mark Dinicola",
+      "rol": "Color Timer"
+    },
+    {
+      "nombre": "Mickie McGowan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ronni Brown",
+      "rol": "Foley"
+    },
+    {
+      "nombre": "Susan Bradley",
+      "rol": "Title Designer"
+    }
+  ],
+  "director": "Mark A. Walsh",
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar Canada",
+  "enlace_video": "https://rumble.com/hls-vod/6xu38i/playlist.m3u8?u=0&b=0",
+  "trailer": ""
+}
