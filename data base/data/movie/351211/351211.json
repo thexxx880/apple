@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 351211,
+  "poster": "https://image.tmdb.org/t/p/w500/umYep3ZxgnyWZ2HZIvnaklynJjO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vFktlnv1cEKeyCuSLd02DVNUoRC.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6YPrS4MmsRVmmwv4kvASufBB8bw.png",
+  "titulo": "La bruja de Blair",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Terror"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.2,
+  "año": "2016",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "Un grupo de estudiantes universitarios se aventuran en Black Hills Forest en Maryland para descubrir los misterios que envuelven la desaparición de Heather, la hermana de James Donahue, quien muchos creen está conectada a la leyenda de la Bruja de Blair después de su desaparición hace 20 años. Al principio el grupo tiene esperanzas, especialmente cuando un par de locales se ofrecen a actuar como guías a través del oscuro bosque, pero mientras la interminable noche avanza, el grupo es atormentado por una presencia amenazante. Lentamente, el grupo empieza a entender que la leyenda es muy real y más siniestra de lo que pudieron haber imaginado.",
+  "fecha_estreno": "2016-09-15",
+  "titulo_original": "Blair Witch",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "James Allen McCune",
+      "personaje": "James Donahue",
+      "foto": "https://image.tmdb.org/t/p/w500/5BrP5vRfYl2X4wdXM2CEnh4BYx4.jpg"
+    },
+    {
+      "nombre": "Callie Hernandez",
+      "personaje": "Lisa Arlington",
+      "foto": "https://image.tmdb.org/t/p/w500/doMXlhTAYCy8gH43yYA6m9ymxhd.jpg"
+    },
+    {
+      "nombre": "Brandon Scott",
+      "personaje": "Peter Jones",
+      "foto": "https://image.tmdb.org/t/p/w500/a2c8lAKDLT8j5jVVjpAM66BMNkT.jpg"
+    },
+    {
+      "nombre": "Corbin Reid",
+      "personaje": "Ashley Bennett",
+      "foto": "https://image.tmdb.org/t/p/w500/n5uYkIG2QVXnq08V5qXJOP8jsXQ.jpg"
+    },
+    {
+      "nombre": "Valorie Curry",
+      "personaje": "Talia",
+      "foto": "https://image.tmdb.org/t/p/w500/jqBKANtzMt7xsmrTZ3be1sx9Ejv.jpg"
+    },
+    {
+      "nombre": "Wes Robinson",
+      "personaje": "Lane",
+      "foto": "https://image.tmdb.org/t/p/w500/wApcmnswXoBQiFdr5qzg0MN0VWX.jpg"
+    },
+    {
+      "nombre": "Heather Donahue",
+      "personaje": "Heather (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/Ootqoaw1eJF9cJ38FfAgblgJjh.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Adam Wingard",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Simon Barrett",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Steven Schneider",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Keith Calder",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Roy Lee",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jessica Wu",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Eduardo Sánchez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Myrick",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dean Morris",
+      "rol": "Best Boy Electrician"
+    },
+    {
+      "nombre": "Ken Decker",
+      "rol": "Generator Operator"
+    },
+    {
+      "nombre": "Martin Kostian",
+      "rol": "Best Boy Grip"
+    },
+    {
+      "nombre": "Mike Dubé",
+      "rol": "Rigging Gaffer"
+    },
+    {
+      "nombre": "Lesley DeHaan",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "Mark W. McCoy",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Gilbert Jamault",
+      "rol": "Generator Operator"
+    },
+    {
+      "nombre": "Bruno Huber",
+      "rol": "Generator Operator"
+    },
+    {
+      "nombre": "Roger Bailey",
+      "rol": "Generator Operator"
+    },
+    {
+      "nombre": "Paul Slatter",
+      "rol": "Gaffer"
+    }
+  ],
+  "director": "Adam Wingard",
+  "valoraciones": {
+    "tmdb": 5.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Vertigo Entertainment",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/67/s8/2/M/H/E/w/MHEwy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=tRsYzxjLmm0"
+}
