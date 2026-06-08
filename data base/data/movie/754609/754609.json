@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 754609,
+  "poster": "https://image.tmdb.org/t/p/w500/hZhYBbfjtEadc7d3BUwaZIiCuQ3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AhkirfgU32n0D1uxpaGYJEKy2Hu.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jW3e8Ib5gYnz52khuhdz1sVLVUf.png",
+  "titulo": "La Sra. Harris va a París",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Historia"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.3,
+  "año": "2022",
+  "duracion": "1h 56min",
+  "edad_minima": 13,
+  "sinopsis": "Narra la historia de una señora de la limpieza que enviuda en los años 50 en Londres, y se enamora perdidamente de un vestido de Dior. Decide que ella debe hacerse con uno.",
+  "fecha_estreno": "2022-07-15",
+  "titulo_original": "Mrs. Harris Goes to Paris",
+  "pais_origen": "Belgium",
+  "reparto": [
+    {
+      "nombre": "Lesley Manville",
+      "personaje": "Ada Harris",
+      "foto": "https://image.tmdb.org/t/p/w500/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
+    },
+    {
+      "nombre": "Isabelle Huppert",
+      "personaje": "Claudine Colbert",
+      "foto": "https://image.tmdb.org/t/p/w500/wGG9v1Uci3sfrbjt0bRXkLrTqjY.jpg"
+    },
+    {
+      "nombre": "Lambert Wilson",
+      "personaje": "Marquis de Chassagne",
+      "foto": "https://image.tmdb.org/t/p/w500/pFuLPZtgrKsnRXJCKWILQ69k6Ta.jpg"
+    },
+    {
+      "nombre": "Alba Baptista",
+      "personaje": "Natasha",
+      "foto": "https://image.tmdb.org/t/p/w500/gV5LYhN7BRc7xjySFek9gdm5tNA.jpg"
+    },
+    {
+      "nombre": "Lucas Bravo",
+      "personaje": "André Fauvel",
+      "foto": "https://image.tmdb.org/t/p/w500/uO6vMlJBMASyOQMisvnPehjsfJB.jpg"
+    },
+    {
+      "nombre": "Ellen Thomas",
+      "personaje": "Vi Butterfield",
+      "foto": "https://image.tmdb.org/t/p/w500/e6v4bPKptR3XgbcbfbqgXDfVJrL.jpg"
+    },
+    {
+      "nombre": "Rose Williams",
+      "personaje": "Pamela Penrose",
+      "foto": "https://image.tmdb.org/t/p/w500/6cm3NLBUhqqQLDldtIx9MayTpmS.jpg"
+    },
+    {
+      "nombre": "Jason Isaacs",
+      "personaje": "Archie",
+      "foto": "https://image.tmdb.org/t/p/w500/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Xavier Marchand",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Anthony Fabian",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Carroll Cartwright",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Anthony Fabian",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Guillaume Benski",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Keith Thompson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Olivia Hetreed",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Anthony Fabian",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rael Jones",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jenny Beavan",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Paul Gallico",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Felix Wiedemann",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Rima Horton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jane Hooks",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Philippe Carcassonne",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Barney Pilling",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Beata Saboova",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan Halperyn",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Daniel Kresmery",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jen Gorton",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Anthony Fabian",
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Superbe Films",
+  "enlace_video": "https://rumble.com/hls-vod/78rr6g/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=XnHfmVGkybo"
+}
