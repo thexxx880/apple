@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 37135,
+  "poster": "https://image.tmdb.org/t/p/w500/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/a0E1mbejev56Ii51hCnYUDj4tZS.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7vebYZaw6n0a4sduyt5nCKD6wb0.png",
+  "titulo": "Tarzán",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.406,
+  "año": "1999",
+  "duracion": "1h 28min",
+  "edad_minima": 13,
+  "sinopsis": "Un hombre criado por gorilas debe decidir a dónde pertenece realmente cuando descubre que es un humano.",
+  "fecha_estreno": "1999-06-17",
+  "titulo_original": "Tarzan",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tony Goldwyn",
+      "personaje": "Tarzan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg"
+    },
+    {
+      "nombre": "Minnie Driver",
+      "personaje": "Jane Porter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2uwaHwpoutbXMuYY5v2dhWU0hml.jpg"
+    },
+    {
+      "nombre": "Glenn Close",
+      "personaje": "Kala (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg"
+    },
+    {
+      "nombre": "Alex D. Linz",
+      "personaje": "Young Tarzan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/e07pks0wdcyqXzkFT0q1HEAwVwn.jpg"
+    },
+    {
+      "nombre": "Rosie O'Donnell",
+      "personaje": "Terk (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qawjdFSn1FzrFhRNxeDhZnnj91n.jpg"
+    },
+    {
+      "nombre": "Brian Blessed",
+      "personaje": "Clayton (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3mLIr94V5IOA5ndY6GyqKKcyrX6.jpg"
+    },
+    {
+      "nombre": "Nigel Hawthorne",
+      "personaje": "Professor Archimedes Q. Porter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/v8bin2HUa9gayqxmCnlRlh0taxq.jpg"
+    },
+    {
+      "nombre": "Lance Henriksen",
+      "personaje": "Kerchak (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bob Tzudiker",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chris Buck",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tab Murphy",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kevin Lima",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Noni White",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bonnie Arnold",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Edgar Rice Burroughs",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "James Baker",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Trevor Tamboline",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Chung Sup Yoon",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Andrew Egiziano",
+      "rol": "Production Office Assistant"
+    },
+    {
+      "nombre": "Randy Sanchez",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Caroline Cruikshank",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "James P. Alles",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Johan Klingler",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Jay Jackson",
+      "rol": "Supervising Animator"
+    },
+    {
+      "nombre": "Rick Maki",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Jeff Johnson",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Mary Hidalgo",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Chris Buck",
+  "valoraciones": {
+    "tmdb": 7.406,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/m/u/Q/7/muQ7k.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=JYOMf4SS2oA"
+}
