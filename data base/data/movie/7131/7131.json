@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 7131,
+  "poster": "https://image.tmdb.org/t/p/w500/fqorDWIwBBwMvLTZXxUWgrEyGWy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/d72ROyJqXQtw2OupW0l15eicRAF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/apbB4YyRatrO4MRLyWUXlXagR4K.png",
+  "titulo": "Van Helsing: Cazador de monstruos",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Aventura",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.416,
+  "año": "2004",
+  "duracion": "2h 12min",
+  "edad_minima": 13,
+  "sinopsis": "‎¡El legendario cazador de monstruos Van Helsing (Hugh Jackman) es convocado a la misteriosa Transilvania en una misión que lo empujará a una batalla arrolladora contra las fuerzas de la oscuridad! Con acción sin parar y efectos especiales electrizantes, Van Helsing es un evento cinematográfico impulsado por la adrenalina que Roger Ebert llama \"¡Espectacular!\"‎",
+  "fecha_estreno": "2004-05-03",
+  "titulo_original": "Van Helsing",
+  "pais_origen": "Czech Republic",
+  "reparto": [
+    {
+      "nombre": "Hugh Jackman",
+      "personaje": "Van Helsing",
+      "foto": "https://image.tmdb.org/t/p/w500/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg"
+    },
+    {
+      "nombre": "Kate Beckinsale",
+      "personaje": "Anna Valerious",
+      "foto": "https://image.tmdb.org/t/p/w500/nUZuC2chd5PVw2tLxePZ6uaLbhx.jpg"
+    },
+    {
+      "nombre": "Richard Roxburgh",
+      "personaje": "Count Vladislaus Dracula",
+      "foto": "https://image.tmdb.org/t/p/w500/de1XpxnOuW4v4fFWFEjmBqmHaRf.jpg"
+    },
+    {
+      "nombre": "Josie Maran",
+      "personaje": "Marishka",
+      "foto": "https://image.tmdb.org/t/p/w500/tnkLlB1hQMsk0mgXzmQs7c7p1zV.jpg"
+    },
+    {
+      "nombre": "David Wenham",
+      "personaje": "Carl",
+      "foto": "https://image.tmdb.org/t/p/w500/F7CWSqUE75HtrcdqIQ7UMZ9aTX.jpg"
+    },
+    {
+      "nombre": "Shuler Hensley",
+      "personaje": "Frankenstein's Monster",
+      "foto": "https://image.tmdb.org/t/p/w500/qMSTFvK0GzUZrwN7UhuYYQ8evr2.jpg"
+    },
+    {
+      "nombre": "Elena Anaya",
+      "personaje": "Aleera",
+      "foto": "https://image.tmdb.org/t/p/w500/gHOyYUmwBbprs7woavfFHhNs0u0.jpg"
+    },
+    {
+      "nombre": "Kevin J. O'Connor",
+      "personaje": "Igor",
+      "foto": "https://image.tmdb.org/t/p/w500/9ZO0QYkxjhThd8IVqSJw7gHyQ68.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bob Ducsay",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Stephen Sommers",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Stephen Sommers",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Stephen Sommers",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lou Kleinman",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Alan Silvestri",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Matt McColm",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Billy D. Lucas",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Steve Arnold",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ellen Lewis",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kelly Matsumoto",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Bob Ducsay",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Priscilla John",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Nena Smarz",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Joanna Colbert",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Gabriella Pescucci",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "Stephen Sommers",
+  "valoraciones": {
+    "tmdb": 6.416,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/1/l/h/p/1lhpt.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=W6C6qcCW2JE"
+}
