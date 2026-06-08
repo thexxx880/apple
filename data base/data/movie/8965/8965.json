@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 8965,
+  "poster": "https://image.tmdb.org/t/p/w500/cGL75ElUUClVs8kpXbVcaUxmgbd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/GDTwA5FBvVUOjCGKoNDMflbs3Z.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jXuAu3R6nlVhaf8WBOwEGMpn2Zs.png",
+  "titulo": "Atlantis: El Regreso de Milo",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Animación",
+    "Ciencia ficción",
+    "Familia",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.333,
+  "año": "2003",
+  "duracion": "1h 20min",
+  "edad_minima": 13,
+  "sinopsis": "Tres historias diferentes cobran vida en esta secuela de la exitosa aventura de Disney. Explorer Milo Thatch, su nuevo amor, la reina Kida, y el resto del equipo se están preparando para reconstruir la ciudad submarina. Pero el problema surge. Aprovechando el poder del cristal de la Atlántida, los aventureros se dispusieron a defender su reino contra las fuerzas oscuras que amenazan con la arena, el mar y la nieve.",
+  "fecha_estreno": "2003-02-25",
+  "titulo_original": "Atlantis: Milo's Return",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "James Arnold Taylor",
+      "personaje": "Milo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sSthBDGT8HBd2hXRNPymA6D0ov8.jpg"
+    },
+    {
+      "nombre": "Cree Summer",
+      "personaje": "Kida (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7DRq0zPUUWu55pUbnc2roVnzOJ9.jpg"
+    },
+    {
+      "nombre": "John Mahoney",
+      "personaje": "Whitmore (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+    },
+    {
+      "nombre": "Jacqueline Obradors",
+      "personaje": "Audrey / Nurse (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bBIqqNjgGmMAGp0Xn931EmO9Ij4.jpg"
+    },
+    {
+      "nombre": "Don Novello",
+      "personaje": "Vinny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bbpgxoJRexVFpCDEqtOJYaRH4zQ.jpg"
+    },
+    {
+      "nombre": "Corey Burton",
+      "personaje": "Mole (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+    },
+    {
+      "nombre": "Phil Morris",
+      "personaje": "Sweet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iZADKc1QdCFpTvu0KnU3BZBwtrE.jpg"
+    },
+    {
+      "nombre": "Florence Stanley",
+      "personaje": "Packard (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yTntdhPTbELMrqjgdEftDFw8WSD.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Victor Cook",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tad Stones",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Thomas Hart",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Henry Gilroy",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kevin Hopps",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Tad Stones",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Steve Englehart",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Marty Isenberg",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Don L. Harper",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "David Reynolds",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "John Royer",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Karafilis",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Tad Stones",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "William C. Turner",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Craig Sawczuk",
+      "rol": "Post Production Supervisor"
+    }
+  ],
+  "director": "Victor Cook",
+  "valoraciones": {
+    "tmdb": 6.333,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney Television Animation",
+  "enlace_video": "https://rumble.com/hls-vod/6xu2yy/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=2om1hDsDekY"
+}
