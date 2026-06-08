@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 744857,
+  "poster": "https://image.tmdb.org/t/p/w500/9Ly4S99McgnhO50XikTGguPFNvo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cavK9ox37pxDg11RvJINMH63onU.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/A6TCApVFBHZEWdXcRd56tCnNTLg.png",
+  "titulo": "Cuando acecha la maldad",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.141,
+  "año": "2023",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Los vecinos de un pequeño pueblo rural descubren que un demonio está a punto de nacer entre ellos. Intentan desesperadamente escapar antes de que nazca el mal, pero puede que sea demasiado tarde.",
+  "fecha_estreno": "2023-10-05",
+  "titulo_original": "Cuando acecha la maldad",
+  "pais_origen": "Argentina",
+  "reparto": [
+    {
+      "nombre": "Ezequiel Rodríguez",
+      "personaje": "Pedro",
+      "foto": "https://image.tmdb.org/t/p/w500/pTse3nUKhLOwPvfot1XpQSQt9WI.jpg"
+    },
+    {
+      "nombre": "Demián Salomón",
+      "personaje": "Jimi",
+      "foto": "https://image.tmdb.org/t/p/w500/g46etxsCXXYOUM1cLbonkg3R65R.jpg"
+    },
+    {
+      "nombre": "Silvina Sabater",
+      "personaje": "Mirtha",
+      "foto": "https://image.tmdb.org/t/p/w500/zR2uy9fOUakHBVh9A5XqMYqTSR9.jpg"
+    },
+    {
+      "nombre": "Luis Ziembrowski",
+      "personaje": "Ruíz",
+      "foto": "https://image.tmdb.org/t/p/w500/8ePSSKG8Kjf6ZEnANnWhCXwu6Jv.jpg"
+    },
+    {
+      "nombre": "Marcelo Michinaux",
+      "personaje": "Santino",
+      "foto": "https://image.tmdb.org/t/p/w500/rvbPCyfbnTc9mWhGYYiGSmQ3O0K.jpg"
+    },
+    {
+      "nombre": "Emilio Vodanovich",
+      "personaje": "Jair",
+      "foto": "https://image.tmdb.org/t/p/w500/qOcPVNL06vqCaIbzaEo2dzhpTC2.jpg"
+    },
+    {
+      "nombre": "Virginia Garófalo",
+      "personaje": "Sabrina",
+      "foto": "https://image.tmdb.org/t/p/w500/6nMiFdETne2r01SePJecF0mTQlS.jpg"
+    },
+    {
+      "nombre": "Paula Rubinsztein",
+      "personaje": "Sara",
+      "foto": "https://image.tmdb.org/t/p/w500/dkEjTFVgDR0rsrHvafu8pu4xdde.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Fernando Díaz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Roxana Ramos",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Demián Rugna",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Demián Rugna",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Samuel Zimmerman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Teodoro Gryner",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Ricardo Lutsich",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Fernando Díaz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Laura Aguerrebehere",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Elizabet Gora",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Pablo Isola",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Lionel Cornistein",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Emily Gotto",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carlos Diaz",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Teodoro Gryner",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Roxana Ramos",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Demián Rugna",
+  "valoraciones": {
+    "tmdb": 7.141,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Machaco Films",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/R/O/0/7/RO07p.caa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=ezHUtaIlgvY"
+}
