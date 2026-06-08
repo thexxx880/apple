@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 11544,
+  "poster": "https://image.tmdb.org/t/p/w500/9jrmKyhNGam2pj89bcxmhQzXCNo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7HY2dPCI46NPZt3APMCZMDWXUZL.png",
+  "titulo": "Lilo y Stitch",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.561,
+  "año": "2002",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "Una chica joven y sin padres adopta un «perro» de la perrera local, sin saber que supuestamente es un peligroso experimento científico que se ha refugiado en la Tierra y que ahora se esconde de su creador y de quienes lo ven como una amenaza.",
+  "fecha_estreno": "2002-06-21",
+  "titulo_original": "Lilo & Stitch",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Daveigh Chase",
+      "personaje": "Lilo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3PVQPEc6nXNX2eoW2UbsfVikc7H.jpg"
+    },
+    {
+      "nombre": "Chris Sanders",
+      "personaje": "Stitch (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6CtrIOCxggJ5eIAWeFQqd4Hs9FP.jpg"
+    },
+    {
+      "nombre": "Tia Carrere",
+      "personaje": "Nani (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oAIyl8U6bMvID8gJKskeKmLB1cA.jpg"
+    },
+    {
+      "nombre": "David Ogden Stiers",
+      "personaje": "Jumba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg"
+    },
+    {
+      "nombre": "Kevin McDonald",
+      "personaje": "Pleakley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ymwrW99x9gyN0zeRkqavt3lZMa9.jpg"
+    },
+    {
+      "nombre": "Ving Rhames",
+      "personaje": "Cobra Bubbles (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+      "nombre": "Zoe Caldwell",
+      "personaje": "Grand Councilwoman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vukuSt1kVgGC8sTOU44BUrqiLhN.jpg"
+    },
+    {
+      "nombre": "Jason Scott Lee",
+      "personaje": "David Kawena (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7jObZCM3diuPV0WlKkzOd4uE2CJ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Clark Spencer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Sanders",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Dean DeBlois",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chris Sanders",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Dean DeBlois",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Darren T. Holmes",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Alan Silvestri",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Andreas Deja",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Rob Bekuhrs",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "John Sanford",
+      "rol": "Story Artist"
+    },
+    {
+      "nombre": "Byron Howard",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Robert E. Stanton",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Eric Guaglione",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Christine Lawrence Finney",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Robert Walker",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Arden Chan",
+      "rol": "Layout Supervisor"
+    },
+    {
+      "nombre": "Philip S. Boyd",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Chris Sanders",
+  "valoraciones": {
+    "tmdb": 7.561,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/c1/s8/2/Q/w/Y/G/QwYGx.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=wAtaSKQ4-T0"
+}
