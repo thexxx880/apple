@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 863,
+  "poster": "https://image.tmdb.org/t/p/w500/x75DO6UHi3gExlqVm7VmtFAa99U.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7iUDfakacY1HpajP1DtHrCuDB95.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/2HDKKUCf98rRpzJq2KuThyGZ9hr.png",
+  "titulo": "Toy Story 2",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.608,
+  "año": "1999",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando Woody es robado por un coleccionista de juguetes, Buzz y sus amigos emprenden una misión de rescate para salvar a Woody antes de que se convierta en una propiedad de un museo de juguetes con su pandilla de redadas Jessie, el oloroso Pete y Tiro al blanco.",
+  "fecha_estreno": "1999-10-30",
+  "titulo_original": "Toy Story 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Woody (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Tim Allen",
+      "personaje": "Buzz Lightyear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "nombre": "Joan Cusack",
+      "personaje": "Jessie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+    },
+    {
+      "nombre": "Kelsey Grammer",
+      "personaje": "Prospector (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5zik4VJim6YTSWDjC7tkp13wxUp.jpg"
+    },
+    {
+      "nombre": "Don Rickles",
+      "personaje": "Mr. Potato Head (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iGMOVxIQoTPepRvqSCtRulfpx7u.jpg"
+    },
+    {
+      "nombre": "Jim Varney",
+      "personaje": "Slinky Dog (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zvBFmvKUrPvE6FW35O3RP4i1ZPp.jpg"
+    },
+    {
+      "nombre": "Wallace Shawn",
+      "personaje": "Rex (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "nombre": "John Ratzenberger",
+      "personaje": "Hamm (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Doug Chamberlin",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Rita Hsiao",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Karen Robert Jackson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Helene Plotkin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Webb",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sharon Calahan",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "David Ian Salter",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Lee Unkrich",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ruth Lambert",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jim Pearson",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Sarah McArthur",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "William Cone",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mary Hidalgo",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Daryl Tucker",
+      "rol": "Camera Department Production Assistant"
+    },
+    {
+      "nombre": "Michael Parks",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Anthony Scott",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Lisa Jaime",
+      "rol": "Music Editor"
+    }
+  ],
+  "director": "John Lasseter",
+  "valoraciones": {
+    "tmdb": 7.608,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://1a-1791.com/video/s8/2/x/4/P/Y/x4PYq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=qHo5y0FFBuE"
+}
