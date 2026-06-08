@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 61979,
+  "poster": "https://image.tmdb.org/t/p/w500/nNoMfNPnvEzGADXDkP6eJAP81KB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2Mq10FWFbxoYgsZysWlw7T9wSNe.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uh1tfUH7CIXly652qKTzlbSfj2.png",
+  "titulo": "Tres Metros Sobre El Cielo",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.726,
+  "año": "2010",
+  "duracion": "2h 2min",
+  "edad_minima": 13,
+  "sinopsis": "Historia de dos jóvenes que pertenecen a mundos diferentes. Es la crónica de un amor improbable, casi imposible pero inevitable arrastrando en un viaje frenético descubren el primer gran amor. Babi (Maria Valverde) es una chica de clase media alta que se educa en la bondad y la inocencia. Hache (Mario Casas) es un niño rebelde, impulsivo, inconsciente, tiene un apetito de riesgo y peligro encarnado en peleas interminables y carreras ilegales de motos, el límite del sentido común",
+  "fecha_estreno": "2010-12-03",
+  "titulo_original": "Tres metros sobre el cielo",
+  "pais_origen": "Spain",
+  "reparto": [
+    {
+      "nombre": "Mario Casas",
+      "personaje": "H.",
+      "foto": "https://image.tmdb.org/t/p/w500/y0H8jDiOZqYKZkamv2z4cV9FLsl.jpg"
+    },
+    {
+      "nombre": "María Valverde",
+      "personaje": "Babi",
+      "foto": "https://image.tmdb.org/t/p/w500/8taDDUCiyggIWhq8wGy2v0b9Nt8.jpg"
+    },
+    {
+      "nombre": "Álvaro Cervantes",
+      "personaje": "Pollo",
+      "foto": "https://image.tmdb.org/t/p/w500/6RAiI4SXIMxLRM1RejLJzMPK7wa.jpg"
+    },
+    {
+      "nombre": "Marina Salas",
+      "personaje": "Katina",
+      "foto": "https://image.tmdb.org/t/p/w500/z8gCkzgavPFd5pW2gsuKvSV5yKk.jpg"
+    },
+    {
+      "nombre": "Luis Fernández",
+      "personaje": "El Chino",
+      "foto": "https://image.tmdb.org/t/p/w500/sqY7Tf9rlTR6zMZ7h5P9uGIfARF.jpg"
+    },
+    {
+      "nombre": "Andrea Duro",
+      "personaje": "Mara",
+      "foto": "https://image.tmdb.org/t/p/w500/7Ue8HGRxpRb8juaNNCWJEH8Fkca.jpg"
+    },
+    {
+      "nombre": "Nerea Camacho",
+      "personaje": "Daniela",
+      "foto": "https://image.tmdb.org/t/p/w500/4bMIQl4qshVZbIJt1KUvOQDt8f5.jpg"
+    },
+    {
+      "nombre": "Diego Martín",
+      "personaje": "Alejandro",
+      "foto": "https://image.tmdb.org/t/p/w500/vLCrfjWAS6cjN3CUE7p3HYPYoev.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Fernando González Molina",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ramón Salazar",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Francisco Ramos",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Daniel Écija",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Álex Pina",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mercedes Gamero",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Daniel Aranyó",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Tonucha Vidal",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Irene Blecua",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Giovanni Stabilini",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marco Chimenz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Loles García Galeán",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Patrick Ghislain",
+      "rol": "Foley Mixer"
+    },
+    {
+      "nombre": "David Calleja",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Antonio Higueruelo",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Rexal Ford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Riccardo Tozzi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Verónica Callón",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Fernando González Molina",
+  "valoraciones": {
+    "tmdb": 7.726,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Zeta Studios",
+  "enlace_video": "https://rumble.com/hls-vod/78rq8s/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=pfp-OyS9Djc"
+}
