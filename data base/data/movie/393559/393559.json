@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 393559,
+  "poster": "https://image.tmdb.org/t/p/w500/dKRtEi8YleBEZeBGOsYzoq8QW3h.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lTOr8fcxlsLrGfe2lqZLCjhvrIH.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/taflOgMVx75mL8GuMqQLUviQtnN.png",
+  "titulo": "La vida de Calabacín",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.8,
+  "año": "2016",
+  "duracion": "1h 6min",
+  "edad_minima": 13,
+  "sinopsis": "Después de la muerte de su madre, Zucchini se hace amigo de un amable policía, Raymond, que lo acompaña a su nuevo hogar de acogida lleno de otros huérfanos de su edad. Allí, con la ayuda de sus nuevos amigos, Zucchini finalmente aprende a confiar y amar mientras busca una nueva familia propia.",
+  "fecha_estreno": "2016-09-22",
+  "titulo_original": "Ma vie de courgette",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Gaspard Schlatter",
+      "personaje": "Courgette (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bSnQeyc5EGoDiXlcTLKFiD0eZbh.jpg"
+    },
+    {
+      "nombre": "Sixtine Murat",
+      "personaje": "Camille (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9gElEKcPwO3d9hpnogIQLh4wq1c.jpg"
+    },
+    {
+      "nombre": "Paulin Jaccoud",
+      "personaje": "Simon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wfVtzWoYEulOdOl90Xq03xHeEoH.jpg"
+    },
+    {
+      "nombre": "Michel Vuillermoz",
+      "personaje": "Raymond (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/taceJtAsZSPKqv3q2TL9AsiP8dI.jpg"
+    },
+    {
+      "nombre": "Raul Ribera",
+      "personaje": "Ahmed (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Estelle Hennard",
+      "personaje": "Alice (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Elliot Sanchez",
+      "personaje": "Jujube (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Lou Wick",
+      "personaje": "Béatrice (voice)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kateryna Merkt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Claude Barras",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Céline Sciamma",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Armelle Glorennec",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Max Karli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michel Merkt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pauline Gygax",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marc Bonny",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Cristina Acuña",
+      "rol": "Set Dresser"
+    },
+    {
+      "nombre": "Ludovic Chemarin",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Delphine Daumas",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Olesya Shchukina",
+      "rol": "Set Painter"
+    },
+    {
+      "nombre": "Fabrice Faivre",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Fernando Lira Sarabia",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Jérôme Vittoz",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Marie-Lou Pahud",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Maxime Fossier",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Marie-Eve Hildbrand",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Elías Fernández Salomón",
+      "rol": "Electrician"
+    },
+    {
+      "nombre": "Eric Jacquot",
+      "rol": "Co-Producer"
+    }
+  ],
+  "director": "Claude Barras",
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gébéka Films",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/2c/s8/2/0/D/g/v/0Dgvy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=cc0E4d13EkU"
+}
