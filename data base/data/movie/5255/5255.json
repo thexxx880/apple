@@ -1,0 +1,154 @@
+{
+  "id_tmdb": 5255,
+  "poster": "https://image.tmdb.org/t/p/w500/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vElEYlOkh84RVLh1ak73IURAb2J.png",
+  "titulo": "El expreso polar",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 6.724,
+  "año": "2004",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "En Nochebuena, un niño se embarca en una aventura mágica hacia el Polo Norte en el Expreso Polar, mientras aprende sobre la amistad, la valentía y el espíritu de la Navidad.",
+  "fecha_estreno": "2004-11-10",
+  "titulo_original": "The Polar Express",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Hero Boy (Adult)/ Father / Conductor / Hobo / Scrooge / Santa Claus",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Leslie Zemeckis",
+      "personaje": "Sister Sarah / Mother",
+      "foto": "https://image.tmdb.org/t/p/w500/1bUcEr76agVCsWpMDbfll78biaW.jpg"
+    },
+    {
+      "nombre": "Eddie Deezen",
+      "personaje": "Know-It-All",
+      "foto": "https://image.tmdb.org/t/p/w500/AqjxoV14Jd3p5uvPsSPoAHmzQHI.jpg"
+    },
+    {
+      "nombre": "Nona Gaye",
+      "personaje": "Hero Girl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nD6Gawyx0QOQIKsFtJXBWMzjLw3.jpg"
+    },
+    {
+      "nombre": "Peter Scolari",
+      "personaje": "Billy / Lonely Boy",
+      "foto": "https://image.tmdb.org/t/p/w500/r9sBCkb6hSinCpgWC7lu5XTJEfc.jpg"
+    },
+    {
+      "nombre": "Michael Jeter",
+      "personaje": "Smokey / Steamer",
+      "foto": "https://image.tmdb.org/t/p/w500/pNBf8X56wCOHH7cArsMYJuke4fO.jpg"
+    },
+    {
+      "nombre": "Josh Hutcherson",
+      "personaje": "Hero Boy (motion capture)",
+      "foto": "https://image.tmdb.org/t/p/w500/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+    },
+    {
+      "nombre": "Daryl Sabara",
+      "personaje": "Hero Boy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eZfWmQqNgmuveRWSYuvnQyLXM0d.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Steve Starkey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Teitler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Gary Goetzman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Broyles Jr.",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joanna Johnston",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jeremiah O'Driscoll",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Chris Van Allsburg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom Hanks",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jack Rapke",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Doug Chiang",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Don Burgess",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "R. Orlando Duenas",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Alan Silvestri",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Scot Boland",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Robert Presley",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Victoria Burrows",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Robert Zemeckis",
+  "valoraciones": {
+    "tmdb": 6.724,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Golden Mean",
+  "enlace_video": "https://1a-1791.com/video/s8/2/k/D/Q/Z/kDQZn.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=f0oyHtZiJJs"
+}
