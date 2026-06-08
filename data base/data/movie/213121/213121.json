@@ -1,0 +1,122 @@
+{
+  "id_tmdb": 213121,
+  "poster": "https://image.tmdb.org/t/p/w500/95DhuBXvxILLcNpmbF2CeTnZYzC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hrjLiSuPPj4rPPn13Aj9sgAzw.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vnKwnnNjquVlv7A9akAya5QbNjo.png",
+  "titulo": "Toy Story de Terror",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.205,
+  "año": "2013",
+  "duracion": "0h 22min",
+  "edad_minima": 13,
+  "sinopsis": "Un divertido viaje se desvía hacía un motel de carretera, donde Woody, Buzz, Jessie y la pandilla desaparecen misteriosamente.",
+  "fecha_estreno": "2013-10-16",
+  "titulo_original": "Toy Story of Terror!",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Joan Cusack",
+      "personaje": "Jessie (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+    },
+    {
+      "nombre": "Carl Weathers",
+      "personaje": "Combat Carl / Combat Carl Jr. (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9Tot1ywxTQA3vFCcAjyK6h9Dao3.jpg"
+    },
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Woody (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Tim Allen",
+      "personaje": "Buzz Lightyear (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "nombre": "Stephen Tobolowsky",
+      "personaje": "Ron (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uL8yfcm0dCFYFQt052kczVQVvac.jpg"
+    },
+    {
+      "nombre": "Don Rickles",
+      "personaje": "Mr. Potato Head (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iGMOVxIQoTPepRvqSCtRulfpx7u.jpg"
+    },
+    {
+      "nombre": "Wallace Shawn",
+      "personaje": "Rex (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "nombre": "Timothy Dalton",
+      "personaje": "Mr. Pricklepants (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rKYQd6ihqWiOaCHEDrvgV2VPtAo.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Galyn Susman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Angus MacLane",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Angus MacLane",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Erick Oh",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven Clay Hunter",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Michael Giacchino",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Kevin O'Brien",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Tom Myers",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Carrie Hobson",
+      "rol": "Art Direction Intern"
+    }
+  ],
+  "director": "Angus MacLane",
+  "valoraciones": {
+    "tmdb": 7.205,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://rumble.com/hls-vod/6xu3fm/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=0PmoiC8ensA"
+}
