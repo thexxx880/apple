@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 1339713,
+  "poster": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vXo3Fd8Bl9v9OsHetfvwGGI6YGT.png",
+  "titulo": "Obsesión",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.9,
+  "año": "2026",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.",
+  "fecha_estreno": "2026-05-13",
+  "titulo_original": "Obsession",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Michael Johnston",
+      "personaje": "Baron 'Bear' Bailey",
+      "foto": "https://image.tmdb.org/t/p/w500/fbpcCkBzu43kMdlXxEAMuLhseL8.jpg"
+    },
+    {
+      "nombre": "Inde Navarrette",
+      "personaje": "Nikki Freeman",
+      "foto": "https://image.tmdb.org/t/p/w500/dOyn0C1bUIZiXy2Q4ws04kB1RhS.jpg"
+    },
+    {
+      "nombre": "Cooper Tomlinson",
+      "personaje": "Ian",
+      "foto": "https://image.tmdb.org/t/p/w500/vBMQbYT1DyWPCUp11dIiqZR9zhd.jpg"
+    },
+    {
+      "nombre": "Megan Lawless",
+      "personaje": "Sarah Harper",
+      "foto": "https://image.tmdb.org/t/p/w500/kOhHRpinPXVd8Up9MuACcfyJLQ1.jpg"
+    },
+    {
+      "nombre": "Andy Richter",
+      "personaje": "Carter",
+      "foto": "https://image.tmdb.org/t/p/w500/5Qr7N6TzC8cI0ULxDm6EC5GpZ4C.jpg"
+    },
+    {
+      "nombre": "Haley Fitzgerald",
+      "personaje": "Viola",
+      "foto": "https://image.tmdb.org/t/p/w500/tdwhaT8jpQ7tIZDUxtlOPzy1HKJ.jpg"
+    },
+    {
+      "nombre": "Darin Toonder",
+      "personaje": "Harry",
+      "foto": "https://image.tmdb.org/t/p/w500/bD7Y9T7Y6XwDXjGJ8Suabyt1ZGo.jpg"
+    },
+    {
+      "nombre": "Anthony Pavone",
+      "personaje": "Reggie",
+      "foto": "https://image.tmdb.org/t/p/w500/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Curry Barker",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Curry Barker",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "James Harris",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christian Mercuri",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Haley Nicole Johnson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Roman Viaris-de-Lesegno",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Curry Barker",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ruzanna Kegeyan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Haring",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Leonora Darby",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Taylor Clemons",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Cooper Tomlinson",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Vivian Gray",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Sally Choi",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Blair James",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Allie Shehorn",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Grayson Alamango Shapiro",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Ricardo Padilla",
+      "rol": "Second Assistant Director"
+    }
+  ],
+  "director": "Curry Barker",
+  "valoraciones": {
+    "tmdb": 7.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Tea Shop Productions",
+  "enlace_video": "https://rumble.com/hls-vod/78sjwe/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
+}
