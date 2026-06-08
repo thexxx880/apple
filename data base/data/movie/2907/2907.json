@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 2907,
+  "poster": "https://image.tmdb.org/t/p/w500/sf0ABx2RewFdLi5QJEdRIfL8cBn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/l2Yvmy5xkCNuz8ZFGbKgimzHIbH.png",
+  "titulo": "Los Locos Addams",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Fantasía"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.068,
+  "año": "1991",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "El delirante y gótico estilo de vida de la peculiar familia Addams se ve amenazado peligrosamente cuando el codicioso dúo que forman madre e hijo, con la ayuda de un abogado sin ningún escrúpulos, conspiran para hacerse con la fortuna familiar.",
+  "fecha_estreno": "1991-11-22",
+  "titulo_original": "The Addams Family",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Raúl Juliá",
+      "personaje": "Gomez Addams",
+      "foto": "https://image.tmdb.org/t/p/w500/zRvv5vdqCxdio38gx0WWmof4cO5.jpg"
+    },
+    {
+      "nombre": "Anjelica Huston",
+      "personaje": "Morticia Addams",
+      "foto": "https://image.tmdb.org/t/p/w500/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg"
+    },
+    {
+      "nombre": "Christopher Lloyd",
+      "personaje": "Uncle Fester",
+      "foto": "https://image.tmdb.org/t/p/w500/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+    },
+    {
+      "nombre": "Dan Hedaya",
+      "personaje": "Tully Alford",
+      "foto": "https://image.tmdb.org/t/p/w500/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
+    },
+    {
+      "nombre": "Elizabeth Wilson",
+      "personaje": "Abigail Craven",
+      "foto": "https://image.tmdb.org/t/p/w500/8jiCTMxqiL1YwPVBqo0Pe2ZOixk.jpg"
+    },
+    {
+      "nombre": "Judith Malina",
+      "personaje": "Granny",
+      "foto": "https://image.tmdb.org/t/p/w500/nMXmUmvkavejiqWzNPicgG1IU50.jpg"
+    },
+    {
+      "nombre": "Carel Struycken",
+      "personaje": "Lurch",
+      "foto": "https://image.tmdb.org/t/p/w500/lmVuJQVeNVQo9x05WKLYmFBCpwA.jpg"
+    },
+    {
+      "nombre": "Dana Ivey",
+      "personaje": "Margaret Alford",
+      "foto": "https://image.tmdb.org/t/p/w500/oQEeRwEb9w4TuSVp334OP9z6Ljm.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Barry Sonnenfeld",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Caroline Thompson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Larry Wilson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Scott Rudin",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marc Shaiman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Owen Roizman",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Richard Macdonald",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Margie Stone McShirley",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Graham Place",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dede Allen",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jim Miller",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Owen Walstrom",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Charles Addams",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Annie Ellis",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Gregory J. Barnett",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Bill Bernstein",
+      "rol": "Thanks"
+    }
+  ],
+  "director": "Barry Sonnenfeld",
+  "valoraciones": {
+    "tmdb": 7.068,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/6/7/r/O/67rOn.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=A6X4VAHdDVg"
+}
