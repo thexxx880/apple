@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 921,
+  "poster": "https://image.tmdb.org/t/p/w500/eUVLNdIYUy8JQVIqmX5adJns2JF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oO5sMDETneOPCneX3jfXMFfPh9E.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/royfFmkx0yc2YCVjjzhnDTBUSky.png",
+  "titulo": "El Luchador",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Drama",
+    "Historia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.572,
+  "año": "2005",
+  "duracion": "2h 24min",
+  "edad_minima": 13,
+  "sinopsis": "Basada en una historia real. Después de haberse retirado del boxeo, James J. Braddock decidió volver al cuadrilátero, en la época de la Gran Depresión, para poder alimentar a su familia. No era un boxeador con talento, pero su coraje, sacrificio y dignidad lo llevaron hasta la cumbre.",
+  "fecha_estreno": "2005-06-02",
+  "titulo_original": "Cinderella Man",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Russell Crowe",
+      "personaje": "Jim Braddock",
+      "foto": "https://image.tmdb.org/t/p/w500/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "nombre": "Renée Zellweger",
+      "personaje": "Mae Braddock",
+      "foto": "https://image.tmdb.org/t/p/w500/iNnPqkEF0hPWhmWpjyuLuUdbKN8.jpg"
+    },
+    {
+      "nombre": "Paul Giamatti",
+      "personaje": "Joe Gould",
+      "foto": "https://image.tmdb.org/t/p/w500/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+    },
+    {
+      "nombre": "Craig Bierko",
+      "personaje": "Max Baer",
+      "foto": "https://image.tmdb.org/t/p/w500/btsSJRxc0i7Xty1R0iCYOnbTuDE.jpg"
+    },
+    {
+      "nombre": "Paddy Considine",
+      "personaje": "Mike Wilson",
+      "foto": "https://image.tmdb.org/t/p/w500/uIKOm4w2wtUegxratSHj2KPFF7i.jpg"
+    },
+    {
+      "nombre": "Bruce McGill",
+      "personaje": "Jimmy Johnston",
+      "foto": "https://image.tmdb.org/t/p/w500/j4mn0fPdhhXfRqQwheAwCU8Hwrm.jpg"
+    },
+    {
+      "nombre": "David Huband",
+      "personaje": "Ford Bond",
+      "foto": "https://image.tmdb.org/t/p/w500/ArFPUIHyPibOCBjqZXMZvrEX6ZF.jpg"
+    },
+    {
+      "nombre": "Connor Price",
+      "personaje": "Jay Braddock",
+      "foto": "https://image.tmdb.org/t/p/w500/3MBZt788uPKllU6jYnoD8jdRqDv.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ron Howard",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Brian Grazer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ron Howard",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Penny Marshall",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Akiva Goldsman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Cliff Hollingsworth",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Cliff Hollingsworth",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Thomas Newman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Salvatore Totino",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Daniel P. Hanley",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mike Hill",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Janet Hirshenson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jane Jenkins",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Diane Kerbel",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Wynn Thomas",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Peter Grundy",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Dan Yarhi",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Gordon Sim",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Daniel Orlandi",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "Ron Howard",
+  "valoraciones": {
+    "tmdb": 7.572,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/c5/s8/2/W/Y/x/v/WYxvy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=PpdRWplFjG8"
+}
