@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 111,
+  "poster": "https://image.tmdb.org/t/p/w500/wemlYqPEbPXmolbv2I9tPwIrD3C.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1qM2BYNE11Viby8ImC9LC00DgDr.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/cqicmDZG6mh6lE3w2hFbYta9c0H.png",
+  "titulo": "Caracortada",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.156,
+  "año": "1983",
+  "duracion": "2h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Tony Montana es un emigrante cubano frío e implacable que se instala en Miami con el propósito de convertirse en un gángster importante, y poder así ganar dinero y posición. Con la colaboración de su amigo Manny Rivera inicia una fulgurante carrera delictiva, como traficante de cocaína, con el objetivo de acceder a la cúpula de una organización de narcos.",
+  "fecha_estreno": "1983-12-09",
+  "titulo_original": "Scarface",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Al Pacino",
+      "personaje": "Tony Montana",
+      "foto": "https://image.tmdb.org/t/p/w500/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+    },
+    {
+      "nombre": "Steven Bauer",
+      "personaje": "Manny Ray",
+      "foto": "https://image.tmdb.org/t/p/w500/eMSeKPgfilE2v5VcmwSt5pxbp0x.jpg"
+    },
+    {
+      "nombre": "Michelle Pfeiffer",
+      "personaje": "Elvira",
+      "foto": "https://image.tmdb.org/t/p/w500/khpWT4F4Nj0QEuVPP1P2Zgz41G2.jpg"
+    },
+    {
+      "nombre": "Mary Elizabeth Mastrantonio",
+      "personaje": "Gina",
+      "foto": "https://image.tmdb.org/t/p/w500/vbZ1E557K5oj34xLHR5ErO8wPCi.jpg"
+    },
+    {
+      "nombre": "Robert Loggia",
+      "personaje": "Frank Lopez",
+      "foto": "https://image.tmdb.org/t/p/w500/mRSUgJnfprCNw83pyVfpfW7ryfK.jpg"
+    },
+    {
+      "nombre": "Miriam Colon",
+      "personaje": "Mama Montana",
+      "foto": "https://image.tmdb.org/t/p/w500/9jnz7htVMCTDNRDmoi2mdOKv6Pj.jpg"
+    },
+    {
+      "nombre": "F. Murray Abraham",
+      "personaje": "Omar",
+      "foto": "https://image.tmdb.org/t/p/w500/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+    },
+    {
+      "nombre": "Paul Shenar",
+      "personaje": "Alejandro Sosa",
+      "foto": "https://image.tmdb.org/t/p/w500/kc0I4h9fTY8WP3wyQbwVWEzbmil.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Brian De Palma",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Oliver Stone",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Martin Bregman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ferdinando Scarfiotti",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Gerald B. Greenberg",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Bruce Weintraub",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Alixe Gordin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Edward Richardson",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Patricia Norris",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "John A. Alonzo",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "David Ray",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Giorgio Moroder",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Louis A. Stroller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Janet Brady",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "David Burton",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Brian De Palma",
+  "valoraciones": {
+    "tmdb": 8.156,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe1/24/s8/2/S/X/G/N/SXGNx.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=lZMIrD36MG8"
+}
