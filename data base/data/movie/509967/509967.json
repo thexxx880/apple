@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 509967,
+  "poster": "https://image.tmdb.org/t/p/w500/ug4XukdNLwD9Ygyw4V0L5DjoNAp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eFw5YSorHidsajLTayo1noueIxI.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6Vmu2aet72T6aWvLGwqFYY56yMa.png",
+  "titulo": "Escuadrón 6",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Suspense"
+  ],
+  "calificacion": "R",
+  "puntuacion": 6.334,
+  "año": "2019",
+  "duracion": "2h 7min",
+  "edad_minima": 13,
+  "sinopsis": "Un multimillonario genio de la tecnología simula su muerte y conforma un equipo internacional para derrocar a un cruel dictador en una misión arriesgada y sangrienta.",
+  "fecha_estreno": "2019-12-10",
+  "titulo_original": "6 Underground",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ryan Reynolds",
+      "personaje": "One",
+      "foto": "https://image.tmdb.org/t/p/w500/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+      "nombre": "Mélanie Laurent",
+      "personaje": "Two",
+      "foto": "https://image.tmdb.org/t/p/w500/i99ogEo4gQyanCmHWYYoS6hsUqL.jpg"
+    },
+    {
+      "nombre": "Manuel Garcia-Rulfo",
+      "personaje": "Three",
+      "foto": "https://image.tmdb.org/t/p/w500/54Rk1hKfNdNKGHQMnONDGmNtUv3.jpg"
+    },
+    {
+      "nombre": "Ben Hardy",
+      "personaje": "Four",
+      "foto": "https://image.tmdb.org/t/p/w500/b20ijbr2tbqlGvqZgkCpNZ5AYvS.jpg"
+    },
+    {
+      "nombre": "Adria Arjona",
+      "personaje": "Five",
+      "foto": "https://image.tmdb.org/t/p/w500/hzu7OqTmNCT1xdCdmwBSf2yJvaO.jpg"
+    },
+    {
+      "nombre": "Dave Franco",
+      "personaje": "Six",
+      "foto": "https://image.tmdb.org/t/p/w500/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg"
+    },
+    {
+      "nombre": "Corey Hawkins",
+      "personaje": "Seven",
+      "foto": "https://image.tmdb.org/t/p/w500/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+    },
+    {
+      "nombre": "ליאור רז",
+      "personaje": "Rovach Alimov",
+      "foto": "https://image.tmdb.org/t/p/w500/bl3KLFUQ4Q0zC9lCU4qP1Jf4qHS.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rhett Reese",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Paul Wernick",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Michael Bay",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Ellison",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Bay",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Don Granger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ian Bryce",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gilberto Siena",
+      "rol": "Set Costumer"
+    },
+    {
+      "nombre": "Maria Gnecchi",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jason Inman",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Dessy Slavova",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Christian Antolin",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "Nancy Thurston",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Phong Giang",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jeffrey Beecroft",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Bojan Bazelli",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Adrian Bell",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Roger Barton",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Matthew Cohan",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Michael Bay",
+  "valoraciones": {
+    "tmdb": 6.334,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Skydance Media",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/d9/s8/2/L/x/G/W/LxGWx.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=XcIuFTrLS6g"
+}
