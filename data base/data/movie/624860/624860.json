@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 624860,
+  "poster": "https://image.tmdb.org/t/p/w500/vOtof1B74SUzCPZBVQl1CLwBDCQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/goHrQrkdGXeYhagOQ0xeUHRLOf4.png",
+  "titulo": "Matrix resurrecciones",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.333,
+  "año": "2021",
+  "duracion": "2h 28min",
+  "edad_minima": 13,
+  "sinopsis": "El retorno a un mundo de dos realidades: una, la vida cotidiana; la otra, lo que hay detrás de ella. Para descubrir si su realidad es un constructo, para verdaderamente conocerse a sí mismo, el Sr. Anderson deberá elegir seguir al conejo blanco una vez más.",
+  "fecha_estreno": "2021-12-16",
+  "titulo_original": "The Matrix Resurrections",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Keanu Reeves",
+      "personaje": "Neo / Thomas Anderson",
+      "foto": "https://image.tmdb.org/t/p/w500/kEoUZKEG7dzbCESDjd0CKAN1r0n.jpg"
+    },
+    {
+      "nombre": "Carrie-Anne Moss",
+      "personaje": "Trinity / Tiffany",
+      "foto": "https://image.tmdb.org/t/p/w500/xD4jTA3KmVp5Rq3aHcymL9DUGjD.jpg"
+    },
+    {
+      "nombre": "Yahya Abdul-Mateen II",
+      "personaje": "Morpheus / Agent Smith",
+      "foto": "https://image.tmdb.org/t/p/w500/79VdVjUoiYGcgjOT9UmE5XIpoZM.jpg"
+    },
+    {
+      "nombre": "Jonathan Groff",
+      "personaje": "Smith",
+      "foto": "https://image.tmdb.org/t/p/w500/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+    },
+    {
+      "nombre": "Jessica Henwick",
+      "personaje": "Bugs",
+      "foto": "https://image.tmdb.org/t/p/w500/rfUrgDyHWHlrfvdxiVg8Vooudnd.jpg"
+    },
+    {
+      "nombre": "Neil Patrick Harris",
+      "personaje": "The Analyst",
+      "foto": "https://image.tmdb.org/t/p/w500/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
+    },
+    {
+      "nombre": "Jada Pinkett Smith",
+      "personaje": "Niobe",
+      "foto": "https://image.tmdb.org/t/p/w500/3RyvVVSlgRbZANDFkYiAsRMaHW.jpg"
+    },
+    {
+      "nombre": "Priyanka Chopra Jonas",
+      "personaje": "Sati",
+      "foto": "https://image.tmdb.org/t/p/w500/9n2n3fUFI553HKH0CEAb2TPLtCx.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James McTeigue",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Mitchell",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lana Wachowski",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Aleksandar Hemon",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lana Wachowski",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lana Wachowski",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Grant Hill",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Megan Gray",
+      "rol": "Assistant Costume Designer"
+    },
+    {
+      "nombre": "Joseph Jett Sally",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Aharon Bourland",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Albert Gasser",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Dane A. Davis",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Barry O'Sullivan",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Scott Kinzey",
+      "rol": "Boom Operator"
+    },
+    {
+      "nombre": "Dane A. Davis",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Thomas Wallis",
+      "rol": "Boom Operator"
+    },
+    {
+      "nombre": "Flora Moody",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Flora Moody",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Jesse Ehrman",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Lana Wachowski",
+  "valoraciones": {
+    "tmdb": 6.333,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/g/U/l/_/gUl_m.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=nNpvWBuTfrc"
+}
