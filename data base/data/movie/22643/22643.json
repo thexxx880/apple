@@ -1,0 +1,130 @@
+{
+  "id_tmdb": 22643,
+  "poster": "https://image.tmdb.org/t/p/w500/wK49KfZsVgyEKeFtIJUMWpFhBR4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/e40eTcwQuYtQBUUgmAsJJ6v81MN.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8WikzoWjt2ND2UAlNx9QGPWOL7b.png",
+  "titulo": "El club de los villanos con Mickey y sus amigos",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Comedia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.275,
+  "año": "2002",
+  "duracion": "1h 8min",
+  "edad_minima": 13,
+  "sinopsis": "Los villanos de las populares películas animadas de Disney se reúnen en la Casa del Ratón con planes para hacerse cargo. Pronto, los villanos se apoderan de la casa y expulsan a Mickey, Donald y Goofy. Todo depende de Mickey y sus amigos para derrocar el mal y devolver la Casa del Ratón a la normalidad - o tan cerca de lo normal como sea.",
+  "fecha_estreno": "2002-09-03",
+  "titulo_original": "Mickey's House of Villains",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Wayne Allwine",
+      "personaje": "Mickey Mouse (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ggyRzgJ0ZO2tiZ7jPC323ivEKCM.jpg"
+    },
+    {
+      "nombre": "Tony Anselmo",
+      "personaje": "Donald Duck/Huey/Dewey/Louie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8ocCq9OxVg7A0g7hf7EqeT0QenX.jpg"
+    },
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Salesman (\"Mickey's Mechanical House\") (Archive Audio) (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "Susanne Blakeslee",
+      "personaje": "Cruella De Vil (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5s4vquKADCS90iOiEwgCTZkaQjX.jpg"
+    },
+    {
+      "nombre": "Corey Burton",
+      "personaje": "Captain Hook/Chernabog/Narrator/Chief O'Hara (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+    },
+    {
+      "nombre": "Pat Carroll",
+      "personaje": "Ursula (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/r7JwQ9wmolpgPUFz8iSmgPy0SbH.jpg"
+    },
+    {
+      "nombre": "Jim Cummings",
+      "personaje": "Big Bad Wolf/Kaa/Ed the Hyena (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "nombre": "Bill Farmer",
+      "personaje": "Goofy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lhezx68R12s5Bsv7d77BrQb7tWA.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jamie Mitchell",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kevin D. Campbell",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Elizabeth Stonecipher",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Henry Gilroy",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Melinda Wunsch Dilger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Burt Gillett",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tony Craig",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jack King",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sy Thomas",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Tony Craig",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Larry Johnson",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Bobs Gannaway",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jamie Thomason",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Jamie Mitchell",
+  "valoraciones": {
+    "tmdb": 7.275,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney Television Animation",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/X/-/b/P/X-bPn.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=04gitOsRcdg"
+}
