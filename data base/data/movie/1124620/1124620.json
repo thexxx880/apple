@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 1124620,
+  "poster": "https://image.tmdb.org/t/p/w500/aPAzmD8YAErjz5GzQ1tgkTlv28S.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cjZ7No0DX2L3ielLSoUOMYPw7C.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/87ZmZT3mnp2m0FQMkLUVHOJTLqP.png",
+  "titulo": "El mono",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Comedia"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.003,
+  "año": "2025",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando los gemelos Hal y Bill descubren el antiguo mono de juguete de su padre en el ático, una serie de truculentas muertes comienzan a ocurrir a su alrededor. Los hermanos deciden tirar el mono y continuar con sus vidas, distanciándose con el paso de los años. Pero cuando las misteriosas muertes vuelven a sucederse, los hermanos deberán reunirse para destruir el mono antes de que acabe con las vidas de todos a su alrededor.",
+  "fecha_estreno": "2025-02-10",
+  "titulo_original": "The Monkey",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Theo James",
+      "personaje": "Hal / Bill",
+      "foto": "https://image.tmdb.org/t/p/w500/lSC4cMhcQeCjPFkK6qCjSGDSeR3.jpg"
+    },
+    {
+      "nombre": "Tatiana Maslany",
+      "personaje": "Lois",
+      "foto": "https://image.tmdb.org/t/p/w500/x8lBkm9CBJbIlLpqjEwkQydZ2or.jpg"
+    },
+    {
+      "nombre": "Christian Convery",
+      "personaje": "Young Hal / Young Bill",
+      "foto": "https://image.tmdb.org/t/p/w500/tOR2tSrvHPVDltE4jBDEva3GNqY.jpg"
+    },
+    {
+      "nombre": "Colin O'Brien",
+      "personaje": "Petey",
+      "foto": "https://image.tmdb.org/t/p/w500/qF38oBiO1b7nEua71FY2XfIayZl.jpg"
+    },
+    {
+      "nombre": "Adam Scott",
+      "personaje": "Captain Petey Shelborn",
+      "foto": "https://image.tmdb.org/t/p/w500/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+    },
+    {
+      "nombre": "Elijah Wood",
+      "personaje": "Ted",
+      "foto": "https://image.tmdb.org/t/p/w500/ayARmqAe9Aab1zg6FjJG0u9MEBo.jpg"
+    },
+    {
+      "nombre": "Rohan Campbell",
+      "personaje": "Thrasher / Ricky",
+      "foto": "https://image.tmdb.org/t/p/w500/r1PDcoPF1NDvvxwqkOJTrFaT1za.jpg"
+    },
+    {
+      "nombre": "Sarah Levy",
+      "personaje": "Aunt Ida",
+      "foto": "https://image.tmdb.org/t/p/w500/l37vAd4fkzv9EH8r9eChuzrSPxu.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Dave Caplan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Ferguson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Kavanaugh-Jones",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Osgood Perkins",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Osgood Perkins",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Fred Berger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan DuBois",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "John Friedberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Luo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nancy Xu",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nico Aguilar",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Rich Delia",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Errin Lally",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mica Kayde",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Brendan Megannety",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Trevor Johnston",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Adam McCarthy",
+      "rol": "First Assistant Director"
+    }
+  ],
+  "director": "Osgood Perkins",
+  "valoraciones": {
+    "tmdb": 6.003,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Atomic Monster",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/21/s8/2/L/w/F/G/LwFGy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=KPxmK_ihDO8"
+}
