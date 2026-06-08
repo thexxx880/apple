@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 568124,
+  "poster": "https://image.tmdb.org/t/p/w500/d0ezQ1Jz0lpNsX1skEmIvqRL7mN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3z4mBxVu66FEIPia4md4ecmwP7W.png",
+  "titulo": "Encanto",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.569,
+  "año": "2021",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Encanto relata la historia de una familia extraordinaria; los Madrigal, quienes viven escondidos en las montañas de Colombia, en una casa mágica, un pueblo vibrante y en un lugar maravilloso llamado Encanto. La magia del Encanto ha bendecido a cada niño de la familia con un don único, desde la superfuerza hasta el poder de sanar; a todos, excepto Mirabel, quien desea ser tan especial como el resto de su familia.  Pero cuando la magia que rodea al Encanto está en peligro, Mirabel decide que ella, la única Madrigal sin ningún tipo de don único, puede ser la única esperanza de su excepcional familia.",
+  "fecha_estreno": "2021-10-13",
+  "titulo_original": "Encanto",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Stephanie Beatriz",
+      "personaje": "Mirabel Madrigal (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg"
+    },
+    {
+      "nombre": "María Cecilia Botero",
+      "personaje": "Abuela Alma Madrigal (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nH6eBBgv1PI9J6Ftkn01ny1TMt1.jpg"
+    },
+    {
+      "nombre": "John Leguizamo",
+      "personaje": "Bruno Madrigal (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "nombre": "Diane Guerrero",
+      "personaje": "Isabela Madrigal (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/suyRRuMIjBdAzTxdFM7U9zHMPTv.jpg"
+    },
+    {
+      "nombre": "Jess Darrow",
+      "personaje": "Luisa Madrigal (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rJojc1ZUasEnUxSk7lL42RxyQbP.jpg"
+    },
+    {
+      "nombre": "Carolina Gaitán",
+      "personaje": "Pepa Madrigal (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c7UPkmhIXYWmlqaQK250L8GTsPQ.jpg"
+    },
+    {
+      "nombre": "Angie Cepeda",
+      "personaje": "Julieta Madrigal  (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/azShCjdzK93jcBBOJSs5lFUd7CH.jpg"
+    },
+    {
+      "nombre": "Ravi Cabot-Conyers",
+      "personaje": "Antonio Madrigal (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uM5F2LcmFLJeMrguucByChufpbT.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Charise Castro Smith",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jared Bush",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Charise Castro Smith",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jared Bush",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Byron Howard",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jason Hand",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Nancy Kruse",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Lin-Manuel Miranda",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nathan Curtis",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Jennifer Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jamie Sparer Roberts",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mehrdad Isvandi",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "David E. Fluhr",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Gabriel Guy",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Charise Castro Smith",
+      "rol": "Co-Director"
+    },
+    {
+      "nombre": "Lin-Manuel Miranda",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Jason Hand",
+      "rol": "Head of Story"
+    },
+    {
+      "nombre": "Nancy Kruse",
+      "rol": "Head of Story"
+    },
+    {
+      "nombre": "Samson Neslund",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Justin Doyle",
+      "rol": "Sound Effects Editor"
+    }
+  ],
+  "director": "Byron Howard",
+  "valoraciones": {
+    "tmdb": 7.569,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Animation Studios",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/52/s8/2/o/T/g/o/oTgoA.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=SAH_W9q_brE"
+}
