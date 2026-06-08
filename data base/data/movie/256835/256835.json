@@ -1,0 +1,134 @@
+{
+  "id_tmdb": 256835,
+  "poster": "https://image.tmdb.org/t/p/w500/3m8SkdSzWOkNodITnuqXCGaIdFG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4vetbabOgDQzpitnAkEVRiZP4P5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xyAaqPFtCs4UoDtvp1StktyIIqF.png",
+  "titulo": "Toy Story: Olvidados en el Tiempo",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.023,
+  "año": "2014",
+  "duracion": "0h 22min",
+  "edad_minima": 13,
+  "sinopsis": "Es una cita de juego post-Navidad y los juguetes tienen que enfrentarse a los temibles y agresivos nuevos juguetes de dinosaurio.",
+  "fecha_estreno": "2014-12-02",
+  "titulo_original": "Toy Story That Time Forgot",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Kristen Schaal",
+      "personaje": "Trixie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/s3LSHVTx8gxHP2twYsXEGa8JbLl.jpg"
+    },
+    {
+      "nombre": "Kevin McKidd",
+      "personaje": "Reptillus Maximus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/KtmEKOSehmQ35JfGjEjpqlypbP.jpg"
+    },
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Woody (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Tim Allen",
+      "personaje": "Buzz Lightyear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "nombre": "Emily Hahn",
+      "personaje": "Bonnie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eO7iESoZfevSi05tgOQUBuYRYZ.jpg"
+    },
+    {
+      "nombre": "Steve Purcell",
+      "personaje": "The Cleric (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8wdCJVDq7v4g5N9Qkv8D87B3Xne.jpg"
+    },
+    {
+      "nombre": "R.C. Cope",
+      "personaje": "Mason (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Emma Hudak",
+      "personaje": "Angel Kitty (voice)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Steve Purcell",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Galyn Susman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steve Purcell",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Giacchino",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Derek Thompson",
+      "rol": "Story Supervisor"
+    },
+    {
+      "nombre": "Matt Jones",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Andrea Datzman",
+      "rol": "Additional Music"
+    },
+    {
+      "nombre": "Carlo Vogele",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Lora Hirschberg",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "James S. Baker",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Josh Gold",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Susan Bradley",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "Belinda van Valkenburg",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Steve Purcell",
+  "valoraciones": {
+    "tmdb": 7.023,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://rumble.com/hls-vod/6xu3eg/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=m7_UZPAa6oA"
+}
