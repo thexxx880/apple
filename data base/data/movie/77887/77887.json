@@ -1,0 +1,125 @@
+{
+  "id_tmdb": 77887,
+  "poster": "https://image.tmdb.org/t/p/w500/zK0tA15d6Ltr1FK7sEXv9zIpzEJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Tvn4W6qdbqhW5qcL7FZgb6570b.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bxOIltcTppvWZMSBIQ9WyrNAlTm.png",
+  "titulo": "Toy Story Toons: Vacaciones en Hawaii",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.968,
+  "año": "2011",
+  "duracion": "0h 7min",
+  "edad_minima": 13,
+  "sinopsis": "Ken calcula muy mal los preparativos para unas vacaciones, por lo que Woody y Buzz lideran a un grupo de juguetes para que Ken y Barbie tengan las vacaciones hawaianas de sus sueños.",
+  "fecha_estreno": "2011-06-16",
+  "titulo_original": "Hawaiian Vacation",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Woody (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Tim Allen",
+      "personaje": "Buzz Lightyear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "nombre": "Joan Cusack",
+      "personaje": "Jessie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+    },
+    {
+      "nombre": "Don Rickles",
+      "personaje": "Mr. Potato Head (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iGMOVxIQoTPepRvqSCtRulfpx7u.jpg"
+    },
+    {
+      "nombre": "Estelle Harris",
+      "personaje": "Mrs. Potato Head (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8L9umRwdjVs9CysJW24hhm2wNZ2.jpg"
+    },
+    {
+      "nombre": "Wallace Shawn",
+      "personaje": "Rex (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "nombre": "John Ratzenberger",
+      "personaje": "Hamm (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    },
+    {
+      "nombre": "Blake Clark",
+      "personaje": "Slinky Dog (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pA4OZQPyATEX9AqZYUIOItQ447o.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Christian Roman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jason Katz",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Erik Benson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Gary Rydstrom",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gary Rydstrom",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Erik Benson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Galyn Susman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Mothersbaugh",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Axel Geddes",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Anthony J. Greenberg",
+      "rol": "First Assistant Editor"
+    },
+    {
+      "nombre": "Carlo Vogele",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Gary Rydstrom",
+  "valoraciones": {
+    "tmdb": 6.968,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://rumble.com/hls-vod/6xu364/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=5YpXM26GUZo"
+}
