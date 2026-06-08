@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 6977,
+  "poster": "https://image.tmdb.org/t/p/w500/wvi8k5fqjvVqTD573YX9eRLRo0F.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/zlBQtRXKCGmyqcVMNFYLw1eLPfd.png",
+  "titulo": "Sin lugar para los débiles",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Suspense",
+    "Western"
+  ],
+  "calificacion": "C",
+  "puntuacion": 8,
+  "año": "2007",
+  "duracion": "2h 2min",
+  "edad_minima": 13,
+  "sinopsis": "Un cazador de tesoros se encuentra en una espiral de violencia después de tropezar con una bolsa de dinero en medio del desierto texano. Perseguido por un despiadado asesino, se desencadena una serie de eventos mortales que ponen a prueba su astucia y su supervivencia en un juego donde cada decisión tiene consecuencias letales.",
+  "fecha_estreno": "2007-11-09",
+  "titulo_original": "No Country for Old Men",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Javier Bardem",
+      "personaje": "Anton Chigurh",
+      "foto": "https://image.tmdb.org/t/p/w500/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
+    },
+    {
+      "nombre": "Tommy Lee Jones",
+      "personaje": "Ed Tom Bell",
+      "foto": "https://image.tmdb.org/t/p/w500/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+    },
+    {
+      "nombre": "Josh Brolin",
+      "personaje": "Llewelyn Moss",
+      "foto": "https://image.tmdb.org/t/p/w500/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "nombre": "Woody Harrelson",
+      "personaje": "Carson Wells",
+      "foto": "https://image.tmdb.org/t/p/w500/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    },
+    {
+      "nombre": "Kelly Macdonald",
+      "personaje": "Carla Jean Moss",
+      "foto": "https://image.tmdb.org/t/p/w500/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+    },
+    {
+      "nombre": "Garret Dillahunt",
+      "personaje": "Wendell",
+      "foto": "https://image.tmdb.org/t/p/w500/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg"
+    },
+    {
+      "nombre": "Tess Harper",
+      "personaje": "Loretta Bell",
+      "foto": "https://image.tmdb.org/t/p/w500/8Z770Kk13MK1NP7skWmTxvRGx3V.jpg"
+    },
+    {
+      "nombre": "Barry Corbin",
+      "personaje": "Ellis",
+      "foto": "https://image.tmdb.org/t/p/w500/avNg0rmudSPg30f8Xt9BwkPDC17.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Joel Coen",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Scott Rudin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joel Coen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ethan Coen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ethan Coen",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ethan Coen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joel Coen",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Robert Graf",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Roybal",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Roger Deakins",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jess Gonchor",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mary Zophres",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Ellen Chenoweth",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ethan Coen",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Skip Lievsay",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Vincent Cirelli",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Glenn Morris",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Sage Emmett Connell",
+      "rol": "Set Dresser"
+    },
+    {
+      "nombre": "Deborah Jensen",
+      "rol": "Assistant Art Director"
+    }
+  ],
+  "director": "Joel Coen",
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Miramax",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/w/k/n/H/wknHn.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=A0oNrgumrlE"
+}
