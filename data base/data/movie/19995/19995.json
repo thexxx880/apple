@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 19995,
+  "poster": "https://image.tmdb.org/t/p/w500/8zHIgB6tP34Ie34ddllzLg3F4YP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bET8bJdM8diTCpUVilWqqu0M3EJ.png",
+  "titulo": "Avatar",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.606,
+  "año": "2009",
+  "duracion": "2h 42min",
+  "edad_minima": 13,
+  "sinopsis": "Jake Sully, un soldado parapléjico, ha sido designado para ir a la luna Pandora, habitado por una raza de humanoides extraterrestres inteligentes llamados Los Na'vi, en una misión única a través de un avatar.",
+  "fecha_estreno": "2009-12-16",
+  "titulo_original": "Avatar",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sam Worthington",
+      "personaje": "Jake Sully",
+      "foto": "https://image.tmdb.org/t/p/w500/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    },
+    {
+      "nombre": "Zoe Saldaña",
+      "personaje": "Neytiri",
+      "foto": "https://image.tmdb.org/t/p/w500/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+    },
+    {
+      "nombre": "Sigourney Weaver",
+      "personaje": "Dr. Grace Augustine",
+      "foto": "https://image.tmdb.org/t/p/w500/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "nombre": "Stephen Lang",
+      "personaje": "Colonel Miles Quaritch",
+      "foto": "https://image.tmdb.org/t/p/w500/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+    },
+    {
+      "nombre": "Michelle Rodriguez",
+      "personaje": "Trudy Chacon",
+      "foto": "https://image.tmdb.org/t/p/w500/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg"
+    },
+    {
+      "nombre": "Giovanni Ribisi",
+      "personaje": "Parker Selfridge",
+      "foto": "https://image.tmdb.org/t/p/w500/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg"
+    },
+    {
+      "nombre": "Joel David Moore",
+      "personaje": "Norm Spellman",
+      "foto": "https://image.tmdb.org/t/p/w500/mMVhVglj6BZFuvqAXnEibce08k7.jpg"
+    },
+    {
+      "nombre": "CCH Pounder",
+      "personaje": "Mo'at",
+      "foto": "https://image.tmdb.org/t/p/w500/mr6BLDN75T8DJl9dNK3hN4YwqJa.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Cameron",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jon Landau",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Refoua",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Stephen E. Rivkin",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Terry Notary",
+      "rol": "Motion Capture Artist"
+    },
+    {
+      "nombre": "Mauro Fiore",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Ilram Choi",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Woody Schultz",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Margery Simkin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Carolyn M. Fenton",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Anthony Almaraz",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Andrew Menzies",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Rick Carter",
+      "rol": "Production Design"
+    }
+  ],
+  "director": "James Cameron",
+  "valoraciones": {
+    "tmdb": 7.606,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Dune Entertainment",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/T/n/0/R/Tn0Rt.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=AZS_d_hS2dM"
+}
