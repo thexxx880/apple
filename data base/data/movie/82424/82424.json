@@ -1,0 +1,114 @@
+{
+  "id_tmdb": 82424,
+  "poster": "https://image.tmdb.org/t/p/w500/fyLKw1MzdpBsYtZxESLf4xqSSvR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eaLp3EBb1i2Kv9If0kmXDSC0pKt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/96lmhfZ9sMhAFrA2vJYT5edNJJm.png",
+  "titulo": "Toy Story Toons: Pequeño Gran Buzz",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.9,
+  "año": "2011",
+  "duracion": "0h 7min",
+  "edad_minima": 13,
+  "sinopsis": "Buzz Lightyear queda olvidado en un restaurante tras ser confundido con su propia versión en miniatura. Mientras el verdadero Buzz asiste a un grupo de terapia para juguetes en miniatura dentro del restaurante, sus amigos tienen que soportar a su molesto sustituto pequeño el cual no se queda quieto ni por un momento.",
+  "fecha_estreno": "2011-11-23",
+  "titulo_original": "Small Fry",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Woody (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Tim Allen",
+      "personaje": "Buzz Lightyear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "nombre": "Joan Cusack",
+      "personaje": "Jessie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+    },
+    {
+      "nombre": "Estelle Harris",
+      "personaje": "Mrs. Potato Head (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8L9umRwdjVs9CysJW24hhm2wNZ2.jpg"
+    },
+    {
+      "nombre": "Wallace Shawn",
+      "personaje": "Rex (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "nombre": "John Ratzenberger",
+      "personaje": "Hamm (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    },
+    {
+      "nombre": "Teddy Newton",
+      "personaje": "Mini Buzz Lightyear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mUFJqwDSjafLmacLSjoTFx74XiA.jpg"
+    },
+    {
+      "nombre": "Angus MacLane",
+      "personaje": "T-Bone / Super Pirate / Funky Monk / Gary Grappling Hook (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hSdzAk70cHvxvOFvZn8qiNnZPoZ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Angus MacLane",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Angus MacLane",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Josh Cooley",
+      "rol": "Story"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Angus MacLane",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kimberly Adams",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Henry Jackman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Torbin Xan Bullock",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Angus MacLane",
+  "valoraciones": {
+    "tmdb": 6.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar Canada",
+  "enlace_video": "https://rumble.com/hls-vod/6xu380/playlist.m3u8?u=0&b=0",
+  "trailer": ""
+}
