@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 74523,
+  "poster": "https://image.tmdb.org/t/p/w500/azO3RdG0Q5DnlQoMOyDJXoncErW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5Zo061yGByf5cDuUjfJTpfohWUp.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/q2df8azZ2el72iLj9ZnWUEZEkJd.png",
+  "titulo": "Nacido Para Correr",
+  "trending": false,
+  "generos": [
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.917,
+  "año": "2011",
+  "duracion": "1h 38min",
+  "edad_minima": 13,
+  "sinopsis": "Born To race es la historia de Danny Krueger, un piloto rebelde callejero en un curso de colisión con problemas. Después de un accidente en una carrera callejera ilegal, es enviado a un pequeño pueblo a vivir con su padre, un corredor de NASCAR. Cuando Danny decide entrar en el NHRA High School Drags, se ve en la obligación de pedirle ayuda a su padre",
+  "fecha_estreno": "2011-03-19",
+  "titulo_original": "Born to Race",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Joseph Cross",
+      "personaje": "Danny Krueger",
+      "foto": "https://image.tmdb.org/t/p/w500/gQoRzWwHTTI614l0DETXeeVf4kD.jpg"
+    },
+    {
+      "nombre": "John Pyper-Ferguson",
+      "personaje": "Frank Krueger",
+      "foto": "https://image.tmdb.org/t/p/w500/2IYFYfH67yG1UGedH49BYjigMe.jpg"
+    },
+    {
+      "nombre": "Brando Eaton",
+      "personaje": "Jake Kendall",
+      "foto": "https://image.tmdb.org/t/p/w500/dl6ZBzrd5CCgFOLBajResN1MeB8.jpg"
+    },
+    {
+      "nombre": "Nicole Badaan",
+      "personaje": "Jessica",
+      "foto": "https://image.tmdb.org/t/p/w500/9l8nGUxtAeguR8C4PRsOI56ycj5.jpg"
+    },
+    {
+      "nombre": "Sherry Stringfield",
+      "personaje": "Lisa Abrams",
+      "foto": "https://image.tmdb.org/t/p/w500/7lPiHUumii7Bc6P5GLd9cVQPZO8.jpg"
+    },
+    {
+      "nombre": "Sara Swain",
+      "personaje": "Ashley",
+      "foto": "https://image.tmdb.org/t/p/w500/34sIz3lftcdqlaTQ9OBU61NL2o9.jpg"
+    },
+    {
+      "nombre": "Christina Moore",
+      "personaje": "Ms. Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/t3pceZxbDAiBL4nxTZ6kQLjt9Wz.jpg"
+    },
+    {
+      "nombre": "Diogo Morgado",
+      "personaje": "Enzo",
+      "foto": "https://image.tmdb.org/t/p/w500/gT30yF7Nqv66B2CQl8Id0HOPmGt.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alex Ranarivelo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alex Ranarivelo",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ali Afshar",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ali Afshar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steve Sarno",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Alex Ranarivelo",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Steve Sarno",
+      "rol": "Story"
+    },
+    {
+      "nombre": "George Shamieh",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Eugene Collier",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Frank R. Gardner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chevonne O'Shaughnessy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Reuben Steinberg",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Brett Hedlund",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Niko Vilaivongs",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Aaron Bautista",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jeremy Cisneros",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Bianca White",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Crystal Boyce",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Sydnee Horn",
+      "rol": "Key Makeup Artist"
+    },
+    {
+      "nombre": "Jamie Christopherson",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Alex Ranarivelo",
+  "valoraciones": {
+    "tmdb": 6.917,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "American Cinema International",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/M/Q/c/v/MQcvn.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=6ZwxqAZV1QI"
+}
