@@ -1,0 +1,134 @@
+{
+  "id_tmdb": 1333100,
+  "poster": "https://image.tmdb.org/t/p/w500/2vKweKp6Nynd4kBiKhOGyP0iSdO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nB6IR9XfdRpVRKCz85uT97EjgwB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kUo9QDGhr1UFTaIDNLDambmI9Sx.png",
+  "titulo": "Attack on Titan: EL ATAQUE FINAL",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Aventura",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.697,
+  "año": "2024",
+  "duracion": "2h 25min",
+  "edad_minima": 13,
+  "sinopsis": "Película recopilatoria para cines de los dos últimos episodios especiales de la última temporada de \"Ataque a los Titanes\". La humanidad vivía en paz tras los enormes muros construidos para protegerse de la amenaza de unas criaturas monstruosas llamadas Titanes. Su siglo de paz se vio truncado por un ataque a su ciudad que dejó huérfano de madre a un niño, Eren Yeager, que juró vengarse de los titanes. Años después de unirse a la Tropa de Reconocimiento, Eren se enfrenta a un enemigo mortal y acaba adquiriendo una habilidad especial que revela una nueva verdad sobre el mundo que conoce... Tras aventurarse más allá de los muros y separarse de sus camaradas, Eren, motivado por sus nuevos conocimientos del mundo, planea el \"Retumbar\", un terrorífico plan para erradicar a todo ser vivo del mundo. Con el destino del mundo pendiendo de un hilo, un variopinto grupo de antiguos camaradas y enemigos de Eren lucha por detener su letal misión. La única pregunta es: ¿lo conseguirán?",
+  "fecha_estreno": "2024-03-20",
+  "titulo_original": "劇場版「進撃の巨人」完結編 THE LAST ATTACK",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "梶裕貴",
+      "personaje": "Eren Yeager (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+    },
+    {
+      "nombre": "石川由依",
+      "personaje": "Mikasa Ackerman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2y1y1W4q8UIR0Vbs4NNvc7722XT.jpg"
+    },
+    {
+      "nombre": "井上麻里奈",
+      "personaje": "Armin Arlert (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nQ7a3krkbea6ukw9KGvvTpMma96.jpg"
+    },
+    {
+      "nombre": "神谷浩史",
+      "personaje": "Levi Ackerman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
+    },
+    {
+      "nombre": "嶋村侑",
+      "personaje": "Annie Leonheart (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lAtWSXzLZ5DHYoEd8hooTfzirU3.jpg"
+    },
+    {
+      "nombre": "Romi Park",
+      "personaje": "Hange Zoë (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fl9vyA3HEkOyTiZBJBhAR3OSmrO.jpg"
+    },
+    {
+      "nombre": "細谷佳正",
+      "personaje": "Reiner Braun (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
+    },
+    {
+      "nombre": "谷山紀章",
+      "personaje": "Jean Kirstein (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9lOnUF6C6xEhZ0FQmYNzNZhcUpd.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "林祐一郎",
+      "rol": "Director"
+    },
+    {
+      "nombre": "瀬古浩司",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "諫山創",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "岸友洋",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "山谷尚人",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "新沼大祐",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "秋田学",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "酒井智史",
+      "rol": "Effects Supervisor"
+    },
+    {
+      "nombre": "古俣太一",
+      "rol": "Effects Supervisor"
+    },
+    {
+      "nombre": "大西慈",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "根本邦明",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "奥納基",
+      "rol": "CGI Director"
+    },
+    {
+      "nombre": "池田昴",
+      "rol": "CGI Director"
+    },
+    {
+      "nombre": "浅川茂輝",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "林祐一郎",
+  "valoraciones": {
+    "tmdb": 8.697,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "MAPPA",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/6c/s8/2/C/D/p/u/CDpuy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=3xNH23QkNpk"
+}
