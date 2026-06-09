@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 2332,
+  "poster": "https://image.tmdb.org/t/p/w500/ykpuFTUtnpqJqIvmEOMCZtTwaeg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xSnKDHTk79wu2UJqI0RDm4tiBvj.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4RS3eyEQ873eZTunddkbU6GbeD4.png",
+  "titulo": "Taxi 2 - Alta tensión",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Aventura",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.279,
+  "año": "2000",
+  "duracion": "1h 28min",
+  "edad_minima": 13,
+  "sinopsis": "El embajador japonés se encuentra de visita en Marsella para informarse de las técnicas policiales anti-terroristas de la ciudad. Sin embargo, durante la visita es secuestrado por un grupo yakuza junto a Petra, agente policial compañera de Émilien, el cual tendrá que recurrir de nuevo a Daniel y a su peculiar taxi para salvar la situación, restaurar el \"honor\" del cuerpo de policía e impedir un conflicto internacional.",
+  "fecha_estreno": "2000-03-25",
+  "titulo_original": "Taxi 2",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Samy Naceri",
+      "personaje": "Daniel Morales",
+      "foto": "https://image.tmdb.org/t/p/w500/yT3QZbpp6Pd6xJ2FzxESQ7sDudm.jpg"
+    },
+    {
+      "nombre": "Frédéric Diefenthal",
+      "personaje": "Émilien Coutant-Kerbalec",
+      "foto": "https://image.tmdb.org/t/p/w500/3sdQSCxXQTgPu6fqTImqGnebcuU.jpg"
+    },
+    {
+      "nombre": "Marion Cotillard",
+      "personaje": "Lilly Bertineau",
+      "foto": "https://image.tmdb.org/t/p/w500/biitzOF0GffIqFYLyOPkoiaOngQ.jpg"
+    },
+    {
+      "nombre": "Emma Wiklund",
+      "personaje": "Petra",
+      "foto": "https://image.tmdb.org/t/p/w500/7QDL9EamaG0FYfl1J3tPniRzExL.jpg"
+    },
+    {
+      "nombre": "Bernard Farcy",
+      "personaje": "Commissaire Gibert",
+      "foto": "https://image.tmdb.org/t/p/w500/yvrBgUmbpXDWbyv2x5pRrndq4et.jpg"
+    },
+    {
+      "nombre": "Jean-Christophe Bouvet",
+      "personaje": "Général Edmond Bertineau",
+      "foto": "https://image.tmdb.org/t/p/w500/5iBuBcAXSj55e8xvtAVXAK5Yl2M.jpg"
+    },
+    {
+      "nombre": "Frédérique Tirmont",
+      "personaje": "Mother",
+      "foto": "https://image.tmdb.org/t/p/w500/8EccF7N8PzYyKLxF7i4WUgifLQ4.jpg"
+    },
+    {
+      "nombre": "Marc Faure",
+      "personaje": "French Minister",
+      "foto": "https://image.tmdb.org/t/p/w500/tSEQI93N2kyDlreaapsBlRtySmB.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Laurent Pétin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michèle Pétin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gérard Krawczyk",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gérard Sterin",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Marc Hoang",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Virginie Arnaud",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Alain Dutartre",
+      "rol": "Focus Puller"
+    },
+    {
+      "nombre": "Gaëlle Cohen",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Karine Ebert",
+      "rol": "Assistant Unit Manager"
+    },
+    {
+      "nombre": "Swan Pham",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Cédric Fréni",
+      "rol": "Assistant Unit Manager"
+    },
+    {
+      "nombre": "Stéphan Ripoll",
+      "rol": "Unit Manager"
+    },
+    {
+      "nombre": "Thierry Guilmard",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "David Deshayes",
+      "rol": "Unit Manager"
+    },
+    {
+      "nombre": "Franck Schwarz",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Gérard Krawczyk",
+  "valoraciones": {
+    "tmdb": 6.279,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "ARP Sélection",
+  "enlace_video": "https://rumble.com/hls-vod/6pj0fx/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=XvGjrOLjG-s"
+}
