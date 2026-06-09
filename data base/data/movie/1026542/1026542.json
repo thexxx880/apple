@@ -1,0 +1,104 @@
+{
+  "id_tmdb": 1026542,
+  "poster": "https://image.tmdb.org/t/p/w500/z1BrCBJgG0VvehXHiIgxDrjNBhG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rXHw864JjVLaPis7e7YW6LHfpag.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rmywXRgD0gHu3JuKWPbVVBKZMQy.png",
+  "titulo": "Baby Blue",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.5,
+  "año": "2025",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2025-01-23",
+  "titulo_original": "Baby Blue",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Dylan Sprayberry",
+      "personaje": "Hutch",
+      "foto": "https://image.tmdb.org/t/p/w500/aQvC4qmW6z4mJj5Fxb5ar1MNsyD.jpg"
+    },
+    {
+      "nombre": "Lia McHugh",
+      "personaje": "Laura Mills",
+      "foto": "https://image.tmdb.org/t/p/w500/vPnN8xBLsm5vMZvMpRBNJ5WuAdl.jpg"
+    },
+    {
+      "nombre": "Anthony Turpel",
+      "personaje": "Bradley",
+      "foto": "https://image.tmdb.org/t/p/w500/iUpCLoRgQpeizfagLpswe5qXOq5.jpg"
+    },
+    {
+      "nombre": "Aramis Knight",
+      "personaje": "Jay Jay",
+      "foto": "https://image.tmdb.org/t/p/w500/l1w7atqr6aJuxwzcM4soZ9ZWBJc.jpg"
+    },
+    {
+      "nombre": "Alexia Ioannides",
+      "personaje": "Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/o649JlCOcyfIQT0HejMut24JWtQ.jpg"
+    },
+    {
+      "nombre": "Oliver Cooper",
+      "personaje": "Moe",
+      "foto": "https://image.tmdb.org/t/p/w500/dZyCpnWaW7gkTWOyhGUgg1xy19y.jpg"
+    },
+    {
+      "nombre": "Cyrus Arnold",
+      "personaje": "August / Beans",
+      "foto": "https://image.tmdb.org/t/p/w500/eFxlR4IiZJLJsmyxsRsuhbvsJkc.jpg"
+    },
+    {
+      "nombre": "Michole Briana White",
+      "personaje": "Dr. Barrett",
+      "foto": "https://image.tmdb.org/t/p/w500/4ooXO8EO9hJdwHVaYwY2eDIzUo4.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Adam Mason",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Simon Boyes",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Adam Mason",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Bradley Pilz",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mac Fisken",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mac Fisken",
+      "rol": "Drone Cinematographer"
+    },
+    {
+      "nombre": "Johannes Roberts",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Adam Mason",
+  "valoraciones": {
+    "tmdb": 5.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "XYZ Films",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/15/s8/2/u/I/O/u/uIOuy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=1Xz_xV7pSh8"
+}
