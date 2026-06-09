@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 1126166,
+  "poster": "https://image.tmdb.org/t/p/w500/8T6nkYb4W8BIeafmFffyfsRciTL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hwlyY7LJdEFbCPaGNXiskKKmJ5X.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/AtokEoGobSnOjGytEhwuv8m0yod.png",
+  "titulo": "Amenaza en el aire",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.941,
+  "año": "2025",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Un piloto transporta a un alguacil del aire que acompaña a un fugitivo a juicio. A medida que atraviesan el desierto de Alaska, la tensión aumenta y la confianza se pone a prueba, ya que no todos a bordo son quienes parecen.",
+  "fecha_estreno": "2025-01-22",
+  "titulo_original": "Flight Risk",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mark Wahlberg",
+      "personaje": "Daryl Booth",
+      "foto": "https://image.tmdb.org/t/p/w500/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
+    },
+    {
+      "nombre": "Michelle Dockery",
+      "personaje": "Madolyn Harris",
+      "foto": "https://image.tmdb.org/t/p/w500/pgPJGf2wAPgoC6Bp5PBJYQV7IVt.jpg"
+    },
+    {
+      "nombre": "Topher Grace",
+      "personaje": "Winston",
+      "foto": "https://image.tmdb.org/t/p/w500/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg"
+    },
+    {
+      "nombre": "Leah Remini",
+      "personaje": "Van Sant (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/19QpURecs6wDY9G46AmT7JnTchS.jpg"
+    },
+    {
+      "nombre": "Maaz Ali",
+      "personaje": "Hassan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/udDn3LgeZRaL1V518UL7n3ULhgF.jpg"
+    },
+    {
+      "nombre": "Paul Ben-Victor",
+      "personaje": "Coleridge (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/l7aHF2lKW6VLLFOvMIsVfkCDl1z.jpg"
+    },
+    {
+      "nombre": "Eilise Patton",
+      "personaje": "Janine (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2QPmKLkfs56ca7Qp4OaAUwdxUsk.jpg"
+    },
+    {
+      "nombre": "Savanah Joeckel",
+      "personaje": "Rescue Worker #1",
+      "foto": "https://image.tmdb.org/t/p/w500/yMTCTH5F0U8o8GIItR6hGJVmavx.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John Davis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mel Gibson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mel Gibson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bruce Davey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jared Rosenberg",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christopher Woodrow",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Russell Hollander",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Petr Jákl",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "K. Blaine Johnston",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kristen Kopp",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Rebecca R. Ryan",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Rob Burgess",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Lisa Son",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "David Meyer",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jesse Noel",
+      "rol": "Special Effects Supervisor"
+    },
+    {
+      "nombre": "Alex Lebovici",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Allan A. Apone",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Mel Gibson",
+  "valoraciones": {
+    "tmdb": 5.941,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Davis Entertainment",
+  "enlace_video": "https://rumble.com/hls-vod/6pgt2n/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=uaodj8Myt3A"
+}
