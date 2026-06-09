@@ -1,0 +1,125 @@
+{
+  "id_tmdb": 2661,
+  "poster": "https://image.tmdb.org/t/p/w500/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/78WYLdsidjafX5cll2G6fWCR1xB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/lURiZEiF62WnusdNtyIwgCPI0Si.png",
+  "titulo": "Batman",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.4,
+  "año": "1966",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Adaptación a la gran pantalla del popular cómic de Bob Kane, que ese mismo año y con los mismos protagonistas conocía una exitosa versión en formato de serie de televisión que duraría dos años en la pequeña pantalla. Batman y Robin se enfrentan a un grupo de criminales entre los que se encuentran sus eternos rivales Joker y El Pingüino, quienes se han apoderado de un sofisticado artilugio para dominar el mundo.",
+  "fecha_estreno": "1966-07-30",
+  "titulo_original": "Batman",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Adam West",
+      "personaje": "Batman (Bruce Wayne)",
+      "foto": "https://image.tmdb.org/t/p/w500/a3Yw8bb6AF7a8Zr7IyEZhZxWVWN.jpg"
+    },
+    {
+      "nombre": "Burt Ward",
+      "personaje": "Robin (Dick Grayson)",
+      "foto": "https://image.tmdb.org/t/p/w500/13qUIbdB6D6BaTy3znHoHWdHuYN.jpg"
+    },
+    {
+      "nombre": "Lee Meriwether",
+      "personaje": "The Catwoman (Kitka)",
+      "foto": "https://image.tmdb.org/t/p/w500/nGoYFvJFqs7jXCKwVArUzhlLFTF.jpg"
+    },
+    {
+      "nombre": "Cesar Romero",
+      "personaje": "The Joker",
+      "foto": "https://image.tmdb.org/t/p/w500/1UMk0r2rcMSpglnxd2QJMVgqZtI.jpg"
+    },
+    {
+      "nombre": "Burgess Meredith",
+      "personaje": "The Penguin",
+      "foto": "https://image.tmdb.org/t/p/w500/2ozNyIbHChcqIBANwvCDpUZGA9b.jpg"
+    },
+    {
+      "nombre": "Frank Gorshin",
+      "personaje": "The Riddler",
+      "foto": "https://image.tmdb.org/t/p/w500/lGRDnt0HlOI3BGOLD5mFUwNi6QI.jpg"
+    },
+    {
+      "nombre": "Alan Napier",
+      "personaje": "Alfred",
+      "foto": "https://image.tmdb.org/t/p/w500/90TwBLqH94JqWeVBXqkkYR2wsp2.jpg"
+    },
+    {
+      "nombre": "Neil Hamilton",
+      "personaje": "Commissioner Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/23jm1XwaaBKWTp5fKs7kzThK4KZ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lorenzo Semple Jr.",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "William Dozier",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Leslie H. Martinson",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nelson Riddle",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Roy Meadows",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Howard Schwartz",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Harry M. Leonard",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Serge Krizman",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Charlie Picerni",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Charles B. Fitzsimons",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Bill Neff",
+      "rol": "Gaffer"
+    }
+  ],
+  "director": "Leslie H. Martinson",
+  "valoraciones": {
+    "tmdb": 6.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "William Dozier Productions",
+  "enlace_video": "https://1a-1791.com/video/fwe2/90/s8/2/n/o/9/l/no9lw.caa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=TdG2V4vhPjg"
+}
