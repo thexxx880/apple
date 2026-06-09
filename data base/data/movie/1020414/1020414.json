@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 1020414,
+  "poster": "https://image.tmdb.org/t/p/w500/xLYIEOCCj6A6fFGUdN3XH8JAzi5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/w3R8LTPU3ocl6oXuNkXmqw5bIFi.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6pZCiIKk2iaQE5EMX8Psb1YoI3x.png",
+  "titulo": "Peter Pan: Pesadilla  en la Tierra del Nunca Jamás",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense",
+    "Fantasía"
+  ],
+  "calificacion": "C",
+  "puntuacion": 5.7,
+  "año": "2025",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "Wendy Darling se adentra en un Nunca Jamás convertido en pesadilla para rescatar a su hermano, enfrentándose a un Peter Pan cruel y a una Campanilla consumida por una adicción autodestructiva.",
+  "fecha_estreno": "2025-01-13",
+  "titulo_original": "Peter Pan's Neverland Nightmare",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Megan Placito",
+      "personaje": "Wendy Darling",
+      "foto": "https://image.tmdb.org/t/p/w500/ynDhmYaZHWtYz8lokgMav2JBd2J.jpg"
+    },
+    {
+      "nombre": "Martin Portlock",
+      "personaje": "Peter Pan",
+      "foto": "https://image.tmdb.org/t/p/w500/81rSjMYtWNusmHO4lomgs4HAHt1.jpg"
+    },
+    {
+      "nombre": "Kit Green",
+      "personaje": "Tinker Bell",
+      "foto": "https://image.tmdb.org/t/p/w500/iyR9PeiPsghR23uY2QHtvF71B8v.jpg"
+    },
+    {
+      "nombre": "Peter DeSouza-Feighoney",
+      "personaje": "Michael Darling",
+      "foto": "https://image.tmdb.org/t/p/w500/reYy9iCjdmOEdKpTkhxD4quNNMP.jpg"
+    },
+    {
+      "nombre": "Teresa Banham",
+      "personaje": "Mary Darling",
+      "foto": "https://image.tmdb.org/t/p/w500/aKAjrsZm7KtJ4WYPkvbkOXQnvBG.jpg"
+    },
+    {
+      "nombre": "Ardy Yusuf",
+      "personaje": "Joey",
+      "foto": "https://image.tmdb.org/t/p/w500/BhR2J0mLFjt9xUZjsFC5ndNmNP.jpg"
+    },
+    {
+      "nombre": "Olumide Olorunfemi",
+      "personaje": "Tiger Lily",
+      "foto": "https://image.tmdb.org/t/p/w500/i8VSGkFdQ0PC3OgCAyaiak8oK1A.jpg"
+    },
+    {
+      "nombre": "Campbell Wallace",
+      "personaje": "John Darling",
+      "foto": "https://image.tmdb.org/t/p/w500/32FhPJRZKLyBpOhYuFEjsZ3quQK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Scott Chambers",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rhys Frake-Waterfield",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Scott Chambers",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Scott Chambers",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ben J. Williams",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Stuart Alson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicole Holland",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carlos Rincon",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Rhys Frake-Waterfield",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "J.M. Barrie",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "J.M. Barrie",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Paula Anne Booker-Harrison",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Shaune Harrison",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Mariano Mattos",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "Mariano Mattos",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Lucy Woollard",
+      "rol": "Production Assistant"
+    }
+  ],
+  "director": "Scott Chambers",
+  "valoraciones": {
+    "tmdb": 5.7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Jagged Edge Productions",
+  "enlace_video": "https://1a-1791.com/video/fww1/a8/s8/2/7/6/e/y/76eyy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=Kdid3LYAL2o"
+}
