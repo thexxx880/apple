@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 720321,
+  "poster": "https://image.tmdb.org/t/p/w500/lZJATM2UYPfvhYVD3k4zncgZzgP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/v2oPRCnWADeQhEAAUKD7DfMdScP.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xKs7JAmtHwoUN6aCFiFmLc1LjfW.png",
+  "titulo": "Respira",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Misterio",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.634,
+  "año": "2024",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "El suministro de aire escasea en el futuro cercano, obligando a una madre e hija a luchar por sobrevivir cuando dos extraños llegan desesperados por un refugio oxigenado.",
+  "fecha_estreno": "2024-04-04",
+  "titulo_original": "Breathe",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jennifer Hudson",
+      "personaje": "Maya",
+      "foto": "https://image.tmdb.org/t/p/w500/2XPtoGs9GnM1NPj2xCxstzGma4V.jpg"
+    },
+    {
+      "nombre": "Milla Jovovich",
+      "personaje": "Tess",
+      "foto": "https://image.tmdb.org/t/p/w500/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+    },
+    {
+      "nombre": "Quvenzhané Wallis",
+      "personaje": "Zora",
+      "foto": "https://image.tmdb.org/t/p/w500/lHW9hnGlPMgexsbraR7xyBh5qEI.jpg"
+    },
+    {
+      "nombre": "Common",
+      "personaje": "Darius",
+      "foto": "https://image.tmdb.org/t/p/w500/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+    },
+    {
+      "nombre": "Sam Worthington",
+      "personaje": "Lucas",
+      "foto": "https://image.tmdb.org/t/p/w500/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    },
+    {
+      "nombre": "Raúl Castillo",
+      "personaje": "Micah",
+      "foto": "https://image.tmdb.org/t/p/w500/wyxl5HtyjeJRXkE89LtsItQhPHN.jpg"
+    },
+    {
+      "nombre": "James Saito",
+      "personaje": "Man",
+      "foto": "https://image.tmdb.org/t/p/w500/2XiFPyvmJWUtaWHAJOhrMa6JJhQ.jpg"
+    },
+    {
+      "nombre": "Dan Martin",
+      "personaje": "Mike",
+      "foto": "https://image.tmdb.org/t/p/w500/brRz4upQrDPULNuoBUG6LFVK6NO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Basil Iwanyk",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Erica Lee",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christian Mercuri",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Haring",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Doug Simon",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Stefon Bristol",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Felipe Vara de Rey",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Will Flynn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Esther Hornstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ruzanna Kegeyan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeremy Reed",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Kurt Gefke",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jessica Kelly",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Oriana Soddu",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Emily Hunter Salveson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ryan Donnell Smith",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joe Gatta",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Roman Viaris-de-Lesegno",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Stefon Bristol",
+  "valoraciones": {
+    "tmdb": 5.634,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Thunder Road",
+  "enlace_video": "https://rumble.com/hls-vod/6plqiv/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=zylvCqNTAiQ"
+}
