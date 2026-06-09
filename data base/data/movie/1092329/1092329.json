@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 1092329,
+  "poster": "https://image.tmdb.org/t/p/w500/w6TNNt60ftQ4lsh69awxy5Iiwvd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qJlbMCpBZTvS5QZ7z2bFCYyRjSB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/y5G5toeqTZdlcYWfBH4p6d9bWde.png",
+  "titulo": "Camino a Belén",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Drama"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.673,
+  "año": "2023",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Esta aventura musical navideña de acción en vivo para toda la familia entrelaza melodías navideñas clásicas con humor, fe y nuevas canciones pop en una narración de la historia más grande jamás contada: la historia de María y José y el nacimiento de Jesús.",
+  "fecha_estreno": "2023-11-09",
+  "titulo_original": "Journey to Bethlehem",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Fiona Palomo",
+      "personaje": "Mary",
+      "foto": "https://image.tmdb.org/t/p/w500/fWA3iIpU1MH43J0ke2ui6vGbJ5R.jpg"
+    },
+    {
+      "nombre": "Milo Manheim",
+      "personaje": "Joseph",
+      "foto": "https://image.tmdb.org/t/p/w500/gSwijFGqAiCOwZ3ZsrfqI930hqS.jpg"
+    },
+    {
+      "nombre": "Omid Djalili",
+      "personaje": "Melchior",
+      "foto": "https://image.tmdb.org/t/p/w500/lCgVvAw8EkIKbc93ZtINdwxH1CV.jpg"
+    },
+    {
+      "nombre": "Rizwan Manji",
+      "personaje": "Gaspar",
+      "foto": "https://image.tmdb.org/t/p/w500/mBsLE1sDCWZXR9PWV8xptTpxkQc.jpg"
+    },
+    {
+      "nombre": "Geno Segers",
+      "personaje": "Balthazar",
+      "foto": "https://image.tmdb.org/t/p/w500/wBrpM22iabuY2B9Um35J7ctiu8i.jpg"
+    },
+    {
+      "nombre": "Moriah Peters",
+      "personaje": "Deborah",
+      "foto": "https://image.tmdb.org/t/p/w500/g1iJ9z9ssllIEHzyeYsweWjISpu.jpg"
+    },
+    {
+      "nombre": "Joel Smallbone",
+      "personaje": "General Antipater",
+      "foto": "https://image.tmdb.org/t/p/w500/jgmSh04jRbSxGlBTMJ9Wo4CFDMB.jpg"
+    },
+    {
+      "nombre": "Lecrae",
+      "personaje": "Archangel Gabriel",
+      "foto": "https://image.tmdb.org/t/p/w500/8HMZBuIoug3wsiD74GaboywbbRN.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Adam Anders",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Adam Anders",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Peter Barsocchini",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Adam Anders",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brandt Andersen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steve Barnett",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan Busse",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Stephen Meinen",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nikki Anders",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Barsocchini",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Gutman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Vicky Patel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Leo Lavazza",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nick Moceri",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "José Luis Escolar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Juan Manuel Jimenez",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Xavi Giménez",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Sabrina Plisco",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Luci Lenox",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Lisa Zagoria",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Adam Anders",
+  "valoraciones": {
+    "tmdb": 7.673,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Affirm Films",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe1/4c/s8/2/4/e/3/w/4e3wy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=t2Ih_T5NLv0"
+}
