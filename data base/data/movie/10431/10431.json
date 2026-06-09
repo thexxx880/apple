@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 10431,
+  "poster": "https://image.tmdb.org/t/p/w500/2eE40wZmh4jL7oR9FtXrr6TxCuR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/b5IB4VGjR818tTNcCLHQCIFwQmW.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/h7Ax82IQnKgFJJ3mk9ma8WQb4vv.png",
+  "titulo": "Asesino solitario",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.4,
+  "año": "2007",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "Después de que su socio haya sido violentamente asesinado por el temido asesino profesional Rogue, el agente del FBI Jack Crawford jura dar caza al esquivo criminal y encargarse personalmente de la venganza de su compañero. Sin embargo, Rogue demuestra ser muy bueno en el arte de desaparecer sin rastro, y no es hasta que han transcurrido tres años que se le vuelve a ver, encendiendo la mecha de una sangrienta guerra entre el líder de las mafias chinas, Chang, y el jefe de los yakuza, Shiro. Ansioso por capturar a Rogue de una vez por todas, Crawford mete a su equipo especial en el meollo del conflicto. No obstante, la sed de sangre de Crawford nubla su juicio profesional, y según se acentúa la violencia, Crawford por fin se encuentra cara a cara con su enemigo para descubrir que nada es lo que parece en lo que respecta a Rogue o a su propio plan.",
+  "fecha_estreno": "2007-08-24",
+  "titulo_original": "War",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "李连杰",
+      "personaje": "Rogue",
+      "foto": "https://image.tmdb.org/t/p/w500/c4s8INzU0ZAujCQ1YmphCmcsNzl.jpg"
+    },
+    {
+      "nombre": "Jason Statham",
+      "personaje": "Special Agent Jack Crawford",
+      "foto": "https://image.tmdb.org/t/p/w500/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+    },
+    {
+      "nombre": "John Lone",
+      "personaje": "Li Chang",
+      "foto": "https://image.tmdb.org/t/p/w500/cO62O0mZGCvR0y5zM5oI2rUDhto.jpg"
+    },
+    {
+      "nombre": "石橋凌",
+      "personaje": "Shiro Yanagawa",
+      "foto": "https://image.tmdb.org/t/p/w500/1q8noUaI5E0ykjLdXRZcn7U79LN.jpg"
+    },
+    {
+      "nombre": "Devon Aoki",
+      "personaje": "Kira Yanagawa",
+      "foto": "https://image.tmdb.org/t/p/w500/4ou67wYflxUuZCLUqK3vuKC13t9.jpg"
+    },
+    {
+      "nombre": "鄭浩南",
+      "personaje": "Wu Ti",
+      "foto": "https://image.tmdb.org/t/p/w500/bBL0SIcLDoytkoLCoMAUH2aBEf.jpg"
+    },
+    {
+      "nombre": "Luis Guzmán",
+      "personaje": "Benny",
+      "foto": "https://image.tmdb.org/t/p/w500/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+    },
+    {
+      "nombre": "Saul Rubinek",
+      "personaje": "Dr. Sherman",
+      "foto": "https://image.tmdb.org/t/p/w500/vW4ERsjupcc9u1ipDR7w6h6sphe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Steven Chasman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Philip G. Atwell",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Christopher Petzel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jim Thompson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lee Anthony Smith",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Gregory J. Bradley",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Peter Block",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mike Elliott",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Paseornek",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Tyler",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Pierre Morel",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Scott Richter",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Maureen Webb",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Chris August",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Catherine Ircha",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Thomas L. Carter",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Joseph P. Genier",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Louise Roper",
+      "rol": "Set Decoration"
+    }
+  ],
+  "director": "Philip G. Atwell",
+  "valoraciones": {
+    "tmdb": 6.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lionsgate",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/08/s8/2/S/y/Q/t/SyQty.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=eKqbjcR_YD8"
+}
