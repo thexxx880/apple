@@ -1,0 +1,93 @@
+{
+  "id_tmdb": 1452879,
+  "poster": "https://image.tmdb.org/t/p/w500/iq09xOhoQowgZVOzViQGwgPEhyG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sST3YYCuSFgf0lZW8nqrXoIpw4p.jpg",
+  "logo": null,
+  "titulo": "Crónicas",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Ciencia ficción",
+    "Terror"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7,
+  "año": "2025",
+  "duracion": "2h 11min",
+  "edad_minima": 13,
+  "sinopsis": "Demian y su hermano Dilan son secuestrados de su línea temporal durante varias décadas para completar una peligrosa misión. La única forma de regresar a casa es cumplir la misión, pero el multiverso es extremadamente peligroso y los acontecimientos empeorarán.",
+  "fecha_estreno": "2025-03-24",
+  "titulo_original": "Crónicas",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Gerardo segoviano",
+      "personaje": "David, Vega",
+      "foto": null
+    },
+    {
+      "nombre": "Ángel Cruz Herrera",
+      "personaje": "Tylor",
+      "foto": null
+    },
+    {
+      "nombre": "Eduardo Rivera Vazquez",
+      "personaje": "Voz del arca",
+      "foto": null
+    },
+    {
+      "nombre": "Juan Esguerra Obando",
+      "personaje": "Wyatt",
+      "foto": null
+    },
+    {
+      "nombre": "Joaquín Canto Segoviano",
+      "personaje": "John",
+      "foto": null
+    },
+    {
+      "nombre": "Andrés Mejía",
+      "personaje": "Dylan",
+      "foto": null
+    },
+    {
+      "nombre": "José Vazquez Ibarra",
+      "personaje": "Diego",
+      "foto": null
+    },
+    {
+      "nombre": "José Mejia Aguayo",
+      "personaje": "Demian",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Fletcher Mejia Aguayo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Fletcher Mejia Aguayo",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Fletcher Mejia Aguayo",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Fletcher Mejia Aguayo",
+      "rol": "Director of Previsualization"
+    }
+  ],
+  "director": "Fletcher Mejia Aguayo",
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Mechanic Ghost Studios",
+  "enlace_video": "https://rumble.com/hls-vod/6pk46d/playlist.m3u8",
+  "trailer": ""
+}
