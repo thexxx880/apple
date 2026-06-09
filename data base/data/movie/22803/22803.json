@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 22803,
+  "poster": "https://image.tmdb.org/t/p/w500/qcmMHHGQA8CjzZkr5OeBpM6kmcT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nazre7z7MoUwAqimnrSlMlfLR5t.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iZsW3j2beFG3Ci01wMCvUzhTUwm.png",
+  "titulo": "El vengador",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.394,
+  "año": "2009",
+  "duracion": "1h 48min",
+  "edad_minima": 13,
+  "sinopsis": "Un hombre frustrado decide tomar la justicia por su cuenta después de que un acuerdo de culpabilidad libere a uno de los asesinos de su familia.",
+  "fecha_estreno": "2009-10-15",
+  "titulo_original": "Law Abiding Citizen",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Jamie Foxx",
+      "personaje": "Nick Rice",
+      "foto": "https://image.tmdb.org/t/p/w500/25zzvFA6yx2Q9BYnugsbd4JWDfu.jpg"
+    },
+    {
+      "nombre": "Gerard Butler",
+      "personaje": "Clyde Alexander Shelton",
+      "foto": "https://image.tmdb.org/t/p/w500/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+    },
+    {
+      "nombre": "Colm Meaney",
+      "personaje": "Detective Dunnigan",
+      "foto": "https://image.tmdb.org/t/p/w500/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg"
+    },
+    {
+      "nombre": "Bruce McGill",
+      "personaje": "Jonas Cantrell",
+      "foto": "https://image.tmdb.org/t/p/w500/j4mn0fPdhhXfRqQwheAwCU8Hwrm.jpg"
+    },
+    {
+      "nombre": "Leslie Bibb",
+      "personaje": "Sarah Lowell",
+      "foto": "https://image.tmdb.org/t/p/w500/g3a1O9lOTZvrwQupUtg4Fc3CdTd.jpg"
+    },
+    {
+      "nombre": "Michael Irby",
+      "personaje": "Detective Garza",
+      "foto": "https://image.tmdb.org/t/p/w500/9cX8pKujyAlOyqGSAgvKNdA3qRj.jpg"
+    },
+    {
+      "nombre": "Gregory Itzin",
+      "personaje": "Warden Iger",
+      "foto": "https://image.tmdb.org/t/p/w500/lUACgFTvuhRhAC3GwnpcWMGLxo4.jpg"
+    },
+    {
+      "nombre": "Regina Hall",
+      "personaje": "Kelly Rice",
+      "foto": "https://image.tmdb.org/t/p/w500/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kurt Wimmer",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "F. Gary Gray",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark Gill",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alan Siegel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gerard Butler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kurt Wimmer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lucas Foster",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tariq Anwar",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Joe Bucaro III",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Jeff G. Waxman",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "David Taicher",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Jeffrey Kurland",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jesse Rosenthal",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Neil Sacker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gregory Veeser",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Lydia Bensimmon",
+      "rol": "Key Hair Stylist"
+    },
+    {
+      "nombre": "Christopher Assells",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Zigmund Gron",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Mark Kamine",
+      "rol": "Production Manager"
+    }
+  ],
+  "director": "F. Gary Gray",
+  "valoraciones": {
+    "tmdb": 7.394,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Film Department",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/11/s8/2/I/j/f/u/Ijfuy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=LX6kVRsdXW4"
+}
