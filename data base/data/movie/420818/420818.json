@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 420818,
+  "poster": "https://image.tmdb.org/t/p/w500/eGfq90BF8QGCMpncF2ag0lGTgKk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/clU0s0tN0oISabdWFfQiX8aopYb.png",
+  "titulo": "El rey león",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Drama",
+    "Familia",
+    "Animación"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.097,
+  "año": "2019",
+  "duracion": "1h 58min",
+  "edad_minima": 13,
+  "sinopsis": "La nueva versión de acción real de EL REY LEÓN de Disney, del director Jon Favreau, nos lleva a la sabana africana donde un futuro rey ha nacido. Simba idolatra a su padre, el rey Mufasa, y está entusiasmado con su destino real. Pero no todos en el reino celebran la llegada del nuevo cachorro. Scar, el hermano de Mufasa y antiguo heredero al trono, tiene sus propios planes. La batalla de Pride Rock se ve teñida de traición, tragedia y drama, y acaba forzando a Simba al exilio. Con la ayuda de una curiosa pareja de amigos nuevos, Simba tendrá que arreglárselas para crecer y recuperar lo que legítimamente le corresponde.",
+  "fecha_estreno": "2019-07-12",
+  "titulo_original": "The Lion King",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chiwetel Ejiofor",
+      "personaje": "Scar (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+      "nombre": "John Oliver",
+      "personaje": "Zazu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wI7LRInWUT3RgCByYx69wRMqgsy.jpg"
+    },
+    {
+      "nombre": "Donald Glover",
+      "personaje": "Simba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg"
+    },
+    {
+      "nombre": "James Earl Jones",
+      "personaje": "Mufasa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
+    },
+    {
+      "nombre": "John Kani",
+      "personaje": "Rafiki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/g7tqg3q128a5O2qXMCwVnXsow9I.jpg"
+    },
+    {
+      "nombre": "Alfre Woodard",
+      "personaje": "Sarabi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jaojqEDdOBWfDpQfdWIbvyLDy5z.jpg"
+    },
+    {
+      "nombre": "Beyoncé",
+      "personaje": "Nala (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2HbjNtiCtmbArEnELuDFU7knaVK.jpg"
+    },
+    {
+      "nombre": "JD McCrary",
+      "personaje": "Young Simba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/htmTGqA0yASNdMefUuQrTLfLMvs.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jeff Nathanson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jon Favreau",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeffrey Silver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Karen Gilchrist",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jon Favreau",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jeremy Wayne",
+      "rol": "Visual Effects Coordinator"
+    },
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Executive Music Producer"
+    },
+    {
+      "nombre": "Kim Richards",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Christoph Roth",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Christopher Boyes",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Christopher Boyes",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Pascal Garneau",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Frank E. Eulner",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Lora Hirschberg",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Christopher Boyes",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Justin Doyle",
+      "rol": "Sound Effects Editor"
+    }
+  ],
+  "director": "Jon Favreau",
+  "valoraciones": {
+    "tmdb": 7.097,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/f/w/J/x/fwJxq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=mb79ctR-E-c"
+}
