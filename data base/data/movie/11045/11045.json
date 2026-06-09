@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 11045,
+  "poster": "https://image.tmdb.org/t/p/w500/6dvI9fy3Rr6WcCH2oOdW2h56G7K.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tX9QP4WciyzzGlXlYFf5a8Q7w6V.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5elIHv54Nm1grLY1c5KnAqNAcbt.png",
+  "titulo": "Taxi",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Suspense",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.564,
+  "año": "2004",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Una conductora de taxi tiene consejos para un policía verde e inepto dispuesto a resolver una serie de robos a bancos en la ciudad de Nueva York cometidos por un cuarteto de ladrones de bancos brasileñas.",
+  "fecha_estreno": "2004-10-06",
+  "titulo_original": "Taxi",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Queen Latifah",
+      "personaje": "Isabelle 'Belle' Williams",
+      "foto": "https://image.tmdb.org/t/p/w500/AeNoPcSWTsl1mOxiyXAKjVnzrwl.jpg"
+    },
+    {
+      "nombre": "Jimmy Fallon",
+      "personaje": "Andrew 'Andy' Washburn",
+      "foto": "https://image.tmdb.org/t/p/w500/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+    },
+    {
+      "nombre": "Gisele Bündchen",
+      "personaje": "Vanessa",
+      "foto": "https://image.tmdb.org/t/p/w500/rXPQOeTQRtBoSVfrqEfVE6hS2xF.jpg"
+    },
+    {
+      "nombre": "Jennifer Esposito",
+      "personaje": "Lt. Marta Robbins",
+      "foto": "https://image.tmdb.org/t/p/w500/8sRgUsp9vUWlaRfoZH8Q2SF8on1.jpg"
+    },
+    {
+      "nombre": "Henry Simmons",
+      "personaje": "Jesse",
+      "foto": "https://image.tmdb.org/t/p/w500/mnjj5br0CGvYVdHrERhRHulLUfU.jpg"
+    },
+    {
+      "nombre": "Christian Kane",
+      "personaje": "Agent Mullins",
+      "foto": "https://image.tmdb.org/t/p/w500/jPUk9WXrdv1t30dZgcNxa8OxSu3.jpg"
+    },
+    {
+      "nombre": "Ann-Margret",
+      "personaje": "Mrs. Washburn",
+      "foto": "https://image.tmdb.org/t/p/w500/z20lA2EyYbLcZn5GV1deMQDUCEc.jpg"
+    },
+    {
+      "nombre": "Ana Cristina Oliveira",
+      "personaje": "Redhead",
+      "foto": "https://image.tmdb.org/t/p/w500/syxZqKkGVW9cg6kkSu1lvfOghut.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tim Story",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robert Ben Garant",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Thomas Lennon",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jim Kouf",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ira Shuman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Simonds",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christophe Beck",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tim Boland",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Vance Burberry",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Stuart Levy",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Billy Taylor",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Steven Chasman",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Ilene Starger",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Christine Anne Baur",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Mayne Berke",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Maria Baker",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Tim Story",
+  "valoraciones": {
+    "tmdb": 5.564,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Robert Simonds Productions",
+  "enlace_video": "https://rumble.com/hls-vod/6y4w0k/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=oCjiNBiEUaQ"
+}
