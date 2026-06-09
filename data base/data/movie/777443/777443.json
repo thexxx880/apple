@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 777443,
+  "poster": "https://image.tmdb.org/t/p/w500/swUvAF9d9WKWGQwVCPDu8Qi8ilZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2n7lYEeIbucsEQCswRcVB6ZYmMP.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bFJK4dK4eLJYnUWLjE2HmUTB63N.png",
+  "titulo": "Estado eléctrico",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.498,
+  "año": "2025",
+  "duracion": "2h 5min",
+  "edad_minima": 13,
+  "sinopsis": "De la mano de un robot, un contrabandista y su ocurrente compañero, una adolescente huérfana emprende un inolvidable viaje en busca de su hermano menor desaparecido.",
+  "fecha_estreno": "2025-03-07",
+  "titulo_original": "The Electric State",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Millie Bobby Brown",
+      "personaje": "Michelle",
+      "foto": "https://image.tmdb.org/t/p/w500/kHO7hdNEVuTnQ0OjjrxP1RcAa0e.jpg"
+    },
+    {
+      "nombre": "Chris Pratt",
+      "personaje": "Keats",
+      "foto": "https://image.tmdb.org/t/p/w500/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "nombre": "Ke Huy Quan",
+      "personaje": "Dr. Amherst / P.C (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iestHyn7PLuVowj5Jaa1SGPboQ4.jpg"
+    },
+    {
+      "nombre": "Jason Alexander",
+      "personaje": "Ted / Wingman",
+      "foto": "https://image.tmdb.org/t/p/w500/qRezZ2yhM2bmBERt7jVcxo8RVSA.jpg"
+    },
+    {
+      "nombre": "Woody Norman",
+      "personaje": "Christopher",
+      "foto": "https://image.tmdb.org/t/p/w500/jQlx4bAGAmQfvzEuXw6A9cEmb95.jpg"
+    },
+    {
+      "nombre": "Giancarlo Esposito",
+      "personaje": "Colonel Bradbury / The Marshall",
+      "foto": "https://image.tmdb.org/t/p/w500/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+    },
+    {
+      "nombre": "Stanley Tucci",
+      "personaje": "Ethan Skate",
+      "foto": "https://image.tmdb.org/t/p/w500/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+      "nombre": "Woody Harrelson",
+      "personaje": "Mr. Peanut (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Joe Russo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mike Larocca",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Anthony Russo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Castaldi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patrick Newall",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Russo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Christopher Markus",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Stephen McFeely",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Schoenfelder",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stephen F. Windon",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Alan Silvestri",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Dennis Gassner",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jeffrey Ford",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Judianna Makovsky",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Richard L. Johnson",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Stephen McFeely",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeffrey Ford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christopher Markus",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Simon Stålenhag",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julia Angelin",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Joe Russo",
+  "valoraciones": {
+    "tmdb": 6.498,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "AGBO",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/50/s8/2/g/m/S/s/gmSsy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=QIw6ITiwgBU"
+}
