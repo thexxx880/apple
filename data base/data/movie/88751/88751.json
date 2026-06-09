@@ -1,0 +1,151 @@
+{
+  "id_tmdb": 88751,
+  "poster": "https://image.tmdb.org/t/p/w500/pfZQzTXaHQ6m517Q4la8p7D1AJn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Adlc8JMVEXOelFO6hYpIYcGBx2T.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9SJxmn15vYTQg8LTSHZUu6sHrB1.png",
+  "titulo": "Viaje al centro de la Tierra",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Aventura",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 6.1,
+  "año": "2008",
+  "duracion": "1h 27min",
+  "edad_minima": 13,
+  "sinopsis": "Durante una expedición científica en Islandia, el científico y visionario Trevor Anderson, su sobrino Sean y la bella guía local, Hannah, quedan inesperadamente atrapados en una cueva y la única forma de escape posible les lleva a adentrarse cada vez más en las entrañas de la tierra.",
+  "fecha_estreno": "2008-07-10",
+  "titulo_original": "Journey to the Center of the Earth",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Brendan Fraser",
+      "personaje": "Trevor Anderson",
+      "foto": "https://image.tmdb.org/t/p/w500/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    },
+    {
+      "nombre": "Josh Hutcherson",
+      "personaje": "Sean Anderson",
+      "foto": "https://image.tmdb.org/t/p/w500/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+    },
+    {
+      "nombre": "Anita Briem",
+      "personaje": "Hannah Ásgeirsson",
+      "foto": "https://image.tmdb.org/t/p/w500/8M6MkLKpAXKRoYlhOH5LzBhBGFv.jpg"
+    },
+    {
+      "nombre": "Seth Meyers",
+      "personaje": "Professor Alan Kitzens",
+      "foto": "https://image.tmdb.org/t/p/w500/nCcvpJFHWYHfu5oPxTOyA1uSdqA.jpg"
+    },
+    {
+      "nombre": "Jean Michel Paré",
+      "personaje": "Max Anderson",
+      "foto": "https://image.tmdb.org/t/p/w500/tU5YL4ekpCpOgUtGSGXkCJaTVvV.jpg"
+    },
+    {
+      "nombre": "Jane Wheeler",
+      "personaje": "Elizabeth Anderson",
+      "foto": "https://image.tmdb.org/t/p/w500/Ab3vhCpbY364Ba1bClpUsrJbYfE.jpg"
+    },
+    {
+      "nombre": "Frank Fontaine",
+      "personaje": "Old Man",
+      "foto": "https://image.tmdb.org/t/p/w500/2cycxGSFPgeNyKoL9v23ed3xA0A.jpg"
+    },
+    {
+      "nombre": "Giancarlo Caltabiano",
+      "personaje": "Leonard",
+      "foto": "https://image.tmdb.org/t/p/w500/u5xCcmBZ6JMJngBGezkyewEpwSY.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Eric Brevig",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael D. Weiss",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jennifer Flackett",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mark Levin",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Beau Flynn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Charlotte Huggins",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jules Verne",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Andrew Lockington",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Dirk Westervelt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Toby Emmerich",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Griffith",
+      "rol": "Digital Intermediate Colorist"
+    },
+    {
+      "nombre": "Vera Miller",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Elisabeth Rudolph",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mario Davignon",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Steven Rosenblum",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Lisa Marra",
+      "rol": "Visual Effects Coordinator"
+    },
+    {
+      "nombre": "David Sandefur",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Christopher Townsend",
+      "rol": "Visual Effects Supervisor"
+    }
+  ],
+  "director": "Eric Brevig",
+  "valoraciones": {
+    "tmdb": 6.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/4e/s8/2/G/i/0/s/Gi0sy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=Dk0v8pe7tzw"
+}
