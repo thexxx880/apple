@@ -129,21 +129,62 @@ mainBtn.onclick = async () => {
 
 // ================== GOOGLE ==================
 document.getElementById("googleBtn").onclick = async () => {
+
   try {
+
     loading.style.display = "block";
-    const provider = new firebase.auth.GoogleAuthProvider();
-    const result = await auth.signInWithPopup(provider);
-    showToast("Inicio con Google exitoso", "fa-check-circle", "#46d369");
-    // ← Ya NO redirige. La pantalla de bienvenida aparecerá sola
+
+    const provider =
+      new firebase.auth.GoogleAuthProvider();
+
+    provider.setCustomParameters({
+      prompt: "select_account"
+    });
+
+    const result =
+      await auth.signInWithPopup(provider);
+
+    showToast(
+      "Inicio con Google exitoso",
+      "fa-check-circle",
+      "#46d369"
+    );
+
   } catch (error) {
+
     console.error(error);
-    if (error.code === "auth/popup-closed-by-user") {
-      showToast("Has cancelado el inicio con Google", "fa-info-circle", "#888");
+
+    if (
+      error.code ===
+      "auth/operation-not-supported-in-this-environment"
+    ) {
+
+      showToast(
+        "Google Login requiere navegador externo",
+        "fa-circle-info",
+        "#4ea1ff"
+      );
+
+      setTimeout(() => {
+
+        window.location.href =
+          "https://accounts.google.com";
+
+      }, 1000);
+
     } else {
-      showToast("Error con Google: " + error.message, "fa-exclamation-triangle", "#ff4444");
+
+      showToast(
+        error.message,
+        "fa-exclamation-triangle",
+        "#ff4444"
+      );
     }
+
   } finally {
+
     loading.style.display = "none";
+
   }
 };
 
