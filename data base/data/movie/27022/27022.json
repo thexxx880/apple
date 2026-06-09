@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 27022,
+  "poster": "https://image.tmdb.org/t/p/w500/uLUv1ZQxECr1tcyGqjirTc4nZtM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mtrfLUfUoQunolDhmQy0GfbRclC.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nyKTd57irjXwZlJAs36NGb2QJdb.png",
+  "titulo": "El Aprendiz de Brujo",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Aventura",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.142,
+  "año": "2010",
+  "duracion": "1h 49min",
+  "edad_minima": 13,
+  "sinopsis": "Dave Stutler es un joven normal, hasta que el experimentado mago Balthazar Blake ve en él un talento oculto para la hechicería. Dave se convierte en el protegido renuente de Balthazar y recibe un curso intenso en el arte de la magia; pero mientras él se prepara para ayudar a su maestro a defender Manhattan de un poderoso adversario, Dave se pregunta si sobrevivirá a su entrenamiento, salvará la ciudad y encontrará a su amor verdadero.",
+  "fecha_estreno": "2010-07-13",
+  "titulo_original": "The Sorcerer's Apprentice",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Nicolas Cage",
+      "personaje": "Balthazar Blake",
+      "foto": "https://image.tmdb.org/t/p/w500/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+      "nombre": "Jay Baruchel",
+      "personaje": "David \"Dave\" Stutler",
+      "foto": "https://image.tmdb.org/t/p/w500/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+    },
+    {
+      "nombre": "Alfred Molina",
+      "personaje": "Maxim Horvath",
+      "foto": "https://image.tmdb.org/t/p/w500/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "nombre": "Teresa Palmer",
+      "personaje": "Rebecca \"Becky\" Barnes",
+      "foto": "https://image.tmdb.org/t/p/w500/sjSiLSCp9LS1Z0nyGpmquTBuUyr.jpg"
+    },
+    {
+      "nombre": "Toby Kebbell",
+      "personaje": "Drake Stone",
+      "foto": "https://image.tmdb.org/t/p/w500/mlYytYJvoEHmhDH2enLtES1098Q.jpg"
+    },
+    {
+      "nombre": "Omar Benson Miller",
+      "personaje": "Bennet Zurrow",
+      "foto": "https://image.tmdb.org/t/p/w500/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg"
+    },
+    {
+      "nombre": "Monica Bellucci",
+      "personaje": "Veronica Gorloisen",
+      "foto": "https://image.tmdb.org/t/p/w500/7g3k3u2gZpE7XU8GRYwHDuN1jlM.jpg"
+    },
+    {
+      "nombre": "Alice Krige",
+      "personaje": "Morgana le Fay",
+      "foto": "https://image.tmdb.org/t/p/w500/jHOknQMjkIqqrm5RjtMCnJfnGXl.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jon Turteltaub",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Doug Miro",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Carlo Bernard",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Matt Lopez",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Mark Rosenthal",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lawrence Konner",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jerry Bruckheimer",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Shawnna Thibodeau",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Aaron Vexler",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Mickey Giacomazzi",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Kimberly Shannon Murphy",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Roy Farfel",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Mark Fichera",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Peter Epstein",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Jeremy Fry",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Thomas DuPont",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Jayson Dumenigo",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Nicole Callender",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Victor Chan",
+      "rol": "Utility Stunts"
+    }
+  ],
+  "director": "Jon Turteltaub",
+  "valoraciones": {
+    "tmdb": 6.142,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/6pffff/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=NDPPUJqFgks"
+}
