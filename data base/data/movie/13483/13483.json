@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 13483,
+  "poster": "https://image.tmdb.org/t/p/w500/rCfVv40XBQ7SEUibGARr5AR9QtT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nAVntSurtINQNtYPU7ijgCtgz7W.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vrs8ZHrE0Q4XkNJ7xx6ba6RLjQi.png",
+  "titulo": "Bajo anestesia",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Crimen",
+    "Misterio"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.6,
+  "año": "2007",
+  "duracion": "1h 24min",
+  "edad_minima": 13,
+  "sinopsis": "Un joven (Hayden Christensen) se somete a una cirugía, despierta durante el procedimiento, queda paralítico, pero no puede avisarle a los médicos de su condición. Mientras tanto, su esposa (Jessica Alba) se enfrenta a sus propios demonios mientras su marido está sufriendo una dura prueba.",
+  "fecha_estreno": "2007-11-28",
+  "titulo_original": "Awake",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Hayden Christensen",
+      "personaje": "Clay Beresford",
+      "foto": "https://image.tmdb.org/t/p/w500/lOcGI55CYlRjbH2jcdoLmN3KplD.jpg"
+    },
+    {
+      "nombre": "Jessica Alba",
+      "personaje": "Sam Lockwood",
+      "foto": "https://image.tmdb.org/t/p/w500/jCImuXo4TqdWeIs4Hc2tO0U28LV.jpg"
+    },
+    {
+      "nombre": "Terrence Howard",
+      "personaje": "Dr. Jack Harper",
+      "foto": "https://image.tmdb.org/t/p/w500/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg"
+    },
+    {
+      "nombre": "Lena Olin",
+      "personaje": "Lilith Beresford",
+      "foto": "https://image.tmdb.org/t/p/w500/tUg7cH4qLqs5WdOIH0WMQby9kWH.jpg"
+    },
+    {
+      "nombre": "Christopher McDonald",
+      "personaje": "Dr. Larry Lupin",
+      "foto": "https://image.tmdb.org/t/p/w500/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg"
+    },
+    {
+      "nombre": "Sam Robards",
+      "personaje": "Clayton Beresford Sr.",
+      "foto": "https://image.tmdb.org/t/p/w500/AqYRpRgNqQopOU5YGfSFVSuIyl9.jpg"
+    },
+    {
+      "nombre": "Arliss Howard",
+      "personaje": "Dr. Jonathan Neyer",
+      "foto": "https://image.tmdb.org/t/p/w500/28bQJ5fqLem4Ml7x9LZ7QEnwaTa.jpg"
+    },
+    {
+      "nombre": "Fisher Stevens",
+      "personaje": "Dr. Puttnam",
+      "foto": "https://image.tmdb.org/t/p/w500/wWC6wbLV56RJGtyytMmmGvi054t.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Joby Harold",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joana Vicente",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Penotti",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fisher Stevens",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joby Harold",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jason Kliot",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Cynthia Flynt",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Russell Carpenter",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Avy Kaufman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Samantha MacIvor",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Stephanie Finochio",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Chris Bingham",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Craig McKay",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Dina Goldman-Kunin",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Tora Peterson",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Ben Barraud",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Missy Cohen",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Dan Edelstein",
+      "rol": "Dialogue Editor"
+    }
+  ],
+  "director": "Joby Harold",
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Weinstein Company",
+  "enlace_video": "https://rumble.com/hls-vod/6pqnll/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=RzR2J7_QBHg"
+}
