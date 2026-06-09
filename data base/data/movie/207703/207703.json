@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 207703,
+  "poster": "https://image.tmdb.org/t/p/w500/2RNABhJ8sTfenTz84ADVUbPllxq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qzUIOTk0E3F1zjvYjcBRTKUTgf9.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qqPURzGohu9qogbEy0eT53b8xBy.png",
+  "titulo": "Kingsman: El Servicio Secreto",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Comedia",
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.62,
+  "año": "2015",
+  "duracion": "2h 9min",
+  "edad_minima": 13,
+  "sinopsis": "Una organización de espías recluta a un prometedor chico de la calle en el programa de entrenamiento de la agencia, mientras que una amenaza global emerge de un genio tecnológico retorcido.",
+  "fecha_estreno": "2015-01-24",
+  "titulo_original": "Kingsman: The Secret Service",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Taron Egerton",
+      "personaje": "Gary 'Eggsy' Unwin",
+      "foto": "https://image.tmdb.org/t/p/w500/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg"
+    },
+    {
+      "nombre": "Colin Firth",
+      "personaje": "Harry Hart / Galahad",
+      "foto": "https://image.tmdb.org/t/p/w500/4VBeYEUQbfhnivdkqInM36u5fda.jpg"
+    },
+    {
+      "nombre": "Samuel L. Jackson",
+      "personaje": "Valentine",
+      "foto": "https://image.tmdb.org/t/p/w500/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+      "nombre": "Mark Strong",
+      "personaje": "Merlin",
+      "foto": "https://image.tmdb.org/t/p/w500/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+    },
+    {
+      "nombre": "Sophie Cookson",
+      "personaje": "Roxy",
+      "foto": "https://image.tmdb.org/t/p/w500/96meHc9VVGYUD7riWcpowZegw7U.jpg"
+    },
+    {
+      "nombre": "Sofia Boutella",
+      "personaje": "Gazelle",
+      "foto": "https://image.tmdb.org/t/p/w500/yAbMWBdOaK50pclJhCl65U6qEBK.jpg"
+    },
+    {
+      "nombre": "Michael Caine",
+      "personaje": "Arthur",
+      "foto": "https://image.tmdb.org/t/p/w500/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+      "nombre": "Edward Holcroft",
+      "personaje": "Charlie",
+      "foto": "https://image.tmdb.org/t/p/w500/hLsZyePiRMTrqlHalPh8f5dLRIE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Matthew Vaughn",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Adam Bohling",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Reid",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matthew Vaughn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jane Goldman",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Matthew Vaughn",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nathaniel De'Lineadeus",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Chris Lyons",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Agnes Legere",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Ray Marston",
+      "rol": "Wigmaker"
+    },
+    {
+      "nombre": "Christine Blundell",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Dave Gibbons",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gavin Rose",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Mark Appleby",
+      "rol": "ADR Mixer"
+    },
+    {
+      "nombre": "Mike Prestwood Smith",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Peter Burgis",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "James Ashwill",
+      "rol": "Foley Mixer"
+    },
+    {
+      "nombre": "Jill Hornby",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Matthew Vaughn",
+  "valoraciones": {
+    "tmdb": 7.62,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Fox",
+  "enlace_video": "https://rumble.com/hls-vod/6pgt89/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=q7WWzM5NeoQ"
+}
