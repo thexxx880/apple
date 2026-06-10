@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 931285,
+  "poster": "https://image.tmdb.org/t/p/w500/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tOg7Lyj0VAs5S5auXOziN49Fs2y.png",
+  "titulo": "Mortal Kombat II",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Fantasía",
+    "Aventura"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.721,
+  "año": "2026",
+  "duracion": "1h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Los campeones favoritos de los fans —ahora acompañados por el mismísimo Johnny Cage— se enfrentan entre sí en la batalla definitiva, sangrienta y sin reglas, para derrotar el oscuro dominio de Shao Kahn, que amenaza con destruir el Reino de la Tierra y a sus defensores.",
+  "fecha_estreno": "2026-05-06",
+  "titulo_original": "Mortal Kombat II",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Karl Urban",
+      "personaje": "Johnny Cage",
+      "foto": "https://image.tmdb.org/t/p/w500/6CkZLwEJxfqqcJHyeXegMAvOlPh.jpg"
+    },
+    {
+      "nombre": "Adeline Rudolph",
+      "personaje": "Kitana",
+      "foto": "https://image.tmdb.org/t/p/w500/8j0zvHIqvW9kwOFLWI7QOa4V62y.jpg"
+    },
+    {
+      "nombre": "Jessica McNamee",
+      "personaje": "Sonya Blade",
+      "foto": "https://image.tmdb.org/t/p/w500/xX1WxRZyJqVAx24Q3ziziGq2T8A.jpg"
+    },
+    {
+      "nombre": "Josh Lawson",
+      "personaje": "Kano",
+      "foto": "https://image.tmdb.org/t/p/w500/Am9vM77uZd9bGODugwmWtOfzx6E.jpg"
+    },
+    {
+      "nombre": "Martyn Ford",
+      "personaje": "Shao Kahn",
+      "foto": "https://image.tmdb.org/t/p/w500/nt1gfbZPSywrHX1XnuZhQ0gU5BS.jpg"
+    },
+    {
+      "nombre": "Ludi Lin",
+      "personaje": "Liu Kang",
+      "foto": "https://image.tmdb.org/t/p/w500/9Ila4K8POeuVWRO9hzyekFjvCDk.jpg"
+    },
+    {
+      "nombre": "Mehcad Brooks",
+      "personaje": "Jax",
+      "foto": "https://image.tmdb.org/t/p/w500/s7Cu6Si9n5qsH64eLBVGXaf55bE.jpg"
+    },
+    {
+      "nombre": "Tati Gabrielle",
+      "personaje": "Jade",
+      "foto": "https://image.tmdb.org/t/p/w500/txZTL1HkPVxliTilbjlwR51VIt6.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Simon McQuoid",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeremy Slater",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Todd Garner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Toby Emmerich",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Simon McQuoid",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "E. Bennett Walsh",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lawrence Kasanoff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stephen F. Windon",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Ed Boon",
+      "rol": "Video Game"
+    },
+    {
+      "nombre": "John Tobias",
+      "rol": "Video Game"
+    },
+    {
+      "nombre": "Stuart Levy",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Rich Delia",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "種田陽平",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Cappi Ireland",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Benjamin Wallfisch",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jeremy Slater",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Judson Scott",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Clear",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Simon McQuoid",
+  "valoraciones": {
+    "tmdb": 7.721,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/33/s8/2/Q/4/-/o/Q4-oA.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y"
+}
