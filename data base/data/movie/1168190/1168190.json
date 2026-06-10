@@ -1,0 +1,154 @@
+{
+  "id_tmdb": 1168190,
+  "poster": "https://image.tmdb.org/t/p/w500/pG39vgTEhHeYIlcPJtHpxNLdPPM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9pD9nn73WM2PwykHakspDzM4ea1.png",
+  "titulo": "Equipo Demolición",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Crimen",
+    "Misterio"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.979,
+  "año": "2026",
+  "duracion": "2h 5min",
+  "edad_minima": 13,
+  "sinopsis": "Un improbable dúo de hermanastros, uno un impulsivo detective y el otro un disciplinado, se ven atraídos por el asesinato de su padre en Hawai, lo que les lleva a un peligroso viaje para desenmascarar una conspiración de largo alcance.",
+  "fecha_estreno": "2026-01-28",
+  "titulo_original": "The Wrecking Crew",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Dave Bautista",
+      "personaje": "James Hale",
+      "foto": "https://image.tmdb.org/t/p/w500/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    },
+    {
+      "nombre": "Jason Momoa",
+      "personaje": "Jonny Hale",
+      "foto": "https://image.tmdb.org/t/p/w500/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+    },
+    {
+      "nombre": "Temuera Morrison",
+      "personaje": "Governor Peter Mahoe",
+      "foto": "https://image.tmdb.org/t/p/w500/AvtSC0f9QW7fMyFFNXEWDeQyfUk.jpg"
+    },
+    {
+      "nombre": "Morena Baccarin",
+      "personaje": "Valentina",
+      "foto": "https://image.tmdb.org/t/p/w500/4gyHyg6FJ1oFczOm5pmMkdEEo2J.jpg"
+    },
+    {
+      "nombre": "Roimata Fox",
+      "personaje": "Leila Hale",
+      "foto": "https://image.tmdb.org/t/p/w500/iTNBvtrI8R5UofzJZjsVnyEGz9D.jpg"
+    },
+    {
+      "nombre": "Frankie Adams",
+      "personaje": "Haunani Palakiko",
+      "foto": "https://image.tmdb.org/t/p/w500/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
+    },
+    {
+      "nombre": "Claes Bang",
+      "personaje": "Marcus Robichaux",
+      "foto": "https://image.tmdb.org/t/p/w500/fqSBUq2UEoQYuqjjKNMQzDVxZv2.jpg"
+    },
+    {
+      "nombre": "Jacob Batalon",
+      "personaje": "Pika",
+      "foto": "https://image.tmdb.org/t/p/w500/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ángel Manuel Soto",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jason Momoa",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dave Bautista",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Reeves",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeffrey Fierson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lynn Harris",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jonathan Tropper",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jon Valera",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Jon Valera",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Hamish Gough",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Tony Johnson",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Bobby Krlic",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Matt Flannery",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Andrew Menzies",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Alistair Kay",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Daniel Birt",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jane Holland",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jane O'Kane",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Jane O'Kane",
+      "rol": "Makeup Designer"
+    }
+  ],
+  "director": "Ángel Manuel Soto",
+  "valoraciones": {
+    "tmdb": 6.979,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Amazon MGM Studios",
+  "enlace_video": "https://1a-1791.com/video/fwe2/a7/s8/2/K/e/H/U/KeHUz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=hHSqxP7g8JY"
+}
