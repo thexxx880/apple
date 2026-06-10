@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 1339173,
+  "poster": "https://image.tmdb.org/t/p/w500/rR6zS2sPpcjND92cCLmsuMNok7M.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9L5Ekpoy4zT6o00qKUmZTeTkaVf.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/i3KpNdE38XFmgywyA79te6B3V11.png",
+  "titulo": "Honey Bunch",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Terror",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6,
+  "año": "2026",
+  "duracion": "1h 54min",
+  "edad_minima": 13,
+  "sinopsis": "Tras un accidente, Diana sufre amnesia y dolores incapacitantes. Homer, su devoto marido, la lleva a una remota clínica de traumatología donde le prometen que se recuperará por completo con la ayuda de una innovadora terapia. Pronto volverá a ser la de antes. Homer está entusiasmado con los progresos de Diana, pero cuantos más tratamientos recibe, menos se parece a sí misma. Diana experimenta visiones inquietantes y nota extraños cambios en el comportamiento de su marido: conversaciones susurradas a puerta cerrada, largos periodos de ausencia y su insistencia en que ella se está recuperando aunque en realidad se siente peor. A medida que los recuerdos perturbadores de su relación comienzan a regresar vívidamente, Diana debe enfrentarse a la posibilidad de que su recuperación tenga un coste mucho mayor de lo que jamás podría haber imaginado, un coste que amenaza con desvelar la siniestra verdad sobre su matrimonio.",
+  "fecha_estreno": "2026-01-23",
+  "titulo_original": "Honey Bunch",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Grace Glowicki",
+      "personaje": "Diana",
+      "foto": "https://image.tmdb.org/t/p/w500/4SbxF12ARtTqL6xfbIn8fT0w7HL.jpg"
+    },
+    {
+      "nombre": "Ben Petrie",
+      "personaje": "Homer",
+      "foto": "https://image.tmdb.org/t/p/w500/r2mrAH6U7lh9hQspa9AkREQcwdH.jpg"
+    },
+    {
+      "nombre": "Jason Isaacs",
+      "personaje": "Joseph",
+      "foto": "https://image.tmdb.org/t/p/w500/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+    },
+    {
+      "nombre": "Kate Dickie",
+      "personaje": "Farah",
+      "foto": "https://image.tmdb.org/t/p/w500/mlFYUmZycpRa7TGgDTfP0xanE1Q.jpg"
+    },
+    {
+      "nombre": "Julian Richings",
+      "personaje": "Delwyn",
+      "foto": "https://image.tmdb.org/t/p/w500/6aXnbVDNlYXKFOUK7CZ2lboAlxE.jpg"
+    },
+    {
+      "nombre": "Jesse LaVercombe",
+      "personaje": "Mr Wallace",
+      "foto": "https://image.tmdb.org/t/p/w500/zvUshsQ4Bcj3TR8MgurYFSF7WmK.jpg"
+    },
+    {
+      "nombre": "Sarah Kolasky",
+      "personaje": "Mrs Wallace",
+      "foto": "https://image.tmdb.org/t/p/w500/1WMdDoyPB5YoeIl8IWxJEaP2O6X.jpg"
+    },
+    {
+      "nombre": "India Brown",
+      "personaje": "Josephina",
+      "foto": "https://image.tmdb.org/t/p/w500/qpvFrurNdhEufrVqJegtlzSoQ31.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Madeleine Sims-Fewer",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Madeleine Sims-Fewer",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Rebecca Yeboah",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dusty Mancinelli",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Dusty Mancinelli",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Madeleine Sims-Fewer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dusty Mancinelli",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Niv Fichman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Fraser Ash",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Krikst",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lev Lewis",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Matthew Chan",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Jessie Frost",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Reid Goobie",
+      "rol": "Boom Operator"
+    },
+    {
+      "nombre": "Adam Crosby",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Andrea Boccadoro",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Madeleine Sims-Fewer",
+  "valoraciones": {
+    "tmdb": 6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Rhombus Media",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/2e/s8/2/s/m/q/q/smqqA.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=7bG6ymmZM7s"
+}
