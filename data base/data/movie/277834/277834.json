@@ -12,7 +12,7 @@
     "Animación"
   ],
   "calificacion": "A",
-  "puntuacion": 7.565,
+  "puntuacion": 7.566,
   "año": "2016",
   "duracion": "1h 47min",
   "edad_minima": 13,
@@ -68,23 +68,15 @@
       "rol": "Producer"
     },
     {
-      "nombre": "Jared Bush",
-      "rol": "Screenplay"
-    },
-    {
-      "nombre": "Ron Clements",
-      "rol": "Story"
-    },
-    {
       "nombre": "John Musker",
       "rol": "Story"
     },
     {
-      "nombre": "Chris Williams",
-      "rol": "Story"
+      "nombre": "Jared Bush",
+      "rol": "Screenplay"
     },
     {
-      "nombre": "Don Hall",
+      "nombre": "Aaron Kandell",
       "rol": "Story"
     },
     {
@@ -92,7 +84,15 @@
       "rol": "Story"
     },
     {
-      "nombre": "Aaron Kandell",
+      "nombre": "Don Hall",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ron Clements",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jordan Kandell",
       "rol": "Story"
     }
   ],
@@ -118,41 +118,41 @@
       "rol": "Head of Animation"
     },
     {
-      "nombre": "Jeff Draheim",
-      "rol": "Editor"
+      "nombre": "Mark Empey",
+      "rol": "Animation Supervisor"
     },
     {
       "nombre": "Jamie Sparer Roberts",
       "rol": "Casting"
     },
     {
-      "nombre": "Ian Gooding",
-      "rol": "Production Design"
-    },
-    {
       "nombre": "Adam Green",
       "rol": "Animation Supervisor"
     },
     {
+      "nombre": "Pascal Garneau",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Adolph Lusinsky",
+      "rol": "Lighting Camera"
+    },
+    {
+      "nombre": "Lee Gilmore",
+      "rol": "Sound Effects Editor"
+    },
+    {
       "nombre": "Jennifer Hager",
-      "rol": "Animation Supervisor"
-    },
-    {
-      "nombre": "Mack Kablan",
-      "rol": "Animation Supervisor"
-    },
-    {
-      "nombre": "Daniel Klug",
       "rol": "Animation Supervisor"
     }
   ],
   "director": "John Musker",
   "valoraciones": {
-    "tmdb": 7.565,
+    "tmdb": 7.566,
     "imdb": null,
     "rotten_tomatoes": null
   },
   "distribuidora": "Walt Disney Animation Studios",
-  "enlace_video": "https://1a-1791.com/video/s8/2/3/b/X/C/3bXCm.aaa.mp4",
+  "enlace_video": "https://1a-1791.com/video/s8/2/7/K/5/6/7K56s.aaa.mp4",
   "trailer": "https://www.youtube.com/watch?v=tmpTGztGJ8E"
 }
