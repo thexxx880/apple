@@ -7,8 +7,6 @@ const GITHUB_RAW_BASE =
 const LIST_MOVIE_JSON =
   "https://raw.githubusercontent.com/thexxx880/API/main/content/API/JSON/list-movie.JSON";
 
-import { doc, getDoc, setDoc } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
-
 console.log("LIST_MOVIE_JSON URL:", LIST_MOVIE_JSON);
 // ================== CACHE DE ENLACES ==================
 let videoLinksCache = null;
