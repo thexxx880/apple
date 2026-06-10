@@ -121,7 +121,7 @@
 
 <script>
 // =============================================
-// CATÁLOGO - Calificaciones progresivas (solo visibles)
+// CATÁLOGO - Contador basado en base.json
 // =============================================
 
 const BASE_URL_JSON = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/base/base.json";
@@ -133,7 +133,7 @@ let contenidosFiltrados = [];
 let urlMap = {};
 let displayedCount = 15;
 let observer = null;
-let ratingCache = {}; // Guardar ratings ya obtenidos
+let ratingCache = {};
 
 function normalizeText(str) {
     if (!str) return "";
@@ -147,18 +147,21 @@ async function cargarUrlMap() {
     try {
         const res = await fetch(BASE_URL_JSON);
         urlMap = await res.json();
-    } catch (e) { console.error(e); }
+        console.log(`✅ base.json cargado: ${Object.keys(urlMap).length} contenidos`);
+        return Object.keys(urlMap).length;
+    } catch (e) {
+        console.error("Error cargando base.json", e);
+        return 0;
+    }
 }
 
 async function getTMDBRating(id_tmdb, ratingElement) {
     if (!id_tmdb || ratingCache[id_tmdb]) return;
-    
     try {
         const res = await fetch(`https://api.themoviedb.org/3/movie/${id_tmdb}?api_key=${TMDB_API_KEY}&language=es`);
         if (!res.ok) throw new Error();
         const data = await res.json();
         const rating = data.vote_average ? data.vote_average.toFixed(1) : "7.5";
-        
         ratingCache[id_tmdb] = rating;
         if (ratingElement) ratingElement.textContent = rating;
     } catch {
@@ -173,7 +176,8 @@ async function cargarTodo() {
     principal.classList.add("hidden");
 
     try {
-        await cargarUrlMap();
+        const totalReal = await cargarUrlMap();
+
         const res = await fetch(GENEROS_URL);
         let data = await res.json();
 
@@ -187,15 +191,15 @@ async function cargarTodo() {
                 title: item.titulo || "Sin título",
                 poster: item.poster || `https://image.tmdb.org/t/p/w500${item.poster_path || ''}`,
                 year: item.año || "N/A",
-                rating: "7.5", // Valor inicial
+                rating: "7.5",
                 genres: Array.isArray(item.generos) ? item.generos : [],
                 sinopsis: item.sinopsis || "",
                 tituloAlternos: item["titulo alternos"] || ""
             };
         });
 
-        document.getElementById("total-contenido").textContent = `${todosLosContenidos.length} contenidos`;
-        console.log(`✅ Total cargado: ${todosLosContenidos.length} contenidos`);
+        // Contador basado en base.json
+        document.getElementById("total-contenido").textContent = `${totalReal} contenidos`;
 
         inicializarFiltrosModal();
         contenidosFiltrados = [...todosLosContenidos];
@@ -205,7 +209,7 @@ async function cargarTodo() {
         principal.classList.remove("hidden");
     } catch (error) {
         console.error(error);
-        loading.innerHTML = `<p class="text-red-400">Error al cargar.</p>`;
+        loading.innerHTML = `<p class="text-red-400">Error al cargar el catálogo.</p>`;
     }
 }
 
@@ -231,7 +235,7 @@ function renderizarPeliculas(reset = true) {
                 
                 <div class="rating absolute top-3 right-3 flex items-center gap-1 text-xs font-bold px-2.5 py-1 rounded-2xl">
                     <i class="fas fa-star text-yellow-400"></i>
-                    <span class="rating-value" data-id="${item.id}">${item.rating}</span>
+                    <span class="rating-value" data-id="${item.id}">7.5</span>
                 </div>
             </div>
             <div class="mt-3 px-1">
@@ -251,7 +255,7 @@ function renderizarPeliculas(reset = true) {
     });
 
     activarLazyLoading();
-    cargarRatingsVisibles(); // Cargar calificaciones de lo visible
+    cargarRatingsVisibles();
 
     if (displayedCount < contenidosFiltrados.length) {
         btnVerMas.classList.remove("hidden");
@@ -263,8 +267,7 @@ function renderizarPeliculas(reset = true) {
 }
 
 function cargarRatingsVisibles() {
-    const ratingElements = document.querySelectorAll('.rating-value');
-    ratingElements.forEach(el => {
+    document.querySelectorAll('.rating-value').forEach(el => {
         const id = el.getAttribute('data-id');
         if (id) getTMDBRating(id, el);
     });
@@ -288,7 +291,6 @@ function activarLazyLoading() {
             }
         });
     }, { rootMargin: "200px" });
-
     document.querySelectorAll(".lazy-image").forEach(img => observer.observe(img));
 }
 
@@ -346,7 +348,6 @@ function aplicarFiltros(keepOpen = false) {
         const tituloNorm = normalizeText(item.title);
         const alternosNorm = normalizeText(item.tituloAlternos);
         const sinopsisNorm = normalizeText(item.sinopsis);
-
         if (nombre && !tituloNorm.includes(nombre) && !alternosNorm.includes(nombre) && !sinopsisNorm.includes(nombre)) return false;
         if (letrasActivas.length > 0 && !letrasActivas.includes(item.title?.[0]?.toUpperCase())) return false;
         if (generosActivos.length > 0 && !item.genres.some(g => generosActivos.includes(g))) return false;
