@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 936075,
+  "poster": "https://image.tmdb.org/t/p/w500/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6Q34kuByPGmsocjjbkn1DOaccz4.png",
+  "titulo": "Michael",
+  "trending": false,
+  "generos": [
+    "Música",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.321,
+  "año": "2026",
+  "duracion": "2h 8min",
+  "edad_minima": 13,
+  "sinopsis": "Narra la vida de Michael Jackson más allá de la música, recorriendo su trayectoria desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en un artista visionario cuya ambición creativa le impulsó a convertirse en el artista más grande del mundo.",
+  "fecha_estreno": "2026-04-22",
+  "titulo_original": "Michael",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jaafar Jackson",
+      "personaje": "Michael Jackson",
+      "foto": "https://image.tmdb.org/t/p/w500/tVSzFjQxOrLOcvnzFto0772Q9Bw.jpg"
+    },
+    {
+      "nombre": "Colman Domingo",
+      "personaje": "Joseph Jackson",
+      "foto": "https://image.tmdb.org/t/p/w500/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg"
+    },
+    {
+      "nombre": "Nia Long",
+      "personaje": "Katherine Jackson",
+      "foto": "https://image.tmdb.org/t/p/w500/heVQkCGKUuKKRjRJaZIBrEKGhYA.jpg"
+    },
+    {
+      "nombre": "Juliano Krue Valdi",
+      "personaje": "Young Michael Jackson",
+      "foto": "https://image.tmdb.org/t/p/w500/1rQYmcxdPD1IwHpa78DcfVEu1EN.jpg"
+    },
+    {
+      "nombre": "Miles Teller",
+      "personaje": "John Branca",
+      "foto": "https://image.tmdb.org/t/p/w500/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+    },
+    {
+      "nombre": "KeiLyn Durrel Jones",
+      "personaje": "Bill Bray",
+      "foto": "https://image.tmdb.org/t/p/w500/4wDO3Zt9KJg9CARCEgjuVdhWa8x.jpg"
+    },
+    {
+      "nombre": "Kendrick Sampson",
+      "personaje": "Quincy Jones",
+      "foto": "https://image.tmdb.org/t/p/w500/AoZGTujNZEfabaXR5kUwmDUmxfe.jpg"
+    },
+    {
+      "nombre": "Joseph David-Jones",
+      "personaje": "Jackie Jackson",
+      "foto": "https://image.tmdb.org/t/p/w500/qwX7ciIV8jwssmIqHv1eyzzqEvh.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John Branca",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John McClain",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Logan",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Graham King",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Antoine Fuqua",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dion Beebe",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Barbara Ling",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "David B. Householter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carla Farmer",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Bill Corso",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Roberto De Angelis",
+      "rol": "\"A\" Camera Operator"
+    },
+    {
+      "nombre": "E.J. Misisco",
+      "rol": "First Assistant \"A\" Camera"
+    },
+    {
+      "nombre": "Matthew Love",
+      "rol": "Digital Imaging Technician"
+    },
+    {
+      "nombre": "Maninder K. Saini",
+      "rol": "Digital Imaging Technician"
+    },
+    {
+      "nombre": "Rob Reaves",
+      "rol": "Camera Loader"
+    },
+    {
+      "nombre": "Dwight Campbell",
+      "rol": "\"B\" Camera Operator"
+    },
+    {
+      "nombre": "Kerry Lyn McKissick",
+      "rol": "Script Supervisor"
+    }
+  ],
+  "director": "Antoine Fuqua",
+  "valoraciones": {
+    "tmdb": 8.321,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lionsgate",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/25/s8/2/w/C/I/i/wCIiA.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=k-YAcjaLuSI"
+}
