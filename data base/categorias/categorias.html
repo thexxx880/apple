@@ -144,19 +144,16 @@
 
     <script src="../js/components/navbar.js"></script>
     <script>
-      // =============================================
-// CATALOGO.JS - Versión mejorada con TMDB + base.json
+     // =============================================
+// CATALOGO.JS - Versión FINAL (Contador correcto + Circulito verde)
 // =============================================
 
 const BASE_URL_JSON = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/base/base.json";
 const GENEROS_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/categorias/generos.json";
 
-const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
-const TMDB_BASE = "https://api.themoviedb.org/3";
-
 let todosLosContenidos = [];
 let contenidosFiltrados = [];
-let urlMap = {}; // id_tmdb → url real
+let urlMap = {};
 let displayedCount = 15;
 let observer = null;
 
@@ -168,23 +165,19 @@ function normalizeText(str) {
         .replace(/\s+/g, " ").trim();
 }
 
-// =============================================
-// CARGAR MAPA DE URLs (base.json)
-// =============================================
+// Cargar mapa de URLs
 async function cargarUrlMap() {
     try {
         const res = await fetch(BASE_URL_JSON);
-        if (!res.ok) throw new Error("Error al cargar base.json");
+        if (!res.ok) throw new Error("Error base.json");
         urlMap = await res.json();
-        console.log(`✅ URL Map cargado (${Object.keys(urlMap).length} contenidos)`);
+        console.log(`✅ URL Map cargado: ${Object.keys(urlMap).length} enlaces`);
     } catch (err) {
-        console.error("❌ Error cargando base.json", err);
+        console.error("❌ Error base.json", err);
     }
 }
 
-// =============================================
-// CARGAR CONTENIDOS + ENRIQUECER CON TMDB
-// =============================================
+// Cargar todo el catálogo
 async function cargarTodo() {
     const loading = document.getElementById("loading");
     const principal = document.getElementById("contenido-principal");
@@ -194,29 +187,37 @@ async function cargarTodo() {
     try {
         await cargarUrlMap();
 
-        // Cargar generos.json (tu catálogo principal)
         const res = await fetch(GENEROS_URL);
+        if (!res.ok) throw new Error("Error generos.json");
+        
         let data = await res.json();
-
+        
+        // Convertir y enriquecer con URLs reales
         todosLosContenidos = data.map(item => {
             const id = String(item.id_tmdb || item.id);
-            const url = urlMap[id] || item.url || `#id=${id}`;
+            const url = urlMap[id] || item.url || `https://lzplayhd.online/apple/data%20base/contenido.html?id=${id}`;
+
+            let rating = item.rating || item.vote_average || 7.5;
+            if (typeof rating === "number") rating = rating.toFixed(1);
 
             return {
                 id: id,
                 url: url,
                 title: item.titulo || "Sin título",
-                poster: item.poster || `https://image.tmdb.org/t/p/w500${item.poster_path || ''}`,
+                poster: item.poster || (item.poster_path ? `https://image.tmdb.org/t/p/w500${item.poster_path}` : "https://via.placeholder.com/500x750?text=No+Image"),
                 year: item.año || "N/A",
-                rating: item.rating || "N/A",
-                genres: item.generos || [],
+                rating: rating,
+                genres: Array.isArray(item.generos) ? item.generos : [],
                 sinopsis: item.sinopsis || "",
                 tituloAlternos: item["titulo alternos"] || ""
             };
         });
 
+        // ←←← AQUÍ SE CORRIGE EL CONTADOR
         document.getElementById("total-contenido").textContent = 
             `${todosLosContenidos.length} contenidos`;
+
+        console.log(`✅ Total real cargado: ${todosLosContenidos.length} contenidos`);
 
         inicializarFiltrosModal();
         contenidosFiltrados = [...todosLosContenidos];
@@ -225,16 +226,13 @@ async function cargarTodo() {
         loading.classList.add("hidden");
         principal.classList.remove("hidden");
 
-        console.log(`✅ Total cargado: ${todosLosContenidos.length} contenidos`);
     } catch (error) {
         console.error(error);
-        loading.innerHTML = `<p class="text-red-400">Error al cargar el contenido. Intenta recargar.</p>`;
+        loading.innerHTML = `<p class="text-red-400">Error al cargar. Intenta recargar la página.</p>`;
     }
 }
 
-// =============================================
-// RENDERIZAR
-// =============================================
+// Render con circulito verde
 function renderizarPeliculas(reset = true) {
     const grid = document.getElementById("grid-peliculas");
     const btnVerMas = document.getElementById("btn-ver-mas");
@@ -249,16 +247,17 @@ function renderizarPeliculas(reset = true) {
 
     porMostrar.forEach((item) => {
         const card = document.createElement("div");
-        card.className = "card cursor-pointer group";
+        card.className = "card cursor-pointer group relative";
+        
         card.innerHTML = `
             <div class="poster-container rounded-3xl overflow-hidden shadow-2xl border border-white/10">
                 <img data-src="${item.poster}"
                      alt="${item.title}"
                      class="w-full aspect-[2/3] object-cover transition-transform group-hover:scale-110 lazy-image">
-               
-                <div class="rating absolute top-3 right-3 flex items-center gap-1 text-xs font-bold px-2.5 py-1 rounded-2xl bg-black/70">
-                    <i class="fas fa-star text-yellow-400"></i>
-                    <span>${item.rating}</span>
+                
+                <!-- Circulito verde -->
+                <div class="absolute top-3 right-3 w-11 h-11 bg-green-600 text-white text-base font-bold flex items-center justify-center rounded-full border-4 border-white/90 shadow-xl">
+                    ${item.rating}
                 </div>
             </div>
            
@@ -274,6 +273,7 @@ function renderizarPeliculas(reset = true) {
                 </div>
             </div>
         `;
+
         card.onclick = () => window.location.href = item.url;
         grid.appendChild(card);
     });
@@ -311,9 +311,7 @@ function activarLazyLoading() {
     document.querySelectorAll(".lazy-image").forEach(img => observer.observe(img));
 }
 
-// =============================================
-// FILTROS MODAL
-// =============================================
+// ====================== FILTROS ======================
 function abrirModalFiltros() {
     document.getElementById("modal-filtros").classList.remove("hidden");
     document.getElementById("modal-filtros").classList.add("flex");
@@ -333,10 +331,7 @@ function inicializarFiltrosModal() {
         const btn = document.createElement("button");
         btn.className = "px-3 py-1 text-xs bg-white/10 hover:bg-white/20 rounded-xl border border-white/10 transition-all";
         btn.textContent = letra;
-        btn.onclick = () => {
-            btn.classList.toggle("filtro-activo");
-            aplicarFiltros(true);
-        };
+        btn.onclick = () => { btn.classList.toggle("filtro-activo"); aplicarFiltros(true); };
         letrasContainer.appendChild(btn);
     }
 
@@ -346,34 +341,26 @@ function inicializarFiltrosModal() {
     const maxSelect = document.getElementById("filtro-ano-max");
     minSelect.innerHTML = `<option value="">Desde</option>` + anos.map(a => `<option value="${a}">${a}</option>`).join("");
     maxSelect.innerHTML = `<option value="">Hasta</option>` + anos.map(a => `<option value="${a}">${a}</option>`).join("");
-    minSelect.onchange = () => aplicarFiltros(true);
-    maxSelect.onchange = () => aplicarFiltros(true);
+    minSelect.onchange = maxSelect.onchange = () => aplicarFiltros(true);
 
     // Géneros
     const catsContainer = document.getElementById("filtro-categorias");
     catsContainer.innerHTML = "";
     const allGenres = new Set();
-    todosLosContenidos.forEach(item => {
-        item.genres.forEach(g => allGenres.add(g));
-    });
+    todosLosContenidos.forEach(item => item.genres.forEach(g => allGenres.add(g)));
     Array.from(allGenres).sort().forEach(genre => {
         const btn = document.createElement("button");
         btn.className = "px-4 py-2 bg-white/10 hover:bg-white/20 rounded-2xl text-sm transition-all";
         btn.textContent = genre;
-        btn.onclick = () => {
-            btn.classList.toggle("filtro-activo");
-            aplicarFiltros(true);
-        };
+        btn.onclick = () => { btn.classList.toggle("filtro-activo"); aplicarFiltros(true); };
         catsContainer.appendChild(btn);
     });
 }
 
 function aplicarFiltros(keepOpen = false) {
     const nombre = normalizeText(document.getElementById("filtro-nombre").value);
-    const letrasActivas = Array.from(document.querySelectorAll("#filtro-letras button.filtro-activo"))
-        .map(b => b.textContent);
-    const generosActivos = Array.from(document.querySelectorAll("#filtro-categorias button.filtro-activo"))
-        .map(b => b.textContent);
+    const letrasActivas = Array.from(document.querySelectorAll("#filtro-letras button.filtro-activo")).map(b => b.textContent);
+    const generosActivos = Array.from(document.querySelectorAll("#filtro-categorias button.filtro-activo")).map(b => b.textContent);
     const anoMin = document.getElementById("filtro-ano-min").value;
     const anoMax = document.getElementById("filtro-ano-max").value;
 
@@ -382,21 +369,9 @@ function aplicarFiltros(keepOpen = false) {
         const alternosNorm = normalizeText(item.tituloAlternos);
         const sinopsisNorm = normalizeText(item.sinopsis);
 
-        if (nombre && 
-            !tituloNorm.includes(nombre) && 
-            !alternosNorm.includes(nombre) && 
-            !sinopsisNorm.includes(nombre)) {
-            return false;
-        }
-
-        if (letrasActivas.length > 0 && !letrasActivas.includes(item.title[0]?.toUpperCase())) 
-            return false;
-
-        if (generosActivos.length > 0) {
-            const tieneGenero = item.genres.some(g => generosActivos.includes(g));
-            if (!tieneGenero) return false;
-        }
-
+        if (nombre && !tituloNorm.includes(nombre) && !alternosNorm.includes(nombre) && !sinopsisNorm.includes(nombre)) return false;
+        if (letrasActivas.length > 0 && !letrasActivas.includes(item.title?.[0]?.toUpperCase())) return false;
+        if (generosActivos.length > 0 && !item.genres.some(g => generosActivos.includes(g))) return false;
         if (anoMin && parseInt(item.year) < parseInt(anoMin)) return false;
         if (anoMax && parseInt(item.year) > parseInt(anoMax)) return false;
 
@@ -409,8 +384,7 @@ function aplicarFiltros(keepOpen = false) {
 
 function limpiarFiltros() {
     document.getElementById("filtro-nombre").value = "";
-    document.querySelectorAll("#filtro-letras button").forEach(b => b.classList.remove("filtro-activo"));
-    document.querySelectorAll("#filtro-categorias button").forEach(b => b.classList.remove("filtro-activo"));
+    document.querySelectorAll("#filtro-letras button, #filtro-categorias button").forEach(b => b.classList.remove("filtro-activo"));
     document.getElementById("filtro-ano-min").value = "";
     document.getElementById("filtro-ano-max").value = "";
 
@@ -419,9 +393,6 @@ function limpiarFiltros() {
     cerrarModalFiltros();
 }
 
-// =============================================
-// SCROLL Y BOTONES
-// =============================================
 function volverArriba() {
     window.scrollTo({ top: 0, behavior: "smooth" });
 }
@@ -429,23 +400,13 @@ function volverArriba() {
 window.addEventListener("scroll", () => {
     const btn = document.getElementById("btn-volver-arriba");
     if (btn) {
-        if (window.scrollY > 400) {
-            btn.classList.remove("hidden");
-            btn.classList.add("flex");
-        } else {
-            btn.classList.add("hidden");
-            btn.classList.remove("flex");
-        }
+        btn.classList.toggle("hidden", window.scrollY <= 400);
+        btn.classList.toggle("flex", window.scrollY > 400);
     }
 });
 
-// =============================================
-// INIT
-// =============================================
 window.onload = () => {
-    if (typeof initNavbar === "function") {
-        initNavbar("main-header");
-    }
+    if (typeof initNavbar === "function") initNavbar("main-header");
     cargarTodo();
 };
     </script>
