@@ -393,7 +393,7 @@ function openPlayer(option) {
   if (option === 1) {
     url = `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
   } else if (option === 2) {
-    url = `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
+    url = `https://lzrdrz10.github.io/player/?player=jwpl&provider=rand&format=video%2Fmp4&link=${encodeURIComponent(d.video)}`;
   }
   closeModal();
   window.open(url, '_blank');
