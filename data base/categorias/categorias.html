@@ -144,270 +144,310 @@
 
     <script src="../js/components/navbar.js"></script>
     <script>
-        const SEARCH_JSON_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/categorias/generos.json";
-        
-        let todosLosContenidos = [];
-        let contenidosFiltrados = [];
-        let displayedCount = 15;
-        let observer;
+      // =============================================
+// CATALOGO.JS - Versión mejorada con TMDB + base.json
+// =============================================
 
-        function normalizeText(str) {
-            if (!str) return "";
-            return str.toString().toLowerCase()
-                .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
-                .replace(/[^a-z0-9\s]/g, " ")
-                .replace(/\s+/g, " ").trim();
-        }
+const BASE_URL_JSON = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/base/base.json";
+const GENEROS_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/categorias/generos.json";
 
-        async function cargarTodo() {
-            const loading = document.getElementById("loading");
-            const principal = document.getElementById("contenido-principal");
-            loading.classList.remove("hidden");
-            principal.classList.add("hidden");
+const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
+const TMDB_BASE = "https://api.themoviedb.org/3";
 
-            try {
-                const res = await fetch(SEARCH_JSON_URL);
-                let data = await res.json();
+let todosLosContenidos = [];
+let contenidosFiltrados = [];
+let urlMap = {}; // id_tmdb → url real
+let displayedCount = 15;
+let observer = null;
 
-                todosLosContenidos = data.map(item => ({
-                    id: item.id_tmdb,
-                    url: item.url,
-                    title: item.titulo,
-                    poster: item.poster,
-                    year: item.año || "N/A",
-                    rating: "8.5",
-                    genres: item.generos || [],
-                    sinopsis: item.sinopsis || "",
-                    tituloAlternos: item["titulo alternos"] || ""
-                }));
+function normalizeText(str) {
+    if (!str) return "";
+    return str.toString().toLowerCase()
+        .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^a-z0-9\s]/g, " ")
+        .replace(/\s+/g, " ").trim();
+}
 
-                document.getElementById("total-contenido").textContent = `${todosLosContenidos.length} películas`;
-                
-                inicializarFiltrosModal();
-                contenidosFiltrados = [...todosLosContenidos];
-                renderizarPeliculas();
-                
-                loading.classList.add("hidden");
-                principal.classList.remove("hidden");
-            } catch (error) {
-                console.error(error);
-                loading.innerHTML = `<p class="text-red-400">Error al cargar el contenido</p>`;
-            }
-        }
+// =============================================
+// CARGAR MAPA DE URLs (base.json)
+// =============================================
+async function cargarUrlMap() {
+    try {
+        const res = await fetch(BASE_URL_JSON);
+        if (!res.ok) throw new Error("Error al cargar base.json");
+        urlMap = await res.json();
+        console.log(`✅ URL Map cargado (${Object.keys(urlMap).length} contenidos)`);
+    } catch (err) {
+        console.error("❌ Error cargando base.json", err);
+    }
+}
 
-        function renderizarPeliculas(reset = true) {
-            const grid = document.getElementById("grid-peliculas");
-            const btnVerMas = document.getElementById("btn-ver-mas");
+// =============================================
+// CARGAR CONTENIDOS + ENRIQUECER CON TMDB
+// =============================================
+async function cargarTodo() {
+    const loading = document.getElementById("loading");
+    const principal = document.getElementById("contenido-principal");
+    loading.classList.remove("hidden");
+    principal.classList.add("hidden");
 
-            if (reset) {
-                grid.innerHTML = "";
-                displayedCount = 15;
-            }
+    try {
+        await cargarUrlMap();
 
-            const yaMostradas = grid.children.length;
-            const porMostrar = contenidosFiltrados.slice(yaMostradas, displayedCount);
+        // Cargar generos.json (tu catálogo principal)
+        const res = await fetch(GENEROS_URL);
+        let data = await res.json();
 
-            porMostrar.forEach((item) => {
-                const card = document.createElement("div");
-                card.className = "card cursor-pointer group";
-                card.innerHTML = `
-                    <div class="poster-container rounded-3xl overflow-hidden shadow-2xl border border-white/10">
-                        <img data-src="${item.poster}"
-                             alt="${item.title}"
-                             class="w-full aspect-[2/3] object-cover transition-transform group-hover:scale-110 lazy-image">
-                        
-                        <div class="rating absolute top-3 right-3 flex items-center gap-1 text-xs font-bold px-2.5 py-1 rounded-2xl">
-                            <i class="fas fa-star text-yellow-400"></i>
-                            <span>${item.rating}</span>
-                        </div>
-                    </div>
-                    
-                    <div class="mt-3 px-1">
-                        <h3 class="font-semibold text-base line-clamp-2 leading-tight group-hover:text-blue-400 transition-colors">
-                            ${item.title}
-                        </h3>
-                        <div class="flex items-center justify-between text-xs text-zinc-400 mt-2">
-                            <span>${item.year}</span>
-                            <span class="flex items-center gap-1">
-                                <i class="fas fa-film text-[10px]"></i> Película
-                            </span>
-                        </div>
-                    </div>
-                `;
-                card.onclick = () => window.location.href = item.url;
-                grid.appendChild(card);
-            });
+        todosLosContenidos = data.map(item => {
+            const id = String(item.id_tmdb || item.id);
+            const url = urlMap[id] || item.url || `#id=${id}`;
 
-            activarLazyLoading();
-
-            if (displayedCount < contenidosFiltrados.length) {
-                btnVerMas.classList.remove("hidden");
-                btnVerMas.classList.add("flex");
-            } else {
-                btnVerMas.classList.add("hidden");
-                btnVerMas.classList.remove("flex");
-            }
-        }
-
-        function verMas() {
-            const siguienteLote = displayedCount + 15;
-            displayedCount = Math.min(siguienteLote, contenidosFiltrados.length);
-            renderizarPeliculas(false);
-        }
-
-        function activarLazyLoading() {
-            if (observer) observer.disconnect();
-            observer = new IntersectionObserver((entries) => {
-                entries.forEach(entry => {
-                    if (entry.isIntersecting) {
-                        const img = entry.target;
-                        img.src = img.dataset.src;
-                        img.classList.remove("lazy-image");
-                        observer.unobserve(img);
-                    }
-                });
-            }, { rootMargin: "200px" });
-            document.querySelectorAll(".lazy-image").forEach(img => observer.observe(img));
-        }
-
-        // ====================== MODAL DE FILTROS ======================
-        function abrirModalFiltros() {
-            document.getElementById("modal-filtros").classList.remove("hidden");
-            document.getElementById("modal-filtros").classList.add("flex");
-        }
-
-        function cerrarModalFiltros() {
-            document.getElementById("modal-filtros").classList.add("hidden");
-            document.getElementById("modal-filtros").classList.remove("flex");
-        }
-
-        function inicializarFiltrosModal() {
-            // Letras
-            const letrasContainer = document.getElementById("filtro-letras");
-            letrasContainer.innerHTML = "";
-            for (let i = 65; i <= 90; i++) {
-                const letra = String.fromCharCode(i);
-                const btn = document.createElement("button");
-                btn.className = "px-3 py-1 text-xs bg-white/10 hover:bg-white/20 rounded-xl border border-white/10 transition-all";
-                btn.textContent = letra;
-                btn.onclick = () => {
-                    btn.classList.toggle("filtro-activo");
-                    aplicarFiltros(true);
-                };
-                letrasContainer.appendChild(btn);
-            }
-
-            // Años
-            const anos = [...new Set(todosLosContenidos.map(c => c.year))].sort((a, b) => b - a);
-            const minSelect = document.getElementById("filtro-ano-min");
-            const maxSelect = document.getElementById("filtro-ano-max");
-            minSelect.innerHTML = `<option value="">Desde</option>` + anos.map(a => `<option value="${a}">${a}</option>`).join("");
-            maxSelect.innerHTML = `<option value="">Hasta</option>` + anos.map(a => `<option value="${a}">${a}</option>`).join("");
-
-            minSelect.onchange = () => aplicarFiltros(true);
-            maxSelect.onchange = () => aplicarFiltros(true);
-
-            // Géneros reales
-            const catsContainer = document.getElementById("filtro-categorias");
-            catsContainer.innerHTML = "";
-
-            const allGenres = new Set();
-            todosLosContenidos.forEach(item => {
-                item.genres.forEach(g => allGenres.add(g));
-            });
-
-            const sortedGenres = Array.from(allGenres).sort();
-
-            sortedGenres.forEach(genre => {
-                const btn = document.createElement("button");
-                btn.className = "px-4 py-2 bg-white/10 hover:bg-white/20 rounded-2xl text-sm transition-all";
-                btn.textContent = genre;
-                btn.onclick = () => {
-                    btn.classList.toggle("filtro-activo");
-                    aplicarFiltros(true);
-                };
-                catsContainer.appendChild(btn);
-            });
-        }
-
-        function aplicarFiltros(keepOpen = false) {
-            const nombre = normalizeText(document.getElementById("filtro-nombre").value);
-            const letrasActivas = Array.from(document.querySelectorAll("#filtro-letras button.filtro-activo"))
-                .map(b => b.textContent);
-            
-            const generosActivos = Array.from(document.querySelectorAll("#filtro-categorias button.filtro-activo"))
-                .map(b => b.textContent);
-
-            const anoMin = document.getElementById("filtro-ano-min").value;
-            const anoMax = document.getElementById("filtro-ano-max").value;
-
-            contenidosFiltrados = todosLosContenidos.filter(item => {
-                const tituloNorm = normalizeText(item.title);
-                const alternosNorm = normalizeText(item.tituloAlternos);
-                const sinopsisNorm = normalizeText(item.sinopsis);
-
-                // Filtro por nombre
-                if (nombre && 
-                    !tituloNorm.includes(nombre) && 
-                    !alternosNorm.includes(nombre) && 
-                    !sinopsisNorm.includes(nombre)) {
-                    return false;
-                }
-
-                // Filtro por letra
-                if (letrasActivas.length > 0 && !letrasActivas.includes(item.title[0]?.toUpperCase())) 
-                    return false;
-
-                // Filtro por géneros (OR - al menos uno)
-                if (generosActivos.length > 0) {
-                    const tieneGenero = item.genres.some(g => generosActivos.includes(g));
-                    if (!tieneGenero) return false;
-                }
-
-                // Filtro por año
-                if (anoMin && item.year < anoMin) return false;
-                if (anoMax && item.year > anoMax) return false;
-
-                return true;
-            });
-
-            renderizarPeliculas(true);
-            if (!keepOpen) cerrarModalFiltros();
-        }
-
-        function limpiarFiltros() {
-            document.getElementById("filtro-nombre").value = "";
-            document.querySelectorAll("#filtro-letras button").forEach(b => b.classList.remove("filtro-activo"));
-            document.querySelectorAll("#filtro-categorias button").forEach(b => b.classList.remove("filtro-activo"));
-            document.getElementById("filtro-ano-min").value = "";
-            document.getElementById("filtro-ano-max").value = "";
-            
-            contenidosFiltrados = [...todosLosContenidos];
-            renderizarPeliculas(true);
-            cerrarModalFiltros();
-        }
-
-        function volverArriba() {
-            window.scrollTo({ top: 0, behavior: "smooth" });
-        }
-
-        window.addEventListener("scroll", () => {
-            const btn = document.getElementById("btn-volver-arriba");
-            if (window.scrollY > 400) {
-                btn.classList.remove("hidden");
-                btn.classList.add("flex");
-            } else {
-                btn.classList.add("hidden");
-                btn.classList.remove("flex");
-            }
+            return {
+                id: id,
+                url: url,
+                title: item.titulo || "Sin título",
+                poster: item.poster || `https://image.tmdb.org/t/p/w500${item.poster_path || ''}`,
+                year: item.año || "N/A",
+                rating: item.rating || "N/A",
+                genres: item.generos || [],
+                sinopsis: item.sinopsis || "",
+                tituloAlternos: item["titulo alternos"] || ""
+            };
         });
 
-        window.onload = () => {
-            if (typeof initNavbar === "function") {
-                initNavbar("main-header");
+        document.getElementById("total-contenido").textContent = 
+            `${todosLosContenidos.length} contenidos`;
+
+        inicializarFiltrosModal();
+        contenidosFiltrados = [...todosLosContenidos];
+        renderizarPeliculas();
+
+        loading.classList.add("hidden");
+        principal.classList.remove("hidden");
+
+        console.log(`✅ Total cargado: ${todosLosContenidos.length} contenidos`);
+    } catch (error) {
+        console.error(error);
+        loading.innerHTML = `<p class="text-red-400">Error al cargar el contenido. Intenta recargar.</p>`;
+    }
+}
+
+// =============================================
+// RENDERIZAR
+// =============================================
+function renderizarPeliculas(reset = true) {
+    const grid = document.getElementById("grid-peliculas");
+    const btnVerMas = document.getElementById("btn-ver-mas");
+
+    if (reset) {
+        grid.innerHTML = "";
+        displayedCount = 15;
+    }
+
+    const yaMostradas = grid.children.length;
+    const porMostrar = contenidosFiltrados.slice(yaMostradas, displayedCount + yaMostradas);
+
+    porMostrar.forEach((item) => {
+        const card = document.createElement("div");
+        card.className = "card cursor-pointer group";
+        card.innerHTML = `
+            <div class="poster-container rounded-3xl overflow-hidden shadow-2xl border border-white/10">
+                <img data-src="${item.poster}"
+                     alt="${item.title}"
+                     class="w-full aspect-[2/3] object-cover transition-transform group-hover:scale-110 lazy-image">
+               
+                <div class="rating absolute top-3 right-3 flex items-center gap-1 text-xs font-bold px-2.5 py-1 rounded-2xl bg-black/70">
+                    <i class="fas fa-star text-yellow-400"></i>
+                    <span>${item.rating}</span>
+                </div>
+            </div>
+           
+            <div class="mt-3 px-1">
+                <h3 class="font-semibold text-base line-clamp-2 leading-tight group-hover:text-blue-400 transition-colors">
+                    ${item.title}
+                </h3>
+                <div class="flex items-center justify-between text-xs text-zinc-400 mt-2">
+                    <span>${item.year}</span>
+                    <span class="flex items-center gap-1">
+                        <i class="fas fa-film text-[10px]"></i> ${item.genres[0] || 'Contenido'}
+                    </span>
+                </div>
+            </div>
+        `;
+        card.onclick = () => window.location.href = item.url;
+        grid.appendChild(card);
+    });
+
+    activarLazyLoading();
+
+    if (displayedCount < contenidosFiltrados.length) {
+        btnVerMas.classList.remove("hidden");
+        btnVerMas.classList.add("flex");
+    } else {
+        btnVerMas.classList.add("hidden");
+        btnVerMas.classList.remove("flex");
+    }
+}
+
+function verMas() {
+    const siguienteLote = displayedCount + 15;
+    displayedCount = Math.min(siguienteLote, contenidosFiltrados.length);
+    renderizarPeliculas(false);
+}
+
+function activarLazyLoading() {
+    if (observer) observer.disconnect();
+    observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                const img = entry.target;
+                img.src = img.dataset.src;
+                img.classList.remove("lazy-image");
+                observer.unobserve(img);
             }
-            cargarTodo();
+        });
+    }, { rootMargin: "200px" });
+
+    document.querySelectorAll(".lazy-image").forEach(img => observer.observe(img));
+}
+
+// =============================================
+// FILTROS MODAL
+// =============================================
+function abrirModalFiltros() {
+    document.getElementById("modal-filtros").classList.remove("hidden");
+    document.getElementById("modal-filtros").classList.add("flex");
+}
+
+function cerrarModalFiltros() {
+    document.getElementById("modal-filtros").classList.add("hidden");
+    document.getElementById("modal-filtros").classList.remove("flex");
+}
+
+function inicializarFiltrosModal() {
+    // Letras
+    const letrasContainer = document.getElementById("filtro-letras");
+    letrasContainer.innerHTML = "";
+    for (let i = 65; i <= 90; i++) {
+        const letra = String.fromCharCode(i);
+        const btn = document.createElement("button");
+        btn.className = "px-3 py-1 text-xs bg-white/10 hover:bg-white/20 rounded-xl border border-white/10 transition-all";
+        btn.textContent = letra;
+        btn.onclick = () => {
+            btn.classList.toggle("filtro-activo");
+            aplicarFiltros(true);
         };
+        letrasContainer.appendChild(btn);
+    }
+
+    // Años
+    const anos = [...new Set(todosLosContenidos.map(c => c.year))].sort((a, b) => b - a);
+    const minSelect = document.getElementById("filtro-ano-min");
+    const maxSelect = document.getElementById("filtro-ano-max");
+    minSelect.innerHTML = `<option value="">Desde</option>` + anos.map(a => `<option value="${a}">${a}</option>`).join("");
+    maxSelect.innerHTML = `<option value="">Hasta</option>` + anos.map(a => `<option value="${a}">${a}</option>`).join("");
+    minSelect.onchange = () => aplicarFiltros(true);
+    maxSelect.onchange = () => aplicarFiltros(true);
+
+    // Géneros
+    const catsContainer = document.getElementById("filtro-categorias");
+    catsContainer.innerHTML = "";
+    const allGenres = new Set();
+    todosLosContenidos.forEach(item => {
+        item.genres.forEach(g => allGenres.add(g));
+    });
+    Array.from(allGenres).sort().forEach(genre => {
+        const btn = document.createElement("button");
+        btn.className = "px-4 py-2 bg-white/10 hover:bg-white/20 rounded-2xl text-sm transition-all";
+        btn.textContent = genre;
+        btn.onclick = () => {
+            btn.classList.toggle("filtro-activo");
+            aplicarFiltros(true);
+        };
+        catsContainer.appendChild(btn);
+    });
+}
+
+function aplicarFiltros(keepOpen = false) {
+    const nombre = normalizeText(document.getElementById("filtro-nombre").value);
+    const letrasActivas = Array.from(document.querySelectorAll("#filtro-letras button.filtro-activo"))
+        .map(b => b.textContent);
+    const generosActivos = Array.from(document.querySelectorAll("#filtro-categorias button.filtro-activo"))
+        .map(b => b.textContent);
+    const anoMin = document.getElementById("filtro-ano-min").value;
+    const anoMax = document.getElementById("filtro-ano-max").value;
+
+    contenidosFiltrados = todosLosContenidos.filter(item => {
+        const tituloNorm = normalizeText(item.title);
+        const alternosNorm = normalizeText(item.tituloAlternos);
+        const sinopsisNorm = normalizeText(item.sinopsis);
+
+        if (nombre && 
+            !tituloNorm.includes(nombre) && 
+            !alternosNorm.includes(nombre) && 
+            !sinopsisNorm.includes(nombre)) {
+            return false;
+        }
+
+        if (letrasActivas.length > 0 && !letrasActivas.includes(item.title[0]?.toUpperCase())) 
+            return false;
+
+        if (generosActivos.length > 0) {
+            const tieneGenero = item.genres.some(g => generosActivos.includes(g));
+            if (!tieneGenero) return false;
+        }
+
+        if (anoMin && parseInt(item.year) < parseInt(anoMin)) return false;
+        if (anoMax && parseInt(item.year) > parseInt(anoMax)) return false;
+
+        return true;
+    });
+
+    renderizarPeliculas(true);
+    if (!keepOpen) cerrarModalFiltros();
+}
+
+function limpiarFiltros() {
+    document.getElementById("filtro-nombre").value = "";
+    document.querySelectorAll("#filtro-letras button").forEach(b => b.classList.remove("filtro-activo"));
+    document.querySelectorAll("#filtro-categorias button").forEach(b => b.classList.remove("filtro-activo"));
+    document.getElementById("filtro-ano-min").value = "";
+    document.getElementById("filtro-ano-max").value = "";
+
+    contenidosFiltrados = [...todosLosContenidos];
+    renderizarPeliculas(true);
+    cerrarModalFiltros();
+}
+
+// =============================================
+// SCROLL Y BOTONES
+// =============================================
+function volverArriba() {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+window.addEventListener("scroll", () => {
+    const btn = document.getElementById("btn-volver-arriba");
+    if (btn) {
+        if (window.scrollY > 400) {
+            btn.classList.remove("hidden");
+            btn.classList.add("flex");
+        } else {
+            btn.classList.add("hidden");
+            btn.classList.remove("flex");
+        }
+    }
+});
+
+// =============================================
+// INIT
+// =============================================
+window.onload = () => {
+    if (typeof initNavbar === "function") {
+        initNavbar("main-header");
+    }
+    cargarTodo();
+};
     </script>
 </body>
 </html>
