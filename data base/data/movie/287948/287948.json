@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 287948,
+  "poster": "https://image.tmdb.org/t/p/w500/7XEgWQrJKmZ6GhaRmVPxhhzf81i.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pH5ycIvD1Fz55tP9YWeE9sAAoGL.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/adhVywytbACAS1ohePjpDHLoJsk.png",
+  "titulo": "El Transportador: Recargado",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Crimen"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.518,
+  "año": "2015",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "Anna, una atractiva y enigmática mujer, junto a su grupo de ayudantes secuestra al padre de Frank Martin mientras éste le hacía una visita en el sur de Francia. Lo hacen para obligarle a que les ayude a destruir una organización rusa que se dedica al tráfico de personas.",
+  "fecha_estreno": "2015-09-02",
+  "titulo_original": "The Transporter Refueled",
+  "pais_origen": "Belgium",
+  "reparto": [
+    {
+      "nombre": "Ed Skrein",
+      "personaje": "Frank Martin Jr.",
+      "foto": "https://image.tmdb.org/t/p/w500/btJvbQbWf3ciYM4SM5tMWSJEkXX.jpg"
+    },
+    {
+      "nombre": "Ray Stevenson",
+      "personaje": "Frank Martin Sr.",
+      "foto": "https://image.tmdb.org/t/p/w500/9QCVNDgTgDEbGsa6w3JuECEPuQz.jpg"
+    },
+    {
+      "nombre": "Loan Chabanol",
+      "personaje": "Anna",
+      "foto": "https://image.tmdb.org/t/p/w500/ufDSnBKJRw70MkO66zhZfLsfH8y.jpg"
+    },
+    {
+      "nombre": "Gabriella Wright",
+      "personaje": "Gina",
+      "foto": "https://image.tmdb.org/t/p/w500/gRu9HvASbIceRNvQU43pvKyYc0l.jpg"
+    },
+    {
+      "nombre": "Tatiana Pajković",
+      "personaje": "Maria",
+      "foto": "https://image.tmdb.org/t/p/w500/l0nnIe6QoQKlyxm3lfeEs06mEGE.jpg"
+    },
+    {
+      "nombre": "Wenxia Yu",
+      "personaje": "Qiao",
+      "foto": "https://image.tmdb.org/t/p/w500/kBOVLUEbQ91k9NmgJkWSOV8IlF3.jpg"
+    },
+    {
+      "nombre": "Radivoje Bukvić",
+      "personaje": "Arkady Karasov",
+      "foto": "https://image.tmdb.org/t/p/w500/64B4gbIM5RsoPDBhKcMa0AmN8xQ.jpg"
+    },
+    {
+      "nombre": "Noémie Lenoir",
+      "personaje": "Maïssa",
+      "foto": "https://image.tmdb.org/t/p/w500/6qUNl0kczXHMN4yHrsDYEcEjw3O.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Camille Delamarre",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark Gao",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bill Collage",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Adam Cooper",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marc Hoang",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Virginie Arnaud",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Robert Mark Kamen",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "William Gally",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "José-Luis Casas",
+      "rol": "Key Hair Stylist"
+    },
+    {
+      "nombre": "Christophe Collette",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Évelyne Tissandier",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Alexandre Hernandez",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Lorenzo Donati",
+      "rol": "Steadicam Operator"
+    },
+    {
+      "nombre": "Julien Rey",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Guillaume Pondard",
+      "rol": "Visual Effects Supervisor"
+    }
+  ],
+  "director": "Camille Delamarre",
+  "valoraciones": {
+    "tmdb": 5.518,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "EuropaCorp",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/c5/s8/2/_/u/z/B/_uzBy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=DPJGqXBqFzw"
+}
