@@ -3,7 +3,6 @@
 // =============================================
 const GITHUB_RAW_BASE =
   "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/";
-
 // ✅ ÚNICO ARCHIVO DEL QUE SE TOMAN LOS ENLACES DE VIDEO
 const LIST_MOVIE_JSON =
   "https://raw.githubusercontent.com/thexxx880/API/main/content/API/JSON/list-movie.JSON";
@@ -193,7 +192,6 @@ async function loadContent() {
 // ================== RENDERIZAR PÁGINA ==================
 let currentMovieId = null;
 let currentMovieData = null;
-
 function renderPage(data, id) {
   currentMovieId = id;
   currentMovieData = data;
@@ -295,7 +293,6 @@ async function toggleFavorite(movieId, movieData) {
     return false;
   }
 }
-
 async function loadFavoriteState(movieId) {
   const btn = document.getElementById('listBtn');
   if (!btn) return;
@@ -323,7 +320,6 @@ async function loadFavoriteState(movieId) {
     console.error('Error cargando Mi lista:', e);
   }
 }
-
 function toggleList(btn) {
   if (!currentMovieId || !currentMovieData) return;
   toggleFavorite(currentMovieId, currentMovieData).then(isSaved => {
@@ -344,59 +340,54 @@ function toggleList(btn) {
   });
 }
 
-// ================== TRAILER Y PLAYER ==================
+// ================== TRAILER EN MODAL ==================
 function playTrailer(data) {
   const trailerUrl = data.trailer || data.youtube || data.video_trailer;
   if (!trailerUrl) {
     showToast('No hay trailer disponible', 'fa-exclamation-triangle');
     return;
   }
-
   // Extraer ID de YouTube
   let videoId = trailerUrl;
   if (trailerUrl.includes('youtube.com') || trailerUrl.includes('youtu.be')) {
     const match = trailerUrl.match(/(?:youtu\.be\/|v=|embed\/)([^?&"'>]+)/);
     videoId = match ? match[1] : trailerUrl;
   }
-
   const modalHtml = `
     <div class="modal-trailer" style="position:fixed;inset:0;background:rgba(0,0,0,0.97);display:flex;align-items:center;justify-content:center;z-index:99999;">
       <div style="position:relative;width:90%;max-width:1100px;">
-        <button onclick="this.closest('.modal-trailer').remove()" 
+        <button onclick="this.closest('.modal-trailer').remove()"
                 style="position:absolute;top:-60px;right:10px;color:white;font-size:2.5rem;background:none;border:none;cursor:pointer;z-index:10;">✕</button>
-        <iframe width="100%" height="620" 
-                src="https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        <iframe width="100%" height="620"
+                src="https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
       </div>
     </div>
   `;
-
   // Eliminar modal anterior si existe
   document.querySelectorAll('.modal-trailer').forEach(m => m.remove());
   document.body.insertAdjacentHTML('beforeend', modalHtml);
 }
 
+// ================== PLAYER MODAL (Opciones) ==================
 async function showPlayerModal(data, id) {
   const modal = document.getElementById('playerModal');
   if (!modal) {
     console.error("Modal #playerModal no encontrado");
     return;
   }
-
   const videoUrl = await getVideoLink(id);
   if (!videoUrl) {
     showToast('❌ No se encontró enlace de video para este contenido', 'fa-exclamation-triangle');
     return;
   }
-
   window.currentMovieData = {
     video: videoUrl,
     poster: data.backdrop || data.poster,
     title: encodeURIComponent(data.titulo || 'Película')
   };
-
   modal.style.display = 'flex';
 }
 
@@ -405,6 +396,7 @@ function closeModal() {
   if (modal) modal.style.display = 'none';
 }
 
+// ================== ABRIR PLAYER EN LA MISMA PÁGINA ==================
 function openPlayer(option) {
   const d = window.currentMovieData;
   if (!d || !d.video) {
@@ -420,15 +412,9 @@ function openPlayer(option) {
     url = `https://lzrdrz10.github.io/player/?player=jwpl&provider=rand&format=video%2Fmp4&link=${encodeURIComponent(d.video)}`;
   }
 
-  const modalContent = document.querySelector('#playerModal .modal-content') || document.getElementById('playerModal');
-
-  modalContent.innerHTML = `
-    <button onclick="closeModal()" 
-            style="position:absolute;top:20px;right:30px;color:white;font-size:2.5rem;background:none;border:none;cursor:pointer;z-index:100;">✕</button>
-    <iframe src="${url}" 
-            style="width:100%; height:100%; border:none;" 
-            allowfullscreen></iframe>
-  `;
+  closeModal();
+  // Abre en la misma página (pantalla completa del reproductor)
+  window.location.href = url;
 }
 
 // ================== FUNCIONES AUXILIARES ==================
