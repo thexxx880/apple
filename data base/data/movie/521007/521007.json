@@ -11,7 +11,7 @@
     "Romance"
   ],
   "calificacion": "PG-13",
-  "puntuacion": 5.889,
+  "puntuacion": 5.894,
   "año": "2020",
   "duracion": "1h 46min",
   "edad_minima": 13,
@@ -67,20 +67,20 @@
       "rol": "Director"
     },
     {
-      "nombre": "Melissa McCarthy",
+      "nombre": "Ben Falcone",
       "rol": "Producer"
-    },
-    {
-      "nombre": "Steve Mallory",
-      "rol": "Writer"
     },
     {
       "nombre": "Rob Cowan",
       "rol": "Producer"
     },
     {
-      "nombre": "Ben Falcone",
+      "nombre": "Melissa McCarthy",
       "rol": "Producer"
+    },
+    {
+      "nombre": "Steve Mallory",
+      "rol": "Writer"
     }
   ],
   "crew": [
@@ -93,11 +93,15 @@
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Jason Cloth",
+      "nombre": "Aaron L. Gilbert",
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Aaron L. Gilbert",
+      "nombre": "Melanie Ghisays",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jason Cloth",
       "rol": "Executive Producer"
     },
     {
@@ -105,37 +109,33 @@
       "rol": "Director of Photography"
     },
     {
-      "nombre": "Jeremy Woolsey",
-      "rol": "Art Direction"
+      "nombre": "Fil Eisler",
+      "rol": "Original Music Composer"
     },
     {
       "nombre": "Tia Nolan",
       "rol": "Editor"
     },
     {
-      "nombre": "Fil Eisler",
-      "rol": "Original Music Composer"
-    },
-    {
       "nombre": "Missy Parker",
       "rol": "Set Decoration"
     },
     {
-      "nombre": "Melanie Ghisays",
-      "rol": "Costume Design"
-    },
-    {
-      "nombre": "Kris Redding",
-      "rol": "Casting"
+      "nombre": "Jeremy Woolsey",
+      "rol": "Art Direction"
     },
     {
       "nombre": "Allison Jones",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kris Redding",
       "rol": "Casting"
     }
   ],
   "director": "Ben Falcone",
   "valoraciones": {
-    "tmdb": 5.889,
+    "tmdb": 5.894,
     "imdb": null,
     "rotten_tomatoes": null
   },
