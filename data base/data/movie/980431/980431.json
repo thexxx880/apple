@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 980431,
+  "poster": "https://image.tmdb.org/t/p/w500/iMsORWhD8MawINagL6kvpDVAtS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bdjJRLdpsQDTMHKlFKiTgbcDxDw.png",
+  "titulo": "Avatar: Aang, El último Maestro Aire",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Animación",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 0,
+  "año": "2026",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Avatar Aang, el último Maestro Aire del mundo, se entera de un antiguo poder que podría salvar a su cultura de la extinción. Con la ayuda de sus amigos, se embarca en una búsqueda global para encontrarlo antes de que caiga en las manos equivocadas y amenace con deshacer la paz por la que lo sacrificaron todo.",
+  "fecha_estreno": "2026-10-09",
+  "titulo_original": "Avatar Aang: The Last Airbender",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "에릭 남",
+      "personaje": "Aang (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gEH0b5q9tupL49dmUFkjm9dnxP2.jpg"
+    },
+    {
+      "nombre": "Dave Bautista",
+      "personaje": "Tagah (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    },
+    {
+      "nombre": "Jessica Matten",
+      "personaje": "Katara (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/EQsPxsav8AZmaeT3mpU3Evilee.jpg"
+    },
+    {
+      "nombre": "Román Zaragoza",
+      "personaje": "Sokka (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uWkOkSLqj2POMqkeLk5E5UJzebv.jpg"
+    },
+    {
+      "nombre": "Steven Yeun",
+      "personaje": "Zuko (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+    },
+    {
+      "nombre": "Dionne Quan",
+      "personaje": "Toph (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vGe0bMTfYDX1Wcw9ZCfY3YCSgai.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Appa / Momo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Freida Pinto",
+      "personaje": "Avatar Sonam (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tub18dfDNMxlempVIuPXh8fmZVs.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lauren Montgomery",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Latifa Ouaou",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Maryann Garger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dagan Potter",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bryan Konietzko",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Dante DiMartino",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tim Hedrick",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Christopher L. Yost",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "William Mata",
+      "rol": "Co-Director"
+    },
+    {
+      "nombre": "Alex Loots",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Michelle Mendenhall",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jenny Jue",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Alex Konstad",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Connor Sheehan",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Carlos Sotolongo",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Steve Ahn",
+      "rol": "Head of Story"
+    },
+    {
+      "nombre": "Micah Gunnell",
+      "rol": "Story Artist"
+    },
+    {
+      "nombre": "Greta Traldi",
+      "rol": "Story Artist"
+    },
+    {
+      "nombre": "Nicholas Fitzgerald",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Bryan Konietzko",
+      "rol": "Original Series Creator"
+    }
+  ],
+  "director": "Lauren Montgomery",
+  "valoraciones": {
+    "tmdb": 0,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nickelodeon Movies",
+  "enlace_video": "https://rumble.com/hls-vod/7783s6/playlist.m3u8?u=0&b=0",
+  "trailer": ""
+}
