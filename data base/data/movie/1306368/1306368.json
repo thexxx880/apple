@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1306368,
+  "poster": "https://image.tmdb.org/t/p/w500/3dQVnkDyTq0NCbRCUZc5tdztVbd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nJaQn1V1PM3b2733Bh8EimswvMz.png",
+  "titulo": "El botín",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Crimen"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.074,
+  "año": "2026",
+  "duracion": "2h 13min",
+  "edad_minima": 13,
+  "sinopsis": "La confianza tambalea cuando un grupo de policías de Miami descubre millones de dólares en efectivo en una casa de seguridad abandonada. Ya nada ―ni nadie― queda fuera de sospecha.",
+  "fecha_estreno": "2026-01-13",
+  "titulo_original": "The Rip",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Matt Damon",
+      "personaje": "Lieutenant Dane Dumars",
+      "foto": "https://image.tmdb.org/t/p/w500/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+    },
+    {
+      "nombre": "Ben Affleck",
+      "personaje": "Detective Sergeant J.D. Byrne",
+      "foto": "https://image.tmdb.org/t/p/w500/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+    },
+    {
+      "nombre": "Teyana Taylor",
+      "personaje": "Detective Numa Baptistie",
+      "foto": "https://image.tmdb.org/t/p/w500/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
+    },
+    {
+      "nombre": "Steven Yeun",
+      "personaje": "Detective Mike Ro",
+      "foto": "https://image.tmdb.org/t/p/w500/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+    },
+    {
+      "nombre": "Catalina Sandino Moreno",
+      "personaje": "Detective Lolo Salazar",
+      "foto": "https://image.tmdb.org/t/p/w500/78V4H40NXJ6dzqFZaEe1fBelw56.jpg"
+    },
+    {
+      "nombre": "Sasha Calle",
+      "personaje": "Desiree 'Desi' Lopez Molina",
+      "foto": "https://image.tmdb.org/t/p/w500/yLZY25AQOC2xKzsWqteyJTcWPK3.jpg"
+    },
+    {
+      "nombre": "Kyle Chandler",
+      "personaje": "DEA Agent Mateo 'Matty' Nix",
+      "foto": "https://image.tmdb.org/t/p/w500/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
+    },
+    {
+      "nombre": "Scott Adkins",
+      "personaje": "FBI Agent Del Byrne",
+      "foto": "https://image.tmdb.org/t/p/w500/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ben Affleck",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Carnahan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Matt Damon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Luciana Damon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dani Bernfeld",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Carnahan",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Michael McGrale",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Joe Carnahan",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jesse Rosenthal",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Marvin Williams",
+      "rol": "Second Unit First Assistant Director"
+    },
+    {
+      "nombre": "Clinton Shorter",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Juan Miguel Azpiroz",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Sharon Bialy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Judy Becker",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jayson Merrill",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Sasha Veneziano",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Kelli Jones",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Stacey Panepinto",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Rebecca Woodfork-Ziegler",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Alyssa Morris",
+      "rol": "Casting Associate"
+    }
+  ],
+  "director": "Joe Carnahan",
+  "valoraciones": {
+    "tmdb": 7.074,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Artists Equity",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/96/s8/2/K/I/b/U/KIbUz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=yeR5bcbRPak"
+}
