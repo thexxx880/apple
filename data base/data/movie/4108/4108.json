@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 4108,
+  "poster": "https://image.tmdb.org/t/p/w500/flOR63degbHkVlL7BYoe0Eyhzrw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8dXR9R0NUo4eyS4hnYOsCywmo16.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tvywDIbBTQGSsSVxewntOXThj1g.png",
+  "titulo": "El Transportador",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.727,
+  "año": "2002",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "El ex operador de Fuerzas Especiales Frank Martin vive lo que parece ser una vida tranquila a orillas del Mediterráneo francés, donde presta sus servicios como un “transportador”, un mercenario que traslada bienes —humanos o de cualquier tipo— de un lugar a otro. Siempre sin preguntas de por medio. Frank, que en su BMW equipado lleva a cabo misiones secretas y a veces peligrosas, se apega a un estricto juego de 3 reglas que nunca rompe. Regla número uno: Nunca modifiques el trato. Dos: Omitir nombres, Frank no quiere saber para quién trabaja o qué es lo que transporta. Tres: Nunca ver qué hay dentro del paquete. La carga más reciente de Frank aparenta ser igual a los incontables paquetes que ha entregado en el pasado. Ha sido contratado por un norteamericano conocido solamente como “Wall Street” para que lleve a cabo una entrega. Pero cuando Frank se detiene en el trayecto, se percata que su “paquete” se mueve...",
+  "fecha_estreno": "2002-10-02",
+  "titulo_original": "The Transporter",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jason Statham",
+      "personaje": "Frank Martin",
+      "foto": "https://image.tmdb.org/t/p/w500/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+    },
+    {
+      "nombre": "舒淇",
+      "personaje": "Lai",
+      "foto": "https://image.tmdb.org/t/p/w500/jNaUWRClE4aFnguPZKQeVqfugPd.jpg"
+    },
+    {
+      "nombre": "François Berléand",
+      "personaje": "Tarconi",
+      "foto": "https://image.tmdb.org/t/p/w500/5TDYSUfCj8vaG5sqJXUU06Cvafa.jpg"
+    },
+    {
+      "nombre": "Matt Schulze",
+      "personaje": "Wall Street",
+      "foto": "https://image.tmdb.org/t/p/w500/1dPinwDyFIEN30wUQG9Mm3Emnjh.jpg"
+    },
+    {
+      "nombre": "Ric Young",
+      "personaje": "Mr Kwai",
+      "foto": "https://image.tmdb.org/t/p/w500/2XxcV8eGeyAXOofsXmEsN2hSx45.jpg"
+    },
+    {
+      "nombre": "Doug Rand",
+      "personaje": "Leader",
+      "foto": "https://image.tmdb.org/t/p/w500/kBDawasRQXDvZThX75bMEgl1xcd.jpg"
+    },
+    {
+      "nombre": "Didier Saint Melin",
+      "personaje": "Boss",
+      "foto": "https://image.tmdb.org/t/p/w500/ldIUxncHyhKqNDBhNLFQwBcAowT.jpg"
+    },
+    {
+      "nombre": "Tonio Descanvelle",
+      "personaje": "Thug 1",
+      "foto": "https://image.tmdb.org/t/p/w500/l5xgE93R5bjwenULIItboKYVmve.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Luc Besson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Mark Kamen",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Steven Chasman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "元奎",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Louis Leterrier",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stanley Clarke",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Pierre Morel",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Nicolas Trembasiewicz",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Nathalie Chéron",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Hugues Tissandier",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Anne Bergamaschi",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Alexandre Hernandez",
+      "rol": "Assistant Sound Editor"
+    },
+    {
+      "nombre": "Susan Salzano",
+      "rol": "Set Costumer"
+    },
+    {
+      "nombre": "Ron Finn",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Anne Delacour",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Ken Yasumoto",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Frédéric Moreau",
+      "rol": "Visual Effects Producer"
+    }
+  ],
+  "director": "元奎",
+  "valoraciones": {
+    "tmdb": 6.727,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "TF1 Films Production",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/51/s8/2/t/S/r/B/tSrBy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=__fFn0Xy8ys"
+}
