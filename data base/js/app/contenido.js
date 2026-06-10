@@ -1,7 +1,6 @@
 // =============================================
 // CONTENIDO.JS - Sistema de vistas Firebase
 // =============================================
-
 const GITHUB_RAW_BASE =
   "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/";
 
@@ -20,13 +19,11 @@ async function getVideoLink(id) {
       if (!res.ok) throw new Error("No se pudo cargar list-movie.JSON");
       videoLinksCache = await res.json();
     }
-
     const entry = videoLinksCache[id];
     if (entry && entry.enlace) {
       console.log(`🎥 Enlace cargado desde list-movie.JSON → ID ${id}`);
       return entry.enlace;
     }
-
     console.warn(`⚠️ No se encontró enlace para ID: ${id}`);
     return null;
   } catch (err) {
@@ -350,19 +347,45 @@ function toggleList(btn) {
 // ================== TRAILER Y PLAYER ==================
 function playTrailer(data) {
   const trailerUrl = data.trailer || data.youtube || data.video_trailer;
-  if (trailerUrl) {
-    window.open(trailerUrl, '_blank');
-  } else {
+  if (!trailerUrl) {
     showToast('No hay trailer disponible', 'fa-exclamation-triangle');
+    return;
   }
+
+  // Extraer ID de YouTube
+  let videoId = trailerUrl;
+  if (trailerUrl.includes('youtube.com') || trailerUrl.includes('youtu.be')) {
+    const match = trailerUrl.match(/(?:youtu\.be\/|v=|embed\/)([^?&"'>]+)/);
+    videoId = match ? match[1] : trailerUrl;
+  }
+
+  const modalHtml = `
+    <div class="modal-trailer" style="position:fixed;inset:0;background:rgba(0,0,0,0.97);display:flex;align-items:center;justify-content:center;z-index:99999;">
+      <div style="position:relative;width:90%;max-width:1100px;">
+        <button onclick="this.closest('.modal-trailer').remove()" 
+                style="position:absolute;top:-60px;right:10px;color:white;font-size:2.5rem;background:none;border:none;cursor:pointer;z-index:10;">✕</button>
+        <iframe width="100%" height="620" 
+                src="https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen></iframe>
+      </div>
+    </div>
+  `;
+
+  // Eliminar modal anterior si existe
+  document.querySelectorAll('.modal-trailer').forEach(m => m.remove());
+  document.body.insertAdjacentHTML('beforeend', modalHtml);
 }
 
 async function showPlayerModal(data, id) {
   const modal = document.getElementById('playerModal');
-  
-  // SOLO TOMA EL ENLACE DEL JSON CENTRAL
-  const videoUrl = await getVideoLink(id);
+  if (!modal) {
+    console.error("Modal #playerModal no encontrado");
+    return;
+  }
 
+  const videoUrl = await getVideoLink(id);
   if (!videoUrl) {
     showToast('❌ No se encontró enlace de video para este contenido', 'fa-exclamation-triangle');
     return;
@@ -389,14 +412,23 @@ function openPlayer(option) {
     closeModal();
     return;
   }
+
   let url = '';
   if (option === 1) {
     url = `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
   } else if (option === 2) {
     url = `https://lzrdrz10.github.io/player/?player=jwpl&provider=rand&format=video%2Fmp4&link=${encodeURIComponent(d.video)}`;
   }
-  closeModal();
-  window.open(url, '_blank');
+
+  const modalContent = document.querySelector('#playerModal .modal-content') || document.getElementById('playerModal');
+
+  modalContent.innerHTML = `
+    <button onclick="closeModal()" 
+            style="position:absolute;top:20px;right:30px;color:white;font-size:2.5rem;background:none;border:none;cursor:pointer;z-index:100;">✕</button>
+    <iframe src="${url}" 
+            style="width:100%; height:100%; border:none;" 
+            allowfullscreen></iframe>
+  `;
 }
 
 // ================== FUNCIONES AUXILIARES ==================
