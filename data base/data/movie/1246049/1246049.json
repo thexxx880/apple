@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 1246049,
+  "poster": "https://image.tmdb.org/t/p/w500/4RLVdwteTYa3WxanwR5nDsOOUjY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/be5SIsRGMckO8tU9lrLcIik70Dy.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mfD7pMAj1pJotTwdSSqQqC0uq7R.png",
+  "titulo": "Drácula",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Fantasía",
+    "Romance"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.138,
+  "año": "2025",
+  "duracion": "2h 9min",
+  "edad_minima": 13,
+  "sinopsis": "Tras la muerte de su esposa, un príncipe del siglo XV renuncia a Dios y se convierte en vampiro. Siglos más tarde, en el Londres del siglo XIX, ve a una mujer parecida a su difunta esposa y la persigue, sellando así su propio destino.",
+  "fecha_estreno": "2025-07-30",
+  "titulo_original": "Dracula",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Caleb Landry Jones",
+      "personaje": "Vlad / Dracula",
+      "foto": "https://image.tmdb.org/t/p/w500/8M5lPHrERwAIfWK56RkH30FOjhV.jpg"
+    },
+    {
+      "nombre": "Zoë Bleu Sidel",
+      "personaje": "Elisabeta / Mina",
+      "foto": "https://image.tmdb.org/t/p/w500/1FsS1gMWe11AWmMst2NubiwrxtF.jpg"
+    },
+    {
+      "nombre": "Christoph Waltz",
+      "personaje": "Priest",
+      "foto": "https://image.tmdb.org/t/p/w500/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+    },
+    {
+      "nombre": "Matilda De Angelis",
+      "personaje": "Maria",
+      "foto": "https://image.tmdb.org/t/p/w500/xL6Ky35uDDz9L4qWkMF2cTjGkbn.jpg"
+    },
+    {
+      "nombre": "Ewens Abid",
+      "personaje": "Jonathan Harker",
+      "foto": "https://image.tmdb.org/t/p/w500/5zGcQkoSsg1AdkcvYuqnLuslMuv.jpg"
+    },
+    {
+      "nombre": "Guillaume de Tonquédec",
+      "personaje": "Dumont",
+      "foto": "https://image.tmdb.org/t/p/w500/mDPeqkKJgFMiH60gH32VTwgOHSp.jpg"
+    },
+    {
+      "nombre": "David Shields",
+      "personaje": "Henry Spencer",
+      "foto": "https://image.tmdb.org/t/p/w500/k7E0Pctzyx1ML8M9nnxVhnKIFtz.jpg"
+    },
+    {
+      "nombre": "Bertrand-Xavier Corbi",
+      "personaje": "Captain Targol",
+      "foto": "https://image.tmdb.org/t/p/w500/bY4kNFV0O9pQD0XAW9McD7t6X0W.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Luc Besson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Virginie Besson-Silla",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bram Stoker",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Juline Blondeau",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Emeline Le Guen",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Louise Mejstelman",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Camille Patrice",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Hélène Robert",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Eric Gandois",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Kevin Bourgin",
+      "rol": "Boom Operator"
+    },
+    {
+      "nombre": "Paul Le Borgne-Cueff",
+      "rol": "Sound Assistant"
+    },
+    {
+      "nombre": "Yves Levêque",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Florian Baussand",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Raimundo Querido",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Luc Besson",
+  "valoraciones": {
+    "tmdb": 7.138,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "EuropaCorp",
+  "enlace_video": "https://rumble.com/hls-vod/765pny/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=hverb7siYJ8"
+}
