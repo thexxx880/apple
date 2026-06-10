@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 680493,
+  "poster": "https://image.tmdb.org/t/p/w500/8JcaYXZYlT2nYlsgo1Uv7RH9FP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vl4PmZR6CuKfio8SzgX0cTRg9g8.png",
+  "titulo": "Terror en Silent Hill: Regreso al infierno",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama",
+    "Terror"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 5.368,
+  "año": "2026",
+  "duracion": "1h 46min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando James recibe una misteriosa carta de Mary, su amor perdido, se siente atraído por Silent Hill, un pueblo que antes le era familiar y ahora está sumido en la oscuridad.",
+  "fecha_estreno": "2026-01-21",
+  "titulo_original": "Return to Silent Hill",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Jeremy Irvine",
+      "personaje": "James Sunderland",
+      "foto": "https://image.tmdb.org/t/p/w500/wnyLs0r9j1IB4zK2QBkgg2TyAzZ.jpg"
+    },
+    {
+      "nombre": "Hannah Emily Anderson",
+      "personaje": "Mary Crane  / Angela / Maria / Moth Mary",
+      "foto": "https://image.tmdb.org/t/p/w500/fSyNGF4pZQj9Ne9IKv9kfimECzk.jpg"
+    },
+    {
+      "nombre": "Evie Templeton",
+      "personaje": "Laura",
+      "foto": "https://image.tmdb.org/t/p/w500/1JV3FEULVnROl4APfkUprqTrFF6.jpg"
+    },
+    {
+      "nombre": "Pearse Egan",
+      "personaje": "Eddie",
+      "foto": "https://image.tmdb.org/t/p/w500/bzHkytLIEk4T4arzd7h5BRLufov.jpg"
+    },
+    {
+      "nombre": "Nicola Alexis",
+      "personaje": "M",
+      "foto": "https://image.tmdb.org/t/p/w500/jPynKGMPaArRB4SAr6OIGHWQRl.jpg"
+    },
+    {
+      "nombre": "Robert Strange",
+      "personaje": "Pyramid Head",
+      "foto": "https://image.tmdb.org/t/p/w500/4GBjA1itRhsKaPaOrVE1YN9qOqc.jpg"
+    },
+    {
+      "nombre": "Emily Carding",
+      "personaje": "Dara",
+      "foto": "https://image.tmdb.org/t/p/w500/zW0SKNWWlEFrLm5XAZh24rL0E6b.jpg"
+    },
+    {
+      "nombre": "Eve Macklin",
+      "personaje": "Kaitlyn",
+      "foto": "https://image.tmdb.org/t/p/w500/7e1bpd3iTst0PvCk4A7LVfUgNut.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Victor Hadida",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Molly Hassell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David M. Wulf",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sandra Vo-Anh",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "William Josef Schneider",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Christophe Gans",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "John Jencks",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alexa Seligman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Momirka Bailović",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Aleksandra Kljajić",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Joe Jenckes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan Bross",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nataša Krstić",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Sébastien Prangère",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Felicity Abbott",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Philipp Kreuzer",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Joe Neurauter",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Pablo Rosso",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Milan Maksimović",
+      "rol": "Location Manager"
+    },
+    {
+      "nombre": "Slaviša Ivanović",
+      "rol": "Stunt Coordinator"
+    }
+  ],
+  "director": "Christophe Gans",
+  "valoraciones": {
+    "tmdb": 5.368,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Konami",
+  "enlace_video": "https://1a-1791.com/video/fwe2/9b/s8/2/W/Q/W/2/WQW2z.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=z10cMFhKbW8"
+}
