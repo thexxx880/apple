@@ -62,8 +62,16 @@
   ],
   "equipo_creativo": [
     {
+      "nombre": "Lisa Stewart",
+      "rol": "Producer"
+    },
+    {
       "nombre": "David Soren",
       "rol": "Director"
+    },
+    {
+      "nombre": "Robert D. Siegel",
+      "rol": "Screenplay"
     },
     {
       "nombre": "Darren Lemke",
@@ -71,14 +79,6 @@
     },
     {
       "nombre": "David Soren",
-      "rol": "Screenplay"
-    },
-    {
-      "nombre": "Lisa Stewart",
-      "rol": "Producer"
-    },
-    {
-      "nombre": "Robert D. Siegel",
       "rol": "Screenplay"
     },
     {
@@ -108,32 +108,32 @@
       "rol": "Director of Photography"
     },
     {
-      "nombre": "James Ryan",
-      "rol": "Editor"
+      "nombre": "Chris Leahy",
+      "rol": "Production Manager"
     },
     {
-      "nombre": "Ennio Torresan Jr.",
-      "rol": "Head of Story"
-    },
-    {
-      "nombre": "Michael Isaak",
-      "rol": "Production Designer"
+      "nombre": "Wally Pfister",
+      "rol": "Other"
     },
     {
       "nombre": "Sean Phillips",
       "rol": "Visual Effects Supervisor"
     },
     {
+      "nombre": "Denis Couchon",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Ennio Torresan Jr.",
+      "rol": "Head of Story"
+    },
+    {
+      "nombre": "James Ryan",
+      "rol": "Editor"
+    },
+    {
       "nombre": "Chris Stover",
       "rol": "Head of Layout"
-    },
-    {
-      "nombre": "Richard Daskas",
-      "rol": "Art Direction"
-    },
-    {
-      "nombre": "Chris Leahy",
-      "rol": "Production Manager"
     }
   ],
   "director": "David Soren",
