@@ -1,0 +1,128 @@
+{
+  "id_tmdb": 1570282,
+  "poster": "https://image.tmdb.org/t/p/w500/6nTqw569IFEZtCMKaRYPH2vnEzG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6aa0MMYI0cnrAw2ra3E5CmfHfUV.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/trUgxhZoDywjEtvhqX1IzkWef1y.png",
+  "titulo": "Ahí estoy yo",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Música"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7,
+  "año": "2026",
+  "duracion": "2h 10min",
+  "edad_minima": 13,
+  "sinopsis": "Tras descubrir un sentido de pertenencia en un cabaré y recibir ayuda de un médico, Kenji, un chico acosado por querer ser una estrella, saca a la luz su verdadero ser, Ai Haruna.",
+  "fecha_estreno": "2026-02-09",
+  "titulo_original": "This is I",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "望月春希",
+      "personaje": "Ai Haruna",
+      "foto": "https://image.tmdb.org/t/p/w500/oJTIyWZIIwo7zLnFh5IH9pcZSVG.jpg"
+    },
+    {
+      "nombre": "斎藤工",
+      "personaje": "Koji Wada",
+      "foto": "https://image.tmdb.org/t/p/w500/bI4F2yT9R3HW4o17V7Mne7EqIbB.jpg"
+    },
+    {
+      "nombre": "木村多江",
+      "personaje": "Hatsue",
+      "foto": "https://image.tmdb.org/t/p/w500/nENSbtdlmj8uJAiXsEnDdoT4uNR.jpg"
+    },
+    {
+      "nombre": "千原せいじ",
+      "personaje": "Kazutaka",
+      "foto": "https://image.tmdb.org/t/p/w500/fwCpDWLJyTPaL0ERSDAGrAV0z6I.jpg"
+    },
+    {
+      "nombre": "中村中",
+      "personaje": "Aki",
+      "foto": "https://image.tmdb.org/t/p/w500/gaLOF7XlzKnFsfFsG1RTt0GCrfh.jpg"
+    },
+    {
+      "nombre": "吉村界人",
+      "personaje": "Takuya",
+      "foto": "https://image.tmdb.org/t/p/w500/6S8T4LuBZKMORP2Xdvgrn1Wxihd.jpg"
+    },
+    {
+      "nombre": "末成映薫",
+      "personaje": "Grandma",
+      "foto": null
+    },
+    {
+      "nombre": "MEGUMI",
+      "personaje": "Yoko",
+      "foto": "https://image.tmdb.org/t/p/w500/9qqVBUuiszwHErmVx9wIXp6wPqk.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "松本優作",
+      "rol": "Director"
+    },
+    {
+      "nombre": "山浦雅大",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "窪田義弘",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "鈴木おさむ",
+      "rol": "Development Producer"
+    },
+    {
+      "nombre": "佐藤善宏",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "保中良介",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "榊原直記",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "我妻弘之",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "竹内久史",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "柴田雄大",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "宮島竜治",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "小瀬村晶",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "新江佳子",
+      "rol": "Casting"
+    }
+  ],
+  "director": "松本優作",
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "TOHO Studios",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/7d/s8/2/S/v/y/Y/SvyYz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=Zau0BmfP9Gc"
+}
