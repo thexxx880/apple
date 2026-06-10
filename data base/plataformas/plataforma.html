@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plataforma - LZPLAY</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="../css/load.css">
+    <script src="../js/components/load.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <style>
+        body { font-family: 'Poppins', sans-serif; background: #020817; color: white; }
+        .page-content { padding-top: 8rem; }
+        @media (max-width: 768px) { .page-content { padding-top: 5rem; } }
+        .card { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+        .card:hover { transform: scale(1.06); box-shadow: 0 20px 40px rgba(0,0,0,.45); }
+        .poster-container { position: relative; overflow: hidden; background: #111827; }
+        .rating { background: rgba(15, 23, 42, 0.95); backdrop-filter: blur(8px); }
+        .fab {
+            position: fixed; bottom: 24px; right: 24px; width: 56px; height: 56px;
+            background: #2563eb; color: white; border-radius: 9999px;
+            box-shadow: 0 10px 30px rgba(37, 99, 235, 0.4);
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.5rem; z-index: 9999; transition: all 0.3s ease;
+        }
+        .filtro-activo {
+            background-color: #2563eb !important;
+            color: white !important;
+            border-color: #2563eb !important;
+        }
+    </style>
+</head>
+<body class="min-h-screen pb-12">
+    <div id="loader">
+        <div class="loader-glow"></div>
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3dK3-XAKrEia-lWmiUqAYRfFQ1lR9eJX6ZZH8e_vHf576qf9GJjIWBW9Jg5LsilXX7WO2MOEkg5gzc4pESziaPeMJ9ws9mwtCDdp3p_17D0e0Uop_ZxavwwJeNLBvoyZJ0cxTKQpjzrJIR6LjJslB24tj-77AYrRCacQ3F2S2VPoXpPzPhM1zndxyd1Rg/s3307/B64D5386-DCA4-410B-A0A6-6ACB19D0A06F.png"
+             alt="LzPlay" class="loader-logo">
+        <div class="loader-bar"><span></span></div>
+    </div>
+
+    <header id="main-header"></header>
+
+    <div class="page-content max-w-screen-2xl mx-auto px-6">
+        <div id="loading" class="flex flex-col items-center justify-center py-20">
+            <div class="animate-spin w-12 h-12 border-4 border-blue-500 border-t-transparent rounded-full mb-4"></div>
+            <p class="text-zinc-400">Cargando contenido...</p>
+        </div>
+
+        <div id="contenido-principal" class="hidden">
+            <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-8">
+                <div>
+                    <h1 class="text-4xl font-bold" id="titulo-plataforma">Plataforma</h1>
+                    <p class="text-zinc-400 mt-1" id="total-contenido">Cargando...</p>
+                </div>
+                <button onclick="abrirModalFiltros()" 
+                        class="flex items-center gap-3 px-6 py-3 bg-white/10 hover:bg-white/20 border border-white/10 rounded-3xl text-sm font-medium transition-all">
+                    <i class="fas fa-filter"></i>
+                    <span>Filtrar</span>
+                </button>
+            </div>
+
+            <div id="grid-peliculas" 
+                 class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-6">
+            </div>
+
+            <div class="flex justify-center mt-10">
+                <button id="btn-ver-mas" onclick="verMas()"
+                        class="hidden px-12 py-3.5 bg-white/10 hover:bg-white/20 active:bg-white/30 border border-white/20 rounded-3xl text-sm font-semibold flex items-center gap-3 transition-all">
+                    <span>Ver más</span>
+                    <i class="fas fa-chevron-down"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <button onclick="volverArriba()" class="fab hidden" id="btn-volver-arriba">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <!-- MODAL DE FILTROS (mismo que antes) -->
+    <div id="modal-filtros" onclick="cerrarModalFiltros()" class="hidden fixed inset-0 bg-black/70 backdrop-blur-sm z-[10000] flex items-center justify-center">
+        <!-- ... (el mismo modal que tenías) ... -->
+        <div onclick="event.stopImmediatePropagation()" class="modal bg-[#020817] border border-white/10 rounded-3xl w-full max-w-md mx-4 overflow-hidden">
+            <div class="flex items-center justify-between px-6 py-5 border-b border-white/10">
+                <h3 class="text-xl font-semibold">Filtrar contenido</h3>
+                <button onclick="cerrarModalFiltros()" class="text-3xl text-zinc-400 hover:text-white">×</button>
+            </div>
+            <div class="p-6 space-y-8">
+                <div>
+                    <label class="block text-sm text-zinc-400 mb-2">Buscar por nombre</label>
+                    <input type="text" id="filtro-nombre" class="w-full bg-[#111827] border border-white/10 rounded-2xl px-4 py-3 text-sm focus:outline-none focus:border-blue-500" placeholder="Escribe para buscar...">
+                </div>
+                <div>
+                    <label class="block text-sm text-zinc-400 mb-3">Géneros</label>
+                    <div id="filtro-categorias" class="flex flex-wrap gap-2 max-h-60 overflow-y-auto pr-2"></div>
+                </div>
+                <div>
+                    <label class="block text-sm text-zinc-400 mb-3">Empieza con la letra</label>
+                    <div class="flex flex-wrap gap-2" id="filtro-letras"></div>
+                </div>
+                <div>
+                    <label class="block text-sm text-zinc-400 mb-2">Año</label>
+                    <div class="flex gap-3">
+                        <select id="filtro-ano-min" class="flex-1 bg-[#111827] border border-white/10 rounded-2xl px-4 py-3 text-sm"></select>
+                        <select id="filtro-ano-max" class="flex-1 bg-[#111827] border border-white/10 rounded-2xl px-4 py-3 text-sm"></select>
+                    </div>
+                </div>
+            </div>
+            <div class="flex gap-3 p-6 border-t border-white/10">
+                <button onclick="limpiarFiltros()" class="flex-1 py-3 text-sm border border-white/20 rounded-2xl hover:bg-white/5 transition-all">Limpiar</button>
+                <button onclick="aplicarFiltros()" class="flex-1 py-3 text-sm bg-blue-600 hover:bg-blue-700 rounded-2xl transition-all">Aplicar filtros</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/components/navbar.js"></script>
+    <script>
+        // =============================================
+        // CONFIGURACIÓN DINÁMICA POR PLATAFORMA
+        // =============================================
+        const BASE_URL_JSON = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/base/base.json";
+        const GENEROS_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/categorias/generos.json";
+        const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
+
+        let todosLosContenidos = [];
+        let contenidosFiltrados = [];
+        let urlMapPlataforma = {}; // id -> url específico de la plataforma
+        let displayedCount = 15;
+        let observer = null;
+        let ratingCache = {};
+        let nombrePlataforma = "Plataforma";
+
+        function normalizeText(str) {
+            if (!str) return "";
+            return str.toString().toLowerCase()
+                .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+                .replace(/[^a-z0-9\s]/g, " ")
+                .replace(/\s+/g, " ").trim();
+        }
+
+        // Obtener parámetro de la URL (ej: ?plataforma=Disney o ?Warner%20Bros)
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param) || urlParams.get('plataforma') || 
+                   decodeURIComponent(window.location.search.replace('?=', ''));
+        }
+
+        async function cargarUrlMapPlataforma(nombre) {
+            try {
+                // Normalizar nombre para la URL (reemplazar espacios por %20)
+                const nombreArchivo = nombre.replace(/ /g, '%20');
+                const url = `https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/plataformas/${nombreArchivo}.json`;
+                
+                const res = await fetch(url);
+                if (!res.ok) throw new Error(`Plataforma no encontrada: ${nombre}`);
+                
+                urlMapPlataforma = await res.json();
+                console.log(`✅ Plataforma ${nombre} cargada: ${Object.keys(urlMapPlataforma).length} contenidos`);
+                return Object.keys(urlMapPlataforma).length;
+            } catch (e) {
+                console.error("Error cargando plataforma:", e);
+                document.getElementById("titulo-plataforma").textContent = "Plataforma no encontrada";
+                return 0;
+            }
+        }
+
+        async function getTMDBRating(id_tmdb, ratingElement) {
+            if (!id_tmdb || ratingCache[id_tmdb]) return;
+            try {
+                const res = await fetch(`https://api.themoviedb.org/3/movie/${id_tmdb}?api_key=${TMDB_API_KEY}&language=es`);
+                if (!res.ok) throw new Error();
+                const data = await res.json();
+                const rating = data.vote_average ? data.vote_average.toFixed(1) : "7.5";
+                ratingCache[id_tmdb] = rating;
+                if (ratingElement) ratingElement.textContent = rating;
+            } catch {
+                if (ratingElement) ratingElement.textContent = "7.5";
+            }
+        }
+
+        async function cargarTodo() {
+            const loading = document.getElementById("loading");
+            const principal = document.getElementById("contenido-principal");
+
+            loading.classList.remove("hidden");
+            principal.classList.add("hidden");
+
+            nombrePlataforma = getQueryParam('plataforma') || "Plataforma";
+            document.getElementById("titulo-plataforma").textContent = nombrePlataforma;
+
+            try {
+                const totalEnPlataforma = await cargarUrlMapPlataforma(nombrePlataforma);
+
+                const res = await fetch(GENEROS_URL);
+                let data = await res.json();
+
+                // Filtrar solo los contenidos que están en la plataforma
+                todosLosContenidos = data
+                    .filter(item => {
+                        const id = String(item.id_tmdb || item.id);
+                        return urlMapPlataforma[id];
+                    })
+                    .map(item => {
+                        const id = String(item.id_tmdb || item.id);
+                        return {
+                            id: id,
+                            url: urlMapPlataforma[id],           // URL específica de la plataforma
+                            title: item.titulo || "Sin título",
+                            poster: item.poster || `https://image.tmdb.org/t/p/w500${item.poster_path || ''}`,
+                            year: item.año || "N/A",
+                            rating: "7.5",
+                            genres: Array.isArray(item.generos) ? item.generos : [],
+                            sinopsis: item.sinopsis || "",
+                            tituloAlternos: item["titulo alternos"] || ""
+                        };
+                    });
+
+                document.getElementById("total-contenido").textContent = `${totalEnPlataforma} contenidos en ${nombrePlataforma}`;
+                
+                inicializarFiltrosModal();
+                contenidosFiltrados = [...todosLosContenidos];
+                renderizarPeliculas();
+                
+                loading.classList.add("hidden");
+                principal.classList.remove("hidden");
+            } catch (error) {
+                console.error(error);
+                loading.innerHTML = `<p class="text-red-400">Error al cargar la plataforma.</p>`;
+            }
+        }
+
+        // Las funciones renderizarPeliculas, verMas, lazy loading, filtros, etc. son IGUALES que antes
+        // (las copio completas abajo para que no tengas que cambiar nada más)
+
+        function renderizarPeliculas(reset = true) {
+            const grid = document.getElementById("grid-peliculas");
+            const btnVerMas = document.getElementById("btn-ver-mas");
+            if (reset) {
+                grid.innerHTML = "";
+                displayedCount = 15;
+            }
+            const yaMostradas = grid.children.length;
+            const porMostrar = contenidosFiltrados.slice(yaMostradas, displayedCount + yaMostradas);
+            
+            porMostrar.forEach(item => {
+                const card = document.createElement("div");
+                card.className = "card cursor-pointer group";
+                card.innerHTML = `
+                    <div class="poster-container rounded-3xl overflow-hidden shadow-2xl border border-white/10">
+                        <img data-src="${item.poster}" alt="${item.title}"
+                             class="w-full aspect-[2/3] object-cover transition-transform group-hover:scale-110 lazy-image">
+                        <div class="rating absolute top-3 right-3 flex items-center gap-1 text-xs font-bold px-2.5 py-1 rounded-2xl">
+                            <i class="fas fa-star text-yellow-400"></i>
+                            <span class="rating-value" data-id="${item.id}">7.5</span>
+                        </div>
+                    </div>
+                    <div class="mt-3 px-1">
+                        <h3 class="font-semibold text-base line-clamp-2 leading-tight group-hover:text-blue-400 transition-colors">
+                            ${item.title}
+                        </h3>
+                        <div class="flex items-center justify-between text-xs text-zinc-400 mt-2">
+                            <span>${item.year}</span>
+                            <span class="flex items-center gap-1">
+                                <i class="fas fa-film text-[10px]"></i> ${item.genres[0] || 'Contenido'}
+                            </span>
+                        </div>
+                    </div>
+                `;
+                card.onclick = () => window.location.href = item.url;
+                grid.appendChild(card);
+            });
+
+            activarLazyLoading();
+            cargarRatingsVisibles();
+
+            if (displayedCount < contenidosFiltrados.length) {
+                btnVerMas.classList.remove("hidden");
+                btnVerMas.classList.add("flex");
+            } else {
+                btnVerMas.classList.add("hidden");
+                btnVerMas.classList.remove("flex");
+            }
+        }
+
+        function cargarRatingsVisibles() {
+            document.querySelectorAll('.rating-value').forEach(el => {
+                const id = el.getAttribute('data-id');
+                if (id) getTMDBRating(id, el);
+            });
+        }
+
+        function verMas() {
+            const siguienteLote = displayedCount + 15;
+            displayedCount = Math.min(siguienteLote, contenidosFiltrados.length);
+            renderizarPeliculas(false);
+        }
+
+        function activarLazyLoading() {
+            if (observer) observer.disconnect();
+            observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const img = entry.target;
+                        img.src = img.dataset.src;
+                        img.classList.remove("lazy-image");
+                        observer.unobserve(img);
+                    }
+                });
+            }, { rootMargin: "200px" });
+            document.querySelectorAll(".lazy-image").forEach(img => observer.observe(img));
+        }
+
+        // ====================== FILTROS ======================
+function abrirModalFiltros() {
+    document.getElementById("modal-filtros").classList.remove("hidden");
+    document.getElementById("modal-filtros").classList.add("flex");
+}
+function cerrarModalFiltros() {
+    document.getElementById("modal-filtros").classList.add("hidden");
+    document.getElementById("modal-filtros").classList.remove("flex");
+}
+function inicializarFiltrosModal() {
+    const letrasContainer = document.getElementById("filtro-letras");
+    letrasContainer.innerHTML = "";
+    for (let i = 65; i <= 90; i++) {
+        const letra = String.fromCharCode(i);
+        const btn = document.createElement("button");
+        btn.className = "px-3 py-1 text-xs bg-white/10 hover:bg-white/20 rounded-xl border border-white/10 transition-all";
+        btn.textContent = letra;
+        btn.onclick = () => { btn.classList.toggle("filtro-activo"); aplicarFiltros(true); };
+        letrasContainer.appendChild(btn);
+    }
+    const anos = [...new Set(todosLosContenidos.map(c => c.year))].sort((a, b) => b - a);
+    const minSelect = document.getElementById("filtro-ano-min");
+    const maxSelect = document.getElementById("filtro-ano-max");
+    minSelect.innerHTML = `<option value="">Desde</option>` + anos.map(a => `<option value="${a}">${a}</option>`).join("");
+    maxSelect.innerHTML = `<option value="">Hasta</option>` + anos.map(a => `<option value="${a}">${a}</option>`).join("");
+    minSelect.onchange = maxSelect.onchange = () => aplicarFiltros(true);
+    const catsContainer = document.getElementById("filtro-categorias");
+    catsContainer.innerHTML = "";
+    const allGenres = new Set();
+    todosLosContenidos.forEach(item => item.genres.forEach(g => allGenres.add(g)));
+    Array.from(allGenres).sort().forEach(genre => {
+        const btn = document.createElement("button");
+        btn.className = "px-4 py-2 bg-white/10 hover:bg-white/20 rounded-2xl text-sm transition-all";
+        btn.textContent = genre;
+        btn.onclick = () => { btn.classList.toggle("filtro-activo"); aplicarFiltros(true); };
+        catsContainer.appendChild(btn);
+    });
+}
+function aplicarFiltros(keepOpen = false) {
+    const nombre = normalizeText(document.getElementById("filtro-nombre").value);
+    const letrasActivas = Array.from(document.querySelectorAll("#filtro-letras button.filtro-activo")).map(b => b.textContent);
+    const generosActivos = Array.from(document.querySelectorAll("#filtro-categorias button.filtro-activo")).map(b => b.textContent);
+    const anoMin = document.getElementById("filtro-ano-min").value;
+    const anoMax = document.getElementById("filtro-ano-max").value;
+    contenidosFiltrados = todosLosContenidos.filter(item => {
+        const tituloNorm = normalizeText(item.title);
+        const alternosNorm = normalizeText(item.tituloAlternos);
+        const sinopsisNorm = normalizeText(item.sinopsis);
+        if (nombre && !tituloNorm.includes(nombre) && !alternosNorm.includes(nombre) && !sinopsisNorm.includes(nombre)) return false;
+        if (letrasActivas.length > 0 && !letrasActivas.includes(item.title?.[0]?.toUpperCase())) return false;
+        if (generosActivos.length > 0 && !item.genres.some(g => generosActivos.includes(g))) return false;
+        if (anoMin && parseInt(item.year) < parseInt(anoMin)) return false;
+        if (anoMax && parseInt(item.year) > parseInt(anoMax)) return false;
+        return true;
+    });
+    renderizarPeliculas(true);
+    if (!keepOpen) cerrarModalFiltros();
+}
+function limpiarFiltros() {
+    document.getElementById("filtro-nombre").value = "";
+    document.querySelectorAll("#filtro-letras button, #filtro-categorias button").forEach(b => b.classList.remove("filtro-activo"));
+    document.getElementById("filtro-ano-min").value = "";
+    document.getElementById("filtro-ano-max").value = "";
+    contenidosFiltrados = [...todosLosContenidos];
+    renderizarPeliculas(true);
+    cerrarModalFiltros();
+}
+function volverArriba() {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+}
+window.addEventListener("scroll", () => {
+    const btn = document.getElementById("btn-volver-arriba");
+    if (btn) btn.classList.toggle("hidden", window.scrollY <= 400);
+});
+window.onload = () => {
+    if (typeof initNavbar === "function") initNavbar("main-header");
+    cargarTodo();
+};
+    </script>
+</body>
+</html>
