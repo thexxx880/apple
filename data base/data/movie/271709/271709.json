@@ -1,0 +1,128 @@
+{
+  "id_tmdb": 271709,
+  "poster": "https://image.tmdb.org/t/p/w500/iUPRtjaDAVe0nyyWM4R6iPdVQOy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q0luM428CMZpIrAmM6sF5MVNuRa.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/a6EJkUeXgmWVFDf2IVPGIiqOTrZ.png",
+  "titulo": "New Initial D La película: Leyenda 1 Despertar",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.833,
+  "año": "2014",
+  "duracion": "1h 2min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2014-08-24",
+  "titulo_original": "新劇場版「頭文字D」Legend1 -覚醒-",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "宮野真守",
+      "personaje": "Takumi Fujiwara (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nuok8ueG7k9hPZ09Tpr8e7Qn0ah.jpg"
+    },
+    {
+      "nombre": "中村悠一",
+      "personaje": "Keisuke Takahashi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wb8behVKjBHX9XXrEydvNINCYwH.jpg"
+    },
+    {
+      "nombre": "小野大輔",
+      "personaje": "Ryosuke Takahashi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg"
+    },
+    {
+      "nombre": "内田真礼",
+      "personaje": "Natsuki Mogi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lrcxZXkIgHU55dMs8C4DKkUohqJ.jpg"
+    },
+    {
+      "nombre": "白石稔",
+      "personaje": "Itsuki Takeuchi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tPMBlW0jvO4kPpz2WgpSIk3eZOY.jpg"
+    },
+    {
+      "nombre": "平田広明",
+      "personaje": "Bunta Fujiwara (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mMWEdlssJm3TVuXW4Wb7pQeX20Z.jpg"
+    },
+    {
+      "nombre": "諏訪部順一",
+      "personaje": "Takeshi Nakazato (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+    },
+    {
+      "nombre": "土田大",
+      "personaje": "Kouichirou Iketani (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ySiUpcn6UbIzPl4e411ZJMzbIsJ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "関島眞頼",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "日高政光",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "羽田浩二",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "六本木明美",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "居嶋健太郎",
+      "rol": "CG Animator"
+    },
+    {
+      "nombre": "土橋安騎夫",
+      "rol": "Music"
+    },
+    {
+      "nombre": "池田新助",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "上原伸一",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "鈴木修二",
+      "rol": "Other"
+    },
+    {
+      "nombre": "田坂秀将",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "大西史剛",
+      "rol": "3D Modeller"
+    },
+    {
+      "nombre": "佐井まどか",
+      "rol": "3D Modeller"
+    },
+    {
+      "nombre": "しげの秀一",
+      "rol": "Original Story"
+    }
+  ],
+  "director": "日高政光",
+  "valoraciones": {
+    "tmdb": 7.833,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Ultra Super Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/7590xm/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=erl__gso0fM"
+}
