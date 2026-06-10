@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 502356,
+  "poster": "https://image.tmdb.org/t/p/w500/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6Fr8xbEmQe9XXmuoNi5atUxoa5U.png",
+  "titulo": "Super Mario Bros. La película",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Comedia",
+    "Aventura",
+    "Fantasía",
+    "Animación"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.604,
+  "año": "2023",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "Mientras trabaja bajo tierra para arreglar una tubería de agua, los plomeros de Brooklyn Mario y su hermano Luigi son transportados por una misteriosa tubería y llegan a un nuevo mundo mágico.",
+  "fecha_estreno": "2023-04-05",
+  "titulo_original": "The Super Mario Bros. Movie",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "Chris Pratt",
+      "personaje": "Mario (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "nombre": "Anya Taylor-Joy",
+      "personaje": "Princess Peach (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jxAbDJWvz4p1hoFpJYG5vY2dQmq.jpg"
+    },
+    {
+      "nombre": "Charlie Day",
+      "personaje": "Luigi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg"
+    },
+    {
+      "nombre": "Jack Black",
+      "personaje": "Bowser (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "nombre": "Keegan-Michael Key",
+      "personaje": "Toad (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg"
+    },
+    {
+      "nombre": "Seth Rogen",
+      "personaje": "Donkey Kong (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+      "nombre": "Fred Armisen",
+      "personaje": "Cranky Kong (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rhPN8Zx6nrtNiQN2JwPkJ3ZFJ9z.jpg"
+    },
+    {
+      "nombre": "Sebastian Maniscalco",
+      "personaje": "Spike (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8TvA9HEwURJmY9MkkUruB4Sl0lR.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Meledandri",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "宮本茂",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aaron Horvath",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Jelenic",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Matthew Fogel",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ed Skudder",
+      "rol": "Head of Story"
+    },
+    {
+      "nombre": "Robert Taylor",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Toyokazu Nonaka",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Brian Tyler",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "近藤浩治",
+      "rol": "Music Consultant"
+    },
+    {
+      "nombre": "Pierre Leduc",
+      "rol": "Co-Director"
+    },
+    {
+      "nombre": "Christophe Delisle",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Fabien Polack",
+      "rol": "Co-Director"
+    },
+    {
+      "nombre": "Daniel Fernandez-Casas",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Ludovic Roz",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Antoine Kinget",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Luis Velasco",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Aaron Horvath",
+  "valoraciones": {
+    "tmdb": 7.604,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/32/s8/2/4/C/7/-/4C7-y.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=8OtTfN6k7_Y"
+}
