@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 9335,
+  "poster": "https://image.tmdb.org/t/p/w500/yqG6Yrjc7ZeUeanweuFSg5R3t55.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lbs1ood36hzj0O0cqW2a8MqptOh.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6cQzmcbk7mcr5B0L0lWLRGqQMqD.png",
+  "titulo": "El Transportador 2",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.331,
+  "año": "2005",
+  "duracion": "1h 27min",
+  "edad_minima": 13,
+  "sinopsis": "El ex-mercenario Frank Martin lleva una vida totalmente diferente en Miami, pero no le quedará más remedio que volver a la acción cuando una familia cercana es secuestrada.",
+  "fecha_estreno": "2005-08-03",
+  "titulo_original": "Transporter 2",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Jason Statham",
+      "personaje": "Frank Martin",
+      "foto": "https://image.tmdb.org/t/p/w500/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+    },
+    {
+      "nombre": "Amber Valletta",
+      "personaje": "Audrey Billings",
+      "foto": "https://image.tmdb.org/t/p/w500/6KSsLN9XFucycN5yw4FGeByHrVx.jpg"
+    },
+    {
+      "nombre": "Alessandro Gassmann",
+      "personaje": "Gianni Chellini",
+      "foto": "https://image.tmdb.org/t/p/w500/1RgJdkPXpwfQWumzZ4h3KKxVv4V.jpg"
+    },
+    {
+      "nombre": "Kate Nauta",
+      "personaje": "Lola",
+      "foto": "https://image.tmdb.org/t/p/w500/cbTZfha344j1vshNuITeupmnK2C.jpg"
+    },
+    {
+      "nombre": "Matthew Modine",
+      "personaje": "Jefferson Billings",
+      "foto": "https://image.tmdb.org/t/p/w500/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+    },
+    {
+      "nombre": "Jason Flemyng",
+      "personaje": "Dimitri",
+      "foto": "https://image.tmdb.org/t/p/w500/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+    },
+    {
+      "nombre": "Keith David",
+      "personaje": "Stappleton",
+      "foto": "https://image.tmdb.org/t/p/w500/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+    },
+    {
+      "nombre": "Hunter Clary",
+      "personaje": "Jack Billings",
+      "foto": "https://image.tmdb.org/t/p/w500/mBbXPF3qrjFayuEhPUJNu4EQYQ6.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Steven Chasman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Louis Leterrier",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robert Mark Kamen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Luc Besson",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Robert Mark Kamen",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Alexandre Azaria",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Christine Lucas Navarro",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Terry Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mitchell Amundsen",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Vincent Tabaillon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Chick Bernhard",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Adam Faldetta",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Karin Justman",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "David Belle",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Rich Minga",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Louis Leterrier",
+  "valoraciones": {
+    "tmdb": 6.331,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "EuropaCorp",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/2a/s8/2/_/v/y/B/_vyBy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=rEggzzOVOyo"
+}
