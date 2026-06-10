@@ -12,29 +12,50 @@ console.log("LIST_MOVIE_JSON URL:", LIST_MOVIE_JSON);
 let videoLinksCache = null;
 
 // ================== OBTENER ENLACE DE VIDEO ==================
+// ================== OBTENER ENLACE DE VIDEO ==================
 async function getVideoLink(id) {
   try {
     if (!videoLinksCache) {
       console.log("🔄 Cargando list-movie.JSON...");
       const res = await fetch(LIST_MOVIE_JSON);
-
       if (!res.ok) {
         throw new Error(`HTTP ${res.status} - Archivo no encontrado`);
       }
-
       const text = await res.text();
       videoLinksCache = JSON.parse(text);
       console.log(`✅ list-movie.JSON cargado correctamente (${Object.keys(videoLinksCache).length} películas)`);
     }
 
     const entry = videoLinksCache[id] || videoLinksCache[id.toString()];
-    if (entry && entry.enlace) {
-      console.log(`🎥 Enlace encontrado para ID ${id}`);
-      return entry.enlace;
+    if (!entry) {
+      console.warn(`⚠️ ID ${id} no encontrado en list-movie.JSON`);
+      return null;
     }
 
-    console.warn(`⚠️ No hay enlace para ID: ${id}`);
+    let enlace = null;
+
+    // Soporta ambos formatos: "enlace" y "enlaces"
+    if (entry.enlace) {
+      enlace = entry.enlace;
+      console.log(`🎥 Enlace cargado desde "enlace" (singular) → ID ${id}`);
+    } 
+    else if (entry.enlaces && Array.isArray(entry.enlaces) && entry.enlaces.length > 0) {
+      enlace = entry.enlaces[0];   // Toma el primer enlace del array
+      console.log(`🎥 Enlace cargado desde "enlaces" (array) → ID ${id}`);
+    } 
+    else if (entry.enlaces && typeof entry.enlaces === 'string') {
+      enlace = entry.enlaces;      // Por si alguien puso un string en vez de array
+    }
+
+    if (enlace) {
+      console.log(`✅ Enlace encontrado para ID ${id}`);
+      return enlace;
+    }
+
+    console.warn(`⚠️ No se encontró ningún enlace para ID: ${id}`);
+    console.warn(`   Claves disponibles:`, Object.keys(entry));
     return null;
+
   } catch (err) {
     console.error("❌ Error cargando enlace de video:", err);
     return null;
