@@ -1,0 +1,174 @@
+/* ==========================================
+   LZPLAY STREAMING BRANDS
+========================================== */
+
+#lzplay-categories {
+    width: 100%;
+    margin: 10px 0 30px;
+    position: relative;
+}
+
+#lzplay-categories .lzplay-categories-track{
+    display:flex;
+    gap:16px;
+    overflow-x:auto;
+    scroll-behavior:smooth;
+    padding:0 5%;
+    scrollbar-width:none;
+}
+
+#lzplay-categories .lzplay-categories-track::-webkit-scrollbar{
+    display:none;
+}
+
+/* CARD */
+
+#lzplay-categories .lzplay-category{
+    flex:0 0 auto;
+
+    width:160px;
+    height:90px;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    position:relative;
+    overflow:hidden;
+
+    border-radius:18px;
+
+    background:
+        linear-gradient(
+            180deg,
+            #0f172a 0%,
+            #111827 100%
+        );
+
+    border:1px solid rgba(255,255,255,.06);
+
+    transition:
+        transform .3s ease,
+        box-shadow .3s ease,
+        border-color .3s ease;
+}
+
+/* brillo superior */
+
+#lzplay-categories .lzplay-category::before{
+    content:"";
+    position:absolute;
+    inset:0;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(255,255,255,.08),
+            transparent 40%
+        );
+
+    pointer-events:none;
+}
+
+/* hover */
+
+#lzplay-categories .lzplay-category:hover{
+
+    transform:translateY(-4px) scale(1.05);
+
+    border-color:rgba(37,99,235,.55);
+
+    box-shadow:
+        0 10px 25px rgba(37,99,235,.25),
+        0 0 25px rgba(37,99,235,.15);
+}
+
+/* CONTENEDOR LOGO */
+
+#lzplay-categories .lzplay-logo-wrap{
+
+    width:110px;
+    height:42px;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+/* LOGOS */
+
+#lzplay-categories .lzplay-category img{
+
+    max-width:100%;
+    max-height:42px;
+
+    width:auto;
+    height:auto;
+
+    object-fit:contain;
+
+    filter:
+        brightness(0)
+        invert(1);
+
+    transition:
+        transform .3s ease,
+        filter .3s ease;
+}
+
+#lzplay-categories .lzplay-category:hover img{
+
+    transform:scale(1.08);
+
+    filter:
+        brightness(0)
+        invert(1)
+        drop-shadow(0 0 8px rgba(79,124,255,.5));
+}
+
+/* Responsive */
+
+@media(max-width:768px){
+
+    #lzplay-categories .lzplay-category{
+
+        width:140px;
+        height:80px;
+    }
+
+    #lzplay-categories .lzplay-logo-wrap{
+
+        width:95px;
+        height:38px;
+    }
+
+    #lzplay-categories .lzplay-category img{
+
+        max-height:38px;
+    }
+}
+
+@media(max-width:480px){
+
+    #lzplay-categories .lzplay-categories-track{
+        gap:12px;
+    }
+
+    #lzplay-categories .lzplay-category{
+
+        width:125px;
+        height:72px;
+        border-radius:15px;
+    }
+
+    #lzplay-categories .lzplay-logo-wrap{
+
+        width:90px;
+        height:34px;
+    }
+
+    #lzplay-categories .lzplay-category img{
+
+        max-height:34px;
+    }
+}
