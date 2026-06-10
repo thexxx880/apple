@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 1315303,
+  "poster": "https://image.tmdb.org/t/p/w500/qhJDrPqvw8Dopwc11pCkrGgfhy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ejpFMkKMjnMyx9HX4nII9gjbUyi.png",
+  "titulo": "Primate",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.504,
+  "año": "2026",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "De vuelta de la universidad, Lucy se reúne con su familia, incluyendo a su mascota, el chimpancé Ben. Sin embargo, Ben contrae rabia durante una fiesta en la piscina y se vuelve agresivo.",
+  "fecha_estreno": "2026-01-01",
+  "titulo_original": "Primate",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Johnny Sequoyah",
+      "personaje": "Lucy",
+      "foto": "https://image.tmdb.org/t/p/w500/taFfjOB4lPAx75kJo9yFylKT1ek.jpg"
+    },
+    {
+      "nombre": "Jessica Alexander",
+      "personaje": "Hannah",
+      "foto": "https://image.tmdb.org/t/p/w500/5PsoZ9aN2cTXkWyhIALluBrbiWy.jpg"
+    },
+    {
+      "nombre": "Troy Kotsur",
+      "personaje": "Adam",
+      "foto": "https://image.tmdb.org/t/p/w500/24K3og12jGBGL9dqH5OYFdjF9wu.jpg"
+    },
+    {
+      "nombre": "Victoria Wyant",
+      "personaje": "Kate",
+      "foto": "https://image.tmdb.org/t/p/w500/et8teE6ZMqdWGWYj3aDIMD6Yhvt.jpg"
+    },
+    {
+      "nombre": "Gia Hunter",
+      "personaje": "Erin",
+      "foto": "https://image.tmdb.org/t/p/w500/fK7xZRr1qhCjby0njwhsfgLyW0P.jpg"
+    },
+    {
+      "nombre": "Benjamin Cheng",
+      "personaje": "Nick",
+      "foto": "https://image.tmdb.org/t/p/w500/onxgW3w20YHlNhB8CBQ714zytOL.jpg"
+    },
+    {
+      "nombre": "Charlie Mann",
+      "personaje": "Drew",
+      "foto": "https://image.tmdb.org/t/p/w500/t6U480woJ4xFkginrqjUKbDJTqh.jpg"
+    },
+    {
+      "nombre": "Tienne Simon",
+      "personaje": "Brad",
+      "foto": "https://image.tmdb.org/t/p/w500/964o0kGA0zoj2DVpjX8q188ZDcK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John Hodges",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Johannes Roberts",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Walter Hamada",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bradley Pilz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Johannes Roberts",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ernest Riera",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Simon Bowles",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Stephen Murphy",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Peter Gvozdas",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Tina Jones",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Verity Hawkes",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Darren Chesney",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Vicki Dee Rock",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shawn White",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Nick Dent",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Dan Kenyon",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Dan Kenyon",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Jason Billington",
+      "rol": "Visual Effects Supervisor"
+    }
+  ],
+  "director": "Johannes Roberts",
+  "valoraciones": {
+    "tmdb": 6.504,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "18Hz Productions",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/f7/s8/2/U/n/x/Y/UnxYz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=F0fn4knTR2s"
+}
