@@ -3,10 +3,12 @@
 // =============================================
 const GITHUB_RAW_BASE =
   "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/movie/";
-// ✅ ÚNICO ARCHIVO DEL QUE SE TOMAN LOS ENLACES DE VIDEO
+
 const LIST_MOVIE_JSON =
-  "https://raw.githubusercontent.com/thexxx880/API/main/content/API/JSON/list-movie.json";
-// Debug
+  "https://raw.githubusercontent.com/thexxx880/API/main/content/API/JSON/list-movie.JSON";
+
+import { doc, getDoc, setDoc } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
+
 console.log("LIST_MOVIE_JSON URL:", LIST_MOVIE_JSON);
 // ================== CACHE DE ENLACES ==================
 let videoLinksCache = null;
@@ -15,25 +17,16 @@ let videoLinksCache = null;
 async function getVideoLink(id) {
   try {
     if (!videoLinksCache) {
-      console.log("🔄 Cargando list-movie.json...");
-      const res = await fetch(LIST_MOVIE_JSON, { 
-        cache: 'no-store' 
-      });
+      console.log("🔄 Cargando list-movie.JSON...");
+      const res = await fetch(LIST_MOVIE_JSON);
 
       if (!res.ok) {
-        throw new Error(`HTTP ${res.status}: ${res.statusText}`);
+        throw new Error(`HTTP ${res.status} - Archivo no encontrado`);
       }
 
-      const text = await res.text(); // Primero como texto
-      console.log("📄 Primeros 200 caracteres:", text.substring(0, 200));
-
-      try {
-        videoLinksCache = JSON.parse(text);
-      } catch (parseErr) {
-        console.error("❌ Error parseando JSON:", parseErr);
-        console.log("Respuesta completa:", text.substring(0, 500));
-        throw parseErr;
-      }
+      const text = await res.text();
+      videoLinksCache = JSON.parse(text);
+      console.log(`✅ list-movie.JSON cargado correctamente (${Object.keys(videoLinksCache).length} películas)`);
     }
 
     const entry = videoLinksCache[id] || videoLinksCache[id.toString()];
