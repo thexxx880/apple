@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 282728,
+  "poster": "https://image.tmdb.org/t/p/w500/tqBWqnFJnbCqDDjOsGREeiAPf0E.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oBFIabFUy2fVFt89BfIWKR3lHzV.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vYvd6dZeJikjiaB8LnTnzBnTsno.png",
+  "titulo": "Los padrinos mágicos: Un paraíso mágico",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Comedia",
+    "Animación",
+    "Familia",
+    "Película de TV"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.638,
+  "año": "2014",
+  "duracion": "1h 6min",
+  "edad_minima": 13,
+  "sinopsis": "Timmy se ha quedado vigilando el Abra-Cadabrium mientras el grupo se encuentra en Hawái, pero Foop y Denzel Crocker traman un complot para robárselo.",
+  "fecha_estreno": "2014-08-02",
+  "titulo_original": "A Fairly Odd Summer",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Drake Bell",
+      "personaje": "Timmy Turner",
+      "foto": "https://image.tmdb.org/t/p/w500/6KxFiHrqiniS3oxV4NCz0sYNTuo.jpg"
+    },
+    {
+      "nombre": "Daniella Monet",
+      "personaje": "Tootie",
+      "foto": "https://image.tmdb.org/t/p/w500/5QW1c5SUch81C5KIpfJgclJ4ct5.jpg"
+    },
+    {
+      "nombre": "Tara Strong",
+      "personaje": "Poof (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+    },
+    {
+      "nombre": "Scott Baio",
+      "personaje": "Foop",
+      "foto": "https://image.tmdb.org/t/p/w500/hQXqBqstzRxVzplIE8dFkSkLPkc.jpg"
+    },
+    {
+      "nombre": "Susanne Blakeslee",
+      "personaje": "Wanda (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5s4vquKADCS90iOiEwgCTZkaQjX.jpg"
+    },
+    {
+      "nombre": "Daran Norris",
+      "personaje": "Cosmo (voice) / Mr. Turner",
+      "foto": "https://image.tmdb.org/t/p/w500/oLaegqPwuEdNNJVqrvcgI6guYsi.jpg"
+    },
+    {
+      "nombre": "Teryl Rothery",
+      "personaje": "Mrs. Turner",
+      "foto": "https://image.tmdb.org/t/p/w500/fB3XmJ4PRMGo28LxbvTHuYyL3gi.jpg"
+    },
+    {
+      "nombre": "Ali Liebert",
+      "personaje": "Mrs. Mulligan",
+      "foto": "https://image.tmdb.org/t/p/w500/gBqC2pUU7TtW9pdYqernpRivSel.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Amy Sydorick",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Savage Steve Holland",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sharan Wood",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Sullivan",
+      "rol": "Story"
+    },
+    {
+      "nombre": "William Schifrin",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Butch Hartman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ray DeLaurentis",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Katie Yu",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "Filip Dobosz",
+      "rol": "Digital Imaging Technician"
+    },
+    {
+      "nombre": "Denise Nadredre",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Damon Fecht",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sandy Cochrane",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Kate Main",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Scott McAboy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Coreen Mayrs",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Michael Corrado",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Heike Brandstatter",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Thomas M. Harting",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Michael Sammaciccia",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Savage Steve Holland",
+  "valoraciones": {
+    "tmdb": 5.638,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pacific Bay Entertainment Canada",
+  "enlace_video": "https://rumble.com/hls-vod/76rmbk/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=Icf6BoFjhFQ"
+}
