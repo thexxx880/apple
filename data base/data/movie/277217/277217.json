@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 277217,
+  "poster": "https://image.tmdb.org/t/p/w500/eUkdI96zP64e7JQLgPpVvM9WKGa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/20ncMtoy9Cxy6OQxgXZemHoFymz.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1OB0qFSM0IXJItkOVFZH7WSb6UG.png",
+  "titulo": "Los Descendientes",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Aventura",
+    "Fantasía",
+    "Película de TV",
+    "Música"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.158,
+  "año": "2015",
+  "duracion": "1h 52min",
+  "edad_minima": 13,
+  "sinopsis": "Un reino idílico actual donde el benévolo hijo adolescente del Rey Adán y la Reina Belle ofrece una oportunidad de redención para los vástagos problemáticos de los villanos clásicos de Disney: Cruella De Vil (Carlos), Maléfica (Mal), la Reina Malvada (Evvie) y Jafar (Jay).",
+  "fecha_estreno": "2015-07-31",
+  "titulo_original": "Descendants",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Dove Cameron",
+      "personaje": "Mal",
+      "foto": "https://image.tmdb.org/t/p/w500/7sfEvzwUGrqs1qORnXCnLehwHfm.jpg"
+    },
+    {
+      "nombre": "Sofia Carson",
+      "personaje": "Evie",
+      "foto": "https://image.tmdb.org/t/p/w500/aQudxuIAd2UEGQD1YWsdrHH11Kc.jpg"
+    },
+    {
+      "nombre": "Cameron Boyce",
+      "personaje": "Carlos",
+      "foto": "https://image.tmdb.org/t/p/w500/dtONrW7kQ9DFyduL0W1YPawkGYs.jpg"
+    },
+    {
+      "nombre": "Booboo Stewart",
+      "personaje": "Jay",
+      "foto": "https://image.tmdb.org/t/p/w500/8V4UXWSMZHJ5juaY7pp1KuVQp20.jpg"
+    },
+    {
+      "nombre": "Mitchell Hope",
+      "personaje": "Ben",
+      "foto": "https://image.tmdb.org/t/p/w500/gpuRDlEhFUvqju2kmzfl6ijWMjR.jpg"
+    },
+    {
+      "nombre": "Sarah Jeffery",
+      "personaje": "Audrey",
+      "foto": "https://image.tmdb.org/t/p/w500/vZxH2nVWFF9eNIqABDyMwQDQfSX.jpg"
+    },
+    {
+      "nombre": "Brenna D'Amico",
+      "personaje": "Jane",
+      "foto": "https://image.tmdb.org/t/p/w500/lvw7IDgNXtxAugiaiHC2BTiXCeN.jpg"
+    },
+    {
+      "nombre": "Jedidiah Goodacre",
+      "personaje": "Chad Charming",
+      "foto": "https://image.tmdb.org/t/p/w500/tdPKfDlQn83qw0OqYnccxpuxuUc.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kenny Ortega",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sara Parriott",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Josann McGibbon",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tracey Jeffrey",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "James Forrester",
+      "rol": "Production Office Assistant"
+    },
+    {
+      "nombre": "Johan Alkenäs",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Thomas Burstyn",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "David Lawrence",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Don Brochu",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Natalie Hart",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jason La Padura",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kara Saun",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Kenny Ortega",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Wendy Japhet",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Hofeling",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Kenny Ortega",
+      "rol": "Choreographer"
+    }
+  ],
+  "director": "Kenny Ortega",
+  "valoraciones": {
+    "tmdb": 7.158,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Bad Angels Productions, Ltd.",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/9/G/p/E/9GpEp.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=t4UUQqefajc"
+}
