@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 242643,
+  "poster": "https://image.tmdb.org/t/p/w500/6eCyJHdj6XiW0PVyj7WWPlgmQ9H.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9AciCs5rFHvFbCIqThfq281sUOw.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xoXtcdnGNLirZgXVM4DiTB2ngPV.png",
+  "titulo": "Batman: Ataque a Arkham",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Animación",
+    "Acción",
+    "Crimen"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.324,
+  "año": "2014",
+  "duracion": "1h 15min",
+  "edad_minima": 13,
+  "sinopsis": "Bienvenido a Gotham City, corazón de las tinieblas. En su centro se erige Arkham Asylum, un depósito supurante para villanos, peligrosos y delirantes, cuya población no cesa de crecer, cortesía de Dark Knight. Cuando Batman logra resolver la última jugada del Riddler y hay que recuperar pruebas cruciales de Arkham, la solución llega de una fuente inesperada: un escuadrón encubierto del gobierno, formado desde el inframundo de Gotham City. El asesino Deadshot encabeza el Suicide Squad: Harley Quinn, Killer Frost, Captain Boomerang, King Shark y Black Spider, granujas que conocen el Arkham Asylum y sus residentes demasiado bien. Prepárate para un asalto en grande en el que Batman se enfrenta a una legión de criminales sin temor ni nada que perder. Algunos vivirán, otros morirán y algunos solo tienen sed de venganza. Una aventura sin adulterar que atraviesa la mente criminal en la más reciente película animada de DC Universe.",
+  "fecha_estreno": "2014-08-12",
+  "titulo_original": "Batman: Assault on Arkham",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Kevin Conroy",
+      "personaje": "Batman / Bruce Wayne (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zvWhAwO2l8Kb5IJTwTbKzURypg7.jpg"
+    },
+    {
+      "nombre": "Neal McDonough",
+      "personaje": "Deadshot / Floyd Lawton (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3mI3i1CpjATSCta1Tb2qsyl1KCh.jpg"
+    },
+    {
+      "nombre": "Hynden Walch",
+      "personaje": "Harley Quinn / Harleen Quinzel (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFfZaFF1o724BuZ3cLK6tl9L03.jpg"
+    },
+    {
+      "nombre": "Matthew Gray Gubler",
+      "personaje": "The Riddler / Edward Nigma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/whjyRyKogwP18w8meMdJD5UFfX8.jpg"
+    },
+    {
+      "nombre": "Troy Baker",
+      "personaje": "The Joker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/t2mbkuXXRojfMrC8mqqtU2ISUbt.jpg"
+    },
+    {
+      "nombre": "Eric Bauza",
+      "personaje": "Security Guy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+    },
+    {
+      "nombre": "Chris Cox",
+      "personaje": "G.C.P.D. Commissioner James Gordon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sdLuGpLB0g5AtEr9VVnAqtIbZPt.jpg"
+    },
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "King Shark / Nanaue / Bane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ui1Lj71sPMpJJskMcrbPzqP7EM.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ethan Spaulding",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Heath Corson",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jay Oliva",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Meredith Layne",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Ed Adams",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Mark A. Keatts",
+      "rol": "Supervising Dialogue Editor"
+    },
+    {
+      "nombre": "Kelly Ann Foley",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Christine H. Luethje",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "John Byrne",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "John Ostrander",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Patrick J. Foley",
+      "rol": "Foley Editor"
+    },
+    {
+      "nombre": "Gabriel Thorburn",
+      "rol": "Online Editor"
+    },
+    {
+      "nombre": "Michael Garcia",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Andrea Romano",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Patrick J. Foley",
+      "rol": "Dialogue Editor"
+    }
+  ],
+  "director": "Ethan Spaulding",
+  "valoraciones": {
+    "tmdb": 7.324,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://rumble.com/hls-vod/73r9ts/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=-6abltUcric"
+}
