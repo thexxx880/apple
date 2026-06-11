@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 14161,
+  "poster": "https://image.tmdb.org/t/p/w500/gWE2GIrIqqf1OLV2Talxph11MC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/x9GeCXTGiPcmQcCsd1yzbNnx3up.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/lZVeggx2J2yj2V8yHHR2eOSBRi9.png",
+  "titulo": "2012",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.881,
+  "año": "2009",
+  "duracion": "2h 38min",
+  "edad_minima": 13,
+  "sinopsis": "El geólogo Adrian Helmsley, descubre de que el núcleo de la Tierra se está calentando. Teme que la corteza se vuelva inestable, coincidiendo con las predicciones mayas del fin del mundo. Entre tanto, los líderes del mundo \"venden\" plazas para escapar del cataclismo. El escritor Curtis Jackson tropieza con esa información... y luchará por salvar a su familia mientras el suelo se hunde bajo sus pies; y los terremotos y las erupciones volcánicas destruyen el mundo tal y como lo conocemos.",
+  "fecha_estreno": "2009-10-10",
+  "titulo_original": "2012",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "John Cusack",
+      "personaje": "Jackson Curtis",
+      "foto": "https://image.tmdb.org/t/p/w500/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+    },
+    {
+      "nombre": "Amanda Peet",
+      "personaje": "Kate Curtis",
+      "foto": "https://image.tmdb.org/t/p/w500/5TfyCj0X9ftKO11FN057P05s78C.jpg"
+    },
+    {
+      "nombre": "Chiwetel Ejiofor",
+      "personaje": "Adrian Helmsley",
+      "foto": "https://image.tmdb.org/t/p/w500/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+      "nombre": "Thandiwe Newton",
+      "personaje": "Laura Wilson",
+      "foto": "https://image.tmdb.org/t/p/w500/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+    },
+    {
+      "nombre": "Oliver Platt",
+      "personaje": "Carl Anheuser",
+      "foto": "https://image.tmdb.org/t/p/w500/ipBzOzgWRdxxYoM5xNN1cfenFaC.jpg"
+    },
+    {
+      "nombre": "Tom McCarthy",
+      "personaje": "Gordon Silberman",
+      "foto": "https://image.tmdb.org/t/p/w500/cEA6cxG3AiH0hUzFH9mUQQVy20O.jpg"
+    },
+    {
+      "nombre": "Woody Harrelson",
+      "personaje": "Charlie Frost",
+      "foto": "https://image.tmdb.org/t/p/w500/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    },
+    {
+      "nombre": "Danny Glover",
+      "personaje": "President Thomas Wilson",
+      "foto": "https://image.tmdb.org/t/p/w500/2PJbpI9AyuhG4SWUIDxZwuBnuMb.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Harald Kloser",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Roland Emmerich",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Harald Kloser",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Mark Gordon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Larry Franco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Roland Emmerich",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Roland Emmerich",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Harald Kloser",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Michael Wimer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Brenner",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Peter S. Elliot",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ute Emmerich",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thomas Wander",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Owen Walstrom",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Susan Taylor Brouse",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Thomas Nellen",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Dan Hermansen",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Elizabeth Wilcox",
+      "rol": "Set Decoration"
+    }
+  ],
+  "director": "Roland Emmerich",
+  "valoraciones": {
+    "tmdb": 5.881,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/6y5sb0/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=ce0N3TEcFw0"
+}
