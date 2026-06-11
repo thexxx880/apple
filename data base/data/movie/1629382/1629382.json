@@ -1,0 +1,86 @@
+{
+  "id_tmdb": 1629382,
+  "poster": "https://image.tmdb.org/t/p/w500/4OBZVoUeuV28FvlKQsFgfjwmD0N.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jhfJZ82qzcMV4Kr7G0uczdU4n2v.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kbRHjjjcjPnHpHkmtZ8XZggverS.png",
+  "titulo": "Flow callejero 3",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.875,
+  "año": "2026",
+  "duracion": "1h 52min",
+  "edad_minima": 13,
+  "sinopsis": "Los hermanos Traoré, en duelo y frente a las consecuencias de sus actos, tienen una última oportunidad para forjarse un nuevo camino en la entrega final de la trilogía.",
+  "fecha_estreno": "2026-03-04",
+  "titulo_original": "Banlieusards 3",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Alix Mathurin",
+      "personaje": "Demba",
+      "foto": "https://image.tmdb.org/t/p/w500/bZB6RhXluLsKa3jdji09afOeCCb.jpg"
+    },
+    {
+      "nombre": "Bakary Diombera",
+      "personaje": "Noumouké",
+      "foto": "https://image.tmdb.org/t/p/w500/3huF1EzLjKDF58up144qsftH6YZ.jpg"
+    },
+    {
+      "nombre": "Jammeh Diangana",
+      "personaje": "Soulaymaan",
+      "foto": "https://image.tmdb.org/t/p/w500/jvqPcfaL1RItQCsFlClq7MZblUo.jpg"
+    },
+    {
+      "nombre": "Cherine Ghemri",
+      "personaje": "Sofia",
+      "foto": "https://image.tmdb.org/t/p/w500/yw5VruTsnoJs22CpLuzjThKiLC8.jpg"
+    },
+    {
+      "nombre": "Karim Zenoud",
+      "personaje": "Farouk",
+      "foto": "https://image.tmdb.org/t/p/w500/fG2h8PiALOzD9eg5gWMmdUReG7g.jpg"
+    },
+    {
+      "nombre": "Foued Nabba",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/iOvDItJylmOWEdlNBkvMfJu9okv.jpg"
+    },
+    {
+      "nombre": "Bilal Ben Osmane",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/b0CqJoivoPnpP409WBOKL4zWNVP.jpg"
+    },
+    {
+      "nombre": "Mounir Margoum",
+      "personaje": "Swouil Ben Saada",
+      "foto": "https://image.tmdb.org/t/p/w500/sXiEOFDYZorvBHFSrtTY3KxPoim.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Leïla Sy",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alix Mathurin",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alix Mathurin",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [],
+  "director": "Leïla Sy",
+  "valoraciones": {
+    "tmdb": 5.875,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Les Films Velvet",
+  "enlace_video": "https://1a-1791.com/video/fww1/1d/s8/2/y/v/j/5/yvj5z.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=ifjPntkTKHI"
+}
