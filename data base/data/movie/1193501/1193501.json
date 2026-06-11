@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 1193501,
+  "poster": "https://image.tmdb.org/t/p/w500/5H6F0xICMYHkRp9RzZZdXeLXpRq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bkeWdCaLVcduBDUL9mmVuC2j9x2.png",
+  "titulo": "El sonido de la muerte",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Misterio"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.282,
+  "año": "2026",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Un grupo de estudiantes inadaptados encuentra por accidente un objeto maldito: un antiguo silbato de la muerte azteca. Al soplarlo, descubren que el terrorífico sonido que produce invoca a sus propias muertes futuras para perseguirlos. Mientras las víctimas aumentan, los amigos intentan descubrir el origen del artefacto y detener la terrible cadena de sucesos que han provocado.",
+  "fecha_estreno": "2026-01-20",
+  "titulo_original": "Whistle",
+  "pais_origen": "Ireland",
+  "reparto": [
+    {
+      "nombre": "Dafne Keen",
+      "personaje": "Chrys Willet",
+      "foto": "https://image.tmdb.org/t/p/w500/g325OIjIHrFr0te8ewPfhKQ2SKj.jpg"
+    },
+    {
+      "nombre": "Sophie Nélisse",
+      "personaje": "Ellie Gains",
+      "foto": "https://image.tmdb.org/t/p/w500/1ScgAuQ4XFslWxjvHN6TGlg5ql9.jpg"
+    },
+    {
+      "nombre": "Sky Yang",
+      "personaje": "Rel Taylor",
+      "foto": "https://image.tmdb.org/t/p/w500/vOkkOgn7CrSHY1pecVr5p8ZHIcB.jpg"
+    },
+    {
+      "nombre": "Jhaleil Swaby",
+      "personaje": "Dean Jackson",
+      "foto": "https://image.tmdb.org/t/p/w500/bc1W48Ed875s0UqejA6XaRK9XZZ.jpg"
+    },
+    {
+      "nombre": "Alissa Skovbye",
+      "personaje": "Grace Browning",
+      "foto": "https://image.tmdb.org/t/p/w500/smnFa3aKNJyzwtYmGQThBsXHG4J.jpg"
+    },
+    {
+      "nombre": "Percy Hynes White",
+      "personaje": "Noah Haggerty",
+      "foto": "https://image.tmdb.org/t/p/w500/de84y3MlgDBnEtZZ3f7RDkYQPYs.jpg"
+    },
+    {
+      "nombre": "Michelle Fairley",
+      "personaje": "Ivy Raymore",
+      "foto": "https://image.tmdb.org/t/p/w500/eBKT3hf2W2YRwqgcKU92zfEttKp.jpg"
+    },
+    {
+      "nombre": "Nick Frost",
+      "personaje": "Mr. Craven",
+      "foto": "https://image.tmdb.org/t/p/w500/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Owen Egerton",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "David Gross",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Macdara Kelleher",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Corin Hardy",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Whitney Brown",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Keville",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Keith Barnes",
+      "rol": "Driver"
+    },
+    {
+      "nombre": "John Friedberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Björn Charpentier",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Sara Kay",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Louise Kiely",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jenny Lewis",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jennifer Spence",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Kari Measham",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Leslie Kavanagh",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Mary Fraser",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Doomphonic",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jesse Shapira",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Corin Hardy",
+  "valoraciones": {
+    "tmdb": 6.282,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "No Trace Camping",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/bb/s8/2/K/s/C/9/KsC9z.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=-O5DgGQJeks"
+}
