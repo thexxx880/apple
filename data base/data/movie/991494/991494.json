@@ -1,0 +1,159 @@
+{
+  "id_tmdb": 991494,
+  "poster": "https://image.tmdb.org/t/p/w500/s19EZefg4g1EOWx0zA11tQJjHe2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vnh36I9Ex88UwRmeIqqih0AQD9v.png",
+  "titulo": "Bob Esponja: En busca de los pantalones cuadrados",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.8,
+  "año": "2025",
+  "duracion": "1h 28min",
+  "edad_minima": 13,
+  "sinopsis": "Bob Esponja se sumerge en lo más profundo del océano para probar su valor persiguiendo al Holandés Errante.",
+  "fecha_estreno": "2025-12-16",
+  "titulo_original": "The SpongeBob Movie: Search for SquarePants",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "SpongeBob SquarePants / Gary / Morning DJ (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+    },
+    {
+      "nombre": "Clancy Brown",
+      "personaje": "Mr. Krabs / Pirate / Narrator",
+      "foto": "https://image.tmdb.org/t/p/w500/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+    },
+    {
+      "nombre": "Rodger Bumpass",
+      "personaje": "Squidward Tentacles (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lGQkw6adxqB6Hcm7VK8nVHbKupe.jpg"
+    },
+    {
+      "nombre": "Bill Fagerbakke",
+      "personaje": "Patrick Star (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zntKKc1uT53BnIihmzbq601eWKZ.jpg"
+    },
+    {
+      "nombre": "Carolyn Lawrence",
+      "personaje": "Sandy Cheeks (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vHycxQTs8EuyFdFJNww15xXB5lT.jpg"
+    },
+    {
+      "nombre": "Mr. Lawrence",
+      "personaje": "Sheldon J. Plankton (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gWFgxlREzbaPPdWsQZSCdjrFozy.jpg"
+    },
+    {
+      "nombre": "George López",
+      "personaje": "JK Fishlips (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jeUUeE3ipY9edqdOSNI9v5maAbi.jpg"
+    },
+    {
+      "nombre": "Ice Spice",
+      "personaje": "Ticket Taker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/q3O02uHVOWd6Qoa5uNQmXlpLEpj.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Derek Drymon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Pam Brady",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lisa Stewart",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aaron Dem",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pam Brady",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Kaz",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Pam Brady",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Matt Lieberman",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stephen Hillenburg",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "Vincent Waller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marc Ceccarelli",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "A. Todd Holland",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Katrina Sainz",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Pete Chiappetta",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrew Lary",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anthony Tittanegro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marshall Richard Krasser",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Elizabeth Hauser Hemme",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Ice Spice",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "John Debney",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Derek Drymon",
+  "valoraciones": {
+    "tmdb": 6.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Animation",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/70/s8/2/U/G/e/L/UGeLz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=wS3mgDtELaU"
+}
