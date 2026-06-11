@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 1010755,
+  "poster": "https://image.tmdb.org/t/p/w500/mIiwoDukWkEoo90WXqOHxHmwhYD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uaFtNNSdDQx2KkTeoOhw7momJ3I.png",
+  "titulo": "Los Extraños: Capítulo 3",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 5.783,
+  "año": "2026",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "Maya se enfrenta a los asesinos enmascarados y descubre que la única salida de la pesadilla es hacia adentro.",
+  "fecha_estreno": "2026-02-05",
+  "titulo_original": "The Strangers: Chapter 3",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Madelaine Petsch",
+      "personaje": "Maya",
+      "foto": "https://image.tmdb.org/t/p/w500/mfZo30YgMx7vhAUajM8OG6I6VM8.jpg"
+    },
+    {
+      "nombre": "Richard Brake",
+      "personaje": "Sheriff Rotter",
+      "foto": "https://image.tmdb.org/t/p/w500/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
+    },
+    {
+      "nombre": "Ema Horvath",
+      "personaje": "Shelly / Pinup",
+      "foto": "https://image.tmdb.org/t/p/w500/4YindT5cKhekpAilc6q0scQeUQx.jpg"
+    },
+    {
+      "nombre": "Gabriel Basso",
+      "personaje": "Gregory / Scarecrow",
+      "foto": "https://image.tmdb.org/t/p/w500/6jHYQf6Y37BEouavp03WWpWpFyR.jpg"
+    },
+    {
+      "nombre": "Pedro Leandro",
+      "personaje": "Deputy Walters",
+      "foto": "https://image.tmdb.org/t/p/w500/2mqNYfAKoazh2cWwPmSKLUuqzuV.jpg"
+    },
+    {
+      "nombre": "Rachel Shenton",
+      "personaje": "Debbie",
+      "foto": "https://image.tmdb.org/t/p/w500/oCStwXsSGTDwO8md00tzwAviyBk.jpg"
+    },
+    {
+      "nombre": "George Young",
+      "personaje": "Howard",
+      "foto": "https://image.tmdb.org/t/p/w500/dDTtlhWEnqIvBoOljmX2Hoi8IO4.jpg"
+    },
+    {
+      "nombre": "Kyle Breitkopf",
+      "personaje": "Teenage Gregory / Scarecrow",
+      "foto": "https://image.tmdb.org/t/p/w500/zAxDr9wdkLYPD3sVnW5Y9gZVgA4.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alan R. Cohen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Alan Freedland",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Renny Harlin",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Courtney Solomon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Canton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Milburn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gary Raskin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alastair Burlingham",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bryan Bertino",
+      "rol": "Original Film Writer"
+    },
+    {
+      "nombre": "Matt Curtis",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "Roy Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michelle Harrison",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Justin Burnett",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "José David Montero",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Kate Hickey",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Adrian Curelea",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Diana Ghinea",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Oana Draghici",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Courtney Solomon",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Kristina Sakizli",
+      "rol": "First Assistant Director"
+    }
+  ],
+  "director": "Renny Harlin",
+  "valoraciones": {
+    "tmdb": 5.783,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lionsgate",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/3e/s8/2/-/I/B/6/-IB6z.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=B2fZEIHamVs"
+}
