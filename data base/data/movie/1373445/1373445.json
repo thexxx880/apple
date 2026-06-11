@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 1373445,
+  "poster": "https://image.tmdb.org/t/p/w500/bvMKSZtN8KAdtlKoYbEi1Zhyaou.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2JHJtATet58dzGpEwFek0kKGJFo.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hJouA85Ga0XjmTG0jlZ2GRrBgWV.png",
+  "titulo": "V/H/S/Halloween",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.242,
+  "año": "2025",
+  "duracion": "1h 55min",
+  "edad_minima": 13,
+  "sinopsis": "Una colección de videos con temática de Halloween desata una serie de historias retorcidas y llenas de sangre, que transforman el truco o trato en una lucha por la supervivencia.",
+  "fecha_estreno": "2025-09-19",
+  "titulo_original": "V/H/S/Halloween",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Samantha Cochran",
+      "personaje": "Lacie (segment \"Coochie Coochie Coo\")",
+      "foto": "https://image.tmdb.org/t/p/w500/xrdmIo9818mmYBwJds4Sq3L4fCM.jpg"
+    },
+    {
+      "nombre": "Natalia Montgomery Fernandez",
+      "personaje": "Kaleigh (segment \"Coochie Coochie Coo\")",
+      "foto": "https://image.tmdb.org/t/p/w500/m2psd0RyGDWbIjTiItNNqoK5JnN.jpg"
+    },
+    {
+      "nombre": "Elena Musser",
+      "personaje": "The Mommy (segment \"Coochie Coochie Coo\")",
+      "foto": "https://image.tmdb.org/t/p/w500/5XBLNNHCtcCIFeQbajWJTy4RUuP.jpg"
+    },
+    {
+      "nombre": "Adam Carr",
+      "personaje": "Diaper Man (segment \"Coochie Coochie Coo\")",
+      "foto": "https://image.tmdb.org/t/p/w500/zogGffLhN7wNJV65dye1kImRF8q.jpg"
+    },
+    {
+      "nombre": "Charlotte Mae Curtis",
+      "personaje": "The Cheerleader (segment \"Coochie Coochie Coo\")",
+      "foto": null
+    },
+    {
+      "nombre": "Charlie Gehrt",
+      "personaje": "Kid #1 (segment \"Coochie Coochie Coo\")",
+      "foto": null
+    },
+    {
+      "nombre": "Samuel Charles",
+      "personaje": "Kid #2 (segment \"Coochie Coochie Coo\")",
+      "foto": null
+    },
+    {
+      "nombre": "Brayon Cutrer",
+      "personaje": "Kid #3 (segment \"Coochie Coochie Coo\")",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Brad Miska",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Harris",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Josh Goldbloom",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Schreiber",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bryan M. Ferguson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Casper Kelly",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Micheline Pitt-Norman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "R.H. Norman",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Paul Lacovara",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Powell Robinson",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Alex Familian",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Nathaniel David Shriver",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Adrián Hernández",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Owen Laird",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Bryan M. Ferguson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jeffrey Gafner",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Sasha Glasser",
+      "rol": "Key Makeup Artist"
+    },
+    {
+      "nombre": "Carleigh Herbert",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Ally McGillicuddy",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Erik Porn",
+      "rol": "Special Effects Makeup Artist"
+    }
+  ],
+  "director": "Bryan M. Ferguson",
+  "valoraciones": {
+    "tmdb": 6.242,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Shudder",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/d0/s8/2/U/p/z/q/Upzqz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=l8XxoeV5LRU"
+}
