@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 13649,
+  "poster": "https://image.tmdb.org/t/p/w500/pZF6C4zXVzvtBdp5F43pM47ZHWa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aS7M839gMmcokvUwNM3DFqOLqzu.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7Lk34LflQrj2FJEFLuCA0YvVyh9.png",
+  "titulo": "High School Musical 2",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Película de TV"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.5,
+  "año": "2007",
+  "duracion": "1h 51min",
+  "edad_minima": 13,
+  "sinopsis": "El curso ha terminado y Troy Bolton, la superestrella del equipo de baloncesto de East High School, la inteligente Gabriella Montez y el resto de los Wildcats se preparan para disfrutar del verano más emocionante de sus vidas. Pero todo cambia cuando Sharpay Evans, la reina de los escenarios, utiliza los contactos de su «papá» para conseguir un trabajo a Troy en su súperexclusivo club de campo…",
+  "fecha_estreno": "2007-08-17",
+  "titulo_original": "High School Musical 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Zac Efron",
+      "personaje": "Troy Bolton",
+      "foto": "https://image.tmdb.org/t/p/w500/6oXNHv7gAyXXYFpF943pKRsTtqQ.jpg"
+    },
+    {
+      "nombre": "Vanessa Hudgens",
+      "personaje": "Gabriella Montez",
+      "foto": "https://image.tmdb.org/t/p/w500/8S8Nn5m5qkiIrEJ3dzPRjltzrkx.jpg"
+    },
+    {
+      "nombre": "Ashley French",
+      "personaje": "Sharpay Evans",
+      "foto": "https://image.tmdb.org/t/p/w500/ot6ib67jxvKVG1JCBl0ROPGtdeP.jpg"
+    },
+    {
+      "nombre": "Lucas Grabeel",
+      "personaje": "Ryan Evans",
+      "foto": "https://image.tmdb.org/t/p/w500/6xOYrCIGJ1XcM31tmkhJ32tQk33.jpg"
+    },
+    {
+      "nombre": "Corbin Bleu",
+      "personaje": "Chad Danforth",
+      "foto": "https://image.tmdb.org/t/p/w500/46szA5sJA9iuWFf4JfO4lECFqeH.jpg"
+    },
+    {
+      "nombre": "Olesya Rulin",
+      "personaje": "Kelsi Nielsen",
+      "foto": "https://image.tmdb.org/t/p/w500/jkKMcIsluWbcivCNIVbLJsX4ISK.jpg"
+    },
+    {
+      "nombre": "Chris Warren",
+      "personaje": "Zeke Baylor",
+      "foto": "https://image.tmdb.org/t/p/w500/xBVDjsdeJacMJhSX2WkYRIuat1M.jpg"
+    },
+    {
+      "nombre": "Monique Coleman",
+      "personaje": "Taylor McKessie",
+      "foto": "https://image.tmdb.org/t/p/w500/MgvDT0pq69f6KzS8qeu0zPpDMl.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kenny Ortega",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kenny Ortega",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bill Borden",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Don Schain",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Barsocchini",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kenny Ortega",
+      "rol": "Choreographer"
+    },
+    {
+      "nombre": "Charles Klapow",
+      "rol": "Choreographer"
+    },
+    {
+      "nombre": "Bonnie Story",
+      "rol": "Choreographer"
+    },
+    {
+      "nombre": "Daniel Aranyó",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Matthew Gerrard",
+      "rol": "Lyricist"
+    },
+    {
+      "nombre": "Robbie Nevil",
+      "rol": "Lyricist"
+    },
+    {
+      "nombre": "David Lawrence",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jeff Johnson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tom McKinley",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jason La Padura",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ken Kirchner",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Seth Flaum",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Kenny Ortega",
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "First Street Films",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/24/s8/2/a/I/l/j/aIljz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=PUeR2kRYQns"
+}
