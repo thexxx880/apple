@@ -1,0 +1,118 @@
+{
+  "id_tmdb": 42246,
+  "poster": "https://image.tmdb.org/t/p/w500/yDveufMrFCCnF0nl1myzbHGFPT0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bXILbW1i0WRShd6s4LfLKdJM6zm.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6q1Ex3lyqMueA0lNrJzQxPY134Q.png",
+  "titulo": "Tom y Jerry: Rápidos y furiosos",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.1,
+  "año": "2005",
+  "duracion": "1h 15min",
+  "edad_minima": 13,
+  "sinopsis": "Después de destrozar su casa durante una persecución, Tom y Jerry participan en una carrera alrededor del mundo en la que el ganador obtiene una nueva casa de lujo.",
+  "fecha_estreno": "2005-09-03",
+  "titulo_original": "Tom and Jerry: The Fast and the Furry",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Charlie Adler",
+      "personaje": "Grammy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hVENHdlEqsX6vhBW4MTpfYEFFQ3.jpg"
+    },
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Steed (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "J.W. / Spike (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ui1Lj71sPMpJJskMcrbPzqP7EM.jpg"
+    },
+    {
+      "nombre": "Jess Harnell",
+      "personaje": "Buzz Blister / Film Director (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Gorthan / Whale (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+    },
+    {
+      "nombre": "Bill Kopp",
+      "personaje": "Tom / Frank (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gh9Xhsq22tlWNPxrOIoY7iPBov1.jpg"
+    },
+    {
+      "nombre": "Tress MacNeille",
+      "personaje": "Soccer Mom / Lady / Tour Girl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+    },
+    {
+      "nombre": "Rob Paulsen",
+      "personaje": "Irving / Dave (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c9Gb8stOOftFgUiZXtXAWlSaq6e.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bill Kopp",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bill Kopp",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Stephen A. Fossati",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Allen",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Julie Ann Lau",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Nathan Wang",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Bill Kopp",
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://rumble.com/hls-vod/6zadjy/playlist.m3u8?key=jn5adKl93dKLRP5IccbHmdXjYPc5WoLgtc39f1I_qfiE0DtF-wCnjg&u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=In5DCUeumFY"
+}
