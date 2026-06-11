@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 121,
+  "poster": "https://image.tmdb.org/t/p/w500/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ojBPsUAfaZPuiN4NrvtF6Lfrm5Y.png",
+  "titulo": "El señor de los anillos: Las dos torres",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 8.42,
+  "año": "2002",
+  "duracion": "3h 0min",
+  "edad_minima": 13,
+  "sinopsis": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+  "fecha_estreno": "2002-12-18",
+  "titulo_original": "The Lord of the Rings: The Two Towers",
+  "pais_origen": "New Zealand",
+  "reparto": [
+    {
+      "nombre": "Elijah Wood",
+      "personaje": "Frodo",
+      "foto": "https://image.tmdb.org/t/p/w500/ayARmqAe9Aab1zg6FjJG0u9MEBo.jpg"
+    },
+    {
+      "nombre": "Ian McKellen",
+      "personaje": "Gandalf",
+      "foto": "https://image.tmdb.org/t/p/w500/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+    },
+    {
+      "nombre": "Viggo Mortensen",
+      "personaje": "Aragorn",
+      "foto": "https://image.tmdb.org/t/p/w500/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+    },
+    {
+      "nombre": "Sean Astin",
+      "personaje": "Sam",
+      "foto": "https://image.tmdb.org/t/p/w500/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+    },
+    {
+      "nombre": "Andy Serkis",
+      "personaje": "Gollum",
+      "foto": "https://image.tmdb.org/t/p/w500/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+      "nombre": "John Rhys-Davies",
+      "personaje": "Gimli / Treebeard (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+    },
+    {
+      "nombre": "Orlando Bloom",
+      "personaje": "Legolas",
+      "foto": "https://image.tmdb.org/t/p/w500/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+    },
+    {
+      "nombre": "Bernard Hill",
+      "personaje": "Théoden",
+      "foto": "https://image.tmdb.org/t/p/w500/5i8bj2nsTrFU2ddSynleOjapxor.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Barrie M. Osborne",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Jackson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fran Walsh",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fran Walsh",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Philippa Boyens",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Stephen Sinclair",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Peter Jackson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Peter Jackson",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Robins",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Alan Lee",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Michael Horton",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John Hubbard",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Harvey Weinstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Ordesky",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Howard Shore",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Liz Mullane",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Andrew Lesnie",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Dan Hennah",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Michael Lynne",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Victoria Burrows",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Peter Jackson",
+  "valoraciones": {
+    "tmdb": 8.42,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://1a-1791.com/video/fwe2/49/s8/2/Z/A/a/q/ZAaqw.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=nuTU5XcZTLA"
+}
