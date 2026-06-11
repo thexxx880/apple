@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 799882,
+  "poster": "https://image.tmdb.org/t/p/w500/y8ADH1i7Ti1A0WLWjMCTEN6s4F8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rbFqLPKj6D2JyRh5mOfA7jqX0Qk.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/fhSCIZmHxUMm59RE6d8wRogyE7L.png",
+  "titulo": "El engaño",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.7,
+  "año": "2026",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando su vida tranquila en una isla remota se ve truncada por el regreso de su vengativo excapitán, una hábil expirata debe enfrentarse a su sangriento pasado y dar rienda suelta a sus mortales talentos para salvar a su familia de un asedio despiadado.",
+  "fecha_estreno": "2026-02-17",
+  "titulo_original": "The Bluff",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Priyanka Chopra Jonas",
+      "personaje": "Ercell",
+      "foto": "https://image.tmdb.org/t/p/w500/9n2n3fUFI553HKH0CEAb2TPLtCx.jpg"
+    },
+    {
+      "nombre": "Karl Urban",
+      "personaje": "Captain Connor",
+      "foto": "https://image.tmdb.org/t/p/w500/6CkZLwEJxfqqcJHyeXegMAvOlPh.jpg"
+    },
+    {
+      "nombre": "Safia Oakley-Green",
+      "personaje": "Elizabeth",
+      "foto": "https://image.tmdb.org/t/p/w500/k4JrjdSIfwWF1Qd5KHChDfnXpF2.jpg"
+    },
+    {
+      "nombre": "Ismael Cruz Cordova",
+      "personaje": "T.H. Bodden",
+      "foto": "https://image.tmdb.org/t/p/w500/oXcrsQGndk60iFkNB8qFnMHlNzL.jpg"
+    },
+    {
+      "nombre": "Temuera Morrison",
+      "personaje": "Quartermaster Lee",
+      "foto": "https://image.tmdb.org/t/p/w500/AvtSC0f9QW7fMyFFNXEWDeQyfUk.jpg"
+    },
+    {
+      "nombre": "Vedanten Naidoo",
+      "personaje": "Isaac",
+      "foto": "https://image.tmdb.org/t/p/w500/dyte97wgjc0aXqhgLxA3vz12PTT.jpg"
+    },
+    {
+      "nombre": "David Field",
+      "personaje": "Pastor Bradley",
+      "foto": "https://image.tmdb.org/t/p/w500/aYtVOMnak4JmlLGw63lJObLf1J.jpg"
+    },
+    {
+      "nombre": "Greg Hatton",
+      "personaje": "Scout",
+      "foto": "https://image.tmdb.org/t/p/w500/j0jioHCWjJJEr41Vr2vHgRRtEMx.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Frank E. Flowers",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Frank E. Flowers",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joe Ballarini",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Angela Russo-Otstot",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Anthony Russo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cisely Saldaña",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Russo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mariel Saldaña",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jocelyn Thomas",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "Andrew Kattie",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Patrick James Howe",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Shane Bennett",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Tarnia Nicol",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Brian Nickless",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Kate Rawlins",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Rachel van Baarle",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Jeffrey Sturm",
+      "rol": "Assistant Set Decoration"
+    },
+    {
+      "nombre": "Dane Hallett",
+      "rol": "Concept Artist"
+    },
+    {
+      "nombre": "Carolina Navarte",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Natasha Carty",
+      "rol": "Graphic Designer"
+    }
+  ],
+  "director": "Frank E. Flowers",
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "AGBO",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/0d/s8/2/c/E/V/2/cEV2z.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=ba6NslzXkzs"
+}
