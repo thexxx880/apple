@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 1226863,
+  "poster": "https://image.tmdb.org/t/p/w500/4Js0gYWxuvTN6b8iAaSF1cSQzBs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6iBGJAaGKJ0xDhsnowxKDROLqyK.png",
+  "titulo": "Super Mario Galaxy: La película",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Comedia",
+    "Aventura",
+    "Fantasía",
+    "Animación"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8.167,
+  "año": "2026",
+  "duracion": "1h 38min",
+  "edad_minima": 13,
+  "sinopsis": "Mario y Luigi se enfrentan una nueva amenaza: Bowser Jr., quién está decidido liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.",
+  "fecha_estreno": "2026-04-01",
+  "titulo_original": "The Super Mario Galaxy Movie",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "Chris Pratt",
+      "personaje": "Mario (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "nombre": "Anya Taylor-Joy",
+      "personaje": "Princess Peach (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jxAbDJWvz4p1hoFpJYG5vY2dQmq.jpg"
+    },
+    {
+      "nombre": "Charlie Day",
+      "personaje": "Luigi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg"
+    },
+    {
+      "nombre": "Jack Black",
+      "personaje": "Bowser (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "nombre": "Donald Glover",
+      "personaje": "Yoshi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg"
+    },
+    {
+      "nombre": "Benny Safdie",
+      "personaje": "Bowser Jr. (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/u10A5DpUYRB1zMF7YoGYcyvhois.jpg"
+    },
+    {
+      "nombre": "Brie Larson",
+      "personaje": "Rosalina (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rlbQbpu3tkMAikPWM53VElMUnzR.jpg"
+    },
+    {
+      "nombre": "Keegan-Michael Key",
+      "personaje": "Toad (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Jelenic",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Aaron Horvath",
+      "rol": "Director"
+    },
+    {
+      "nombre": "宮本茂",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Meledandri",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matthew Fogel",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brian Tyler",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jeannine Berger",
+      "rol": "Post Production Producer"
+    },
+    {
+      "nombre": "Ed Skudder",
+      "rol": "Head of Story"
+    },
+    {
+      "nombre": "Daniel Laurie",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Xavier Bec",
+      "rol": "Head of Research"
+    },
+    {
+      "nombre": "Jeremy Bowker",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Jeremy Bowker",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Michael Semanick",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Scott R. Lewis",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Yusuke Beppu",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brice Colinet",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Brett Hoffman",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Michael Jelenic",
+  "valoraciones": {
+    "tmdb": 8.167,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Illumination",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/2c/s8/2/8/J/Z/e/8JZeA.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=En5QZmL5R1s"
+}
