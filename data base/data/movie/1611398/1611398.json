@@ -1,0 +1,105 @@
+{
+  "id_tmdb": 1611398,
+  "poster": "https://image.tmdb.org/t/p/w500/rHwOvosfDFRsjBihdh9dIHnMgbO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/z4rHWzEQlg4DGy3fiGeOzjmfkyP.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tSu6NEBd5W8ypHSjxpSaLT5vUD6.png",
+  "titulo": "Un hombre por semana",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Drama"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.567,
+  "año": "2026",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Ha pasado un año desde que Mónica se divorció. Sus mejores amigas, Martha y Paula, deciden hacerle una intervención para que salga con un hombre por semana, se divierta y, tal vez, encuentre un nuevo amor.",
+  "fecha_estreno": "2026-01-08",
+  "titulo_original": "Un hombre por semana",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Ana de la Reguera",
+      "personaje": "Monica",
+      "foto": "https://image.tmdb.org/t/p/w500/nEacV1wuUHV6eUyErGBhniJ85JY.jpg"
+    },
+    {
+      "nombre": "Roberto Quijano",
+      "personaje": "Miguel",
+      "foto": "https://image.tmdb.org/t/p/w500/y06O998iPGnaH7fvXDLaYR16eFK.jpg"
+    },
+    {
+      "nombre": "Carlos 'Capi' Pérez",
+      "personaje": "Memo",
+      "foto": "https://image.tmdb.org/t/p/w500/nngw8NHBoNbzYdWJ5qV4Tfja0gI.jpg"
+    },
+    {
+      "nombre": "Fernando Álvarez Rebeil",
+      "personaje": "Rene",
+      "foto": "https://image.tmdb.org/t/p/w500/zhICVhOwphg1owi9ujKOPhjrfWA.jpg"
+    },
+    {
+      "nombre": "Patricia Garza",
+      "personaje": "Paula",
+      "foto": null
+    },
+    {
+      "nombre": "Epy Vélez",
+      "personaje": "Martha",
+      "foto": null
+    },
+    {
+      "nombre": "Diego Guzmán",
+      "personaje": "Damián",
+      "foto": "https://image.tmdb.org/t/p/w500/1Wquad1nMvVsEz8IEJcMHDs0Akk.jpg"
+    },
+    {
+      "nombre": "Kevin Bertram",
+      "personaje": "Humberto/Ismael",
+      "foto": "https://image.tmdb.org/t/p/w500/aW6MfVy1XtrR7zaiU5MtttSmOrB.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Marco Polo Constandse",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Itzel Lara",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Adriana Pelusi",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ana de la Reguera",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tania Benítez",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tonatiuh Martínez",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Celia Hop Galván",
+      "rol": "Production Designer"
+    }
+  ],
+  "director": "Marco Polo Constandse",
+  "valoraciones": {
+    "tmdb": 7.567,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Filmadora",
+  "enlace_video": "https://1a-1791.com/video/fww1/a0/s8/2/0/w/y/b/0wybA.aaa.mp4",
+  "trailer": ""
+}
