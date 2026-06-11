@@ -1,0 +1,85 @@
+{
+  "id_tmdb": 576743,
+  "poster": "https://image.tmdb.org/t/p/w500/8bbspDJMKus6XSnw2F4gBuACylo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tMOWRvHc7sdsc7UNtK6Nfb0onWD.jpg",
+  "logo": null,
+  "titulo": "Marvel Rising: Persiguiendo fantasmas",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.4,
+  "año": "2019",
+  "duracion": "0h 22min",
+  "edad_minima": 13,
+  "sinopsis": "El bando de los Ghost-Spider se une a los miembros de Secret Warriors para tratar de derrotar de una vez por todas a los villanos Sheath y Exile. ¿Podrá Quake convencer a los superhéroes de Ghost-Spider de que unan fuerzar por un bien común?",
+  "fecha_estreno": "2019-01-16",
+  "titulo_original": "Marvel Rising: Chasing Ghosts",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Tippy Toe / Lockjaw (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Chloe Bennet",
+      "personaje": "Daisy Johnson / Quake (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4qvbabAnuLBEY1K262pn8sMHtVw.jpg"
+    },
+    {
+      "nombre": "Dove Cameron",
+      "personaje": "Gwen Stacy / Ghost-Spider (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7sfEvzwUGrqs1qORnXCnLehwHfm.jpg"
+    },
+    {
+      "nombre": "Skai Jackson",
+      "personaje": "Gloria Grant",
+      "foto": "https://image.tmdb.org/t/p/w500/5Hy1XF5QjERKuwOQLIUU3CyoCvH.jpg"
+    },
+    {
+      "nombre": "Kathreen Khavari",
+      "personaje": "Kamala Khan / Ms. Marvel (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/maa5uhT9np44gi1lNWBAbOyOrWv.jpg"
+    },
+    {
+      "nombre": "Kamil McFadden",
+      "personaje": "Patriot / Rayshaun Lucas (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xj48euLVpvF7uq8MTC00oQXzj3o.jpg"
+    },
+    {
+      "nombre": "Bennett Abara",
+      "personaje": "Sheath (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lEIPulsWbbZ5QUuafqwPX1ilbQR.jpg"
+    },
+    {
+      "nombre": "Tyler Posey",
+      "personaje": "Inferno / Dante Pertuz / Newspaper Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sWViYwUjkvARouQTKc6UeO3iK3y.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Mairghread Scott",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Alfred Gimeno",
+      "rol": "Director"
+    }
+  ],
+  "crew": [],
+  "director": "Alfred Gimeno",
+  "valoraciones": {
+    "tmdb": 6.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Animation",
+  "enlace_video": "https://rumble.com/hls-vod/73r92i/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=ceUP2JNHaVI"
+}
