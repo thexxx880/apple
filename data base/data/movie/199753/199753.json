@@ -1,0 +1,134 @@
+{
+  "id_tmdb": 199753,
+  "poster": "https://image.tmdb.org/t/p/w500/sFCZvviaQFHTmUoishpvFBrs0j9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xXY4XV7hhOH7QDVLb7yGU9n0YiE.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/c48GD8vdy4XJr2xJAV903Svibrp.png",
+  "titulo": "La Gigante Aventura de Tom y Jerry",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.9,
+  "año": "2013",
+  "duracion": "0h 57min",
+  "edad_minima": 13,
+  "sinopsis": "En esta rendición del cuento clásico Las habichuelas mágicas, el gato y el ratón pelean otra vez mientras ayudan a Jack, el joven dueño de un parque de diversiones en mala rancha. Todo cambia cuando un puñado de habichuelas mágicas crean un tallo gigante. Jack, Tom y Jerry se aventuran a conseguir un ganso que pone huevos de oro. Sin embargo, ¿qué peligros y locuras les esperan arriba?",
+  "fecha_estreno": "2013-08-04",
+  "titulo_original": "Tom and Jerry's Giant Adventure",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Garrison Keillor",
+      "personaje": "Farmer O'Dell / Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3Uif4EDVdfewXNREn5vT1OGITgX.jpg"
+    },
+    {
+      "nombre": "Paul Reubens",
+      "personaje": "Screwy Squirrel (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9xGL3pGNAiZDtzKTVDQY90Mkyqs.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Mrs. Bradley / Red Fairy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Jacob Bertrand",
+      "personaje": "Jack (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eW01x0aRni5d2cEyKQJOxRYlbQ.jpg"
+    },
+    {
+      "nombre": "Thomas F. Wilson",
+      "personaje": "Mr. Bigley / Ginormous (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/b5pr7ZizBHbWRp5tC7wjs2zIxc9.jpg"
+    },
+    {
+      "nombre": "Phil LaMarr",
+      "personaje": "Spike (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+    },
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "Meathead (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ui1Lj71sPMpJJskMcrbPzqP7EM.jpg"
+    },
+    {
+      "nombre": "Kath Soucie",
+      "personaje": "Tuffy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dSE1JtsdA1aSgIIw415bsXtmkPg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Spike Brandt",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tony Cervone",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paul Dini",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Spike Brandt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tony Cervone",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kaukab Basheer",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Leonard Robledo",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Sylvia Filcak",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jim Wyatt",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Maria Estrada",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kyle Stafford",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Tavera",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Spike Brandt",
+  "valoraciones": {
+    "tmdb": 5.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://rumble.com/hls-vod/6za7do/playlist.m3u8?key=7LBtQM2psPSfSgvofmCUeLP3Ui4GA6fhZ5uBBKuA8Oxi2Qg7erMRUg&u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=NMgEvzGRHAM"
+}
