@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 1327819,
+  "poster": "https://image.tmdb.org/t/p/w500/7NRpCaksHX0FEsXCNITOvhq7cZ3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/gsD5xIliP0YFfjXETFInVvNuIVL.png",
+  "titulo": "Hoppers: Operación castor",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8.2,
+  "año": "2026",
+  "duracion": "1h 44min",
+  "edad_minima": 13,
+  "sinopsis": "Mabel, una amante de los animales, utiliza una nueva e inteligente tecnología diseñada para \"transmitir\" la conciencia humana a animales robóticos realistas en un intento de comunicarse con los castores, descubriendo misterios dentro del mundo animal más allá de lo que pudiera haber imaginado.",
+  "fecha_estreno": "2026-03-04",
+  "titulo_original": "Hoppers",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Piper Curda",
+      "personaje": "Mabel (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oyitEBcracNWMuF8Frhsqkjgzuc.jpg"
+    },
+    {
+      "nombre": "Bobby Moynihan",
+      "personaje": "King George (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+    },
+    {
+      "nombre": "Jon Hamm",
+      "personaje": "Mayor Jerry Generazzo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+      "nombre": "Kathy Najimy",
+      "personaje": "Dr. Sam (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+    },
+    {
+      "nombre": "Dave Franco",
+      "personaje": "Insect King (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg"
+    },
+    {
+      "nombre": "Eduardo Franco",
+      "personaje": "Loaf (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/FOnx5Rg8L7xvEWkBhNoXwhELd6.jpg"
+    },
+    {
+      "nombre": "Aparna Nancherla",
+      "personaje": "Nisha (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vwpktqJnQCAGEfq2EKUjB8ZdnhI.jpg"
+    },
+    {
+      "nombre": "Tom Law",
+      "personaje": "Tom Lizard (voice)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Nicole Paradis Grindle",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Daniel Chong",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jesse Andrews",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Daniel Chong",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jesse Andrews",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Pete Docter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Heather Eisner",
+      "rol": "Post-Production Manager"
+    },
+    {
+      "nombre": "Jessie Thiele",
+      "rol": "Post Production Producer"
+    },
+    {
+      "nombre": "Jeremy Slome",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Coya Elliott",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Doc Kane",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Lexi Diamond",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Terri Douglas",
+      "rol": "ADR Voice Casting"
+    },
+    {
+      "nombre": "Susan Brunig",
+      "rol": "Colorist"
+    },
+    {
+      "nombre": "Max Sachar",
+      "rol": "Story Manager"
+    },
+    {
+      "nombre": "Ren Klyce",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Mark Mothersbaugh",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Daniel Chong",
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/f9/s8/2/i/h/I/_/ihI_z.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=bv0sKzFvpmo"
+}
