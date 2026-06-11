@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 49051,
+  "poster": "https://image.tmdb.org/t/p/w500/3dJELUqdpGEkXVrMj7V3BiOjrtf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qTUbhqAkiO7Sd9vpKcZqNVXAK1q.png",
+  "titulo": "El Hobbit: Un viaje inesperado",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.375,
+  "año": "2012",
+  "duracion": "2h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Un reacio Hobbit, Bilbo Bolsón, parte hacia la Montaña Solitaria con un animado grupo de enanos para reclamar al dragón Smaug su hogar en la montaña y el oro que contiene.",
+  "fecha_estreno": "2012-12-12",
+  "titulo_original": "The Hobbit: An Unexpected Journey",
+  "pais_origen": "New Zealand",
+  "reparto": [
+    {
+      "nombre": "Martin Freeman",
+      "personaje": "Bilbo Baggins",
+      "foto": "https://image.tmdb.org/t/p/w500/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+    },
+    {
+      "nombre": "Ian McKellen",
+      "personaje": "Gandalf the Grey",
+      "foto": "https://image.tmdb.org/t/p/w500/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+    },
+    {
+      "nombre": "Richard Armitage",
+      "personaje": "Thorin Oakenshield",
+      "foto": "https://image.tmdb.org/t/p/w500/oNoKjTOUNUiJ01UNQSCQDkt5EHi.jpg"
+    },
+    {
+      "nombre": "James Nesbitt",
+      "personaje": "Bofur",
+      "foto": "https://image.tmdb.org/t/p/w500/lQiGZcwUXbCqpF055Ia5jxdZ2Ma.jpg"
+    },
+    {
+      "nombre": "Ken Stott",
+      "personaje": "Balin",
+      "foto": "https://image.tmdb.org/t/p/w500/yzF2h7xhwtCkQ6T556pHSE7F1k4.jpg"
+    },
+    {
+      "nombre": "Sylvester McCoy",
+      "personaje": "Radagast the Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/y7spOkUTzwf7WYgeGeNMnvBjStd.jpg"
+    },
+    {
+      "nombre": "Barry Humphries",
+      "personaje": "The Great Goblin",
+      "foto": "https://image.tmdb.org/t/p/w500/gtOAbs8ZFJiDDRPPock1qmP4V18.jpg"
+    },
+    {
+      "nombre": "Dean O'Gorman",
+      "personaje": "Fili",
+      "foto": "https://image.tmdb.org/t/p/w500/2goR6GBeQey7EkTmLufrEi0PZcb.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Guillermo del Toro",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Fran Walsh",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Jackson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Peter Jackson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Peter Jackson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Philippa Boyens",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Zane Weiner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Carolynne Cunningham",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Toby Emmerich",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrew Lesnie",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Victoria Burrows",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Carolyn Blackwood",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alan Horn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Hubbard",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Andy McLaren",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jabez Olssen",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Howard Shore",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Amy Hubbard",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "J. R. R. Tolkien",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Rick Findlater",
+      "rol": "Makeup Department Head"
+    }
+  ],
+  "director": "Peter Jackson",
+  "valoraciones": {
+    "tmdb": 7.375,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://1a-1791.com/video/s8/2/L/N/V/P/LNVPv.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=CXqZK-nbZ74"
+}
