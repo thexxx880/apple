@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1265609,
+  "poster": "https://image.tmdb.org/t/p/w500/aq2vbzxcG5K3SSLReMqO5TettmE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/72I2CuBl7ArEgv4rijdnVvd3WOS.png",
+  "titulo": "Máquina de guerra",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.365,
+  "año": "2026",
+  "duracion": "1h 46min",
+  "edad_minima": 13,
+  "sinopsis": "En su última misión de entrenamiento, un ingeniero de combate debe liderar a su unidad en una lucha por sobrevivir ante una amenaza inimaginable.",
+  "fecha_estreno": "2026-02-12",
+  "titulo_original": "War Machine",
+  "pais_origen": "Australia",
+  "reparto": [
+    {
+      "nombre": "Alan Ritchson",
+      "personaje": "81",
+      "foto": "https://image.tmdb.org/t/p/w500/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+    },
+    {
+      "nombre": "Dennis Quaid",
+      "personaje": "Army Sgt Maj Sheridan",
+      "foto": "https://image.tmdb.org/t/p/w500/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+    },
+    {
+      "nombre": "Stephan James",
+      "personaje": "7",
+      "foto": "https://image.tmdb.org/t/p/w500/itWiVFI7uE8s4QQjcQBbVO0hY7K.jpg"
+    },
+    {
+      "nombre": "Jai Courtney",
+      "personaje": "Class President",
+      "foto": "https://image.tmdb.org/t/p/w500/6vEaNwbOKov6yzQx15CdtrqfK3L.jpg"
+    },
+    {
+      "nombre": "Esai Morales",
+      "personaje": "Army Officer Torres",
+      "foto": "https://image.tmdb.org/t/p/w500/cNYciYzUzxraGlw0BPql1QePi5H.jpg"
+    },
+    {
+      "nombre": "Blake Richardson",
+      "personaje": "15",
+      "foto": "https://image.tmdb.org/t/p/w500/58QVBtwjZODn9FGighvL94pgmsH.jpg"
+    },
+    {
+      "nombre": "Keiynan Lonsdale",
+      "personaje": "60",
+      "foto": "https://image.tmdb.org/t/p/w500/lSIKty1Y8JLIE4aqL6VmZYx0JEB.jpg"
+    },
+    {
+      "nombre": "Jack Patten",
+      "personaje": "109",
+      "foto": "https://image.tmdb.org/t/p/w500/sIE11wI7czGjYCUOlEKqXguIdsl.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Patrick Hughes",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Patrick Hughes",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Todd Lieberman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patrick Hughes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Beaufort",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Patrick Hughes",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Alexander Young",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rich Cook",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Valerie Bleth Sharp",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nick Satriano",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Nick Satriano",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Gelareh Kiazand",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Andy Canny",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Cappi Ireland",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Chiara Tripodi",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Chiara Tripodi",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Peter Stubbs",
+      "rol": "Special Effects Supervisor"
+    },
+    {
+      "nombre": "Jade Amantea",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Karl Engeler",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Ray McIntyre Jr.",
+      "rol": "Visual Effects Supervisor"
+    }
+  ],
+  "director": "Patrick Hughes",
+  "valoraciones": {
+    "tmdb": 7.365,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lionsgate",
+  "enlace_video": "https://1a-1791.com/video/fww1/76/s8/2/e/k/W/8/ekW8z.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=AFuE1LRxm80"
+}
