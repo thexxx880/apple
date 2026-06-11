@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 122,
+  "poster": "https://image.tmdb.org/t/p/w500/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qzHCu6O3LAXhPuslqYrs7dGESep.png",
+  "titulo": "El señor de los anillos: El retorno del rey",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 8.499,
+  "año": "2003",
+  "duracion": "3h 22min",
+  "edad_minima": 13,
+  "sinopsis": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+  "fecha_estreno": "2003-12-17",
+  "titulo_original": "The Lord of the Rings: The Return of the King",
+  "pais_origen": "New Zealand",
+  "reparto": [
+    {
+      "nombre": "Elijah Wood",
+      "personaje": "Frodo",
+      "foto": "https://image.tmdb.org/t/p/w500/ayARmqAe9Aab1zg6FjJG0u9MEBo.jpg"
+    },
+    {
+      "nombre": "Ian McKellen",
+      "personaje": "Gandalf",
+      "foto": "https://image.tmdb.org/t/p/w500/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+    },
+    {
+      "nombre": "Viggo Mortensen",
+      "personaje": "Aragorn",
+      "foto": "https://image.tmdb.org/t/p/w500/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+    },
+    {
+      "nombre": "Sean Astin",
+      "personaje": "Sam",
+      "foto": "https://image.tmdb.org/t/p/w500/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+    },
+    {
+      "nombre": "Andy Serkis",
+      "personaje": "Gollum / Smeagol",
+      "foto": "https://image.tmdb.org/t/p/w500/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+      "nombre": "Dominic Monaghan",
+      "personaje": "Merry",
+      "foto": "https://image.tmdb.org/t/p/w500/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg"
+    },
+    {
+      "nombre": "Billy Boyd",
+      "personaje": "Pippin",
+      "foto": "https://image.tmdb.org/t/p/w500/jluumxuDr7rm2f97NFf9LydBdaZ.jpg"
+    },
+    {
+      "nombre": "John Noble",
+      "personaje": "Denethor",
+      "foto": "https://image.tmdb.org/t/p/w500/t9dB8uU27sQDaEEFMiQvp5sbrXU.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Peter Jackson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Peter Jackson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Barrie M. Osborne",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Jackson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Fran Walsh",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Philippa Boyens",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Fran Walsh",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bob Weinstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Harvey Weinstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Ordesky",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Lynne",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "J. R. R. Tolkien",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Andrew Lesnie",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Joe Bleakley",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Rob Outterside",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Mark Robins",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "John Howe",
+      "rol": "Conceptual Design"
+    },
+    {
+      "nombre": "Dan Hennah",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Ngila Dickson",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "Peter Jackson",
+  "valoraciones": {
+    "tmdb": 8.499,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://1a-1791.com/video/fwe1/17/s8/2/Q/b/n/z/Qbnzw.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=zckJCxYxn1g"
+}
