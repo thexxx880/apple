@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 9313,
+  "poster": "https://image.tmdb.org/t/p/w500/50Ug4tJ66gJ9ZgivMGzZnGkdw1p.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uhhtglfXNaTavkKtjer38qHLfVi.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xg6HLNGdm05jHa46EyXjXOv7yah.png",
+  "titulo": "El hombre de la máscara de hierro",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Drama"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.653,
+  "año": "1998",
+  "duracion": "2h 12min",
+  "edad_minima": 13,
+  "sinopsis": "Francia se muere de hambre, mientras el Rey Luis XIV mantiene un reinado de terror. Sólo \"los tres mosqueteros\" podrán salir al rescate. Su misión: liberar a un misterioso prisionero en La Bastilla, en cuya identidad radica el secreto que podrá salvar a la nación...",
+  "fecha_estreno": "1998-03-12",
+  "titulo_original": "The Man in the Iron Mask",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Leonardo DiCaprio",
+      "personaje": "King Louis XIV / Philippe",
+      "foto": "https://image.tmdb.org/t/p/w500/mkdRcVIQl4WZhDf1vXKWTD7HZrZ.jpg"
+    },
+    {
+      "nombre": "Gabriel Byrne",
+      "personaje": "D'Artagnan",
+      "foto": "https://image.tmdb.org/t/p/w500/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
+    },
+    {
+      "nombre": "Jeremy Irons",
+      "personaje": "Aramis",
+      "foto": "https://image.tmdb.org/t/p/w500/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+    },
+    {
+      "nombre": "John Malkovich",
+      "personaje": "Athos",
+      "foto": "https://image.tmdb.org/t/p/w500/7GoOdGNc4ra1L0F5nJTkmIB37iu.jpg"
+    },
+    {
+      "nombre": "Gérard Depardieu",
+      "personaje": "Porthos",
+      "foto": "https://image.tmdb.org/t/p/w500/cibkIAJN6ctlqHohhdDEcfbiCAL.jpg"
+    },
+    {
+      "nombre": "Anne Parillaud",
+      "personaje": "Queen Mother Anne",
+      "foto": "https://image.tmdb.org/t/p/w500/jv8ufhXcPc00l0PWkc01CfJoczC.jpg"
+    },
+    {
+      "nombre": "Judith Godrèche",
+      "personaje": "Christine",
+      "foto": "https://image.tmdb.org/t/p/w500/wtoYVeYdi0Uv00eFbtEvUZCdEge.jpg"
+    },
+    {
+      "nombre": "Edward Atterton",
+      "personaje": "Lt. Andre",
+      "foto": "https://image.tmdb.org/t/p/w500/jzGLz10ij0g7u84caAfyqXMqOeD.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Paul Hitchcock",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Randall Wallace",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Russell Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Randall Wallace",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Randall Wallace",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "René Dupont",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "William Hoy",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Nick Glennie-Smith",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Alexandre Dumas",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Peter Suschitzky",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Alan Ladd Jr.",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Acheson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "David Tomblin",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Ariel Levy",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Jennifer Patrick",
+      "rol": "Dialogue Coach"
+    },
+    {
+      "nombre": "Giannetto De Rossi",
+      "rol": "Makeup Supervisor"
+    },
+    {
+      "nombre": "Cathy Sandrich Gelfond",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Amanda Mackey",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Randall Wallace",
+  "valoraciones": {
+    "tmdb": 6.653,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "United Artists",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/7b/s8/2/U/a/T/_/UaT_z.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=gnNt7l2nA_o"
+}
