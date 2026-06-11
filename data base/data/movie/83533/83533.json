@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 83533,
+  "poster": "https://image.tmdb.org/t/p/w500/vHtH4xdcTbaCVftGwaeGFHfOB3p.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7DrxPRFEIEmkijc7FRFJUqSJGJS.png",
+  "titulo": "Avatar: Fuego y ceniza",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.568,
+  "año": "2025",
+  "duracion": "3h 18min",
+  "edad_minima": 13,
+  "sinopsis": "Devastados por la guerra contra la RDA y la perdida de su hijo mayor, Jake Sully y Neytiri se enfrentan a una nueva amenaza en Pandora: el pueblo de la ceniza, una violenta tribu Na'vi ávida de poder liderada por los despiadados Varang.",
+  "fecha_estreno": "2025-12-17",
+  "titulo_original": "Avatar: Fire and Ash",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sam Worthington",
+      "personaje": "Jake",
+      "foto": "https://image.tmdb.org/t/p/w500/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
+    },
+    {
+      "nombre": "Zoe Saldaña",
+      "personaje": "Neytiri",
+      "foto": "https://image.tmdb.org/t/p/w500/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+    },
+    {
+      "nombre": "Sigourney Weaver",
+      "personaje": "Kiri",
+      "foto": "https://image.tmdb.org/t/p/w500/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "nombre": "Stephen Lang",
+      "personaje": "Quaritch",
+      "foto": "https://image.tmdb.org/t/p/w500/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+    },
+    {
+      "nombre": "Oona Chaplin",
+      "personaje": "Varang",
+      "foto": "https://image.tmdb.org/t/p/w500/uYnBSVKcFgw48Wxts01Dh5Gxlar.jpg"
+    },
+    {
+      "nombre": "Jack Champion",
+      "personaje": "Spider",
+      "foto": "https://image.tmdb.org/t/p/w500/8PXFKzhjFJ0oYP60Bj1kA44XBjY.jpg"
+    },
+    {
+      "nombre": "Kate Winslet",
+      "personaje": "Ronal",
+      "foto": "https://image.tmdb.org/t/p/w500/9xDnfZrWhM67wJlQJEsOOjQzDUQ.jpg"
+    },
+    {
+      "nombre": "Cliff Curtis",
+      "personaje": "Tonowari",
+      "foto": "https://image.tmdb.org/t/p/w500/dfaElGoyJWseFWxXwEMLL9WTi7V.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Cameron",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Shane Salerno",
+      "rol": "Story"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Rick Jaffa",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Rick Jaffa",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Josh Friedman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Amanda Silver",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Simon Franglen",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Garrett Warren",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Maria Battle-Campbell",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Daniel Koene",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "John Refoua",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Stephen E. Rivkin",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Dylan Cole",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ben Procter",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Zachary Fannin",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Russell Carpenter",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "James Cameron",
+  "valoraciones": {
+    "tmdb": 7.568,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Studios",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/4d/s8/2/M/6/v/K/M6vKz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=ndYS51j7G3o"
+}
