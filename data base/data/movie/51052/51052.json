@@ -1,0 +1,154 @@
+{
+  "id_tmdb": 51052,
+  "poster": "https://image.tmdb.org/t/p/w500/hgZgCWUHzSV4jNaQbOKAYdyXF0M.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hwtYE4Gs0IsBnrJ0nTZItOXlz19.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/sriN3K5etvQTsgxX3BcIe1MWEqM.png",
+  "titulo": "Operación Regalo",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Animación",
+    "Familia",
+    "Comedia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.773,
+  "año": "2011",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Con trucos más propios de espías, Santa y sus elfos de elite logran repartir en una sola noche los millones de regalos a los niños del mundo. ¿Qué significa que un solo niño no haya recibido su obsequio? ¡Todo! Pero será tarea del hijo menor de Santa, Arthur, enmendar este error y cumplir con la promesa de Navidad. Con la intención de devolverle el espíritu a las fiestas y con la ayuda del jubilado Grandsanta y un joven elfo rebelde, Arthur sale a último momento a entregar el regalo que falta. ¡Adorna la sala de emociones y diversión con este clásico navideño!",
+  "fecha_estreno": "2011-11-10",
+  "titulo_original": "Arthur Christmas",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "James McAvoy",
+      "personaje": "Arthur (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+    },
+    {
+      "nombre": "Hugh Laurie",
+      "personaje": "Steve (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/akArncggHnusP5jxzMBKmJDRrMo.jpg"
+    },
+    {
+      "nombre": "Bill Nighy",
+      "personaje": "Grandsanta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+      "nombre": "Jim Broadbent",
+      "personaje": "Santa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg"
+    },
+    {
+      "nombre": "Imelda Staunton",
+      "personaje": "Mrs Santa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/96LYLMnUOWZ4DFXEeQPItNsxzEP.jpg"
+    },
+    {
+      "nombre": "Ashley Jensen",
+      "personaje": "Bryony (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iDewhUriZzdJ2vbehTQD5cxi1yv.jpg"
+    },
+    {
+      "nombre": "Marc Wootton",
+      "personaje": "Peter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oURzHJ95OZlwZ7eiZl24yex5Pri.jpg"
+    },
+    {
+      "nombre": "Laura Linney",
+      "personaje": "North Pole Computer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yIopIq7l7eIvjoQqnZJkpdQEvds.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sarah Smith",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sarah Smith",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Peter Baynham",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Peter Lord",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steve Pegram",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Sproxton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Carla Shelley",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Anthony Di Ninno",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Dan Haring",
+      "rol": "Lighting Artist"
+    },
+    {
+      "nombre": "Sue Houston Safianoff",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Daniele Zannone",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Joel Foster",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Alexei Nechytaylo",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jennifer Avery",
+      "rol": "Visual Effects Coordinator"
+    },
+    {
+      "nombre": "Simon Ellegaard",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Peter Baynham",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Harry Gregson-Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John Carnochan",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sarah Crowe",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Sarah Smith",
+  "valoraciones": {
+    "tmdb": 6.773,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/73q7e4/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=7tk-WZSqIGQ"
+}
