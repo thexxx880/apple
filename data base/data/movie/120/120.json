@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 120,
+  "poster": "https://image.tmdb.org/t/p/w500/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5So9eyA4VfVKsFLXlJHbvU2S4a1.png",
+  "titulo": "El señor de los anillos: La comunidad del anillo",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 8.434,
+  "año": "2001",
+  "duracion": "2h 59min",
+  "edad_minima": 13,
+  "sinopsis": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media. EXTENDIDA",
+  "fecha_estreno": "2001-12-18",
+  "titulo_original": "The Lord of the Rings: The Fellowship of the Ring",
+  "pais_origen": "New Zealand",
+  "reparto": [
+    {
+      "nombre": "Elijah Wood",
+      "personaje": "Frodo",
+      "foto": "https://image.tmdb.org/t/p/w500/ayARmqAe9Aab1zg6FjJG0u9MEBo.jpg"
+    },
+    {
+      "nombre": "Ian McKellen",
+      "personaje": "Gandalf",
+      "foto": "https://image.tmdb.org/t/p/w500/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+    },
+    {
+      "nombre": "Viggo Mortensen",
+      "personaje": "Aragorn",
+      "foto": "https://image.tmdb.org/t/p/w500/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+    },
+    {
+      "nombre": "Sean Astin",
+      "personaje": "Sam",
+      "foto": "https://image.tmdb.org/t/p/w500/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+    },
+    {
+      "nombre": "Ian Holm",
+      "personaje": "Bilbo",
+      "foto": "https://image.tmdb.org/t/p/w500/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+    },
+    {
+      "nombre": "Liv Tyler",
+      "personaje": "Arwen",
+      "foto": "https://image.tmdb.org/t/p/w500/aYlqS4wYuNCiN9wmvDwKRAE9BQ9.jpg"
+    },
+    {
+      "nombre": "Christopher Lee",
+      "personaje": "Saruman",
+      "foto": "https://image.tmdb.org/t/p/w500/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg"
+    },
+    {
+      "nombre": "Sean Bean",
+      "personaje": "Boromir",
+      "foto": "https://image.tmdb.org/t/p/w500/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Philippa Boyens",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Peter Jackson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Peter Jackson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fran Walsh",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Peter Jackson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Barrie M. Osborne",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tim Sanders",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fran Walsh",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Howard Shore",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John Gilbert",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Richard Taylor",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "John Hubbard",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Michael Lynne",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Robins",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ngila Dickson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Philip Ivey",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Bob Weinstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Harvey Weinstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Liz Mullane",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Andrew Lesnie",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Peter Jackson",
+  "valoraciones": {
+    "tmdb": 8.434,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://1a-1791.com/video/fwe2/9f/s8/2/U/6/2/n/U62nw.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=_nZdmwHrcnw"
+}
