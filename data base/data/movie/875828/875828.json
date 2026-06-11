@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 875828,
+  "poster": "https://image.tmdb.org/t/p/w500/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5h2BYsB1OjlrfA7c0m1qtrFjbCY.png",
+  "titulo": "Peaky Blinders: El hombre inmortal",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.246,
+  "año": "2026",
+  "duracion": "1h 52min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando su hijo se ve envuelto en una conspiración nazi, Tommy Shelby debe salir de su autoexilio y regresar a Birmingham para salvar a su familia y su país.",
+  "fecha_estreno": "2026-03-05",
+  "titulo_original": "Peaky Blinders: The Immortal Man",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Cillian Murphy",
+      "personaje": "Tommy Shelby",
+      "foto": "https://image.tmdb.org/t/p/w500/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+    },
+    {
+      "nombre": "Barry Keoghan",
+      "personaje": "Duke Shelby",
+      "foto": "https://image.tmdb.org/t/p/w500/ngoitknM6hw8fffLywyvjzy6Iti.jpg"
+    },
+    {
+      "nombre": "Rebecca Ferguson",
+      "personaje": "Kaulo / Zelda",
+      "foto": "https://image.tmdb.org/t/p/w500/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+    },
+    {
+      "nombre": "Tim Roth",
+      "personaje": "John Beckett",
+      "foto": "https://image.tmdb.org/t/p/w500/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg"
+    },
+    {
+      "nombre": "Stephen Graham",
+      "personaje": "Hayden Stagg",
+      "foto": "https://image.tmdb.org/t/p/w500/yguEO9zFvuccq87kOJpFLsmUgvs.jpg"
+    },
+    {
+      "nombre": "Sophie Rundle",
+      "personaje": "Ada Shelby",
+      "foto": "https://image.tmdb.org/t/p/w500/8kZTjHZcvmGo1W53DXM2mjXex2A.jpg"
+    },
+    {
+      "nombre": "Ned Dennehy",
+      "personaje": "Charlie Strong",
+      "foto": "https://image.tmdb.org/t/p/w500/wTacXk4meFOJRK38rED0lrhlLw3.jpg"
+    },
+    {
+      "nombre": "Packy Lee",
+      "personaje": "Johnny Dogs",
+      "foto": "https://image.tmdb.org/t/p/w500/e3E734NTL7OMCkSDTTixLZr8H4E.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Guy Heeley",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steven Knight",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Harper",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Caryn Mandabach",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cillian Murphy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steven Knight",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Andrew Warren",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Mason",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom Harper",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Kosse",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jamie Glazebrook",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Eckersley",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Shaheen Baig",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jacqueline Abrahams",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Amie English",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Alison McCosh",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Tom Williams",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Paul Dimmer",
+      "rol": "Special Effects Supervisor"
+    }
+  ],
+  "director": "Tom Harper",
+  "valoraciones": {
+    "tmdb": 7.246,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "BBC Film",
+  "enlace_video": "https://1a-1791.com/video/fww1/ee/s8/2/C/f/b/-/Cfb-z.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=lcvUGs3xaDM"
+}
