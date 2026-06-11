@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1323625,
+  "poster": "https://image.tmdb.org/t/p/w500/kRnyUO5FGczz0eZas2NbimYEZDk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vHvVt2Lovn4G6of9u3pHEQE2CxI.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mozoBiGW0MxYz6Uxr0DUrXcjcTK.png",
+  "titulo": "Patrulla Nocturna",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Misterio",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.271,
+  "año": "2026",
+  "duracion": "1h 44min",
+  "edad_minima": 13,
+  "sinopsis": "Un policía de Los Ángeles descubre que un grupo de trabajo local oculta un secreto que pone en peligro a los vecinos del barrio de su infancia.",
+  "fecha_estreno": "2026-01-16",
+  "titulo_original": "Night Patrol",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jermaine Fowler",
+      "personaje": "Xavier Carr",
+      "foto": "https://image.tmdb.org/t/p/w500/tUovrCcFKncccMY7yarqeLBeVPk.jpg"
+    },
+    {
+      "nombre": "Justin Long",
+      "personaje": "Ethan Hawkins",
+      "foto": "https://image.tmdb.org/t/p/w500/7TGXeHw4o86IBm6xknQotpludXK.jpg"
+    },
+    {
+      "nombre": "RJ Cyler",
+      "personaje": "Wazi Carr",
+      "foto": "https://image.tmdb.org/t/p/w500/9baPsx4DJn2vy7AOfcfEe6IH5JN.jpg"
+    },
+    {
+      "nombre": "Freddie Gibbs",
+      "personaje": "Bornelius",
+      "foto": "https://image.tmdb.org/t/p/w500/3NhXuSYpwS6uDr2qSFs9dKS140y.jpg"
+    },
+    {
+      "nombre": "Phil Brooks",
+      "personaje": "Deputy",
+      "foto": "https://image.tmdb.org/t/p/w500/357pyjyvFFJLkwBpTopy2KnyDRA.jpg"
+    },
+    {
+      "nombre": "Dermot Mulroney",
+      "personaje": "Sarge",
+      "foto": "https://image.tmdb.org/t/p/w500/kkrMKD6b4vEdphVgKsenRY4NgiC.jpg"
+    },
+    {
+      "nombre": "YG",
+      "personaje": "Tripp",
+      "foto": "https://image.tmdb.org/t/p/w500/iCsQgoh7LOX5UN5J7MuLhWZGSGP.jpg"
+    },
+    {
+      "nombre": "Nicki Micheaux",
+      "personaje": "Ayanda",
+      "foto": "https://image.tmdb.org/t/p/w500/xA92gKGUnnujmUrdjf7o9PLAaZb.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ryan Prows",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Shaye Ogbonna",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tim Cairo",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ryan Prows",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jake Gibson",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "David S. Goyer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Keith Levine",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Josh Goldbloom",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Matthew Helderman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Luke Taylor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Grady Craig",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul Lacovara",
+      "rol": "Fight Choreographer"
+    },
+    {
+      "nombre": "Benjamin Kitchens",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Bradinn French",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jeffrey Gafner",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ryan Martin",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mitali Khare",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Michael Kagan",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Nicholas Kinney",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Maxime Cottray",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Ryan Prows",
+  "valoraciones": {
+    "tmdb": 5.271,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Phantom Four",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/43/s8/2/K/H/i/9/KHi9z.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=8J_pMGZScB8"
+}
