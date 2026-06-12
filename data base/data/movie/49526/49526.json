@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 49526,
+  "poster": "https://image.tmdb.org/t/p/w500/mFoiuMB6chsjfMfMPWZIRrHDvOw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5I1VkAjzeo0arQQ7pFVymQsNrqN.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/u3nHSOvW0qYhL5Ad4vtlhtxim81.png",
+  "titulo": "La entrega inmediata",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.4,
+  "año": "2012",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "“Sin frenos” nos relatará la historia Wilee (Joseph Gordon-Levitt), un mensajero de Nueva York. Esquivar coches a toda velocidad, taxistas enloquecidos y ocho millones de peatones malhumorados forma parte de su día a día, pero él es el mejor entre los ágiles y agresivos mensajeros en bicicleta de Nueva York. Hay que ser de una raza especial, con una mezcla a partes iguales de pericia y chifladura, para conducir una fixie –bicicleta superligera, sin cambios ni frenos— arriesgándose a convertirse en una mancha más sobre el pavimento cada vez que se mueve entre el tráfico de la ciudad. Pero un tipo que está acostumbrado a arriesgar su vida continuamente, está a punto de enfrentarse a peligros aún mayores cuando su última entrega del día —lo que en principio parecía un servicio premium rutinario— acaba convirtiéndose en una persecución a vida o muerte a través de las calles de Manhattan",
+  "fecha_estreno": "2012-08-24",
+  "titulo_original": "Premium Rush",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Joseph Gordon-Levitt",
+      "personaje": "Wilee",
+      "foto": "https://image.tmdb.org/t/p/w500/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+    },
+    {
+      "nombre": "Michael Shannon",
+      "personaje": "Bobby Monday",
+      "foto": "https://image.tmdb.org/t/p/w500/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+    },
+    {
+      "nombre": "Dania Ramirez",
+      "personaje": "Vanessa",
+      "foto": "https://image.tmdb.org/t/p/w500/pwKLiyhWoADxll5ZZ8UuneIC9jQ.jpg"
+    },
+    {
+      "nombre": "Jamie Chung",
+      "personaje": "Nima",
+      "foto": "https://image.tmdb.org/t/p/w500/5KS919slWvKwK2fcE3jpkEodlxs.jpg"
+    },
+    {
+      "nombre": "Wolé Parks",
+      "personaje": "Manny",
+      "foto": "https://image.tmdb.org/t/p/w500/nstF434UXqCR3rig37TdbAdyNmZ.jpg"
+    },
+    {
+      "nombre": "Aasif Mandvi",
+      "personaje": "Raj",
+      "foto": "https://image.tmdb.org/t/p/w500/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+    },
+    {
+      "nombre": "Henry O",
+      "personaje": "Mr. Leung",
+      "foto": "https://image.tmdb.org/t/p/w500/fVG77Q3ejvccdubA0nc0NqINYOm.jpg"
+    },
+    {
+      "nombre": "Christopher Place",
+      "personaje": "Bike Cop",
+      "foto": "https://image.tmdb.org/t/p/w500/bbz8BujwBXQfEDu68ZxXpj35HoH.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Koepp",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Koepp",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "John Kamps",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Gavin Polone",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joseph P. Reidy",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Amy Lauritsen",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "G.A. Aguilar",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Charley Beal",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "George DeTitta Jr.",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Angel De Angelis",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Don Kozma",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Pamela May",
+      "rol": "Key Hair Stylist"
+    },
+    {
+      "nombre": "Dina Sliwiak",
+      "rol": "Key Makeup Artist"
+    },
+    {
+      "nombre": "Michael Harvey",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Stephen M. Kelley",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Jeremy Selenfriend",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "David Koepp",
+  "valoraciones": {
+    "tmdb": 6.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/6y4sc0/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=Pn6ie1zCkZU"
+}
