@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 534,
+  "poster": "https://image.tmdb.org/t/p/w500/hHB39SHhpwc88UxgyObi2XgM5ZR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/74zPun6CdSNVSDLcKOM8Yjv7WWB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mUeLG6Q3LLj2qZKW4Y3RLkvod74.png",
+  "titulo": "Terminator: Salvación",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.088,
+  "año": "2009",
+  "duracion": "1h 55min",
+  "edad_minima": 13,
+  "sinopsis": "En 2018, una misteriosa nueva arma en la guerra contra las máquinas, mitad humana y mitad máquina, llega a John Connor en la víspera de un ataque de la resistencia a Skynet. ¿Pero de qué lado está, y se puede confiar en él?",
+  "fecha_estreno": "2009-05-20",
+  "titulo_original": "Terminator Salvation",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Christian Bale",
+      "personaje": "John Connor",
+      "foto": "https://image.tmdb.org/t/p/w500/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+      "nombre": "Sam Worthington",
+      "personaje": "Marcus Wright",
+      "foto": "https://image.tmdb.org/t/p/w500/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
+    },
+    {
+      "nombre": "Moon Bloodgood",
+      "personaje": "Blair Williams",
+      "foto": "https://image.tmdb.org/t/p/w500/9CGOg5nGFlQ3IWwbElMAEJMm9Iq.jpg"
+    },
+    {
+      "nombre": "Helena Bonham Carter",
+      "personaje": "Serena",
+      "foto": "https://image.tmdb.org/t/p/w500/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "nombre": "Anton Yelchin",
+      "personaje": "Kyle Reese",
+      "foto": "https://image.tmdb.org/t/p/w500/uOMWKYOLezo4ETMtrQt7uQBLSBh.jpg"
+    },
+    {
+      "nombre": "Common",
+      "personaje": "Barnes",
+      "foto": "https://image.tmdb.org/t/p/w500/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+    },
+    {
+      "nombre": "Zach McGowan",
+      "personaje": "Soldier on Osprey",
+      "foto": "https://image.tmdb.org/t/p/w500/hX7UXULOo6PBALjUgl2gYKx9ZNw.jpg"
+    },
+    {
+      "nombre": "Bryce Dallas Howard",
+      "personaje": "Kate Connor",
+      "foto": "https://image.tmdb.org/t/p/w500/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "McG",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Brancato",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Michael Ferris",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Victor Kubicek",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeffrey Silver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Moritz Borman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Derek Anderson",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Danny Elfman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Conrad Buff IV",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Shane Hurlbut",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Troy Sizemore",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Martin Laing",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mark Hicks",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Mark Hicks",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Tom Hartig",
+      "rol": "Boom Operator"
+    },
+    {
+      "nombre": "Thomas J. O'Connell",
+      "rol": "ADR Mixer"
+    },
+    {
+      "nombre": "Michael Sexton",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Freya Krasnow",
+      "rol": "Casting Assistant"
+    },
+    {
+      "nombre": "Jim Milton",
+      "rol": "Visual Effects Editor"
+    }
+  ],
+  "director": "McG",
+  "valoraciones": {
+    "tmdb": 6.088,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Halcyon Company",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/d1/s8/2/q/8/7/r/q87rz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=dayIedrLq_U"
+}
