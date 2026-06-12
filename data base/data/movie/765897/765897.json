@@ -1,0 +1,152 @@
+{
+  "id_tmdb": 765897,
+  "poster": "https://image.tmdb.org/t/p/w500/epEorIcbWjuLqd4dgRWYffpazIR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/w93509Dz3Cq5hwlQ1UE9IpTNV5T.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wZQoAOQEsOjl4MXExtTsyvv5io6.png",
+  "titulo": "Invencible: Un niño fuera de serie",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Drama"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.684,
+  "año": "2025",
+  "duracion": "1h 48min",
+  "edad_minima": 13,
+  "sinopsis": "Un niño con autismo padece además una rara enfermedad de los huesos. Pero lo que le hace verdaderamente único es su visión del mundo alegre, divertida y llena de vida, que transforma y une a todos los que le rodean.",
+  "fecha_estreno": "2025-02-20",
+  "titulo_original": "The Unbreakable Boy",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Zachary Levi",
+      "personaje": "Scott LeRette",
+      "foto": "https://image.tmdb.org/t/p/w500/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg"
+    },
+    {
+      "nombre": "Meghann Fahy",
+      "personaje": "Teresa LeRette",
+      "foto": "https://image.tmdb.org/t/p/w500/vn1JwgdLoFerqqgzcg61tgCJ0ZE.jpg"
+    },
+    {
+      "nombre": "Jacob Laval",
+      "personaje": "Austin LeRette",
+      "foto": "https://image.tmdb.org/t/p/w500/tKoi2sMKhfqJa2jIfPZ7o10NEdi.jpg"
+    },
+    {
+      "nombre": "Drew Powell",
+      "personaje": "Joe",
+      "foto": "https://image.tmdb.org/t/p/w500/v3iLHQYKDdd7AI8GOqMwqxhzeMH.jpg"
+    },
+    {
+      "nombre": "Gavin Warren",
+      "personaje": "Logan LeRette",
+      "foto": "https://image.tmdb.org/t/p/w500/6nUuNaDEPURSFcJDu0QlLpb3uZP.jpg"
+    },
+    {
+      "nombre": "Patricia Heaton",
+      "personaje": "Marcia",
+      "foto": "https://image.tmdb.org/t/p/w500/mSQ3DnQ5mdJwtLnIjo93yHqADv7.jpg"
+    },
+    {
+      "nombre": "Todd Terry",
+      "personaje": "Dick",
+      "foto": "https://image.tmdb.org/t/p/w500/vB9zZNg8qZPlSijYs84F4LpwVpo.jpg"
+    },
+    {
+      "nombre": "Liza Marie Gonzalez",
+      "personaje": "Delivery Doctor",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jon Gunn",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kevin Downes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Erwin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jon Erwin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jerilyn Bickford",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Facinelli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jon Gunn",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sean Devereaux",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mona Garcea",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brent Ryan Green",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Scott LeRette",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Teresa LeRette",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pancho Burgos-Goizueta",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Kristopher S. Kimlin",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Parker Adams",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jon Gunn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tony Young",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christian Snell",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Scott Colquitt",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Jon Gunn",
+  "valoraciones": {
+    "tmdb": 7.684,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Kingdom Story Company",
+  "enlace_video": "https://rumble.com/hls-vod/6s1l9b/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=pGbLX3__m60"
+}
