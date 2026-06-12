@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 211672,
+  "poster": "https://image.tmdb.org/t/p/w500/ayvvnNES3Y8tFosd1yr1vNZDWWS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/dhO1TopiBwjx1CywRgrtryyIDO5.png",
+  "titulo": "Los Minions",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Aventura",
+    "Comedia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.418,
+  "año": "2015",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "La historia de Los Minions se remonta al principio de los tiempos. Empezaron siendo organismos amarillos unicelulares que evolucionaron a través del tiempo, poniéndose siempre al servicio de los amos más despreciables. Ante su incapacidad para mantener a esos amos – desde el T. Rex a Napoleón –, los Minions acaban encontrándose solos y caen en una profunda depresión. Sin embargo, uno de ellos, llamado Kevin, tiene un plan. Acompañado por el rebelde Stuart y el adorable Bob, emprende un emocionante viaje para conseguir una jefa a quien servir, la terrible Scarlet Overkill. Pasarán de la helada Antártida, a la ciudad de Nueva York en los años sesenta, para acabar en el Londres de la misma época, donde deberán enfrentarse al mayor reto hasta la fecha: salvar a la raza Minion de la aniquilación.",
+  "fecha_estreno": "2015-06-17",
+  "titulo_original": "Minions",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sandra Bullock",
+      "personaje": "Scarlet Overkill (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hPHGKPAWZ8gArYXMk225rrYPoyJ.jpg"
+    },
+    {
+      "nombre": "Jon Hamm",
+      "personaje": "Herb Overkill (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+      "nombre": "Michael Keaton",
+      "personaje": "Walter Nelson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+    },
+    {
+      "nombre": "Allison Janney",
+      "personaje": "Madge Nelson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
+    },
+    {
+      "nombre": "Steve Coogan",
+      "personaje": "Professor Flux / Tower Guard (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+    },
+    {
+      "nombre": "Jennifer Saunders",
+      "personaje": "Reine Elizabeth II (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pTgxwHcz9L8SNVYvPJS0o0lgHya.jpg"
+    },
+    {
+      "nombre": "Geoffrey Rush",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+    },
+    {
+      "nombre": "Steve Carell",
+      "personaje": "Gru (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cS7Cbyff6wFVfUGem497vy9LS7A.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kyle Balda",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Pierre Coffin",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Brian Lynch",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Janet Healy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Meledandri",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Carter Goodrich",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Cinzia Angelini",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Chris Scarabosio",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Chris Scarabosio",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Dennis Leonard",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Gary Rizzo",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Ken Daurio",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Cinco Paul",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Chris Renaud",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeannine Berger",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Daniele Zannone",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Céline Le Thérisien",
+      "rol": "Production Coordinator"
+    }
+  ],
+  "director": "Kyle Balda",
+  "valoraciones": {
+    "tmdb": 6.418,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Illumination",
+  "enlace_video": "https://rumble.com/hls-vod/76grp4/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=Wfql_DoHRKc"
+}
