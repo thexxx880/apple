@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 45192,
+  "poster": "https://image.tmdb.org/t/p/w500/AdjL0R0c1rS9tld2dx9l9ptr9wf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3wGH8zyy8mZTJbklkjI3iyncomW.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qFpGg76JrENCEdQBYEqGer8zWTX.png",
+  "titulo": "El Profe",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.907,
+  "año": "1971",
+  "duracion": "1h 57min",
+  "edad_minima": 13,
+  "sinopsis": "Cantinflas es un profesor enviado a una pequeña ciudad en el medio de la nada, en donde pide una escuela para poder enseñar. Acaba de darle la mano a la ciudad. Cuando llega llega a conocer a los líderes corruptos que a través de la película tratan de hacerle salir. A pesar de que está siendo acosado se puede ver lo mucho que se preocupa por los niños y sus circunstancias. Él se ocupa de los problemas mediante el uso de sus comentarios hilarantes.",
+  "fecha_estreno": "1971-04-07",
+  "titulo_original": "El profe",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Cantinflas",
+      "personaje": "Sócrates García",
+      "foto": "https://image.tmdb.org/t/p/w500/iASObohpLJzqYQM6bQzyup3QvEs.jpg"
+    },
+    {
+      "nombre": "Marga López",
+      "personaje": "Hortensia",
+      "foto": "https://image.tmdb.org/t/p/w500/1w6jqqEycxYtsvGgifxHNoaoXSN.jpg"
+    },
+    {
+      "nombre": "Víctor Alcocer",
+      "personaje": "Don Margarito Vázquez",
+      "foto": "https://image.tmdb.org/t/p/w500/sfZEKoqA3FslKg5xYOll9cav4w3.jpg"
+    },
+    {
+      "nombre": "Raúl Martínez",
+      "personaje": "Pedro González",
+      "foto": "https://image.tmdb.org/t/p/w500/aPSAA2DKagoIBGtU8Gq25TAmE6D.jpg"
+    },
+    {
+      "nombre": "Eduardo MacGregor",
+      "personaje": "Lucas Campuzano",
+      "foto": "https://image.tmdb.org/t/p/w500/9sfpEyRFZJ57nQmdbvLoMX5kUTp.jpg"
+    },
+    {
+      "nombre": "Luciano Hernández de la Vega",
+      "personaje": "Padre Gonzalo",
+      "foto": "https://image.tmdb.org/t/p/w500/fQb2fMRqhONDjxlrBklAdLZ1q0m.jpg"
+    },
+    {
+      "nombre": "René Dupeyrón",
+      "personaje": "Martín",
+      "foto": null
+    },
+    {
+      "nombre": "Gerardo del Castillo",
+      "personaje": "Don Zenaido",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Miguel M. Delgado",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jacques Gelman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cantinflas",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jaime Salvador",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gloria Schoemann",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sergio Guerrero",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Alfredo Ruanova",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Gabriel Figueroa",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Manuel Fontanals",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Alfonso Govea",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Francisco Alcayde",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Galdino R. Samperio",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Carlos León",
+      "rol": "Dialogue"
+    },
+    {
+      "nombre": "James L. Fields",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Gonzalo Gavira",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "Raúl Portillo",
+      "rol": "Sound Editor"
+    }
+  ],
+  "director": "Miguel M. Delgado",
+  "valoraciones": {
+    "tmdb": 7.907,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "POSA Films",
+  "enlace_video": "https://ia903206.us.archive.org/25/items/cantinflas-el-profe-1971/Cantinflas%20El%20profe%20%281971%29.mp4?cnt=0",
+  "trailer": ""
+}
