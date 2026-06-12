@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 803796,
+  "poster": "https://image.tmdb.org/t/p/w500/6EQMqEmdG5HoGe2zT1WwWUMvVhv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9cM22kiLT7GthfbYj88mEBeKjqK.png",
+  "titulo": "Las guerreras k-pop",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Música",
+    "Comedia",
+    "Animación"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8,
+  "año": "2025",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando no están llenando estadios, las superestrellas del k‑pop Rumi, Mira y Zoey usan sus superpoderes secretos para proteger a sus fans de amenazas sobrenaturales.",
+  "fecha_estreno": "2025-06-20",
+  "titulo_original": "KPop Demon Hunters",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Arden Cho",
+      "personaje": "Rumi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uXXUOCkqhfijNZYgmzjnfs7jQMw.jpg"
+    },
+    {
+      "nombre": "May Hong",
+      "personaje": "Mira (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/md6XxnB2yU4K7qgfpeRPVEnOGyG.jpg"
+    },
+    {
+      "nombre": "Ji-young Yoo",
+      "personaje": "Zoey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4jgtqpNWhMx8XOKQ9qQJvDdzbxG.jpg"
+    },
+    {
+      "nombre": "안효섭",
+      "personaje": "Jinu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oLS5jvS5cZ7SaXNctA8VYXPp6ax.jpg"
+    },
+    {
+      "nombre": "김윤진",
+      "personaje": "Celine (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xS7eco56mUiZGJGWDZ0pwzrUAei.jpg"
+    },
+    {
+      "nombre": "Ken Jeong",
+      "personaje": "Bobby (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
+    },
+    {
+      "nombre": "Lee Byung Hun",
+      "personaje": "Gwi-Ma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg"
+    },
+    {
+      "nombre": "Daniel Dae Kim",
+      "personaje": "Healer Han / Additional Voices (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Appelhans",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Maggie Kang",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Maggie Kang",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Danya Jimenez",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Hannah McMechan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chris Appelhans",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Maggie Kang",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Michelle L.M. Wong",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mingjue Helen Chen",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Kat Tsai",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Marion Bordeyne",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "정연",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "지효",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "채영",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Simon Baek",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Rebecca Shieh",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Nacho Molina",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Stéphane Couture",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Charles Hilton",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Laura Price",
+      "rol": "Visual Development"
+    }
+  ],
+  "director": "Chris Appelhans",
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sony Pictures Animation",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/52/s8/2/Z/P/L/X/ZPLXy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=AzCAwdp1uIQ"
+}
