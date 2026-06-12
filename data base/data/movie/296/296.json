@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 296,
+  "poster": "https://image.tmdb.org/t/p/w500/ugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/voVkSwgFYv9GOpRNfUAwj6qYRTL.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/zXqiFcqhGX3wxoX70TpYDSJROvO.png",
+  "titulo": "Terminator 3: La rebelión de las máquinas",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.195,
+  "año": "2003",
+  "duracion": "1h 49min",
+  "edad_minima": 13,
+  "sinopsis": "Ha pasado una década desde que John Connor -Nick Stahl- salvara a la humanidad de la destrucción. En la actualidad John tiene 25 años y vive en la clandestinidad: no hay ninguna prueba documental de su existencia. Así evita ser rastreado por Skynet -la sofisticada corporación de máquinas que una vez intentó acabar con su vida-. Pero, ahora, desde el futuro, ha sido enviado el T-X (Kristanna Loken), la máquina destructora cyborg más desarrollada de Skynet. Su misión es completar el trabajo que no pudo terminar su predecesor, el T-1000. El T-X es una máquina tan implacable como bello su aspecto humano. Ahora la única esperanza de sobrevivir para Connnor es Terminator.",
+  "fecha_estreno": "2003-07-02",
+  "titulo_original": "Terminator 3: Rise of the Machines",
+  "pais_origen": "Germany",
+  "reparto": [
+    {
+      "nombre": "Arnold Schwarzenegger",
+      "personaje": "The Terminator",
+      "foto": "https://image.tmdb.org/t/p/w500/dgCABuZp2HBehCT84O4WBp7KIoe.jpg"
+    },
+    {
+      "nombre": "Nick Stahl",
+      "personaje": "John Connor",
+      "foto": "https://image.tmdb.org/t/p/w500/hV1Fs7LcYWBQ90hWYA3DrCh0rPV.jpg"
+    },
+    {
+      "nombre": "Claire Danes",
+      "personaje": "Kate Brewster",
+      "foto": "https://image.tmdb.org/t/p/w500/vTKKniIwbXWMmnuMmGKHYS41Vif.jpg"
+    },
+    {
+      "nombre": "Kristanna Loken",
+      "personaje": "T-X",
+      "foto": "https://image.tmdb.org/t/p/w500/bcKHChmSGFoxFkLFm7AjfGQObin.jpg"
+    },
+    {
+      "nombre": "Earl Boen",
+      "personaje": "Dr. Peter Silberman",
+      "foto": "https://image.tmdb.org/t/p/w500/nRAlyqkAA84gCTDwjFR77avdfHK.jpg"
+    },
+    {
+      "nombre": "David Andrews",
+      "personaje": "Robert Brewster",
+      "foto": null
+    },
+    {
+      "nombre": "Carolyn Hennesy",
+      "personaje": "Rich Woman",
+      "foto": "https://image.tmdb.org/t/p/w500/7bQvRDhBrokCMCQBQDKRYsYqItq.jpg"
+    },
+    {
+      "nombre": "Jay Acovone",
+      "personaje": "Cop - Westside Street",
+      "foto": "https://image.tmdb.org/t/p/w500/ltaJoC5NUsE97f3GuP3d7BkANKJ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jonathan Mostow",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Brancato",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Michael Ferris",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Hal Lieberman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joel B. Michaels",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mario Kassar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew G. Vajna",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Colin Wilson",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marco Beltrami",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Don Burgess",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Nicolas De Toth",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Neil Travis",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sarah Halley Finn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jeff Mann",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Shepherd Frankel",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Beat Frutiger",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Andrew Menzies",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jay Hart",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "April Ferry",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Bill Abbott",
+      "rol": "Music Editor"
+    }
+  ],
+  "director": "Jonathan Mostow",
+  "valoraciones": {
+    "tmdb": 6.195,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Intermedia Films",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/f/e/j/1/fej1l.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=ysQizA7Una8"
+}
