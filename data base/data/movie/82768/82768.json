@@ -1,0 +1,107 @@
+{
+  "id_tmdb": 82768,
+  "poster": "https://image.tmdb.org/t/p/w500/tGxZyNZlM8nIXDuMCtNXW6i9A0Y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AtzOFv9y4fl6fiiEM87qR9hEkmA.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/A6fRFL3qwRo5ixvUicGKX2JQmDN.png",
+  "titulo": "Abajo el telón",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.4,
+  "año": "1955",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "Cantinflas, dueña de un negocio de limpieza, limpia las ventanas de la casa de una famosa actriz francesa. Mientras realiza su trabajo observa cómo un hombre roba uno de los famosos collares de actriz, pero sólo puede ver su espalda.",
+  "fecha_estreno": "1955-08-31",
+  "titulo_original": "Abajo el Telón",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Cantinflas",
+      "personaje": "Cantinflas",
+      "foto": "https://image.tmdb.org/t/p/w500/iASObohpLJzqYQM6bQzyup3QvEs.jpg"
+    },
+    {
+      "nombre": "Beatriz Saavedra",
+      "personaje": "Anita",
+      "foto": "https://image.tmdb.org/t/p/w500/ylwQNE07LfI9nyPulDGR6Niju6A.jpg"
+    },
+    {
+      "nombre": "Christiane Martel",
+      "personaje": "Lulu Duval",
+      "foto": "https://image.tmdb.org/t/p/w500/951ouBVf78fgbGwuZEKP1hpFjOL.jpg"
+    },
+    {
+      "nombre": "Alberto Catalá",
+      "personaje": "Asistente Cantinflas",
+      "foto": "https://image.tmdb.org/t/p/w500/hWWuTf7P38Q2R5wzVjaEW06nTh3.jpg"
+    },
+    {
+      "nombre": "Víctor Alcocer",
+      "personaje": "Jefe de Policía",
+      "foto": "https://image.tmdb.org/t/p/w500/sfZEKoqA3FslKg5xYOll9cav4w3.jpg"
+    },
+    {
+      "nombre": "Tito Novaro",
+      "personaje": "Actor en teatro",
+      "foto": "https://image.tmdb.org/t/p/w500/6jGeo6s7dCrbyabt0KKA67JuSkK.jpg"
+    },
+    {
+      "nombre": "María Herrero",
+      "personaje": "Secretaria",
+      "foto": null
+    },
+    {
+      "nombre": "Alejandro Ciangherotti",
+      "personaje": "Julián",
+      "foto": "https://image.tmdb.org/t/p/w500/eeGUoqp9Ggfjzte5aSsEj7AHRKE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Miguel M. Delgado",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jaime Salvador",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jacques Gelman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Federico Ruiz",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jorge Bustos",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Víctor Herrera",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Gunther Gerszo",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Antonio Bustos",
+      "rol": "Sound Editor"
+    }
+  ],
+  "director": "Miguel M. Delgado",
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "POSA Films",
+  "enlace_video": "https://rumble.com/hls-vod/6s3u1n/playlist.m3u8",
+  "trailer": ""
+}
