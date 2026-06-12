@@ -1,0 +1,104 @@
+{
+  "id_tmdb": 302960,
+  "poster": "https://image.tmdb.org/t/p/w500/4LlntnUJsJylE5MN8LCkDnSlV12.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/m4nLaQmnppjbxozI55OHtda5rOl.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jm62GpwdvQsQ1pQztAV0xzl0ckH.png",
+  "titulo": "Scooby-Doo! La locura del monstruo lunar",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Familia",
+    "Comedia",
+    "Misterio",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.7,
+  "año": "2015",
+  "duracion": "1h 12min",
+  "edad_minima": 13,
+  "sinopsis": "¡Es un paso de gigante para la clase del perro ya que Scooby-Doo y la Cuadrilla despegan para una aventura épica, desapegada del mundo en esta todo-nueva película original! Después de ganar los 5 últimos asientos en una lotería, Scooby-Doo, Peludos, Fred, Daphne y Velma son lejos al espacio en el barco flamante del Barón Astuto multimillonario, la Estrella Astuta Un. ¡Es toda la diversión sin gravedad hasta que un extranjero misterioso comience a destruir el barco! ¡Como el barco se estropea, el equipo se obliga a aterrizar en la base del Barón Astuto... en el lado oscuro de la luna! ¿Desenmarañará la cuadrilla este misterio extranjero? ¿Van Scooby-Doo y Peludo encuentran bocados en la luna? ¿Quitará Alguna vez Fred su casco espacial?! ¡Viaje a los límites externos con Scooby-Doo para averiguar!",
+  "fecha_estreno": "2015-02-03",
+  "titulo_original": "Scooby-Doo! Moon Monster Madness",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Scooby-Doo / Fred Jones (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Matthew Lillard",
+      "personaje": "Shaggy Rogers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Daphne Blake (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Mindy Cohn",
+      "personaje": "Velma Dinkley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AcEAchSYIUiRInwyD8nPwj8ztZa.jpg"
+    },
+    {
+      "nombre": "Mark Hamill",
+      "personaje": "Zip Elvin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    },
+    {
+      "nombre": "Diedrich Bader",
+      "personaje": "H.A.M. (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/z7CctykPTuXDfAs7pkAA7vW4b3T.jpg"
+    },
+    {
+      "nombre": "Malcolm McDowell",
+      "personaje": "Sly Baron (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg"
+    },
+    {
+      "nombre": "Fred Tatasciore",
+      "personaje": "Hudson Baron / Alien (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Paul McEvoy",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paul McEvoy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Banker",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lisa Schaffer",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kyle Stafford",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Andy Sturmer",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Paul McEvoy",
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://rumble.com/hls-vod/7907e8/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=zMBhrBuvpmU"
+}
