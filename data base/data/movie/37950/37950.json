@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 37950,
+  "poster": "https://image.tmdb.org/t/p/w500/aYI5NwpkyatEymuOWCOy7Q7Q1MN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dzx5vStQX4bHA1JBq8n5yLUqQx4.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wH19DofGEsb3fTr8gKmNnN6NqCm.png",
+  "titulo": "Más allá del cielo",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7,
+  "año": "2010",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "A Charlie St. Cloudle le afectó tanto la muerte de Sam, su hermano menor, que aceptó un trabajo en el cementerio donde el pequeño está enterrado. Charlie tiene un vínculo especial con su hermano: cada noche se encuentra con él para hablar y jugar juntos. Pero, cuando una chica entra en la vida de Charlie, entonces tendrá que elegir entre mantener una promesa que le hizo a Sam o irse con la joven que ama.",
+  "fecha_estreno": "2010-07-30",
+  "titulo_original": "Charlie St. Cloud",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Zac Efron",
+      "personaje": "Charlie St. Cloud",
+      "foto": "https://image.tmdb.org/t/p/w500/6oXNHv7gAyXXYFpF943pKRsTtqQ.jpg"
+    },
+    {
+      "nombre": "Charlie Tahan",
+      "personaje": "Sam St. Cloud",
+      "foto": "https://image.tmdb.org/t/p/w500/isCdDBAxrSOjugK3HjgESi6rXcn.jpg"
+    },
+    {
+      "nombre": "Amanda Crew",
+      "personaje": "Tess Carroll",
+      "foto": "https://image.tmdb.org/t/p/w500/diGTfFDOAjtfpClK3pJHkQIYhNc.jpg"
+    },
+    {
+      "nombre": "Augustus Prew",
+      "personaje": "Alistair Wooley",
+      "foto": "https://image.tmdb.org/t/p/w500/37cPl9BaiCY24eMMMOxlZuTkGo7.jpg"
+    },
+    {
+      "nombre": "Donal Logue",
+      "personaje": "Tink Weatherbee",
+      "foto": "https://image.tmdb.org/t/p/w500/5Rj850yVkIqsgCihtZLbkNSHbFb.jpg"
+    },
+    {
+      "nombre": "Kim Basinger",
+      "personaje": "Louise St. Cloud",
+      "foto": "https://image.tmdb.org/t/p/w500/gGVt23JFgQfgQaSq8XkdVCL3WAz.jpg"
+    },
+    {
+      "nombre": "Ray Liotta",
+      "personaje": "Florio Ferrente",
+      "foto": "https://image.tmdb.org/t/p/w500/jdwGJbJNSRQiG2kB5MJxiu2clCQ.jpg"
+    },
+    {
+      "nombre": "Dave Franco",
+      "personaje": "Sully",
+      "foto": "https://image.tmdb.org/t/p/w500/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lewis Colick",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Burr Steers",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Craig Pearce",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lewis Colick",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Craig Pearce",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Marc Platt",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gary Archer",
+      "rol": "Prosthetics"
+    },
+    {
+      "nombre": "Sagar Patil",
+      "rol": "Visual Effects Art Director"
+    },
+    {
+      "nombre": "Stewart Whelan",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Marny Eng",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Michael Fottrell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jared LeBoff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Coreen Mayrs",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Geoff Wallace",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ben Sherwood",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Padraic McKinley",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ryan Kavanaugh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ida Random",
+      "rol": "Production Design"
+    }
+  ],
+  "director": "Burr Steers",
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marc Platt Productions",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/r/p/h/m/rphmu.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=M8iVf7ilhr0"
+}
