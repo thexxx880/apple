@@ -1,0 +1,151 @@
+{
+  "id_tmdb": 2897,
+  "poster": "https://image.tmdb.org/t/p/w500/5sOJTtPJfOT74sSTABd3E0K5Zmy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ks4StXzCkSHnJzGuQpRDpi18GiI.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/buBpvn39VQrzFbQQ59eMj2ZnQ7c.png",
+  "titulo": "La vuelta al mundo en 80 días",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Familia",
+    "Fantasía",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.655,
+  "año": "1956",
+  "duracion": "3h 2min",
+  "edad_minima": 13,
+  "sinopsis": "Adaptación de la novela homónima de Julio Verne. Un ladrón ha robado 55.000 libras del banco de Inglaterra. Todos creen que ha sido Phileas Fogg, un auténtico caballero inglés, que ha hecho una apuesta con sus compañeros de club, asegurando que es capaz de dar la vuelta al mundo en 80 días.",
+  "fecha_estreno": "1956-10-17",
+  "titulo_original": "Around the World in 80 Days",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "David Niven",
+      "personaje": "Phileas Fogg",
+      "foto": "https://image.tmdb.org/t/p/w500/ioW2DU6T2HPvTdqUSaLLQmGPb38.jpg"
+    },
+    {
+      "nombre": "Cantinflas",
+      "personaje": "Passepartout",
+      "foto": "https://image.tmdb.org/t/p/w500/iASObohpLJzqYQM6bQzyup3QvEs.jpg"
+    },
+    {
+      "nombre": "Shirley MacLaine",
+      "personaje": "Princess Aouda",
+      "foto": "https://image.tmdb.org/t/p/w500/mpW9c34IAFPW0ODuKR8J0FAqN5i.jpg"
+    },
+    {
+      "nombre": "Robert Newton",
+      "personaje": "Mr. Fix",
+      "foto": "https://image.tmdb.org/t/p/w500/rk2vn6t830zKeROOx2aMdaEteyc.jpg"
+    },
+    {
+      "nombre": "Finlay Currie",
+      "personaje": "Whist Partner",
+      "foto": "https://image.tmdb.org/t/p/w500/okHKOxm5wmFu513NsK3JNI7fMkr.jpg"
+    },
+    {
+      "nombre": "Robert Morley",
+      "personaje": "Ralph",
+      "foto": "https://image.tmdb.org/t/p/w500/38Ms5ijBMIZNA4cwhiRvmBM0fOS.jpg"
+    },
+    {
+      "nombre": "Charles Boyer",
+      "personaje": "Monsieur Gasse",
+      "foto": "https://image.tmdb.org/t/p/w500/uVV5HiMl0xP1haPwqcJNweGizZ1.jpg"
+    },
+    {
+      "nombre": "Gilbert Roland",
+      "personaje": "Achmed Abdullah",
+      "foto": "https://image.tmdb.org/t/p/w500/mzFPFiCb7fNsGI9gBFHYn0kqg7g.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Anderson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Farrow",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "James Poe",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jules Verne",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "S.J. Perelman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mike Todd",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jules Verne",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Fred Williams",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Sol Gorss",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "George Ross",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Russell Saunders",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Gil Perkins",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "James Van Horn",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Dick Crockett",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ray Spiker",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Paul Baxley",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Eddie Parker",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Bud Wolfe",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Michael Anderson",
+  "valoraciones": {
+    "tmdb": 6.655,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Michael Todd Company",
+  "enlace_video": "https://rumble.com/hls-vod/6s4djp/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=vjiCO8k6Jhg"
+}
