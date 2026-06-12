@@ -1,0 +1,154 @@
+{
+  "id_tmdb": 668489,
+  "poster": "https://image.tmdb.org/t/p/w500/tbsDLmo2Ej8YFM0HKcOGfNMTlyJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7rKyFSg6SdLoCRCVoWLjL5k658k.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mf5VdjXXg4SdBpeSD7F1BVw4oQY.png",
+  "titulo": "Estragos",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.366,
+  "año": "2025",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando un negocio de drogas sale mal, un hastiado policía se abre paso en el submundo criminal de una ciudad corrupta para salvar al hijo de un político.",
+  "fecha_estreno": "2025-04-25",
+  "titulo_original": "Havoc",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Tom Hardy",
+      "personaje": "Walker",
+      "foto": "https://image.tmdb.org/t/p/w500/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+    },
+    {
+      "nombre": "Jessie Mei Li",
+      "personaje": "Ellie",
+      "foto": "https://image.tmdb.org/t/p/w500/3OREEt5tcqkVNMuaino7qA6hSWG.jpg"
+    },
+    {
+      "nombre": "Timothy Olyphant",
+      "personaje": "Vincent",
+      "foto": "https://image.tmdb.org/t/p/w500/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg"
+    },
+    {
+      "nombre": "Forest Whitaker",
+      "personaje": "Lawrence Beaumont",
+      "foto": "https://image.tmdb.org/t/p/w500/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+    },
+    {
+      "nombre": "Justin Cornwell",
+      "personaje": "Charlie",
+      "foto": "https://image.tmdb.org/t/p/w500/xFmMBP5qtAiLDpbrziXOYdAkK7.jpg"
+    },
+    {
+      "nombre": "Quelin Sepulveda",
+      "personaje": "Mia",
+      "foto": "https://image.tmdb.org/t/p/w500/oNXfeaVbilHgKafs2ovn9XffG3g.jpg"
+    },
+    {
+      "nombre": "Luis Guzmán",
+      "personaje": "Raul",
+      "foto": "https://image.tmdb.org/t/p/w500/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+    },
+    {
+      "nombre": "Sunny Pang",
+      "personaje": "Ching",
+      "foto": "https://image.tmdb.org/t/p/w500/tEhFEmOLwnoHcX0PJhzSLWr0Dw2.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sarah Dibsdall",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gareth Evans",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Gareth Evans",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Hardy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ed Talfan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aram Tertzakian",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gareth Evans",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Faye Boustead",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Sam Stokes",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Joelle Rumbelow",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Liam Lock",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "James McGeown",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Julia Schunevitsch",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Kelly Valentine Hendry",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Claire Pritchard",
+      "rol": "Makeup & Hair"
+    },
+    {
+      "nombre": "Joss Colin",
+      "rol": "Boom Operator"
+    },
+    {
+      "nombre": "Andre Harihandoyo",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Elis Howell Griffiths",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Adrian Yew Erman",
+      "rol": "ADR Recording Engineer"
+    }
+  ],
+  "director": "Gareth Evans",
+  "valoraciones": {
+    "tmdb": 6.366,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "XYZ Films",
+  "enlace_video": "https://1a-1791.com/video/fww1/4c/s8/2/d/D/G/H/dDGHy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=nAg2ntZAof4"
+}
