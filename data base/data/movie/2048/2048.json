@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 2048,
+  "poster": "https://image.tmdb.org/t/p/w500/u0tUxQQxrbKX3GIfsCYeHrrYPzV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jpFcZH2eyh6gcoxCa637TrGe4bT.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/GzchbhzGYbY0HlpOsho0LiUKWy.png",
+  "titulo": "Yo, Robot",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.965,
+  "año": "2004",
+  "duracion": "1h 55min",
+  "edad_minima": 13,
+  "sinopsis": "Chicago, año 2035. Vivimos en completa armonía con robots inteligentes. Cocinan para nosotros, conducen nuestros aviones, cuidan de nuestros hijos y confiamos plenamente en ellos debido a que se rigen por las Tres Leyes de la Robótica que nos protegen de cualquier daño. Inesperadamente un robot se ve implicado en el crimen de un brillante científico y el detective Del Spooner queda a cargo de la investigación.",
+  "fecha_estreno": "2004-07-15",
+  "titulo_original": "I, Robot",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Will Smith",
+      "personaje": "Del Spooner",
+      "foto": "https://image.tmdb.org/t/p/w500/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+    },
+    {
+      "nombre": "Bridget Moynahan",
+      "personaje": "Susan Calvin",
+      "foto": "https://image.tmdb.org/t/p/w500/7WuwRCcwtBmJZ64pNsLbwhQCEA4.jpg"
+    },
+    {
+      "nombre": "Alan Tudyk",
+      "personaje": "Sonny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+    },
+    {
+      "nombre": "James Cromwell",
+      "personaje": "Dr. Alfred Lanning",
+      "foto": "https://image.tmdb.org/t/p/w500/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+    },
+    {
+      "nombre": "Bruce Greenwood",
+      "personaje": "Lawrence Robertson",
+      "foto": "https://image.tmdb.org/t/p/w500/AmfylDaijUHq8cHMq002xfkW7Vk.jpg"
+    },
+    {
+      "nombre": "Adrian Ricard",
+      "personaje": "Granny",
+      "foto": "https://image.tmdb.org/t/p/w500/jSJnNUVNHXfxU2u27wRN7fnIsos.jpg"
+    },
+    {
+      "nombre": "Chi McBride",
+      "personaje": "Lt. John Bergin",
+      "foto": "https://image.tmdb.org/t/p/w500/cesCeJZ5gSywA9lTYReB5uhkfek.jpg"
+    },
+    {
+      "nombre": "Jerry Wasserman",
+      "personaje": "Baldez",
+      "foto": "https://image.tmdb.org/t/p/w500/sDxJx0ijIuI0Hfwq4KL5kVfAiBN.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jeff Vintar",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Akiva Goldsman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Davis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Proyas",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Topher Dow",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Laurence Mark",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Wyck Godfrey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Lee Baron",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marco Beltrami",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Simon Duggan",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Monique Ganderton",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Brett Armstrong",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Owen Walstrom",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Juel Bestrop",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Heike Brandstatter",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jeanne McCarthy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Liz Keogh",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Coreen Mayrs",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Alette Falle",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Michael Leung",
+      "rol": "Visual Effects"
+    }
+  ],
+  "director": "Alex Proyas",
+  "valoraciones": {
+    "tmdb": 6.965,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Davis Entertainment",
+  "enlace_video": "https://1a-1791.com/video/fw/s8/2/P/E/P/N/PEPNt.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=ry1N9lrzt7A"
+}
