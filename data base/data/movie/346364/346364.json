@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 346364,
+  "poster": "https://image.tmdb.org/t/p/w500/p77sfJRQyqxvTDy6ulGLnw0uAhh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rR1a56IWF4dfEFJHhuYb8LYV9YJ.png",
+  "titulo": "It (Eso)",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense",
+    "Drama"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.241,
+  "año": "2017",
+  "duracion": "2h 15min",
+  "edad_minima": 13,
+  "sinopsis": "En el verano de 1989, un grupo de niños maltratados se unieron para destruir a un monstruo cambia-formas, que se disfraza de payaso y se aprovecha de los niños de Derry, su pequeño pueblo de Maine.",
+  "fecha_estreno": "2017-09-06",
+  "titulo_original": "It",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jaeden Martell",
+      "personaje": "Bill Denbrough",
+      "foto": "https://image.tmdb.org/t/p/w500/29lQhfMR4nLUJROKq76x93NXPw1.jpg"
+    },
+    {
+      "nombre": "Jeremy Ray Taylor",
+      "personaje": "Ben Hanscom",
+      "foto": "https://image.tmdb.org/t/p/w500/czfmzjsDrGqIvDA3kkq62h9RCA1.jpg"
+    },
+    {
+      "nombre": "Sophia Lillis",
+      "personaje": "Beverly Marsh",
+      "foto": "https://image.tmdb.org/t/p/w500/AscFyjYymxGtBtIZf1TX98VSgrY.jpg"
+    },
+    {
+      "nombre": "Finn Wolfhard",
+      "personaje": "Richie Tozier",
+      "foto": "https://image.tmdb.org/t/p/w500/vgjd34eWfVL6GsLHwiwcAsjWLmo.jpg"
+    },
+    {
+      "nombre": "Chosen Jacobs",
+      "personaje": "Mike Hanlon",
+      "foto": "https://image.tmdb.org/t/p/w500/y7Aho0JOSIyT6SH7nyhheRibPCf.jpg"
+    },
+    {
+      "nombre": "Jack Dylan Grazer",
+      "personaje": "Eddie Kaspbrak",
+      "foto": "https://image.tmdb.org/t/p/w500/wkLAOleFx9Pis97g6t3noJRhAwg.jpg"
+    },
+    {
+      "nombre": "Wyatt Oleff",
+      "personaje": "Stanley Uris",
+      "foto": "https://image.tmdb.org/t/p/w500/wEka1IzC5OtkKGGhlMmItAfDUqW.jpg"
+    },
+    {
+      "nombre": "Bill Skarsgård",
+      "personaje": "Pennywise",
+      "foto": "https://image.tmdb.org/t/p/w500/yGML6E9OtHQ5PFSvxoIj901tvsL.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Andy Muschietti",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Dan Lin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Seth Grahame-Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Barbara Muschietti",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Katzenberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Roy Lee",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cary Joji Fukunaga",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chase Palmer",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jennifer Murray",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Avery Queffelec",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Canaan Davison",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ilora Rosenberg",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Bauston Camilleri",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Chad Camilleri",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kendrick Wallace",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Cam Fergus",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "AJ Risi",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Nicholas Brooks",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Dustin Faith",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Vincent Rother",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Andy Muschietti",
+  "valoraciones": {
+    "tmdb": 7.241,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/8/g/5/9/8g59q.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=9jhtucvduSw"
+}
