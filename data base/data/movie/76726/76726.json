@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 76726,
+  "poster": "https://image.tmdb.org/t/p/w500/9GioqrMkkk9A694UhYz8iMo2eJV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rgNzvSagnlc32TuMEBa529QFIig.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qYFqHvdHNU0EmLxNDSnutP06NlC.png",
+  "titulo": "Poder sin Límites",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Drama",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.9,
+  "año": "2012",
+  "duracion": "1h 24min",
+  "edad_minima": 13,
+  "sinopsis": "Tres estudiantes de secundaria hacen un descubrimiento increíble, lo que los lleva a desarrollar poderes extraños más allá de su comprensión. A medida que aprenden a controlar sus habilidades y utilizarlas en su beneficio, sus vidas comienzan a perder el control, y sus lados más oscuros comienzan a tomar el control.",
+  "fecha_estreno": "2012-02-01",
+  "titulo_original": "Chronicle",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Dane DeHaan",
+      "personaje": "Andrew Detmer",
+      "foto": "https://image.tmdb.org/t/p/w500/8asHTI9I2Xz0ki018r7b0LuLWf4.jpg"
+    },
+    {
+      "nombre": "Alex Russell",
+      "personaje": "Matt Garetty",
+      "foto": "https://image.tmdb.org/t/p/w500/6ICuiVBMCCY2phrHXpXftoKHqM2.jpg"
+    },
+    {
+      "nombre": "Michael B. Jordan",
+      "personaje": "Steve Montgomery",
+      "foto": "https://image.tmdb.org/t/p/w500/sMBpav8cK7t7Nk0yf4tuNOqNUyW.jpg"
+    },
+    {
+      "nombre": "Michael Kelly",
+      "personaje": "Richard Detmer",
+      "foto": "https://image.tmdb.org/t/p/w500/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
+    },
+    {
+      "nombre": "Ashley Hinshaw",
+      "personaje": "Casey Letter",
+      "foto": "https://image.tmdb.org/t/p/w500/19Bk7dlNSZlewFS0BLP3yINBrHU.jpg"
+    },
+    {
+      "nombre": "Bo Petersen",
+      "personaje": "Karen Detmer",
+      "foto": "https://image.tmdb.org/t/p/w500/r95YOXbuVjquF89NHI5qZOr0CFM.jpg"
+    },
+    {
+      "nombre": "Anna Wood",
+      "personaje": "Monica",
+      "foto": "https://image.tmdb.org/t/p/w500/xzXGYhAmHm3VopHJg14qvfx4Jo2.jpg"
+    },
+    {
+      "nombre": "Rudi Malcolm",
+      "personaje": "Wayne",
+      "foto": "https://image.tmdb.org/t/p/w500/lTVI5b7foS38xoFlG9r3hWhRtUe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Max Landis",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Josh Trank",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Adam Schroeder",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Davis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Max Landis",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Josh Trank",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Talia Barak",
+      "rol": "Makeup & Hair"
+    },
+    {
+      "nombre": "Willow Howell",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Mark Bunting",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Simone Stubbs",
+      "rol": "Key Makeup Artist"
+    },
+    {
+      "nombre": "Shakeela Kingzley",
+      "rol": "Art Department Assistant"
+    },
+    {
+      "nombre": "Francesca Van Der Feyst",
+      "rol": "Key Hair Stylist"
+    },
+    {
+      "nombre": "Simone Stubbs",
+      "rol": "Key Hair Stylist"
+    },
+    {
+      "nombre": "Zania Gerber",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Charlie Watson",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Troy Morgan",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Sarah MacFarlane",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Nicci Lubbe",
+      "rol": "Set Dressing Buyer"
+    }
+  ],
+  "director": "Josh Trank",
+  "valoraciones": {
+    "tmdb": 6.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Dune Entertainment",
+  "enlace_video": "https://rumble.com/hls-vod/6z86ze/playlist.m3u8?key=WdqMaE-540Ep5GbrTCUggswxbblHYzTMUs_5i6ZmxKY2FHAycvo5Xg&u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=AQ9XG-j4kvU"
+}
