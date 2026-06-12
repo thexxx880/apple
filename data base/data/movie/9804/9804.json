@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 9804,
+  "poster": "https://image.tmdb.org/t/p/w500/9BekxLAAsW7V3VEEhwYgPPUWkcD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lBO4ZQQldon4HTKyHmzktuuzsb5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kFDgIc2xIXbRqd2jA65Z7fhwWVq.png",
+  "titulo": "Mundo Acuático",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.231,
+  "año": "1995",
+  "duracion": "2h 15min",
+  "edad_minima": 13,
+  "sinopsis": "Los casquetes polares se han derretido y toda la Tierra está cubierta de agua marina. Los hombres sobreviven en plataformas flotantes y su principal ocupación es la búsqueda de agua dulce, el bien más preciado. Entre ellos circula una leyenda según la cual en algún lugar existe tierra firme. Mariner, un viajero errante y solitario que vive del trueque, llega un día a un atolón de chatarra y vende tierra a sus moradores, pero cuando éstos descubren que es un híbrido, mitad pez y mitad humano, lo condenan a muerte.",
+  "fecha_estreno": "1995-07-28",
+  "titulo_original": "Waterworld",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Kevin Costner",
+      "personaje": "Mariner",
+      "foto": "https://image.tmdb.org/t/p/w500/608blZipRDZkDpzp8VItB64qMaT.jpg"
+    },
+    {
+      "nombre": "Dennis Hopper",
+      "personaje": "Deacon",
+      "foto": "https://image.tmdb.org/t/p/w500/hfrzsJhkX7Vphe3pVYk8lA9BNfg.jpg"
+    },
+    {
+      "nombre": "Jeanne Tripplehorn",
+      "personaje": "Helen",
+      "foto": "https://image.tmdb.org/t/p/w500/q7D9MDnMVc5PAm99853gszHwJy7.jpg"
+    },
+    {
+      "nombre": "Tina Majorino",
+      "personaje": "Enola",
+      "foto": "https://image.tmdb.org/t/p/w500/2sOAKJHk38fsZPtM7L13KjqA8hR.jpg"
+    },
+    {
+      "nombre": "R. D. Call",
+      "personaje": "Enforcer",
+      "foto": "https://image.tmdb.org/t/p/w500/c1lpGYJgYwXLkmEFeRAJWNDuo5H.jpg"
+    },
+    {
+      "nombre": "Gerard Murphy",
+      "personaje": "Nord",
+      "foto": "https://image.tmdb.org/t/p/w500/2dzWjg6fsfalFEfCsLjo9mFpCIj.jpg"
+    },
+    {
+      "nombre": "Michael Jeter",
+      "personaje": "Old Gregor",
+      "foto": "https://image.tmdb.org/t/p/w500/pNBf8X56wCOHH7cArsMYJuke4fO.jpg"
+    },
+    {
+      "nombre": "Rick Aviles",
+      "personaje": "Gatesman",
+      "foto": "https://image.tmdb.org/t/p/w500/5gSlvykK09Y2t5gmIGn7440Na9A.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Charles Gordon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Davis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Costner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lawrence Gordon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Reynolds",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Twohy",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Peter Rader",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ilona Herzberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Newton Howard",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jeffrey A. Mueller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Boyle",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Andrew Licht",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dean Semler",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Billy D. Lucas",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kenneth Chamitoff",
+      "rol": "Extras Casting"
+    },
+    {
+      "nombre": "David F. Klassen",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Nancy Haigh",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "David Rubin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Nick Scarano",
+      "rol": "Costume Supervisor"
+    }
+  ],
+  "director": "Kevin Reynolds",
+  "valoraciones": {
+    "tmdb": 6.231,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gordon Company",
+  "enlace_video": "https://rumble.com/hls-vod/6z86gu/playlist.m3u8?key=esQz6BlA08uN4b-hk94bqPwweYuwPJVjxtEb96dTlItmtOUXEwsqXA&u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=r4LLyBCz9tw"
+}
