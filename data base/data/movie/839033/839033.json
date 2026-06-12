@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 839033,
+  "poster": "https://image.tmdb.org/t/p/w500/hpBdT0o9EckoaGmPRPtcgNZpz4F.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ie8OSgIHEl6yQiGJ90dsyBWOpQA.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1SCdmxDfJacm68WniIKPiz3761m.png",
+  "titulo": "El señor de los anillos: La guerra de los Rohirrim",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Fantasía",
+    "Aventura",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.557,
+  "año": "2024",
+  "duracion": "2h 14min",
+  "edad_minima": 13,
+  "sinopsis": "Explora la \"historia no contada\" del Abismo de Helm, cientos de años antes de la mítica batalla, y de su fundador, Helm Hammerhand, Rey de Rohan.",
+  "fecha_estreno": "2024-12-05",
+  "titulo_original": "The Lord of the Rings: The War of the Rohirrim",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "Brian Cox",
+      "personaje": "Helm Hammerhand (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
+    },
+    {
+      "nombre": "Gaia Wise",
+      "personaje": "Héra (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8K9vxA6M8goWV3HZGdz3hSPcqGe.jpg"
+    },
+    {
+      "nombre": "Luke Pasqualino",
+      "personaje": "Wulf (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/egwyqohJ3KLag4GUyTzXGngwTc1.jpg"
+    },
+    {
+      "nombre": "Laurence Ubong Williams",
+      "personaje": "Fréaláf (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wKc9PHuuqrFRIAepLm87AUDdvgt.jpg"
+    },
+    {
+      "nombre": "Lorraine Ashbourne",
+      "personaje": "Olwyn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4cOOwDYkKcCf9G6fdGGDyAR4jru.jpg"
+    },
+    {
+      "nombre": "Miranda Otto",
+      "personaje": "Éowyn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg"
+    },
+    {
+      "nombre": "Shaun Dooley",
+      "personaje": "Freca (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uWiw28ARiLkvL6xUjKDLDlSsfkY.jpg"
+    },
+    {
+      "nombre": "Benjamin Wainwright",
+      "personaje": "Haleth (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hdU9RbfcSBUHhUPcPTildubV0bZ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Phoebe Gittins",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Arty Papageorgiou",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "神山健治",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joseph Chou",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason DeMarco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Philippa Boyens",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeffrey Addiss",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Will Matthews",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stephen Gallagher",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Peter Jackson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Fran Walsh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carolyn Blackwood",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Toby Emmerich",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "J. R. R. Tolkien",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Ken Kamins",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "青木悠",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Bernard Hill",
+      "rol": "In Memory Of"
+    },
+    {
+      "nombre": "吉野正人",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "上松妃香里",
+      "rol": "Animation"
+    }
+  ],
+  "director": "神山健治",
+  "valoraciones": {
+    "tmdb": 6.557,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://1a-1791.com/video/fwe1/32/s8/2/v/E/p/-/vEp-v.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=gCUg6Td5fgQ"
+}
