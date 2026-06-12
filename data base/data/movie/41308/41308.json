@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 41308,
+  "poster": "https://image.tmdb.org/t/p/w500/gCIuNHBYve2GHWYYI7d2DkhEntG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9AGFKROeShI8JtO4xLro6HlyVQm.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/cazXlWf7rn1iUaNBYwPkep336G8.png",
+  "titulo": "El padrecito",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.055,
+  "año": "1964",
+  "duracion": "2h 10min",
+  "edad_minima": 13,
+  "sinopsis": "El sacerdote padre Sebastián es asignado a una parroquia de San Jerónimo el Alto, donde no es bien recibido por la comunidad, particularmente por el sacerdote residente Padre Damián. El recién llegado poco a poco gana la confianza de la gente a través del humor, pero con firmeza capta sus corazones por salvar la fiesta de la ciudad por la lucha contra un toro cuando el torero contratado no se muestra.",
+  "fecha_estreno": "1964-09-03",
+  "titulo_original": "El padrecito",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Cantinflas",
+      "personaje": "Padre Sebastián",
+      "foto": "https://image.tmdb.org/t/p/w500/iASObohpLJzqYQM6bQzyup3QvEs.jpg"
+    },
+    {
+      "nombre": "Ángel Garasa",
+      "personaje": "Padre Damían",
+      "foto": "https://image.tmdb.org/t/p/w500/dyMJLMShnNUQTfy8ZPx9zU0PY5Z.jpg"
+    },
+    {
+      "nombre": "Angelines Fernández",
+      "personaje": "Sara",
+      "foto": "https://image.tmdb.org/t/p/w500/tHPKmMUMUlmVO6i1j4FSuohJHPQ.jpg"
+    },
+    {
+      "nombre": "José Elías Moreno",
+      "personaje": "Don Silvestre",
+      "foto": "https://image.tmdb.org/t/p/w500/7HBXZQ7j7wsjrnc1qD6HUGuNPvF.jpg"
+    },
+    {
+      "nombre": "Rosa María Vázquez",
+      "personaje": "Susana",
+      "foto": "https://image.tmdb.org/t/p/w500/2UM1hZtQG7NZNlLs1C1h4xc0Wku.jpg"
+    },
+    {
+      "nombre": "Rogelio Guerra",
+      "personaje": "Marcos",
+      "foto": "https://image.tmdb.org/t/p/w500/knrkttJSx0wP9hWv3cRQXLa9Qwm.jpg"
+    },
+    {
+      "nombre": "Florencio Castelló",
+      "personaje": "Don Nicanor",
+      "foto": "https://image.tmdb.org/t/p/w500/pfuTe2S6H2wn0xyT6RBPICfPS8N.jpg"
+    },
+    {
+      "nombre": "Jorge Russek",
+      "personaje": "Matías",
+      "foto": "https://image.tmdb.org/t/p/w500/9RvAnw5bIxq5CMHRu8azqP8ppfb.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Miguel M. Delgado",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Fernando Galiana",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Miguel M. Delgado",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jacques Gelman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Galdino R. Samperio",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Raúl Lavista",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ángel Corona",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "James L. Fields",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Luis Gaytán",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Fidel Pizarro",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Jorge Bustos",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Carlos León",
+      "rol": "Additional Dialogue"
+    },
+    {
+      "nombre": "Javier Mateos",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Gonzalo Gavira",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "Rosalío Solano",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Manuel Fontanals",
+      "rol": "Production Design"
+    }
+  ],
+  "director": "Miguel M. Delgado",
+  "valoraciones": {
+    "tmdb": 8.055,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "POSA Films",
+  "enlace_video": "https://rumble.com/hls-vod/6s3qor/playlist.m3u8",
+  "trailer": ""
+}
