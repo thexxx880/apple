@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1087822,
+  "poster": "https://image.tmdb.org/t/p/w500/mDbqfIdEoGouMJJ5wrrFrn3si6C.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/78CquSA0GN0m7NIYnNECx91KFkJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/sjXI8pWIhYpZw5nyO8PMUcpMv40.png",
+  "titulo": "Hellboy: The Crooked Man",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Terror",
+    "Acción"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 5.166,
+  "año": "2024",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Hellboy y un agente novato de la BPRD quedan varados en la zona rural de los Apalaches en la década de 1950. Allí, descubren una pequeña comunidad embrujada por brujas, lideradas por un demonio local con una conexión inquietante con el pasado de Hellboy.",
+  "fecha_estreno": "2024-08-29",
+  "titulo_original": "Hellboy: The Crooked Man",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jack Kesy",
+      "personaje": "Hellboy",
+      "foto": "https://image.tmdb.org/t/p/w500/lQ8nUYK6InbCFk2TWNnXjjvG9IY.jpg"
+    },
+    {
+      "nombre": "Jefferson White",
+      "personaje": "Tom Ferrell",
+      "foto": "https://image.tmdb.org/t/p/w500/8QSrhrWpqTBGJN3rfijXCvmOcb5.jpg"
+    },
+    {
+      "nombre": "Adeline Rudolph",
+      "personaje": "Bobbie Jo Song",
+      "foto": "https://image.tmdb.org/t/p/w500/8j0zvHIqvW9kwOFLWI7QOa4V62y.jpg"
+    },
+    {
+      "nombre": "Leah McNamara",
+      "personaje": "Effie Kolb",
+      "foto": "https://image.tmdb.org/t/p/w500/ecVaqYk9SlH0sOJ8eDgwqsbKceS.jpg"
+    },
+    {
+      "nombre": "Hannah Margetson",
+      "personaje": "Cora Fisher",
+      "foto": "https://image.tmdb.org/t/p/w500/zLVaPRNXWiDr0bitkN2aMisRYG9.jpg"
+    },
+    {
+      "nombre": "Martin Bassindale",
+      "personaje": "The Crooked Man",
+      "foto": "https://image.tmdb.org/t/p/w500/gsMepIrek14cuV2vQPEo9GhuoRs.jpg"
+    },
+    {
+      "nombre": "Joseph Marcell",
+      "personaje": "Reverend Watts",
+      "foto": "https://image.tmdb.org/t/p/w500/mbjY5qqeT9aV7weLzvbN1ikPq0M.jpg"
+    },
+    {
+      "nombre": "Suzanne Bertish",
+      "personaje": "Grammy Oakum",
+      "foto": "https://image.tmdb.org/t/p/w500/6UEvYDr97XooqCBSXafsRy1KEWw.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Brian Taylor",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jonathan Yunger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Les Weldon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mike Richardson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeffrey Greenstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yariv Lerner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rob Van Norden",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Golden",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Boaz Davidson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tanner Mobley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Trevor Short",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Avi Lerner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lati Grobman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christa Campbell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mike Mignola",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Mike Mignola",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Mullner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julia Muentefering",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cristina Serafini",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Gareth West",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Brian Taylor",
+  "valoraciones": {
+    "tmdb": 5.166,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Dark Horse Entertainment",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/j/L/y/g/jLygu.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=K2S4WrEgkqg"
+}
