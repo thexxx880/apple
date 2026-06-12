@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1265,
+  "poster": "https://image.tmdb.org/t/p/w500/oSHGBqSc8YXGi3zC9Y5i45Rsp6w.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tH2SoOS2HqOJCOImbeGkmKSdCMz.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/oRrloEfGBSM5GfiHR88onkfdyfI.png",
+  "titulo": "Un puente a Terabithia",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Drama",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.334,
+  "año": "2007",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Jess Aarons, un chico que se siente extraño tanto en el colegio como en su propia casa, se ha entrenado durante todo el verano para correr una carrera; pero llega al colegio Leslie Burke y le gana. A pesar de ello, pronto se hacen amigos. Leslie, aficionada a contar fantásticas y mágicas historias, le abre a Jess las puertas de un mundo dominado por la imaginación. A Jess le gusta dibujar, pero nunca había compartido esa afición con nadie. Los dos crean el reino secreto de Terabithia, un lugar mágico cuya entrada sólo ellos conocen. Allí reinan, luchan contra el Maestro Oscuro y sus criaturas y trazan planes para vengarse de los compañeros prepotentes del colegio.",
+  "fecha_estreno": "2007-02-15",
+  "titulo_original": "Bridge to Terabithia",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Josh Hutcherson",
+      "personaje": "Jess Aarons",
+      "foto": "https://image.tmdb.org/t/p/w500/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+    },
+    {
+      "nombre": "AnnaSophia Robb",
+      "personaje": "Leslie Burke",
+      "foto": "https://image.tmdb.org/t/p/w500/tWlnAuyQeFidHcAo2zUVxNv0G0T.jpg"
+    },
+    {
+      "nombre": "Zooey Deschanel",
+      "personaje": "Ms. Edmunds",
+      "foto": "https://image.tmdb.org/t/p/w500/30KQyjsXfrdm4Dcori7bDFTg9Le.jpg"
+    },
+    {
+      "nombre": "Robert Patrick",
+      "personaje": "Jack Aarons",
+      "foto": "https://image.tmdb.org/t/p/w500/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
+    },
+    {
+      "nombre": "Bailee Madison",
+      "personaje": "May Belle Aarons",
+      "foto": "https://image.tmdb.org/t/p/w500/ltGpL7Yub5XshzWfUb8XJbsIDMT.jpg"
+    },
+    {
+      "nombre": "Kate Butler",
+      "personaje": "Mary Aarons",
+      "foto": "https://image.tmdb.org/t/p/w500/3lr7MPRjwpBy9BLGOcSgOIaRVUv.jpg"
+    },
+    {
+      "nombre": "Devon Wood",
+      "personaje": "Brenda Aarons",
+      "foto": "https://image.tmdb.org/t/p/w500/u3HHeWiPK1aanwBbt6UF6bQLveB.jpg"
+    },
+    {
+      "nombre": "Emma Fenton",
+      "personaje": "Ellie Aarons",
+      "foto": "https://image.tmdb.org/t/p/w500/7ZNHo3AvlWk1TngHxd4Zv3ViaIK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lauren Levine",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gábor Csupó",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Paterson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeff Stockwell",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Hal Lieberman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Katherine Paterson",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Michael Chapman",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Barbara Darragh",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Aaron Zigman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John Gilbert",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Stephanie Corsalini",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Robert Gillies",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Meyer Shwarzstein",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Miley Cyrus",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Jane O'Kane",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Jane O'Kane",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Roger Guise",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Gábor Csupó",
+  "valoraciones": {
+    "tmdb": 7.334,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lauren Levine Productions Inc.",
+  "enlace_video": "https://rumble.com/hls-vod/6s6oq7/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=VvgS3RcqYLQ"
+}
