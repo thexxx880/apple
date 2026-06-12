@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 454626,
+  "poster": "https://image.tmdb.org/t/p/w500/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nNvtExR7duAslE6TN9ojx590jMC.png",
+  "titulo": "Sonic: La Película",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.3,
+  "año": "2020",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Tom Wachowski, el sheriff de la ciudad de Green Hills, viajará a San Francisco para ayudar a Sonic, un erizo azul antropomórfico que corre a velocidades supersónicas, en su batalla contra el maligno Dr. Robotnik y sus aliados.",
+  "fecha_estreno": "2020-02-12",
+  "titulo_original": "Sonic the Hedgehog",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "Ben Schwartz",
+      "personaje": "Sonic (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hWEQe66jXUAGVhbU5dy8s0IrrAQ.jpg"
+    },
+    {
+      "nombre": "James Marsden",
+      "personaje": "Tom Wachowski",
+      "foto": "https://image.tmdb.org/t/p/w500/gmM9kCBzMeSGmkVXJGAkm25i9pe.jpg"
+    },
+    {
+      "nombre": "Tika Sumpter",
+      "personaje": "Maddie Wachowski",
+      "foto": "https://image.tmdb.org/t/p/w500/1zTXufyuQFPXVthryH7KVoZAfb7.jpg"
+    },
+    {
+      "nombre": "Jim Carrey",
+      "personaje": "Dr. Robotnik",
+      "foto": "https://image.tmdb.org/t/p/w500/y3U9QfPN6sJaGl6l68xjwWj28ig.jpg"
+    },
+    {
+      "nombre": "Natasha Rothwell",
+      "personaje": "Rachel",
+      "foto": "https://image.tmdb.org/t/p/w500/x5KdL3QoS4YuozVpfuPsu3MLwwf.jpg"
+    },
+    {
+      "nombre": "Adam Pally",
+      "personaje": "Wade Whipple",
+      "foto": "https://image.tmdb.org/t/p/w500/yY13PEaVbPoXT5MkitVxTfdAZnU.jpg"
+    },
+    {
+      "nombre": "Neal McDonough",
+      "personaje": "Major Bennington",
+      "foto": "https://image.tmdb.org/t/p/w500/3mI3i1CpjATSCta1Tb2qsyl1KCh.jpg"
+    },
+    {
+      "nombre": "Lee Majdoub",
+      "personaje": "Agent Stone",
+      "foto": "https://image.tmdb.org/t/p/w500/vpF3R2YRCGHseGevmDAhftmOPkO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Josh Miller",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Pat Casey",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Neal H. Moritz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Takeshi Ito",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mie Onishi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Toru Nakahara",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeff Fowler",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Toby Ascher",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Reid Scott",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Ben Ferguson",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Pratik Chaudhari",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Eric Mancha",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Ryan Wing",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Hamid Shahsavari",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "David Arnold",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Lahiru Jay",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Dan Morrison",
+      "rol": "First Assistant \"A\" Camera"
+    },
+    {
+      "nombre": "Spencer Ennis",
+      "rol": "Second Assistant \"A\" Camera"
+    },
+    {
+      "nombre": "Mitch Bax",
+      "rol": "Digital Imaging Technician"
+    },
+    {
+      "nombre": "David Tickell",
+      "rol": "Chief Lighting Technician"
+    }
+  ],
+  "director": "Jeff Fowler",
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Original Film",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/d2/s8/2/-/a/o/n/-aonx.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=XPqAai3WBag"
+}
