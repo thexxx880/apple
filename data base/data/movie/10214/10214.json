@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 10214,
+  "poster": "https://image.tmdb.org/t/p/w500/pLR2dgaNuHVJcS5mgIHfpRzgYAB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zbGteYxh9dMJAKPyZY9AWzzHR5I.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4MIwu0JZhoWSKCwe7suH9XkrAkS.png",
+  "titulo": "La Máscara 2: El hijo de la máscara",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Comedia",
+    "Familia",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 4.2,
+  "año": "2005",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "Diez años después de perturbar la vida de un hombre ingenuo, la famosa máscara de Loki cae en manos de un joven padre: cuando el caricaturista Tim Avery supera su temor a la paternidad tras el nacimiento de su primer hijo, descubre que el niño ha nacido con los poderes de la máscara. La situación se complica cuando el celoso perro de la familia se enfrenta al niño por el control de la máscara. Lo que todos ignoran es que Loki (Alan Cumming), el malvado dios escandinavo, busca la máscara y está dispuesto a todo con tal de recuperarla.",
+  "fecha_estreno": "2005-02-11",
+  "titulo_original": "Son of the Mask",
+  "pais_origen": "Germany",
+  "reparto": [
+    {
+      "nombre": "Jamie Kennedy",
+      "personaje": "Tim Avery",
+      "foto": "https://image.tmdb.org/t/p/w500/ipfv0IU3VYGOz5OBmi9WJi5autF.jpg"
+    },
+    {
+      "nombre": "Alan Cumming",
+      "personaje": "Loki",
+      "foto": "https://image.tmdb.org/t/p/w500/o1h2UWAWhHwnNJk5OVlYcU6lt0B.jpg"
+    },
+    {
+      "nombre": "Traylor Howard",
+      "personaje": "Tonya Avery",
+      "foto": "https://image.tmdb.org/t/p/w500/ymB8T4c0ech3oL1G0EhdlEWWg3m.jpg"
+    },
+    {
+      "nombre": "Kal Penn",
+      "personaje": "Jorge",
+      "foto": "https://image.tmdb.org/t/p/w500/yICM1JcxKbEpaqTUreY0yFMIc8W.jpg"
+    },
+    {
+      "nombre": "Steven Wright",
+      "personaje": "Daniel Moss",
+      "foto": "https://image.tmdb.org/t/p/w500/9Q9buDjfm6uq0VE86MZ01o96lyG.jpg"
+    },
+    {
+      "nombre": "Ben Stein",
+      "personaje": "Dr. Neuman",
+      "foto": "https://image.tmdb.org/t/p/w500/1xxodQEQKkioq38oaWRJV0mzQ9y.jpg"
+    },
+    {
+      "nombre": "Peter Callan",
+      "personaje": "Museum Redneck",
+      "foto": null
+    },
+    {
+      "nombre": "Liam Falconer",
+      "personaje": "Alvey",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lawrence Guterman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Erica Huggins",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lance Khazei",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lance Khazei",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Dae Won Cho",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Scott Kroopf",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Greg Gardiner",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Randy Edelman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Malcolm Campbell",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Kristin Witcombe",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Damien Beebe",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Tov Belling",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Matthew Copping",
+      "rol": "Dolly Grip"
+    },
+    {
+      "nombre": "Toby Copping",
+      "rol": "Key Grip"
+    },
+    {
+      "nombre": "Reg Garside",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Simon Harding",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Simon Harding",
+      "rol": "Steadicam Operator"
+    },
+    {
+      "nombre": "Darrin Keough",
+      "rol": "Additional Camera"
+    }
+  ],
+  "director": "Lawrence Guterman",
+  "valoraciones": {
+    "tmdb": 4.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/_/X/W/l/_XWls.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=FKwtGHbpVDU"
+}
