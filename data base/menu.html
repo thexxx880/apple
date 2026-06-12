@@ -5,13 +5,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Menú • LzPlay</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-   <link rel="stylesheet" href="css/menu.css">
+    <link rel="stylesheet" href="css/menu.css">
     <link rel="stylesheet" href="css/load.css">
     <script src="js/components/load.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
     <script src="js/firebase/applelz.js"></script>
+    <style>
+        /* Estilos para la notificación personalizada */
+        #toast {
+            visibility: hidden;
+            min-width: 280px;
+            background-color: #10B981; /* Verde éxito */
+            color: #fff;
+            text-align: center;
+            border-radius: 12px;
+            padding: 16px;
+            position: fixed;
+            z-index: 1005;
+            left: 50%;
+            bottom: 32px;
+            transform: translateX(-50%);
+            font-size: 0.95rem;
+            font-weight: 500;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
+            transition: opacity 0.4s, bottom 0.4s;
+            opacity: 0;
+        }
+        #toast.show {
+            visibility: visible;
+            bottom: 40px;
+            opacity: 1;
+        }
+    </style>
 </head>
 <body>
 
@@ -21,10 +48,9 @@
         alt="LzPlay"
         class="loader-logo">
 <div class="loader-bar">
-        <span></span>
-    </div>
+    <span></span>
 </div>
-    <!-- HEADER -->
+</div>
     <div class="topbar">
         <button class="back-btn" onclick="window.location.href='index.html'">
             <i class="fa-solid fa-arrow-left"></i>
@@ -33,7 +59,6 @@
         <div style="width:45px;"></div>
     </div>
 
-    <!-- PERFIL -->
     <div class="profile-box">
         <img class="avatar" id="user-avatar"
              src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg">
@@ -43,7 +68,6 @@
         </div>
     </div>
 
-    <!-- MENU -->
     <div class="menu">
         <a href="milista.html" class="menu-item">
             <div class="menu-icon"><i class="fa-solid fa-bookmark"></i></div>
@@ -76,17 +100,16 @@
         </div>
     </div>
 
-    <!-- MODAL EDITAR PERFIL -->
     <div id="edit-modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,.8); z-index:1000; align-items:center; justify-content:center;">
         <div style="background:#111827; padding:30px; border-radius:20px; width:90%; max-width:380px; text-align:center; position:relative;">
             <span onclick="closeModal()" style="position:absolute; top:15px; right:20px; font-size:1.5rem; cursor:pointer;">&times;</span>
             <h3 style="margin-bottom:25px;">Editar Perfil</h3>
-           
+            
             <div onclick="showNameModal()" style="padding:18px; margin:10px 0; background:rgba(255,255,255,.08); border-radius:16px; cursor:pointer;">
                 <i class="fa-solid fa-user-edit" style="font-size:1.4rem; margin-bottom:8px;"></i>
                 <div><strong>Editar Nombre</strong></div>
             </div>
-           
+            
             <div onclick="changeIcon()" style="padding:18px; margin:10px 0; background:rgba(255,255,255,.08); border-radius:16px; cursor:pointer;">
                 <i class="fa-solid fa-image" style="font-size:1.4rem; margin-bottom:8px;"></i>
                 <div><strong>Cambiar Icono</strong></div>
@@ -94,7 +117,6 @@
         </div>
     </div>
 
-    <!-- MODAL PARA CAMBIAR NOMBRE -->
     <div id="name-modal" class="name-modal">
         <div class="name-modal-content">
             <h3 style="margin-bottom:10px;">Cambiar Nombre</h3>
@@ -108,7 +130,11 @@
             </div>
         </div>
     </div>
-    <script>   firebase.auth().onAuthStateChanged(async (user) => {
+
+    <div id="toast">Nombre cambiado con éxito</div>
+
+    <script>
+        firebase.auth().onAuthStateChanged(async (user) => {
             if (!user) {
                 window.location.href = "login.html";
                 return;
@@ -161,6 +187,16 @@
             document.getElementById("name-modal").style.display = "none";
         }
 
+        // MOSTRAR TOAST PERSONALIZADO
+        function showToast(message) {
+            const toast = document.getElementById("toast");
+            toast.textContent = message;
+            toast.className = "show";
+            setTimeout(() => {
+                toast.className = toast.className.replace("show", "");
+            }, 3000);
+        }
+
         // GUARDAR NUEVO NOMBRE
         async function saveNewName() {
             const newName = document.getElementById("new-name-input").value.trim();
@@ -180,7 +216,9 @@
 
                 document.getElementById("username").textContent = newName;
                 closeNameModal();
-                alert("✅ Nombre actualizado correctamente");
+                
+                // Llamada a la notificación bonita en lugar de alert()
+                showToast("Nombre cambiado con éxito");
             } catch (error) {
                 console.error("Error al actualizar nombre:", error);
                 alert("❌ Error al actualizar el nombre");
@@ -214,8 +252,5 @@
             }
         });
     </script>
-    <!-- FIREBASE -->
-    
-    
 </body>
 </html>
