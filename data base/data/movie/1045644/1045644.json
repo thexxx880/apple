@@ -1,0 +1,113 @@
+{
+  "id_tmdb": 1045644,
+  "poster": "https://image.tmdb.org/t/p/w500/iSIdTy2WzpS6Ojh8miyIZ3WTq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Mk5kQRB5tqQZOQ4vzVttdkNT49.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qVJGE2LlOMhxGJqh5DbgUSwzWUn.png",
+  "titulo": "Minions y sus amigos: Volumen 2",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Animación"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.4,
+  "año": "2022",
+  "duracion": "0h 54min",
+  "edad_minima": 13,
+  "sinopsis": "Descubre cortos animados como «Phil’s Dance Party» y «Minions: Binky Nelson Unpacified» en esta compilación de la compañía de la franquicia de «Mi villano favorito».",
+  "fecha_estreno": "2022-11-08",
+  "titulo_original": "Minions & More 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Reese Witherspoon",
+      "personaje": "Rosita (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mfjunuTHrd0wnh8UG1ImMN9FSws.jpg"
+    },
+    {
+      "nombre": "Nick Kroll",
+      "personaje": "Gunter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fNiOuEKeBtELGdhKn4lxXq4O7YP.jpg"
+    },
+    {
+      "nombre": "Nick Offerman",
+      "personaje": "Norman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/f6z3mPVtaF40ewfdmZydprAjmYd.jpg"
+    },
+    {
+      "nombre": "Oscar Jennings",
+      "personaje": "Piglet (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Leo Jennings",
+      "personaje": "Piglet (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Caspar Jennings",
+      "personaje": "Piglet (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Asa Jennings",
+      "personaje": "Piglet (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Pierre Coffin",
+      "personaje": "Minions (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Janet Healy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Meledandri",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Boris Jacq",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bruno Chauffard",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Сергей Кушнеров",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Fabien Polack",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Brett Hoffman",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Dave Rosenbaum",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dr. Seuss",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Boris Jacq",
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Illumination",
+  "enlace_video": "https://rumble.com/hls-vod/76gsxw/playlist.m3u8?u=0&b=0",
+  "trailer": ""
+}
