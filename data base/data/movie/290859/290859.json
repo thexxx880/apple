@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 290859,
+  "poster": "https://image.tmdb.org/t/p/w500/pGMWHlw0CaH94i3u66ejcMd8sR3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/a6cDxdwaQIFjSkXf7uskg78ZyTq.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/v2TqK2RA8W5xe2cND4Ouq7SDQmh.png",
+  "titulo": "Terminator: Destino Oculto",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Acción",
+    "Aventura",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.421,
+  "año": "2019",
+  "duracion": "2h 8min",
+  "edad_minima": 13,
+  "sinopsis": "Sarah Connor y el Terminator T-800 regresan con sus icónicas interpretaciones en Terminator: Destino Oculto, La película sirve como una secuela a Terminator 2, dejando de lado todo lo sucedido de la tercera a la quinta parte. De ser el caso, Terminator 6: Destino ocuto iniciaría tomando en cuenta los siguientes hechos: el T-1000 ha sido destruido, también el T-800 que se sacrificó por la humanidad. Sarah Connor y su hijo John están vivos y el Día del Juicio, quizás, pueda ser evitado. Se cree que a partir de un pedazo del T-800 el Terminator será “resucitado” por Sarah para ayudarles a sobrevivir de una nueva amenaza",
+  "fecha_estreno": "2019-10-23",
+  "titulo_original": "Terminator: Dark Fate",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Linda Hamilton",
+      "personaje": "Sarah Connor",
+      "foto": "https://image.tmdb.org/t/p/w500/7FNn9Z5xkRS9EFbGL2tpmpph9xV.jpg"
+    },
+    {
+      "nombre": "Arnold Schwarzenegger",
+      "personaje": "T-800 / Carl",
+      "foto": "https://image.tmdb.org/t/p/w500/dgCABuZp2HBehCT84O4WBp7KIoe.jpg"
+    },
+    {
+      "nombre": "Mackenzie Davis",
+      "personaje": "Grace",
+      "foto": "https://image.tmdb.org/t/p/w500/CEpYCoD6erYRYekmFHuQAULLD5.jpg"
+    },
+    {
+      "nombre": "Natalia Reyes",
+      "personaje": "Daniella \"Dani\" Ramos",
+      "foto": "https://image.tmdb.org/t/p/w500/9N7FNKUhjtinrNPy8ANvXrB7iEr.jpg"
+    },
+    {
+      "nombre": "Gabriel Luna",
+      "personaje": "Gabriel / REV-9",
+      "foto": "https://image.tmdb.org/t/p/w500/bIPORtYxTJPEUJIThbZrpqf4A11.jpg"
+    },
+    {
+      "nombre": "Diego Boneta",
+      "personaje": "Diego Ramos",
+      "foto": "https://image.tmdb.org/t/p/w500/hgEcC28oljaPBYi7ONMToQYMHMA.jpg"
+    },
+    {
+      "nombre": "Ferran Fernández",
+      "personaje": "Flacco",
+      "foto": "https://image.tmdb.org/t/p/w500/lYfYDqBt8J3cWK98qVNx9yZlkNt.jpg"
+    },
+    {
+      "nombre": "Tristán Ulloa",
+      "personaje": "Felipe Gandal",
+      "foto": "https://image.tmdb.org/t/p/w500/sglKcvdU3e8hTy1kOghEbT0GdHS.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tim Miller",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Ellison",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Josh Friedman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Billy Ray",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David S. Goyer",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Justin Rhodes",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gilbert Juarez III",
+      "rol": "Compositor"
+    },
+    {
+      "nombre": "Billy D. Lucas",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Shauna Galligan",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Matteo Veglia",
+      "rol": "VFX Production Coordinator"
+    },
+    {
+      "nombre": "Julia Schunevitsch",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Amy Lynn Tuttle",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Francisco Torres",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Debbie Evans",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "George Hull",
+      "rol": "Concept Artist"
+    },
+    {
+      "nombre": "Ricardo Ferrari",
+      "rol": "Location Scout"
+    },
+    {
+      "nombre": "Lei Zhang",
+      "rol": "VFX Editor"
+    },
+    {
+      "nombre": "Ken Seng",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Tim Miller",
+  "valoraciones": {
+    "tmdb": 6.421,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Fox",
+  "enlace_video": "https://1a-1791.com/video/fww1/f3/s8/2/C/j/V/r/CjVrz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=UqxnFHoKwzE"
+}
