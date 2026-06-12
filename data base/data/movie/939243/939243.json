@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 939243,
+  "poster": "https://image.tmdb.org/t/p/w500/nRJH3KgLc3dMLaDJgLQ9u7CxsJg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/sGeSOPC8QppZtD29PyujCmyIXdA.png",
+  "titulo": "Sonic 3: La película",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.6,
+  "año": "2024",
+  "duracion": "1h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano con poderes nunca antes vistos. Con sus habilidades superadas en todos los sentidos, el Equipo Sonic debe buscar una alianza improbable con la esperanza de detener a Shadow y proteger el planeta.",
+  "fecha_estreno": "2024-12-19",
+  "titulo_original": "Sonic the Hedgehog 3",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ben Schwartz",
+      "personaje": "Sonic (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hWEQe66jXUAGVhbU5dy8s0IrrAQ.jpg"
+    },
+    {
+      "nombre": "Jim Carrey",
+      "personaje": "Ivo Robotnik / Gerald Robotnik",
+      "foto": "https://image.tmdb.org/t/p/w500/y3U9QfPN6sJaGl6l68xjwWj28ig.jpg"
+    },
+    {
+      "nombre": "Keanu Reeves",
+      "personaje": "Shadow (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kEoUZKEG7dzbCESDjd0CKAN1r0n.jpg"
+    },
+    {
+      "nombre": "Idris Elba",
+      "personaje": "Knuckles (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "nombre": "Colleen O'Shaughnessey",
+      "personaje": "Tails (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y3Kl5tCX1XD6uyL9wefTRbEXTwj.jpg"
+    },
+    {
+      "nombre": "James Marsden",
+      "personaje": "Tom",
+      "foto": "https://image.tmdb.org/t/p/w500/gmM9kCBzMeSGmkVXJGAkm25i9pe.jpg"
+    },
+    {
+      "nombre": "Tika Sumpter",
+      "personaje": "Maddie",
+      "foto": "https://image.tmdb.org/t/p/w500/1zTXufyuQFPXVthryH7KVoZAfb7.jpg"
+    },
+    {
+      "nombre": "Lee Majdoub",
+      "personaje": "Agent Stone",
+      "foto": "https://image.tmdb.org/t/p/w500/vpF3R2YRCGHseGevmDAhftmOPkO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Neal H. Moritz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeff Fowler",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Pat Casey",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Josh Miller",
+      "rol": "Story"
+    },
+    {
+      "nombre": "John Whittington",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Toru Nakahara",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Toby Ascher",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hitoshi Okuno",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brandon Trost",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Luke Freeborn",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Al LeVine",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "AJ Riach",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Tom Holkenborg",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Deanna Marshall",
+      "rol": "Payroll Accountant"
+    },
+    {
+      "nombre": "Allan Padelford",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Oleg Podobin",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Christina Low",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Ethan Van der Ryn",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Ethan Van der Ryn",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Erik Aadahl",
+      "rol": "Supervising Sound Editor"
+    }
+  ],
+  "director": "Jeff Fowler",
+  "valoraciones": {
+    "tmdb": 7.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe1/cb/s8/2/P/7/k/6/P7k6w.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=2YJXP8CKrNE"
+}
