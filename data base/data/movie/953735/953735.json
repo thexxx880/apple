@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 953735,
+  "poster": "https://image.tmdb.org/t/p/w500/aM7o55PKT45q630Qmma1fNu99Cd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2RV5M80S4El2R5bmqpBJx6hpquT.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/oIGFxMvmtJE0XOG4RXbSZ3GAmOL.png",
+  "titulo": "Marinette",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Historia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.5,
+  "año": "2023",
+  "duracion": "1h 44min",
+  "edad_minima": 13,
+  "sinopsis": "Biopic de Marinette Pichon, primera futbolista francesa en fichar por la liga profesional estadounidense, mujer récord en número de goles por partido y selecciones para la selección francesa.",
+  "fecha_estreno": "2023-06-07",
+  "titulo_original": "Marinette",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Garance Marillier",
+      "personaje": "Marinette  Pichon",
+      "foto": "https://image.tmdb.org/t/p/w500/gPIOhXZDUYE8wDbL5s12H7i6uzK.jpg"
+    },
+    {
+      "nombre": "Émilie Dequenne",
+      "personaje": "Marinette's Mother",
+      "foto": "https://image.tmdb.org/t/p/w500/aNGdK8n9GCzgHbxcucqdgmKM8lR.jpg"
+    },
+    {
+      "nombre": "Fred Testot",
+      "personaje": "Coach of Brienne",
+      "foto": "https://image.tmdb.org/t/p/w500/yN14Ju54laFPhacdeXW9Y81arm4.jpg"
+    },
+    {
+      "nombre": "Sylvie Testud",
+      "personaje": "Régine Pierre, Saint-Memmie coach",
+      "foto": "https://image.tmdb.org/t/p/w500/yafOAmaZkJ8BOEWLoQcWJVx2EYT.jpg"
+    },
+    {
+      "nombre": "Alban Lenoir",
+      "personaje": "Ghislain Pichon, Marinette's father",
+      "foto": "https://image.tmdb.org/t/p/w500/jOWPgqzpvsaxzgBNzDqs2RR5jI6.jpg"
+    },
+    {
+      "nombre": "Frankie Wallach",
+      "personaje": "Françoise aka 'Titi'",
+      "foto": "https://image.tmdb.org/t/p/w500/6wODVo5qd3czhXbAajzbOdmFA7E.jpg"
+    },
+    {
+      "nombre": "Caroline Proust",
+      "personaje": "Elisabeth Loisel, coach of the France Team",
+      "foto": "https://image.tmdb.org/t/p/w500/5cTUI6EGnpnBqe3dyNQouLM5aIz.jpg"
+    },
+    {
+      "nombre": "Gore Abrams",
+      "personaje": "Mark Krikorian, Philadelphia Charge coach",
+      "foto": "https://image.tmdb.org/t/p/w500/bKMTqbl0FYlzIC6aTMKQZNAhhXK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Virginie Verrier",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Virginie Verrier",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Virginie Verrier",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Xavier Dolléans",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Angeline Massoni",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jérôme Bréau",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Maryam Barakat",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Sophie Pochon",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Zoltan Zidi",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Kevin Moine",
+      "rol": "Boom Operator"
+    },
+    {
+      "nombre": "Christophe Prié",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Manu Lanzi",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Estelle Piget",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Raphael Auger",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Pauline Chevalier",
+      "rol": "First Assistant Camera"
+    }
+  ],
+  "director": "Virginie Verrier",
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "France 3 Cinéma",
+  "enlace_video": "https://1a-1791.com/video/fww1/fc/s8/2/B/Q/r/A/BQrAy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=PCffF20fGHc"
+}
