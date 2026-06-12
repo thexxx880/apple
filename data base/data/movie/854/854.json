@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 854,
+  "poster": "https://image.tmdb.org/t/p/w500/sW0tABq2gGGzdwHKhBs2hupEK11.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/epjWNX4THom04vDPv54MJtg8Uam.png",
+  "titulo": "La Máscara",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Fantasía",
+    "Crimen",
+    "Romance"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.99,
+  "año": "1994",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando el tímido empleado bancario, Stanley Ipkiss, descubre una máscara mágica que contiene el espíritu del dios nórdico Loki, su vida cambia por completo.",
+  "fecha_estreno": "1994-07-29",
+  "titulo_original": "The Mask",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jim Carrey",
+      "personaje": "Stanley Ipkiss / The Mask",
+      "foto": "https://image.tmdb.org/t/p/w500/y3U9QfPN6sJaGl6l68xjwWj28ig.jpg"
+    },
+    {
+      "nombre": "Peter Riegert",
+      "personaje": "Mitch Kellaway",
+      "foto": "https://image.tmdb.org/t/p/w500/z7Fat4xqx7dvUOsmimd98xmTkFG.jpg"
+    },
+    {
+      "nombre": "Peter Greene",
+      "personaje": "Dorian Tyrrell",
+      "foto": "https://image.tmdb.org/t/p/w500/n49XdJsMwNRdc4qT9XVAGb3fIQW.jpg"
+    },
+    {
+      "nombre": "Amy Yasbeck",
+      "personaje": "Peggy Brandt",
+      "foto": "https://image.tmdb.org/t/p/w500/5BbyiBjp5T8pKUcauVTweRcvLJJ.jpg"
+    },
+    {
+      "nombre": "Richard Jeni",
+      "personaje": "Charlie Schumaker",
+      "foto": "https://image.tmdb.org/t/p/w500/fyGOCHDImuNP9KDbGCQdkmg94vO.jpg"
+    },
+    {
+      "nombre": "Orestes Matacena",
+      "personaje": "Niko",
+      "foto": "https://image.tmdb.org/t/p/w500/kBN6pmgyLs4LZ2IUAcxSQ8SsE13.jpg"
+    },
+    {
+      "nombre": "Tim Bagley",
+      "personaje": "Irv",
+      "foto": "https://image.tmdb.org/t/p/w500/l00IDn897RHTbTB7GcU1Pm9dKsO.jpg"
+    },
+    {
+      "nombre": "Nancy Fish",
+      "personaje": "Mrs. Peenman",
+      "foto": "https://image.tmdb.org/t/p/w500/4hsbpX8MaxXDQBh9T4IJZD3wGza.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chuck Russell",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mike Werb",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mark Verheiden",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Michael Fallon",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Robert Engelman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rick Barker",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Joe Fineman",
+      "rol": "Executive In Charge Of Post Production"
+    },
+    {
+      "nombre": "Randy Edelman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Lisa Van Cott",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "John R. Leonetti",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "M.K. Gleason",
+      "rol": "Production Accountant"
+    },
+    {
+      "nombre": "Robert Engelman",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Deborah Moore",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Crockett",
+      "rol": "Production Accountant"
+    },
+    {
+      "nombre": "Barbara Coston",
+      "rol": "Production Accountant"
+    },
+    {
+      "nombre": "Arthur Coburn",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mark Irwin",
+      "rol": "Additional Photography"
+    }
+  ],
+  "director": "Chuck Russell",
+  "valoraciones": {
+    "tmdb": 6.99,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Dark Horse Entertainment",
+  "enlace_video": "https://1a-1791.com/video/s8/2/6/r/O/l/6rOls.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=uPrUiKgQVQk"
+}
