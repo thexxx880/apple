@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 1248226,
+  "poster": "https://image.tmdb.org/t/p/w500/nWprcqzpw41jslTgGrGcf4QhZ7Z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4XQyjOv5Y0EbYDdB1p3sMRH7uWv.png",
+  "titulo": "Un día fuera de control",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.097,
+  "año": "2025",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando el contador desempleado Brian se reúne con Jeff, papá de tiempo completo, para que sus hijos jueguen juntos, él espera una tarde tranquila. En cambio, los persiguen unos mercenarios, y Brian no está preparado para sobrevivir a un obstáculo absurdo tras otro. La vida de un papá suburbano se convierte en una película de acción en esta caótica e hilarante aventura.",
+  "fecha_estreno": "2025-11-04",
+  "titulo_original": "Playdate",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Alan Ritchson",
+      "personaje": "Jeff",
+      "foto": "https://image.tmdb.org/t/p/w500/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+    },
+    {
+      "nombre": "Kevin James",
+      "personaje": "Brian",
+      "foto": "https://image.tmdb.org/t/p/w500/3WPW5duZyQcjveefxwLULgIyhM0.jpg"
+    },
+    {
+      "nombre": "Banks Pierce",
+      "personaje": "CJ",
+      "foto": null
+    },
+    {
+      "nombre": "Benjamin Pajak",
+      "personaje": "Lucas",
+      "foto": "https://image.tmdb.org/t/p/w500/tNb5yd7NjD02PFCdSvNhY8jPRt8.jpg"
+    },
+    {
+      "nombre": "Alan Tudyk",
+      "personaje": "Simon Maddox",
+      "foto": "https://image.tmdb.org/t/p/w500/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+    },
+    {
+      "nombre": "Sarah Chalke",
+      "personaje": "Emily",
+      "foto": "https://image.tmdb.org/t/p/w500/ycwiu89cpjqCtSNC5FjbJggjj5R.jpg"
+    },
+    {
+      "nombre": "Stephen Root",
+      "personaje": "Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+    },
+    {
+      "nombre": "Isla Fisher",
+      "personaje": "Leslie",
+      "foto": "https://image.tmdb.org/t/p/w500/vVeKcMyFMPcIDLYNAnGSGnQrJ3k.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Neil Goldman",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Luke Greenfield",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Luke Greenfield",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeffrey Greenstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Benoit",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Fasano",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sean Patrick O'Reilly",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Neil Goldman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alan Ritchson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Spilo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew Alex Goldberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nathan Klingher",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ford Corbett",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michelle Myers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joshua Harris",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rich Delia",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tyler Bishop Harron",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Rupert Hollier",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Jeff Cardoni",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Luke Greenfield",
+  "valoraciones": {
+    "tmdb": 6.097,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Amazon MGM Studios",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/13/s8/2/s/c/g/z/scgzz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=xGTq0blCPVQ"
+}
