@@ -1,0 +1,152 @@
+{
+  "id_tmdb": 1000837,
+  "poster": "https://image.tmdb.org/t/p/w500/pnhi5LYyTY1p9cgug0XwC13xVtk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/j9uruwRe9qM8RnP758dF7ISB8Bj.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/t5XMGJryVcZ0iglPBMB3zU3UUjj.png",
+  "titulo": "Aún estoy aquí",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Historia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.896,
+  "año": "2024",
+  "duracion": "2h 17min",
+  "edad_minima": 13,
+  "sinopsis": "Una madre se ve obligada al activismo político cuando su marido, el diputado izquierdista Rubens Paiva, fue capturado por el régimen durante la Dictadura militar de Brasil, en 1971. Basada en las memorias de Marcelo Rubens Paiva",
+  "fecha_estreno": "2024-09-19",
+  "titulo_original": "Ainda Estou Aqui",
+  "pais_origen": "Brazil",
+  "reparto": [
+    {
+      "nombre": "Fernanda Torres",
+      "personaje": "Eunice Paiva",
+      "foto": "https://image.tmdb.org/t/p/w500/dkxdADNwbM7ZLQK5YBNeKBqVJNM.jpg"
+    },
+    {
+      "nombre": "Fernanda Montenegro",
+      "personaje": "Eunice Paiva (Older)",
+      "foto": "https://image.tmdb.org/t/p/w500/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
+    },
+    {
+      "nombre": "Selton Mello",
+      "personaje": "Rubens Paiva",
+      "foto": "https://image.tmdb.org/t/p/w500/sBVDTAAEDJuVBTKzVGA0PrqeD17.jpg"
+    },
+    {
+      "nombre": "Valentina Herszage",
+      "personaje": "Veroca",
+      "foto": "https://image.tmdb.org/t/p/w500/QGXJzVxqZPVnRv2RVFVC5RkoSJ.jpg"
+    },
+    {
+      "nombre": "Maria Manoella",
+      "personaje": "Veroca",
+      "foto": "https://image.tmdb.org/t/p/w500/2l5OS18iXdT2ju2w95LjX4F682Y.jpg"
+    },
+    {
+      "nombre": "Bárbara Luz",
+      "personaje": "Nalu",
+      "foto": "https://image.tmdb.org/t/p/w500/im8iKs98xlvkUjnwt2wVRkzLNm5.jpg"
+    },
+    {
+      "nombre": "Gabriela Carneiro da Cunha",
+      "personaje": "Nalu",
+      "foto": "https://image.tmdb.org/t/p/w500/fzjjN0YjKXmlftViA23UMLb4OE8.jpg"
+    },
+    {
+      "nombre": "Luiza Kosovski",
+      "personaje": "Eliana",
+      "foto": "https://image.tmdb.org/t/p/w500/zu3oHbqfqfc6u72wkWq5FCirmgS.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Walter Salles",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Murilo Hauser",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Rodrigo Teixeira",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Walter Salles",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Maria Carlota Fernandes Bruno",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Heitor Lorega",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Martine De Clermont-Tonnerre",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marcelo Rubens Paiva",
+      "rol": "Author"
+    },
+    {
+      "nombre": "João Pedro Tinoco",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Juliana Capelini",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Laura Shalders",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Marisa Amenta",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Michelle Carneiro",
+      "rol": "Set Dresser"
+    },
+    {
+      "nombre": "Juliana Tolentino",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "Adrian Teijido",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Paloma Buquer",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Gabriel Garcia",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Cristiane Luz",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Tatiana Stepanenko",
+      "rol": "Set Decoration"
+    }
+  ],
+  "director": "Walter Salles",
+  "valoraciones": {
+    "tmdb": 7.896,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "VideoFilmes",
+  "enlace_video": "https://1a-1791.com/video/fww1/de/s8/2/2/O/v/v/2Ovvy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=Eo49pAwMxKQ"
+}
