@@ -1,0 +1,102 @@
+{
+  "id_tmdb": 409122,
+  "poster": "https://image.tmdb.org/t/p/w500/t4qV0eayiNW2W2TgECd0MYEhMl1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jXlyxmwM39pNUupSMrZiXXy70ah.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/olGakCeHtdUoTh59ec3UawUn1mu.png",
+  "titulo": "Scooby-Doo! y WWE: La maldición del demonio veloz",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia",
+    "Misterio"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.6,
+  "año": "2016",
+  "duracion": "1h 20min",
+  "edad_minima": 13,
+  "sinopsis": "Scooby-Doo, Shaggy y los demás hacen equipo con las superestrellas de lucha libre de WWE a máxima velocidad en esta película de alto octanaje completamente nueva. Cuando Scooby y Mystery Inc. visitan una competencia de carrera todo terreno, en poco tiempo comienzan a ocurrir cosas extrañas.",
+  "fecha_estreno": "2016-07-23",
+  "titulo_original": "Scooby-Doo! and WWE: Curse of the Speed Demon",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Saraya Bevis",
+      "personaje": "Paige (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ohU0nlR5PHvih4nfDK8P4s7iQGH.jpg"
+    },
+    {
+      "nombre": "Mike Mizanin",
+      "personaje": "The Miz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vVLiIo2De2GKpn7wSzTNdhPK1Rc.jpg"
+    },
+    {
+      "nombre": "Kate Micucci",
+      "personaje": "Velma Dinkley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lgmIxZ59bnYflbkWyAfmWi0bUsT.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Daphne Blake (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Fred Jones / Scooby-Doo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Matthew Lillard",
+      "personaje": "Shaggy Rogers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    },
+    {
+      "nombre": "Mark Calaway",
+      "personaje": "The Undertaker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/heCzgyoGCXYi0Y8maDAilkDMnRj.jpg"
+    },
+    {
+      "nombre": "Stephen Farrelly",
+      "personaje": "Sheamus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uU1Mqrve4rkF5abBu7tXvoG9yUB.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Brandon Vietti",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ernie Altbacker",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tim Divar",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Keef Bartkus",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Philip Malamuth",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ryan Shore",
+      "rol": "Music"
+    }
+  ],
+  "director": "Tim Divar",
+  "valoraciones": {
+    "tmdb": 7.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "WWE Studios",
+  "enlace_video": "https://rumble.com/hls-vod/7909ws/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=y8wifucZA6Y"
+}
