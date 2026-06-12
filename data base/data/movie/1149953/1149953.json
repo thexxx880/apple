@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1149953,
+  "poster": "https://image.tmdb.org/t/p/w500/lFfABpBsp1eVXFphGreqGsHjp0m.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/h8pd7WOGoxs7CvV4ZpPLzwZ6jA5.jpg",
+  "logo": null,
+  "titulo": "Bunker",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.5,
+  "año": "2025",
+  "duracion": "2h 0min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2025-03-07",
+  "titulo_original": "Bunker",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Katie Cassidy",
+      "personaje": "Petra",
+      "foto": "https://image.tmdb.org/t/p/w500/v7cs7RFcfoiL8W1YRkZK5lBc57H.jpg"
+    },
+    {
+      "nombre": "Kate Bosworth",
+      "personaje": "Trissa",
+      "foto": "https://image.tmdb.org/t/p/w500/ezaM2jsyrxXWVFN1SbH3UfAgZaG.jpg"
+    },
+    {
+      "nombre": "Devon Sawa",
+      "personaje": "Dell",
+      "foto": "https://image.tmdb.org/t/p/w500/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg"
+    },
+    {
+      "nombre": "Tyrese Gibson",
+      "personaje": "Ty",
+      "foto": "https://image.tmdb.org/t/p/w500/jxoy4fbXNKFQtBdK73cLXEz3ufS.jpg"
+    },
+    {
+      "nombre": "Christopher Backus",
+      "personaje": "Soren",
+      "foto": "https://image.tmdb.org/t/p/w500/g48BUWwmbbZDD8fgZACIO5G9NuN.jpg"
+    },
+    {
+      "nombre": "Kale Browne",
+      "personaje": "Earl",
+      "foto": "https://image.tmdb.org/t/p/w500/6AOFK5Q3YfoO90AxWKL7FBrdAZ7.jpg"
+    },
+    {
+      "nombre": "Lisa Long",
+      "personaje": "Beverly",
+      "foto": null
+    },
+    {
+      "nombre": "Lorena Sarria",
+      "personaje": "Lorena",
+      "foto": "https://image.tmdb.org/t/p/w500/30Bl8WKWSkUV8LFCMjxDKaXxEpM.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Cecil Chambers",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Cecil Chambers",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Miceli",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Cecil Chambers",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Miceli",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Natasha Ward",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Erick Schroder",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Estefany Ellis",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Leidy Piedrahita",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Matt Wyman",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "LaRae Wilson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Ruslan Ialgashev",
+      "rol": "Video Report"
+    },
+    {
+      "nombre": "Genesis Aquino",
+      "rol": "Wardrobe Assistant"
+    },
+    {
+      "nombre": "Anthony DIDomenico",
+      "rol": "First Assistant Director (Prep)"
+    },
+    {
+      "nombre": "David Conk",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Emil Nadyrbekov",
+      "rol": "Lighting Artist"
+    },
+    {
+      "nombre": "Luis Lopez-Montealegre",
+      "rol": "Hairstylist"
+    }
+  ],
+  "director": "Cecil Chambers",
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Triumphant Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/e8/s8/2/u/V/U/y/uVUyz.aaa.mp4",
+  "trailer": ""
+}
