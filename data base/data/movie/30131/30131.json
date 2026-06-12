@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 30131,
+  "poster": "https://image.tmdb.org/t/p/w500/swiX95Bg0B0SX4x3cAZ197j26re.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pZ6PvuFsXHgGMpWFKbXHGPNcQc3.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/crDtJiNNJvEtaysuWr97j4g9hI7.png",
+  "titulo": "El Siete Machos",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Western"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.156,
+  "año": "1951",
+  "duracion": "1h 48min",
+  "edad_minima": 13,
+  "sinopsis": "Rosario, la sobrina del ranchero, regresa al rancho después de diez años de ausencia. Agarra a Margarito, un trabajador del rancho, que es inmediatamente herido por ella. Rosario es rescatada de un caballo fuera de control por El Siete Machos, un proscrito a la Robin Hood que roba a los ricos y da a los pobres. También sucede ser el hermano gemelo de Margarito, sin que él sepa. La confusión entre Margarito y El Siete Machos genera grandes situaciones cómicas en la película.",
+  "fecha_estreno": "1951-02-05",
+  "titulo_original": "El Siete Machos",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Cantinflas",
+      "personaje": "Margarito / El Siete Machos",
+      "foto": "https://image.tmdb.org/t/p/w500/iASObohpLJzqYQM6bQzyup3QvEs.jpg"
+    },
+    {
+      "nombre": "Alma Rosa Aguirre",
+      "personaje": "Rosario",
+      "foto": "https://image.tmdb.org/t/p/w500/3HALkFhM35YrAeuvZHYhKKeGYU3.jpg"
+    },
+    {
+      "nombre": "Miguel Inclán",
+      "personaje": "Toño",
+      "foto": "https://image.tmdb.org/t/p/w500/5aKnF1fO6oE7sPtDLyAxeFCKB5O.jpg"
+    },
+    {
+      "nombre": "Miguel Ángel Ferriz Sr.",
+      "personaje": "Don Carmelo",
+      "foto": "https://image.tmdb.org/t/p/w500/2IibcS45XLz6LA5vxtn33RZlFU.jpg"
+    },
+    {
+      "nombre": "Delia Magaña",
+      "personaje": "Chole",
+      "foto": "https://image.tmdb.org/t/p/w500/2ci6pyyLUs6n4JsrnqH4xHTGQis.jpg"
+    },
+    {
+      "nombre": "Carlos Martínez Baena",
+      "personaje": "Padre Guzman",
+      "foto": "https://image.tmdb.org/t/p/w500/bvmEH0VjlOA7ibzGT9CKbs7GAv1.jpg"
+    },
+    {
+      "nombre": "Rafael Icardo",
+      "personaje": "Don Ceferino",
+      "foto": "https://image.tmdb.org/t/p/w500/cEswxZduGUq43OX79v6envr0yXs.jpg"
+    },
+    {
+      "nombre": "José Elías Moreno",
+      "personaje": "El Chacal",
+      "foto": "https://image.tmdb.org/t/p/w500/7HBXZQ7j7wsjrnc1qD6HUGuNPvF.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Miguel M. Delgado",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Janet Alcoriza",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Luis Alcoriza",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Miguel M. Delgado",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jorge Bustos",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "James L. Fields",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Jorge Benavides",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Luis García",
+      "rol": "Lighting Technician"
+    },
+    {
+      "nombre": "Gunther Gerszo",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jaime Salvador",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Manuel Esperón",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Antonio Bustos",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "José Ortiz Ramos",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Moises M. Delgado",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Galdino R. Samperio",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Carlos León",
+      "rol": "Additional Dialogue"
+    }
+  ],
+  "director": "Miguel M. Delgado",
+  "valoraciones": {
+    "tmdb": 8.156,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "POSA Films",
+  "enlace_video": "https://rumble.com/hls-vod/6s3bgv/playlist.m3u8",
+  "trailer": ""
+}
