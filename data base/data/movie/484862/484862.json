@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 484862,
+  "poster": "https://image.tmdb.org/t/p/w500/zG5RgJRsgqJbv8ZBzma1bTw5Z28.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bhzfjgG6EBL7UZp2ElyBx3L4DVA.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/p0b7DhUbqSoIFtoXmLzM03oOJvr.png",
+  "titulo": "Scooby-Doo y el intrépido Batman",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Acción",
+    "Familia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.2,
+  "año": "2018",
+  "duracion": "1h 16min",
+  "edad_minima": 13,
+  "sinopsis": "Batman se alía con Scooby Doo y el resto de su equipo para desentrañar uno de los grandes misterios del Caballero Oscuro, uno que lleva años esperando ser resuelto.",
+  "fecha_estreno": "2018-01-31",
+  "titulo_original": "Scooby-Doo! & Batman: The Brave and the Bold",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Scooby-Doo / Fred Jones (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Daphne Blake / Black Canary (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Matthew Lillard",
+      "personaje": "Shaggy Rogers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    },
+    {
+      "nombre": "Kate Micucci",
+      "personaje": "Velma Dinkley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lgmIxZ59bnYflbkWyAfmWi0bUsT.jpg"
+    },
+    {
+      "nombre": "Diedrich Bader",
+      "personaje": "Batman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/z7CctykPTuXDfAs7pkAA7vW4b3T.jpg"
+    },
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Joker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "Jeffrey Combs",
+      "personaje": "The Question (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dfWcxKNsyGuN18GjWkbOmMhO4c9.jpg"
+    },
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "Aquaman / Crimson Cloak (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ui1Lj71sPMpJJskMcrbPzqP7EM.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jake Castorena",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Jelenic",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Tucker",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lolita Ritmanis",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Aaron Chavda",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Jason Plapp",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Joe Samachson",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Paul Dini",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Matthew Mahoney",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Lynell Forestall",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Dan Haskett",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Wilson Martinez",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Debbie Lindquist",
+      "rol": "Production Accountant"
+    },
+    {
+      "nombre": "Liz Carroll",
+      "rol": "Administration"
+    },
+    {
+      "nombre": "Mark A. Keatts",
+      "rol": "Supervising Dialogue Editor"
+    }
+  ],
+  "director": "Jake Castorena",
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Hanna-Barbera Cartoons",
+  "enlace_video": "https://rumble.com/hls-vod/7908nq/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=1lOkHWeyiBI"
+}
