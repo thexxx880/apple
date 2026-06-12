@@ -120,7 +120,6 @@
         // CONFIGURACIÓN DINÁMICA POR PLATAFORMA
         // =============================================
         const BASE_URL_JSON = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/base/base.json";
-        const GENEROS_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/categorias/generos.json";
         const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
 
         let todosLosContenidos = [];
@@ -192,29 +191,34 @@
             try {
                 const totalEnPlataforma = await cargarUrlMapPlataforma(nombrePlataforma);
 
-                const res = await fetch(GENEROS_URL);
-                let data = await res.json();
+               const res = await fetch(BASE_URL_JSON);
+const data = await res.json();
 
-                // Filtrar solo los contenidos que están en la plataforma
-                todosLosContenidos = data
-                    .filter(item => {
-                        const id = String(item.id_tmdb || item.id);
-                        return urlMapPlataforma[id];
-                    })
-                    .map(item => {
-                        const id = String(item.id_tmdb || item.id);
-                        return {
-                            id: id,
-                            url: urlMapPlataforma[id],           // URL específica de la plataforma
-                            title: item.titulo || "Sin título",
-                            poster: item.poster || `https://image.tmdb.org/t/p/w500${item.poster_path || ''}`,
-                            year: item.año || "N/A",
-                            rating: "7.5",
-                            genres: Array.isArray(item.generos) ? item.generos : [],
-                            sinopsis: item.sinopsis || "",
-                            tituloAlternos: item["titulo alternos"] || ""
-                        };
-                    });
+todosLosContenidos = [];
+
+Object.keys(urlMapPlataforma).forEach(id => {
+
+    const item = data.find(
+        x => String(x.id_tmdb || x.id).trim() === id
+    );
+
+    if (item) {
+        todosLosContenidos.push({
+            id,
+            url: urlMapPlataforma[id],
+            title: item.titulo || "Sin título",
+            poster: item.poster ||
+                `https://image.tmdb.org/t/p/w500${item.poster_path || ''}`,
+            year: item.año || "N/A",
+            rating: "7.5",
+            genres: Array.isArray(item.generos)
+                ? item.generos
+                : [],
+            sinopsis: item.sinopsis || "",
+            tituloAlternos: item["titulo alternos"] || ""
+        });
+    }
+});
 
                 document.getElementById("total-contenido").textContent = `${totalEnPlataforma} contenidos en ${nombrePlataforma}`;
                 
