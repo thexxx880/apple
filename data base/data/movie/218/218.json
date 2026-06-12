@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 218,
+  "poster": "https://image.tmdb.org/t/p/w500/y4jSWrykjrtfrxuvImpu857Qrxr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/q4wdswLUVVrl8OSjYXPqjihRHXs.png",
+  "titulo": "Terminator: El Exterminador",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.683,
+  "año": "1984",
+  "duracion": "1h 48min",
+  "edad_minima": 13,
+  "sinopsis": "Los Ángeles, año 2029. Las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para acabar con la rebelión, las máquinas deciden enviar al pasado a un robot -Terminator- cuya misión será eliminar a Sarah Connor, la madre de John, e impedir así su nacimiento.",
+  "fecha_estreno": "1984-10-26",
+  "titulo_original": "The Terminator",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Arnold Schwarzenegger",
+      "personaje": "Terminator",
+      "foto": "https://image.tmdb.org/t/p/w500/dgCABuZp2HBehCT84O4WBp7KIoe.jpg"
+    },
+    {
+      "nombre": "Michael Biehn",
+      "personaje": "Kyle Reese",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    },
+    {
+      "nombre": "Linda Hamilton",
+      "personaje": "Sarah Connor",
+      "foto": "https://image.tmdb.org/t/p/w500/7FNn9Z5xkRS9EFbGL2tpmpph9xV.jpg"
+    },
+    {
+      "nombre": "Paul Winfield",
+      "personaje": "Traxler",
+      "foto": "https://image.tmdb.org/t/p/w500/6NLUJEFJCJ2Hog1ZOz4K2iyDvMZ.jpg"
+    },
+    {
+      "nombre": "Lance Henriksen",
+      "personaje": "Vukovich",
+      "foto": "https://image.tmdb.org/t/p/w500/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg"
+    },
+    {
+      "nombre": "Rick Rossovich",
+      "personaje": "Matt",
+      "foto": "https://image.tmdb.org/t/p/w500/uShNdPWbDHMejpMxuoNsqaaDbuc.jpg"
+    },
+    {
+      "nombre": "Bess Motta",
+      "personaje": "Ginger",
+      "foto": "https://image.tmdb.org/t/p/w500/Aw3UWQm1XzCuObNugFBAYzyJCb1.jpg"
+    },
+    {
+      "nombre": "Earl Boen",
+      "personaje": "Silberman",
+      "foto": "https://image.tmdb.org/t/p/w500/nRAlyqkAA84gCTDwjFR77avdfHK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Cameron",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Gale Anne Hurd",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Gale Anne Hurd",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Derek Gibson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Daly",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Fiedel",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Adam Greenberg",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mark Goldblatt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Stanzi Stokes",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "George Costello",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Maria Caso",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jeff Dawn",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Deborah Everton",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Hilary Wright",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Shay Austin",
+      "rol": "Assistant Art Director"
+    }
+  ],
+  "director": "James Cameron",
+  "valoraciones": {
+    "tmdb": 7.683,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Hemdale",
+  "enlace_video": "https://1a-1791.com/video/s8/2/C/M/l/J/CMlJt.aaa.mp4?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=nGrW-OR2uDk"
+}
