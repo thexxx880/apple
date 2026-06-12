@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 1015724,
+  "poster": "https://image.tmdb.org/t/p/w500/t3vpNLlzmNtiK4XnwGNIQVeYIKj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zoL7dO6Uw8wOtkhfrwryevQudSK.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3ZMkqgHL034ANjH8DT7uzoM8j6k.png",
+  "titulo": "¡Scooby-Doo! Dulce o Travesura",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Misterio",
+    "Comedia",
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7,
+  "año": "2022",
+  "duracion": "1h 17min",
+  "edad_minima": 13,
+  "sinopsis": "¡Mystery Inc. resolvió el caso! Rastrearon a Coco Diablo, líder de la famosa organización criminal que colabora con el caballero negro, Space Kook y Ghost Diver. Con Coco y su gatito en prisión, Mystery Inc. creen que finalmente podrán disfrutar de un descanso. ¡Equivocados! De repente, amenazantes fantasmas doppelgänger de la pandilla de Scooby y los clásicos enemigos favoritos de siempre aparecen en Coolsville para poner en peligro Halloween. ¡Ahora depende de los entrometidos chicos, y su incompatible nueva socia Coco, desenmascarar al último sinvergüenza y salvar Halloween! Para Shaggy y Scooby-Doo, con la búsqueda de dulces en riesgo, ¡esta vez es un tema personal!",
+  "fecha_estreno": "2022-10-04",
+  "titulo_original": "Trick or Treat Scooby-Doo!",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Scooby-Doo / Rudy / Fred / Nefario (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Daphne / Daisy / Musketeer 1 / Olive (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Matthew Lillard",
+      "personaje": "Shaggy / Craggly / Captain Cutler (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    },
+    {
+      "nombre": "Kate Micucci",
+      "personaje": "Velma / Helga (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lgmIxZ59bnYflbkWyAfmWi0bUsT.jpg"
+    },
+    {
+      "nombre": "Myrna Velasco",
+      "personaje": "Coco Diablo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/phsTZL5kHzqpOwJIWhwa7wvNgYS.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Esteban / Mr. Wickles / Cat Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Shady Guy / Charlie Humdrum / Hank (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "Anthony Carrigan",
+      "personaje": "Trevor Glume / Farmer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/emyCDFrdEygDB5ySZLwUqk2wkLa.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Daniel McLellan",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Audie Harrison",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Audie Harrison",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ginger Brown",
+      "rol": "Associate Editor"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ryan Shore",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Joe Goyette",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Daniel McLellan",
+      "rol": "Teleplay"
+    },
+    {
+      "nombre": "Sara Jane Sherman",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Laura Pollak",
+      "rol": "Teleplay"
+    },
+    {
+      "nombre": "Agnes Kim",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Sarah Noonan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "John Soares",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mark A. Keatts",
+      "rol": "Supervising ADR Editor"
+    },
+    {
+      "nombre": "Yelim Heo",
+      "rol": "Production Manager"
+    }
+  ],
+  "director": "Audie Harrison",
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://rumble.com/hls-vod/790az4/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=PQKHtdElMng"
+}
