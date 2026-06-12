@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 280,
+  "poster": "https://image.tmdb.org/t/p/w500/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/J7vIMfYlrTepIGhUX4IrniPyxU.png",
+  "titulo": "Terminator 2: El juicio final",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 8.151,
+  "año": "1991",
+  "duracion": "2h 17min",
+  "edad_minima": 13,
+  "sinopsis": "Sarah Connor, la madre soltera del rebelde John Connor, está ingresada en un psiquiátrico. Algunos años antes, un viajero del tiempo le había revelado que su hijo sería el salvador de la humanidad en un futuro dominado por las máquinas. Se convirtió entonces en una especie de guerrera y educó a su hijo John en tácticas de supervivencia. Esta es la razón por la que está recluida en un manicomio. Cuando un nuevo androide mejorado, un T-1000, llega del futuro para asesinar a John, un viejo modelo T-800 será enviado para protegerle.",
+  "fecha_estreno": "1991-07-03",
+  "titulo_original": "Terminator 2: Judgment Day",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Arnold Schwarzenegger",
+      "personaje": "The Terminator",
+      "foto": "https://image.tmdb.org/t/p/w500/dgCABuZp2HBehCT84O4WBp7KIoe.jpg"
+    },
+    {
+      "nombre": "Linda Hamilton",
+      "personaje": "Sarah Connor",
+      "foto": "https://image.tmdb.org/t/p/w500/7FNn9Z5xkRS9EFbGL2tpmpph9xV.jpg"
+    },
+    {
+      "nombre": "Edward Furlong",
+      "personaje": "John Connor",
+      "foto": "https://image.tmdb.org/t/p/w500/e221dMIBgb6Lk092GIkHB9ohQF1.jpg"
+    },
+    {
+      "nombre": "Robert Patrick",
+      "personaje": "T-1000",
+      "foto": "https://image.tmdb.org/t/p/w500/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
+    },
+    {
+      "nombre": "Earl Boen",
+      "personaje": "Dr. Silberman",
+      "foto": "https://image.tmdb.org/t/p/w500/nRAlyqkAA84gCTDwjFR77avdfHK.jpg"
+    },
+    {
+      "nombre": "Joe Morton",
+      "personaje": "Miles Dyson",
+      "foto": "https://image.tmdb.org/t/p/w500/w7rGWWSGKWWukojLbZOQJ5yh9jv.jpg"
+    },
+    {
+      "nombre": "S. Epatha Merkerson",
+      "personaje": "Tarissa Dyson",
+      "foto": "https://image.tmdb.org/t/p/w500/pXCmHxrWzlv1kPZSxJXFM45QgOP.jpg"
+    },
+    {
+      "nombre": "Castulo Guerra",
+      "personaje": "Enrique Salceda",
+      "foto": "https://image.tmdb.org/t/p/w500/nYZihE7w1baKehLmDQb0eKEqYqF.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Cameron",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Wisher",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Van Ling",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Steven C. McGee",
+      "rol": "Best Boy Electric"
+    },
+    {
+      "nombre": "Gale Anne Hurd",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adam Greenberg",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mark Goldblatt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Richard A. Harris",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mario Kassar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Fiedel",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Conrad Buff IV",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mali Finn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Joseph P. Lucky",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "John M. Dwyer",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Marlene Stewart",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "James Cameron",
+  "valoraciones": {
+    "tmdb": 8.151,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Carolco Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/9/a/P/K/9aPKt.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=2aCC9F8cGCc"
+}
