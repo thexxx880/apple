@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 870028,
+  "poster": "https://image.tmdb.org/t/p/w500/jcV9YfjBRo6occxqeWtEiyWwMoG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/npx5Ad1csHYx0FuAA8iVfrXfj52.png",
+  "titulo": "El contador 2",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Crimen",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.083,
+  "año": "2025",
+  "duracion": "2h 13min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando un viejo conocido es asesinado, Wolff se siente obligado a resolver el caso. Al darse cuenta de que se requieren medidas más extremas, Wolff recluta a su hermano distanciado y altamente letal, Brax, para ayudar. En colaboración con Marybeth Medina, descubren una conspiración mortal, convirtiéndose en objetivos de una despiadada red de asesinos que no se detendrán ante nada para mantener sus secretos enterrados.",
+  "fecha_estreno": "2025-04-23",
+  "titulo_original": "The Accountant²",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ben Affleck",
+      "personaje": "Christian Wolff",
+      "foto": "https://image.tmdb.org/t/p/w500/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+    },
+    {
+      "nombre": "Jon Bernthal",
+      "personaje": "Braxton",
+      "foto": "https://image.tmdb.org/t/p/w500/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
+    },
+    {
+      "nombre": "Cynthia Addai-Robinson",
+      "personaje": "Marybeth Medina",
+      "foto": "https://image.tmdb.org/t/p/w500/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
+    },
+    {
+      "nombre": "J.K. Simmons",
+      "personaje": "Ray King",
+      "foto": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+      "nombre": "Allison Robertson",
+      "personaje": "Justine",
+      "foto": "https://image.tmdb.org/t/p/w500/77b8MAHwK2RXBO5fC4nNayqo1X2.jpg"
+    },
+    {
+      "nombre": "Alison Wright",
+      "personaje": "Justine (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yVdCk5eWk5syRrBdxjrnJ1O2Rpg.jpg"
+    },
+    {
+      "nombre": "Daniella Pineda",
+      "personaje": "Anaïs",
+      "foto": "https://image.tmdb.org/t/p/w500/o8h5qbyy8A0zKTRN57YOlQOafyQ.jpg"
+    },
+    {
+      "nombre": "Robert Morgan",
+      "personaje": "Burke",
+      "foto": "https://image.tmdb.org/t/p/w500/dZhqn7yOmgetvM2mAWU7sEMmzu7.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gavin O'Connor",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ben Affleck",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lynette Howell Taylor",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Williams",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bill Dubuque",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dani Bernfeld",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Halloran",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Joe",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alison Winter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott LaStaiti",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jamie Patricof",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bill Dubuque",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Seamus McGarvey",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Yvan Lucas",
+      "rol": "Colorist"
+    },
+    {
+      "nombre": "Richard Pearson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Christopher Brown",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Sandra Doyle Carmola",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Gavin O'Connor",
+  "valoraciones": {
+    "tmdb": 7.083,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Artists Equity",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/de/s8/2/d/E/Z/F/dEZFy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=RwXDphhQ9Tg"
+}
