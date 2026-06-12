@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 646380,
+  "poster": "https://image.tmdb.org/t/p/w500/2JW1Uhs12ZsnxHG8EUbK5uHNK1J.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/v1I0JF3VNmkMZrqkSddQ7hhSD1a.png",
+  "titulo": "No miren arriba",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Ciencia ficción",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.065,
+  "año": "2021",
+  "duracion": "2h 18min",
+  "edad_minima": 13,
+  "sinopsis": "Dos astrónomos realizan una gira mediática para advertirle a la humanidad de un cometa mortal que está en rumbo de colisión con la Tierra. La respuesta del mundo: ¿Y?",
+  "fecha_estreno": "2021-12-08",
+  "titulo_original": "Don't Look Up",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Leonardo DiCaprio",
+      "personaje": "Dr. Randall Mindy",
+      "foto": "https://image.tmdb.org/t/p/w500/mkdRcVIQl4WZhDf1vXKWTD7HZrZ.jpg"
+    },
+    {
+      "nombre": "Jennifer Lawrence",
+      "personaje": "Kate Dibiasky",
+      "foto": "https://image.tmdb.org/t/p/w500/k6CsASaySnS3ag0Y2Ns2vqPahVn.jpg"
+    },
+    {
+      "nombre": "Meryl Streep",
+      "personaje": "President Orlean",
+      "foto": "https://image.tmdb.org/t/p/w500/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+    },
+    {
+      "nombre": "Cate Blanchett",
+      "personaje": "Brie Evantee",
+      "foto": "https://image.tmdb.org/t/p/w500/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+    },
+    {
+      "nombre": "Rob Morgan",
+      "personaje": "Dr. Teddy Oglethorpe",
+      "foto": "https://image.tmdb.org/t/p/w500/ps6wR3JZnk6MY9tbtOLORgadqs6.jpg"
+    },
+    {
+      "nombre": "Jonah Hill",
+      "personaje": "Jason Orlean",
+      "foto": "https://image.tmdb.org/t/p/w500/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+    },
+    {
+      "nombre": "Mark Rylance",
+      "personaje": "Peter Isherwell",
+      "foto": "https://image.tmdb.org/t/p/w500/bztEZRyXrvW3Pg1fexNASXlZrq7.jpg"
+    },
+    {
+      "nombre": "Tyler Perry",
+      "personaje": "Jack Bremmer",
+      "foto": "https://image.tmdb.org/t/p/w500/8KU0OizemVLrERXt5HJIa0PAkIN.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Adam McKay",
+      "rol": "Story"
+    },
+    {
+      "nombre": "David Sirota",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Adam McKay",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Adam McKay",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Adam McKay",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin J. Messick",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nicholas Britell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Will O'Connor",
+      "rol": "Location Production Assistant"
+    },
+    {
+      "nombre": "Liz Bernstrom",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Elliott Glick",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Patrick Scalise",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Raymond Gieringer",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Brad Ricker",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Juliet Loveland",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Sherryn Smith",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Jared Patrick Gerbig",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Shawnna Thibodeau",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jeremy Fry",
+      "rol": "Stunt Coordinator"
+    }
+  ],
+  "director": "Adam McKay",
+  "valoraciones": {
+    "tmdb": 7.065,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Hyperobject Industries",
+  "enlace_video": "https://1a-1791.com/video/fww1/cc/s8/2/-/K/J/x/-KJxz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=kWkUg22UbVg"
+}
