@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 974453,
+  "poster": "https://image.tmdb.org/t/p/w500/6QsBGrKAs6pgypqkqVVyHICJnpY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7ZhsaVTAqKCc1yChnxgEkAe7W3W.png",
+  "titulo": "Implacable",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense",
+    "Misterio"
+  ],
+  "calificacion": "D",
+  "puntuacion": 5.892,
+  "año": "2024",
+  "duracion": "1h 52min",
+  "edad_minima": 13,
+  "sinopsis": "THUG es solo eso: el retrato de un matón. Un gángster veterano que ha vivido una larga vida criminal intenta reconectarse con sus hijos y rectificar los errores de su pasado, pero se ve obstaculizado por el inframundo criminal en que se vio envuelto, que se niega a dejarlo ir, al menos, no como él espera. Thug debe elegir entre la lealtad a su antigua vida y la oportunidad de empezar de nuevo antes de que sea demasiado tarde.",
+  "fecha_estreno": "2024-10-31",
+  "titulo_original": "Absolution",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Liam Neeson",
+      "personaje": "Thug",
+      "foto": "https://image.tmdb.org/t/p/w500/g0iIEyt9ILiKTG0g8K69US5VtLy.jpg"
+    },
+    {
+      "nombre": "Ron Perlman",
+      "personaje": "Charlie Conner",
+      "foto": "https://image.tmdb.org/t/p/w500/pOgMRdJhbBsvwGLRFXPRASTfcay.jpg"
+    },
+    {
+      "nombre": "Yolonda Ross",
+      "personaje": "Woman",
+      "foto": "https://image.tmdb.org/t/p/w500/ifu8J2Je89W2O2MwOO8P5GW7fYb.jpg"
+    },
+    {
+      "nombre": "Frankie Shaw",
+      "personaje": "Daisy",
+      "foto": "https://image.tmdb.org/t/p/w500/yY8wTV6PCnkuW333D15yqsdBfYg.jpg"
+    },
+    {
+      "nombre": "Daniel Diemer",
+      "personaje": "Kyle Conner",
+      "foto": "https://image.tmdb.org/t/p/w500/dWG4JHn8DKm3VFHlcFYPPxovdak.jpg"
+    },
+    {
+      "nombre": "Jimmy Gonzáles",
+      "personaje": "Diego Machado",
+      "foto": "https://image.tmdb.org/t/p/w500/jEJ5TdOeqOJyopKMEc8w9qDtsuN.jpg"
+    },
+    {
+      "nombre": "Josh Drennen",
+      "personaje": "Thug's Dad",
+      "foto": "https://image.tmdb.org/t/p/w500/fQ6zkA9AbEoA0KFqlyPNQ6eQxjp.jpg"
+    },
+    {
+      "nombre": "Deanna Tarraza",
+      "personaje": "Araceli",
+      "foto": "https://image.tmdb.org/t/p/w500/loZuTtsJmFsMxuaOoa2gY4pV8bA.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Hans Petter Moland",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Roger Birnbaum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Besman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eric Gold",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tony Gayton",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Warren T. Goz",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "James Masciello",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mitchell Zhang",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew Sidari",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dean Egan",
+      "rol": "Steadicam Operator"
+    },
+    {
+      "nombre": "Patrick Hines",
+      "rol": "Best Boy Electric"
+    },
+    {
+      "nombre": "Gisle Tveito",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Brian Hakala",
+      "rol": "Set Dressing Buyer"
+    },
+    {
+      "nombre": "Lauren Mooney",
+      "rol": "Set Dresser"
+    },
+    {
+      "nombre": "Paul Marini",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Aaron Emery",
+      "rol": "Carpenter"
+    },
+    {
+      "nombre": "Helen Eggleston Peabody",
+      "rol": "Set Dresser"
+    },
+    {
+      "nombre": "Bree Dagdagan",
+      "rol": "Scenic Artist"
+    }
+  ],
+  "director": "Hans Petter Moland",
+  "valoraciones": {
+    "tmdb": 5.892,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Electromagnetic Productions",
+  "enlace_video": "https://1a-1791.com/video/fww1/02/s8/2/d/W/S/D/dWSDy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=m0zbtMTXZog"
+}
