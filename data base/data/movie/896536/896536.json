@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 896536,
+  "poster": "https://image.tmdb.org/t/p/w500/vxqgIV6NBWGUZzwDQHgzSGz5DYN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yMatVGaUxw3Vi3Z0RsLetvcSYko.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rzz1x4MvdFed4HSG9PyjbVv7dFb.png",
+  "titulo": "La Leyenda de Ochi",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Fantasía",
+    "Aventura"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.2,
+  "año": "2025",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "En una aldea remota de la isla de Carpatia, Yuri, una tímida campesina, es criada con el miedo a una especie animal esquiva llamada ochi. Pero cuando Yuri descubre que han abandonado a un bebé ochi herido, emprende una misión para traerlo a casa",
+  "fecha_estreno": "2025-04-18",
+  "titulo_original": "The Legend of Ochi",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Helena Zengel",
+      "personaje": "Yuri",
+      "foto": "https://image.tmdb.org/t/p/w500/6ousX9QcimaM2tuaeBcqYEfBjKG.jpg"
+    },
+    {
+      "nombre": "Willem Dafoe",
+      "personaje": "Maxim",
+      "foto": "https://image.tmdb.org/t/p/w500/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "nombre": "Emily Watson",
+      "personaje": "Dasha",
+      "foto": "https://image.tmdb.org/t/p/w500/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+    },
+    {
+      "nombre": "Finn Wolfhard",
+      "personaje": "Petro",
+      "foto": "https://image.tmdb.org/t/p/w500/vgjd34eWfVL6GsLHwiwcAsjWLmo.jpg"
+    },
+    {
+      "nombre": "Carol Bors",
+      "personaje": "Oleg",
+      "foto": "https://image.tmdb.org/t/p/w500/aRR46mTgDnuaTuAtojf83F74H5J.jpg"
+    },
+    {
+      "nombre": "Andrei Antoniu Anghel",
+      "personaje": "Vlad",
+      "foto": "https://image.tmdb.org/t/p/w500/uKq5CzXKCcTTvYxZF7siORyHn0d.jpg"
+    },
+    {
+      "nombre": "Razvan Stoica",
+      "personaje": "Ivan",
+      "foto": null
+    },
+    {
+      "nombre": "David Andrei Baltatu",
+      "personaje": "Gleb",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Traci Carlson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard Peete",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jonathan Wang",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Isaiah Saxon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Isaiah Saxon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Isaiah Saxon",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Evan Prosofsky",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Paul Rogers",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jason Kisvarday",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Sorin Dima",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Mugur Aurelian Popescu",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Kelsi Ephraim",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Elizabeth Warn",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Sheherezada Kouchaki",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Andrea Dardea Tesdall",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Nicoleta Toader",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Eugen Anghelescu",
+      "rol": "Construction Coordinator"
+    },
+    {
+      "nombre": "Razvan Bestea",
+      "rol": "Graphic Designer"
+    }
+  ],
+  "director": "Isaiah Saxon",
+  "valoraciones": {
+    "tmdb": 6.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "A24",
+  "enlace_video": "https://rumble.com/hls-vod/6rjqjl/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=_jTFLg3arYU"
+}
