@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 889737,
+  "poster": "https://image.tmdb.org/t/p/w500/fCQyAQ2K1N1RM5n79ZyCLRSgZuz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AVWlQpVhpudyFsSh3OQIieHHYf.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qP5nYukWHaZDJ3ciZU1J9EgVYnn.png",
+  "titulo": "Guasón 2: Folie à Deux",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 5.4,
+  "año": "2024",
+  "duracion": "2h 18min",
+  "edad_minima": 13,
+  "sinopsis": "El fracasado comediante Arthur Fleck conoce al amor de su vida, Harley Quinn, mientras está encarcelado en el Hospital Estatal de Arkham. Tras su liberación, los dos se embarcan en una desventura romántica condenada al fracaso.",
+  "fecha_estreno": "2024-10-01",
+  "titulo_original": "Joker: Folie à Deux",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Joaquin Phoenix",
+      "personaje": "Arthur Fleck",
+      "foto": "https://image.tmdb.org/t/p/w500/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+    },
+    {
+      "nombre": "Lady Gaga",
+      "personaje": "Lee Quinzel",
+      "foto": "https://image.tmdb.org/t/p/w500/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg"
+    },
+    {
+      "nombre": "Brendan Gleeson",
+      "personaje": "Jackie Sullivan",
+      "foto": "https://image.tmdb.org/t/p/w500/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    },
+    {
+      "nombre": "Catherine Keener",
+      "personaje": "Maryanne Stewart",
+      "foto": "https://image.tmdb.org/t/p/w500/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+    },
+    {
+      "nombre": "Zazie Beetz",
+      "personaje": "Sophie Dumond",
+      "foto": "https://image.tmdb.org/t/p/w500/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+    },
+    {
+      "nombre": "Steve Coogan",
+      "personaje": "Paddy Meyers",
+      "foto": "https://image.tmdb.org/t/p/w500/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+    },
+    {
+      "nombre": "Harry Lawtey",
+      "personaje": "Harvey Dent",
+      "foto": "https://image.tmdb.org/t/p/w500/l2qFs3TntkZD0G3zFEd1o2DXSWX.jpg"
+    },
+    {
+      "nombre": "Leigh Gill",
+      "personaje": "Gary Puddles",
+      "foto": "https://image.tmdb.org/t/p/w500/stbbWD89FQWa34TNVyxVj5xBVIm.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Todd Phillips",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Emma Tillinger Koskoff",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joseph Garner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Scott Silver",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Todd Phillips",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Todd Phillips",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Bill Finger",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jerry Robinson",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Georgia Kacandes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeff Groth",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mia Bauman",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Ryan Robert Howard",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Heather Galipo",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Georgia Kacandes",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Mitchell Beck",
+      "rol": "Key Hair Stylist"
+    },
+    {
+      "nombre": "Brian Machleit",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Nicki Ledermann",
+      "rol": "Makeup Designer"
+    }
+  ],
+  "director": "Todd Phillips",
+  "valoraciones": {
+    "tmdb": 5.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/I/T/y/g/ITygu.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=fiqqAI0e4Nc"
+}
