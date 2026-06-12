@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 980489,
+  "poster": "https://image.tmdb.org/t/p/w500/tVj5dn15iwkMhjU2wIih1yMy5LK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xsEVAuWy4tnNP7aUd9YHltIIqSA.png",
+  "titulo": "Gran Turismo: De jugador a corredor",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Drama",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.711,
+  "año": "2023",
+  "duracion": "2h 15min",
+  "edad_minima": 13,
+  "sinopsis": "Jann Mardenborough, un habilidoso jugador adolescente de Gran Turismo, logra entrar a una serie de competiciones patrocinadas por Nissan que lo conducirá a convertirse en un auténtico piloto de carreras profesional. Basada en una historia real.",
+  "fecha_estreno": "2023-08-09",
+  "titulo_original": "Gran Turismo",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Archie Madekwe",
+      "personaje": "Jann Mardenborough",
+      "foto": "https://image.tmdb.org/t/p/w500/m1pIkNA7iqDx8418h05D7aH6DTN.jpg"
+    },
+    {
+      "nombre": "David Harbour",
+      "personaje": "Jack Salter",
+      "foto": "https://image.tmdb.org/t/p/w500/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+    },
+    {
+      "nombre": "Orlando Bloom",
+      "personaje": "Danny Moore",
+      "foto": "https://image.tmdb.org/t/p/w500/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+    },
+    {
+      "nombre": "Djimon Hounsou",
+      "personaje": "Steve Mardenborough",
+      "foto": "https://image.tmdb.org/t/p/w500/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+    },
+    {
+      "nombre": "Darren Barnet",
+      "personaje": "Matty Davis",
+      "foto": "https://image.tmdb.org/t/p/w500/z3hQP19QgHsKZ4j0sXNzrhScDMO.jpg"
+    },
+    {
+      "nombre": "Maeve Courtier-Lilley",
+      "personaje": "Audrey",
+      "foto": "https://image.tmdb.org/t/p/w500/b8gS6PXvdxrLqwZLLHvS0s8ZkJk.jpg"
+    },
+    {
+      "nombre": "Geri Halliwell-Horner",
+      "personaje": "Lesley Mardenborough",
+      "foto": "https://image.tmdb.org/t/p/w500/7TKoLQ9Xh1eVxC0KbfrPWewVika.jpg"
+    },
+    {
+      "nombre": "Daniel Puig",
+      "personaje": "Coby Mardenborough",
+      "foto": "https://image.tmdb.org/t/p/w500/tA3KIn1z8tRwVzbWxdGlj1b4qIZ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Neill Blomkamp",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Asad Qizilbash",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Carter Swan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Doug Belgrad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dana Brunetti",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Hall",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Zach Baylin",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Austyn Daines",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Andrew Kawczynski",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jason Hall",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kazunori Yamauchi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josephine Allegretti",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Jacques Jouffret",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Hermen Hulst",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew Hirsch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "György Kökényesi",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Balázs Lengyel",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Robert Nagle",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Béla Orsányi",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Neill Blomkamp",
+  "valoraciones": {
+    "tmdb": 7.711,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "PlayStation Productions",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/W/b/h/e/Wbhes.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=f5IRCGKZgJY"
+}
