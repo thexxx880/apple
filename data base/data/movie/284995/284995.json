@@ -1,0 +1,95 @@
+{
+  "id_tmdb": 284995,
+  "poster": "https://image.tmdb.org/t/p/w500/eNWs7JRyL4Do5bqlz1kACgHPH1H.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8y0TzKXeyQa56YVduWU3R63d361.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8qtStrHEMYAPt8Meo3oPxYQeJH8.png",
+  "titulo": "Scooby-Doo! y el Frankenmonstruo",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Misterio",
+    "Comedia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.6,
+  "año": "2014",
+  "duracion": "1h 14min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando la pandilla de Scooby visita el extraño pueblo de Transylvania, Pennsylvania, se ven envueltos en una lucha contra un monstruo parecido a Frankenstein que se asemeja a malhechores del pasado.",
+  "fecha_estreno": "2014-08-05",
+  "titulo_original": "Scooby-Doo! Frankencreepy",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Fred / Scooby-Doo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Matthew Lillard",
+      "personaje": "Shaggy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    },
+    {
+      "nombre": "Mindy Cohn",
+      "personaje": "Velma (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AcEAchSYIUiRInwyD8nPwj8ztZa.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Daphne (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "C.L. Magnus / Mr. Burger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Diedrich Bader",
+      "personaje": "Mrs. Vanders (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/z7CctykPTuXDfAs7pkAA7vW4b3T.jpg"
+    },
+    {
+      "nombre": "Susanne Blakeslee",
+      "personaje": "Townswoman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5s4vquKADCS90iOiEwgCTZkaQjX.jpg"
+    },
+    {
+      "nombre": "Eric Bauza",
+      "personaje": "Daphanatic / Rock Dude (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Paul McEvoy",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jim Krieg",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Paul McEvoy",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Andy Sturmer",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Paul McEvoy",
+  "valoraciones": {
+    "tmdb": 7.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://rumble.com/hls-vod/7905kw/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=MrG_4A8X8GE"
+}
