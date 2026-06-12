@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1197306,
+  "poster": "https://image.tmdb.org/t/p/w500/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/glIqxFNDJFHrLgg7JBdQCx2sl1v.png",
+  "titulo": "Rescate implacable",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.695,
+  "año": "2025",
+  "duracion": "1h 56min",
+  "edad_minima": 13,
+  "sinopsis": "Levon Cade dejó atrás una distinguida carrera militar en operaciones encubiertas para llevar una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, quien es como familia para él, es capturada por traficantes de personas, su búsqueda para traerla de regreso revela un mundo de corrupción mucho mayor de lo que jamás pudo imaginar.",
+  "fecha_estreno": "2025-03-26",
+  "titulo_original": "A Working Man",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Jason Statham",
+      "personaje": "Levon Cade",
+      "foto": "https://image.tmdb.org/t/p/w500/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+    },
+    {
+      "nombre": "Jason Flemyng",
+      "personaje": "Wolo Kolisnyk",
+      "foto": "https://image.tmdb.org/t/p/w500/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+    },
+    {
+      "nombre": "Merab Ninidze",
+      "personaje": "Yuri",
+      "foto": "https://image.tmdb.org/t/p/w500/crnBu4gGp3JL92S940XKb8517HW.jpg"
+    },
+    {
+      "nombre": "Maximilian Osinski",
+      "personaje": "Dimi Kolisnyk",
+      "foto": "https://image.tmdb.org/t/p/w500/wMRtFsZSR9FvYj1wzsziKQqpZ0C.jpg"
+    },
+    {
+      "nombre": "Cokey Falkow",
+      "personaje": "Dougie",
+      "foto": "https://image.tmdb.org/t/p/w500/2VEMBUOHKZbpypEuso8jyxSo3Yc.jpg"
+    },
+    {
+      "nombre": "Michael Peña",
+      "personaje": "Joe Garcia",
+      "foto": "https://image.tmdb.org/t/p/w500/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+    },
+    {
+      "nombre": "David Harbour",
+      "personaje": "Gunny Lefferty",
+      "foto": "https://image.tmdb.org/t/p/w500/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+    },
+    {
+      "nombre": "Noemi Gonzalez",
+      "personaje": "Carla Garcia",
+      "foto": "https://image.tmdb.org/t/p/w500/9BXgDrNRYy6wp0gxFP5qpqc6B5x.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Ayer",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Ayer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Statham",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Long",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Friedberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin King Templeton",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chuck Dixon",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Marvin Berrembou",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Wayne Shields",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Alexander Bracq",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Alexander Bracq",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Aidan Brindle",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Luke Tumber",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jared Michael Fry",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Shawn White",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Tiziana Corvisieri",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Catherine Heys",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Catherine Heys",
+      "rol": "Makeup Designer"
+    }
+  ],
+  "director": "David Ayer",
+  "valoraciones": {
+    "tmdb": 6.695,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cedar Park Entertainment",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/1d/s8/2/j/Q/H/y/jQHyy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=mdfrG2cLK58"
+}
