@@ -1,0 +1,116 @@
+{
+  "id_tmdb": 41293,
+  "poster": "https://image.tmdb.org/t/p/w500/fvAGCoHL5Dez8IZank0XKcGenHo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5Eim0aLoTzZk7QC6TcxIHlwCC0C.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/g4IAt5IDNs526NxF5pY2y1dRR3o.png",
+  "titulo": "Caballero a la Medida",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.1,
+  "año": "1954",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Cantinflas trabaja como modelo de smokings en una prestigiosa tienda; su labor consiste en usar el smoking en la calle junto con un letrero publicitario en sus espaldas. El uso del smoking le permite acceder a lugares exclusivos y encontrarse con gente importante. Durante este tiempo, Cantinflas es mánager de un boxeador amateur, asistente de una atractiva enfermera y ocasionalmente asiste a un sacerdote en la iglesia y en el orfanato. Sin embargo, un día Cantinflas, mientras usaba el smoking, se encuentra con un hombre rico, el cual erróneamente cree que Cantinflas es también millonario.",
+  "fecha_estreno": "1954-09-01",
+  "titulo_original": "Caballero a la medida",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Cantinflas",
+      "personaje": "Cantinflas",
+      "foto": "https://image.tmdb.org/t/p/w500/iASObohpLJzqYQM6bQzyup3QvEs.jpg"
+    },
+    {
+      "nombre": "Martha Valdés",
+      "personaje": "Lita",
+      "foto": "https://image.tmdb.org/t/p/w500/cGQHhHYwATElr7KtC67P5aHiOAK.jpg"
+    },
+    {
+      "nombre": "Ángel Garasa",
+      "personaje": "Don Pascual Lachica",
+      "foto": "https://image.tmdb.org/t/p/w500/dyMJLMShnNUQTfy8ZPx9zU0PY5Z.jpg"
+    },
+    {
+      "nombre": "Domingo Soler",
+      "personaje": "Padre Feliciano",
+      "foto": "https://image.tmdb.org/t/p/w500/3kPUJnGcciq4MXsuSoRz6T6YuGN.jpg"
+    },
+    {
+      "nombre": "Wolf Ruvinskis",
+      "personaje": "Chucho el Sacristán",
+      "foto": "https://image.tmdb.org/t/p/w500/zru77H8Rgdlk9RzFnnkq0uwdulF.jpg"
+    },
+    {
+      "nombre": "Miguel Arenas",
+      "personaje": "Don Simón Sicario",
+      "foto": "https://image.tmdb.org/t/p/w500/jZzzM3orPzdO4YhERc9yrDRQCMP.jpg"
+    },
+    {
+      "nombre": "Carlota Solares",
+      "personaje": "Señora de Lachica",
+      "foto": "https://image.tmdb.org/t/p/w500/epGOkrGJQFZuBUN5NKh0gMxTBvt.jpg"
+    },
+    {
+      "nombre": "Arturo Martínez",
+      "personaje": "El chivato",
+      "foto": "https://image.tmdb.org/t/p/w500/wrukjg3P8Fy86K2QpfaI9d5VKCY.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Miguel M. Delgado",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Miguel M. Delgado",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jaime Salvador",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jacques Gelman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Raúl Lavista",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Víctor Herrera",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jorge Bustos",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Gunther Gerszo",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jorge Benavides",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Carlos Martel",
+      "rol": "Camera Operator"
+    }
+  ],
+  "director": "Miguel M. Delgado",
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "POSA Films",
+  "enlace_video": "https://rumble.com/hls-vod/6s3t2r/playlist.m3u8",
+  "trailer": ""
+}
