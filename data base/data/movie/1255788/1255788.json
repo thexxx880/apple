@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 1255788,
+  "poster": "https://image.tmdb.org/t/p/w500/li4rkJV8iwH2XP5GO8vDUVSlueg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/HGmX2QmO1a67a1awAfHFEnDCiF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/sT9P8SE7k6OsszpLvKkYX0BGYbg.png",
+  "titulo": "Operación Arriesgada",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.071,
+  "año": "2025",
+  "duracion": "1h 48min",
+  "edad_minima": 13,
+  "sinopsis": "Serge Shuster, un alto funcionario vinculado a la Presidencia queda atrapado en una conspiración mortal que pone su nombre en una lista de personas etiquetadas como amenazas al Estado.",
+  "fecha_estreno": "2025-01-30",
+  "titulo_original": "Le Jardinier",
+  "pais_origen": "Belgium",
+  "reparto": [
+    {
+      "nombre": "Jean-Claude Van Damme",
+      "personaje": "Léo",
+      "foto": "https://image.tmdb.org/t/p/w500/7DP3bm3MS0qa0L8tBLHGebbCu6H.jpg"
+    },
+    {
+      "nombre": "Michaël Youn",
+      "personaje": "Serge Shuster",
+      "foto": "https://image.tmdb.org/t/p/w500/zSicg5cNaIUXZwkmFQReWy3U5Mf.jpg"
+    },
+    {
+      "nombre": "Nawell Madani",
+      "personaje": "Mia",
+      "foto": "https://image.tmdb.org/t/p/w500/dI0m2LDfBHT5zdBftPBOHRo5pYL.jpg"
+    },
+    {
+      "nombre": "Carla Poquin",
+      "personaje": "Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/8LbtlGn2ZjvruelKyFXius2ex7o.jpg"
+    },
+    {
+      "nombre": "Jérôme Le Banner",
+      "personaje": "Phoebus",
+      "foto": "https://image.tmdb.org/t/p/w500/sGx65xN4yQvxGHr7woz27BhUoCW.jpg"
+    },
+    {
+      "nombre": "Ragnar Le Breton",
+      "personaje": "Esmeralda",
+      "foto": "https://image.tmdb.org/t/p/w500/5ATzaSUK8BZaCVUjFGFO52NqtQ0.jpg"
+    },
+    {
+      "nombre": "Kaaris",
+      "personaje": "Quasimodo",
+      "foto": "https://image.tmdb.org/t/p/w500/79mY1thrZp1jozSqY5JxNWYroYq.jpg"
+    },
+    {
+      "nombre": "Danielle Renault",
+      "personaje": "Jeanne",
+      "foto": "https://image.tmdb.org/t/p/w500/4jYAE54YD9Cq3Rf4al3d2ByAJ2e.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Charhon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Charhon",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Vincent de Brus",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sebastien Fechner",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sebastien Fechner",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Thierry Arbogast",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Hubert Pouille",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Sybille Langh",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jennifer Courouge",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Oriane De Neve",
+      "rol": "Makeup Effects"
+    },
+    {
+      "nombre": "Vincent Canaple",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Laurent Demianoff",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Florence Gilson",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Morgane Mingers",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Matthias Morard",
+      "rol": "Second Unit First Assistant Director"
+    },
+    {
+      "nombre": "Melvin Nkosi",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Roger Torremorell",
+      "rol": "Second Second Assistant Director"
+    }
+  ],
+  "director": "David Charhon",
+  "valoraciones": {
+    "tmdb": 6.071,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "uMedia",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe1/ed/s8/2/g/N/A/o/gNAoy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=a4NMxIBEdYU"
+}
