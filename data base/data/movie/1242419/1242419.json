@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1242419,
+  "poster": "https://image.tmdb.org/t/p/w500/yoc4yqlsqnJ6Y4SrbouE54jRuRq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/E7hhuSZ1U5xymN2Olg2EOr4N4P.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5eGctSGF6iBtkl2G5TOGZmDcPwv.png",
+  "titulo": "Un Buen Ladrón",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Comedia",
+    "Drama"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.091,
+  "año": "2025",
+  "duracion": "2h 6min",
+  "edad_minima": 13,
+  "sinopsis": "Después de escapar de prisión, el exsoldado y ladrón profesional Jeffrey Manchester encuentra refugio en una tienda Toys \"R\" Us, donde logra sobrevivir durante meses sin ser descubierto mientras planea su próximo movimiento. Sin embargo, cuando se enamora de una madre divorciada, su doble vida comienza a desmoronarse.",
+  "fecha_estreno": "2025-10-06",
+  "titulo_original": "Roofman",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Channing Tatum",
+      "personaje": "Jeffrey Manchester",
+      "foto": "https://image.tmdb.org/t/p/w500/4TpgnS6l8YUXSne9Av9nda6mjxY.jpg"
+    },
+    {
+      "nombre": "Kirsten Dunst",
+      "personaje": "Leigh Wainscott",
+      "foto": "https://image.tmdb.org/t/p/w500/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+    },
+    {
+      "nombre": "Ben Mendelsohn",
+      "personaje": "Pastor Ron",
+      "foto": "https://image.tmdb.org/t/p/w500/pA9mu9D2IolVA0v2Yo0tJm6uUyI.jpg"
+    },
+    {
+      "nombre": "LaKeith Stanfield",
+      "personaje": "Steve",
+      "foto": "https://image.tmdb.org/t/p/w500/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
+    },
+    {
+      "nombre": "Juno Temple",
+      "personaje": "Michelle",
+      "foto": "https://image.tmdb.org/t/p/w500/n20TNExAma6q9iVcWtPRxLl7pEc.jpg"
+    },
+    {
+      "nombre": "Melonie Díaz",
+      "personaje": "Talena",
+      "foto": "https://image.tmdb.org/t/p/w500/bZw2waOzKDE74crNL02L9EsBiH4.jpg"
+    },
+    {
+      "nombre": "Uzo Aduba",
+      "personaje": "Eileen",
+      "foto": "https://image.tmdb.org/t/p/w500/VXzHXOKBTAcNmhAHHYPiNmhxwF.jpg"
+    },
+    {
+      "nombre": "Lily Collias",
+      "personaje": "Lindsay",
+      "foto": "https://image.tmdb.org/t/p/w500/cy7BAIoU9PVvaADzaHb8Uykelhq.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Derek Cianfrance",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lynette Howell Taylor",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jamie Patricof",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dylan Sellers",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Orlovsky",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Duncan Montgomery",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Derek Cianfrance",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kirt Gunn",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chris Parker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Channing Tatum",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Derek Cianfrance",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan Montepare",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan Glickman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Becky Sloviter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thom Zadra",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jack Selby",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Romano",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rick Covert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charles M. Barsamian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrij Parekh",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Derek Cianfrance",
+  "valoraciones": {
+    "tmdb": 7.091,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Limelight",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/25/s8/2/0/h/U/z/0hUzz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=IHikM7vFXsA"
+}
