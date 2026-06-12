@@ -1,0 +1,132 @@
+{
+  "id_tmdb": 82779,
+  "poster": "https://image.tmdb.org/t/p/w500/rGmP5zYLDi7fokr1ndIomoqDVDl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sKAQmYZjCJAsg44WoctIGbo70oM.jpg",
+  "logo": null,
+  "titulo": "El Señor Fotógrafo",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Suspense"
+  ],
+  "calificacion": "APTA",
+  "puntuacion": 8.285,
+  "año": "1953",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Cantinflas, fotógrafo ambulante, es capturado por unos gángsters cuando trataba de tomar unas flores para su novia, Consuelo. Los gángsters le han confundido con el ayudante del doctor Penongo, científico que ha descubierto la fórmula de una nueva bomba atómica. Mientras tanto, Penongo ha sufrido un accidente de automóvil y ha perdido la memoria...",
+  "fecha_estreno": "1953-09-02",
+  "titulo_original": "El señor fotógrafo",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Cantinflas",
+      "personaje": "Cantinflas",
+      "foto": "https://image.tmdb.org/t/p/w500/iASObohpLJzqYQM6bQzyup3QvEs.jpg"
+    },
+    {
+      "nombre": "Rosita Arenas",
+      "personaje": "Chelito",
+      "foto": "https://image.tmdb.org/t/p/w500/amlAhsKiWu5v9QDRjnJHHoqE1WT.jpg"
+    },
+    {
+      "nombre": "Ángel Garasa",
+      "personaje": "Raúl Penagos",
+      "foto": "https://image.tmdb.org/t/p/w500/dyMJLMShnNUQTfy8ZPx9zU0PY5Z.jpg"
+    },
+    {
+      "nombre": "Rebeca Iturbide",
+      "personaje": "Diana Alvírez",
+      "foto": "https://image.tmdb.org/t/p/w500/pbIJbiobBxAS3BbzeoadvE6X4ix.jpg"
+    },
+    {
+      "nombre": "Fernando Wagner",
+      "personaje": "Leader of the villains",
+      "foto": "https://image.tmdb.org/t/p/w500/dvP1RWJTwaaBeJJnCrbzQ29eWex.jpg"
+    },
+    {
+      "nombre": "Julio Villarreal",
+      "personaje": "Roberto Alvírez",
+      "foto": "https://image.tmdb.org/t/p/w500/icFebORl9txyH6qkwoRmuLfvdr0.jpg"
+    },
+    {
+      "nombre": "Wolf Ruvinskis",
+      "personaje": "Lepka",
+      "foto": "https://image.tmdb.org/t/p/w500/zru77H8Rgdlk9RzFnnkq0uwdulF.jpg"
+    },
+    {
+      "nombre": "José Pidal",
+      "personaje": "Doctor Saldívar",
+      "foto": "https://image.tmdb.org/t/p/w500/6eYCAPVVb1kTzzIUGpssAT7jHTM.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Miguel M. Delgado",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Miguel M. Delgado",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gabriel Figueroa",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Raúl Lavista",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jorge Bustos",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Gunther Gerszo",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ana Guerrero",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Fidel Pizarro",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Moises M. Delgado",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Jaime Salvador",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Roberto Silva",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Antonio Bustos",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "José B. Carles",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "James L. Fields",
+      "rol": "Sound"
+    }
+  ],
+  "director": "Miguel M. Delgado",
+  "valoraciones": {
+    "tmdb": 8.285,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "POSA Films",
+  "enlace_video": "https://rumble.com/hls-vod/6s3dud/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=EfbN7YWIpyc"
+}
