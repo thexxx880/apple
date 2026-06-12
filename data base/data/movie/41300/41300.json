@@ -1,0 +1,119 @@
+{
+  "id_tmdb": 41300,
+  "poster": "https://image.tmdb.org/t/p/w500/37ANYH2xOKsb6KHwYpVExmXXAXc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oNAf3P2qxcQp02AmcZJvOiHNMsI.jpg",
+  "logo": null,
+  "titulo": "Si yo fuera diputado",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.42,
+  "año": "1952",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "Cantinflas es un singular barbero (peluquero en otras zonas de Latinoamérica), quien intercambia con un anciano vecino de profesión abogado, lecciones de leyes a cambio de cortes de cabello y rasuradas. Éste le propone asesoramiento para defender en los tribunales a los desfavorecidos del barrio. Su éxito le procura los votos de diputado, ya que el otro candidato, don Próculo, no es aceptado por nadie más que por sus propios guardaespaldas. Don Próculo hará uso de cuanta artimaña conozca para ganar las elecciones por la Diputación, y también por el cariño de \"Sarita\"",
+  "fecha_estreno": "1952-01-30",
+  "titulo_original": "Si yo fuera diputado",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Cantinflas",
+      "personaje": "Cantinflas",
+      "foto": "https://image.tmdb.org/t/p/w500/iASObohpLJzqYQM6bQzyup3QvEs.jpg"
+    },
+    {
+      "nombre": "Gloria Mange",
+      "personaje": "Sarita",
+      "foto": "https://image.tmdb.org/t/p/w500/cIGxDLwbJViC73OPYgmvKNOa8kr.jpg"
+    },
+    {
+      "nombre": "Andrés Soler",
+      "personaje": "Tío Juan",
+      "foto": "https://image.tmdb.org/t/p/w500/4wpTCqHf6wPAcCmF1bHNSQ9EUfL.jpg"
+    },
+    {
+      "nombre": "Emperatriz Carvajal",
+      "personaje": "Lucía",
+      "foto": "https://image.tmdb.org/t/p/w500/AbeJTPF2hEFut7sTAWgzEVhEylB.jpg"
+    },
+    {
+      "nombre": "Alejandro Ciangherotti",
+      "personaje": "Juliano Fraschetti",
+      "foto": "https://image.tmdb.org/t/p/w500/eeGUoqp9Ggfjzte5aSsEj7AHRKE.jpg"
+    },
+    {
+      "nombre": "Ernesto Finance",
+      "personaje": "Don Proculo L. de Guevara",
+      "foto": "https://image.tmdb.org/t/p/w500/fDEjByP3TrOUgxYE3X3LBFtH9vq.jpg"
+    },
+    {
+      "nombre": "Rafael Icardo",
+      "personaje": "Don Melquiades",
+      "foto": "https://image.tmdb.org/t/p/w500/cEswxZduGUq43OX79v6envr0yXs.jpg"
+    },
+    {
+      "nombre": "Eduardo Alcaraz",
+      "personaje": "Doctor",
+      "foto": "https://image.tmdb.org/t/p/w500/34DGuvKvj8ho0c3awpCWhl7ZWZG.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Miguel M. Delgado",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jacques Gelman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cantinflas",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Carlos León",
+      "rol": "Additional Dialogue"
+    },
+    {
+      "nombre": "Jaime Salvador",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "José Ortiz Ramos",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jorge Bustos",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Rogelio Barriga Rivas",
+      "rol": "Idea"
+    },
+    {
+      "nombre": "Gunther Gerszo",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Manuel González",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Raúl Lavista",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Miguel M. Delgado",
+  "valoraciones": {
+    "tmdb": 7.42,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "POSA Films",
+  "enlace_video": "https://rumble.com/hls-vod/6s3cn1/playlist.m3u8",
+  "trailer": ""
+}
