@@ -1,0 +1,122 @@
+{
+  "id_tmdb": 45752,
+  "poster": "https://image.tmdb.org/t/p/w500/odIvS781cBXRLkzlVis2jpQaxCz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9eUbBLai6gCViYh10G5mkAcxsrw.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wvw4ABMUCTsht2jOmdvjzIjCBh9.png",
+  "titulo": "Scooby-Doo! Miedo en el campamento",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Misterio"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.8,
+  "año": "2010",
+  "duracion": "1h 12min",
+  "edad_minima": 13,
+  "sinopsis": "Scooby-Doo y sus amigos se encuentran en un campamento de verano en el que cada vez que alguien cuenta una historia de miedo, la criatura de la que se habla ¡cobra vida!. Pero la pandilla de Misterio a La Orden no se asusta tan fácilmente. Reúnanse alrededor de la fogata para asar algunos chicos malos. Scooby-Doo, Shaggy, Freddy, Daphne y Vilma tratan de obtener pistas para resolver los misterios del Hombre del Bosque, el Pescador y el Espíritu del Cañón Negro. Y, por supuesto, ¡Shaggy y Scooby-Doo siguen muy de cerca el caso Qué hay para cenar!",
+  "fecha_estreno": "2010-09-14",
+  "titulo_original": "Scooby-Doo! Camp Scare",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Fred / Scooby Doo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Mindy Cohn",
+      "personaje": "Velma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AcEAchSYIUiRInwyD8nPwj8ztZa.jpg"
+    },
+    {
+      "nombre": "Matthew Lillard",
+      "personaje": "Shaggy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Daphne (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Ranger Knudsen / Woodsman / Spectre / Fishman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Mark Hamill",
+      "personaje": "Deacon / Babyface Boretti / Store Owner (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    },
+    {
+      "nombre": "Phil LaMarr",
+      "personaje": "Darryl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+    },
+    {
+      "nombre": "Scott Menville",
+      "personaje": "Luke (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iLoApH8LbyJSKFmdgWxNR314GGa.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Spike Brandt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tony Cervone",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jed Elinoff",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Scott Thomas",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ethan Spaulding",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ted Blackman",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Eric Semones",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Joseph Molinari",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Robert J. Kral",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Ethan Spaulding",
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://rumble.com/hls-vod/790998/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=VHfSRMrQ43E"
+}
