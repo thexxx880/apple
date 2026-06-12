@@ -1,0 +1,118 @@
+{
+  "id_tmdb": 1029119,
+  "poster": "https://image.tmdb.org/t/p/w500/aJ41Lkz6zQ9kg6tyebXVNe9gnN5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f2JmxZnY1njU6WlJLSgeDBORaTO.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iRoaH6IWTJrmAw7WI3j28grKUDN.png",
+  "titulo": "Minions y sus amigos: Volumen 1",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Aventura",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.028,
+  "año": "2022",
+  "duracion": "0h 44min",
+  "edad_minima": 13,
+  "sinopsis": "Esta colección de cortos de los Minions de la franquicia de «Mi villano favorito» incluye minipelículas como «Ruedines», «Cachorro» y «Yellow is the New Black».",
+  "fecha_estreno": "2022-09-27",
+  "titulo_original": "Minions & More Volume 1",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Pierre Coffin",
+      "personaje": "Minions (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+    },
+    {
+      "nombre": "Raymond S. Persi",
+      "personaje": "Head Elf (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/37HnYfTAHhtAmWdl4NlVAOR7vCW.jpg"
+    },
+    {
+      "nombre": "Carlos Alazraqui",
+      "personaje": "Santa / Driver / Adult Reindeer / Elves (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg"
+    },
+    {
+      "nombre": "Tara Strong",
+      "personaje": "Scouts / Shop Owner / Baby Reindeer / Elves (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+    },
+    {
+      "nombre": "Brian T. Delaney",
+      "personaje": "Mailman / Adult Reindeer / Elves (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yn7tyXdk03iFdeNybAFDlCbH3di.jpg"
+    },
+    {
+      "nombre": "Miranda Cosgrove",
+      "personaje": "Margo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qIGeoyXEVu1LxTH34TWx1YSHyQr.jpg"
+    },
+    {
+      "nombre": "Jessica DiCicco",
+      "personaje": "Scouts (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1Cp0PFtup0mlsecGyfImzd4LDiL.jpg"
+    },
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "Scout Master (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ui1Lj71sPMpJJskMcrbPzqP7EM.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Van Robichaux",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Brett Hoffman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bruno Chauffard",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chris Meledandri",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brett Konner",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Josh Lieb",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Derek Drymon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Thierry Noblet",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dr. Seuss",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Mac Smith",
+      "rol": "Sound Editor"
+    }
+  ],
+  "director": "Bruno Chauffard",
+  "valoraciones": {
+    "tmdb": 7.028,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Illumination",
+  "enlace_video": "https://rumble.com/hls-vod/76gspe/playlist.m3u8?u=0&b=0",
+  "trailer": ""
+}
