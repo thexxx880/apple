@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 302946,
+  "poster": "https://image.tmdb.org/t/p/w500/vydyhlv2fOqQYbzWmschOkupgOb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/h7XtaFPIYY3NPIFP4P3JmTpBqZc.png",
+  "titulo": "El contador",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Suspense",
+    "Drama"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.138,
+  "año": "2016",
+  "duracion": "2h 8min",
+  "edad_minima": 13,
+  "sinopsis": "Christian Wolff es un contador y genio matemático, un hombre extremadamente tranquilo, obsesivo con el orden y con mucha más afinidad con los números que con las personas, que lleva una doble vida como asesino despiadado.",
+  "fecha_estreno": "2016-10-13",
+  "titulo_original": "The Accountant",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ben Affleck",
+      "personaje": "Christian Wolff",
+      "foto": "https://image.tmdb.org/t/p/w500/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+    },
+    {
+      "nombre": "Anna Kendrick",
+      "personaje": "Dana Cummings",
+      "foto": "https://image.tmdb.org/t/p/w500/awWu2Wdd5C9KmG4hhs840QZWpLU.jpg"
+    },
+    {
+      "nombre": "J.K. Simmons",
+      "personaje": "Ray King",
+      "foto": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+      "nombre": "Jon Bernthal",
+      "personaje": "Brax",
+      "foto": "https://image.tmdb.org/t/p/w500/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
+    },
+    {
+      "nombre": "Jeffrey Tambor",
+      "personaje": "Francis Silverberg",
+      "foto": "https://image.tmdb.org/t/p/w500/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+    },
+    {
+      "nombre": "Cynthia Addai-Robinson",
+      "personaje": "Marybeth Medina",
+      "foto": "https://image.tmdb.org/t/p/w500/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
+    },
+    {
+      "nombre": "John Lithgow",
+      "personaje": "Lamar Blackburn",
+      "foto": "https://image.tmdb.org/t/p/w500/ajfuBSm1HuVqFJlbTmAlza62Xxr.jpg"
+    },
+    {
+      "nombre": "Jean Smart",
+      "personaje": "Rita Blackburn",
+      "foto": "https://image.tmdb.org/t/p/w500/gOvEAOtrtedfgS7oQvPgHuJV4F8.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gavin O'Connor",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lynette Howell Taylor",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Williams",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bill Dubuque",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Monique Ganderton",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Madison Ainley",
+      "rol": "Actor's Assistant"
+    },
+    {
+      "nombre": "Grady Allen Bishop",
+      "rol": "Camera Car"
+    },
+    {
+      "nombre": "Seamus McGarvey",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Lori Grabowski",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Janine Gosselin",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Jeanne McCarthy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Peter Oso Snell",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Gabe Hilfer",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Samantha Liu",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Keith P. Cunningham",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Nicole Abellera Hallman",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Gavin O'Connor",
+  "valoraciones": {
+    "tmdb": 7.138,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Zero Gravity Management",
+  "enlace_video": "https://1a-1791.com/video/fww1/57/s8/2/p/X/G/G/pXGGy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=0KHOVlEpMyY"
+}
