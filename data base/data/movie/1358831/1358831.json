@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 1358831,
+  "poster": "https://image.tmdb.org/t/p/w500/4ov5cLaFO8toC7HBDl6T0Vg8pQo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7OJqtz5SNbo7ZDlfubgyeJhtdVg.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1YkEbXSk8WuTW5Y1WOP6ifRomv7.png",
+  "titulo": "Voy a Pasármelo Mejor",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.5,
+  "año": "2025",
+  "duracion": "2h 0min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2025-07-18",
+  "titulo_original": "Voy a Pasármelo Mejor",
+  "pais_origen": "Spain",
+  "reparto": [
+    {
+      "nombre": "Izan Fernández",
+      "personaje": "David",
+      "foto": "https://image.tmdb.org/t/p/w500/7O2sAB2pNdAb2jgHrGtpE9maJva.jpg"
+    },
+    {
+      "nombre": "Raúl Arévalo",
+      "personaje": "David Adulto",
+      "foto": "https://image.tmdb.org/t/p/w500/npWhiRnqlbqku6mNnk5RTgGvnj2.jpg"
+    },
+    {
+      "nombre": "Renata Hermida Richards",
+      "personaje": "Layla",
+      "foto": null
+    },
+    {
+      "nombre": "Karla Souza",
+      "personaje": "Layla Adulta",
+      "foto": "https://image.tmdb.org/t/p/w500/k97X2Si4mUKlmL0fSO38x5xaNMb.jpg"
+    },
+    {
+      "nombre": "Rodrigo Gibaja",
+      "personaje": "Luis",
+      "foto": "https://image.tmdb.org/t/p/w500/bGP4znp5jtAffS9AHsUKf6GsZIz.jpg"
+    },
+    {
+      "nombre": "Rodrigo Díaz",
+      "personaje": "Paco",
+      "foto": null
+    },
+    {
+      "nombre": "Alba Planas",
+      "personaje": "Marta",
+      "foto": null
+    },
+    {
+      "nombre": "Michel Herráiz",
+      "personaje": "Fernando",
+      "foto": "https://image.tmdb.org/t/p/w500/ajje3FMj6JbnVESX1iHque5u01r.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Enrique López Lavigne",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ana de Alva",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Serrano",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Luz Cipriota",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Pablo Cruz",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Miguel Ariza",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Leonor Segovia",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Vanessa G. Iglesias",
+      "rol": "VFX Supervisor"
+    },
+    {
+      "nombre": "José Manuel Soldevilla",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Carmen Rodríguez Díaz",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Leire Alcalde Viviano",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Susana González",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Edgar Ochoa",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Clara Rollán",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Natalia Barrios",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Asun Arretxe",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Luis Maro",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "Ana de Alva",
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "El Estudio",
+  "enlace_video": "https://rumble.com/hls-vod/6za782/playlist.m3u8?key=TEtCbYxMK37GgrH90xth3FdezpF7vlfqatWLpg0k5_PfZ5ZzmUaSbw&u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=LvURVs3Hbpg"
+}
