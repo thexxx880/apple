@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 598,
+  "poster": "https://image.tmdb.org/t/p/w500/wmvT5l8kXXy36SA4CPbSEJ0302S.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/j1R4361UQLWCVCOVOXVY5uKhHvm.png",
+  "titulo": "Ciudad de Dios",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "calificacion": "C",
+  "puntuacion": 8.429,
+  "año": "2002",
+  "duracion": "2h 10min",
+  "edad_minima": 13,
+  "sinopsis": "Buscapé, de 11 años, vive en la famosa favela \"Ciudad de Dios\" y sueña con ser fotógrafo. Mientras Dadinho, de su edad, quiere ser un criminal. Sus vidas se cruzan entre los años 60 y a los 80, cuando el narcotráfico y la violencia dictaban las leyes.",
+  "fecha_estreno": "2002-08-30",
+  "titulo_original": "Cidade de Deus",
+  "pais_origen": "Brazil",
+  "reparto": [
+    {
+      "nombre": "Alexandre Rodrigues",
+      "personaje": "Buscapé - Rocket",
+      "foto": "https://image.tmdb.org/t/p/w500/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg"
+    },
+    {
+      "nombre": "Leandro Firmino",
+      "personaje": "Zé Pequeno - Li'l Zé",
+      "foto": "https://image.tmdb.org/t/p/w500/aEzWJgEzId04EP8C2UFQaF28WTW.jpg"
+    },
+    {
+      "nombre": "Phellipe Haagensen",
+      "personaje": "Bené - Benny",
+      "foto": "https://image.tmdb.org/t/p/w500/3dxy4unadLTAb6aUQUyX2r3AkE.jpg"
+    },
+    {
+      "nombre": "Douglas Silva",
+      "personaje": "Dadinho - Li'l Dice",
+      "foto": "https://image.tmdb.org/t/p/w500/7C2ZoLBU0W2gwnGbNRbi1cyIU2h.jpg"
+    },
+    {
+      "nombre": "Jonathan Haagensen",
+      "personaje": "Cabeleira - Shaggy",
+      "foto": "https://image.tmdb.org/t/p/w500/cha3GxI1MfbCjc973iUNKUvopQF.jpg"
+    },
+    {
+      "nombre": "Matheus Nachtergaele",
+      "personaje": "Sandro Cenoura - Carrot",
+      "foto": "https://image.tmdb.org/t/p/w500/zgTT5AP7NYa2hN0jUqHIHkNyp2v.jpg"
+    },
+    {
+      "nombre": "Seu Jorge",
+      "personaje": "Mané Galinha - Knockout Ned",
+      "foto": "https://image.tmdb.org/t/p/w500/p8VUk0ZSzfAF9uWjWg2jEVpPtTy.jpg"
+    },
+    {
+      "nombre": "Jefechander Suplino",
+      "personaje": "Alicate - Clipper",
+      "foto": "https://image.tmdb.org/t/p/w500/3hfJKrxcP01xNuUEZxL6iGpZTPt.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bráulio Mantovani",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Andrea Barata Ribeiro",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mauricio Andrade Ramos",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marc Beauchamps",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Daniel Filho",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hank Levine",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Vincent Maraval",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Donald Ranvaud",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Elisa Tolomelli",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bel Berlinck",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ed Cortês",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Antonio Pinto",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "César Charlone",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Daniel Rezende",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Tulé Peak",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Bia Salgado",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Inês Salgado",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Anna Van Steen",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "René Bittencourt",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Claudine Franco",
+      "rol": "Production Manager"
+    }
+  ],
+  "director": "Fernando Meirelles",
+  "valoraciones": {
+    "tmdb": 8.429,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "O2 Filmes",
+  "enlace_video": "https://rumble.com/hls-vod/6s7ym3/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=63kaF1n5sz0"
+}
