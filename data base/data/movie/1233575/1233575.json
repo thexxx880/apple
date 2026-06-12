@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 1233575,
+  "poster": "https://image.tmdb.org/t/p/w500/1MTMK7xcZECsUir3EptGGI1fE2n.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gxO51FVgADhYGGnnRPIlutVqb30.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aecaoDpXGvDALdkebTfPMyXUQty.png",
+  "titulo": "Código negro",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.4,
+  "año": "2025",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando su amada esposa Kathryn es sospechosa de traicionar a la nación, el legendario agente de inteligencia George Woodhouse se enfrenta a la prueba definitiva: la lealtad a su matrimonio o a su país.",
+  "fecha_estreno": "2025-03-12",
+  "titulo_original": "Black Bag",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Cate Blanchett",
+      "personaje": "Kathryn St. Jean",
+      "foto": "https://image.tmdb.org/t/p/w500/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+    },
+    {
+      "nombre": "Michael Fassbender",
+      "personaje": "George Woodhouse",
+      "foto": "https://image.tmdb.org/t/p/w500/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+    },
+    {
+      "nombre": "Tom Burke",
+      "personaje": "Freddie Smalls",
+      "foto": "https://image.tmdb.org/t/p/w500/4IHlAZ9bJ82VAd6HUOWFgo81SDq.jpg"
+    },
+    {
+      "nombre": "Marisa Abela",
+      "personaje": "Clarissa Dubose",
+      "foto": "https://image.tmdb.org/t/p/w500/3Elkvhu5duFlwaH4vtdizPyZDNQ.jpg"
+    },
+    {
+      "nombre": "Regé-Jean Page",
+      "personaje": "Col. James Stokes",
+      "foto": "https://image.tmdb.org/t/p/w500/rR5gFJ5kggfYrpFMxybwLtGPcOw.jpg"
+    },
+    {
+      "nombre": "Naomie Harris",
+      "personaje": "Dr. Zoe Vaughn",
+      "foto": "https://image.tmdb.org/t/p/w500/41TVAcYqKKF7PGf3x7QfaLvkLSW.jpg"
+    },
+    {
+      "nombre": "Pierce Brosnan",
+      "personaje": "Arthur Stieglitz",
+      "foto": "https://image.tmdb.org/t/p/w500/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
+    },
+    {
+      "nombre": "Kae Alexander",
+      "personaje": "Anna Ko",
+      "foto": "https://image.tmdb.org/t/p/w500/5eAodRRhfZrCtLkNApxM1eOdQRd.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Koepp",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Gregory Jacobs",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Casey Silver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steven Soderbergh",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Steven Soderbergh",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Ellen Mirojnick",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Steven Soderbergh",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Philip Messina",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Martin Krauka",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Paul Munro",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Laura Mickiewicz",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Kelly Maracin Krieg",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Meg Jones",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Ron Grimmer",
+      "rol": "First Assistant Sound Editor"
+    },
+    {
+      "nombre": "Alec Taylor",
+      "rol": "Second Assistant Sound"
+    },
+    {
+      "nombre": "Adam Squires",
+      "rol": "Supervising Art Director"
+    }
+  ],
+  "director": "Steven Soderbergh",
+  "valoraciones": {
+    "tmdb": 6.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Casey Silver Productions",
+  "enlace_video": "https://1a-1791.com/video/fww1/79/s8/2/T/L/r/A/TLrAy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=n_56L6WzLT8"
+}
