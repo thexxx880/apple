@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 87101,
+  "poster": "https://image.tmdb.org/t/p/w500/5N5PnUoywvOduFb4Qw6HD2LkMtu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wRNPnhR3AcELk7k0nMuXhm4oanB.png",
+  "titulo": "Terminator: Génesis",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.956,
+  "año": "2015",
+  "duracion": "2h 5min",
+  "edad_minima": 13,
+  "sinopsis": "Año 2032. La guerra del futuro se está librando y un grupo de rebeldes humanos tiene el sistema de inteligencia artificial Skynet contra las cuerdas. John Connor es el líder de la resistencia, y Kyle Reese es su fiel soldado, criado en las ruinas de una postapocalíptica California. Para salvaguardar el futuro, Connor envía a Reese a 1984 para salvar a su madre, Sarah de un Terminator programado para matarla con el fin de que no llegue a dar a luz a John. Pero lo que Reese encuentra en el otro lado no es como él esperaba.",
+  "fecha_estreno": "2015-06-23",
+  "titulo_original": "Terminator Genisys",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Emilia Clarke",
+      "personaje": "Sarah Connor",
+      "foto": "https://image.tmdb.org/t/p/w500/u59kTmNHXzaGZqokivxLPiBVIML.jpg"
+    },
+    {
+      "nombre": "Jai Courtney",
+      "personaje": "Kyle Reese",
+      "foto": "https://image.tmdb.org/t/p/w500/6vEaNwbOKov6yzQx15CdtrqfK3L.jpg"
+    },
+    {
+      "nombre": "Arnold Schwarzenegger",
+      "personaje": "Guardian / The Terminator",
+      "foto": "https://image.tmdb.org/t/p/w500/dgCABuZp2HBehCT84O4WBp7KIoe.jpg"
+    },
+    {
+      "nombre": "Jason Clarke",
+      "personaje": "John Connor",
+      "foto": "https://image.tmdb.org/t/p/w500/quH4y2dto3UAgZOfaM0QriyRLPN.jpg"
+    },
+    {
+      "nombre": "Matt Smith",
+      "personaje": "Alex / Skynet",
+      "foto": "https://image.tmdb.org/t/p/w500/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
+    },
+    {
+      "nombre": "J.K. Simmons",
+      "personaje": "O'Brien",
+      "foto": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+      "nombre": "Lee Byung Hun",
+      "personaje": "Cop / T-1000",
+      "foto": "https://image.tmdb.org/t/p/w500/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg"
+    },
+    {
+      "nombre": "Dayo Okeniyi",
+      "personaje": "Danny Dyson",
+      "foto": "https://image.tmdb.org/t/p/w500/8m4ZIuzVBDjFbJFLXebc4iwv27o.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alan Taylor",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Patrick Lussier",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Laeta Kalogridis",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Ellison",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ashley Nicole Hudson",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Nick Brandon",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "David Schanker",
+      "rol": "Assistant Property Master"
+    },
+    {
+      "nombre": "Richard Duarte",
+      "rol": "Foley Mixer"
+    },
+    {
+      "nombre": "Jane Wu",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Cliff Fleming",
+      "rol": "Pilot"
+    },
+    {
+      "nombre": "Robin Beard",
+      "rol": "Compositing Supervisor"
+    },
+    {
+      "nombre": "Scott Wilder",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Carol Quiroz",
+      "rol": "Key Costumer"
+    },
+    {
+      "nombre": "Andrew Kawczynski",
+      "rol": "Additional Music"
+    },
+    {
+      "nombre": "Òscar Senén",
+      "rol": "Orchestrator"
+    },
+    {
+      "nombre": "Grady Cofer",
+      "rol": "Visual Effects Supervisor"
+    }
+  ],
+  "director": "Alan Taylor",
+  "valoraciones": {
+    "tmdb": 5.956,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://1a-1791.com/video/fwe2/7a/s8/2/G/8/7/r/G87rz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=Dx3ShEjUId0"
+}
