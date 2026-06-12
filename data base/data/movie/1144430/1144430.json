@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 1144430,
+  "poster": "https://image.tmdb.org/t/p/w500/AoXAvZDxcym6oONBvJ82tFjEGdY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4A5HH9HkCPqAwyYL6CnA0mxbYjn.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/lK506MlcPSzd858KoKsx3PZtZqj.png",
+  "titulo": "La bala perdida 3",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.5,
+  "año": "2025",
+  "duracion": "1h 51min",
+  "edad_minima": 13,
+  "sinopsis": "Lino, que acaba de salir de la cárcel, solo tiene un objetivo: vengar a Charas. Acompañado de Julia, se lanza tras Areski, quien ha vuelto a Francia sin saber que el comandante Resz y su equipo también lo acechan. Lo que sigue es una persecución frenética, con alianzas que penden de un hilo y enfrentamientos sin tregua. En este nuevo capítulo, viejos enemigos deben unir fuerzas contra un adversario común para sobrevivir y descubrir la verdad",
+  "fecha_estreno": "2025-05-06",
+  "titulo_original": "Balle perdue 3",
+  "pais_origen": "Belgium",
+  "reparto": [
+    {
+      "nombre": "Alban Lenoir",
+      "personaje": "Lino",
+      "foto": "https://image.tmdb.org/t/p/w500/jOWPgqzpvsaxzgBNzDqs2RR5jI6.jpg"
+    },
+    {
+      "nombre": "Stéfi Celma",
+      "personaje": "Julia",
+      "foto": "https://image.tmdb.org/t/p/w500/gyLzdPV3DZDYgVCQOEQzwyqDjOm.jpg"
+    },
+    {
+      "nombre": "Nicolas Duvauchelle",
+      "personaje": "Areski",
+      "foto": "https://image.tmdb.org/t/p/w500/nQsvg9syyFY112gi9TC56xIKhRI.jpg"
+    },
+    {
+      "nombre": "Gérard Lanvin",
+      "personaje": "Resz",
+      "foto": "https://image.tmdb.org/t/p/w500/3FSr4VW7JF3mBcVwPnJmOeR09NB.jpg"
+    },
+    {
+      "nombre": "Pascale Arbillot",
+      "personaje": "Moss",
+      "foto": "https://image.tmdb.org/t/p/w500/sFLTfpEqhkEYwYKWxrWlGW2CVXt.jpg"
+    },
+    {
+      "nombre": "Julie Tedesco",
+      "personaje": "Sarah",
+      "foto": "https://image.tmdb.org/t/p/w500/cykpcV2ThhGcIY1Ast1DarEpNox.jpg"
+    },
+    {
+      "nombre": "Anne Serra",
+      "personaje": "Stella",
+      "foto": "https://image.tmdb.org/t/p/w500/iDMpTYv5YkxUiT03lzgKv1AsWWl.jpg"
+    },
+    {
+      "nombre": "Ramzy Bedia",
+      "personaje": "Charas",
+      "foto": "https://image.tmdb.org/t/p/w500/fzGqj63WW6NFAK43oVjtYzVy75y.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Guillaume Pierret",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Guillaume Pierret",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rémi Leautier",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mathieu Ageron",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nathalie Chéron",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "David Julienne",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Manu Lanzi",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Cheyenne Corre",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Jean-Christophe Mahé",
+      "rol": "Special Effects Supervisor"
+    },
+    {
+      "nombre": "Hugo Giroux",
+      "rol": "Casting Assistant"
+    },
+    {
+      "nombre": "Ludivine Doazan",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Eric Gandois",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Thibault Maunoury",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Anthony Zitouni",
+      "rol": "Painter"
+    },
+    {
+      "nombre": "Maurice Chan",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Cyril Kuhnholtz",
+      "rol": "Key Grip"
+    }
+  ],
+  "director": "Guillaume Pierret",
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Inoxy Films",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/14/s8/2/P/K/B/I/PKBIy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=r2u9GifyDg0"
+}
