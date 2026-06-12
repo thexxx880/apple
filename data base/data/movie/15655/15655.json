@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 15655,
+  "poster": "https://image.tmdb.org/t/p/w500/zMEky5WS29EjnmeSXvSm4YATV2R.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/60JMvMGuLHSlVjoUpi86UiB5Lmq.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uxvN6mvDR6OtBUm3HHiylLp7mSg.png",
+  "titulo": "La película de Tigger",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.641,
+  "año": "2000",
+  "duracion": "1h 17min",
+  "edad_minima": 13,
+  "sinopsis": "Tigger va en busca de su familia por el bosque de los cien acres.",
+  "fecha_estreno": "2000-02-11",
+  "titulo_original": "The Tigger Movie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jim Cummings",
+      "personaje": "Tigger / Winnie the Pooh (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "nombre": "Nikita Hopkins",
+      "personaje": "Roo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/923UPZB3B3KYzjRUOrUDOYv5Zrh.jpg"
+    },
+    {
+      "nombre": "Ken Sansom",
+      "personaje": "Rabbit (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2pvv1gFv5V0IlLY6rBz0Y4YLMyc.jpg"
+    },
+    {
+      "nombre": "John Fiedler",
+      "personaje": "Piglet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/27sXisLWQJQ49PD40j89miNhL73.jpg"
+    },
+    {
+      "nombre": "Peter Cullen",
+      "personaje": "Eeyore (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
+    },
+    {
+      "nombre": "Andre Stojka",
+      "personaje": "Owl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uK4S8aOJD0VgSDDEJaiec4ciJHJ.jpg"
+    },
+    {
+      "nombre": "Kath Soucie",
+      "personaje": "Kanga (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dSE1JtsdA1aSgIIw415bsXtmkPg.jpg"
+    },
+    {
+      "nombre": "Tom Attenborough",
+      "personaje": "Christopher Robin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ubDo8h8L517tAkqQ3EWlBsHmQjL.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jun Falkenstein",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Cheryl Abood",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eddie Guzelian",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jun Falkenstein",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Enfys Dickinson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bob McGinness",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michelle Gannes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Allen Yamashita",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kenny Loggins",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "A.A. Milne",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Toby Bluth",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "大城勝",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Eric Koenig",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "大豆一博",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Greg Tiernan",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Craig R. Maras",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Craig R. Maras",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Jeff Johnson",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Jeff Johnson",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Gabriele Zucchelli",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Jun Falkenstein",
+  "valoraciones": {
+    "tmdb": 6.641,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://seed126.bitchute.com/EsGabDjf54qB/rVG8PLyWjjkF.mp4",
+  "trailer": "https://www.youtube.com/watch?v=9IHmPu3P9Fw"
+}
