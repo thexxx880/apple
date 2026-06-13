@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 108978,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/voKEhzb4ExOmR0WSvQgLTTqRUEu.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
+  "titulo": "Reacher",
+  "titulo_original": "Reacher",
+  "fecha_estreno": "2022-02-03",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 8.08,
+  "sinopsis": "Cuando lo arrestan por un asesinato que no cometió, el oficial retirado de la policía militar Jack Reacher se ve envuelto en una conspiración letal de policías corruptos, empresarios turbios y políticos intrigantes. Solo con su ingenio, debe descubrir qué está sucediendo en Margrave, Georgia. La primera temporada de \"Reacher\" se basa en la exitosa novela \"Zona peligrosa\" de Lee Child.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Alan Ritchson",
+      "personaje": "Jack Reacher",
+      "foto": "https://image.tmdb.org/t/p/w500/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+    },
+    {
+      "nombre": "Maria Sten",
+      "personaje": "Frances Neagley",
+      "foto": "https://image.tmdb.org/t/p/w500/7QlPWbZRH2ORMmAHKAj0rq54t4A.jpg"
+    },
+    {
+      "nombre": "Sonya Cassidy",
+      "personaje": "Susan Duffy",
+      "foto": "https://image.tmdb.org/t/p/w500/7z0VYq74tKFXoJtKrIUpmygJxak.jpg"
+    },
+    {
+      "nombre": "Johnny Berchtold",
+      "personaje": "Richard Beck",
+      "foto": "https://image.tmdb.org/t/p/w500/tGKPmmdo6ASnNx0GoHiGgDvnndJ.jpg"
+    },
+    {
+      "nombre": "Roberto Montesinos",
+      "personaje": "Guillermo Villanueva",
+      "foto": "https://image.tmdb.org/t/p/w500/gRYmaYEXawDmOngzOThnxDL2FHs.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Matt Thunell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lee Child",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Sullivan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Don Granger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Ellison",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Barbara Agbaje",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Matt Thunell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lee Child",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Sullivan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Don Granger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Ellison",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nick Santora",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paula Wagner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marcy Ross",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tony Morales",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Lee Child",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Lee Child",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Alexis Barron",
+      "rol": "Stunt Coordinator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.08,
+    "imdb": "tt9288030",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=vMG5TFxCnL4"
+}
