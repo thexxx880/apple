@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 224263,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ssls8OpHHXtHcvIy7AiXipBddQX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/krRJcoEVbkT2fPZDqmj9zWp9ZQR.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/w0UNppsVjIbaJCdK4Wb0KU3FaWm.png",
+  "titulo": "Stranger Things: Relatos del 85",
+  "titulo_original": "Stranger Things: Tales from '85",
+  "fecha_estreno": "2026-04-23",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Misterio",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.688,
+  "sinopsis": "Hawkins, invierno de 1985. En un pueblo lleno de secretos, nuestros queridos héroes se enfrentan a nuevos misterios... y a algo aún más extraño.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Brooklyn Davey Norstedt",
+      "personaje": "Eleven (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/14WC82gvwj7MI3C2ptGybOqvwEh.jpg"
+    },
+    {
+      "nombre": "Jolie Hoang-Rappaport",
+      "personaje": "Max (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3dvi8HLZ9rZw4aZ00rKsncbAErc.jpg"
+    },
+    {
+      "nombre": "Luca Diaz",
+      "personaje": "Mike (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aycLbBk6XXkhdJsLLVRn142hHP9.jpg"
+    },
+    {
+      "nombre": "Elisha Williams",
+      "personaje": "Lucas (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7ltCBzbbS9uEMA1DQBN1XhZwFSK.jpg"
+    },
+    {
+      "nombre": "Braxton Quinney",
+      "personaje": "Dustin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rbCpMPzbPKZLJrO2Cm1RiSnz5U3.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric Robles",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Duffer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ross Duffer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Cohen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hilary Leavitt",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric Robles",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Duffer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ross Duffer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Cohen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hilary Leavitt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ian Graham",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Matt Duffer",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "Ross Duffer",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "Rachel Richmond",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Emily Morris",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul Dichter",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Debbie Steer",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Ingrid Johnston",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Ryan Little",
+      "rol": "Staff Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.688,
+    "imdb": "tt27486290",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=kajCUhg36R0"
+}
