@@ -1,0 +1,105 @@
+{
+  "id_tmdb": 93405,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xx3Zurg2mVep7UhXAjeYuetOvsB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2SFOnw4Tmw84Obmf6I1cv46300W.png",
+  "titulo": "El juego del calamar",
+  "titulo_original": "오징어 게임",
+  "fecha_estreno": "2021-09-17",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 7.856,
+  "sinopsis": "Cientos de jugadores cortos de dinero aceptan una extraña invitación a competir en juegos infantiles. Adentro les espera un premio irresistible... con un riesgo mortal.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lee Jung-jae",
+      "personaje": "Seong Gi-hun / Player 456",
+      "foto": "https://image.tmdb.org/t/p/w500/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
+    },
+    {
+      "nombre": "Yim Si-wan",
+      "personaje": "Lee Myung-gi / Player 333",
+      "foto": "https://image.tmdb.org/t/p/w500/8XbMzvYE3KUNDW1jEHSCjM9t89n.jpg"
+    },
+    {
+      "nombre": "Wi Ha-joon",
+      "personaje": "Detective Hwang Jun-ho",
+      "foto": "https://image.tmdb.org/t/p/w500/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg"
+    },
+    {
+      "nombre": "Jo Yu-ri",
+      "personaje": "Kim Jun-hee / Player 222",
+      "foto": "https://image.tmdb.org/t/p/w500/4GwoDQFPwpaKldOTpGrIJUzBa9h.jpg"
+    },
+    {
+      "nombre": "Lee Byung Hun",
+      "personaje": "Front Man / Hwang In-ho",
+      "foto": "https://image.tmdb.org/t/p/w500/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "황동혁",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kim Cha-i",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Park Young-sik",
+      "rol": "Martial Arts Choreographer"
+    },
+    {
+      "nombre": "Chung Seong-ho",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Lim Tae-hoon",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "최재옥",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "정재일",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Park Min-joo",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Kim Sungsoo",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Chae Kyoung-sun",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "황동혁",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.856,
+    "imdb": "tt10919420",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "K-Drama, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=oqxAJKy0ii4"
+}
