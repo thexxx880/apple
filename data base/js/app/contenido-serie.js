@@ -163,7 +163,6 @@ function renderSeriesPage(data) {
         playBtn.onclick = () => {
             const startSeason = lastWatched ? lastWatched.season : 1;
             
-            // Marcar visualmente la tab activa de la temporada al darle click al botón principal
             document.querySelectorAll('.season-tab').forEach(t => t.classList.remove('active'));
             const tabs = document.querySelectorAll('.season-tab');
             if (tabs[startSeason - 1]) tabs[startSeason - 1].classList.add('active');
@@ -188,6 +187,12 @@ function renderSeriesPage(data) {
             }
             abrirTrailerModal(url);
         };
+    }
+
+    // --- CONFIGURAR BOTÓN MI LISTA ---
+    const listBtn = document.getElementById('listBtn');
+    if (listBtn) {
+        listBtn.onclick = () => toggleList(listBtn);
     }
 
     loadFavoriteState(currentSeriesId);
@@ -310,7 +315,6 @@ function renderEpisodes(episodes, seasonNumber) {
             
             centrarEpisodioActivo();
 
-            // Actualizar texto principal de hero si cambia el episodio 
             const pt = document.getElementById('playText');
             if(pt) pt.textContent = `Continuar T${seasonNumber} E${ep.episode_number}`;
 
@@ -331,7 +335,7 @@ function renderEpisodes(episodes, seasonNumber) {
     }, 150);
 }
 
-// ================== CONTROL SLIDER (Botones Flecha) ==================
+// ================== CONTROL SLIDER ==================
 function scrollSlider(direction) {
     const slider = document.getElementById('episodesList');
     const scrollAmount = 212; 
@@ -352,11 +356,8 @@ function getLastWatchedEpisode() {
 }
 
 // ================== MODALES (TRAILER & PLAYER) ==================
-
-// TRAILER
 function abrirTrailerModal(url) {
     let videoId = "";
-    // Extraer ID de los formatos comunes de YouTube
     if (url.includes("youtube.com/watch?v=")) {
         videoId = url.split("v=")[1].split("&")[0];
     } else if (url.includes("youtu.be/")) {
@@ -364,7 +365,6 @@ function abrirTrailerModal(url) {
     }
 
     if (!videoId) {
-        // Si no es un link estándar de YouTube, abrir en pestaña normal por seguridad
         window.open(url, '_blank'); 
         return;
     }
@@ -382,11 +382,10 @@ function closeTrailerModal() {
     const iframe = document.getElementById('trailerIframe');
     if (modal) {
         modal.style.display = 'none';
-        if (iframe) iframe.src = ""; // Cortar la reproducción al cerrar
+        if (iframe) iframe.src = ""; 
     }
 }
 
-// REPRODUCTORES
 function openPlayer(option) {
     document.getElementById('playerModal').style.display = 'none';
     if (!currentEpisodeData || !currentEpisodeData.video) return;
@@ -407,7 +406,7 @@ function showError(msg) {
     if (c) c.innerHTML = `<div style="text-align:center;padding:60px 20px;color:white;"><h2>${msg}</h2><button onclick="location.reload()" style="margin-top:20px;padding:12px 30px;background:var(--red);color:white;border:none;border-radius:8px;">Recargar</button></div>`;
 }
 
-// ================== FIREBASE & OTROS ==================
+// ================== FIREBASE & OTROS (MI LISTA) ==================
 async function incrementarVistas() {
     if (!currentSeriesId) return;
     try {
@@ -418,20 +417,120 @@ async function incrementarVistas() {
     } catch (e) {}
 }
 
+// TOAST NOTIFICATIONS (Alertas UI)
+function showToast(msg, iconClass = 'fa-info-circle') {
+    let toast = document.getElementById('app-toast');
+    if (!toast) {
+        toast = document.createElement('div');
+        toast.id = 'app-toast';
+        toast.style.cssText = 'position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:rgba(20,20,20,0.95);color:#fff;padding:12px 24px;border-radius:8px;border:1px solid #333;box-shadow:0 4px 12px rgba(0,0,0,0.5);z-index:99999;transition:opacity 0.3s;display:flex;align-items:center;gap:10px;font-family:sans-serif;font-size:14px;';
+        document.body.appendChild(toast);
+    }
+    toast.innerHTML = `<i class="fa-solid ${iconClass}"></i> <span>${msg}</span>`;
+    toast.style.opacity = '1';
+    toast.style.display = 'flex';
+    setTimeout(() => {
+        toast.style.opacity = '0';
+        setTimeout(() => toast.style.display = 'none', 300);
+    }, 3000);
+}
+
+// LOGICA DE GUARDADO FIRESTORE
+async function toggleFavorite(seriesId, seriesData) {
+    const user = firebase.auth().currentUser;
+    if (!user) {
+        showToast('Iniciando sesión o no autenticado', 'fa-spinner fa-spin');
+        return false;
+    }
+
+    const userRef = firebase.firestore().collection("users").doc(user.uid);
+
+    try {
+        const docSnap = await userRef.get();
+        let favorites = docSnap.exists && docSnap.data().favorites ? { ...docSnap.data().favorites } : {};
+
+        if (favorites[seriesId]) {
+            delete favorites[seriesId];
+        } else {
+            const currentUrl = window.location.href;
+            favorites[seriesId] = {
+                id: seriesId,
+                url: currentUrl,
+                titulo: seriesData.titulo || document.getElementById('pageTitle').textContent.replace(' • LzPlay', ''),
+                año: seriesData.año || '',
+                generos: seriesData.generos || [],
+                backdrop: seriesData.backdrop || seriesData.poster || '',
+                poster: seriesData.poster || '',
+                logo: seriesData.logo || ''
+            };
+        }
+
+        await userRef.set({ favorites }, { merge: true });
+        return !!favorites[seriesId];
+    } catch (error) {
+        console.error('Error en Mi lista:', error);
+        showToast('Error al guardar', 'fa-exclamation-triangle');
+        return false;
+    }
+}
+
+// ACCION DEL BOTON
+function toggleList(btn) {
+    if (!currentSeriesId || !currentSeriesData) return;
+    
+    toggleFavorite(currentSeriesId, currentSeriesData).then(isSaved => {
+        const icon = btn.querySelector('i');
+        const span = btn.querySelector('span');
+
+        if (isSaved) {
+            if (icon) icon.className = 'fa-solid fa-bookmark';
+            btn.classList.add('saved');
+            btn.style.color = '#f5c518';
+            if (span) span.textContent = 'Guardado';
+            showToast('Añadido a Mi lista ✓', 'fa-bookmark');
+        } else {
+            if (icon) icon.className = 'fa-regular fa-bookmark';
+            btn.classList.remove('saved');
+            btn.style.color = '';
+            if (span) span.textContent = 'Mi lista';
+            showToast('Eliminado de Mi lista', 'fa-bookmark');
+        }
+    });
+}
+
+// CARGAR ESTADO INICIAL
 async function loadFavoriteState(id) {
     const btn = document.getElementById('listBtn');
     if (!btn) return;
-    const user = firebase.auth().currentUser;
-    if (!user) return;
+    
+    // Esperamos un momento por si firebase auth tarda en inicializar al cargar la página
+    setTimeout(async () => {
+        const user = firebase.auth().currentUser;
+        if (!user) return;
 
-    try {
-        const doc = await firebase.firestore().collection("users").doc(user.uid).get();
-        const favs = doc.exists && doc.data().favorites ? doc.data().favorites : {};
-        if (favs[id]) {
-            btn.innerHTML = `<i class="fa-solid fa-bookmark"></i><span>Guardado</span>`;
-            btn.classList.add('saved');
+        try {
+            const docSnap = await firebase.firestore().collection("users").doc(user.uid).get();
+            const favorites = docSnap.exists && docSnap.data().favorites ? docSnap.data().favorites : {};
+            const isSaved = !!favorites[id];
+            
+            const icon = btn.querySelector('i');
+            const span = btn.querySelector('span');
+
+            if (isSaved) {
+                if(icon) icon.className = 'fa-solid fa-bookmark';
+                btn.classList.add('saved');
+                btn.style.color = '#f5c518';
+                if(span) span.textContent = 'Guardado';
+            } else {
+                if(icon) icon.className = 'fa-regular fa-bookmark';
+                btn.classList.remove('saved');
+                btn.style.color = '';
+                if(span) span.textContent = 'Mi lista';
+            }
+        } catch (e) {
+            console.error('Error cargando Mi lista:', e);
         }
-    } catch (e) {}
+    }, 1000);
 }
 
 // Iniciar
