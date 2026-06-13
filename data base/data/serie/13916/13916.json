@@ -1,0 +1,133 @@
+{
+  "id_tmdb": 13916,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/z85wVUR32PrvHfope9Xbn0kD68u.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/koBa94NxTaGe2FoDzlXMuJptsv0.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8UX1i5i49GN7cXKkIvCGmaxfqJm.png",
+  "titulo": "Death Note",
+  "titulo_original": "DEATH NOTE",
+  "fecha_estreno": "2006-10-04",
+  "duracion": "22min",
+  "año": "2006",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Misterio",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.6,
+  "sinopsis": "Light Yagami es un joven estudiante que un día encuentra un cuaderno llamado Death Note que tiene una macabra propiedad: si el nombre de una persona aparece escrito en él, morirá. Light decide, entonces, embarcarse en una misión para librar al mundo de todos los criminales. Sin embargo, su plan empieza a torcerse cuando L, un brillante detective, intenta descifrar el misterio que rodea a todas estas muertes.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "宮野真守",
+      "personaje": "Light Yagami (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nuok8ueG7k9hPZ09Tpr8e7Qn0ah.jpg"
+    },
+    {
+      "nombre": "中村獅童",
+      "personaje": "Ryuk (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dMyf8ZoHD5xkld66h8bEw9QgQZI.jpg"
+    },
+    {
+      "nombre": "平野綾",
+      "personaje": "Misa Amane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zaSJKfuKhw7e4VTnTKnlHBRzjQU.jpg"
+    },
+    {
+      "nombre": "山口勝平",
+      "personaje": "L (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"
+    },
+    {
+      "nombre": "斉藤貴美子",
+      "personaje": "Rem (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rPP0jCjtLuEEroY3e2aRT8zonYK.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "丸山正雄",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "中谷敏夫",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "田村学",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "丸山正雄",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "中谷敏夫",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "田村学",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "山田知明",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "日下大輔",
+      "rol": "CGI Director"
+    },
+    {
+      "nombre": "肥田文",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "山田和弘",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "伊藤智彦",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "一色美緒",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "古宮理恵",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "橋本賢",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "井上敏樹",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "小畑健",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "北尾勝",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "荒木哲郎",
+      "rol": "Series Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.6,
+    "imdb": "tt0877057",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=NlJZ-YgAt-c"
+}
