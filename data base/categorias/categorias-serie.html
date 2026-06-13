@@ -120,16 +120,13 @@
  <script src="../js/components/navbar.js"></script>
 <script>
 // =============================================
-// CATÁLOGO - Contador basado en base.json
+// CATÁLOGO - Series (generos-serie.json)
 // =============================================
-
-const BASE_URL_JSON = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/base/base.json";
 const GENEROS_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/categorias/generos-serie.json";
 const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
 
 let todosLosContenidos = [];
 let contenidosFiltrados = [];
-let urlMap = {};
 let displayedCount = 15;
 let observer = null;
 let ratingCache = {};
@@ -140,18 +137,6 @@ function normalizeText(str) {
         .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
         .replace(/[^a-z0-9\s]/g, " ")
         .replace(/\s+/g, " ").trim();
-}
-
-async function cargarUrlMap() {
-    try {
-        const res = await fetch(BASE_URL_JSON);
-        urlMap = await res.json();
-        console.log(`✅ base.json cargado: ${Object.keys(urlMap).length} contenidos`);
-        return Object.keys(urlMap).length;
-    } catch (e) {
-        console.error("Error cargando base.json", e);
-        return 0;
-    }
 }
 
 async function getTMDBRating(id_tmdb, ratingElement) {
@@ -171,47 +156,52 @@ async function getTMDBRating(id_tmdb, ratingElement) {
 async function cargarTodo() {
     const loading = document.getElementById("loading");
     const principal = document.getElementById("contenido-principal");
+    
     loading.classList.remove("hidden");
     principal.classList.add("hidden");
 
     try {
-        const totalReal = await cargarUrlMap();
-
         const res = await fetch(GENEROS_URL);
+        if (!res.ok) throw new Error("No se pudo cargar el JSON");
+
         let data = await res.json();
 
-        // AQUÍ SE APLICÓ EL FILTRO PARA MOSTRAR ÚNICAMENTE LAS SERIES
+        // Filtrar solo series y mapear los datos
         todosLosContenidos = data
-            .filter(item => item.type === "serie") 
+            .filter(item => item.type === "serie")
             .map(item => {
-            const id = String(item.id_tmdb || item.id);
-            const url = urlMap[id] || item.url || `https://lzplayhd.online/apple/data%20base/contenido.html?id=${id}`;
+                const id = String(item.id_tmdb || item.id);
+                
+                // Prioridad: url del JSON > construcción automática
+                const url = item.url || `https://lzplayhd.online/apple/data%20base/contenido.html?id=${id}`;
 
-            return {
-                id: id,
-                url: url,
-                title: item.titulo || "Sin título",
-                poster: item.poster || `https://image.tmdb.org/t/p/w500${item.poster_path || ''}`,
-                year: item.año || "N/A",
-                rating: "7.5",
-                genres: Array.isArray(item.generos) ? item.generos : [],
-                sinopsis: item.sinopsis || "",
-                tituloAlternos: item["titulo alternos"] || ""
-            };
-        });
+                return {
+                    id: id,
+                    url: url,
+                    title: item.titulo || "Sin título",
+                    poster: item.poster || (item.poster_path ? `https://image.tmdb.org/t/p/w500${item.poster_path}` : ""),
+                    year: item.año || "N/A",
+                    rating: "7.5",
+                    genres: Array.isArray(item.generos) ? item.generos : [],
+                    sinopsis: item.sinopsis || "",
+                    tituloAlternos: item["titulo alternos"] || ""
+                };
+            });
 
-        // Contador basado en la cantidad de series filtradas
-        document.getElementById("total-contenido").textContent = `${todosLosContenidos.length} contenidos`;
+        // Actualizar contador
+        document.getElementById("total-contenido").textContent = `${todosLosContenidos.length} series`;
 
         inicializarFiltrosModal();
         contenidosFiltrados = [...todosLosContenidos];
+        
         renderizarPeliculas();
-
+        
         loading.classList.add("hidden");
         principal.classList.remove("hidden");
+
     } catch (error) {
-        console.error(error);
-        loading.innerHTML = `<p class="text-red-400">Error al cargar el catálogo.</p>`;
+        console.error("Error cargando catálogo:", error);
+        loading.innerHTML = `<p class="text-red-400">Error al cargar el catálogo. Intenta más tarde.</p>`;
     }
 }
 
@@ -234,7 +224,7 @@ function renderizarPeliculas(reset = true) {
             <div class="poster-container rounded-3xl overflow-hidden shadow-2xl border border-white/10">
                 <img data-src="${item.poster}" alt="${item.title}"
                      class="w-full aspect-[2/3] object-cover transition-transform group-hover:scale-110 lazy-image">
-                
+               
                 <div class="rating absolute top-3 right-3 flex items-center gap-1 text-xs font-bold px-2.5 py-1 rounded-2xl">
                     <i class="fas fa-star text-yellow-400"></i>
                     <span class="rating-value" data-id="${item.id}">7.5</span>
@@ -283,6 +273,7 @@ function verMas() {
 
 function activarLazyLoading() {
     if (observer) observer.disconnect();
+    
     observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
@@ -293,6 +284,7 @@ function activarLazyLoading() {
             }
         });
     }, { rootMargin: "200px" });
+
     document.querySelectorAll(".lazy-image").forEach(img => observer.observe(img));
 }
 
@@ -322,14 +314,17 @@ function inicializarFiltrosModal() {
     const anos = [...new Set(todosLosContenidos.map(c => c.year))].sort((a, b) => b - a);
     const minSelect = document.getElementById("filtro-ano-min");
     const maxSelect = document.getElementById("filtro-ano-max");
+    
     minSelect.innerHTML = `<option value="">Desde</option>` + anos.map(a => `<option value="${a}">${a}</option>`).join("");
     maxSelect.innerHTML = `<option value="">Hasta</option>` + anos.map(a => `<option value="${a}">${a}</option>`).join("");
+    
     minSelect.onchange = maxSelect.onchange = () => aplicarFiltros(true);
 
     const catsContainer = document.getElementById("filtro-categorias");
     catsContainer.innerHTML = "";
     const allGenres = new Set();
     todosLosContenidos.forEach(item => item.genres.forEach(g => allGenres.add(g)));
+    
     Array.from(allGenres).sort().forEach(genre => {
         const btn = document.createElement("button");
         btn.className = "px-4 py-2 bg-white/10 hover:bg-white/20 rounded-2xl text-sm transition-all";
@@ -350,11 +345,13 @@ function aplicarFiltros(keepOpen = false) {
         const tituloNorm = normalizeText(item.title);
         const alternosNorm = normalizeText(item.tituloAlternos);
         const sinopsisNorm = normalizeText(item.sinopsis);
+
         if (nombre && !tituloNorm.includes(nombre) && !alternosNorm.includes(nombre) && !sinopsisNorm.includes(nombre)) return false;
         if (letrasActivas.length > 0 && !letrasActivas.includes(item.title?.[0]?.toUpperCase())) return false;
         if (generosActivos.length > 0 && !item.genres.some(g => generosActivos.includes(g))) return false;
         if (anoMin && parseInt(item.year) < parseInt(anoMin)) return false;
         if (anoMax && parseInt(item.year) > parseInt(anoMax)) return false;
+
         return true;
     });
 
@@ -367,6 +364,7 @@ function limpiarFiltros() {
     document.querySelectorAll("#filtro-letras button, #filtro-categorias button").forEach(b => b.classList.remove("filtro-activo"));
     document.getElementById("filtro-ano-min").value = "";
     document.getElementById("filtro-ano-max").value = "";
+    
     contenidosFiltrados = [...todosLosContenidos];
     renderizarPeliculas(true);
     cerrarModalFiltros();
