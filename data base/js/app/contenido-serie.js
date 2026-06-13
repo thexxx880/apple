@@ -15,6 +15,31 @@ function getContentId() {
     return params.get("id") || params.get("tmdb_id");
 }
 
+// ================== DETECTAR TEMPORADAS AUTOMÁTICAMENTE ==================
+// Esta función buscará t1, t2, t3... hasta que ya no encuentre más en tu GitHub
+async function detectarTemporadas(id) {
+    let count = 0;
+    let s = 1;
+    let keepChecking = true;
+    
+    while (keepChecking) {
+        const url = `${GITHUB_RAW_BASE}${id}/t${s}/${id}.json`;
+        try {
+            // Usamos fetch para ver si el archivo de la temporada existe
+            const response = await fetch(url, { method: 'HEAD' }); 
+            if (response.ok) {
+                count++;
+                s++;
+            } else {
+                keepChecking = false; // Ya no hay más carpetas
+            }
+        } catch (error) {
+            keepChecking = false;
+        }
+    }
+    return count === 0 ? 1 : count; // Devuelve mínimo 1 si falla
+}
+
 // ================== CARGAR SERIE PRINCIPAL ==================
 async function loadSeries() {
     const id = getContentId();
@@ -32,6 +57,10 @@ async function loadSeries() {
 
         const data = await res.json();
         currentSeriesData = data;
+
+        // --- AQUI DETECTAMOS LAS CARPETAS (t1, t2, etc.) ---
+        const totalSeasons = await detectarTemporadas(id);
+        data.number_of_seasons = totalSeasons; // Se lo inyectamos a los datos
 
         renderSeriesPage(data);
         renderSeasonsTabs(data);
@@ -91,7 +120,7 @@ function renderSeriesPage(data) {
         </div>
         <div class="stat-card">
             <i class="fa-solid fa-list-ol stat-icon"></i>
-            <div class="stat-value">${episodiosTotales}</div>
+            <div class="stat-value">${episodiosTotales > 0 ? episodiosTotales : '—'}</div>
             <div class="stat-label">Episodios</div>
         </div>
         <div class="stat-card">
@@ -218,7 +247,6 @@ function renderEpisodes(episodes, seasonNumber) {
         const card = document.createElement('div');
         card.className = `episode-card ${isActive ? 'active-episode' : ''}`;
         
-        // ESTRUCTURA EXACTA BASADA EN TU CSS
         card.innerHTML = `
             <div class="episode-thumbnail" style="background-image: url('${thumbnail}')">
                 <div class="episode-number">E${ep.episode_number}</div>
@@ -242,7 +270,6 @@ function renderEpisodes(episodes, seasonNumber) {
             }
             saveLastWatchedEpisode(seasonNumber, ep.episode_number);
             
-            // Actualizar UI del episodio activo al hacer click
             document.querySelectorAll('.episode-card').forEach(c => c.classList.remove('active-episode'));
             card.classList.add('active-episode');
 
@@ -258,7 +285,6 @@ function renderEpisodes(episodes, seasonNumber) {
         container.appendChild(card);
     });
 
-    // Scroll automático al episodio guardado
     setTimeout(() => {
         if (lastWatched && lastWatched.season === seasonNumber) {
             const activeCard = container.querySelector('.active-episode');
@@ -272,7 +298,6 @@ function renderEpisodes(episodes, seasonNumber) {
 // ================== CONTROL SLIDER (Botones Flecha) ==================
 function scrollSlider(direction) {
     const slider = document.getElementById('episodesList');
-    // Ancho de la tarjeta (300px) + gap (18px)
     const scrollAmount = 318; 
     slider.scrollBy({ left: direction * scrollAmount, behavior: 'smooth' });
 }
