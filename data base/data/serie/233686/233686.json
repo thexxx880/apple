@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 233686,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kFx0FD0Cgns9OThcSkAmWYcnYzu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/66X23qG4RPk7XPDQCFFHHCage3M.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kqy7XGzkHovjEr9373rR8gPU9GC.png",
+  "titulo": "Karma",
+  "titulo_original": "악연",
+  "fecha_estreno": "2025-04-04",
+  "duracion": "53min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 7.4,
+  "sinopsis": "Un accidente fatídico entrelaza las vidas de seis personas en una historia cargada de karma y crimen en la que deben enfrentar sus oscuras verdades y conexiones.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "박해수",
+      "personaje": "Kim Beon-jun",
+      "foto": "https://image.tmdb.org/t/p/w500/hFt7Cj8sx1VYIwm18lYmq5kS7Pw.jpg"
+    },
+    {
+      "nombre": "신민아",
+      "personaje": "Lee Joo-yeon",
+      "foto": "https://image.tmdb.org/t/p/w500/6CjxjYvZBuvbAQTcuoPb8EeVrUI.jpg"
+    },
+    {
+      "nombre": "Lee Hee-jun",
+      "personaje": "Park Jae-yeong",
+      "foto": "https://image.tmdb.org/t/p/w500/4slyXnHbKgzmeyJNetBSORgDDEF.jpg"
+    },
+    {
+      "nombre": "김성균",
+      "personaje": "Jang Gil-ryong",
+      "foto": "https://image.tmdb.org/t/p/w500/pii4fmXdkSEppsHSIhJ9jV5izX1.jpg"
+    },
+    {
+      "nombre": "이광수",
+      "personaje": "Han Sang-hoon",
+      "foto": "https://image.tmdb.org/t/p/w500/eqjZXCV4EutnoVxZwOveK6Nl5W9.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "윤종빈",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "박호식",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "장세정",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "양정은",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "박원준",
+      "rol": "Line Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Choi Hee-sun",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "윤종빈",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "박호식",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "장세정",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "양정은",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "유억",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Cho Wang-seob",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "한경욱",
+      "rol": "Lighting Director"
+    },
+    {
+      "nombre": "정은영",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "구종율",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "최의영",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Park Sun",
+      "rol": "Makeup & Hair"
+    },
+    {
+      "nombre": "박용규",
+      "rol": "Props"
+    },
+    {
+      "nombre": "곽한진",
+      "rol": "Key Grip"
+    },
+    {
+      "nombre": "권지훈",
+      "rol": "Martial Arts Choreographer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": "tt29921070",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "K-Drama, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=E_e9cpN994s"
+}
