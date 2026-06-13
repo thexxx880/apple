@@ -1,0 +1,77 @@
+{
+  "id_tmdb": 116386,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/aDlBM1flPwBxQykQaaGy2JjNsk2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uMLihaxfbeCvraDmER37t2jTNKi.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nUkpzvanVTdV6Br7DTmLtL5p71O.png",
+  "titulo": "Fatalidad a tu servicio",
+  "titulo_original": "어느 날 우리 집 현관으로 멸망이 들어왔다",
+  "fecha_estreno": "2021-05-10",
+  "duracion": "64min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Comedia"
+  ],
+  "puntuacion": 7.893,
+  "sinopsis": "Dong-kyung ha estado trabajando duro desde que sus padres fallecieron. Su vida parece estabilizarse después de trabajar como editora de novelas web durante 6 años, pero un día le diagnostican cáncer cerebral. Ella culpa a su desafortunada vida y desea maldecir todo para que desaparezca, lo que sin querer llama a Myul Mang, un mensajero entre humanos y dioses, para que aparezca. Él dice que puede conceder sus deseos. Como última esperanza, hace un contrato con Myul Mang por cien días para vivir como ella quiere, arriesgándolo todo.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Park Bo-young",
+      "personaje": "Tak Dong-kyung",
+      "foto": "https://image.tmdb.org/t/p/w500/x1LNh8i8XmO3oqNYzRslzYj1VoZ.jpg"
+    },
+    {
+      "nombre": "서인국",
+      "personaje": "Myul Mang / Kim Sa-ram",
+      "foto": "https://image.tmdb.org/t/p/w500/gs7RRZt2tWBJ7OR9BD3TFSYteJj.jpg"
+    },
+    {
+      "nombre": "이수혁",
+      "personaje": "Cha Joo-ik",
+      "foto": "https://image.tmdb.org/t/p/w500/AlCxM67SKVhzwh06GMxuZoDILOz.jpg"
+    },
+    {
+      "nombre": "강태오",
+      "personaje": "Lee Hyun-gyu",
+      "foto": "https://image.tmdb.org/t/p/w500/aMenmaLlcK6YMZnN7NBvvaVuq4O.jpg"
+    },
+    {
+      "nombre": "신도현",
+      "personaje": "Na Ji-na",
+      "foto": "https://image.tmdb.org/t/p/w500/sysicgtUyGre7xnwBpLrSel6QRf.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Kwon Young-il",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kwon Young-il",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Im Meari",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "다니엘 리",
+      "rol": "Compositor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.893,
+    "imdb": "tt13669128",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "K-Drama, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=I4E-o1zmqQo"
+}
