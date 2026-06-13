@@ -1,0 +1,126 @@
+{
+  "id_tmdb": 105248,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/rNkilVmALgaIb4SenfbaecRStDD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bRE6zX4iOAejLOQCHryoV5WNu8G.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7UbhdYvwzaurht3ZLUyXrmsOVDr.png",
+  "titulo": "Cyberpunk: Edgerunners",
+  "titulo_original": "サイバーパンク: エッジランナーズ",
+  "fecha_estreno": "2022-09-13",
+  "duracion": "25min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.465,
+  "sinopsis": "En una realidad distópica repleta de corrupción e implantes cibernéticos, un joven talentoso e impulsivo intenta convertirse en un mercenario.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "KENN",
+      "personaje": "David Martinez (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y7Gtn1PchXJ1MxmUxU9jtt138EO.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "櫻井大樹",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Saya Elder",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "宇佐義大",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "本間覚",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rafał Jaki",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dylan Thomas",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "吉成曜",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Robert 'Bob' Hardy",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Alex Kapranos",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "米山舞",
+      "rol": "Opening/Ending Animation"
+    },
+    {
+      "nombre": "原田祥子",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Natsumi Nagahama",
+      "rol": "3D Director"
+    },
+    {
+      "nombre": "Daiki Takagi",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "菊地一之",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "天田俊貴",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "今石洋之",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "Dawid Podsiadło",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "宇佐義大",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "柴田香澄",
+      "rol": "Online Editor"
+    },
+    {
+      "nombre": "コヤマシゲト",
+      "rol": "Opening/Ending Animation"
+    },
+    {
+      "nombre": "若林広海",
+      "rol": "Opening/Ending Animation"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.465,
+    "imdb": "tt12590266",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=JtqIas3bYhg"
+}
