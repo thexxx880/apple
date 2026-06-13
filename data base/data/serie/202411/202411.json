@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 202411,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/66Ofbs8H1ZiYVjxaG6OWIev4xrR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7IY4wELVMvtUc78vPiuL8kQV2iA.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/s81iBRiksfVCP9c1TDbpgSuopsq.png",
+  "titulo": "Monarch: Legado de monstruos",
+  "titulo_original": "Monarch: Legacy of Monsters",
+  "fecha_estreno": "2023-11-16",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.757,
+  "sinopsis": "Después de haber sobrevivido al ataque de Godzilla en San Francisco, Cate se asombra de nuevo por un secreto impactante. Entre amenazas gigantescas, ella se embarca a una aventura por todo el mundo para saber la verdad sobre su familia y la misteriosa organización conocida como Monarch.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Anna Sawai",
+      "personaje": "Cate Randa",
+      "foto": "https://image.tmdb.org/t/p/w500/6uFaCOupDTPRnTiedveTUvjOikC.jpg"
+    },
+    {
+      "nombre": "Kiersey Clemons",
+      "personaje": "May Olowe-Hewitt",
+      "foto": "https://image.tmdb.org/t/p/w500/iZD6EzMGnuHFjFgmO8G1wyiLrTy.jpg"
+    },
+    {
+      "nombre": "Ren Watabe",
+      "personaje": "Kentaro Randa",
+      "foto": "https://image.tmdb.org/t/p/w500/odHtSqOKlrBwSArm1R4bzEh2C07.jpg"
+    },
+    {
+      "nombre": "Mari Yamamoto",
+      "personaje": "Keiko Randa",
+      "foto": "https://image.tmdb.org/t/p/w500/n0kSgZvoFD6ENdja5MDhAMDbDwT.jpg"
+    },
+    {
+      "nombre": "Anders Holm",
+      "personaje": "Young Bill Randa",
+      "foto": "https://image.tmdb.org/t/p/w500/fgH6wEjj5tzEUcncUifBRVuidug.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Maria Melnik",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Joe Pokaski",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Dan Dworkin",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Doug Moreno",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Kei Banno",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Al Letson",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mariko Tamaki",
+      "rol": "Executive Story Editor"
+    },
+    {
+      "nombre": "Maria Melnik",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Joe Pokaski",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Dan Dworkin",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Doug Moreno",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Kei Banno",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Al Letson",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Kari Drake",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Hiro Matsuoka",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tanner Hansinger",
+      "rol": "Writers' Assistant"
+    },
+    {
+      "nombre": "Sean Konrad",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Matt Schwartz",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Scott Schofield",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Caroline Stack",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "James Steuart",
+      "rol": "Supervising Art Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.757,
+    "imdb": "tt17220216",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Apple TV",
+  "trailer": "https://www.youtube.com/watch?v=oNjnEFEheh4"
+}
