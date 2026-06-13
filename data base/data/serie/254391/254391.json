@@ -1,0 +1,76 @@
+{
+  "id_tmdb": 254391,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ngHpVJ3M5xWhcXkyYFRu0SeaBGh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1CLVjeGaa0E54BKSZERDKifCd03.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7a1cJDiiETfdnRABqpXgvXjU2zy.png",
+  "titulo": "Amor en el laboratorio",
+  "titulo_original": "감자연구소",
+  "fecha_estreno": "2025-03-01",
+  "duracion": "75min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 7.7,
+  "sinopsis": "Un estricto director llega al laboratorio de patatas de una apasionada investigadora decidido a demostrar que el amor puede germinar en los lugares más inesperados.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "이선빈",
+      "personaje": "Kim Mi-kyung",
+      "foto": "https://image.tmdb.org/t/p/w500/8YwNd9PhSym4357gCu9RCDdPXqx.jpg"
+    },
+    {
+      "nombre": "강태오",
+      "personaje": "So Baek-ho",
+      "foto": "https://image.tmdb.org/t/p/w500/aMenmaLlcK6YMZnN7NBvvaVuq4O.jpg"
+    },
+    {
+      "nombre": "이학주",
+      "personaje": "Park Gi-se",
+      "foto": "https://image.tmdb.org/t/p/w500/9PuGmzY1nm8uYYiOanEKJHEcdbZ.jpg"
+    },
+    {
+      "nombre": "김가은",
+      "personaje": "Lee Ong-ju",
+      "foto": "https://image.tmdb.org/t/p/w500/x5xv6LcBvMWj5sGFDs5mOkFXwow.jpg"
+    },
+    {
+      "nombre": "신현승",
+      "personaje": "Kim Hwan-kyung",
+      "foto": "https://image.tmdb.org/t/p/w500/5xkCNtJIJqozc0pitsgC38rukSc.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Kang Il-soo",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kang Il-soo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kim Ho Soo",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "승민",
+      "rol": "Songs"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": "tt35665377",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "K-Drama, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=eGXxozmh7ug"
+}
