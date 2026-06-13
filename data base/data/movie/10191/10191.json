@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 10191,
+  "poster": "https://image.tmdb.org/t/p/w500/8ekxsUORMAsfmSc8GzHmG8gWPbp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kApyKGMzbhUybpdBZf2GUZJC4my.png",
+  "titulo": "Cómo Entrenar A Tu Dragón",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Aventura",
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.86,
+  "año": "2010",
+  "duracion": "1h 38min",
+  "edad_minima": 13,
+  "sinopsis": "Un desventurado joven vikingo que aspira a cazar dragones se convierte en el improbable amigo de un joven dragón, y aprende que puede haber más en las criaturas de lo que suponía.",
+  "fecha_estreno": "2010-03-18",
+  "titulo_original": "How to Train Your Dragon",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jay Baruchel",
+      "personaje": "Hiccup (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+    },
+    {
+      "nombre": "Gerard Butler",
+      "personaje": "Stoick (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+    },
+    {
+      "nombre": "Craig Ferguson",
+      "personaje": "Gobber (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mBxNrOxdQeM7bVBveE47Syj9ES6.jpg"
+    },
+    {
+      "nombre": "America Ferrera",
+      "personaje": "Astrid (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7q9uUWnaIjveX8DTU2lcA7mA3dp.jpg"
+    },
+    {
+      "nombre": "Jonah Hill",
+      "personaje": "Snotlout (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+    },
+    {
+      "nombre": "Christopher Mintz-Plasse",
+      "personaje": "Fishlegs (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dnj2qyxmPt5JF5uurbXQLegppAx.jpg"
+    },
+    {
+      "nombre": "T.J. Miller",
+      "personaje": "Tuffnut (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg"
+    },
+    {
+      "nombre": "Kristen Wiig",
+      "personaje": "Ruffnut (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oddvykQHx71hEZlvKinCzB3Vcfh.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Sanders",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Dean DeBlois",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bonnie Arnold",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dean DeBlois",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chris Sanders",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "William Davies",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Randy Thom",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Tim Johnson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gary Rizzo",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Randy Thom",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Jon Null",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Kristine Belson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Randy Thom",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "James Baxter",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Pat Sito",
+      "rol": "Animation Manager"
+    },
+    {
+      "nombre": "Stephan Franck",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Mick De Falco",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Simon Otto",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Chris Sanders",
+  "valoraciones": {
+    "tmdb": 7.86,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/eb/s8/2/S/3/y/2/S3y2y.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=KZtbJ_I9IFM"
+}
