@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 85552,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/hp9ztcz0fMyztCKeQmNQg0F5dao.png",
+  "titulo": "Euphoria",
+  "titulo_original": "Euphoria",
+  "fecha_estreno": "2019-06-16",
+  "duracion": "24min",
+  "año": "2019",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.288,
+  "sinopsis": "Un grupo de adolescentes experimenta los altibajos del amor y la amistad en un mundo de redes sociales, sexo, drogas y violencia.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Zendaya",
+      "personaje": "Rue Bennett",
+      "foto": "https://image.tmdb.org/t/p/w500/yCpzzMJ9gS7Rp7xgrVOsntW1m7D.jpg"
+    },
+    {
+      "nombre": "Hunter Schafer",
+      "personaje": "Jules Vaughn",
+      "foto": "https://image.tmdb.org/t/p/w500/6ZDieLlbm2m3jbYaxsHFo7cWWzJ.jpg"
+    },
+    {
+      "nombre": "Sydney Sweeney",
+      "personaje": "Cassie Howard",
+      "foto": "https://image.tmdb.org/t/p/w500/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg"
+    },
+    {
+      "nombre": "Jacob Elordi",
+      "personaje": "Nate Jacobs",
+      "foto": "https://image.tmdb.org/t/p/w500/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+    },
+    {
+      "nombre": "Alexa Demie",
+      "personaje": "Maddy Perez",
+      "foto": "https://image.tmdb.org/t/p/w500/A8jypevyoNHSF2NBRTfdwyjpjX9.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sara E. White",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Schmidt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lauren Salvia",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Harrison Kreiss",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ashley Levinson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kenneth Yu",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Sara E. White",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Schmidt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Amy Schmidt",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Lauren Salvia",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "François Audouy",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Anthony Carlino",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Shannon Kenny",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Natasha Newman-Thomas",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Bryan Kopp",
+      "rol": "Assistant Costume Designer"
+    },
+    {
+      "nombre": "Tiger Curran",
+      "rol": "Assistant Costume Designer"
+    },
+    {
+      "nombre": "Sarah Lanflisi",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Russell White",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Gabe Hilfer",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Benjamin Bermudez",
+      "rol": "Casting Associate"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.288,
+    "imdb": "tt8772296",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=KR7Hh4NoUkQ"
+}
