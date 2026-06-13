@@ -1,0 +1,92 @@
+{
+  "id_tmdb": 1402,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7CIJHjFz2fh4bo6kg1gfE51oENa.png",
+  "titulo": "The Walking Dead",
+  "titulo_original": "The Walking Dead",
+  "fecha_estreno": "2010-10-31",
+  "duracion": "24min",
+  "año": "2010",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.085,
+  "sinopsis": "El oficial Rick Grimes se despierta del coma para descubrir que el mundo está en ruinas y debe guiar a un grupo de sobrevivientes para permanecer con vida.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lauren Cohan",
+      "personaje": "Maggie Greene",
+      "foto": "https://image.tmdb.org/t/p/w500/zJ9nZ5jqQTUD55GLKbgfiKlUoBN.jpg"
+    },
+    {
+      "nombre": "Norman Reedus",
+      "personaje": "Daryl Dixon",
+      "foto": "https://image.tmdb.org/t/p/w500/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
+    },
+    {
+      "nombre": "Jeffrey Dean Morgan",
+      "personaje": "Negan Smith",
+      "foto": "https://image.tmdb.org/t/p/w500/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
+    },
+    {
+      "nombre": "Melissa McBride",
+      "personaje": "Carol Peletier",
+      "foto": "https://image.tmdb.org/t/p/w500/2omPfeMdnicJqqvgKAU2iqVyD4Z.jpg"
+    },
+    {
+      "nombre": "Christian Serratos",
+      "personaje": "Rosita Espinosa",
+      "foto": "https://image.tmdb.org/t/p/w500/jP07Elhu2eZdmjIB4fJiag5CfaD.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Scott H. Eddo",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Sharon Bialy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Sherry Thomas",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Greg Nicotero",
+      "rol": "Makeup Effects"
+    },
+    {
+      "nombre": "Bear McCreary",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tony Moore",
+      "rol": "Graphic Novel"
+    },
+    {
+      "nombre": "Charlie Adlard",
+      "rol": "Graphic Novel"
+    },
+    {
+      "nombre": "Robert Kirkman",
+      "rol": "Graphic Novel"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.085,
+    "imdb": "tt1520211",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fox",
+  "trailer": "https://www.youtube.com/watch?v=aQvmRkxqceA"
+}
