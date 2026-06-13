@@ -435,7 +435,7 @@ function showToast(msg, iconClass = 'fa-info-circle') {
     }, 3000);
 }
 
-// LOGICA DE GUARDADO FIRESTORE
+// LOGICA DE GUARDADO FIRESTORE (NUEVA ESTRUCTURA)
 async function toggleFavorite(seriesId, seriesData) {
     const user = firebase.auth().currentUser;
     if (!user) {
@@ -443,30 +443,30 @@ async function toggleFavorite(seriesId, seriesData) {
         return false;
     }
 
-    const userRef = firebase.firestore().collection("users").doc(user.uid);
+    // Referencia al documento específico dentro de la subcolección myList
+    const docRef = firebase.firestore()
+        .collection("users")
+        .doc(user.uid)
+        .collection("myList")
+        .doc(seriesId.toString());
 
     try {
-        const docSnap = await userRef.get();
-        let favorites = docSnap.exists && docSnap.data().favorites ? { ...docSnap.data().favorites } : {};
+        const docSnap = await docRef.get();
 
-        if (favorites[seriesId]) {
-            delete favorites[seriesId];
+        if (docSnap.exists) {
+            // Si ya existe, lo eliminamos (Quitar de mi lista)
+            await docRef.delete();
+            return false;
         } else {
-            const currentUrl = window.location.href;
-            favorites[seriesId] = {
-                id: seriesId,
-                url: currentUrl,
-                titulo: seriesData.titulo || document.getElementById('pageTitle').textContent.replace(' • LzPlay', ''),
-                año: seriesData.año || '',
-                generos: seriesData.generos || [],
-                backdrop: seriesData.backdrop || seriesData.poster || '',
-                poster: seriesData.poster || '',
-                logo: seriesData.logo || ''
-            };
+            // Si no existe, lo creamos con el formato exacto requerido
+            await docRef.set({
+                addedAt: firebase.firestore.FieldValue.serverTimestamp(),
+                id: Number(seriesId), // int64 format
+                type: "serie",
+                url: `https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=${seriesId}`
+            });
+            return true;
         }
-
-        await userRef.set({ favorites }, { merge: true });
-        return !!favorites[seriesId];
     } catch (error) {
         console.error('Error en Mi lista:', error);
         showToast('Error al guardar', 'fa-exclamation-triangle');
@@ -503,15 +503,21 @@ async function loadFavoriteState(id) {
     const btn = document.getElementById('listBtn');
     if (!btn) return;
     
-    // Esperamos un momento por si firebase auth tarda en inicializar al cargar la página
+    // Esperamos un momento por si firebase auth tarda en inicializar
     setTimeout(async () => {
         const user = firebase.auth().currentUser;
         if (!user) return;
 
         try {
-            const docSnap = await firebase.firestore().collection("users").doc(user.uid).get();
-            const favorites = docSnap.exists && docSnap.data().favorites ? docSnap.data().favorites : {};
-            const isSaved = !!favorites[id];
+            // Comprobamos la existencia del documento en myList
+            const docRef = firebase.firestore()
+                .collection("users")
+                .doc(user.uid)
+                .collection("myList")
+                .doc(id.toString());
+
+            const docSnap = await docRef.get();
+            const isSaved = docSnap.exists;
             
             const icon = btn.querySelector('i');
             const span = btn.querySelector('span');
