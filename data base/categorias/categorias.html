@@ -62,7 +62,7 @@
                     <span>Filtrar</span>
                 </button>
             </div>
-           
+            
             <div id="grid-peliculas"
                  class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-6">
             </div>
@@ -80,7 +80,6 @@
         <i class="fas fa-arrow-up"></i>
     </button>
 
-    <!-- MODAL DE FILTROS -->
     <div id="modal-filtros" onclick="cerrarModalFiltros()"
          class="hidden fixed inset-0 bg-black/70 backdrop-blur-sm z-[10000] flex items-center justify-center">
         <div onclick="event.stopImmediatePropagation()"
@@ -181,7 +180,10 @@ async function cargarTodo() {
         const res = await fetch(GENEROS_URL);
         let data = await res.json();
 
-        todosLosContenidos = data.map(item => {
+        // AQUÍ SE APLICÓ EL FILTRO PARA EXCLUIR LAS SERIES
+        todosLosContenidos = data
+            .filter(item => item.type !== "serie") 
+            .map(item => {
             const id = String(item.id_tmdb || item.id);
             const url = urlMap[id] || item.url || `https://lzplayhd.online/apple/data%20base/contenido.html?id=${id}`;
 
