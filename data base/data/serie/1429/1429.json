@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1429,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png",
+  "titulo": "Attack on Titan",
+  "titulo_original": "進撃の巨人",
+  "fecha_estreno": "2013-04-07",
+  "duracion": "24min",
+  "año": "2013",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.7,
+  "sinopsis": "Muchos años atrás, la humanidad estuvo al borde de la extinción con la aparición de unas criaturas gigantes que devoraban a todas las personas. Huyendo, la humanidad consiguió sobrevivir en una ciudad fortificada de altas murallas que se ha convertido en el último reducto de la civilización contra los Titanes que campan a sus anchas por el mundo. Ahora esa paz está a punto de verse interrumpida por una cadena de acontecimientos que llevará a desvelar qué son los Titanes y cómo aparecieron.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "梶裕貴",
+      "personaje": "Eren Yeager (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+    },
+    {
+      "nombre": "石川由依",
+      "personaje": "Mikasa Ackerman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2y1y1W4q8UIR0Vbs4NNvc7722XT.jpg"
+    },
+    {
+      "nombre": "井上麻里奈",
+      "personaje": "Armin Arlert (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nQ7a3krkbea6ukw9KGvvTpMma96.jpg"
+    },
+    {
+      "nombre": "谷山紀章",
+      "personaje": "Jean Kirstein (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9lOnUF6C6xEhZ0FQmYNzNZhcUpd.jpg"
+    },
+    {
+      "nombre": "下野紘",
+      "personaje": "Connie Springer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "伊藤整",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "大塚学",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "山崎博昭",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "木村誠",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "丸山博雄",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "上田豊",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "倉橋静男",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "木村瞳",
+      "rol": "Online Editor"
+    },
+    {
+      "nombre": "徳田智瑛子",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "伊藤整",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "大塚学",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "山崎博昭",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "木村誠",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "伊良波理沙",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "吉武将人",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "安藤裕子",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "淡輪雄介",
+      "rol": "Layout Supervisor"
+    },
+    {
+      "nombre": "林祐一郎",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "宍戸淳",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "KOHTA YAMAMOTO",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "杉山夏菜",
+      "rol": "Online Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.7,
+    "imdb": "tt2560140",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=FRn6xXXF-7s"
+}
