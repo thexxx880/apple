@@ -1,0 +1,80 @@
+{
+  "id_tmdb": 897,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kbFIKt6NGppNr7OOn288A8gBObs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7aWytAE9Gcf6UZXcS6ejJEdEhEb.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/Ogl1zm8EFQZe3fwxzQiAqEZcp3.png",
+  "titulo": "Las sombrías aventuras de Billy y Mandy",
+  "titulo_original": "The Grim Adventures of Billy and Mandy",
+  "fecha_estreno": "2001-08-24",
+  "duracion": "11min",
+  "año": "2001",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 8.052,
+  "sinopsis": "La malhumorada Parca acepta una apuesta que, tras perder, la obliga a convertirse en la compañera de por vida de dos intrépidos jóvenes.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Greg Eagles",
+      "personaje": "Grim (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gHFu8h2l0OPyfozNMjoLhanLzi1.jpg"
+    },
+    {
+      "nombre": "Richard Steven Horvitz",
+      "personaje": "Billy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pyL1MykCkuKTAp23PmmD6T8HVbn.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Mandy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Vanessa Marshall",
+      "personaje": "Irwin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yZsWfaiOxaN5MZkWIKPbxz1KKS1.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Brian A. Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jay Bastian",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brian A. Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Drew Neumann",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Gregory Hinde",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Jay Bastian",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.052,
+    "imdb": "tt0292800",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": ""
+}
