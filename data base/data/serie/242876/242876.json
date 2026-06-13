@@ -1,0 +1,79 @@
+{
+  "id_tmdb": 242876,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/poeF8MRkSJQSoJ5uMVBkKEXADxF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ieiq46OoeTrLkjtclmhii6iRyzP.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/5Mot0blFgM49MO7T9dEISoxqZQA.png",
+  "titulo": "Ni una más",
+  "titulo_original": "Ni una más",
+  "fecha_estreno": "2024-05-31",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.745,
+  "sinopsis": "Tras denunciar una agresión sexual en su escuela, una chica de 17 años se convierte en el centro de una investigación que afecta su vida y sus vínculos.",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Nicole Wallace",
+      "personaje": "Alma",
+      "foto": "https://image.tmdb.org/t/p/w500/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg"
+    },
+    {
+      "nombre": "Clara Galle",
+      "personaje": "Greta",
+      "foto": "https://image.tmdb.org/t/p/w500/ipZQNX8KECqeCHoD4dmbb883lzP.jpg"
+    },
+    {
+      "nombre": "Aïcha Villaverde",
+      "personaje": "Nata",
+      "foto": "https://image.tmdb.org/t/p/w500/1mr8VmssYRd9ijfUf0hDyQ1uN5M.jpg"
+    },
+    {
+      "nombre": "Teresa de Mera",
+      "personaje": "Berta",
+      "foto": "https://image.tmdb.org/t/p/w500/rT8rA9Nnzw70tQWFfi5YyqPcoVi.jpg"
+    },
+    {
+      "nombre": "Ivan Massagué",
+      "personaje": "Juan López Sánchez",
+      "foto": "https://image.tmdb.org/t/p/w500/dmnJo2sGlfFjtKb8FDPlNjRhfyc.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Miguel Sáez Carral",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "José Manuel Lorenzo",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Miguel Sáez Carral",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Miguel Sáez Carral",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "José Manuel Lorenzo",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.745,
+    "imdb": "tt22188654",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=3ku4DRWdsBI"
+}
