@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 95557,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kcT1PKt1EMAF3UrSYkIqD29Yz7D.png",
+  "titulo": "INVENCIBLE",
+  "titulo_original": "INVINCIBLE",
+  "fecha_estreno": "2021-03-25",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.636,
+  "sinopsis": "Mark Grayson hereda superpoderes a los diecisiete años y se une a su padre como uno de los mayores héroes de la Tierra. Todos sus sueños se hacen realidad, hasta que un evento impactante lo cambia todo.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Steven Yeun",
+      "personaje": "Mark Grayson / Invincible (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+    },
+    {
+      "nombre": "Sandra Oh",
+      "personaje": "Debbie Grayson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+    },
+    {
+      "nombre": "J.K. Simmons",
+      "personaje": "Nolan Grayson / Omni-Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Marshell Becton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Shaun O'Neil",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Dan Duncan",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Margaret M. Dean",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cory Walker",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Helen Leigh",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Katherine McCown",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Christine Terry",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Marshell Becton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jackie Sollitto",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Shaun O'Neil",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Dan Duncan",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Margaret M. Dean",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gabe Hilfer",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Cory Walker",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Helen Leigh",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Seth Rogen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Paesano",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Evan Goldberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ryan Ottley",
+      "rol": "Creative Consultant"
+    },
+    {
+      "nombre": "Robert Kirkman",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.636,
+    "imdb": "tt6741278",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=83kGBULxVGI"
+}
