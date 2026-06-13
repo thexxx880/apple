@@ -1,0 +1,112 @@
+{
+  "id_tmdb": 291339,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/79EO16C4zs8fwxKEjRENVvIQHIB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/llrSuUkFiR6EjDnh79dq8HEeziF.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/z6MbcMgtbc9Pm5JUTFK4zWlEYDr.png",
+  "titulo": "Memoria de un Asesino",
+  "titulo_original": "Memory of a Killer",
+  "fecha_estreno": "2026-01-25",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 7.4,
+  "sinopsis": "Angelo lleva una doble vida, como asesino y como padre de familia, y todo funcionaba bien hasta que le sobrevino un principio de Alzheimer. Ahora sus mundos chocan, poniendo a su familia en peligro.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Patrick Dempsey",
+      "personaje": "Angelo Doyle",
+      "foto": "https://image.tmdb.org/t/p/w500/2PpaYtXdaDmNi3jap4qPIdyVesL.jpg"
+    },
+    {
+      "nombre": "Richard Harmon",
+      "personaje": "Joe Ferrera",
+      "foto": "https://image.tmdb.org/t/p/w500/tlWgu5Kp37C7XsgJVLmYsPKiAd6.jpg"
+    },
+    {
+      "nombre": "Odeya Rush",
+      "personaje": "Maria Kahn",
+      "foto": "https://image.tmdb.org/t/p/w500/arO1c4YzhjlYcZdHpu41haGQvpQ.jpg"
+    },
+    {
+      "nombre": "Peter Gadiot",
+      "personaje": "Dave Woods",
+      "foto": "https://image.tmdb.org/t/p/w500/462ODB50nmhpuXdpHz2otQ2rfOy.jpg"
+    },
+    {
+      "nombre": "Daniel David Stewart",
+      "personaje": "Jeff Kahn",
+      "foto": "https://image.tmdb.org/t/p/w500/4rVIcLqueOMwLKX54UCYEHBpRwf.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Tracey Malone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cathy Schulman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Arthur M. Sarkissian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Martin Campbell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Bouckaert",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tracey Malone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cathy Schulman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Arthur M. Sarkissian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Martin Campbell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Bouckaert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carl Joos",
+      "rol": "Original Film Writer"
+    },
+    {
+      "nombre": "Erik Van Looy",
+      "rol": "Original Film Writer"
+    },
+    {
+      "nombre": "Jef Geeraerts",
+      "rol": "Novel"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": "tt35707374",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fox",
+  "trailer": "https://www.youtube.com/watch?v=TdenhFzKenM"
+}
