@@ -58,7 +58,21 @@
     </section>
 
     <div class="content">
-        <div class="description-block">
+        <div class="section-header" style="margin-top: 0;">
+            <h2 class="section-title">Temporadas</h2>
+        </div>
+        <div id="seasonsTabs" class="seasons-tabs"></div>
+
+        <div class="section-header" style="justify-content: space-between;">
+            <h2 class="section-title" id="currentSeasonTitle">Temporada 1</h2>
+            <div class="slider-nav">
+                <button onclick="scrollSlider(-1)"><i class="fa-solid fa-chevron-left"></i></button>
+                <button onclick="scrollSlider(1)"><i class="fa-solid fa-chevron-right"></i></button>
+            </div>
+        </div>
+        <div id="episodesList" class="episodes-slider"></div>
+
+        <div class="description-block" style="margin-top: 40px;">
             <p id="sinopsis">Cargando sinopsis...</p>
             <div class="genres" id="generos"></div>
         </div>
@@ -80,20 +94,6 @@
             <div class="rating-number" id="ratingNumber">—</div>
             <div id="ratingBars"></div>
         </div>
-
-        <div class="section-header" style="margin-top: 40px;">
-            <h2 class="section-title">Temporadas</h2>
-        </div>
-        <div id="seasonsTabs" class="seasons-tabs"></div>
-
-        <div class="section-header" style="justify-content: space-between;">
-            <h2 class="section-title" id="currentSeasonTitle">Temporada 1</h2>
-            <div class="slider-nav">
-                <button onclick="scrollSlider(-1)"><i class="fa-solid fa-chevron-left"></i></button>
-                <button onclick="scrollSlider(1)"><i class="fa-solid fa-chevron-right"></i></button>
-            </div>
-        </div>
-        <div id="episodesList" class="episodes-slider"></div>
     </div>
 
     <div id="floating-container"></div>
