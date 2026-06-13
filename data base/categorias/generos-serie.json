@@ -1,5 +1,19 @@
 [
   {
+    "id_tmdb": 224263,
+    "poster": "https://image.tmdb.org/t/p/w500/ssls8OpHHXtHcvIy7AiXipBddQX.jpg",
+    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=224263",
+    "type": "serie",
+    "año": "2026",
+    "titulo": "Stranger Things: Relatos del 85",
+    "generos": [
+      "Animación",
+      "Sci-Fi & Fantasy",
+      "Misterio",
+      "Action & Adventure"
+    ]
+  },
+  {
     "id_tmdb": 1429,
     "poster": "https://image.tmdb.org/t/p/w500/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
     "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=1429",
@@ -62,4 +76,4 @@
       "Drama"
     ]
   }
-  ]
+]
