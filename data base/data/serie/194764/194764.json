@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 194764,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/mW2qLgX1Z336obi5rWKQFaKw98n.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4TdmuuwiIiKw3JOjIuhdgYxRXnN.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/1Zqwt017CSDI0gYdRq1KWIZGZ72.png",
+  "titulo": "El Pingüino",
+  "titulo_original": "The Penguin",
+  "fecha_estreno": "2024-09-19",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 8.355,
+  "sinopsis": "Miniserie dramática que cuenta el ascenso al poder del Pingüino en el inframundo criminal de Gotham, después de los asesinatos de Riddler.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Colin Farrell",
+      "personaje": "Oz 'The Penguin' Cobb",
+      "foto": "https://image.tmdb.org/t/p/w500/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg"
+    },
+    {
+      "nombre": "Cristin Milioti",
+      "personaje": "Sofia Falcone",
+      "foto": "https://image.tmdb.org/t/p/w500/zn0bAUnjauKIsDzRnhHogtUKpZm.jpg"
+    },
+    {
+      "nombre": "Rhenzy Feliz",
+      "personaje": "Victor Aguilar",
+      "foto": "https://image.tmdb.org/t/p/w500/9YPe3GgyWjG4D0GnTx9KzfvnO0L.jpg"
+    },
+    {
+      "nombre": "Deirdre O'Connell",
+      "personaje": "Francis Cobb",
+      "foto": "https://image.tmdb.org/t/p/w500/14e0AZOZafenduP7O6oMLSL92RP.jpg"
+    },
+    {
+      "nombre": "Clancy Brown",
+      "personaje": "Salvatore Maroni",
+      "foto": "https://image.tmdb.org/t/p/w500/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Colin Farrell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lauren LeFranc",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Pipski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Reeves",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dylan Clark",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Craig Zobel",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Colin Farrell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lauren LeFranc",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Daniel Pipski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bill Finger",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Matt Reeves",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dylan Clark",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Craig Zobel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Helen Huang",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Bill Carraro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mick Giacchino",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Vladimir Cvetko",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Erika Johnson",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Noelle Valdivia",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "John McCutcheon",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.355,
+    "imdb": "tt15435876",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC Comics, HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=RNEt4JPlrFE"
+}
