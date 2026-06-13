@@ -235,31 +235,26 @@ async function loadSeasonEpisodes(seriesId, seasonNumber) {
         
         const seasonData = await res.json();
         
-        // NUEVO: Soportar la nueva estructura con Backdrop y la vieja estructura normal
         const hasNewStructure = seasonData.capitulos !== undefined;
         const episodesData = hasNewStructure ? seasonData.capitulos : seasonData;
         
-        // Obtener el backdrop de la temporada (o usar el de la serie por defecto)
         const seasonBackdrop = (hasNewStructure && seasonData.backdrop) 
             ? seasonData.backdrop 
             : (currentSeriesData.backdrop || currentSeriesData.poster);
 
-        // NUEVO: Cambiar el fondo principal (heroBg) al seleccionar la temporada
         const heroBg = document.getElementById('heroBg');
         if (heroBg) {
             heroBg.style.backgroundImage = `url('${seasonBackdrop}')`;
         }
 
-        // Mapear los episodios
         const episodes = Object.keys(episodesData)
-            .filter(key => key !== 'backdrop' && key !== 'capitulos') // Filtro de seguridad
+            .filter(key => key !== 'backdrop' && key !== 'capitulos')
             .map(key => ({
                 episode_number: parseInt(key),
                 video_url: episodesData[key]
             }))
             .sort((a, b) => a.episode_number - b.episode_number);
 
-        // Pasamos el backdrop de la temporada a la función de renderizado
         renderEpisodes(episodes, seasonNumber, seasonBackdrop);
     } catch (e) {
         container.innerHTML = `
@@ -297,7 +292,6 @@ function renderEpisodes(episodes, seasonNumber, seasonBackdrop) {
         return;
     }
 
-    // NUEVO: Usamos el backdrop de la temporada para las miniaturas
     const thumbnail = seasonBackdrop || currentSeriesData?.backdrop || 'https://picsum.photos/id/1015/600/340';
     const lastWatched = getLastWatchedEpisode();
 
@@ -340,7 +334,7 @@ function renderEpisodes(episodes, seasonNumber, seasonBackdrop) {
 
             currentEpisodeData = {
                 video: ep.video_url,
-                poster: thumbnail, // El reproductor también usará este backdrop como poster
+                poster: thumbnail,
                 title: encodeURIComponent(`${currentSeriesData.titulo} - T${seasonNumber}E${ep.episode_number}`)
             };
 
@@ -406,13 +400,15 @@ function closeTrailerModal() {
     }
 }
 
+// ======== FUNCIÓN MODIFICADA: openPlayer ========
 function openPlayer(option) {
     document.getElementById('playerModal').style.display = 'none';
     if (!currentEpisodeData || !currentEpisodeData.video) return;
 
+    // Se añadió &id=${currentSeriesId} al final de ambas URLs
     let url = option === 1 
-        ? `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(currentEpisodeData.video)}&poster=${encodeURIComponent(currentEpisodeData.poster)}&title=${currentEpisodeData.title}&id=${id}`
-        : `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(currentEpisodeData.video)}&poster=${encodeURIComponent(currentEpisodeData.poster)}&title=${currentEpisodeData.title}`;
+        ? `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(currentEpisodeData.video)}&poster=${encodeURIComponent(currentEpisodeData.poster)}&title=${currentEpisodeData.title}&id=${currentSeriesId}`
+        : `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(currentEpisodeData.video)}&poster=${encodeURIComponent(currentEpisodeData.poster)}&title=${currentEpisodeData.title}&id=${currentSeriesId}`;
     
     window.location.href = url;
 }
@@ -463,7 +459,6 @@ async function toggleFavorite(seriesId, seriesData) {
         return false;
     }
 
-    // Referencia al documento específico dentro de la subcolección myList
     const docRef = firebase.firestore()
         .collection("users")
         .doc(user.uid)
@@ -474,14 +469,12 @@ async function toggleFavorite(seriesId, seriesData) {
         const docSnap = await docRef.get();
 
         if (docSnap.exists) {
-            // Si ya existe, lo eliminamos (Quitar de mi lista)
             await docRef.delete();
             return false;
         } else {
-            // Si no existe, lo creamos con el formato exacto requerido
             await docRef.set({
                 addedAt: firebase.firestore.FieldValue.serverTimestamp(),
-                id: Number(seriesId), // int64 format
+                id: Number(seriesId),
                 type: "serie",
                 url: `https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=${seriesId}`
             });
@@ -523,13 +516,11 @@ async function loadFavoriteState(id) {
     const btn = document.getElementById('listBtn');
     if (!btn) return;
     
-    // Esperamos un momento por si firebase auth tarda en inicializar
     setTimeout(async () => {
         const user = firebase.auth().currentUser;
         if (!user) return;
 
         try {
-            // Comprobamos la existencia del documento en myList
             const docRef = firebase.firestore()
                 .collection("users")
                 .doc(user.uid)
