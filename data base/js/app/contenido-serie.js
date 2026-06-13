@@ -1,6 +1,10 @@
-// =============================================
-// CONTENIDO-SERIE.JS 
-// =============================================
+// ================== RECARGAR AL REGRESAR DEL REPRODUCTOR ==================
+window.addEventListener('pageshow', (event) => {
+    // Si el usuario presiona "atrás" desde el player, forzamos la actualización de la UI
+    if (event.persisted || window.performance.navigation.type === 2) {
+        window.location.reload(); 
+    }
+});
 
 const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/serie/";
 
@@ -151,7 +155,6 @@ function renderSeriesPage(data) {
         </div>
     `).join('');
 
-    // --- CONFIGURAR BOTÓN REPRODUCIR DINÁMICO ---
     const lastWatched = getLastWatchedEpisode();
     const playText = document.getElementById('playText');
     if (lastWatched && playText) {
@@ -176,7 +179,6 @@ function renderSeriesPage(data) {
         };
     }
 
-    // --- CONFIGURAR BOTÓN DE TRAILER ---
     const trailerBtn = document.getElementById('trailerBtn');
     if (trailerBtn) {
         trailerBtn.onclick = () => {
@@ -189,7 +191,6 @@ function renderSeriesPage(data) {
         };
     }
 
-    // --- CONFIGURAR BOTÓN MI LISTA ---
     const listBtn = document.getElementById('listBtn');
     if (listBtn) {
         listBtn.onclick = () => toggleList(listBtn);
@@ -332,10 +333,13 @@ function renderEpisodes(episodes, seasonNumber, seasonBackdrop) {
             const pt = document.getElementById('playText');
             if(pt) pt.textContent = `Continuar T${seasonNumber} E${ep.episode_number}`;
 
+            // 🔥 AÑADIMOS TEMPORADA Y EPISODIO AL OBJETO 🔥
             currentEpisodeData = {
                 video: ep.video_url,
                 poster: thumbnail,
-                title: encodeURIComponent(`${currentSeriesData.titulo} - T${seasonNumber}E${ep.episode_number}`)
+                title: encodeURIComponent(`${currentSeriesData.titulo} - T${seasonNumber}E${ep.episode_number}`),
+                season: seasonNumber,
+                episode: ep.episode_number
             };
 
             document.getElementById('playerModal').style.display = 'flex';
@@ -405,10 +409,12 @@ function openPlayer(option) {
     document.getElementById('playerModal').style.display = 'none';
     if (!currentEpisodeData || !currentEpisodeData.video) return;
 
-    // Se añadió &id=${currentSeriesId} al final de ambas URLs
+    // 🔥 PASAMOS EXPRESAMENTE "s" y "e" POR LA URL PARA EL PLAYER 🔥
+    let baseParams = `video=${encodeURIComponent(currentEpisodeData.video)}&poster=${encodeURIComponent(currentEpisodeData.poster)}&title=${currentEpisodeData.title}&id=${currentSeriesId}&s=${currentEpisodeData.season}&e=${currentEpisodeData.episode}`;
+    
     let url = option === 1 
-        ? `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(currentEpisodeData.video)}&poster=${encodeURIComponent(currentEpisodeData.poster)}&title=${currentEpisodeData.title}&id=${currentSeriesId}`
-        : `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(currentEpisodeData.video)}&poster=${encodeURIComponent(currentEpisodeData.poster)}&title=${currentEpisodeData.title}&id=${currentSeriesId}`;
+        ? `https://lzplayhd.online/lzpro/player.html?${baseParams}`
+        : `https://lzrdrz10.github.io/premiumplayer/player.html?${baseParams}`;
     
     window.location.href = url;
 }
@@ -433,7 +439,6 @@ async function incrementarVistas() {
     } catch (e) {}
 }
 
-// TOAST NOTIFICATIONS (Alertas UI)
 function showToast(msg, iconClass = 'fa-info-circle') {
     let toast = document.getElementById('app-toast');
     if (!toast) {
@@ -451,7 +456,6 @@ function showToast(msg, iconClass = 'fa-info-circle') {
     }, 3000);
 }
 
-// LOGICA DE GUARDADO FIRESTORE (NUEVA ESTRUCTURA)
 async function toggleFavorite(seriesId, seriesData) {
     const user = firebase.auth().currentUser;
     if (!user) {
@@ -487,7 +491,6 @@ async function toggleFavorite(seriesId, seriesData) {
     }
 }
 
-// ACCION DEL BOTON
 function toggleList(btn) {
     if (!currentSeriesId || !currentSeriesData) return;
     
@@ -511,7 +514,6 @@ function toggleList(btn) {
     });
 }
 
-// CARGAR ESTADO INICIAL
 async function loadFavoriteState(id) {
     const btn = document.getElementById('listBtn');
     if (!btn) return;
