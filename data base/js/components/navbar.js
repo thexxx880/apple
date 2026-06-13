@@ -11,7 +11,7 @@ function renderNavbar(containerId = "main-header") {
         <div class="nav-center">
             <a href="https://lzplayhd.online/apple/data%20base/" class="nav-link">Inicio</a>
             <a href="https://lzplayhd.online/apple/data%20base/categorias/categorias.html" class="nav-link">Películas</a>
-            <a href="https://lzplayhd.online/apple/data%20base/data/serie.html" class="nav-link">Series</a>
+            <a href="https://lzplayhd.online/apple/data%20base/categorias/categorias-serie.html" class="nav-link">Series</a>
            
             <!-- ICONO DE BÚSQUEDA -->
             <a href="https://lzplayhd.online/apple/data%20base/search/search.html" class="search-icon-link" id="searchIcon">
