@@ -16,7 +16,6 @@ function getContentId() {
 }
 
 // ================== DETECTAR TEMPORADAS AUTOMÁTICAMENTE ==================
-// Esta función buscará t1, t2, t3... hasta que ya no encuentre más en tu GitHub
 async function detectarTemporadas(id) {
     let count = 0;
     let s = 1;
@@ -25,19 +24,18 @@ async function detectarTemporadas(id) {
     while (keepChecking) {
         const url = `${GITHUB_RAW_BASE}${id}/t${s}/${id}.json`;
         try {
-            // Usamos fetch para ver si el archivo de la temporada existe
             const response = await fetch(url, { method: 'HEAD' }); 
             if (response.ok) {
                 count++;
                 s++;
             } else {
-                keepChecking = false; // Ya no hay más carpetas
+                keepChecking = false;
             }
         } catch (error) {
             keepChecking = false;
         }
     }
-    return count === 0 ? 1 : count; // Devuelve mínimo 1 si falla
+    return count === 0 ? 1 : count; 
 }
 
 // ================== CARGAR SERIE PRINCIPAL ==================
@@ -58,9 +56,8 @@ async function loadSeries() {
         const data = await res.json();
         currentSeriesData = data;
 
-        // --- AQUI DETECTAMOS LAS CARPETAS (t1, t2, etc.) ---
         const totalSeasons = await detectarTemporadas(id);
-        data.number_of_seasons = totalSeasons; // Se lo inyectamos a los datos
+        data.number_of_seasons = totalSeasons;
 
         renderSeriesPage(data);
         renderSeasonsTabs(data);
@@ -130,7 +127,6 @@ function renderSeriesPage(data) {
         </div>
     `;
 
-    // Reparto
     const castContainer = document.getElementById('castScroll');
     castContainer.innerHTML = (data.reparto || []).map(actor => `
         <div class="cast-card" onclick="alert('Filmografía próximamente')">
@@ -140,7 +136,6 @@ function renderSeriesPage(data) {
         </div>
     `).join('');
 
-    // Equipo
     const crewContainer = document.getElementById('crewGrid');
     const allCrew = [...(data.equipo_creativo || []), ...(data.crew || [])];
     crewContainer.innerHTML = allCrew.map(person => `
@@ -153,7 +148,6 @@ function renderSeriesPage(data) {
         </div>
     `).join('');
 
-    // Botones Hero
     const playBtn = document.getElementById('playBtn');
     if (playBtn) {
         playBtn.onclick = () => {
@@ -284,21 +278,12 @@ function renderEpisodes(episodes, seasonNumber) {
 
         container.appendChild(card);
     });
-
-    setTimeout(() => {
-        if (lastWatched && lastWatched.season === seasonNumber) {
-            const activeCard = container.querySelector('.active-episode');
-            if (activeCard) {
-                activeCard.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
-            }
-        }
-    }, 700);
 }
 
 // ================== CONTROL SLIDER (Botones Flecha) ==================
 function scrollSlider(direction) {
     const slider = document.getElementById('episodesList');
-    const scrollAmount = 318; 
+    const scrollAmount = 212; 
     slider.scrollBy({ left: direction * scrollAmount, behavior: 'smooth' });
 }
 
@@ -324,7 +309,7 @@ function openPlayer(option) {
         ? `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(currentEpisodeData.video)}&poster=${encodeURIComponent(currentEpisodeData.poster)}&title=${currentEpisodeData.title}`
         : `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(currentEpisodeData.video)}&poster=${encodeURIComponent(currentEpisodeData.poster)}&title=${currentEpisodeData.title}`;
     
-    window.open(url, '_blank');
+    window.location.href = url;
 }
 
 function closeModal() {
