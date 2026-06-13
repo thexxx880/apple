@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 92749,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5AHnvXfW0mtsm047OP54n4pnV0R.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iux1vKPT7Vw1AzetZb4Jz6wfYsm.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rZcvD1r2iNMjYFsnpft2zLgxOBr.png",
+  "titulo": "Moon Knight",
+  "titulo_original": "Moon Knight",
+  "fecha_estreno": "2022-03-30",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Misterio",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.644,
+  "sinopsis": "Steven Grant parecía llevar una vida sin sobresaltos hasta que la realidad empezó a desmoronarse a sus pies, rodeado de pesadillas de otra vida: la del mercenario Marc Spector. Además de múltiples personalidades, ahora tiene enemigos brutales que lo persiguen, y un misterio mortal que resolver con los dioses del antiguo Egipto.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Oscar Isaac",
+      "personaje": "Marc Spector / Steven Grant / Moon Knight / Mr. Knight",
+      "foto": "https://image.tmdb.org/t/p/w500/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+    },
+    {
+      "nombre": "Ethan Hawke",
+      "personaje": "Arthur Harrow",
+      "foto": "https://image.tmdb.org/t/p/w500/oojD9jSshvUT4t6AUySsBxoekHk.jpg"
+    },
+    {
+      "nombre": "May Calamawy",
+      "personaje": "Layla El-Faouly",
+      "foto": "https://image.tmdb.org/t/p/w500/5S3nNkH5p85xK7k7AaXBZ0ouyOR.jpg"
+    },
+    {
+      "nombre": "Ann Akinjirin",
+      "personaje": "Bobbi",
+      "foto": "https://image.tmdb.org/t/p/w500/o4Tbudvow3rzgxmlilnRral5fpr.jpg"
+    },
+    {
+      "nombre": "David Ganly",
+      "personaje": "Billy",
+      "foto": "https://image.tmdb.org/t/p/w500/e9NUAspQ306cmyhkl3gG5LU1LHi.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeremy Slater",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Grant Curtis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Victoria Alonso",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Winderbaum",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Doug Moench",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Don Perlin",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeremy Slater",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Halley Finn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Krista Husar",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Stefania Cella",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Grant Curtis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Victoria Alonso",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Winderbaum",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Trevor Waterson",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "محمد دياب",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Oscar Isaac",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Meghan Kasperlik",
+      "rol": "Costume Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.644,
+    "imdb": "tt10234724",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=C9Z75wfjxCU"
+}
