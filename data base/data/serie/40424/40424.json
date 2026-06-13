@@ -1,0 +1,125 @@
+{
+  "id_tmdb": 40424,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/CMG53GMx0OFFmF4dzhlFuebarq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zBIIyH8yfdlfvvpEiG9PLwoVXc6.jpg",
+  "logo": "",
+  "titulo": "Initial D",
+  "titulo_original": "頭文字D",
+  "fecha_estreno": "1998-04-18",
+  "duracion": "25min",
+  "año": "1998",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Drama"
+  ],
+  "puntuacion": 7.996,
+  "sinopsis": "Cuenta la historia de Takumi Fujiwara, un estudiante de 18 años de edad que trabaja en una gasolinera con dos amigos: Itsuki (compañero de clase que no cesa de hablar a Takumi de su pasión por los coches y de sus modelos preferidos) e Iketani (algo mayor que ellos y líder del equipo local de corredores callejeros: Los Akina Speedstars). Takumi, a ojos de sus amigos, no tiene la más mínima idea de coches ni tampoco el más mínimo interés.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Miki Shin'ichirou",
+      "personaje": "Takumi Fujiwara (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/49Mg6xn69XlVDPPBDwxtNxes5zJ.jpg"
+    },
+    {
+      "nombre": "阿部敦",
+      "personaje": "Shinji Inui (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yqJ4CYgSietAHfxyAraVCdUfPia.jpg"
+    },
+    {
+      "nombre": "Takehito Koyasu",
+      "personaje": "Ryosuke Takahashi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg"
+    },
+    {
+      "nombre": "Tomokazu Seki",
+      "personaje": "Keisuke Takahashi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
+    },
+    {
+      "nombre": "木内秀信",
+      "personaje": "Go Hojo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d7MW4HQjMsZnX3cy2dF8QJETCbf.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "福田佳与",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "류환석",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "山口博美",
+      "rol": "Other"
+    },
+    {
+      "nombre": "三笠修",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "池上伸治",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "橋本みつお",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "横井秀章",
+      "rol": "Mechanical Designer"
+    },
+    {
+      "nombre": "安田兼盛",
+      "rol": "CGI Director"
+    },
+    {
+      "nombre": "梅堀淳",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "佐藤正樹",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "山田富二男",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "小山健二",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "福田佳与",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "三間雅文",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "益田祐里",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "瀬川素公",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.996,
+    "imdb": "tt0385426",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
