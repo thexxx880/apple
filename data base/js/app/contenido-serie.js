@@ -59,14 +59,12 @@ async function loadSeries() {
         const totalSeasons = await detectarTemporadas(id);
         data.number_of_seasons = totalSeasons;
 
-        // VERIFICAR PROGRESO GUARDADO
         const lastWatched = getLastWatchedEpisode();
         const startSeason = lastWatched ? lastWatched.season : 1;
 
         renderSeriesPage(data);
         renderSeasonsTabs(data, startSeason);
 
-        // Cargar la temporada guardada (o la 1 por defecto)
         setTimeout(() => loadSeasonEpisodes(id, startSeason), 350);
         setTimeout(incrementarVistas, 900);
 
@@ -153,15 +151,25 @@ function renderSeriesPage(data) {
         </div>
     `).join('');
 
+    // --- CONFIGURAR BOTÓN REPRODUCIR DINÁMICO ---
+    const lastWatched = getLastWatchedEpisode();
+    const playText = document.getElementById('playText');
+    if (lastWatched && playText) {
+        playText.textContent = `Continuar T${lastWatched.season} E${lastWatched.episode}`;
+    }
+
     const playBtn = document.getElementById('playBtn');
     if (playBtn) {
         playBtn.onclick = () => {
-            const lastWatched = getLastWatchedEpisode();
             const startSeason = lastWatched ? lastWatched.season : 1;
             
+            // Marcar visualmente la tab activa de la temporada al darle click al botón principal
+            document.querySelectorAll('.season-tab').forEach(t => t.classList.remove('active'));
+            const tabs = document.querySelectorAll('.season-tab');
+            if (tabs[startSeason - 1]) tabs[startSeason - 1].classList.add('active');
+
             loadSeasonEpisodes(currentSeriesId, startSeason).then(() => {
                 setTimeout(() => {
-                    // Si hay progreso, reproduce ese. Si no, reproduce el primero
                     const activeBtn = document.querySelector('.active-episode .episode-play-btn') || document.querySelector('.episode-play-btn');
                     if (activeBtn) activeBtn.click();
                 }, 650);
@@ -169,11 +177,18 @@ function renderSeriesPage(data) {
         };
     }
 
+    // --- CONFIGURAR BOTÓN DE TRAILER ---
     const trailerBtn = document.getElementById('trailerBtn');
-    if (trailerBtn) trailerBtn.onclick = () => {
-        const url = data.trailer || data.youtube;
-        url ? window.open(url, '_blank') : alert("No hay trailer disponible.");
-    };
+    if (trailerBtn) {
+        trailerBtn.onclick = () => {
+            const url = data.trailer || data.youtube;
+            if (!url) {
+                alert("No hay trailer disponible para esta serie.");
+                return;
+            }
+            abrirTrailerModal(url);
+        };
+    }
 
     loadFavoriteState(currentSeriesId);
 
@@ -288,13 +303,16 @@ function renderEpisodes(episodes, seasonNumber) {
                 alert("Este episodio aún no tiene video disponible.");
                 return;
             }
-            // GUARDAR PROGRESO ESPECÍFICO DE ESTA SERIE EN LOCALSTORAGE
             saveLastWatchedEpisode(seasonNumber, ep.episode_number);
             
             document.querySelectorAll('.episode-card').forEach(c => c.classList.remove('active-episode'));
             card.classList.add('active-episode');
             
             centrarEpisodioActivo();
+
+            // Actualizar texto principal de hero si cambia el episodio 
+            const pt = document.getElementById('playText');
+            if(pt) pt.textContent = `Continuar T${seasonNumber} E${ep.episode_number}`;
 
             currentEpisodeData = {
                 video: ep.video_url,
@@ -323,7 +341,6 @@ function scrollSlider(direction) {
 // ================== FUNCIONES DE STORAGE ==================
 function saveLastWatchedEpisode(season, episode) {
     if (!currentSeriesId) return;
-    // La clave dinámica 'lastWatched_ID' aísla el progreso de esta serie de las demás
     const data = { seriesId: currentSeriesId, season: season, episode: episode, timestamp: Date.now() };
     localStorage.setItem(`lastWatched_${currentSeriesId}`, JSON.stringify(data));
 }
@@ -334,7 +351,42 @@ function getLastWatchedEpisode() {
     return saved ? JSON.parse(saved) : null;
 }
 
-// ================== MODAL & REPRODUCTORES ==================
+// ================== MODALES (TRAILER & PLAYER) ==================
+
+// TRAILER
+function abrirTrailerModal(url) {
+    let videoId = "";
+    // Extraer ID de los formatos comunes de YouTube
+    if (url.includes("youtube.com/watch?v=")) {
+        videoId = url.split("v=")[1].split("&")[0];
+    } else if (url.includes("youtu.be/")) {
+        videoId = url.split("youtu.be/")[1].split("?")[0];
+    }
+
+    if (!videoId) {
+        // Si no es un link estándar de YouTube, abrir en pestaña normal por seguridad
+        window.open(url, '_blank'); 
+        return;
+    }
+
+    const modal = document.getElementById('trailerModal');
+    const iframe = document.getElementById('trailerIframe');
+    if (modal && iframe) {
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        modal.style.display = 'flex';
+    }
+}
+
+function closeTrailerModal() {
+    const modal = document.getElementById('trailerModal');
+    const iframe = document.getElementById('trailerIframe');
+    if (modal) {
+        modal.style.display = 'none';
+        if (iframe) iframe.src = ""; // Cortar la reproducción al cerrar
+    }
+}
+
+// REPRODUCTORES
 function openPlayer(option) {
     document.getElementById('playerModal').style.display = 'none';
     if (!currentEpisodeData || !currentEpisodeData.video) return;
