@@ -1,0 +1,95 @@
+{
+  "id_tmdb": 2085,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dugFpakDXxjDjEUloukNqAx3cjK.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8vKccsHIRHsuzlkYQUX1u8OnTKz.png",
+  "titulo": "Coraje, el perro cobarde",
+  "titulo_original": "Courage the Cowardly Dog",
+  "fecha_estreno": "1999-11-12",
+  "duracion": "11min",
+  "año": "1999",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Sci-Fi & Fantasy",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 8.206,
+  "sinopsis": "Las extravagantes aventuras de Coraje, un perro cobarde que debe superar sus propios miedos para defender heroicamente a sus desprevenidos dueños, unos granjeros, de todo tipo de peligros, sucesos paranormales y amenazas que acechan sus tierras.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Marty Grabstein",
+      "personaje": "Courage (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/j44B2VqurMilLNkUjdwqk3zJXQU.jpg"
+    },
+    {
+      "nombre": "Thea White",
+      "personaje": "Muriel Bagge (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1l6H1kpB0KLw7Mf2YwqLgkxYDt4.jpg"
+    },
+    {
+      "nombre": "Simon Prebble",
+      "personaje": "The Computer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bnobCWI0MO5DfvxDALhAgISbICe.jpg"
+    },
+    {
+      "nombre": "Billie Lou Watt",
+      "personaje": "Ma Bagge (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Paul Schoeffler",
+      "personaje": "Katz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mVefRPbAwskzkIBdHXn2THNwTV3.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Winnie Chaffee",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John R. Dilworth",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ethan Kanfer",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Winnie Chaffee",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ray daSilva",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "Andy Ezrin",
+      "rol": "Music"
+    },
+    {
+      "nombre": "John R. Dilworth",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jody Gray",
+      "rol": "Music"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.206,
+    "imdb": "tt0220880",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=zxz5_OlpbUI"
+}
