@@ -59,10 +59,15 @@ async function loadSeries() {
         const totalSeasons = await detectarTemporadas(id);
         data.number_of_seasons = totalSeasons;
 
-        renderSeriesPage(data);
-        renderSeasonsTabs(data);
+        // VERIFICAR PROGRESO GUARDADO
+        const lastWatched = getLastWatchedEpisode();
+        const startSeason = lastWatched ? lastWatched.season : 1;
 
-        setTimeout(() => loadSeasonEpisodes(id, 1), 350);
+        renderSeriesPage(data);
+        renderSeasonsTabs(data, startSeason);
+
+        // Cargar la temporada guardada (o la 1 por defecto)
+        setTimeout(() => loadSeasonEpisodes(id, startSeason), 350);
         setTimeout(incrementarVistas, 900);
 
     } catch (err) {
@@ -151,10 +156,14 @@ function renderSeriesPage(data) {
     const playBtn = document.getElementById('playBtn');
     if (playBtn) {
         playBtn.onclick = () => {
-            loadSeasonEpisodes(currentSeriesId, 1).then(() => {
+            const lastWatched = getLastWatchedEpisode();
+            const startSeason = lastWatched ? lastWatched.season : 1;
+            
+            loadSeasonEpisodes(currentSeriesId, startSeason).then(() => {
                 setTimeout(() => {
-                    const firstBtn = document.querySelector('.episode-play-btn');
-                    if (firstBtn) firstBtn.click();
+                    // Si hay progreso, reproduce ese. Si no, reproduce el primero
+                    const activeBtn = document.querySelector('.active-episode .episode-play-btn') || document.querySelector('.episode-play-btn');
+                    if (activeBtn) activeBtn.click();
                 }, 650);
             });
         };
@@ -173,14 +182,14 @@ function renderSeriesPage(data) {
 }
 
 // ================== TEMPORADAS ==================
-function renderSeasonsTabs(data) {
+function renderSeasonsTabs(data, activeSeason = 1) {
     const container = document.getElementById('seasonsTabs');
     container.innerHTML = '';
     const total = data.number_of_seasons || 1;
 
     for (let i = 1; i <= total; i++) {
         const tab = document.createElement('div');
-        tab.className = `season-tab ${i === 1 ? 'active' : ''}`;
+        tab.className = `season-tab ${i === activeSeason ? 'active' : ''}`;
         tab.textContent = `Temporada ${i}`;
         tab.onclick = () => {
             document.querySelectorAll('.season-tab').forEach(t => t.classList.remove('active'));
@@ -219,6 +228,23 @@ async function loadSeasonEpisodes(seriesId, seasonNumber) {
                 <i class="fa-solid fa-exclamation-triangle" style="font-size:2rem;"></i><br><br>
                 No se pudieron cargar los episodios de la Temporada ${seasonNumber}
             </div>`;
+    }
+}
+
+// ================== CENTRAR EPISODIO ACTIVO ==================
+function centrarEpisodioActivo() {
+    const container = document.getElementById('episodesList');
+    const activeCard = container.querySelector('.active-episode');
+    
+    if (activeCard && container) {
+        const containerCenter = container.clientWidth / 2;
+        const cardCenter = activeCard.clientWidth / 2;
+        const targetScroll = activeCard.offsetLeft - containerCenter + cardCenter;
+        
+        container.scrollTo({
+            left: targetScroll,
+            behavior: 'smooth'
+        });
     }
 }
 
@@ -262,10 +288,13 @@ function renderEpisodes(episodes, seasonNumber) {
                 alert("Este episodio aún no tiene video disponible.");
                 return;
             }
+            // GUARDAR PROGRESO ESPECÍFICO DE ESTA SERIE EN LOCALSTORAGE
             saveLastWatchedEpisode(seasonNumber, ep.episode_number);
             
             document.querySelectorAll('.episode-card').forEach(c => c.classList.remove('active-episode'));
             card.classList.add('active-episode');
+            
+            centrarEpisodioActivo();
 
             currentEpisodeData = {
                 video: ep.video_url,
@@ -278,6 +307,10 @@ function renderEpisodes(episodes, seasonNumber) {
 
         container.appendChild(card);
     });
+
+    setTimeout(() => {
+        centrarEpisodioActivo();
+    }, 150);
 }
 
 // ================== CONTROL SLIDER (Botones Flecha) ==================
@@ -290,6 +323,7 @@ function scrollSlider(direction) {
 // ================== FUNCIONES DE STORAGE ==================
 function saveLastWatchedEpisode(season, episode) {
     if (!currentSeriesId) return;
+    // La clave dinámica 'lastWatched_ID' aísla el progreso de esta serie de las demás
     const data = { seriesId: currentSeriesId, season: season, episode: episode, timestamp: Date.now() };
     localStorage.setItem(`lastWatched_${currentSeriesId}`, JSON.stringify(data));
 }
