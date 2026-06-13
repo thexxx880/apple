@@ -116,10 +116,11 @@
 
     <script src="../js/components/navbar.js"></script>
     <script>
-   // =============================================
+ // =============================================
 // CATÁLOGO - Plataforma con distinción Serie/Película
 // =============================================
 const GENEROS_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/categorias/generos.json";
+const GENEROS_SERIE_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/categorias/generos-serie.json";
 const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
 
 let todosLosContenidos = [];
@@ -196,10 +197,28 @@ async function cargarTodo() {
     try {
         const totalEnPlataforma = await cargarUrlMapPlataforma(nombrePlataforma);
         
-        const res = await fetch(GENEROS_URL);
-        let data = await res.json();
+        // Cargar ambos archivos JSON
+        const [resGeneros, resSeries] = await Promise.all([
+            fetch(GENEROS_URL),
+            fetch(GENEROS_SERIE_URL)
+        ]);
 
-        todosLosContenidos = data
+        const dataGeneros = await resGeneros.json();
+        const dataSeries = await resSeries.json();
+
+        // Combinar ambos arrays
+        let dataCombinada = [...dataGeneros, ...dataSeries];
+
+        // Eliminar duplicados por ID (por si hay solapamiento)
+        const seen = new Set();
+        dataCombinada = dataCombinada.filter(item => {
+            const id = String(item.id_tmdb || item.id);
+            if (seen.has(id)) return false;
+            seen.add(id);
+            return true;
+        });
+
+        todosLosContenidos = dataCombinada
             .filter(item => {
                 const id = String(item.id_tmdb || item.id);
                 return urlMapPlataforma[id]; // Solo los que están en la plataforma
@@ -221,11 +240,11 @@ async function cargarTodo() {
                     genres: Array.isArray(item.generos) ? item.generos : [],
                     sinopsis: item.sinopsis || "",
                     tituloAlternos: item["titulo alternos"] || "",
-                    isSerie: isSerie   // ← Nueva propiedad importante
+                    isSerie: isSerie
                 };
             });
 
-        document.getElementById("total-contenido").textContent = `${totalEnPlataforma} contenidos en ${nombrePlataforma}`;
+        document.getElementById("total-contenido").textContent = `${todosLosContenidos.length} contenidos en ${nombrePlataforma}`;
         
         inicializarFiltrosModal();
         contenidosFiltrados = [...todosLosContenidos];
@@ -235,7 +254,7 @@ async function cargarTodo() {
         principal.classList.remove("hidden");
 
     } catch (error) {
-        console.error(error);
+        console.error("Error cargando catálogo:", error);
         loading.innerHTML = `<p class="text-red-400">Error al cargar la plataforma.</p>`;
     }
 }
@@ -327,7 +346,6 @@ function activarLazyLoading() {
 }
 
 // ====================== FILTROS ======================
-// (Mantengo tus funciones de filtros sin cambios)
 function abrirModalFiltros() {
     document.getElementById("modal-filtros").classList.remove("hidden");
     document.getElementById("modal-filtros").classList.add("flex");
