@@ -1,0 +1,119 @@
+{
+  "id_tmdb": 201834,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qPsKMp4ezqgT2XvtV8U9zdITqA5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xaiKpxuf9YGuTsqpdK5HSbD8M8f.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/cQhV414jeABfGw9yRAAnGPKtPFu.png",
+  "titulo": "Ted: La serie",
+  "titulo_original": "ted",
+  "fecha_estreno": "2024-01-11",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 7.955,
+  "sinopsis": "Es 1993 y el momento de fama del oso Ted ha pasado, dejándolo viviendo con su mejor amigo, John Bennett, de 16 años, que vive en una casa de clase trabajadora de Boston con sus padres y su prima Blair. Puede que Ted no sea la mejor influencia para John, pero a fin de cuentas, está dispuesto a arriesgarse para ayudar a su amigo y su familia. Precuela de las películas de “Ted”.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Seth MacFarlane",
+      "personaje": "Ted (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8oQJqM51Z0Qtdb7sE6ZfX1peNCB.jpg"
+    },
+    {
+      "nombre": "Max Burkholder",
+      "personaje": "John Bennett",
+      "foto": "https://image.tmdb.org/t/p/w500/8uNNDZPSxLsNetHPl1zxMwKULTC.jpg"
+    },
+    {
+      "nombre": "Alanna Ubach",
+      "personaje": "Susan Bennett",
+      "foto": "https://image.tmdb.org/t/p/w500/p2sIpgftEIkhPrrpgu8wW8XEpDg.jpg"
+    },
+    {
+      "nombre": "Scott Grimes",
+      "personaje": "Matty Bennett",
+      "foto": "https://image.tmdb.org/t/p/w500/k5OCDhwZoFuNtN0o4EDkpBXQsFp.jpg"
+    },
+    {
+      "nombre": "Giorgia Whigham",
+      "personaje": "Blaire Bennett",
+      "foto": "https://image.tmdb.org/t/p/w500/9TsPUlajGlGnxiewtFrgOMu5A4R.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Seth MacFarlane",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul Corrigan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Clark",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Erica Huggins",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Walsh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alana Kleiman",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Seth MacFarlane",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul Corrigan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Clark",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Erica Huggins",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Walsh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alana Kleiman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Walter Murphy",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Seth MacFarlane",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Norah Jones",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.955,
+    "imdb": "tt14824792",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal",
+  "trailer": ""
+}
