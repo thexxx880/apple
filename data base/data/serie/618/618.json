@@ -1,0 +1,68 @@
+{
+  "id_tmdb": 618,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lTZG7IAPQhhyvoU0A2ple3O3J84.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1X7jac5eNqfjyka4zh6kaiJrsaX.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/xQXLO63n59hMnjIARfQiyVKfque.png",
+  "titulo": "Brandy Y El Sr. Bigotes",
+  "titulo_original": "Brandy & Mr. Whiskers",
+  "fecha_estreno": "2004-08-21",
+  "duracion": "30min",
+  "año": "2004",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 7.47,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Kaley Cuoco",
+      "personaje": "Brandy Harrington (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c01Ma8Jrr2OJ6uoikPwDK34Y8eK.jpg"
+    },
+    {
+      "nombre": "Charlie Adler",
+      "personaje": "Mr. Whiskers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hVENHdlEqsX6vhBW4MTpfYEFFQ3.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Ed (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+    },
+    {
+      "nombre": "Wayne Knight",
+      "personaje": "Mr. Cantarious (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ecc2Detpzqu6XyCUPh0BqOBwZyO.jpg"
+    },
+    {
+      "nombre": "Billy West",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Tristin Cole",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Lou Bega",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.47,
+    "imdb": "tt0423621",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": ""
+}
