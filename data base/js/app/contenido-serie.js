@@ -234,14 +234,25 @@ async function loadSeasonEpisodes(seriesId, seasonNumber) {
         if (!res.ok) throw new Error("Sin episodios");
         
         const seasonData = await res.json();
-        const episodes = Object.keys(seasonData)
+        
+        // AQUÍ ADAPTAMOS PARA LEER LA NUEVA ESTRUCTURA (O LA VIEJA COMO RESPALDO)
+        let episodesRaw = seasonData;
+        let seasonBackdrop = null;
+
+        if (seasonData.episodios) {
+            episodesRaw = seasonData.episodios;
+            seasonBackdrop = seasonData.backdrop;
+        }
+
+        const episodes = Object.keys(episodesRaw)
             .map(key => ({
                 episode_number: parseInt(key),
-                video_url: seasonData[key]
+                video_url: episodesRaw[key]
             }))
             .sort((a, b) => a.episode_number - b.episode_number);
 
-        renderEpisodes(episodes, seasonNumber);
+        // Pasamos el seasonBackdrop a la función que renderiza
+        renderEpisodes(episodes, seasonNumber, seasonBackdrop);
     } catch (e) {
         container.innerHTML = `
             <div style="padding:40px; text-align:center; color:#ff6b6b; width:100%;">
@@ -269,7 +280,8 @@ function centrarEpisodioActivo() {
 }
 
 // ================== RENDERIZAR TARJETAS EPISODIOS ==================
-function renderEpisodes(episodes, seasonNumber) {
+// Se recibe seasonBackdrop como tercer parámetro
+function renderEpisodes(episodes, seasonNumber, seasonBackdrop) {
     const container = document.getElementById('episodesList');
     container.innerHTML = '';
 
@@ -278,7 +290,8 @@ function renderEpisodes(episodes, seasonNumber) {
         return;
     }
 
-    const thumbnail = currentSeriesData?.backdrop || 'https://picsum.photos/id/1015/600/340';
+    // Ahora thumbnail prioriza el backdrop de la temporada. Si no existe, usa el de la serie.
+    const thumbnail = seasonBackdrop || currentSeriesData?.backdrop || 'https://picsum.photos/id/1015/600/340';
     const lastWatched = getLastWatchedEpisode();
 
     episodes.forEach(ep => {
