@@ -1,0 +1,53 @@
+{
+  "id_tmdb": 60574,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/zUqNyXRfYkFAFXsqJJjKMZpjYus.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dzq83RHwQcnP6WGJ6YkenIqeaa5.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/dfZBYZZYdFeNSeUqLKTiFpvtdJS.png",
+  "titulo": "Peaky Blinders",
+  "titulo_original": "Peaky Blinders",
+  "fecha_estreno": "2013-09-12",
+  "duracion": "24min",
+  "año": "2013",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 8.527,
+  "sinopsis": "Una familia de pandilleros asentada en Birmingham, Reino Unido, tras la Primera Guerra Mundial (1914-1918), dirige un local de apuestas hípicas. Las actividades del ambicioso jefe de la banda llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado desde Belfast para limpiar la ciudad y acabar con la banda.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Cillian Murphy",
+      "personaje": "Thomas Shelby",
+      "foto": "https://image.tmdb.org/t/p/w500/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+    },
+    {
+      "nombre": "Paul Anderson",
+      "personaje": "Arthur Shelby",
+      "foto": "https://image.tmdb.org/t/p/w500/nds5rTBZvJ4rEsP4N6OaoEgQDkW.jpg"
+    },
+    {
+      "nombre": "Sophie Rundle",
+      "personaje": "Ada Shelby",
+      "foto": "https://image.tmdb.org/t/p/w500/8kZTjHZcvmGo1W53DXM2mjXex2A.jpg"
+    },
+    {
+      "nombre": "Natasha O'Keeffe",
+      "personaje": "Lizzie Stark",
+      "foto": "https://image.tmdb.org/t/p/w500/tOX10C02tSFnOSra8a8rGuA6QZ5.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.527,
+    "imdb": "tt2442560",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=oVzVdvGIC7U"
+}
