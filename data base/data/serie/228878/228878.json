@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 228878,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/rYsLEca2TwkABX5c04LuKZdjSTG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4drV6iluttgjZmU1Q0xDqjrBQ1.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/gaFUVF5bB7djJCzeD9rtOtYGVrl.png",
+  "titulo": "Efectos colaterales",
+  "titulo_original": "Common Side Effects",
+  "fecha_estreno": "2025-02-02",
+  "duracion": "23min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.427,
+  "sinopsis": "Marshall y Frances, dos excompañeros que comparten un secreto: descubrieron la mejor medicina del mundo, un hongo que puede curar casi cualquier cosa.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Dave King",
+      "personaje": "Marshall Cuso (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sLwmPWUtt3w30YiPCX51khw7A9s.jpg"
+    },
+    {
+      "nombre": "Emily Pendergast",
+      "personaje": "Frances Applewhite (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tNBh4rl7vfNqIPK9LQZvPnLC3ce.jpg"
+    },
+    {
+      "nombre": "Mike Judge",
+      "personaje": "Rick Kruger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ol4kd4mSOK7Hx3r86ydez84bwEI.jpg"
+    },
+    {
+      "nombre": "Martha Kelly",
+      "personaje": "Agent Harrington (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ac7HoARDIHdYNqpzgJBzpmKHXHR.jpg"
+    },
+    {
+      "nombre": "Joseph Lee Anderson",
+      "personaje": "Agent Copano (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3u6LOjmlhjvhXsLFJdXieBZmJaU.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jacey Bradley",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Susan Shi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Daniel Schofield",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Jean Kyoung Frazier",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Emma Barrie",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Karey Dornetto",
+      "rol": "Consulting Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jacey Bradley",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Susan Shi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jon Foor",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Chase Trotto",
+      "rol": "Rigging Supervisor"
+    },
+    {
+      "nombre": "Moamed Sampson",
+      "rol": "Compositing Supervisor"
+    },
+    {
+      "nombre": "Samantha Saenz Diaz",
+      "rol": "Data Wrangler"
+    },
+    {
+      "nombre": "Carola Domenech",
+      "rol": "Administration"
+    },
+    {
+      "nombre": "Ricky Solis",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Vincent Tsui",
+      "rol": "Opening Title Sequence"
+    },
+    {
+      "nombre": "Cameron Tang",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Missy Laney",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Jordan Askins",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Alex Pollakoff",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Lorenzo Adams",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Magali Dunyach",
+      "rol": "Background Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.427,
+    "imdb": "tt28093628",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Animations Adult, Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=8rKznVxlSqI"
+}
