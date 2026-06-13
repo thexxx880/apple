@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 114868,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/v4la9QpSgcbEUZUUxvdIRCo5rsY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6pSkqecoNsxSA467Z28uhVDrjXo.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8SWLNjjgtGqcKg5JZYPdouao5K3.png",
+  "titulo": "Record of Ragnarok",
+  "titulo_original": "終末のワルキューレ",
+  "fecha_estreno": "2021-06-17",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.404,
+  "sinopsis": "Antes de erradicarlos del mundo para siempre, los dioses les dan a los humanos una última oportunidad de probar su valía. ¡Que comiencen las batallas de Ragnarok!",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "沢城みゆき",
+      "personaje": "Brunhilde (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
+    },
+    {
+      "nombre": "黒沢ともよ",
+      "personaje": "Göll (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eSRnva88YVcUXlDHdVrhier2SGU.jpg"
+    },
+    {
+      "nombre": "高木渉",
+      "personaje": "Zeus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/amccLvyTl5JP7T9F05BojgQedNw.jpg"
+    },
+    {
+      "nombre": "諏訪部順一",
+      "personaje": "Hermes (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+    },
+    {
+      "nombre": "Soma Saito",
+      "personaje": "Adam (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8W8Y02Jmjivw0kk5PDih9dqiyd9.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "菊池美穂",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "初見浩一",
+      "rol": "Director"
+    },
+    {
+      "nombre": "松岡晃平",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "稲本幸子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "川北健",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "長谷川卓也",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "菊池美穂",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "初見浩一",
+      "rol": "Director"
+    },
+    {
+      "nombre": "むとうやすゆき",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "むとうやすゆき",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "たなべようこ",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "木村康史",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "山口忍",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "須藤瞳",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "合田沙織",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "内田博基",
+      "rol": "3D Director"
+    },
+    {
+      "nombre": "松岡晃平",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "川島尚",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "稲本幸子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "川北健",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.404,
+    "imdb": "tt13676344",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=epbjLd6dqDY"
+}
