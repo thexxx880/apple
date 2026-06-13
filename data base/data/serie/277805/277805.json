@@ -1,0 +1,53 @@
+{
+  "id_tmdb": 277805,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3Yp9XPBtNGJNkwAWwyTHJSXy962.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/sbBiDH41uDR2PlRtdCYT5c3inyp.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/x9Cb6OHriOR6rtZO27AR9GWGlgl.png",
+  "titulo": "Subteran",
+  "titulo_original": "Subteran",
+  "fecha_estreno": "2025-01-08",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 6.7,
+  "sinopsis": "La vida de una joven madre cambia por completo cuando debe adoptar una nueva identidad para escapar del grupo criminal de Bucarest que mató a su prometido.",
+  "pais_origen": "RO",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ana Ularu",
+      "personaje": "Cami Serbu / Sonia Lazăr",
+      "foto": "https://image.tmdb.org/t/p/w500/ZIRcuu7SEhZXBUFH8W5Yfe1r27.jpg"
+    },
+    {
+      "nombre": "Cezar Grumăzescu",
+      "personaje": "Marius Roman",
+      "foto": "https://image.tmdb.org/t/p/w500/4rWWwlKEsn0AxDEEe0NAGAGEM50.jpg"
+    },
+    {
+      "nombre": "Florin Piersic Jr.",
+      "personaje": "Nicolae Tănase",
+      "foto": "https://image.tmdb.org/t/p/w500/45ffNetp4y8rXzBwqUKRfw52dn1.jpg"
+    },
+    {
+      "nombre": "Irina Artenii",
+      "personaje": "Tili Tãnase",
+      "foto": "https://image.tmdb.org/t/p/w500/jCFxqxEOMHFbmIe9L9sbA1FFekg.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": "tt29632046",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": ""
+}
