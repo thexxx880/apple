@@ -1,0 +1,128 @@
+{
+  "id_tmdb": 243964,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/cQNyo6x90VMmklNEprjzOgk1ibu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9QjIFAVFN7Pe4MbF2O7oHvLkFsI.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/grkaEgb1Qu0ds7O4agHgjvhlV3W.png",
+  "titulo": "Luces, cámara, ¡amor!",
+  "titulo_original": "멜로무비",
+  "fecha_estreno": "2025-02-14",
+  "duracion": "62min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "Un cinéfilo se enamora de una directora en ciernes, pero su romance termina demasiado pronto. Cuando sus caminos vuelvan a cruzarse, ¿le darán una nueva oportunidad al amor?",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Choi Woo-shik",
+      "personaje": "Ko Gyeom",
+      "foto": "https://image.tmdb.org/t/p/w500/hRDiuKWwe156zRjEu826eci7H3r.jpg"
+    },
+    {
+      "nombre": "Park Bo-young",
+      "personaje": "Kim Moo-bi",
+      "foto": "https://image.tmdb.org/t/p/w500/x1LNh8i8XmO3oqNYzRslzYj1VoZ.jpg"
+    },
+    {
+      "nombre": "Lee Jun-young",
+      "personaje": "Hong Si-joon",
+      "foto": "https://image.tmdb.org/t/p/w500/zH8kiGox6n3FD82MKEhUq79X6gj.jpg"
+    },
+    {
+      "nombre": "전소니",
+      "personaje": "Son Joo-ah",
+      "foto": "https://image.tmdb.org/t/p/w500/dIYceHYZ9lHePBnAsZo2zMEHHAq.jpg"
+    },
+    {
+      "nombre": "김재욱",
+      "personaje": "Ko Joon",
+      "foto": "https://image.tmdb.org/t/p/w500/nRKpyplqobE3jnP0mewURo4VDNV.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "오충환",
+      "rol": "Director"
+    },
+    {
+      "nombre": "권미경",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "오충환",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lee Na-eun",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "권미경",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "이혜란",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "김상희",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "이태관",
+      "rol": "Lighting Director"
+    },
+    {
+      "nombre": "김기호",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "이하정",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "나호민",
+      "rol": "Props"
+    },
+    {
+      "nombre": "박성진",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "강풍",
+      "rol": "Martial Arts Choreographer"
+    },
+    {
+      "nombre": "Gang Hye-yeong",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "양미나",
+      "rol": "Makeup & Hair"
+    },
+    {
+      "nombre": "김선환",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "도광섭",
+      "rol": "Special Effects Supervisor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt35450649",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "K-Drama, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=F4leB_jBpDk"
+}
