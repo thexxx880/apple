@@ -1,0 +1,85 @@
+{
+  "id_tmdb": 4336,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lxG5Tlor3KT3IBPEw9ftzdm2TWC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3XnIGiGjXfhvWxmOUiu8NFwovCR.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kmbQoQ664C0jLf0eiFiZgGFC2rY.png",
+  "titulo": "La Casa de los Dibujos",
+  "titulo_original": "Drawn Together",
+  "fecha_estreno": "2004-10-27",
+  "duracion": "30min",
+  "año": "2004",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Reality"
+  ],
+  "puntuacion": 8.186,
+  "sinopsis": "La casa de los dibujos parodia de forma grotesca los sucesos de un Reality show, y en particular de shows como Big Brother y The Real World de MTV; en este sentido habrá unos concursantes en una casa y deberán interrelacionarse, la parodia de la serie va más lejos debido a que los personajes son tomados de otros dibujos animados, de videojuegos e incluso de un flash de internet. La serie es sólo para adultos por su temática chocante, hay lesbianismo, desnudos, erotismo, chistes fuertes, homofobia, racismo, incesto y todo lo considerado políticamente incorrecto, muy similar a South Park, pero la mejor calidad de los dibujos pone en evidencia muchas más situaciones subidas de tono.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Adam Carolla",
+      "personaje": "Spanky Ham (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/47k9w6HRLnGeU0gVtMeTPJs3ief.jpg"
+    },
+    {
+      "nombre": "Jess Harnell",
+      "personaje": "Captain Hero (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+    },
+    {
+      "nombre": "Abbey DiGregorio",
+      "personaje": "Ling-Ling (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6We814Iiuq5yKdb39AcD0iKFv8O.jpg"
+    },
+    {
+      "nombre": "Jack Plotnick",
+      "personaje": "Xandir P. Whifflebottom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1BeShuLhc2HXZieyGEOVgDssAuR.jpg"
+    },
+    {
+      "nombre": "Tara Strong",
+      "personaje": "Toot Braunstein / Princess Clara (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Claudia Katz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dave Jeser",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Lee",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Scott Vanzo",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Claudia Katz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dave Jeser",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.186,
+    "imdb": "tt0386180",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Animations Adult",
+  "trailer": "https://www.youtube.com/watch?v=FJ3uTsaynQU"
+}
