@@ -5,22 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title id="pageTitle">Cargando serie...</title>
     
-    <!-- Fuentes e Iconos -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
-    <!-- Tus CSS originales (NO modificar) -->
     <link rel="stylesheet" href="css/navbar.css">
     <link rel="stylesheet" href="css/global.css">
- 
+    <link rel="stylesheet" href="css/load.css">
     
-    <!-- CSS específico SOLO para Series -->
     <link rel="stylesheet" href="css/contenido-serie.css">
-       <link rel="stylesheet" href="css/load.css">
-<script src="js/components/load.js"></script>
 
-    <!-- Firebase -->
+    <script src="js/components/load.js"></script>
+
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
@@ -28,18 +24,17 @@
 </head>
 <body>
  <div id="loader">
-<div class="loader-glow"></div>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3dK3-XAKrEia-lWmiUqAYRfFQ1lR9eJX6ZZH8e_vHf576qf9GJjIWBW9Jg5LsilXX7WO2MOEkg5gzc4pESziaPeMJ9ws9mwtCDdp3p_17D0e0Uop_ZxavwwJeNLBvoyZJ0cxTKQpjzrJIR6LjJslB24tj-77AYrRCacQ3F2S2VPoXpPzPhM1zndxyd1Rg/s3307/B64D5386-DCA4-410B-A0A6-6ACB19D0A06F.png"
-        alt="LzPlay"
-        class="loader-logo">
-<div class="loader-bar">
+    <div class="loader-glow"></div>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3dK3-XAKrEia-lWmiUqAYRfFQ1lR9eJX6ZZH8e_vHf576qf9GJjIWBW9Jg5LsilXX7WO2MOEkg5gzc4pESziaPeMJ9ws9mwtCDdp3p_17D0e0Uop_ZxavwwJeNLBvoyZJ0cxTKQpjzrJIR6LjJslB24tj-77AYrRCacQ3F2S2VPoXpPzPhM1zndxyd1Rg/s3307/B64D5386-DCA4-410B-A0A6-6ACB19D0A06F.png"
+         alt="LzPlay"
+         class="loader-logo">
+    <div class="loader-bar">
         <span></span>
     </div>
-</div>
-    <!-- HEADER -->
+ </div>
+
     <header id="main-header"></header>
-   
-    <!-- HERO -->
+    
     <section class="hero" id="hero">
         <div class="hero-bg" id="heroBg"></div>
         <div class="hero-overlay"></div>
@@ -75,11 +70,9 @@
         </div>
         <div class="stats-row" id="statsRow"></div>
 
-        <!-- REPARTO -->
         <div class="section-header"><h2 class="section-title">Reparto</h2></div>
         <div class="cast-scroll" id="castScroll"></div>
 
-        <!-- EQUIPO CREATIVO -->
         <button id="crewToggleBtn" class="btn-secondary" style="margin: 30px 0 15px; width: 100%; max-width: 320px; display: block; margin-left: auto; margin-right: auto;">
             <i class="fa-solid fa-users"></i> Ver detalles del equipo creativo
         </button>
@@ -88,7 +81,6 @@
             <div class="crew-grid" id="crewGrid"></div>
         </div>
 
-        <!-- VALORACIONES TMDB -->
         <div class="section-header"><h2 class="section-title">Valoraciones</h2></div>
         <div class="rating-block">
             <div class="rating-big">
@@ -98,7 +90,6 @@
             <div class="rating-bars" id="ratingBars"></div>
         </div>
 
-        <!-- TEMPORADAS Y EPISODIOS -->
         <div class="section-header">
             <h2 class="section-title">Temporadas</h2>
         </div>
@@ -110,10 +101,8 @@
         <div id="episodesList" class="episodes-grid"></div>
     </div>
 
-    <!-- FLOATING MENU -->
     <div id="floating-container"></div>
 
-    <!-- MODAL REPRODUCTORES -->
     <div id="playerModal" class="modal">
         <div class="modal-content">
             <div class="modal-header">
@@ -139,7 +128,6 @@
         </div>
     </div>
 
-    <!-- Scripts externos (tus archivos originales) -->
     <script src="js/core/tmdb.js"></script>
     <script src="js/core/utils.js"></script>
     <script src="js/core/api.js"></script>
@@ -148,7 +136,6 @@
     <script src="js/components/floating-menu.js"></script>
     <script src="js/main.js"></script>
     
-    <!-- Script específico SOLO para Series -->
     <script src="js/app/contenido-serie.js"></script>
 </body>
 </html>
