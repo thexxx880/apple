@@ -228,6 +228,8 @@ function renderEpisodes(episodes, seasonNumber) {
 
         const card = document.createElement('div');
         card.className = `episode-card ${isActive ? 'active-episode' : ''}`;
+        
+        // --- MODIFICACIÓN DE LA TARJETA ---
         card.innerHTML = `
             <div class="episode-thumbnail" style="background-image: url('${thumbnail}')">
                 <div class="episode-number">E${ep.episode_number}</div>
@@ -237,7 +239,7 @@ function renderEpisodes(episodes, seasonNumber) {
                 <div class="episode-title">Episodio ${ep.episode_number}</div>
                 <button class="episode-play-btn" data-video="${ep.video_url}">
                     <i class="fa-solid fa-play"></i> 
-                    <span>Reproducir episodio</span>
+                    <span>Reproducir</span>
                 </button>
             </div>
         `;
