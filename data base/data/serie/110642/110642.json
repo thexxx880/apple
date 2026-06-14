@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 110642,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/fX9g0ULNjF0e7ESBBlsdo4QMcVG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uPHXbrh9jlq2XgfjjTFlkJfgtOQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rFAHOTh4TXB8wmgWcSdkVn9ADMg.png",
+  "titulo": "Resident Evil: La tiniebla infinita",
+  "titulo_original": "バイオハザード: インフィニット ダークネス",
+  "fecha_estreno": "2021-07-08",
+  "duracion": "26min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.57,
+  "sinopsis": "Años después de los horrores de Raccoon City, Leon y Claire se ven atrapados en una oscura conspiración cuando un ataque viral devasta la Casa Blanca.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Nick Apostolides",
+      "personaje": "Leon S. Kennedy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4uy8Sz2Q784C8Ywv1dWW5Kt7Qsa.jpg"
+    },
+    {
+      "nombre": "Stephanie Panisello",
+      "personaje": "Claire Redfield (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tmiQx5yU14ulJ7vzZZHwEngsGhp.jpg"
+    },
+    {
+      "nombre": "Jona Xiao",
+      "personaje": "Shen May (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bEd5FvgkrZloJ0Vb9A3ijEwEV5f.jpg"
+    },
+    {
+      "nombre": "Ray Chase",
+      "personaje": "Jason (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xeJKJnvIwItI90roo7mMUduBbbq.jpg"
+    },
+    {
+      "nombre": "Brad Venable",
+      "personaje": "Ryan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7gIBAcSay1gllfX9SqFfm4RhyTQ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "小林裕幸",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "篠原宏康",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "櫻井大樹",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "高橋丈夫",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "宫本圭",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Taki Enomoto",
+      "rol": "Associate Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Eldred Tjie",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "菅野祐悟",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "小林裕幸",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "篠原宏康",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "櫻井大樹",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "高橋丈夫",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "宫本圭",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Taki Enomoto",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "鈴木隆浩",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "古屋厚",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Tomohiro Shimizu",
+      "rol": "CGI Director"
+    },
+    {
+      "nombre": "柴崎憲治",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "藤村義孝",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "柳屋文彦",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Kazuhiro Oya",
+      "rol": "Character Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.57,
+    "imdb": "tt13173144",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sony, Sony Animations",
+  "trailer": "https://www.youtube.com/watch?v=P-js-Eww1OI"
+}
