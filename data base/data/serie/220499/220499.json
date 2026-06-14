@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 220499,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lVyBjky45Yqay2G3DaN6pkFCaUH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hswkpjV89QHE2DelTOZAtDeXoyU.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/pgTGZptTZLuYxzUmRma5cUflsFH.png",
+  "titulo": "MH370: El avión que desapareció",
+  "titulo_original": "MH370: The Plane That Disappeared",
+  "fecha_estreno": "2023-03-08",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 6.598,
+  "sinopsis": "En 2014, un avión de Malaysia Airlines que llevaba 239 personas a bordo desapareció de los radares. Esta docuserie explora la misteriosa historia de ese vuelo, el MH370.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Intan Othman",
+      "personaje": "Self - Wife of MH370 Cabin Crew",
+      "foto": ""
+    },
+    {
+      "nombre": "Jeff Wise",
+      "personaje": "Self - Aviation Journalist",
+      "foto": ""
+    },
+    {
+      "nombre": "Ghislain Wattrelos",
+      "personaje": "Self - Husband & Father of MH370 Passengers",
+      "foto": ""
+    },
+    {
+      "nombre": "Peter Foley",
+      "personaje": "Self - Former MH370 Search Director",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sam Maynard",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Fiona Stourton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Harry Hewland",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jules Hawkins",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Daniel Sivan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mor Loushy",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sam Maynard",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Fiona Stourton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Harry Hewland",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jules Hawkins",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Daniel Sivan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mor Loushy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Melanie Burt",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Parita Mandalia",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Mary Gitman",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Charlotte Hawkins",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Stefano Ferrari",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jenny Ray",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Milena Cave",
+      "rol": "Post Producer"
+    },
+    {
+      "nombre": "Jason Chambers",
+      "rol": "Online Editor"
+    },
+    {
+      "nombre": "Alex Chernoff",
+      "rol": "Colorist"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.598,
+    "imdb": "tt26739535",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=TDg0m2Q3H8c"
+}
