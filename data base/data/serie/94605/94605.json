@@ -1,0 +1,130 @@
+{
+  "id_tmdb": 94605,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/i1vSPUbiBe2iK2HapGDfHItBFlC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jXLNOzeEA8AoJy92dJTUUZXTMxK.png",
+  "titulo": "Arcane",
+  "titulo_original": "Arcane",
+  "fecha_estreno": "2021-11-06",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.8,
+  "sinopsis": "Mientras la discordia separa las ciudades gemelas de Piltóver y Zaun, dos hermanas se enfrentan en una guerra feroz entre tecnologías mágicas y convicciones opuestas.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Hailee Steinfeld",
+      "personaje": "Vi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4K2dzM3odGiVZOQOD6RjVxNq2ZQ.jpg"
+    },
+    {
+      "nombre": "Ella Purnell",
+      "personaje": "Jinx (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jqrYg35GHuMGwGqEVUthqTLQnay.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Alex Yee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shauna Spenley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Wright",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Melinda Wunsch Dilger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hervé Dupont",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ken Basin",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alex Yee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shauna Spenley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Wright",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Melinda Wunsch Dilger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hervé Dupont",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ken Basin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pascal Charrue",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Arnaud Delord",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jérôme Combe",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mike Shinoda",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Alex Seaver",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Julien Georgei",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ethan Hubbert",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Pascal Charrue",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Arnaud Delord",
+      "rol": "Other"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.8,
+    "imdb": "tt11126994",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=W4gLFBNGgiY"
+}
