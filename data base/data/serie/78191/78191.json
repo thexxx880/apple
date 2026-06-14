@@ -1,0 +1,125 @@
+{
+  "id_tmdb": 78191,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/30vdq2GJKUgYW3utQnXDOiE6tvn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gzOIymABxmetAECXtazEYCpMmfb.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/VeNCc4i7LbRQpwC1mYl5jtBzFM.png",
+  "titulo": "You",
+  "titulo_original": "You",
+  "fecha_estreno": "2018-09-09",
+  "duracion": "24min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 8.006,
+  "sinopsis": "Un hombre obsesivo y peligrosamente seductor mueve cielo y tierra para instalarse en la vida de las mujeres por quienes se siente cautivado.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Penn Badgley",
+      "personaje": "Joe Goldberg",
+      "foto": "https://image.tmdb.org/t/p/w500/3ekfkoj3YmRlCtez4OOZoVPiO7a.jpg"
+    },
+    {
+      "nombre": "Charlotte Ritchie",
+      "personaje": "Kate Galvin",
+      "foto": "https://image.tmdb.org/t/p/w500/hfwp6YZGYsOIo10euqvYfpZTbQO.jpg"
+    },
+    {
+      "nombre": "Griffin Matthews",
+      "personaje": "Teddy Lockwood",
+      "foto": "https://image.tmdb.org/t/p/w500/qM2cgMy0J5NKsa05s1ZvkWwqcI6.jpg"
+    },
+    {
+      "nombre": "Anna Camp",
+      "personaje": "Maddie Lockwood / Reagan Lockwood",
+      "foto": "https://image.tmdb.org/t/p/w500/32H0SJbTK3tvLVgf3X1aiaUdcxe.jpg"
+    },
+    {
+      "nombre": "Madeline Brewer",
+      "personaje": "Louise Flannery",
+      "foto": "https://image.tmdb.org/t/p/w500/5Gbbz8L66KtA4iTh9cP1TiLdMt8.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sarah Schechter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Greg Berlanti",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sera Gamble",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Demetrios Katsantonis",
+      "rol": "Set Dresser"
+    },
+    {
+      "nombre": "Ronnie Petagna",
+      "rol": "Construction Coordinator"
+    },
+    {
+      "nombre": "Mairin Reed",
+      "rol": "Executive Story Editor"
+    },
+    {
+      "nombre": "A.B. Chao",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Dylan Cohen",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Maren Caldwell",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Adam Scher",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Rafael Lima",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Sarah Schechter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Greg Berlanti",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sera Gamble",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Caroline Kepnes",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Blake Neely",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.006,
+    "imdb": "tt7335184",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=v99ooSjCVhg"
+}
