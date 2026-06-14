@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 62142,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/cKp0ZDYGydWxI3v8KS3tY8W9aM7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dwhwsO7c54ENncuaz3iHN9toT8n.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/9l0QaFGM5Md3qvne7i8K6QP41Gk.png",
+  "titulo": "The Returned",
+  "titulo_original": "The Returned",
+  "fecha_estreno": "2015-03-09",
+  "duracion": "43min",
+  "año": "2015",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 6.713,
+  "sinopsis": "Un pequeño pueblo que se pone patas arriba cuando varias personas locales, que durante mucho tiempo se dieron por muertas, reaparecen repentinamente; su presencia crea consecuencias tanto positivas como negativas. A medida que las familias se reúnen, las vidas de los que quedaron atrás se ven desafiadas tanto física como emocionalmente.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Kevin Alejandro",
+      "personaje": "Tommy Solano",
+      "foto": "https://image.tmdb.org/t/p/w500/bh4aQqP7kJzL2Ls9tj5OmhsBlqi.jpg"
+    },
+    {
+      "nombre": "Mary Elizabeth Winstead",
+      "personaje": "Rowan Blackshaw",
+      "foto": "https://image.tmdb.org/t/p/w500/vQn6IGsClpyhV6KTba9EDqSK7e2.jpg"
+    },
+    {
+      "nombre": "Agnes Bruckner",
+      "personaje": "Nikki Banks",
+      "foto": "https://image.tmdb.org/t/p/w500/n9bglCZa1Qv9cYbP8f7hg32YciH.jpg"
+    },
+    {
+      "nombre": "India Ennenga",
+      "personaje": "Camille Winship",
+      "foto": "https://image.tmdb.org/t/p/w500/ygWLnKAOUrTxzR9VqwEhQ29EbmX.jpg"
+    },
+    {
+      "nombre": "Sandrine Holt",
+      "personaje": "Julie Han",
+      "foto": "https://image.tmdb.org/t/p/w500/qvuH2mRmfG2yIchpsHefprcKYLK.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Regina Corrado",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Heather Meehan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Justis Greene",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Graham Roland",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Caroline Benjo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jimmy Desmarais",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Zoe Keating",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jeff Russo",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John Willett",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Regina Corrado",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Heather Meehan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Justis Greene",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Graham Roland",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Caroline Benjo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jimmy Desmarais",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert DeBitetto",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David McKillop",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thom Beers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stephanie Berk",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Craig Cegielski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Raelle Tucker",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.713,
+    "imdb": "tt3230780",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=tdx7cx-1wwU"
+}
