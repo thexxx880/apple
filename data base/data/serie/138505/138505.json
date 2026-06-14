@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 138505,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5UbrwzZUR5lcoDds2phuahFHHhi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/71SfPRY4pOrRMkSRaG2LKQPWsp6.png",
+  "titulo": "Marvel Zombies",
+  "titulo_original": "Marvel Zombies",
+  "fecha_estreno": "2025-09-24",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Animación",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.259,
+  "sinopsis": "Después de que los Vengadores fueron vencidos por una plaga de zombis, un desesperado grupo de sobrevivientes descubre la clave para llevar a su fin a los súper poderosos no muertos, corriendo a través de un paisaje distópico y arriesgando su vida y sus miembros para salvar al mundo.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Iman Vellani",
+      "personaje": "Kamala Khan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jD2TNIyJQmdqijGTzhvdiYabYix.jpg"
+    },
+    {
+      "nombre": "Todd Williams",
+      "personaje": "Blade Knight (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uLdgH4w3wT348vdgUE06kSMizlZ.jpg"
+    },
+    {
+      "nombre": "David Harbour",
+      "personaje": "Alexei Shostakov / Red Guardian (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+    },
+    {
+      "nombre": "Simu Liu",
+      "personaje": "Shang-Chi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cCx2OghLj9KN73oyRZe92i2p3Ih.jpg"
+    },
+    {
+      "nombre": "Awkwafina",
+      "personaje": "Katy Chen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Bryan Andrews",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Zeb Wells",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Winderbaum",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Vasquez-Eberhardt",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bryan Andrews",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Zeb Wells",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Winderbaum",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Vasquez-Eberhardt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Danielle Costa",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Carrie Wassenaar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David J. Phillips",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Jonathan Greber",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Kyrsten Mate",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Jeff King",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Jonathon Stevens",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Dave Jordan",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Paul Lasaine",
+      "rol": "Production Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.259,
+    "imdb": "tt16027014",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=8VEmp_Ycjws"
+}
