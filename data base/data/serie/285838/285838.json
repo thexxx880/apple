@@ -1,0 +1,80 @@
+{
+  "id_tmdb": 285838,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/UfderQmlqcufq6ZOULpoLmb18y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/yLkBxY8fiL5MjcMBxFzIPRCgnsL.png",
+  "titulo": "Si los deseos mataran...",
+  "titulo_original": "기리고",
+  "fecha_estreno": "2026-04-24",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 8.175,
+  "sinopsis": "Una misteriosa app promete cumplir tus deseos..., solo a cambio de iniciar una cuenta regresiva hacia tu muerte. Ahora, un grupo de adolescentes debe romper la cadena fatal.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "전소영",
+      "personaje": "Yoo Se-ah",
+      "foto": "https://image.tmdb.org/t/p/w500/tSZRzhSAdcRdx4sSpIJCZ02V33U.jpg"
+    },
+    {
+      "nombre": "백선호",
+      "personaje": "Kim Gun-woo",
+      "foto": "https://image.tmdb.org/t/p/w500/laCfweiT6RDh8mf439OrGh9blD1.jpg"
+    },
+    {
+      "nombre": "강미나",
+      "personaje": "Im Na-ri",
+      "foto": "https://image.tmdb.org/t/p/w500/sIGBlUCXt8pBqZhjesm4PKthEIn.jpg"
+    },
+    {
+      "nombre": "현우석",
+      "personaje": "Kang Ha-joon",
+      "foto": "https://image.tmdb.org/t/p/w500/ij9JemBr4CMHXFjiNWIPVFvzIw0.jpg"
+    },
+    {
+      "nombre": "이효제",
+      "personaje": "Choi Hyeong-wook",
+      "foto": "https://image.tmdb.org/t/p/w500/wt0uE34RJCsELecJy27VlkqqZlb.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "박윤서",
+      "rol": "Director"
+    },
+    {
+      "nombre": "오광희",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "박윤서",
+      "rol": "Director"
+    },
+    {
+      "nombre": "박중섭",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "오광희",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.175,
+    "imdb": "tt36104233",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=g4AbkiHJWdw"
+}
