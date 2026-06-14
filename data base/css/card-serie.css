@@ -1,6 +1,8 @@
 /* =============================================
-   SERIES GRID
+   SERIES GRID (card-serie.css)
 ============================================= */
+
+/* Contenedor principal (Scroll horizontal) */
 .series-grid {
     display: flex;
     gap: 20px;
@@ -9,10 +11,12 @@
     scroll-behavior: smooth;
     scrollbar-width: none;
 }
+
 .series-grid::-webkit-scrollbar {
     display: none;
 }
 
+/* Tarjeta de Serie (Escritorio: 200x300) */
 .series-card {
     position: relative;
     min-width: 200px;
@@ -37,46 +41,77 @@
 }
 
 /* =============================================
-   CÍRCULO DE CALIFICACIÓN (SERIES)
+   CÍRCULO DE CALIFICACIÓN (A LA DERECHA)
 ============================================= */
+
 .series-rating {
     position: absolute;
     top: 12px;
-    right: 12px; /* Cambiado a 'right' según tu imagen para diferenciarlo de películas */
+    right: 12px; /* Posicionado a la derecha */
     width: 52px;
     height: 52px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(0, 0, 0, 0.6); /* Fondo oscuro opcional para que resalte más */
+    background: rgba(0, 0, 0, 0.6);
     border-radius: 50%;
 }
 
-.rating-circle {
+.series-rating .rating-circle {
     width: 52px;
     height: 52px;
     transform: rotate(-90deg);
     position: absolute;
 }
 
-.rating-circle circle {
+.series-rating .rating-circle circle {
     fill: none;
     stroke-width: 4;
 }
 
-.rating-circle .bg {
+.series-rating .rating-circle .bg {
     stroke: rgba(255, 255, 255, 0.2);
 }
 
-.rating-circle .progress {
+.series-rating .rating-circle .progress {
     stroke-linecap: round;
     transition: stroke-dashoffset 1s ease-out;
 }
 
-.rating-value {
+.series-rating .rating-value {
     position: relative;
     font-weight: 700;
     font-size: 0.95rem;
     color: white;
     z-index: 2;
+}
+
+/* =============================================
+   RESPONSIVE (MÓVILES)
+============================================= */
+
+@media (max-width: 600px) {
+    /* Ajusta el tamaño de la tarjeta para celulares (160x240) */
+    .series-card {
+        min-width: 160px;
+        max-width: 160px;
+        height: 240px;
+    }
+
+    /* Opcional: Reducir ligeramente el tamaño del círculo de calificación en móviles para que no estorbe */
+    .series-rating {
+        top: 8px;
+        right: 8px;
+        width: 44px;
+        height: 44px;
+    }
+
+    .series-rating .rating-circle {
+        width: 44px;
+        height: 44px;
+    }
+
+    .series-rating .rating-value {
+        font-size: 0.85rem;
+    }
 }
