@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 77169,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/imfqLcv6oHNn6bDdEUUUlxy0Ch9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/pkNOYbuOrm2CcyJcpqRLHN3ZW2m.png",
+  "titulo": "Cobra Kai",
+  "titulo_original": "Cobra Kai",
+  "fecha_estreno": "2018-05-02",
+  "duracion": "24min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 8.206,
+  "sinopsis": "Enemigos acérrimos. Dojos rivales. Sangre nueva. Daniel y Johnny reviven viejas rivalidades en esta secuela de las películas de «Karate Kid».",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "William Zabka",
+      "personaje": "Johnny Lawrence",
+      "foto": "https://image.tmdb.org/t/p/w500/AoTxNif6Kv5KtIk3YdfQUxLrLeR.jpg"
+    },
+    {
+      "nombre": "Ralph Macchio",
+      "personaje": "Daniel LaRusso",
+      "foto": "https://image.tmdb.org/t/p/w500/AoqqL9UlyPrcTLnpzbQvKXPvXrz.jpg"
+    },
+    {
+      "nombre": "Courtney Henggeler",
+      "personaje": "Amanda LaRusso",
+      "foto": "https://image.tmdb.org/t/p/w500/81l7EjdcASyUiWYJeiYx3JR90Um.jpg"
+    },
+    {
+      "nombre": "Xolo Maridueña",
+      "personaje": "Miguel Diaz",
+      "foto": "https://image.tmdb.org/t/p/w500/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg"
+    },
+    {
+      "nombre": "Tanner Buchanan",
+      "personaje": "Robby Keene",
+      "foto": "https://image.tmdb.org/t/p/w500/66PP9bE56owrXo3l67zJxKXOasU.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ralph Macchio",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "William Zabka",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Will Smith",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Lassiter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Caleeb Pinkett",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Susan Ekins",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michelle Andrea Adams",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Robert Mark Kamen",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Ralph Macchio",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "William Zabka",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Will Smith",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Lassiter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Caleeb Pinkett",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Susan Ekins",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Heald",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jon Hurwitz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hayden Schlossberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Leo Birenberg",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Zach Robinson",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Alexis Frank Koczara",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Christine Smith Shevchenko",
+      "rol": "Casting"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.206,
+    "imdb": "tt7221388",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=ZsooaPkMFpQ"
+}
