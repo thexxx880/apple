@@ -2,7 +2,7 @@
   "id_tmdb": 90660,
   "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/yB8e1BnzrXoPbxfi3GnUgjCiN41.jpg",
   "backdrop": "https://image.tmdb.org/t/p/original/wJtrctuWTKgIi45zLw9tTjWQFY3.jpg",
-  "logo": "",
+  "logo": "https://image.tmdb.org/t/p/original/oGmOPN4T8WD76Xd7nk01xQ7KDJU.png",
   "titulo": "KENGAN ASHURA",
   "titulo_original": "ケンガンアシュラ",
   "fecha_estreno": "2019-07-31",
@@ -14,14 +14,14 @@
     "Action & Adventure",
     "Sci-Fi & Fantasy"
   ],
-  "puntuacion": 8.3,
-  "sinopsis": "Ohma Tokita se adentra en un submundo en el que las disputas empresariales se solucionan a base de brutales peleas. El dinero le da igual: él solo quiere luchar y ganar.",
+  "puntuacion": 8.346,
+  "sinopsis": "En el submundo corporativo, las disputas se resuelven con sangre en peleas clandestinas. Ohma Tokita no busca dinero, solo ganar.",
   "pais_origen": "JP",
   "calificacion": "16",
   "edad_minima": 16,
   "reparto": [
     {
-      "nombre": "Tatsuhisa Suzuki",
+      "nombre": "鈴木達央",
       "personaje": "Tokita Ohma (voice)",
       "foto": "https://image.tmdb.org/t/p/w500/foytL2OreKzQcTNftz2qMgClKKg.jpg"
     }
@@ -41,12 +41,16 @@
       "rol": "Executive Producer"
     },
     {
-      "nombre": "沢辺伸政",
-      "rol": "Executive Producer"
+      "nombre": "吉田健人",
+      "rol": "Producer"
     },
     {
-      "nombre": "大島靖",
-      "rol": "Executive Producer"
+      "nombre": "青井宏之",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "伊藤裕史",
+      "rol": "Music Producer"
     }
   ],
   "crew": [
@@ -63,15 +67,27 @@
       "rol": "Art Direction"
     },
     {
-      "nombre": "Shigemitsu Hamao",
+      "nombre": "高橋知子",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "浜尾繁光",
       "rol": "Director of Photography"
+    },
+    {
+      "nombre": "池邉真佐哉",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "岩野貢",
+      "rol": "Executive Producer"
     },
     {
       "nombre": "吉田健人",
       "rol": "Producer"
     },
     {
-      "nombre": "Hiroyuki Aoi",
+      "nombre": "青井宏之",
       "rol": "Producer"
     },
     {
@@ -79,15 +95,15 @@
       "rol": "Music Producer"
     },
     {
-      "nombre": "Masaki Sakamoto",
+      "nombre": "坂本雅紀",
       "rol": "Editor"
     },
     {
-      "nombre": "Hiroaki Kaguchi",
+      "nombre": "加口大朗",
       "rol": "Color Designer"
     },
     {
-      "nombre": "Kazuaki Morita",
+      "nombre": "森田和明",
       "rol": "Character Designer"
     },
     {
@@ -95,27 +111,15 @@
       "rol": "Producer"
     },
     {
-      "nombre": "Tetsuya Kinoshita",
+      "nombre": "木下哲哉",
       "rol": "Producer"
-    },
-    {
-      "nombre": "石黒達也",
-      "rol": "Producer"
-    },
-    {
-      "nombre": "別役裕之",
-      "rol": "Storyboard Artist"
-    },
-    {
-      "nombre": "福島涼太",
-      "rol": "CGI Director"
     }
   ],
   "valoraciones": {
-    "tmdb": 8.3,
+    "tmdb": 8.346,
     "imdb": "tt9058134",
     "rotten_tomatoes": null
   },
-  "distribuidora": "Netflix",
-  "trailer": ""
+  "distribuidora": "Anime, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=THK-VDKxvgI"
 }
