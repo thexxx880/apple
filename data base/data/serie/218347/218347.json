@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 218347,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/mWTC2oovCWN4hzTNB88OZHwC8BX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/egVfBVGwrOVxqWeav604IpYQ1pV.png",
+  "titulo": "Sweetpea",
+  "titulo_original": "Sweetpea",
+  "fecha_estreno": "2024-10-10",
+  "duracion": "44min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 7.464,
+  "sinopsis": "Rhiannon Lewis no causa mucha impresión – la gente se cruza con ella y no la mira dos veces hasta que es llevada al extremo y pierde el control. La vida de Rhiannon se transforma, pero ¿puede guardar su secreto mortal?",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ella Purnell",
+      "personaje": "Rhiannon",
+      "foto": "https://image.tmdb.org/t/p/w500/jqrYg35GHuMGwGqEVUthqTLQnay.jpg"
+    },
+    {
+      "nombre": "Nicôle Lecky",
+      "personaje": "Julia",
+      "foto": "https://image.tmdb.org/t/p/w500/1BgqAILgJMGPUYr2bugzejs97S3.jpg"
+    },
+    {
+      "nombre": "Jon Pointing",
+      "personaje": "Craig",
+      "foto": "https://image.tmdb.org/t/p/w500/44uiVF37L3jsIq90bBWVFUh8XAB.jpg"
+    },
+    {
+      "nombre": "Calam Lynch",
+      "personaje": "AJ",
+      "foto": "https://image.tmdb.org/t/p/w500/6Zkz6DF6tW96LYx0DDqxEPIc31P.jpg"
+    },
+    {
+      "nombre": "Jeremy Swift",
+      "personaje": "Norman",
+      "foto": "https://image.tmdb.org/t/p/w500/muRh4WbyEE4S2763bv777ywpKP3.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Nicky Earnshaw",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Iain Canning",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Emile Sherman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charlotte Howley",
+      "rol": "Producer's Assistant"
+    },
+    {
+      "nombre": "Kirstie Swain",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Patrick Walters",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dana Spikins",
+      "rol": "Makeup Supervisor"
+    },
+    {
+      "nombre": "Megan Green",
+      "rol": "Makeup Trainee"
+    },
+    {
+      "nombre": "Simon Walker",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Nick Morris",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Helen Speyer",
+      "rol": "Prosthetic Designer"
+    },
+    {
+      "nombre": "Dana Spikins",
+      "rol": "Hair Supervisor"
+    },
+    {
+      "nombre": "Ollie White",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "CHINCHILLA",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "CHINCHILLA",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Isobel Waller-Bridge",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Thomas Dixon",
+      "rol": "Production Executive"
+    },
+    {
+      "nombre": "Manpreet Dosanjh",
+      "rol": "Commissioning Editor"
+    },
+    {
+      "nombre": "Livia Burton",
+      "rol": "Head of Production"
+    },
+    {
+      "nombre": "Eve Brehony",
+      "rol": "Production Executive"
+    },
+    {
+      "nombre": "Nicky Earnshaw",
+      "rol": "Co-Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.464,
+    "imdb": "tt11218290",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=7-Zb6aYhAsk"
+}
