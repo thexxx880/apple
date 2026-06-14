@@ -1,0 +1,125 @@
+{
+  "id_tmdb": 146176,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oFTv9kayoU1xECGct7DgwTZ6Ymy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/179sUCj5AcFKdQpvDhkIX15NRgy.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/j1up2y0duQ7z8J7TJkYIsWBBHoM.png",
+  "titulo": "Berlín",
+  "titulo_original": "Berlín",
+  "fecha_estreno": "2023-12-29",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Action & Adventure",
+    "Crimen"
+  ],
+  "puntuacion": 7.588,
+  "sinopsis": "En su época dorada, Berlín se reúne con una banda en París para llevar a cabo uno de sus mejores planes: robar 44 millones de euros en joyas en una noche.",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Pedro Alonso",
+      "personaje": "Andrés 'Berlín' de Fonollosa",
+      "foto": "https://image.tmdb.org/t/p/w500/38HeVKeOBztVYrLJOWzAtEZiB02.jpg"
+    },
+    {
+      "nombre": "Samantha Siqueiros",
+      "personaje": "Camille Polignac",
+      "foto": "https://image.tmdb.org/t/p/w500/hX6AvkrZkKWXczm8LoiyAjVwXfH.jpg"
+    },
+    {
+      "nombre": "Tristán Ulloa",
+      "personaje": "Damián Vázquez",
+      "foto": "https://image.tmdb.org/t/p/w500/sglKcvdU3e8hTy1kOghEbT0GdHS.jpg"
+    },
+    {
+      "nombre": "Michelle Jenner",
+      "personaje": "Keila",
+      "foto": "https://image.tmdb.org/t/p/w500/g3JyHqwBcV7g1ds3dHtWkDXyXqb.jpg"
+    },
+    {
+      "nombre": "Joel Sánchez",
+      "personaje": "Bruce",
+      "foto": "https://image.tmdb.org/t/p/w500/cwXIJIHnBqzwpwvl4Tie4mud02q.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Álex Pina",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Esther Martínez Lobato",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Albert Pintó",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cristina López Ferraz",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Álex Pina",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Álex Pina",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Eva Leira",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Yolanda Serrano",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Esther Martínez Lobato",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Albert Pintó",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cristina López Ferraz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Abdón Alcañiz",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Lucas Peire",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Frank Montasell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Francisco Iglesias Moreno",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Nikki García",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.588,
+    "imdb": "tt16288804",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=1pB-xykZkUk"
+}
