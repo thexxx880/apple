@@ -12,33 +12,33 @@ async function loadSeriesSection() {
     `;
 
     try {
-        // 1. Obtener el JSON desde GitHub (usando raw.githubusercontent)
+        // 1. Obtener el JSON desde GitHub
         const jsonUrl = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search/search-serie.json";
         const res = await fetch(jsonUrl);
         
         if (!res.ok) throw new Error("No se pudo cargar el JSON de series");
         const seriesData = await res.json();
 
-        // 2. Tomar las últimas series agregadas (invertimos el array y tomamos 15)
-        const latestSeries = seriesData.reverse().slice(0, 15);
+        // 2. Tomar EXCLUSIVAMENTE los primeros 10 contenidos (los más recientes)
+        const latest10Series = seriesData.slice(0, 10);
 
-        // 3. Extraer la calificación real de TMDB
+        // 3. Extraer la calificación de TMDB
         const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
         
         const seriesWithRatings = await Promise.all(
-            latestSeries.map(async (serie) => {
-                let rating = 0;
+            latest10Series.map(async (serie) => {
+                let rating = "0.0";
                 try {
                     const tmdbUrl = `https://api.themoviedb.org/3/tv/${serie.id_tmdb}?api_key=${TMDB_API_KEY}&language=es-MX`;
                     const tmdbRes = await fetch(tmdbUrl);
                     if (tmdbRes.ok) {
                         const tmdbData = await tmdbRes.json();
-                        rating = tmdbData.vote_average || 0;
+                        rating = (tmdbData.vote_average || 0).toFixed(1);
                     }
                 } catch (err) {
-                    console.error(`Error TMDB en ${serie.titulo}:`, err);
+                    console.error(`Error TMDB en ID ${serie.id_tmdb}:`, err);
                 }
-                return { ...serie, rating: rating.toFixed(1) };
+                return { ...serie, rating };
             })
         );
 
@@ -50,37 +50,33 @@ async function loadSeriesSection() {
             const card = document.createElement("div");
             card.className = "series-card";
 
-            // Lógica matemática para el anillo SVG integrado
-            const radius = 18; // Radio del círculo interior
+            // Lógica matemática para el SVG
+            const radius = 22; // Ajustado para un SVG de 52x52
             const circumference = 2 * Math.PI * radius;
-            const percent = (serie.rating / 10) * 100;
+            const percent = (parseFloat(serie.rating) / 10) * 100;
             const offset = circumference - (percent / 100) * circumference;
 
-            // Colores dinámicos por calificación
+            // Colores por calificación
             let strokeColor = "#22c55e"; // Verde
-            if (serie.rating < 7.0) strokeColor = "#eab308"; // Amarillo
-            if (serie.rating < 5.0) strokeColor = "#ef4444"; // Rojo
-            if (serie.rating === "0.0") strokeColor = "#6b7280"; // Gris si no hay nota
+            if (parseFloat(serie.rating) < 7.0) strokeColor = "#eab308"; // Amarillo
+            if (parseFloat(serie.rating) < 5.0) strokeColor = "#ef4444"; // Rojo
+            if (serie.rating === "0.0") strokeColor = "#6b7280"; // Gris
 
             card.innerHTML = `
-                <img src="${serie.poster}" alt="${serie.titulo}" loading="lazy">
+                <img src="${serie.poster}" alt="Poster" loading="lazy">
                 
                 <div class="series-rating">
-                    <svg class="rating-circle" viewBox="0 0 40 40">
-                        <circle class="bg" cx="20" cy="20" r="${radius}"></circle>
-                        <circle class="progress" cx="20" cy="20" r="${radius}" 
+                    <svg class="rating-circle" viewBox="0 0 52 52">
+                        <circle class="bg" cx="26" cy="26" r="${radius}"></circle>
+                        <circle class="progress" cx="26" cy="26" r="${radius}" 
                             style="stroke: ${strokeColor}; stroke-dasharray: ${circumference}; stroke-dashoffset: ${offset};">
                         </circle>
                     </svg>
                     <span class="rating-value">${serie.rating}</span>
                 </div>
-
-                <div class="series-overlay">
-                    <h3 class="series-title">${serie.titulo}</h3>
-                </div>
             `;
 
-            // El click redirige a la URL nativa que tienes en tu JSON
+            // Redirigir al URL original
             card.addEventListener("click", () => {
                 window.location.href = serie.url;
             });
@@ -98,5 +94,5 @@ async function loadSeriesSection() {
     }
 }
 
-// Ejecutar cuando el DOM esté listo
+// Ejecutar
 document.addEventListener("DOMContentLoaded", loadSeriesSection);
