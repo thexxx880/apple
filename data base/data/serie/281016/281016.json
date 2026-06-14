@@ -1,0 +1,81 @@
+{
+  "id_tmdb": 281016,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hqIXo0s2gof6UxWDWeiP4d3rMr0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/f7fPpd8o3Tara9iPcnxfhiE6ued.png",
+  "titulo": "Un novio por suscripción",
+  "titulo_original": "월간남친",
+  "fecha_estreno": "2026-03-06",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "puntuacion": 8.219,
+  "sinopsis": "Seo Mi-rae está agotada por el trabajo. ¿El amor? Ni le interesa. Pero un servicio de citas virtuales despierta sentimientos y, quizás, hasta un verdadero romance.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "지수",
+      "personaje": "Seo Mi-rae",
+      "foto": "https://image.tmdb.org/t/p/w500/23qpgi6fFBjybTuIcKItQBEINb5.jpg"
+    },
+    {
+      "nombre": "서인국",
+      "personaje": "Park Kyeong-nam",
+      "foto": "https://image.tmdb.org/t/p/w500/gs7RRZt2tWBJ7OR9BD3TFSYteJj.jpg"
+    },
+    {
+      "nombre": "공민정",
+      "personaje": "Yoon Song",
+      "foto": "https://image.tmdb.org/t/p/w500/wkUiwCHq2Z2h4A7JDlhjrVGQiCk.jpg"
+    },
+    {
+      "nombre": "조한철",
+      "personaje": "Hwang Byung-hak",
+      "foto": "https://image.tmdb.org/t/p/w500/58DGEXFyWfaFdqL7yKKW0VdEg3R.jpg"
+    },
+    {
+      "nombre": "서강준",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/9jdqwLcMA1PdkOa6WcfjMFjvZcH.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "김정식",
+      "rol": "Director"
+    },
+    {
+      "nombre": "김아영",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "김정식",
+      "rol": "Director"
+    },
+    {
+      "nombre": "남궁도영",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "김아영",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.219,
+    "imdb": "tt35848827",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=A0GqKTgSpuE"
+}
