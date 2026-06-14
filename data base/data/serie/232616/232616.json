@@ -1,0 +1,72 @@
+{
+  "id_tmdb": 232616,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/4QgQr3q1wF1GfHs3Q3ihUeP8vOc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hbksC9zJiV1na8rW6BMJ7ywycVX.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jIytLkzBl9E9b8q0NslAZNDfsCk.png",
+  "titulo": "Una Familia Atípica",
+  "titulo_original": "히어로는 아닙니다만",
+  "fecha_estreno": "2024-05-04",
+  "duracion": "70min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.195,
+  "sinopsis": "Bok Gwi Joo y su familia nacieron con diferentes poderes sobrenaturales. Bok Gwi Joo puede viajar en el tiempo, pero sólo a momentos felices de su vida. No puede cambiar el pasado, por lo que sólo puede vivir en esos momentos felices. Bok Gwi Joo sufre depresión y esto lo lleva a perder su poder sobrenatural. Su familia también pierde sus propios poderes debido a problemas modernos como el insomnio, la bulimia y la adicción a los teléfonos inteligentes. Un día, Do Da Hae se involucra con Bok Gwi Joo y su familia, comienza a vivir con ellos y se produce el cambio.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "장기용",
+      "personaje": "Bok Gwi-ju",
+      "foto": "https://image.tmdb.org/t/p/w500/Gc3gcQLMCkR3l0nQgQ3nUxVv1u.jpg"
+    },
+    {
+      "nombre": "천우희",
+      "personaje": "Do Da-hae",
+      "foto": "https://image.tmdb.org/t/p/w500/y7ju1TdJWldSwqadHYSxLiyOFxW.jpg"
+    },
+    {
+      "nombre": "고두심",
+      "personaje": "Bok Man-heum",
+      "foto": "https://image.tmdb.org/t/p/w500/kp93ShpiupK6A9c0eLyQVmFHt2m.jpg"
+    },
+    {
+      "nombre": "수현",
+      "personaje": "Bok Dong-hee",
+      "foto": "https://image.tmdb.org/t/p/w500/kLADYH3QpmFM6TEP2tZaGSVx1yi.jpg"
+    },
+    {
+      "nombre": "박소이",
+      "personaje": "Bok I-na",
+      "foto": "https://image.tmdb.org/t/p/w500/7ZxLsQjvqMyuahnfjjuD6NRLCx4.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "박준서",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "정재형",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "박준서",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.195,
+    "imdb": "tt32166552",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "K-Drama, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=CotipI30Bx8"
+}
