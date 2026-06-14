@@ -1,0 +1,100 @@
+{
+  "id_tmdb": 279060,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/iMrFH5GNdjJtvSuUpCzunhdZcdT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/y8tPZ9P4tYqYiACs6t4mlcWJnSC.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/dASDr3Nix1OC6ZSm5pAzhjxzNoE.png",
+  "titulo": "Chespirito: Sin querer queriendo",
+  "titulo_original": "Chespirito: Sin querer queriendo",
+  "fecha_estreno": "2025-06-05",
+  "duracion": "45min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 7.962,
+  "sinopsis": "Desde su infancia hasta su consagración en las décadas de los 50 a los 80, sigue la vida y carrera del actor, comediante y productor mexicano Roberto Gómez Bolaños, conocido por ser el creador de El Chavo del 8, El Chapulín Colorado y Chespirito.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Pablo Cruz Guerrero",
+      "personaje": "Chespirito",
+      "foto": "https://image.tmdb.org/t/p/w500/208LKmdjpDVbBXiQRpOLLYE5ddH.jpg"
+    },
+    {
+      "nombre": "Paulina Dávila",
+      "personaje": "Graciela Fernández",
+      "foto": "https://image.tmdb.org/t/p/w500/2kRoqJjcQE9V1jHg7wCXuvXbUO.jpg"
+    },
+    {
+      "nombre": "Bárbara López",
+      "personaje": "Margarita Ruiz (Florinda Meza)",
+      "foto": "https://image.tmdb.org/t/p/w500/kLgcZbghdyGMTjrJs6A8DGmusMd.jpg"
+    },
+    {
+      "nombre": "Arturo Barba",
+      "personaje": "Rubén Aguirre",
+      "foto": "https://image.tmdb.org/t/p/w500/oH6I58ap02zkWhxic5tm6LcOltz.jpg"
+    },
+    {
+      "nombre": "Juan Lecanda",
+      "personaje": "Marcos Barragán (Carlos Villagran)",
+      "foto": "https://image.tmdb.org/t/p/w500/jpHpVoEdhYBR8HfYAFWHckRskWh.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mariano Cesar",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mariano Cesar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Camilo Froideval",
+      "rol": "Compositor"
+    },
+    {
+      "nombre": "Sam Baixauli",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Francisco Blanc",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Katherina Rivero",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Arturo Gómez Sarrión",
+      "rol": "Makeup & Hair"
+    },
+    {
+      "nombre": "Marissa Zurita",
+      "rol": "Makeup & Hair Assistant"
+    },
+    {
+      "nombre": "Paulina Gómez Fernández",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Roberto Gómez Fernández",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.962,
+    "imdb": "tt34755671",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=IWUOlamvFqQ"
+}
