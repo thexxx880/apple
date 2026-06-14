@@ -1,9 +1,9 @@
 /* =============================================
-   SERIES GRID (Diseño Alternativo)
+   SERIES GRID
 ============================================= */
 .series-grid {
     display: flex;
-    gap: 16px; /* Espaciado ligeramente menor */
+    gap: 20px;
     overflow-x: auto;
     padding-bottom: 20px;
     scroll-behavior: smooth;
@@ -15,21 +15,19 @@
 
 .series-card {
     position: relative;
-    min-width: 180px; /* Más estilizado que las películas */
-    max-width: 180px;
-    height: 280px;
-    border-radius: 12px; /* Bordes ligeramente más cuadrados */
+    min-width: 200px;
+    max-width: 200px;
+    height: 300px;
+    border-radius: 20px;
     overflow: hidden;
     cursor: pointer;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: transform 0.3s ease;
     flex-shrink: 0;
     background: #111827;
-    border: 1px solid rgba(255, 255, 255, 0.05); /* Borde sutil */
 }
 
 .series-card:hover {
-    transform: translateY(-8px); /* Animación de salto en lugar de solo escala */
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+    transform: scale(1.05);
 }
 
 .series-card img {
@@ -38,69 +36,47 @@
     object-fit: cover;
 }
 
-.series-overlay {
-    position: absolute;
-    inset: 0;
-    background: linear-gradient(to top, rgba(15, 23, 42, 1) 0%, rgba(15, 23, 42, 0.6) 40%, transparent 100%);
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    padding: 12px;
-}
-
-.series-title {
-    font-size: 0.95rem;
-    font-weight: 700;
-    line-height: 1.2;
-    color: #ffffff;
-    margin: 0;
-    text-align: center;
-    display: -webkit-box;
-    -webkit-line-clamp: 2; /* Limita a 2 líneas si el título es largo */
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-}
-
 /* =============================================
-   CÍRCULO DE CALIFICACIÓN (Adaptado)
+   CÍRCULO DE CALIFICACIÓN (SERIES)
 ============================================= */
 .series-rating {
     position: absolute;
-    top: 8px;
-    right: 8px; /* Movido a la derecha para variar el diseño */
-    width: 44px; /* Un poco más pequeño */
-    height: 44px;
+    top: 12px;
+    right: 12px; /* Cambiado a 'right' según tu imagen para diferenciarlo de películas */
+    width: 52px;
+    height: 52px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.6); /* Fondo oscuro opcional para que resalte más */
     border-radius: 50%;
-    backdrop-filter: blur(4px);
 }
 
-.series-rating .rating-circle {
-    width: 40px;
-    height: 40px;
+.rating-circle {
+    width: 52px;
+    height: 52px;
     transform: rotate(-90deg);
+    position: absolute;
 }
 
-.series-rating .rating-circle circle {
+.rating-circle circle {
     fill: none;
-    stroke-width: 3.5;
+    stroke-width: 4;
 }
 
-.series-rating .rating-circle .bg {
-    stroke: rgba(255, 255, 255, 0.1);
+.rating-circle .bg {
+    stroke: rgba(255, 255, 255, 0.2);
 }
 
-.series-rating .rating-circle .progress {
+.rating-circle .progress {
     stroke-linecap: round;
     transition: stroke-dashoffset 1s ease-out;
 }
 
-.series-rating .rating-value {
-    position: absolute;
+.rating-value {
+    position: relative;
     font-weight: 700;
-    font-size: 0.85rem;
+    font-size: 0.95rem;
     color: white;
+    z-index: 2;
 }
