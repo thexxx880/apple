@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 119051,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5DlNYe4e8aVHoKH4XrUuREWMY8s.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/zxyB1cF3R8vUyB8bh5LNzqhSnUU.png",
+  "titulo": "Merlina",
+  "titulo_original": "Wednesday",
+  "fecha_estreno": "2022-11-23",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Misterio",
+    "Comedia"
+  ],
+  "puntuacion": 8.346,
+  "sinopsis": "Inteligente, sarcástica y un poco muerta por dentro, Merlina Addams investiga misterios macabros mientras hace nuevos amigos (y enemigos) en la Academia Nunca Más.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jenna Ortega",
+      "personaje": "Wednesday Addams",
+      "foto": "https://image.tmdb.org/t/p/w500/q1NRzyZQlYkxLY07GO9NVPkQnu8.jpg"
+    },
+    {
+      "nombre": "Steve Buscemi",
+      "personaje": "Barry Dort",
+      "foto": "https://image.tmdb.org/t/p/w500/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+    },
+    {
+      "nombre": "Emma Myers",
+      "personaje": "Enid Sinclair",
+      "foto": "https://image.tmdb.org/t/p/w500/v1Y8RP39135ZOary9M4MbkrCAdn.jpg"
+    },
+    {
+      "nombre": "Hunter Doohan",
+      "personaje": "Tyler Galpin",
+      "foto": "https://image.tmdb.org/t/p/w500/ihno5ut6ha8TaubQFgl5Ozco2K1.jpg"
+    },
+    {
+      "nombre": "Joy Sunday",
+      "personaje": "Bianca Barclay",
+      "foto": "https://image.tmdb.org/t/p/w500/phPn3BRW1vZzxkl3hgEy8umzXn.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Catherine Tiernan",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Karen Richards",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lauren Otero",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jenna Ortega",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David McLoughlin",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Matt Lambert",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Robert Litton",
+      "rol": "Orchestrator"
+    },
+    {
+      "nombre": "Catherine Tiernan",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Karen Richards",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lauren Otero",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jenna Ortega",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David McLoughlin",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Matt Lambert",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Valentina Garza",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Meredith Averill",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Keith Browett",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Natalie Testa",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Nick Iannelli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chloe O'Reilly",
+      "rol": "Assistant Director Trainee"
+    },
+    {
+      "nombre": "Dan Hosh",
+      "rol": "Foley Mixer"
+    },
+    {
+      "nombre": "Corey Baker",
+      "rol": "Choreographer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.346,
+    "imdb": "tt13443470",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=YJEjvt4FrPY"
+}
