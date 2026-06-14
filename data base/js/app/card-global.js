@@ -118,7 +118,10 @@ document.addEventListener("DOMContentLoaded", () => {
         "doramas-grid"
     );
 
-   loadDynamicCatalog("Anime", "animes-grid");
+   loadDynamicCatalog(
+       "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/plataformas/Anime.json",
+       "animes-grid"
+   );
 
     // loadDynamicCatalog("https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/plataformas/__AQUI_DIRECCION__.json", "animes-grid");
     
