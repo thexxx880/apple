@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 76121,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/wwk3zyeXdyCx68oJ7ncjDkLNkU9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/tKh3pc5MEjCIGV7hSJX76qi8aGA.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/f7f3HxjglduwLOpPNbEWfmGKgfK.png",
+  "titulo": "Darling in the Franxx",
+  "titulo_original": "ダーリン・イン・ザ・フランキス",
+  "fecha_estreno": "2018-01-13",
+  "duracion": "24min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Comedia"
+  ],
+  "puntuacion": 8.51,
+  "sinopsis": "En un futuro distante la humanidad ha creado Plantation, una ciudad fortaleza móvil construida sobre las ruinas del mundo y en la que ha florecido la civilización. En la ciudad hay barracones especiales para pilotos llamados Mistilteinn, aunque popularmente se los conoce como \"jaulas de pájaros\". Allí es donde viven estos chicos... sin saber nada del mundo exterior, sin poder sentir nunca el enorme cielo. Su única misión en la vida siempre fue luchar.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "上村祐翔",
+      "personaje": "Hiro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/boQMSI9WA5x2LYDEsiq0udeKMNe.jpg"
+    },
+    {
+      "nombre": "戸松遥",
+      "personaje": "Zero Two (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/geVvuA2zMGE5xzfc20aDelJSelu.jpg"
+    },
+    {
+      "nombre": "市ノ瀬加那",
+      "personaje": "Ichigo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hBJx5tpLA2vkXqfkPZosGjW4e8C.jpg"
+    },
+    {
+      "nombre": "梅原裕一郎",
+      "personaje": "Gorou (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lScrvZi4tKKpk3PbnIjLVjHVNJn.jpg"
+    },
+    {
+      "nombre": "山下七海",
+      "personaje": "Miku (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/m2AhWgQg1pwX10JcNizjNOluYRF.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "大和田智之",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "錦織敦史",
+      "rol": "Director"
+    },
+    {
+      "nombre": "鳥羽洋典",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "塩谷佳之",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "鶴田紀章",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "新村裕",
+      "rol": "Associate Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "はたしょう二",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "早見沙織",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "戸松遥",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "林直孝",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "橘麻美",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "錦織敦史",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "赤井俊文",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "錦織敦史",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "コヤマシゲト",
+      "rol": "Mechanical Designer"
+    },
+    {
+      "nombre": "田中将賀",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "田中将賀",
+      "rol": "Supervising Animation Director"
+    },
+    {
+      "nombre": "今石洋之",
+      "rol": "Action Director"
+    },
+    {
+      "nombre": "塩澤良憲",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "平柳悟",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "中島和子",
+      "rol": "Color Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.51,
+    "imdb": "tt7865090",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=yp2XNVDyMO0"
+}
