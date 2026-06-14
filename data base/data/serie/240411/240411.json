@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 240411,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/wQy1dCYgdSwoY78aKFTWFT1xADX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8z2Ta3PcpDv2MSNmMJfA9oGmqbd.png",
+  "titulo": "DAN DA DAN",
+  "titulo_original": "ダンダダン",
+  "fecha_estreno": "2024-10-04",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.545,
+  "sinopsis": "Dos adolescentes deciden probar si los fantasmas o los álienes existen y terminan enfrentando aterradoras amenazas paranormales, recibiendo superpoderes y, tal vez, enamorándose.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "若山詩音",
+      "personaje": "Momo Ayase (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/b697ggFreuliEfl4TjLgxhJCQXr.jpg"
+    },
+    {
+      "nombre": "花江夏樹",
+      "personaje": "Ken 'Okarun' Takakura (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+    },
+    {
+      "nombre": "田中真弓",
+      "personaje": "Turbo Granny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"
+    },
+    {
+      "nombre": "水樹奈々",
+      "personaje": "Seiko (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rQBo7HyjTIqeB7hIofb7uJFhiVs.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "前田俊博",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "林辰朗",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "嵯峨隼人",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "亀井博司",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "青井宏之",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "崎田康平",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "瀬古浩司",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "太田泰明",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "前田俊博",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "林辰朗",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "嵯峨隼人",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "亀井博司",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "青井宏之",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "崎田康平",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "斉藤壮一郎",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "武藤大司",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "石川達也",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "山守貴子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "真壁佳子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "榎田美咲",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "柴田香澄",
+      "rol": "Online Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.545,
+    "imdb": "tt30217403",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=pHLEyqsxZV8"
+}
