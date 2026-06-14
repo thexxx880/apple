@@ -1,0 +1,96 @@
+{
+  "id_tmdb": 94536,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/adJ2jnpz77ai4coQqNzzBQ0OiXN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/e0dB6bD6fWGYHUAgdaye7O2Ggaj.jpg",
+  "logo": "",
+  "titulo": "Hernán",
+  "titulo_original": "Hernán",
+  "fecha_estreno": "2019-11-21",
+  "duracion": "48min",
+  "año": "2019",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.839,
+  "sinopsis": "La conquista de México: cada episodio contado por alguien que conoció de cerca al conquistador. ¿Cómo pudo un hombre, con unos cuantos cientos de soldados, someter a un imperio de guerreros en la cima de su gloria? Hernán es la respuesta.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Óscar Jaenada",
+      "personaje": "Hernán Cortés",
+      "foto": "https://image.tmdb.org/t/p/w500/qwphNLIwMyQW2ZLA0g0l1zFiB3w.jpg"
+    },
+    {
+      "nombre": "Ishbel Bautista",
+      "personaje": "Marina",
+      "foto": "https://image.tmdb.org/t/p/w500/u9VVamUF0EB2tEAe6DncNjeA1j4.jpg"
+    },
+    {
+      "nombre": "Almagro San Miguel",
+      "personaje": "Gonzalo de Sandoval",
+      "foto": "https://image.tmdb.org/t/p/w500/8MqQkk9osgEJhRzCxBfmOC9p8De.jpg"
+    },
+    {
+      "nombre": "Jorge Antonio Guerrero",
+      "personaje": "Xicoténcatl",
+      "foto": "https://image.tmdb.org/t/p/w500/f99ND0Ku9XwVHtYxuOivkReIfYv.jpg"
+    },
+    {
+      "nombre": "Víctor Clavijo",
+      "personaje": "Capitán Cristóbal de Olid",
+      "foto": "https://image.tmdb.org/t/p/w500/f7aluwKTHUC8OLpOMxndFCrYwI3.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Gabriela Valentan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Julian de Tabira",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gabriela Valentan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Julian de Tabira",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Amaya Muruzabal",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Curro Royo",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "María Jaén",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Julián de Tavira",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "César Moheno",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.839,
+    "imdb": "tt9645942",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=qRII1SIVEdc"
+}
