@@ -1,0 +1,81 @@
+{
+  "id_tmdb": 253905,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6UnZi4kWQLWmbO0D9qV8VE9eMfj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/tFbFeLgYX9QomPfL6jSc9oMalqa.png",
+  "titulo": "Cuando el teléfono suena",
+  "titulo_original": "지금 거신 전화는",
+  "fecha_estreno": "2024-11-22",
+  "duracion": "70min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Crimen"
+  ],
+  "puntuacion": 8.3,
+  "sinopsis": "El tenso matrimonio entre un político en ascenso y su esposa muda empieza a desmoronarse cuando un secuestro cambia sus vidas por completo.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "유연석",
+      "personaje": "Baek Sa-eon",
+      "foto": "https://image.tmdb.org/t/p/w500/cB95no6uPnMu5FdlVWK3cO9k5xR.jpg"
+    },
+    {
+      "nombre": "채수빈",
+      "personaje": "Hong Hee-ju",
+      "foto": "https://image.tmdb.org/t/p/w500/t8inEDMgceg8EFLvgglvXzemklf.jpg"
+    },
+    {
+      "nombre": "Heo Nam-jun",
+      "personaje": "Ji Sang-woo",
+      "foto": "https://image.tmdb.org/t/p/w500/yDbvPhVmHmYRn4q0ymThYvLKIlw.jpg"
+    },
+    {
+      "nombre": "장규리",
+      "personaje": "Na Yu-ri",
+      "foto": "https://image.tmdb.org/t/p/w500/jBpVYZQgwBWaOt1P3KP1OSI3WjJ.jpg"
+    },
+    {
+      "nombre": "Lee Doo-seok",
+      "personaje": "Kang Hyeong-Cheol",
+      "foto": "https://image.tmdb.org/t/p/w500/slfoiusX9IrWAB0oi9IbOJ2ih23.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Park Sang-woo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Wi Deuk-gyoo",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Park Sang-woo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kim Ji-woon",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Wi Deuk-gyoo",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.3,
+    "imdb": "tt33503491",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "K-Drama, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=Y4P-z1Qy6xI"
+}
