@@ -1,0 +1,83 @@
+{
+  "id_tmdb": 3570,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/m0e8QxAM0n3XK9GPvkxzRB0YL4k.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/sNCpbcCcRadDBMTh6An1dBMakqr.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/6PIY5PGYlXWSOTT7UFiM3Pfln82.png",
+  "titulo": "Sailor Moon",
+  "titulo_original": "美少女戦士セーラームーン",
+  "fecha_estreno": "1992-03-07",
+  "duracion": "24min",
+  "año": "1992",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "puntuacion": 8.346,
+  "sinopsis": "La historia comienza el día que Serena Tsukino se cruza con una gata negra que tiene una mancha con forma de luna creciente llamada Luna, le revela un secreto, Serena es una Sailor Scout y debe derrotar a los enemigos de la Tierra y salvar a la princesa de la Luna.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "三石琴乃",
+      "personaje": "Usagi Tsukino / Sailor Moon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
+    },
+    {
+      "nombre": "Aya Hisakawa",
+      "personaje": "Ami Mizuno / Sailor Mercury (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5asVy8H7VSDQKVdURubT0QHjsld.jpg"
+    },
+    {
+      "nombre": "富沢美智恵",
+      "personaje": "Rei Hino / Sailor Mars (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/42Au1FT7mGOghHcrlX8g44v6dTG.jpg"
+    },
+    {
+      "nombre": "篠原恵美",
+      "personaje": "Makoto Kino / Sailor Jupiter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ryGauSE9aoEh5DFMrlFw3H8sATC.jpg"
+    },
+    {
+      "nombre": "深見梨加",
+      "personaje": "Minako Aino / Sailor Venus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sVFWxaM89O540z0N1QOkXqCbqJo.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "矢田晃一",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "五十嵐卓哉",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "矢田晃一",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "幾原邦彦",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "武内直子",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.346,
+    "imdb": "tt0103369",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=-6kqerDPPGM"
+}
