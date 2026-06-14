@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 66732,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1sRJ8D1vpXE5WQBGrUBky3uUwvX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/txLRbQm4eTBbCOK1Kzmh1f6l9Bh.png",
+  "titulo": "Stranger Things",
+  "titulo_original": "Stranger Things",
+  "fecha_estreno": "2016-07-15",
+  "duracion": "24min",
+  "año": "2016",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Misterio",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.564,
+  "sinopsis": "Después de la extraña desaparición de un niño, un pueblo se encuentra ante un misterio que revela experimentos secretos, fuerzas sobrenaturales y a una niña muy especial.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Winona Ryder",
+      "personaje": "Joyce Byers",
+      "foto": "https://image.tmdb.org/t/p/w500/8RVrlgtua8b53wmK7oZAAkm0N5O.jpg"
+    },
+    {
+      "nombre": "David Harbour",
+      "personaje": "Jim Hopper",
+      "foto": "https://image.tmdb.org/t/p/w500/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+    },
+    {
+      "nombre": "Millie Bobby Brown",
+      "personaje": "Eleven / Jane Hopper",
+      "foto": "https://image.tmdb.org/t/p/w500/kHO7hdNEVuTnQ0OjjrxP1RcAa0e.jpg"
+    },
+    {
+      "nombre": "Finn Wolfhard",
+      "personaje": "Mike Wheeler",
+      "foto": "https://image.tmdb.org/t/p/w500/vgjd34eWfVL6GsLHwiwcAsjWLmo.jpg"
+    },
+    {
+      "nombre": "Gaten Matarazzo",
+      "personaje": "Dustin Henderson",
+      "foto": "https://image.tmdb.org/t/p/w500/qOwnmR5gbOT6ygp17YyLlEKXD38.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jackie DeGraaff",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Lampton Enochs",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Kate Trefry",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Paul Dichter",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Tudor Jones",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Hilary Leavitt",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Judah Getz",
+      "rol": "ADR Mixer"
+    },
+    {
+      "nombre": "Gavin J. Behrman",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Caitlin Schneiderhan",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Jackie DeGraaff",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Lampton Enochs",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Kate Trefry",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Paul Dichter",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Tudor Jones",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Charley Medigovich",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Hilary Leavitt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "A.J. Bruno",
+      "rol": "Second Second Assistant Director"
+    },
+    {
+      "nombre": "Jahnel Curfman",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Hiro Koda",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Sherrie Penn",
+      "rol": "Sculptor"
+    },
+    {
+      "nombre": "Nick Müller",
+      "rol": "\"A\" Camera Operator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.564,
+    "imdb": "tt4574334",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=kJiQgdEU7Jk"
+}
