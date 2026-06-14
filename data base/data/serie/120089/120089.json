@@ -2,8 +2,8 @@
   "id_tmdb": 120089,
   "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/vaIREdPGZOnW9Jrs86mheVVlIQQ.jpg",
   "backdrop": "https://image.tmdb.org/t/p/original/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
-  "logo": "",
-  "titulo": "SPY x FAMILY",
+  "logo": "https://image.tmdb.org/t/p/original/hbZ7fVgxEg50plxtQHpVyXAppCq.png",
+  "titulo": "SPY×FAMILY",
   "titulo_original": "SPY×FAMILY",
   "fecha_estreno": "2022-04-09",
   "duracion": "24min",
@@ -14,29 +14,29 @@
     "Action & Adventure",
     "Comedia"
   ],
-  "puntuacion": 8.5,
-  "sinopsis": "El espía \"Twilight\" recibe la misión de infiltrarse en la familia de un líder político. Para ello, crea una falsa familia con una hija que lee mentes y una esposa asesina, mientras ocultan sus secretos y viven juntos en una aventura peligrosa para mantener la paz mundial.",
+  "puntuacion": 8.506,
+  "sinopsis": "Un espía, una asesina y una telépata se juntan, fingen ser una familia, cada cual por sus razones, y esconden sus verdaderas identidades el uno del otro.",
   "pais_origen": "JP",
   "calificacion": "16",
   "edad_minima": 16,
   "reparto": [
     {
-      "nombre": "Takuya Eguchi",
+      "nombre": "江口拓也",
       "personaje": "Loid Forger (voice)",
       "foto": "https://image.tmdb.org/t/p/w500/hPPhUp0mM65Lc87Q8WXUEmGQAXx.jpg"
     },
     {
-      "nombre": "Atsumi Tanezaki",
+      "nombre": "種﨑敦美",
       "personaje": "Anya Forger (voice)",
       "foto": "https://image.tmdb.org/t/p/w500/6tM8GU7QvrdUCvR4kxqVUZivtvO.jpg"
     },
     {
-      "nombre": "Saori Hayami",
+      "nombre": "早見沙織",
       "personaje": "Yor Forger (voice)",
       "foto": "https://image.tmdb.org/t/p/w500/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg"
     },
     {
-      "nombre": "Kenichirou Matsuda",
+      "nombre": "松田健一郎",
       "personaje": "Bond Forger (voice)",
       "foto": "https://image.tmdb.org/t/p/w500/YCEXgyl763zg62qhsjhWHRzGkL.jpg"
     }
@@ -48,23 +48,23 @@
       "rol": "Executive Producer"
     },
     {
+      "nombre": "高橋敦司",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "武井克弘",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "林辰朗",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "北田修一",
+      "rol": "Producer"
+    },
+    {
       "nombre": "伊藤隆行",
-      "rol": "Executive Producer"
-    },
-    {
-      "nombre": "Yoshihisa Heishi",
-      "rol": "Executive Producer"
-    },
-    {
-      "nombre": "George Wada",
-      "rol": "Executive Producer"
-    },
-    {
-      "nombre": "Keiji Ota",
-      "rol": "Executive Producer"
-    },
-    {
-      "nombre": "Kazutaka Yamanaka",
       "rol": "Executive Producer"
     }
   ],
@@ -86,11 +86,15 @@
       "rol": "Theme Song Performance"
     },
     {
-      "nombre": "Atsushi Takahashi",
+      "nombre": "土生田高裕",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "高橋敦司",
       "rol": "Supervising Producer"
     },
     {
-      "nombre": "Katsuhiro Takei",
+      "nombre": "武井克弘",
       "rol": "Supervising Producer"
     },
     {
@@ -110,7 +114,7 @@
       "rol": "Online Editor"
     },
     {
-      "nombre": "Megumi Kouno",
+      "nombre": "河野恵美",
       "rol": "Opening/Ending Animation"
     },
     {
@@ -124,17 +128,13 @@
     {
       "nombre": "前並武志",
       "rol": "Opening/Ending Animation"
-    },
-    {
-      "nombre": "Nobuhide Kariya",
-      "rol": "Opening/Ending Animation"
     }
   ],
   "valoraciones": {
-    "tmdb": 8.5,
+    "tmdb": 8.506,
     "imdb": "tt13706018",
     "rotten_tomatoes": null
   },
-  "distribuidora": "Anime, Netflix",
-  "trailer": "https://www.youtube.com/watch?v=44qfOGvEWAU"
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=JP6vBnazpWI"
 }
