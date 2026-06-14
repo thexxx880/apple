@@ -1,0 +1,82 @@
+{
+  "id_tmdb": 110316,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xcOnCOpwe86Deau7P1VQNe0X6cg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/QZaPkNUvhdcKONuO2fXuqtcQRo.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nqVGzs0oERUcnyJgyiDe3OW994c.png",
+  "titulo": "Alice in Borderland",
+  "titulo_original": "今際の国のアリス",
+  "fecha_estreno": "2020-12-10",
+  "duracion": "24min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.096,
+  "sinopsis": "Un chico obsesionado con los videojuegos se transporta con dos amigos a una realidad paralela y postapocalíptica de Tokio donde cada nivel es de vida o muerte.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "山﨑賢人",
+      "personaje": "Arisu Ryohei / Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/k3o9F4J4rfPXA7YEcpIJkZqREpb.jpg"
+    },
+    {
+      "nombre": "土屋太鳳",
+      "personaje": "Usagi Yuzuha / “Rabbit”",
+      "foto": "https://image.tmdb.org/t/p/w500/n2665l3bguzDTm5CnyP99ipU9Z0.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "坂本和隆",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "森井輝",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Atsushi Doi",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "坂本和隆",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "河津太郎",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "山田豊",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "麻生羽呂",
+      "rol": "Graphic Novel"
+    },
+    {
+      "nombre": "森井輝",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "麻生羽呂",
+      "rol": "Original Story"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.096,
+    "imdb": "tt10795658",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "K-Drama, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=WWgfy-iYGqQ"
+}
