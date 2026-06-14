@@ -1,0 +1,67 @@
+{
+  "id_tmdb": 218539,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/nOSDJNtN9JZxikBiRAfyQ8K91dH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pRStZQlU0aB6KaVNBKnyEAygDBw.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/h157HVgveWHhNfrJs1YQJYcc4ta.png",
+  "titulo": "Mi Adorable Demonio",
+  "titulo_original": "마이데몬",
+  "fecha_estreno": "2023-11-24",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 8.437,
+  "sinopsis": "Un implacable demonio pierde sus poderes tras conocer a la joven y arrogante heredera de una empresa. ¿Tendrá ella la llave para resolver su problema... y entrar a su corazón?",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "김유정",
+      "personaje": "Do Do-hee",
+      "foto": "https://image.tmdb.org/t/p/w500/eFcMTDIgzSGLHZYXcsf1M42cvFt.jpg"
+    },
+    {
+      "nombre": "송강",
+      "personaje": "Jeong Gu-won",
+      "foto": "https://image.tmdb.org/t/p/w500/83fLAMMb1LGT8YZ4dgRI0fti3az.jpg"
+    },
+    {
+      "nombre": "이상이",
+      "personaje": "Ju Seok-hoon",
+      "foto": "https://image.tmdb.org/t/p/w500/4OSOux7D8ZIbNsA7eINSwmHM9nb.jpg"
+    },
+    {
+      "nombre": "김해숙",
+      "personaje": "Ju Cheon-suk",
+      "foto": "https://image.tmdb.org/t/p/w500/dt5bmKeG7qbvDwHrxFZFxiGc9fZ.jpg"
+    },
+    {
+      "nombre": "조혜주",
+      "personaje": "Jin Ga-young",
+      "foto": "https://image.tmdb.org/t/p/w500/7nBMavFQSdTK6ARlNgKaeCmYZ89.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "윈터",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "강미진",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.437,
+    "imdb": "tt29569035",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=D-bAfFqvxZg"
+}
