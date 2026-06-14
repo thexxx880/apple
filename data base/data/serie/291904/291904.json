@@ -1,0 +1,114 @@
+{
+  "id_tmdb": 291904,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/zjon4kGt6L6mYu04fKVr0u07Fte.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1osMkFZKoOQNGMgtPtjMvN4K2rS.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/xqM6vLF8EQ6DwCup2d2cifl9vTE.png",
+  "titulo": "El maravillosamente extraño mundo de Gumball",
+  "titulo_original": "The Wonderfully Weird World of Gumball",
+  "fecha_estreno": "2025-10-06",
+  "duracion": "12min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.481,
+  "sinopsis": "Bienvenido de nuevo a Elmore, donde las leyes de la realidad son una broma y la vida familiar es todo menos ordinaria. Ya sea luchando contra un imperio de comida rápida malvado, enfrentándose a una IA sensible enamorada de su mamá, o tratando de detener a Banana Joe de usar pantalones, Gumball Watterson arrastra a su hermano Darwin, a su hermana Anais y al resto de la ciudad de Elmore en esta aventura. Con historias aún más locas, giros más grandes y un humor surrealista, ¡el programa es tan asombroso que tuvieron que renombrarlo!",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Alkaio Thiele",
+      "personaje": "Gumball Watterson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/umGJFRItwlF6cejtv9Xglzxk4Vl.jpg"
+    },
+    {
+      "nombre": "Hero Hunter",
+      "personaje": "Darwin Watterson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8K08qcirdPdatO5twnhLsw6atfx.jpg"
+    },
+    {
+      "nombre": "Kinza Khan",
+      "personaje": "Anais Watterson (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Teresa Gallagher",
+      "personaje": "Nicole Watterson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2oHiEkrPfgbfKllBFDAhZK4v1Of.jpg"
+    },
+    {
+      "nombre": "Dan Russell",
+      "personaje": "Richard Watterson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mPh8i23ot7WQbQMu0R9ggay5Z95.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ben Bocquelet",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Layzell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Erik Fountain",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ben Bocquelet",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Layzell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Erik Fountain",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Xav Clarke",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Joe Sparrow",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ben Locket",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Sarah Noonan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Agnes Kim",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Andy Goodman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Steve Hughes",
+      "rol": "Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.481,
+    "imdb": "tt36985473",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=KKoY9eIx6Qw"
+}
