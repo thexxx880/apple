@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1399,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/z9gCSwIObDOD2BEtmUwfasar3xs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nLnrwCfkgRtKxFUHnaXJOFrrXLy.png",
+  "titulo": "Game of Thrones",
+  "titulo_original": "Game of Thrones",
+  "fecha_estreno": "2011-04-17",
+  "duracion": "24min",
+  "año": "2011",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.462,
+  "sinopsis": "En un mundo fantástico y en un contexto medieval varias familias, relativas a la nobleza, se disputan el poder para dominar el territorio ficticio de Poniente (Westeros) y tomar el control de los Siete Reinos desde el Trono de Hierro, lugar donde el rey ejerce el poder.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Peter Dinklage",
+      "personaje": "Tyrion 'The Halfman' Lannister",
+      "foto": "https://image.tmdb.org/t/p/w500/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+      "nombre": "Kit Harington",
+      "personaje": "Jon Snow",
+      "foto": "https://image.tmdb.org/t/p/w500/iGXlJbExWwZmo9sUDsYuzf4Sv4y.jpg"
+    },
+    {
+      "nombre": "Nikolaj Coster-Waldau",
+      "personaje": "Sir Jaime 'Kingslayer' Lannister",
+      "foto": "https://image.tmdb.org/t/p/w500/rpFOERbHkj7GWxkinUNiQ76sSGk.jpg"
+    },
+    {
+      "nombre": "Lena Headey",
+      "personaje": "Cersei Lannister",
+      "foto": "https://image.tmdb.org/t/p/w500/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+    },
+    {
+      "nombre": "Emilia Clarke",
+      "personaje": "Daenerys Targaryen",
+      "foto": "https://image.tmdb.org/t/p/w500/u59kTmNHXzaGZqokivxLPiBVIML.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "David Nutter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Miguel Sapochnik",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Duncan Muggoch",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bryan Cogman",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Lisa McAtackney",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bernadette Caulfield",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gursimran Sandhu",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Ethan J. Antonucci",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Steve Summersgill",
+      "rol": "Concept Artist"
+    },
+    {
+      "nombre": "Steve Summersgill",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Martin Hill",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Yusuf Chaudhri",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ben Shepherd",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Brooke Lyndon-Stanford",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Paul Zeke",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Ronan Binding",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "David Nutter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Miguel Sapochnik",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Duncan Muggoch",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bryan Cogman",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Devin Stoutley",
+      "rol": "Visual Effects"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.462,
+    "imdb": "tt0944947",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=KPLWWIOCOOQ"
+}
