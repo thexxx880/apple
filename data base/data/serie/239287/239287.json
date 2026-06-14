@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 239287,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/zEPdAqxCdvHuOAVwbr8tWCQK6A0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/woH18JkZMYhMSWqtHkPA4F6Gd1z.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8suGYlUHEJo5JvKy8BrRCtnQSo1.png",
+  "titulo": "Terminator Zero",
+  "titulo_original": "ターミネーター 0",
+  "fecha_estreno": "2024-08-29",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7,
+  "sinopsis": "Una guerrera de un futuro posapocalíptico viaja a 1997 para proteger a un científico abocado a la inteligencia artificial, que huye de un cíborg insensible e indestructible.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "内田夕夜",
+      "personaje": "Malcolm Lee (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4xLLQGEDWtmLWUapo0UnfvCdsXp.jpg"
+    },
+    {
+      "nombre": "下野紘",
+      "personaje": "Kenta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
+    },
+    {
+      "nombre": "早見沙織",
+      "personaje": "Misaki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg"
+    },
+    {
+      "nombre": "行成とあ",
+      "personaje": "Eiko (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aR11JLaHVeTM1RgGULsU9zIiaZs.jpg"
+    },
+    {
+      "nombre": "種﨑敦美",
+      "personaje": "KOKORO / KOKORO SPIRIT / KOKORO MIND / KOKORO HEART (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6tM8GU7QvrdUCvR4kxqVUZivtvO.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "David Ellison",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mattson Tomlin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Don Granger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "黒木類",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Ellison",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mattson Tomlin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Don Granger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "荒川直樹",
+      "rol": "Prop Designer"
+    },
+    {
+      "nombre": "田中孝典",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "市岡茉衣",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "工藤昌史",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "大東大介",
+      "rol": "Other"
+    },
+    {
+      "nombre": "岩田匠",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "常木志伸",
+      "rol": "Mechanical Designer"
+    },
+    {
+      "nombre": "小山恭正",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "Sayoko Noda",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "天田俊貴",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "荒川直樹",
+      "rol": "Art Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": "tt14153236",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=wNKu76y-U_0"
+}
