@@ -1,0 +1,116 @@
+{
+  "id_tmdb": 153312,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/yzRnj5GMZEjiW9xTGkz8cVNyzH9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/gZ4nvRFjJZXswKlsD5zCFpHBXv4.png",
+  "titulo": "Tulsa King",
+  "titulo_original": "Tulsa King",
+  "fecha_estreno": "2022-11-13",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 8.296,
+  "sinopsis": "Después de cumplir 25 años en prisión, Dwight Manfredi es exiliado por su jefe de la mafia para establecer una tienda en Oklahoma. Dwight construye lentamente un nuevo imperio criminal en Tulsa.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Sylvester Stallone",
+      "personaje": "Dwight 'The General' Manfredi",
+      "foto": "https://image.tmdb.org/t/p/w500/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "nombre": "Martin Starr",
+      "personaje": "Lawrence 'Bodhi' Geigerman",
+      "foto": "https://image.tmdb.org/t/p/w500/cxGxr0S1jnvOpOHyZDYXrg2GHju.jpg"
+    },
+    {
+      "nombre": "Jay Will",
+      "personaje": "Tyson Mitchell",
+      "foto": "https://image.tmdb.org/t/p/w500/6ABA1136deiDOBMOHAtJIMsOnSM.jpg"
+    },
+    {
+      "nombre": "Annabella Sciorra",
+      "personaje": "Joanne",
+      "foto": "https://image.tmdb.org/t/p/w500/p2dnBSjLzKxldrHCQZYmVq0LcFw.jpg"
+    },
+    {
+      "nombre": "Neal McDonough",
+      "personaje": "Cal Thresher",
+      "foto": "https://image.tmdb.org/t/p/w500/3mI3i1CpjATSCta1Tb2qsyl1KCh.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Dave Erickson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David C. Glasser",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Braden Aftergood",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Taylor Sheridan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bob Yari",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dave Erickson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David C. Glasser",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Braden Aftergood",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Taylor Sheridan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bob Yari",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ron Burkle",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Hutkin",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.296,
+    "imdb": "tt16358384",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount",
+  "trailer": "https://www.youtube.com/watch?v=AxL5v7q76sA"
+}
