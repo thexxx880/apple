@@ -13,12 +13,9 @@ async function loadDynamicCatalog(jsonUrl, containerId) {
     `;
 
     try {
-        // 1. Obtener el archivo como texto (crucial para no perder el orden de los IDs numéricos)
         const res = await fetch(jsonUrl);
         if (!res.ok) throw new Error("No se pudo cargar el archivo de datos");
         const textData = await res.text();
-
-        // 2. Extraer los IDs y las URLs manteniendo el orden exacto del archivo
         const items = [];
         const regex = /"(\d+)"\s*:\s*"([^"]+)"/g;
         let match;
@@ -29,16 +26,13 @@ async function loadDynamicCatalog(jsonUrl, containerId) {
         // 3. Tomar solo los primeros 10
         const latest10Items = items.slice(0, 10);
         const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
-
-        // 4. Consultar TMDB dependiendo de si es Serie o Película
         const catalogWithDetails = await Promise.all(
             latest10Items.map(async (item) => {
-                // Analizar la URL para saber qué tipo de contenido es
-                const isSerie = item.url.includes("contenido-serie.html");
+              const isSerie = item.url.includes("contenido-serie.html");
                 const tmdbType = isSerie ? "tv" : "movie";
                 
                 let rating = "0.0";
-                let poster = ""; // Dejamos vacío por si TMDB falla
+                let poster = ""; 
 
                 try {
                     const tmdbUrl = `https://api.themoviedb.org/3/${tmdbType}/${item.id}?api_key=${TMDB_API_KEY}&language=es-MX`;
@@ -60,14 +54,12 @@ async function loadDynamicCatalog(jsonUrl, containerId) {
             })
         );
 
-        // 5. Renderizar en pantalla
         container.innerHTML = "";
 
         catalogWithDetails.forEach(item => {
             const card = document.createElement("div");
-            card.className = "catalog-card"; // Usando la clase global
+            card.className = "catalog-card"; 
 
-            // Lógica para el SVG
             const radius = 22;
             const circumference = 2 * Math.PI * radius;
             const percent = (parseFloat(item.rating) / 10) * 100;
@@ -126,7 +118,8 @@ document.addEventListener("DOMContentLoaded", () => {
         "doramas-grid"
     );
 
-    // Si tuvieras otra sección, la agregarías aquí mismo:
-    // loadDynamicCatalog("URL_DEL_JSON_ANIMES", "animes-grid");
+   loadDynamicCatalog("Anime", "animes-grid");
+
+    // loadDynamicCatalog("https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/plataformas/__AQUI_DIRECCION__.json", "animes-grid");
     
 });
