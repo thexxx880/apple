@@ -20,7 +20,7 @@ function initFloatingMenu() {
             <a href="https://lzplayhd.online/apple/data%20base/" class="float-icon">
                 <i class="fas fa-home"></i>
             </a>
-            <a href="#" class="float-icon">
+            <a href="https://lzplayhd.online/apple/data%20base/plataformas/plataforma.html?=Doramas" class="float-icon">
                 <i class="fas fa-fire"></i>
             </a>
             <a href="https://lzplayhd.online/apple/data%20base/categorias/categorias.html" class="float-icon">
