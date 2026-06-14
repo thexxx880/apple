@@ -1,133 +1,143 @@
 {
   "id_tmdb": 273240,
-  "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/pI4sEVVbswtyOL2uaFxZs2tPOnQ.jpg",
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/pI4sEVVbswtyOL2uaFxZs2tPOnQ.jpg",
   "backdrop": "https://image.tmdb.org/t/p/original/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
   "logo": "https://image.tmdb.org/t/p/original/fcCwj0sW4artvtetHzZnmJbwM7s.png",
   "titulo": "Off Campus",
+  "titulo_original": "Off Campus",
+  "fecha_estreno": "2026-05-13",
+  "duracion": "24min",
+  "año": "2026",
   "trending": false,
   "generos": [
-    "Drama",
-    "Romance",
-    "Suspense"
+    "Drama"
   ],
-  "calificacion": "B-15",
-  "puntuacion": 7.7,
-  "año": "2023",
-  "duracion": "1h 56min",
-  "edad_minima": 13,
-  "sinopsis": "Noah debe dejar su ciudad, novio y amigos para mudarse a la mansión del nuevo marido de su madre. Allí conoce a su nuevo hermanastro Nick y sus personalidades chocan desde el primer momento. Pero la atracción que sienten les llevará a vivir una relación prohibida, donde el carácter rebelde y atormentado de cada uno de ellos pondrá del revés sus mundos haciendo que acaben perdidamente enamorados. Adaptación del primer libro de la trilogía \"Culpables\" de Mercedes Ron.",
-  "fecha_estreno": "2023-06-08",
-  "titulo_original": "Culpa mía",
-  "pais_origen": "Spain",
+  "puntuacion": 8.975,
+  "sinopsis": "Hannah Wells acepta darle clases particulares a Garrett Graham, el capitán del equipo de hockey, para conquistar al chico que le gusta. Lo que empieza como un simple acuerdo se convierte en una conexión real mientras ambos enfrentan su pasado. Mientras tanto, sus amigos Logan, Dean, Tucker y Allie viven sus propias aventuras entre romances y la vida universitaria.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
   "reparto": [
     {
-      "nombre": "Nicole Wallace",
-      "personaje": "Noah Morán",
-      "foto": "https://image.tmdb.org/t/p/w500/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg"
+      "nombre": "Ella Bright",
+      "personaje": "Hannah Wells",
+      "foto": "https://image.tmdb.org/t/p/w500/frdjTC8xrHJAbSUCNcrUvnU0SVx.jpg"
     },
     {
-      "nombre": "Gabriel Guevara",
-      "personaje": "Nick Leister",
-      "foto": "https://image.tmdb.org/t/p/w500/pviRYKEEmoPUfLYwP1VHJ6LQcRg.jpg"
+      "nombre": "Belmont Cameli",
+      "personaje": "Garrett Graham",
+      "foto": "https://image.tmdb.org/t/p/w500/pn7PMVIFbufXh7eCljg1tJHlpX0.jpg"
     },
     {
-      "nombre": "Marta Hazas",
-      "personaje": "Rafaella Leister",
-      "foto": "https://image.tmdb.org/t/p/w500/1dbeTFRCbWBt70dIGjYHKVLnpaG.jpg"
+      "nombre": "Mika Abdalla",
+      "personaje": "Allie Hayes",
+      "foto": "https://image.tmdb.org/t/p/w500/aVLefZdW2lw1oLkO4fnAzwTzmFl.jpg"
     },
     {
-      "nombre": "Iván Sánchez",
-      "personaje": "William Leister",
-      "foto": "https://image.tmdb.org/t/p/w500/woVz8D7t1VUKjFJnsTAdc8tyz5C.jpg"
+      "nombre": "Stephen Kalyn",
+      "personaje": "Dean Di Laurentis",
+      "foto": "https://image.tmdb.org/t/p/w500/nsjW4Hj1dJFpAPGKsrfm1XdX5Bu.jpg"
     },
     {
-      "nombre": "Eva Ruiz",
-      "personaje": "Jenna",
-      "foto": "https://image.tmdb.org/t/p/w500/bcu0nmQvhxwTzh4csc4kuxJsQee.jpg"
-    },
-    {
-      "nombre": "Víctor Varona",
-      "personaje": "Lion",
-      "foto": "https://image.tmdb.org/t/p/w500/lcwFAjHjhJXkxf59TXGSjGGOlLj.jpg"
-    },
-    {
-      "nombre": "Fran Berenguer",
-      "personaje": "Ronnie",
-      "foto": "https://image.tmdb.org/t/p/w500/uYi3MOwqtNdfZt82DdvzKCZku50.jpg"
-    },
-    {
-      "nombre": "Adriana Ubani",
-      "personaje": "Anna",
-      "foto": "https://image.tmdb.org/t/p/w500/7TlpwffkqeTu1mQNZW3OG0IdTFm.jpg"
+      "nombre": "Jalen Thomas Brooks",
+      "personaje": "John Tucker",
+      "foto": "https://image.tmdb.org/t/p/w500/987XKn86U2OED1ooCjxuHmx6Eut.jpg"
     }
   ],
+  "director": "",
   "equipo_creativo": [
     {
-      "nombre": "Domingo González",
-      "rol": "Director"
+      "nombre": "Louisa Levy",
+      "rol": "Executive Producer"
     },
     {
-      "nombre": "Domingo González",
-      "rol": "Screenplay"
+      "nombre": "Wyck Godfrey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marty Bowen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Neal Flaherty",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Seidman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gina Fattore",
+      "rol": "Executive Producer"
     }
   ],
   "crew": [
     {
-      "nombre": "Joana Ginart",
-      "rol": "Props"
-    },
-    {
-      "nombre": "Gonzalo Fernández de la Vega",
-      "rol": "Gaffer"
-    },
-    {
-      "nombre": "Víctor Garoz Ruiz",
-      "rol": "Key Grip"
-    },
-    {
-      "nombre": "Shantall González",
-      "rol": "Second Assistant Camera"
-    },
-    {
-      "nombre": "Fernando Moleón",
-      "rol": "\"A\" Camera Operator"
-    },
-    {
-      "nombre": "Guillermo Moreno Garcia",
-      "rol": "\"A\" Camera Operator"
-    },
-    {
-      "nombre": "Nicolás Ramírez López",
-      "rol": "Data Wrangler"
-    },
-    {
-      "nombre": "Fernando Moleón",
-      "rol": "Steadicam Operator"
-    },
-    {
-      "nombre": "Mercedes Ron",
-      "rol": "Novel"
-    },
-    {
-      "nombre": "Álex de la Iglesia",
+      "nombre": "Louisa Levy",
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Carolina Bang",
+      "nombre": "Wyck Godfrey",
       "rol": "Executive Producer"
     },
     {
-      "nombre": "María Contreras",
+      "nombre": "Marty Bowen",
       "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Neal Flaherty",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Hermansen",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jordan Sy",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "James Seidman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gina Fattore",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elle Kennedy",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Deanna Brigidi",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Andrea Bunker",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Corinne Clark",
+      "rol": "Location Casting"
+    },
+    {
+      "nombre": "Jennifer Page",
+      "rol": "Location Casting"
+    },
+    {
+      "nombre": "Charlene Akuamoah",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Emmy St. Pierre",
+      "rol": "Staff Writer"
     }
   ],
-  "director": "Domingo González",
   "valoraciones": {
-    "tmdb": 7.7,
-    "imdb": null,
+    "tmdb": 8.975,
+    "imdb": "tt33546863",
     "rotten_tomatoes": null
   },
-  "distribuidora": "Pokeepsie Films",
-  "enlace_video": "https://1a-1791.com/video/s8/2/A/G/F/p/AGFpk.aaa.mp4",
-  "trailer": "https://www.youtube.com/watch?v=xY-qRGC6Yu0"
+  "distribuidora": "Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=k7DeTvQIXZQ"
 }
