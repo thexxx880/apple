@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 127532,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/soogvWTvbW2YVpZwUz0SgPBKiVa.png",
+  "titulo": "Solo Leveling",
+  "titulo_original": "俺だけレベルアップな件",
+  "fecha_estreno": "2024-01-07",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.7,
+  "sinopsis": "Lo que no te mata te hace más fuerte, pero en el caso de Sung Jinwoo, lo que lo mató lo hizo más fuerte. Después de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regresó con el Sistema, un programa que solo él puede ver y que eleva su nivel en todos los sentidos. Ahora, está decidido a descubrir los secretos detrás de sus poderes y la mazmorra que los engendró.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "坂泰斗",
+      "personaje": "Shun Mizushino (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pSExEOVmjAujKUyJJJSxC1WEzOM.jpg"
+    },
+    {
+      "nombre": "中村源太",
+      "personaje": "Kenta Morobishi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bl3pu2fsaNfHqnZQSDugY4V1CE0.jpg"
+    },
+    {
+      "nombre": "三川華月",
+      "personaje": "Aoi Mizushino (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nsrFjmDDzo4FDMhxyvuVk4mPEH3.jpg"
+    },
+    {
+      "nombre": "上田麗奈",
+      "personaje": "Shizuku Kousaka (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg"
+    },
+    {
+      "nombre": "平川大輔",
+      "personaje": "Shin Mogami (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8uDi5NxFdxFvfVyo4n5CeOSLWEf.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "髙橋佳那子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "古橋宗太",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "末平アサ",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "山内真治",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "Park Jin-hae",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kim Ayoung",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "木村暢",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "澤野弘之",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "中重俊祐",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "須藤智子",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "奥村泰浩",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "中野尚美",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "白石創太郎",
+      "rol": "Prop Designer"
+    },
+    {
+      "nombre": "Toshitaka Morioka",
+      "rol": "CGI Director"
+    },
+    {
+      "nombre": "田中亮",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "髙橋佳那子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "加藤淳",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "古橋宗太",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "岩上敦宏",
+      "rol": "Other"
+    },
+    {
+      "nombre": "末平アサ",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "清水暁",
+      "rol": "Production Supervisor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.7,
+    "imdb": "tt21209876",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=TceDFwPXCuI"
+}
