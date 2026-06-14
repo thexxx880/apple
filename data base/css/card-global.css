@@ -1,0 +1,116 @@
+/* =============================================
+   CATALOG GRID (Global para Series, Doramas, etc.)
+============================================= */
+
+/* Contenedor principal (Scroll horizontal) */
+.catalog-grid {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    padding-bottom: 20px;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+}
+
+.catalog-grid::-webkit-scrollbar {
+    display: none;
+}
+
+/* Tarjeta del Catálogo (Escritorio: 200x300) */
+.catalog-card {
+    position: relative;
+    min-width: 200px;
+    max-width: 200px;
+    height: 300px;
+    border-radius: 20px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    flex-shrink: 0;
+    background: #111827;
+}
+
+.catalog-card:hover {
+    transform: scale(1.05);
+}
+
+.catalog-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* =============================================
+   CÍRCULO DE CALIFICACIÓN
+============================================= */
+
+.catalog-rating {
+    position: absolute;
+    top: 12px;
+    right: 12px; /* A la derecha */
+    width: 52px;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 50%;
+}
+
+.catalog-rating .rating-circle {
+    width: 52px;
+    height: 52px;
+    transform: rotate(-90deg);
+    position: absolute;
+}
+
+.catalog-rating .rating-circle circle {
+    fill: none;
+    stroke-width: 4;
+}
+
+.catalog-rating .rating-circle .bg {
+    stroke: rgba(255, 255, 255, 0.2);
+}
+
+.catalog-rating .rating-circle .progress {
+    stroke-linecap: round;
+    transition: stroke-dashoffset 1s ease-out;
+}
+
+.catalog-rating .rating-value {
+    position: relative;
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: white;
+    z-index: 2;
+}
+
+/* =============================================
+   RESPONSIVE (MÓVILES)
+============================================= */
+
+@media (max-width: 600px) {
+    /* Ajusta el tamaño de la tarjeta para celulares (160x240) */
+    .catalog-card {
+        min-width: 160px;
+        max-width: 160px;
+        height: 240px;
+    }
+
+    .catalog-rating {
+        top: 8px;
+        right: 8px;
+        width: 44px;
+        height: 44px;
+    }
+
+    .catalog-rating .rating-circle {
+        width: 44px;
+        height: 44px;
+    }
+
+    .catalog-rating .rating-value {
+        font-size: 0.85rem;
+    }
+}
