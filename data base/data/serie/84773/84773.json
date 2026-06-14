@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 84773,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vpRAeMi5VBZT3Kjykive6qan2Ui.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/bFb2je479dZpxYMFwxX44c0hliD.png",
+  "titulo": "El señor de los anillos: Los anillos de poder",
+  "titulo_original": "The Lord of the Rings: The Rings of Power",
+  "fecha_estreno": "2022-09-01",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "puntuacion": 7.236,
+  "sinopsis": "Comenzando en un tiempo relativamente pacífico, acompañamos a un grupo de personajes mientras enfrentan el resurgimiento del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta el majestuoso bosque de Lindon, la imponente isla de Númenor y los rincones más lejanos del mapa, estos reinos y personajes darán lugar a legados que perdurarán en el tiempo.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Charlie Vickers",
+      "personaje": "Sauron",
+      "foto": "https://image.tmdb.org/t/p/w500/nIn0RTnOukikIKiVwtzRwkpcJvy.jpg"
+    },
+    {
+      "nombre": "Morfydd Clark",
+      "personaje": "Galadriel",
+      "foto": "https://image.tmdb.org/t/p/w500/kG1Xg85F9yAggCMquo4XouAOjdo.jpg"
+    },
+    {
+      "nombre": "Robert Aramayo",
+      "personaje": "Elrond",
+      "foto": "https://image.tmdb.org/t/p/w500/o7qAOrcW70LD4oz8fcubZUcYDAU.jpg"
+    },
+    {
+      "nombre": "Charles Edwards",
+      "personaje": "Lord Celebrimbor",
+      "foto": "https://image.tmdb.org/t/p/w500/zyzow44jiPve8nU9O1F1X9wnrtU.jpg"
+    },
+    {
+      "nombre": "Owain Arthur",
+      "personaje": "Durin IV",
+      "foto": "https://image.tmdb.org/t/p/w500/ljqVjVzp9pgcfTTU3oJbKtnd6im.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ally O'Leary",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Helen Shang",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matthew Penry-Davey",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Charlotte Brändström",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Clare Buxton",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Glenise Mullins",
+      "rol": "Co-Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Katherine Burchill",
+      "rol": "Assistant Costume Designer"
+    },
+    {
+      "nombre": "Ally O'Leary",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Nicol Shaw",
+      "rol": "Transportation Coordinator"
+    },
+    {
+      "nombre": "Ally O'Leary",
+      "rol": "Controller"
+    },
+    {
+      "nombre": "Duncan Jarman",
+      "rol": "Prosthetic Makeup Artist"
+    },
+    {
+      "nombre": "Tim Lyall",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Theo Park",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Andy Surry",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Michael Baber",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Callum Greene",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Christine Blundell",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Kristian Milsted",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Oliver Benson",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Gareth Sprey",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Charlie McDonnell",
+      "rol": "Art Department Assistant"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.236,
+    "imdb": "tt7631058",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=8wWVL4O4FLs"
+}
