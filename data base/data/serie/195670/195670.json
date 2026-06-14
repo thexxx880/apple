@@ -1,0 +1,71 @@
+{
+  "id_tmdb": 195670,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3y3uLS6HV3IJebjXHnd9K640F3Q.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/h0CQ36rm9cSLznve5ocCDtYlnwN.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/l0SlU5WZ8GJD5Q8FrIVCPaUJ8Gj.png",
+  "titulo": "Besos, Kitty",
+  "titulo_original": "XO, Kitty",
+  "fecha_estreno": "2023-05-18",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 8.093,
+  "sinopsis": "Siguiendo la voz de su corazón, Kitty, la celestina, llega a una escuela en Seúl. Allí, descubre que la vida, el amor y la familia son más complicados de lo que imaginaba...",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Anna Cathcart",
+      "personaje": "Katherine 'Kitty' Song Covey",
+      "foto": "https://image.tmdb.org/t/p/w500/fdWbljGWJ0T9ViOYB3BohnArM16.jpg"
+    },
+    {
+      "nombre": "최민영",
+      "personaje": "Dae-heon 'Dae' Kim",
+      "foto": "https://image.tmdb.org/t/p/w500/pPtfIxmzGOlIpls6atxaoTBxDiR.jpg"
+    },
+    {
+      "nombre": "Gia Kim",
+      "personaje": "Yuri Han",
+      "foto": "https://image.tmdb.org/t/p/w500/izwkFMqyKNlyLY1Mi23IjmlAAKB.jpg"
+    },
+    {
+      "nombre": "이상헌",
+      "personaje": "Min-ho Moon",
+      "foto": "https://image.tmdb.org/t/p/w500/j7cXYaFBnUxFihroc7fJDpXv02n.jpg"
+    },
+    {
+      "nombre": "Anthony Keyvan",
+      "personaje": "Quincy 'Q' Shabazian",
+      "foto": "https://image.tmdb.org/t/p/w500/wX9rE9MUbnIRwoTeTqKGB7FMfO7.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Su Kim",
+      "rol": "Location Casting"
+    },
+    {
+      "nombre": "Laura Webb",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Lindsay Wolfington",
+      "rol": "Music Supervisor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.093,
+    "imdb": "tt14490706",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=92eynjw4oqA"
+}
