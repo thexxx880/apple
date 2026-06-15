@@ -1,0 +1,64 @@
+{
+  "id_tmdb": 276161,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lG83nWVT7cHl3nSxonaYhOjqyWH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/9M0KczpnpoQ7bL2zQJQjIs6W0rN.png",
+  "titulo": "Así aprenderás",
+  "titulo_original": "참교육",
+  "fecha_estreno": "2026-06-05",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 9.419,
+  "sinopsis": "Cuando ya nadie respeta nada en las escuelas, un equipo de inspectores llega para poner las cosas en orden con enseñanzas estrictas y efectivas que no aparecen en los libros.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "김무열",
+      "personaje": "Na Hwa-jin",
+      "foto": "https://image.tmdb.org/t/p/w500/wLuVca9icDLjUkOG84IlEmfP52b.jpg"
+    },
+    {
+      "nombre": "이성민",
+      "personaje": "Choi Kang-seok",
+      "foto": "https://image.tmdb.org/t/p/w500/p71yyyIQmHbrOZHU2lphMvjlVIk.jpg"
+    },
+    {
+      "nombre": "진기주",
+      "personaje": "Im Han-rim",
+      "foto": "https://image.tmdb.org/t/p/w500/xwhR8nrFKxalOjmADxJPTouxE0g.jpg"
+    },
+    {
+      "nombre": "피오",
+      "personaje": "Bong  Geun-dae",
+      "foto": "https://image.tmdb.org/t/p/w500/rg2fuaF8yRmKBgyGWdpvEmtCBmU.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "홍종찬",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "홍종찬",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9.419,
+    "imdb": "tt34809853",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=LdezlX84py0"
+}
