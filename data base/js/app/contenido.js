@@ -12,6 +12,7 @@ console.log("LIST_MOVIE_JSON URL:", LIST_MOVIE_JSON);
 let videoLinksCache = null;
 
 // ================== OBTENER ENLACE DE VIDEO ==================
+// ================== OBTENER ENLACE DE VIDEO ==================
 async function getVideoLink(id) {
   try {
     if (!videoLinksCache) {
@@ -60,13 +61,19 @@ async function getVideoLink(id) {
     return null;
   }
 }
-
 // ================== OBTENER ID ==================
 function getContentId() {
-  const params = new URLSearchParams(window.location.search);
-  const id = params.get("id") || params.get("tmdb_id");
+  const params =
+    new URLSearchParams(
+      window.location.search
+    );
+  const id =
+    params.get("id") ||
+    params.get("tmdb_id");
   if (!id) {
-    showError("❌ Falta el parámetro <b>id</b>");
+    showError(
+      "❌ Falta el parámetro <b>id</b>"
+    );
     return null;
   }
   return id.toString();
@@ -74,101 +81,158 @@ function getContentId() {
 
 // ================== INCREMENTAR VISTAS ==================
 async function incrementarVistas() {
-  const contentId = getContentId();
+  const contentId =
+    getContentId();
   if (!contentId) {
-    console.warn("No se encontró ID");
+    console.warn(
+      "No se encontró ID"
+    );
     return;
   }
   try {
-    const db = firebase.firestore();
-    const docRef = db.collection("contenidos").doc(contentId);
+    const db =
+      firebase.firestore();
+    const docRef =
+      db
+        .collection(
+          "contenidos"
+        )
+        .doc(contentId);
     // Incremento seguro
     await docRef.set({
-      vistas: firebase.firestore.FieldValue.increment(1),
-      updatedAt: firebase.firestore.FieldValue.serverTimestamp()
-    }, { merge: true });
-    
-    console.log(`✅ Vista incrementada: ${contentId}`);
+      vistas:
+        firebase.firestore.FieldValue.increment(1),
+      updatedAt:
+        firebase.firestore.FieldValue.serverTimestamp()
+    }, {
+      merge: true
+    });
+    console.log(
+      `✅ Vista incrementada: ${contentId}`
+    );
     // Actualizar contador
     setTimeout(() => {
-      if (typeof window.recargarStats === "function") {
+      if (
+        typeof window.recargarStats ===
+        "function"
+      ) {
         window.recargarStats();
       }
     }, 300);
   } catch (error) {
-    console.error("❌ Error incrementando vistas:", error);
+    console.error(
+      "❌ Error incrementando vistas:",
+      error
+    );
   }
 }
 
 // ================== RECARGAR STATS ==================
-window.recargarStats = async function () {
-  const contentId = getContentId();
-  if (!contentId) return;
-  try {
-    const db = firebase.firestore();
-    const docSnap = await db.collection("contenidos").doc(contentId).get();
-    const viewCountEl = document.getElementById("viewCount");
-    
-    if (!viewCountEl) return;
-    
-    if (docSnap.exists) {
-      const data = docSnap.data();
-      const vistas = data.vistas || 0;
-      viewCountEl.textContent = vistas.toLocaleString("es-ES");
-      console.log("👁️ Vistas:", vistas);
-    } else {
-      viewCountEl.textContent = "0";
+window.recargarStats =
+  async function () {
+    const contentId =
+      getContentId();
+    if (!contentId) return;
+    try {
+      const db =
+        firebase.firestore();
+      const docSnap =
+        await db
+          .collection(
+            "contenidos"
+          )
+          .doc(contentId)
+          .get();
+      const viewCountEl =
+        document.getElementById(
+          "viewCount"
+        );
+      if (!viewCountEl) {
+        return;
+      }
+      if (docSnap.exists) {
+        const data =
+          docSnap.data();
+        const vistas =
+          data.vistas || 0;
+        viewCountEl.textContent =
+          vistas.toLocaleString(
+            "es-ES"
+          );
+        console.log(
+          "👁️ Vistas:",
+          vistas
+        );
+      } else {
+        viewCountEl.textContent =
+          "0";
+      }
+    } catch (error) {
+      console.error(
+        "❌ Error recargando vistas:",
+        error
+      );
     }
-  } catch (error) {
-    console.error("❌ Error recargando vistas:", error);
-  }
-};
+  };
 
 // ================== CARGAR CONTENIDO ==================
 async function loadContent() {
-  const id = getContentId();
+  const id =
+    getContentId();
   if (!id) return;
-  const contenidoUrl = `${GITHUB_RAW_BASE}${id}/${id}.json`;
-  
+  const contenidoUrl =
+    `${GITHUB_RAW_BASE}${id}/${id}.json`;
   try {
-    const contenidoRes = await fetch(contenidoUrl);
-    if (!contenidoRes.ok) {
-      throw new Error(`No se encontró ${id}.json`);
+    const contenidoRes =
+      await fetch(
+        contenidoUrl
+      );
+    if (
+      !contenidoRes.ok
+    ) {
+      throw new Error(
+        `No se encontró ${id}.json`
+      );
     }
-    const contenido = await contenidoRes.json();
-    
+    const contenido =
+      await contenidoRes.json();
     // Renderizar primero
-    renderPage(contenido, id);
-    
+    renderPage(
+      contenido,
+      id
+    );
     // Mostrar vistas actuales
-    setTimeout(() => { window.recargarStats?.(); }, 300);
+    setTimeout(() => {
+      window.recargarStats?.();
+    }, 300);
     // Incrementar vista
-    setTimeout(() => { incrementarVistas(); }, 1000);
-    
+    setTimeout(() => {
+      incrementarVistas();
+    }, 1000);
   } catch (err) {
     console.error(err);
-    showError(`No se encontró el contenido<br><small>ID: ${id}</small>`);
+    showError(
+      `No se encontró el contenido
+      <br>
+      <small>ID: ${id}</small>`
+    );
   }
 }
 
 // ================== RENDERIZAR PÁGINA ==================
 let currentMovieId = null;
 let currentMovieData = null;
-
 function renderPage(data, id) {
   currentMovieId = id;
   currentMovieData = data;
   document.getElementById('pageTitle').textContent = `${data.titulo} • LzPlay`;
-  
   const heroBg = document.getElementById('heroBg');
   heroBg.style.backgroundImage = `url('${data.backdrop || data.poster}')`;
   setTimeout(() => heroBg.classList.add('loaded'), 100);
-  
   const heroLogo = document.getElementById('heroLogo');
   heroLogo.innerHTML = data.logo
     ? `<img src="${data.logo}" alt="${data.titulo}">`
     : `<h1 style="font-size:3.8rem;line-height:1;color:white;font-family:'Bebas Neue',sans-serif;">${data.titulo}</h1>`;
-    
   document.getElementById('heroMeta').innerHTML = `
     <span class="match-score"><i class="fa-solid fa-thumbs-up"></i> ${Math.round(data.puntuacion * 10)}% para ti</span>
     <div class="meta-dot"></div>
@@ -179,12 +243,11 @@ function renderPage(data, id) {
     <span class="meta-badge">${data.calificacion}</span>
     <span class="meta-badge">${data.edad_minima || '13'}+</span>
   `;
-  
   document.getElementById('sinopsis').textContent = data.sinopsis || "Sin sinopsis disponible.";
-  
   const generosContainer = document.getElementById('generos');
-  generosContainer.innerHTML = (data.generos || []).map(g => `<span class="genre-chip">${g}</span>`).join('');
-  
+  generosContainer.innerHTML = (data.generos || []).map(g =>
+    `<span class="genre-chip">${g}</span>`
+  ).join('');
   // Stats con vistas iniciales
   document.getElementById('statsRow').innerHTML = `
     <div class="stat-card"><i class="fa-solid fa-calendar-days stat-icon"></i><div class="stat-value">${data.año}</div><div class="stat-label">Estreno</div></div>
@@ -192,7 +255,6 @@ function renderPage(data, id) {
     <div class="stat-card"><i class="fa-solid fa-star stat-icon" style="color:var(--gold)"></i><div class="stat-value" style="color:var(--gold)">${data.puntuacion}</div><div class="stat-label">Puntuación</div></div>
     <div class="stat-card"><i class="fa-solid fa-eye stat-icon"></i><div class="stat-value" id="viewCount">—</div><div class="stat-label">Vistas</div></div>
   `;
-  
   const castContainer = document.getElementById('castScroll');
   castContainer.innerHTML = (data.reparto || []).map(actor => `
     <div class="cast-card" onclick="showCastInfo('${actor.nombre}')">
@@ -201,7 +263,6 @@ function renderPage(data, id) {
       <div class="cast-role">${actor.personaje}</div>
     </div>
   `).join('');
-  
   const crewContainer = document.getElementById('crewGrid');
   const allCrew = [...(data.equipo_creativo || []), ...(data.crew || [])];
   crewContainer.innerHTML = allCrew.map(person => `
@@ -210,15 +271,12 @@ function renderPage(data, id) {
       <div><div class="crew-name">${person.nombre}</div><div class="crew-role">${person.rol}</div></div>
     </div>
   `).join('');
-  
-  // Asignar eventos: AHORA LLAMA DIRECTAMENTE A playContentNativo
+  // Asignar eventos
   const playBtn = document.getElementById('playBtn');
   const trailerBtn = document.getElementById('trailerBtn');
-  if (playBtn) playBtn.onclick = () => playContentNativo(id);
+  if (playBtn) playBtn.onclick = () => showPlayerModal(data, id);
   if (trailerBtn) trailerBtn.onclick = () => playTrailer(data);
-  
   loadFavoriteState(id);
-  
   // OCULTAR LOADER
   if (typeof hideLoader === "function") {
     hideLoader();
@@ -265,7 +323,6 @@ async function toggleFavorite(movieId, movieData) {
     return false;
   }
 }
-
 async function loadFavoriteState(movieId) {
   const btn = document.getElementById('listBtn');
   if (!btn) return;
@@ -293,7 +350,6 @@ async function loadFavoriteState(movieId) {
     console.error('Error cargando Mi lista:', e);
   }
 }
-
 function toggleList(btn) {
   if (!currentMovieId || !currentMovieData) return;
   toggleFavorite(currentMovieId, currentMovieData).then(isSaved => {
@@ -340,49 +396,55 @@ function playTrailer(data) {
       </div>
     </div>
   `;
+  // Eliminar modal anterior si existe
   document.querySelectorAll('.modal-trailer').forEach(m => m.remove());
   document.body.insertAdjacentHTML('beforeend', modalHtml);
 }
 
-// ================== REPRODUCTOR NATIVO (NUEVO) ==================
-async function playContentNativo(id) {
-  showToast('Cargando video...', 'fa-spinner fa-spin');
-  
+// ================== PLAYER MODAL (Opciones) ==================
+async function showPlayerModal(data, id) {
+  const modal = document.getElementById('playerModal');
+  if (!modal) {
+    console.error("Modal #playerModal no encontrado");
+    return;
+  }
   const videoUrl = await getVideoLink(id);
-  
   if (!videoUrl) {
     showToast('❌ No se encontró enlace de video para este contenido', 'fa-exclamation-triangle');
     return;
   }
+  window.currentMovieData = {
+    video: videoUrl,
+    poster: data.backdrop || data.poster,
+    title: encodeURIComponent(data.titulo || 'Película')
+  };
+  modal.style.display = 'flex';
+}
 
-  // Verificamos si la página está corriendo dentro de tu app de Android
-  if (typeof Android !== "undefined" && Android.abrirReproductorNativo) {
-    
-    const lowerUrl = videoUrl.toLowerCase();
-    
-    // Lista de extensiones directas
-    const esVideoDirecto = lowerUrl.includes('.mp4') || 
-                           lowerUrl.includes('.m3u8') || 
-                           lowerUrl.includes('.mkv') || 
-                           lowerUrl.includes('.webm') || 
-                           lowerUrl.includes('.flv') || 
-                           lowerUrl.includes('.ts') ||
-                           lowerUrl.includes('.m4s');
+function closeModal() {
+  const modal = document.getElementById('playerModal');
+  if (modal) modal.style.display = 'none';
+}
 
-    if (esVideoDirecto) {
-      // Es un video directo, lo lanzamos en ExoPlayer instantáneamente
-      Android.abrirReproductorNativo(videoUrl);
-    } else {
-      // Es un servidor como Doodstream, Voe, Vidhide, etc.
-      // Navegamos allí para que la inyección de la app (MainActivity.java)
-      // detecte el <video> y detone el ExoPlayer.
-      window.location.href = videoUrl;
-    }
-    
-  } else {
-    // Fallback: Si alguien abre la página web en un navegador fuera de la app
-    window.location.href = videoUrl;
+// ================== ABRIR PLAYER EN LA MISMA PÁGINA ==================
+function openPlayer(option) {
+  const d = window.currentMovieData;
+  if (!d || !d.video) {
+    showToast('No hay enlace de video disponible', 'fa-exclamation-triangle');
+    closeModal();
+    return;
   }
+
+  let url = '';
+  if (option === 1) {
+    url = `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
+  } else if (option === 2) {
+    url = `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
+  }
+
+  closeModal();
+  // Abre en la misma página (pantalla completa del reproductor)
+  window.location.href = url;
 }
 
 // ================== FUNCIONES AUXILIARES ==================
