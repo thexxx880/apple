@@ -12,7 +12,6 @@ console.log("LIST_MOVIE_JSON URL:", LIST_MOVIE_JSON);
 let videoLinksCache = null;
 
 // ================== OBTENER ENLACE DE VIDEO ==================
-// ================== OBTENER ENLACE DE VIDEO ==================
 async function getVideoLink(id) {
   try {
     if (!videoLinksCache) {
@@ -413,6 +412,15 @@ async function showPlayerModal(data, id) {
     showToast('❌ No se encontró enlace de video para este contenido', 'fa-exclamation-triangle');
     return;
   }
+
+  // 🚀 NUEVA LÓGICA: Interceptar Streamwish
+  // Si el enlace contiene "streamwish.to", lo abre directo sin el custom player
+  if (videoUrl.includes('streamwish.to')) {
+    window.location.href = videoUrl;
+    return; // Detiene la ejecución para no mostrar el modal
+  }
+
+  // Si no es Streamwish (ej. mp4 o m3u8), continúa con la lógica normal
   window.currentMovieData = {
     video: videoUrl,
     poster: data.backdrop || data.poster,
@@ -435,6 +443,16 @@ function openPlayer(option) {
     return;
   }
 
+  closeModal();
+
+  // 🚀 REDUNDANCIA DE SEGURIDAD
+  // Por si acaso el flujo llega hasta aquí con un link de Streamwish
+  if (d.video.includes('streamwish.to')) {
+    window.location.href = d.video;
+    return;
+  }
+
+  // Comportamiento normal para tus reproductores
   let url = '';
   if (option === 1) {
     url = `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
@@ -442,7 +460,6 @@ function openPlayer(option) {
     url = `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
   }
 
-  closeModal();
   // Abre en la misma página (pantalla completa del reproductor)
   window.location.href = url;
 }
