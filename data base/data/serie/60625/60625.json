@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 60625,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/cgwwn49FzTmc8kv4PGKQx4btbb3.png",
+  "titulo": "Rick y Morty",
+  "titulo_original": "Rick and Morty",
+  "fecha_estreno": "2013-12-02",
+  "duracion": "24min",
+  "año": "2013",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.679,
+  "sinopsis": "Rick Sánchez es un genio científico alcohólico que se ha mudado con la familia de su hija Beth. Él pasa el tiempo con su nieto adolescente Morty (y en ocasiones con otros miembros de la familia) en aventuras peligrosas y surrealistas a través del espacio y universos paralelos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Chris Parnell",
+      "personaje": "Jerry Smith (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9Ga03Y9TVIqTZJ4I9rfL740ibgJ.jpg"
+    },
+    {
+      "nombre": "Spencer Grammer",
+      "personaje": "Summer Smith (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1L8Y45RJo2YxUXl6ldIowQay1V7.jpg"
+    },
+    {
+      "nombre": "Sarah Chalke",
+      "personaje": "Beth Smith (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ycwiu89cpjqCtSNC5FjbJggjj5R.jpg"
+    },
+    {
+      "nombre": "Ian Cardoni",
+      "personaje": "Rick Sanchez (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iEC17Hj50xsH99GTRai14yWP0wp.jpg"
+    },
+    {
+      "nombre": "Harry Belden",
+      "personaje": "Morty Smith (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lkEyIjVsOKOzJgMZE2o8DCrOkbF.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Garrick Bernard",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jess Lacher",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Rob Schrab",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nick Rutherford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Heather Anne Campbell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anthony Alfonso",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Garrick Bernard",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jess Lacher",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Rob Schrab",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nick Rutherford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Heather Anne Campbell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jacob Hair",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Anthony Alfonso",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Monica Mitchell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Albro Lundy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Siciliano",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Suzanne Belk",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steve Levy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Deirdre Brenner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Scott Marder",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ryan Elder",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.679,
+    "imdb": "tt2861424",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max, Animations Adult",
+  "trailer": "https://www.youtube.com/watch?v=WNhH00OIPP0"
+}
