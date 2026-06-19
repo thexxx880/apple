@@ -13,6 +13,24 @@ let currentSeriesData = null;
 let currentSeason = 1;
 let currentEpisodeData = null;
 
+// ================== EXTRAER NOMBRE DEL SERVIDOR ==================
+function getServerName(url) {
+    const urlLower = url.toLowerCase();
+    if (urlLower.includes('vidhide')) return 'VidHide';
+    if (urlLower.includes('streamwish')) return 'StreamWish';
+    if (urlLower.includes('voe')) return 'Voe';
+    if (urlLower.includes('filemoon')) return 'Filemoon';
+    if (urlLower.includes('dood')) return 'DoodStream';
+    
+    try {
+        const host = new URL(url).hostname.replace('www.', '');
+        const name = host.split('.')[0];
+        return name.charAt(0).toUpperCase() + name.slice(1);
+    } catch(e) {
+        return 'Externo';
+    }
+}
+
 // ================== OBTENER ID ==================
 function getContentId() {
     const params = new URLSearchParams(window.location.search);
@@ -283,6 +301,48 @@ function centrarEpisodioActivo() {
     }
 }
 
+// ================== MODAL SELECCIÓN SERVIDORES ==================
+function showServerSelectionModal(linksArray) {
+    let buttonsHtml = linksArray.map(link => {
+        const serverName = getServerName(link);
+        return `
+        <button onclick="playExternalServer('${link}')" 
+                style="display:flex;align-items:center;justify-content:center;gap:10px;width:100%;margin-bottom:12px;padding:16px;background:#2a2a2a;color:white;border:1px solid #444;border-radius:10px;font-size:1.1rem;font-weight:bold;cursor:pointer;transition:all 0.2s;"
+                onmouseover="this.style.background='#4f7cff';this.style.borderColor='#4f7cff'"
+                onmouseout="this.style.background='#2a2a2a';this.style.borderColor='#444'">
+            <i class="fa-solid fa-play"></i> Server (${serverName})
+        </button>`;
+    }).join('');
+
+    const modalHtml = `
+    <div class="modal-servers" style="position:fixed;inset:0;background:rgba(0,0,0,0.85);backdrop-filter:blur(5px);display:flex;align-items:center;justify-content:center;z-index:99999;">
+        <div style="position:relative;width:90%;max-width:400px;background:#141414;border:1px solid #333;border-radius:16px;padding:30px;box-shadow:0 10px 40px rgba(0,0,0,0.8);">
+            <button onclick="this.closest('.modal-servers').remove()"
+                    style="position:absolute;top:15px;right:20px;color:#888;font-size:1.8rem;background:none;border:none;cursor:pointer;">✕</button>
+            <h3 style="color:white;margin-top:0;margin-bottom:25px;text-align:center;font-size:1.4rem;font-weight:600;">Elige un Servidor</h3>
+            ${buttonsHtml}
+        </div>
+    </div>
+    `;
+    document.querySelectorAll('.modal-servers').forEach(m => m.remove());
+    document.body.insertAdjacentHTML('beforeend', modalHtml);
+}
+
+function playExternalServer(link) {
+    document.querySelectorAll('.modal-servers').forEach(m => m.remove());
+    
+    const urlEnMinusculas = link.toLowerCase();
+    const esReproducible = urlEnMinusculas.includes('.mp4') || urlEnMinusculas.includes('.m3u8');
+    
+    if (esReproducible) {
+        currentEpisodeData.video = link;
+        document.getElementById('playerModal').style.display = 'flex';
+    } else {
+        // 🔥 AHORA: Si no es reproducible de forma directa, se lee directamente en la ventana actual
+        window.location.href = link;
+    }
+}
+
 // ================== RENDERIZAR TARJETAS EPISODIOS ==================
 function renderEpisodes(episodes, seasonNumber, seasonBackdrop) {
     const container = document.getElementById('episodesList');
@@ -333,7 +393,6 @@ function renderEpisodes(episodes, seasonNumber, seasonBackdrop) {
             const pt = document.getElementById('playText');
             if(pt) pt.textContent = `Continuar T${seasonNumber} E${ep.episode_number}`;
 
-            // 🔥 AÑADIMOS TEMPORADA Y EPISODIO AL OBJETO 🔥
             currentEpisodeData = {
                 video: ep.video_url,
                 poster: thumbnail,
@@ -342,7 +401,20 @@ function renderEpisodes(episodes, seasonNumber, seasonBackdrop) {
                 episode: ep.episode_number
             };
 
-            document.getElementById('playerModal').style.display = 'flex';
+            // 🚀 LÓGICA DE MULTI-ENLACE Y REDIRECCIÓN INTELIGENTE
+            if (Array.isArray(ep.video_url)) {
+                showServerSelectionModal(ep.video_url);
+            } else {
+                const urlEnMinusculas = ep.video_url.toLowerCase();
+                const esReproducible = urlEnMinusculas.includes('.mp4') || urlEnMinusculas.includes('.m3u8');
+                
+                if (esReproducible) {
+                    document.getElementById('playerModal').style.display = 'flex'; // Tu modal clásico para elegir Reproductor 1 o 2
+                } else {
+                    // 🔥 AHORA: Redirección directa para enlaces como Vidhide o Streamwish
+                    window.location.href = ep.video_url; 
+                }
+            }
         };
 
         container.appendChild(card);
@@ -373,7 +445,7 @@ function getLastWatchedEpisode() {
     return saved ? JSON.parse(saved) : null;
 }
 
-// ================== MODALES (TRAILER & PLAYER) ==================
+// ================== MODALES (TRAILER) ==================
 function abrirTrailerModal(url) {
     let videoId = "";
     if (url.includes("youtube.com/watch?v=")) {
@@ -404,19 +476,79 @@ function closeTrailerModal() {
     }
 }
 
-// ======== FUNCIÓN MODIFICADA: openPlayer ========
+// ================== REPRODUCTOR EN PÁGINA Y BOTONES ==================
+
+function playNextEpisode() {
+    closeFullscreenPlayer();
+    
+    let nextEp = currentEpisodeData.episode + 1;
+    let cards = document.querySelectorAll('.episode-card');
+    let found = false;
+    
+    for(let card of cards) {
+        let text = card.querySelector('.episode-number').textContent;
+        if (text === `E${nextEp}`) {
+            card.querySelector('.episode-play-btn').click();
+            found = true;
+            break;
+        }
+    }
+
+    if (!found) {
+        let nextSeason = currentEpisodeData.season + 1;
+        if (nextSeason <= currentSeriesData.number_of_seasons) {
+            showToast('Cargando siguiente temporada...', 'fa-spinner fa-spin');
+            document.querySelectorAll('.season-tab')[nextSeason - 1].click();
+            
+            setTimeout(() => {
+                let newCards = document.querySelectorAll('.episode-card');
+                if(newCards.length > 0) newCards[0].querySelector('.episode-play-btn').click();
+            }, 1200);
+        } else {
+            showToast('Has llegado al final de la serie', 'fa-flag-checkered');
+        }
+    }
+}
+
+function closeFullscreenPlayer() {
+    document.querySelectorAll('.fullscreen-player-modal').forEach(m => m.remove());
+}
+
+function openFullscreenPlayer(url) {
+    closeFullscreenPlayer(); 
+
+    const modalHtml = `
+    <div class="fullscreen-player-modal" style="position:fixed;inset:0;width:100vw;height:100vh;background:#000;z-index:999999;display:flex;flex-direction:column;">
+        
+        <div style="position:absolute;top:0;left:0;width:100%;padding:15px 25px;background:linear-gradient(to bottom, rgba(0,0,0,0.85), transparent);display:flex;justify-content:space-between;align-items:center;z-index:1000;pointer-events:none;">
+            
+            <button onclick="closeFullscreenPlayer()" style="pointer-events:auto;background:rgba(255,255,255,0.15);color:white;border:1px solid rgba(255,255,255,0.2);padding:10px 18px;border-radius:8px;font-size:15px;cursor:pointer;backdrop-filter:blur(10px);display:flex;align-items:center;gap:8px;transition:0.2s;" onmouseover="this.style.background='rgba(255,255,255,0.3)'" onmouseout="this.style.background='rgba(255,255,255,0.15)'">
+                <i class="fa-solid fa-arrow-left"></i> Regresar
+            </button>
+            
+            <button onclick="playNextEpisode()" style="pointer-events:auto;background:#4f7cff;color:white;border:none;padding:10px 18px;border-radius:8px;font-size:15px;cursor:pointer;font-weight:bold;box-shadow:0 4px 15px rgba(79,124,255,0.4);display:flex;align-items:center;gap:8px;transition:0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+                Siguiente Cap. <i class="fa-solid fa-forward-step"></i>
+            </button>
+        </div>
+        
+        <iframe src="${url}" style="width:100%;height:100%;border:none;flex-grow:1;" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" allow="autoplay; fullscreen"></iframe>
+    </div>
+    `;
+    document.body.insertAdjacentHTML('beforeend', modalHtml);
+}
+
 function openPlayer(option) {
     document.getElementById('playerModal').style.display = 'none';
     if (!currentEpisodeData || !currentEpisodeData.video) return;
 
-    // 🔥 PASAMOS EXPRESAMENTE "s" y "e" POR LA URL PARA EL PLAYER 🔥
     let baseParams = `video=${encodeURIComponent(currentEpisodeData.video)}&poster=${encodeURIComponent(currentEpisodeData.poster)}&title=${currentEpisodeData.title}&id=${currentSeriesId}&s=${currentEpisodeData.season}&e=${currentEpisodeData.episode}`;
     
     let url = option === 1 
         ? `https://lzplayhd.online/lzpro/player.html?${baseParams}`
         : `https://lzrdrz10.github.io/premiumplayer/player.html?${baseParams}`;
     
-    window.location.href = url;
+    // Aquí usamos el overlay porque sabemos que ya son mp4 o m3u8 directos
+    openFullscreenPlayer(url);
 }
 
 function closeModal() {
