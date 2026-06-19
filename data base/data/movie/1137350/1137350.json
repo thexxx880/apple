@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1137350,
+  "poster": "https://image.tmdb.org/t/p/w500/bsZZAXuQ0qMtxhqRuMtF6edF3Lk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bajke0ThKJ2V2iHE9DDYOJGdS7a.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xfmmXlnSsVk0b4umaSpG7Tfnlxk.png",
+  "titulo": "El esquema Fenicio",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Aventura",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.491,
+  "año": "2025",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "El magnate Zsa-zsa Korda es un rico empresario europeo que se ve envuelto en una trama de espionaje junto a su hija Liesl, una monja con la que mantiene una relación difícil y a la quiere dejar el negocio familiar.",
+  "fecha_estreno": "2025-05-23",
+  "titulo_original": "The Phoenician Scheme",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Benicio del Toro",
+      "personaje": "Zsa-zsa Korda",
+      "foto": "https://image.tmdb.org/t/p/w500/aYomJWx0B2B8ra6Rmgt8lr0XCrw.jpg"
+    },
+    {
+      "nombre": "Mia Threapleton",
+      "personaje": "Sister Liesl",
+      "foto": "https://image.tmdb.org/t/p/w500/e7nskqaIMmSk6Zx9QADZ0EliwxE.jpg"
+    },
+    {
+      "nombre": "Michael Cera",
+      "personaje": "Bjorn Lund",
+      "foto": "https://image.tmdb.org/t/p/w500/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
+    },
+    {
+      "nombre": "Riz Ahmed",
+      "personaje": "Prince Farouk",
+      "foto": "https://image.tmdb.org/t/p/w500/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+    },
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Leland",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Bryan Cranston",
+      "personaje": "Reagan",
+      "foto": "https://image.tmdb.org/t/p/w500/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg"
+    },
+    {
+      "nombre": "Mathieu Amalric",
+      "personaje": "Marseille Bob",
+      "foto": "https://image.tmdb.org/t/p/w500/fMhfoTbjlXQy2Iojp7oYx49hLQl.jpg"
+    },
+    {
+      "nombre": "Richard Ayoade",
+      "personaje": "Sergio",
+      "foto": "https://image.tmdb.org/t/p/w500/qHKoy9kP4bsv4G9EkvU4FMUmYkS.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Wes Anderson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Wes Anderson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Steven M. Rales",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeremy Dawson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Peet",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Wes Anderson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Roman Coppola",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Wes Anderson",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bruno Delbonnel",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Adam Stockhausen",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Gerd Nefzer",
+      "rol": "Special Effects Supervisor"
+    },
+    {
+      "nombre": "Anna Pinnock",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Chapman C.H. Kan",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Alexios Chrysikos",
+      "rol": "Concept Artist"
+    },
+    {
+      "nombre": "Hugh Sicotte",
+      "rol": "Concept Artist"
+    },
+    {
+      "nombre": "Alexandre Desplat",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tom Rye",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Valentino Giannì",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Esther Schreiner",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Neneh Lucia",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Wes Anderson",
+  "valoraciones": {
+    "tmdb": 6.491,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "American Empirical Pictures",
+  "enlace_video": "https://vidhidepro.com/v/kjdr4zkel8np",
+  "trailer": "https://www.youtube.com/watch?v=syw9tCYSGz8"
+}
