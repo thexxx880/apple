@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 926606,
+  "poster": "https://image.tmdb.org/t/p/w500/qyGY1k5GqAORsVhfZA3gFKirZWD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Lu57GTE24Ja5O61jieY2aIBk8d.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iHSSvMUY1ZtilYNkdgJdUFlHULx.png",
+  "titulo": "The Home",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.869,
+  "año": "2025",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2025-07-24",
+  "titulo_original": "The Home",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Pete Davidson",
+      "personaje": "Max",
+      "foto": "https://image.tmdb.org/t/p/w500/f3kubnZu3KgMniExcq9nJy8RwjW.jpg"
+    },
+    {
+      "nombre": "John Glover",
+      "personaje": "Lou",
+      "foto": "https://image.tmdb.org/t/p/w500/aPmq20MXqFALrUxaaJoC2Xonumo.jpg"
+    },
+    {
+      "nombre": "Mugga",
+      "personaje": "Juno",
+      "foto": "https://image.tmdb.org/t/p/w500/d4VSQrzuet6xILIHyFQsZR59mP4.jpg"
+    },
+    {
+      "nombre": "Adam Cantor",
+      "personaje": "Les",
+      "foto": "https://image.tmdb.org/t/p/w500/yGSFFyU7RBDXrstZyl1qD2vc0qA.jpg"
+    },
+    {
+      "nombre": "Bruce Altman",
+      "personaje": "Doc Sabian",
+      "foto": "https://image.tmdb.org/t/p/w500/n5y8Mg572LGT3eHyeZaa9NMMlAN.jpg"
+    },
+    {
+      "nombre": "Denise Burse",
+      "personaje": "Sadie",
+      "foto": "https://image.tmdb.org/t/p/w500/i1DM3WnFGIOIA7pel81Btxw4aqJ.jpg"
+    },
+    {
+      "nombre": "Stuart Rudin",
+      "personaje": "Screaming Man",
+      "foto": "https://image.tmdb.org/t/p/w500/2jhEJ2zLnRL0iuG5i3fYw4FObgl.jpg"
+    },
+    {
+      "nombre": "Ethan Phillips",
+      "personaje": "Ethan",
+      "foto": "https://image.tmdb.org/t/p/w500/npr6XzOaGJauOBV1ydaqmX6T5hl.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sébastien K. Lemercier",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James DeMonaco",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Bill Block",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James DeMonaco",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Adam Cantor",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nathan Whitehead",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John Ort",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Anne Davison",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Thom Zadra",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brett A. Calvo",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Shelly Rodriguez",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Daniel Hank",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Todd E. Miller",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Kathleen Chopin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Anastas N. Michos",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mary Lena Colston",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ava Yuriko Hama",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "James DeMonaco",
+  "valoraciones": {
+    "tmdb": 6.869,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Miramax",
+  "enlace_video": "",
+  "trailer": "https://www.youtube.com/watch?v=EVjvYF_geAU"
+}
