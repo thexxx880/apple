@@ -413,14 +413,17 @@ async function showPlayerModal(data, id) {
     return;
   }
 
-  // 🚀 NUEVA LÓGICA: Interceptar Streamwish
-  // Si el enlace contiene "streamwish.to", lo abre directo sin el custom player
-  if (videoUrl.includes('streamwish.to')) {
+  // 🚀 NUEVA LÓGICA: Detectar si es MP4 o M3U8
+  const urlEnMinusculas = videoUrl.toLowerCase();
+  const esReproducible = urlEnMinusculas.includes('.mp4') || urlEnMinusculas.includes('.m3u8');
+
+  if (!esReproducible) {
+    // Si NO es un video directo, abre la URL tal cual la encontró
     window.location.href = videoUrl;
     return; // Detiene la ejecución para no mostrar el modal
   }
 
-  // Si no es Streamwish (ej. mp4 o m3u8), continúa con la lógica normal
+  // Si SI es mp4 o m3u8, continúa con la lógica normal en el modal
   window.currentMovieData = {
     video: videoUrl,
     poster: data.backdrop || data.poster,
@@ -435,7 +438,7 @@ function closeModal() {
 }
 
 // ================== ABRIR PLAYER EN LA MISMA PÁGINA ==================
-function openPlayer(option) {
+function openPlayer() {
   const d = window.currentMovieData;
   if (!d || !d.video) {
     showToast('No hay enlace de video disponible', 'fa-exclamation-triangle');
@@ -446,19 +449,17 @@ function openPlayer(option) {
   closeModal();
 
   // 🚀 REDUNDANCIA DE SEGURIDAD
-  // Por si acaso el flujo llega hasta aquí con un link de Streamwish
-  if (d.video.includes('streamwish.to')) {
+  // Por si acaso el flujo llega hasta aquí con un link que no sea mp4 o m3u8
+  const urlEnMinusculas = d.video.toLowerCase();
+  const esReproducible = urlEnMinusculas.includes('.mp4') || urlEnMinusculas.includes('.m3u8');
+  
+  if (!esReproducible) {
     window.location.href = d.video;
     return;
   }
 
-  // Comportamiento normal para tus reproductores
-  let url = '';
-  if (option === 1) {
-    url = `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
-  } else if (option === 2) {
-    url = `https://lzrdrz10.github.io/premiumplayer/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
-  }
+  // Comportamiento normal usando SOLO el reproductor principal
+  const url = `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
 
   // Abre en la misma página (pantalla completa del reproductor)
   window.location.href = url;
