@@ -1,0 +1,116 @@
+{
+  "id_tmdb": 296870,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/cvuNkbVcGwvZyRmeIqmePO9nxwV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cXPaWWolacjHHKYvLlpOQ0j8o0X.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/arZT3ijbxasOMQxBvX4jsSWUxfr.png",
+  "titulo": "神の庭付き楠木邸",
+  "titulo_original": "神の庭付き楠木邸",
+  "fecha_estreno": "2026-04-05",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.333,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "坂田将吾",
+      "personaje": "Minato Kusunoki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fRRPNBz3OCNRdmLdUTdpq7dGqxM.jpg"
+    },
+    {
+      "nombre": "藤真秀",
+      "personaje": "Yamagami (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8fXdQIi2fyRydEMdOb26ogXHe8P.jpg"
+    },
+    {
+      "nombre": "梅原裕一郎",
+      "personaje": "Saiga Harima (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lScrvZi4tKKpk3PbnIjLVjHVNJn.jpg"
+    },
+    {
+      "nombre": "徳留慎乃佑",
+      "personaje": "Seri (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nt57RoIE4SuAslb4BNIXVoYxGwO.jpg"
+    },
+    {
+      "nombre": "小市眞琴",
+      "personaje": "Utsugi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2HhTnfV6x5nStC7zBnBqgh7r3HY.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "坪根健太郎",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "小林雄次",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "井ノ上ユウ子",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "野間千賀子",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "富崎杏奈",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "内藤健",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "滝口勝久",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "佐々木梓",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "菊田浩巳",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "小原吉男",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "阿部智佳子",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "佐藤理緒",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "R・O・N",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "山内遼",
+      "rol": "Assistant Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.333,
+    "imdb": "tt17351512",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=3FxoxWjrrVg"
+}
