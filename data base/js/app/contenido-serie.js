@@ -338,8 +338,8 @@ function renderEpisodes(episodes, seasonNumber, seasonBackdrop) {
             const isNativeVideo = urlToCheck.includes('.mp4') || urlToCheck.includes('.m3u8');
 
             if (!isNativeVideo) {
-                // Si la URL NO es mp4 ni m3u8, abrirla en una nueva pestaña y no mostrar modal
-                window.open(ep.video_url, '_blank');
+                // Si la URL NO es mp4 ni m3u8, redirigir en la MISMA pestaña
+                window.location.href = ep.video_url;
                 return; // Cortar ejecución aquí para evitar abrir el reproductor interno
             }
 
