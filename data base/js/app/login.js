@@ -127,67 +127,6 @@ mainBtn.onclick = async () => {
   }
 };
 
-// ================== GOOGLE ==================
-document.getElementById("googleBtn").onclick = async () => {
-
-  try {
-
-    loading.style.display = "block";
-
-    const provider =
-      new firebase.auth.GoogleAuthProvider();
-
-    provider.setCustomParameters({
-      prompt: "select_account"
-    });
-
-    const result =
-      await auth.signInWithPopup(provider);
-
-    showToast(
-      "Inicio con Google exitoso",
-      "fa-check-circle",
-      "#46d369"
-    );
-
-  } catch (error) {
-
-    console.error(error);
-
-    if (
-      error.code ===
-      "auth/operation-not-supported-in-this-environment"
-    ) {
-
-      showToast(
-        "Google Login requiere navegador externo",
-        "fa-circle-info",
-        "#4ea1ff"
-      );
-
-      setTimeout(() => {
-
-        window.location.href =
-          "https://accounts.google.com";
-
-      }, 1000);
-
-    } else {
-
-      showToast(
-        error.message,
-        "fa-exclamation-triangle",
-        "#ff4444"
-      );
-    }
-
-  } finally {
-
-    loading.style.display = "none";
-
-  }
-};
-
 // ================== OLVIDASTE CONTRASEÑA ==================
 document.getElementById("forgotPassword").onclick = async () => {
   const emailValue = emailInput.value.trim();
@@ -217,4 +156,4 @@ auth.onAuthStateChanged(async (user) => {
   }
 });
 
-console.log("%c✅ Login actualizado - Sin auto-redirect", "color:#46d369;font-weight:bold");
+console.log("%c✅ Login actualizado - Sin Google y Sin auto-redirect", "color:#46d369;font-weight:bold");
