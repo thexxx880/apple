@@ -33,17 +33,14 @@ async function getVideoLink(id) {
 
     let enlace = null;
 
-    // Soporta ambos formatos: "enlace" y "enlaces"
+    // Soporta ambos formatos y devuelve el array completo si hay varios enlaces
     if (entry.enlace) {
       enlace = entry.enlace;
-      console.log(`🎥 Enlace cargado desde "enlace" (singular) → ID ${id}`);
+      console.log(`🎥 Enlace cargado desde "enlace" → ID ${id}`);
     } 
-    else if (entry.enlaces && Array.isArray(entry.enlaces) && entry.enlaces.length > 0) {
-      enlace = entry.enlaces[0];   // Toma el primer enlace del array
-      console.log(`🎥 Enlace cargado desde "enlaces" (array) → ID ${id}`);
-    } 
-    else if (entry.enlaces && typeof entry.enlaces === 'string') {
-      enlace = entry.enlaces;      // Por si alguien puso un string en vez de array
+    else if (entry.enlaces) {
+      enlace = entry.enlaces;
+      console.log(`🎥 Enlace cargado desde "enlaces" → ID ${id}`);
     }
 
     if (enlace) {
@@ -400,6 +397,51 @@ function playTrailer(data) {
   document.body.insertAdjacentHTML('beforeend', modalHtml);
 }
 
+// ================== EXTRAER NOMBRE DEL SERVIDOR ==================
+function getServerName(url) {
+  const urlLower = url.toLowerCase();
+  if (urlLower.includes('vidhide')) return 'VidHide';
+  if (urlLower.includes('streamwish')) return 'StreamWish';
+  if (urlLower.includes('voe')) return 'Voe';
+  if (urlLower.includes('filemoon')) return 'Filemoon';
+  if (urlLower.includes('dood')) return 'DoodStream';
+  
+  try {
+    const host = new URL(url).hostname.replace('www.', '');
+    const name = host.split('.')[0];
+    return name.charAt(0).toUpperCase() + name.slice(1);
+  } catch(e) {
+    return 'Externo';
+  }
+}
+
+// ================== MODAL DE SELECCIÓN DE SERVIDORES ==================
+function showServerSelectionModal(linksArray) {
+  let buttonsHtml = linksArray.map(link => {
+    const serverName = getServerName(link);
+    return `
+      <button onclick="window.location.href='${link}'" 
+              style="display:flex;align-items:center;justify-content:center;gap:10px;width:100%;margin-bottom:12px;padding:16px;background:#2a2a2a;color:white;border:1px solid #444;border-radius:10px;font-size:1.1rem;font-weight:bold;cursor:pointer;transition:all 0.2s;"
+              onmouseover="this.style.background='#4f7cff';this.style.borderColor='#4f7cff'"
+              onmouseout="this.style.background='#2a2a2a';this.style.borderColor='#444'">
+        <i class="fa-solid fa-play"></i> Server (${serverName})
+      </button>`;
+  }).join('');
+
+  const modalHtml = `
+    <div class="modal-servers" style="position:fixed;inset:0;background:rgba(0,0,0,0.85);backdrop-filter:blur(5px);display:flex;align-items:center;justify-content:center;z-index:99999;">
+      <div style="position:relative;width:90%;max-width:400px;background:#141414;border:1px solid #333;border-radius:16px;padding:30px;box-shadow:0 10px 40px rgba(0,0,0,0.8);">
+        <button onclick="this.closest('.modal-servers').remove()"
+                style="position:absolute;top:15px;right:20px;color:#888;font-size:1.8rem;background:none;border:none;cursor:pointer;">✕</button>
+        <h3 style="color:white;margin-top:0;margin-bottom:25px;text-align:center;font-size:1.4rem;font-weight:600;">Opciones de Reproducción</h3>
+        ${buttonsHtml}
+      </div>
+    </div>
+  `;
+  document.querySelectorAll('.modal-servers').forEach(m => m.remove());
+  document.body.insertAdjacentHTML('beforeend', modalHtml);
+}
+
 // ================== PLAYER MODAL (Opciones) ==================
 async function showPlayerModal(data, id) {
   const modal = document.getElementById('playerModal');
@@ -407,23 +449,30 @@ async function showPlayerModal(data, id) {
     console.error("Modal #playerModal no encontrado");
     return;
   }
-  const videoUrl = await getVideoLink(id);
-  if (!videoUrl) {
+  const videoData = await getVideoLink(id);
+  if (!videoData) {
     showToast('❌ No se encontró enlace de video para este contenido', 'fa-exclamation-triangle');
     return;
   }
 
-  // 🚀 NUEVA LÓGICA: Detectar si es MP4 o M3U8
+  // SI SON VARIOS ENLACES: Muestra el modal con los botones de cada servidor
+  if (Array.isArray(videoData) && videoData.length > 1) {
+    showServerSelectionModal(videoData);
+    return;
+  }
+
+  // SI ES UN SOLO ENLACE: Procede con la lógica normal
+  const videoUrl = Array.isArray(videoData) ? videoData[0] : videoData;
   const urlEnMinusculas = videoUrl.toLowerCase();
   const esReproducible = urlEnMinusculas.includes('.mp4') || urlEnMinusculas.includes('.m3u8');
 
   if (!esReproducible) {
-    // Si NO es un video directo, abre la URL tal cual la encontró
+    // Si NO es un video directo mp4/m3u8, abre la URL externa
     window.location.href = videoUrl;
-    return; // Detiene la ejecución para no mostrar el modal
+    return; 
   }
 
-  // Si SI es mp4 o m3u8, continúa con la lógica normal en el modal
+  // Si SI es mp4 o m3u8, carga la info en memoria y abre tu modal original
   window.currentMovieData = {
     video: videoUrl,
     poster: data.backdrop || data.poster,
@@ -449,7 +498,6 @@ function openPlayer() {
   closeModal();
 
   // 🚀 REDUNDANCIA DE SEGURIDAD
-  // Por si acaso el flujo llega hasta aquí con un link que no sea mp4 o m3u8
   const urlEnMinusculas = d.video.toLowerCase();
   const esReproducible = urlEnMinusculas.includes('.mp4') || urlEnMinusculas.includes('.m3u8');
   
