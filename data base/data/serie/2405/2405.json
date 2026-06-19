@@ -1,0 +1,68 @@
+{
+  "id_tmdb": 2405,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/obbdeoOk8XSXzJrWGiBbaeMMSMl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/tZPxvddk59GhIA8yxjQpLGVRQ2R.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/lmAc8N9C1lFBJ5RehFuJc6PxGqz.png",
+  "titulo": "Johnny Bravo",
+  "titulo_original": "Johnny Bravo",
+  "fecha_estreno": "1997-07-07",
+  "duracion": "24min",
+  "año": "1997",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 7.284,
+  "sinopsis": "Johnny Bravo es una serie de dibujos animados sobre una persona inocentemente engreída, que persigue a todas las mujeres que pasan por su lado. Busca constantemente una mujer que esté dispuesta a quedar con él, pero incluso cuando parece que encuentra una, las cosas salen mal. Johnny Bravo se parece a Elvis Presley excepto por su pelo rubio y es tremendamente narcisista. Vive en una ciudad ficticia llamada Aron City.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Johnny Bravo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "Brenda Vaccaro",
+      "personaje": "Bunny Bravo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p2DWvZUUX9iucoBAnccdRg0mPLv.jpg"
+    },
+    {
+      "nombre": "Mae Whitman",
+      "personaje": "Little Suzy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oy89WyETM8T3Z4aRJb2EnmqZ7A3.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Carl Chryniszzswics (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Kara Vallow",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Miles Thompson",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Kara Vallow",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.284,
+    "imdb": "tt0118360",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=Lgz9atmrc3s"
+}
