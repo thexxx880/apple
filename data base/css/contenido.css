@@ -118,17 +118,30 @@ html {
   border: 1.5px solid rgba(255, 255, 255, 0.4);
   color: rgba(255, 255, 255, 0.8);
 }
+
+/* Modificación del Contenedor del Logo */
 .hero-logo {
-  max-width: 520px;
-  width: 40%;
-  margin-bottom: 12px;
-}
-.hero-logo img {
-  width: 160%;
+  width: 100%;
+  max-width: 480px; 
   height: auto;
+  max-height: 220px; 
+  margin-bottom: 16px;
+  display: flex;
+  align-items: flex-end; 
+  justify-content: flex-start;
+}
+
+.hero-logo img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 220px; 
+  object-fit: contain; 
+  object-position: left bottom; 
   display: block;
   filter: drop-shadow(0 10px 40px rgba(0, 0, 0, 0.7));
 }
+
 .hero-meta {
   display: flex;
   align-items: center;
