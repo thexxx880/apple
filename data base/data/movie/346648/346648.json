@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 346648,
+  "poster": "https://image.tmdb.org/t/p/w500/r6Vg1xxFqaORvw4GuOLnxQAeVhV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/zH0U0qCB8fOq3UEvbOJKgI3sFGK.png",
+  "titulo": "Paddington 2",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.479,
+  "año": "2017",
+  "duracion": "1h 44min",
+  "edad_minima": 13,
+  "sinopsis": "Paddington, ahora felizmente establecido con los Brown, realiza una serie de trabajos ocasionales para comprar el regalo perfecto para su tía Lucy, pero se lo roban.",
+  "fecha_estreno": "2017-11-09",
+  "titulo_original": "Paddington 2",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Ben Whishaw",
+      "personaje": "Paddington Brown (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sgZXPptHQLzKJknF6SKLl7HRiu8.jpg"
+    },
+    {
+      "nombre": "Sally Hawkins",
+      "personaje": "Mary Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/1dtDq82dM2YQ17lBL4ZKPJo5LKw.jpg"
+    },
+    {
+      "nombre": "Hugh Bonneville",
+      "personaje": "Henry Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/skbxj8MUuNiI39ZkP38uEirU0bC.jpg"
+    },
+    {
+      "nombre": "Madeleine Harris",
+      "personaje": "Judy Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/tvwnWhlM2M8RTOnnHc2wU7aE3yw.jpg"
+    },
+    {
+      "nombre": "Samuel Joslin",
+      "personaje": "Jonathan Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/gXthNRK0BN9IqXnhKIc4glxOB7P.jpg"
+    },
+    {
+      "nombre": "Julie Walters",
+      "personaje": "Mrs. Bird",
+      "foto": "https://image.tmdb.org/t/p/w500/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+    },
+    {
+      "nombre": "Hugh Grant",
+      "personaje": "Phoenix Buchanan",
+      "foto": "https://image.tmdb.org/t/p/w500/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+    },
+    {
+      "nombre": "Imelda Staunton",
+      "personaje": "Aunt Lucy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/96LYLMnUOWZ4DFXEeQPItNsxzEP.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Paul King",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paul King",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Simon Farnaby",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Heyman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jon Croker",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Mark Burton",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Will Smith",
+      "rol": "Additional Writing"
+    },
+    {
+      "nombre": "Alexander T.H. Browne",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Phil Bull",
+      "rol": "Standby Property Master"
+    },
+    {
+      "nombre": "Tolga Kenan",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Eleri Coulten",
+      "rol": "Location Manager"
+    },
+    {
+      "nombre": "Amie Tridgell",
+      "rol": "Location Manager"
+    },
+    {
+      "nombre": "Robert Campbell",
+      "rol": "Location Manager"
+    },
+    {
+      "nombre": "Vicky Ralph",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "Richard Symons",
+      "rol": "Prop Maker"
+    },
+    {
+      "nombre": "Sanaz Missaghian",
+      "rol": "Costume Coordinator"
+    },
+    {
+      "nombre": "Joanne Ridler",
+      "rol": "Standby Art Director"
+    },
+    {
+      "nombre": "Lorna Houlihan",
+      "rol": "Assistant Art Director"
+    }
+  ],
+  "director": "Paul King",
+  "valoraciones": {
+    "tmdb": 7.479,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "StudioCanal",
+  "enlace_video": "https://streamwish.to/e/ag0z0xenq4ec",
+  "trailer": "https://www.youtube.com/watch?v=07Um1PY_P4o"
+}
