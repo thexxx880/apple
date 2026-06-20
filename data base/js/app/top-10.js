@@ -6,7 +6,8 @@ document.addEventListener('DOMContentLoaded', function () {
     if (container) container.style.display = 'block';
 
     const TMDB_API_KEY = '38e497c6c1a043d1341416e80915669f';
-    const JSON_URL = 'https://raw.githubusercontent.com/thexxx880/API/main/content/API/JSON/list-movie.JSON';
+    // Se utiliza el enlace "raw" de GitHub para que devuelva un JSON válido
+    const JSON_URL = 'https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/data/base/base.json';
     const listContainer = document.getElementById('lzplay-top10-list');
     const outerContainer = document.querySelector('.lzplay-top10-netflix .outer_container');
 
@@ -82,7 +83,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
         movies.forEach((movie, index) => {
             const rank = index + 1;
-            const hasVideo = videoData[movie.id] || videoData[String(movie.id)];
+            // Se comprueba si el ID de la película existe en el nuevo JSON
+            const targetUrl = videoData[movie.id] || videoData[String(movie.id)];
+            const hasVideo = !!targetUrl; // true si existe el ID en tu base.json
+            
             const poster = movie.poster_path 
                 ? `https://image.tmdb.org/t/p/w500${movie.poster_path}` 
                 : 'https://via.placeholder.com/300x450?text=No+Image';
@@ -195,29 +199,25 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // ==================== ABRIR PLAYER ====================
     function openPlayer(movie, videoData) {
-        const movieInfo = videoData[movie.id] || videoData[String(movie.id)];
-        if (!movieInfo) {
+        // Se extrae directamente la URL desde el JSON utilizando el ID de TMDB
+        const targetUrl = videoData[movie.id] || videoData[String(movie.id)];
+        
+        if (!targetUrl) {
             const modal = document.getElementById('lzplay-modal');
             if (modal) modal.style.display = 'flex';
             return;
         }
 
-        const videoUrl = movieInfo.enlace;
-        const backdrop = movie.backdrop_path 
-            ? `https://image.tmdb.org/t/p/w1280${movie.backdrop_path}` 
-            : `https://image.tmdb.org/t/p/w780${movie.poster_path}`;
-
-        const playerUrl = `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(videoUrl)}&poster=${encodeURIComponent(backdrop)}&title=${encodeURIComponent(movie.title)}`;
-
+        // Se redirige al usuario al enlace guardado en el JSON
         const tryLandscape = () => {
             if (screen.orientation && screen.orientation.lock) {
                 document.documentElement.requestFullscreen().then(() => {
                     screen.orientation.lock('landscape').catch(() => {});
                 }).finally(() => {
-                    window.location.href = playerUrl;
+                    window.location.href = targetUrl;
                 });
             } else {
-                window.location.href = playerUrl;
+                window.location.href = targetUrl;
             }
         };
 
