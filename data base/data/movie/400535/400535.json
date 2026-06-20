@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 400535,
+  "poster": "https://image.tmdb.org/t/p/w500/ySqkGvL7TS9U3u6rtaVZsd89wU5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/13VjjUeJ6mcDUB36XRu4YFpYNSm.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9ifWdE0qyihDCJjRGqioI11jJw6.png",
+  "titulo": "Sicario: El Día Del Soldado",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.944,
+  "año": "2018",
+  "duracion": "2h 2min",
+  "edad_minima": 13,
+  "sinopsis": "La guerra contra las drogas en la frontera de EUA y México ha escalado y los carteles están pasando terroristas a través de la frontera. Para luchar en esta guerra, el agente federal Matt Graver debe trabajar con el volátil Alejandro.",
+  "fecha_estreno": "2018-06-27",
+  "titulo_original": "Sicario: Day of the Soldado",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Benicio del Toro",
+      "personaje": "Alejandro Gillick",
+      "foto": "https://image.tmdb.org/t/p/w500/aYomJWx0B2B8ra6Rmgt8lr0XCrw.jpg"
+    },
+    {
+      "nombre": "Josh Brolin",
+      "personaje": "Matt Graver",
+      "foto": "https://image.tmdb.org/t/p/w500/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "nombre": "Isabela Merced",
+      "personaje": "Isabel Reyes",
+      "foto": "https://image.tmdb.org/t/p/w500/4SolFI9dwyPm6BXcb3PDcOYzSEl.jpg"
+    },
+    {
+      "nombre": "Jeffrey Donovan",
+      "personaje": "Steve Forsing",
+      "foto": "https://image.tmdb.org/t/p/w500/wlDXfXpu6Uz32LUmbFzU8QPDoQH.jpg"
+    },
+    {
+      "nombre": "Catherine Keener",
+      "personaje": "Cynthia Foards",
+      "foto": "https://image.tmdb.org/t/p/w500/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+    },
+    {
+      "nombre": "Manuel Garcia-Rulfo",
+      "personaje": "Gallo",
+      "foto": "https://image.tmdb.org/t/p/w500/54Rk1hKfNdNKGHQMnONDGmNtUv3.jpg"
+    },
+    {
+      "nombre": "Matthew Modine",
+      "personaje": "Secretary of Defense James Riley",
+      "foto": "https://image.tmdb.org/t/p/w500/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+    },
+    {
+      "nombre": "Shea Whigham",
+      "personaje": "Andy Wheeldon",
+      "foto": "https://image.tmdb.org/t/p/w500/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Taylor Sheridan",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Stefano Sollima",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Thad Luckinbill",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Molly Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Trent Luckinbill",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Edward McDonnell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Basil Iwanyk",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Erica Lee",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gary Archer",
+      "rol": "Prosthetics"
+    },
+    {
+      "nombre": "Ed Duran",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Ed Duran",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Mickey Giacomazzi",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Allan Padelford",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Tóti Guðnason",
+      "rol": "Musician"
+    },
+    {
+      "nombre": "Thomas Rosales Jr.",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Carlos Y. Jacques",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Kevin Kavanaugh",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Marisa Frantz",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Richard Middleton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jo Edna Boldin",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Stefano Sollima",
+  "valoraciones": {
+    "tmdb": 6.944,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Thunder Road",
+  "enlace_video": "https://vimeos.net/embed-2pyge7kfm4i8.html",
+  "trailer": "https://www.youtube.com/watch?v=QW-0hZZr8qA"
+}
