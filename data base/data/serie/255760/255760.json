@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 255760,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ryvkioE754XooFO16s9SZyHZulu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uTjjlqLdhRppddN4eCjMZlp387z.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/6C3FgDUaoUTwQNCUxZ5wn42Um5a.png",
+  "titulo": "Kevin",
+  "titulo_original": "Kevin",
+  "fecha_estreno": "2026-04-20",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 5.818,
+  "sinopsis": "Tras la inesperada ruptura de sus dueños, Kevin llega a un refugio en Astoria, Queens. Entre un caótico grupo de inadaptados, vivirá una historia divertida y entrañable sobre pertenencia y descubrir lo que realmente quiere en la vida.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jason Schwartzman",
+      "personaje": "Kevin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+    },
+    {
+      "nombre": "Amy Sedaris",
+      "personaje": "Brandi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iQClumvSfTHgysxSofFmcLXmkCc.jpg"
+    },
+    {
+      "nombre": "Aparna Nancherla",
+      "personaje": "Judy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vwpktqJnQCAGEfq2EKUjB8ZdnhI.jpg"
+    },
+    {
+      "nombre": "Gil Ozeri",
+      "personaje": "Seth (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nCQ26myxkz5cq3RLTnBR1fRhJZm.jpg"
+    },
+    {
+      "nombre": "Aubrey Plaza",
+      "personaje": "Dana (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ejtGfjOAvUHBdVc3xTIV1HtJBi9.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Dan Murphy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aubrey Plaza",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joe Wengert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shannon Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Antonio Canobbio",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dan Murphy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aubrey Plaza",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joe Wengert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shannon Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Antonio Canobbio",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Kalina",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alison Bennett",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jess Dweck",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Marcy Jarreau",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jennifer Ray",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Robbee Jones",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jake Reeves",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Dan Romer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Linda Lamontagne",
+      "rol": "Original Casting"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.818,
+    "imdb": "tt32499838",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Animations Adult, Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=IXm8fiqUork"
+}
