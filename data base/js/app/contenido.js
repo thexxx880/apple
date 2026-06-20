@@ -400,6 +400,34 @@ function playTrailer(data) {
 
 // ================== VALIDACIÓN Y APERTURA DE ENLACES ==================
 
+// 🔥 NUEVA FUNCIÓN: Extrae automáticamente el nombre del servidor según la URL
+function getServerName(url) {
+  const urlLower = url.toLowerCase();
+  
+  // 1. Excepción para mp4 y m3u8 (Archivos directos)
+  if (urlLower.includes('.mp4') || urlLower.includes('.m3u8')) {
+    return 'Lz';
+  }
+  
+  // 2. Detección rápida de dominios comunes
+  if (urlLower.includes('vidhide')) return 'VidHide';
+  if (urlLower.includes('streamwish')) return 'StreamWish';
+  if (urlLower.includes('voe')) return 'Voe';
+  if (urlLower.includes('filemoon')) return 'Filemoon';
+  if (urlLower.includes('dood')) return 'DoodStream';
+  if (urlLower.includes('uqload')) return 'Uqload';
+  if (urlLower.includes('mixdrop')) return 'MixDrop';
+  
+  // 3. Fallback genérico: Extraer el dominio base de la URL
+  try {
+    const host = new URL(url).hostname.replace('www.', '');
+    const name = host.split('.')[0];
+    return name.charAt(0).toUpperCase() + name.slice(1); // Capitaliza la primera letra
+  } catch(e) {
+    return 'Externo';
+  }
+}
+
 async function showPlayerModal(data, id) {
   const videoData = await getVideoLink(id);
 
@@ -408,34 +436,25 @@ async function showPlayerModal(data, id) {
     return;
   }
 
-  // Convertir a un array para procesarlo independientemente si viene 1 o varios
+  // Convertir a un array para procesarlo de manera uniforme (1 o varios enlaces)
   const linksArray = Array.isArray(videoData) ? videoData : [videoData];
 
-  // Filtrar solo los enlaces que son reproducciones directas (mp4/m3u8)
-  const directLinks = linksArray.filter(link => {
-    const urlLower = link.toLowerCase();
-    return urlLower.includes('.mp4') || urlLower.includes('.m3u8');
-  });
-
-  if (directLinks.length > 0) {
-    // Si contiene archivos directos, mostrar las opciones del Servidor Lz
-    showLzServerModal(directLinks);
-  } else {
-    // Si no es un formato directo (ej. embed), abrir de una vez sin modal
-    window.location.href = linksArray[0];
-  }
+  // 🔥 Ahora cargamos absolutamente TODAS las URLs al modal, sin filtrar
+  showServerModal(linksArray);
 }
 
-// ================== MODAL DE SELECCIÓN DE SERVIDORES (Lz) ==================
+// ================== MODAL DE SELECCIÓN DE SERVIDORES ==================
 
-function showLzServerModal(linksArray) {
+function showServerModal(linksArray) {
+  // Generar botones dinámicamente con su respectivo nombre de servidor
   let buttonsHtml = linksArray.map((link, index) => {
+    const serverName = getServerName(link);
     return `
       <button onclick="window.location.href='${link}'" 
               style="display:flex;align-items:center;justify-content:center;gap:10px;width:100%;margin-bottom:12px;padding:16px;background:#2a2a2a;color:white;border:1px solid #444;border-radius:10px;font-size:1.1rem;font-weight:bold;cursor:pointer;transition:all 0.2s;"
               onmouseover="this.style.background='#4f7cff';this.style.borderColor='#4f7cff'"
               onmouseout="this.style.background='#2a2a2a';this.style.borderColor='#444'">
-        <i class="fa-solid fa-play"></i> Opción ${index + 1} - Server (Lz)
+        <i class="fa-solid fa-play"></i> Opción ${index + 1} - Server (${serverName})
       </button>`;
   }).join('');
 
