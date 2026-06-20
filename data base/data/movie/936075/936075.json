@@ -1,7 +1,7 @@
 {
   "id_tmdb": 936075,
   "poster": "https://image.tmdb.org/t/p/w500/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
   "logo": "https://image.tmdb.org/t/p/w300/6Q34kuByPGmsocjjbkn1DOaccz4.png",
   "titulo": "Michael",
   "trending": false,
@@ -10,7 +10,7 @@
     "Drama"
   ],
   "calificacion": "PG-13",
-  "puntuacion": 8.321,
+  "puntuacion": 8.651,
   "año": "2026",
   "duracion": "2h 8min",
   "edad_minima": 13,
@@ -22,7 +22,7 @@
     {
       "nombre": "Jaafar Jackson",
       "personaje": "Michael Jackson",
-      "foto": "https://image.tmdb.org/t/p/w500/tVSzFjQxOrLOcvnzFto0772Q9Bw.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/6en5eNRTDUkqyHEZwgWCgGyzcG6.jpg"
     },
     {
       "nombre": "Colman Domingo",
@@ -70,12 +70,12 @@
       "rol": "Producer"
     },
     {
-      "nombre": "John Logan",
-      "rol": "Writer"
-    },
-    {
       "nombre": "Graham King",
       "rol": "Producer"
+    },
+    {
+      "nombre": "John Logan",
+      "rol": "Writer"
     },
     {
       "nombre": "Antoine Fuqua",
@@ -92,16 +92,16 @@
       "rol": "Production Design"
     },
     {
-      "nombre": "David B. Householter",
-      "rol": "Executive Producer"
-    },
-    {
       "nombre": "Carla Farmer",
       "rol": "Hair Department Head"
     },
     {
       "nombre": "Bill Corso",
       "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "David B. Householter",
+      "rol": "Executive Producer"
     },
     {
       "nombre": "Roberto De Angelis",
@@ -134,11 +134,11 @@
   ],
   "director": "Antoine Fuqua",
   "valoraciones": {
-    "tmdb": 8.321,
+    "tmdb": 8.651,
     "imdb": null,
     "rotten_tomatoes": null
   },
   "distribuidora": "Lionsgate",
-  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/25/s8/2/w/C/I/i/wCIiA.aaa.mp4",
+  "enlace_video": "https://streamwish.to/e/ug5x2vpj2hk8",
   "trailer": "https://www.youtube.com/watch?v=k-YAcjaLuSI"
 }
