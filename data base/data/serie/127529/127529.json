@@ -1,0 +1,54 @@
+{
+  "id_tmdb": 127529,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/pWzp4HpDifuyNF8zkPIy8MKCg2d.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/eVNuCGDDXiDBpBcTRA56uoLPt1m.png",
+  "titulo": "Sabuesos",
+  "titulo_original": "사냥개들",
+  "fecha_estreno": "2023-06-09",
+  "duracion": "61min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Action & Adventure",
+    "Crimen"
+  ],
+  "puntuacion": 8.485,
+  "sinopsis": "Dos jóvenes boxeadores unen fuerzas con un benévolo prestamista para destruir a un despiadado usurero que se aprovecha de los más vulnerables.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "우도환",
+      "personaje": "Kim Gun-woo",
+      "foto": "https://image.tmdb.org/t/p/w500/6r1yIpHLmoIqujKv9KQeZPEUhXy.jpg"
+    },
+    {
+      "nombre": "이상이",
+      "personaje": "Hong Woo-jin",
+      "foto": "https://image.tmdb.org/t/p/w500/4OSOux7D8ZIbNsA7eINSwmHM9nb.jpg"
+    },
+    {
+      "nombre": "비",
+      "personaje": "Im Baek-jeong",
+      "foto": "https://image.tmdb.org/t/p/w500/aXOjIBUxu7fmBOxTJcgYmtTKD1D.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "김주환",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.485,
+    "imdb": "tt26315487",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=eyiR8pO50JE"
+}
