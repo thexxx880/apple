@@ -1,0 +1,90 @@
+{
+  "id_tmdb": 245328,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/h5ie5WyR4kvQBs93TigxjRjLRlr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ldCadzOdqjjIYdUlhVCBYSiTwB9.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nUdZgltKyswIC86cenkuaRdxojq.png",
+  "titulo": "Margarita: Que tu cuento valga la pena",
+  "titulo_original": "Margarita: Que tu cuento valga la pena",
+  "fecha_estreno": "2024-09-02",
+  "duracion": "39min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia",
+    "Soap"
+  ],
+  "puntuacion": 9,
+  "sinopsis": "Margarita cuenta la historia de una adolescente huérfana con una vida de película, con muchas dudas y casi ninguna certeza sobre su historia, que yendo detrás de su deseo, llegará a un lugar muy mágico en el que podrá vivir y cumplir sus sueños, sin saber que esa casa fue el lugar donde ella nació y que la pérfida Delfina usurpó para construir su imperio. ​",
+  "pais_origen": "AR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Mora Bianchi",
+      "personaje": "Margarita",
+      "foto": "https://image.tmdb.org/t/p/w500/lSzanI2hsealgb9tzFYtPBj5nVD.jpg"
+    },
+    {
+      "nombre": "Isabel Macedo",
+      "personaje": "Delfina Santillán",
+      "foto": "https://image.tmdb.org/t/p/w500/vajHj2MFZ1UO7v3nwRQDHAvjyAe.jpg"
+    },
+    {
+      "nombre": "Ramiro Spangenberg",
+      "personaje": "Merlín",
+      "foto": "https://image.tmdb.org/t/p/w500/5xNtW2G8xO2Pql9tsOZZSZPPHwB.jpg"
+    },
+    {
+      "nombre": "Lola Abraldes",
+      "personaje": "Daisy",
+      "foto": "https://image.tmdb.org/t/p/w500/9ASwkCrU8mIIK8r7xQFteS7ooSS.jpg"
+    },
+    {
+      "nombre": "Julia Calvo",
+      "personaje": "Ada",
+      "foto": "https://image.tmdb.org/t/p/w500/6fgkT8gEI0B8oW3WF7H1YOfXPtp.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Cris Morena",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mariano Ardanaz",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Eduardo Ripari",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Cris Morena",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Leandro Calderone",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Mariano Ardanaz",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Eduardo Ripari",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9,
+    "imdb": "tt33145195",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=Q_O0U38gSQY"
+}
