@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 1084244,
+  "poster": "https://image.tmdb.org/t/p/w500/fWWfKcQDldLgHQwXWakfE16D5vr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kwq3lxPrBfyyVRRSDSlojwCPzwH.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aI3zj2mXnusvdbG5AYwWXCbEVk3.png",
+  "titulo": "Toy Story 5",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia",
+    "Aventura"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.377,
+  "año": "2026",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+  "fecha_estreno": "2026-06-17",
+  "titulo_original": "Toy Story 5",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Woody (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Tim Allen",
+      "personaje": "Buzz Lightyear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "nombre": "Joan Cusack",
+      "personaje": "Jessie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+    },
+    {
+      "nombre": "Greta Lee",
+      "personaje": "Lilypad (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6SydTis4XUcovlwIGskT59JowLX.jpg"
+    },
+    {
+      "nombre": "Conan O'Brien",
+      "personaje": "Smarty Pants (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/deRbViPut0t80miscBpP2DhBJU5.jpg"
+    },
+    {
+      "nombre": "Craig Robinson",
+      "personaje": "Atlas (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mTyTrOWUSOBJMOlDpnd4OYx7FlJ.jpg"
+    },
+    {
+      "nombre": "Shelby Rabara",
+      "personaje": "Snappy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ouMiEKlhCj2LFKEQtI6fGRMDemF.jpg"
+    },
+    {
+      "nombre": "Tony Hale",
+      "personaje": "Forky (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lindsey Collins",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kenna Harris",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kenna Harris",
+      "rol": "Co-Director"
+    },
+    {
+      "nombre": "Pete Docter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Coya Elliott",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Stephen Urata",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Randy Newman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Randy Newman",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Matt Aspbury",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jean-Claude Kalache",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jennifer Neysa Jew",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jonas Rivera",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bret Parker",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Jason Katz",
+      "rol": "Story Supervisor"
+    }
+  ],
+  "director": "Andrew Stanton",
+  "valoraciones": {
+    "tmdb": 7.377,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://voe.sx/e/b79g0rdczsfu",
+  "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ"
+}
