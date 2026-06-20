@@ -57,6 +57,7 @@ async function getVideoLink(id) {
     return null;
   }
 }
+
 // ================== OBTENER ID ==================
 function getContentId() {
   const params =
@@ -397,34 +398,44 @@ function playTrailer(data) {
   document.body.insertAdjacentHTML('beforeend', modalHtml);
 }
 
-// ================== EXTRAER NOMBRE DEL SERVIDOR ==================
-function getServerName(url) {
-  const urlLower = url.toLowerCase();
-  if (urlLower.includes('vidhide')) return 'VidHide';
-  if (urlLower.includes('streamwish')) return 'StreamWish';
-  if (urlLower.includes('voe')) return 'Voe';
-  if (urlLower.includes('filemoon')) return 'Filemoon';
-  if (urlLower.includes('dood')) return 'DoodStream';
-  
-  try {
-    const host = new URL(url).hostname.replace('www.', '');
-    const name = host.split('.')[0];
-    return name.charAt(0).toUpperCase() + name.slice(1);
-  } catch(e) {
-    return 'Externo';
+// ================== VALIDACIÓN Y APERTURA DE ENLACES ==================
+
+async function showPlayerModal(data, id) {
+  const videoData = await getVideoLink(id);
+
+  if (!videoData) {
+    showToast('❌ No se encontró enlace de video para este contenido', 'fa-exclamation-triangle');
+    return;
+  }
+
+  // Convertir a un array para procesarlo independientemente si viene 1 o varios
+  const linksArray = Array.isArray(videoData) ? videoData : [videoData];
+
+  // Filtrar solo los enlaces que son reproducciones directas (mp4/m3u8)
+  const directLinks = linksArray.filter(link => {
+    const urlLower = link.toLowerCase();
+    return urlLower.includes('.mp4') || urlLower.includes('.m3u8');
+  });
+
+  if (directLinks.length > 0) {
+    // Si contiene archivos directos, mostrar las opciones del Servidor Lz
+    showLzServerModal(directLinks);
+  } else {
+    // Si no es un formato directo (ej. embed), abrir de una vez sin modal
+    window.location.href = linksArray[0];
   }
 }
 
-// ================== MODAL DE SELECCIÓN DE SERVIDORES ==================
-function showServerSelectionModal(linksArray) {
-  let buttonsHtml = linksArray.map(link => {
-    const serverName = getServerName(link);
+// ================== MODAL DE SELECCIÓN DE SERVIDORES (Lz) ==================
+
+function showLzServerModal(linksArray) {
+  let buttonsHtml = linksArray.map((link, index) => {
     return `
       <button onclick="window.location.href='${link}'" 
               style="display:flex;align-items:center;justify-content:center;gap:10px;width:100%;margin-bottom:12px;padding:16px;background:#2a2a2a;color:white;border:1px solid #444;border-radius:10px;font-size:1.1rem;font-weight:bold;cursor:pointer;transition:all 0.2s;"
               onmouseover="this.style.background='#4f7cff';this.style.borderColor='#4f7cff'"
               onmouseout="this.style.background='#2a2a2a';this.style.borderColor='#444'">
-        <i class="fa-solid fa-play"></i> Server (${serverName})
+        <i class="fa-solid fa-play"></i> Opción ${index + 1} - Server (Lz)
       </button>`;
   }).join('');
 
@@ -438,79 +449,9 @@ function showServerSelectionModal(linksArray) {
       </div>
     </div>
   `;
+  // Eliminar modal anterior si existe en el DOM
   document.querySelectorAll('.modal-servers').forEach(m => m.remove());
   document.body.insertAdjacentHTML('beforeend', modalHtml);
-}
-
-// ================== PLAYER MODAL (Opciones) ==================
-async function showPlayerModal(data, id) {
-  const modal = document.getElementById('playerModal');
-  if (!modal) {
-    console.error("Modal #playerModal no encontrado");
-    return;
-  }
-  const videoData = await getVideoLink(id);
-  if (!videoData) {
-    showToast('❌ No se encontró enlace de video para este contenido', 'fa-exclamation-triangle');
-    return;
-  }
-
-  // SI SON VARIOS ENLACES: Muestra el modal con los botones de cada servidor
-  if (Array.isArray(videoData) && videoData.length > 1) {
-    showServerSelectionModal(videoData);
-    return;
-  }
-
-  // SI ES UN SOLO ENLACE: Procede con la lógica normal
-  const videoUrl = Array.isArray(videoData) ? videoData[0] : videoData;
-  const urlEnMinusculas = videoUrl.toLowerCase();
-  const esReproducible = urlEnMinusculas.includes('.mp4') || urlEnMinusculas.includes('.m3u8');
-
-  if (!esReproducible) {
-    // Si NO es un video directo mp4/m3u8, abre la URL externa
-    window.location.href = videoUrl;
-    return; 
-  }
-
-  // Si SI es mp4 o m3u8, carga la info en memoria y abre tu modal original
-  window.currentMovieData = {
-    video: videoUrl,
-    poster: data.backdrop || data.poster,
-    title: encodeURIComponent(data.titulo || 'Película')
-  };
-  modal.style.display = 'flex';
-}
-
-function closeModal() {
-  const modal = document.getElementById('playerModal');
-  if (modal) modal.style.display = 'none';
-}
-
-// ================== ABRIR PLAYER EN LA MISMA PÁGINA ==================
-function openPlayer() {
-  const d = window.currentMovieData;
-  if (!d || !d.video) {
-    showToast('No hay enlace de video disponible', 'fa-exclamation-triangle');
-    closeModal();
-    return;
-  }
-
-  closeModal();
-
-  // 🚀 REDUNDANCIA DE SEGURIDAD
-  const urlEnMinusculas = d.video.toLowerCase();
-  const esReproducible = urlEnMinusculas.includes('.mp4') || urlEnMinusculas.includes('.m3u8');
-  
-  if (!esReproducible) {
-    window.location.href = d.video;
-    return;
-  }
-
-  // Comportamiento normal usando SOLO el reproductor principal
-  const url = `https://lzplayhd.online/lzpro/player.html?video=${encodeURIComponent(d.video)}&poster=${encodeURIComponent(d.poster)}&title=${d.title}`;
-
-  // Abre en la misma página (pantalla completa del reproductor)
-  window.location.href = url;
 }
 
 // ================== FUNCIONES AUXILIARES ==================
