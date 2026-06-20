@@ -208,20 +208,8 @@ document.addEventListener('DOMContentLoaded', function () {
             return;
         }
 
-        // Se redirige al usuario al enlace guardado en el JSON
-        const tryLandscape = () => {
-            if (screen.orientation && screen.orientation.lock) {
-                document.documentElement.requestFullscreen().then(() => {
-                    screen.orientation.lock('landscape').catch(() => {});
-                }).finally(() => {
-                    window.location.href = targetUrl;
-                });
-            } else {
-                window.location.href = targetUrl;
-            }
-        };
-
-        tryLandscape();
+        // Se redirige directamente a la URL en la misma pestaña
+        window.location.href = targetUrl;
     }
 
     window.closeModal = function () {
