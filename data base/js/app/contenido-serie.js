@@ -11,7 +11,6 @@ const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/thexxx880/apple/main/
 let currentSeriesId = null;
 let currentSeriesData = null;
 let currentSeason = 1;
-let currentEpisodeData = null;
 
 // ================== OBTENER ID ==================
 function getContentId() {
@@ -333,26 +332,22 @@ function renderEpisodes(episodes, seasonNumber, seasonBackdrop) {
             const pt = document.getElementById('playText');
             if(pt) pt.textContent = `Continuar T${seasonNumber} E${ep.episode_number}`;
 
-            // 🔥 VALIDACIÓN DE TIPO DE URL (NUEVO) 🔥
-            const urlToCheck = ep.video_url.toLowerCase();
-            const isNativeVideo = urlToCheck.includes('.mp4') || urlToCheck.includes('.m3u8');
+            // Convertir la URL en array por si vienen múltiples opciones desde el JSON
+            const urls = Array.isArray(ep.video_url) ? ep.video_url : [ep.video_url];
+            
+            // Filtrar solo los enlaces que son reproducciones directas (mp4/m3u8)
+            const directLinks = urls.filter(link => {
+                const urlLower = link.toLowerCase();
+                return urlLower.includes('.mp4') || urlLower.includes('.m3u8');
+            });
 
-            if (!isNativeVideo) {
-                // Si la URL NO es mp4 ni m3u8, redirigir en la MISMA pestaña
-                window.location.href = ep.video_url;
-                return; // Cortar ejecución aquí para evitar abrir el reproductor interno
+            if (directLinks.length > 0) {
+                // Si contiene archivos directos, mostrar las opciones del Servidor Lz
+                showLzServerModal(directLinks);
+            } else {
+                // Si no es un formato directo (ej. embed), abrir de una vez sin modal
+                window.location.href = urls[0];
             }
-
-            // 🔥 AÑADIMOS TEMPORADA Y EPISODIO AL OBJETO (Solo para MP4 o M3U8) 🔥
-            currentEpisodeData = {
-                video: ep.video_url,
-                poster: thumbnail,
-                title: encodeURIComponent(`${currentSeriesData.titulo} - T${seasonNumber}E${ep.episode_number}`),
-                season: seasonNumber,
-                episode: ep.episode_number
-            };
-
-            document.getElementById('playerModal').style.display = 'flex';
         };
 
         container.appendChild(card);
@@ -361,6 +356,34 @@ function renderEpisodes(episodes, seasonNumber, seasonBackdrop) {
     setTimeout(() => {
         centrarEpisodioActivo();
     }, 150);
+}
+
+// ================== MODAL DE SELECCIÓN DE SERVIDORES (Lz) ==================
+function showLzServerModal(linksArray) {
+    let buttonsHtml = linksArray.map((link, index) => {
+        return `
+            <button onclick="window.location.href='${link}'" 
+                    style="display:flex;align-items:center;justify-content:center;gap:10px;width:100%;margin-bottom:12px;padding:16px;background:#2a2a2a;color:white;border:1px solid #444;border-radius:10px;font-size:1.1rem;font-weight:bold;cursor:pointer;transition:all 0.2s;"
+                    onmouseover="this.style.background='#4f7cff';this.style.borderColor='#4f7cff'"
+                    onmouseout="this.style.background='#2a2a2a';this.style.borderColor='#444'">
+                <i class="fa-solid fa-play"></i> Opción ${index + 1} - Server (Lz)
+            </button>`;
+    }).join('');
+
+    const modalHtml = `
+        <div class="modal-servers" style="position:fixed;inset:0;background:rgba(0,0,0,0.85);backdrop-filter:blur(5px);display:flex;align-items:center;justify-content:center;z-index:99999;">
+            <div style="position:relative;width:90%;max-width:400px;background:#141414;border:1px solid #333;border-radius:16px;padding:30px;box-shadow:0 10px 40px rgba(0,0,0,0.8);">
+                <button onclick="this.closest('.modal-servers').remove()"
+                        style="position:absolute;top:15px;right:20px;color:#888;font-size:1.8rem;background:none;border:none;cursor:pointer;">✕</button>
+                <h3 style="color:white;margin-top:0;margin-bottom:25px;text-align:center;font-size:1.4rem;font-weight:600;">Opciones de Reproducción</h3>
+                ${buttonsHtml}
+            </div>
+        </div>
+    `;
+    
+    // Eliminar modal anterior si existe en el DOM
+    document.querySelectorAll('.modal-servers').forEach(m => m.remove());
+    document.body.insertAdjacentHTML('beforeend', modalHtml);
 }
 
 // ================== CONTROL SLIDER ==================
@@ -383,7 +406,7 @@ function getLastWatchedEpisode() {
     return saved ? JSON.parse(saved) : null;
 }
 
-// ================== MODALES (TRAILER & PLAYER) ==================
+// ================== MODAL (TRAILER) ==================
 function abrirTrailerModal(url) {
     let videoId = "";
     if (url.includes("youtube.com/watch?v=")) {
@@ -412,25 +435,6 @@ function closeTrailerModal() {
         modal.style.display = 'none';
         if (iframe) iframe.src = ""; 
     }
-}
-
-// ======== FUNCIÓN MODIFICADA: openPlayer ========
-function openPlayer(option) {
-    document.getElementById('playerModal').style.display = 'none';
-    if (!currentEpisodeData || !currentEpisodeData.video) return;
-
-    // 🔥 PASAMOS EXPRESAMENTE "s" y "e" POR LA URL PARA EL PLAYER 🔥
-    let baseParams = `video=${encodeURIComponent(currentEpisodeData.video)}&poster=${encodeURIComponent(currentEpisodeData.poster)}&title=${currentEpisodeData.title}&id=${currentSeriesId}&s=${currentEpisodeData.season}&e=${currentEpisodeData.episode}`;
-    
-    let url = option === 1 
-        ? `https://lzplayhd.online/lzpro/player.html?${baseParams}`
-        : `https://lzrdrz10.github.io/premiumplayer/player.html?${baseParams}`;
-    
-    window.location.href = url;
-}
-
-function closeModal() {
-    document.getElementById('playerModal').style.display = 'none';
 }
 
 function showError(msg) {
