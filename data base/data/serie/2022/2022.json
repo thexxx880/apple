@@ -1,0 +1,89 @@
+{
+  "id_tmdb": 2022,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3w7koeOR2x71XYMJDGpygxYtScI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/k5r2N22yTSIlLZBraf9792MK1gN.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ulFxCePgaTPvC7ysLRpI1V6dVVk.png",
+  "titulo": "The Batman",
+  "titulo_original": "The Batman",
+  "fecha_estreno": "2004-09-11",
+  "duracion": "22min",
+  "año": "2004",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Kids"
+  ],
+  "puntuacion": 8.037,
+  "sinopsis": "Un joven Bruce Wayne/Bruno Diaz está en su tercer año de tratar de establecerse como Batman, protector de Gotham City. Vivir en Gotham, una metrópolis donde las sombras corren largo y profundo, por debajo de las vías del tren elevado, este joven Batman se enfrentará a cada uno de sus viejos conocidos, por primera vez.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rino Romano",
+      "personaje": "The Batman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rpyq7xdQ5zSCHYiwnlPvkx7gLrl.jpg"
+    },
+    {
+      "nombre": "Evan Sabara",
+      "personaje": "Robin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jY7kNZ49qoGccxtAZcckwWwTPnG.jpg"
+    },
+    {
+      "nombre": "Danielle Judovits",
+      "personaje": "Batgirl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5ecdzR76eyTDcaTGfLOWNeksUi6.jpg"
+    },
+    {
+      "nombre": "Alastair Duncan",
+      "personaje": "Alfred Pennyworth",
+      "foto": "https://image.tmdb.org/t/p/w500/2rkDiz41uLiEYIo92DLuVOHagRS.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Duane Capizzi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Glen Murakami",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Goguen",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dave Kupczyk",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "Duane Capizzi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Glen Murakami",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Goguen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeff Matsuda",
+      "rol": "Character Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.037,
+    "imdb": "tt0398417",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC Comics, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=p4qLo_-OS8M"
+}
