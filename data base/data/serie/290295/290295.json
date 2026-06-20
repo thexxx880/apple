@@ -1,0 +1,100 @@
+{
+  "id_tmdb": 290295,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ryRnj2pDiRkb2UesLsmAKUjPHIs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zaDTnGcq3F5LocdmHJLP3Mf0kII.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/wFHYTkN4ihbNrjV67WFzqcLQ0bB.png",
+  "titulo": "Temporada de celo",
+  "titulo_original": "Mating Season",
+  "fecha_estreno": "2026-05-22",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.84,
+  "sinopsis": "De las retorcidas mentes que crearon «Big Mouth» llega esta serie de comedia animada para adultos sobre amor, sexo y relaciones ambientada en el mundo animal.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Nick Kroll",
+      "personaje": "Ray (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fNiOuEKeBtELGdhKn4lxXq4O7YP.jpg"
+    },
+    {
+      "nombre": "June Diane Raphael",
+      "personaje": "Fawn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lAwKmADejWaxNCwraNJO6tbfItb.jpg"
+    },
+    {
+      "nombre": "Zach Woods",
+      "personaje": "Josh (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jolb1uMzDZGTKOKyhgeG3RIsL2W.jpg"
+    },
+    {
+      "nombre": "Sabrina Jalees",
+      "personaje": "Penelope (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qddAPXIMLdiJjS7wBWUscFGdFn1.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shannon Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Antonio Canobbio",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Kalina",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chris Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shannon Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Antonio Canobbio",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Kalina",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jack Met",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Ryan Met",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Adam Met",
+      "rol": "Songs"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.84,
+    "imdb": "tt14690136",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Animations Adult, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=aqCtC-ytN74"
+}
