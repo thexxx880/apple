@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 229544,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/o2BNRptz61KZZM9GokIH1lla5Zz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zoa11EvyuasC3j7PmH1QGftrSvf.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/xolhstrPkFi6fvHk34YbASuRuaY.png",
+  "titulo": "Among Us",
+  "titulo_original": "Among Us",
+  "fecha_estreno": "2026-06-05",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Misterio",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.937,
+  "sinopsis": "Los miembros de tu tripulación han sido reemplazados por un cambiaformas alienígena que intenta causar confusión, sabotear la nave y matar a todos. Elimina al \"impostor\" o sé víctima de sus designios asesinos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Yvette Nicole Brown",
+      "personaje": "Orange (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7cJowCcDPnyXqHJ46GgSNHomUGo.jpg"
+    },
+    {
+      "nombre": "Kimiko Glenn",
+      "personaje": "Cyan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6QnVIyHKbzx0ZsUr3BmIwnZxujL.jpg"
+    },
+    {
+      "nombre": "Liv Hewson",
+      "personaje": "Black (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rxR5ptYFgUk5nhwOTIbqgN1jOVu.jpg"
+    },
+    {
+      "nombre": "Ashley Johnson",
+      "personaje": "Purple (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8s36QwB7Zq3PrbY1W6a6ctTFFoe.jpg"
+    },
+    {
+      "nombre": "Wayne Knight",
+      "personaje": "Lime (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yS3k7HZ8gSWyXrvvsX7V7oEmdHY.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Owen Dennis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Forest Willard",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marcus Bromander",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carl Neisser",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shannon Prynoski",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Owen Dennis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Forest Willard",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marcus Bromander",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carl Neisser",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shannon Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Antonio Canobbio",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Kalina",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Madeline Queripel",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jake Humphrey",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Christine Terry",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jackie Sollitto",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Laura Allen",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Tony Orozco",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Tony Orozco",
+      "rol": "Sound Re-Recording Mixer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.937,
+    "imdb": "tt28230655",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=5ZtUG9ab0kE"
+}
