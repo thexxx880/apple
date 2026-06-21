@@ -1,0 +1,72 @@
+{
+  "id_tmdb": 126118,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/v7Oix3Zkhg3ftRxmLmyDBJc9ycp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/25yTJaPYBTPitytxvwQbSSJwSOf.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/zpiVFKVhqUjPbKALZE0iArFKt7s.svg",
+  "titulo": "Chapelwaite",
+  "titulo_original": "Chapelwaite",
+  "fecha_estreno": "2021-08-22",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "En la década de 1850, el capitán Charles Boone traslada a su familia de tres hijos a su hogar ancestral en la pequeña y aparentemente tranquila ciudad de Preacher's Corners, Maine, después de que su esposa muere en el mar. Charles pronto tendrá que enfrentarse a los secretos de la sórdida historia de su familia y luchar para acabar con la oscuridad que ha plagado a los Boone durante generaciones.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Adrien Brody",
+      "personaje": "Captain Charles Boone",
+      "foto": "https://image.tmdb.org/t/p/w500/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+    },
+    {
+      "nombre": "Emily Hampshire",
+      "personaje": "Rebecca Morgan",
+      "foto": "https://image.tmdb.org/t/p/w500/kXb6SAUOACHN9F3M4rkxF7BsJGN.jpg"
+    },
+    {
+      "nombre": "Jennifer Ens",
+      "personaje": "Honor Boone",
+      "foto": "https://image.tmdb.org/t/p/w500/nlpULWjAicSFrSBN5eA2eo3N7f8.jpg"
+    },
+    {
+      "nombre": "Sirena Gulamgaus",
+      "personaje": "Loa Boone",
+      "foto": "https://image.tmdb.org/t/p/w500/jT4E7OwQ98m8pAi6ASIJ82HMrgM.jpg"
+    },
+    {
+      "nombre": "Ian Ho",
+      "personaje": "Tane Boone",
+      "foto": "https://image.tmdb.org/t/p/w500/t8hDCgib6IFBu69tI6E1kYB2wPf.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Adrien Brody",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stephen King",
+      "rol": "Short Story"
+    },
+    {
+      "nombre": "Adrien Brody",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt11525188",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sony",
+  "trailer": "https://www.youtube.com/watch?v=kwZx0-agqb0"
+}
