@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 323111,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/dUCfIkJlyGFQzc2HOYu0tKppwuk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/z6D9lWxQjTnwHqwGG2cTuzfIQow.png",
+  "titulo": "Michael Jackson: El veredicto",
+  "titulo_original": "Michael Jackson: The Verdict",
+  "fecha_estreno": "2026-06-03",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 4.5,
+  "sinopsis": "Este documental exhaustivo analiza el juicio a Michael Jackson y su complejo legado, con testimonios de figuras centrales que presenciaron el proceso legal dentro del juzgado.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Michael Jackson",
+      "personaje": "Self (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/zCqiBuWlo5IO9Mtw5Ktj3d0uyih.jpg"
+    },
+    {
+      "nombre": "Martin Bashir",
+      "personaje": "Self - Journalist, 'Living with Michael Jackson'",
+      "foto": "https://image.tmdb.org/t/p/w500/wKOGmi3xYgXMxMpbAiCfhtSdOdu.jpg"
+    },
+    {
+      "nombre": "Ron Zonen",
+      "personaje": "Self - Prosecutor",
+      "foto": "https://image.tmdb.org/t/p/w500/AiJ7e0HLVNgRyTPKwPMsAIPHyI8.jpg"
+    },
+    {
+      "nombre": "Brian Oxman",
+      "personaje": "Self - Jackson Family Lawyer",
+      "foto": "https://image.tmdb.org/t/p/w500/8FMuRRzmEY1jDwOpc3FnaCu5BpE.jpg"
+    },
+    {
+      "nombre": "Diane Dimond",
+      "personaje": "Self - Investigative Journalist",
+      "foto": "https://image.tmdb.org/t/p/w500/o651e1orSdyTTxVfDRgbMj9h3qm.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Fiona Stourton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Goldston",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Herman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anya Cooper",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Katie Harmsworth",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Izzy Chapman",
+      "rol": "Development Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Fiona Stourton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Goldston",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Herman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anya Cooper",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Katie Harmsworth",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Izzy Chapman",
+      "rol": "Development Producer"
+    },
+    {
+      "nombre": "Duane McClunie",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Wesley Thomas",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Tom Howe",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Nas Parkash",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Claire Ellis",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "David Wendlinger",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Steve Kashuk",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Will Chapman",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Nigel Batting",
+      "rol": "Sound Recordist"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 4.5,
+    "imdb": "tt42873612",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=rcp-j0StBR0"
+}
