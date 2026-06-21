@@ -20,25 +20,30 @@ function getContentId() {
 
 // ================== DETECTAR TEMPORADAS AUTOMÁTICAMENTE ==================
 async function detectarTemporadas(id) {
-    let count = 0;
-    let s = 1;
-    let keepChecking = true;
+    let availableSeasons = [];
+    const promises = [];
+    const MAX_SEASONS_TO_CHECK = 50; // Límite máximo para buscar saltos (hasta t50)
     
-    while (keepChecking) {
+    // Verificamos múltiples temporadas en paralelo para que sea ultra rápido
+    for (let s = 1; s <= MAX_SEASONS_TO_CHECK; s++) {
         const url = `${GITHUB_RAW_BASE}${id}/t${s}/${id}.json`;
-        try {
-            const response = await fetch(url, { method: 'HEAD' }); 
-            if (response.ok) {
-                count++;
-                s++;
-            } else {
-                keepChecking = false;
-            }
-        } catch (error) {
-            keepChecking = false;
-        }
+        promises.push(
+            fetch(url, { method: 'HEAD' })
+            .then(response => {
+                if (response.ok) {
+                    availableSeasons.push(s); // Si existe, la guardamos
+                }
+            })
+            .catch(() => {}) // Si falla (404), simplemente la ignora y sigue
+        );
     }
-    return count === 0 ? 1 : count; 
+    
+    await Promise.all(promises); // Espera a que terminen todas las verificaciones
+    
+    if (availableSeasons.length === 0) return [1]; // Fallback por defecto
+    
+    // Ordenar numéricamente ya que Promise.all responde en tiempos aleatorios
+    return availableSeasons.sort((a, b) => a - b); 
 }
 
 // ================== CARGAR SERIE PRINCIPAL ==================
@@ -59,11 +64,18 @@ async function loadSeries() {
         const data = await res.json();
         currentSeriesData = data;
 
-        const totalSeasons = await detectarTemporadas(id);
-        data.number_of_seasons = totalSeasons;
+        // Ahora recibimos un Array exacto con las temporadas existentes (ej: [1,2,3,4,9,10])
+        const availableSeasons = await detectarTemporadas(id);
+        data.available_seasons = availableSeasons;
+        data.number_of_seasons = availableSeasons.length; // Total de temporadas reales disponibles
 
         const lastWatched = getLastWatchedEpisode();
-        const startSeason = lastWatched ? lastWatched.season : 1;
+        
+        // Determinar temporada de inicio asegurando que exista en la lista actual
+        let startSeason = lastWatched ? lastWatched.season : availableSeasons[0];
+        if (!availableSeasons.includes(startSeason)) {
+            startSeason = availableSeasons[0];
+        }
 
         renderSeriesPage(data);
         renderSeasonsTabs(data, startSeason);
@@ -163,11 +175,15 @@ function renderSeriesPage(data) {
     const playBtn = document.getElementById('playBtn');
     if (playBtn) {
         playBtn.onclick = () => {
-            const startSeason = lastWatched ? lastWatched.season : 1;
+            const startSeason = lastWatched && data.available_seasons.includes(lastWatched.season) 
+                ? lastWatched.season 
+                : data.available_seasons[0];
             
             document.querySelectorAll('.season-tab').forEach(t => t.classList.remove('active'));
-            const tabs = document.querySelectorAll('.season-tab');
-            if (tabs[startSeason - 1]) tabs[startSeason - 1].classList.add('active');
+            
+            // Buscar la pestaña exacta por el atributo data-season
+            const activeTab = document.querySelector(`.season-tab[data-season="${startSeason}"]`);
+            if (activeTab) activeTab.classList.add('active');
 
             loadSeasonEpisodes(currentSeriesId, startSeason).then(() => {
                 setTimeout(() => {
@@ -205,19 +221,22 @@ function renderSeriesPage(data) {
 function renderSeasonsTabs(data, activeSeason = 1) {
     const container = document.getElementById('seasonsTabs');
     container.innerHTML = '';
-    const total = data.number_of_seasons || 1;
+    
+    const seasons = data.available_seasons || [1];
 
-    for (let i = 1; i <= total; i++) {
+    // Iteramos basándonos en los números exactos de las temporadas que SÍ existen
+    seasons.forEach(seasonNum => {
         const tab = document.createElement('div');
-        tab.className = `season-tab ${i === activeSeason ? 'active' : ''}`;
-        tab.textContent = `Temporada ${i}`;
+        tab.className = `season-tab ${seasonNum === activeSeason ? 'active' : ''}`;
+        tab.dataset.season = seasonNum; // Asignamos data-season para encontrarlo fácilmente
+        tab.textContent = `Temporada ${seasonNum}`;
         tab.onclick = () => {
             document.querySelectorAll('.season-tab').forEach(t => t.classList.remove('active'));
             tab.classList.add('active');
-            loadSeasonEpisodes(currentSeriesId, i);
+            loadSeasonEpisodes(currentSeriesId, seasonNum);
         };
         container.appendChild(tab);
-    }
+    });
 }
 
 // ================== CARGAR EPISODIOS ==================
