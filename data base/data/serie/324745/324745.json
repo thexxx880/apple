@@ -1,0 +1,100 @@
+{
+  "id_tmdb": 324745,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/yMacyOdJbrqxXABfzpsIpo28big.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7MURf5JLnjhSRtkbVehCptfjQVp.jpg",
+  "logo": "",
+  "titulo": "Circo Gómez",
+  "titulo_original": "Circo Gómez",
+  "fecha_estreno": "2026-06-05",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Animación"
+  ],
+  "puntuacion": 7.333,
+  "sinopsis": "Filiberto Gómez (Derbez) debe hacer lo necesario para mantener su circo a flote. Con Lupe, Vicky, Refugio, Lobito y Chiquimoco está familia de cirqueros hará lo posible para que su circo sobreviva.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Eugenio Derbez",
+      "personaje": "Filiberto Gómez",
+      "foto": "https://image.tmdb.org/t/p/w500/6o1w3mYF947N6TTakQXcs3NNy4w.jpg"
+    },
+    {
+      "nombre": "Omar Chaparro",
+      "personaje": "Refugio Gómez / Lobito Gómez",
+      "foto": "https://image.tmdb.org/t/p/w500/fAIDrbtyHBcDDbRdRZ3bvNesKU7.jpg"
+    },
+    {
+      "nombre": "Diana Bovio",
+      "personaje": "Vicky Gómez",
+      "foto": "https://image.tmdb.org/t/p/w500/fIHf1qsPzVhtnDBFGY1muc9AikB.jpg"
+    },
+    {
+      "nombre": "Vanessa Bauche",
+      "personaje": "Lupe Gómez",
+      "foto": "https://image.tmdb.org/t/p/w500/1WQaHygZ1AsRxDBcPmxL0fSLNri.jpg"
+    },
+    {
+      "nombre": "Sergio Lebrija",
+      "personaje": "Chiquimoco",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sergio Lebrija",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ornella Antista",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Diego Arellano G.",
+      "rol": "Associate Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sergio Lebrija",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ornella Antista",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Diego Arellano G.",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Sergio Lebrija",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Arturo Navarro",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Rodrigo Vive",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Mariana Balsa",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.333,
+    "imdb": "tt43177141",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Animations Adult, Vix",
+  "trailer": "https://www.youtube.com/watch?v=NyizTVBXCDs"
+}
