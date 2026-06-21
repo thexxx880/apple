@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 1274,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/Al4RjjnnTNyLEn5idIxl2zfqYV5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5NOQNDMVXe8t5wIuY6r6b6iUXcc.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/lTC5pym7p23h7PB2ZwWzCTA2JdV.png",
+  "titulo": "Seis Pies Bajo Tierra",
+  "titulo_original": "Six Feet Under",
+  "fecha_estreno": "2001-06-03",
+  "duracion": "24min",
+  "año": "2001",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.1,
+  "sinopsis": "Cuando la muerte es tu negocio, ¿qué es tu vida? Para la familia Fisher, el mundo fuera de la funeraria familiar sigue siendo al menos tan desafiante como el de adentro y mucho menos predecible en está galardonada serie de HBO®.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Peter Krause",
+      "personaje": "Nate Fisher",
+      "foto": "https://image.tmdb.org/t/p/w500/4p42emuJrU8fFxbBuOhYFFdzmN6.jpg"
+    },
+    {
+      "nombre": "Michael C. Hall",
+      "personaje": "David Fisher",
+      "foto": "https://image.tmdb.org/t/p/w500/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
+    },
+    {
+      "nombre": "Frances Conroy",
+      "personaje": "Ruth Fisher",
+      "foto": "https://image.tmdb.org/t/p/w500/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+    },
+    {
+      "nombre": "Lauren Ambrose",
+      "personaje": "Claire Fisher",
+      "foto": "https://image.tmdb.org/t/p/w500/67oLiPwWKhy0zqdfm6NX9cXD5is.jpg"
+    },
+    {
+      "nombre": "Freddy Rodríguez",
+      "personaje": "Federico Diaz",
+      "foto": "https://image.tmdb.org/t/p/w500/syCMZjteDnmWQa26NqOaVaRdYmj.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Craig Wright",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Nancy Oliver",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Rick Cleveland",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kate Robin",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Joey Soloway",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Scott Buck",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kristan Andrews",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Craig Wright",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Nancy Oliver",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Rick Cleveland",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kate Robin",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Joey Soloway",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Clinton Wayne",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Scott Buck",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Bruce Eric Kaplan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Del Valle",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jill M. Ohanneson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Suzuki Ingerslev",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Alan Poul",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rusty Lipscomb",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Robert Del Valle",
+      "rol": "Unit Production Manager"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.1,
+    "imdb": "tt0248654",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=E3gYi-KvKug"
+}
