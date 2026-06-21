@@ -1,0 +1,74 @@
+{
+  "id_tmdb": 259837,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/zEZuIW4UDU9OHTwN7zMf8BE5tOF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/46I7PkWU0yy98CumLEN4JyA59Kd.png",
+  "titulo": "The WONDERfools",
+  "titulo_original": "원더풀스",
+  "fecha_estreno": "2026-05-15",
+  "duracion": "80min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "puntuacion": 9.058,
+  "sinopsis": "En esta comedia de acción ambientada en la previa a un cambio de siglo, un disparatado grupo recibe superpoderes y lucha contra el mal, mientras el pánico se extiende.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "박은빈",
+      "personaje": "Eun Chae-ni",
+      "foto": "https://image.tmdb.org/t/p/w500/2PqeVq0KV1pEUgeeSquk2ljfMR0.jpg"
+    },
+    {
+      "nombre": "차은우",
+      "personaje": "Lee Un-jeong",
+      "foto": "https://image.tmdb.org/t/p/w500/kZUO2s2ZsBRYZ8acu0wMzlGHpRS.jpg"
+    },
+    {
+      "nombre": "최대훈",
+      "personaje": "Son Gyeong-hun",
+      "foto": "https://image.tmdb.org/t/p/w500/lxNU9yOR8C9ovqilVMQrXStoc96.jpg"
+    },
+    {
+      "nombre": "임성재",
+      "personaje": "Kang Ro-bin",
+      "foto": "https://image.tmdb.org/t/p/w500/ncRZs8msrPP3oS8KbZsvsXeq4VJ.jpg"
+    },
+    {
+      "nombre": "김해숙",
+      "personaje": "Kim Jeon-bok",
+      "foto": "https://image.tmdb.org/t/p/w500/dt5bmKeG7qbvDwHrxFZFxiGc9fZ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "유인식",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "유인식",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Heo Da-jung",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9.058,
+    "imdb": "tt34440854",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=rVoc4WQVMCc"
+}
