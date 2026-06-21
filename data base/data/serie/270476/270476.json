@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 270476,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hAI5wOXpKdbTRnjSZMw9FpfKlMS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kWip4fjzqNecPQl11aQaQ3auLy9.png",
+  "titulo": "La maldición de Widow's Bay",
+  "titulo_original": "Widow's Bay",
+  "fecha_estreno": "2026-04-28",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Comedia"
+  ],
+  "puntuacion": 8.224,
+  "sinopsis": "El alcalde de un pueblo en una isla de Nueva Inglaterra decide convertirla en la próxima sensación turística, a pesar de las advertencias locales de que está maldita.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Matthew Rhys",
+      "personaje": "Mayor Tom Loftis",
+      "foto": "https://image.tmdb.org/t/p/w500/8uktKexgPn0tsW3dsXVNqkqiNh7.jpg"
+    },
+    {
+      "nombre": "Kate O'Flynn",
+      "personaje": "Patricia Moyer",
+      "foto": "https://image.tmdb.org/t/p/w500/7yAy3O75MXimZJF3bFqlTE4Mhkk.jpg"
+    },
+    {
+      "nombre": "Kevin Carroll",
+      "personaje": "Sheriff Bechir Clemmons",
+      "foto": "https://image.tmdb.org/t/p/w500/8G4rrDJfwurNWv4BJY7PlPXqIiK.jpg"
+    },
+    {
+      "nombre": "Dale Dickey",
+      "personaje": "Rosemary",
+      "foto": "https://image.tmdb.org/t/p/w500/588WXHw17JYi2rAqIVQXzgYENu3.jpg"
+    },
+    {
+      "nombre": "Kingston Rumi Southwick",
+      "personaje": "Evan Loftis",
+      "foto": "https://image.tmdb.org/t/p/w500/q9vcRroJ1BKvC3aofRS49PJ5KAP.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Katie Dippold",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew Rhys",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hiro Murai",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carver Karaszewski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Claudia Shin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Todd King",
+      "rol": "Co-Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Katie Dippold",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew Rhys",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hiro Murai",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carver Karaszewski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Claudia Shin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Todd King",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Todd King",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Alex Bovaird",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Kaitlin Waldron",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joanne Toll",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Alberto Roldán",
+      "rol": "Executive Story Editor"
+    },
+    {
+      "nombre": "David Fleming",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Emily Buntyn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Allison Jones",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Steve Arnold",
+      "rol": "Production Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.224,
+    "imdb": "tt33332385",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Apple TV",
+  "trailer": "https://www.youtube.com/watch?v=VcpYPxKeGAc"
+}
