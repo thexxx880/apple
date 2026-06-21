@@ -1,0 +1,132 @@
+{
+  "id_tmdb": 66788,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xcaPztQp9Lvlh9eLoOaGdq4JfxL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/c4CSgKL6QfkJxsWcGYDyTxpbzpW.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/dq0xHHm93lGk8qfjAldXRWIsjHX.png",
+  "titulo": "13 Reasons Why",
+  "titulo_original": "13 Reasons Why",
+  "fecha_estreno": "2017-03-31",
+  "duracion": "24min",
+  "año": "2017",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 7.54,
+  "sinopsis": "El adolescente Clay Jensen se halla en medio de una serie de misterios desgarradores accionados por el trágico suicidio de una de sus amigas.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Dylan Minnette",
+      "personaje": "Clay Jensen",
+      "foto": "https://image.tmdb.org/t/p/w500/acjK192xObchDXIHv17OjE5FkK0.jpg"
+    },
+    {
+      "nombre": "Grace Saif",
+      "personaje": "Ani Achola",
+      "foto": "https://image.tmdb.org/t/p/w500/5WJ7edNvieLsxwU36hVvXrB8L6J.jpg"
+    },
+    {
+      "nombre": "Christian Navarro",
+      "personaje": "Tony Padilla",
+      "foto": "https://image.tmdb.org/t/p/w500/rYl9pJbIONDUtJBO1skQULDfUz1.jpg"
+    },
+    {
+      "nombre": "Alisha Boe",
+      "personaje": "Jessica Davis",
+      "foto": "https://image.tmdb.org/t/p/w500/d97PBeHPYIJ4hshqoe2ahRJ2NIq.jpg"
+    },
+    {
+      "nombre": "Brandon Flynn",
+      "personaje": "Justin Foley",
+      "foto": "https://image.tmdb.org/t/p/w500/2fir5bwu0nNB4FiQZYY5J9tWZqC.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Allen MacDonald",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jane Bartelme",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Yorkey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joy Gorman Wettels",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Sugar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom McCarthy",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Allen MacDonald",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jane Bartelme",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Yorkey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joy Gorman Wettels",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Sugar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom McCarthy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Golin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mandy Teefey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Selena Gómez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jay Asher",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Kristel Laiblin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brendan Angelides",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.54,
+    "imdb": "tt1837492",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=QkT-HIMSrRk"
+}
