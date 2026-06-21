@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 220102,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/4Pec5a1At5UMeADkgcxwf6nLqau.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/o2D8loRUDlEuOf7BMRgulerNJ6p.png",
+  "titulo": "Spider-Noir",
+  "titulo_original": "Spider-Noir",
+  "fecha_estreno": "2026-05-25",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Crimen"
+  ],
+  "puntuacion": 8.515,
+  "sinopsis": "Al detective privado Ben Reilly lo contratan para un par de casos sencillos... hasta que unos mafiosos, unos monstruos y una femme fatale misteriosa tejen una red que lo obliga a encarar su antigua vida como el único superhéroe de Nueva York: La Araña.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Nicolas Cage",
+      "personaje": "Ben Reilly / The Spider",
+      "foto": "https://image.tmdb.org/t/p/w500/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+      "nombre": "Lamorne Morris",
+      "personaje": "Joe 'Robbie' Robertson",
+      "foto": "https://image.tmdb.org/t/p/w500/9qPDnMsF7JbYSSn1K9yryFBmmXl.jpg"
+    },
+    {
+      "nombre": "Li Jun Li",
+      "personaje": "Cat Hardy",
+      "foto": "https://image.tmdb.org/t/p/w500/y8hAcbThfxkrSRWhuXl9TsYAggP.jpg"
+    },
+    {
+      "nombre": "Karen Rodriguez",
+      "personaje": "Janet Ruiz",
+      "foto": "https://image.tmdb.org/t/p/w500/3CxunqumXE9ZYofJ0rhF7nSSMqX.jpg"
+    },
+    {
+      "nombre": "Abraham Popoola",
+      "personaje": "Lonnie Lincoln / Tombstone",
+      "foto": "https://image.tmdb.org/t/p/w500/r5mojn6TjWgHefdMCJNiohvY82f.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Oren Uziel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Phil Lord",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christopher Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Pascal",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Lightfoot",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicolas Cage",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Oren Uziel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Phil Lord",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christopher Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Pascal",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Lightfoot",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Trayce Gigi Field",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Warren Alan Young",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Rebekah Killam",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Nicolas Cage",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pavlina Hatoupis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kris Bowers",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Michael Dean Parsons",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Hnedel Maximore",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Brooke Noska",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Jennifer Frazin",
+      "rol": "Staff Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.515,
+    "imdb": "tt30460310",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=ZPHCqtrXpxw"
+}
