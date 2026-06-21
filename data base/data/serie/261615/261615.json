@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 261615,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jx9j67VSSQA8ng3cbNrQPlZWbjS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/raxf7xkf1ZwddzQSIl4hdakr8YR.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/oOKfyiIx2R4GpHgmUrA7PIQHlPO.png",
+  "titulo": "Envidiosa",
+  "titulo_original": "Envidiosa",
+  "fecha_estreno": "2024-09-18",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 8.127,
+  "sinopsis": "Tras una ruptura devastadora a sus casi cuarenta años, Vicky va en busca de un nuevo amor. Pero no sabe que ahora comienza un viaje profundo —y divertido— de autodescubrimiento...",
+  "pais_origen": "AR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Griselda Siciliani",
+      "personaje": "Vicky Mori",
+      "foto": "https://image.tmdb.org/t/p/w500/sJTDde4BWJHR9IIUn21EG36hnSP.jpg"
+    },
+    {
+      "nombre": "Esteban Lamothe",
+      "personaje": "Matías Larsen",
+      "foto": "https://image.tmdb.org/t/p/w500/e0uyZGY20gXgAnv2uxlwzOxod9X.jpg"
+    },
+    {
+      "nombre": "Pilar Gamboa",
+      "personaje": "Caro Mori",
+      "foto": "https://image.tmdb.org/t/p/w500/nBhqzOm0SfEskzL3hacEQWhZd5b.jpg"
+    },
+    {
+      "nombre": "Violeta Urtizberea",
+      "personaje": "Lucila Pedemonte",
+      "foto": "https://image.tmdb.org/t/p/w500/ke5floraEajWG49AgG04N9ViikI.jpg"
+    },
+    {
+      "nombre": "Marina Bellati",
+      "personaje": "Débora",
+      "foto": "https://image.tmdb.org/t/p/w500/paLF8lIlwpWkAu5SJDVFSuTrLWW.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.127,
+    "imdb": "tt29494111",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=DJI00CqJU50"
+}
