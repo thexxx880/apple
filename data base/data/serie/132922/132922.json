@@ -1,0 +1,111 @@
+{
+  "id_tmdb": 132922,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/f0g3CYX31s5LUAw882h6r4QbpeT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cViiQZ2LuR1yDYlvhnrInAtR8Cu.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/p726XA4ZDnqKJErw1fgQQgpjcgD.png",
+  "titulo": "Teenage Euthanasia",
+  "titulo_original": "Teenage Euthanasia",
+  "fecha_estreno": "2021-09-06",
+  "duracion": "22min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Animación"
+  ],
+  "puntuacion": 5.2,
+  "sinopsis": "Ambientada en un futuro no muy lejano, en el interior de Florida, Teenage Euthanasia se centra en la excéntrica vida de la familia Fantasy, propietarios de la funeraria Tiernos Finales.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jo Firestone",
+      "personaje": "Euthanasia 'Annie' Fantasy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/i0XjWqXie1Pheuw9LDvVgqHOqAz.jpg"
+    },
+    {
+      "nombre": "Maria Bamford",
+      "personaje": "Trophy Fantasy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iX6QLC4MWVbMIkKN1mL7zKekpfv.jpg"
+    },
+    {
+      "nombre": "Tim Robinson",
+      "personaje": "Uncle Pete (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tS0CF1hO6sUd6GGdBnz5lkHpeaG.jpg"
+    },
+    {
+      "nombre": "Bebe Neuwirth",
+      "personaje": "Baba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yFOdER8Fc07DU6U3kq2PRcbvDR.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Alyson Levy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alissa Nutting",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lisa M. Thomas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Vernon Chatman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ollie Green",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alyson Levy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alissa Nutting",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lisa M. Thomas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Vernon Chatman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Allison Estrin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ollie Green",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Walter Newman",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.2,
+    "imdb": "tt13641028",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Animations Adult",
+  "trailer": "https://www.youtube.com/watch?v=6T8HAs-5oX4"
+}
