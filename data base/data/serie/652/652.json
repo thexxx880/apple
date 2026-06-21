@@ -1,0 +1,72 @@
+{
+  "id_tmdb": 652,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qP3DZrKLSPe5WR2N066BIfB2dIq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/azYkdfJEkhn94jozR87t46LeCst.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/hP2MHA4TuFfsNkGYKdFGf42unQN.png",
+  "titulo": "¿Qué Hay De Nuevo, Scooby-Doo?",
+  "titulo_original": "What's New, Scooby-Doo?",
+  "fecha_estreno": "2002-09-14",
+  "duracion": "22min",
+  "año": "2002",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Misterio"
+  ],
+  "puntuacion": 7.8,
+  "sinopsis": "Es la novena serie del dibujo animado de Hanna-Barbera Scooby-Doo. Tuvo tres temporadas en \"Kids WB\" como un programa de media hora, antes de ser interrumpido indefinidamente en 2006. Las repeticiones fueron transmitidas por Cartoon Network. Fueron producidos cuarenta y dos episodios (catorce en 2002-2003, catorce en 2003-2004 y catorce en 2005-2006).",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Fred Jones / Scooby-Doo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Casey Kasem",
+      "personaje": "Shaggy Rogers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sBKx2Da5Igy55Sjk2dnhtI3JekC.jpg"
+    },
+    {
+      "nombre": "Mindy Cohn",
+      "personaje": "Velma Dinkley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AcEAchSYIUiRInwyD8nPwj8ztZa.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Daphne Blake (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sander Schwartz",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sander Schwartz",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": "tt0306274",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=78Tyfg3R3Qs"
+}
