@@ -1,0 +1,86 @@
+{
+  "id_tmdb": 537,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1aHnP8oed54UMLEvTlY7VBl069q.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6neiLkVRYIVbbRTLhlSLtt8o5di.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/vsH92t6trZMTBvJpluD07Nm9cB1.png",
+  "titulo": "¡Oye, Arnold!",
+  "titulo_original": "Hey Arnold!",
+  "fecha_estreno": "1996-10-07",
+  "duracion": "12min",
+  "año": "1996",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 8.02,
+  "sinopsis": "La vida cotidiana de Arnold, un niño de cuarto grado en una ciudad sin nombre que se parece a Brooklyn, que vive en una pensión multirracial con sus abuelos y un variado grupo de amigos y vecinos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Spencer Klein",
+      "personaje": "Arnold (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8O7GhNehn7C4f71gznpF4ZMgfgt.jpg"
+    },
+    {
+      "nombre": "Francesca Marie Smith",
+      "personaje": "Helga Pataki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hdD9meZg1rBqbc1WpYBSROQnQik.jpg"
+    },
+    {
+      "nombre": "Jamil Walker Smith",
+      "personaje": "Gerald Johanssen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6JFyY8IUHxdndhHbnUgpItNvdvS.jpg"
+    },
+    {
+      "nombre": "Olivia Hack",
+      "personaje": "Rhonda Wellington Lloyd (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vHiz3YSzQfnPAvqVt0W3f3eERWK.jpg"
+    },
+    {
+      "nombre": "Anndi McAfee",
+      "personaje": "Phoebe Heyerdahl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/31BmotCrcdSR6gFnJqqCUHvy6Dh.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Gábor Csupó",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Craig Bartlett",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Francesca Marie Smith",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Gábor Csupó",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Craig Bartlett",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jim Lang",
+      "rol": "Music"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.02,
+    "imdb": "tt0115200",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nickelodeon",
+  "trailer": "https://www.youtube.com/watch?v=CWviLPQ-snU"
+}
