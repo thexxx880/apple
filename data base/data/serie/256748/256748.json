@@ -1,0 +1,124 @@
+{
+  "id_tmdb": 256748,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/aryPP5pWo84HJrqJCZ8kYOAm5hD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/b0ms0pwRZql7bP8WaV83nV93Hjz.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/f84aDHYsnvZHBQhanjSmc9qeWkF.png",
+  "titulo": "Haha, You Clowns",
+  "titulo_original": "Haha, You Clowns",
+  "fecha_estreno": "2025-10-19",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Animación"
+  ],
+  "puntuacion": 8.333,
+  "sinopsis": "Las desventuras de tres hermanos adolescentes y su padre que, unidos por un vínculo de amor y lealtad, lidian con la pérdida de su madre.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Joe Cappa",
+      "personaje": "Tom / Duncan / Preston / Tristan (voice)",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joe Cappa",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rochelle Perry",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kelly Crews",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cameron Tang",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joseph Bennett",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brent Tanner",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joe Cappa",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jordan Askins",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Lorenzo Adams",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Missy Laney",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Rochelle Perry",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sarah Platock",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Geneva Ip",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Jocelyn Shelton",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Alex Savio",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Caitlyn Bidwell",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Aria Clemens",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Elizabeth Dettmann",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Chadwick Parks",
+      "rol": "Post-Production Manager"
+    },
+    {
+      "nombre": "Alicia Parkinson",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Brent Tanner",
+      "rol": "Other"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.333,
+    "imdb": "tt38066553",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Animations Adult",
+  "trailer": "https://www.youtube.com/watch?v=MSVwyN6Ox5U"
+}
