@@ -1,0 +1,68 @@
+{
+  "id_tmdb": 67773,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3eRjfZUOnHe82Cyo6oqaEG1JuIh.png",
+  "titulo": "Dirk Gently: Agencia de investigaciones holísticas",
+  "titulo_original": "Dirk Gently's Holistic Detective Agency",
+  "fecha_estreno": "2016-10-22",
+  "duracion": "42min",
+  "año": "2016",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Crimen"
+  ],
+  "puntuacion": 7.681,
+  "sinopsis": "El excéntrico detective amateur Dirk y su reticente asistente Todd desvelan misterios sobrenaturales peligrosos y retorcidos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Samuel Barnett",
+      "personaje": "Dirk Gently",
+      "foto": "https://image.tmdb.org/t/p/w500/tKTbwAX2PQXih5QkBNBcFUd6MAZ.jpg"
+    },
+    {
+      "nombre": "Elijah Wood",
+      "personaje": "Todd Brotzman",
+      "foto": "https://image.tmdb.org/t/p/w500/ayARmqAe9Aab1zg6FjJG0u9MEBo.jpg"
+    },
+    {
+      "nombre": "Hannah Marks",
+      "personaje": "Amanda Brotzman",
+      "foto": "https://image.tmdb.org/t/p/w500/jOxJS3BUiMvIQAlUBGOMvyvClYb.jpg"
+    },
+    {
+      "nombre": "Jade Eshete",
+      "personaje": "Farah Black",
+      "foto": "https://image.tmdb.org/t/p/w500/xedfskDjYXTCcf5I3a2Xbj0Hmsd.jpg"
+    },
+    {
+      "nombre": "Fiona Dourif",
+      "personaje": "Bart Curlish",
+      "foto": "https://image.tmdb.org/t/p/w500/gKn9lBZLuNHACQhZJUkSIZzUQN5.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Matt Villeneuve",
+      "rol": "Assistant Location Manager"
+    },
+    {
+      "nombre": "Douglas Adams",
+      "rol": "Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.681,
+    "imdb": "tt4047038",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=hRfiL9tuqts"
+}
