@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 69740,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8Q87HCPhj98Afc0XAHOuaLgTTpO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aatG9iVAUL7U7OyFEmupESpOrD2.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ukFTvV5fFYsRZoX1W60cWj04snF.png",
+  "titulo": "Ozark",
+  "titulo_original": "Ozark",
+  "fecha_estreno": "2017-07-21",
+  "duracion": "24min",
+  "año": "2017",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 8.199,
+  "sinopsis": "Un asesor financiero arrastra a su familia desde Chicago hasta los lagos de Ozark para lavar 500 millones de dólares en cinco años y tranquilizar a un jefe narco.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jason Bateman",
+      "personaje": "Marty Byrde",
+      "foto": "https://image.tmdb.org/t/p/w500/wS22fofYtUf4aGXACFwhkTjUk6a.jpg"
+    },
+    {
+      "nombre": "Laura Linney",
+      "personaje": "Wendy Byrde",
+      "foto": "https://image.tmdb.org/t/p/w500/yIopIq7l7eIvjoQqnZJkpdQEvds.jpg"
+    },
+    {
+      "nombre": "Sofia Hublitz",
+      "personaje": "Charlotte Byrde",
+      "foto": "https://image.tmdb.org/t/p/w500/A1nSqZXtKJwuQXDGrhmYa0CP0cZ.jpg"
+    },
+    {
+      "nombre": "Skylar Gaertner",
+      "personaje": "Jonah Byrde",
+      "foto": "https://image.tmdb.org/t/p/w500/zDZ2gt7AO8YZwAtlKU0SsirJ5Kk.jpg"
+    },
+    {
+      "nombre": "Julia Garner",
+      "personaje": "Ruth Langmore",
+      "foto": "https://image.tmdb.org/t/p/w500/ud1RXbvW70J89iqeic7no8olxvb.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Laura Deeley",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul Kolsby",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dana Scott",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Martin Zimmerman",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Laura Linney",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Miki Johnson",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Laura Deeley",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul Kolsby",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dana Scott",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Dana Scott",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Martin Zimmerman",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Laura Linney",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Miki Johnson",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Ning Zhou",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Erin Mitchell",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "John Shiban",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Patrick Markey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David J. Bomba",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Kim Leoleis",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Kathryn Zamora-Benson",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Mark Williams",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.199,
+    "imdb": "tt5071412",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=ry9JDdrf1qM"
+}
