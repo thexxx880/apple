@@ -1,0 +1,59 @@
+{
+  "id_tmdb": 18011,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/aZRmvPsCO5MawSedQ1eeeDo1xia.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vDFCOeT5KSA84AI3ATB4eCHrL6l.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/28VWHLyhcwIB637ekAfZcYaFcj6.svg",
+  "titulo": "Vecinos",
+  "titulo_original": "Vecinos",
+  "fecha_estreno": "2005-07-10",
+  "duracion": "21min",
+  "año": "2005",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Kids"
+  ],
+  "puntuacion": 8.143,
+  "sinopsis": "Relata las vidas de los habitantes de un edificio de apartamentos y sus relaciones entre ellos, se exploran los conflictos y sucesos divertidos que pueden pasar entre vecinos al tener que vivir cercanamente con gente que tiene personalidades diferentes.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Eduardo España",
+      "personaje": "German Valdez",
+      "foto": "https://image.tmdb.org/t/p/w500/qdqwOCZ9WbIG0YcFoe6cBuguO4H.jpg"
+    },
+    {
+      "nombre": "Mayrín Villanueva",
+      "personaje": "Silvia Olvera de San Román",
+      "foto": "https://image.tmdb.org/t/p/w500/v8DqZQZNgbUK7rXa9MtK3qmqpio.jpg"
+    },
+    {
+      "nombre": "Ana Bertha Espín",
+      "personaje": "Lorena Ruiz de Rios",
+      "foto": "https://image.tmdb.org/t/p/w500/ivjcWBGHtDgbphbPQHaLEltJRPz.jpg"
+    },
+    {
+      "nombre": "Moisés Suárez",
+      "personaje": "Arturo López",
+      "foto": "https://image.tmdb.org/t/p/w500/dsdoJ2YlI7DIe0BOl9wXASCzEJv.jpg"
+    },
+    {
+      "nombre": "Macaria",
+      "personaje": "Magdalena Pérez de López",
+      "foto": "https://image.tmdb.org/t/p/w500/pxhyOBQQFFv48qP7PlwHX6RwmCk.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.143,
+    "imdb": "tt0469247",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": ""
+}
