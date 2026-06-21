@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 284725,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jNCxoCmUA3RSru461HaygE1HJrh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ysYPo1JqzHiHoIHpW9wXCtvY1LW.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/aafopkzSOzXuRTGDmyv22xo5VSu.png",
+  "titulo": "No aptos para trabajar",
+  "titulo_original": "Not Suitable for Work",
+  "fecha_estreno": "2026-06-02",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 5.478,
+  "sinopsis": "Cinco veinteañeros, obsesionados con su trabajo, luchan por alcanzar el éxito profesional y, si les queda tiempo, la felicidad personal en el barrio más glamuroso de Manhattan, Murray Hill.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ella Hunt",
+      "personaje": "AJ Pascarelli",
+      "foto": "https://image.tmdb.org/t/p/w500/g4xwqi7hs7vq4yuDY1bQSCMnJSl.jpg"
+    },
+    {
+      "nombre": "Jack Martin",
+      "personaje": "Josh Teitelbaum",
+      "foto": "https://image.tmdb.org/t/p/w500/pBAzaxxmUpIAuwXsoBo60ShPF5I.jpg"
+    },
+    {
+      "nombre": "Avantika",
+      "personaje": "Abhinaya 'Abby' Chilukuri",
+      "foto": "https://image.tmdb.org/t/p/w500/4kASmotHYtrwkIMGmyArKLvaQOz.jpg"
+    },
+    {
+      "nombre": "Will Angus",
+      "personaje": "Davis Beau Bradley Barrett III",
+      "foto": "https://image.tmdb.org/t/p/w500/5BGFShvByj9XKSeFWFeXGVr42bL.jpg"
+    },
+    {
+      "nombre": "Nicholas Duvernay",
+      "personaje": "Kel Washington",
+      "foto": "https://image.tmdb.org/t/p/w500/kJQt4ZiGVbfVrVJQgrPLRYh8vqQ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mindy Kaling",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charlie Grandy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Howard Klein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ayesha Rokadia",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Aimee Roth",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Lila Neugebauer",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mindy Kaling",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charlie Grandy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Howard Klein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ayesha Rokadia",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Aimee Roth",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Gabriel Mann",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Brian Abbott",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Rebecca Woodfork-Ziegler",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Ellen Christiansen",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Michael Ahern",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Lila Neugebauer",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Sarah Tapscott",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Marina Cockenberg",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Beth Appel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Warburton",
+      "rol": "Consulting Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.478,
+    "imdb": "tt35823838",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=_CKs7rMx-eU"
+}
