@@ -1,0 +1,55 @@
+{
+  "id_tmdb": 3579,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/vjwWVj2u6wqNiADaf1hbSlxFRbJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ta4Py9F1nHmttpAYEg4vB8wN08z.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/zC4STDgPji4xkQeYdm88NhN6Esg.png",
+  "titulo": "Los Castores Cascarrabias",
+  "titulo_original": "The Angry Beavers",
+  "fecha_estreno": "1997-04-19",
+  "duracion": "10min",
+  "año": "1997",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids",
+    "Familia"
+  ],
+  "puntuacion": 6.953,
+  "sinopsis": "Dos hermanos castores, Norbert y Daggett, dejan su casa para vivir solos en el bosque. Sus aventuras hacen que ellos saquen su lado malo muy a menudo, por lo que lleva el nombre de Los Castores Cascarrabias.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Richard Steven Horvitz",
+      "personaje": "Daggett (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pyL1MykCkuKTAp23PmmD6T8HVbn.jpg"
+    },
+    {
+      "nombre": "Nick Bakay",
+      "personaje": "Norbert (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eR0yPc2pvaogObhEZWfXENafHqk.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mitch Schauer",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mitch Schauer",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.953,
+    "imdb": "tt0131664",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nickelodeon",
+  "trailer": "https://www.youtube.com/watch?v=1-OGanGP-y8"
+}
