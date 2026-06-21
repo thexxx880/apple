@@ -1,0 +1,85 @@
+{
+  "id_tmdb": 117378,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/Agwx9Ob4vhgZwTSiDg9HQurfhtn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ikU9een11dr6UFy0XzQMJv3YJQq.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/vV5DlRybmNJrfmyymkv6yaAD3og.png",
+  "titulo": "Mouse",
+  "titulo_original": "마우스",
+  "fecha_estreno": "2021-03-03",
+  "duracion": "76min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Misterio",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.4,
+  "sinopsis": "Los despiadados asesinatos en serie de un psicópata han dejado a toda la nación sumida en el miedo y el caos. Un policía novato, honesto y justiciero, y un veterano detective con un pasado trágico, se enfrentan al asesino. Tras el encuentro con el psicópata, sus vidas cambian totalmente.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "이승기",
+      "personaje": "Jung Ba-reum",
+      "foto": "https://image.tmdb.org/t/p/w500/urz7CEh9rpC9GFqh5ht8R65dY9w.jpg"
+    },
+    {
+      "nombre": "Lee Hee-jun",
+      "personaje": "Go Moo-chi",
+      "foto": "https://image.tmdb.org/t/p/w500/4slyXnHbKgzmeyJNetBSORgDDEF.jpg"
+    },
+    {
+      "nombre": "박주현",
+      "personaje": "Oh Bong-yi",
+      "foto": "https://image.tmdb.org/t/p/w500/2xfmCqWWNE3wLAUg2WlByP9kvMP.jpg"
+    },
+    {
+      "nombre": "권화운",
+      "personaje": "Sung Yo-han",
+      "foto": "https://image.tmdb.org/t/p/w500/oLyUb2lIGY9o0IdjarcYIsNRkCu.jpg"
+    },
+    {
+      "nombre": "경수진",
+      "personaje": "Choi Hong-ju",
+      "foto": "https://image.tmdb.org/t/p/w500/5gdThWkpzuNkNyQ6Cw29oOefvXO.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "강철우",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Choi Joon-bae",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sung Chi-wook",
+      "rol": "Co-Director"
+    },
+    {
+      "nombre": "강철우",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Choi Joon-bae",
+      "rol": "Director"
+    },
+    {
+      "nombre": "최란",
+      "rol": "Screenplay"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.4,
+    "imdb": "tt13634792",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": "https://www.youtube.com/watch?v=i_K9U3gE9os"
+}
