@@ -1,0 +1,68 @@
+{
+  "id_tmdb": 198004,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/auknE4JO3oLXNe2Go8tz6v4DPhY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/k5YzhEjmBUTk2wfONYBKdbv8LAZ.png",
+  "titulo": "King the Land",
+  "titulo_original": "킹더랜드",
+  "fecha_estreno": "2023-06-17",
+  "duracion": "71min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 8.198,
+  "sinopsis": "Gu Won es un hijo de una familia chaebol. Su familia es propietaria y dirige King Group. Luego se ve envuelto en una guerra de herencia por el King Group. Gu Won es un joven inteligente, elegante y chic, pero no es muy bueno con las citas. No puede resistir una sonrisa falsa.\n\nCheon Sa Rang tiene una personalidad brillante, con una cara sonriente. Comienza a trabajar en el King Hotel, que fue el telón de fondo de algunos de los recuerdos más felices de su infancia. Mientras trabaja en el hotel, se enfrenta a varias dificultades. Ella también crece como persona. Gu Won y Cheon Sa Rang se conocen y se desarrolla una relación romántica.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lee Junho",
+      "personaje": "Gu Won",
+      "foto": "https://image.tmdb.org/t/p/w500/DJYwG0eWdCoxvqWhLsnJNKQlMR.jpg"
+    },
+    {
+      "nombre": "윤아",
+      "personaje": "Cheon Sa-rang",
+      "foto": "https://image.tmdb.org/t/p/w500/JzAuAv17bWkLxVtfi9YJvQJhZl.jpg"
+    },
+    {
+      "nombre": "고원희",
+      "personaje": "Oh Pyeong-hwa",
+      "foto": "https://image.tmdb.org/t/p/w500/iHGHhIe4keVyxzUKNB0skR1wfGW.jpg"
+    },
+    {
+      "nombre": "김가은",
+      "personaje": "Kang Da-eul",
+      "foto": "https://image.tmdb.org/t/p/w500/x5xv6LcBvMWj5sGFDs5mOkFXwow.jpg"
+    },
+    {
+      "nombre": "안세하",
+      "personaje": "Noh Sang-sik",
+      "foto": "https://image.tmdb.org/t/p/w500/ah6E27lc3UJrLPLArSEsgY4GXCu.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "표종록",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "표종록",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.198,
+    "imdb": "tt26693803",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=6798ZL1aaYg"
+}
