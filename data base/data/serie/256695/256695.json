@@ -1,0 +1,117 @@
+{
+  "id_tmdb": 256695,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6lubCRop1vxpZ2aqw4pWO3DA6Qn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/Zk5UmvJ634LhA56R18h8RfipFG.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/smVbFHV8eXz2hDCcQN5gnGdXNLh.png",
+  "titulo": "Un Show Más: Las Cintas Perdidas",
+  "titulo_original": "Regular Show: The Lost Tapes",
+  "fecha_estreno": "2026-05-11",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 9.608,
+  "sinopsis": "Mordecai y Rigby son mejores amigos, y trabajan y viven en un parque de la ciudad. Sus trabajos mundanos siempre terminan en un caos surrealista.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "J.G. Quintel",
+      "personaje": "Mordecai / Hi Five Ghost (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iVrY1k1ggfYUy8o9eY8XHAhu6f1.jpg"
+    },
+    {
+      "nombre": "William Salyers",
+      "personaje": "Rigby (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lB1R4NwWAlBnWkYCJdOrVDq92H2.jpg"
+    },
+    {
+      "nombre": "Sam Marin",
+      "personaje": "Pops / Benson / Muscle Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fWNACxcmaVQSJilCBCfqHoEbbLy.jpg"
+    },
+    {
+      "nombre": "Mark Hamill",
+      "personaje": "Skips (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "J.G. Quintel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sean Szeles",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ryan Slater",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "J.G. Quintel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sean Szeles",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ryan Slater",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Toby Jones",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Paula Spence",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Sarah Noonan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Agnes Kim",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mark Mothersbaugh",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John Enroth",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Albert Fox",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9.608,
+    "imdb": "tt32604054",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=0AMjxbPbWPw"
+}
