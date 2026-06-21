@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 80743,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lHZ4xqGQlmyiFTOVtwnNpTcZgkd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4trlTnhJEpTWcamNQqqmleArW4Q.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/uDS7EdmxRW433ax1gdMZm0lUG85.png",
+  "titulo": "Insatiable",
+  "titulo_original": "Insatiable",
+  "fecha_estreno": "2018-08-10",
+  "duracion": "45min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 7.751,
+  "sinopsis": "Patty Bladell (Debby Ryan) es una adolescente que ha sufrido acoso en el colegio por ser gorda, encuentra años después en los concursos de belleza, reconvertida en una atractiva joven, un modo de vengarse de sus antiguas compañeras.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Debby Ryan",
+      "personaje": "Patty Bladell",
+      "foto": "https://image.tmdb.org/t/p/w500/hYMnrAO1fZx9tPmIM8xajliVT1N.jpg"
+    },
+    {
+      "nombre": "Dallas Roberts",
+      "personaje": "Bob Armstrong",
+      "foto": "https://image.tmdb.org/t/p/w500/b7jMTaNJ9aBTXXy7gdwqn9jb6EF.jpg"
+    },
+    {
+      "nombre": "Kimmy Shields",
+      "personaje": "Nonnie Thompson",
+      "foto": "https://image.tmdb.org/t/p/w500/bDOP45DyZ1wYWyX6j7mFgRZU0gu.jpg"
+    },
+    {
+      "nombre": "Christopher Gorham",
+      "personaje": "Bob Barnard",
+      "foto": "https://image.tmdb.org/t/p/w500/dKFXHJ3KBJaeQ50udMdBEC0VFvI.jpg"
+    },
+    {
+      "nombre": "Alyssa Milano",
+      "personaje": "Coralee Armstrong",
+      "foto": "https://image.tmdb.org/t/p/w500/q5RAaX57dLvlpigAhbX3lCb2dkZ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Rick Cleveland",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Suzanne C. Geiger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Scott King",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Denise Pleune",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lauren Gussis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrew Fleming",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Dillon",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Rick Cleveland",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Suzanne C. Geiger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kristie Suffield",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Scott King",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Denise Pleune",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andre Sobczak",
+      "rol": "Dolly Grip"
+    },
+    {
+      "nombre": "Christopher L. Miller",
+      "rol": "Key Rigging Grip"
+    },
+    {
+      "nombre": "Cris Toebben",
+      "rol": "Lighting Technician"
+    },
+    {
+      "nombre": "Lauren Gussis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrew Fleming",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Erik H. Magnus",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Rickley W. Dumm",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Bradley Powell",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Nina Wass",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.751,
+    "imdb": "tt6487482",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=OGrl9xgGZow"
+}
