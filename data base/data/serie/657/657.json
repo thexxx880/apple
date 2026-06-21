@@ -1,0 +1,68 @@
+{
+  "id_tmdb": 657,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ydi5M4Dq10Doi9PPkkN95T8ao7Z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gukyN6QKyApB9kXpnluvMMNNzNS.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3WSLgWPq4FrcwMSSAtclYbn8uMl.png",
+  "titulo": "La vida moderna de Rocko",
+  "titulo_original": "Rocko's Modern Life",
+  "fecha_estreno": "1993-09-18",
+  "duracion": "12min",
+  "año": "1993",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 7.5,
+  "sinopsis": "Serie animada que trataba de un Wallaby llamado Rocko, que vivía en una ciudad llamada O-Town con su perro Spunky y otros personajes.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Carlos Alazraqui",
+      "personaje": "Rocko (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Heffer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+    },
+    {
+      "nombre": "Mr. Lawrence",
+      "personaje": "Filburt (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gWFgxlREzbaPPdWsQZSCdjrFozy.jpg"
+    },
+    {
+      "nombre": "Charlie Adler",
+      "personaje": "Ed Bighead / Bev Bighead (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hVENHdlEqsX6vhBW4MTpfYEFFQ3.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joe Murray",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gary McCarver",
+      "rol": "Animation Manager"
+    },
+    {
+      "nombre": "Joe Murray",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.5,
+    "imdb": "tt0106115",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nickelodeon",
+  "trailer": "https://www.youtube.com/watch?v=OFxJDFodce4"
+}
