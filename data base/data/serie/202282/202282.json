@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 202282,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dhb5lfSpElYIaLLyJjeswn2dfnl.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ia2xuPfyKku79EMMXZYwXOAuQM7.png",
+  "titulo": "Rick y Morty: El Anime",
+  "titulo_original": "Rick and Morty: The Anime",
+  "fecha_estreno": "2024-08-16",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 5.18,
+  "sinopsis": "Rick se relaja en un pseudomundo entre multiversos, Summer ayuda a Beth Espacial a luchar contra la malvada Federación Galáctica, y Morty se enamora.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "多田野曜平",
+      "personaje": "Rick (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cURhpjc2wfIRr1gRWYI0aSkZEhD.jpg"
+    },
+    {
+      "nombre": "Keisuke Chiba",
+      "personaje": "Morty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nJKLGGhvnPsp8knJTNcP3XhNR1x.jpg"
+    },
+    {
+      "nombre": "松井暁波",
+      "personaje": "Summer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uNiIs7Id6LrpGboUqgGMVdzDl2C.jpg"
+    },
+    {
+      "nombre": "村治学",
+      "personaje": "Jerry (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/l3YxHOtIEWjULyol8A36xLfBZKN.jpg"
+    },
+    {
+      "nombre": "藤貴子",
+      "personaje": "Beth (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/efoDNuBBboAhnzHIkiw72AFdSvX.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Takenari Maeda",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joseph Chou",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason DeMarco",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Maki Nagano",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "西雅太郎",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cody DeMatteis",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "松沢有紗",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Yosuke Fukuba",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Yuuki Kakizoe",
+      "rol": "Other"
+    },
+    {
+      "nombre": "曹毅",
+      "rol": "CGI Director"
+    },
+    {
+      "nombre": "浄園祐",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Cameron Earnshaw",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Takenari Maeda",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "笠原義宏",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Hiroshi Fujimaki",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "小林香織",
+      "rol": "Special Effects Supervisor"
+    },
+    {
+      "nombre": "Yoshinori Nakamura",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "高橋徹也",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Joseph Chou",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason DeMarco",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Maki Nagano",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.18,
+    "imdb": "tt28466465",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime, Animations Adult, Paramount",
+  "trailer": "https://www.youtube.com/watch?v=uFitwNQhRq4"
+}
