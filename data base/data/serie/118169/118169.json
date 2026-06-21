@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 118169,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lAokWCyL75GjYqIrd3YonKwbaIP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oPFo8uONeXrc1Hy31W4skutFlS1.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/m9aMODSiOl0NcBsi71HhzcABkcr.png",
+  "titulo": "Colin en blanco y negro",
+  "titulo_original": "Colin in Black and White",
+  "fecha_estreno": "2021-10-29",
+  "duracion": "35min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 6.6,
+  "sinopsis": "Colin Kaepernick narra la historia de sus años de formación, cuando enfrentó diferencias de raza, clase y cultura mientras aspiraba a la grandeza.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jaden Michael",
+      "personaje": "Colin Kaepernick",
+      "foto": "https://image.tmdb.org/t/p/w500/xXhbEcicacePnh7cH012Ji6JUFq.jpg"
+    },
+    {
+      "nombre": "Mary-Louise Parker",
+      "personaje": "Teresa Kaepernick",
+      "foto": "https://image.tmdb.org/t/p/w500/iY3iyH3mBQwmKlA0sj1J36uHTgB.jpg"
+    },
+    {
+      "nombre": "Nick Offerman",
+      "personaje": "Rick Kaepernick",
+      "foto": "https://image.tmdb.org/t/p/w500/f6z3mPVtaF40ewfdmZydprAjmYd.jpg"
+    },
+    {
+      "nombre": "Colin Kaepernick",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9ossxjX5ZLg2VaYzi5FRJf4Ejr7.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Starrbury",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ava DuVernay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Colin Kaepernick",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul Goodwin Garnes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Perlman Bremner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kelly Calligan",
+      "rol": "Associate Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Starrbury",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ava DuVernay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Colin Kaepernick",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Albert Romero",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Dominique Dawson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Matthew J. Lloyd",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Scott Dougan",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Toi Whitaker",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Joe DeAngelis",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Safowa Bright-Asare",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Hnedel Maximore",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Paul Goodwin Garnes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Sheppard",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Silvia Polanco",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Lauren Stephens",
+      "rol": "Supervising Sound Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": "tt12624928",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=yqJFWS81Mf4"
+}
