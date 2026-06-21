@@ -1,0 +1,77 @@
+{
+  "id_tmdb": 295509,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ees0wX2e2OHirB1fTFjdQ6r1Q7O.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/q1k3dLG367ugCKiCmeWooLy8v5A.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/qe82pEsB0ubb7ZKxRmJPd7oDFm4.png",
+  "titulo": "La leyenda del cocinero del ejército",
+  "titulo_original": "취사병 전설이 되다",
+  "fecha_estreno": "2026-05-11",
+  "duracion": "60min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 8,
+  "sinopsis": "Un joven se une al ejército tras la muerte de su padre. De pronto, se embarca en una misión para convertirse en un gran cocinero y descubrir secretos.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "박지훈",
+      "personaje": "Kang Sung-jae",
+      "foto": "https://image.tmdb.org/t/p/w500/zbNZZ8o6qF3gaDndsq76h19Pe33.jpg"
+    },
+    {
+      "nombre": "윤경호",
+      "personaje": "Park Jae-young",
+      "foto": "https://image.tmdb.org/t/p/w500/217cVZqyvJypi4OR1uvxoaJxvLm.jpg"
+    },
+    {
+      "nombre": "한동희",
+      "personaje": "Cho Ye-rin",
+      "foto": "https://image.tmdb.org/t/p/w500/nltWyQ738gemdw2ghC4aebzGMXD.jpg"
+    },
+    {
+      "nombre": "이홍내",
+      "personaje": "Yoon Dong-hyun",
+      "foto": "https://image.tmdb.org/t/p/w500/fZTSESUAmiyl6w5GutEhwtpwxv6.jpg"
+    },
+    {
+      "nombre": "이상이",
+      "personaje": "Hwang Seok-ho",
+      "foto": "https://image.tmdb.org/t/p/w500/4OSOux7D8ZIbNsA7eINSwmHM9nb.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "조남형",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "조남형",
+      "rol": "Director"
+    },
+    {
+      "nombre": "제이로빈",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "최룡",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": "tt38626513",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": "https://www.youtube.com/watch?v=vw9QdFU2Ckc"
+}
