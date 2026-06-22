@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 454639,
+  "poster": "https://image.tmdb.org/t/p/w500/cDw6Qp3aNZ5x8hWZl35nR2qvMqk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1CMbMjmqg6mXUdaGeNz4fMDG6Re.png",
+  "titulo": "Amos del Universo",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Fantasía",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.2,
+  "año": "2026",
+  "duracion": "2h 21min",
+  "edad_minima": 13,
+  "sinopsis": "En las regiones más lejanas del espacio, el Reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+  "fecha_estreno": "2026-06-03",
+  "titulo_original": "Masters of the Universe",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Nicholas Galitzine",
+      "personaje": "Adam Glenn / He-Man",
+      "foto": "https://image.tmdb.org/t/p/w500/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+    },
+    {
+      "nombre": "Camila Mendes",
+      "personaje": "Teela",
+      "foto": "https://image.tmdb.org/t/p/w500/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+    },
+    {
+      "nombre": "Idris Elba",
+      "personaje": "Duncan / Man-At-Arms",
+      "foto": "https://image.tmdb.org/t/p/w500/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "nombre": "Jared Leto",
+      "personaje": "Skeletor",
+      "foto": "https://image.tmdb.org/t/p/w500/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+    },
+    {
+      "nombre": "Alison Brie",
+      "personaje": "Evil-Lyn",
+      "foto": "https://image.tmdb.org/t/p/w500/uu16GiwYblS6IJV3o4qFSLWKXOC.jpg"
+    },
+    {
+      "nombre": "Jóhannes Haukur Jóhannesson",
+      "personaje": "Malcolm / Fisto",
+      "foto": "https://image.tmdb.org/t/p/w500/oqZftP0WS1rD5NFpR7vLp6JU52I.jpg"
+    },
+    {
+      "nombre": "Jon Xue Zhang",
+      "personaje": "Ram-Man",
+      "foto": "https://image.tmdb.org/t/p/w500/olCEAjH9KeWte5ei24ej8MJAkZz.jpg"
+    },
+    {
+      "nombre": "Sam C. Wilson",
+      "personaje": "Kronis / Trap Jaw",
+      "foto": "https://image.tmdb.org/t/p/w500/riwTkODF3CH1bJZG6K7U3dTUHhb.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Butler",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Travis Knight",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robbie Brenner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Todd Black",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Blumenthal",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aaron Nee",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Adam Nee",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Callaham",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Fabian Wagner",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Guy Hendrix Dyas",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Tom Brown",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Barrie Gower",
+      "rol": "Prosthetic Designer"
+    },
+    {
+      "nombre": "Pippa Woods",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Pippa Woods",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Denise Chamian",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jordana Sapiurka",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Andrew Ackland-Snow",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Richard Sale",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Gareth John",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Liang Yang",
+      "rol": "Stunt Coordinator"
+    }
+  ],
+  "director": "Travis Knight",
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Escape Artists",
+  "enlace_video": "https://hgplaycdn.com/e/b3j2v1drk3tj",
+  "trailer": "https://www.youtube.com/watch?v=rJSmz-zhDxE"
+}
