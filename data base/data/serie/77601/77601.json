@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 77601,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kprB5Jj2LYQAYlqVQMEucT2vGt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/sDuM3zw8OBqfciFVwR2r2loGDte.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kEuwiV5TOLTjbYBpITzV8fRIpra.png",
+  "titulo": "Wild Wild Country",
+  "titulo_original": "Wild Wild Country",
+  "fecha_estreno": "2018-03-16",
+  "duracion": "67min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Documental",
+    "Crimen"
+  ],
+  "puntuacion": 7.709,
+  "sinopsis": "En este documental, el polémico líder de un culto construye una ciudad utópica en Oregón, y el conflicto con los vecinos de la zona se convierte en un escándalo nacional.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ma Anand Sheela",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/v4hIaOxBgfv6WKpD6SjRQjoZQ0v.jpg"
+    },
+    {
+      "nombre": "Jane Stork",
+      "personaje": "Self",
+      "foto": ""
+    },
+    {
+      "nombre": "Jon Bowerman",
+      "personaje": "Self",
+      "foto": ""
+    },
+    {
+      "nombre": "Ma Prem Sunshine",
+      "personaje": "Self",
+      "foto": ""
+    },
+    {
+      "nombre": "Philip Toelkes",
+      "personaje": "Self",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Juliana Lembi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jay Duplass",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Braun",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Cotner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Braun",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Maclain Way",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Juliana Lembi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Swanson",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Brocker Way",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Neil Meiklejohn",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jay Duplass",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Braun",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Cotner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Braun",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Maclain Way",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Carolyn Craddock",
+      "rol": "Coordinating Producer"
+    },
+    {
+      "nombre": "Jonathan Mussman",
+      "rol": "Production Executive"
+    },
+    {
+      "nombre": "Mark Duplass",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chapman Way",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Stone",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mel Eslyn",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.709,
+    "imdb": "tt7768848",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=hBLS_OM6Puk"
+}
