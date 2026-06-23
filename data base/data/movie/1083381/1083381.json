@@ -1,8 +1,8 @@
 {
   "id_tmdb": 1083381,
   "poster": "https://image.tmdb.org/t/p/w500/w8nrM9hCTxoeX96HmTQpC0HbkMY.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-  "logo": "https://image.tmdb.org/t/p/w300/1jPGgz8D23V3BtNp5hObQ1D6pID.png",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/c7HrVvIzUk82zhhV1VawfOqk5IH.png",
   "titulo": "Backrooms: Sin salida",
   "trending": false,
   "generos": [
@@ -11,7 +11,7 @@
     "Ciencia ficción"
   ],
   "calificacion": "B-15",
-  "puntuacion": 6.834,
+  "puntuacion": 6.9,
   "año": "2026",
   "duracion": "1h 51min",
   "edad_minima": 13,
@@ -147,11 +147,11 @@
   ],
   "director": "Kane Parsons",
   "valoraciones": {
-    "tmdb": 6.834,
+    "tmdb": 6.9,
     "imdb": null,
     "rotten_tomatoes": null
   },
   "distribuidora": "Atomic Monster",
   "enlace_video": "https://rumble.com/hls-vod/78skae/playlist.m3u8?u=0&b=0",
-  "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik"
+  "trailer": "https://www.youtube.com/watch?v=9EYRSmbsqzY"
 }
