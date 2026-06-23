@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1141182,
+  "poster": "https://image.tmdb.org/t/p/w500/6PMQDmX69u1rSDoddeC9qS0MK0P.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dUbOGH7CWEIr2aCZBpG2n33Vhw2.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hIpUuEYgmTXJqGXfcZfDmoJGq93.png",
+  "titulo": "El final de nuestros dias",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.26,
+  "año": "2024",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Un joven que tiene amnesia se une a una ruda superviviente en un brote zombi para encontrar a su novia.",
+  "fecha_estreno": "2024-09-27",
+  "titulo_original": "Die Alone",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Carrie-Anne Moss",
+      "personaje": "Mae",
+      "foto": "https://image.tmdb.org/t/p/w500/xD4jTA3KmVp5Rq3aHcymL9DUGjD.jpg"
+    },
+    {
+      "nombre": "Douglas Smith",
+      "personaje": "Ethan",
+      "foto": "https://image.tmdb.org/t/p/w500/rHZPWNxjIrpiHQnEOttscjTVvnm.jpg"
+    },
+    {
+      "nombre": "Frank Grillo",
+      "personaje": "Kai",
+      "foto": "https://image.tmdb.org/t/p/w500/kuEco4vo1xrsM8DyrNSZUEi593P.jpg"
+    },
+    {
+      "nombre": "Kimberly-Sue Murray",
+      "personaje": "Emma",
+      "foto": "https://image.tmdb.org/t/p/w500/wgv04noc4D0L1UIBa5Lvdy5xJ4Q.jpg"
+    },
+    {
+      "nombre": "Jonathan Cherry",
+      "personaje": "Tom",
+      "foto": "https://image.tmdb.org/t/p/w500/t6aBn5Dmu64XHxA6mdL5bwJ8Qx0.jpg"
+    },
+    {
+      "nombre": "Amy Matysio",
+      "personaje": "Jolene",
+      "foto": "https://image.tmdb.org/t/p/w500/bQWkwRf4RM45vyb7nz7rW05HwaW.jpg"
+    },
+    {
+      "nombre": "Steven Roy",
+      "personaje": "The Wolf",
+      "foto": "https://image.tmdb.org/t/p/w500/anqHImdLuP74psvkVBR2bhf4jBY.jpg"
+    },
+    {
+      "nombre": "Harlan Blayne Kytwayhat",
+      "personaje": "The Fox",
+      "foto": "https://image.tmdb.org/t/p/w500/3JpW1upAqAij14t69eNVRF8MpIe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lowell Dean",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lowell Dean",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Benjamin DeWalt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin DeWalt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Danielle Masters",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Dobrescu",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Paul Cadieux",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kirk D'Amico",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin D. Forester",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric Gozlan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lawrence 'Larry' Greenberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elizabeth Hodgson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Isabelle Legault",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Berry Meyerowitz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Montague",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Garrett Patten",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Isabella Marchese Ragona",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Lowell Dean",
+  "valoraciones": {
+    "tmdb": 6.26,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Minds Eye Entertainment",
+  "enlace_video": "https://streamwish.to/e/z693yrg981iw",
+  "trailer": "https://www.youtube.com/watch?v=XWEt2FoIqlU"
+}
