@@ -1,0 +1,154 @@
+{
+  "id_tmdb": 6477,
+  "poster": "https://image.tmdb.org/t/p/w500/xpInKihOnJZ9QePD5letvwDV9W8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lKkkogTlIQT8o83GFQZZ3CA9MzB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/geXOJRLLCkBLsJ2LFd7EMcb8mIg.png",
+  "titulo": "Alvin Y Las Ardillas",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Fantasía",
+    "Animación"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.839,
+  "año": "2007",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Después de probar suerte con un desesperanzado compositor, tres ardillas muy peculiares, Alvin, Simon y Theodore, deciden hacer de la casa de Dave la suya propia. Enseguida las ardillas se dan cuenta de la necesidad de convencer a Dave de que las deje vivir en su casa para demostrarle que no sólo pueden andar como una persona…¡sino que pueden cantar! No tardarán en revelarse como la sensación musical del momento, mientras Dave se convierte en algo más que en su compositor; en su padre. Los problemas comienzan cuando las ardillas comienzan a darse cuenta de su éxito y se rebelan contra Dave.",
+  "fecha_estreno": "2007-12-13",
+  "titulo_original": "Alvin and the Chipmunks",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jason Lee",
+      "personaje": "Dave",
+      "foto": "https://image.tmdb.org/t/p/w500/3duPl6Ve8RnvcouOaXoMCdJf5ln.jpg"
+    },
+    {
+      "nombre": "David Cross",
+      "personaje": "Ian",
+      "foto": "https://image.tmdb.org/t/p/w500/aYsbAtUu5oWk1p8RY31k3w5Emul.jpg"
+    },
+    {
+      "nombre": "Cameron Richardson",
+      "personaje": "Claire",
+      "foto": "https://image.tmdb.org/t/p/w500/g5Ib7uSd7CKNXbDAs67AyeqTNvZ.jpg"
+    },
+    {
+      "nombre": "Jane Lynch",
+      "personaje": "Gail",
+      "foto": "https://image.tmdb.org/t/p/w500/nye6D17ZfCHQzr9faYZYyz1CPsZ.jpg"
+    },
+    {
+      "nombre": "Justin Long",
+      "personaje": "Alvin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7TGXeHw4o86IBm6xknQotpludXK.jpg"
+    },
+    {
+      "nombre": "Matthew Gray Gubler",
+      "personaje": "Simon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/whjyRyKogwP18w8meMdJD5UFfX8.jpg"
+    },
+    {
+      "nombre": "Jesse McCartney",
+      "personaje": "Theodore (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4Amtwnuh5eaGOMcl3NMHJXyRbrg.jpg"
+    },
+    {
+      "nombre": "Allison Karman",
+      "personaje": "Female Intern 1",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tim Hill",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Janice Karman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ross Bagdasarian",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Will McRobb",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chris Viscardi",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jon Vitti",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jon Vitti",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michele Imperato Stabile",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "George Fisher",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Charlie Daboub",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "David MacMillan",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Michael Axinn",
+      "rol": "ADR Editor"
+    },
+    {
+      "nombre": "Gloria D'Alessandro",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Lissette Schettini",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Kevin E. Patterson",
+      "rol": "Utility Sound"
+    },
+    {
+      "nombre": "Toni-Ann Walker",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "R.J. Kizer",
+      "rol": "ADR Editor"
+    },
+    {
+      "nombre": "Shane D. Kelly",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Anne D. McCulley",
+      "rol": "Set Decoration"
+    }
+  ],
+  "director": "Tim Hill",
+  "valoraciones": {
+    "tmdb": 5.839,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fox 2000 Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/af/s8/2/m/1/o/4/m1o4y.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=lX2dFTRMVvQ"
+}
