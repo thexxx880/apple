@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 170687,
+  "poster": "https://image.tmdb.org/t/p/w500/tFElyskZdLHcFaIhesNEPtqKSBd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q2vz5DeLbegD2teJU29Gtb4t2sO.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rCT02o1Pn3vbzRZU02Z7c2MX49z.png",
+  "titulo": "Los Boxtrolls",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.716,
+  "año": "2014",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Los Boxtrolls es una fábula cómica que se desarrolla en Cheesebridge, una ciudad Post Victoriana obsesionada con la riqueza, clase y los quesos más apestosos. Debajo de sus encantadoras calles empedradas habitan los Boxtrolls, monstruos que se arrastran por las alcantarillas en la noche y roban lo que los ciudadanos más aprecian: sus niños y su queso. Al menos esa es la leyenda que los habitantes siempre han creído. La verdad es que los Boxtrolls son una comunidad subterránea de seres raros estrafalarios y adorables que usan cajas recicladas como ropa de la misma forma que las tortugas usan sus caparazones.",
+  "fecha_estreno": "2014-09-10",
+  "titulo_original": "The Boxtrolls",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ben Kingsley",
+      "personaje": "Snatcher (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+    },
+    {
+      "nombre": "Isaac Hempstead Wright",
+      "personaje": "Eggs (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/g6ZreLmGrrOzaUCGVFRNPAWfcso.jpg"
+    },
+    {
+      "nombre": "Elle Fanning",
+      "personaje": "Winnie Portley-Rind (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ucC5faqfEYVhoC25M6Hi3znZmab.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Fish / Wheels / Bucket (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Toni Collette",
+      "personaje": "Lady Cynthia Portley-Rind (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg"
+    },
+    {
+      "nombre": "Jared Harris",
+      "personaje": "Lord Portley-Rind (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg"
+    },
+    {
+      "nombre": "Nick Frost",
+      "personaje": "Mr. Trout (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg"
+    },
+    {
+      "nombre": "Richard Ayoade",
+      "personaje": "Mr. Pickles (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qHKoy9kP4bsv4G9EkvU4FMUmYkS.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Graham Annable",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Anthony Stacchi",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Irena Brignull",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Travis Knight",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Pava",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Bleiman Ichioka",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alan Snow",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Daniel Alderson",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Stephen Bodin",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Jon David Buffam",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Sean Burns",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Kristien Vanden Bussche",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Payton Curtis",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Adam Fisher",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Mael Gourmelen",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Charles Greenfield",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Brian Leif Hansen",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Mike Hollenbeck",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Graham Annable",
+  "valoraciones": {
+    "tmdb": 6.716,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "LAIKA",
+  "enlace_video": "https://vimeos.net/embed-4ivhgao0illb.html",
+  "trailer": "https://www.youtube.com/watch?v=eduq1KghxZo"
+}
