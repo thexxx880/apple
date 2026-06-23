@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 81188,
+  "poster": "https://image.tmdb.org/t/p/w500/deTVL9lgx1yegoN4JXSdRcrVr6m.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sDPk862OKB0Ckkvebo4M2k5AKly.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7MzYKrGYTuglmtOCKhooNf7zNyx.png",
+  "titulo": "El Origen De Los Guardianes",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Animación",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.377,
+  "año": "2012",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "'El origen de los guardianes' es una aventura épica y mágica que cuenta la historia de Santa Claus, el Conejo de Pascua, el Hada de los Dientes y Jack Frost - personajes legendarios con desconocidas habilidades extraordinarias. Cuando un espíritu maligno, conocido como Sombra, decide inundar de miedo los corazones de los niños, los Guardianes inmortales unen sus fuerzas para proteger los deseos, las creencias y la imaginación de los niños.",
+  "fecha_estreno": "2012-11-21",
+  "titulo_original": "Rise of the Guardians",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chris Pine",
+      "personaje": "Jack Frost (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7mHvPL2TsfMBEeEmO0Iww8hpQXZ.jpg"
+    },
+    {
+      "nombre": "Alec Baldwin",
+      "personaje": "North (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
+    },
+    {
+      "nombre": "Jude Law",
+      "personaje": "Pitch (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1rTmD8B1YAE1MrrBJs4krIiIvNM.jpg"
+    },
+    {
+      "nombre": "Isla Fisher",
+      "personaje": "Tooth (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vVeKcMyFMPcIDLYNAnGSGnQrJ3k.jpg"
+    },
+    {
+      "nombre": "Hugh Jackman",
+      "personaje": "Bunny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg"
+    },
+    {
+      "nombre": "Dakota Goyo",
+      "personaje": "Jamie Bennett (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xHfxZDILa8JRZu5OoaXKiDa781o.jpg"
+    },
+    {
+      "nombre": "Isabella Blake-Thomas",
+      "personaje": "British Girl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7VG2KcXdtHwe6KC5itVzKPaEJA5.jpg"
+    },
+    {
+      "nombre": "Jacob Bertrand",
+      "personaje": "Monty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/n1L9dyr5be0MdAmhO9rJ3vtgiZH.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Peter Ramsey",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Lindsay-Abaire",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Nancy Bernstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christina Steinberg",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "William Joyce",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Kendra Vander Vliet",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Jean-Francois Rey",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Chris Appelhans",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "Simon Rodgers",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "Shane Prigmore",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "David G. Derrick Jr.",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Gabe Hordos",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Tom Jacomb",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Blake Collins",
+      "rol": "Additional Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Dale Carman",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Mike Roy",
+      "rol": "Thanks"
+    }
+  ],
+  "director": "Peter Ramsey",
+  "valoraciones": {
+    "tmdb": 7.377,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://vimeos.net/embed-i6d9xgff8wvn.html",
+  "trailer": "https://www.youtube.com/watch?v=aPLiBxhoug0"
+}
