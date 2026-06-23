@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 585245,
+  "poster": "https://image.tmdb.org/t/p/w500/5rWT1jJD5NJmbt0bJXDb3vKOQsh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zBkHCpLmHjW2uVURs5uZkaVmgKR.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rwDQgwrpKDTvjWppSQN2MNJzOwq.png",
+  "titulo": "Clifford: El Gran Perro Rojo",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Aventura",
+    "Comedia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.158,
+  "año": "2021",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando Emily Elizabeth conoce a un rescatador mágico de animales que le regala un pequeño cachorro rojo, nunca se hubiera imaginado que al despertarse se encontraría un sabueso gigante de tres metros en su pequeño apartamento de Nueva York. Mientras su madre soltera se encuentra de viaje de negocios, Emily y su divertido pero impulsivo tío Casey se embarcan en una gran aventura.",
+  "fecha_estreno": "2021-11-10",
+  "titulo_original": "Clifford the Big Red Dog",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Darby Camp",
+      "personaje": "Emily Elizabeth",
+      "foto": "https://image.tmdb.org/t/p/w500/bAKZukutoDPpd7CvZ0KxEOE0A7n.jpg"
+    },
+    {
+      "nombre": "Jack Whitehall",
+      "personaje": "Casey",
+      "foto": "https://image.tmdb.org/t/p/w500/qBHLpjH3Dad9ZoZsrcMplIPwkHC.jpg"
+    },
+    {
+      "nombre": "Izaac Wang",
+      "personaje": "Owen Yu",
+      "foto": "https://image.tmdb.org/t/p/w500/4vYS9NuDUFhzT9B9pFyjDTeNZiY.jpg"
+    },
+    {
+      "nombre": "John Cleese",
+      "personaje": "Mr. Bridwell",
+      "foto": "https://image.tmdb.org/t/p/w500/nQpBf77cStmR35V0XOinm2zZMWG.jpg"
+    },
+    {
+      "nombre": "Tony Hale",
+      "personaje": "Zack Tieran",
+      "foto": "https://image.tmdb.org/t/p/w500/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg"
+    },
+    {
+      "nombre": "David Alan Grier",
+      "personaje": "Packard",
+      "foto": "https://image.tmdb.org/t/p/w500/2BJ2sueZu98fOMZ9Z1tbUzUTxw9.jpg"
+    },
+    {
+      "nombre": "Paul Rodríguez",
+      "personaje": "Sanchez",
+      "foto": "https://image.tmdb.org/t/p/w500/e6VaplhEMi8uh3xOl8PThkaAVI8.jpg"
+    },
+    {
+      "nombre": "Horatio Sanz",
+      "personaje": "Raul",
+      "foto": "https://image.tmdb.org/t/p/w500/ckz64bpwFOhF1tMu1klDk5AT9Ck.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Blaise Hemingway",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Justin Malen",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ellen Rapoport",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Walt Becker",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jordan Kerner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Ronn",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Deborah Forte",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jay Scherick",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Deborah Forte",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Valerii An",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan Hook",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Stephen Vincent",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Allen Battino",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Brian Oliver",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Norman Bridwell",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Peter Lyons Collister",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Brian Bell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Debney",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Amanda Mackey",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Caitlin Friedman",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Walt Becker",
+  "valoraciones": {
+    "tmdb": 7.158,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://vimeos.net/embed-g0m29s5s9l40.html",
+  "trailer": "https://www.youtube.com/watch?v=GGpVvQiXIgI"
+}
