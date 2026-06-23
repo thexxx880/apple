@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 522478,
+  "poster": "https://image.tmdb.org/t/p/w500/7qb6u23jMucfMlJ4MCSFo8djka1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5HjzYTihkH7EvOWSE7KcsF6pBMM.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/oUlPerEoUMfirOfgt0pG0x3Zozt.png",
+  "titulo": "Peter Rabbit 2: Conejo en fuga",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7,
+  "año": "2021",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "A pesar de sus esfuerzos, Peter parece que no puede sacudir su reputación de travieso entre los otros conejos. Una vez que sale del jardín, Peter se encuentra en un mundo donde aprecian las travesuras están bien vistas y toleradas, pero su familia viene a buscarlo para traerlo de vuelta a casa.",
+  "fecha_estreno": "2021-03-25",
+  "titulo_original": "Peter Rabbit 2: The Runaway",
+  "pais_origen": "Australia",
+  "reparto": [
+    {
+      "nombre": "James Corden",
+      "personaje": "Peter Rabbit (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xGB0gfZ48M27gQjjL7inJIh1Pqj.jpg"
+    },
+    {
+      "nombre": "Rose Byrne",
+      "personaje": "Bea",
+      "foto": "https://image.tmdb.org/t/p/w500/4Vd7w19asuBfUGgz0NIuQI5wxIA.jpg"
+    },
+    {
+      "nombre": "Domhnall Gleeson",
+      "personaje": "Mr. Thomas McGregor",
+      "foto": "https://image.tmdb.org/t/p/w500/a63BgOBKzJ9XPaLFyu7u5Ge3REG.jpg"
+    },
+    {
+      "nombre": "David Oyelowo",
+      "personaje": "Nigel Basil-Jones",
+      "foto": "https://image.tmdb.org/t/p/w500/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg"
+    },
+    {
+      "nombre": "Margot Robbie",
+      "personaje": "Flopsy Rabbit / The Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+    },
+    {
+      "nombre": "Elizabeth Debicki",
+      "personaje": "Mopsy Rabbit (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sJxj44aKdY0pjSIgnxBgMWLrQmw.jpg"
+    },
+    {
+      "nombre": "Aimee Horne",
+      "personaje": "Cottontail Rabbit (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/z0snWamlA5PlmoObpH2PZ5B3MIb.jpg"
+    },
+    {
+      "nombre": "Colin Moody",
+      "personaje": "Benjamin Bunny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gWkLVy9mY68LCGASgThWQSPC9hF.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Will Gluck",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Will Gluck",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Patrick Burleigh",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Will Gluck",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Zareh Nalbandian",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Catherine Bishop",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jodi Hildebrand",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Aaron Healey",
+      "rol": "Swing"
+    },
+    {
+      "nombre": "Anna Gregory",
+      "rol": "Swing"
+    },
+    {
+      "nombre": "Oliver Hay",
+      "rol": "Swing"
+    },
+    {
+      "nombre": "Sally Eccleston",
+      "rol": "\"C\" Camera Operator"
+    },
+    {
+      "nombre": "Charmian Gradwell",
+      "rol": "Dialect Coach"
+    },
+    {
+      "nombre": "Rob Coleman",
+      "rol": "Head of Animation"
+    },
+    {
+      "nombre": "Damian Wyvill",
+      "rol": "First Assistant \"B\" Camera"
+    },
+    {
+      "nombre": "Reetu Aggarwal",
+      "rol": "3D Artist"
+    },
+    {
+      "nombre": "Jason Lust",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Emma Topping",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ronan Binding",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Peter Menzies Jr.",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Will Gluck",
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://vimeos.net/embed-vjc8j80voaai.html",
+  "trailer": "https://www.youtube.com/watch?v=UUdHspgTLZ4"
+}
