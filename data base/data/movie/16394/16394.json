@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 16394,
+  "poster": "https://image.tmdb.org/t/p/w500/qTCvI3AXpritP3fCHo7TcJkIbzM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eg6db3KpXpUBfFaWQNa7S6Ob3MC.jpg",
+  "logo": null,
+  "titulo": "Winnie Pooh: Nuevas aventuras con Rito",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.7,
+  "año": "2004",
+  "duracion": "1h 5min",
+  "edad_minima": 13,
+  "sinopsis": "Cuento está protagonizado por Winnie the Pooh y su pequeño amiguito, Roo. Cada año Rabbit trae un huevo de Pascua. Pero este año no ha sido así. Si no hay huevo de Pascua significa que no hay ningún dulce para Pooh, nada de caza para Tigger, ninguna cesta para el cochinillo, ningunas orejas mullidas de conejo para Eeyore y nada de diversión para Roo. Rabbit espera que todos entren en acción: ¡que frieguen, quiten el polvo, y barran! Pero el amor y la sabiduría de Roo demuestran a Rabbit que los días especiales deben ser compartidos de una manera especial.",
+  "fecha_estreno": "2004-03-09",
+  "titulo_original": "Winnie the Pooh: Springtime with Roo",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jim Cummings",
+      "personaje": "Winnie The Pooh / Tigger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "nombre": "Ken Sansom",
+      "personaje": "Rabbit (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2pvv1gFv5V0IlLY6rBz0Y4YLMyc.jpg"
+    },
+    {
+      "nombre": "Jimmy Bennett",
+      "personaje": "Roo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8ktMwTxDqgyiYKdIB5dWEuX2zG1.jpg"
+    },
+    {
+      "nombre": "David Ogden Stiers",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg"
+    },
+    {
+      "nombre": "John Fiedler",
+      "personaje": "Piglet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/27sXisLWQJQ49PD40j89miNhL73.jpg"
+    },
+    {
+      "nombre": "Peter Cullen",
+      "personaje": "Eeyore (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
+    },
+    {
+      "nombre": "Kath Soucie",
+      "personaje": "Kanga (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dSE1JtsdA1aSgIIw415bsXtmkPg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Saul Blinkoff",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Elliot M. Bour",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tom Rogers",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "John A. Smith",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "A.A. Milne",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Norman Baculi",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Lorna Sun",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Mark Watters",
+      "rol": "Orchestrator"
+    },
+    {
+      "nombre": "Morten Folmer Nielsen",
+      "rol": "ADR Recordist"
+    },
+    {
+      "nombre": "Mark Watters",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Morten Folmer Nielsen",
+      "rol": "ADR Editor"
+    },
+    {
+      "nombre": "Dominick Certo",
+      "rol": "Supervising Music Editor"
+    },
+    {
+      "nombre": "Andrew Kinney",
+      "rol": "Orchestrator"
+    },
+    {
+      "nombre": "James Thatcher",
+      "rol": "Musician"
+    },
+    {
+      "nombre": "Dominick Certo",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Jamie Thomason",
+      "rol": "Casting Director"
+    }
+  ],
+  "director": "Saul Blinkoff",
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney Television Animation",
+  "enlace_video": "https://dood.to/e/wjqb9eimyp83",
+  "trailer": "https://www.youtube.com/watch?v=4zxBHt-yljE"
+}
