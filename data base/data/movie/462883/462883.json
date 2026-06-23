@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 462883,
+  "poster": "https://image.tmdb.org/t/p/w500/pIAJdRmLGt6kOu8qu6c6NmKk8wl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xG1rDofqghJBN9N0Pbko1q1WOxY.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/olrLW3FMxCoQe1G0Ho23PWAtRJT.png",
+  "titulo": "El Pájaro Loco: La Película",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Animación"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.6,
+  "año": "2017",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Lance Walters, un respetado abogado que, después de ser forzado a “retirarse tempranamente”, decide dejar la ciudad y mudarse a un pequeño pueblo con su prometida Vanessa y con su hijo Tommy. Lance planea construir una mega mansión, pero las cosas no resultan como planea ya que está construyendo en el territorio de un ave hiperactiva de cabeza roja, con quien comienza una guerra para conservar su hogar; ¿Adivinen quién está de regreso? El ave más bromista y famosa de todos los tiempos, Woody Woodpecker.",
+  "fecha_estreno": "2017-10-05",
+  "titulo_original": "Woody Woodpecker",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Eric Bauza",
+      "personaje": "Woody Woodpecker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+    },
+    {
+      "nombre": "Timothy Omundson",
+      "personaje": "Lance Walters",
+      "foto": "https://image.tmdb.org/t/p/w500/fPhLMiodU7mVegOYvJ8aoj84ZHJ.jpg"
+    },
+    {
+      "nombre": "Thaila Ayala",
+      "personaje": "Vanessa",
+      "foto": "https://image.tmdb.org/t/p/w500/cqYxvSXju0RJPV4uhJkDPzsHCae.jpg"
+    },
+    {
+      "nombre": "Graham Verchere",
+      "personaje": "Tommy Walters",
+      "foto": "https://image.tmdb.org/t/p/w500/hrbWtaERuDQsBQVArA3nJhPO8dC.jpg"
+    },
+    {
+      "nombre": "Jordana Largy",
+      "personaje": "Samantha Bartlett",
+      "foto": "https://image.tmdb.org/t/p/w500/a6NAez2SywVsklnNzbkquFEmcST.jpg"
+    },
+    {
+      "nombre": "Scott McNeil",
+      "personaje": "Nate Grimes",
+      "foto": "https://image.tmdb.org/t/p/w500/rjiHH4krrSdipdSUdSUjvODKJM2.jpg"
+    },
+    {
+      "nombre": "Adrian Glynn McMorran",
+      "personaje": "Ottis Grimes",
+      "foto": "https://image.tmdb.org/t/p/w500/49ARNcORJIasoCbLI7SYr5dZP0j.jpg"
+    },
+    {
+      "nombre": "Chelsea Miller",
+      "personaje": "Jill Ferguson",
+      "foto": "https://image.tmdb.org/t/p/w500/tsM1909kdVaPpaOcPFYYS0lYHMx.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alex Zamm",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Daniel Altiere",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Mike Elliott",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Robertson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Alex Zamm",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Alex Zamm",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "William Robertson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Steven Altiere",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Walter Lantz",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Heath Ryan",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Andrew Pavel",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Barry Donlevy",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Sheila White",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "Lisa London",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Greg Holstein",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Tony Devenyi",
+      "rol": "Production Designer"
+    },
+    {
+      "nombre": "Alex Zamm",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Sean Cossey",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Chris Foss",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Catherine Stroud",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Alex Zamm",
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/6y6fk6/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=WHzTLDP4o_Q"
+}
