@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 587807,
+  "poster": "https://image.tmdb.org/t/p/w500/orzPlWUbf0S5HeWmpP3TeHvduwn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/69USXLJEXcgMzlhZi7bmaCORxHn.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/89FCwnN14VFGLIRWqB3OiIedTto.png",
+  "titulo": "Tom y Jerry",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Animación"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.73,
+  "año": "2021",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Jerry, un ratón travieso que se ha instalado en el mejor hotel de la ciudad de Nueva York en vísperas de \"la boda del siglo\", obliga a la desesperada planificadora del evento, una joven empleada llamada Kayla, para contratar a un gato callejero llamado Tom para deshacerse de él.",
+  "fecha_estreno": "2021-02-10",
+  "titulo_original": "Tom & Jerry",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chloë Grace Moretz",
+      "personaje": "Kayla Forrester",
+      "foto": "https://image.tmdb.org/t/p/w500/yq4rYmaTRC5degaOYmJQFpaiho1.jpg"
+    },
+    {
+      "nombre": "Michael Peña",
+      "personaje": "Terence Mendoza",
+      "foto": "https://image.tmdb.org/t/p/w500/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+    },
+    {
+      "nombre": "Colin Jost",
+      "personaje": "Ben",
+      "foto": "https://image.tmdb.org/t/p/w500/cuNRnDX02digyoqYVyFGkwd78fn.jpg"
+    },
+    {
+      "nombre": "Rob Delaney",
+      "personaje": "Henry Dubros",
+      "foto": "https://image.tmdb.org/t/p/w500/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
+    },
+    {
+      "nombre": "Ken Jeong",
+      "personaje": "Chef Jackie",
+      "foto": "https://image.tmdb.org/t/p/w500/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
+    },
+    {
+      "nombre": "Pallavi Sharda",
+      "personaje": "Preeta",
+      "foto": "https://image.tmdb.org/t/p/w500/zjx62adlW0rN9lNHZQ7j0DrG9qq.jpg"
+    },
+    {
+      "nombre": "Jordan Bolger",
+      "personaje": "Cameron",
+      "foto": "https://image.tmdb.org/t/p/w500/zGSxXrllgm3MNVT0jjvnAQFacPS.jpg"
+    },
+    {
+      "nombre": "Patsy Ferran",
+      "personaje": "Joy the Bell Girl",
+      "foto": "https://image.tmdb.org/t/p/w500/1GnM9R90XUsENcY0IEZOUryeS13.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tim Story",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Christopher DeFaria",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Costello",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Richard Yeomans",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Gayle Dickie",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "William Dodds",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Steve Harding",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Frazer Churchill",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Mike Eames",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Paul Kennington",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Flora Miller",
+      "rol": "Post Production Coordinator"
+    },
+    {
+      "nombre": "Chiranjiv Makwana",
+      "rol": "Screenstory"
+    },
+    {
+      "nombre": "Alexander T.H. Browne",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Robert Cohen",
+      "rol": "Creative Consultant"
+    },
+    {
+      "nombre": "Satoshi Takazawa",
+      "rol": "VFX Artist"
+    }
+  ],
+  "director": "Tim Story",
+  "valoraciones": {
+    "tmdb": 6.73,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Animation Group",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/C/C/D/c/CCDcu.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=kP9TfCWaQT4"
+}
