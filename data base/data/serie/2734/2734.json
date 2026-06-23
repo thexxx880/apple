@@ -1,0 +1,101 @@
+{
+  "id_tmdb": 2734,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kvo558UKEhp8v3JoRGCSIx3Xxab.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jLNfWoqjSTwI4qbZF7BVdAPIpqL.png",
+  "titulo": "La Ley y el Orden: Unidad de Víctimas Especiales",
+  "titulo_original": "Law & Order: Special Victims Unit",
+  "fecha_estreno": "1999-09-20",
+  "duracion": "24min",
+  "año": "1999",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 7.95,
+  "sinopsis": "Serie surgida a la sombra de \"Law & Order\". Una unidad especial de la policía de Nueva York se dedica a investigar delitos de carácter sexual: violaciones, pedofilia y malos tratos infantiles.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Mariska Hargitay",
+      "personaje": "Olivia Benson",
+      "foto": "https://image.tmdb.org/t/p/w500/7tULgPSy5hksTi7mBF9uOnrrzHX.jpg"
+    },
+    {
+      "nombre": "Ice-T",
+      "personaje": "Odafin 'Fin' Tutuola",
+      "foto": "https://image.tmdb.org/t/p/w500/96TdPckI16ggfHcPrSFf6bHYLLe.jpg"
+    },
+    {
+      "nombre": "Kelli Giddish",
+      "personaje": "Amanda Rollins",
+      "foto": "https://image.tmdb.org/t/p/w500/3zcqEyAguRhYofePyJehWm19uUX.jpg"
+    },
+    {
+      "nombre": "Peter Scanavino",
+      "personaje": "Dominick 'Sonny' Carisi Jr.",
+      "foto": "https://image.tmdb.org/t/p/w500/kQzX89Ar4rEC1wwHcuDMr0YxUve.jpg"
+    },
+    {
+      "nombre": "Aimé Donna Kelly",
+      "personaje": "Renee Curry",
+      "foto": "https://image.tmdb.org/t/p/w500/jVf2XzJeFbzEopz5LGS3yIRPUoP.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Michele Fazekas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mariska Hargitay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dick Wolf",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Jankowski",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michele Fazekas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicholas Evangelista",
+      "rol": "Executive Story Editor"
+    },
+    {
+      "nombre": "Mariska Hargitay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dick Wolf",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Jankowski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mike Post",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.95,
+    "imdb": "tt0203259",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal",
+  "trailer": "https://www.youtube.com/watch?v=sx4n_tSzGGk"
+}
