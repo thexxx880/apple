@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 51162,
+  "poster": "https://image.tmdb.org/t/p/w500/tORmCQ6q4NPf3TCwOe9rYgn5R65.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/e0SlSnLQzIhdcr86akVJinA1Jau.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bGT0Wyn2N83xCUOLTIFd8opl5s.png",
+  "titulo": "Winnie the Pooh",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.907,
+  "año": "2011",
+  "duracion": "1h 3min",
+  "edad_minima": 13,
+  "sinopsis": "Mientras buscan miel, Pooh y sus amigos se embarcan en una aventura para encontrar la cola perdida de Igor y rescatar a Christopher Robin de un monstruo desconocido llamado Pronto.",
+  "fecha_estreno": "2011-04-06",
+  "titulo_original": "Winnie the Pooh",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jim Cummings",
+      "personaje": "Winnie the Pooh / Tigger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "nombre": "Bud Luckey",
+      "personaje": "Eeyore (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/csLjHwg7x1OFTiHjJAPpqNjjDiH.jpg"
+    },
+    {
+      "nombre": "Craig Ferguson",
+      "personaje": "Owl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mBxNrOxdQeM7bVBveE47Syj9ES6.jpg"
+    },
+    {
+      "nombre": "Travis Oates",
+      "personaje": "Piglet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pM1lp3yqGslYdgIOXLIgBGmNrDd.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Rabbit (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+    },
+    {
+      "nombre": "Kristen Anderson-Lopez",
+      "personaje": "Kanga (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/j0IJP06I5SVUtxcbZ1oRG0SB2D8.jpg"
+    },
+    {
+      "nombre": "Wyatt Dean Hall",
+      "personaje": "Roo (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Jack Boulter",
+      "personaje": "Christopher Robin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qFzgRujqcaXcih0cwHfA39aHz3Y.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Peter Del Vecho",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Don Hall",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Stephen J. Anderson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Nicole Mitchell",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jeremy Spears",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Clio Chiang",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Kendelle Hoyer",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Don Hall",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Todd Toon",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Frans Vischer",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Craig Sost",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Anthony DeRosa",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Joe Pitt",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "George Villaflor",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Bill Perkins",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Jennifer Yuan",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Andreas Deja",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Peter J. Deluca",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Eric Goldberg",
+      "rol": "Supervising Animator"
+    },
+    {
+      "nombre": "Garrett Prince",
+      "rol": "Production Office Assistant"
+    }
+  ],
+  "director": "Don Hall",
+  "valoraciones": {
+    "tmdb": 6.907,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Animation Studios",
+  "enlace_video": "https://vimeos.net/embed-tc83obd0my3f.html",
+  "trailer": "https://www.youtube.com/watch?v=bmO-_i8AyCw"
+}
