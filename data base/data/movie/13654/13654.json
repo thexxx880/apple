@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 13654,
+  "poster": "https://image.tmdb.org/t/p/w500/tBZbbkloDEeA8Fy8KjNBNVAhByv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vhuNTct6wQKcaV0U8aUXLVvjetU.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6cDn0qRC3OqfS4zEoAo8jRqqygA.png",
+  "titulo": "101 dálmatas II: Una aventura en Londres",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Aventura",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.02,
+  "año": "2003",
+  "duracion": "1h 14min",
+  "edad_minima": 13,
+  "sinopsis": "Ser uno de los 101 le pasa factura a Patch, que no se siente único. Cuando se queda atrás accidentalmente el día de la mudanza, conoce a su ídolo, Relámpago, que lo inscribe en una campaña publicitaria.",
+  "fecha_estreno": "2003-03-02",
+  "titulo_original": "101 Dalmatians II: Patch's London Adventure",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Barry Bostwick",
+      "personaje": "Thunderbolt (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/z2jlL5g5PMxelSHMXFF03fTSsLl.jpg"
+    },
+    {
+      "nombre": "Jason Alexander",
+      "personaje": "Lightning (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qRezZ2yhM2bmBERt7jVcxo8RVSA.jpg"
+    },
+    {
+      "nombre": "Martin Short",
+      "personaje": "Lars (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vWoZIOk7K8TSKu1IN90akswsWjZ.jpg"
+    },
+    {
+      "nombre": "Bobby Lockwood",
+      "personaje": "Patch (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/umELfjA9r3N6YXwREFvUcXHQJt2.jpg"
+    },
+    {
+      "nombre": "Susanne Blakeslee",
+      "personaje": "Cruella (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5s4vquKADCS90iOiEwgCTZkaQjX.jpg"
+    },
+    {
+      "nombre": "Samuel West",
+      "personaje": "Pongo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bn1nd5zERi5wyHcA1YMGvrHAD5L.jpg"
+    },
+    {
+      "nombre": "Maurice LaMarche",
+      "personaje": "Horace (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+    },
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Jasper (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Brian Smith",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jim Kammerud",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Brian Smith",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jim Kammerud",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Dan Root",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Garrett K. Schiff",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Brian Smith",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jim Kammerud",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dodie Smith",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "大城勝",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Bill Perkins",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Sam Chou",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Skip Jones",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Jamie Thomason",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ron Price",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Terry O'Bright",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Tom E. Dahl",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Robert S. Birchard",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Richard Gibbs",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Donald J. Malouf",
+      "rol": "Supervising Sound Editor"
+    }
+  ],
+  "director": "Brian Smith",
+  "valoraciones": {
+    "tmdb": 6.02,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney Television Animation",
+  "enlace_video": "https://voe.sx/e/g5wm6l0uti36",
+  "trailer": "https://www.youtube.com/watch?v=sxVaBzW8gGM"
+}
