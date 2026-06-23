@@ -1,0 +1,118 @@
+{
+  "id_tmdb": 235635,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/199VlaDxPOQK3OGdJnmh92fsPW0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yykLaIafqnJ4wTiSaIUwMtSEQov.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/blXYTA4BLmtt1XUZZrsA11XXHVF.png",
+  "titulo": "Como agua para chocolate",
+  "titulo_original": "Como agua para chocolate",
+  "fecha_estreno": "2024-11-03",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.248,
+  "sinopsis": "Tita De la Garza y Pedro Múzquiz, son dos almas enamoradas que no pueden estar juntos debido a arraigadas costumbres familiares. Entonces Tita navega los tintes y sabores mágicos entre el destino dictado por su familia y la lucha por su amor en la cocina, su mayor refugio. Adaptación de HBO de la novela de Laura Esquivel.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Azul Guaita",
+      "personaje": "Tita De la Garza",
+      "foto": "https://image.tmdb.org/t/p/w500/8tf5FF5QY1MVgFqg7NjrbpU1BBZ.jpg"
+    },
+    {
+      "nombre": "Andres Baida",
+      "personaje": "Pedro Múzquiz",
+      "foto": "https://image.tmdb.org/t/p/w500/a3eJJ9Vfw4KqDhN8bAIdFMuej7g.jpg"
+    },
+    {
+      "nombre": "Irene Azuela",
+      "personaje": "Mamá Elena",
+      "foto": "https://image.tmdb.org/t/p/w500/pz0kV2DxIYykWTejZ1Wm1FVzqjW.jpg"
+    },
+    {
+      "nombre": "Ana Valeria Becerril",
+      "personaje": "Rosaura De la Garza",
+      "foto": "https://image.tmdb.org/t/p/w500/6bkzReqPO2medWaeWd8Ihn5n6ei.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sharon Levy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lisa Fahrenholt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Flavio Morales",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alejandro Rincón",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jerry Rodríguez Burckle",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Clara Machado",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sharon Levy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lisa Fahrenholt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Flavio Morales",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alejandro Rincón",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jerry Rodríguez Burckle",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Clara Machado",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Manuel Vargas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mariano Cesar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mônica Albuquerque",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anouk Aaron",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.248,
+    "imdb": "tt29258436",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=9adVsuvAT0Y"
+}
