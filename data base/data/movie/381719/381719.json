@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 381719,
+  "poster": "https://image.tmdb.org/t/p/w500/bRDgMEikWMK3AJUJw0qqSJsWRAd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1wj8H9gdtkb98Tl3zu0hrHfW0qw.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xOXBwZqtT4pQVZw1xK0kTl8Id3y.png",
+  "titulo": "Las travesuras de Peter Rabbit",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Aventura",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.701,
+  "año": "2018",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Peter Rabbit y su familia disfrutan de atormentar al señor McGregor por su jardín de hortalizas. Hasta que un día nadie puede impedirles de pasearse por su casa y sus tierras hasta que llega uno de los parientes de McGregor, el cual recibe más de lo que esperaba.",
+  "fecha_estreno": "2018-02-07",
+  "titulo_original": "Peter Rabbit",
+  "pais_origen": "Australia",
+  "reparto": [
+    {
+      "nombre": "James Corden",
+      "personaje": "Peter Rabbit (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xGB0gfZ48M27gQjjL7inJIh1Pqj.jpg"
+    },
+    {
+      "nombre": "Rose Byrne",
+      "personaje": "Beatrix 'Bea' Potter / Jemima Puddle-Duck (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4Vd7w19asuBfUGgz0NIuQI5wxIA.jpg"
+    },
+    {
+      "nombre": "Domhnall Gleeson",
+      "personaje": "Thomas McGregor / Mr. Jeremy Fisher (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/a63BgOBKzJ9XPaLFyu7u5Ge3REG.jpg"
+    },
+    {
+      "nombre": "Margot Robbie",
+      "personaje": "Flopsy Rabbit / Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+    },
+    {
+      "nombre": "Elizabeth Debicki",
+      "personaje": "Mopsy Rabbit (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sJxj44aKdY0pjSIgnxBgMWLrQmw.jpg"
+    },
+    {
+      "nombre": "Daisy Ridley",
+      "personaje": "Cottontail Rabbit (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eM6NVIoRiwWkB9WiorbG2r1BQ8t.jpg"
+    },
+    {
+      "nombre": "Colin Moody",
+      "personaje": "Benjamin Bunny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gWkLVy9mY68LCGASgThWQSPC9hF.jpg"
+    },
+    {
+      "nombre": "Sam Neill",
+      "personaje": "Mr. McGregor / Tommy Brock (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Will Gluck",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Zareh Nalbandian",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Will Gluck",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rob Lieber",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Will Gluck",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christine Luby",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "P.J. Voeten",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Xander Collier",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Andrew Power",
+      "rol": "Second Unit First Assistant Director"
+    },
+    {
+      "nombre": "Barney Shakespeare",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Danielle Blake",
+      "rol": "Second Second Assistant Director"
+    },
+    {
+      "nombre": "Christian Otty",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Zoe Liang",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Jac Norton",
+      "rol": "Second Assistant \"B\" Camera"
+    },
+    {
+      "nombre": "David Elmes",
+      "rol": "First Assistant \"A\" Camera"
+    },
+    {
+      "nombre": "Andrew Jones",
+      "rol": "Second Assistant \"B\" Camera"
+    },
+    {
+      "nombre": "Adrien Seffrin",
+      "rol": "First Assistant Camera"
+    }
+  ],
+  "director": "Will Gluck",
+  "valoraciones": {
+    "tmdb": 6.701,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://vimeos.net/embed-do1ri2w3ev3o.html",
+  "trailer": "https://www.youtube.com/watch?v=3ittn4f0Em4"
+}
