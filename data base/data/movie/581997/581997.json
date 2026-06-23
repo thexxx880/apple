@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 581997,
+  "poster": "https://image.tmdb.org/t/p/w500/wgBBB3Auky610UPhWdb0hBnwQzM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sA50fD5aLbYPRU0fMCHIZ88gc5g.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/w8p5epaqapNYr26wBqGoO4HOY0q.png",
+  "titulo": "Batman y las Tortugas Ninja",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Ciencia ficción",
+    "Aventura",
+    "Crimen",
+    "Comedia",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.148,
+  "año": "2019",
+  "duracion": "1h 27min",
+  "edad_minima": 13,
+  "sinopsis": "Batman, Batgirl y Robin forjan una alianza con Las Tortugas Ninja para luchar contra el gran enemigo de estas últimas, Shredder, quien aparentemente ha formado equipo con Ra's Al Ghul y la Liga de Asesinos para poner en jaque a Gotham.",
+  "fecha_estreno": "2019-03-31",
+  "titulo_original": "Batman vs Teenage Mutant Ninja Turtles",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Troy Baker",
+      "personaje": "Batman / Joker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/t2mbkuXXRojfMrC8mqqtU2ISUbt.jpg"
+    },
+    {
+      "nombre": "Eric Bauza",
+      "personaje": "Leonardo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+    },
+    {
+      "nombre": "Darren Criss",
+      "personaje": "Raphael (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kqdhJuaHjgeVcnmA9DwWEIMdtBb.jpg"
+    },
+    {
+      "nombre": "Kyle Mooney",
+      "personaje": "Michelangelo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xywmFOt1OkUGa2Ex2YnmjI6gyd7.jpg"
+    },
+    {
+      "nombre": "Baron Vaughn",
+      "personaje": "Donatello (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xCsfS7pGAvXvTU7Tg1ZvFH2jW9c.jpg"
+    },
+    {
+      "nombre": "Carlos Alazraqui",
+      "personaje": "Bane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg"
+    },
+    {
+      "nombre": "Cas Anvar",
+      "personaje": "Ra's al Ghul (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ohEulMvF1Ji2osI3aSBVGb5FFUb.jpg"
+    },
+    {
+      "nombre": "Rachel Bloom",
+      "personaje": "Batgirl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hfnU70X7QOdiURFEd1hM7gQIe6J.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jake Castorena",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Marly Halpern-Graser",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Heather A. Maxwell",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Freddie Williams II",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "James Tynion IV",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Bill Finger",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Kevin Eastman",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Peter Laird",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Paul Dini",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Bruce Timm",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Dennis O'Neil",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Neal Adams",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Chuck Dixon",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Doug Moench",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Jake Castorena",
+  "valoraciones": {
+    "tmdb": 7.148,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://vimeos.net/embed-2xiy5i0xggoe.html",
+  "trailer": "https://www.youtube.com/watch?v=wpZPPrnEd_k"
+}
