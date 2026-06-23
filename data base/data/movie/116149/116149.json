@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 116149,
+  "poster": "https://image.tmdb.org/t/p/w500/mJypxc7GFS98v4GvlS6Z8EcXc9F.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/chshHenTRPd7cSzlzBD0CpqYGTh.png",
+  "titulo": "Paddington",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Aventura",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.121,
+  "año": "2014",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "Paddington es un oso que ha crecido en lo más profundo de la selva peruana con su tía Lucy. Sin embargo, un terremoto destruye su hogar, entonces Lucy esconde a su sobrino en un barco con destino a Inglaterra para que encuentre una vida mejor.",
+  "fecha_estreno": "2014-11-24",
+  "titulo_original": "Paddington",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Ben Whishaw",
+      "personaje": "Paddington (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sgZXPptHQLzKJknF6SKLl7HRiu8.jpg"
+    },
+    {
+      "nombre": "Hugh Bonneville",
+      "personaje": "Henry Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/skbxj8MUuNiI39ZkP38uEirU0bC.jpg"
+    },
+    {
+      "nombre": "Sally Hawkins",
+      "personaje": "Mary Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/1dtDq82dM2YQ17lBL4ZKPJo5LKw.jpg"
+    },
+    {
+      "nombre": "Madeleine Harris",
+      "personaje": "Judy Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/tvwnWhlM2M8RTOnnHc2wU7aE3yw.jpg"
+    },
+    {
+      "nombre": "Samuel Joslin",
+      "personaje": "Jonathan Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/gXthNRK0BN9IqXnhKIc4glxOB7P.jpg"
+    },
+    {
+      "nombre": "Julie Walters",
+      "personaje": "Mrs. Bird",
+      "foto": "https://image.tmdb.org/t/p/w500/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+    },
+    {
+      "nombre": "Nicole Kidman",
+      "personaje": "Millicent",
+      "foto": "https://image.tmdb.org/t/p/w500/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
+    },
+    {
+      "nombre": "Imelda Staunton",
+      "personaje": "Aunt Lucy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/96LYLMnUOWZ4DFXEeQPItNsxzEP.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Paul King",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Heyman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Bond",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Paul King",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "James Joseph McDonald",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lee Sheward",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Lee Bagley",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Zarene Dallas",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Nic Goodey",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Casey Michaels",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "John Hayes",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Paul Paragon",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Nick Freemantle",
+      "rol": "Assistant Sound Editor"
+    },
+    {
+      "nombre": "Glenn Freemantle",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Anelia Asparuhova",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Jon Capleton",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Glenn Freemantle",
+      "rol": "Supervising Sound Editor"
+    }
+  ],
+  "director": "Paul King",
+  "valoraciones": {
+    "tmdb": 7.121,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "StudioCanal",
+  "enlace_video": "https://vimeos.net/embed-ceo6um4i5ga2.html",
+  "trailer": "https://www.youtube.com/watch?v=Bt4J4MVuHXE"
+}
