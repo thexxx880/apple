@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 420821,
+  "poster": "https://image.tmdb.org/t/p/w500/cVE6Mop3gCqIZfnQEkvGV2rG0IM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qK7Ssnrfvrt65F66A1thvehfQg2.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vOHxHPwY62I4R2k5G6gZgC7eWSk.png",
+  "titulo": "Chip y Dale: Al rescate",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia",
+    "Aventura",
+    "Misterio"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.992,
+  "año": "2022",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "Treinta años después de sus aventuras originales, Chip y Chop viven en Los Ángeles entre dibujos animados y humanos. Chip lleva una vida rutinaria y hogareña como vendedor de seguros, mientras que Chop se ha hecho la cirugía 3D y se dedica a explotar la nostalgia de convención en convención, desesperado por revivir sus días de gloria. Cuando un antiguo compañero de reparto desaparece misteriosamente, Chip y Chop se ven obligados a recuperar la amistad perdida y a hacer de detectives una vez más como Guardianes Rescatadores para salvar a su amigo.",
+  "fecha_estreno": "2022-05-20",
+  "titulo_original": "Chip 'n Dale: Rescue Rangers",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Andy Samberg",
+      "personaje": "Dale (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg"
+    },
+    {
+      "nombre": "John Mulaney",
+      "personaje": "Chip (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/i3dGv3WoIONVLSlOpW4NIaT8Fs2.jpg"
+    },
+    {
+      "nombre": "KiKi Layne",
+      "personaje": "Ellie Steckler",
+      "foto": "https://image.tmdb.org/t/p/w500/nwLS3A1NGXbYWUPLE9Sj6yPBbhW.jpg"
+    },
+    {
+      "nombre": "Will Arnett",
+      "personaje": "Sweet Pete (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cXupYqk2ERP13XBkw816skYdVDO.jpg"
+    },
+    {
+      "nombre": "Eric Bana",
+      "personaje": "Monterey Jack (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/l9yoDgw3YFC2gMD1HTo5djGOwSY.jpg"
+    },
+    {
+      "nombre": "Flula Borg",
+      "personaje": "DJ Herzogenaurach (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/biegvuNWbzjXVZnp4rpKgbLlX6Q.jpg"
+    },
+    {
+      "nombre": "Dennis Haysbert",
+      "personaje": "Zipper (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg"
+    },
+    {
+      "nombre": "Keegan-Michael Key",
+      "personaje": "Frog Co-Worker / Bjornson the Cheesemonger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Dan Gregor",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Doug Mand",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Todd Lieberman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Hoberman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Akiva Schaffer",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Larry Fong",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Tom C. Peitzman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alexander Young",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Williams",
+      "rol": "ADR Mixer"
+    },
+    {
+      "nombre": "Brian Scott Olds",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Steve Saklad",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Brian Tyler",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Randi Hiller",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Larry D. Katz",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Steve Preeg",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Harry Wowchuk",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Ross Scharphorn",
+      "rol": "Stunt Double"
+    }
+  ],
+  "director": "Akiva Schaffer",
+  "valoraciones": {
+    "tmdb": 6.992,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://vimeos.net/embed-6ubafgqlhy0q.html",
+  "trailer": "https://www.youtube.com/watch?v=RW0xBFB-QLw"
+}
