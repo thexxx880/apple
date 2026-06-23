@@ -1,0 +1,154 @@
+{
+  "id_tmdb": 927254,
+  "poster": "https://image.tmdb.org/t/p/w500/fAeHnC35RtbYLm5tRGLveLa0YvH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/i4o2aPGlnsxfPmDPF5lmlgjScyv.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/h4stTbtiFuA2lNOkFQJpCakeSKX.png",
+  "titulo": "Los Cretinos",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6,
+  "año": "2025",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando una pareja de odiosos y malvados villanos trama un plan para apoderarse de la ciudad, dos niños se alían con una familia de animales mágicos para detenerlos.",
+  "fecha_estreno": "2025-10-17",
+  "titulo_original": "The Twits",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Margo Martindale",
+      "personaje": "Credenza Twit (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg"
+    },
+    {
+      "nombre": "Johnny Vegas",
+      "personaje": "Jim Twit (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8OSpG0BrJGtIWXpIlYMryVve2iK.jpg"
+    },
+    {
+      "nombre": "Maitreyi Ramakrishnan",
+      "personaje": "Beesha Balti (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dkhYjeCU5ByYKxAr2wtXz20vb60.jpg"
+    },
+    {
+      "nombre": "Ryan Anderson Lopez",
+      "personaje": "Busby Mulch (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Emilia Clarke",
+      "personaje": "Pippa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/u59kTmNHXzaGZqokivxLPiBVIML.jpg"
+    },
+    {
+      "nombre": "Natalie Portman",
+      "personaje": "Mary Muggle-Wump (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+      "nombre": "Timothy Simons",
+      "personaje": "Marty Muggle-Wump (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/upav8HyWsF6ksAkvogEhR9sBlNN.jpg"
+    },
+    {
+      "nombre": "Nicole Byer",
+      "personaje": "Beverly Onion (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5eDmmwAumgWzlfT50gf5KpL54E9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Phil Johnston",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Phil Johnston",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Maggie Malone",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Daisy May West",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Phil Johnston",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Meg Favreau",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kirk DeMicco",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Todd Demong",
+      "rol": "Co-Director"
+    },
+    {
+      "nombre": "Roald Dahl",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Valentin Beaumont",
+      "rol": "Visual Effects Technical Director"
+    },
+    {
+      "nombre": "Hayley Williams",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "David Byrne",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Oli Julian",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Lara Breay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mary Coleman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Natalie Fischer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julie Lockhart",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elisabeth Murdoch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Smith",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Phil Johnston",
+  "valoraciones": {
+    "tmdb": 6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Jellyfish Pictures",
+  "enlace_video": "https://vimeos.net/embed-10gtuz2cjfnh.html",
+  "trailer": "https://www.youtube.com/watch?v=dMZI0FkYLEs"
+}
