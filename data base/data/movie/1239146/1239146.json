@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 1239146,
+  "poster": "https://image.tmdb.org/t/p/w500/x7QXH6T8oTKlUbKt8TD1rPimzCr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cIztAxDn3H8JylRaJwiHHpkGe53.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nSCqr47A4z9sdnBDXCOrs2nyt6q.png",
+  "titulo": "El Pájaro Loco se va de campamento",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Comedia",
+    "Animación"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.43,
+  "año": "2024",
+  "duracion": "1h 38min",
+  "edad_minima": 13,
+  "sinopsis": "Tras ser echado del bosque, el Pájaro Loco encuentra un maravilloso hogar: el Campamento Woo Hoo. Pero la alegría se acaba cuando un inspector amenaza con clausurarlo...",
+  "fecha_estreno": "2024-04-12",
+  "titulo_original": "Woody Woodpecker Goes to Camp",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Eric Bauza",
+      "personaje": "Woody Woodpecker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+    },
+    {
+      "nombre": "Kevin Michael Richardson",
+      "personaje": "Buzz Buzzard (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Wally Walrus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+    },
+    {
+      "nombre": "Mary-Louise Parker",
+      "personaje": "Angie",
+      "foto": "https://image.tmdb.org/t/p/w500/iY3iyH3mBQwmKlA0sj1J36uHTgB.jpg"
+    },
+    {
+      "nombre": "Josh Lawson",
+      "personaje": "Zane",
+      "foto": "https://image.tmdb.org/t/p/w500/Am9vM77uZd9bGODugwmWtOfzx6E.jpg"
+    },
+    {
+      "nombre": "Chloe De Los Santos",
+      "personaje": "Maggie",
+      "foto": "https://image.tmdb.org/t/p/w500/bnLNDlnOTaNo7cORQXkrlNXzJpQ.jpg"
+    },
+    {
+      "nombre": "Kershawn Theodore",
+      "personaje": "Mikey",
+      "foto": null
+    },
+    {
+      "nombre": "Savannah La Rain",
+      "personaje": "J.J.",
+      "foto": "https://image.tmdb.org/t/p/w500/9BtJryR0EYghlaCXYbpM0qZDYrK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Stephen Mazur",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Stephen Mazur",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jon Kuyper",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cory Edwards",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Cory Edwards",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jim Martin",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jonathan A. Rosenbaum",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Walter Lantz",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Ross Emery",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Penelope Southgate",
+      "rol": "Production Designer"
+    },
+    {
+      "nombre": "Jonathan Tappin",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Janine van Assen",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Liz Keogh",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "Michael Lira",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Leigh Pickford",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Seth Yanklewitz",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ben Pollack",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jonathan A. Rosenbaum",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Jonathan A. Rosenbaum",
+  "valoraciones": {
+    "tmdb": 6.43,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal 1440 Entertainment",
+  "enlace_video": "https://rumble.com/hls-vod/6y6g16/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=ZYjbfLQDYvg"
+}
