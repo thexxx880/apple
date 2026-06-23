@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 227973,
+  "poster": "https://image.tmdb.org/t/p/w500/iVA3vFDGvAkg3d048QDNnTwqhc1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/361quVX94drEaExOKScbZYsxijG.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hA4ceYd5zzjLM0ys0qbYbXUtrcW.png",
+  "titulo": "Snoopy y Charlie Brown: Peanuts, la película",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 6.969,
+  "año": "2015",
+  "duracion": "1h 28min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando la niña pelirroja se muda al vecindario (y se transfiere a la escuela local), Chalie Brown se enamora de ella. Para poder ganar su afecto, Charlie Brown (con la ayuda de Snoopy, Linus y sus demás amigos) tratará de mejorar varias de sus habilidades para así poder impresionarla.  En una historia paralela, Snoopy trata de escribir un libro con sus aventuras imaginarias en el aire en contra de su archienemigo \"El Barón Rojo\".",
+  "fecha_estreno": "2015-11-05",
+  "titulo_original": "The Peanuts Movie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Noah Schnapp",
+      "personaje": "Charlie Brown (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/PoyZVIeEK14NfBDQXCBbsWdHQY.jpg"
+    },
+    {
+      "nombre": "Bill Melendez",
+      "personaje": "Snoopy / Woodstock (voice) (archive sound)",
+      "foto": "https://image.tmdb.org/t/p/w500/se2qF1kdaKTwDa69xjzA3j2gKaG.jpg"
+    },
+    {
+      "nombre": "Marleik 'Mar Mar' Walker",
+      "personaje": "Franklin Armstrong (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrcIi9Le44t1pjj2BlKnfm6pjhC.jpg"
+    },
+    {
+      "nombre": "Alex Garfin",
+      "personaje": "Linus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/j6gCiAUjfFSmnF38ZcrcX7YiqsH.jpg"
+    },
+    {
+      "nombre": "Hadley Belle Miller",
+      "personaje": "Lucy van Pelt (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jKirPaqoy3P4xrTYfq98VJVd5xU.jpg"
+    },
+    {
+      "nombre": "Rebecca Bloom",
+      "personaje": "Marcie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rb3M9mjtJiD8mvn00zbixRPL3L2.jpg"
+    },
+    {
+      "nombre": "Anastasia Bredikhina",
+      "personaje": "Patty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1EEUSgheeGGeH9k5vh8EGV5d2JB.jpg"
+    },
+    {
+      "nombre": "Venus Schultheis",
+      "personaje": "Peppermint Patty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gtztDR5yo7RNpKKEUxxZlL7GwK5.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Steve Martino",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Cornelius Uliano",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Craig Schulz",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bryan Schulz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul Feig",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cornelius Uliano",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael J. Travers",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Craig Schulz",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Charles M. Schulz",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Dan Haring",
+      "rol": "Lighting Artist"
+    },
+    {
+      "nombre": "Nash Dunnigan",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Christian Kaplan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Renato Falcão",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Randy Trager",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Christophe Beck",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tansal Arnas",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Edward Fornoles",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Tim Davies",
+      "rol": "Conductor"
+    },
+    {
+      "nombre": "Motoko Wada",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Christopher Silva",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Steve Martino",
+  "valoraciones": {
+    "tmdb": 6.969,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Blue Sky Studios",
+  "enlace_video": "https://vimeos.net/embed-8hzt61c6pq6z.html",
+  "trailer": "https://www.youtube.com/watch?v=_u9ox3VR63c"
+}
