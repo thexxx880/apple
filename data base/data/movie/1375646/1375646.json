@@ -1,0 +1,125 @@
+{
+  "id_tmdb": 1375646,
+  "poster": "https://image.tmdb.org/t/p/w500/lkqrY8lioj8jwAXFnx6c5tc5Gv3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hCK5tVvTG2c0SrOaPCWMlbMj69A.png",
+  "titulo": "Zona Cero",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.909,
+  "año": "2026",
+  "duracion": "2h 3min",
+  "edad_minima": 13,
+  "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
+  "fecha_estreno": "2026-05-21",
+  "titulo_original": "군체",
+  "pais_origen": "South Korea",
+  "reparto": [
+    {
+      "nombre": "전지현",
+      "personaje": "Kwon Se-jeong",
+      "foto": "https://image.tmdb.org/t/p/w500/qejOQBdIzN18e69yRcsiD0JQi4c.jpg"
+    },
+    {
+      "nombre": "구교환",
+      "personaje": "Seo Young-cheol",
+      "foto": "https://image.tmdb.org/t/p/w500/aFwCpSKPGFqoiTStY6ljXnD5CwH.jpg"
+    },
+    {
+      "nombre": "지창욱",
+      "personaje": "Choi Hyun-seok",
+      "foto": "https://image.tmdb.org/t/p/w500/sBmHrO5Tn27Ot5hy0yAKniROmNb.jpg"
+    },
+    {
+      "nombre": "김신록",
+      "personaje": "Choi Hyun-hee",
+      "foto": "https://image.tmdb.org/t/p/w500/x4zo2mSbehnQY80PbuldAZ7ruGm.jpg"
+    },
+    {
+      "nombre": "신현빈",
+      "personaje": "Kong Seol-hee",
+      "foto": "https://image.tmdb.org/t/p/w500/lU0yMFh5KgOEWZRThLYbB6ZI1hE.jpg"
+    },
+    {
+      "nombre": "고수",
+      "personaje": "Han Kyu-seong",
+      "foto": "https://image.tmdb.org/t/p/w500/77209yRtUHOEk3ILJY1rG3X3VUj.jpg"
+    },
+    {
+      "nombre": "이중옥",
+      "personaje": "Lee Bong-seok",
+      "foto": "https://image.tmdb.org/t/p/w500/fMkBpHRElwNatevfGinSv248bYg.jpg"
+    },
+    {
+      "nombre": "김종태",
+      "personaje": "Kang Woo-cheol",
+      "foto": "https://image.tmdb.org/t/p/w500/vf3R5QU7UCVEr3dOGt3bdFbypzu.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "연상호",
+      "rol": "Director"
+    },
+    {
+      "nombre": "김연호",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "연상호",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "최규석",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "양유민",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "한미연",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "채민주",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Lee Mok-won",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "변봉선",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "김석원",
+      "rol": "Sound Supervisor"
+    },
+    {
+      "nombre": "송현석",
+      "rol": "Lighting Director"
+    },
+    {
+      "nombre": "허명행",
+      "rol": "Martial Arts Choreographer"
+    }
+  ],
+  "director": "연상호",
+  "valoraciones": {
+    "tmdb": 6.909,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Wow Point",
+  "enlace_video": "https://streamwish.to/e/495vib1s3m47",
+  "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
+}
