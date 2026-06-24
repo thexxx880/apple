@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 1109406,
+  "poster": "https://image.tmdb.org/t/p/w500/7JCbXlLvGxYvGuKSciweViGfeUv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/boprqXZexBatujVC07gZzzxjWk.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8qqIUyY1iocZXBdoUVszq5l3kou.png",
+  "titulo": "Compulsion",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.1,
+  "año": "2024",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Dos mujeres, Diana, una ladrona extravagante y despiadada, y Evie, una joven aparentemente inocente con un pasado problemático, se ven envueltas en una serie de horribles asesinatos en la isla de Malta.",
+  "fecha_estreno": "2024-11-10",
+  "titulo_original": "Compulsion",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Anna-Maria Sieklucka",
+      "personaje": "Evie Kawalska",
+      "foto": "https://image.tmdb.org/t/p/w500/6ZqAE1XTtspfshatfNaBVHSu1fx.jpg"
+    },
+    {
+      "nombre": "Charlotte Kirk",
+      "personaje": "Diana Shaw",
+      "foto": "https://image.tmdb.org/t/p/w500/tAsWBIetFUWNYw3Z1fHQlCdWvNI.jpg"
+    },
+    {
+      "nombre": "Zach McGowan",
+      "personaje": "Reese",
+      "foto": "https://image.tmdb.org/t/p/w500/hX7UXULOo6PBALjUgl2gYKx9ZNw.jpg"
+    },
+    {
+      "nombre": "Giulia Elettra Gorietti",
+      "personaje": "Detective Claudia Cavara",
+      "foto": "https://image.tmdb.org/t/p/w500/a8AShW68SIykhm45W5VeXuJZ4Lv.jpg"
+    },
+    {
+      "nombre": "Harvey Dean",
+      "personaje": "Inspector Dennes Crawford",
+      "foto": null
+    },
+    {
+      "nombre": "Cinzia Monreale",
+      "personaje": "Madam Karmelina",
+      "foto": "https://image.tmdb.org/t/p/w500/z9gbWNGlonGpqFDQOjnTa7diX0M.jpg"
+    },
+    {
+      "nombre": "Emily Corcoran",
+      "personaje": "Melania",
+      "foto": "https://image.tmdb.org/t/p/w500/saGDG6cvwuGrAgT1o0uBu8nNmSN.jpg"
+    },
+    {
+      "nombre": "Antonella Axisa",
+      "personaje": "Chief's Secretary",
+      "foto": "https://image.tmdb.org/t/p/w500/tryOm5OIaD4X18wAykD8H9Dt7Dx.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kristyna Sellnerova",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Neil Marshall",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Neil Marshall",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Emily Corcoran",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lyndon Baldock",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Bassick",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charles Dorfman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lathiem Groenmeyer",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Jason Gurvitz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Laundon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andre Loggenberg",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jan Pace",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bob Portal",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Seth Sklar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marlon Vogelgesang",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Neil Marshall",
+  "valoraciones": {
+    "tmdb": 6.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cork Films",
+  "enlace_video": "https://voe.sx/e/ojxpmyhxam3r",
+  "trailer": "https://www.youtube.com/watch?v=QnCFtsv-R5M"
+}
