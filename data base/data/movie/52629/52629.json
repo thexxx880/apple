@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 52629,
+  "poster": "https://image.tmdb.org/t/p/w500/ar8BpJ5xAzTIw9bqD9Sra6TjBvw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bQObbnj0TY2Q1c55w78m1AN6VNX.jpg",
+  "logo": null,
+  "titulo": "El Infierno",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Western",
+    "Comedia",
+    "Drama"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.894,
+  "año": "2010",
+  "duracion": "2h 28min",
+  "edad_minima": 13,
+  "sinopsis": "El Benny, es deportado de Estados Unidos y al regresar a su pueblo encuentra un panorama desolador. La violencia irracional, la corrupción generalizada y la crisis económica que azotan al país, han devastado por completo al lugar. El Benny, sin otras opciones y para ayudar a su familia a salir adelante, se involucra en el negocio del narco en el que tiene, por primera vez en su vida, una fulgurante prosperidad llena de dinero, mujeres y violencia, pero al final descubrirá en carne propia, que el tentador camino de la vida criminal no siempre paga lo que promete.",
+  "fecha_estreno": "2010-09-03",
+  "titulo_original": "El Infierno",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Damián Alcázar",
+      "personaje": "Benjamín García \"El Benny\"",
+      "foto": "https://image.tmdb.org/t/p/w500/6IAlrZ2yXubmmVaRsF7fdaP3N7C.jpg"
+    },
+    {
+      "nombre": "Joaquín Cosío",
+      "personaje": "El Cochiloco",
+      "foto": "https://image.tmdb.org/t/p/w500/ijMo3fMyY4VL1xyIj6ytiJrzaw9.jpg"
+    },
+    {
+      "nombre": "Ernesto Gómez Cruz",
+      "personaje": "Don José Reyes",
+      "foto": "https://image.tmdb.org/t/p/w500/rtDS8sZw9PniGdDPW12QKsUcNSb.jpg"
+    },
+    {
+      "nombre": "María Rojo",
+      "personaje": "Doña Mari Reyes",
+      "foto": "https://image.tmdb.org/t/p/w500/ybAqZhtCHX9Rd26kNWxjeZPWjYV.jpg"
+    },
+    {
+      "nombre": "Elizabeth Cervantes",
+      "personaje": "La Cuñada",
+      "foto": "https://image.tmdb.org/t/p/w500/sSnfUpOchwH8RCHIHenJxv751eN.jpg"
+    },
+    {
+      "nombre": "Jorge Zárate",
+      "personaje": "El Huasteco",
+      "foto": "https://image.tmdb.org/t/p/w500/jLUr9TFdVfDgNqF83jbgA6cXsNe.jpg"
+    },
+    {
+      "nombre": "Salvador Sánchez",
+      "personaje": "El Padrino",
+      "foto": "https://image.tmdb.org/t/p/w500/ywDIDiK39kAKQ9TLNMgq7Z4avmJ.jpg"
+    },
+    {
+      "nombre": "Daniel Giménez Cacho",
+      "personaje": "Capitán Ramírez",
+      "foto": "https://image.tmdb.org/t/p/w500/4sM4fbDAyjDcEcxRqVWpUF35IrL.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Luis Estrada",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jaime Sampietro",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Luis Estrada",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Luis Estrada",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lynn Fainchtein",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Sandra Solares",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mauricio Lule",
+      "rol": "Second Unit"
+    },
+    {
+      "nombre": "Salvador Parra",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Patricia Cuevas",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Alex Vázquez",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Adam Zoller",
+      "rol": "Makeup Effects"
+    },
+    {
+      "nombre": "Balo Bucio",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Martín Torres",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Claudia Becker",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Michael Brook",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Gabriela Fernández",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "Luis Estrada",
+  "valoraciones": {
+    "tmdb": 7.894,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Instituto Mexicano de Cinematografía",
+  "enlace_video": "https://vimeos.net/embed-0dxj9k11duz5.html",
+  "trailer": "https://www.youtube.com/watch?v=n4jQnRkj-gU"
+}
