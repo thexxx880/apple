@@ -10,7 +10,7 @@
     "Drama"
   ],
   "calificacion": "B-15",
-  "puntuacion": 8.214,
+  "puntuacion": 8.215,
   "año": "2019",
   "duracion": "1h 56min",
   "edad_minima": 13,
@@ -42,7 +42,7 @@
     {
       "nombre": "Parminder Nagra",
       "personaje": "Dr. Noor Hamid",
-      "foto": "https://image.tmdb.org/t/p/w500/6c8NU6wlvfoaOshohQCBX52ycud.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/cjhduysHB3hXjzaCyH5VYEXkT1J.jpg"
     },
     {
       "nombre": "Claire Forlani",
@@ -70,12 +70,12 @@
       "rol": "Writer"
     },
     {
-      "nombre": "Justin Baldoni",
-      "rol": "Producer"
-    },
-    {
       "nombre": "Tobias Iaconis",
       "rol": "Writer"
+    },
+    {
+      "nombre": "Justin Baldoni",
+      "rol": "Producer"
     },
     {
       "nombre": "Cathy Schulman",
@@ -84,32 +84,44 @@
   ],
   "crew": [
     {
-      "nombre": "Chelsea Donison",
-      "rol": "Second Assistant Director"
+      "nombre": "Rachel Sage Kunin",
+      "rol": "Costume Design"
     },
     {
       "nombre": "Barbara J. McCarthy",
       "rol": "Casting"
     },
     {
-      "nombre": "Preston Schrag",
-      "rol": "Stunt Double"
-    },
-    {
       "nombre": "Drew Ann Rosenberg",
       "rol": "First Assistant Director"
     },
     {
-      "nombre": "Donna Spahn",
-      "rol": "Key Hair Stylist"
-    },
-    {
-      "nombre": "Shane Hayes",
-      "rol": "Dialogue Editor"
+      "nombre": "Chelsea Donison",
+      "rol": "Second Assistant Director"
     },
     {
       "nombre": "Mark Riccardi",
       "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Preston Schrag",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Kelly Curley",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Dave Kelsey",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Will Eastin",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Maria Senger",
+      "rol": "Art Department Coordinator"
     },
     {
       "nombre": "Jesse Michael Owen",
@@ -118,27 +130,15 @@
     {
       "nombre": "Bradford Johnson",
       "rol": "Set Decoration"
-    },
-    {
-      "nombre": "Courtney Jarrell",
-      "rol": "Key Makeup Artist"
-    },
-    {
-      "nombre": "Jonathan Parham",
-      "rol": "Sound Mixer"
-    },
-    {
-      "nombre": "Michael J. Benavente",
-      "rol": "ADR Editor"
     }
   ],
   "director": "Justin Baldoni",
   "valoraciones": {
-    "tmdb": 8.214,
+    "tmdb": 8.215,
     "imdb": null,
     "rotten_tomatoes": null
   },
   "distribuidora": "Wayfarer Entertainment",
-  "enlace_video": "https://1a-1791.com/video/fwe1/63/s8/2/u/P/6/h/uP6hy.gaa.mp4?u=0&b=0",
+  "enlace_video": "",
   "trailer": "https://www.youtube.com/watch?v=vWhX8aTj5TI"
 }
