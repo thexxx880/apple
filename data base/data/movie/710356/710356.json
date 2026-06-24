@@ -1,0 +1,152 @@
+{
+  "id_tmdb": 710356,
+  "poster": "https://image.tmdb.org/t/p/w500/mJdNTVnnthus44WQIayAViFqcuP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sSalNFInZxGi0bmmIKJoDz5jI6n.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/lT5VXHkfvEi3ac0w8HgJ26iTUQa.png",
+  "titulo": "2 Corazones",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.2,
+  "año": "2020",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "En historias de amor paralelas, las vidas del universitario Chris y el empresario adinerado Jorge se entrecruzan gracias a un giro del destino. Basada en una historia real.",
+  "fecha_estreno": "2020-10-16",
+  "titulo_original": "2 Hearts",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jacob Elordi",
+      "personaje": "Chris",
+      "foto": "https://image.tmdb.org/t/p/w500/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+    },
+    {
+      "nombre": "Adan Canto",
+      "personaje": "Jorge",
+      "foto": "https://image.tmdb.org/t/p/w500/d6ZcywTmeR9UWAcdeDMJwpuBwQN.jpg"
+    },
+    {
+      "nombre": "Tiera Skovbye",
+      "personaje": "Sam",
+      "foto": "https://image.tmdb.org/t/p/w500/e0WOrum0te4eQfYVyUfTgvTUSzN.jpg"
+    },
+    {
+      "nombre": "Radha Mitchell",
+      "personaje": "Leslie",
+      "foto": "https://image.tmdb.org/t/p/w500/8EVKyEkwPfIA6GxlIo0PJv0A5mm.jpg"
+    },
+    {
+      "nombre": "Kari Matchett",
+      "personaje": "Grace",
+      "foto": "https://image.tmdb.org/t/p/w500/zafZ5iFwDDmuJpROAgtF8psx3BU.jpg"
+    },
+    {
+      "nombre": "Tahmoh Penikett",
+      "personaje": "Eric",
+      "foto": "https://image.tmdb.org/t/p/w500/716vNPQ4UaPga3n8RX777c9Excg.jpg"
+    },
+    {
+      "nombre": "Steve Bacic",
+      "personaje": "Jose Bolivar",
+      "foto": "https://image.tmdb.org/t/p/w500/aGEGpzzXuggaLCU0wTaVHbBdYYu.jpg"
+    },
+    {
+      "nombre": "Jordan Burtchett",
+      "personaje": "Colin",
+      "foto": "https://image.tmdb.org/t/p/w500/wXCUmxrCh9KJPTCPCIUCw83K2K1.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lance Hool",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Veronica Hool",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Robin U. Russin",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Conrad Hool",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lance Hool",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Doug Metzger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jonathan Shore",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Breanna Watkins",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Vincent De Paula",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Craig Herring",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Roger Fires",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Nick Dudar",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jennifer Kom-Tong",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "James Jandrisch",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Aaron Au",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Veronica Hool",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Justin Vesci",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Shawn Williamson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carla Hool",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Lance Hool",
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Silver Lion Films",
+  "enlace_video": "https://voe.sx/e/t92cvh3tfmfh",
+  "trailer": "https://www.youtube.com/watch?v=efXhC0hx89Q"
+}
