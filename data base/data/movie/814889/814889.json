@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 814889,
+  "poster": "https://image.tmdb.org/t/p/w500/giOoI3tmCjQREvUgqcXTVD9EBfL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fquVJ2v5NAW96sRfFAw4vXR5zla.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3inxLiMDvwsX5ZApeaMOe4TwoKJ.png",
+  "titulo": "No te sueltes",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.071,
+  "año": "2024",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Una familia atormentada por años por un espíritu maligno que se apoderó del mundo, cuya veracidad es cuestionada por el hijo de ellos. Generando dudas sobre su seguridad y entorno.",
+  "fecha_estreno": "2024-09-18",
+  "titulo_original": "Never Let Go",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Halle Berry",
+      "personaje": "Momma",
+      "foto": "https://image.tmdb.org/t/p/w500/yfAJMERSlDIZD1iy6Aab8bArcCK.jpg"
+    },
+    {
+      "nombre": "Anthony B. Jenkins",
+      "personaje": "Samuel",
+      "foto": "https://image.tmdb.org/t/p/w500/v0hZpeChlytBx0MwUhkKoeFpedF.jpg"
+    },
+    {
+      "nombre": "William Catlett",
+      "personaje": "Father",
+      "foto": "https://image.tmdb.org/t/p/w500/1GzaCfhYEfg2s2lQzlQykijlUY8.jpg"
+    },
+    {
+      "nombre": "Percy Daggs IV",
+      "personaje": "Nolan",
+      "foto": "https://image.tmdb.org/t/p/w500/dhn9bDGhBSbVKWkzFC86rtg1nHj.jpg"
+    },
+    {
+      "nombre": "Matthew Kevin Anderson",
+      "personaje": "The Stranger",
+      "foto": "https://image.tmdb.org/t/p/w500/lSCwDQjV2qaPapwq5q77aQW2Ndv.jpg"
+    },
+    {
+      "nombre": "Christin Park",
+      "personaje": "Paramedic",
+      "foto": "https://image.tmdb.org/t/p/w500/btnlYVTcIXRExacQKvmFMrJv0MR.jpg"
+    },
+    {
+      "nombre": "Stephanie Lavigne",
+      "personaje": "The Evil",
+      "foto": "https://image.tmdb.org/t/p/w500/5hzt5EAtXZfZatJCFctVpLyOJ3A.jpg"
+    },
+    {
+      "nombre": "Cadence Compton",
+      "personaje": "Young Girl",
+      "foto": "https://image.tmdb.org/t/p/w500/uZLnQAaz4BFqb5mqueQar1rRoxy.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan Grassby",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kevin Coughlin",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Dan Cohen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alexandre Aja",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alexandre Aja",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Emily Morris",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chelsea Kujawa",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aaron Janus",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Halle Berry",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Hauca",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Jeremy Stanbridge",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Victoria Pearson",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Carla Hetland",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Maxime Alexandre",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Dan Miller",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Eli Best",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Rich Delia",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Alexandre Aja",
+  "valoraciones": {
+    "tmdb": 6.071,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "21 Laps Entertainment",
+  "enlace_video": "https://vidhidepro.com/v/01cjaa2ae4f0",
+  "trailer": "https://www.youtube.com/watch?v=-H3yhfkJBnQ"
+}
