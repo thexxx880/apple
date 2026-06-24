@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 8329,
+  "poster": "https://image.tmdb.org/t/p/w500/vIoBgFBJuqcIzudkFyagJuCxHZ7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xfrguTH6maYiGsC8FXiQ9N3lZXw.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8MTHVfhHBgXrqTNHs83rQiSfBYh.png",
+  "titulo": "[REC]",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Misterio"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.233,
+  "año": "2007",
+  "duracion": "1h 16min",
+  "edad_minima": 13,
+  "sinopsis": "Cada noche, Ángela, una joven reportera de una televisión local, sigue con su cámara a un grupo profesional distinto. Esta noche le toca entrevistar a los bomberos y tiene la secreta esperanza de poder asistir en directo a un impactante incendio. Pero la noche transcurre tranquilamente. Y cuando, por fin, reciben la llamada de una anciana que se ha quedado encerrada en su casa, no le queda otro remedio que seguirlos durante la misión de rescate. En el edificio donde vive la anciana, los vecinos están muy asustados. La mujer, encerrada en su piso, lanza unos gritos desgarradores... Es sólo el comienzo de una larga pesadilla y de un dramático reportaje único en el mundo.",
+  "fecha_estreno": "2007-11-23",
+  "titulo_original": "[REC]",
+  "pais_origen": "Spain",
+  "reparto": [
+    {
+      "nombre": "Manuela Velasco",
+      "personaje": "Ángela Vidal",
+      "foto": "https://image.tmdb.org/t/p/w500/5kLSLPENT0aKZB9gPlEbDumDWPx.jpg"
+    },
+    {
+      "nombre": "Pablo Rosso",
+      "personaje": "Pablo",
+      "foto": null
+    },
+    {
+      "nombre": "Javier Coromina",
+      "personaje": "Pablo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKJuWWl0hDUbjiHhzTJydnQHX2a.jpg"
+    },
+    {
+      "nombre": "Ferrán Terraza",
+      "personaje": "Manu",
+      "foto": "https://image.tmdb.org/t/p/w500/vw2LvonkYZ61iE3fl8SjBrHqRsh.jpg"
+    },
+    {
+      "nombre": "Martha Carbonell",
+      "personaje": "Mrs. Izquierdo",
+      "foto": null
+    },
+    {
+      "nombre": "David Vert",
+      "personaje": "Álex",
+      "foto": "https://image.tmdb.org/t/p/w500/cCVObNMnEt8PwK2ORw4T61vcf3l.jpg"
+    },
+    {
+      "nombre": "Carlos Lasarte",
+      "personaje": "César",
+      "foto": "https://image.tmdb.org/t/p/w500/u4HpuRpukkC4eYyF0zJ0z3qMGFI.jpg"
+    },
+    {
+      "nombre": "Vicente Gil",
+      "personaje": "Old Police Officer",
+      "foto": "https://image.tmdb.org/t/p/w500/mA0SV0enqKoG4jkZLrvXad2PmB2.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jaume Balagueró",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paco Plaza",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jaume Balagueró",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Paco Plaza",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Julio Fernández",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Luiso Berdejo",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Carlos Fernández",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pablo Rosso",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "David Gallart",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Glòria Viguer",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Cristina Campos",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Alberto Álvarez",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Jesús L. Pérez Villar",
+      "rol": "Post-Production Manager"
+    },
+    {
+      "nombre": "Àlex Villagrasa",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Gérard Estival",
+      "rol": "Color Timer"
+    },
+    {
+      "nombre": "Anna Vilà Parera",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Marc Orts",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Julio Fernández",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Jaume Balagueró",
+  "valoraciones": {
+    "tmdb": 7.233,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Castelao Productions",
+  "enlace_video": "https://vimeos.net/embed-0vc2chvsqb54.html",
+  "trailer": "https://www.youtube.com/watch?v=oPvHTzqY2fM"
+}
