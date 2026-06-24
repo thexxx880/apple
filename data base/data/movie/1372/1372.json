@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1372,
+  "poster": "https://image.tmdb.org/t/p/w500/dBuTvhQgbsoWEOGh50Bkf5qB58g.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dZ8BVgAMxUpM9t5flLeQbtTX7Zq.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tRL17QWzX5RUeflaopf3GXtHmO4.png",
+  "titulo": "Diamante de Sangre",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Suspense",
+    "Acción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.561,
+  "año": "2006",
+  "duracion": "2h 24min",
+  "edad_minima": 13,
+  "sinopsis": "Un pescador, un contrabandista y un sindicato de empresarios coinciden en la posesión de un diamante de valor incalculable.",
+  "fecha_estreno": "2006-12-08",
+  "titulo_original": "Blood Diamond",
+  "pais_origen": "Germany",
+  "reparto": [
+    {
+      "nombre": "Leonardo DiCaprio",
+      "personaje": "Danny Archer",
+      "foto": "https://image.tmdb.org/t/p/w500/mkdRcVIQl4WZhDf1vXKWTD7HZrZ.jpg"
+    },
+    {
+      "nombre": "Djimon Hounsou",
+      "personaje": "Solomon Vandy",
+      "foto": "https://image.tmdb.org/t/p/w500/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+    },
+    {
+      "nombre": "Jennifer Connelly",
+      "personaje": "Maddy Bowen",
+      "foto": "https://image.tmdb.org/t/p/w500/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
+    },
+    {
+      "nombre": "Kagiso Kuypers",
+      "personaje": "Dia Vandy",
+      "foto": "https://image.tmdb.org/t/p/w500/6quzPn5kvtaKAEz8chRvSrqZ1Bk.jpg"
+    },
+    {
+      "nombre": "Arnold Vosloo",
+      "personaje": "Colonel Coetzee",
+      "foto": "https://image.tmdb.org/t/p/w500/o23Z1EvWEYR7PArq2w5UpreVipV.jpg"
+    },
+    {
+      "nombre": "Antony Coleman",
+      "personaje": "Cordell Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/eY0Et6Wt6cuZKx1M7ALuJ19VSyg.jpg"
+    },
+    {
+      "nombre": "Benu Mabhena",
+      "personaje": "Jassie Vandy",
+      "foto": "https://image.tmdb.org/t/p/w500/uijhKZF1FdUNbCa8ajMtgmGKTp3.jpg"
+    },
+    {
+      "nombre": "Anointing Lukola",
+      "personaje": "N'Yanda Vandy",
+      "foto": "https://image.tmdb.org/t/p/w500/sh4885Ef8R6DwYjBa9c0DNAQkt9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Edward Zwick",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Charles Leavitt",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gillian Gorfil",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marshall Herskovitz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Graham King",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Darrell James Roodt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paula Weinstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Edward Zwick",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "James Newton Howard",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Eduardo Serra",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Steven Rosenblum",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Victoria Thomas",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Dan Weil",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Olivia Bloch-Lainé",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Ngila Dickson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Sharon Martin",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Sallie Jaye",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Christopher Assells",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Lon Bender",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Neil Corbould",
+      "rol": "Special Effects"
+    }
+  ],
+  "director": "Edward Zwick",
+  "valoraciones": {
+    "tmdb": 7.561,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Virtual Studios",
+  "enlace_video": "https://vidmoly.biz/embed-yalbuywp2kld.html",
+  "trailer": "https://www.youtube.com/watch?v=stEtrTrDlrw"
+}
