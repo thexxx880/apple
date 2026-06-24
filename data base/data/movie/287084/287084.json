@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 287084,
+  "poster": "https://image.tmdb.org/t/p/w500/ca5mtCvUymCbwiOX0BobBzvQ98q.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/k5OEHChJGZJyLAJGHXeBcTE6DJz.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1uS9rOZ0Ei3eFYI8dbHU0fga0vq.png",
+  "titulo": "La ciudad que teme al ocaso",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.81,
+  "año": "2014",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "Décadas después del siniestro momento que vivió Texarkana, los tormentos inician de nuevo... y una solitaria adolescente podría ser la clave para la captura del asesino.",
+  "fecha_estreno": "2014-10-16",
+  "titulo_original": "The Town that Dreaded Sundown",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Addison Timlin",
+      "personaje": "Jami",
+      "foto": "https://image.tmdb.org/t/p/w500/ropQg0oZZP0R3xkWxYNdMx8glHi.jpg"
+    },
+    {
+      "nombre": "Veronica Cartwright",
+      "personaje": "Lillian",
+      "foto": "https://image.tmdb.org/t/p/w500/1CiknHO8ssMM4bWPsIMMzCTVHeB.jpg"
+    },
+    {
+      "nombre": "Travis Tope",
+      "personaje": "Nick",
+      "foto": "https://image.tmdb.org/t/p/w500/e70wistUzfGRVW7hvOZMEaK77ar.jpg"
+    },
+    {
+      "nombre": "Anthony Anderson",
+      "personaje": "Lone Wolf Morales",
+      "foto": "https://image.tmdb.org/t/p/w500/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
+    },
+    {
+      "nombre": "Joshua Leonard",
+      "personaje": "Deputy Foster",
+      "foto": "https://image.tmdb.org/t/p/w500/druE5TIt3eARRwWFDA0punUBGvs.jpg"
+    },
+    {
+      "nombre": "Denis O'Hare",
+      "personaje": "Charles B. Pierce, Jr.",
+      "foto": "https://image.tmdb.org/t/p/w500/zMim5sdMnyd2GFfPd9Jh59Vcog3.jpg"
+    },
+    {
+      "nombre": "Spencer Treat Clark",
+      "personaje": "Corey",
+      "foto": "https://image.tmdb.org/t/p/w500/8qb2Unu2907rU7k6UxmF9PFamau.jpg"
+    },
+    {
+      "nombre": "Andy Abele",
+      "personaje": "Sackhead",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alfonso Gomez-Rejon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Roberto Aguirre-Sacasa",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jason Blum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan Murphy",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ludwig Göransson",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Joe Leonard",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Goi",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Nancy Nayor",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Nathan Carlson",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Hannah Beachler",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Elizabeth Humphrey",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Eileen Dennehy",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Stephani Lewis",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Satoko Ichinose",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Carol White",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Tommie Strawther",
+      "rol": "Hairstylist"
+    }
+  ],
+  "director": "Alfonso Gomez-Rejon",
+  "valoraciones": {
+    "tmdb": 5.81,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Blumhouse Productions",
+  "enlace_video": "https://voe.sx/e/lfksepj7qve7",
+  "trailer": "https://www.youtube.com/watch?v=ziRIF0kWOJs"
+}
