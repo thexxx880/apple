@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 24740,
+  "poster": "https://image.tmdb.org/t/p/w500/ws8tfaqgwGNp3w3q1DUFchlo0zx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vboAWZiHNEEWdLeXGwWmVVoqU9M.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/h4vYHcCqeBMMaZ0asCdzbrmFcGm.png",
+  "titulo": "El Ente",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Misterio",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.807,
+  "año": "1982",
+  "duracion": "2h 5min",
+  "edad_minima": 13,
+  "sinopsis": "Barbara Hershey interpreta a Carla Moran, una madre soltera trabajadora hasta la noche en que la violan en su dormitorio por alguien o algo que no puede ver. A pesar de los psiquiatras escépticos, ella es atacada repetidamente en su coche, en el baño, y delante de sus hijos. ¿Podría ser esto un caso de histeria, una manifestación del trauma sexual de la niñez, o algo aún más horrible?",
+  "fecha_estreno": "1982-09-30",
+  "titulo_original": "The Entity",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Barbara Hershey",
+      "personaje": "Carla Moran",
+      "foto": "https://image.tmdb.org/t/p/w500/6swwfge3HlvyBVRSNwroFtMcgNB.jpg"
+    },
+    {
+      "nombre": "Ron Silver",
+      "personaje": "Phil Sneiderman",
+      "foto": "https://image.tmdb.org/t/p/w500/6urQBScK7Vq6q5niaMMEmzW3DGP.jpg"
+    },
+    {
+      "nombre": "David Labiosa",
+      "personaje": "Billy",
+      "foto": "https://image.tmdb.org/t/p/w500/fS3weV5m9bE0v5exg2o09I9f4ox.jpg"
+    },
+    {
+      "nombre": "George Coe",
+      "personaje": "Dr. Weber",
+      "foto": "https://image.tmdb.org/t/p/w500/3VkamwMlEhr9rFe3o6zcoGkHqJw.jpg"
+    },
+    {
+      "nombre": "Margaret Blye",
+      "personaje": "Cindy Nash",
+      "foto": "https://image.tmdb.org/t/p/w500/hvgzZtn3AliCNqXgwUJT1aYrTRM.jpg"
+    },
+    {
+      "nombre": "Jacqueline Brookes",
+      "personaje": "Dr. Cooley",
+      "foto": "https://image.tmdb.org/t/p/w500/hcpeoWNGIomzsQKbZIdwHxhXRAn.jpg"
+    },
+    {
+      "nombre": "Richard Brestoff",
+      "personaje": "Gene Kraft",
+      "foto": "https://image.tmdb.org/t/p/w500/crtmyBM10zJfz0XkwWk2BZhvw81.jpg"
+    },
+    {
+      "nombre": "Michael Alldredge",
+      "personaje": "George Nash",
+      "foto": "https://image.tmdb.org/t/p/w500/cmWkrUrcApkshaSgsUHt7A71BaX.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sidney J. Furie",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Harold Schneider",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Frank De Felitta",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Barbara Claman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "James Kagel",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Stan Winston",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "David Salven",
+      "rol": "Executive In Charge Of Production"
+    },
+    {
+      "nombre": "David Salven",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "William Cosentino",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Gene Anderson",
+      "rol": "Assistant Property Master"
+    },
+    {
+      "nombre": "Frank L. Brown",
+      "rol": "Leadman"
+    },
+    {
+      "nombre": "Richard Eckols",
+      "rol": "Construction Foreman"
+    },
+    {
+      "nombre": "Anthony 'AJ' Leonardi Jr.",
+      "rol": "Painter"
+    },
+    {
+      "nombre": "John Tyrrell",
+      "rol": "Paint Coordinator"
+    },
+    {
+      "nombre": "Mark Sparks",
+      "rol": "Propmaker"
+    }
+  ],
+  "director": "Sidney J. Furie",
+  "valoraciones": {
+    "tmdb": 6.807,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "American Cinema Productions",
+  "enlace_video": "https://dzen.ru/embed/o2EbnjC8MAAA?from_block=partner&from=zen&mute=0&autoplay=0&tv=0",
+  "trailer": "https://www.youtube.com/watch?v=PkPaOvXd10o"
+}
