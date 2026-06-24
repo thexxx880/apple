@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 8814,
+  "poster": "https://image.tmdb.org/t/p/w500/5fITzPnmagU97nF455DOBSa5Bgg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9EpgaLS44zlXoTSAOhGiJmkIA4B.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4zpaSDIVGjel0SxCU2SMc7mErnD.png",
+  "titulo": "Doom: La puerta del infierno",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Terror",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.196,
+  "año": "2005",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Marines Espaciales son enviados a investigar extraños eventos en una instalación de investigación en Marte, pero se encuentran a merced de máquinas de matar genéticamente mejoradas.",
+  "fecha_estreno": "2005-10-20",
+  "titulo_original": "Doom",
+  "pais_origen": "Czech Republic",
+  "reparto": [
+    {
+      "nombre": "Dwayne Johnson",
+      "personaje": "Sarge",
+      "foto": "https://image.tmdb.org/t/p/w500/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+    },
+    {
+      "nombre": "Karl Urban",
+      "personaje": "John \"Reaper\" Grimm",
+      "foto": "https://image.tmdb.org/t/p/w500/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
+    },
+    {
+      "nombre": "Rosamund Pike",
+      "personaje": "Samantha Grimm",
+      "foto": "https://image.tmdb.org/t/p/w500/8ObNklHDi2hjdz0ayzJFB9jtqzm.jpg"
+    },
+    {
+      "nombre": "Deobia Oparei",
+      "personaje": "Destroyer",
+      "foto": "https://image.tmdb.org/t/p/w500/kcw8vNMlYgK8peuN80zhX6TqeNk.jpg"
+    },
+    {
+      "nombre": "Razaaq Adoti",
+      "personaje": "Duke",
+      "foto": "https://image.tmdb.org/t/p/w500/bgN6Q0sMzAVLXvsU0CWFN8R42dG.jpg"
+    },
+    {
+      "nombre": "Al Weaver",
+      "personaje": "The Kid",
+      "foto": "https://image.tmdb.org/t/p/w500/bWHVME4ZXxXJ2DCAd0EdEgK4ffI.jpg"
+    },
+    {
+      "nombre": "Ben Daniels",
+      "personaje": "Goat",
+      "foto": "https://image.tmdb.org/t/p/w500/phEIvq0Ay2KjI5ewmVvpQ1a29GJ.jpg"
+    },
+    {
+      "nombre": "Richard Brake",
+      "personaje": "Portman",
+      "foto": "https://image.tmdb.org/t/p/w500/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John Wells",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrzej Bartkowiak",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Wesley Strick",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Callaham",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lorenzo di Bonaventura",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John D. Schofield",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Clint Mansell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tony Pierce-Roberts",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Derek Brechin",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Dominic Masters",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Rachel Solow",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Carlo Poggioli",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Stephen Scott",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Richard Roberts",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Nuria Mbomio",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Jeff Dawn",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Pau Loewe",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Andrzej Bartkowiak",
+  "valoraciones": {
+    "tmdb": 5.196,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "di Bonaventura Pictures",
+  "enlace_video": "https://voe.sx/e/wvknrjdpfelp",
+  "trailer": "https://www.youtube.com/watch?v=LljkKoPs1Gg"
+}
