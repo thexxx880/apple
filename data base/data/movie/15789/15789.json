@@ -1,0 +1,151 @@
+{
+  "id_tmdb": 15789,
+  "poster": "https://image.tmdb.org/t/p/w500/dLJvlkB3S25vxosfEIHlewJXBxt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Sb2cLe2xW5OATkZZJBbGrB6qjl.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/d6QtyzBgPtDCTShnyJMLTeSATk3.png",
+  "titulo": "Goofy, la película",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Romance",
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7,
+  "año": "1995",
+  "duracion": "1h 18min",
+  "edad_minima": 13,
+  "sinopsis": "La primera vez que el simpático perro Goofy protagoniza un largometraje de animación. Goofy tiene la desafortunada idea de llevar a su hijo Max a pescar, pero éste, que teme convertirse de mayor en un ser tan tonto como su padre, tiene otros planes. Ha quedado con la bella Roxanne, que por fin ha accedido a salir con él. Pero Goofy no está dispuesto a permitir que su hijo ignore el arte de la pesca.",
+  "fecha_estreno": "1995-04-05",
+  "titulo_original": "A Goofy Movie",
+  "pais_origen": "Australia",
+  "reparto": [
+    {
+      "nombre": "Bill Farmer",
+      "personaje": "Goofy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lhezx68R12s5Bsv7d77BrQb7tWA.jpg"
+    },
+    {
+      "nombre": "Jason Marsden",
+      "personaje": "Max (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/68kkcU88K9vS6Rrw2ysfe2zFwZ0.jpg"
+    },
+    {
+      "nombre": "Rob Paulsen",
+      "personaje": "P.J. (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c9Gb8stOOftFgUiZXtXAWlSaq6e.jpg"
+    },
+    {
+      "nombre": "Jim Cummings",
+      "personaje": "Pete (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "nombre": "Kellie Martin",
+      "personaje": "Roxanne (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vDy90F1H953nR1CfONVdCQ99YXw.jpg"
+    },
+    {
+      "nombre": "Kevin Lima",
+      "personaje": "Lester (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kNqnN6z8S6DcfSTBDQ4G8pYXb3S.jpg"
+    },
+    {
+      "nombre": "Jenna Von Oÿ",
+      "personaje": "Stacey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/KSRnePpBORnGzB8V1SYGSjiAZq.jpg"
+    },
+    {
+      "nombre": "Joey Lawrence",
+      "personaje": "Chad (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/scmaFpaElhetPwubERvd1mdkERg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Lima",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jymn Magon",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Brian Pimental",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chris Matheson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jymn Magon",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Dan Rounds",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Doolittle",
+      "rol": "Additional Writing"
+    },
+    {
+      "nombre": "Curtis Armstrong",
+      "rol": "Additional Writing"
+    },
+    {
+      "nombre": "Larry Leker",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Brian Pimental",
+      "rol": "Story Supervisor"
+    },
+    {
+      "nombre": "Wendell Luebbe",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Patrick Reagan",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Jean-Francois Rey",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "David E. Stone",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Pascal Nowak",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Gregory Perler",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Carter Burwell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jamie Thomason",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Kevin Lima",
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://vidmoly.biz/embed-xe9y97ojhhj0.html",
+  "trailer": "https://www.youtube.com/watch?v=_IY7_iCuINo"
+}
