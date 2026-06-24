@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 539,
+  "poster": "https://image.tmdb.org/t/p/w500/xFbnc2QPG5H5gYWsGbZT4q8Akya.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tbDsTlf1M37hAMPvfJwiDMP0tbl.png",
+  "titulo": "Psicosis",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense",
+    "Misterio"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 8.414,
+  "año": "1960",
+  "duracion": "1h 49min",
+  "edad_minima": 13,
+  "sinopsis": "Una joven secretaria, tras cometer un robo, se marcha de la ciudad y conduce durante horas, parando para descansar en un pequeño motel de carretera regentado por un joven llamado Norman. Todo parece normal y tranquilo en el apartado motel y en la casa de al lado en la que viven Norman y su madre pero, mientras está en la ducha, la joven es asesinada salvajemente a cuchilladas.",
+  "fecha_estreno": "1960-06-22",
+  "titulo_original": "Psycho",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Anthony Perkins",
+      "personaje": "Norman Bates",
+      "foto": "https://image.tmdb.org/t/p/w500/7FipKwmg2woHNvt5ATeXLBirHXs.jpg"
+    },
+    {
+      "nombre": "Janet Leigh",
+      "personaje": "Marion Crane",
+      "foto": "https://image.tmdb.org/t/p/w500/2dv9IqJEx31RSoH7xAHlJZXF5uB.jpg"
+    },
+    {
+      "nombre": "Vera Miles",
+      "personaje": "Lila Crane",
+      "foto": "https://image.tmdb.org/t/p/w500/9PDTsJnBfrAlvVPOBBFS3ehN8lD.jpg"
+    },
+    {
+      "nombre": "John Gavin",
+      "personaje": "Sam Loomis",
+      "foto": "https://image.tmdb.org/t/p/w500/n8vlG1PRtNzv6vlwjTNK7UnoKr0.jpg"
+    },
+    {
+      "nombre": "Martin Balsam",
+      "personaje": "Milton Arbogast",
+      "foto": "https://image.tmdb.org/t/p/w500/2q7xs6j6vGll3pc9Mm6TUEvvwBf.jpg"
+    },
+    {
+      "nombre": "John McIntire",
+      "personaje": "Al Chambers",
+      "foto": "https://image.tmdb.org/t/p/w500/6t1VIejDVkfyspgrwlvgyrbDwWk.jpg"
+    },
+    {
+      "nombre": "Simon Oakland",
+      "personaje": "Fred Richman",
+      "foto": "https://image.tmdb.org/t/p/w500/wDytzjcJNp1P39mZ1hcRb8mcvvl.jpg"
+    },
+    {
+      "nombre": "Frank Albertson",
+      "personaje": "Tom Cassidy",
+      "foto": "https://image.tmdb.org/t/p/w500/sT9JZ8GgHgunZS4PWIDX6wMoIS7.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alfred Hitchcock",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joseph Stefano",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Alfred Hitchcock",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joseph Hurley",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Clarence Champagne",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Bernard Herrmann",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Robert Clatworthy",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "John L. Russell",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "George Tomasini",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "George Milo",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Saul Bass",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "Lew Leary",
+      "rol": "Unit Manager"
+    },
+    {
+      "nombre": "Helen Colvig",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Hilton A. Green",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "William Russell",
+      "rol": "Sound Recordist"
+    }
+  ],
+  "director": "Alfred Hitchcock",
+  "valoraciones": {
+    "tmdb": 8.414,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Shamley Productions",
+  "enlace_video": "https://drive.google.com/file/d/1hjIwhj-D0bNWQkAyX6gaVbEpS0lRbTlf/view",
+  "trailer": "https://www.youtube.com/watch?v=D90QhegiVvo"
+}
