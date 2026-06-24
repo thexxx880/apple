@@ -1,0 +1,101 @@
+{
+  "id_tmdb": 1081208,
+  "poster": "https://image.tmdb.org/t/p/w500/8dsBBNw3uJkOvLPb2nz8VJAkGbM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/48LdnfGahm8LuM2cg7LFWEmrTEd.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uVpPgLFxPQk8cEEG9LuBRPqNCFR.png",
+  "titulo": "The Dogs",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense",
+    "Misterio"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.75,
+  "año": "2025",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Perseguidos por su padre, Cameron y su madre se mudan a una granja aislada donde Cameron ve y oye cosas que no son posibles. Comienza a cuestionarse todo lo que le rodea y debe descubrir los misterios antes de que le destrocen.",
+  "fecha_estreno": "2025-06-13",
+  "titulo_original": "The Dogs",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Donovan Colan",
+      "personaje": "Cameron Weaver",
+      "foto": "https://image.tmdb.org/t/p/w500/zmHaoXWYLeVO4hjkXC59bPv75dC.jpg"
+    },
+    {
+      "nombre": "Kathleen Munroe",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/co8l2AzgtCnx4SgJpcqDrIfIxli.jpg"
+    },
+    {
+      "nombre": "Kristen Holden-Ried",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/lphlznej10kVTFkPcSFYCigaZV9.jpg"
+    },
+    {
+      "nombre": "Stuart Hughes",
+      "personaje": "Art Sinclair",
+      "foto": "https://image.tmdb.org/t/p/w500/pmlPYQYJPykTRTUHU4f0XB15UHK.jpg"
+    },
+    {
+      "nombre": "Asher Grayson",
+      "personaje": "",
+      "foto": null
+    },
+    {
+      "nombre": "Aidan Kalechstein",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/77byCLaW1EdCsIxx9EM0QUmPTf7.jpg"
+    },
+    {
+      "nombre": "Dylan Taylor",
+      "personaje": "Mike Weaver",
+      "foto": "https://image.tmdb.org/t/p/w500/kXboHqwzfsoi1V7PO5yQ6BGtp89.jpg"
+    },
+    {
+      "nombre": "Aidan Kalechstein",
+      "personaje": "Officer Culp",
+      "foto": "https://image.tmdb.org/t/p/w500/77byCLaW1EdCsIxx9EM0QUmPTf7.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Valerie Buhagiar",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Anthony Artibello",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sheila Rogerson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Anthony Artibello",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kevin C. Bjerkness",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Allan Stratton",
+      "rol": "Novel"
+    }
+  ],
+  "director": "Valerie Buhagiar",
+  "valoraciones": {
+    "tmdb": 6.75,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Wild Media Entertainment",
+  "enlace_video": "https://voe.sx/e/xdg19pcim4k1",
+  "trailer": "https://www.youtube.com/watch?v=mU_mOWRjPkk"
+}
