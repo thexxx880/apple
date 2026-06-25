@@ -1,0 +1,132 @@
+{
+  "id_tmdb": 210249,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/yt6yvFBpeWVaqowRqmeXmvU3IsT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7v2qFq2wwHqZMrV9wphG5aSzI6X.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jFfleH1j26ON6DEW6Jj2sYKCl3V.png",
+  "titulo": "Digman!",
+  "titulo_original": "Digman!",
+  "fecha_estreno": "2023-03-22",
+  "duracion": "22min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Animación"
+  ],
+  "puntuacion": 6.1,
+  "sinopsis": "En un mundo en el que los arqueólogos son grandes celebridades, el deshonrado Rip Digman intenta volver a la fama con la ayuda de su valiente ayudante, Saltine.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Andy Samberg",
+      "personaje": "Rip Digman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg"
+    },
+    {
+      "nombre": "Tim Robinson",
+      "personaje": "Swooper (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tS0CF1hO6sUd6GGdBnz5lkHpeaG.jpg"
+    },
+    {
+      "nombre": "Mitra Jouhari",
+      "personaje": "Saltine (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rc9wRRbMWoANfttKEgICwuBfurr.jpg"
+    },
+    {
+      "nombre": "Dale Soules",
+      "personaje": "Agatha (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d7tNFF8AnYexraYWmpSRFkQNE6n.jpg"
+    },
+    {
+      "nombre": "Guz Khan",
+      "personaje": "Zane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pY2ND9eZhUtPuRBZPEoM1BRPZBd.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Antonio Canobbio",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Kalina",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Stanger",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Shannon Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Grant Gish",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Antonio Canobbio",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Kalina",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Stanger",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Shannon Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Grant Gish",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jorma Taccone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Akiva Schaffer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Neil Campbell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andy Samberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ali Bell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Caroline Cohen",
+      "rol": "Production Assistant"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.1,
+    "imdb": "tt22059768",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=LrhkQD2gn0E"
+}
