@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 226241,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/SYvwtsk4vWPAtB0wlgLlecWCFc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zzMmUE7aRRtHR9GL90zrtvlqXlm.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/dg2yWE9Gviig6EACwFHjdxJAzQW.png",
+  "titulo": "Vgly",
+  "titulo_original": "Vgly",
+  "fecha_estreno": "2023-05-25",
+  "duracion": "30min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 8.319,
+  "sinopsis": "La historia de un joven que busca hacerse paso dentro de la música urbana en México, pero que tiene que enfrentar algunas situaciones propias de la industria, tales como las rivalidades que a veces surgen.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Benny Emmanuel",
+      "personaje": "Vgly",
+      "foto": "https://image.tmdb.org/t/p/w500/rSqiumttAOg08Auypm5Z7FpdvMS.jpg"
+    },
+    {
+      "nombre": "Juan Daniel Garcia Treviño",
+      "personaje": "Flex",
+      "foto": "https://image.tmdb.org/t/p/w500/xAfi4GWcj77QoGwLyBY0o9PIzb0.jpg"
+    },
+    {
+      "nombre": "Sasha González",
+      "personaje": "Data",
+      "foto": "https://image.tmdb.org/t/p/w500/uSEZovWlTA41AVOa50AMIeWoGdQ.jpg"
+    },
+    {
+      "nombre": "Alejandro Lago",
+      "personaje": "Bubble",
+      "foto": "https://image.tmdb.org/t/p/w500/rrnH71w7YhZU9yJQJUhn9Q5FG7H.jpg"
+    },
+    {
+      "nombre": "Norma Reyna",
+      "personaje": "Marimix",
+      "foto": "https://image.tmdb.org/t/p/w500/wXrgKUxzi0TAeUwOyaZ8cFyq20k.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.319,
+    "imdb": "tt21304664",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=zbEeDZWWFsg"
+}
