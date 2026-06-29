@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 455476,
+  "poster": "https://image.tmdb.org/t/p/w500/zqhO44oc0pWM32seJeXMcjPLvwV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fLEsa5SKTFgrdUGMHbsWomniak6.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/40kUpKPghU1JqnolO6jypd7zODa.png",
+  "titulo": "Los Caballeros del Zodiaco: Saint Seiya - El inicio",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.287,
+  "año": "2023",
+  "duracion": "1h 52min",
+  "edad_minima": 13,
+  "sinopsis": "Nacido bajo la estrella de Pegaso, la misión de Seiya es proteger a Siena, la reencarnación de Athena, la diosa de la sabiduría y la batalla, y salva el mundo. Cuando se da cuenta de su poder oculto, se convierte en un 'Caballero' para salvar este mundo.",
+  "fecha_estreno": "2023-04-27",
+  "titulo_original": "Knights of the Zodiac",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "新田真剣佑",
+      "personaje": "Seiya / The Pegasus Knight",
+      "foto": "https://image.tmdb.org/t/p/w500/y4FTSASxsO1F61p3hFIPMCeprut.jpg"
+    },
+    {
+      "nombre": "Madison Iseman",
+      "personaje": "Sienna / Athena",
+      "foto": "https://image.tmdb.org/t/p/w500/5JVhacnNhqLcWpGPH1fqL7Ovq7g.jpg"
+    },
+    {
+      "nombre": "Diego Tinoco",
+      "personaje": "Nero / The Pheonix Knight",
+      "foto": "https://image.tmdb.org/t/p/w500/ayRLsNOGj7l1Flx3MOooKIWGNRK.jpg"
+    },
+    {
+      "nombre": "Mark Dacascos",
+      "personaje": "Mylock",
+      "foto": "https://image.tmdb.org/t/p/w500/trOACuJz1KzhB51qe6asaxRuxrh.jpg"
+    },
+    {
+      "nombre": "Nick Stahl",
+      "personaje": "Cassios",
+      "foto": "https://image.tmdb.org/t/p/w500/hV1Fs7LcYWBQ90hWYA3DrCh0rPV.jpg"
+    },
+    {
+      "nombre": "Famke Janssen",
+      "personaje": "Guraad",
+      "foto": "https://image.tmdb.org/t/p/w500/uvZGwNsLqe9NyA57Qlt46IkO8Bd.jpg"
+    },
+    {
+      "nombre": "Sean Bean",
+      "personaje": "Alman Kido",
+      "foto": "https://image.tmdb.org/t/p/w500/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+    },
+    {
+      "nombre": "Caitlin M Hutson",
+      "personaje": "Marin / The Eagle Knight",
+      "foto": "https://image.tmdb.org/t/p/w500/9E2nbzrUTx73Ot8hS0bk0BbX6E8.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tomek Bagiński",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Matthew Stuecken",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Josh Campbell",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kiel Murray",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Yoshi Ikezawa",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joseph Chou",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tim Kwok",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "鄭繼宗",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Masami Kurumada",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Tóth András",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Godena-Juhász Attila",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Ron Simonson",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "池頼広",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Peter Pav",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Kenny G. Krauss",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Csaba Lódi",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Tomasz Naumiuk",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jonathan Shore",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "B.F. Painter",
+      "rol": "Co-Producer"
+    }
+  ],
+  "director": "Tomek Bagiński",
+  "valoraciones": {
+    "tmdb": 6.287,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Stage 6 Films",
+  "enlace_video": "https://voe.sx/e/tastbh4vxrja",
+  "trailer": "https://www.youtube.com/watch?v=M_SBjSWBAs4"
+}
