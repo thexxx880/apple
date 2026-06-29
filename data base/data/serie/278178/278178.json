@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 278178,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/yvZlBI21f8CqRiqVfTjMDPK1NYk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/5CLrB9saMGYk480K5kqlfD389u9.png",
+  "titulo": "Te encontraré",
+  "titulo_original": "I Will Find You",
+  "fecha_estreno": "2026-06-18",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Crimen"
+  ],
+  "puntuacion": 8.3,
+  "sinopsis": "Estaba en prisión por la falsa acusación de haber matado a su propio hijo, pero cuando se entera de que podría estar vivo, un padre se lanza en una peligrosa misión de rescate.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Sam Worthington",
+      "personaje": "David Burroughs",
+      "foto": "https://image.tmdb.org/t/p/w500/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
+    },
+    {
+      "nombre": "Britt Lower",
+      "personaje": "Rachel Mills",
+      "foto": "https://image.tmdb.org/t/p/w500/5XIcTMDSyj7hRICQAcnY9U83ujF.jpg"
+    },
+    {
+      "nombre": "Chi McBride",
+      "personaje": "Max Williams",
+      "foto": "https://image.tmdb.org/t/p/w500/cesCeJZ5gSywA9lTYReB5uhkfek.jpg"
+    },
+    {
+      "nombre": "Logan Browning",
+      "personaje": "Sarah Greer",
+      "foto": "https://image.tmdb.org/t/p/w500/zKEsvVQCZORJ32wzp1a1exsHU0P.jpg"
+    },
+    {
+      "nombre": "Erin Richards",
+      "personaje": "Cheryl Dreason",
+      "foto": "https://image.tmdb.org/t/p/w500/wFR9REFinAyJsluy9EPDcoOXjqB.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Harlan Coben",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Hull",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bryan Wynbrandt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven Lilien",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Weber",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Anderson",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Harlan Coben",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Hull",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bryan Wynbrandt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven Lilien",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Weber",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Harlan Coben",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Brad Anderson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John G. Lenic",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Heather Mitchell",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "John Mabry",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Desmond Paes",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Zoe Cheng",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Janelle Reyes",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Ben Coben",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Mark Steel",
+      "rol": "Production Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.3,
+    "imdb": "tt34771210",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=ioo0mj1zUAQ"
+}
