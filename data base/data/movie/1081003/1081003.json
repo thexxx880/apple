@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 1081003,
+  "poster": "https://image.tmdb.org/t/p/w500/diEz9JG1UHEDTN0Yeri5sJZD7PL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hBwCiqcaXtxmhv5xZ0H6Uhd2L1E.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/y5IQmJgJvqUDl5WIYW7GUvVyiMx.png",
+  "titulo": "Supergirl",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.158,
+  "año": "2026",
+  "duracion": "1h 48min",
+  "edad_minima": 13,
+  "sinopsis": "Mientras celebra su cumpleaños número 21, Kara Zor-El viaja por la galaxia con su perro Krypto, durante el cual conoce a la joven Ruthye Marye Knoll y emprende una \"búsqueda asesina de venganza\".",
+  "fecha_estreno": "2026-06-24",
+  "titulo_original": "Supergirl",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Milly Alcock",
+      "personaje": "Supergirl / Kara Zor-El",
+      "foto": "https://image.tmdb.org/t/p/w500/cpcNqIORhZlpie8U2wSInhv0Hjf.jpg"
+    },
+    {
+      "nombre": "Eve Ridley",
+      "personaje": "Ruthye",
+      "foto": "https://image.tmdb.org/t/p/w500/vmEfK4PO6rUvTJnN8bbUZrSDgII.jpg"
+    },
+    {
+      "nombre": "Matthias Schoenaerts",
+      "personaje": "Krem",
+      "foto": "https://image.tmdb.org/t/p/w500/9mRssCj4si6f6IF3nJ2RB5w0J7g.jpg"
+    },
+    {
+      "nombre": "Jason Momoa",
+      "personaje": "Lobo",
+      "foto": "https://image.tmdb.org/t/p/w500/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+    },
+    {
+      "nombre": "David Krumholtz",
+      "personaje": "Zor-El",
+      "foto": "https://image.tmdb.org/t/p/w500/ibp6vAc8MWTAKaTI9tfpUJtqiAX.jpg"
+    },
+    {
+      "nombre": "Emily Beecham",
+      "personaje": "Alura In-Ze",
+      "foto": "https://image.tmdb.org/t/p/w500/knR5avTlO4Xnxw7Nc3xxUj3rtjh.jpg"
+    },
+    {
+      "nombre": "David Corenswet",
+      "personaje": "Superman",
+      "foto": "https://image.tmdb.org/t/p/w500/yoQxpUPt3le9zY4Sab3g2ANy4CE.jpg"
+    },
+    {
+      "nombre": "Kadiff Kirwan",
+      "personaje": "Bomar Vran",
+      "foto": "https://image.tmdb.org/t/p/w500/pyDKDSVtDTdmnzhOVW1tkQDHKOi.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ana Nogueira",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "James Gunn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Safran",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Craig Gillespie",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Anna B. Sheppard",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Geoffrey Baumann",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Neil Lamont",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Tara Ilsley",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Chantal Nong Vo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lars P. Winther",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicole Rowley",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Rob Hardy",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Lee Walters",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Paul Corbould",
+      "rol": "Special Effects Supervisor"
+    },
+    {
+      "nombre": "Lucy Bevan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Chris Munro",
+      "rol": "Production Sound Mixer"
+    }
+  ],
+  "director": "Craig Gillespie",
+  "valoraciones": {
+    "tmdb": 6.158,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC Studios",
+  "enlace_video": "https://streamwish.to/e/5kemc4b0lm9g",
+  "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg"
+}
