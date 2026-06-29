@@ -1,0 +1,105 @@
+{
+  "id_tmdb": 65965,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/wiMapRZeviA3znQNXxQInjfsEpL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oUo0vMRgp5rePSQ8UCdIXfHyxld.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/pXuAEgcpKVwq1kgGVxQFEzurO1E.png",
+  "titulo": "Angel Cop",
+  "titulo_original": "エンゼルコップ",
+  "fecha_estreno": "1989-09-01",
+  "duracion": "30min",
+  "año": "1989",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Crimen"
+  ],
+  "puntuacion": 6.269,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "土井美加",
+      "personaje": "Angel",
+      "foto": "https://image.tmdb.org/t/p/w500/h5ereBl1UqJC7qH0sLxHJqnJ6Ai.jpg"
+    },
+    {
+      "nombre": "内海賢二",
+      "personaje": "Kaishō Taki",
+      "foto": "https://image.tmdb.org/t/p/w500/8rNvgs40LJbCbjf7qFCfDeKBnIk.jpg"
+    },
+    {
+      "nombre": "江原正士",
+      "personaje": "Raiden (Isamu Sakata)",
+      "foto": "https://image.tmdb.org/t/p/w500/xJPCatQLQi75zc9YfWZo0gSpynq.jpg"
+    },
+    {
+      "nombre": "佐々木望",
+      "personaje": "Asura",
+      "foto": "https://image.tmdb.org/t/p/w500/7usoPlvc9Xa1rDA2vxmVi0OvLDb.jpg"
+    },
+    {
+      "nombre": "Osamu Saka",
+      "personaje": "Governor Maisaka",
+      "foto": "https://image.tmdb.org/t/p/w500/9H4Mr8CuifB8rtah1Psh6RpXE1d.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "板野一郎",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "結城信輝",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "板野一郎",
+      "rol": "Director"
+    },
+    {
+      "nombre": "北久保弘之",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "山下明彦",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "高山秀樹",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "板野一郎",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "越智博之",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "板野一郎",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Hiroshi Ogasawara",
+      "rol": "Music"
+    },
+    {
+      "nombre": "板野一郎",
+      "rol": "Original Story"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.269,
+    "imdb": "tt0096816",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
