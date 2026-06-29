@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 324786,
+  "poster": "https://image.tmdb.org/t/p/w500/dFMXilx9gYUtZ6GkbuxKErc6Iv3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xxucMCBH6h3iJ0Jc8JtVFNnen65.png",
+  "titulo": "Hasta el Último Hombre",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Historia",
+    "Bélica"
+  ],
+  "calificacion": "C",
+  "puntuacion": 8.19,
+  "año": "2016",
+  "duracion": "2h 19min",
+  "edad_minima": 13,
+  "sinopsis": "La historia de Desmond T. Doss, quien, debido a que se lo prohibía su fe, combatió en la Segunda Guerra Mundial sin portar un arma. No disparó ni una bala, pero salvó a 75 personas de la muerte en la batalla de la isla de Okinawa.",
+  "fecha_estreno": "2016-10-07",
+  "titulo_original": "Hacksaw Ridge",
+  "pais_origen": "Australia",
+  "reparto": [
+    {
+      "nombre": "Andrew Garfield",
+      "personaje": "Desmond T. Doss",
+      "foto": "https://image.tmdb.org/t/p/w500/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
+    },
+    {
+      "nombre": "Sam Worthington",
+      "personaje": "Captain Glover",
+      "foto": "https://image.tmdb.org/t/p/w500/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
+    },
+    {
+      "nombre": "Vince Vaughn",
+      "personaje": "Sgt Howell",
+      "foto": "https://image.tmdb.org/t/p/w500/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg"
+    },
+    {
+      "nombre": "Teresa Palmer",
+      "personaje": "Dorothy Schuttle",
+      "foto": "https://image.tmdb.org/t/p/w500/sjSiLSCp9LS1Z0nyGpmquTBuUyr.jpg"
+    },
+    {
+      "nombre": "Luke Bracey",
+      "personaje": "Smitty Ryker",
+      "foto": "https://image.tmdb.org/t/p/w500/ot2h7IrXpC8XSnIZDSVsj2FQ5cx.jpg"
+    },
+    {
+      "nombre": "Hugo Weaving",
+      "personaje": "Tom Doss",
+      "foto": "https://image.tmdb.org/t/p/w500/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+    },
+    {
+      "nombre": "Rachel Griffiths",
+      "personaje": "Bertha Doss",
+      "foto": "https://image.tmdb.org/t/p/w500/n7rKwLjZmbkBKWBwhj9SYzsRaF6.jpg"
+    },
+    {
+      "nombre": "Ryan Corr",
+      "personaje": "Lieutenant Manville",
+      "foto": "https://image.tmdb.org/t/p/w500/iVV9HFbI562kqMOkvw0js7nzoK8.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Mel Gibson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robert Schenkkan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Terry Benedict",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul Currie",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bruce Davey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William D. Johnson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bill Mechanic",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Oliver",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kimberly Harris",
+      "rol": "ADR Supervisor"
+    },
+    {
+      "nombre": "Michael Matthews",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kevin Kaska",
+      "rol": "Orchestrator"
+    },
+    {
+      "nombre": "Simon Duggan",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "John Gilbert",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Nikki Barrett",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Barry Robison",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mark Robins",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Lizzy Gardiner",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Brian Nickless",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Kerry Thompson",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Calum McFarlane",
+      "rol": "Camera Operator"
+    }
+  ],
+  "director": "Mel Gibson",
+  "valoraciones": {
+    "tmdb": 8.19,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Summit Entertainment",
+  "enlace_video": "https://streamwish.to/e/zoukm4p5vorz",
+  "trailer": "https://www.youtube.com/watch?v=bSpqX6x97N0"
+}
