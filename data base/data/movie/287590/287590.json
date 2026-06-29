@@ -1,0 +1,101 @@
+{
+  "id_tmdb": 287590,
+  "poster": "https://image.tmdb.org/t/p/w500/lLdQYtKgYbQviNK0aMPRlMWBfGk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8NbxAqVNeU6cnTa8Ito1ESofZKy.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/23FMiYiln1jYJi0L8aMiDr0QjsR.png",
+  "titulo": "Los Caballeros del Zodiaco: La leyenda del Santuario",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Animación",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.706,
+  "año": "2014",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Los Caballeros del Zodiaco: La Leyenda del Santuario sigue de cerca a cinco jóvenes guerreros conocidos como Los Caballeros de Bronce (Seiya, Shiryū, Shun, Hyōga e Ikki), que tienen la misión de proteger a Saori Kido, una joven con misteriosos poderes que resulta ser la reencarnación de la diosa Atena.  Cuando ella es atacada con una flecha mágica, estos santos protectores deben atravesar en doce horas, los doce Templos del Zodiaco en el Santuario para salvar la vida de Atena. Cada Templo es custodiado por un Caballero de Oro. Una vez en el Santuario, deberán enfrentarse al Patriarca, y llevar la cura que salve a Saori de una muerte inminente.",
+  "fecha_estreno": "2014-06-21",
+  "titulo_original": "聖闘士星矢 LEGEND of SANCTUARY",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "石川界人",
+      "personaje": "Seiya (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
+    },
+    {
+      "nombre": "佐々木彩夏",
+      "personaje": "Saori Kido / Athena (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Y6R4srdknNefIAXmbriiRIg3xu.jpg"
+    },
+    {
+      "nombre": "赤羽根健治",
+      "personaje": "Shiryū (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sBduxft8NwdbASvtL14bMx86cPq.jpg"
+    },
+    {
+      "nombre": "小野賢章",
+      "personaje": "Hyōga (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wUYJ3HIeygHfh4rAqupE4RPoG3W.jpg"
+    },
+    {
+      "nombre": "岡本信彦",
+      "personaje": "Shun (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg"
+    },
+    {
+      "nombre": "野島健児",
+      "personaje": "Ikki (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nRSPVjDkdpnrQabnK5mENH118zN.jpg"
+    },
+    {
+      "nombre": "宮本充",
+      "personaje": "Mu (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zcgbjwPHY9YV4UMpm6bvFXorWCJ.jpg"
+    },
+    {
+      "nombre": "小山力也",
+      "personaje": "Aldebaran (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "鈴木智尋",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "さとうけいいち",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "池頼広",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Masami Kurumada",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Masami Kurumada",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "寺岡巌",
+      "rol": "Storyboard Artist"
+    }
+  ],
+  "director": "さとうけいいち",
+  "valoraciones": {
+    "tmdb": 6.706,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Toei Animation",
+  "enlace_video": "https://filelions.to/v/p4akaeuw64pq",
+  "trailer": "https://www.youtube.com/watch?v=0hOwu9SCkJ8"
+}
