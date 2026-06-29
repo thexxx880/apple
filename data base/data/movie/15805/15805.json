@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 15805,
+  "poster": "https://image.tmdb.org/t/p/w500/4lqFuIGBH81KvfXMBRDLb12s6sd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wngCzx8xEh8qgvQf8JZih1zHjnj.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1JXwJFEkKVnoI89pvgkPLnWfXRv.png",
+  "titulo": "Batman: Bajo Cero",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.923,
+  "año": "1998",
+  "duracion": "1h 7min",
+  "edad_minima": 13,
+  "sinopsis": "Sólo en el Artico puede sobrevivir sin su traje especial Mr. Freeze. Cuando un submarino de investigación emerge bruscamente en el refugio del criminal, la esposa de éste ve interrumpido su sueño criogénico y corre el riesgo de perecer, por lo cual Freeze regresa a Gotham y secuestra a un científico experto en criogénesis, con el fin de lograr salvar a su amada. Comprobando los grupos sanguíneos afines con la misma, descubren que Barbara Gordon figura en la lista, por lo cual procederán a su secuestro.",
+  "fecha_estreno": "1998-02-11",
+  "titulo_original": "Batman & Mr. Freeze: SubZero",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Kevin Conroy",
+      "personaje": "Bruce Wayne / Batman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zvWhAwO2l8Kb5IJTwTbKzURypg7.jpg"
+    },
+    {
+      "nombre": "Michael Ansara",
+      "personaje": "Victor Fries / Mr. Freeze (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dxViGyLrbXBXQlGXjrDmOwPaiuo.jpg"
+    },
+    {
+      "nombre": "Loren Lester",
+      "personaje": "Dick Grayson / Robin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AmdxCKx7ehFXtOglUH02iewTHqI.jpg"
+    },
+    {
+      "nombre": "Mary Kay Bergman",
+      "personaje": "Barbara Gordon / Batgirl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/heTLLKqi4g7QqFa2JtOfoOGNpWh.jpg"
+    },
+    {
+      "nombre": "Robert Costanzo",
+      "personaje": "Detective Harvey Bullock (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vyUeNk56Yv7xyHztgVa8UBEIasu.jpg"
+    },
+    {
+      "nombre": "Mari Devon",
+      "personaje": "Summer Gleeson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3w0DO5YimP5AV0FfAHHhYyVnLaG.jpg"
+    },
+    {
+      "nombre": "George Dzundza",
+      "personaje": "Dr. Gregory Belson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wmnQQn0dFygl90M2N8tlWlpGHzV.jpg"
+    },
+    {
+      "nombre": "Bob Hastings",
+      "personaje": "Commissioner Jim Gordon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/j8Bcul6PCSDOwY4tl2wLkcelgYf.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Boyd Kirkland",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Boyd Kirkland",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Randy Rogel",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Randy Rogel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Boyd Kirkland",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lisa Leonardi-Knight",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "Michael Uslan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael McCuistion",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Al Breitenbach",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Benjamin Melniker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Yukio Suzuki",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "釘宮洋",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "岡豊",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Nobuyuki Koyanagi",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Yoshio Chatani",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Takeru Yamazaki",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "三浦弘二",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Boyd Kirkland",
+  "valoraciones": {
+    "tmdb": 6.923,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://filelions.to/v/p4rkcsoga38z",
+  "trailer": "https://www.youtube.com/watch?v=nSfidAYMx7o"
+}
