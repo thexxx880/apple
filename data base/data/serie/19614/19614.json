@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 19614,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ebhEMVrb43YtUV8FKJeu7uXI5QE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2lFfjPdVXleGHukp0Phr5pNJ4ab.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4ud8W3AbueSRVBqRg2rDJ1rDd2n.png",
+  "titulo": "Eso",
+  "titulo_original": "It",
+  "fecha_estreno": "1990-11-18",
+  "duracion": "90min",
+  "año": "1990",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 6.929,
+  "sinopsis": "El tranquilo y pequeño pueblo de Maine está siendo aterrorizado por una fuerza malévola oculta tras la máscara de un payaso, y que tan sólo se la conoce como “Eso”. Tras sus primeras víctimas, una pandilla formada por siete amigos de la infancia deciden volver a reunirse para atacar el mal y destruirlo, intentando librar así del terror a su pueblo natal.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Tim Curry",
+      "personaje": "Pennywise",
+      "foto": "https://image.tmdb.org/t/p/w500/lYVYVNsPDzeLL6ReCRhh8kezu4y.jpg"
+    },
+    {
+      "nombre": "Harry Anderson",
+      "personaje": "Richie Tozier",
+      "foto": "https://image.tmdb.org/t/p/w500/sXBQhSzhq04by15j9bH8793cjIg.jpg"
+    },
+    {
+      "nombre": "Dennis Christopher",
+      "personaje": "Eddie Kaspbrak",
+      "foto": "https://image.tmdb.org/t/p/w500/bZMnSpQ6KEBuwUfnngNEpmqhEK.jpg"
+    },
+    {
+      "nombre": "Richard Masur",
+      "personaje": "Stan Uris",
+      "foto": "https://image.tmdb.org/t/p/w500/yRJCKYoW16HaDEXy37ORnBFBOg7.jpg"
+    },
+    {
+      "nombre": "Annette O'Toole",
+      "personaje": "Beverly Marsh",
+      "foto": "https://image.tmdb.org/t/p/w500/mCTEEzuNXlCdyl9uM4ot688IfVz.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Matthew O'Connor",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Jim Green",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Bacino",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Allen S. Epstein",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Grant Swain",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Victoria Burrows",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Chris Helcermanas-Benge",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "Peter F. Woeste",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Mark Tillman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Craig Pettigrew",
+      "rol": "Supervising Music Editor"
+    },
+    {
+      "nombre": "Richard Leiterman",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Sandy Arthur",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Eric Fraser",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Gretchen Goode",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Betty Thomas Quee",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Jean Bereziuk",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Monique Prudhomme",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Sid Kozak",
+      "rol": "Local Casting"
+    },
+    {
+      "nombre": "Douglas Higgins",
+      "rol": "Production Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.929,
+    "imdb": "tt0099864",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=A4vPcP_tPQE"
+}
