@@ -1,0 +1,97 @@
+{
+  "id_tmdb": 456,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/pVgWkfmPG26Tz30KI9JEGps2Wew.png",
+  "titulo": "Los Simpson",
+  "titulo_original": "The Simpsons",
+  "fecha_estreno": "1989-12-17",
+  "duracion": "24min",
+  "año": "1989",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Comedia"
+  ],
+  "puntuacion": 8.019,
+  "sinopsis": "La familia Simpson (Homero, Marge, Bart, Lisa y Maggie), y un reparto virtual de miles, viven aventuras cotidianas en Springfield, una ciudad estadounidense promedio.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Dan Castellaneta",
+      "personaje": "Homer Simpson / Abe Simpson / Barney Gumble / Krusty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
+    },
+    {
+      "nombre": "Julie Kavner",
+      "personaje": "Marge Simpson / Patty Bouvier / Selma Bouvier (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
+    },
+    {
+      "nombre": "Nancy Cartwright",
+      "personaje": "Bart Simpson / Nelson Muntz / Ralph Wiggum (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg"
+    },
+    {
+      "nombre": "Yeardley Smith",
+      "personaje": "Lisa Simpson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
+    },
+    {
+      "nombre": "Hank Azaria",
+      "personaje": "Moe Szyslak / Chief Wiggum / Apu / Comic Book Guy / Carl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uON3TWSySIy8wbDhkSzmFTDM6XO.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Rob LaZebnik",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "James L. Brooks",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Richard Raynis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Groening",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rob LaZebnik",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "James L. Brooks",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Richard Raynis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Groening",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Danny Elfman",
+      "rol": "Main Title Theme Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.019,
+    "imdb": "tt0096697",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fox",
+  "trailer": "https://www.youtube.com/watch?v=_jgYEYERYFQ"
+}
