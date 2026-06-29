@@ -1,0 +1,77 @@
+{
+  "id_tmdb": 296206,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/igR2T1mEVmo0eYiMIZmIPsoPTMM.png",
+  "titulo": "Agente Kim reactivado",
+  "titulo_original": "김부장",
+  "fecha_estreno": "2026-06-26",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 8.1,
+  "sinopsis": "Cuando la hija de un modesto padre desaparece, él desempolva sus antiguas habilidades como agente especial para encontrarla… y atrae la atención equivocada.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "소지섭",
+      "personaje": "Manager Kim",
+      "foto": "https://image.tmdb.org/t/p/w500/oEdXNo3ohtldtIW6DMFPpvMYW4g.jpg"
+    },
+    {
+      "nombre": "최대훈",
+      "personaje": "Seong Han-su",
+      "foto": "https://image.tmdb.org/t/p/w500/lxNU9yOR8C9ovqilVMQrXStoc96.jpg"
+    },
+    {
+      "nombre": "윤경호",
+      "personaje": "Park Jin-cheol",
+      "foto": "https://image.tmdb.org/t/p/w500/217cVZqyvJypi4OR1uvxoaJxvLm.jpg"
+    },
+    {
+      "nombre": "주상욱",
+      "personaje": "Ju Kang-chan",
+      "foto": "https://image.tmdb.org/t/p/w500/75yEUkCh7TG21JIzatSpPv2v98T.jpg"
+    },
+    {
+      "nombre": "손나은",
+      "personaje": "Sang-ah",
+      "foto": "https://image.tmdb.org/t/p/w500/sc27bY7VuG90lH0IqMn0BmHPgjO.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "이승영",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "남대중",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "이승영",
+      "rol": "Director"
+    },
+    {
+      "nombre": "남자의 이야기",
+      "rol": "Original Story"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.1,
+    "imdb": "tt42127457",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=k5IDEniQNEk"
+}
