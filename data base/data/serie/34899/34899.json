@@ -1,0 +1,71 @@
+{
+  "id_tmdb": 34899,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kryRPZTkCxtIc1bGMjIQgblnPe0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gn8k4ztPnrURIIocMOYdWCFknKJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/p1OKp6nFbdUlwleOxOWC99JIjpK.png",
+  "titulo": "El Sultán",
+  "titulo_original": "Muhteşem Yüzyıl",
+  "fecha_estreno": "2011-01-06",
+  "duracion": "90min",
+  "año": "2011",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.1,
+  "sinopsis": "A la edad de 26 años, cuando comenzó su reinado, el sultán Süleyman buscó construir un imperio más poderoso que Alejandro Magno y hacer invencibles a los otomanos. A lo largo de su reinado de 46 años, su fama como el mayor guerrero y gobernante de su época se extiende tanto hacia Oriente como hacia Occidente. Con su compañero Pargalı İbrahim, Süleyman logra grandes victorias y da a conocer su nombre en el mundo musulmán. Süleyman llamó a İbrahim su hermano, amigo y consejero. La serie de televisión muestra la consolidación de Süleyman de su poder: Pargalı İbrahim como gran ministro de Estado, reforzando el estado de derecho en todo el imperio, reuniéndose con diplomáticos extranjeros y preparándose para campañas militares, todo en el contexto de la tensión entre la Europa cristiana y el Imperio Otomano.",
+  "pais_origen": "TR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Halit Ergenç",
+      "personaje": "I. Süleyman",
+      "foto": "https://image.tmdb.org/t/p/w500/7L5ivMz1S7ArHTvUaslVVV3ML42.jpg"
+    },
+    {
+      "nombre": "Nur Fettahoğlu",
+      "personaje": "Mahidevran Sultan",
+      "foto": "https://image.tmdb.org/t/p/w500/yMxCbHQebr1ZVjOphUw3V1U5anC.jpg"
+    },
+    {
+      "nombre": "Meryem Uzerli",
+      "personaje": "Hürrem Sultan",
+      "foto": "https://image.tmdb.org/t/p/w500/xWb9GuPDFmrLCpuocFs45O3rG0W.jpg"
+    },
+    {
+      "nombre": "Engin Öztürk",
+      "personaje": "Şehzade Selim",
+      "foto": "https://image.tmdb.org/t/p/w500/nY0PvgJMtLXDlgrix4xwayqHu5C.jpg"
+    },
+    {
+      "nombre": "Merve Boluğur",
+      "personaje": "Nurbanu Sultan",
+      "foto": "https://image.tmdb.org/t/p/w500/1JomPe1BBJ2FobpZ5756JkUKI1Q.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Ayşe Barım",
+      "rol": "Production Accountant"
+    },
+    {
+      "nombre": "Aytekin Ataş",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Fahir Atakoğlu",
+      "rol": "Music"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.1,
+    "imdb": "tt1848220",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": ""
+}
