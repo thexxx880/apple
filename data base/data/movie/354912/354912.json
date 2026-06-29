@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 354912,
+  "poster": "https://image.tmdb.org/t/p/w500/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/A5WVnUk6qcSQla6yMsPW2nQ7VB3.png",
+  "titulo": "Coco",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Música",
+    "Aventura"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8.198,
+  "año": "2017",
+  "duracion": "1h 49min",
+  "edad_minima": 13,
+  "sinopsis": "A pesar de la desconcertante prohibición de la generación de música de su familia, Miguel sueña con convertirse en un músico consumado como su ídolo, Ernesto de la Cruz. Desesperado por demostrar su talento, Miguel se encuentra en la deslumbrante y colorida Tierra de los Muertos siguiendo una misteriosa cadena de eventos. En el camino, se encuentra con el encantador y tramposo Héctor. Juntos, realizan un viaje extraordinario para descubrir la historia real detrás de la familia de Miguel.",
+  "fecha_estreno": "2017-10-27",
+  "titulo_original": "Coco",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Anthony Gonzalez",
+      "personaje": "Miguel Rivera (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/WF7bn6t0LkxwBWyDMWvomVujn7.jpg"
+    },
+    {
+      "nombre": "Gael García Bernal",
+      "personaje": "Héctor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7uEO29wtdyY9bjt2JN43gVpE6vt.jpg"
+    },
+    {
+      "nombre": "Benjamin Bratt",
+      "personaje": "Ernesto de la Cruz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+    },
+    {
+      "nombre": "Alanna Ubach",
+      "personaje": "Mamá Imelda (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p2sIpgftEIkhPrrpgu8wW8XEpDg.jpg"
+    },
+    {
+      "nombre": "Renée Victor",
+      "personaje": "Abuelita (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wAVDqwFhQsRQgO6VIYq6T9Wbbx8.jpg"
+    },
+    {
+      "nombre": "Jaime Camil",
+      "personaje": "Papá (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/njvdXEGN3bSSXpsyVnyKQTXdf1V.jpg"
+    },
+    {
+      "nombre": "Alfonso Arau",
+      "personaje": "Papá Julio (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5ishPim5akWXSnMbwOWSc3KxDx8.jpg"
+    },
+    {
+      "nombre": "Herbert Siguenza",
+      "personaje": "Tío Oscar / Tío Felipe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aVLX3sRMZp1qIfqCRHgjjy2NfGI.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lee Unkrich",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Adrian Molina",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Matthew Aldrich",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Darla K. Anderson",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Seong-Young Kim",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Enrico Casarosa",
+      "rol": "Story Artist"
+    },
+    {
+      "nombre": "Hikari Toriumi",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Madeline Sharafian",
+      "rol": "Story Artist"
+    },
+    {
+      "nombre": "Harley Jessup",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Michael Giacchino",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Lee Unkrich",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Matt Aspbury",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mary Alice Drumm",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Danielle Feinberg",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Don Shank",
+      "rol": "Set Designer"
+    }
+  ],
+  "director": "Lee Unkrich",
+  "valoraciones": {
+    "tmdb": 8.198,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://streamwish.to/e/2853t2serjeu",
+  "trailer": "https://www.youtube.com/watch?v=Rvr68u6k5sI"
+}
