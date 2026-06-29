@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 125928,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/63Z0Xlxl6STZk1wHXPN7IYaydgz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vstgoeNAyIhSErJ9EWSqh2pINUc.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/dlEShmz7NrTjQOfZENaDwVSvMDd.png",
+  "titulo": "Mis Aventuras con Superman",
+  "titulo_original": "My Adventures with Superman",
+  "fecha_estreno": "2023-07-07",
+  "duracion": "23min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "Serie animada que muestra cómo Clark Kent, Lois Lane y Jimmy Olsen descubren quiénes son y qué son capaces de lograr, mientras salvan la ciudad de las fuerzas que conspiran para destruirla.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Alice Lee",
+      "personaje": "Lois Lane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFAOsbgtQk3d50Yjj8pw9jJ5lsH.jpg"
+    },
+    {
+      "nombre": "Ishmel Sahid",
+      "personaje": "Jimmy Olsen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eWwkchbykAeUEYQdlJR3DSgEoVe.jpg"
+    },
+    {
+      "nombre": "Kiana Madeira",
+      "personaje": "Kara / Supergirl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rzkQ3F07OKzijcDT8j1eEzEY5cd.jpg"
+    },
+    {
+      "nombre": "Jack Quaid",
+      "personaje": "Clark Kent / Superman / Bizarro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Angela O'Sullivan",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "James Gunn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Safran",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kimberly S. Moreau",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brendan Clogher",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Wyatt",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Angela O'Sullivan",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "James Gunn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Safran",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kimberly S. Moreau",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sarah Doo",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "Brendan Clogher",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Wyatt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sari Cooper",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Angela Entzminger",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Lauren D. Sanchez",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Priscilla Gip",
+      "rol": "Assistant Production Manager"
+    },
+    {
+      "nombre": "Cynthia Reynoso",
+      "rol": "Assistant Production Manager"
+    },
+    {
+      "nombre": "Jack Sentell",
+      "rol": "Assistant Production Manager"
+    },
+    {
+      "nombre": "Matthew Tcheng",
+      "rol": "Assistant Production Manager"
+    },
+    {
+      "nombre": "Eloisa Lopez-Aviles",
+      "rol": "Color Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "tt14681924",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC Comics, HBO Max, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=OkA1B0ZUMA8"
+}
