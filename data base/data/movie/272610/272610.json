@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 272610,
+  "poster": "https://image.tmdb.org/t/p/w500/zvyRqhSJqc8ls5iTFiWPdhilgSY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/h8oqzUTbz148vFO1edt8ak0yXeJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/t4ONpLmAOH5ffXHW0jVgsV368YJ.png",
+  "titulo": "Black Rose",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Drama",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 2.8,
+  "año": "2014",
+  "duracion": "1h 23min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2014-04-17",
+  "titulo_original": "Black Rose",
+  "pais_origen": "Russia",
+  "reparto": [
+    {
+      "nombre": "Alexander Nevsky",
+      "personaje": "Vladimir Kazatov",
+      "foto": "https://image.tmdb.org/t/p/w500/gm0ul2fVDs95DBNDUMhw4AAYHJM.jpg"
+    },
+    {
+      "nombre": "Kristanna Loken",
+      "personaje": "Emily Smith",
+      "foto": "https://image.tmdb.org/t/p/w500/bcKHChmSGFoxFkLFm7AjfGQObin.jpg"
+    },
+    {
+      "nombre": "Adrian Paul",
+      "personaje": "Matt Robinson",
+      "foto": "https://image.tmdb.org/t/p/w500/eWvjUly7IO420nJLYY1sumXswGo.jpg"
+    },
+    {
+      "nombre": "Robert Davi",
+      "personaje": "Captain Frank Dalano",
+      "foto": "https://image.tmdb.org/t/p/w500/yizOUAKs59CwKM6pU30gIP9gTup.jpg"
+    },
+    {
+      "nombre": "Matthias Hues",
+      "personaje": "Oleg",
+      "foto": "https://image.tmdb.org/t/p/w500/ngdHx4jWdyeZB65YfNvcPXlMpsj.jpg"
+    },
+    {
+      "nombre": "Эммануил Виторган",
+      "personaje": "Colonel Gromov",
+      "foto": "https://image.tmdb.org/t/p/w500/ogi7iDddcuZRTlQoT04eWjSTKZ5.jpg"
+    },
+    {
+      "nombre": "Оксана Сидоренко",
+      "personaje": "Sandra",
+      "foto": "https://image.tmdb.org/t/p/w500/midwnMWt4RRf5D8vRldw3QIv3ap.jpg"
+    },
+    {
+      "nombre": "Robert Madrid",
+      "personaje": "Antonio Banuelos",
+      "foto": "https://image.tmdb.org/t/p/w500/x3tDah8yDpHK3SqyTseHeAxNYLg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alexander Nevsky",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alexander Nevsky",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brent Huff",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "George Saunders",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Bryan Goeres",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alexander Izotov",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sheldon Lettich",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Madrid",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sean Murray",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Rudy Harbon",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Ethan Molomut",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Stephen Adrianson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Maria Leicy",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Evgeny Dostal",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Fyodor Glazachyov",
+      "rol": "Additional Director of Photography"
+    }
+  ],
+  "director": "Alexander Nevsky",
+  "valoraciones": {
+    "tmdb": 2.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Czar Pictures",
+  "enlace_video": "https://powvideo.net/embed-usctbximwzgx.html",
+  "trailer": "https://www.youtube.com/watch?v=fyLFcvIrN20"
+}
