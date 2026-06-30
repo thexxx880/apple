@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 9297,
+  "poster": "https://image.tmdb.org/t/p/w500/k31wCITusqBpVHdRG5QqOPqJGIO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3otAGduCHdqdEIVC1HOOLb5Qnp2.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/pxRv0zRK8QxNFp3tavxhjq7SyiA.png",
+  "titulo": "Monster house: La casa de los sustos",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.71,
+  "año": "2006",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "D.J. Walters es un chico de doce años al que se le ha metido en la cabeza que en la casa del anciano Nebbercracker, al otro lado de la calle, ocurre algo extraño. La víspera de Halloween, el balón con el que juegan D.J. y su amigo va a parar al jardín del señor Nebbercracker, pero misteriosamente llega al interior de la vivienda. Cuando su amiga Jenny está a punto de ser engullida por la extraña casa, nadie cree a los asustados chicos; así que los tres deciden investigar qué sucede en esa extraña casa.",
+  "fecha_estreno": "2006-06-30",
+  "titulo_original": "Monster House",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mitchel Musso",
+      "personaje": "DJ (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ofaAVYn61scqEMtXmK9G7TIFNhA.jpg"
+    },
+    {
+      "nombre": "Sam Lerner",
+      "personaje": "Chowder (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tHTUqTxciQIEdQYdaKWPorWyRbm.jpg"
+    },
+    {
+      "nombre": "Spencer Locke",
+      "personaje": "Jenny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2mHfjqDY8e3ZISkFmi1qjrMs7uN.jpg"
+    },
+    {
+      "nombre": "Steve Buscemi",
+      "personaje": "Nebbercracker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+    },
+    {
+      "nombre": "Maggie Gyllenhaal",
+      "personaje": "Zee (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+    },
+    {
+      "nombre": "Kevin James",
+      "personaje": "Officer Landers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3WPW5duZyQcjveefxwLULgIyhM0.jpg"
+    },
+    {
+      "nombre": "Nick Cannon",
+      "personaje": "Officer Lister (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/u8b5uinYCwdlCu6P3qcKZqeCgQe.jpg"
+    },
+    {
+      "nombre": "Jon Heder",
+      "personaje": "Reginald \"Skull\" Skulinski (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xGLRJEKKmNsDpz6MefPMU4gqQj1.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gil Kenan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jack Rapke",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steve Starkey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Harmon",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Rob Schrab",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Dan Harmon",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Rob Schrab",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Pamela Pettler",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Randy Thom",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Randy Thom",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Randy Thom",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Dennis Leonard",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Gary Rizzo",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Jason Corgan Brown",
+      "rol": "Researcher"
+    },
+    {
+      "nombre": "Justin Hammond",
+      "rol": "Lighting Artist"
+    },
+    {
+      "nombre": "Harald Kraut",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Josh LaBrot",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Ruth Myers",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Michèle Burke",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Tyler Ely",
+      "rol": "Hairstylist"
+    }
+  ],
+  "director": "Gil Kenan",
+  "valoraciones": {
+    "tmdb": 6.71,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "ImageMovers",
+  "enlace_video": "https://vidhidepro.com/v/1pu6r96u7phe",
+  "trailer": "https://www.youtube.com/watch?v=kS8eoP8bols"
+}
