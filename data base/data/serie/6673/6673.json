@@ -1,0 +1,74 @@
+{
+  "id_tmdb": 6673,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/awwNiRmntNOguvc86jmrHxMf6RS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/80KgNNF0bpoDvU5iNXT07Lgb2wL.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8gWDWDU4np9VF687tvtbx5n50X5.png",
+  "titulo": "Las maravillosas desventuras de Flapjack",
+  "titulo_original": "The Marvelous Misadventures of Flapjack",
+  "fecha_estreno": "2008-06-05",
+  "duracion": "11min",
+  "año": "2008",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "puntuacion": 8.1,
+  "sinopsis": "Flapjack es un niño criado por una ballena parlante llamada Bubbie, ambos llevan una vida tranquila hasta que deben rescatar a un pirata llamado Capitán Nudillos y él le cuenta a Flapjack sobre la Isla Acaramelada. Inspirados por el pirata, Flapjack y Bubbie se meten en extraños problemas y desventuras en busca de esa isla.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Thurop Van Orman",
+      "personaje": "Flapjack (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kKiWFAtDPInyBltWzdCKsDkmZsZ.jpg"
+    },
+    {
+      "nombre": "Brian Doyle-Murray",
+      "personaje": "Captain K'nuckles (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3RFH00449ppcwA0tkD1uqDvP865.jpg"
+    },
+    {
+      "nombre": "Roz Ryan",
+      "personaje": "Bubbie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ijKraX1zek1RmtKPGxLDdBKn6Fp.jpg"
+    },
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Peppermint Larry (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "Steve Little",
+      "personaje": "Doctor Barber (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Hvu3pGKc0YtTgTwfku1EJvYSzY.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Thurop Van Orman",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Infantino",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Thurop Van Orman",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.1,
+    "imdb": "tt1178180",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=2o3T9QuAD3s"
+}
