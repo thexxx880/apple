@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 82596,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oNyz3A1cPzNbYYyCUlcXU96ZsDh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jXTZaHarR9TZiMoQwiQWsGYXqnS.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/lNSGag9DsZlY1aI28SsQHlIXL4n.svg",
+  "titulo": "Emily en París",
+  "titulo_original": "Emily in Paris",
+  "fecha_estreno": "2020-10-02",
+  "duracion": "24min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 7.567,
+  "sinopsis": "Nuevas pasiones. Nuevas modas. ¿Nueva Emily? Una intrépida estadounidense experta en marketing alza el vuelo en la vida y el amor tras conseguir un trabajo soñado en París.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lily Collins",
+      "personaje": "Emily Cooper",
+      "foto": "https://image.tmdb.org/t/p/w500/zhJISAc4qi7xiHMzHMzUTgZSIRH.jpg"
+    },
+    {
+      "nombre": "Philippine Leroy-Beaulieu",
+      "personaje": "Sylvie Grateau",
+      "foto": "https://image.tmdb.org/t/p/w500/1wt9AWB8HQz23VDmcZA0tVQn0vx.jpg"
+    },
+    {
+      "nombre": "Ashley Park",
+      "personaje": "Mindy Chen",
+      "foto": "https://image.tmdb.org/t/p/w500/aFw4TmHuaAIpz9nCvtadtO1AYGZ.jpg"
+    },
+    {
+      "nombre": "Lucas Bravo",
+      "personaje": "Gabriel",
+      "foto": "https://image.tmdb.org/t/p/w500/uO6vMlJBMASyOQMisvnPehjsfJB.jpg"
+    },
+    {
+      "nombre": "Samuel Arnold",
+      "personaje": "Julien",
+      "foto": "https://image.tmdb.org/t/p/w500/r5cHeGdcOXHfNjeGamlJG1WQLRS.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Stephen Joel Brown",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Raphaël Benoliel",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Joe Murphy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ryan McCormick",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Yolanda T. Cochran",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Erin Ehrlich",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stephen Joel Brown",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Raphaël Benoliel",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Joe Murphy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ryan McCormick",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Yolanda T. Cochran",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Erin Ehrlich",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Liz Eney",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Grant Sloss",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Don Roos",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Alexandra Lassen",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Gabriel Mann",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Alison Brown",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Angelina Komarova",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Robin Schiff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Amodio",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.567,
+    "imdb": "tt8962124",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=oXmk18bJ2Qw"
+}
