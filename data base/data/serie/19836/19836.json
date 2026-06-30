@@ -1,0 +1,70 @@
+{
+  "id_tmdb": 19836,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oCyNR085MvIwTap6A4txgFWEGEm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4ndnfseHaE9kPC9xPp9wN7ghHHq.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ptwQsF2gLds0aKg89TddHx7dHlq.png",
+  "titulo": "魔法少女リリカルなのは",
+  "titulo_original": "魔法少女リリカルなのは",
+  "fecha_estreno": "2004-10-02",
+  "duracion": "25min",
+  "año": "2004",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 6.917,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "水橋かおり",
+      "personaje": "Vivio Takamachi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eDhVZ9en7T4lvsQ99OkRizroSQd.jpg"
+    },
+    {
+      "nombre": "能登麻美子",
+      "personaje": "Einhart Stratos (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wCSD7Umgzc66p8VGXrrMZtSLSuS.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "山野雅明",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "伊藤祐毅",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "中島宏",
+      "rol": "CGI Director"
+    },
+    {
+      "nombre": "中田亮大",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "Masaki Tsuzuki",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "水樹奈々",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.917,
+    "imdb": "tt0808082",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=Tu9W6FwsqZk"
+}
