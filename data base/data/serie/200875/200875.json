@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 200875,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/vC6LSYC8uhZPkPM01L6HKrr1lMD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ggGGKJn5DhHeyvp5Z1p3Wh5xPbD.png",
+  "titulo": "IT: Bienvenidos a Derry",
+  "titulo_original": "IT: Welcome to Derry",
+  "fecha_estreno": "2025-10-26",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 8.224,
+  "sinopsis": "En 1958, un grupo de siete amigos están empezando a ver cosas extrañas en el tranquilo pueblito Derry. Con el tiempo, descubren que todos estaban viendo lo mismo: un ser sobrenatural y malvado que puede adoptar muchas formas.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Taylour Paige",
+      "personaje": "Charlotte Hanlon",
+      "foto": "https://image.tmdb.org/t/p/w500/KTX1trmIfVa7MFkZmES1MVjl79.jpg"
+    },
+    {
+      "nombre": "Jovan Adepo",
+      "personaje": "Leroy Hanlon",
+      "foto": "https://image.tmdb.org/t/p/w500/aJcuEbYru85meNGzM0oSeW3nsd6.jpg"
+    },
+    {
+      "nombre": "Matilda Lawler",
+      "personaje": "Marge Truman",
+      "foto": "https://image.tmdb.org/t/p/w500/uKioAyk7zSyO1BCOs5OQtNB4QNP.jpg"
+    },
+    {
+      "nombre": "Amanda Christine",
+      "personaje": "Ronnie Grogan",
+      "foto": "https://image.tmdb.org/t/p/w500/ytG5JgrniXLY6elImmzTKjvGtCZ.jpg"
+    },
+    {
+      "nombre": "Clara Stack",
+      "personaje": "Lilly Bainbridge",
+      "foto": "https://image.tmdb.org/t/p/w500/yMK3IADqV2oReJMKdkrcEIBxdtu.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Andy Muschietti",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Fuchs",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Barbara Muschietti",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Kane",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bill Skarsgård",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Lin",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Andy Muschietti",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Fuchs",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Barbara Muschietti",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Kane",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bill Skarsgård",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Luis Sequeira",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Dan Lin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Roy Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daryl Sawchuk",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Stephen King",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Steve Dellerson",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "David Coatsworth",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shelley Meals",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Benjamin Wallfisch",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Lisa Perone",
+      "rol": "Unit Production Manager"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.224,
+    "imdb": "tt19244304",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=a82EysNkKIg"
+}
