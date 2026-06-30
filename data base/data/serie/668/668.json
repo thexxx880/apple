@@ -1,0 +1,91 @@
+{
+  "id_tmdb": 668,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ypjekzMRMvdrx4PRA7v1DNyCmTR.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/u1J9tUuBo22wrMLXFcpuXquEy6b.png",
+  "titulo": "X-Men: Evolución",
+  "titulo_original": "X-Men: Evolution",
+  "fecha_estreno": "2000-11-04",
+  "duracion": "24min",
+  "año": "2000",
+  "trending": false,
+  "generos": [
+    "Kids",
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+  ],
+  "puntuacion": 7.963,
+  "sinopsis": "X-Men: Evolution es una serie de televisión animada estadounidense sobre el equipo de superhéroes de Marvel Comics X-Men. En esta encarnación, muchos de los personajes son adolescentes en lugar de adultos. La serie corrió durante un total de cuatro temporadas desde noviembre de 2000 hasta octubre de 2003 en Kids 'WB, que la convirtió en la tercera serie animada de Marvel Comics más longeva, detrás solo de las series animadas X Kids y Spider-Man de Fox Kids. La serie comenzó a ejecutarse en Disney XD el 15 de junio de 2009.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Kirby Morrow",
+      "personaje": "Cyclops (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nnxjEsC4LxwIfMZ3EXGgpcDfI8v.jpg"
+    },
+    {
+      "nombre": "Venus Terzo",
+      "personaje": "Jean Grey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pzDAljgejPs0lieYRE8dGPt3Xdl.jpg"
+    },
+    {
+      "nombre": "David Kaye",
+      "personaje": "Professor X (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/izxtFSio5twcVA1oJWPvobxpcZj.jpg"
+    },
+    {
+      "nombre": "Brad Swaile",
+      "personaje": "Nightcrawler (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/w94IguNRiehB5GpytaYsoPVXCvv.jpg"
+    },
+    {
+      "nombre": "Maggie O'Hara",
+      "personaje": "Shadowcat (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xppZvs5dHHYtTJpF0tzP27Z8IhG.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Stan Lee",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rick Ungar",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stan Lee",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rick Ungar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Kevin Anderson",
+      "rol": "Music"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.963,
+    "imdb": "tt0247827",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=7Z7chBBJx1o"
+}
