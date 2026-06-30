@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 272418,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3teWChNzKJdbfen46IdeKTygdZa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uoIOfRNmu47P2fET2KnrYHt3TH.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/6WgTk1PGq3S16nO18o113m2h2MB.png",
+  "titulo": "Robin Hood",
+  "titulo_original": "Robin Hood",
+  "fecha_estreno": "2025-11-02",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.5,
+  "sinopsis": "Serie que reimagina la leyenda de Robin Hood, con un enfoque moderno del forajido que roba a los ricos para dárselo a los pobres y la historia de amor entre él y Marian. Tras la invasión normanda de Inglaterra, Rob, hijo de un guardabosques sajón, y Marian, hija de un lord normando, se enamoran y luchan juntos por la justicia y la libertad. Mientras Rob se convierte en el líder de una banda de forajidos rebeldes, Marian se infiltra en el poder de la corte, y ambos trabajan juntos para frustrar la corrupción real y traer la paz a la tierra.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jack Patten",
+      "personaje": "Robert 'Rob' of Locksley",
+      "foto": "https://image.tmdb.org/t/p/w500/sIE11wI7czGjYCUOlEKqXguIdsl.jpg"
+    },
+    {
+      "nombre": "Lauren McQueen",
+      "personaje": "Marian",
+      "foto": "https://image.tmdb.org/t/p/w500/fdoKXXGRL8cLrRhP5bP5MPdK9Uc.jpg"
+    },
+    {
+      "nombre": "Lydia Peckham",
+      "personaje": "Priscilla of Nottingham",
+      "foto": "https://image.tmdb.org/t/p/w500/tcBJklZSsP2JuQIYataJHW3pJXE.jpg"
+    },
+    {
+      "nombre": "Marcus Fraser",
+      "personaje": "Little John",
+      "foto": "https://image.tmdb.org/t/p/w500/qpAxGk8XjUxNsfcW5B1YMupOff5.jpg"
+    },
+    {
+      "nombre": "Erica Ford",
+      "personaje": "Ralph Miller",
+      "foto": "https://image.tmdb.org/t/p/w500/kcizuJHVuRmvrYGD0vNh4UjJ4Az.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "John Glenn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Todd Lieberman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan English",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alexander Young",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Kenny Ryan",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jacob Roman",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Glenn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Todd Lieberman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan English",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alexander Young",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Kenny Ryan",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jacob Roman",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Federico Jusid",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ivan Kostić",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Laura Windows",
+      "rol": "Location Casting"
+    },
+    {
+      "nombre": "Jovana Cvetković",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jelena Šopić",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Bea Merkovits",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Carly Kleinbart Elter",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Natasa Ivic",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Nicole Bryant",
+      "rol": "Associate Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.5,
+    "imdb": "tt33484460",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "LionsGate, Metro Goldwyn Mayer",
+  "trailer": "https://www.youtube.com/watch?v=SDfWMSNQEJc"
+}
