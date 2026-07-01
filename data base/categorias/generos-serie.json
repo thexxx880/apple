@@ -1,5 +1,18 @@
 [
   {
+    "id_tmdb": 124364,
+    "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=124364",
+    "type": "serie",
+    "año": "2022",
+    "titulo": "From",
+    "generos": [
+      "Misterio",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ]
+  },
+  {
     "id_tmdb": 94997,
     "poster": "https://image.tmdb.org/t/p/w500/szyVpg9K3LL5s8VFAGkXzlxgZUk.jpg",
     "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=94997",
@@ -283,19 +296,6 @@
     "generos": [
       "Drama",
       "Action & Adventure"
-    ]
-  },
-  {
-    "id_tmdb": 124364,
-    "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
-    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=124364",
-    "type": "serie",
-    "año": "2022",
-    "titulo": "From",
-    "generos": [
-      "Misterio",
-      "Drama",
-      "Sci-Fi & Fantasy"
     ]
   },
   {
