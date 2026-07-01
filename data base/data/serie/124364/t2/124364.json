@@ -1,14 +1,15 @@
 {
-  "backdrop": "https://image.tmdb.org/t/p/original/7vBL5GvUArTStpQFmc9u88jb12O.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2d2tGCCAA1rjviw3HcvDKXserLD.jpg",
   "capitulos": {
-    "1": "https://zonaaps-player.xyz/video.php?token=UmwzbWpZc3lWQ001em9rMHdJWXdDd2hHY1U3ZEJKMFdyVUljcjBSK3l3SEptT2RzOXBocTFXZnd3ZjdnakNMakhBUVIxQldDRUx3YUI4MXB1Rml0UGVZQzlCYWZLdjZha21GQ0hGUDhpU3lkMjExc04rRUdZZFFySVJiQUpHbUtiM2s0MzdiNzEzNVVXdXdYeFloeFh5bGs0bnRwSHZlUlhwamNUaUpzVXJvPQ%3D%3D",
-    "2": "https://zonaaps-player.xyz/video.php?token=UmwzbWpZc3lWQ001em9rMHdJWXdDd2hHY1U3ZEJKMFdyVUljcjBSK3l3R3F3RGxyRjhlSGw4cmVHVGdrRHVrMG5BRy9iVXUzZGJYODdqUXVVSVEvalVnbGVXelBpT3YxTXNuYlpINDJnNVRZOXZrS2FoTENGUzRna3Y1UTVvVDNXajJ2cUUvdkMyajFabzlxTXNTTnZFTDRGSXYyRWhKdzhnWkJrdzBSZHNVPQ%3D%3D",
-    "3": "https://zonaaps-player.xyz/video.php?token=UmwzbWpZc3lWQ001em9rMHdJWXdDd2hHY1U3ZEJKMFdyVUljcjBSK3l3RUMwY1FVMGl3MStQM2hzV25zNlhlVlMvQmM4RFRZVXd4a2lCeTNJRWF4R1pMeFUyc05ENllIQTkzbjNvSjJUbHlyalNCWFpkbXZ3NFlwNDJwTE5adHdhVjZBYmE2MDFTMG8yNXhNYUxqL3B3dlZONVdCN3pLa0lsaCt1VUFSOWJzPQ%3D%3D",
-    "4": "https://zonaaps-player.xyz/video.php?token=UmwzbWpZc3lWQ001em9rMHdJWXdDd2hHY1U3ZEJKMFdyVUljcjBSK3l3RmU1ZVkwMTBzMDFiYi9xNlYwRkZIb0luVTFiSVVhQmVzbEk4QWpNUVR3WUxzdVdxbmUzNkZIS0dRdkl6eVEzNlJzYXJLdUxPSG9wb0ZEMUhDdHZHcWc4M3FXRGxZbnZWTVUzWWxNRVhRR1BKZjJOb1E1YjYxT1EvN2VOb2RYT2xvPQ%3D%3D",
-    "5": "https://zonaaps-player.xyz/video.php?token=UmwzbWpZc3lWQ001em9rMHdJWXdDd2hHY1U3ZEJKMFdyVUljcjBSK3l3RlUvR1E3U25rVTdRblVQZTF5RVM2NFZSSmRzU00zVHByL1NwRWk0Qy9HR1Q1Z1ZvbndvTVBwM0toek1qT2xQMEl1eVQ4Q3dGOFdhZmRyRUtLRWo1NUtlK0p5NlUyYUU5dXpBTHNPT1cwWUhxZzd5NnJFakxtYVBuRGpNcU5LSS9NPQ%3D%3D",
-    "6": "https://zonaaps-player.xyz/video.php?token=UmwzbWpZc3lWQ001em9rMHdJWXdDd2hHY1U3ZEJKMFdyVUljcjBSK3l3RU9vcjhTcjk1QmF3SGVVVkNONFdKY0ErZnlqc0hINnR3cVRzMVVCWk9oK2RQbFlVQzVXMm01UGg2WmYvRWlwZ0RrNHArdVBlYTQvL2lSN3lBSWY4bWZBd2dhWStoL0U3S2s0L0x2RGVMNGlOUEdEZThMaVR6RHBhSVZsc2hXeWtBPQ%3D%3D",
-    "7": "https://zonaaps-player.xyz/video.php?token=UmwzbWpZc3lWQ001em9rMHdJWXdDd2hHY1U3ZEJKMFdyVUljcjBSK3l3RkFwTGx0eWE3Nmk5ejhTalFncWx0OVdHM0lsY0hRYXhVekVkcFBZc2RwOUh5Ni8zdERwYWtxUjlqbk43RzNOeTNITkZON3pPVUZPWmVVT2J3cDFtRW41ZzdwU0NleEl5eVR1dnM2NmRiTnc0SGxhNHVpREFpME1jZGNnV2xGL1ljPQ%3D%3D\n8 ERROR - Failed to parse URL from <iframe src=\"https://zonaaps-player.xyz/HLS/embed.php?v=RmVjRWVyTTdRQXRRbUhTa2dNSGR6OEF6Wk1mNmFFWXFqbmpZZGFqT1Fjck82VjNSbEVTL1p5NUUzNk82SEhqcXJuSGJZMXk5NXpPWHcrd3pNK0FtZXc9PQ==&img=S1BtOWV3ZFdGK3llVXE5THpBSUw0SkFIZTFSU1J5N0RYa3RwTnVKZkYvZzV4WHhTY0xoaWk4Q2JqWi8yNUZDN1ZyS1dYRW9FQWxpS1cvb2lLNkVVTkZRaU53UnBtNm9GNmpXa0xvaWdscEE9&nombre_pelicula=M2pGQnFyWHdrWEJNUGtUaDdMS005Zz09\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
-    "9": "https://zonaaps-player.xyz/video.php?token=UmwzbWpZc3lWQ001em9rMHdJWXdDd2hHY1U3ZEJKMFdyVUljcjBSK3l3RW5ncGtnZm1NbngzbHIxWGtvRzFvWjRnbnlmOXg3S1lqYnZIYUpSeldWK2ZNUTBZWjlGNnhjeDE0SmszSWVwUHQwTC9OeWxjejNnMnJEVXUvZ05TUnpFWjU0ZlJpQXVhZzVVcGxoUkR0Ymo5WkpzejZaYS81T3Ntb2oxRXFuMjZjPQ%3D%3D",
-    "10": "https://zonaaps-player.xyz/video.php?token=UmwzbWpZc3lWQ001em9rMHdJWXdDd2hHY1U3ZEJKMFdyVUljcjBSK3l3SHNNTkxPZGQwcThHTkFadjFHUVhkQ0hTZzlhNFRxcGd2Q0t6aDFnOW1DTXhmNjI4Q3JVanlBcmpyNDNReklUR1JPS1pPK0FTQTRyR29vazNSaTVQKzVkVWNNTDZibkZFQ2prWXNpejNkd0pjeUNVb0xwdXdYK09KUFFRY05QTzcwPQ%3D%3D"
+    "1": "https://hugh.cdn.rumble.cloud/video/fww1/15/s8/2/T/9/r/K/T9rKy.aaa.mp4",
+    "2": "https://1a-1791.com/video/fww1/b6/s8/2/p/-/r/K/p-rKy.aaa.mp4",
+    "3": "https://hugh.cdn.rumble.cloud/video/fww1/8e/s8/2/3/_/r/K/3_rKy.aaa.mp4",
+    "4": "https://hugh.cdn.rumble.cloud/video/fww1/47/s8/2/t/_/r/K/t_rKy.aaa.mp4",
+    "5": "https://1a-1791.com/video/fww1/0b/s8/2/3/b/s/K/3bsKy.aaa.mp4",
+    "6": "https://1a-1791.com/video/fww1/d3/s8/2/5/4/t/K/54tKy.aaa.mp4",
+    "7": "https://1a-1791.com/video/fww1/12/s8/2/9/4/t/K/94tKy.aaa.mp4",
+    "8": "https://hugh.cdn.rumble.cloud/video/fww1/28/s8/2/F/3/t/K/F3tKy.aaa.mp4",
+    "9": "https://1a-1791.com/video/fww1/6d/s8/2/D/4/t/K/D4tKy.aaa.mp4",
+    "10": "https://1a-1791.com/video/fww1/76/s8/2/r/6/t/K/r6tKy.aaa.mp4"
   }
 }
