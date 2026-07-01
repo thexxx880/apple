@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 94997,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/szyVpg9K3LL5s8VFAGkXzlxgZUk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/h37hqVLmCW00ImewLAHT1DadOky.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rc7xLuJavZxGpkd5E38S1TRdEXM.png",
+  "titulo": "La casa del dragón",
+  "titulo_original": "House of the Dragon",
+  "fecha_estreno": "2022-08-21",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.352,
+  "sinopsis": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Matt Smith",
+      "personaje": "Prince Daemon Targaryen",
+      "foto": "https://image.tmdb.org/t/p/w500/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
+    },
+    {
+      "nombre": "Emma D'Arcy",
+      "personaje": "Princess Rhaenyra Targaryen",
+      "foto": "https://image.tmdb.org/t/p/w500/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
+    },
+    {
+      "nombre": "Olivia Cooke",
+      "personaje": "Queen Alicent Hightower",
+      "foto": "https://image.tmdb.org/t/p/w500/eIpUKrBoddAM0PoNv8n2Mq99VO1.jpg"
+    },
+    {
+      "nombre": "James Norton",
+      "personaje": "Lord Ormund Hightower",
+      "foto": "https://image.tmdb.org/t/p/w500/3i9z9MkUCrlOGdMRw00j2vScxGC.jpg"
+    },
+    {
+      "nombre": "Steve Toussaint",
+      "personaje": "Lord Corlys 'The Sea Snake' Velaryon",
+      "foto": "https://image.tmdb.org/t/p/w500/sNjMpDYLVu6l79iP0olrYDaNlrD.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "David Hancock",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Philippa Goslett",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Melissa Bernstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin De La Noy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thomas M. Horton",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Ryan J. Condal",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Hancock",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Philippa Goslett",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven Leaute",
+      "rol": "3D Animator"
+    },
+    {
+      "nombre": "Shanto Paul",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Alex Stacey",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Melissa Bernstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin De La Noy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dadi Einarsson",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Thomas M. Horton",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Ryan J. Condal",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "George R.R. Martin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Vince Gerardis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sara Hess",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "George R.R. Martin",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Rowley Irlam",
+      "rol": "Stunt Coordinator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.352,
+    "imdb": "tt11198330",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=339paLFRKlo"
+}
