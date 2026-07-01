@@ -1,0 +1,127 @@
+{
+  "id_tmdb": 205319,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/eyAwSSZ1Io21PivjYM0gsOv0ACx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bhCUn6Z509qTV4eBJZtjtQ4ennL.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ijRt3U5bsEkjqcSjOQ78wswxbL3.png",
+  "titulo": "Una Dosis Diaria de Sol",
+  "titulo_original": "정신병동에도 아침이 와요",
+  "fecha_estreno": "2023-11-03",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.223,
+  "sinopsis": "Una noble enfermera de la unidad de Psiquiatría lo da todo para ser el rayo de luz que necesitan sus pacientes, a pesar de las dificultades que se cruzan en el camino.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Park Bo-young",
+      "personaje": "Jung Da-eun",
+      "foto": "https://image.tmdb.org/t/p/w500/x1LNh8i8XmO3oqNYzRslzYj1VoZ.jpg"
+    },
+    {
+      "nombre": "연우진",
+      "personaje": "Dong Go-yun",
+      "foto": "https://image.tmdb.org/t/p/w500/oGOpjHfwifYd3hVohVFbxmA7Aoe.jpg"
+    },
+    {
+      "nombre": "장동윤",
+      "personaje": "Song Yu-chan",
+      "foto": "https://image.tmdb.org/t/p/w500/caPJ7bSx5Mxy7xV8Tpz4YRswPGZ.jpg"
+    },
+    {
+      "nombre": "이정은",
+      "personaje": "Song Hyo-sin",
+      "foto": "https://image.tmdb.org/t/p/w500/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+    },
+    {
+      "nombre": "장률",
+      "personaje": "Hwang Yeo-hwan",
+      "foto": "https://image.tmdb.org/t/p/w500/ad3JzZUeo9jj3UpRK4NoYioCIxQ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "JQ Lee",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Park Cheol-su",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "이남규",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "JQ Lee",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lee Ra-ha",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "김다희",
+      "rol": "Co-Writer"
+    },
+    {
+      "nombre": "Oh Bo-hyun",
+      "rol": "Co-Writer"
+    },
+    {
+      "nombre": "윤종근",
+      "rol": "Lighting Director"
+    },
+    {
+      "nombre": "신민경",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "모그",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Kim Gwang-wook",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "이태오",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Lee Tae-ho",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Choi Se-young",
+      "rol": "Medical Consultant"
+    },
+    {
+      "nombre": "Park Cheol-su",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yoon Kyung-hyun",
+      "rol": "Lighting Director"
+    },
+    {
+      "nombre": "Kim Nam-su",
+      "rol": "Co-Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.223,
+    "imdb": "tt26258202",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=hbiF-8yFL3U"
+}
