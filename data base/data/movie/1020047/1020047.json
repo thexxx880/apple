@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 1020047,
+  "poster": "https://image.tmdb.org/t/p/w500/php54QmAjXe95WIWzklK2zHJtCN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tJJ737CJujLXw1GlUYd7K4AH3eB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/meF5SeZEqpekYYKZqvZdJIyxJV0.png",
+  "titulo": "El Manuscrito De Dante",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.4,
+  "año": "2026",
+  "duracion": "2h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Sigue la historia del manuscrito original de La Divina Comedia que emerge en manos de una red de contrabando del mercado negro en los peligrosos bajos fondos de Nueva York, y el cansado erudito Nick es llamado por la mafia para autenticarlo. Abrumado por la tentación, Nick desafía a la mafia y roba el manuscrito en un intento frenético por tenerlo todo. Sigue un camino oscuro y violento desde un metafórico infierno hasta el paraíso con su amor Giulietta, mientras se desarrolla una historia paralela: la odisea del propio Dante, un hombre que está atrapado en un matrimonio sin amor con Gemma y reforzado solo por su tutoría bajo un intelectual austero. Escapa a Sicilia y crea su obra más grande, inmortalizando a su amor perdido, Beatriz. Las líneas de tiempo de Nick y Dante tejen caminos separados y, sin embargo, los dos hombres están inextricablemente unidos: ambos se pierden persiguiendo el amor, la belleza y la promesa misma de lo divino.",
+  "fecha_estreno": "2026-06-12",
+  "titulo_original": "In the Hand of Dante",
+  "pais_origen": "Chile",
+  "reparto": [
+    {
+      "nombre": "Oscar Isaac",
+      "personaje": "Nick / Dante",
+      "foto": "https://image.tmdb.org/t/p/w500/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+    },
+    {
+      "nombre": "Gal Gadot",
+      "personaje": "Giulietta / Gemma",
+      "foto": "https://image.tmdb.org/t/p/w500/qCJB1ACi5VjtY4ypXuv3hjAvbSu.jpg"
+    },
+    {
+      "nombre": "Gerard Butler",
+      "personaje": "Louie / Pope Bonifacio",
+      "foto": "https://image.tmdb.org/t/p/w500/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+    },
+    {
+      "nombre": "John Malkovich",
+      "personaje": "Joe Black",
+      "foto": "https://image.tmdb.org/t/p/w500/7GoOdGNc4ra1L0F5nJTkmIB37iu.jpg"
+    },
+    {
+      "nombre": "Louis Cancelmi",
+      "personaje": "Lefty / Guido Novello Da Polenta",
+      "foto": "https://image.tmdb.org/t/p/w500/4MUGuoK0WbLsTt3sg2CD4OsLynZ.jpg"
+    },
+    {
+      "nombre": "Sabrina Impacciatore",
+      "personaje": "Dr. Susanna Pulice",
+      "foto": "https://image.tmdb.org/t/p/w500/6g88MTxghHRPuhwxgnxsttTmFEC.jpg"
+    },
+    {
+      "nombre": "Franco Nero",
+      "personaje": "Don Lecco (86)",
+      "foto": "https://image.tmdb.org/t/p/w500/4npNlt6KfUKxpTLV7DTlmR7m9U7.jpg"
+    },
+    {
+      "nombre": "Benjamin Clementine",
+      "personaje": "Mephistopheles",
+      "foto": "https://image.tmdb.org/t/p/w500/johpHbzqrue6XDG63vapfugGbnn.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Francesco Melzi d'Eril",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jon Kilik",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Olmo Schnabel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Julian Schnabel",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Julian Schnabel",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Louise Kugelberg",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Gabriele Moratti",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Vito Schnabel",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Martin Scorsese",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Oscar Isaac",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Roman Vasyanov",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Benjamin Clementine",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Marco Spoletini",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Louise Kugelberg",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Paki Meduri",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mariano Tufano",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Sophia Banks",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Damiano Tucci",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Tiziano Tucci",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Divya Shahani",
+      "rol": "Co-Producer"
+    }
+  ],
+  "director": "Julian Schnabel",
+  "valoraciones": {
+    "tmdb": 5.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamCrew",
+  "enlace_video": "https://vidhidepro.com/v/ih19m9xk94ev",
+  "trailer": "https://www.youtube.com/watch?v=cXA3Zgsky18"
+}
