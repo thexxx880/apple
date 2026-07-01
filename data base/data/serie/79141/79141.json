@@ -1,0 +1,81 @@
+{
+  "id_tmdb": 79141,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jz9ii5sft8l6zP3lzu51xNWmgiO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/80AhZSbY4eYe7HZnmkqX18ZcAFj.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/dgx2E5uPcsQj8gZDVIGNXq3J9d2.png",
+  "titulo": "Scissor Seven",
+  "titulo_original": "刺客伍六七",
+  "fecha_estreno": "2018-04-25",
+  "duracion": "16min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.588,
+  "sinopsis": "Este aprendiz de sicario empuña de noche sus tijeras de peluquero para ganar dinero y recordar su pasado mientras lidia con unos compañeros poco amistosos.",
+  "pais_origen": "CN",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "何小疯",
+      "personaje": "伍六七 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nfOIkl3JVhJINiGYC7GFgFMAzEX.jpg"
+    },
+    {
+      "nombre": "段艺璇",
+      "personaje": "梅花十三 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/t0SFESlym4mWsrhNM3V1qY7ZQXo.jpg"
+    },
+    {
+      "nombre": "姜广涛",
+      "personaje": "鸡大保(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nZTaNXTWSfIvlG8ZsBfPEFpkH5.jpg"
+    },
+    {
+      "nombre": "赵寒",
+      "personaje": "斯坦国小机器人(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cmJV4lOfs5qLEmYpurZFw9ciOY4.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Aiken Zou Shasha",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "何小疯",
+      "rol": "Director"
+    },
+    {
+      "nombre": "赵寒",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Aiken Zou Shasha",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "何小疯",
+      "rol": "Director"
+    },
+    {
+      "nombre": "赵寒",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.588,
+    "imdb": "tt10384610",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime, Netflix",
+  "trailer": ""
+}
