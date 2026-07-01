@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 805327,
+  "poster": "https://image.tmdb.org/t/p/w500/9bdHnCvgRb3lkCIT0PryyZRDUWs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q8NOU6y1E5m72n7Rpi4Vcrmk3Vh.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/h86BCk41lKhfDOKaEcqv7DxtJhP.png",
+  "titulo": "Mis dos vidas",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.839,
+  "año": "2022",
+  "duracion": "1h 50min",
+  "edad_minima": 13,
+  "sinopsis": "En su graduación universitaria, la vida de Natalie se divide en dos realidades paralelas tras realizar una prueba de embarazo. ¿Qué le deparará el futuro?",
+  "fecha_estreno": "2022-08-16",
+  "titulo_original": "Look Both Ways",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Lili Reinhart",
+      "personaje": "Natalie Bennett",
+      "foto": "https://image.tmdb.org/t/p/w500/sJcuQAJdIv3mnh9M9p5sQWhWSRN.jpg"
+    },
+    {
+      "nombre": "Danny Ramirez",
+      "personaje": "Gabe",
+      "foto": "https://image.tmdb.org/t/p/w500/7ZvcfWA5O5ULiupbHZtGGEPwnpI.jpg"
+    },
+    {
+      "nombre": "David Corenswet",
+      "personaje": "Jake",
+      "foto": "https://image.tmdb.org/t/p/w500/yoQxpUPt3le9zY4Sab3g2ANy4CE.jpg"
+    },
+    {
+      "nombre": "Aisha Dee",
+      "personaje": "Cara",
+      "foto": "https://image.tmdb.org/t/p/w500/dmA3u8KDYcvv673893FNny0nn7G.jpg"
+    },
+    {
+      "nombre": "Andrea Savage",
+      "personaje": "Tina Bennett",
+      "foto": "https://image.tmdb.org/t/p/w500/dh2prcwPU9U1PBdCNu5SSd4Of9j.jpg"
+    },
+    {
+      "nombre": "Luke Wilson",
+      "personaje": "Rick Bennett",
+      "foto": "https://image.tmdb.org/t/p/w500/nH1h9dZGSBuWIOyX27HpYyYykvr.jpg"
+    },
+    {
+      "nombre": "Nia Long",
+      "personaje": "Lucy Galloway",
+      "foto": "https://image.tmdb.org/t/p/w500/heVQkCGKUuKKRjRJaZIBrEKGhYA.jpg"
+    },
+    {
+      "nombre": "Sahara Ale",
+      "personaje": "Eliza / Jorts",
+      "foto": "https://image.tmdb.org/t/p/w500/gJtax4nd9dU3ybETKnXWqZNiZoO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Wanuri Kahiu",
+      "rol": "Director"
+    },
+    {
+      "nombre": "April Prosser",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bryan Unkeless",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eric Newman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jessica Malanaphy",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alyssa Rodrigues",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alan Caudillo",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Keith Brian Burns",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Laura Wallgren",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Lili Reinhart",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jini Durr",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeanette Volturno",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Leach",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Liza Richardson",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Nicole Abellera Hallman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jeanne McCarthy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ian Hultquist",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Wanuri Kahiu",
+  "valoraciones": {
+    "tmdb": 6.839,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Screen Arcade",
+  "enlace_video": "https://voe.sx/e/cfuwnhwo10at",
+  "trailer": "https://www.youtube.com/watch?v=8LOx5sD1okU"
+}
