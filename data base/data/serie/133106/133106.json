@@ -1,0 +1,116 @@
+{
+  "id_tmdb": 133106,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/nwZ7rJrDfT166MQ71Q7NwD9n2Fl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/89HzWpdefkRaX7gtgQEGJ9ri3Ks.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/9ELd1kvDx9u105hNv8jtv8Kdtsf.png",
+  "titulo": "El niño lobo y la fábrica del todo",
+  "titulo_original": "Wolfboy and the Everything Factory",
+  "fecha_estreno": "2021-09-23",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Kids",
+    "Animación"
+  ],
+  "puntuacion": 8.5,
+  "sinopsis": "En el reino mágico de la fábrica del todo, William Lobo es conocido como el niño lobo. Con ayuda de sus nuevos amigos, descubrirá que su imaginación y creatividad bastan para cambiar el mundo.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Kassian Akhtar",
+      "personaje": "Wolfboy (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Archie Yates",
+      "personaje": "Sprout (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8o2nEb5Bo2y6Nq9JS7JfyyQfbR4.jpg"
+    },
+    {
+      "nombre": "Lilly Williams",
+      "personaje": "Xandra (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Joseph Gordon-Levitt",
+      "personaje": "Luxcraft (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+    },
+    {
+      "nombre": "Cristina Milizia",
+      "personaje": "Floof (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hyoNXHS3W4bvzq6wziy7q3JSklN.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joel Kuwahara",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jared Geller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Edward Jesse",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Greenberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Ryan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Toff Mazery",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joel Kuwahara",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jared Geller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Edward Jesse",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Greenberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Ryan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Toff Mazery",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joseph Gordon-Levitt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Xav Clarke",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.5,
+    "imdb": "tt15389676",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Apple TV",
+  "trailer": "https://www.youtube.com/watch?v=8QUFgNO4gPI"
+}
