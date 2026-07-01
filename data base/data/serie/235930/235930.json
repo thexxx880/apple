@@ -1,0 +1,91 @@
+{
+  "id_tmdb": 235930,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/o9hnKyKcgroZbpT9bRIqhftxdJ6.png",
+  "titulo": "Devil May Cry",
+  "titulo_original": "Devil May Cry",
+  "fecha_estreno": "2025-04-03",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.209,
+  "sinopsis": "En esta épica batalla entre el bien y el mal, los límites son difusos. Pero un cazador de demonios endiabladamente guapo podría ser la mejor opción para salvar al mundo.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Alex Larsen",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Adi Shankar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Haruhiro Tsujimoto",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Han Cheong Il",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Graham Hughes",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Vikram Salgaocar",
+      "rol": "Co-Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alex Larsen",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Adi Shankar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Haruhiro Tsujimoto",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Han Cheong Il",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Graham Hughes",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Vikram Salgaocar",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "이승욱",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Hideaki Itsuno",
+      "rol": "Thanks"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.209,
+    "imdb": "tt15716776",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=OlEqHXRrcpc"
+}
