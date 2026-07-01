@@ -1,0 +1,91 @@
+{
+  "id_tmdb": 95479,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/80eHrBl03xWcQYecoTO1LlkXpN1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png",
+  "titulo": "Jujutsu Kaisen",
+  "titulo_original": "呪術廻戦",
+  "fecha_estreno": "2020-10-03",
+  "duracion": "24min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.577,
+  "sinopsis": "La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "瀬下恵介",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "小林健樹",
+      "rol": "Music Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "瀬古浩司",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "伊藤哲平",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "柳圭介",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "瀬下恵介",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "照井順政",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "小林健樹",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "雪駄",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "大塚学",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "中野勝博",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "佐竹徹也",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "淡輪雄介",
+      "rol": "Compositing Supervisor"
+    },
+    {
+      "nombre": "芥見下々",
+      "rol": "Original Story"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.577,
+    "imdb": "tt12343534",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=zyeZgVTtqec"
+}
