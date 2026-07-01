@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 63174,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mAXOCbZzvmDa6PCh5dcIPOB51Qc.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/vI2mH4P2qiaRD9cxPSBWyU7PawL.png",
+  "titulo": "Lucifer",
+  "titulo_original": "Lucifer",
+  "fecha_estreno": "2016-01-25",
+  "duracion": "45min",
+  "año": "2016",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.433,
+  "sinopsis": "La serie se centra en Lucifer (Tom Ellis) quien, aburrido e infeliz como el Señor del Infierno, dimite de su trono y abandona su reino para trasladarse a la ciudad de Los Angeles y abrir un lujoso piano-bar llamado Lux. Una vez allí ayudará a la policía a castigar a los más peligrosos criminales de la ciudad.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Tom Ellis",
+      "personaje": "Lucifer Morningstar",
+      "foto": "https://image.tmdb.org/t/p/w500/zhjIyqpk5bsYgxsh5bSeS6VZtHm.jpg"
+    },
+    {
+      "nombre": "Lauren German",
+      "personaje": "Chloe Decker",
+      "foto": "https://image.tmdb.org/t/p/w500/if1TbO8dSfPiDCMfy52nH7A2D7.jpg"
+    },
+    {
+      "nombre": "Kevin Alejandro",
+      "personaje": "Dan Espinoza",
+      "foto": "https://image.tmdb.org/t/p/w500/bh4aQqP7kJzL2Ls9tj5OmhsBlqi.jpg"
+    },
+    {
+      "nombre": "D. B. Woodside",
+      "personaje": "Amenadiel",
+      "foto": "https://image.tmdb.org/t/p/w500/xdyGewr108rQWojpYlKw2QjrxCz.jpg"
+    },
+    {
+      "nombre": "Lesley-Ann Brandt",
+      "personaje": "Mazikeen \"Maze\"",
+      "foto": "https://image.tmdb.org/t/p/w500/fW2ITcpENpNnHf4wuNltf3PSQTk.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Azzolino",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Ellis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Karen Gaviola",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "KristieAnne Reed",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom Kapinos",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Erik Holmberg",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Azzolino",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Ellis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Agata Maszkiewicz",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Karen Gaviola",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "KristieAnne Reed",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom Kapinos",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Erik Holmberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tristan Beltrami",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Robert Marderosian",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Aron Marderosian",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Elizabeth Barnes",
+      "rol": "Original Casting"
+    },
+    {
+      "nombre": "Corbin Bronson",
+      "rol": "Original Casting"
+    },
+    {
+      "nombre": "Samantha Rood",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Ildy Modrovich",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jerry Bruckheimer",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.433,
+    "imdb": "tt4052886",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=X4bF_quwNtw"
+}
