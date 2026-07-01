@@ -1,0 +1,100 @@
+{
+  "id_tmdb": 118443,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/l1drZgVKwfph4XXLRPf3BHdHO6I.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zQZPwOvnsEW0DtCOrR6TmFmek3H.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/u5zpnJpybbYgalIfWNNf1Vkacw1.png",
+  "titulo": "Así habló Kishibe Rohan",
+  "titulo_original": "岸辺露伴は動かない",
+  "fecha_estreno": "2017-09-20",
+  "duracion": "24min",
+  "año": "2017",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Animación"
+  ],
+  "puntuacion": 8.096,
+  "sinopsis": "Un popular autor de manga se ve enredado en sucesos paranormales mientras investiga. El usuario de Stand Kishibe Rohan va a Italia, queda en bancarrota y más.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "櫻井孝宏",
+      "personaje": "Rohan Kishibe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "梶田浩司",
+      "rol": "Line Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "岩浪美和",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "石本峻一",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "佐藤裕子",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "小山恭正",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "ソエジマヤスフミ",
+      "rol": "Opening/Ending Animation"
+    },
+    {
+      "nombre": "姉崎早也花",
+      "rol": "Opening/Ending Animation"
+    },
+    {
+      "nombre": "荒木飛呂彦",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "滝れーき",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "石本峻一",
+      "rol": "Opening/Ending Animation"
+    },
+    {
+      "nombre": "梶田浩司",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "ソエジマヤスフミ",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "菅野祐悟",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "三室健太",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "加藤敏幸",
+      "rol": "Series Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.096,
+    "imdb": "tt13887556",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=L0qLFTrwQSs"
+}
