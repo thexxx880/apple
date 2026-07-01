@@ -1,0 +1,75 @@
+{
+  "id_tmdb": 224414,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5Ia4bJ0GuAn84H98CCtWMRVCTAF.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/arColZFeY539ttVPeBNoWKrIe3P.png",
+  "titulo": "Tú y todo lo demás",
+  "titulo_original": "은중과 상연",
+  "fecha_estreno": "2025-09-12",
+  "duracion": "58min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "Son amigas desde la adolescencia, y su relación siempre tuvo altibajos, hasta que se distanciaron. Ahora, una de ellas le pide a la otra que la acompañe en sus últimos días...",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "김고은",
+      "personaje": "Ryu Eun-jung",
+      "foto": "https://image.tmdb.org/t/p/w500/p7wuD6eX0YcZ5LXWhx0XjvEYZKz.jpg"
+    },
+    {
+      "nombre": "박지현",
+      "personaje": "Cheon Sang-yeon",
+      "foto": "https://image.tmdb.org/t/p/w500/x7DPPjek9LC4XbDMLq7k2Dlzw7P.jpg"
+    },
+    {
+      "nombre": "김건우",
+      "personaje": "Kim Sang-hak",
+      "foto": "https://image.tmdb.org/t/p/w500/sdFpIuQwzmbelx7EFLet2XzmGhH.jpg"
+    },
+    {
+      "nombre": "김재원",
+      "personaje": "Cheon Sang-hak / Moonee",
+      "foto": "https://image.tmdb.org/t/p/w500/diEPTDk0ngXGje4RGmoMaCd0TWe.jpg"
+    },
+    {
+      "nombre": "문우진",
+      "personaje": "Young Cheon Sang-hak",
+      "foto": "https://image.tmdb.org/t/p/w500/jAk8EhqNnflSWltcJuv5nE4MpTu.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "조영민",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "조영민",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Song Hye-jin",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "김장우",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "tt31014107",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=T8xZkzi0Mr4"
+}
