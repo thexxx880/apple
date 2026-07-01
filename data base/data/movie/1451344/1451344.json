@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 1451344,
+  "poster": "https://image.tmdb.org/t/p/w500/12TfQSbwyb3t9PN0KTOTE4NB7lq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kEiQORCwEXSeoG4SK0e4sezHboJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/il6crZPMnmQNTXZXRrXKy3ME7f0.png",
+  "titulo": "Maridos en acción",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Acción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.443,
+  "año": "2026",
+  "duracion": "1h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Un detective se une al nuevo esposo de su ex para encontrar a quienes la secuestraron. ¿Este singular dúo podrá superar sus diferencias para lograr un rescate increíble?",
+  "fecha_estreno": "2026-06-15",
+  "titulo_original": "남편들",
+  "pais_origen": "South Korea",
+  "reparto": [
+    {
+      "nombre": "진선규",
+      "personaje": "Hwang Chung-sik",
+      "foto": "https://image.tmdb.org/t/p/w500/toFCyPac5rSpN58p0fsZ7lbogYc.jpg"
+    },
+    {
+      "nombre": "공명",
+      "personaje": "Lee Min-seok",
+      "foto": "https://image.tmdb.org/t/p/w500/gIWnp9BJwuRKj0BITIP8NYXOptX.jpg"
+    },
+    {
+      "nombre": "김지석",
+      "personaje": "Ma Do-jun",
+      "foto": "https://image.tmdb.org/t/p/w500/qMKyA4CJvBNhLRBbjV6s6khlf5e.jpg"
+    },
+    {
+      "nombre": "윤경호",
+      "personaje": "Kim Yong-kang",
+      "foto": "https://image.tmdb.org/t/p/w500/217cVZqyvJypi4OR1uvxoaJxvLm.jpg"
+    },
+    {
+      "nombre": "강한나",
+      "personaje": "Si-nae",
+      "foto": "https://image.tmdb.org/t/p/w500/fXydO3AV3arjm3mMPhIxbf26l6a.jpg"
+    },
+    {
+      "nombre": "이다희",
+      "personaje": "Hye-ran",
+      "foto": "https://image.tmdb.org/t/p/w500/uaZ0kMQOEKxxtfH9IWecBZ8c4DI.jpg"
+    },
+    {
+      "nombre": "전소민",
+      "personaje": "Cho Ah-ra",
+      "foto": "https://image.tmdb.org/t/p/w500/A5oK1GJFr9azO7VJ3QiQbEf3qzD.jpg"
+    },
+    {
+      "nombre": "윤아",
+      "personaje": "Yong-kang's Wife",
+      "foto": "https://image.tmdb.org/t/p/w500/JzAuAv17bWkLxVtfi9YJvQJhZl.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "박규태",
+      "rol": "Director"
+    },
+    {
+      "nombre": "박규태",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "김종현",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "김경민",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "김현철",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "신예진",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "이시연",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "홍명수",
+      "rol": "Lighting Director"
+    },
+    {
+      "nombre": "고준영",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "조선호",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "방길성",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "오진석",
+      "rol": "Props"
+    },
+    {
+      "nombre": "남성주",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "조희란",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "김다솔",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "이진영",
+      "rol": "Makeup & Hair"
+    }
+  ],
+  "director": "박규태",
+  "valoraciones": {
+    "tmdb": 7.443,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "TPS Company",
+  "enlace_video": "https://vidhidepro.com/v/dadpdm00dzxh",
+  "trailer": "https://www.youtube.com/watch?v=PSJgwm2xcbI"
+}
