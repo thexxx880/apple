@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 119831,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hPxNu2LL1y4Nv0ojSQOwPW1mHLz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qdQPYZc6MYnmmzxhmccCnQZI6NA.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/tQUIVmWrDxSUslN7p49uDtWczWT.svg",
+  "titulo": "Los fantasmas de la ciudad",
+  "titulo_original": "City of Ghosts",
+  "fecha_estreno": "2021-03-05",
+  "duracion": "18min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Kids",
+    "Animación",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 6.6,
+  "sinopsis": "¡Conoce al Club Fantasma! Sus aventuras los llevan a todos los rincones de L. Á., donde entrevistan a fantasmas, resuelven problemas y aprenden sobre la historia local.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "August Nuñez",
+      "personaje": "Zelda (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Blue Chapman",
+      "personaje": "Thomas (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sBFiLuv9AqaguPy56vSQXkPQgtg.jpg"
+    },
+    {
+      "nombre": "Kirikou S'hai Muldrow",
+      "personaje": "Eva (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Michael Ren",
+      "personaje": "Peter (voice)",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Katie Le Dain",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Joanne Shen",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Elizabeth Ito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Kambara",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dayla Kennedy",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Melissa Cobb",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Katie Le Dain",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Joanne Shen",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Elizabeth Ito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Kambara",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dayla Kennedy",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Melissa Cobb",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Linda Lamontagne",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Carolyn Bates",
+      "rol": "Development Producer"
+    },
+    {
+      "nombre": "Michael Andrews",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Eric Sean Persons",
+      "rol": "Location Scout"
+    },
+    {
+      "nombre": "Annie Arjarasumpun",
+      "rol": "Script Coordinator"
+    },
+    {
+      "nombre": "Bill Bloom",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Sim Dhugga",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "James B. Hermon",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Tiffany K. Wong",
+      "rol": "Production Coordinator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": "tt10380896",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=NWjLexwj4eQ"
+}
