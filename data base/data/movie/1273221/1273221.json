@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 1273221,
+  "poster": "https://image.tmdb.org/t/p/w500/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/agXVAdAYd6TG58uk7kDb6SPHEiJ.png",
+  "titulo": "Scary Movie: Terroríficamente incorrecta",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Terror"
+  ],
+  "calificacion": "C",
+  "puntuacion": 5.496,
+  "año": "2026",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+  "fecha_estreno": "2026-06-03",
+  "titulo_original": "Scary Movie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Marlon Wayans",
+      "personaje": "Shorty Meeks",
+      "foto": "https://image.tmdb.org/t/p/w500/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg"
+    },
+    {
+      "nombre": "Shawn Wayans",
+      "personaje": "Ray Wilkins",
+      "foto": "https://image.tmdb.org/t/p/w500/Cat25uXhB680QLmvg9Tu16W563.jpg"
+    },
+    {
+      "nombre": "Anna Faris",
+      "personaje": "Cindy Campbell",
+      "foto": "https://image.tmdb.org/t/p/w500/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg"
+    },
+    {
+      "nombre": "Regina Hall",
+      "personaje": "Brenda Meeks",
+      "foto": "https://image.tmdb.org/t/p/w500/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+    },
+    {
+      "nombre": "Damon Wayans Jr.",
+      "personaje": "Agent Underwood",
+      "foto": "https://image.tmdb.org/t/p/w500/f6gNg71Js9XqCiXUtyFyXXbJ9ni.jpg"
+    },
+    {
+      "nombre": "Gregg Wayans",
+      "personaje": "Brad Meeks",
+      "foto": "https://image.tmdb.org/t/p/w500/lNsrZObXzbBA7jzTCBI4BFwQYdV.jpg"
+    },
+    {
+      "nombre": "Kim Wayans",
+      "personaje": "Nurse Ratchett",
+      "foto": "https://image.tmdb.org/t/p/w500/iLcbmO6GkY0Calo1cM0PwiBR5K1.jpg"
+    },
+    {
+      "nombre": "Benny Zielke",
+      "personaje": "Jess Phillippe",
+      "foto": "https://image.tmdb.org/t/p/w500/8ul4eT5RAGvVXcCbrkqNqdqvRHU.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Marlon Wayans",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Shawn Wayans",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Keenen Ivory Wayans",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Rick Alvarez",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Keenen Ivory Wayans",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marlon Wayans",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rick Alvarez",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Shawn Wayans",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jonathan Glickman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alexandra Loewy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thom Zadra",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christopher M. Searcey",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Nicole Elespuru",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Steve C. Aaron",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Rob Lowry",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Ariyela Wald-Cohain",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Michael J. Moore",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Marsha L. Swinton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shawn Wayans",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Marlon Wayans",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Michael Tiddes",
+  "valoraciones": {
+    "tmdb": 5.496,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Miramax",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/12/s8/2/u/k/K/B/ukKBA.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc"
+}
