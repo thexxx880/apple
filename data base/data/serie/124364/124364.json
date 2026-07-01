@@ -14,7 +14,7 @@
     "Drama",
     "Sci-Fi & Fantasy"
   ],
-  "puntuacion": 8.498,
+  "puntuacion": 8.507,
   "sinopsis": "Desvela el misterio de un pueblo de pesadilla en el centro de América que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
   "pais_origen": "US",
   "calificacion": "16",
@@ -49,11 +49,7 @@
   "director": "",
   "equipo_creativo": [
     {
-      "nombre": "Josh Appelbaum",
-      "rol": "Executive Producer"
-    },
-    {
-      "nombre": "Mike Larocca",
+      "nombre": "Jack Bender",
       "rol": "Executive Producer"
     },
     {
@@ -61,45 +57,11 @@
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Anthony Russo",
-      "rol": "Executive Producer"
-    },
-    {
-      "nombre": "André Nemec",
-      "rol": "Executive Producer"
-    },
-    {
-      "nombre": "Adrienne Erickson",
-      "rol": "Co-Executive Producer"
-    }
-  ],
-  "crew": [
-    {
       "nombre": "Josh Appelbaum",
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Mike Larocca",
-      "rol": "Executive Producer"
-    },
-    {
-      "nombre": "John Griffin",
-      "rol": "Executive Producer"
-    },
-    {
-      "nombre": "Anthony Russo",
-      "rol": "Executive Producer"
-    },
-    {
       "nombre": "André Nemec",
-      "rol": "Executive Producer"
-    },
-    {
-      "nombre": "Adrienne Erickson",
-      "rol": "Co-Executive Producer"
-    },
-    {
-      "nombre": "Scott Rosenberg",
       "rol": "Executive Producer"
     },
     {
@@ -107,12 +69,50 @@
       "rol": "Executive Producer"
     },
     {
+      "nombre": "Scott Rosenberg",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
       "nombre": "Jack Bender",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Griffin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Appelbaum",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "André Nemec",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeff Pinkner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Rosenberg",
       "rol": "Executive Producer"
     },
     {
       "nombre": "Joe Russo",
       "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anthony Russo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mike Larocca",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adrienne Erickson",
+      "rol": "Co-Executive Producer"
     },
     {
       "nombre": "Michael Mahoney",
@@ -124,7 +124,7 @@
     }
   ],
   "valoraciones": {
-    "tmdb": 8.498,
+    "tmdb": 8.507,
     "imdb": "tt9813792",
     "rotten_tomatoes": null
   },
