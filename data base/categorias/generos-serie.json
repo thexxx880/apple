@@ -1,5 +1,17 @@
 [
   {
+    "id_tmdb": 198004,
+    "poster": "https://image.tmdb.org/t/p/w500/auknE4JO3oLXNe2Go8tz6v4DPhY.jpg",
+    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=198004",
+    "type": "serie",
+    "año": "2023",
+    "titulo": "King the Land",
+    "generos": [
+      "Drama",
+      "Comedia"
+    ]
+  },
+  {
     "id_tmdb": 95479,
     "poster": "https://image.tmdb.org/t/p/w500/80eHrBl03xWcQYecoTO1LlkXpN1.jpg",
     "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=95479",
@@ -403,18 +415,6 @@
     "type": "serie",
     "año": "2019",
     "titulo": "Aterrizaje de emergencia en tu corazón",
-    "generos": [
-      "Drama",
-      "Comedia"
-    ]
-  },
-  {
-    "id_tmdb": 198004,
-    "poster": "https://image.tmdb.org/t/p/w500/auknE4JO3oLXNe2Go8tz6v4DPhY.jpg",
-    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=198004",
-    "type": "serie",
-    "año": "2023",
-    "titulo": "King the Land",
     "generos": [
       "Drama",
       "Comedia"
