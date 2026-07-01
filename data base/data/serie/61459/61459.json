@@ -1,0 +1,131 @@
+{
+  "id_tmdb": 61459,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/dC1rIfKScgrHjmZYdTpUgWpZF4h.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zfk6siC4KRXurG4jJzSXHy9szGQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8oLjgf6yA5diemvMCFlh1E97dIG.png",
+  "titulo": "Parasyte: The Maxim",
+  "titulo_original": "寄生獣 セイの格率",
+  "fecha_estreno": "2014-10-09",
+  "duracion": "23min",
+  "año": "2014",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.331,
+  "sinopsis": "Un adolescente combate un violento ataque de parásitos del espacio con ayuda de Migi, una dócil criatura que se apoderó de su mano derecha.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "島﨑信長",
+      "personaje": "Izumi Shinichi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+    },
+    {
+      "nombre": "平野綾",
+      "personaje": "Migi-(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zaSJKfuKhw7e4VTnTKnlHBRzjQU.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "篠原昭",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "林加都恵",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "稲毛弘之",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "大島由香",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "桐本篤",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "中谷敏夫",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "篠原昭",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "林加都恵",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "稲毛弘之",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "平松禎史",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "岩明均",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "三浦大知",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "清水健一",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "Ken Arai",
+      "rol": "Music"
+    },
+    {
+      "nombre": "岩明均",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "赤井文尚",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "米村正二",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "山田知明",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "岩明均",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "大島由香",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "桐本篤",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.331,
+    "imdb": "tt3358020",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=2ilVWE9uw88"
+}
