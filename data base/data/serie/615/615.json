@@ -1,0 +1,59 @@
+{
+  "id_tmdb": 615,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/6jNQtbazLLAu5gLzW46FP8EGePb.png",
+  "titulo": "Futurama",
+  "titulo_original": "Futurama",
+  "fecha_estreno": "1999-03-28",
+  "duracion": "24min",
+  "año": "1999",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.4,
+  "sinopsis": "Una divertidísima serie animada creada por Matt Groening que cuenta la historia de un repartidor de pizzas llamado Fry que se congela criogénicamente por accidente en 1999 y se despierta 1000 años más tarde en un nuevo mundo que, en muchos aspectos, no ha progresado mucho desde el siglo XX.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Billy West",
+      "personaje": "Fry / Professor Farnsworth / Zoidberg / Zapp Brannigan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+    },
+    {
+      "nombre": "Katey Sagal",
+      "personaje": "Leela (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+    },
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "Bender (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+    },
+    {
+      "nombre": "Tress MacNeille",
+      "personaje": "Mom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+    },
+    {
+      "nombre": "Maurice LaMarche",
+      "personaje": "Morbo / Kif Kroker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.4,
+    "imdb": "tt0149460",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fox",
+  "trailer": "https://www.youtube.com/watch?v=dUHzt5md1x0"
+}
