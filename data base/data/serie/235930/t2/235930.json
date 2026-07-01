@@ -1,12 +1,13 @@
 {
-  "backdrop": "https://image.tmdb.org/t/p/original/hGlXaPuniex4rjkqNesdpVUe9vL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/r7ESD78xNL72LsFeBWXnE88WFt8.jpg",
   "capitulos": {
-    "2": "https://vimeos.net/embed-km4fjribssgr.html",
-    "3": "https://vimeos.net/embed-l9a61xnfd96z.html",
-    "4": "https://vimeos.net/embed-j1nxx9cft9ox.html",
-    "5": "https://vimeos.net/embed-v0sx67c83ywu.html",
-    "6": "https://vimeos.net/embed-mehf04mt10de.html",
-    "7": "https://vimeos.net/embed-14ohd9auhcjd.html",
-    "8": "https://vimeos.net/embed-yaa9ux52h71n.html"
+    "1": "https://hugh.cdn.rumble.cloud/video/fww1/f2/s8/2/2/y/q/n/2yqnA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1215856128-1215880001",
+    "2": "https://1a-1791.com/video/fww1/39/s8/2/S/x/q/n/SxqnA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1034413056-1034433351",
+    "3": "https://hugh.cdn.rumble.cloud/video/fww1/57/s8/2/0/w/q/n/0wqnA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=494034432-494052951",
+    "4": "https://hugh.cdn.rumble.cloud/video/fwe2/f9/s8/2/s/z/q/n/szqnA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1214950400-1214974275",
+    "5": "https://hugh.cdn.rumble.cloud/video/fww1/c0/s8/2/c/y/q/n/cyqnA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1005877760-1005897439",
+    "6": "https://hugh.cdn.rumble.cloud/video/fww1/37/s8/2/q/z/q/n/qzqnA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1197480960-1197504522",
+    "7": "https://hugh.cdn.rumble.cloud/video/fwe2/78/s8/2/E/T/y/n/ETynA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1145558528-1145580982",
+    "8": "https://hugh.cdn.rumble.cloud/video/fww1/ae/s8/2/G/T/y/n/GTynA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1056217600-1056238296"
   }
 }
