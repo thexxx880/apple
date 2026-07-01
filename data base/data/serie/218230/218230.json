@@ -1,0 +1,80 @@
+{
+  "id_tmdb": 218230,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/4Gh8Iz63uc9HZwq925B1Fk0qVz3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/icy4p7Nb33UU2S5eHvlBcE0Dvmi.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/gBuh3Ucy5VlGW0yx9fknV9Hx030.png",
+  "titulo": "El juego de la muerte",
+  "titulo_original": "이재, 곧 죽습니다",
+  "fecha_estreno": "2023-12-15",
+  "duracion": "53min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.42,
+  "sinopsis": "Choi Yee-Jae creció en un entorno familiar pobre, pero tenía una personalidad brillante y amable. Tras 7 años sin encontrar un trabajo decente, se siente desesperado. Decide acabar con su vida Choi Yee-Jae pensó que todo se acabaría tras quitarse la vida, pero, tras su muerte, se enfrenta a la Muerte, que está frente a la puerta del Infierno. Se le impone el castigo de experimentar la muerte 12 veces más a través de diferentes cuerpos.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "서인국",
+      "personaje": "Choi Yee-jae",
+      "foto": "https://image.tmdb.org/t/p/w500/gs7RRZt2tWBJ7OR9BD3TFSYteJj.jpg"
+    },
+    {
+      "nombre": "박소담",
+      "personaje": "Death",
+      "foto": "https://image.tmdb.org/t/p/w500/fGVOikpvivopeATDy6ZzLdKYXDu.jpg"
+    },
+    {
+      "nombre": "김지훈",
+      "personaje": "Park Tae-woo",
+      "foto": "https://image.tmdb.org/t/p/w500/ts2P3zONNZxD4AWIVu0FrvtUQNJ.jpg"
+    },
+    {
+      "nombre": "김미경",
+      "personaje": "Choi Yee-jae's Mother",
+      "foto": "https://image.tmdb.org/t/p/w500/bJLkarteB2O0duu5ABvM5QFRuax.jpg"
+    },
+    {
+      "nombre": "정용주",
+      "personaje": "Kim Ji-Young",
+      "foto": "https://image.tmdb.org/t/p/w500/5bf4CnyhXInQuaKdyv1t05lbsgS.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ha Byung-hoon",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ha Byung-hoon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ha Byung-hoon",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lee Won-sik",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Ggul-chan",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.42,
+    "imdb": "tt26225038",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": "https://www.youtube.com/watch?v=RbLbACTHBvM"
+}
