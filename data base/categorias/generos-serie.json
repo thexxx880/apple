@@ -1,5 +1,16 @@
 [
   {
+    "id_tmdb": 201834,
+    "poster": "https://image.tmdb.org/t/p/w500/qPsKMp4ezqgT2XvtV8U9zdITqA5.jpg",
+    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=201834",
+    "type": "serie",
+    "año": "2024",
+    "titulo": "Ted: La serie",
+    "generos": [
+      "Comedia"
+    ]
+  },
+  {
     "id_tmdb": 5920,
     "poster": "https://image.tmdb.org/t/p/w500/snKUzvCl3kGv0RWBjEjnOXMGvdl.jpg",
     "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=5920",
@@ -1775,17 +1786,6 @@
       "Animación",
       "Misterio",
       "Sci-Fi & Fantasy"
-    ]
-  },
-  {
-    "id_tmdb": 201834,
-    "poster": "https://image.tmdb.org/t/p/w500/qPsKMp4ezqgT2XvtV8U9zdITqA5.jpg",
-    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=201834",
-    "type": "serie",
-    "año": "2024",
-    "titulo": "Ted: La serie",
-    "generos": [
-      "Comedia"
     ]
   },
   {
