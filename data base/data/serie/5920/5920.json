@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 5920,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/snKUzvCl3kGv0RWBjEjnOXMGvdl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/f4LBhra2bVZQlb9rg6qlgp4WqAu.png",
+  "titulo": "El Mentalista",
+  "titulo_original": "The Mentalist",
+  "fecha_estreno": "2008-09-23",
+  "duracion": "24min",
+  "año": "2008",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 8.357,
+  "sinopsis": "Patrick Jane es un hombre que trabaja como médium televisivo hasta que sufre un duro golpe cuando su mujer e hija son asesinadas. A partir de entonces, decide usar sus habilidades para ayudar a resolver casos de asesinato, trabajando como detective en el Departamento de Investigación de Crímenes de California. El agente Jane será capaz de ver aquello que los demás no pueden y sus poderes de observación y deducción le darán excelentes resultados.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Simon Baker",
+      "personaje": "Patrick Jane",
+      "foto": "https://image.tmdb.org/t/p/w500/oay0Lo2zl0lJdguptxgx1BK9Xq7.jpg"
+    },
+    {
+      "nombre": "Robin Tunney",
+      "personaje": "Teresa Lisbon",
+      "foto": "https://image.tmdb.org/t/p/w500/vOmWyYNoVEaPPvoto4IW8dSXn7I.jpg"
+    },
+    {
+      "nombre": "Tim Kang",
+      "personaje": "Kimball Cho",
+      "foto": "https://image.tmdb.org/t/p/w500/Ae7qMN6fJTut145qpeSn1NOu8yx.jpg"
+    },
+    {
+      "nombre": "Rockmond Dunbar",
+      "personaje": "Dennis Abbott",
+      "foto": "https://image.tmdb.org/t/p/w500/gim7zIrYkbKWsp2Kod7fp74fWyI.jpg"
+    },
+    {
+      "nombre": "Joe Adler",
+      "personaje": "Jason Wylie",
+      "foto": "https://image.tmdb.org/t/p/w500/bsle7zqj6HBs6NYstkwDwQY7EEf.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jordan Harper",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Alex Berger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Donaghy",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Nina Lopez-Corrado",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Simon Baker",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Scherer",
+      "rol": "Co-Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marisa Wegrzyn",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Robert J. Ulrich",
+      "rol": "Original Casting"
+    },
+    {
+      "nombre": "Carol Kritzer",
+      "rol": "Original Casting"
+    },
+    {
+      "nombre": "Eric Dawson",
+      "rol": "Original Casting"
+    },
+    {
+      "nombre": "Sara Isaacson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Eric Souliere",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jordan Harper",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Alex Berger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Donaghy",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Angela Claverie",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Nina Lopez-Corrado",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Simon Baker",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cherie Day Ledwith",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Sharisse Fine",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Amanda Friedland",
+      "rol": "Costume Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.357,
+    "imdb": "tt1196946",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=GXEocd6WZog"
+}
