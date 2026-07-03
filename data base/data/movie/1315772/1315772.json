@@ -1,0 +1,127 @@
+{
+  "id_tmdb": 1315772,
+  "poster": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/j4P82iAfu25EtqYJOLkxScmLiRL.png",
+  "titulo": "Minions & Monstruos",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.7,
+  "año": "2026",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "Esta es la historia alocada, ridícula y totalmente verídica de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+  "fecha_estreno": "2026-06-24",
+  "titulo_original": "Minions & Monsters",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Pierre Coffin",
+      "personaje": "Henry / James / Ed / Dick / The Minions (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+    },
+    {
+      "nombre": "Trey Parker",
+      "personaje": "Goomi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3tJe8t90lrcQzXj9cRcpW9wmj2c.jpg"
+    },
+    {
+      "nombre": "Allison Janney",
+      "personaje": "Olivia (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+    },
+    {
+      "nombre": "Christoph Waltz",
+      "personaje": "Max (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+    },
+    {
+      "nombre": "Jeff Bridges",
+      "personaje": "Frank / Elwood (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+    },
+    {
+      "nombre": "Jesse Eisenberg",
+      "personaje": "Dort (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg"
+    },
+    {
+      "nombre": "Zoey Deutch",
+      "personaje": "Debbie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tn6ErnytTct7HNAFG2dW17QcBk5.jpg"
+    },
+    {
+      "nombre": "Bobby Moynihan",
+      "personaje": "Phillips (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Pierre Coffin",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chris Meledandri",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bill Ryan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Lynch",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Pierre Coffin",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Claire Dodgson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "David Feiss",
+      "rol": "Story Artist"
+    },
+    {
+      "nombre": "Lyndon Ruddy",
+      "rol": "Story Artist"
+    },
+    {
+      "nombre": "Natalie Nourigat",
+      "rol": "Head of Story"
+    },
+    {
+      "nombre": "Brian Lynch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sean Lawrence",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "John Powell",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Pierre Coffin",
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://1a-1791.com/video/fwe2/a2/s8/2/2/z/E/C/2zECA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2501743616-2501793221",
+  "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c"
+}
