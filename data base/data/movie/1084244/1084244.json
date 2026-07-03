@@ -1,8 +1,8 @@
 {
   "id_tmdb": 1084244,
-  "poster": "https://image.tmdb.org/t/p/w500/fWWfKcQDldLgHQwXWakfE16D5vr.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/kwq3lxPrBfyyVRRSDSlojwCPzwH.jpg",
-  "logo": "https://image.tmdb.org/t/p/w300/aI3zj2mXnusvdbG5AYwWXCbEVk3.png",
+  "poster": "https://image.tmdb.org/t/p/w500/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
   "titulo": "Toy Story 5",
   "trending": false,
   "generos": [
@@ -12,7 +12,7 @@
     "Aventura"
   ],
   "calificacion": "A",
-  "puntuacion": 7.377,
+  "puntuacion": 7.4,
   "año": "2026",
   "duracion": "1h 42min",
   "edad_minima": 13,
@@ -82,6 +82,10 @@
     {
       "nombre": "Andrew Stanton",
       "rol": "Story"
+    },
+    {
+      "nombre": "Jessica Choi",
+      "rol": "Producer"
     }
   ],
   "crew": [
@@ -136,11 +140,11 @@
   ],
   "director": "Andrew Stanton",
   "valoraciones": {
-    "tmdb": 7.377,
+    "tmdb": 7.4,
     "imdb": null,
     "rotten_tomatoes": null
   },
   "distribuidora": "Pixar",
-  "enlace_video": "https://voe.sx/e/b79g0rdczsfu",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/da/s8/2/2/H/5/y/2H5yA.aaa.mp4",
   "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ"
 }
