@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 223702,
+  "poster": "https://image.tmdb.org/t/p/w500/4YiHAxavhMLaBqOzx7ZirmOwNkD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hsb8nNBt3emvWqBs7Xv5IKlz6Im.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/60VW08lB7DWa1YGXRukzsGZfx5y.png",
+  "titulo": "La fiesta de las salchichas",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Fantasía"
+  ],
+  "calificacion": "C",
+  "puntuacion": 5.753,
+  "año": "2016",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "Una salchicha dirige un grupo de productos de supermercados en una búsqueda para descubrir la verdad sobre su existencia y lo que realmente sucede cuando se eligen para salir de la tienda de comestibles.",
+  "fecha_estreno": "2016-07-11",
+  "titulo_original": "Sausage Party",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Seth Rogen",
+      "personaje": "Frank / Sergeant Pepper / Peanut Butter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+      "nombre": "Kristen Wiig",
+      "personaje": "Brenda (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6U6UGztBwk7c4lg8n5BS5QOByot.jpg"
+    },
+    {
+      "nombre": "Jonah Hill",
+      "personaje": "Carl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+    },
+    {
+      "nombre": "Bill Hader",
+      "personaje": "Firewater / Tequila / El Guaco (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg"
+    },
+    {
+      "nombre": "Michael Cera",
+      "personaje": "Barry (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
+    },
+    {
+      "nombre": "James Franco",
+      "personaje": "Druggie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+    },
+    {
+      "nombre": "Danny McBride",
+      "personaje": "Honey Mustard (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sVFPzl2t5QlGudQKWAszIWZCXZv.jpg"
+    },
+    {
+      "nombre": "Craig Robinson",
+      "personaje": "Grits (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mTyTrOWUSOBJMOlDpnd4OYx7FlJ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Conrad Vernon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Greg Tiernan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Megan Ellison",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Evan Goldberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Seth Rogen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Conrad Vernon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Seth Rogen",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Seth Rogen",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mike Cachuela",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "David Distenfeld",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pilar Flynn",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jonah Hill",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kyle Hunter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ariel Shaffir",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicole Stinn",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Kevin Pavlovic",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Kyle McQueen",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Arlyn Bantog",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Todd Demong",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "James Sathre",
+      "rol": "Lighting Technician"
+    }
+  ],
+  "director": "Conrad Vernon",
+  "valoraciones": {
+    "tmdb": 5.753,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://1a-1791.com/video/fw/s8/2/v/0/W/W/v0WWt.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=GAJrBPUVDJM"
+}
