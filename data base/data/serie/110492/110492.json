@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 110492,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/55XTxtvxToTvTbXcPOyVf3RbjkQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aJcUU3LMlqMKBi8L3eaxGfAbd4G.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/9arGKCxY19dTahbAd8ZuVKxMzYZ.png",
+  "titulo": "Peacemaker",
+  "titulo_original": "Peacemaker",
+  "fecha_estreno": "2022-01-13",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Comedia"
+  ],
+  "puntuacion": 8.195,
+  "sinopsis": "Después de los eventos de \"El Escuadrón Suicida\" (2021) seguimos a Peacemaker, un hombre presumido que cree en la paz a cualquier precio.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "John Cena",
+      "personaje": "Christopher 'Chris' Smith / Peacemaker",
+      "foto": "https://image.tmdb.org/t/p/w500/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+    },
+    {
+      "nombre": "Danielle Brooks",
+      "personaje": "Leota Adebayo",
+      "foto": "https://image.tmdb.org/t/p/w500/hwrMFbcALcqrV7S2pRP9C5BXrU0.jpg"
+    },
+    {
+      "nombre": "Freddie Stroma",
+      "personaje": "Adrian Chase / Vigilante",
+      "foto": "https://image.tmdb.org/t/p/w500/wZ8nqxyGvybdInXLBfQIjg2es5Z.jpg"
+    },
+    {
+      "nombre": "Jennifer Holland",
+      "personaje": "Emilia Harcourt",
+      "foto": "https://image.tmdb.org/t/p/w500/ynuKq1Pd6aVGwhb07uJ0PiYV4F6.jpg"
+    },
+    {
+      "nombre": "Steve Agee",
+      "personaje": "John Economos",
+      "foto": "https://image.tmdb.org/t/p/w500/sbMpatWydjTl2cTcDXFMTgCkEBO.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Carragher",
+      "rol": "Executive Producer's Assistant"
+    },
+    {
+      "nombre": "Macelyn Morris",
+      "rol": "Executive Producer's Assistant"
+    },
+    {
+      "nombre": "Jess Mejia",
+      "rol": "Executive Producer's Assistant"
+    },
+    {
+      "nombre": "Ashley R. Davis",
+      "rol": "Producer's Assistant"
+    },
+    {
+      "nombre": "Isabella Kong",
+      "rol": "Producer's Assistant"
+    },
+    {
+      "nombre": "Florencia Schinoff",
+      "rol": "Producer's Assistant"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nick Nolan",
+      "rol": "Special Effects Technician"
+    },
+    {
+      "nombre": "Jeff Ward",
+      "rol": "Rigging Grip"
+    },
+    {
+      "nombre": "Justin A. WIlson",
+      "rol": "Rigging Grip"
+    },
+    {
+      "nombre": "Stephen Crowley",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Michael K. Davis",
+      "rol": "Best Boy Electric"
+    },
+    {
+      "nombre": "Brandon Lewis",
+      "rol": "First Assistant Accountant"
+    },
+    {
+      "nombre": "Bo Harris",
+      "rol": "Second Assistant Accountant"
+    },
+    {
+      "nombre": "Andrew Phelps",
+      "rol": "Second Assistant Accountant"
+    },
+    {
+      "nombre": "Daphne Gregorius",
+      "rol": "Second Assistant Accountant"
+    },
+    {
+      "nombre": "Mariah Martin",
+      "rol": "Second Assistant Accountant"
+    },
+    {
+      "nombre": "Kathy Lewis",
+      "rol": "Payroll Accountant"
+    },
+    {
+      "nombre": "Kylie Killingsworth",
+      "rol": "Payroll Accountant"
+    },
+    {
+      "nombre": "Tasha Ward",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Emma Wold",
+      "rol": "Casting Assistant"
+    },
+    {
+      "nombre": "Sabrina Carr",
+      "rol": "Casting Assistant"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.195,
+    "imdb": "tt13146488",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC Comics, HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=B1MyxWZzKhk"
+}
