@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 2062,
+  "poster": "https://image.tmdb.org/t/p/w500/nGUelOVetiRpY2wTBMHTbrTIGYC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tlgUHYHaoUS4FRKauBKcLR0DTEb.png",
+  "titulo": "Ratatouille",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.843,
+  "año": "2007",
+  "duracion": "1h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Remy, una simpática rata, sueña en convertirse en un chef que pueda crear sus obras culinarias a su gusto. Pero cuando termina en la alcantarilla debajo de uno de los mejores restaurantes de París, el Roedor Gourmet, se encuentra en el lugar ideal para hacer realidad su sueño.",
+  "fecha_estreno": "2007-06-28",
+  "titulo_original": "Ratatouille",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Patton Oswalt",
+      "personaje": "Remy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+    },
+    {
+      "nombre": "Ian Holm",
+      "personaje": "Skinner (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+    },
+    {
+      "nombre": "Lou Romano",
+      "personaje": "Linguini (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1qOuqRzlp5BghzTkYSN3MsaEXgF.jpg"
+    },
+    {
+      "nombre": "Brian Dennehy",
+      "personaje": "Django (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cg7CwS1vMJXCzZ0FUm4RbrjAJ2t.jpg"
+    },
+    {
+      "nombre": "Peter Sohn",
+      "personaje": "Emile (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8cQGViF2lXlcsAIvFUMWboXYXIu.jpg"
+    },
+    {
+      "nombre": "Peter O'Toole",
+      "personaje": "Anton Ego (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2F15qrkiDp4qhYJnXuFqINIBsHp.jpg"
+    },
+    {
+      "nombre": "Brad Garrett",
+      "personaje": "Gusteau (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+    },
+    {
+      "nombre": "Janeane Garofalo",
+      "personaje": "Colette (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Brad Bird",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bradford Lewis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jan Pinkava",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jim Capobianco",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Brad Bird",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Brad Bird",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Darren T. Holmes",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Harley Jessup",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Michael Giacchino",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Andrew Stanton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stephen King",
+      "rol": "Shading"
+    },
+    {
+      "nombre": "Nick Sung",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Natalie Lyon",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "David Munier",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Kevin Reher",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Paul Cichocki",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Jack Hayes",
+      "rol": "Orchestrator"
+    }
+  ],
+  "director": "Brad Bird",
+  "valoraciones": {
+    "tmdb": 7.843,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pixar",
+  "enlace_video": "https://1a-1791.com/video/s8/2/C/Z/6/E/CZ6Eo.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=NgsQ8mVkN8w"
+}
