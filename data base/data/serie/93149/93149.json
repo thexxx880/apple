@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 93149,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/i5T0izclzzd2PDCOi6WcwohTBfX.png",
+  "titulo": "Plunderer",
+  "titulo_original": "プランダラ",
+  "fecha_estreno": "2020-01-09",
+  "duracion": "23min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Animación"
+  ],
+  "puntuacion": 8.274,
+  "sinopsis": "Año 305 del calendario Alcián, el mundo se encuentra controlado por los «númerps». Cada ser humano que nace es marcado con un «Contador». Este contador puede subir con cualquier acción; ya sea la cantidad de kilómetros recorridos, o si alguna persona dice que se su comida es sabrosa. Pero si su cuenta se reduce a 0, será enviado al abismo. Antes que la cuenta de la madre Hina llegará a 0, su ultima voluntad fue que buscara al Legendario Rey Caído.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "小澤亜李",
+      "personaje": "Linn May (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jrj6cIjnkk1FwJiSLIpGtUf8hWd.jpg"
+    },
+    {
+      "nombre": "中島ヨシキ",
+      "personaje": "Licht Bach (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/izvxmcL0bL5BqpqSdHRuHEPidZ2.jpg"
+    },
+    {
+      "nombre": "市川蒼",
+      "personaje": "Pele (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tM1PwSZlOT23ia4PDKkGHJVBd0T.jpg"
+    },
+    {
+      "nombre": "Shizuka Itoh",
+      "personaje": "Nana (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/n47YvFPlJzl8HnsoDBtM8SUqG8q.jpg"
+    },
+    {
+      "nombre": "本泉莉奈",
+      "personaje": "Hina (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5p8wWjqrBHTkOPC5txO1eUXRBRY.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "篠崎文彦",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "松本英晃",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Akio Kawamoto",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "南沢道義",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "松田啓次",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "有水宗治郎",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "坪井健太",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "野澤圭輔",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "鈴木雅詞",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "福田裕樹",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "倉橋裕宗",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "西片康人",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "池田ひとみ",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "福地友樹",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "えびなやすのり",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "吉武将人",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "高品有桂",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "多田周平",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "篠崎文彦",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "松本英晃",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "平野延平",
+      "rol": "Sound Mixer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.274,
+    "imdb": "tt11418324",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=kbuNKI4SQ0s"
+}
