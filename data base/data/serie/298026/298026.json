@@ -1,0 +1,68 @@
+{
+  "id_tmdb": 298026,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/t1lGQIFl5lAwxJ6yWtuONYJcWFL.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ij9Qsozn2Bc96YtTjzX7ZOwZ9j8.png",
+  "titulo": "放开那个女巫",
+  "titulo_original": "放开那个女巫",
+  "fecha_estreno": "2026-03-03",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "",
+  "pais_origen": "CN",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "陈张太康",
+      "personaje": "Roland Wimbledon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wU0gWYTNIqK37wn2c8VmSlYImSw.jpg"
+    },
+    {
+      "nombre": "乔苏",
+      "personaje": "Anna (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/joz3baiQTwIMy9nqbeG59CkiT2L.jpg"
+    },
+    {
+      "nombre": "郭政建",
+      "personaje": "Barov (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fscl7o3OV5Ik0QHiAHq7D3I5V9U.jpg"
+    },
+    {
+      "nombre": "Lu Lifeng",
+      "personaje": "Carter Lannis (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2hCrnRCp4eAvanaZYIJRKX0e2VG.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sun Meng",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Er Mu",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Sun Meng",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "tt40370555",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=Xr0qtS07Xkk"
+}
