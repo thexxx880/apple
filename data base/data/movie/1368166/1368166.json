@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 1368166,
+  "poster": "https://image.tmdb.org/t/p/w500/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
+  "titulo": "La Empleada",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.263,
+  "año": "2025",
+  "duracion": "2h 11min",
+  "edad_minima": 13,
+  "sinopsis": "Una mujer que atraviesa un momento difícil encuentra una nueva oportunidad al empezar de nuevo como criada para una pareja adinerada.",
+  "fecha_estreno": "2025-12-18",
+  "titulo_original": "The Housemaid",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sydney Sweeney",
+      "personaje": "Millie Calloway",
+      "foto": "https://image.tmdb.org/t/p/w500/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg"
+    },
+    {
+      "nombre": "Amanda Seyfried",
+      "personaje": "Nina Winchester",
+      "foto": "https://image.tmdb.org/t/p/w500/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+    },
+    {
+      "nombre": "Brandon Sklenar",
+      "personaje": "Andrew Winchester",
+      "foto": "https://image.tmdb.org/t/p/w500/juLH1EhkY1Xx9Zai2H4icvfn4pD.jpg"
+    },
+    {
+      "nombre": "Michele Morrone",
+      "personaje": "Enzo",
+      "foto": "https://image.tmdb.org/t/p/w500/cOWSjiG2CI2PiCx69bCJiQVHyrD.jpg"
+    },
+    {
+      "nombre": "Indiana Elle",
+      "personaje": "Cece Winchester",
+      "foto": "https://image.tmdb.org/t/p/w500/d9Bk6BWiPmWIx1Ssx36GqReFjQJ.jpg"
+    },
+    {
+      "nombre": "Elizabeth Perkins",
+      "personaje": "Mrs. Winchester",
+      "foto": "https://image.tmdb.org/t/p/w500/vTWYllD9V76rgv9XAbtkkjjeunG.jpg"
+    },
+    {
+      "nombre": "Amanda Joy Erickson",
+      "personaje": "Suzanne",
+      "foto": "https://image.tmdb.org/t/p/w500/3BieG0s7lddZr8wsNF6Rwfrz9Tm.jpg"
+    },
+    {
+      "nombre": "Sarah Cooper",
+      "personaje": "Pam",
+      "foto": "https://image.tmdb.org/t/p/w500/85Ys0z9F6LCi0ZloiW2X6WHbZ1i.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Paul Feig",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rebecca Sonnenshine",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Paul Feig",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Todd Lieberman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Laura Allen Fischer",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sydney Sweeney",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amanda Seyfried",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Freida McFadden",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Renee Ehrlich Kalfus",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Stephanie Pasicov",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Paige Mitchell",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Theodore Shapiro",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John Schwartzman",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Tony Lamberti",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Brent White",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jennifer Booth",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christopher Woodrow",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Paul Feig",
+  "valoraciones": {
+    "tmdb": 7.263,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lionsgate",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/98/s8/2/0/k/9/1/0k91z.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=BqWH0KDqm3U"
+}
