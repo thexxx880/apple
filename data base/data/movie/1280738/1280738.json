@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1280738,
+  "poster": "https://image.tmdb.org/t/p/w500/ryOVzYoGhiOn4QtkwSa8pUTivPO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/msFWTNrFwfjsHKnMxDUexR9uofh.png",
+  "titulo": "The Furious",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.7,
+  "año": "2026",
+  "duracion": "1h 53min",
+  "edad_minima": 13,
+  "sinopsis": "Tras el secuestro de su hija y atrapado en una red de corrupción policial, un padre desesperado se une a un astuto periodista para tomar la justicia por sus propias manos. En un territorio hostil dominado por mafias, su única opción para rescatar a quienes aman será desatar una guerra sin cuartel a puño limpio.",
+  "fecha_estreno": "2026-06-10",
+  "titulo_original": "火遮眼",
+  "pais_origen": "Hong Kong",
+  "reparto": [
+    {
+      "nombre": "谢苗",
+      "personaje": "Wang Wei",
+      "foto": "https://image.tmdb.org/t/p/w500/xdXmp28jBrv0r9FwLEKYTC36dnM.jpg"
+    },
+    {
+      "nombre": "Joe Taslim",
+      "personaje": "Navin",
+      "foto": "https://image.tmdb.org/t/p/w500/bk2j6Oa8T02KtvpD4qOXXGJe4Vy.jpg"
+    },
+    {
+      "nombre": "杨恩又",
+      "personaje": "Rainy",
+      "foto": "https://image.tmdb.org/t/p/w500/dlQ4aZ418hBtDkEP58qMKBjRf0a.jpg"
+    },
+    {
+      "nombre": "Yayan Ruhian",
+      "personaje": "Tak",
+      "foto": "https://image.tmdb.org/t/p/w500/y8ZLh6FZMuLFw8PhqDxcEsyozjJ.jpg"
+    },
+    {
+      "nombre": "ฉันทธนิสา ตัง",
+      "personaje": "Matia",
+      "foto": "https://image.tmdb.org/t/p/w500/73xhAKFbeNSlJTwUCsQCAtryLYS.jpg"
+    },
+    {
+      "nombre": "Brian Le",
+      "personaje": "Ho",
+      "foto": "https://image.tmdb.org/t/p/w500/cdtKmPpmBrnVAiqFQVE4urxu0ko.jpg"
+    },
+    {
+      "nombre": "岩永ジョーイ",
+      "personaje": "Pak Lung",
+      "foto": "https://image.tmdb.org/t/p/w500/iwZXKVNZioAZaej7wUbOeYx1uLd.jpg"
+    },
+    {
+      "nombre": "สหจักร บุญธนกิจ",
+      "personaje": "Mr. Song",
+      "foto": "https://image.tmdb.org/t/p/w500/a36MI02S0f11bJZjBoxkZTsUDAK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "許學文",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "譚芷珊",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "江志強",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "谷垣健治",
+      "rol": "Director"
+    },
+    {
+      "nombre": "岑君茜",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "許學文",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "麥天樞",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "雷志龙",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Todd Brown",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aram Tertzakian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Tonick",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "梁皓一",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "莫曉霖",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Hideo Mori",
+      "rol": "VFX Supervisor"
+    },
+    {
+      "nombre": "Wang Xiqing",
+      "rol": "VFX Supervisor"
+    },
+    {
+      "nombre": "Dammaros Sukhaboon",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "Pongnarin Jonghawklang",
+      "rol": "Production Designer"
+    },
+    {
+      "nombre": "園村健介",
+      "rol": "Action Director"
+    },
+    {
+      "nombre": "奚仲文",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "張宇瀚",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "谷垣健治",
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Edko Films",
+  "enlace_video": "https://streamwish.to/e/0xjynlppah1p",
+  "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI"
+}
