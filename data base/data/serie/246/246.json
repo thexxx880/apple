@@ -1,0 +1,101 @@
+{
+  "id_tmdb": 246,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ucNtkZfpZ6KgxqPo039nN4LAyFR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kU98MbVVgi72wzceyrEbClZmMFe.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/zZULOJwwhbVEJIU2KMZCMIKM98B.png",
+  "titulo": "Avatar: La leyenda de Aang",
+  "titulo_original": "Avatar: The Last Airbender",
+  "fecha_estreno": "2005-02-21",
+  "duracion": "24min",
+  "año": "2005",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.771,
+  "sinopsis": "El mundo está dividido en cuatro naciones, correspondientes a los cuatro elementos: La Tribu del Agua, El Reino de la Tierra, la Nación del Fuego y los Nómadas del Aire. En cada nación hay una notable orden llamada de los \"Maestros\" que aprenden a potenciar su talento nato y manipular su elemento nativo, combinando artes marciales y magia elemental. En cada generación, sólo un Maestro es capaz de controlar los cuatro elementos, y recibe el nombre de Avatar, el espíritu del mundo manifestado en forma humana, capaz de mantener la armonía de las cuatro naciones.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Zach Tyler Eisen",
+      "personaje": "Aang (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ifHd2Yoovlvu6FFEIxUsXVyrYUf.jpg"
+    },
+    {
+      "nombre": "Mae Whitman",
+      "personaje": "Katara (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oy89WyETM8T3Z4aRJb2EnmqZ7A3.jpg"
+    },
+    {
+      "nombre": "Jack De Sena",
+      "personaje": "Sokka (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/i9VlMsPol6XIicnRZRiwmYSyE4P.jpg"
+    },
+    {
+      "nombre": "Dante Basco",
+      "personaje": "Zuko (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2bfQho7MEo4wAQTmC687FkXUoKU.jpg"
+    },
+    {
+      "nombre": "Michaela Jill Murphy",
+      "personaje": "Toph Beifong (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4ghTS2mkdfHt4vNHIzDIyU1mVxT.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Aaron Ehasz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Dante DiMartino",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bryan Konietzko",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dao Le",
+      "rol": "Editorial Manager"
+    },
+    {
+      "nombre": "Heiko von Drengenberg",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Aaron Ehasz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Dante DiMartino",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bryan Konietzko",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeremy Zuckerman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Benjamin Wynn",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.771,
+    "imdb": "tt0417299",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime, Nickelodeon",
+  "trailer": "https://www.youtube.com/watch?v=UMtAbnhBlsg"
+}
