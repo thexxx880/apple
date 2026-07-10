@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 829280,
+  "poster": "https://image.tmdb.org/t/p/w500/hulB3uxIRzerZfjwXdKSKVn2orV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/n2OaA7Je0fgcVnfJM7xDJoPny7x.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iBZmFkIwDMupJT2pTDEYcUn2og5.png",
+  "titulo": "Enola Holmes 2",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Misterio",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.413,
+  "año": "2022",
+  "duracion": "2h 9min",
+  "edad_minima": 13,
+  "sinopsis": "Enola acepta su primer caso oficial como detective, pero necesitará la ayuda de sus amigos —y a su hermano Sherlock— para resolver el misterio.",
+  "fecha_estreno": "2022-11-03",
+  "titulo_original": "Enola Holmes 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Millie Bobby Brown",
+      "personaje": "Enola Holmes",
+      "foto": "https://image.tmdb.org/t/p/w500/k9KGzGDVhXKfOGpoN62MNuXL28q.jpg"
+    },
+    {
+      "nombre": "Henry Cavill",
+      "personaje": "Sherlock Holmes",
+      "foto": "https://image.tmdb.org/t/p/w500/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+    },
+    {
+      "nombre": "David Thewlis",
+      "personaje": "Grail",
+      "foto": "https://image.tmdb.org/t/p/w500/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+    },
+    {
+      "nombre": "Louis Partridge",
+      "personaje": "Tewkesbury",
+      "foto": "https://image.tmdb.org/t/p/w500/Q6X8fZQchv1gWjI9pWU58yZ0wb.jpg"
+    },
+    {
+      "nombre": "Susan Wokoma",
+      "personaje": "Edith",
+      "foto": "https://image.tmdb.org/t/p/w500/puEiaNQZyG2gGfIZCyexbtrcv1F.jpg"
+    },
+    {
+      "nombre": "Adeel Akhtar",
+      "personaje": "Lestrade",
+      "foto": "https://image.tmdb.org/t/p/w500/z1FSCVRLYP5FmHloQ2V9RGC3YYY.jpg"
+    },
+    {
+      "nombre": "Sharon Duncan-Brewster",
+      "personaje": "Mira Troy",
+      "foto": "https://image.tmdb.org/t/p/w500/gp5h6rOrqBrIGgID4AMd58O6Ow6.jpg"
+    },
+    {
+      "nombre": "Helena Bonham Carter",
+      "personaje": "Eudoria Holmes",
+      "foto": "https://image.tmdb.org/t/p/w500/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Harry Bradbeer",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mary Parent",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Millie Bobby Brown",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ali Mendes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Garcia",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Brown",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jack Thorne",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jack Thorne",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jack Thorne",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joshua Grode",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Harry Bradbeer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lucy Allen",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kate Suzanne Hunter",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "James Grant",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Zoe Liang",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Andreya Lynham",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Mike Foyle",
+      "rol": "Drone Pilot"
+    },
+    {
+      "nombre": "Orla Maxwell",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "James Lewis",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Kat Ali",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Harry Bradbeer",
+  "valoraciones": {
+    "tmdb": 7.413,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Legendary Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/82/s8/2/C/Y/c/R/CYcRz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=0DIftINqIjo"
+}
