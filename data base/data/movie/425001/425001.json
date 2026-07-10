@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 425001,
+  "poster": "https://image.tmdb.org/t/p/w500/aVtfWL4VSWvaVanw3FrIsMghFTM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/a9jZrU7LJk6mAUjmkbEmTiC52l0.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kafgHvVIx5J4vzqXWivD6BN1JJ7.png",
+  "titulo": "En guerra con mi abuelo",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.437,
+  "año": "2020",
+  "duracion": "1h 38min",
+  "edad_minima": 13,
+  "sinopsis": "Peter está encantado de que su abuelo venga a vivir con su familia. Eso es, hasta que el abuelo se muda a la habitación de Peter, obligándolo a subir al escalofriante ático. Y aunque ama a su abuelo, quiere recuperar su habitación, por lo que no tiene más remedio que declarar la guerra.",
+  "fecha_estreno": "2020-08-27",
+  "titulo_original": "The War with Grandpa",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Robert De Niro",
+      "personaje": "Ed",
+      "foto": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "nombre": "Uma Thurman",
+      "personaje": "Sally",
+      "foto": "https://image.tmdb.org/t/p/w500/hlYG0MC6im0MHNq1xixxVilfwyR.jpg"
+    },
+    {
+      "nombre": "Rob Riggle",
+      "personaje": "Arthur",
+      "foto": "https://image.tmdb.org/t/p/w500/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
+    },
+    {
+      "nombre": "Oakes Fegley",
+      "personaje": "Peter",
+      "foto": "https://image.tmdb.org/t/p/w500/jDiuzOh12xmrkwtnZWBPEEjpNva.jpg"
+    },
+    {
+      "nombre": "Laura Marano",
+      "personaje": "Mia",
+      "foto": "https://image.tmdb.org/t/p/w500/fpW1Swq6BfAoAw88ZhKf1pssu30.jpg"
+    },
+    {
+      "nombre": "Cheech Marin",
+      "personaje": "Danny",
+      "foto": "https://image.tmdb.org/t/p/w500/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg"
+    },
+    {
+      "nombre": "Jane Seymour",
+      "personaje": "Diane",
+      "foto": "https://image.tmdb.org/t/p/w500/4crZXhSXSeAiwZDZyjfQ9dMgbj0.jpg"
+    },
+    {
+      "nombre": "Christopher Walken",
+      "personaje": "Jerry",
+      "foto": "https://image.tmdb.org/t/p/w500/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tim Hill",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tom J. Astle",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Rosa Morris-Peart",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Ember",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Phillip Glasser",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marvin Peart",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bill O'Drobinak",
+      "rol": "\"A\" Camera Operator"
+    },
+    {
+      "nombre": "Ryan Weisen",
+      "rol": "First Assistant \"B\" Camera"
+    },
+    {
+      "nombre": "Rodrigue Gomes",
+      "rol": "Second Assistant \"A\" Camera"
+    },
+    {
+      "nombre": "Fred Thomas",
+      "rol": "First Assistant \"A\" Camera"
+    },
+    {
+      "nombre": "Tim Fabrizio",
+      "rol": "Steadicam Operator"
+    },
+    {
+      "nombre": "Ben Rothstein",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "Tim Fabrizio",
+      "rol": "\"B\" Camera Operator"
+    },
+    {
+      "nombre": "Scott Forte",
+      "rol": "Second Assistant \"B\" Camera"
+    },
+    {
+      "nombre": "Randall Emmett",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Camden Haydon",
+      "rol": "Stand In"
+    },
+    {
+      "nombre": "Rick Avery",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Sonny Schwartz",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Tim Hill",
+  "valoraciones": {
+    "tmdb": 6.437,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marro Films",
+  "enlace_video": "https://doodstream.com/e/mw2bxin88sne",
+  "trailer": "https://www.youtube.com/watch?v=U18vQk1n4tg"
+}
