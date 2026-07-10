@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 497582,
+  "poster": "https://image.tmdb.org/t/p/w500/8STWO9pUTqubPV04iXZ2R6SClME.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tq4PQYmth5PMId45vXr8QlEKfdB.png",
+  "titulo": "Enola Holmes",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Misterio",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.226,
+  "año": "2020",
+  "duracion": "2h 3min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando su madre desaparece, la joven Enola descubre que sus hermanos, Sherlock y Mycroft, no son de gran ayuda. Pero ella es una auténtica Holmes y resolverá el caso.",
+  "fecha_estreno": "2020-09-22",
+  "titulo_original": "Enola Holmes",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Millie Bobby Brown",
+      "personaje": "Enola Holmes",
+      "foto": "https://image.tmdb.org/t/p/w500/k9KGzGDVhXKfOGpoN62MNuXL28q.jpg"
+    },
+    {
+      "nombre": "Henry Cavill",
+      "personaje": "Sherlock Holmes",
+      "foto": "https://image.tmdb.org/t/p/w500/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+    },
+    {
+      "nombre": "Sam Claflin",
+      "personaje": "Mycroft Holmes",
+      "foto": "https://image.tmdb.org/t/p/w500/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+    },
+    {
+      "nombre": "Helena Bonham Carter",
+      "personaje": "Eudoria Holmes",
+      "foto": "https://image.tmdb.org/t/p/w500/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "nombre": "Louis Partridge",
+      "personaje": "Tewkesbury",
+      "foto": "https://image.tmdb.org/t/p/w500/Q6X8fZQchv1gWjI9pWU58yZ0wb.jpg"
+    },
+    {
+      "nombre": "Adeel Akhtar",
+      "personaje": "Lestrade",
+      "foto": "https://image.tmdb.org/t/p/w500/z1FSCVRLYP5FmHloQ2V9RGC3YYY.jpg"
+    },
+    {
+      "nombre": "Fiona Shaw",
+      "personaje": "Miss Harrison",
+      "foto": "https://image.tmdb.org/t/p/w500/8X7fZybxtwh2nTvYk6kjRYo9RIY.jpg"
+    },
+    {
+      "nombre": "Frances de la Tour",
+      "personaje": "The Dowager",
+      "foto": "https://image.tmdb.org/t/p/w500/aDSge7DWhUyMyA0rEXEZpGiZzGO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Millie Bobby Brown",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jack Thorne",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Harry Bradbeer",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paige Brown",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ali Mendes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mary Parent",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Garcia",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Matt Curtis",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "Tom Hannibal",
+      "rol": "Visual Effects Editor"
+    },
+    {
+      "nombre": "Pratik Chaudhari",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Markus Andreas",
+      "rol": "Sound Assistant"
+    },
+    {
+      "nombre": "Arthur Conan Doyle",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Michael Carlin",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Consolata Boyle",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jina Jay",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Michael Dreyer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adam Bosman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Daniel Pemberton",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Joe Barlow",
+      "rol": "Second Assistant Director"
+    }
+  ],
+  "director": "Harry Bradbeer",
+  "valoraciones": {
+    "tmdb": 7.226,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "PCMA Productions",
+  "enlace_video": "https://1a-1791.com/video/fwe2/4a/s8/2/2/n/c/R/2ncRz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=UqGZreSFd4g"
+}
