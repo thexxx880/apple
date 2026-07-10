@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1202033,
+  "poster": "https://image.tmdb.org/t/p/w500/yUoiUOZWayJIz5I2LEtGzUnWidu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ytsFKwPHUYM3Tzce9vZFGAI95V.png",
+  "titulo": "Enola Holmes 3",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Crimen",
+    "Misterio"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.03,
+  "año": "2026",
+  "duracion": "1h 49min",
+  "edad_minima": 13,
+  "sinopsis": "La aventura sigue a la detective Enola Holmes hasta Malta, donde sus planes de matrimonio se desmoronan cuando la desaparición de Sherlock la sumerge en un peligroso caso.",
+  "fecha_estreno": "2026-06-30",
+  "titulo_original": "Enola Holmes 3",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Millie Bobby Brown",
+      "personaje": "Enola Holmes",
+      "foto": "https://image.tmdb.org/t/p/w500/k9KGzGDVhXKfOGpoN62MNuXL28q.jpg"
+    },
+    {
+      "nombre": "Henry Cavill",
+      "personaje": "Sherlock Holmes",
+      "foto": "https://image.tmdb.org/t/p/w500/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+    },
+    {
+      "nombre": "Helena Bonham Carter",
+      "personaje": "Eudoria Holmes",
+      "foto": "https://image.tmdb.org/t/p/w500/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "nombre": "Louis Partridge",
+      "personaje": "Tewkesbury",
+      "foto": "https://image.tmdb.org/t/p/w500/Q6X8fZQchv1gWjI9pWU58yZ0wb.jpg"
+    },
+    {
+      "nombre": "Himesh Patel",
+      "personaje": "Dr. Watson",
+      "foto": "https://image.tmdb.org/t/p/w500/qCjfMjUxiAHdVpIMI9YN5MUdn24.jpg"
+    },
+    {
+      "nombre": "Sharon Duncan-Brewster",
+      "personaje": "Moriarty",
+      "foto": "https://image.tmdb.org/t/p/w500/gp5h6rOrqBrIGgID4AMd58O6Ow6.jpg"
+    },
+    {
+      "nombre": "Hattie Morahan",
+      "personaje": "Lady Tewkesbury",
+      "foto": "https://image.tmdb.org/t/p/w500/itM1ugVgSCKpIvnUVORyKNUbWe7.jpg"
+    },
+    {
+      "nombre": "Susan Wokoma",
+      "personaje": "Edith",
+      "foto": "https://image.tmdb.org/t/p/w500/puEiaNQZyG2gGfIZCyexbtrcv1F.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Millie Bobby Brown",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Philip Barantini",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mary Parent",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ali Mendes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Garcia",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Brown",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Dreyer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jack Thorne",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Arthur Conan Doyle",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jake Bongiovi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Isobel Richards",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew Lewis",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Gary Williamson",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Consolata Boyle",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Sarah Lucas",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Bobbie Edwards",
+      "rol": "Assistant Costume Designer"
+    },
+    {
+      "nombre": "James O'Donnell",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Sam Rook",
+      "rol": "Second Unit First Assistant Director"
+    },
+    {
+      "nombre": "James O'Donnell",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Laura Swift",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Philip Barantini",
+  "valoraciones": {
+    "tmdb": 7.03,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Legendary Pictures",
+  "enlace_video": "https://vimeos.net/embed-4ukinf9pc8un.html",
+  "trailer": "https://www.youtube.com/watch?v=Vkpo-9Zt9DY"
+}
