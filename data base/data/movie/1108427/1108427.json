@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 1108427,
+  "poster": "https://image.tmdb.org/t/p/w500/iq7yh7zOLGLp4TGNCYmd29FVy8H.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ltaMOWWmKx34SHRhPdiwrosdnmo.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mNRwQCJMmDUjBZaZcqhwy6WTBA7.png",
+  "titulo": "Moana",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Fantasía",
+    "Comedia",
+    "Aventura"
+  ],
+  "calificacion": "A",
+  "puntuacion": 5.2,
+  "año": "2026",
+  "duracion": "1h 55min",
+  "edad_minima": 13,
+  "sinopsis": "Moana que quiere ser una viajera marinera. Cuando su isla natal se ve amenazada, Moana debe adentrarse en el mar junto a un semidiós llamado Maui para salvar a su pueblo.",
+  "fecha_estreno": "2026-07-08",
+  "titulo_original": "Moana",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Catherine Lagaʻaia",
+      "personaje": "Moana",
+      "foto": "https://image.tmdb.org/t/p/w500/2KRIRDwy1CtY7Bge3aqVZrORelc.jpg"
+    },
+    {
+      "nombre": "Dwayne Johnson",
+      "personaje": "Maui",
+      "foto": "https://image.tmdb.org/t/p/w500/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+    },
+    {
+      "nombre": "John Tui",
+      "personaje": "Chief Tui",
+      "foto": "https://image.tmdb.org/t/p/w500/2jIc9M5kl2GmK8fZtbtUr2s1jkS.jpg"
+    },
+    {
+      "nombre": "Frankie Adams",
+      "personaje": "Sina",
+      "foto": "https://image.tmdb.org/t/p/w500/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
+    },
+    {
+      "nombre": "Rena Owen",
+      "personaje": "Gramma Tala",
+      "foto": "https://image.tmdb.org/t/p/w500/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg"
+    },
+    {
+      "nombre": "Jemaine Clement",
+      "personaje": "Tamatoa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+    },
+    {
+      "nombre": "Amaya Masoli",
+      "personaje": "Moana (8 years old)",
+      "foto": null
+    },
+    {
+      "nombre": "Emma Puahi-Shapazian",
+      "personaje": "Moana (4 years old)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Beau Flynn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hiram Garcia",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dany Garcia",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dwayne Johnson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Thomas Kail",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lin-Manuel Miranda",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jared Bush",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Dana Ledoux Miller",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alan Hook",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Auliʻi Cravalho",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Sheldon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Óscar Faura",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Renee Ramos",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Dawn Turner",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Page Rosenberg-Marvin",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Bill Westenhofer",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Dylan Goss",
+      "rol": "Aerial Director of Photography"
+    },
+    {
+      "nombre": "Mark Mancina",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Michael Gowen",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jay Pelissier",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Thomas Kail",
+  "valoraciones": {
+    "tmdb": 5.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://1a-1791.com/video/fwe2/7b/s8/2/W/K/a/F/WKaFA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3249221120-3249285576",
+  "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI"
+}
