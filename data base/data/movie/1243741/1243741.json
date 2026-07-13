@@ -1,0 +1,124 @@
+{
+  "id_tmdb": 1243741,
+  "poster": "https://image.tmdb.org/t/p/w500/f8GUHZjNPSGLjUhi7HzVn9541bY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hC11CgiCUdpCwG1I6dSY18nJXrP.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/cMyfMxHubGdKk8tQhxNSwLGRabE.png",
+  "titulo": "Balística",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.076,
+  "año": "2026",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Una madre desconsolada que trabaja en una fábrica de municiones descubre que la bala que mató a su hijo en Afganistán fue fabricada en su propia línea de montaje. Decidida a encontrar respuestas, se embarca en una peligrosa búsqueda de la verdad que la llevará a enfrentarse a la misma industria para la que trabaja y a los secretos detrás de la muerte de su hijo.",
+  "fecha_estreno": "2026-04-17",
+  "titulo_original": "Ballistic",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Lena Headey",
+      "personaje": "Nance Redfield",
+      "foto": "https://image.tmdb.org/t/p/w500/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+    },
+    {
+      "nombre": "Hamza Haq",
+      "personaje": "Kahlil Nabizada",
+      "foto": "https://image.tmdb.org/t/p/w500/mVgpYlzmBICBUh2YBxX3SFpwfis.jpg"
+    },
+    {
+      "nombre": "Amybeth McNulty",
+      "personaje": "Diana",
+      "foto": "https://image.tmdb.org/t/p/w500/kp8cqxIFdAThkdoNU0qpCZsokqO.jpg"
+    },
+    {
+      "nombre": "Jordan Kronis",
+      "personaje": "Jesse Redfield",
+      "foto": "https://image.tmdb.org/t/p/w500/c2JAnqeG6IYuSMBrCQjV6M2OIUO.jpg"
+    },
+    {
+      "nombre": "Enrico Colantoni",
+      "personaje": "Rick Barber",
+      "foto": "https://image.tmdb.org/t/p/w500/yxxy8IrGRwnRPbLmgyfwF26Feve.jpg"
+    },
+    {
+      "nombre": "Amanda Brugel",
+      "personaje": "Galindo",
+      "foto": "https://image.tmdb.org/t/p/w500/3W1RR8CzP5uk6sFt92i1QyjGLRT.jpg"
+    },
+    {
+      "nombre": "Chad Faust",
+      "personaje": "SSG Buchanan",
+      "foto": "https://image.tmdb.org/t/p/w500/9Yy0UOpLVrzLg5u5Gi60R3nJ364.jpg"
+    },
+    {
+      "nombre": "Paolo Mancini",
+      "personaje": "Larry Labtech",
+      "foto": "https://image.tmdb.org/t/p/w500/9vX2DsNs4ZOit9Qb0boTnRnwIAe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chad Faust",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Thomas Michael",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chad Faust",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lee Nelson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Tish",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lee Nelson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Roman Kopelevich",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Tish",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Crystal Hill",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kristofer Bonnell",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Melissa A. Smith",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Dillon Baldassero",
+      "rol": "Music"
+    }
+  ],
+  "director": "Chad Faust",
+  "valoraciones": {
+    "tmdb": 6.076,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fella Films",
+  "enlace_video": "https://streamwish.to/e/uo4xm7zooq6v",
+  "trailer": "https://www.youtube.com/watch?v=bxvgiEFR774"
+}
