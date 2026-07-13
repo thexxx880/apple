@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 1318413,
+  "poster": "https://image.tmdb.org/t/p/w500/d0PeqfICHgKnQ2f8YxyRJAg62fK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xzFa7uNLuqJUfS4uj4caslXjMvK.png",
+  "titulo": "El Día D: Bajo presión",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Historia",
+    "Bélica"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.54,
+  "año": "2026",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Bajo presión sigue al general Dwight D. Eisenhower y al capitán James Stagg mientras enfrentan una decisión imposible: lanzar la invasión marítima más grande y peligrosa de la historia o arriesgarse a perder la guerra por completo.",
+  "fecha_estreno": "2026-05-25",
+  "titulo_original": "Pressure",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Andrew Scott",
+      "personaje": "James Stagg",
+      "foto": "https://image.tmdb.org/t/p/w500/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg"
+    },
+    {
+      "nombre": "Brendan Fraser",
+      "personaje": "Dwight ‘Ike’ Eisenhower",
+      "foto": "https://image.tmdb.org/t/p/w500/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    },
+    {
+      "nombre": "Kerry Condon",
+      "personaje": "Kay Summersby",
+      "foto": "https://image.tmdb.org/t/p/w500/8RO25vJxQSoNdhsVbiAHOsiGfvl.jpg"
+    },
+    {
+      "nombre": "Chris Messina",
+      "personaje": "Irving Krick",
+      "foto": "https://image.tmdb.org/t/p/w500/obyonPOX5NLUT2fx40C8cHvvqM3.jpg"
+    },
+    {
+      "nombre": "Damian Lewis",
+      "personaje": "Bernard ‘Monty’ Montgomery",
+      "foto": "https://image.tmdb.org/t/p/w500/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
+    },
+    {
+      "nombre": "Tamsin Topolski",
+      "personaje": "Liz Stagg",
+      "foto": "https://image.tmdb.org/t/p/w500/fsOY0Fe3KX8zseeaYjzOy5htLUl.jpg"
+    },
+    {
+      "nombre": "Jojo Macari",
+      "personaje": "Andrew Carter",
+      "foto": "https://image.tmdb.org/t/p/w500/fYv8j4AA3wzJzqHPRXKBcLVH0cq.jpg"
+    },
+    {
+      "nombre": "Con O'Neill",
+      "personaje": "Air Marshal Leigh-Mallory",
+      "foto": "https://image.tmdb.org/t/p/w500/7Fnj1dB9kStTuy29eEVK4IuOxWO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Anthony Maras",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tim Bevan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eric Fellner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cass Marks",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lucas Webb",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Haig",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Anthony Maras",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Haig",
+      "rol": "Theatre Play"
+    },
+    {
+      "nombre": "Jamie D. Ramsay",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Liza Bracey",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Daniel Taylor",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Joe Naftalin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alexandre de Franceschi",
+      "rol": "Co-Editor"
+    },
+    {
+      "nombre": "Lucy Bevan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Emily Brockmann",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Amber King",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Lotty Sanna",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "George Every",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Jamie D. Allen",
+      "rol": "Second Assistant Director"
+    }
+  ],
+  "director": "Anthony Maras",
+  "valoraciones": {
+    "tmdb": 7.54,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Working Title Films",
+  "enlace_video": "https://streamwish.to/e/rzizqd3ikyco",
+  "trailer": "https://www.youtube.com/watch?v=EBh1LGRwiis"
+}
