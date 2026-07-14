@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 840464,
+  "poster": "https://image.tmdb.org/t/p/w500/uoFJ6nGGvf8moZGpharm8Qyrpzm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cLFbDVfhllIMybpo2fkGNzehiQG.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/t3HNUHHAMK2GTNWfqjgxKR38Tjh.png",
+  "titulo": "El día del fin del mundo: Migración",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.451,
+  "año": "2026",
+  "duracion": "1h 38min",
+  "edad_minima": 13,
+  "sinopsis": "La familia Garrity debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
+  "fecha_estreno": "2026-01-07",
+  "titulo_original": "Greenland 2: Migration",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Gerard Butler",
+      "personaje": "John Garrity",
+      "foto": "https://image.tmdb.org/t/p/w500/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+    },
+    {
+      "nombre": "Morena Baccarin",
+      "personaje": "Allison Garrity",
+      "foto": "https://image.tmdb.org/t/p/w500/4gyHyg6FJ1oFczOm5pmMkdEEo2J.jpg"
+    },
+    {
+      "nombre": "Roman Griffin Davis",
+      "personaje": "Nathan Garrity",
+      "foto": "https://image.tmdb.org/t/p/w500/jEox6Bq4TlINrnp5EUjqSlDK3eP.jpg"
+    },
+    {
+      "nombre": "Tommie Earl Jenkins",
+      "personaje": "General Sharpe",
+      "foto": "https://image.tmdb.org/t/p/w500/6eFBQr5dBHp7KGm4evTENGUHvOT.jpg"
+    },
+    {
+      "nombre": "Trond Fausa Aurvåg",
+      "personaje": "Adam Shaw",
+      "foto": "https://image.tmdb.org/t/p/w500/rFWC22ZScaQwA85NBo7l1j9XQdo.jpg"
+    },
+    {
+      "nombre": "Amber Rose Revah",
+      "personaje": "Dr Casey Amina",
+      "foto": "https://image.tmdb.org/t/p/w500/cThPovs1j59Vs5iejgLqUZRBchv.jpg"
+    },
+    {
+      "nombre": "Gina Gangar",
+      "personaje": "Elizabeth Price",
+      "foto": "https://image.tmdb.org/t/p/w500/kXKKYAUqhcG49tNt7lcUMC2xne7.jpg"
+    },
+    {
+      "nombre": "Antonio De Lima",
+      "personaje": "Charles Williams",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ric Roman Waugh",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chris Sparling",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Basil Iwanyk",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brendon Boyea",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gerard Butler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alan Siegel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sebastien Raybaud",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Zois",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marc Massicotte",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Josh Dyer",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Bogdan Kumšackij",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Martin Ahlgren",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Eric Freidenberg",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Vincent Reynaud",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Chris Sparling",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Luke Tumber",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Christopher Knight",
+      "rol": "Drone Pilot"
+    },
+    {
+      "nombre": "Hannah Grant",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Max Lipscombe",
+      "rol": "Second Assistant Sound"
+    },
+    {
+      "nombre": "Tina Jones",
+      "rol": "Set Decoration"
+    }
+  ],
+  "director": "Ric Roman Waugh",
+  "valoraciones": {
+    "tmdb": 6.451,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "STXfilms",
+  "enlace_video": "https://vimeos.net/embed-7ntqznsbfu2j.html",
+  "trailer": "https://www.youtube.com/watch?v=hiD3zk0ZRFg"
+}
