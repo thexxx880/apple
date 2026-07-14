@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 45612,
+  "poster": "https://image.tmdb.org/t/p/w500/aBJq3ZFHgZsZzmUjiHHuZzWew1D.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/s2Cu1y9Al9RbwRU5blAH8wMCrBI.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/w1x9C35Yv8AzO1D2cSrihWaB5Pt.png",
+  "titulo": "8 Minutos antes de morir",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Ciencia ficción",
+    "Misterio"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.314,
+  "año": "2011",
+  "duracion": "1h 27min",
+  "edad_minima": 13,
+  "sinopsis": "El capitán Colter Stevens (Gyllenhaal), que participa en un programa experimental del gobierno para investigar un atentado terrorista, se despierta en la piel de un viajero del tiempo cuya misión es vivir una y otra vez el atentado a un tren hasta que consiga averiguar quién es el culpable. Una oficial de comunicaciones (Farmiga) guiará a Stevens en su viaje a través del tiempo. En el tren el joven conoce a una viajera (Monaghan) por la que se sentirá atraído.",
+  "fecha_estreno": "2011-03-30",
+  "titulo_original": "Source Code",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jake Gyllenhaal",
+      "personaje": "Colter Stevens",
+      "foto": "https://image.tmdb.org/t/p/w500/j2Yahha9C0zN5DRaTDzYA7WtdOT.jpg"
+    },
+    {
+      "nombre": "Michelle Monaghan",
+      "personaje": "Christina Warren",
+      "foto": "https://image.tmdb.org/t/p/w500/xpNSu7oCD81L3YxcVhqhInyI5JR.jpg"
+    },
+    {
+      "nombre": "Vera Farmiga",
+      "personaje": "Colleen Goodwin",
+      "foto": "https://image.tmdb.org/t/p/w500/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+    },
+    {
+      "nombre": "Jeffrey Wright",
+      "personaje": "Dr. Rutledge",
+      "foto": "https://image.tmdb.org/t/p/w500/quunS3w4QtALMDnvA0y81Y2pO9N.jpg"
+    },
+    {
+      "nombre": "Michael Arden",
+      "personaje": "Derek Frost",
+      "foto": "https://image.tmdb.org/t/p/w500/tdrCDSuIBWNazW7wY8I2Cej0ChR.jpg"
+    },
+    {
+      "nombre": "Cas Anvar",
+      "personaje": "Hazmi",
+      "foto": "https://image.tmdb.org/t/p/w500/ohEulMvF1Ji2osI3aSBVGb5FFUb.jpg"
+    },
+    {
+      "nombre": "Russell Peters",
+      "personaje": "Max Denoff",
+      "foto": "https://image.tmdb.org/t/p/w500/x0o1NclxcwvvliVR95NKjgMDwD7.jpg"
+    },
+    {
+      "nombre": "Brent Skagford",
+      "personaje": "George Troxel",
+      "foto": "https://image.tmdb.org/t/p/w500/zyqBiHqsd7JnrHTPw3vCWHipIff.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Duncan Jones",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ben Ripley",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Philippe Rousselet",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jordan Wynn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Gordon",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Paul Hirsch",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jeb Brody",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Fabrice Gianfermi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hawk Koch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Bacon",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Don Burgess",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Suzanne Cloutier",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Tom Bellfort",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "John Papsidera",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Renée April",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Barry Chusid",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Blanche Boileau",
+      "rol": "Costume Supervisor"
+    }
+  ],
+  "director": "Duncan Jones",
+  "valoraciones": {
+    "tmdb": 7.314,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Mark Gordon Company",
+  "enlace_video": "https://vimeos.net/embed-gwoq9bnpr8wa.html",
+  "trailer": "https://www.youtube.com/watch?v=0dafmG_c8kc"
+}
