@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 447404,
+  "poster": "https://image.tmdb.org/t/p/w500/ttTX80AzrOlLIpwPiW1DsYHqWWA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yXybBEC45p84D0Ky7GmQQYrclVr.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wIvKcKmg4A7RglEAA4P4W1b2Ui0.png",
+  "titulo": "Pokémon Detective Pikachu",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.904,
+  "año": "2019",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Un joven une fuerzas con el detective Pikachu para desentrañar el misterio detrás de la desaparición de su padre. El dúo dinámico descubre una trama tortuosa que representa una amenaza para el mundo Pokémon.",
+  "fecha_estreno": "2019-05-03",
+  "titulo_original": "Pokémon Detective Pikachu",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "Ryan Reynolds",
+      "personaje": "Detective Pikachu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+      "nombre": "Justice Smith",
+      "personaje": "Tim Goodman",
+      "foto": "https://image.tmdb.org/t/p/w500/htJrcOzYkLVcnF4ExT4O1bDN5e5.jpg"
+    },
+    {
+      "nombre": "Kathryn Newton",
+      "personaje": "Lucy Stevens",
+      "foto": "https://image.tmdb.org/t/p/w500/1jRMjb3gvulT74tiIkWbz2xJEsc.jpg"
+    },
+    {
+      "nombre": "Bill Nighy",
+      "personaje": "Howard Clifford",
+      "foto": "https://image.tmdb.org/t/p/w500/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+      "nombre": "渡辺謙",
+      "personaje": "Lieutenant Hide Yoshida",
+      "foto": "https://image.tmdb.org/t/p/w500/psAXOYp9SBOXvg6AXzARDedNQ9P.jpg"
+    },
+    {
+      "nombre": "Chris Geere",
+      "personaje": "Roger Clifford",
+      "foto": "https://image.tmdb.org/t/p/w500/y5Ti23z47KY0XG7lzSLxffB0QKn.jpg"
+    },
+    {
+      "nombre": "Suki Waterhouse",
+      "personaje": "Ms. Norman",
+      "foto": "https://image.tmdb.org/t/p/w500/bpGRoG2DRsySQBICMzCuvfFDg0e.jpg"
+    },
+    {
+      "nombre": "Josette Simon",
+      "personaje": "Grams",
+      "foto": "https://image.tmdb.org/t/p/w500/uLvLGR6a60To8AAlj0C5124d7Xu.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rob Letterman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Benji Samit",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Dan Hernandez",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Derek Connolly",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Rob Letterman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Nicole Perlman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Benji Samit",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Dan Hernandez",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "田尻智",
+      "rol": "Video Game"
+    },
+    {
+      "nombre": "Hiroyuki Jinnai",
+      "rol": "Video Game"
+    },
+    {
+      "nombre": "Mike Snow",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Andy Gose",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Jared Hasselbach",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Jessica Derhammer",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Alexander T.H. Browne",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Tolga Kenan",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "植田浩二",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joseph M. Caracciolo Jr.",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Roy Chapman",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "杉森建",
+      "rol": "CG Supervisor"
+    }
+  ],
+  "director": "Rob Letterman",
+  "valoraciones": {
+    "tmdb": 6.904,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Legendary Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/U/b/0/5/Ub05u.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=S_uE8kX0CkY"
+}
