@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 1314786,
+  "poster": "https://image.tmdb.org/t/p/w500/tEFMZGcmxBDCodbLAqmrjdjCTwm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ptcyGmBonW6mDQmrPhXbt6Rjrlp.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/praBUUDcElAXUMOY94bqYvoO5Zo.png",
+  "titulo": "Zeta",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.642,
+  "año": "2026",
+  "duracion": "2h 12min",
+  "edad_minima": 13,
+  "sinopsis": "Cuatro exoficiales de inteligencia españoles son asesinados a la vez en todo el mundo. El CNI descubre que todos participaron en la encubierta \"Operación Ciénaga\" hace décadas en Colombia. Zeta, el mejor operativo del CNI, debe encontrar y proteger al único superviviente, enfrentándose a su misión más letal. El operativo colombiano Alfa se une a Zeta, conociendo más secretos de \"Ciénaga\" que él.",
+  "fecha_estreno": "2026-03-20",
+  "titulo_original": "Zeta",
+  "pais_origen": "Spain",
+  "reparto": [
+    {
+      "nombre": "Mario Casas",
+      "personaje": "Zeta",
+      "foto": "https://image.tmdb.org/t/p/w500/y0H8jDiOZqYKZkamv2z4cV9FLsl.jpg"
+    },
+    {
+      "nombre": "Mariela Garriga",
+      "personaje": "Alfa",
+      "foto": "https://image.tmdb.org/t/p/w500/hQhh8h3q6fmsm5GW1vlAgLhqHgQ.jpg"
+    },
+    {
+      "nombre": "Luis Zahera",
+      "personaje": "Salvador Ancares",
+      "foto": "https://image.tmdb.org/t/p/w500/4WEGXd6pOWHkAUcffJrg42BFPI3.jpg"
+    },
+    {
+      "nombre": "Nora Navas",
+      "personaje": "Elena",
+      "foto": "https://image.tmdb.org/t/p/w500/kTvfxyKoWUoxgsTSIRHs8dgdD3A.jpg"
+    },
+    {
+      "nombre": "Christian Tappán",
+      "personaje": "Marlon",
+      "foto": "https://image.tmdb.org/t/p/w500/AsgxuVkpzSE4uC4iQCS4WNMQhEC.jpg"
+    },
+    {
+      "nombre": "Cristina Umaña",
+      "personaje": "Diana",
+      "foto": "https://image.tmdb.org/t/p/w500/mQuo0DZsJJ55ZcStNtDDajf5J3x.jpg"
+    },
+    {
+      "nombre": "Ricardo de Barreiro",
+      "personaje": "Landa",
+      "foto": "https://image.tmdb.org/t/p/w500/esgA5wsnrE889n0mGuKwXRfFP4v.jpg"
+    },
+    {
+      "nombre": "Luisa Vides Galiano",
+      "personaje": "Vivi",
+      "foto": "https://image.tmdb.org/t/p/w500/cTwOriIXGnmXZKhHSZ96nMrszz.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Dani de la Torre",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Pablo Isla",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dani de la Torre",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jordi Vallejo",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Oriol Paulo",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Carla Pérez de Albéniz",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Fátima Dapena",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dani de la Torre",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eva Leira",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Yolanda Serrano",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Josu Inchaustegui",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Juan Pedro de Gaspar",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Sara Natividad",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Sergio Francisco",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Clara Bilbao",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Paty López",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Paco H. Rodríguez",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Juan Galiñanes",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Dani de la Torre",
+  "valoraciones": {
+    "tmdb": 6.642,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fonte Films",
+  "enlace_video": "https://vimeos.net/embed-7msjvajelmhg.html",
+  "trailer": "https://www.youtube.com/watch?v=d56tjzLzYZM"
+}
