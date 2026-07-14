@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 1234731,
+  "poster": "https://image.tmdb.org/t/p/w500/9PBECvTohqOnh9nYr6huoA7UQ4J.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6DMPieh2aNPVGsWRM3cZCPQXYdl.png",
+  "titulo": "Anaconda",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Terror"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.866,
+  "año": "2025",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Doug y Griff, amigos de toda la vida, atraviesan una crisis de mediana edad y deciden realizar el remake de su película favorita de su juventud: Anaconda (1997). Viajan a la selva amazónica para filmar su versión, pero pronto descubren que una anaconda real los acecha, convirtiendo su proyecto cinematográfico en una lucha por sobrevivir. La película combina comedia, acción y terror en una experiencia cinematográfica única.",
+  "fecha_estreno": "2025-12-24",
+  "titulo_original": "Anaconda",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jack Black",
+      "personaje": "Doug McCallister",
+      "foto": "https://image.tmdb.org/t/p/w500/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "nombre": "Paul Rudd",
+      "personaje": "Ronald Griffin Jr.",
+      "foto": "https://image.tmdb.org/t/p/w500/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "nombre": "Steve Zahn",
+      "personaje": "Kenny Trent",
+      "foto": "https://image.tmdb.org/t/p/w500/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    },
+    {
+      "nombre": "Thandiwe Newton",
+      "personaje": "Claire Simons",
+      "foto": "https://image.tmdb.org/t/p/w500/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+    },
+    {
+      "nombre": "Daniela Melchior",
+      "personaje": "Ana Almeida",
+      "foto": "https://image.tmdb.org/t/p/w500/tjAEB90Sa7DJtyTlDAkzVhPLQin.jpg"
+    },
+    {
+      "nombre": "Selton Mello",
+      "personaje": "Santiago",
+      "foto": "https://image.tmdb.org/t/p/w500/sBVDTAAEDJuVBTKzVGA0PrqeD17.jpg"
+    },
+    {
+      "nombre": "Ice Cube",
+      "personaje": "Ice Cube",
+      "foto": "https://image.tmdb.org/t/p/w500/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg"
+    },
+    {
+      "nombre": "Ione Skye",
+      "personaje": "Malie",
+      "foto": "https://image.tmdb.org/t/p/w500/ye8qsi6fn51HW93c7065Jogbh9p.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tom Gormican",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Andrew Form",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brad Fuller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Gormican",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kevin Etten",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kevin Etten",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Gormican",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Reg Garside",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Keir Beck",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Keir Beck",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Dane Cody",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Brian Cox",
+      "rol": "Special Effects Supervisor"
+    },
+    {
+      "nombre": "Cedric Martin",
+      "rol": "\"A\" Camera Operator"
+    },
+    {
+      "nombre": "Cedric Martin",
+      "rol": "Steadicam Operator"
+    },
+    {
+      "nombre": "Samson Mucke",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Samson Mucke",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Christopher Bruce",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Sharon Robbins",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Sharon Robbins",
+      "rol": "Makeup Designer"
+    }
+  ],
+  "director": "Tom Gormican",
+  "valoraciones": {
+    "tmdb": 5.866,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fully Formed Entertainment",
+  "enlace_video": "https://vimeos.net/embed-8ui84v2hjx3j.html",
+  "trailer": "https://www.youtube.com/watch?v=LFLyvzIZjK4"
+}
