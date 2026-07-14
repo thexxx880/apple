@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 882569,
+  "poster": "https://image.tmdb.org/t/p/w500/nq7NbZtNfIHyL1NXPV1EiG4XQ7u.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/fViIdmDrMYOBR7d8h4VIUddWLZE.png",
+  "titulo": "El Pacto",
+  "trending": false,
+  "generos": [
+    "Bélica",
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.718,
+  "año": "2023",
+  "duracion": "2h 3min",
+  "edad_minima": 13,
+  "sinopsis": "En su último período de servicio en Afganistán, el sargento John Kinley se une al intérprete local Ahmed para inspeccionar la región. Cuando su unidad sufre una emboscada, Kinley y Ahmed son los únicos supervivientes. Con los combatientes enemigos persiguiéndoles, Ahmed arriesga su propia vida para llevar a Kinley herido a través de kilómetros de terreno agotador a un lugar seguro. De vuelta en suelo estadounidense, Kinley se entera de que Ahmed y su familia no recibieron el pasaje a Estados Unidos como se prometió. Decidido a proteger a su amigo y pagar su deuda, Kinley regresa a la zona de guerra para recuperar a Ahmed y su familia antes de que las milicias locales les capturen.‎",
+  "fecha_estreno": "2023-04-19",
+  "titulo_original": "Guy Ritchie's The Covenant",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Jake Gyllenhaal",
+      "personaje": "Master Sergeant John Kinley",
+      "foto": "https://image.tmdb.org/t/p/w500/j2Yahha9C0zN5DRaTDzYA7WtdOT.jpg"
+    },
+    {
+      "nombre": "Dar Salim",
+      "personaje": "Ahmed",
+      "foto": "https://image.tmdb.org/t/p/w500/mqIH4exzdXXU47ykPohDTAkZ8tN.jpg"
+    },
+    {
+      "nombre": "Sean Sagar",
+      "personaje": "Charlie 'Jizzy' Crow",
+      "foto": "https://image.tmdb.org/t/p/w500/6Q2tNfe4T8SgEcF4r2h69UFi2DF.jpg"
+    },
+    {
+      "nombre": "Jason Wong",
+      "personaje": "Joshua 'JJ' Jung",
+      "foto": "https://image.tmdb.org/t/p/w500/tt3D1PAoB8Yf4jPCovnhlP4pvL3.jpg"
+    },
+    {
+      "nombre": "Rhys Yates",
+      "personaje": "Tom 'Tom Cat' Hancock",
+      "foto": "https://image.tmdb.org/t/p/w500/9Uq5TopRLZlmcdcUFIIT1VxKsXW.jpg"
+    },
+    {
+      "nombre": "Christian Ochoa Lavernia",
+      "personaje": "Eduardo 'Chow Chow' Lopez",
+      "foto": "https://image.tmdb.org/t/p/w500/cHcw4HlHgHOmzVs4hxUV3J8CNIq.jpg"
+    },
+    {
+      "nombre": "Bobby Schofield",
+      "personaje": "Steve Kersher",
+      "foto": "https://image.tmdb.org/t/p/w500/yql0PpoV2aERmn2BFzx6ESuxXGM.jpg"
+    },
+    {
+      "nombre": "Emily Beecham",
+      "personaje": "Caroline Kinley",
+      "foto": "https://image.tmdb.org/t/p/w500/knR5avTlO4Xnxw7Nc3xxUj3rtjh.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Guy Ritchie",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ivan Atkinson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Friedberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Guy Ritchie",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Josh Berger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Guy Ritchie",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ivan Atkinson",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Marn Davies",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "James Herbert",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Diana Estrada Hudson",
+      "rol": "Makeup Supervisor"
+    },
+    {
+      "nombre": "Siobhan Boyes",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Jean Carlos de Blas",
+      "rol": "Wigmaker"
+    },
+    {
+      "nombre": "Ricardo Coelho",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Linda Wilson",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Irene Díaz",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Benjamin Schweimler Ricca",
+      "rol": "Cableman"
+    },
+    {
+      "nombre": "Florian Müller",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Paul Bennett",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Rúben Samos",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Marco Calabrese",
+      "rol": "Production Manager"
+    }
+  ],
+  "director": "Guy Ritchie",
+  "valoraciones": {
+    "tmdb": 7.718,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "STXfilms",
+  "enlace_video": "https://vimeos.net/embed-wv9l84nsl5m6.html",
+  "trailer": "https://www.youtube.com/watch?v=02PPMPArNEQ"
+}
