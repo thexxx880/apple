@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1242898,
+  "poster": "https://image.tmdb.org/t/p/w500/r7TEWHLr1lsIsTkiEFwtM3hAWma.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vipn5ZZ4QLWwCOjYiBaKFKKFCoK.png",
+  "titulo": "Depredador: Tierras salvajes",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.822,
+  "año": "2025",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "En el futuro, en un planeta remoto, un joven Depredador, marginado de su clan, encuentra un aliado inesperado en Thia y se embarca en un peligroso viaje en busca del adversario definitivo.",
+  "fecha_estreno": "2025-11-05",
+  "titulo_original": "Predator: Badlands",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Elle Fanning",
+      "personaje": "Thia / Tessa",
+      "foto": "https://image.tmdb.org/t/p/w500/ucC5faqfEYVhoC25M6Hi3znZmab.jpg"
+    },
+    {
+      "nombre": "Dimitrius Schuster-Koloamatangi",
+      "personaje": "Dek / Father",
+      "foto": "https://image.tmdb.org/t/p/w500/rmIZTT1AZK3C9fYhEOtGKtSrF8E.jpg"
+    },
+    {
+      "nombre": "Ravi Narayan",
+      "personaje": "Bud",
+      "foto": "https://image.tmdb.org/t/p/w500/iM9dr3AjXTt7IGpRzZlQVG7hINa.jpg"
+    },
+    {
+      "nombre": "Michael Homick",
+      "personaje": "Kwei (Suit)",
+      "foto": "https://image.tmdb.org/t/p/w500/a7IFYVtmNvBMJ7c20BVMc0LX6PT.jpg"
+    },
+    {
+      "nombre": "Stefan Grube",
+      "personaje": "Kwei (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7SJ13Np7xL20YJjPiUbM7PshdYA.jpg"
+    },
+    {
+      "nombre": "Reuben De Jong",
+      "personaje": "Father (Suit)",
+      "foto": "https://image.tmdb.org/t/p/w500/opjLobu1AKKspKfYzY6AXrjUglt.jpg"
+    },
+    {
+      "nombre": "Cameron Brown",
+      "personaje": "Drone Synth",
+      "foto": "https://image.tmdb.org/t/p/w500/jLEKQbppMDHeiFX23bxrcmT5dmh.jpg"
+    },
+    {
+      "nombre": "Alison Wright",
+      "personaje": "MU/TH/UR (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yVdCk5eWk5syRrBdxjrnJ1O2Rpg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Patrick Aison",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Dan Trachtenberg",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Dan Trachtenberg",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Patrick Aison",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Davis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brent O'Connor",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marc Toberoff",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Trachtenberg",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jim Thomas",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "John Thomas",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jacob Tomuri",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Matt Cornelius",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Ra Vincent",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Richard Cowan",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Jamie Couper",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Jeff Cutter",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Andy McLaren",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Aaron Becker",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "Jessica Sherman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Sam Storey",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Dan Trachtenberg",
+  "valoraciones": {
+    "tmdb": 7.822,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Studios",
+  "enlace_video": "https://vimeos.net/embed-gifb0mvp14aw.html",
+  "trailer": "https://www.youtube.com/watch?v=LkBqjfg8TGM"
+}
