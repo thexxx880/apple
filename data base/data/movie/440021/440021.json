@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 440021,
+  "poster": "https://image.tmdb.org/t/p/w500/xLu1qmpTCW0qAYCZ3MylNyQ52Lv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9XSEL3EMC2D8k4UcYBn8etgRxPg.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/gnOOhPdaxlpMW6MLKD1ruUoXwOQ.png",
+  "titulo": "Feliz día de tu muerte",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Terror",
+    "Misterio"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.661,
+  "año": "2017",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Una joven estudiante universitaria (Jessica Rothe) reconstruye el día de su asesinato reviviendo tanto los detalles cotidianos como su aterrador final, hasta intentar descubrir la identidad de su asesino.",
+  "fecha_estreno": "2017-10-12",
+  "titulo_original": "Happy Death Day",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jessica Rothe",
+      "personaje": "Theresa 'Tree' Gelbman",
+      "foto": "https://image.tmdb.org/t/p/w500/oItPXy56W0Y5taqIMZilRtnPDMn.jpg"
+    },
+    {
+      "nombre": "Israel Broussard",
+      "personaje": "Carter Davis",
+      "foto": "https://image.tmdb.org/t/p/w500/7HmcvPVEkzKncyn2KKaX3AX0Yc0.jpg"
+    },
+    {
+      "nombre": "Charles Aitken",
+      "personaje": "Gregory Butler",
+      "foto": "https://image.tmdb.org/t/p/w500/96viVHXRXd76fUYhUufq1JTjX0T.jpg"
+    },
+    {
+      "nombre": "Ruby Modine",
+      "personaje": "Lori Spengler",
+      "foto": "https://image.tmdb.org/t/p/w500/kRELFGkC6HoZ9Cn8gU4Pys55KiX.jpg"
+    },
+    {
+      "nombre": "Blaine Kern III",
+      "personaje": "Nick Sims",
+      "foto": "https://image.tmdb.org/t/p/w500/25b8pUQ43gBuow2fg2W6SKbpT03.jpg"
+    },
+    {
+      "nombre": "Rachel Matthews",
+      "personaje": "Danielle Bouseman",
+      "foto": "https://image.tmdb.org/t/p/w500/rPm9vlAEsFTLict8nLmRVt4Zfhe.jpg"
+    },
+    {
+      "nombre": "Billy Slaughter",
+      "personaje": "Dr. Winter",
+      "foto": "https://image.tmdb.org/t/p/w500/wyKVHwnFodOmNsTgDTcL1GlJzqa.jpg"
+    },
+    {
+      "nombre": "Caleb Spillyards",
+      "personaje": "Tim Bauer",
+      "foto": "https://image.tmdb.org/t/p/w500/5r7Q82C3g8CCIR2Eew6gc2oWSK2.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Christopher Landon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Scott Lobdell",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jason Blum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Landon",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Garin W. Sparks",
+      "rol": "Set Medic"
+    },
+    {
+      "nombre": "Kieley Culbertson",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Elizabeth Coulon",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Meagan McLaughlin",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Toby Oliver",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jeanette Volturno",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ignacia Soto-Aguilar",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Ryan Turek",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Gregory Plotkin",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Terri Taylor",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Couper Samuelson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Beatriz Sequeira",
+      "rol": "Co-Producer"
+    }
+  ],
+  "director": "Christopher Landon",
+  "valoraciones": {
+    "tmdb": 6.661,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Vesuvius Productions",
+  "enlace_video": "https://vimeos.net/embed-ap5d4c2tklnx.html",
+  "trailer": "https://www.youtube.com/watch?v=OPrzja0SAHk"
+}
