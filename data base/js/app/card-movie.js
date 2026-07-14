@@ -12,15 +12,34 @@ async function initLZRecentMovies() {
     `;
 
     const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
+    const SEARCH_BASE_URL = "https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search";
     // Evitamos caché añadiendo getTime()
-    const jsonUrl = `https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search/search.json?v=${new Date().getTime()}`;
+    const jsonUrl = `${SEARCH_BASE_URL}/search.json?v=${new Date().getTime()}`;
 
     try {
         const res = await fetch(jsonUrl);
         if (!res.ok) throw new Error("Error de conexión");
         
-        const allMovies = await res.json();
-        const latest10Movies = allMovies.slice(0, 10);
+        const searchIndex = await res.json();
+        // search.json = índice ligero; detalle completo en {id}.json
+        const latestIds = Array.isArray(searchIndex)
+            ? searchIndex.slice(0, 10).map((item) => item.id_tmdb || item)
+            : [];
+
+        const latest10Movies = (
+            await Promise.all(
+                latestIds.map(async (id) => {
+                    try {
+                        const itemRes = await fetch(`${SEARCH_BASE_URL}/${id}.json`);
+                        if (!itemRes.ok) return null;
+                        return itemRes.json();
+                    } catch (err) {
+                        console.warn(`Error cargando ${id}.json`, err);
+                        return null;
+                    }
+                })
+            )
+        ).filter(Boolean);
 
         const moviesWithRatings = await Promise.all(
             latest10Movies.map(async (pelicula) => {

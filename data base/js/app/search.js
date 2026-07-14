@@ -1,8 +1,9 @@
 // =============================================
 // SEARCH.JS - Compatible con Navbar dinámico
 // =============================================
-const JSON_URL =
-"https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search/search.json";
+const SEARCH_BASE_URL =
+"https://raw.githubusercontent.com/thexxx880/apple/main/data%20base/search";
+const JSON_URL = `${SEARCH_BASE_URL}/search.json`;
 let database = [];
 let dbLoaded = false;
 
@@ -11,7 +12,19 @@ const TMDB_API_KEY = "38e497c6c1a043d1341416e80915669f";
 const TMDB_BASE_URL = "https://api.themoviedb.org/3";
 
 // =============================================
-// CARGAR DATABASE (manteniendo compatibilidad)
+// Cargar un contenido individual: {id}.json
+// =============================================
+async function fetchSearchItem(id) {
+    const res = await fetch(`${SEARCH_BASE_URL}/${id}.json`);
+    if (!res.ok) {
+        throw new Error(`No se pudo cargar ${id}.json`);
+    }
+    return res.json();
+}
+
+// =============================================
+// CARGAR DATABASE (índice ligero search.json)
+// El detalle completo de cada título está en {id}.json
 // =============================================
 async function loadDatabase() {
     if (dbLoaded) return;
