@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 137,
+  "poster": "https://image.tmdb.org/t/p/w500/x1PbnXSlG4e0VYAvqTYzgV9TLso.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4W6RYDNe4OByNryOCvJprrutm9h.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1LzsIiQ53Ilk5tgMxZnsna2kXXR.png",
+  "titulo": "El día de la marmota",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Fantasía",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.633,
+  "año": "1993",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Un meteorólogo narcisista de televisión, junto con su atractiva pero distante productor y camarógrafo, es enviado a informar sobre el Día de la Marmota en la pequeña ciudad de Punxsutawney, donde se encuentra repitiendo el mismo día una y otra vez.",
+  "fecha_estreno": "1993-02-11",
+  "titulo_original": "Groundhog Day",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Bill Murray",
+      "personaje": "Phil Connors",
+      "foto": "https://image.tmdb.org/t/p/w500/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+    },
+    {
+      "nombre": "Andie MacDowell",
+      "personaje": "Rita Hanson",
+      "foto": "https://image.tmdb.org/t/p/w500/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg"
+    },
+    {
+      "nombre": "Chris Elliott",
+      "personaje": "Larry",
+      "foto": "https://image.tmdb.org/t/p/w500/oZFGgyDCZaanGfco1UdfxM4rHAJ.jpg"
+    },
+    {
+      "nombre": "Stephen Tobolowsky",
+      "personaje": "Ned Ryerson",
+      "foto": "https://image.tmdb.org/t/p/w500/uL8yfcm0dCFYFQt052kczVQVvac.jpg"
+    },
+    {
+      "nombre": "Brian Doyle-Murray",
+      "personaje": "Buster Green",
+      "foto": "https://image.tmdb.org/t/p/w500/3RFH00449ppcwA0tkD1uqDvP865.jpg"
+    },
+    {
+      "nombre": "Marita Geraghty",
+      "personaje": "Nancy Taylor",
+      "foto": "https://image.tmdb.org/t/p/w500/trncDdjDlN81VrMNPr71ZZVZFCR.jpg"
+    },
+    {
+      "nombre": "Angela Paton",
+      "personaje": "Mme Lancaster",
+      "foto": "https://image.tmdb.org/t/p/w500/zt2VvSVntPwmmR3ZVxDYVvGEJ5L.jpg"
+    },
+    {
+      "nombre": "Rick Ducommun",
+      "personaje": "Gus",
+      "foto": "https://image.tmdb.org/t/p/w500/tGhmgsOL6urwVeNyCsU0FlkAFV8.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Harold Ramis",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Harold Ramis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Danny Rubin",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Harold Ramis",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Danny Rubin",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Trevor Albert",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Peter Landsdown Smith",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Tom Ryba",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "George H. Anderson",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Cindy Marty",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "John Bailey",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mary Andrews",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Steve Boyum",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Howard Feuer",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Lisa Fischer",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Pembroke J. Herring",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "George Fenton",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "C.O. Erickson",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Harold Ramis",
+  "valoraciones": {
+    "tmdb": 7.633,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://vimeos.net/embed-hh1d19ght9oz.html",
+  "trailer": "https://www.youtube.com/watch?v=_ADlbEQG_VA"
+}
