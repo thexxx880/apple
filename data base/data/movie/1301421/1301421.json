@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1301421,
+  "poster": "https://image.tmdb.org/t/p/w500/iryjE7zrVxML5UM5vCPJGtKYvWC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mf0rgpEvXWsaPMwMOaGdcFes4Cw.png",
+  "titulo": "Las ovejas detectives",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Misterio"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.9,
+  "año": "2026",
+  "duracion": "1h 49min",
+  "edad_minima": 13,
+  "sinopsis": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+  "fecha_estreno": "2026-04-30",
+  "titulo_original": "The Sheep Detectives",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Hugh Jackman",
+      "personaje": "George Hardy",
+      "foto": "https://image.tmdb.org/t/p/w500/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "nombre": "Nicholas Braun",
+      "personaje": "Officer Tim Derry",
+      "foto": "https://image.tmdb.org/t/p/w500/b2I6bZptuld3pjlVkYIy4DtMKGg.jpg"
+    },
+    {
+      "nombre": "Nicholas Galitzine",
+      "personaje": "Elliot Matthews",
+      "foto": "https://image.tmdb.org/t/p/w500/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+    },
+    {
+      "nombre": "Molly Gordon",
+      "personaje": "Rebecca Hampstead",
+      "foto": "https://image.tmdb.org/t/p/w500/5sMIadZ0CIL7IUCJHnqO4ZFsdEM.jpg"
+    },
+    {
+      "nombre": "Julia Louis-Dreyfus",
+      "personaje": "Lily (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iEfHQNrVbVFesDPjdySom9nqsFg.jpg"
+    },
+    {
+      "nombre": "Bryan Cranston",
+      "personaje": "Sebastian (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+    },
+    {
+      "nombre": "Chris O'Dowd",
+      "personaje": "Mopple (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xhfgliN8DInDVBliPq7JDeKNCvz.jpg"
+    },
+    {
+      "nombre": "Regina Hall",
+      "personaje": "Cloud (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kyle Balda",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tim Bevan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eric Fellner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lindsay Doran",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Craig Mazin",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Aditya Sood",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Phil Lord",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tim Wellspring",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Leonie Swann",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "George Steel",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Suzie Davies",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Rosa Dias",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Sharon Martin",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Sharon Martin",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Paul Machliss",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Graham Page",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Christopher Miller",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Kyle Balda",
+  "valoraciones": {
+    "tmdb": 7.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Working Title Films",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/cd/s8/2/U/b/r/q/UbrqA.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=JJLMbLPxJe0"
+}
