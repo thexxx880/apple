@@ -1,0 +1,104 @@
+{
+  "id_tmdb": 60293,
+  "poster": "https://image.tmdb.org/t/p/w500/g85rGahQAntohJ8FqCI4pS6l2Jx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7tOpXxoPavzvkPz92JpnWl0uHet.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1D1Ttm3g8iILsn44ottEFfmZIOG.png",
+  "titulo": "Tom y Jerry: Cazadores de tesoros",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.876,
+  "año": "2006",
+  "duracion": "1h 14min",
+  "edad_minima": 13,
+  "sinopsis": "Película animada hecha para video dirigida en 2006, protagonizada por Tom and Jerry , producida por Turner Entertainment y Warner Bros. Animation . Fue dirigido por Scott Jeralds , con el guión realizado por Chris Painter y los servicios de animación proporcionados por el estudio coreano Yearim , que es particularmente responsable de su trabajo en el extranjero en otras producciones de Tom y Jerry , así como en otros proyectos de cine y televisión subcontratados. de Warner Bros. Animation.",
+  "fecha_estreno": "2006-08-21",
+  "titulo_original": "Tom and Jerry: Shiver Me Whiskers",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "William Hanna",
+      "personaje": "Tom / Jerry (voice) (archive sound)",
+      "foto": "https://image.tmdb.org/t/p/w500/zf5WRsouQN0ozuJ4vFosXylPjaZ.jpg"
+    },
+    {
+      "nombre": "Mark Hamill",
+      "personaje": "The Skull (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    },
+    {
+      "nombre": "Kathy Najimy",
+      "personaje": "Blue Parrot Betty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+    },
+    {
+      "nombre": "Charles Nelson Reilly",
+      "personaje": "Red Parrot Stan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/m2blS5vRA2Rtlk49F48sDJ7VspP.jpg"
+    },
+    {
+      "nombre": "Kevin Michael Richardson",
+      "personaje": "Red Pirate Ron / Blue Pirate Bob / Purple Parrot (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    },
+    {
+      "nombre": "Wallace Shawn",
+      "personaje": "Barnacle Paul (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Scott Jeralds",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Scott Jeralds",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Minton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Painter",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tristin Cole",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Mark Watters",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Scott Jeralds",
+  "valoraciones": {
+    "tmdb": 6.876,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://vimeos.net/embed-vjql1ja0c2dt.html",
+  "trailer": "https://www.youtube.com/watch?v=Rl3z213drRg"
+}
