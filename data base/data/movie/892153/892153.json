@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 892153,
+  "poster": "https://image.tmdb.org/t/p/w500/jpEWy0Pz41gkIE65Og8lvIaCvN4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q1NXVYTqSStNQsnKrCvtU6NPzEk.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/sY2olKPWPx7slOLsM88BJWgQBMi.png",
+  "titulo": "Tom y Jerry: ¡Arriba, vaquero!",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Western"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.878,
+  "año": "2022",
+  "duracion": "1h 14min",
+  "edad_minima": 13,
+  "sinopsis": "¡El Salvaje, Oeste es aún más salvaje con Tom y Jerry en el rancho! ¡Esta vez, los rivales se unen para ayudar a una vaquera y a su hermano a salvar su rancho de un codicioso acaparador de tierras, y necesitarán ayuda! Los tres sobrinos de Jerry están listos para la acción, y Tom reúne una pandilla de perros de la pradera. Pero, ¿una banda de alimañas puede vencer a un forajido decidido a engañar a una damisela en apuros? Con Tom y Jerry como jinetes, ¡será un momento inolvidable!",
+  "fecha_estreno": "2022-01-24",
+  "titulo_original": "Tom and Jerry Cowboy Up!",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "George Ackles",
+      "personaje": "The Marshal (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Sean Burgos",
+      "personaje": "Bumpy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/l7WqU6nLrlRabVVwjooV7a2CwIs.jpg"
+    },
+    {
+      "nombre": "Trevor Devall",
+      "personaje": "Duke (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iCFqgVzkhLkMOw9DKmUmfQ3OyCZ.jpg"
+    },
+    {
+      "nombre": "Chris Edgerly",
+      "personaje": "August Critchley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bjkN9Ugv6Kd3Z3y9p9DgWAc10Q7.jpg"
+    },
+    {
+      "nombre": "Georgie Kidder",
+      "personaje": "Scruffy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dUq776Ae3y48zC67vJvKjiX0qMT.jpg"
+    },
+    {
+      "nombre": "Justin Michael",
+      "personaje": "Bentley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ns2Udvj794urpinN1U3qQQYJ1P2.jpg"
+    },
+    {
+      "nombre": "Kaitlyn Robrock",
+      "personaje": "Betty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1joOQrgyU9ap9W1cvimh01XmKcO.jpg"
+    },
+    {
+      "nombre": "Isaac Robinson-Smith",
+      "personaje": "Zeb (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ceNxqevAX7c9uAzl8IthjG3slqy.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kimberly S. Moreau",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ashley Postlewaite",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Darrell Van Citters",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Darrell Van Citters",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Will Finn",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael D'Ambrosio",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jared Beckstrand",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Marc Camelbeke",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Alfredo Cassano",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Joanna Davidovich",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Brad Goodchild",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "T.J. House",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "José Mansuy",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Alec Megibben",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Patrick Reyntens",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Randy Young",
+      "rol": "Storyboard Artist"
+    }
+  ],
+  "director": "Darrell Van Citters",
+  "valoraciones": {
+    "tmdb": 6.878,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://streamwish.to/e/0yx1brdb0p5o",
+  "trailer": "https://www.youtube.com/watch?v=s5iqJVzhb3Q"
+}
