@@ -1,7 +1,7 @@
 {
   "id_tmdb": 1108427,
-  "poster": "https://image.tmdb.org/t/p/w500/iq7yh7zOLGLp4TGNCYmd29FVy8H.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/ltaMOWWmKx34SHRhPdiwrosdnmo.jpg",
+  "poster": "https://image.tmdb.org/t/p/w500/u8dLlf3JJlm7ryElxy3OYi7bWz1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
   "logo": "https://image.tmdb.org/t/p/w300/mNRwQCJMmDUjBZaZcqhwy6WTBA7.png",
   "titulo": "Moana",
   "trending": false,
@@ -12,7 +12,7 @@
     "Aventura"
   ],
   "calificacion": "A",
-  "puntuacion": 5.2,
+  "puntuacion": 5.6,
   "año": "2026",
   "duracion": "1h 55min",
   "edad_minima": 13,
@@ -148,11 +148,11 @@
   ],
   "director": "Thomas Kail",
   "valoraciones": {
-    "tmdb": 5.2,
+    "tmdb": 5.6,
     "imdb": null,
     "rotten_tomatoes": null
   },
   "distribuidora": "Walt Disney Pictures",
-  "enlace_video": "https://1a-1791.com/video/fwe2/7b/s8/2/W/K/a/F/WKaFA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3249221120-3249285576",
+  "enlace_video": "https://1a-1791.com/video/fwe2/7b/s8/2/W/K/a/F/WKaFA.aaa.mp4",
   "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI"
 }
