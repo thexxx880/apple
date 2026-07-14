@@ -12,7 +12,7 @@
     "Familia"
   ],
   "calificacion": "PG-13",
-  "puntuacion": 7.224,
+  "puntuacion": 7.228,
   "año": "2009",
   "duracion": "1h 37min",
   "edad_minima": 13,
@@ -65,34 +65,34 @@
   "equipo_creativo": [
     {
       "nombre": "Ron Clements",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Musker",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ron Clements",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Musker",
       "rol": "Screenplay"
     },
     {
       "nombre": "Ron Clements",
-      "rol": "Director"
+      "rol": "Story"
     },
     {
-      "nombre": "John Musker",
-      "rol": "Director"
-    },
-    {
-      "nombre": "John Musker",
-      "rol": "Screenplay"
+      "nombre": "Greg Erb",
+      "rol": "Story"
     },
     {
       "nombre": "Rob Edwards",
       "rol": "Screenplay"
     },
     {
-      "nombre": "Ron Clements",
-      "rol": "Story"
-    },
-    {
       "nombre": "Jason Oremland",
-      "rol": "Story"
-    },
-    {
-      "nombre": "Greg Erb",
       "rol": "Story"
     }
   ],
@@ -138,17 +138,17 @@
       "rol": "Compositors"
     },
     {
-      "nombre": "Lorelay Bove",
-      "rol": "Visual Development"
-    },
-    {
       "nombre": "Monica Lago-Kaytis",
       "rol": "Production Manager"
+    },
+    {
+      "nombre": "Michele Mazzano",
+      "rol": "Production Supervisor"
     }
   ],
   "director": "Ron Clements",
   "valoraciones": {
-    "tmdb": 7.224,
+    "tmdb": 7.228,
     "imdb": null,
     "rotten_tomatoes": null
   },
