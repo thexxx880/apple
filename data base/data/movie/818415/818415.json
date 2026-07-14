@@ -1,0 +1,128 @@
+{
+  "id_tmdb": 818415,
+  "poster": "https://image.tmdb.org/t/p/w500/be8QfFTIOLG2dEaqladEFcWv1hO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yjCSTlT2Ni4hXdvQZLwAyTh3LqY.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/j4E56rwJUjjPbr25agnY7O0eHnK.png",
+  "titulo": "Pilotos de Guerra: Una Historia Sobre el Honor y la Gloria",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Bélica"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.088,
+  "año": "2021",
+  "duracion": "1h 50min",
+  "edad_minima": 13,
+  "sinopsis": "El teniente coronel Soshnikov, el capitán Muravyov y el mayor Zakharov. Tres edades, tres personajes diferentes, tres destinos diferentes, que están destinados a encontrarse en la base militar de Khmeimim.",
+  "fecha_estreno": "2021-11-18",
+  "titulo_original": "Небо",
+  "pais_origen": "Russia",
+  "reparto": [
+    {
+      "nombre": "Игорь Петренко",
+      "personaje": "Oleg Soshnikov",
+      "foto": "https://image.tmdb.org/t/p/w500/pyMiCIU0s5yMLwzKdYBAwvPtA9S.jpg"
+    },
+    {
+      "nombre": "Иван Батарев",
+      "personaje": "Konstantin Muravyev",
+      "foto": "https://image.tmdb.org/t/p/w500/et3CZ0mWMuQgLwamjJjEI8jikiU.jpg"
+    },
+    {
+      "nombre": "Сергей Губанов",
+      "personaje": "Major Zakharov",
+      "foto": "https://image.tmdb.org/t/p/w500/qPvrY9RUViJZsLtDTOuBt1yVrjT.jpg"
+    },
+    {
+      "nombre": "Илья Носков",
+      "personaje": "Bagayev",
+      "foto": "https://image.tmdb.org/t/p/w500/kFjvAr6uQd6W6hIBkSNJ7ega8b2.jpg"
+    },
+    {
+      "nombre": "Дмитрий Власкин",
+      "personaje": "Zavyalov",
+      "foto": "https://image.tmdb.org/t/p/w500/gTea8BHVe8eJ3PQZ7Yt0CayaXDI.jpg"
+    },
+    {
+      "nombre": "Сергей Жарков",
+      "personaje": "Chusov",
+      "foto": "https://image.tmdb.org/t/p/w500/71yJKeA4a4HVZ8u4jeBOrvrStC4.jpg"
+    },
+    {
+      "nombre": "Дмитрий Блохин",
+      "personaje": "Linkov",
+      "foto": "https://image.tmdb.org/t/p/w500/bTtaSGqGn8vK4fDSdTPhBWhceUP.jpg"
+    },
+    {
+      "nombre": "Григорий Некрасов",
+      "personaje": "Koma",
+      "foto": "https://image.tmdb.org/t/p/w500/AjX8Y3xQsjc2w8Ud2BkkhbaXUhb.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Игорь Копылов",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Инесса Юрченко",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Сергей Щеглов",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Игорь Копылов",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Игорь Копылов",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Марина Леккина",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Georgy Michri",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Evgeny Kordunsky",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Edgar Zhamgaryan",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Максим Кошеваров",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Alexandr Maev",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Шерзод Джураев",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Анвар Нурмухамедов",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Игорь Копылов",
+  "valoraciones": {
+    "tmdb": 8.088,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "3xMedia",
+  "enlace_video": "https://vimeos.net/embed-omyzhk9rtct7.html",
+  "trailer": ""
+}
