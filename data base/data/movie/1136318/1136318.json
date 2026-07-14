@@ -1,0 +1,97 @@
+{
+  "id_tmdb": 1136318,
+  "poster": "https://image.tmdb.org/t/p/w500/6wVVt9mWcwZJaVTQnv02BiSsQSv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/11G6N5zW0KykVS0EcNKeXHUmQj8.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5Atz7UJ3KEqrZ4uppTMXlnq4NZY.png",
+  "titulo": "Batalla aérea",
+  "trending": false,
+  "generos": [
+    "Bélica"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.13,
+  "año": "2023",
+  "duracion": "1h 20min",
+  "edad_minima": 13,
+  "sinopsis": "Durante el apogeo de la Batalla de Inglaterra, una tropa de exhaustos pilotos de Spitfire lucha hasta el último hombre en defensa de su país.",
+  "fecha_estreno": "2023-12-01",
+  "titulo_original": "Battle Over Britain",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Arnold Voysey",
+      "personaje": "Andrew Sharp",
+      "foto": null
+    },
+    {
+      "nombre": "Vin Hawke",
+      "personaje": "Nathan Walker",
+      "foto": "https://image.tmdb.org/t/p/w500/oa6mDeggnudRAXAAUwVagqSpYer.jpg"
+    },
+    {
+      "nombre": "Hannah Harris",
+      "personaje": "Nancy White",
+      "foto": null
+    },
+    {
+      "nombre": "Chris Clynes",
+      "personaje": "Laurence Stanhope",
+      "foto": "https://image.tmdb.org/t/p/w500/t2vaOa2aa9EdM7HXttTuAjRHpiO.jpg"
+    },
+    {
+      "nombre": "Tom Gordon",
+      "personaje": "Michael Cochrane",
+      "foto": "https://image.tmdb.org/t/p/w500/2JqzvbzhUa3CfdLhLv5Ybkw91rh.jpg"
+    },
+    {
+      "nombre": "Micky David",
+      "personaje": "Richard Cooper",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Andrew Burn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Callum Burn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Callum Burn",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Callum Burn",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Andrew Burn",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Callum Burn",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sam Parsons",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Ben Thatcher",
+      "rol": "Music"
+    }
+  ],
+  "director": "Callum Burn",
+  "valoraciones": {
+    "tmdb": 7.13,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Tin Hat Productions",
+  "enlace_video": "https://streamwish.to/e/icingjmax3gr",
+  "trailer": "https://www.youtube.com/watch?v=Npa7gKTXALw"
+}
