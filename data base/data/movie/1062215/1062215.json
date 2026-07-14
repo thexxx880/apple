@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1062215,
+  "poster": "https://image.tmdb.org/t/p/w500/eDCyEUNFce9g7NJxlhDzV0BBMMo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zu4m80pS1EBqDd000xD6exSyHp4.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8mZ2J1t6fx5Pr9Z6DWrxs5PTa7I.png",
+  "titulo": "Parano-IA",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.907,
+  "año": "2024",
+  "duracion": "1h 24min",
+  "edad_minima": 13,
+  "sinopsis": "Curtis y su familia son seleccionados para probar un nuevo y revolucionario dispositivo doméstico: un asistente digital familiar llamado AIA. Una vez que la unidad y todos sus sensores y cámaras están instalados en la casa, AIA se asegura de que nada, ni nadie, se interponga en el camino de su familia.",
+  "fecha_estreno": "2024-08-28",
+  "titulo_original": "Afraid",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "John Cho",
+      "personaje": "Curtis",
+      "foto": "https://image.tmdb.org/t/p/w500/4Lar4uy8gk78cEocq6ERPRFWt3e.jpg"
+    },
+    {
+      "nombre": "Katherine Waterston",
+      "personaje": "Meredith",
+      "foto": "https://image.tmdb.org/t/p/w500/zaqbXjr5jE1DnEoyAHokUDoCKOM.jpg"
+    },
+    {
+      "nombre": "Keith Carradine",
+      "personaje": "Marcus",
+      "foto": "https://image.tmdb.org/t/p/w500/pFChLHGcQrw0pSseRYQofQ3FN4N.jpg"
+    },
+    {
+      "nombre": "Havana Rose Liu",
+      "personaje": "Melody / AIA (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lqdialbfdj5l4KYMSlL4aausMaV.jpg"
+    },
+    {
+      "nombre": "Lukita Maxwell",
+      "personaje": "Iris",
+      "foto": "https://image.tmdb.org/t/p/w500/g5g6XxUAtSdPfsJrSoFkl7vH51d.jpg"
+    },
+    {
+      "nombre": "Ashley Romans",
+      "personaje": "Sam",
+      "foto": "https://image.tmdb.org/t/p/w500/jVZiQYt9tk4zPMm2CIndRqCu01t.jpg"
+    },
+    {
+      "nombre": "David Dastmalchian",
+      "personaje": "Lightning",
+      "foto": "https://image.tmdb.org/t/p/w500/nER1Vzhk51pGHb60KBF1Ja5tEXA.jpg"
+    },
+    {
+      "nombre": "Wyatt Lindner",
+      "personaje": "Preston",
+      "foto": "https://image.tmdb.org/t/p/w500/uVMJtzxTtnNdxt2xNW7G7D3QaAQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Weitz",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chris Weitz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Blum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Miano",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Weitz",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bryan Binder",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Beatriz Sequeira",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Balgoyen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Britta Rowings",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mallory Thompson",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Javier Aguirresarobe",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Ally Conover",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Terri Taylor",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "David Brisbin",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Geoff Wallace",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Christopher Tandon",
+      "rol": "Additional Photography"
+    },
+    {
+      "nombre": "Julia Altschul",
+      "rol": "Set Decoration"
+    }
+  ],
+  "director": "Chris Weitz",
+  "valoraciones": {
+    "tmdb": 5.907,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Blumhouse Productions",
+  "enlace_video": "https://vimeos.net/embed-pohof19hwxkd.html",
+  "trailer": "https://www.youtube.com/watch?v=jsXcgov8JLA"
+}
