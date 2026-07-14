@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 14787,
+  "poster": "https://image.tmdb.org/t/p/w500/8XS58d3U0zfGCWDAwQFv4zPysxg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dS9wDDuVyiq5pQRD8ab4JcM6Doy.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/2nlgFM7fdLmBC2zrRIppUrO5TtZ.png",
+  "titulo": "Tom y Jerry: El Anillo Mágico",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.402,
+  "año": "2002",
+  "duracion": "1h 2min",
+  "edad_minima": 13,
+  "sinopsis": "El equipo de gato y raton favoritos del mundo vuelve a la acción en una nueva aventura animada de larga duración que sin duda hechizará a toda la familia. Tom se queda a cargo de un anillo mágico de valor incalculable por su joven maestro mago, y se horroriza cuando el anillo se atasca en la cabeza de Jerry, que luego se escapa a la ciudad. Antes de que puedas decir \"abracadabra\", toda la ciudad está en la cola de nuestros héroes.",
+  "fecha_estreno": "2002-03-12",
+  "titulo_original": "Tom and Jerry: The Magic Ring",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Tom (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Jerry (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Charlie Schlatter",
+      "personaje": "Chip (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tAXK63aGqIP7CqgvxNLEC2KHKvf.jpg"
+    },
+    {
+      "nombre": "Jim Cummings",
+      "personaje": "Butch (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "nombre": "Maile Flanagan",
+      "personaje": "Boy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xhjJfbjskcTg8k8f6SsSGjHOShl.jpg"
+    },
+    {
+      "nombre": "Jess Harnell",
+      "personaje": "Policeman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+    },
+    {
+      "nombre": "Maurice LaMarche",
+      "personaje": "Spike / Alley Cat (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+    },
+    {
+      "nombre": "Tress MacNeille",
+      "personaje": "Margaret / Mom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James T. Walker",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Timothy Cahill",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Julie McNally Cahill",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tom Minton",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bradford Keatts",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "J. Eric Schmidt",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jean MacCurdy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kathryn Page",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Margaret Hou",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Garrett Ho",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ryan Anthony",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Jerry Eisenberg",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Caleb Meurer",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Leslie Lamers",
+      "rol": "Casting"
+    }
+  ],
+  "director": "James T. Walker",
+  "valoraciones": {
+    "tmdb": 6.402,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://voe.sx/e/vweka66z6sv3",
+  "trailer": "https://www.youtube.com/watch?v=xyz1U-L7P18"
+}
