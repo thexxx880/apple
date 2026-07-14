@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 11101,
+  "poster": "https://image.tmdb.org/t/p/w500/kOGBwiMnKqKTyFq6V86Sm15e6Oy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mo2O5ESdB7PWnY3OBS9jjvjeskB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5vX0K74rIkoE3NXqOSkHOlO0pBU.png",
+  "titulo": "Stalingrado",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Historia",
+    "Bélica"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.3,
+  "año": "1993",
+  "duracion": "2h 14min",
+  "edad_minima": 13,
+  "sinopsis": "En 1942, Stalingrado sufre un terrible asedio por parte de las tropas alemanas. Película coral en la que se muestran los horrores de la guerra a través de las vicisitudes de un grupo de soldados alemanes que llegan a Stalingrado tras disfrutar de un permiso en Italia.",
+  "fecha_estreno": "1993-01-20",
+  "titulo_original": "Stalingrad",
+  "pais_origen": "Germany",
+  "reparto": [
+    {
+      "nombre": "Dominique Horwitz",
+      "personaje": "Corporal Fritz Reiser",
+      "foto": "https://image.tmdb.org/t/p/w500/3YuwwLvwuDjl6R9RnBQ03A6vp3R.jpg"
+    },
+    {
+      "nombre": "Thomas Kretschmann",
+      "personaje": "Lieutenant Hans von Witzland",
+      "foto": "https://image.tmdb.org/t/p/w500/7M0P39a3CVA22dJyv5YQEkTThU7.jpg"
+    },
+    {
+      "nombre": "Jochen Nickel",
+      "personaje": "Sergeant Manfred 'Rollo' Rohleder",
+      "foto": "https://image.tmdb.org/t/p/w500/mVNh33yMHoTneAF2OrsC4nvwBGL.jpg"
+    },
+    {
+      "nombre": "Sebastian Rudolph",
+      "personaje": "GeGe Müller",
+      "foto": "https://image.tmdb.org/t/p/w500/qct6kKiahTQ0KYlEYIOb56rs21n.jpg"
+    },
+    {
+      "nombre": "Dana Vávrová",
+      "personaje": "Irina",
+      "foto": "https://image.tmdb.org/t/p/w500/wH1wu9Ld0px9a903uKTuBSUtca0.jpg"
+    },
+    {
+      "nombre": "Martin Benrath",
+      "personaje": "General Hentz",
+      "foto": "https://image.tmdb.org/t/p/w500/7UfMJ0p4YevbmKwkefcott1meEf.jpg"
+    },
+    {
+      "nombre": "Sylvester Groth",
+      "personaje": "Otto",
+      "foto": "https://image.tmdb.org/t/p/w500/baIqxNzKPLffJLSuLLFIXG0yZ3l.jpg"
+    },
+    {
+      "nombre": "Karel Heřmánek",
+      "personaje": "Captain Herman Musk",
+      "foto": "https://image.tmdb.org/t/p/w500/zOeRUuWXRFeRr7PQ4nBVzTR8AAv.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Johannes Heide",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jürgen Büscher",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joseph Vilsmaier",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joseph Vilsmaier",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Günter Rohrbach",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hanno Huth",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rolf Greim",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Hannes Nikel",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Joseph Vilsmaier",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter von Haller",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Klaus Moderegger",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Enjott Schneider",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Wolfgang Hundhammer",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jindřich Goetz",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ute Hofinger",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Vladimír Janošek",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Silvana Zafosnik",
+      "rol": "Assistant Sound Editor"
+    },
+    {
+      "nombre": "Bedřich Čermák",
+      "rol": "Props"
+    }
+  ],
+  "director": "Joseph Vilsmaier",
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "B.A. Produktion",
+  "enlace_video": "https://streamwish.to/e/gi3cxz19dz1k",
+  "trailer": "https://www.youtube.com/watch?v=3usU25Z9ICE"
+}
