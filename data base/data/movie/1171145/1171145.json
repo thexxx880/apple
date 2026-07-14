@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 1171145,
+  "poster": "https://image.tmdb.org/t/p/w500/2EI8HmeQgbryWw5clWYc4vYj1tU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/zcYAPlGkHtQHzeAeIW7GjZnm1ai.png",
+  "titulo": "Caminos del crimen",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.01,
+  "año": "2026",
+  "duracion": "2h 21min",
+  "edad_minima": 13,
+  "sinopsis": "Un escurridizo ladrón ve la oportunidad de hacer el golpe de su vida con la esperanza de que sea su último trabajo. En su camino se cruza con una desilusionada corredora de seguros y también un implacable detective se acerca a la operación, lo que aumenta aún más lo que está en juego . A medida que se acerca el robo multimillonario, la línea entre cazador y presa comienza a difuminarse, y los tres se ven obligados a afrontar el coste de sus decisiones y darse cuenta de que no hay vuelta atrás.",
+  "fecha_estreno": "2026-02-11",
+  "titulo_original": "Crime 101",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Chris Hemsworth",
+      "personaje": "Davis",
+      "foto": "https://image.tmdb.org/t/p/w500/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "nombre": "Mark Ruffalo",
+      "personaje": "Lou",
+      "foto": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "nombre": "Halle Berry",
+      "personaje": "Sharon",
+      "foto": "https://image.tmdb.org/t/p/w500/yfAJMERSlDIZD1iy6Aab8bArcCK.jpg"
+    },
+    {
+      "nombre": "Barry Keoghan",
+      "personaje": "Ormon",
+      "foto": "https://image.tmdb.org/t/p/w500/ngoitknM6hw8fffLywyvjzy6Iti.jpg"
+    },
+    {
+      "nombre": "Monica Barbaro",
+      "personaje": "Maya",
+      "foto": "https://image.tmdb.org/t/p/w500/hiOYXzSkkuKyCEcjLxBoAc4bLZS.jpg"
+    },
+    {
+      "nombre": "Nick Nolte",
+      "personaje": "Money",
+      "foto": "https://image.tmdb.org/t/p/w500/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+      "nombre": "Corey Hawkins",
+      "personaje": "Tillman",
+      "foto": "https://image.tmdb.org/t/p/w500/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+    },
+    {
+      "nombre": "Jennifer Jason Leigh",
+      "personaje": "Angie",
+      "foto": "https://image.tmdb.org/t/p/w500/7DbG2AO3nygHAkNC866HLPKkxv9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bart Layton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ben Grayson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Derrin Schlesinger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Hemsworth",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bart Layton",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Eric Fellner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Shane Salerno",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tim Bevan",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Don Winslow",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Joely Fether",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marvin Williams",
+      "rol": "Second Unit First Assistant Director"
+    },
+    {
+      "nombre": "Jenny Eagan",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Paul Lacovara",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Tania Blunden",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "James Embree",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Iwan Prys Reynolds",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Darrin Prescott",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "David Cole",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "Bobby Holland Hanton",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Steven A. Morrow",
+      "rol": "Sound Mixer"
+    }
+  ],
+  "director": "Bart Layton",
+  "valoraciones": {
+    "tmdb": 7.01,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Working Title Films",
+  "enlace_video": "https://vimeos.net/embed-owqszeyhxcxn.html",
+  "trailer": "https://www.youtube.com/watch?v=SNB3OnqyBRE"
+}
