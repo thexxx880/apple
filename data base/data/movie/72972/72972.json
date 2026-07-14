@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 72972,
+  "poster": "https://image.tmdb.org/t/p/w500/pRyohHtB0sgJRt0XXMbVYlytdI2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uScjropoUuhfTP7O2U7h8VJYELQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/psiagKAQhOJ4H0dq8MSpC62lPUP.png",
+  "titulo": "Tom y Jerry y El mago de Oz",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Aventura",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.3,
+  "año": "2011",
+  "duracion": "0h 59min",
+  "edad_minima": 13,
+  "sinopsis": "El gato Tom y el ratón Jerry son llevados a la tierra de Oz.",
+  "fecha_estreno": "2011-08-13",
+  "titulo_original": "Tom and Jerry & The Wizard of Oz",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Dorothy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Joe Alaskey",
+      "personaje": "The Wizard of Oz / Droopy / Butch (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bYC9pHuC8ownvMlEgWoMEwItsUu.jpg"
+    },
+    {
+      "nombre": "Michael Gough",
+      "personaje": "The Scarecrow (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/a1dGHmgxR6xvnHY1CSw9GN7Yy9Z.jpg"
+    },
+    {
+      "nombre": "Rob Paulsen",
+      "personaje": "The Tin Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c9Gb8stOOftFgUiZXtXAWlSaq6e.jpg"
+    },
+    {
+      "nombre": "Todd Stashwick",
+      "personaje": "The Cowardly Lion (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/seKRXV2HMS36ip4SfQq6PLRiLL2.jpg"
+    },
+    {
+      "nombre": "Frances Conroy",
+      "personaje": "Auntie Em / Glinda (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+    },
+    {
+      "nombre": "Laraine Newman",
+      "personaje": "The Wicked Witch of the West / Miss Gulch (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c50cGamQWIfDRDgYmHCiuj5Crpx.jpg"
+    },
+    {
+      "nombre": "Stephen Root",
+      "personaje": "Uncle Henry / Crows (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Spike Brandt",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Gene Grillo",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tony Cervone",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yuna Diane Kim",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Spike Brandt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Young-Tae Kim",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tony Cervone",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "William Hanna",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "L. Frank Baum",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Matt Williames",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Matt Williames",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Jay Jackson",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Jay Jackson",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Tony Cervone",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Judge Plummer",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Spike Brandt",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Co-Producer"
+    }
+  ],
+  "director": "Spike Brandt",
+  "valoraciones": {
+    "tmdb": 6.3,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Turner Entertainment Co.",
+  "enlace_video": "https://vimeos.net/embed-dzjdztql6bpw.html",
+  "trailer": "https://www.youtube.com/watch?v=MK7evFDGdjc"
+}
