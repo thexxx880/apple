@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 22582,
+  "poster": "https://image.tmdb.org/t/p/w500/sdywKtJaynt5w2UGxJYHS92eIa3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uDdt2h4Q1jZikmYphHRerKtjMgF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/z6ajPu4fvlevOJv80fdoSvYcHEZ.png",
+  "titulo": "Tom y Jerry: La pelicula",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.343,
+  "año": "1992",
+  "duracion": "1h 23min",
+  "edad_minima": 13,
+  "sinopsis": "El popular gato y el popular ratón de dibujos animados son lanzados a una película. La historia tiene a los dos, gato y ratón, tratando de ayudar a una niña huérfana que está siendo reprendida y explotada por un guardián codicioso.",
+  "fecha_estreno": "1992-10-01",
+  "titulo_original": "Tom and Jerry: The Movie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Richard Kind",
+      "personaje": "Tom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yWmuVQeQUzb5OSMVDoWkR0IylCK.jpg"
+    },
+    {
+      "nombre": "Dana Hill",
+      "personaje": "Jerry (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kLFYJSiPfBmXTla2MKInPi4YAqX.jpg"
+    },
+    {
+      "nombre": "Anndi McAfee",
+      "personaje": "Robyn Starling (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/31BmotCrcdSR6gFnJqqCUHvy6Dh.jpg"
+    },
+    {
+      "nombre": "Tony Jay",
+      "personaje": "Lickboot (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rlL918sjBA5m6qVEjYDCKmxU7QO.jpg"
+    },
+    {
+      "nombre": "Rip Taylor",
+      "personaje": "Captain Kiddie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8Dcp66lNJeGlgVCt6eELmv9pLBE.jpg"
+    },
+    {
+      "nombre": "Henry Gibson",
+      "personaje": "Doctor Applecheek (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2Py2ZzFfTobPIHEKRYuWHhxRDqF.jpg"
+    },
+    {
+      "nombre": "Michael Bell",
+      "personaje": "Ferdinand / Straycatcher #1 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qZrtEHcKOFCbxtSedcdTU8f2uyW.jpg"
+    },
+    {
+      "nombre": "Ed Gilbert",
+      "personaje": "Puggsy / Daddy Starling (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uuyoM4Bo3zzmsDoOPzr5JeJaMdE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Phil Roman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Dennis Marks",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Phil Roman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dennis Venizelos",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Craig Sost",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "John Huey",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Gary McCarver",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Maria Gonzalez",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "Jay Jackson",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Peter J. Deluca",
+      "rol": "Video Assist Operator"
+    },
+    {
+      "nombre": "Peter J. Deluca",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Jeff Johnson",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Skip Jones",
+      "rol": "Sequence Supervisor"
+    },
+    {
+      "nombre": "Jane Jenkins",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Henry Mancini",
+      "rol": "Songs"
+    }
+  ],
+  "director": "Phil Roman",
+  "valoraciones": {
+    "tmdb": 6.343,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Film Roman",
+  "enlace_video": "https://vimeos.net/embed-pkh82ydqachn.html",
+  "trailer": "https://www.youtube.com/watch?v=dOm0nB4bl9A"
+}
