@@ -1,0 +1,151 @@
+{
+  "id_tmdb": 12599,
+  "poster": "https://image.tmdb.org/t/p/w500/onOIJL2FPGF6hQ66zDEyesfTxSi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bS93S5uEVZng4qmDhmDMXTSEuay.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/doEp346uBfJJYJ2pRjekKBDCmDe.png",
+  "titulo": "Pokémon la película 2000",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Animación",
+    "Ciencia ficción",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.751,
+  "año": "1999",
+  "duracion": "1h 24min",
+  "edad_minima": 13,
+  "sinopsis": "Ash Ketchum debe reunir las tres esferas de fuego, hielo y relámpago para devolver el equilibrio a las Islas Naranja.",
+  "fecha_estreno": "1999-07-17",
+  "titulo_original": "劇場版ポケットモンスター 幻のポケモン ルギア爆誕",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "松本梨香",
+      "personaje": "Satoshi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8kGjV2Ke6MVaR2UGtO9YpFkvuTu.jpg"
+    },
+    {
+      "nombre": "大谷育江",
+      "personaje": "Pikachu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+    },
+    {
+      "nombre": "飯塚雅弓",
+      "personaje": "Kasumi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zPWlERRLAe8TFzhOcfk8lwL0Glh.jpg"
+    },
+    {
+      "nombre": "こおろぎさとみ",
+      "personaje": "Togepy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zNJyGVOJQULuyO0isN8sTVwPaX0.jpg"
+    },
+    {
+      "nombre": "Tomokazu Seki",
+      "personaje": "Kenji (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
+    },
+    {
+      "nombre": "林原めぐみ",
+      "personaje": "Musashi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+    },
+    {
+      "nombre": "Miki Shin'ichirou",
+      "personaje": "Kojiro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/49Mg6xn69XlVDPPBDwxtNxes5zJ.jpg"
+    },
+    {
+      "nombre": "犬山イヌコ",
+      "personaje": "Nyarth (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bA6BQgafhEyRFMh4EbZQJqvIVWY.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "首藤剛志",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "吉川兆二",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yukako Matsusako",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "坂本健",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "盛武源",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "湯山邦彦",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Noriyuki Yoshida",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Takaaki Kii",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "久保雅一",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "石川博",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "鶴宏明",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "川口孝司",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "沢辺伸政",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Katsuhito Yamauchi",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "小菅和久",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "佐藤雅将",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "牛来隆行",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "今野淑子",
+      "rol": "Key Animation"
+    }
+  ],
+  "director": "湯山邦彦",
+  "valoraciones": {
+    "tmdb": 6.751,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nintendo",
+  "enlace_video": "https://voe.sx/e/mu6tqpjiabsl",
+  "trailer": "https://www.youtube.com/watch?v=3uwx7tnwdCw"
+}
