@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1064213,
+  "poster": "https://image.tmdb.org/t/p/w500/n5wEFSLkm2fCtN0FVAuphrCAjf8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/87GU2ifjNYtgYtcRH1NNH1P4ODo.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/dYVsBFfGLSCAZ9HqwOfkpgWUwTw.png",
+  "titulo": "Anora",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Romance"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.071,
+  "año": "2024",
+  "duracion": "2h 19min",
+  "edad_minima": 13,
+  "sinopsis": "Anora, una joven trabajadora sexual de Brooklyn, tiene la oportunidad de protagonizar una historia de Cenicienta cuando conoce al hijo de un oligarca y se casa impulsivamente con él. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado cuando los padres parten hacia Nueva York para anular el matrimonio.",
+  "fecha_estreno": "2024-10-14",
+  "titulo_original": "Anora",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mikey Madison",
+      "personaje": "Ani",
+      "foto": "https://image.tmdb.org/t/p/w500/nsWQNYBTBYE2TCzGpyXTpA0TTEz.jpg"
+    },
+    {
+      "nombre": "Марк Эйдельштейн",
+      "personaje": "Ivan",
+      "foto": "https://image.tmdb.org/t/p/w500/1M4zBlIRCdsQtJfi9Yn6uStGtsK.jpg"
+    },
+    {
+      "nombre": "Юра Борисов",
+      "personaje": "Igor",
+      "foto": "https://image.tmdb.org/t/p/w500/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
+    },
+    {
+      "nombre": "Karren Karagulian",
+      "personaje": "Toros",
+      "foto": "https://image.tmdb.org/t/p/w500/rxyx8OFgShe0Kolptm5LpbsOUJj.jpg"
+    },
+    {
+      "nombre": "Vache Tovmasyan",
+      "personaje": "Garnik",
+      "foto": "https://image.tmdb.org/t/p/w500/cKHEEer9V0zK96f1gE0gvQ5IvZq.jpg"
+    },
+    {
+      "nombre": "Luna Sofía Miranda",
+      "personaje": "Lulu",
+      "foto": "https://image.tmdb.org/t/p/w500/eSEfNzd7f3Eg6LxWkiA1hjN51YN.jpg"
+    },
+    {
+      "nombre": "Lindsey Normington",
+      "personaje": "Diamond",
+      "foto": "https://image.tmdb.org/t/p/w500/2sEruLIIjLpyVAYHMSpraMPlFFb.jpg"
+    },
+    {
+      "nombre": "Дарья Екамасова",
+      "personaje": "Galina Zakharov",
+      "foto": "https://image.tmdb.org/t/p/w500/ehOZQn0EcYe0m7Qf59Bo6A8niIq.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alex Coco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sean Baker",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Samantha Quan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sean Baker",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sean Baker",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Drew Daniels",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jocelyn Pierce",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Annie Johnson",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "John Warrin",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "John Warrin",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "John Warrin",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Christopher Phelps",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Ryan Scott Fitzgerald",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Stephen Phelps",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Sean Baker",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Olivia Kavanaugh",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Justine Sierakowski",
+      "rol": "Hair Department Head"
+    }
+  ],
+  "director": "Sean Baker",
+  "valoraciones": {
+    "tmdb": 7.071,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cre Film",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/db/s8/2/N/r/6/c/Nr6cx.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=8m6UrWMl18M"
+}
