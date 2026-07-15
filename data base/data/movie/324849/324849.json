@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 324849,
+  "poster": "https://image.tmdb.org/t/p/w500/vPpmg4hYMLDnDBS2sE8Svsx6RQV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rWYtghaUJSDvQm4jmXiCPXBHUdQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/l1ly31zDxwiLMWWTcjyOyV93dRe.png",
+  "titulo": "Lego Batman: la película",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.251,
+  "año": "2017",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Con el irreverente espíritu de diversión que convirtió a \"The Lego Movie\" en un fenómeno mundial, el autodenominado protagonista de ese conjunto, Lego Batman, protagoniza su propia aventura en la gran pantalla. Pero se están gestando grandes cambios en Ciudad Gótica, y si quiere salvar a la ciudad de la invasión hostil de The Joker, Batman puede tener que dejar a un lado al vigilante, tratar de trabajar con otros y tal vez, solo tal vez, aprender a alegrarse.",
+  "fecha_estreno": "2017-02-08",
+  "titulo_original": "The Lego Batman Movie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Will Arnett",
+      "personaje": "Batman / Bruce Wayne (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cXupYqk2ERP13XBkw816skYdVDO.jpg"
+    },
+    {
+      "nombre": "Michael Cera",
+      "personaje": "Robin / Dick Grayson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
+    },
+    {
+      "nombre": "Rosario Dawson",
+      "personaje": "Batgirl / Barbara Gordon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1mm7JGHIUX3GRRGXEV9QCzsI0ao.jpg"
+    },
+    {
+      "nombre": "Ralph Fiennes",
+      "personaje": "Alfred Pennyworth (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+    },
+    {
+      "nombre": "Zach Galifianakis",
+      "personaje": "Joker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ncBSLoNUufKpg7vzx1gCtjhst8i.jpg"
+    },
+    {
+      "nombre": "Jenny Slate",
+      "personaje": "Harley Quinn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iNpXig5Djkh5moYG4TCekIATs5B.jpg"
+    },
+    {
+      "nombre": "Jason Mantzoukas",
+      "personaje": "Scarecrow (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vv6ULb4DMMctAWBAWguwvDgzi7Q.jpg"
+    },
+    {
+      "nombre": "Conan O'Brien",
+      "personaje": "The Riddler (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/deRbViPut0t80miscBpP2DhBJU5.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris McKay",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Roy Lee",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Lin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Phil Lord",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Miller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Seth Grahame-Smith",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chris McKenna",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Erik Sommers",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Bill Finger",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jerry Siegel",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Joe Shuster",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Sonal Joshi",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Derryn Pasquill",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "William Moulton Marston",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jared Stern",
+      "rol": "Additional Writing"
+    },
+    {
+      "nombre": "John Whittington",
+      "rol": "Additional Writing"
+    },
+    {
+      "nombre": "David Burrows",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John Venzon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Matt Villa",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Chris McKay",
+  "valoraciones": {
+    "tmdb": 7.251,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lin Pictures",
+  "enlace_video": "https://vimeos.net/embed-7au8s1b2rt99.html",
+  "trailer": "https://www.youtube.com/watch?v=rGQUKzSDhrg"
+}
