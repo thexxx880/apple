@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 1368314,
+  "poster": "https://image.tmdb.org/t/p/w500/Ab8hV0VchllOiDbxbclAR8FwC77.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nVNKwGa0yT4yjrPC2w9CckJadLM.png",
+  "titulo": "El Pasajero Del Diablo",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.175,
+  "año": "2026",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "Tras presenciar un espantoso accidente de tráfico en la autopista, una joven pareja pronto se da cuenta de que no salieron solos del lugar del accidente, ya que una presencia demoníaca llamada el Pasajero, que no se detendrá hasta reclamarlos a ambos, convierte su aventura en furgoneta en una pesadilla.",
+  "fecha_estreno": "2026-05-20",
+  "titulo_original": "Passenger",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Lou Llobell",
+      "personaje": "Maddie",
+      "foto": "https://image.tmdb.org/t/p/w500/vjCaa2EhEFgkraE6l2Vypzb93fz.jpg"
+    },
+    {
+      "nombre": "Jacob Scipio",
+      "personaje": "Tyler",
+      "foto": "https://image.tmdb.org/t/p/w500/gcZSJy9LZ8DUDP480Q2K1OhL1Ct.jpg"
+    },
+    {
+      "nombre": "Melissa Leo",
+      "personaje": "Diana",
+      "foto": "https://image.tmdb.org/t/p/w500/ueAIX0MH68xCei3N8vFLS0EUEjY.jpg"
+    },
+    {
+      "nombre": "Joseph Lopez",
+      "personaje": "The Passenger",
+      "foto": "https://image.tmdb.org/t/p/w500/ozlHXphP1TLrLwPLJMxY00Rhnx1.jpg"
+    },
+    {
+      "nombre": "Tony Doupe",
+      "personaje": "Preacher",
+      "foto": "https://image.tmdb.org/t/p/w500/wmhu0egMzWXak0hn13Obso06KDU.jpg"
+    },
+    {
+      "nombre": "Bonni Dichone",
+      "personaje": "Diner Waitress",
+      "foto": "https://image.tmdb.org/t/p/w500/j2RljxlSGPYRIJ3TlWvEoGCj5KG.jpg"
+    },
+    {
+      "nombre": "Devielle Johnson",
+      "personaje": "Neighborhood Volunteer",
+      "foto": "https://image.tmdb.org/t/p/w500/aLTVHMv4EMniPAXXzMmDoItCLvi.jpg"
+    },
+    {
+      "nombre": "Jessica Cruz",
+      "personaje": "Diner Customer",
+      "foto": "https://image.tmdb.org/t/p/w500/oZ2etqaqV1fKiRe4gPA7buBNJmN.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "André Øvredal",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Walter Hamada",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gary Dauberman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "T. W. Burgess",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Zachary Donohue",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Federico Verardi",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Andrea Hazel Lewis",
+      "rol": "Dialect Coach"
+    },
+    {
+      "nombre": "Christopher Young",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Nathan Samdahl",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jenny Hinkey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pete Chiappetta",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anthony Tittanegro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrew Lary",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Martin Bernfeld",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Kimberly Adams",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "Tricia Wood",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jennifer L. Smith",
+      "rol": "Casting"
+    }
+  ],
+  "director": "André Øvredal",
+  "valoraciones": {
+    "tmdb": 7.175,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "18Hz Productions",
+  "enlace_video": "https://vimeos.net/embed-w2z6zxbnq12i.html",
+  "trailer": "https://www.youtube.com/watch?v=eNIn8kW1kyE"
+}
