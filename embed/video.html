@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproductor</title>
+    <style>
+        /* Reseteo de márgenes para que el iframe ocupe el 100% de la pantalla */
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #000; /* Fondo negro ideal para cine */
+            overflow: hidden; /* Evita la aparición de barras de desplazamiento */
+        }
+
+        /* Configuración del iframe */
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        /* Estilo para mensajes de error */
+        .error-message {
+            color: #fff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 20%;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- El iframe donde se cargará el reproductor de Powvideo -->
+    <iframe id="videoPlayer" allowfullscreen allow="autoplay; fullscreen"></iframe>
+
+    <script>
+        // 1. Extraer los parámetros de la URL actual
+        const params = new URLSearchParams(window.location.search);
+        let videoUrl = params.get('url');
+
+        const iframe = document.getElementById('videoPlayer');
+
+        if (videoUrl) {
+            // 2. Validación: Si la URL no trae protocolo (ej. "powvideo.com/1234"), se lo agregamos
+            if (!videoUrl.startsWith('http://') && !videoUrl.startsWith('https://')) {
+                videoUrl = 'https://' + videoUrl;
+            }
+            
+            // 3. Asignar la URL procesada al iframe para que comience a cargar
+            iframe.src = videoUrl;
+        } else {
+            // 4. Manejo de errores si alguien entra sin el parámetro ?url=
+            iframe.style.display = 'none';
+            document.body.innerHTML += '<div class="error-message">Error: No se ha proporcionado un enlace de video válido.</div>';
+        }
+    </script>
+
+</body>
+</html>
