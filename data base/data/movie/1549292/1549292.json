@@ -1,0 +1,80 @@
+{
+  "id_tmdb": 1549292,
+  "poster": "https://image.tmdb.org/t/p/w500/jHAdS2ZslMbAeAPCsiDJe3LCxS4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gbAcTyVtPfzCBs58xs6NYKHiPCp.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bMOWR8u8Ir5RWUR1Ha8EZi4zygp.png",
+  "titulo": "LEGO Frozen: Operation Puffins",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.5,
+  "año": "2025",
+  "duracion": "0h 18min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2025-10-23",
+  "titulo_original": "LEGO Frozen: Operation Puffins",
+  "pais_origen": "Denmark",
+  "reparto": [
+    {
+      "nombre": "Abby Trott",
+      "personaje": "Anna (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ot5RwJzqN0U7oC5zoMIj7uNLdwB.jpg"
+    },
+    {
+      "nombre": "Danielle Bisutti",
+      "personaje": "Elsa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3LoExh69atk7LoAC5TmxfRJGMLm.jpg"
+    },
+    {
+      "nombre": "Alan Tudyk",
+      "personaje": "Duke of Weselton (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+    },
+    {
+      "nombre": "Stephen J. Anderson",
+      "personaje": "Kai (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/csdeskOXUe9iHQBe7OqZwpQ2lRk.jpg"
+    },
+    {
+      "nombre": "Jake Green",
+      "personaje": "Olaf (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3bfUpMgBCJw1Serr18Qm8tDJQvE.jpg"
+    },
+    {
+      "nombre": "Matt Lowe",
+      "personaje": "Kristoff (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/u137BVOu2worxWBIWNkwW35b60X.jpg"
+    },
+    {
+      "nombre": "Paul Briggs",
+      "personaje": "Marshmallow (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9kzPCzw7U47F9jvrZ7gStGQrtZ9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alexandru Nagy",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kailene Murray",
+      "rol": "Production Coordinator"
+    }
+  ],
+  "director": "Alexandru Nagy",
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The LEGO Group",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/93/s8/2/q/i/9/t/qi9tz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=R6-sFBJPYyY"
+}
