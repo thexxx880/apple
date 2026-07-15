@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 18491,
+  "poster": "https://image.tmdb.org/t/p/w500/9jbxvKB937BWeYAmMKZTqPxBLsk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/AbCwf7YnBPielNGBvTXNPTMTgFA.png",
+  "titulo": "Neon Genesis Evangelion: The End of Evangelion",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Ciencia ficción",
+    "Drama",
+    "Fantasía",
+    "Acción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 8.3,
+  "año": "1997",
+  "duracion": "1h 27min",
+  "edad_minima": 13,
+  "sinopsis": "NERV se enfrenta al Decimoctavo Ángel, pero al final el destino del mundo depende de las elecciones de Shinji.",
+  "fecha_estreno": "1997-07-19",
+  "titulo_original": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "緒方恵美",
+      "personaje": "Shinji Ikari (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eNdfMUyZgG5P4TNIZpbTAu8gBs9.jpg"
+    },
+    {
+      "nombre": "林原めぐみ",
+      "personaje": "Rei Ayanami / Yui Ikari (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+    },
+    {
+      "nombre": "三石琴乃",
+      "personaje": "Misato Katsuragi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
+    },
+    {
+      "nombre": "宮村優子",
+      "personaje": "Asuka Langley Soryu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lVxXWzREWxixZ51EK4gmz9LqCV9.jpg"
+    },
+    {
+      "nombre": "立木文彦",
+      "personaje": "Gendo Ikari (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9nHFGrvdT5c4klZOiFQElybNy7h.jpg"
+    },
+    {
+      "nombre": "長沢美樹",
+      "personaje": "Maya Ibuki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vawayMgXfIm2in79OQVS5WJeYp2.jpg"
+    },
+    {
+      "nombre": "Takehito Koyasu",
+      "personaje": "Shigeru Aoba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg"
+    },
+    {
+      "nombre": "優希比呂",
+      "personaje": "Makoto Hyouga (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/43cFuuWhqTvXyHJj9bhMkEKTquU.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "石川光久",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "鶴巻和哉",
+      "rol": "Director"
+    },
+    {
+      "nombre": "庵野秀明",
+      "rol": "Director"
+    },
+    {
+      "nombre": "庵野秀明",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "三木幸子",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Masao Shibata",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "鈴木俊二",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "加藤浩",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "摩砂雪",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "平松禎史",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Mitsuharu Haibara",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "庵野秀明",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Miyuki Nanri",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "平松禎史",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "貞本義行",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "鶴巻和哉",
+      "rol": "Second Unit Director"
+    }
+  ],
+  "director": "鶴巻和哉",
+  "valoraciones": {
+    "tmdb": 8.3,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "GAINAX",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/59/s8/2/m/q/Q/D/mqQDw.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=J8t48KMGCo4"
+}
