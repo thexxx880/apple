@@ -2,24 +2,33 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reproductor</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Reproductor Responsivo</title>
     <style>
-        /* Reseteo de márgenes para que el iframe ocupe el 100% de la pantalla */
-        body, html {
+        /* Reseteo y configuración global para pantalla completa */
+        * {
+            box-sizing: border-box;
             margin: 0;
             padding: 0;
+        }
+
+        body, html {
             width: 100%;
             height: 100%;
             background-color: #000; /* Fondo negro ideal para cine */
-            overflow: hidden; /* Evita la aparición de barras de desplazamiento */
+            overflow: hidden; /* Evita barras de desplazamiento */
+            position: fixed; /* Ayuda a que el iframe no se corte en móviles */
         }
 
-        /* Configuración del iframe */
+        /* Configuración del iframe para ser totalmente responsivo */
         iframe {
-            width: 100%;
-            height: 100%;
+            position: absolute; /* Para que ocupe todo el espacio disponible */
+            top: 0;
+            left: 0;
+            width: 100vw; /* Ancho completo de la pantalla visible */
+            height: 100vh; /* Alto completo de la pantalla visible */
             border: none;
+            display: block; /* Evita espacios en blanco inferiores */
         }
 
         /* Estilo para mensajes de error */
@@ -27,7 +36,12 @@
             color: #fff;
             font-family: Arial, sans-serif;
             text-align: center;
-            margin-top: 20%;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%); /* Centrado perfecto */
+            width: 80%;
+            z-index: 10;
         }
     </style>
 </head>
