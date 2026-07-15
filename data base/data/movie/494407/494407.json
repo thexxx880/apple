@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 494407,
+  "poster": "https://image.tmdb.org/t/p/w500/mU7ECN4U4e5pLk5XyLZzDw6HJyi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/b1EKIjZWYAoC3WUk14012DX46Cb.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mCpeElQZzpxdur5bTgl49oIFtsA.png",
+  "titulo": "Pokémon: El poder de todos",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.175,
+  "año": "2018",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Cinco desconocidos con nada en común se ven trabajando juntos para salvar a las personas y los Pokémon de Ciudad Mistral.",
+  "fecha_estreno": "2018-07-13",
+  "titulo_original": "劇場版ポケットモンスター みんなの物語",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "松本梨香",
+      "personaje": "Satoshi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8kGjV2Ke6MVaR2UGtO9YpFkvuTu.jpg"
+    },
+    {
+      "nombre": "大谷育江",
+      "personaje": "Pikachu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+    },
+    {
+      "nombre": "林原めぐみ",
+      "personaje": "Musashi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+    },
+    {
+      "nombre": "Miki Shin'ichirou",
+      "personaje": "Kojiro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/49Mg6xn69XlVDPPBDwxtNxes5zJ.jpg"
+    },
+    {
+      "nombre": "犬山イヌコ",
+      "personaje": "Nyarth (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bA6BQgafhEyRFMh4EbZQJqvIVWY.jpg"
+    },
+    {
+      "nombre": "石塚運昇",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg"
+    },
+    {
+      "nombre": "川栄李奈",
+      "personaje": "Lisa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ugBtXTgOaeqr8susC4mplnpdDvi.jpg"
+    },
+    {
+      "nombre": "大倉孝二",
+      "personaje": "Kagachi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qlObbMDsQvRDHq9sPA7dCm6LvDB.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "高羽彩",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "梅原英司",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "矢嶋哲生",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "貞方希久子",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "太田都",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "廣江啓輔",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "佐藤美由紀",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "邓佳湄",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "西谷泰史",
+      "rol": "Supervising Animation Director"
+    },
+    {
+      "nombre": "西谷泰史",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "岩船真裕",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Nozomi Hosono",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "みうらたけひろ",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Yuki Hashimoto",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "加藤万由子",
+      "rol": "Key Animation"
+    }
+  ],
+  "director": "矢嶋哲生",
+  "valoraciones": {
+    "tmdb": 7.175,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "OLM",
+  "enlace_video": "https://vimeos.net/embed-0ewj39eiepe1.html",
+  "trailer": "https://www.youtube.com/watch?v=8PGsP59Io20"
+}
