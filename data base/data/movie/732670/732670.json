@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 732670,
+  "poster": "https://image.tmdb.org/t/p/w500/ApYuiyKtkyA1SMC6UgvKZczPwUj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ucEQXe6wPpPhgcJh4oXOAvX1lnb.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ik4dLd97yc4c1zre3mPpHCl5aNF.png",
+  "titulo": "LEGO Star Wars: Especial de las Fiestas",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Ciencia ficción",
+    "Aventura",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.564,
+  "año": "2020",
+  "duracion": "0h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Rey y su amigo droide BB-8 se embarcan en una búsqueda para obtener un conocimiento más profundo de la Fuerza, pero su visita a un misterioso Templo Jedi los envía a toda velocidad a través del tiempo y el espacio. Rey interactúa con Luke Skywalker, Darth Vader, Obi-Wan Kenobi, Yoda y otros personajes en algunos de los momentos más queridos de la franquicia, mientras intentan regresar a tiempo para la Fiesta del Día de la Vida con sus amigos del mundo natal wookiee de Chewbacca, Kashyyyk.",
+  "fecha_estreno": "2020-11-17",
+  "titulo_original": "LEGO Star Wars Holiday Special",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Helen Sadler",
+      "personaje": "Rey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p0plAmQNO6KCNRECPKji8hiDK4e.jpg"
+    },
+    {
+      "nombre": "Trevor Devall",
+      "personaje": "Emperor Palpatine / First Order Trooper / Mon Calamari (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iCFqgVzkhLkMOw9DKmUmfQ3OyCZ.jpg"
+    },
+    {
+      "nombre": "Matt Sloan",
+      "personaje": "Darth Vader (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xHRlMOCGtO8dO4waXfo6psntFHY.jpg"
+    },
+    {
+      "nombre": "Omar Benson Miller",
+      "personaje": "Finn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg"
+    },
+    {
+      "nombre": "Jake Green",
+      "personaje": "Greedo / Poe Dameron / Snowtrooper (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3bfUpMgBCJw1Serr18Qm8tDJQvE.jpg"
+    },
+    {
+      "nombre": "Matt Lanter",
+      "personaje": "Anakin Skywalker / Rodian (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2ms8DR9n4wh9ZU6lIuqsE58LPT9.jpg"
+    },
+    {
+      "nombre": "James Arnold Taylor",
+      "personaje": "Obi-Wan Kenobi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sSthBDGT8HBd2hXRNPymA6D0ov8.jpg"
+    },
+    {
+      "nombre": "Eric Bauza",
+      "personaje": "Luke Skywalker / Stormtrooper (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Shayne",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ken Cunningham",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Daniel Cavey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Langlois",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Josh Rimes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christian Streaty",
+      "rol": "Script Coordinator"
+    },
+    {
+      "nombre": "Tori Novie",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Adam Dib",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Keith Malone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jacqui Lopez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jill Wilfert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Waugh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Cosler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Kramer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Kyu Hyung Ray Lee",
+      "rol": "Compositing Artist"
+    },
+    {
+      "nombre": "Kyu Hyung Ray Lee",
+      "rol": "Lighting Artist"
+    }
+  ],
+  "director": "Ken Cunningham",
+  "valoraciones": {
+    "tmdb": 6.564,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lucasfilm Ltd.",
+  "enlace_video": "https://gscdn.cam/video/embed/t3uw0gil16u9",
+  "trailer": "https://www.youtube.com/watch?v=z7Q6wxV_Nw8"
+}
