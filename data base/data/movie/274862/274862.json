@@ -1,0 +1,159 @@
+{
+  "id_tmdb": 274862,
+  "poster": "https://image.tmdb.org/t/p/w500/k3KdTPZcZ2ZcnLEXyc651Tgyz3M.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6BQis8u6Q8U5J4EHqdyRRIE0njI.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6tTNaUb7Qkh7LTw2TwwSqL6C0Nw.png",
+  "titulo": "Lego Ninjago: La película",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.492,
+  "año": "2017",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "En la película, la batalla por Ninjago City llama la atención del joven maestro constructor Lloyd (Ninja Verde) y de sus amigos, todos ellos ninjas secretos. Dirigidos por el maestro Wu deberán derrotar al malvado guerrero Garmadon, un tipo tremedamente malvado que a su vez es padre de Lloyd. Padre contra hijo e hijo contra padre, este épico enfrentamiento probará a un equipo de ninjas indisciplinados que deberán aprender a controlar sus egos y trabajar unidos si quieren acabar victoriosos.",
+  "fecha_estreno": "2017-09-21",
+  "titulo_original": "The Lego Ninjago Movie",
+  "pais_origen": "Australia",
+  "reparto": [
+    {
+      "nombre": "Dave Franco",
+      "personaje": "Lloyd (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg"
+    },
+    {
+      "nombre": "Justin Theroux",
+      "personaje": "Garmadon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg"
+    },
+    {
+      "nombre": "Fred Armisen",
+      "personaje": "Cole (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rhPN8Zx6nrtNiQN2JwPkJ3ZFJ9z.jpg"
+    },
+    {
+      "nombre": "Abbi Jacobson",
+      "personaje": "Nya (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tYTlv2MmiOjPfkOE9ywGAaqllbv.jpg"
+    },
+    {
+      "nombre": "Olivia Munn",
+      "personaje": "Koko (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ha4W3WfxBopQK2FZmVochNrN1GT.jpg"
+    },
+    {
+      "nombre": "Kumail Nanjiani",
+      "personaje": "Jay (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nUIuTKmB855tdWKTNaHrdiLNuyg.jpg"
+    },
+    {
+      "nombre": "Michael Peña",
+      "personaje": "Kai (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+    },
+    {
+      "nombre": "Zach Woods",
+      "personaje": "Zane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jolb1uMzDZGTKOKyhgeG3RIsL2W.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Maryann Garger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Charlie Bean",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Christopher Miller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Lin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Roy Lee",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Phil Lord",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul Fisher",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bob Logan",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Simon Whiteley",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Felicity Coonan",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Tristan Fitzgerald",
+      "rol": "Special Effects Technician"
+    },
+    {
+      "nombre": "Annie Beauchamp",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Kim Taylor",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jackie Chan",
+      "rol": "Fight Choreographer"
+    },
+    {
+      "nombre": "Shufa Si",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Max Huang",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Qiang Zhang",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "伍刚",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Liu Xi",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "王道铁",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Charlie Bean",
+  "valoraciones": {
+    "tmdb": 6.492,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lin Pictures",
+  "enlace_video": "https://vimeos.net/embed-di28khr4b7a1.html",
+  "trailer": "https://www.youtube.com/watch?v=N0csmPZzYH0"
+}
