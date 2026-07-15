@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 1250,
+  "poster": "https://image.tmdb.org/t/p/w500/zpIL93pCQJz7gT17EnSHOkcMBOF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zbV32WKHFuEYLXLTpr0rmVjQn11.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xOT3en2teXAWyvg2qUUmBCxyaH.png",
+  "titulo": "Ghost Rider: el vengador fantasma",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Acción",
+    "Fantasía"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 5.613,
+  "año": "2007",
+  "duracion": "2h 4min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando el motociclista Johnny Blaze vende su alma al Diablo para salvar la vida de su padre, se transforma en el Vengador Fantasma, el cazador de recompensas del Diablo, y es enviado a cazar pecadores.",
+  "fecha_estreno": "2007-01-15",
+  "titulo_original": "Ghost Rider",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Nicolas Cage",
+      "personaje": "Johnny Blaze / Ghost Rider",
+      "foto": "https://image.tmdb.org/t/p/w500/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+      "nombre": "Eva Mendes",
+      "personaje": "Roxanne Simpson",
+      "foto": "https://image.tmdb.org/t/p/w500/uj6IaUDEUB7swj46dPjHAi3TEk4.jpg"
+    },
+    {
+      "nombre": "Sam Elliott",
+      "personaje": "Carter Slade / Phantom Rider",
+      "foto": "https://image.tmdb.org/t/p/w500/zE1fpXlIUo7fcujlVlGvHdDiCv6.jpg"
+    },
+    {
+      "nombre": "Wes Bentley",
+      "personaje": "Blackheart / Black King",
+      "foto": "https://image.tmdb.org/t/p/w500/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+    },
+    {
+      "nombre": "Peter Fonda",
+      "personaje": "Mephistopheles / Mephisto",
+      "foto": "https://image.tmdb.org/t/p/w500/dgorN06SQ9ZNL2NY3I7BNxg93lc.jpg"
+    },
+    {
+      "nombre": "Matt Long",
+      "personaje": "Young Johnny Blaze",
+      "foto": "https://image.tmdb.org/t/p/w500/7oOTVu3N0rmNKNn8T6kv5hiIfe6.jpg"
+    },
+    {
+      "nombre": "Brett Cullen",
+      "personaje": "Barton Blaze",
+      "foto": "https://image.tmdb.org/t/p/w500/4P6TsRcnr9MRbXlCdHitulGM5LT.jpg"
+    },
+    {
+      "nombre": "Raquel Alessi",
+      "personaje": "Young Roxanne Simpson",
+      "foto": "https://image.tmdb.org/t/p/w500/kICI4PhP8cJrv4IIcAEkkS4OGgD.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gary Foster",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steven Paul",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Steven Johnson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark Steven Johnson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Michael De Luca",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Russell Boyd",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Lizzy Gardiner",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Christopher Young",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "David Elmes",
+      "rol": "First Assistant \"A\" Camera"
+    },
+    {
+      "nombre": "Leilani Hannah",
+      "rol": "\"B\" Camera Operator"
+    },
+    {
+      "nombre": "Warwick Field",
+      "rol": "Aerial Director of Photography"
+    },
+    {
+      "nombre": "Mark Goellnicht",
+      "rol": "\"A\" Camera Operator"
+    },
+    {
+      "nombre": "Brett Matthews",
+      "rol": "First Assistant \"B\" Camera"
+    },
+    {
+      "nombre": "Mark Goellnicht",
+      "rol": "Steadicam Operator"
+    },
+    {
+      "nombre": "Brad Shield",
+      "rol": "Second Unit Director of Photography"
+    },
+    {
+      "nombre": "Owen Walstrom",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Gary Archer",
+      "rol": "Prosthetics"
+    }
+  ],
+  "director": "Mark Steven Johnson",
+  "valoraciones": {
+    "tmdb": 5.613,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Crystal Sky Pictures",
+  "enlace_video": "https://vimeos.net/embed-5s9d04gqeblj.html",
+  "trailer": "https://www.youtube.com/watch?v=nu6R7ypaz5g"
+}
