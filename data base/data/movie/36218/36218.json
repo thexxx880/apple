@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 36218,
+  "poster": "https://image.tmdb.org/t/p/w500/7s7YUi2v42TbSWdlzzKvKsX60AF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bGU8DD03FfsEPtUpu8zgu4TTHNf.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ewFBXqWXCtqLPZx5yMEBCLnUSOS.png",
+  "titulo": "Pokémon: Jirachi y los deseos",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Acción",
+    "Animación",
+    "Aventura",
+    "Fantasía",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.572,
+  "año": "2003",
+  "duracion": "1h 21min",
+  "edad_minima": 13,
+  "sinopsis": "El Cometa del Milenio va a hacer su aparición, tan anticipada desde hace tiempo, en el cielo otra vez. Supuestamente concederá los deseos de todos aquellos que lo vean aparecer por el cielo. Por supuesto, Ash y sus amigos están también interesados en el Festival del Milenio, especialmente cuando asisten a una actuación mágica del Gran Butler. Mucho más interesante es el misterioso objeto que posee Butler ¡a través del cual Max oye una misteriosa voz que le llama! Cuando Jirachi emerge de su sueño, Max tiene un nuevo amigo; por desgracia, solo durante los pocos días que el Cometa del Milenio aparece en el cielo.\r Max está ansioso por pasar el mayor tiempo posible con su nuevo amigo, pero el Gran Butler tiene sus propios planes para Jirachi, que no soy muy amistosos. Quiere revivir al Groudon Legendario, y Jirachi podría ser capaz de concederle ese deseo.\r ¿Podrán Max, Ash, May y Brock detener a Butler y salvar a Jirachi antes de que Groudon reaparezca?",
+  "fecha_estreno": "2003-07-19",
+  "titulo_original": "劇場版ポケットモンスター アドバンスジェネレーション 七夜の願い星 ジラーチ",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "松本梨香",
+      "personaje": "Satoshi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8kGjV2Ke6MVaR2UGtO9YpFkvuTu.jpg"
+    },
+    {
+      "nombre": "うえだゆうじ",
+      "personaje": "Takeshi / Sonans (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nwJBK4WwsUCcBcX425GD2BroJDr.jpg"
+    },
+    {
+      "nombre": "KAORI",
+      "personaje": "Haruka (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dC2BZG5c3GoACZmXFV2qo6YtVNk.jpg"
+    },
+    {
+      "nombre": "山田ふしぎ",
+      "personaje": "Masato (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uoodrznII4dGQhRSjb3ogqooX8D.jpg"
+    },
+    {
+      "nombre": "大谷育江",
+      "personaje": "Pikachu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+    },
+    {
+      "nombre": "鈴木富子",
+      "personaje": "Jirachi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wngJTGZ4I0jiK6RyL1RvLqGIDRv.jpg"
+    },
+    {
+      "nombre": "Miki Shin'ichirou",
+      "personaje": "Kojiro / Flygon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/49Mg6xn69XlVDPPBDwxtNxes5zJ.jpg"
+    },
+    {
+      "nombre": "林原めぐみ",
+      "personaje": "Musashi / Absol (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "吉川兆二",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "盛武源",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yukako Matsusako",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "湯山邦彦",
+      "rol": "Director"
+    },
+    {
+      "nombre": "園田英樹",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "深沢幸司",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "秋元勇一",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "樋口真嗣",
+      "rol": "Other"
+    },
+    {
+      "nombre": "秋葉みのる",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Noriyuki Suto",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "辻初樹",
+      "rol": "Other"
+    },
+    {
+      "nombre": "湯山邦彦",
+      "rol": "Other"
+    },
+    {
+      "nombre": "宮崎慎二",
+      "rol": "Music"
+    },
+    {
+      "nombre": "浅田裕二",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "辺見俊夫",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "白井久男",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "田尻智",
+      "rol": "Creator"
+    }
+  ],
+  "director": "湯山邦彦",
+  "valoraciones": {
+    "tmdb": 6.572,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "OLM",
+  "enlace_video": "https://streamwish.to/e/xme2mwjgussr",
+  "trailer": "https://www.youtube.com/watch?v=eCgjWW_5SIU"
+}
