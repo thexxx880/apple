@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 857702,
+  "poster": "https://image.tmdb.org/t/p/w500/bcPzH8PjdISs6yrqCIDEEPpRX7O.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f53Jujiap580mgfefID0T0g2e17.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kgKg7hT1A53M7XnNJlnAYNT9CQh.png",
+  "titulo": "LEGO Star Wars: Historias Aterradoras",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Ciencia ficción",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.805,
+  "año": "2021",
+  "duracion": "0h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Después de un aterrizaje forzoso en el planeta volcánico Mustafar, Poe y BB-8 buscan ayuda dentro del espeluznante castillo de Darth Vader. Allí, se encuentran con un hutt intrigante, un valiente mecánico y al antiguo asistente de Darth Vader, Vaneé, que les cuenta tres historias aterradoras relacionadas con artefactos antiguos y villanos icónicos de todas las eras de Star Wars.",
+  "fecha_estreno": "2021-10-01",
+  "titulo_original": "LEGO Star Wars Terrifying Tales",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Jake Green",
+      "personaje": "Poe Dameron / Motti (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3bfUpMgBCJw1Serr18Qm8tDJQvE.jpg"
+    },
+    {
+      "nombre": "Raphael Alejandro",
+      "personaje": "Dean (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cBS5Sin0fATnHWS4ofYIYQG8suH.jpg"
+    },
+    {
+      "nombre": "Dana Snyder",
+      "personaje": "Graballa the Hutt (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3s6O93oeY4QaAVUjrjSiBUKlMFu.jpg"
+    },
+    {
+      "nombre": "Tony Hale",
+      "personaje": "Vaneé (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg"
+    },
+    {
+      "nombre": "Christian Slater",
+      "personaje": "Ren (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+    },
+    {
+      "nombre": "Matt Sloan",
+      "personaje": "Darth Vader (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xHRlMOCGtO8dO4waXfo6psntFHY.jpg"
+    },
+    {
+      "nombre": "Trevor Devall",
+      "personaje": "Emperor Palpatine / Grand Moff Tarkin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iCFqgVzkhLkMOw9DKmUmfQ3OyCZ.jpg"
+    },
+    {
+      "nombre": "Mary Elizabeth McGlynn",
+      "personaje": "NI-L8 / Red 10 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ppflguXpUbtHM01ryaZAigaBHYe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Shayne",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ken Cunningham",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Dan Langlois",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Daniel Cavey",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Shayne",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Waugh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Rimes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jacqui Lopez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jill Wilfert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Keith Malone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Cosler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lindsay Halper",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kevin Chai",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Damon Fulford",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Joel Aron",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Gianni Aliotti",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Ken Cunningham",
+  "valoraciones": {
+    "tmdb": 6.805,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lucasfilm Ltd.",
+  "enlace_video": "https://streamwish.to/e/y2wyo1ucac1w",
+  "trailer": "https://www.youtube.com/watch?v=k3M6WcKE8d8"
+}
