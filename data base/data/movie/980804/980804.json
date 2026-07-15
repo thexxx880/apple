@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 980804,
+  "poster": "https://image.tmdb.org/t/p/w500/y2cxMR406Tn0QjWgiSGjByq3oAJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jhmGJmPcuAhF2ccuKluYlLxnyeP.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/cJGy20mfqaXexcupmmgsYY8DRQi.png",
+  "titulo": "LEGO Star Wars Vacaciones de Verano",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Ciencia ficción",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.293,
+  "año": "2022",
+  "duracion": "0h 49min",
+  "edad_minima": 13,
+  "sinopsis": "Finn ha organizado unas vacaciones sorpresa para sus amigos a bordo del Crucero estelar galáctico Halcyon. Pero el plan de Finn pronto se tuerce cuando se ve separado del grupo. Solo a bordo del Halcyon, Finn se encuentra con tres Espíritus de la Fuerza -Obi-Wan Kenobi, Anakin Skywalker y la Princesa Leia-, que comparten sus inesperados relatos de vacaciones que salieron mal.",
+  "fecha_estreno": "2022-08-05",
+  "titulo_original": "LEGO Star Wars Summer Vacation",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Kelly Marie Tran",
+      "personaje": "Rose Tico (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wmJTR2vxcCWKNMF7XPdNqhmo2rj.jpg"
+    },
+    {
+      "nombre": "Shelby Young",
+      "personaje": "Princess Leia Organa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oh4VeJpkORXoGJdIohNpXJyO3kt.jpg"
+    },
+    {
+      "nombre": "Matt Lanter",
+      "personaje": "Anakin Skywalker (voice) / Rodian (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2ms8DR9n4wh9ZU6lIuqsE58LPT9.jpg"
+    },
+    {
+      "nombre": "Anthony Daniels",
+      "personaje": "C-3PO (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7kR4kwXtvXtvrsxWeX3QLX5NS5V.jpg"
+    },
+    {
+      "nombre": "Omar Benson Miller",
+      "personaje": "Finn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg"
+    },
+    {
+      "nombre": "Ashly Burch",
+      "personaje": "Mahlnor (voice) / Tour Droid (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iINzNKiIGbjoee6tJKb8xMWog45.jpg"
+    },
+    {
+      "nombre": "Billy Dee Williams",
+      "personaje": "Lando Calrissian (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/f4s4yhgtHPmvr9W2kS7CMTi036c.jpg"
+    },
+    {
+      "nombre": "James Arnold Taylor",
+      "personaje": "Obi-Wan Kenobi (voice) / Jawa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sSthBDGT8HBd2hXRNPymA6D0ov8.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ken Cunningham",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Daniel Cavey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Langlois",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Shayne",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Shayne",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Keith Malone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Waugh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Rimes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jill Wilfert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jacqui Lopez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Cosler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lindsay Halper",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kevin Chai",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Damon Fulford",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Kramer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Matthew Wood",
+      "rol": "Supervising Sound Editor"
+    }
+  ],
+  "director": "Ken Cunningham",
+  "valoraciones": {
+    "tmdb": 6.293,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lucasfilm Ltd.",
+  "enlace_video": "https://vimeos.net/embed-wuwzov1v1bsd.html",
+  "trailer": "https://www.youtube.com/watch?v=7gQ0AzxrVi4"
+}
