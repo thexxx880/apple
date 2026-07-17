@@ -1,0 +1,119 @@
+{
+  "id_tmdb": 138502,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oudLzoZ9vqcH7BQAOAeHeC7bcjT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/i4O2d2EYfBCVFVIQaES16gchiMj.png",
+  "titulo": "X-Men '97",
+  "titulo_original": "X-Men '97",
+  "fecha_estreno": "2024-03-20",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.631,
+  "sinopsis": "Un grupo de mutantes usa sus insólitos dones para proteger a un mundo que los odia y les teme.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Dana Vasquez-Eberhardt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julia Lewald",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric Lewald",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Larry Houston",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alex Scharf",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matthew Chauncey",
+      "rol": "Consulting Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Terri Douglas",
+      "rol": "ADR Voice Casting"
+    },
+    {
+      "nombre": "Dana Vasquez-Eberhardt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julia Lewald",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric Lewald",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Larry Houston",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aisling Harbert-Phillips",
+      "rol": "Compositing Supervisor"
+    },
+    {
+      "nombre": "Christian Zabala",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Alex Scharf",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Graf",
+      "rol": "Effects Supervisor"
+    },
+    {
+      "nombre": "Matthew Chauncey",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Nathan Nance",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Anele Onyekwere",
+      "rol": "Supervising Music Editor"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Jonathan Greber",
+      "rol": "Supervising Sound Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.631,
+    "imdb": "tt16026746",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=O8Gt7T6VgCw"
+}
