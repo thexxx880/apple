@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 82452,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/bdWexsml1vsB1X2tJMZOz8YC93a.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rrogk4EBlyuPhPih3KtuMLH2L4X.png",
+  "titulo": "Avatar: La leyenda de Aang",
+  "titulo_original": "Avatar: The Last Airbender",
+  "fecha_estreno": "2024-02-22",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Familia"
+  ],
+  "puntuacion": 7.788,
+  "sinopsis": "Un chico dice ser el próximo Avatar, por lo cual debe aprender a dominar los cuatro elementos y salvar al mundo de una guerra contra un enemigo tan ambicioso como despiadado.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Gordon Cormier",
+      "personaje": "Aang",
+      "foto": "https://image.tmdb.org/t/p/w500/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg"
+    },
+    {
+      "nombre": "Kiawentiio",
+      "personaje": "Katara",
+      "foto": "https://image.tmdb.org/t/p/w500/5ows0wcpH24TH1pAD680ktFxOsb.jpg"
+    },
+    {
+      "nombre": "Ian Ousley",
+      "personaje": "Sokka",
+      "foto": "https://image.tmdb.org/t/p/w500/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg"
+    },
+    {
+      "nombre": "Dallas Liu",
+      "personaje": "Zuko",
+      "foto": "https://image.tmdb.org/t/p/w500/aismdzGeONTJHiPfofNaKGZSKZu.jpg"
+    },
+    {
+      "nombre": "Miyako",
+      "personaje": "Toph Beifong",
+      "foto": "https://image.tmdb.org/t/p/w500/16Bng9xjDVgSBf4BdFkZmqcQZah.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jake Chusid",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Teresa Huang",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Keely MacDonald",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Zampas",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Chazen",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Helen Shang",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael A. Billings",
+      "rol": "Assistant Set Decoration"
+    },
+    {
+      "nombre": "Lin MacDonald",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jake Chusid",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Teresa Huang",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Keely MacDonald",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Zampas",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Chazen",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Jennifer Page",
+      "rol": "Location Casting"
+    },
+    {
+      "nombre": "Corinne Clark",
+      "rol": "Location Casting"
+    },
+    {
+      "nombre": "Colleen Bolton",
+      "rol": "Location Casting"
+    },
+    {
+      "nombre": "Maureen Webb",
+      "rol": "Location Casting"
+    },
+    {
+      "nombre": "Jenny Jue",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Christopher Hargadon",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Brendan Ferguson",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Helen Shang",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.788,
+    "imdb": "tt9018736",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix, Nickelodeon",
+  "trailer": "https://www.youtube.com/watch?v=zMLATsYRtkM"
+}
