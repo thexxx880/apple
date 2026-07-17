@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 79356,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ibj6C3tKUJWv4thEDZNWnnTuTpf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4jj1tHgDFJebTe2F9a77WMsS5zU.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/f7P57LPteQ2k5h3NrRlcwvIO94g.png",
+  "titulo": "Tuca y Bertie",
+  "titulo_original": "Tuca & Bertie",
+  "fecha_estreno": "2019-05-03",
+  "duracion": "24min",
+  "año": "2019",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Animación"
+  ],
+  "puntuacion": 6.885,
+  "sinopsis": "Se centra en la amistad entre dos aves treintañeras que residen en el mismo edificio. Tuca es una tucán muy despreocupada y que actúa sin pensar en las consecuencias, mientras que Bertie es una zorzal soñadora e insegura. Las dos son buenas amigas que se ayudan mutuamente a sortear los altibajos de la vida.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Tiffany Haddish",
+      "personaje": "Tuca (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pvAYqQD4LXavzDkBqCrC4IgVBur.jpg"
+    },
+    {
+      "nombre": "Ali Wong",
+      "personaje": "Bertie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vpVDlzPIIzgwdO23MbbwvfmPtXQ.jpg"
+    },
+    {
+      "nombre": "Steven Yeun",
+      "personaje": "Speckle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+    },
+    {
+      "nombre": "Nicole Byer",
+      "personaje": "Gamby (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5eDmmwAumgWzlfT50gf5KpL54E9.jpg"
+    },
+    {
+      "nombre": "Reggie Watts",
+      "personaje": "Pastry Pete",
+      "foto": "https://image.tmdb.org/t/p/w500/4498ocedmBNnMIKtnMUGO8yIesx.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Lisa Hanawalt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Raphael Bob-Waksberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Noel Bright",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven A. Cohen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ali Wong",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tiffany Haddish",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Huong Nguyen",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Nicholas Barragan",
+      "rol": "Script Coordinator"
+    },
+    {
+      "nombre": "Lisa Hanawalt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Raphael Bob-Waksberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Noel Bright",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven A. Cohen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ali Wong",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tiffany Haddish",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lee Sung Jin",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Ali Wong",
+      "rol": "Executive Co-Producer"
+    },
+    {
+      "nombre": "Raphael Bob-Waksberg",
+      "rol": "Executive Co-Producer"
+    },
+    {
+      "nombre": "Jesse Novak",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Jesse Novak",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.885,
+    "imdb": "tt8036272",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Animations Adult, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=ZybYIJtbcu0"
+}
