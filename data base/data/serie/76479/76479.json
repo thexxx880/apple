@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 76479,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lTb6v3ZRanWLWoOpofXrBHNo9s1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2BpXQQE5bj8moa6vDOyoxm9pMip.png",
+  "titulo": "The Boys",
+  "titulo_original": "The Boys",
+  "fecha_estreno": "2019-07-25",
+  "duracion": "24min",
+  "año": "2019",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.443,
+  "sinopsis": "La serie tiene lugar en un mundo en el que los superhéroes representan el lado oscuro de la celebridad y la fama. Un grupo de vigilantes que se hacen llamar \"The Boys\" decide hacer todo lo posible por frenar a los superhéroes que están perjudicando a la sociedad, independientemente de los riesgos que ello conlleva.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Karl Urban",
+      "personaje": "Billy Butcher",
+      "foto": "https://image.tmdb.org/t/p/w500/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
+    },
+    {
+      "nombre": "Jack Quaid",
+      "personaje": "Hugh 'Hughie' Campbell",
+      "foto": "https://image.tmdb.org/t/p/w500/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+    },
+    {
+      "nombre": "Antony Starr",
+      "personaje": "Homelander",
+      "foto": "https://image.tmdb.org/t/p/w500/xx3As5SWcE8vYOKZgtjDjqmT3jc.jpg"
+    },
+    {
+      "nombre": "Erin Moriarty",
+      "personaje": "Annie January / Starlight",
+      "foto": "https://image.tmdb.org/t/p/w500/2tFblvjBRUYwcVT1V1i79Ppd6wG.jpg"
+    },
+    {
+      "nombre": "Laz Alonso",
+      "personaje": "Marvin T. 'Mother's Milk' Milk / M.M.",
+      "foto": "https://image.tmdb.org/t/p/w500/nmgOd3X2Xn3jIp9OLCRJzLExRWN.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jessica Chou",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gabriel Garcia",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anslem Richardson",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Stefan Steen",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Ellie Monahan",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Antony Starr",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jessica Chou",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gabriel Garcia",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anslem Richardson",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Stefan Steen",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Ellie Monahan",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Antony Starr",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chelsey Warner",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Alex Dunlap",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Lisa Donner",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "John Koyama",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Jenny Lewis",
+      "rol": "Local Casting"
+    },
+    {
+      "nombre": "Sara Kay",
+      "rol": "Local Casting"
+    },
+    {
+      "nombre": "Christopher Lennertz",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Rosalie Board",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Laura Jean Shannon",
+      "rol": "Associate Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.443,
+    "imdb": "tt1190634",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=eshJeoaDmtY"
+}
