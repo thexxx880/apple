@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 460793,
+  "poster": "https://image.tmdb.org/t/p/w500/vtDqtd3jifF3pEGcMUZXwW8yuem.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/64Rw7FFXTzx59qlugqxPB6YctFD.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hlPJL3DjagNNDldCeKEIwdbl4rA.png",
+  "titulo": "Olaf: Otra aventura congelada de Frozen",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura",
+    "Comedia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.461,
+  "año": "2017",
+  "duracion": "0h 22min",
+  "edad_minima": 13,
+  "sinopsis": "Todos se van de Arendelle por las fiestas y Anna y Elsa se dan cuenta de que no tienen tradiciones familiares propias, por lo que Olaf se embarca en la misión de llevar a casa las mejores tradiciones y salvar la Navidad.",
+  "fecha_estreno": "2017-10-27",
+  "titulo_original": "Olaf's Frozen Adventure",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Josh Gad",
+      "personaje": "Olaf (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p9hWNRwrVEBpl8We2bxLMHkk5Mj.jpg"
+    },
+    {
+      "nombre": "Kristen Bell",
+      "personaje": "Anna (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
+    },
+    {
+      "nombre": "Idina Menzel",
+      "personaje": "Elsa (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eGsyJmAZNV5tUU4RYy2DIRlFVpW.jpg"
+    },
+    {
+      "nombre": "Jonathan Groff",
+      "personaje": "Kristoff (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+    },
+    {
+      "nombre": "Eva Bella",
+      "personaje": "Young Elsa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8XmnkpEEEtXYXTQ9PFBBtIUAaBR.jpg"
+    },
+    {
+      "nombre": "Chris Williams",
+      "personaje": "Oaken (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eE2NDdeKN1DC3XuV6L4xuEbVaS.jpg"
+    },
+    {
+      "nombre": "John de Lancie",
+      "personaje": "Mr. Olsen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/e9GsjWaW9fabT22ceLzesJhUgzd.jpg"
+    },
+    {
+      "nombre": "Lauri Fraser",
+      "personaje": "Mrs. Olsen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/g1bNvk5LLnD31bKQwEAVL4w1bSr.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Stevie Wermers-Skelton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kevin Deters",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jac Schaeffer",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Roy Conli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Kesinger",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jennifer Lee",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Cory Rocco Florimonte",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "John Lasseter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Staub",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Michael Giaimo",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Chris Buck",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Christophe Beck",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jeremy Milton",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jamie Sparer Roberts",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kate Anderson",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Elyssa Samsel",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Tucker Gilmore",
+      "rol": "Production Supervisor"
+    }
+  ],
+  "director": "Stevie Wermers-Skelton",
+  "valoraciones": {
+    "tmdb": 6.461,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/06483q4fat9m",
+  "trailer": "https://www.youtube.com/watch?v=hb8WDATVB6A"
+}
