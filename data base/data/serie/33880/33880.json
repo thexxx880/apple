@@ -1,0 +1,65 @@
+{
+  "id_tmdb": 33880,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/eMo4uWsN3qceNhBPcuw5T2lFsc5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hmrNfrUl3FFaymDj6Iw5oKQjIs2.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/fKQD79DND5V5m0IW0XdX4i70PPa.png",
+  "titulo": "Avatar: La Leyenda de Korra",
+  "titulo_original": "The Legend of Korra",
+  "fecha_estreno": "2012-04-14",
+  "duracion": "23min",
+  "año": "2012",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "puntuacion": 8.211,
+  "sinopsis": "La serie se desarrolla en el mismo mundo ficticio de Avatar: la leyenda de Aang. El mundo está separado en cuatro grandes naciones: las Tribus Agua, el Reino Tierra, la Nación del Fuego y los Nómadas del Aire. El enfoque de la serie es el \"control\" o \"dominio\", la capacidad de algunos humanos de dominar un elemento asociado con su nación (agua, tierra, fuego y aire), a estos humanos se les llama «maestros». Cabe mencionar que la mayor parte de la población de \"Ciudad República\" está constituida por no-maestros, personas normales que no pueden dominar ningún elemento.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Janet Varney",
+      "personaje": "Korra (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3oMQf9mtVXXXKF2FhUH7kCIOOIf.jpg"
+    },
+    {
+      "nombre": "David Faustino",
+      "personaje": "Mako (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dNqoFIPkusGDUjjIAX0jmtQV47v.jpg"
+    },
+    {
+      "nombre": "P.J. Byrne",
+      "personaje": "Bolin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/shniQxLvKNvANyJy3hLG8Oo7fW7.jpg"
+    },
+    {
+      "nombre": "Seychelle Gabriel",
+      "personaje": "Asami Sato (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/93srWNk5J6OIwQhPazjBGw8FzZt.jpg"
+    },
+    {
+      "nombre": "J.K. Simmons",
+      "personaje": "Tenzin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Jeremy Zuckerman",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.211,
+    "imdb": "tt1695360",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime, Nickelodeon",
+  "trailer": "https://www.youtube.com/watch?v=obb1e7fiGLw"
+}
