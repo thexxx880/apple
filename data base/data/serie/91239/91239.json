@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 91239,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/4MQf8yWM47OVjjtxRdhc1SzoZVE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6umsRLI7t0ydFwCl0JNEIO0q2LH.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ze8iaJtOzkaLc8X7KCy6S1lPv8B.png",
+  "titulo": "Bridgerton",
+  "titulo_original": "Bridgerton",
+  "fecha_estreno": "2020-12-25",
+  "duracion": "24min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.062,
+  "sinopsis": "Los ocho entrañables hermanos de la familia Bridgerton buscan el amor y la felicidad en la alta sociedad londinense.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ruth Gemmell",
+      "personaje": "Lady Violet Bridgerton",
+      "foto": "https://image.tmdb.org/t/p/w500/hPtU8FTFMOneRQg7LQQdkeakJOe.jpg"
+    },
+    {
+      "nombre": "Luke Thompson",
+      "personaje": "Benedict Bridgerton",
+      "foto": "https://image.tmdb.org/t/p/w500/2MG3W8vmwYLcZaZzARv5O7GaLe2.jpg"
+    },
+    {
+      "nombre": "Yerin Ha",
+      "personaje": "Sophie Baek",
+      "foto": "https://image.tmdb.org/t/p/w500/AkEtAVGm0aNSoEYGYFH8KjFZaI7.jpg"
+    },
+    {
+      "nombre": "Luke Newton",
+      "personaje": "Colin Bridgerton",
+      "foto": "https://image.tmdb.org/t/p/w500/hQsWTiBUpE2Jywg8vvvrDLVmG5m.jpg"
+    },
+    {
+      "nombre": "Claudia Jessie",
+      "personaje": "Eloise Bridgerton",
+      "foto": "https://image.tmdb.org/t/p/w500/urv0p4Mi81m1jZO8YWF1i9NpLL7.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Eli Wilson Pelton",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Jess Brownell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom Verica",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shonda Rhimes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Van Dusen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Betsy Beers",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Julie Meghan Brown",
+      "rol": "Post Production Coordinator"
+    },
+    {
+      "nombre": "Sarah Notley",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Caleb Chan",
+      "rol": "Music Arranger"
+    },
+    {
+      "nombre": "Eli Wilson Pelton",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Natalie Papageorgiadis",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jess Brownell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alison Gartshore",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Tom Verica",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julia Quinn",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Kelly Valentine Hendry",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Shonda Rhimes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Van Dusen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Betsy Beers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kris Bowers",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.062,
+    "imdb": "tt8740790",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=gpv7ayf_tyE"
+}
