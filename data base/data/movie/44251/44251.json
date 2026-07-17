@@ -1,0 +1,133 @@
+{
+  "id_tmdb": 44251,
+  "poster": "https://image.tmdb.org/t/p/w500/daKUEF0jEFJv0CXes48LpaDg3o8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2WTjYoswcKZTQrokeUOhY3Xb3mZ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/24KFhy11LQpHcm1fkj5lbEVxpdP.png",
+  "titulo": "Dragon Ball Z: El Regreso del Guerrero Legendario",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.8,
+  "año": "1994",
+  "duracion": "0h 51min",
+  "edad_minima": 13,
+  "sinopsis": "Después de ser derrotado por Goku, Broly logra escapar en una capsula hacia la tierra. Goten, Trunks y Videl se encuentran en una aventura recolectando las esferas del dragón llegando a una aldea que estaba siendo amenazada por un monstruo, deciden ayudarlos con la condición que le den la esfera que poseían, en el transcurso Goten se pone a llorar porque no le dan un poco de comida haciendo que su lloriqueo despierte a un Broly dormido. El caoz se desata, Gohan llega en su ayuda  para dar camino a una batalla épica Gohan contra Broly.",
+  "fecha_estreno": "1994-03-12",
+  "titulo_original": "ドラゴンボールＺ 危険なふたり！超戦士はねむれない",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "Masako Nozawa",
+      "personaje": "Son Gokû / Son Gohan / Son Goten (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+    },
+    {
+      "nombre": "田中真弓",
+      "personaje": "Krillin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"
+    },
+    {
+      "nombre": "Takeshi Kusao",
+      "personaje": "Trunks (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gDiYLUdl9zXXJmhE0bAuB1Jm3FJ.jpg"
+    },
+    {
+      "nombre": "Yūko Minaguchi",
+      "personaje": "Videl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bEv0ho89VNgWkCCmT2GdNjMAuvZ.jpg"
+    },
+    {
+      "nombre": "嶋方淳子",
+      "personaje": "Koko (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kxIperXnmuKID6frgNWIdoXd5Dq.jpg"
+    },
+    {
+      "nombre": "茶風林",
+      "personaje": "Shaman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kiPG7EtYWxkj78US35gnTIMq5Dn.jpg"
+    },
+    {
+      "nombre": "江川央生",
+      "personaje": "Villager A (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7uZ43mElJTJqLsQwTkntFN4REGT.jpg"
+    },
+    {
+      "nombre": "幸野善之",
+      "personaje": "Villager B (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kUeUxczC9les0V5SstIr2Ve2LxW.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "山内重保",
+      "rol": "Director"
+    },
+    {
+      "nombre": "小山高生",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "入好さとる",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Akemi Seki",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "袴田裕二",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "鎌田均",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "井手武生",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "細田守",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "柴田則子",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "山室直儀",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "松本淳",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "山室直儀",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "山崎展義",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "志田直俊",
+      "rol": "Key Animation"
+    }
+  ],
+  "director": "山内重保",
+  "valoraciones": {
+    "tmdb": 6.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Toei Company",
+  "enlace_video": "https://gscdn.cam/video/embed/maird2taaps0",
+  "trailer": "https://www.youtube.com/watch?v=ioU887K1Obk"
+}
