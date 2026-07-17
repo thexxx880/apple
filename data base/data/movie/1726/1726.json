@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 1726,
+  "poster": "https://image.tmdb.org/t/p/w500/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/f1EpI3C6wd1iv7dCxNi3vU5DAX7.png",
+  "titulo": "Iron man - El hombre de hierro",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.662,
+  "año": "2008",
+  "duracion": "2h 6min",
+  "edad_minima": 13,
+  "sinopsis": "El multimillonario fabricante de armas Tony Stark (Robert Downey Jr.) debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en “El hombre de hierro”, un héroe que se dedica a combatir el mal en todo el mundo",
+  "fecha_estreno": "2008-04-30",
+  "titulo_original": "Iron Man",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Robert Downey Jr.",
+      "personaje": "Tony Stark",
+      "foto": "https://image.tmdb.org/t/p/w500/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "nombre": "Terrence Howard",
+      "personaje": "Rhodey",
+      "foto": "https://image.tmdb.org/t/p/w500/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg"
+    },
+    {
+      "nombre": "Jeff Bridges",
+      "personaje": "Obadiah Stane",
+      "foto": "https://image.tmdb.org/t/p/w500/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+    },
+    {
+      "nombre": "Gwyneth Paltrow",
+      "personaje": "Pepper Potts",
+      "foto": "https://image.tmdb.org/t/p/w500/x040uB0CDrHjVAUSONw8bbWMvDC.jpg"
+    },
+    {
+      "nombre": "Leslie Bibb",
+      "personaje": "Christine Everhart",
+      "foto": "https://image.tmdb.org/t/p/w500/g3a1O9lOTZvrwQupUtg4Fc3CdTd.jpg"
+    },
+    {
+      "nombre": "Shaun Toub",
+      "personaje": "Yinsen",
+      "foto": "https://image.tmdb.org/t/p/w500/6fuJ9D50bYuMAhrlEgVqzgqF0LU.jpg"
+    },
+    {
+      "nombre": "Faran Tahir",
+      "personaje": "Raza",
+      "foto": "https://image.tmdb.org/t/p/w500/dMsD7h6KiZ5dM0f9MegXUOKnqb0.jpg"
+    },
+    {
+      "nombre": "Clark Gregg",
+      "personaje": "Agent Coulson",
+      "foto": "https://image.tmdb.org/t/p/w500/mq686D91XoZpqkzELn0888NOiZW.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Fergus",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Hawk Ostby",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Matt Holloway",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Art Marcum",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jon Favreau",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "J. Michael Riva",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Dave Jordan",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Peter Billingsley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Maisel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jon Favreau",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeremy Latcham",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Laura Jean Shannon",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Ari Arad",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Halley Finn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Matthew Libatique",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Randi Hiller",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Jon Favreau",
+  "valoraciones": {
+    "tmdb": 7.662,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/18hbjk3nc5ch",
+  "trailer": "https://www.youtube.com/watch?v=Rxxfxhuob04"
+}
