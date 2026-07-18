@@ -14,7 +14,7 @@
     "Drama",
     "Misterio"
   ],
-  "puntuacion": 7.95,
+  "puntuacion": 7.954,
   "sinopsis": "Serie surgida a la sombra de \"Law & Order\". Una unidad especial de la policía de Nueva York se dedica a investigar delitos de carácter sexual: violaciones, pedofilia y malos tratos infantiles.",
   "pais_origen": "US",
   "calificacion": "16",
@@ -23,7 +23,7 @@
     {
       "nombre": "Mariska Hargitay",
       "personaje": "Olivia Benson",
-      "foto": "https://image.tmdb.org/t/p/w500/7tULgPSy5hksTi7mBF9uOnrrzHX.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/mF5BMaACeb1rlqp9Fz0f5z7N69H.jpg"
     },
     {
       "nombre": "Ice-T",
@@ -57,11 +57,11 @@
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Dick Wolf",
+      "nombre": "Peter Jankowski",
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Peter Jankowski",
+      "nombre": "Dick Wolf",
       "rol": "Executive Producer"
     }
   ],
@@ -79,11 +79,11 @@
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Dick Wolf",
+      "nombre": "Peter Jankowski",
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Peter Jankowski",
+      "nombre": "Dick Wolf",
       "rol": "Executive Producer"
     },
     {
@@ -92,7 +92,7 @@
     }
   ],
   "valoraciones": {
-    "tmdb": 7.95,
+    "tmdb": 7.954,
     "imdb": "tt0203259",
     "rotten_tomatoes": null
   },
