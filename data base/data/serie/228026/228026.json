@@ -1,0 +1,66 @@
+{
+  "id_tmdb": 228026,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/vXIdbHkphMPZXYryDSJvyGVN1Ul.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/u3HllpiOl4C9FnjSAQeh3ftB4cv.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/oGkffcocSE7XZhs3VAnextJNhHi.png",
+  "titulo": "La Ley y el Orden Toronto: Intento Criminal",
+  "titulo_original": "Law & Order Toronto: Criminal Intent",
+  "fecha_estreno": "2024-02-22",
+  "duracion": "43min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 7.191,
+  "sinopsis": "",
+  "pais_origen": "CA",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Aden Young",
+      "personaje": "DS Henry Graff",
+      "foto": "https://image.tmdb.org/t/p/w500/y7YoyvmNEJWZZP4UiDzPhz4zaPP.jpg"
+    },
+    {
+      "nombre": "Kathleen Munroe",
+      "personaje": "DS Frankie Bateman",
+      "foto": "https://image.tmdb.org/t/p/w500/co8l2AzgtCnx4SgJpcqDrIfIxli.jpg"
+    },
+    {
+      "nombre": "K.C. Collins",
+      "personaje": "Deputy Crown Attorney Theo Forrester",
+      "foto": "https://image.tmdb.org/t/p/w500/gzCsWz2xf3cMvGxR0VByW8hAr3c.jpg"
+    },
+    {
+      "nombre": "Karen Robinson",
+      "personaje": "Insp. Vivienne Holness",
+      "foto": "https://image.tmdb.org/t/p/w500/sqdscZTt23nEUeWEEpRv7OM9i21.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Ted Pyper",
+      "rol": "Set Medic"
+    },
+    {
+      "nombre": "Matthew Brown",
+      "rol": "Color Assistant"
+    },
+    {
+      "nombre": "Mark Kueper",
+      "rol": "Colorist"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.191,
+    "imdb": "tt27954448",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal",
+  "trailer": "https://www.youtube.com/watch?v=iQZCszXIhHE"
+}
