@@ -1,0 +1,104 @@
+{
+  "id_tmdb": 218557,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3GhuMtzXBw5eW4fSi8wwmgSouXD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ebaW4MeaKlWYSABcPlA5zFHGtKb.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/lrcKwwOEEf02MG2vUZYA1qvvP5Z.png",
+  "titulo": "Portobello",
+  "titulo_original": "Portobello",
+  "fecha_estreno": "2026-02-20",
+  "duracion": "70min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 7.763,
+  "sinopsis": "Esta serie narra la historia real del presentador de televisión Enzo Tortora, cuya vida da un giro cuando lo asocian falsamente con una red criminal.",
+  "pais_origen": "IT",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Fabrizio Gifuni",
+      "personaje": "Enzo Tortora",
+      "foto": "https://image.tmdb.org/t/p/w500/ptAg3zT52oqeY2mKNjiVhVbMYuh.jpg"
+    },
+    {
+      "nombre": "Lino Musella",
+      "personaje": "Giovanni Pandico",
+      "foto": "https://image.tmdb.org/t/p/w500/xZuVRh6zyh4fo5QsxERHu25l3P4.jpg"
+    },
+    {
+      "nombre": "Romana Maggiora Vergano",
+      "personaje": "Francesca Scopelliti",
+      "foto": "https://image.tmdb.org/t/p/w500/2tT5redcYdVbsgjd4kXXM4NspgU.jpg"
+    },
+    {
+      "nombre": "Barbora Bobuľová",
+      "personaje": "Anna Tortora",
+      "foto": "https://image.tmdb.org/t/p/w500/dCUMZhPuTtQo259uWKMSRhb9g3F.jpg"
+    },
+    {
+      "nombre": "Alessandro Preziosi",
+      "personaje": "Giorgio Fontana",
+      "foto": "https://image.tmdb.org/t/p/w500/ynBGohkuvPtMMiIJd2oJUr3M67z.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Lorenzo Mieli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mario Gianani",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Simone Gattoni",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Francesco Di Giacomo",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Andrea Castorina",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Daria Calvelli",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Francesca Calvelli",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Lorenzo Mieli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mario Gianani",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Simone Gattoni",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Teho Teardo",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.763,
+    "imdb": "tt35663349",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=elyhbtZjeWM"
+}
