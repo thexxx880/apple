@@ -1,0 +1,111 @@
+{
+  "id_tmdb": 238253,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qj8RLT1CKv59YYD5C4Mm3iSnkcl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3hoHqtw7WlTxbcipveELfpEXNis.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/k0eyvJ8ufebezerMMImP9q7LJYm.png",
+  "titulo": "El dentista",
+  "titulo_original": "El dentista",
+  "fecha_estreno": "2025-09-19",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.333,
+  "sinopsis": "El dentista forense Nolasco Black investiga un espeluznante asesinato que resulta haber sido cometido por Jack el Destripador. Con la ayuda de la enigmática sociedad Flammarion y asistido por Sofía, una brillante química, Black se propone detener a Jack.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Demián Bichir",
+      "personaje": "Nolasco Black",
+      "foto": "https://image.tmdb.org/t/p/w500/dur9tX8tbDDJE5mSOZkuW2VDGz4.jpg"
+    },
+    {
+      "nombre": "Dagoberto Gama",
+      "personaje": "Teniente Pardo",
+      "foto": "https://image.tmdb.org/t/p/w500/gVobDr7rVx58LHnB5WVyExiTUjS.jpg"
+    },
+    {
+      "nombre": "Ianis Guerrero",
+      "personaje": "Purra",
+      "foto": "https://image.tmdb.org/t/p/w500/rv0noqkG02l1TpaTRHgNDVjVa5E.jpg"
+    },
+    {
+      "nombre": "Roberto Sosa",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/sZ3PedQA175VHlm4A1n5rn3KDg8.jpg"
+    },
+    {
+      "nombre": "Claudia Ramírez",
+      "personaje": "Claudia Carvajal",
+      "foto": "https://image.tmdb.org/t/p/w500/iW0jQYqIJ2D0rPXaM2ovA1zMNds.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mariano Carranco",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adrián Caetano",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ángela Poblete Sarrás",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Demián Bichir",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pablo Larraín",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Juan de Dios Larraín",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mariano Carranco",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adrián Caetano",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ángela Poblete Sarrás",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julio Rojas",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Demián Bichir",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pablo Larraín",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Juan de Dios Larraín",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.333,
+    "imdb": "tt29566942",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Vix",
+  "trailer": "https://www.youtube.com/watch?v=f-VnRbZdrWw"
+}
