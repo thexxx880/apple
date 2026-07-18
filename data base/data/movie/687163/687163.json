@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 687163,
+  "poster": "https://image.tmdb.org/t/p/w500/5OrMnHwTlvndWr5vIWvyZhi4LfU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fFyLcR22R4ynrecqjMniKXm0UTp.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
+  "titulo": "Proyecto Fin del Mundo",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 8.66,
+  "año": "2026",
+  "duracion": "2h 36min",
+  "edad_minima": 13,
+  "sinopsis": "El profesor de ciencias Ryland Grace despierta en una nave espacial a años luz de su hogar sin recordar quién es ni cómo llegó allí. A medida que recupera la memoria, comienza a descubrir su misión: resolver el enigma de la misteriosa sustancia que está causando la extinción del sol.",
+  "fecha_estreno": "2026-03-15",
+  "titulo_original": "Project Hail Mary",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ryan Gosling",
+      "personaje": "Ryland Grace",
+      "foto": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+    },
+    {
+      "nombre": "Sandra Hüller",
+      "personaje": "Eva Stratt",
+      "foto": "https://image.tmdb.org/t/p/w500/tORnKU1CvjgXKsaWcYLzrJ5e1ng.jpg"
+    },
+    {
+      "nombre": "James Ortiz",
+      "personaje": "Rocky (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/unzBwVsoq8rAH8BAYlPR1zsWQ4E.jpg"
+    },
+    {
+      "nombre": "Lionel Boyce",
+      "personaje": "Carl",
+      "foto": "https://image.tmdb.org/t/p/w500/hpIxX5nkfA3pWCW8rYkEUCSBVyS.jpg"
+    },
+    {
+      "nombre": "Milana Vayntrub",
+      "personaje": "Olesya Ilyukhina",
+      "foto": "https://image.tmdb.org/t/p/w500/i5Cou9ExwTZvRRtl79V75CsI7oC.jpg"
+    },
+    {
+      "nombre": "Ken Leung",
+      "personaje": "Yao",
+      "foto": "https://image.tmdb.org/t/p/w500/hpatUP6u74gkpDRmn9voNY9V43O.jpg"
+    },
+    {
+      "nombre": "Priya Kansara",
+      "personaje": "Mary (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zv9kpaQ8AVBfjI2LAAZV58NeVQg.jpg"
+    },
+    {
+      "nombre": "Mia Soteriou",
+      "personaje": "Dr. Browne",
+      "foto": "https://image.tmdb.org/t/p/w500/bU4Twfk4as290gPFouByj7Wjd2.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rachel O'Connor",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan Gosling",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Phil Lord",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Christopher Miller",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Aditya Sood",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Amy Pascal",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Miller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Phil Lord",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dan Channing-Williams",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Will Allegra",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charles Wood",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Drew Goddard",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Esberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ken Kao",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Greig Fraser",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Joel Venti",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Mike Stallion",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Tara Ilsley",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Andy Weir",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Patricia Whitcher",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Phil Lord",
+  "valoraciones": {
+    "tmdb": 8.66,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lord Miller",
+  "enlace_video": "https://rumble.com/hls-vod/786lhg/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=NKYea63tQmI"
+}
