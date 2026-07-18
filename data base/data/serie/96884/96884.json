@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 96884,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/spo9ZaCbIRaU2esyOycSEVZpMe3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vp9FfcIS8j2oNkgYlCx3US5te67.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/At3fW8zBPECsre4nGsBOYt5XtbM.png",
+  "titulo": "Dragon Quest: The Adventure of Dai",
+  "titulo_original": "ドラゴンクエスト ダイの大冒険",
+  "fecha_estreno": "2020-10-02",
+  "duracion": "24min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.992,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "種﨑敦美",
+      "personaje": "Dai (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6tM8GU7QvrdUCvR4kxqVUZivtvO.jpg"
+    },
+    {
+      "nombre": "豊永利行",
+      "personaje": "Popp (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/duhxGjWjgo6WagvGgKu529ztz7u.jpg"
+    },
+    {
+      "nombre": "小松未可子",
+      "personaje": "Maam (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/13tQEZ1tLdOmi7oGoRJ4xep1ODQ.jpg"
+    },
+    {
+      "nombre": "梶裕貴",
+      "personaje": "Hyunckel (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+    },
+    {
+      "nombre": "櫻井孝宏",
+      "personaje": "Avan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "本安哲人",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "櫻田博之",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "内藤圭祐",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "奈良初男",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "中村英祥",
+      "rol": "Associate Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "伊藤光晴",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "西村英一",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "五十嵐慎一",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "高橋友彦",
+      "rol": "CGI Director"
+    },
+    {
+      "nombre": "藤井綾香",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "本安哲人",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "櫻田博之",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "内藤圭祐",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "奈良初男",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "はっとり",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "長谷川大喜",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "田辺由明",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "高野賢也",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Kazuya Karasawa",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "三条陸",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.992,
+    "imdb": "tt11858104",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=zrK9OnlG7-s"
+}
