@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 285404,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/nzT8zBGRlusc3yVJnHDOJvWslPh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9mZlvYlGA4jblCvAvOpinrgn6hr.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7BizhHGe3l0Qd5QtLh2ipjIMiAq.png",
+  "titulo": "Máximo placer garantizado",
+  "titulo_original": "Maximum Pleasure Guaranteed",
+  "fecha_estreno": "2026-05-19",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 5.9,
+  "sinopsis": "Una mamá recién divorciada cae en una peligrosa maraña de chantaje, asesinato y fútbol juvenil.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Tatiana Maslany",
+      "personaje": "Paula Sanders",
+      "foto": "https://image.tmdb.org/t/p/w500/x8lBkm9CBJbIlLpqjEwkQydZ2or.jpg"
+    },
+    {
+      "nombre": "Jake Johnson",
+      "personaje": "Karl Hendricks",
+      "foto": "https://image.tmdb.org/t/p/w500/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+    },
+    {
+      "nombre": "Dolly de Leon",
+      "personaje": "Detective Sofia Gonzalez",
+      "foto": "https://image.tmdb.org/t/p/w500/mNskbR6hayRY3DjTcECqIJ7eQsO.jpg"
+    },
+    {
+      "nombre": "Jessy Hodges",
+      "personaje": "Mallory",
+      "foto": "https://image.tmdb.org/t/p/w500/cRGqWZqxxqomvtRvxdVninq6P0k.jpg"
+    },
+    {
+      "nombre": "Jon Michael Hill",
+      "personaje": "Detective Baxter",
+      "foto": "https://image.tmdb.org/t/p/w500/cn8a3KUxhBIV5mJ04JldUeGrx3D.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bard Dorros",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Gordon Green",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Rosen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Audrey Chon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Sokoloff",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bard Dorros",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Gordon Green",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Rosen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Audrey Chon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Sokoloff",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sharon Bialy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Sia Balabanova",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Matthew Munn",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Katie Bova",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Catherine Marie Thomas",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Rafael Lima",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Joseph A. Alfieri Jr.",
+      "rol": "Construction Coordinator"
+    },
+    {
+      "nombre": "Christof Gebert",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Bennett Kerr",
+      "rol": "Sound Effects Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.9,
+    "imdb": "tt35946742",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Apple TV",
+  "trailer": "https://www.youtube.com/watch?v=1Q01VbRXyC4"
+}
