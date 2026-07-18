@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 219937,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/9XLULEZTkeLwRytTUQtgmx2HH4o.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7f2bZ9TdBOlnKpdiir8xWDv6yOi.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/tsUjg7YtQtWa4YVj1RtliBbuV1w.png",
+  "titulo": "Dexter: Pecado Original",
+  "titulo_original": "Dexter: Original Sin",
+  "fecha_estreno": "2024-12-15",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "En 1991, Miami. Dexter Morgan pasa de ser estudiante a ser un asesino en serie vengador, ya que sus impulsos sanguinarios no pueden ignorarse y debe aprender a canalizar su oscuridad interior. Un desafío particular para el joven Dexter, que comienza una pasantía forense en el Departamento de Policía Metropolitana de Miami.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Patrick Gibson",
+      "personaje": "Dexter Morgan",
+      "foto": "https://image.tmdb.org/t/p/w500/1pCUKn2BqJJB5IuktEZGgYw6hbt.jpg"
+    },
+    {
+      "nombre": "Christian Slater",
+      "personaje": "Harry Morgan",
+      "foto": "https://image.tmdb.org/t/p/w500/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+    },
+    {
+      "nombre": "Molly Brown",
+      "personaje": "Debra Morgan",
+      "foto": "https://image.tmdb.org/t/p/w500/qB9WaA6ekkULwwiiNxcXUsdDi9q.jpg"
+    },
+    {
+      "nombre": "James Martinez",
+      "personaje": "Angel Batista",
+      "foto": "https://image.tmdb.org/t/p/w500/xWGHtcBUmNO9MBqoDHPtetQZ3k7.jpg"
+    },
+    {
+      "nombre": "Christina Milian",
+      "personaje": "Maria LaGuerta",
+      "foto": "https://image.tmdb.org/t/p/w500/9aBvgyiWKk90pbCFMR1JBgwcriu.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Tony Hernandez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael C. Hall",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mary Leah Sutton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Clyde Phillips",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lilly Burns",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Lloyd Lewis",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tony Hernandez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael C. Hall",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mary Leah Sutton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Clyde Phillips",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lilly Burns",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Lloyd Lewis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Scott Reynolds",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Manos Jr.",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "John Goldwyn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sara Colleton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pat Irwin",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jahn Sood",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Sam Bishoff",
+      "rol": "Additional Music"
+    },
+    {
+      "nombre": "Kyle Acheson",
+      "rol": "Additional Music"
+    },
+    {
+      "nombre": "Jeff Lindsay",
+      "rol": "Novel"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "tt32252772",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount",
+  "trailer": "https://www.youtube.com/watch?v=Bw8ZdQpVtdU"
+}
