@@ -14,36 +14,36 @@
     "Sci-Fi & Fantasy",
     "Action & Adventure"
   ],
-  "puntuacion": 8.7,
+  "puntuacion": 8.683,
   "sinopsis": "Muchos años atrás, la humanidad estuvo al borde de la extinción con la aparición de unas criaturas gigantes que devoraban a todas las personas. Huyendo, la humanidad consiguió sobrevivir en una ciudad fortificada de altas murallas que se ha convertido en el último reducto de la civilización contra los Titanes que campan a sus anchas por el mundo. Ahora esa paz está a punto de verse interrumpida por una cadena de acontecimientos que llevará a desvelar qué son los Titanes y cómo aparecieron.",
   "pais_origen": "JP",
   "calificacion": "16",
   "edad_minima": 16,
   "reparto": [
     {
-      "nombre": "梶裕貴",
-      "personaje": "Eren Yeager (voice)",
-      "foto": "https://image.tmdb.org/t/p/w500/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
-    },
-    {
-      "nombre": "石川由依",
-      "personaje": "Mikasa Ackerman (voice)",
-      "foto": "https://image.tmdb.org/t/p/w500/2y1y1W4q8UIR0Vbs4NNvc7722XT.jpg"
-    },
-    {
       "nombre": "井上麻里奈",
       "personaje": "Armin Arlert (voice)",
       "foto": "https://image.tmdb.org/t/p/w500/nQ7a3krkbea6ukw9KGvvTpMma96.jpg"
     },
     {
-      "nombre": "谷山紀章",
-      "personaje": "Jean Kirstein (voice)",
-      "foto": "https://image.tmdb.org/t/p/w500/9lOnUF6C6xEhZ0FQmYNzNZhcUpd.jpg"
-    },
-    {
       "nombre": "下野紘",
       "personaje": "Connie Springer (voice)",
       "foto": "https://image.tmdb.org/t/p/w500/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
+    },
+    {
+      "nombre": "梶裕貴",
+      "personaje": "Eren Yeager (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+    },
+    {
+      "nombre": "花江夏樹",
+      "personaje": "Falco Grice (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+    },
+    {
+      "nombre": "佐倉綾音",
+      "personaje": "Gabi Braun (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yPbTmntASE9psPIMhNGU5oo6vIH.jpg"
     }
   ],
   "director": "",
@@ -136,7 +136,7 @@
     }
   ],
   "valoraciones": {
-    "tmdb": 8.7,
+    "tmdb": 8.683,
     "imdb": "tt2560140",
     "rotten_tomatoes": null
   },
