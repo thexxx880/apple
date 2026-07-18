@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 70828,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/97xpke32aNz0XSl6OHLilu9GK63.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5ME2ayualWbyWaZYLWLjIivSi36.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/x6deZHlARj67C0Ojqo1hHv0m4KT.png",
+  "titulo": "Sobreviviendo a Escobar, Alias JJ",
+  "titulo_original": "Alias JJ",
+  "fecha_estreno": "2017-02-08",
+  "duracion": "45min",
+  "año": "2017",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 7.785,
+  "sinopsis": "Relata la historia de Jhon Jairo Velásquez mejor conocido por «Alias Popeye» durante la cárcel desde la captura en la muerte de Escobar hasta los últimos años de la prisión, mostrando las más importantes y relevantes acontecimientos que tuvo él, durante el encerramiento en ésta misma. También narra la historia de este país a nivel política y social de aquella época durante la temporada del Narcoterrorismo.",
+  "pais_origen": "CO",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Juan Pablo Urrego",
+      "personaje": "Jhon Velásquez \"Alias J.J.\"",
+      "foto": "https://image.tmdb.org/t/p/w500/4TNyhSkYis42mSt0o9UYhXo13g9.jpg"
+    },
+    {
+      "nombre": "Toto Vega",
+      "personaje": "Iván Darío Urrego",
+      "foto": "https://image.tmdb.org/t/p/w500/8jmMYv9N9bVI4vUJ9woCrmQAzJ3.jpg"
+    },
+    {
+      "nombre": "Ramsés Ramos",
+      "personaje": "Tulio Galeno",
+      "foto": "https://image.tmdb.org/t/p/w500/mllk3V224iTfv4PljK9cg9qLkYC.jpg"
+    },
+    {
+      "nombre": "Nicole Santamaría",
+      "personaje": "Alexandra Restrepo de Velásquez",
+      "foto": "https://image.tmdb.org/t/p/w500/rxDYDMVIiuOLB7va7gNFzhrWdFg.jpg"
+    },
+    {
+      "nombre": "Natasha Klauss",
+      "personaje": "Ana María Solozábal",
+      "foto": "https://image.tmdb.org/t/p/w500/gdhHVVDdOUK9RgmWrckbUGK9SOg.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Juan Carlos Vásquez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jorge Sandoval",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Asier Aguilar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Luis Alberto Restrepo",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gabriel Pinto",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ivan Mendoza",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Pablo Guevara",
+      "rol": "Colorist"
+    },
+    {
+      "nombre": "Johnny A. Ortiz",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Carlos Pinilla",
+      "rol": "Compositor"
+    },
+    {
+      "nombre": "Juan Carlos Vásquez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jose Ricardo Torres",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Monica Santos",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Andres Arteaga Garcia",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Daniel Pineda",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Daniel Baracaldo Sierra",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Julian Rios",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jorge Sandoval",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Asier Aguilar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hugo Ortíz",
+      "rol": "First Assistant Camera"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.785,
+    "imdb": "tt6809396",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=2gX8CY6LPbI"
+}
