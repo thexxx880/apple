@@ -1,0 +1,96 @@
+{
+  "id_tmdb": 289763,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1ZYTOo1oDC9jMV9UEI8rfK8R2iH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/1hbP4uqhJVYa0DbVOiUz291WdJO.png",
+  "titulo": "¡Nos vemos en la oficina!",
+  "titulo_original": "내일도 출근!",
+  "fecha_estreno": "2026-06-22",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 9.06,
+  "sinopsis": "Cha Ji-yoon lleva 7 años trabajando en el mundo corporativo y está cansada del trabajo y de las citas. Kang Si-woo, un cínico jefe con mala reputación, se cruza en su camino. De forma inesperada, ella recupera la ilusión al ver la bondad detrás de sus duras palabras. En medio de trayectos al trabajo, accidentes laborales y relaciones fallidas, ambos se convierten en el principal apoyo del otro.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "서인국",
+      "personaje": "Kang Si-woo",
+      "foto": "https://image.tmdb.org/t/p/w500/gs7RRZt2tWBJ7OR9BD3TFSYteJj.jpg"
+    },
+    {
+      "nombre": "박지현",
+      "personaje": "Cha Ji-yoon",
+      "foto": "https://image.tmdb.org/t/p/w500/x7DPPjek9LC4XbDMLq7k2Dlzw7P.jpg"
+    },
+    {
+      "nombre": "강미나",
+      "personaje": "Yoon No-ah",
+      "foto": "https://image.tmdb.org/t/p/w500/sIGBlUCXt8pBqZhjesm4PKthEIn.jpg"
+    },
+    {
+      "nombre": "원규빈",
+      "personaje": "Lee Jae-in",
+      "foto": "https://image.tmdb.org/t/p/w500/ijhPuQAGgPia6I5k1b6wsAl8qmw.jpg"
+    },
+    {
+      "nombre": "Choi Kyung-hoon",
+      "personaje": "Cho Ga-eul",
+      "foto": "https://image.tmdb.org/t/p/w500/xQT7YEgtJgN4Ta5nbWG4gDBJixs.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "조은솔",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Yu Seul-ki",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kim Seon-tae",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "이지윤",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "조은솔",
+      "rol": "Director"
+    },
+    {
+      "nombre": "McQueen Studio",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Yu Seul-ki",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kim Seon-tae",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "이지윤",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9.06,
+    "imdb": "tt38960812",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=kBGgK8F3CSU"
+}
