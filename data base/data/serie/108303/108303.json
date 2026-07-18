@@ -1,0 +1,83 @@
+{
+  "id_tmdb": 108303,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/9sNns2DN9nEAefvV6YsOHiB8lId.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9ymb4gRtC8PFHHWtF8BsENKoym9.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2dx4MLsjVvEe7x8l6s0MnXMIvuZ.png",
+  "titulo": "Pequeñas maravillas",
+  "titulo_original": "Tiny World",
+  "fecha_estreno": "2020-10-02",
+  "duracion": "24min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 7.992,
+  "sinopsis": "Esta serie documental retrata a los más diminutos y extraordinarios héroes de la naturaleza. Mostrando cómo sobreviven, nos sorprende con sus historias y espectacular cinematografía.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Paul Rudd",
+      "personaje": "Self - Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Tom Hugh-Jones",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Grant Mansfield",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Martha Holmes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul Rudd",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tom Hugh-Jones",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Grant Mansfield",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Martha Holmes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Fowler",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Paul Rudd",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Benjamin Wallfisch",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Chris Egan",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.992,
+    "imdb": "tt13007904",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Apple TV",
+  "trailer": "https://www.youtube.com/watch?v=L4lwhKq5bIA"
+}
