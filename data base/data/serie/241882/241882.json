@@ -1,0 +1,122 @@
+{
+  "id_tmdb": 241882,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/uv4p19wOJpHZEz3yEiSTVTgddKY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/1n1alDnlTXQ4rMU7ClncmPeJcoM.png",
+  "titulo": "Ride or Die",
+  "titulo_original": "Ride or Die",
+  "fecha_estreno": "2026-07-15",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Action & Adventure"
+  ],
+  "puntuacion": 3.7,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Hannah Waddingham",
+      "personaje": "Judith Burton",
+      "foto": "https://image.tmdb.org/t/p/w500/eHAICyhvjiRZCgzKyJCk9hWnnjr.jpg"
+    },
+    {
+      "nombre": "Octavia Spencer",
+      "personaje": "Debbie Claybourne",
+      "foto": "https://image.tmdb.org/t/p/w500/zDGydyM1fmvNWzQlTAns9IZjNxT.jpg"
+    },
+    {
+      "nombre": "Bill Nighy",
+      "personaje": "The Director",
+      "foto": "https://image.tmdb.org/t/p/w500/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+      "nombre": "Ed Skrein",
+      "personaje": "Billy Donovan",
+      "foto": "https://image.tmdb.org/t/p/w500/btJvbQbWf3ciYM4SM5tMWSJEkXX.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Octavia Spencer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Ellison",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andy Muschietti",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hannah Waddingham",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tessa Coates",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Octavia Spencer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Ellison",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andy Muschietti",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hannah Waddingham",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tessa Coates",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Irene Yeung",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Barbara Muschietti",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Thunell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peyton Reed",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Austin Lapierre",
+      "rol": "Co-Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 3.7,
+    "imdb": "tt30494226",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount, Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=R0el4iuC2ss"
+}
