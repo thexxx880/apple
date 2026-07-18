@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1405,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png",
+  "titulo": "Dexter",
+  "titulo_original": "Dexter",
+  "fecha_estreno": "2006-10-01",
+  "duracion": "60min",
+  "año": "2006",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "Dexter Morgan, un analista de patrones de salpicaduras de sangre de la Policía Metropolitana de Miami, también lleva una vida secreta como asesino en serie, persiguiendo a criminales que han escapado a la justicia.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Michael C. Hall",
+      "personaje": "Dexter Morgan",
+      "foto": "https://image.tmdb.org/t/p/w500/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
+    },
+    {
+      "nombre": "Jennifer Carpenter",
+      "personaje": "Debra Morgan",
+      "foto": "https://image.tmdb.org/t/p/w500/sQeNgRFfCjt3EHMuaJBm8jRCLgw.jpg"
+    },
+    {
+      "nombre": "Geoff Pierson",
+      "personaje": "Tom Matthews",
+      "foto": "https://image.tmdb.org/t/p/w500/vIhxKBwqV19CwHdPuycmkchYOba.jpg"
+    },
+    {
+      "nombre": "David Zayas",
+      "personaje": "Angel Batista",
+      "foto": "https://image.tmdb.org/t/p/w500/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
+    },
+    {
+      "nombre": "James Remar",
+      "personaje": "Harry Morgan",
+      "foto": "https://image.tmdb.org/t/p/w500/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Scott Reynolds",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Arika Lisanne Mittman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jace Richdale",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lauren Gussis",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Tim Schlattmann",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Manny Coto",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jennifer Yale",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Scott Reynolds",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Arika Lisanne Mittman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jace Richdale",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeffrey Jur",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Lauren Gussis",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Tim Schlattmann",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Manny Coto",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael C. Hall",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Buck",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Helen Geier",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Shawn Dawson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tricia Wood",
+      "rol": "Original Casting"
+    },
+    {
+      "nombre": "Jennifer L. Smith",
+      "rol": "Original Casting"
+    },
+    {
+      "nombre": "Deborah Aquila",
+      "rol": "Original Casting"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "tt0773262",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=YQeUmSD1c3g"
+}
