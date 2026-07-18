@@ -1,0 +1,73 @@
+{
+  "id_tmdb": 300727,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/wR7y2h0ccbaTnU5KpUjKIesflng.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/vlEMhUDt4y47jch2fKgzBJJMC0q.png",
+  "titulo": "El complejo de apartamentos",
+  "titulo_original": "아파트",
+  "fecha_estreno": "2026-07-11",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Crimen"
+  ],
+  "puntuacion": 5.3,
+  "sinopsis": "Un ex jefe criminal desesperado por conseguir dinero y una aspirante a abogada buscan robar el fondo de reserva de un complejo de apartamentos… y descubren una profunda corrupción.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "지성",
+      "personaje": "Park Hae-gang",
+      "foto": "https://image.tmdb.org/t/p/w500/6RBiKyGLczeCrgnu1tfw5URRvEg.jpg"
+    },
+    {
+      "nombre": "하윤경",
+      "personaje": "Kang Ha-ri",
+      "foto": "https://image.tmdb.org/t/p/w500/855aD0tnj8rOJRdVfeu26eXdFO3.jpg"
+    },
+    {
+      "nombre": "문소리",
+      "personaje": "Jang Sook-jin",
+      "foto": "https://image.tmdb.org/t/p/w500/iXfIsmrzohNAAf2gyPCE06rJM1N.jpg"
+    },
+    {
+      "nombre": "박병은",
+      "personaje": "Lee Chung-won",
+      "foto": "https://image.tmdb.org/t/p/w500/8lDiEHjbBxPD8VNu1kGifMXhPUn.jpg"
+    },
+    {
+      "nombre": "백현진",
+      "personaje": "Lee Kang-won",
+      "foto": "https://image.tmdb.org/t/p/w500/1wKuypLzAzaSDUd93cuCz1N75qx.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "조용원",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "조용원",
+      "rol": "Director"
+    },
+    {
+      "nombre": "김윤영",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.3,
+    "imdb": "tt43357366",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=aovCC9XFVew"
+}
