@@ -1,0 +1,64 @@
+{
+  "id_tmdb": 320472,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/89qQzMmXD5r0UOOxH6ob8U6T8ei.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wTehSVPfmzggbLIAH9UBvrHxjzC.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ihAyDkwIKwSqrOGFKihhtIpBZuw.png",
+  "titulo": "Kylie",
+  "titulo_original": "Kylie",
+  "fecha_estreno": "2026-05-20",
+  "duracion": "61min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 8.737,
+  "sinopsis": "De actriz de telenovela a superestrella, la carrera de Kylie ha estado colmada de giros y éxitos superpegadizos. En esta serie documental sin censura, la cantante abre su corazón.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Kylie Minogue",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/sVe6DQ1iFlk4nad0Bd3WVVVj23P.jpg"
+    },
+    {
+      "nombre": "Dannii Minogue",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/lemCwKUHzpiQAWqMTMYsNq9eyyr.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "John Battsek",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Battsek",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Brocato",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Camilo Forero",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Sami Goldberg",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.737,
+    "imdb": "tt41993588",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=k-358jALXlA"
+}
