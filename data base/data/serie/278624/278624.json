@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 278624,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png",
+  "titulo": "Lucky",
+  "titulo_original": "Lucky",
+  "fecha_estreno": "2026-07-14",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 5.756,
+  "sinopsis": "Cuando un robo multimillonario sale mal, la estafadora Lucky se ve obligada a escapar. Perseguida por el FBI y un despiadado jefe militar, Lucky debe pelear por su vida y por una salida.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Anya Taylor-Joy",
+      "personaje": "Luciana 'Lucky' Armstrong",
+      "foto": "https://image.tmdb.org/t/p/w500/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+    },
+    {
+      "nombre": "Annette Bening",
+      "personaje": "Priscilla Masterson",
+      "foto": "https://image.tmdb.org/t/p/w500/kGslMAWcpv8MKzODhDRDkFE0uX7.jpg"
+    },
+    {
+      "nombre": "Clifton Collins Jr.",
+      "personaje": "Harris Dutch",
+      "foto": "https://image.tmdb.org/t/p/w500/xfD0scqaPvAxKCPHYLo8553Le5g.jpg"
+    },
+    {
+      "nombre": "Aunjanue Ellis-Taylor",
+      "personaje": "Agent Billie Rand",
+      "foto": "https://image.tmdb.org/t/p/w500/e54DfgDyS67xdtomYODFule6Ofa.jpg"
+    },
+    {
+      "nombre": "Timothy Olyphant",
+      "personaje": "John Armstrong",
+      "foto": "https://image.tmdb.org/t/p/w500/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Anya Taylor-Joy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Reese Witherspoon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan Tropper",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lauren Neustadter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cassie Pappas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan van Tulleken",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Anya Taylor-Joy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Reese Witherspoon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan Tropper",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marissa Stapley",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Lauren Neustadter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cassie Pappas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeanie Bacharach",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Brittany Bradford",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jonathan van Tulleken",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ariel Levine",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Kevin Rosen",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Hilary Bettis",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Mark Stasenko",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Isabella Summers",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Melissa Parent Connolly",
+      "rol": "Co-Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.756,
+    "imdb": "tt34866681",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Apple TV",
+  "trailer": "https://www.youtube.com/watch?v=gMxK1852DV0"
+}
