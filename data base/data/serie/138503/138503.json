@@ -1,0 +1,125 @@
+{
+  "id_tmdb": 138503,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/aSe4aB8tiPQMoQt9B4SKFgIymwL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kkT2B2gmynoh9kZMo1gromLNeqy.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/37AAYSkDYRzEjFOlBFzjEBcE1sc.png",
+  "titulo": "Tu amigo y vecino Spider-Man",
+  "titulo_original": "Your Friendly Neighborhood Spider-Man",
+  "fecha_estreno": "2025-01-29",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.8,
+  "sinopsis": "Peter Parker está en camino a convertirse en héroe, pero su recorrido no será para nada ordinario.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Hudson Thames",
+      "personaje": "Peter Parker / Spider-Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7VpYPW62UlqwFhKyhN7tR1olv4X.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jeff Trammell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Winderbaum",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Vasquez-Eberhardt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Danielle Costa",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jeff Trammell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Winderbaum",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tony Villaflor",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Mac Smith",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Mac Smith",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Steve Ditko",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Leo Birenberg",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Zach Robinson",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Dana Vasquez-Eberhardt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dave Jordan",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Christian Zabala",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Danielle Costa",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": "tt16027074",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=bAqz7F7vn8M"
+}
