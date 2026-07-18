@@ -1,0 +1,96 @@
+{
+  "id_tmdb": 76773,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/k2RhaJ7AGBAt1ZY6cxJD7Pzjtif.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1vwIV2zQ88Dx6PwY7ZFZyamhYhV.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/TvfpsO4VtP4cPPkdZQeyjCqjno.png",
+  "titulo": "Estación 19",
+  "titulo_original": "Station 19",
+  "fecha_estreno": "2018-03-22",
+  "duracion": "24min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.197,
+  "sinopsis": "La serie sigue a un grupo de heroicos bomberos del Departamento de Bomberos de Seattle en la Estación 19 desde el capitán hasta el más reciente recluta en sus vidas personales y profesionales",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jaina Lee Ortiz",
+      "personaje": "Andy Herrera",
+      "foto": "https://image.tmdb.org/t/p/w500/ikGhIZ1vXkkr2ocZO2xWjWEex5D.jpg"
+    },
+    {
+      "nombre": "Jason George",
+      "personaje": "Ben Warren",
+      "foto": "https://image.tmdb.org/t/p/w500/eTiyxcbtEsdANo1NGFsfk3mZPW3.jpg"
+    },
+    {
+      "nombre": "Boris Kodjoe",
+      "personaje": "Robert Sullivan",
+      "foto": "https://image.tmdb.org/t/p/w500/fo6bMq96LUDEatiXlQlMctOMGI3.jpg"
+    },
+    {
+      "nombre": "Barrett Doss",
+      "personaje": "Victoria Hughes",
+      "foto": "https://image.tmdb.org/t/p/w500/kmllxoRWq92gSVG4Tt1CTdL7dJT.jpg"
+    },
+    {
+      "nombre": "Jay Hayden",
+      "personaje": "Travis Montgomery",
+      "foto": "https://image.tmdb.org/t/p/w500/o5HdiOeKTrtHiPcd96McJp08lJ7.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Shonda Rhimes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Betsy Beers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paris Barclay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Krista Vernoff",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Shonda Rhimes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Betsy Beers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paris Barclay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Krista Vernoff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stacy McKee",
+      "rol": "Creator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.197,
+    "imdb": "tt7053188",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=T8rZHWgYpyA"
+}
