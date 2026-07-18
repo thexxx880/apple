@@ -1,0 +1,63 @@
+{
+  "id_tmdb": 321596,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/be7cg7V1R8QcfRI5N1pAMwJo62r.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/v2sqiw5PYHAxniOlKUdc7AGLOBF.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/saWjtIcVFwn9uWEjhsmOz0gxXSg.png",
+  "titulo": "James.",
+  "titulo_original": "James.",
+  "fecha_estreno": "2026-05-21",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 8.3,
+  "sinopsis": "En esta serie documental, James Rodríguez, el mítico n.º 10 de Colombia, revela detalles inéditos sobre su ascenso a la élite del fútbol y la vitrina más importante del deporte.",
+  "pais_origen": "CO",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "James Rodríguez",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/nHLylevc6SfySCUPxDvbzlEITjl.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Julio César Gaviria",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Laura Franco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Laura Carreño",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Julio César Gaviria",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Laura Franco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Laura Carreño",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.3,
+    "imdb": "tt35636900",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=giXFfkrorXs"
+}
