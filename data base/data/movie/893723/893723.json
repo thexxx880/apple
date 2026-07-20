@@ -1,0 +1,159 @@
+{
+  "id_tmdb": 893723,
+  "poster": "https://image.tmdb.org/t/p/w500/uwkqb5ZiS7jhQH5gwtkiTdd54w6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zgQQF04u3OgNBJqClRNby1FPz9s.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uPZ6Ae7QbTjd9gsbfvVBRumppmV.png",
+  "titulo": "PAW Patrol: La súper película",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 6.943,
+  "año": "2023",
+  "duracion": "1h 27min",
+  "edad_minima": 13,
+  "sinopsis": "Un meteorito mágico impacta en Ciudad Aventura y otorga superpoderes a los cachorros de la Patrulla Canina.",
+  "fecha_estreno": "2023-09-21",
+  "titulo_original": "PAW Patrol: The Mighty Movie",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Mckenna Grace",
+      "personaje": "Skye (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mbY7ngjgYcrUPDVNBikB9sMdaIk.jpg"
+    },
+    {
+      "nombre": "Taraji P. Henson",
+      "personaje": "Victoria Vance (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jUU2X9mDwJaAniEmJOfvImBS9qb.jpg"
+    },
+    {
+      "nombre": "Marsai Martin",
+      "personaje": "Liberty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hYErUiiesrm9jmiY1JTbwlxcN7l.jpg"
+    },
+    {
+      "nombre": "Iain Armitage",
+      "personaje": "Chase (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d16P91j8fhw7ngR727M84rCrj4r.jpg"
+    },
+    {
+      "nombre": "Ron Pardo",
+      "personaje": "Mayor Humdinger / Cap'n Turbot (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hE4QOBmPqstfmBVXmlcJmsljUMw.jpg"
+    },
+    {
+      "nombre": "Lil Rel Howery",
+      "personaje": "Sam Stinger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9MDi35Fy6ym7SYbO3B04vf1vBnm.jpg"
+    },
+    {
+      "nombre": "Kim Kardashian",
+      "personaje": "Delores (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3TLSq0aHXyxtqaXe9p7yB5Daqsa.jpg"
+    },
+    {
+      "nombre": "Chris Rock",
+      "personaje": "Kitty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bob Barlen",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Cal Brunker",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Shane Morris",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Cal Brunker",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bob Barlen",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Toni Stevens",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Laurie Clunie",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cal Brunker",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joe Giampapa",
+      "rol": "Head of Story"
+    },
+    {
+      "nombre": "Peter Chan",
+      "rol": "Production Designer"
+    },
+    {
+      "nombre": "Guillermot Dupinet",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Fraser Gee",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Peter Schlessel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ronnen Harary",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adam Beder",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pinar Toprak",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Pinar Toprak",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "Alfonso Casado Diez",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Lilia Collar",
+      "rol": "Digital Compositor"
+    },
+    {
+      "nombre": "Ed Fuller",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Cal Brunker",
+  "valoraciones": {
+    "tmdb": 6.943,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nickelodeon Movies",
+  "enlace_video": "https://gscdn.cam/video/embed/nco1fi5hx3qf",
+  "trailer": "https://www.youtube.com/watch?v=ipm7uvCUyRw"
+}
