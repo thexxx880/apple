@@ -1,0 +1,94 @@
+{
+  "id_tmdb": 61709,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/yh11eNQyZOgZLMEW7llKYQ0oGcJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oz5zbMBKCUsb7hsbjdxvK8yagPD.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/tFRQwA1uF8rnlliWvSP7AbIpyHz.png",
+  "titulo": "Dragon Ball Z Kai",
+  "titulo_original": "ドラゴンボール改「カイ」",
+  "fecha_estreno": "2009-04-05",
+  "duracion": "26min",
+  "año": "2009",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Animación",
+    "Action & Adventure",
+    "Comedia"
+  ],
+  "puntuacion": 7.489,
+  "sinopsis": "Dragon Ball Kai es un remake/revisión de la serie Dragon Ball Z, producida en conmemoración de su 20 aniversario. Comenzó a emitirse en abril de 2009. Cuenta con animación mejorada, soporte para imagen en alta definición, nuevos efectos especiales y todas las voces fueron regrabadas por los actores de doblaje originales. Pese a que sigue la misma historia que Dragon Ball Z, esta vez se reducirá drásticamente con la intención de acercarla más a lo narrado en el manga, dejando la serie en un total de 159 episodios, frente a los 291 que componían Dragon Ball Z",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Masako Nozawa",
+      "personaje": "Son Goku / Son Gohan / Son Goten (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+    },
+    {
+      "nombre": "八奈見乗児",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/khkGvegnYvx50pAEF1lms7ZKBqy.jpg"
+    },
+    {
+      "nombre": "田中真弓",
+      "personaje": "Krillin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"
+    },
+    {
+      "nombre": "Ryō Horikawa",
+      "personaje": "Vegeta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vZ69WQJfR5D2xow5FkddduRjq6c.jpg"
+    },
+    {
+      "nombre": "古川登志夫",
+      "personaje": "Piccolo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "野崎理",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "野渡康弘",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "野崎理",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "住友紀人",
+      "rol": "Music"
+    },
+    {
+      "nombre": "野渡康弘",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Akira Toriyama",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Takayoshi Tanimoto",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "小山高生",
+      "rol": "Script"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.489,
+    "imdb": "tt1409055",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime, Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=cUq5HHbu1Lw"
+}
