@@ -1,0 +1,81 @@
+{
+  "id_tmdb": 62715,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ruLBbIX15HrECgLJ3uZPo6X3YCN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yJAOi2n0VYBEXdPI1NXv5FiOcBX.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sx3LCCSpYleEVTMiEPpUCUhnkzM.png",
+  "titulo": "Dragon Ball Super",
+  "titulo_original": "ドラゴンボール超（スーパー）",
+  "fecha_estreno": "2015-07-05",
+  "duracion": "23min",
+  "año": "2015",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.196,
+  "sinopsis": "La trama de la serie tiene lugar después de la batalla contra Pequeño Buu en medio del período de 10 años hacia el Torneo Mundial de las Artes Marciales 28. Está enlazada con las películas Dragon Ball Z: La Batalla de los Dioses y Dragon Ball Z: La Resurrección de F. La historia comienza a finales del Año 774, seis meses después de la derrota de Buu. La actual saga de Trunks del Futuro Alternativo ocurre el Año 780.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Masako Nozawa",
+      "personaje": "Son Goku / Goku Black / Son Gohan / Son Goten (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+    },
+    {
+      "nombre": "Ryō Horikawa",
+      "personaje": "Vegeta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vZ69WQJfR5D2xow5FkddduRjq6c.jpg"
+    },
+    {
+      "nombre": "鶴ひろみ",
+      "personaje": "Bulma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFU9CCNLUhklLhEuLutM0FyTUbt.jpg"
+    },
+    {
+      "nombre": "山寺宏一",
+      "personaje": "Beerus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+    },
+    {
+      "nombre": "Takeshi Kusao",
+      "personaje": "Trunks (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gDiYLUdl9zXXJmhE0bAuB1Jm3FJ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "野崎理",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "野崎理",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "稲垣哲雄",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "堀田哲平",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "Akira Toriyama",
+      "rol": "Story"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.196,
+    "imdb": "tt4644488",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=_DDm-2h8sbw"
+}
