@@ -1,0 +1,109 @@
+{
+  "id_tmdb": 12971,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ogH4r9HsimigseBNLzHn4uVNOxh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/yMoktMFgvqnsQ1Pii9xwturAHx4.png",
+  "titulo": "Dragon Ball Z",
+  "titulo_original": "ドラゴンボールゼット",
+  "fecha_estreno": "1989-04-26",
+  "duracion": "26min",
+  "año": "1989",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.373,
+  "sinopsis": "Es la continuación de la serie de anime 'Dragon Ball'. Se divide básicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de Cell y el despertar de Majin Buu. De éstas se desprenden subsagas y algunas otras historias que no son originales del manga.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Masako Nozawa",
+      "personaje": "Son Goku / Son Gohan / Son Goten (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+    },
+    {
+      "nombre": "Ryō Horikawa",
+      "personaje": "Vegeta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vZ69WQJfR5D2xow5FkddduRjq6c.jpg"
+    },
+    {
+      "nombre": "古川登志夫",
+      "personaje": "Piccolo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg"
+    },
+    {
+      "nombre": "田中真弓",
+      "personaje": "Krillin / Uranai Baba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"
+    },
+    {
+      "nombre": "龍田直樹",
+      "personaje": "Oolong / Karin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hgQOOPATD48vqos1YnRwqDTV2ab.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "金田耕司",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "森下孝三",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "清水賢治",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "中鶴勝祥",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "山内重保",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "金田耕司",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "森下孝三",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "菊池俊輔",
+      "rol": "Music"
+    },
+    {
+      "nombre": "影山ヒロノブ",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "小山高生",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "Akira Toriyama",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "清水賢治",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.373,
+    "imdb": "tt0121220",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=G6ANe8NYLrE"
+}
