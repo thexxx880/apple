@@ -1,0 +1,88 @@
+{
+  "id_tmdb": 80020,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/79C1S70I2nR4o0WpVETIezT3jyG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xlKKD1TXJvh0YYlVPqqQ3g3ZUjM.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/pFXtsOJRcuZjQmi97wBQwGKWFPi.png",
+  "titulo": "Dragon Ball Heroes",
+  "titulo_original": "スーパードラゴンボールヒーローズ",
+  "fecha_estreno": "2018-07-01",
+  "duracion": "8min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.569,
+  "sinopsis": "Trunks regresa del futuro para entrenar con Goku y Vegeta. Sin embargo, desaparece sin previo aviso. Entonces el misterioso Fu irrumpe, diciéndoles que Trunks ha sido encarcelado en el Prison Planet, un misterioso complejo en un lugar desconocido en los universos. El grupo busca las bolas de dragón para liberar a Trunks, ¡pero les espera una batalla sin fin! ¿Goku y los demás rescatarán a Trunks y escaparán del Prison Planet?",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Masako Nozawa",
+      "personaje": "Son Goku / Xeno Goku (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+    },
+    {
+      "nombre": "Ryō Horikawa",
+      "personaje": "Vegeta / Xeno Vegeta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vZ69WQJfR5D2xow5FkddduRjq6c.jpg"
+    },
+    {
+      "nombre": "Takeshi Kusao",
+      "personaje": "Future Trunks / Xeno Trunks (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gDiYLUdl9zXXJmhE0bAuB1Jm3FJ.jpg"
+    },
+    {
+      "nombre": "山口勝平",
+      "personaje": "Fu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "櫻田博之",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "山室直儀",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "櫻田博之",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yuya Mori",
+      "rol": "Music"
+    },
+    {
+      "nombre": "YOFFY",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Takayoshi Tanimoto",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Mayumi Gojo",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Akira Toriyama",
+      "rol": "Characters"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.569,
+    "imdb": "tt8433216",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=qrOlw3Y0Ous"
+}
