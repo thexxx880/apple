@@ -1,0 +1,59 @@
+{
+  "id_tmdb": 60572,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qYGLXpzAlQ2LM9T9rK8rnphknHx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/60TX5aaN7DHZNOEbRdTkag2J5qs.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kG20opDyyDt4mXTqvnKxSdwfGF5.png",
+  "titulo": "Pokémon",
+  "titulo_original": "ポケットモンスター",
+  "fecha_estreno": "1997-04-01",
+  "duracion": "24min",
+  "año": "1997",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.99,
+  "sinopsis": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más Pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer Pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "松本梨香",
+      "personaje": "Satoshi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8kGjV2Ke6MVaR2UGtO9YpFkvuTu.jpg"
+    },
+    {
+      "nombre": "大谷育江",
+      "personaje": "Pikachu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+    },
+    {
+      "nombre": "山下大輝",
+      "personaje": "Gou (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+    },
+    {
+      "nombre": "Kenyū Horiuchi",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qIsrjSbtdhmmUdd3xvpDHNWRuJp.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "田尻智",
+      "rol": "Original Story"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.99,
+    "imdb": "tt0168366",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=kfgfQPA6oPI"
+}
