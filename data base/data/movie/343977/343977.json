@@ -1,0 +1,109 @@
+{
+  "id_tmdb": 343977,
+  "poster": "https://image.tmdb.org/t/p/w500/1XjZfblke6lWXv4xgVeUZCpNIeB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vOjJf8avUb0yZbnpUBYq3y13wYj.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aiLVO7k6jj1GTKuJhtsvWe7N9uG.png",
+  "titulo": "Tom y Jerry: En una aventura con Jonny Quest",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.015,
+  "año": "2015",
+  "duracion": "1h 13min",
+  "edad_minima": 13,
+  "sinopsis": "Tom y Jerry deben formar equipo con Johnny Quest, Hadji y Bandit para recuperar el último invento de Quest de las manos de Zin",
+  "fecha_estreno": "2015-06-09",
+  "titulo_original": "Tom and Jerry: Spy Quest",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Reese Hartwig",
+      "personaje": "Johnny Quest (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "James Hong",
+      "personaje": "Dr. Zin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Carol (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Tim Matheson",
+      "personaje": "The President (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6oexiiYLJYXU6NjIhzlpA3mqYGF.jpg"
+    },
+    {
+      "nombre": "Jess Harnell",
+      "personaje": "Pan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+    },
+    {
+      "nombre": "Richard McGonagle",
+      "personaje": "Alley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eso1WgiZiqwOb1vp2sOF6uJyJn1.jpg"
+    },
+    {
+      "nombre": "Tia Carrere",
+      "personaje": "Jezebel Jade (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/keNGO3NAGVhiFzHhGPjGw4TzqJ5.jpg"
+    },
+    {
+      "nombre": "Joe Alaskey",
+      "personaje": "Droopy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bYC9pHuC8ownvMlEgWoMEwItsUu.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tony Cervone",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tony Cervone",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Spike Brandt",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jim Krieg",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Maria Estrada",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jim Krieg",
+      "rol": "Teleplay"
+    },
+    {
+      "nombre": "Heath Corson",
+      "rol": "Teleplay"
+    },
+    {
+      "nombre": "Michael Tavera",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Tony Cervone",
+  "valoraciones": {
+    "tmdb": 6.015,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/hrib73vxnnd2",
+  "trailer": "https://www.youtube.com/watch?v=iu1jG_uiRdM"
+}
