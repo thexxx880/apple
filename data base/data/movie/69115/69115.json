@@ -1,0 +1,111 @@
+{
+  "id_tmdb": 69115,
+  "poster": "https://image.tmdb.org/t/p/w500/jiJzKyjyvU64WNIPRxH8ZvxYqyS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zQNnicL0DItMcwY1zkZN5n5VfwO.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/pkYZtblSR72t04T0osVrbUjJUUA.png",
+  "titulo": "Tom y Jerry: El Guardaespaldas Karateca",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.8,
+  "año": "2005",
+  "duracion": "0h 8min",
+  "edad_minima": 13,
+  "sinopsis": "El ratón Jerry utiliza un gong místico para invocar a un guardaespaldas samurái canino pera que lo proteja de su némesis, el gato Tom.",
+  "fecha_estreno": "2005-09-27",
+  "titulo_original": "The Karate Guard",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Keone Young",
+      "personaje": "Ancient Wise One (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hHtr7OzP2I2U7FfA2hj8rPtAt8z.jpg"
+    },
+    {
+      "nombre": "Spike Brandt",
+      "personaje": "Tom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oCvzTSRxpGAepfgwbcRzii6cMel.jpg"
+    },
+    {
+      "nombre": "Tony Cervone",
+      "personaje": "Butch (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sxyV4NkHI1INnkVNPtrIEiN2tlQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Spike Brandt",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Spike Brandt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tony Cervone",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bobbie Page",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Linda Steiner",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "William Hanna",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sander Schwartz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Giacchino",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Iwao Takamoto",
+      "rol": "Storyboard"
+    }
+  ],
+  "director": "Joseph Barbera",
+  "valoraciones": {
+    "tmdb": 6.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/5z69j7m1xqqb",
+  "trailer": ""
+}
