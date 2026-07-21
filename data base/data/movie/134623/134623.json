@@ -1,0 +1,118 @@
+{
+  "id_tmdb": 134623,
+  "poster": "https://image.tmdb.org/t/p/w500/osFsGZKeaxQlCMYdrfuHrrxP7Rc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cXI35VgXZ0RtrNlnOnxp7wzXv1E.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tcp7hQ7DFIDPmj3gEHhPwFhxwTg.png",
+  "titulo": "Tom y Jerry y el valiente Robin Hood",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Aventura",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.582,
+  "año": "2012",
+  "duracion": "0h 55min",
+  "edad_minima": 13,
+  "sinopsis": "Robin Hood, un alegre aventurero que roba a los ricos para dar a los pobres, tiene un nuevo y competente compañero: Jerry. El malvado rey deduce, según sus propias palabras, «de manera brillante», que la mejor forma de hacer frente a esta nueva amenaza es un gato, por lo que contrata a Tom.",
+  "fecha_estreno": "2012-10-02",
+  "titulo_original": "Tom and Jerry: Robin Hood and His Merry Mouse",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jamie Bamber",
+      "personaje": "Robin Hood (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qQCn0z3o0udPM6OseBhvyNpCkkK.jpg"
+    },
+    {
+      "nombre": "Charles Shaughnessy",
+      "personaje": "Sheriff of Nottingham (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dTgLchpZE68noJYkgKa43QijGnL.jpg"
+    },
+    {
+      "nombre": "John Michael Higgins",
+      "personaje": "Prince John (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1McAEXIhRW2Q3LJsX3os90UXcJz.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Maid Marion (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "Little John (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+    },
+    {
+      "nombre": "Joe Alaskey",
+      "personaje": "Friar Tuck / Droopy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bYC9pHuC8ownvMlEgWoMEwItsUu.jpg"
+    },
+    {
+      "nombre": "Phil LaMarr",
+      "personaje": "Spike (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+    },
+    {
+      "nombre": "Greg Ellis",
+      "personaje": "Will Scarlet / Tin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qks30OeY78q0j8w4s10mXtg5vpd.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Ryan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Spike Brandt",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tony Cervone",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Earl Kress",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Earl Kress",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Earl Kress",
+      "rol": "In Memory Of"
+    },
+    {
+      "nombre": "Kyle Stafford",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Maria Estrada",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tristin Cole",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Michael Tavera",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Spike Brandt",
+  "valoraciones": {
+    "tmdb": 6.582,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Turner Entertainment Co.",
+  "enlace_video": "https://gscdn.cam/video/embed/hxqqdi4erhpz",
+  "trailer": "https://www.youtube.com/watch?v=A2Q_jnMZsFE"
+}
