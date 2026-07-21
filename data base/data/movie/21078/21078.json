@@ -1,0 +1,116 @@
+{
+  "id_tmdb": 21078,
+  "poster": "https://image.tmdb.org/t/p/w500/7vf51TzOjDVxcpLH7n3TrxNt21K.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qKTyt2DTGVcx36nsD09h8mU8bqb.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/741PT245eCXhbuW8DfJLS6vmNFH.png",
+  "titulo": "Tom y Jerry: Rumbo a Marte",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.6,
+  "año": "2005",
+  "duracion": "1h 10min",
+  "edad_minima": 13,
+  "sinopsis": "Tom y Jerry, van a ser el primer gato y ratón en viajar al lejano planeta Marte, al quedarse atrapados en una nave espacial que ha despegado rumbo a Marte. Nuestros queridos personajes protagonizarán un divertidísimo viaje por el espacio y al llegar aMarte, los graciosos extraterrestres piensan que Tom ¡es un gigante delespacio y que Jerry es el jefe de todos los marcianos! ¿Conseguirá nuestra pareja de dibujos favorita dejar de perseguirse y salvar a la Tierra de una invasión marciana? Necesitarán las 7 vidas del gato Tom para trinfar en su misión en Marte en esta maravillosa aventura extraterrestre.",
+  "fecha_estreno": "2005-01-18",
+  "titulo_original": "Tom and Jerry Blast Off to Mars!",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Dr. Gluckman / Martian Guard #1 / President (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "Corey Burton",
+      "personaje": "Martian Scientist / Court Attendant / Eyes At Gate (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+    },
+    {
+      "nombre": "Kathryn Fiore",
+      "personaje": "Peep / Press Girl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zdsCMvO7Euytw13Fveo7Dk4jtoT.jpg"
+    },
+    {
+      "nombre": "Brad Garrett",
+      "personaje": "Commander Bristle / Martian Guard #3 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+    },
+    {
+      "nombre": "Jess Harnell",
+      "personaje": "Major Buzz Blister / Martian General / Worker #3 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Grob / Gardener #1 / Martian Guard #2 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+    },
+    {
+      "nombre": "Bill Kopp",
+      "personaje": "Tom / Press Guy #1 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gh9Xhsq22tlWNPxrOIoY7iPBov1.jpg"
+    },
+    {
+      "nombre": "Rob Paulsen",
+      "personaje": "Computer / Worker #1 / Worker #2 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c9Gb8stOOftFgUiZXtXAWlSaq6e.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bill Kopp",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tom Minton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bill Kopp",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ken Solomon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Diane A. Crea",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Steven Bernstein",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Julie Bernstein",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Bill Kopp",
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/2b0lm1gy2wpy",
+  "trailer": "https://www.youtube.com/watch?v=lcsuhKO12us"
+}
