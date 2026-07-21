@@ -1,0 +1,126 @@
+{
+  "id_tmdb": 43956,
+  "poster": "https://image.tmdb.org/t/p/w500/8t0BALhT5JGySOB8SgQCIWLIB17.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8rrUYhHEq3KKWP0kZjl0OaBm3D2.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/a5c9d9MSShi3JWKzeywxdUaIJGy.png",
+  "titulo": "Tom y Jerry: Una aventura con Sherlock Holmes",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Misterio",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.549,
+  "año": "2010",
+  "duracion": "0h 49min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2010-08-24",
+  "titulo_original": "Tom and Jerry Meet Sherlock Holmes",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Michael York",
+      "personaje": "Sherlock Holmes (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ha9Nh8We778sUg8QyDE1IRATzDY.jpg"
+    },
+    {
+      "nombre": "Malcolm McDowell",
+      "personaje": "Professor Moriarity (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg"
+    },
+    {
+      "nombre": "John Rhys-Davies",
+      "personaje": "Dr. Watson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+    },
+    {
+      "nombre": "Billy West",
+      "personaje": "Tom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Red (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Phil LaMarr",
+      "personaje": "Spike / Policeman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+    },
+    {
+      "nombre": "Kath Soucie",
+      "personaje": "Tuffy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dSE1JtsdA1aSgIIw415bsXtmkPg.jpg"
+    },
+    {
+      "nombre": "Jeff Bergman",
+      "personaje": "Butch / Droopy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qeCpFCrmocsMvI7pZ1vqCCo6cPZ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Spike Brandt",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jeff Siergey",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Earl Kress",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "William Hanna",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Creative Producer"
+    },
+    {
+      "nombre": "Sylvia Filcak",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "Kevin M. O'Neil",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Roberto Casale",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Arthur Conan Doyle",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Michael Tavera",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Spike Brandt",
+  "valoraciones": {
+    "tmdb": 6.549,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/kceibdhhgknu",
+  "trailer": "https://www.youtube.com/watch?v=hQpCiXZofWE"
+}
