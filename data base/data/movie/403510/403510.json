@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 403510,
+  "poster": "https://image.tmdb.org/t/p/w500/mHmKLJrzG6abmtzEflJ36qIYE4G.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6cXwjZTHRSFTgEvNdnKUw93Pnv6.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3DQs06RB5BYc1KkHSMCR6ZVtFav.png",
+  "titulo": "Tom y Jerry: De vuelta a Oz",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.061,
+  "año": "2016",
+  "duracion": "1h 20min",
+  "edad_minima": 13,
+  "sinopsis": "Con la Malvada Bruja del Oeste ahora vencida de Oz, ¡Tom y Jerry junto con Dorothy están de vuelta en Kansas! ¡Pero no por mucho tiempo, cuando un villano completamente nuevo ha emergido de debajo de la tierra mágica, el Rey Gnomo! ¡Habiendo capturado a la Bruja Buena, el Rey Gnomo y su ejército están causando estragos en todo Oz y solo necesitan un elemento para tomar el control de La Ciudad Esmeralda, las zapatillas de rubíes de Dorothy! Depende de nuestro dúo favorito de gatos y ratones formar equipo, regresar a Oz y salvar la tierra que aman. Ve a los cielos, cortesía del mismo Mago, con Dorothy, Toto, el Espantapájaros, el Hombre de Hojalata y el León mientras hacen su viaje mágico. Las risas y la aventura rugirán cuando encuentren nuevos sustos y criaturas traviesas en Yellow Brick Road, porque \"ya no estamos en Kansas\".",
+  "fecha_estreno": "2016-06-21",
+  "titulo_original": "Tom and Jerry: Back to Oz",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Dorothy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Joe Alaskey",
+      "personaje": "The Wizard of Oz / Butch / Droopy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bYC9pHuC8ownvMlEgWoMEwItsUu.jpg"
+    },
+    {
+      "nombre": "Michael Gough",
+      "personaje": "The Scarecrow / Hunk (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/a1dGHmgxR6xvnHY1CSw9GN7Yy9Z.jpg"
+    },
+    {
+      "nombre": "Rob Paulsen",
+      "personaje": "The Tin Man / Hickory (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c9Gb8stOOftFgUiZXtXAWlSaq6e.jpg"
+    },
+    {
+      "nombre": "Todd Stashwick",
+      "personaje": "The Cowardly Lion / Zeke (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/seKRXV2HMS36ip4SfQq6PLRiLL2.jpg"
+    },
+    {
+      "nombre": "Frances Conroy",
+      "personaje": "Auntie Em / Glinda (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+    },
+    {
+      "nombre": "Stephen Root",
+      "personaje": "Uncle Henry (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+    },
+    {
+      "nombre": "Kath Soucie",
+      "personaje": "Tuffy the Munchkin Mouse / Tractor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dSE1JtsdA1aSgIIw415bsXtmkPg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Spike Brandt",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tony Cervone",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paul Dini",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Benj Pasek",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Justin Paul",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Maria Estrada",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Joe Alaskey",
+      "rol": "In Memory Of"
+    },
+    {
+      "nombre": "Dave Courter",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Tony Cervone",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Michael Tavera",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "L. Frank Baum",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Mark A. Keatts",
+      "rol": "Supervising Dialogue Editor"
+    },
+    {
+      "nombre": "Kimberly S. Moreau",
+      "rol": "Line Producer"
+    }
+  ],
+  "director": "Spike Brandt",
+  "valoraciones": {
+    "tmdb": 6.061,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Turner Entertainment Co.",
+  "enlace_video": "https://gscdn.cam/video/embed/xlo1iinm07vt",
+  "trailer": "https://www.youtube.com/watch?v=5bN4smTQF1w"
+}
