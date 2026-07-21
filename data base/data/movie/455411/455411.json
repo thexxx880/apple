@@ -1,0 +1,111 @@
+{
+  "id_tmdb": 455411,
+  "poster": "https://image.tmdb.org/t/p/w500/17O9GkuU0XQBsmblxRQ7eISsdCt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6ap4H34b89utijPSMGXJ6WjIoOb.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9QNht4slGd621B6RPrESZLgnQG0.png",
+  "titulo": "Tom y Jerry: Willy Wonka y la fábrica de chocolates",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.7,
+  "año": "2017",
+  "duracion": "1h 19min",
+  "edad_minima": 13,
+  "sinopsis": "El clásico cuento de Roald Dahl adquiere un giro moderno cuando Tom y Jerry ingresan al mundo asombroso de la fábrica de chocolate de Willy Wonka.",
+  "fecha_estreno": "2017-06-28",
+  "titulo_original": "Tom and Jerry: Willy Wonka & the Chocolate Factory",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "JP Karliak",
+      "personaje": "Willy Wonka (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7Rc3n8KmKUaztqfsIpddO1a2ggn.jpg"
+    },
+    {
+      "nombre": "Jess Harnell",
+      "personaje": "Grandpa Joe / Candy Man / Sam Beauregard / American Reporter 1 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+    },
+    {
+      "nombre": "Lincoln Melcher",
+      "personaje": "Charlie Bucket (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9My4go9IECpZtlVtmufpAKkpw8r.jpg"
+    },
+    {
+      "nombre": "Mick Wingert",
+      "personaje": "Mr. Slugworth / Oompa Loompa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2Apga68BihekhCSPHNk5pXqC5Gq.jpg"
+    },
+    {
+      "nombre": "Lori Alan",
+      "personaje": "Mrs. Teevee (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cavATg4fX0zAl2MHwlt1IZei7EI.jpg"
+    },
+    {
+      "nombre": "Jeff Bergman",
+      "personaje": "Droopy / American Reporter 2 / Oompa Loompa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qeCpFCrmocsMvI7pZ1vqCCo6cPZ.jpg"
+    },
+    {
+      "nombre": "Spike Brandt",
+      "personaje": "Spike (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oCvzTSRxpGAepfgwbcRzii6cMel.jpg"
+    },
+    {
+      "nombre": "Rachel Butera",
+      "personaje": "Augustus Gloop / Winkleman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/j9PbEcUdFkInCdFjQAMNvctfF7j.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Spike Brandt",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Spike Brandt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gene Grillo",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Wes Gleason",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Roald Dahl",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Michael Tavera",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Spike Brandt",
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/3qjir1eppkvq",
+  "trailer": "https://www.youtube.com/watch?v=OdAVwckh_EE"
+}
