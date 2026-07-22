@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 226688,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/66wkm14IWdrY5LaKZDAbkD2T9Jt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qAq9RBeHZoTMDFqQZ2o4cE5CJIQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sC8VGgUi1KSJpx9TjAWj8Z3Ee1A.png",
+  "titulo": "Beyblade X",
+  "titulo_original": "BEYBLADE X",
+  "fecha_estreno": "2023-10-06",
+  "duracion": "25min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "puntuacion": 6.6,
+  "sinopsis": "X City, la ciudad donde se reúnen los Bladers profesionales para escalar la X Tower y coronarse como campeones. Bird Kazami y sus amigos llegan a esta ciudad con la meta de convertirse en los mejores, pero este sueño es rápidamente destrozado por un grupo de profesionales. ¿Qué hará Bird ahora? ¿Quién es Kamen X?",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Soma Saito",
+      "personaje": "Ekusu Kurosu / Kamen X (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8W8Y02Jmjivw0kk5PDih9dqiyd9.jpg"
+    },
+    {
+      "nombre": "梅田修一朗",
+      "personaje": "Bird Kazami (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dCr870q8ojD6qpD1hmS1sdvh2pe.jpg"
+    },
+    {
+      "nombre": "野口瑠璃子",
+      "personaje": "Multi Nanairo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zbuz55p5GCeHWu4ez17Phk4mLui.jpg"
+    },
+    {
+      "nombre": "石川界人",
+      "personaje": "Khrome Ryugu / Kamen Y (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
+    },
+    {
+      "nombre": "KENN",
+      "personaje": "Takumi Ishiyama (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y7Gtn1PchXJ1MxmUxU9jtt138EO.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "鶴崎りか",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "奈良初男",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "釜秀樹",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Yashiro Fujio",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "秋山倫子",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "鶴崎りか",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "奈良初男",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "釜秀樹",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "渡辺直樹",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Yashiro Fujio",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "若松栄司",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "秋山倫子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "野村哲也",
+      "rol": "CGI Director"
+    },
+    {
+      "nombre": "大内綾",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "佐野智将",
+      "rol": "Other"
+    },
+    {
+      "nombre": "出水ぽすか",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "河本ほむら",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "武野光",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Sebastian Robertson",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Takayuki Yamaguchi",
+      "rol": "Sound Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": "tt27865962",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=qqFSPloFtl4"
+}
