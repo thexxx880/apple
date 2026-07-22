@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 339849,
+  "poster": "https://image.tmdb.org/t/p/w500/gt3cSKKkG6mLzIwUFCXT7aRRhxJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rJ7PB78ZcBaCPxQRLrZxh4M2Z0N.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/sXXAMN7mVgY9HnYyf6jPPzTIaYg.png",
+  "titulo": "Rescate en el Golfo",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.4,
+  "año": "2025",
+  "duracion": "1h 59min",
+  "edad_minima": 13,
+  "sinopsis": "El barco de pesca de un grupo de amigos naufraga frente a la costa de México y quedan solos, varados en el mar y luchando por sobrevivir.",
+  "fecha_estreno": "2025-12-04",
+  "titulo_original": "Not Without Hope",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Zachary Levi",
+      "personaje": "Nick Schuyler",
+      "foto": "https://image.tmdb.org/t/p/w500/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg"
+    },
+    {
+      "nombre": "Josh Duhamel",
+      "personaje": "Timothy Close",
+      "foto": "https://image.tmdb.org/t/p/w500/5Rp9aeWdN2S623KCjwfii9MhDK1.jpg"
+    },
+    {
+      "nombre": "Quentin Plair",
+      "personaje": "Marquis Cooper",
+      "foto": "https://image.tmdb.org/t/p/w500/jCVuX3cB0iyjsYaz2RcuBtX2MaL.jpg"
+    },
+    {
+      "nombre": "Terrence Terrell",
+      "personaje": "Corey Smith",
+      "foto": "https://image.tmdb.org/t/p/w500/to5u2Mumj1zp9J9JSV1QCzI3XuN.jpg"
+    },
+    {
+      "nombre": "Marshall Cook",
+      "personaje": "Will Bleakley",
+      "foto": "https://image.tmdb.org/t/p/w500/pFGVXYnyRbK22xI1uPPzflDf7vO.jpg"
+    },
+    {
+      "nombre": "JoBeth Williams",
+      "personaje": "Marcia",
+      "foto": "https://image.tmdb.org/t/p/w500/nL9ZdnI50y1yRVvmz0P61TxjZsF.jpg"
+    },
+    {
+      "nombre": "Floriana Lima",
+      "personaje": "Paula",
+      "foto": "https://image.tmdb.org/t/p/w500/hiHqJwjzz6fT9QeTz0rG7MgdnOX.jpg"
+    },
+    {
+      "nombre": "Jessica Blackmore",
+      "personaje": "Rebekah Cooper",
+      "foto": "https://image.tmdb.org/t/p/w500/jEJzmYdZqf5PuwnylP78WAmYkUL.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Joe Carnahan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joe Carnahan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joe Carnahan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "E. Nicholas Mariani",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Dean Altit",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Beasley",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alla Belaya",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cindy Bru",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nick Schuyler",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Jere Longman",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Juan Miguel Azpiroz",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Kevin Hale",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sharon Bialy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Sean Buhagiar",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "P. Erik Carlson",
+      "rol": "Production Designer"
+    },
+    {
+      "nombre": "Jayna Mansbridge",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "Monika Spasova",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Clinton Shorter",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "P. Erik Carlson",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Arta Tozzi",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Joe Carnahan",
+  "valoraciones": {
+    "tmdb": 6.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Volition Media Partners",
+  "enlace_video": "https://gscdn.cam/video/embed/0wouvul8jn47",
+  "trailer": "https://www.youtube.com/watch?v=rzDAcL3rOcU"
+}
