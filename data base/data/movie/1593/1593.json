@@ -28,7 +28,7 @@
     {
       "nombre": "Carla Gugino",
       "personaje": "Rebecca",
-      "foto": "https://image.tmdb.org/t/p/w500/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/7lSH5LOexOHwvt9lOTsLTbXdU1G.jpg"
     },
     {
       "nombre": "Dick Van Dyke",
@@ -53,7 +53,7 @@
     {
       "nombre": "Ricky Gervais",
       "personaje": "Dr. McPhee",
-      "foto": "https://image.tmdb.org/t/p/w500/zv50aVyBVDBOsMHXpeUYLi4kBhn.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/z293wonhuF0aYQtg1ROOSl1LObf.jpg"
     },
     {
       "nombre": "Robin Williams",
@@ -63,62 +63,38 @@
   ],
   "equipo_creativo": [
     {
-      "nombre": "Shawn Levy",
-      "rol": "Director"
+      "nombre": "Robert Ben Garant",
+      "rol": "Screenplay"
     },
     {
       "nombre": "Michael Barnathan",
       "rol": "Producer"
     },
     {
-      "nombre": "Chris Columbus",
-      "rol": "Producer"
-    },
-    {
       "nombre": "Shawn Levy",
       "rol": "Producer"
     },
     {
-      "nombre": "Robert Ben Garant",
-      "rol": "Screenplay"
+      "nombre": "Shawn Levy",
+      "rol": "Director"
     },
     {
       "nombre": "Thomas Lennon",
       "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chris Columbus",
+      "rol": "Producer"
     }
   ],
   "crew": [
-    {
-      "nombre": "Alan Silvestri",
-      "rol": "Original Music Composer"
-    },
-    {
-      "nombre": "Guillermo Navarro",
-      "rol": "Director of Photography"
-    },
     {
       "nombre": "Don Zimmerman",
       "rol": "Editor"
     },
     {
-      "nombre": "Ilene Starger",
-      "rol": "Casting"
-    },
-    {
       "nombre": "Claude Paré",
       "rol": "Production Design"
-    },
-    {
-      "nombre": "Lin MacDonald",
-      "rol": "Set Decoration"
-    },
-    {
-      "nombre": "Michael Diner",
-      "rol": "Art Direction"
-    },
-    {
-      "nombre": "Michele Laliberte",
-      "rol": "Art Direction"
     },
     {
       "nombre": "Bridget McGuire",
@@ -127,6 +103,30 @@
     {
       "nombre": "Grant Van Der Slagt",
       "rol": "Art Direction"
+    },
+    {
+      "nombre": "Michele Laliberte",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Lin MacDonald",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Ilene Starger",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Alan Silvestri",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Michael Diner",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Guillermo Navarro",
+      "rol": "Director of Photography"
     },
     {
       "nombre": "Stefán Karl Stefánsson",
@@ -144,6 +144,6 @@
     "rotten_tomatoes": null
   },
   "distribuidora": "1492 Pictures",
-  "enlace_video": "https://1a-1791.com/video/fww1/58/s8/2/A/R/n/v/ARnvy.caa.mp4",
+  "enlace_video": "https://gscdn.cam/video/embed/95j4qhi5pfw5",
   "trailer": "https://www.youtube.com/watch?v=Ltba1_-tRT4"
 }
