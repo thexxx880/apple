@@ -1,0 +1,79 @@
+{
+  "id_tmdb": 902,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/dJas6Y7lXzgPHgr4ro0qCOTgNiM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gJYZBM200Flldo6im3EEdXslR1j.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/fxNMVB3qbyou4tgphB6S2Y5Vetg.png",
+  "titulo": "Yu-Gi-Oh! Duelo de Monstruos",
+  "titulo_original": "遊☆戯☆王デュエルモンスターズ",
+  "fecha_estreno": "2000-04-18",
+  "duracion": "24min",
+  "año": "2000",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.3,
+  "sinopsis": "Yu-Gi-Oh! trata sobre un chico llamado Yugi Moto y su alter-ego Yami Yugi, que vive en un colgante conocido como el Puzzle del Milenio, y juega a un juego de cartas llamado Duelo de Monstruos. De todas formas, todo no es tan simple como parece. El juego de Duelo de Monstruos es originario del antiguo Egipto, y los monstruos que aparecen en las cartas están basados en monstruos reales. Tambien, el Puzle del Milenio guarda varios poderosos secretos que algunas personas desconocidas quieren obtener.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "津田健次郎",
+      "personaje": "Seto Kaiba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+    },
+    {
+      "nombre": "高橋広樹",
+      "personaje": "Katsuya Jonouchi / Joey Wheeler (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lFwGUkR5Lj09FVz7s0xwFgQgeRi.jpg"
+    },
+    {
+      "nombre": "風間俊介",
+      "personaje": "Yugi Muto / Yami Yugi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/t79dfh9bC0XlYbkCMsKGRotlFaI.jpg"
+    },
+    {
+      "nombre": "齊藤真紀",
+      "personaje": "Anzu Mazaki / Téa Gardner (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "近藤孝行",
+      "personaje": "Hiroto Honda / Tristan Taylor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/80t01IkasGucNSqHCp5XEImYPY.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "杉島邦久",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "高橋和希",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Shingō Araki",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "姫野美智",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "高橋和希",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.3,
+    "imdb": "tt0247902",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=Cb3ggoyqXmU"
+}
