@@ -1,5 +1,17 @@
 [
   {
+    "id_tmdb": 278624,
+    "poster": "https://image.tmdb.org/t/p/w500/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg",
+    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=278624",
+    "type": "serie",
+    "año": "2026",
+    "titulo": "Lucky",
+    "generos": [
+      "Drama",
+      "Crimen"
+    ]
+  },
+  {
     "id_tmdb": 99588,
     "poster": "https://image.tmdb.org/t/p/w500/mC23fANjhD5xDrlpq1bzllL2sEW.jpg",
     "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=99588",
@@ -323,18 +335,6 @@
     "generos": [
       "Drama",
       "Comedia",
-      "Crimen"
-    ]
-  },
-  {
-    "id_tmdb": 278624,
-    "poster": "https://image.tmdb.org/t/p/w500/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg",
-    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=278624",
-    "type": "serie",
-    "año": "2026",
-    "titulo": "Lucky",
-    "generos": [
-      "Drama",
       "Crimen"
     ]
   },
