@@ -1,0 +1,124 @@
+{
+  "id_tmdb": 1468683,
+  "poster": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rheklPTrddBf0rXQamlzRjpieQ9.png",
+  "titulo": "Heartstopper Forever",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.019,
+  "año": "2026",
+  "duracion": "1h 50min",
+  "edad_minima": 13,
+  "sinopsis": "El grupo de Truham y Higgs regresa a clases. La relación de Nick y Charlie se profundiza, pero sus pensamientos giran en torno a qué les depara el futuro al finalizar la escuela.",
+  "fecha_estreno": "2026-07-14",
+  "titulo_original": "Heartstopper Forever",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Kit Connor",
+      "personaje": "Nick Nelson",
+      "foto": "https://image.tmdb.org/t/p/w500/gCIdbnV9D3lzTaOB0YtuKDz6Nt0.jpg"
+    },
+    {
+      "nombre": "Joe Locke",
+      "personaje": "Charlie Spring",
+      "foto": "https://image.tmdb.org/t/p/w500/snlCoxXK1gLlyE7oncVEtQe7OcO.jpg"
+    },
+    {
+      "nombre": "William Gao",
+      "personaje": "Tao Xu",
+      "foto": "https://image.tmdb.org/t/p/w500/rXwHPQehstYwDmI4ipTwGQmOb9J.jpg"
+    },
+    {
+      "nombre": "Yasmin Finney",
+      "personaje": "Elle Argent",
+      "foto": "https://image.tmdb.org/t/p/w500/yxdPGDbWcmNhgW2szLGccHThP6K.jpg"
+    },
+    {
+      "nombre": "Corinna Brown",
+      "personaje": "Tara Jones",
+      "foto": "https://image.tmdb.org/t/p/w500/gBcjRX2aTvDjHF81FirMcc3ZMYs.jpg"
+    },
+    {
+      "nombre": "Kizzy Edgell",
+      "personaje": "Darcy Olsson",
+      "foto": "https://image.tmdb.org/t/p/w500/eCJqtHEjTYN6GfLb2HFglkJi6ep.jpg"
+    },
+    {
+      "nombre": "Tobie Donovan",
+      "personaje": "Isaac Henderson",
+      "foto": "https://image.tmdb.org/t/p/w500/qOOQCO2yfW4Kb09Wyxeg7xGaSmR.jpg"
+    },
+    {
+      "nombre": "Jenny Walser",
+      "personaje": "Tori Spring",
+      "foto": "https://image.tmdb.org/t/p/w500/hVK2VuYD0NSEGlrTKmwooo8g9zU.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alice Oseman",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Wash Westmoreland",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kit Connor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joe Locke",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alice Oseman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Euros Lyn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Patrick Walters",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Iain Canning",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Emile Sherman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alice Oseman",
+      "rol": "Graphic Novel"
+    },
+    {
+      "nombre": "Todd Downing",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "James Rhodes",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Wash Westmoreland",
+  "valoraciones": {
+    "tmdb": 7.019,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "See-Saw Films",
+  "enlace_video": "https://gscdn.cam/video/embed/q1u2tcinoxvk",
+  "trailer": "https://www.youtube.com/watch?v=locuQ-skySE"
+}
