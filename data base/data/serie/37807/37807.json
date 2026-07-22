@@ -1,0 +1,78 @@
+{
+  "id_tmdb": 37807,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8WWTb5sVADcxar0RXUJRE4XBB5L.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dHQ6u5nRMCHGHLCl220iCah6jX0.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/inJtoLi3wK29TXTylXUe4yEhEaw.png",
+  "titulo": "Beyblade: Sega Metal",
+  "titulo_original": "メタルファイト ベイブレード",
+  "fecha_estreno": "2009-04-05",
+  "duracion": "21min",
+  "año": "2009",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Misterio",
+    "Action & Adventure",
+    "Kids",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.405,
+  "sinopsis": "Benkei una bestia con un corazón sensible está sorprendido de que la gente a quien él solía molestar es también quien está allí para ayudarlo cuando lo necesita. Benkei es aun seguidor de Kyoya, pero ahora ambos defienden a los buenos.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "岡本信彦",
+      "personaje": "Zero Kurogane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg"
+    },
+    {
+      "nombre": "内山昂輝",
+      "personaje": "Shinobu Hiryuuin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg"
+    },
+    {
+      "nombre": "寺島拓篤",
+      "personaje": "Kaito Unabara (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/n5uCihb318AzQCT9gieMlI2ueYL.jpg"
+    },
+    {
+      "nombre": "小平有希",
+      "personaje": "Eito Unabara (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zxW5obENCvv5mzNpt91n3eW0hsN.jpg"
+    },
+    {
+      "nombre": "諸星すみれ",
+      "personaje": "Maru (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6AoZkW7NxgsWXkoCkTGDSgFcyao.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "杉島邦久",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "本多敬",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "長森佳容",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Takafumi Adachi",
+      "rol": "Original Story"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.405,
+    "imdb": "tt1674928",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=XBXa6YVuxMs"
+}
