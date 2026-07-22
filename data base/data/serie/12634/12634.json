@@ -1,0 +1,129 @@
+{
+  "id_tmdb": 12634,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xYigwpjKqbhEHDs8c1mlygs7vxQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/eiz7M9HqWE8UVhe8cn6WmBdqeJS.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rezjz1ZWQp6ieBfyP7nclJK2Mq2.png",
+  "titulo": "Blue Seed",
+  "titulo_original": "ブルーシード",
+  "fecha_estreno": "1994-10-15",
+  "duracion": "23min",
+  "año": "1994",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 6.9,
+  "sinopsis": "Momiji Fujimiya es una chica perteneciente a una familia de sacerdotes. Una tarde fue atacada en su escuela por un demonio llamado «Aragami» quien se refiere a ella como la princesa Kushinada, cuya sangre serviría para destruir al mundo y darle vida al Dios Suzanoh.\n\nSin embargo, es protegida por el agente Daitetsu Kunikida y sus fuerzas del Centro de Administración Terrestre (CAT) especializado en la destrucción de Aragamis financiado por el gobierno, y por Mamoru Kusanagi, un humano con poderes de Aragami que actúa por su cuenta.\n\nA partir de ese momento, Momiji se convierte en el blanco de Murakumo, un poderoso Aragami que busca cumplir con el sacrificio de Kushinada, y que involucra también a una hermana perdida de Momiji, que no conocía.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "林原めぐみ",
+      "personaje": "Momiji Fujimiya (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+    },
+    {
+      "nombre": "井上和彦",
+      "personaje": "Mamoru Kusanagi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3BpYtYRiLAmTNbCm2LXlXnkMRit.jpg"
+    },
+    {
+      "nombre": "三石琴乃",
+      "personaje": "Koume Sawaguchi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
+    },
+    {
+      "nombre": "折笠愛",
+      "personaje": "Ryoko Takeuchi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6ztt20jMc4oprKbixp2sNrR2ykK.jpg"
+    },
+    {
+      "nombre": "大塚明夫",
+      "personaje": "Daitetsu Kunikida (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "小林教子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "下地志直",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "岡村天斎",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "小峰博美",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "木下和宏",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "黄瀬和哉",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "後藤  圭二",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "後藤  圭二",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "粟井重紀",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "立木文彦",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "角銅博之",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "あみやまさはる",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "貞光紳也",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "村山靖",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "加戸誉夫",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "千葉大輔",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "神谷純",
+      "rol": "Storyboard"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.9,
+    "imdb": "tt0111897",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=X5bsVNEaTUo"
+}
