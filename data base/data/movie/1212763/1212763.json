@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 1212763,
+  "poster": "https://image.tmdb.org/t/p/w500/vISNa1ghgLGzuS2NRBnw4qENp4r.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/amg20eTtFmSFU53hVWtpIHTzbGP.png",
+  "titulo": "Evil Dead: En llamas",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.8,
+  "año": "2026",
+  "duracion": "2h 0min",
+  "edad_minima": 13,
+  "sinopsis": "Tras la muerte de su esposo, una mujer busca consuelo en sus suegros. A medida que uno a uno se transforman en muertos vivientes, descubre que los votos que hizo en vida perduran incluso en la muerte.",
+  "fecha_estreno": "2026-07-07",
+  "titulo_original": "Evil Dead Burn",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Souheila Yacoub",
+      "personaje": "Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/ljuwA97evcoadIE7VlV1AXpKi1j.jpg"
+    },
+    {
+      "nombre": "Tandi Wright",
+      "personaje": "Susan",
+      "foto": "https://image.tmdb.org/t/p/w500/zluVB3mzZVlv8D013OgeQLhzNEw.jpg"
+    },
+    {
+      "nombre": "Hunter Doohan",
+      "personaje": "Joseph",
+      "foto": "https://image.tmdb.org/t/p/w500/uLZmUQknSsImU6dG03F6EeXhE4g.jpg"
+    },
+    {
+      "nombre": "Luciane Buchanan",
+      "personaje": "Thya",
+      "foto": "https://image.tmdb.org/t/p/w500/9fTzSU4310StDoO9T0nQyGOLurn.jpg"
+    },
+    {
+      "nombre": "Erroll Shand",
+      "personaje": "Edgar",
+      "foto": "https://image.tmdb.org/t/p/w500/75nc5lUcp1So9RTNNr08NZ0oQDG.jpg"
+    },
+    {
+      "nombre": "Maude Davey",
+      "personaje": "Polly",
+      "foto": "https://image.tmdb.org/t/p/w500/gJsnWVfgcyFrTYPVvcJrvIjIH1k.jpg"
+    },
+    {
+      "nombre": "George Pullar",
+      "personaje": "Will",
+      "foto": "https://image.tmdb.org/t/p/w500/lF86e5h2iMS8IaIuExv1p81mi7R.jpg"
+    },
+    {
+      "nombre": "Victory Ndukwe",
+      "personaje": "Leo",
+      "foto": "https://image.tmdb.org/t/p/w500/fAIXv88uXtJp1dH5qoMpsZxn8w1.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sébastien Vaniček",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sébastien Vaniček",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Florent Bernard",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Robert Tapert",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sam Raimi",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bruce Campbell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Raimi",
+      "rol": "Original Film Writer"
+    },
+    {
+      "nombre": "Romel Adam",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jose Cañas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lee Cronin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Philip Lozano",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Kirsty McGregor",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Nick Connor",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Gareth Edwards",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Karla Spika",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Stu Turner",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Will Pearce",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Sébastien Vaniček",
+  "valoraciones": {
+    "tmdb": 6.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://gscdn.cam/video/embed/eyoov1ci6wqt",
+  "trailer": "https://www.youtube.com/watch?v=RddZObTlmA8"
+}
