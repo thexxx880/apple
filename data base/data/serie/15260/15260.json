@@ -1,0 +1,81 @@
+{
+  "id_tmdb": 15260,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1TfTfqF9tMfI94kukgBeqFhd7Et.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pe4B3OYBb7qYCdkAz7nKWordbls.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/q2bqHG71TpLMc3EJHtaw66CsYWI.png",
+  "titulo": "Hora de Aventura",
+  "titulo_original": "Adventure Time",
+  "fecha_estreno": "2010-04-05",
+  "duracion": "11min",
+  "año": "2010",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.509,
+  "sinopsis": "¡No son justos, son injustos! Conéctate con Finn y Jake mientras viajan por la Tierra de Ooo en busca de aventuras. Pero recuerda, la aventura no siempre es fácil. A veces tienes que luchar contra los gnomos de fuego que torturan a las ancianas, salvar a una princesa maloliente del Rey Helado y descongelar a un grupo de hombres de negocios congelados. ¡¿Qué repollo ?!",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jeremy Shada",
+      "personaje": "Finn the Human (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/r4Gasfu032PQ4jOQsTrHTaQoHb8.jpg"
+    },
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "Jake the Dog (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Ice King (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+    },
+    {
+      "nombre": "Hynden Walch",
+      "personaje": "Princess Bubblegum (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFfZaFF1o724BuZ3cLK6tl9L03.jpg"
+    },
+    {
+      "nombre": "Olivia Olson",
+      "personaje": "Marceline the Vampire Queen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hZK9JpFK4xz7DHyxg9T1DOLN6gv.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Thurop Van Orman",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Pendleton Ward",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Mike Collins",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "Thurop Van Orman",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Pendleton Ward",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.509,
+    "imdb": "tt1305826",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=dQX4tS9JSj8"
+}
