@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1228710,
+  "poster": "https://image.tmdb.org/t/p/w500/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/MJcERawyqGqJdPsOBc0C449hQ9.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/eKidr499bFyOOB5Z3dQcsXzaCnE.png",
+  "titulo": "Star Wars: The Mandalorian and Grogu",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.9,
+  "año": "2026",
+  "duracion": "2h 12min",
+  "edad_minima": 13,
+  "sinopsis": "Continuación de la serie \"The Mandalorian\" en forma de película. El malvado Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin (Pedro Pascal) y su joven aprendiz Grogu.",
+  "fecha_estreno": "2026-05-20",
+  "titulo_original": "The Mandalorian and Grogu",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Pedro Pascal",
+      "personaje": "The Mandalorian",
+      "foto": "https://image.tmdb.org/t/p/w500/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+      "nombre": "Jeremy Allen White",
+      "personaje": "Rotta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pXRADDRhprgaQ4Bri44NH3bYeu6.jpg"
+    },
+    {
+      "nombre": "Sigourney Weaver",
+      "personaje": "Colonel Ward",
+      "foto": "https://image.tmdb.org/t/p/w500/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "nombre": "Brendan Wayne",
+      "personaje": "The Mandalorian Suit Performer",
+      "foto": "https://image.tmdb.org/t/p/w500/klsNR0ld4NjURhhn3PYZetFkaCK.jpg"
+    },
+    {
+      "nombre": "Lateef Crowder",
+      "personaje": "The Mandalorian Stunt Performer",
+      "foto": "https://image.tmdb.org/t/p/w500/mhGArPyh3N97t3PU4YnvLZTzHjl.jpg"
+    },
+    {
+      "nombre": "Steve Blum",
+      "personaje": "Zeb Orrelios (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+    },
+    {
+      "nombre": "Jonny Coyne",
+      "personaje": "Lord Janu",
+      "foto": "https://image.tmdb.org/t/p/w500/6PSW0qaoY3KSnWUUv6f54NOuPC0.jpg"
+    },
+    {
+      "nombre": "Matthew Willig",
+      "personaje": "Hogsbreth",
+      "foto": "https://image.tmdb.org/t/p/w500/46nLaoxRvXpx8ohmG7hx2Qq00Sr.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kathleen Kennedy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jon Favreau",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jon Favreau",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dave Filoni",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jon Favreau",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Dave Filoni",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ian Bryce",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Noah Kloor",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Doug Chiang",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Andrew L. Jones",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jason T. Clark",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Aja Kai Rowley",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Abbigail Keller",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Rick O'Connor",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Ji Young Lee",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Mary Zophres",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Brandon Uloho",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Shawn Holden",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Susan A. Burig",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Kim Richards",
+      "rol": "First Assistant Director"
+    }
+  ],
+  "director": "Jon Favreau",
+  "valoraciones": {
+    "tmdb": 6.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lucasfilm Ltd.",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/9a/s8/2/U/6/X/q/U6XqA.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw"
+}
