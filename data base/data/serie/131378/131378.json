@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 131378,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2tgXQ9NU48mNgpsEWfyVzTb2Ho8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vRAM2el4bAygzUWfwXdt34E71Ee.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2CB9MFbRgtTe095UALAu07m0tXo.png",
+  "titulo": "Hora de Aventura con Fionna & Cake",
+  "titulo_original": "Adventure Time: Fionna and Cake",
+  "fecha_estreno": "2023-08-31",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.639,
+  "sinopsis": "Fionna y Cake -con la ayuda de Simon Petrikov, el antiguo Rey Helado- se embarcan en una aventura a través de multiversos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Madeleine Martin",
+      "personaje": "Fionna (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hOntuFYAMwn9QaXT0AwLCPU79ce.jpg"
+    },
+    {
+      "nombre": "Roz Ryan",
+      "personaje": "Cake (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ijKraX1zek1RmtKPGxLDdBKn6Fp.jpg"
+    },
+    {
+      "nombre": "Ashly Burch",
+      "personaje": "Huntress Wizard (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iINzNKiIGbjoee6tJKb8xMWog45.jpg"
+    },
+    {
+      "nombre": "Harvey Guillén",
+      "personaje": "Gary (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yiNBonobPwqMVweB02JWufzp2l9.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Lisa Zunich",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Susan Varghese",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Adam Muto",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Fred Seibert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sandra Lee",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kelly Ann Foley",
+      "rol": "ADR Editor"
+    },
+    {
+      "nombre": "Michael Garcia",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Michael Garcia",
+      "rol": "ADR Editor"
+    },
+    {
+      "nombre": "Patrick J. Foley",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Patrick J. Foley",
+      "rol": "ADR Editor"
+    },
+    {
+      "nombre": "David M. Cowan",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "David M. Cowan",
+      "rol": "ADR Editor"
+    },
+    {
+      "nombre": "David Cowles",
+      "rol": "Online Editor"
+    },
+    {
+      "nombre": "Harrison T. Barth",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Michele Beeson",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Gabriel Gianola",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Agnes Kim",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Liz Carroll",
+      "rol": "Administration"
+    },
+    {
+      "nombre": "Maria Millage",
+      "rol": "Administration"
+    },
+    {
+      "nombre": "Athena Wingate",
+      "rol": "Production Accountant"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.639,
+    "imdb": "tt15248880",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks, HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=94gpIscW0Mc"
+}
