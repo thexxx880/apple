@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 310307,
+  "poster": "https://image.tmdb.org/t/p/w500/ca9V6iA0sk6Zc9aTvcgFidyVwDG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5WparwIlAtSZW0tcWbK2NHEZJC6.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3ZHvyRny1kpoiZf0Yh3qq7VVKur.png",
+  "titulo": "Hambre de poder",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Historia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.149,
+  "año": "2016",
+  "duracion": "1h 55min",
+  "edad_minima": 13,
+  "sinopsis": "Biopic del creador de McDonald’s. En los años 50, un vendedor de Illinois llamado Ray Kroc conoció a los hermanos Richard y Maurice McDonald que llevaban una hamburguesería al sur de California. Impresionado por la velocidad del sistema de cocina de su hamburguesería de San Bernardino, Kroc visualizó el potencial de la franquicia y hábilmente se fue posicionando para arrebatárselo a los hermanos y crear el hoy imperio de un billón de dólares. Así nació McDonald’s.",
+  "fecha_estreno": "2016-11-24",
+  "titulo_original": "The Founder",
+  "pais_origen": "Greece",
+  "reparto": [
+    {
+      "nombre": "Michael Keaton",
+      "personaje": "Ray Kroc",
+      "foto": "https://image.tmdb.org/t/p/w500/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+    },
+    {
+      "nombre": "Nick Offerman",
+      "personaje": "Dick McDonald",
+      "foto": "https://image.tmdb.org/t/p/w500/f6z3mPVtaF40ewfdmZydprAjmYd.jpg"
+    },
+    {
+      "nombre": "John Carroll Lynch",
+      "personaje": "Mac McDonald",
+      "foto": "https://image.tmdb.org/t/p/w500/lXlHxLK91U2l3yb77Tw32yEHJyT.jpg"
+    },
+    {
+      "nombre": "Linda Cardellini",
+      "personaje": "Joan Smith",
+      "foto": "https://image.tmdb.org/t/p/w500/bcycvynDprC1rrhBNrnBjn5uOUd.jpg"
+    },
+    {
+      "nombre": "B.J. Novak",
+      "personaje": "Harry J. Sonneborn",
+      "foto": "https://image.tmdb.org/t/p/w500/o8Xf1khxhKGTz3QAplXD35opRA8.jpg"
+    },
+    {
+      "nombre": "Laura Dern",
+      "personaje": "Ethel Kroc",
+      "foto": "https://image.tmdb.org/t/p/w500/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+    },
+    {
+      "nombre": "Justin Randell Brooke",
+      "personaje": "Fred Turner",
+      "foto": "https://image.tmdb.org/t/p/w500/m1l9mG8XM4DxfyW9zuiX67zgPqk.jpg"
+    },
+    {
+      "nombre": "Kate Kneeland",
+      "personaje": "June Martino",
+      "foto": "https://image.tmdb.org/t/p/w500/jv2FbzzMaY7Xub173735i9fjUE5.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John Lee Hancock",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robert D. Siegel",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Don Handfield",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeremy Renner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aaron Ryder",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Parry Creedon",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Phil Hardage",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Amir R. Khan",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Lauren Heath",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Erica Frauman",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Ian Fox",
+      "rol": "\"A\" Camera Operator"
+    },
+    {
+      "nombre": "Dan Ming",
+      "rol": "First Assistant \"A\" Camera"
+    },
+    {
+      "nombre": "Ross Davis",
+      "rol": "Second Assistant \"A\" Camera"
+    },
+    {
+      "nombre": "Brook Willard",
+      "rol": "Digital Imaging Technician"
+    },
+    {
+      "nombre": "Bob Gorelick",
+      "rol": "\"B\" Camera Operator"
+    },
+    {
+      "nombre": "Suzanne Trucks",
+      "rol": "First Assistant \"B\" Camera"
+    },
+    {
+      "nombre": "Ryan Abrams",
+      "rol": "Second Assistant \"B\" Camera"
+    }
+  ],
+  "director": "John Lee Hancock",
+  "valoraciones": {
+    "tmdb": 7.149,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Speedie Distribution",
+  "enlace_video": "https://gscdn.cam/video/embed/yphov8h0nljd",
+  "trailer": "https://www.youtube.com/watch?v=oprJX5BomEc"
+}
