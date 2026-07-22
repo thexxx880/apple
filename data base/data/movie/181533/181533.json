@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 181533,
+  "poster": "https://image.tmdb.org/t/p/w500/7cdADLHn2mx6A0N2RgHScZletNM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1ClgfKeczI0d0KKuBs5qSIqUReT.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tqwPb9tbALpeyQtPpv5ntgzBrVD.png",
+  "titulo": "Una Noche en el Museo 3: El Secreto de la Tumba",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Fantasía",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.225,
+  "año": "2014",
+  "duracion": "1h 38min",
+  "edad_minima": 13,
+  "sinopsis": "La tabla de Ahkmenrah, la que hace que las estatuas de los museos cobren vida, está perdiendo su magia. En un intento desesperado para proteger el valioso tesoro, Larry Daley viajará junto a sus amigos Theodore Roosevelt en su última película-, el faraón Ahkmenrah, Atila, Jebediah Smith, Augustus Octavius y Sacagawea desde Nueva York hasta Londres. Allí intentarán contactar con alguien del Museo de Londres que les ayude a restaurar la magia y conocerán a Sir Lancelot y otros personajes del antiguo Egipto.",
+  "fecha_estreno": "2014-12-17",
+  "titulo_original": "Night at the Museum: Secret of the Tomb",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Ben Stiller",
+      "personaje": "Larry Daley / Laaa",
+      "foto": "https://image.tmdb.org/t/p/w500/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "nombre": "Robin Williams",
+      "personaje": "Theodore Roosevelt",
+      "foto": "https://image.tmdb.org/t/p/w500/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+    },
+    {
+      "nombre": "Owen Wilson",
+      "personaje": "Jedediah Smith",
+      "foto": "https://image.tmdb.org/t/p/w500/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+    },
+    {
+      "nombre": "Steve Coogan",
+      "personaje": "Octavius",
+      "foto": "https://image.tmdb.org/t/p/w500/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+    },
+    {
+      "nombre": "Ricky Gervais",
+      "personaje": "Dr. McPhee",
+      "foto": "https://image.tmdb.org/t/p/w500/z293wonhuF0aYQtg1ROOSl1LObf.jpg"
+    },
+    {
+      "nombre": "Dan Stevens",
+      "personaje": "Sir Lancelot",
+      "foto": "https://image.tmdb.org/t/p/w500/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
+    },
+    {
+      "nombre": "Rebel Wilson",
+      "personaje": "Tilly",
+      "foto": "https://image.tmdb.org/t/p/w500/yuyRg1WaY616Uux3vP9ONsUjQTS.jpg"
+    },
+    {
+      "nombre": "Skyler Gisondo",
+      "personaje": "Nick Daley",
+      "foto": "https://image.tmdb.org/t/p/w500/kKsTXDDF778AhTL9AIeULfI0z3S.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Guion",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Michael Handelman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Columbus",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Radcliffe",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Friedman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Michael Handelman",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mary McLaglen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh McLaglen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Guillermo Navarro",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Dean Zimmerman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Leanne Buchanan",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Celia Bond",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Krista Bell",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kathy Hubble",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Lani Gelera",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Doug Chapman",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ferran Domenech",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Nigel Evans",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Shawn Levy",
+  "valoraciones": {
+    "tmdb": 6.225,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Moving Picture Company",
+  "enlace_video": "https://rumble.com/hls-vod/6y836q/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=THxsWvtbMjM"
+}
