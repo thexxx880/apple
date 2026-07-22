@@ -1,0 +1,75 @@
+{
+  "id_tmdb": 94810,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3If6yATaYZ2uXxBaPL6S70UrlcE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vgQnqlVgtlH8dpjX54ChjYZUjE.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sq4oqiuftwNotUTtGkqXgRJDc2M.png",
+  "titulo": "Hora De Aventura: Tierras Lejanas",
+  "titulo_original": "Adventure Time: Distant Lands",
+  "fecha_estreno": "2020-06-25",
+  "duracion": "45min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Familia"
+  ],
+  "puntuacion": 8.156,
+  "sinopsis": "Basada en la serie animada Hora de Aventura, esta serie acerca a los fanáticos a sus habitantes favoritos de Ooo, junto con algunos nuevos amigos, para seguirlos en aventuras nuevas y emocionantes.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "Jake / Additional Voices (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+    },
+    {
+      "nombre": "Jeremy Shada",
+      "personaje": "Finn / Additional Voices (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/r4Gasfu032PQ4jOQsTrHTaQoHb8.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Y5's Dad / Ice King / Simon Petrikov / Berdzerd / Additional Voices (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+    },
+    {
+      "nombre": "Hynden Walch",
+      "personaje": "Princess Bubblegum / Additional Voices (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oFfZaFF1o724BuZ3cLK6tl9L03.jpg"
+    },
+    {
+      "nombre": "Niki Yang",
+      "personaje": "BMO / Football / Additional Voices (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/t0MYbwrpGZLwp66L2rSG5uhlaJ6.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Adam Muto",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jenny Goldberg",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Adam Muto",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.156,
+    "imdb": "tt11165358",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks, HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=7J9V7JxxA-k"
+}
