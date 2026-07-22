@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 267806,
+  "poster": "https://image.tmdb.org/t/p/w500/q6NrO3iTSdhR04AOzldUDxDiuS6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mfP8XBN3qyXVmqH4YfDnUBA1y1j.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/reGC336WiHlOft1sMETypPRGrEI.png",
+  "titulo": "VHS: Viral",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 4.803,
+  "año": "2014",
+  "duracion": "1h 21min",
+  "edad_minima": 13,
+  "sinopsis": "Un camión está causando el caos en la calle, atropellando a todo aquel que se cruza en su camino. Mientras tanto, unos adolescentes se ven envueltos en un fenómeno viral de lo más peligroso. Esta es la historia que envuelve los distintos segmentos de la tercera entrega de VHS, en los que se dan cita patinadores, brujos y mad doctors.",
+  "fecha_estreno": "2014-11-21",
+  "titulo_original": "V/H/S: Viral",
+  "pais_origen": "Spain",
+  "reparto": [
+    {
+      "nombre": "Patrick Lawrie",
+      "personaje": "Kev (segment \"Vicious Circles\")",
+      "foto": null
+    },
+    {
+      "nombre": "Emilia Ares",
+      "personaje": "Iris (segment \"Vicious Circles\")",
+      "foto": "https://image.tmdb.org/t/p/w500/7B5yXPIxly1D1VGWGY6nFq3rTN.jpg"
+    },
+    {
+      "nombre": "Celia K. Milius",
+      "personaje": "Grandma (segment \"Vicious Circles\")",
+      "foto": null
+    },
+    {
+      "nombre": "Steve Berens",
+      "personaje": "Cop (segment \"Vicious Circles\")",
+      "foto": null
+    },
+    {
+      "nombre": "Garrett Bales",
+      "personaje": "Spooked Guy (segment \"Vicious Cycles\")",
+      "foto": "https://image.tmdb.org/t/p/w500/48KIuKgmMNTLzRnN1VlRKIsdqWp.jpg"
+    },
+    {
+      "nombre": "Stephanie Silver",
+      "personaje": "Eva (segment \"Vicious Circles\")",
+      "foto": null
+    },
+    {
+      "nombre": "Charles Johnson",
+      "personaje": "BMX #1 (segment \"Vicious Circles\")",
+      "foto": null
+    },
+    {
+      "nombre": "Ryan Staats",
+      "personaje": "BMX #2 (segment \"Vicious Circles\")",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gregg Bishop",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Justin Benson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Theo Brooks",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Stephen Caudill",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Hendricks",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nils Onsager",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Caudill",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aaron Moorhead",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brad Miska",
+      "rol": "Original Concept"
+    },
+    {
+      "nombre": "Vince Cupone",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Justin Dornbush",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Gregg Bishop",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Phillip Blackford",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Steve Robles",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Justin Benson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Felker",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Matthew Lessall",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Matt Daneri",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Sten Saluveer",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Beck Engle",
+      "rol": "Associate Producer"
+    }
+  ],
+  "director": "Nacho Vigalondo",
+  "valoraciones": {
+    "tmdb": 4.803,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Bloody Disgusting",
+  "enlace_video": "https://gscdn.cam/video/embed/4rvq10jbvag8",
+  "trailer": "https://www.youtube.com/watch?v=QrnBPBjllc0"
+}
