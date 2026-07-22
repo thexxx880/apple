@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 255358,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/v6D7aBJynhY6opGugGJkofzknw6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/oosWS0zLq9BD1gwv0tcjnttVu03.png",
+  "titulo": "THE GHOST IN THE SHELL",
+  "titulo_original": "攻殻機動隊 THE GHOST IN THE SHELL",
+  "fecha_estreno": "2026-07-07",
+  "duracion": "25min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "Japón, 2029. La cíborg completa Motoko Kusanagi concibe una fuerza especial para combatir amenazas emergentes. Daisuke Aramaki la recluta y forma la Sección 9 de Seguridad Pública, la Patrulla Especial Acorazada Antidisturbios. Una conspiración internacional apunta al hacker Maestro de Marionetas. ¿Qué le espera a Kusanagi? ¿Qué planea el hacker? Comienza una nueva era de acción ciberpunk.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "坂本真綾",
+      "personaje": "Motoko Kusanagi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hPz2oEQui8a4q9aXdBugQf93ONq.jpg"
+    },
+    {
+      "nombre": "安元洋貴",
+      "personaje": "Batou (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
+    },
+    {
+      "nombre": "中村悠一",
+      "personaje": "Togusa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wb8behVKjBHX9XXrEydvNINCYwH.jpg"
+    },
+    {
+      "nombre": "山路和弘",
+      "personaje": "Daisuke Aramaki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fgGTdhTiWViGmjl2kABHWzLIpZ0.jpg"
+    },
+    {
+      "nombre": "後藤光祐",
+      "personaje": "Ishikawa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yKZfd7qx8sEfEwBdjPawQWkQwaF.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "内田峻",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "阿部研吾",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "笹大地",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "崎田康平",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "谷口博邦",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "モコちゃん",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "半田修平",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "円城塔",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "半田修平",
+      "rol": "Supervising Animation Director"
+    },
+    {
+      "nombre": "士郎正宗",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "岩崎太整",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "岩崎太整",
+      "rol": "Music Director"
+    },
+    {
+      "nombre": "小西遼",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "YUKI KANESAKA",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "空山基",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "片野坂恵美",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "橋本賢",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "廣瀬清志",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "丹下雄二",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "八十正太",
+      "rol": "Sound Effects"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "tt36517689",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=rAQXtWrLPyo"
+}
