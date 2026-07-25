@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 125988,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/grcBzRpm1G3G66MGm9vGGV8SrD5.png",
+  "titulo": "Silo",
+  "titulo_original": "Silo",
+  "fecha_estreno": "2023-05-04",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "puntuacion": 8.176,
+  "sinopsis": "En un futuro arruinado y tóxico, existe una comunidad en un enorme silo subterráneo cientos de pisos bajo tierra. Ahí, hombres y mujeres viven en una sociedad llena de reglas que creen que están hechas para protegerlos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rebecca Ferguson",
+      "personaje": "Juliette Nichols",
+      "foto": "https://image.tmdb.org/t/p/w500/ty8ZPzaCBBlqIr5qzpOXI24iC8j.jpg"
+    },
+    {
+      "nombre": "Common",
+      "personaje": "Robert Sims",
+      "foto": "https://image.tmdb.org/t/p/w500/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+    },
+    {
+      "nombre": "Chinaza Uche",
+      "personaje": "Paul Billings",
+      "foto": "https://image.tmdb.org/t/p/w500/5fbbLI9BPiByyIIRYu9pbRQwyUN.jpg"
+    },
+    {
+      "nombre": "Ashley Zukerman",
+      "personaje": "Daniel Keene",
+      "foto": "https://image.tmdb.org/t/p/w500/tKT5ybCjMOV4whEQ6jy8ZQnrP7C.jpg"
+    },
+    {
+      "nombre": "Shane McRae",
+      "personaje": "Knox",
+      "foto": "https://image.tmdb.org/t/p/w500/ixNSdZDJ6fZzZc2Pdx4Dwr8wHir.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Bert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shelley Birse",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Jeffery Wang",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Katherine DiSavino",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Ben Brafman",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Roslyn Hill",
+      "rol": "Line Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven Leaute",
+      "rol": "3D Animator"
+    },
+    {
+      "nombre": "Shelley Birse",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Jeffery Wang",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Katherine DiSavino",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Ben Brafman",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Roslyn Hill",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Daniel Rauchwerger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jennifer Wessner",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jon Midlane",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jenny DeArmitt-Stran",
+      "rol": "Executive Story Editor"
+    },
+    {
+      "nombre": "Arran Topham",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Oliver Cockerham",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Jonnie Mead",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Ewan Robertson",
+      "rol": "Property Master"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.176,
+    "imdb": "tt14688458",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Apple TV",
+  "trailer": "https://www.youtube.com/watch?v=0I7Q1WtTf_c"
+}
