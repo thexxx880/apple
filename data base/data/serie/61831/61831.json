@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 61831,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xhdl84crUXv0Jc5LXEQaArsRF7N.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iIvJ5NYpqcfr6tJ10m3Upt733wd.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4M3EjiThpxb1aDVrpxkvg4tijyO.png",
+  "titulo": "The Game",
+  "titulo_original": "The Game",
+  "fecha_estreno": "2014-11-05",
+  "duracion": "59min",
+  "año": "2014",
+  "trending": false,
+  "generos": [
+    "War & Politics",
+    "Drama",
+    "Crimen",
+    "Comedia"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "La novia de un jugador profesional del fútbol americano se acostumbra al estilo de vida---a veces glamoroso pero frecuentamente estresante.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Tom Hughes",
+      "personaje": "Joe Lambe",
+      "foto": "https://image.tmdb.org/t/p/w500/ykxpfnJ5Fm0Zrx3MbE7yjRzF0b4.jpg"
+    },
+    {
+      "nombre": "Jonathan Aris",
+      "personaje": "Alan Montag",
+      "foto": "https://image.tmdb.org/t/p/w500/e3mdBI4oCXwf4locFbPKwHsAjaI.jpg"
+    },
+    {
+      "nombre": "Victoria Hamilton",
+      "personaje": "Sarah Montag",
+      "foto": "https://image.tmdb.org/t/p/w500/xisT8HsZW36JWuQ5MXkupwhVIpm.jpg"
+    },
+    {
+      "nombre": "Shaun Dooley",
+      "personaje": "DC Jim Fenchurch",
+      "foto": "https://image.tmdb.org/t/p/w500/uWiw28ARiLkvL6xUjKDLDlSsfkY.jpg"
+    },
+    {
+      "nombre": "Brian Cox",
+      "personaje": "Daddy",
+      "foto": "https://image.tmdb.org/t/p/w500/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Radford Neville",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hilary Salmon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Faith Penhale",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Toby Whithouse",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Radford Neville",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jim Goddard",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Hilary Salmon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Wischhusen-Hayes",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Stuart Hilliker",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Sam McCurdy",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jamie Trevill",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Annie Kocur",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sandra O'Brien",
+      "rol": "Makeup Supervisor"
+    },
+    {
+      "nombre": "Faith Penhale",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Howells",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Daniel Pemberton",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Philip Clements",
+      "rol": "Foley Editor"
+    },
+    {
+      "nombre": "Sam Williams",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Rachel Freck",
+      "rol": "Casting"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt3159736",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=BZ04xaKs9wA"
+}
