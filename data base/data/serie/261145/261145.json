@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 261145,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/uJ1nT3Ez5te1zStsj7DFYFLx8gY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/e8ImCnWhbBgczUyUgCchafr2tme.png",
+  "titulo": "El asombroso circo digital",
+  "titulo_original": "The Amazing Digital Circus",
+  "fecha_estreno": "2023-10-13",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.671,
+  "sinopsis": "Una mujer queda atrapada en un loco mundo virtual junto con otros cinco humanos y ahora está sujeta a los caprichos de una extravagante IA y a sus propios traumas personales.",
+  "pais_origen": "AU",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lizzie Freeman",
+      "personaje": "Pomni (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/h6R9y6VegUkTqJVGIkBXjMHYuGB.jpg"
+    },
+    {
+      "nombre": "Alex Rochon",
+      "personaje": "Caine (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1yRNVElkBZl19fYSAAtrqxmwnIU.jpg"
+    },
+    {
+      "nombre": "Michael Kovach",
+      "personaje": "Jax (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qSSrEuA3XUBEFo3bxMOHQ6E6r7y.jpg"
+    },
+    {
+      "nombre": "Amanda Hufford",
+      "personaje": "Ragatha (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4c89ydeGf8b58DN0KBvaRFsqrEO.jpg"
+    },
+    {
+      "nombre": "Marissa Lenti",
+      "personaje": "Gangle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wAeWZ0nCxImIlFj547RwOOEus1B.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Luke Lerdwichagul",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Lerdwichagul",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Lerdwichagul",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jasmine Yang",
+      "rol": "Development Producer"
+    },
+    {
+      "nombre": "Tom Dolan",
+      "rol": "Line Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Luke Lerdwichagul",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Lerdwichagul",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Lerdwichagul",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jasmine Yang",
+      "rol": "Development Producer"
+    },
+    {
+      "nombre": "Gooseworx",
+      "rol": "Concept Artist"
+    },
+    {
+      "nombre": "Gooseworx",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Evan Alderete",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Robin French",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Kevin Temmer",
+      "rol": "Lead Animator"
+    },
+    {
+      "nombre": "Payton Goodwin",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Alec Smith",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Daryle Hodgkinson",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Tom Dolan",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Neda Lay",
+      "rol": "Storyboard Artist"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.671,
+    "imdb": "tt27610198",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=iuaRQ5NQFq8"
+}
