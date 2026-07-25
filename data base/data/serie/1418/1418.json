@@ -1,0 +1,79 @@
+{
+  "id_tmdb": 1418,
+  "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ngoiHQul4QetfA62SdmZZOdDFAP.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8MpmB30iIozVMw3No2YCe8r0jqL.png",
+  "titulo": "La teoría del Big Bang",
+  "titulo_original": "The Big Bang Theory",
+  "fecha_estreno": "2007-09-24",
+  "duracion": "22min",
+  "año": "2007",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 7.9,
+  "sinopsis": "Leonard y Sheldon son dos físicos brillantes pero socialmente torpes cuyas vidas cambian por completo cuando la atractiva e independiente Penny se mude al apartamento de enfrente.",
+  "pais_origen": "US",
+  "calificacion": "12",
+  "edad_minima": 12,
+  "reparto": [
+    {
+      "nombre": "Johnny Galecki",
+      "personaje": "Leonard Hofstadter",
+      "foto": "https://image.tmdb.org/t/p/w500/81oR6L6O75f28fX19fN4X1O2I2.jpg"
+    },
+    {
+      "nombre": "Jim Parsons",
+      "personaje": "Sheldon Cooper",
+      "foto": "https://image.tmdb.org/t/p/w500/8A749Oa2vG5VdK95y8yV8gX5Q2m.jpg"
+    },
+    {
+      "nombre": "Kaley Cuoco",
+      "personaje": "Penny",
+      "foto": "https://image.tmdb.org/t/p/w500/4S3bV60e2S9i3l11Fk5o0m8wP2O.jpg"
+    },
+    {
+      "nombre": "Simon Helberg",
+      "personaje": "Howard Wolowitz",
+      "foto": "https://image.tmdb.org/t/p/w500/m9k9o5G66S78k5yN56fJ7Qv91G9.jpg"
+    },
+    {
+      "nombre": "Kunal Nayyar",
+      "personaje": "Rajesh Koothrappali",
+      "foto": "https://image.tmdb.org/t/p/w500/ebf9n8g408I3v9G34S17H6k5a7H.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Chuck Lorre",
+      "rol": "Creador"
+    },
+    {
+      "nombre": "Bill Prady",
+      "rol": "Creador"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chuck Lorre",
+      "rol": "Executive Producer / Creator"
+    },
+    {
+      "nombre": "Bill Prady",
+      "rol": "Executive Producer / Creator"
+    },
+    {
+      "nombre": "Steven Molaro",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.9,
+    "imdb": "tt0898266",
+    "rotten_tomatoes": 81
+  },
+  "distribuidora": "Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=rCj-Fb1PBY0"
+}
