@@ -1,0 +1,89 @@
+{
+  "id_tmdb": 4658,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/hcbVe3vJ8dIe5MxSFYfYj7P9gYM.png",
+  "titulo": "ALF",
+  "titulo_original": "ALF",
+  "fecha_estreno": "1986-09-22",
+  "duracion": "23min",
+  "año": "1986",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.645,
+  "sinopsis": "La nave espacial de un pequeño extraterrestre del planeta Melmac se estrella contra la Tierra. Los Tanner, una típica familia norteamericana, lo acogen en su casa y lo ocultan no sólo a las autoridades, sino también a los vecinos, amigos y parientes, porque creen que de lo contrario la vida del simpático alienígena (al que llaman Alf) correría peligro. Muy pronto Alf se convierte en uno más de la familia, pero también creará problemas de convivencia, pues es un ser comodón y poco educado que sólo piensa en comer y en ver la tele.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Max Wright",
+      "personaje": "Willie Tanner",
+      "foto": "https://image.tmdb.org/t/p/w500/bM0yC42RbFCSUWITFGVdiojn7ba.jpg"
+    },
+    {
+      "nombre": "Anne Schedeen",
+      "personaje": "Kate Tanner",
+      "foto": "https://image.tmdb.org/t/p/w500/80d6x82yH4WVW2GUVpNRdWIGz86.jpg"
+    },
+    {
+      "nombre": "Andrea Elson",
+      "personaje": "Lynn Tanner",
+      "foto": "https://image.tmdb.org/t/p/w500/lRXieogWbQElmsMxpH2rI6ripzX.jpg"
+    },
+    {
+      "nombre": "Benji Gregory",
+      "personaje": "Brian Tanner",
+      "foto": "https://image.tmdb.org/t/p/w500/e5yLx2eca61xRZlPqEO7ffkenQF.jpg"
+    },
+    {
+      "nombre": "Mihaly 'Michu' Meszaros",
+      "personaje": "Alf / Gordon Shumway",
+      "foto": "https://image.tmdb.org/t/p/w500/ycVmjUV46oVddJXrd8RTaYcWIIF.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Paul Fusco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bernie Brillstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Patchett",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Paul Fusco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alf Clausen",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Bernie Brillstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Patchett",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.645,
+    "imdb": "tt0090390",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": ""
+}
