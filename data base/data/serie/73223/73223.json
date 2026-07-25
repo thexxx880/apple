@@ -1,0 +1,125 @@
+{
+  "id_tmdb": 73223,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/j9ZZ7WV5pwLLXbbebyGdMUxbqrc.png",
+  "titulo": "Black Clover",
+  "titulo_original": "ブラッククローバー",
+  "fecha_estreno": "2017-10-03",
+  "duracion": "24min",
+  "año": "2017",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.505,
+  "sinopsis": "Asta y Yuno son dos huérfanos que fueron criados juntos desde su nacimiento en una iglesia en las afueras del Reino de Clover. En un mundo donde todos tienen poder mágico, Asta nació sin ningún tipo de poder. A diferencia de él, Yuno nació como un prodigio con inmenso poder mágico y gran talento para controlarlo. La historia sigue a los dos hermanos adoptivos mientras compiten para ver cuál de ellos se convertirá en el Rey Mago, el Caballero Mágico más fuerte del Reino de Clover.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Gakuto Kajiwara",
+      "personaje": "Asta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kUer38jXf7vTD2TGGxJMZVYL5Te.jpg"
+    },
+    {
+      "nombre": "島﨑信長",
+      "personaje": "Yuno (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+    },
+    {
+      "nombre": "優木かな",
+      "personaje": "Noelle Silva (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gnKY83EbfaJWi1y47dgOtiRegAK.jpg"
+    },
+    {
+      "nombre": "諏訪部順一",
+      "personaje": "Yami Sukehiro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+    },
+    {
+      "nombre": "室元気",
+      "personaje": "Magna Swing (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6YF881kJuP2HaSb5PXRO4hWTZA.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "奈良初男",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "日野亮",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "礒谷麻依子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "菅沢正浩",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "吉原達矢",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "高桑一",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "関美奈子",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "竹田逸子",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "片瀬健太",
+      "rol": "Stage Director"
+    },
+    {
+      "nombre": "奈良初男",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "日野亮",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "國井智行",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "礒谷麻依子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "菅沢正浩",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "筆安一幸",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "田畠裕基",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.505,
+    "imdb": "tt7441658",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=QwNWY6z93O4"
+}
