@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 67075,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/aFcv9zeJtSbJHSYUlQCOQYV3Gio.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nH2KsyLFAj9hB0VZYVhpPkFeKPD.png",
+  "titulo": "Mob Psycho 100",
+  "titulo_original": "モブサイコ100",
+  "fecha_estreno": "2016-07-12",
+  "duracion": "24min",
+  "año": "2016",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.5,
+  "sinopsis": "Kageyama Shigeo, apodado \"Mob\", es un chico con problemas para expresarse pero que en realidad es un poderoso esper. Mob está decidido a llevar una vida normal y mantiene sus poderes especiales reprimidos, pero cuando sus emociones alcancen el nivel del 100%, ¡le ocurrirá algo terrible!\n\nRodeado por falsos espers, espíritus malignos y misteriosas organizaciones, ¿qué hará Mob? ¿Qué elecciones tomará?",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "伊藤節生",
+      "personaje": "Shigeo 'Mob' Kageyama (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1uU8sVaxzxiFJakNGe7CNwkL2rO.jpg"
+    },
+    {
+      "nombre": "櫻井孝宏",
+      "personaje": "Arataka Reigen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+    },
+    {
+      "nombre": "入野自由",
+      "personaje": "Ritsu Kageyama (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+    },
+    {
+      "nombre": "大塚明夫",
+      "personaje": "Dimple (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "齋藤達哉",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "小澤文啓",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "上野勇介",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "大森慎司",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "近藤秀峰",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "南雅彦",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "齋藤達哉",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "石倉史絵",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "小澤文啓",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "亀田祥倫",
+      "rol": "Supervising Animation Director"
+    },
+    {
+      "nombre": "上野勇介",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "緒方康恭",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "蓮井隆弘",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "大森慎司",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "柳瀬志保",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "近藤秀峰",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "佐藤美代",
+      "rol": "Opening/Ending Animation"
+    },
+    {
+      "nombre": "南雅彦",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "倉橋静男",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "志村泰央",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "立川譲",
+      "rol": "Series Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.5,
+    "imdb": "tt5897304",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=70tdB-1Lwqc"
+}
