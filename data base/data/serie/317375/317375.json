@@ -1,0 +1,44 @@
+{
+  "id_tmdb": 317375,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/eZH22LJOk6pigT2sSvBdZXHM0R4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/p9E1KCihnTvkCqFBcprWZ6A2FnC.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2HPkEeW2xwisJwqCYzEbObiYX7i.png",
+  "titulo": "Locker Diaries: Phineas And Ferb",
+  "titulo_original": "Locker Diaries: Phineas And Ferb",
+  "fecha_estreno": "2026-06-06",
+  "duracion": "2min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Kids",
+    "Familia"
+  ],
+  "puntuacion": 0,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Vincent Martella",
+      "personaje": "Phineas Flynn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9vcbTBhKHsGrbZKEg4w9nFBWeQ6.jpg"
+    },
+    {
+      "nombre": "David Errigo Jr.",
+      "personaje": "Ferb Fletcher (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oTQuPPun1oDqd0PIRpl6QUZysuU.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 0,
+    "imdb": "tt43268848",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": ""
+}
