@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 75006,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5rhtcR1xl1tSmH3FcMH3IJ8gNGC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gHJhN9AJV4PmJ7YpLFa9ldDWuG8.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/w1q14sj3wqwIqH2cqLvJLm0DVd5.png",
+  "titulo": "The Umbrella Academy",
+  "titulo_original": "The Umbrella Academy",
+  "fecha_estreno": "2019-02-15",
+  "duracion": "24min",
+  "año": "2019",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "puntuacion": 8.467,
+  "sinopsis": "Reunidos por la muerte de su padre, hermanos distanciados con poderes extraordinarios destapan secretos perturbadores... y una amenaza inminente contra la humanidad.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Aidan Gallagher",
+      "personaje": "Number Five",
+      "foto": "https://image.tmdb.org/t/p/w500/kEfxXHGyyXgaXOl3u3MPVGsJmYm.jpg"
+    },
+    {
+      "nombre": "Elliot Page",
+      "personaje": "Viktor Hargreeves / Number Seven",
+      "foto": "https://image.tmdb.org/t/p/w500/nXO8DE4biVXY4UDYP0NdIY1zvXS.jpg"
+    },
+    {
+      "nombre": "Tom Hopper",
+      "personaje": "Luther Hargreeves / Number One",
+      "foto": "https://image.tmdb.org/t/p/w500/4Bx09xFBXIWIhptQ10yJEPbB1HI.jpg"
+    },
+    {
+      "nombre": "Emmy Raver-Lampman",
+      "personaje": "Allison Hargreeves / Number Three",
+      "foto": "https://image.tmdb.org/t/p/w500/cBkHUBzqoqrnkxDXWlqQmm91pD2.jpg"
+    },
+    {
+      "nombre": "Robert Sheehan",
+      "personaje": "Klaus Hargreeves / Number Four",
+      "foto": "https://image.tmdb.org/t/p/w500/1lCAN0FZeUhXZo5goabMxk5mYDl.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jamie Neese",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Pascal Verschooris",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lauren Otero",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Elizabeth Padden",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Neese",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Robert Askins",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Megan Oppenheimer",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jamie Neese",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Pascal Verschooris",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lauren Otero",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Elizabeth Padden",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Neese",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Robert Askins",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Molly Nussbaum",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "D.J. Carson",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Abbey Morris",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thomas Page McBee",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jennifer Cecil",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Erin Palmer",
+      "rol": "Lighting Technician"
+    },
+    {
+      "nombre": "Aeryn Michelle Williams",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Junie Lowry-Johnson",
+      "rol": "Original Casting"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.467,
+    "imdb": "tt1312171",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=0DAmWHxeoKw"
+}
