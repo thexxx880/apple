@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 103516,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/oTwnbowXtY08Ck9XnmaYoG7V5tI.png",
+  "titulo": "Star Trek: Extraños Nuevos Mundos",
+  "titulo_original": "Star Trek: Strange New Worlds",
+  "fecha_estreno": "2022-05-05",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "puntuacion": 7.9,
+  "sinopsis": "Siga a Christopher Pike, Spock y Number One en los años antes de que el Capitán Kirk abordara el U.S.S. Enterprise, mientras exploran nuevos mundos alrededor de la galaxia.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Anson Mount",
+      "personaje": "Captain Christopher Pike",
+      "foto": "https://image.tmdb.org/t/p/w500/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+    },
+    {
+      "nombre": "Ethan Peck",
+      "personaje": "Spock",
+      "foto": "https://image.tmdb.org/t/p/w500/9KaxSgpbx9Zj827xXLML3bWknNV.jpg"
+    },
+    {
+      "nombre": "Jess Bush",
+      "personaje": "Christine Chapel",
+      "foto": "https://image.tmdb.org/t/p/w500/qAsdLipL5Gd54IHd813lN5HQFwn.jpg"
+    },
+    {
+      "nombre": "Christina Chong",
+      "personaje": "La'An Noonien-Singh",
+      "foto": "https://image.tmdb.org/t/p/w500/quzkaUEarfiHHpG0IeYgyJgZ6EL.jpg"
+    },
+    {
+      "nombre": "Celia Rose Gooding",
+      "personaje": "Nyota Uhura",
+      "foto": "https://image.tmdb.org/t/p/w500/vIk0g2FnDGmBGEAX7veFCOg0hM1.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Henry Alonso Myers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Trevor Roth",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Akiva Goldsman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alex Kurtzman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Weber",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Frank Siracusa",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Henry Alonso Myers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Trevor Roth",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Akiva Goldsman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alex Kurtzman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Weber",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Frank Siracusa",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gene Roddenberry",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "Jeff Russo",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Orly Sitowitz",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Aaron Baiers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Margery Simkin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Bernadette Croft",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Eugene Roddenberry",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan Lee",
+      "rol": "Production Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.9,
+    "imdb": "tt12327578",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount",
+  "trailer": "https://www.youtube.com/watch?v=2KJz0JRcNE8"
+}
