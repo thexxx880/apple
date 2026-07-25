@@ -1,0 +1,130 @@
+{
+  "id_tmdb": 80623,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/vi7p79cXMSicSLv0zit8M6E2rYX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qbxoEhlxNcyr7GjG2SXTShWn32m.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/bn56KUlwNski3ZFMTMMlF6uOFeO.png",
+  "titulo": "Baki",
+  "titulo_original": "バキ",
+  "fecha_estreno": "2018-06-26",
+  "duracion": "24min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 8.08,
+  "sinopsis": "Mientras el campeón de artes marciales Baki Hanma se entrena para superar la leyenda del padre, cinco condenados a muerte descienden sobre Tokio para desafiarlo.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "島﨑信長",
+      "personaje": "Baki Hanma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+    },
+    {
+      "nombre": "津田健次郎",
+      "personaje": "Sikorsky (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+    },
+    {
+      "nombre": "Takehito Koyasu",
+      "personaje": "Doyle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg"
+    },
+    {
+      "nombre": "二又一成",
+      "personaje": "Ryūkō Yanagi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cZoRqxuTrEDwmMmgbFtgdRO27pQ.jpg"
+    },
+    {
+      "nombre": "銀河万丈",
+      "personaje": "Dorian (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qiXnKaZheMiVyA1U2mX9tPdNA3T.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "國府田崇裕",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "橋本彩子",
+      "rol": "Music Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "國府田崇裕",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "石川晋吾",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "西山正紀",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "平野俊貴",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "板垣恵介",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "板垣恵介",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "庄司雅弘",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "藤澤健至",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "佐野由里子",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "宮脇裕美",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "野口龍生",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "鈴木藤雄",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "浦畑達彦",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "橋本彩子",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "河野次郎",
+      "rol": "Art Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.08,
+    "imdb": "tt6357658",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=_-PGmLXPkDw"
+}
