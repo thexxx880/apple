@@ -1,0 +1,59 @@
+{
+  "id_tmdb": 215072,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/wQV5HSQgmxD8AsbnRvS0FOtcixg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3ByUmreKzZ2TzpRgDxT6svOEbMt.png",
+  "titulo": "Negocio letal",
+  "titulo_original": "킬러들의 쇼핑몰",
+  "fecha_estreno": "2024-01-17",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Action & Adventure",
+    "Misterio"
+  ],
+  "puntuacion": 8.4,
+  "sinopsis": "El único adulto que cuida de Jian es su tío. Tras su repentina muerte, Jian se entera de que ha dejado un sospechoso centro comercial. ¿Quién era su tío y qué clase de comercio dirigía? Antes de que Jian pueda siquiera intuir lo que pasa, es atacada por unos desconocidos que quieren la mercancía de su tío. Ahora que está sola, ¿podrá Jian sobrevivir?",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "이동욱",
+      "personaje": "Jeong Jin-man",
+      "foto": "https://image.tmdb.org/t/p/w500/khwUahjzIHFlrxYeKQAWrbWqsL6.jpg"
+    },
+    {
+      "nombre": "김혜준",
+      "personaje": "Jeong Ji-an",
+      "foto": "https://image.tmdb.org/t/p/w500/hRYxlcLIFhCNwnuHJkkFzpcQ23Y.jpg"
+    },
+    {
+      "nombre": "금해나",
+      "personaje": "So Min-hye",
+      "foto": "https://image.tmdb.org/t/p/w500/1UmNUfz2jPj8hXNdE36kDyy4cW.jpg"
+    },
+    {
+      "nombre": "Min Kim",
+      "personaje": "Pasin Kradek",
+      "foto": "https://image.tmdb.org/t/p/w500/pvNgh5koYxNG9NQcSa60XNzoFgE.jpg"
+    },
+    {
+      "nombre": "이태영",
+      "personaje": "Brother",
+      "foto": "https://image.tmdb.org/t/p/w500/gmqS7W15bbnpU495NbR9whqhIio.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.4,
+    "imdb": "tt26450613",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": "https://www.youtube.com/watch?v=69nzLpyMSHw"
+}
