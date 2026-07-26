@@ -1,23 +1,23 @@
 {
   "id_tmdb": 980431,
-  "poster": "https://image.tmdb.org/t/p/w500/iMsORWhD8MawINagL6kvpDVAtS.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
-  "logo": "https://image.tmdb.org/t/p/w300/bdjJRLdpsQDTMHKlFKiTgbcDxDw.png",
+  "poster": "https://image.tmdb.org/t/p/w500/gXyICsxc1amVyziopCT4yhnelNv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qpSQZXk8JIUjWK112MmDrLyepD9.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/f6cv04jTBHIerDQ8Vo0ZpQWasaE.png",
   "titulo": "Avatar: Aang, El último Maestro Aire",
   "trending": false,
   "generos": [
+    "Animación",
     "Acción",
     "Aventura",
-    "Animación",
     "Fantasía"
   ],
   "calificacion": "PG-13",
-  "puntuacion": 0,
+  "puntuacion": 9.361,
   "año": "2026",
   "duracion": "1h 39min",
   "edad_minima": 13,
   "sinopsis": "Avatar Aang, el último Maestro Aire del mundo, se entera de un antiguo poder que podría salvar a su cultura de la extinción. Con la ayuda de sus amigos, se embarca en una búsqueda global para encontrarlo antes de que caiga en las manos equivocadas y amenace con deshacer la paz por la que lo sacrificaron todo.",
-  "fecha_estreno": "2026-10-09",
+  "fecha_estreno": "2026-07-24",
   "titulo_original": "Avatar Aang: The Last Airbender",
   "pais_origen": "United States of America",
   "reparto": [
@@ -148,11 +148,11 @@
   ],
   "director": "Lauren Montgomery",
   "valoraciones": {
-    "tmdb": 0,
+    "tmdb": 9.361,
     "imdb": null,
     "rotten_tomatoes": null
   },
   "distribuidora": "Nickelodeon Movies",
-  "enlace_video": "https://rumble.com/hls-vod/7783s6/playlist.m3u8?u=0&b=0",
-  "trailer": ""
+  "enlace_video": "https://gscdn.cam/video/embed/009ng9qt7kre",
+  "trailer": "https://www.youtube.com/watch?v=7b20GRFZBFE"
 }
