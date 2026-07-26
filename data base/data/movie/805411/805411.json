@@ -1,0 +1,110 @@
+{
+  "id_tmdb": 805411,
+  "poster": "https://image.tmdb.org/t/p/w500/t5CenUy3KIUSb8W3PrKfp2apqDS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8F9BF4siFR3BDg5Vta3JGfAT7dx.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5GW1BuSmatY1xMNToC7ejYKcxEG.png",
+  "titulo": "Descendientes: La boda real",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.7,
+  "año": "2021",
+  "duracion": "0h 22min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2021-08-13",
+  "titulo_original": "Descendants: The Royal Wedding",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Dove Cameron",
+      "personaje": "Mal (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7sfEvzwUGrqs1qORnXCnLehwHfm.jpg"
+    },
+    {
+      "nombre": "Sofia Carson",
+      "personaje": "Evie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aQudxuIAd2UEGQD1YWsdrHH11Kc.jpg"
+    },
+    {
+      "nombre": "Booboo Stewart",
+      "personaje": "Jay (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8V4UXWSMZHJ5juaY7pp1KuVQp20.jpg"
+    },
+    {
+      "nombre": "Mitchell Hope",
+      "personaje": "Ben (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gpuRDlEhFUvqju2kmzfl6ijWMjR.jpg"
+    },
+    {
+      "nombre": "Sarah Jeffery",
+      "personaje": "Audrey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vZxH2nVWFF9eNIqABDyMwQDQfSX.jpg"
+    },
+    {
+      "nombre": "Melanie Paxson",
+      "personaje": "Fairy Godmother (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bCrs1WqTEFY1muwuCfKqrCyPhu7.jpg"
+    },
+    {
+      "nombre": "China Anne McClain",
+      "personaje": "Uma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dhixG9aeQT67IWr5W0HhAr4PHWh.jpg"
+    },
+    {
+      "nombre": "Jedidiah Goodacre",
+      "personaje": "Chad (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tdPKfDlQn83qw0OqYnccxpuxuUc.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Josann McGibbon",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ricky Roxburgh",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sara Parriott",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Salvador Simó",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Le Cube",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mitchell Hope",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Dove Cameron",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Manuel López",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Salvador Simó",
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney Channel",
+  "enlace_video": "https://gscdn.cam/video/embed/01bmlepecucb",
+  "trailer": "https://www.youtube.com/watch?v=_QyJ6X5jqjI"
+}
