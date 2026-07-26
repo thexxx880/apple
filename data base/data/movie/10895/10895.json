@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 10895,
+  "poster": "https://image.tmdb.org/t/p/w500/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ikpwuaK0yzNhXO24OeB7cKulhZE.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/TLggIpDX8gJrYWaSDZBNCgM25C.png",
+  "titulo": "Pinocho",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.113,
+  "año": "1940",
+  "duracion": "1h 28min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando el amoroso Geppetto crea un títere de madera, su deseo se cumple cuando el títere cobra vida y se convierte en un niño de madera. Con su fiel amigo y conciencia, Pepe Grillo, a su lado, Pinocho se embarca en fantásticas aventuras que ponen a prueba su valentía, lealtad y honestidad hasta triunfar en la deseosa búsqueda de su corazón: convertirse en un niño de verdad.",
+  "fecha_estreno": "1940-02-23",
+  "titulo_original": "Pinocchio",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Dickie Jones",
+      "personaje": "Pinocchio / Alexander (voice) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/ingaYYtcJZoiMtfXNTgABzPl5nu.jpg"
+    },
+    {
+      "nombre": "Cliff Edwards",
+      "personaje": "Jiminy Cricket (voice) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/cplAl2NjSDuoHvSJ87kf8Yh2cdK.jpg"
+    },
+    {
+      "nombre": "Christian Rub",
+      "personaje": "Geppetto (voice) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/rtoMrNp0Dn1PdxfJGCXybE5HY3u.jpg"
+    },
+    {
+      "nombre": "Evelyn Venable",
+      "personaje": "The Blue Fairy (voice) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/dWPBOYhga647qXS6BdRZTrKmyHm.jpg"
+    },
+    {
+      "nombre": "Walter Catlett",
+      "personaje": "'Honest John' Worthington Foulfellow (voice) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/c5ldUlcqrUuxpQE9iXqj9GlRZwt.jpg"
+    },
+    {
+      "nombre": "Mel Blanc",
+      "personaje": "Gideon (hiccup) (voice) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/8fevv4K06TmHsYom2XfmxgKrTcd.jpg"
+    },
+    {
+      "nombre": "Charles Judels",
+      "personaje": "Stromboli / The Coachman (voice) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/oNmrJvaPBPHeG7qcQE0ed9OPewf.jpg"
+    },
+    {
+      "nombre": "Frankie Darro",
+      "personaje": "Lampwick (voice) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/kTDMbr8WRWufs5fBKa8uDW0YMq7.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Hamilton Luske",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ben Sharpsteen",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Walt Disney",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jack Kinney",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bill Roberts",
+      "rol": "Director"
+    },
+    {
+      "nombre": "T. Hee",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Norman Ferguson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Wilfred Jackson",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Carlo Collodi",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Ted Sears",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Otto Englander",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Webb Smith",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "William Cottrell",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Joseph Sabo",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Erdman Penner",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Aurelius Battaglia",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Leigh Harline",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Paul J. Smith",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Frank Churchill",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Edward H. Plumb",
+      "rol": "Music"
+    }
+  ],
+  "director": "Hamilton Luske",
+  "valoraciones": {
+    "tmdb": 7.113,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Productions",
+  "enlace_video": "https://streamwish.to/e/f9g4sm1dhifd",
+  "trailer": "https://www.youtube.com/watch?v=_xHYzf_rdGU"
+}
