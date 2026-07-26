@@ -1,0 +1,87 @@
+{
+  "id_tmdb": 1668364,
+  "poster": "https://image.tmdb.org/t/p/w500/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jNt2fBRW4gVacrulWliIDsVJPip.png",
+  "titulo": "Deseo",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.07,
+  "año": "2026",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Sigue a Lucero, una exitosa abogada con una vida aparentemente perfecta que oculta un profundo vacío. Su mundo se desmorona cuando se involucra en una relación obsesiva con el joven entrenador de natación de su hija, desatando un peligroso triángulo amoroso.",
+  "fecha_estreno": "2026-05-07",
+  "titulo_original": "Deseo",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Ludwika Paleta",
+      "personaje": "Lucero",
+      "foto": "https://image.tmdb.org/t/p/w500/bz8oDcROtIe8k1yokobo27jDMNX.jpg"
+    },
+    {
+      "nombre": "José María Yázpik",
+      "personaje": "Fernando",
+      "foto": "https://image.tmdb.org/t/p/w500/1IjbKEx6ExJy7LRaK3cBHJyosUt.jpg"
+    },
+    {
+      "nombre": "Óscar Casas",
+      "personaje": "Matías",
+      "foto": "https://image.tmdb.org/t/p/w500/cal9QKRJDjhexzG5DPS8cbxQjm5.jpg"
+    },
+    {
+      "nombre": "Leonardo Ortizgris",
+      "personaje": "Miguel",
+      "foto": "https://image.tmdb.org/t/p/w500/wHcbad4Jc6ZDh9IcqtV3OWasZG4.jpg"
+    },
+    {
+      "nombre": "Matías Coronado",
+      "personaje": "Julián",
+      "foto": null
+    },
+    {
+      "nombre": "Pilar Pascual",
+      "personaje": "Viviana",
+      "foto": "https://image.tmdb.org/t/p/w500/swfrvkddSiyaLAdkaJeo3qQuCZm.jpg"
+    },
+    {
+      "nombre": "Ivana Salomón",
+      "personaje": "Lucía",
+      "foto": null
+    },
+    {
+      "nombre": "Gabriela Zamora",
+      "personaje": "Malena",
+      "foto": "https://image.tmdb.org/t/p/w500/bCc9EENrggNM3AOoxp5YlcopR0w.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Teresa Simone",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Giulia Cardamone",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Vanessa Miklos",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [],
+  "director": "Teresa Simone",
+  "valoraciones": {
+    "tmdb": 7.07,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Desconocida",
+  "enlace_video": "https://gscdn.cam/video/embed/1kngkh2h13bo",
+  "trailer": "https://www.youtube.com/watch?v=siUPiUaSWvc"
+}
