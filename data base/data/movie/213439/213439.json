@@ -1,0 +1,152 @@
+{
+  "id_tmdb": 213439,
+  "poster": "https://image.tmdb.org/t/p/w500/iYESU25BHkj9EfpJkjsUe8B28Du.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uT0ItQMpvC4W1c8RRG5wOfQBRgb.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/gHleqBlddpdPWvYh7PSzf2rLa1V.png",
+  "titulo": "Double Tap",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.083,
+  "año": "1997",
+  "duracion": "1h 27min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "1997-09-05",
+  "titulo_original": "Double Tap",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Stephen Rea",
+      "personaje": "Cypher",
+      "foto": "https://image.tmdb.org/t/p/w500/e4zy2Js6Yz7G2dGYZh1vZRAL5DI.jpg"
+    },
+    {
+      "nombre": "Heather Locklear",
+      "personaje": "Agent Katherine Hanson",
+      "foto": "https://image.tmdb.org/t/p/w500/rIvuZwIMRkwSVGMza7Tm2yBXD5g.jpg"
+    },
+    {
+      "nombre": "Peter Greene",
+      "personaje": "Nash",
+      "foto": "https://image.tmdb.org/t/p/w500/n49XdJsMwNRdc4qT9XVAGb3fIQW.jpg"
+    },
+    {
+      "nombre": "Mykelti Williamson",
+      "personaje": "Agent Hamilton",
+      "foto": "https://image.tmdb.org/t/p/w500/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+    },
+    {
+      "nombre": "Kevin Gage",
+      "personaje": "Agent Burke",
+      "foto": "https://image.tmdb.org/t/p/w500/nTaDLkN1RAhPGaM0AO1CFysnwUl.jpg"
+    },
+    {
+      "nombre": "Robert LaSardo",
+      "personaje": "Agent Rodriguez",
+      "foto": "https://image.tmdb.org/t/p/w500/maezwGo8JUbjECLB6VZJPtGvn1B.jpg"
+    },
+    {
+      "nombre": "Richard Edson",
+      "personaje": "Fischer",
+      "foto": "https://image.tmdb.org/t/p/w500/at6HIxt1D0QWy6rMbrGZuVa30zi.jpg"
+    },
+    {
+      "nombre": "A Martinez",
+      "personaje": "Johnny Escobar",
+      "foto": "https://image.tmdb.org/t/p/w500/gp0HXzEJPWFRnxLnbGJDrvBTgpr.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Greg Yaitanes",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Miles Millar",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Alfred Gough",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Erik Saltzgaber",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joel Silver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard Donner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gilbert Adler",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Peters",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Marcia Hinds",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Warden Neil",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Lee Maymen",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Moby",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Julie Michaels",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Bob Minor",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Gene LeBell",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Eliza Coleman",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Doug Coleman",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Alan B. Bursteen",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Alexander B. Collett",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Greg Yaitanes",
+  "valoraciones": {
+    "tmdb": 5.083,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Decade Pictures",
+  "enlace_video": "https://justfmovies.com/embed/movie/213439",
+  "trailer": "https://www.youtube.com/watch?v=uvdzCLRMIJo"
+}
