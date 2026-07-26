@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 1893,
+  "poster": "https://image.tmdb.org/t/p/w500/4rjatbWmGGmu0DZs6WNpXaUWqWN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/b3W3Yqm7FGiNC1TFtkiJ3i6BJF4.png",
+  "titulo": "Star Wars: Episodio I - La amenaza fantasma",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.582,
+  "año": "1999",
+  "duracion": "2h 10min",
+  "edad_minima": 13,
+  "sinopsis": "Ambientada treinta años antes, muestra la infancia de Darth Vader, el pasado de Obi-Wan Kenobi y el resurgimiento de los Sith, los caballeros Jedi dominados por el Lado Oscuro. La Federación de Comercio ha bloqueado el pequeño planeta de Naboo, gobernado por la joven Reina Amidala; se trata de un plan ideado por Sith Darth Sidious, que, manteniéndose en el anonimato, dirige a los neimoidianos, que están al mando de la Federación. El Jedi Qui-Gon Jinn y su aprendiz Obi-Wan Kenobi convencen a Amidala para que vaya a Coruscant, la capital de la República y sede del Consejo Jedi, y trate de neutralizar esta amenaza. Pero, al intentar esquivar el bloqueo, la nave real resulta averiada, viéndose así obligada la tripulación a aterrizar en el desértico y remoto planeta de Tatooine...",
+  "fecha_estreno": "1999-05-19",
+  "titulo_original": "Star Wars: Episode I - The Phantom Menace",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Liam Neeson",
+      "personaje": "Qui-Gon Jinn",
+      "foto": "https://image.tmdb.org/t/p/w500/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+    },
+    {
+      "nombre": "Ewan McGregor",
+      "personaje": "Obi-Wan Kenobi",
+      "foto": "https://image.tmdb.org/t/p/w500/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg"
+    },
+    {
+      "nombre": "Natalie Portman",
+      "personaje": "Padmé Amidala",
+      "foto": "https://image.tmdb.org/t/p/w500/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+      "nombre": "Jake Lloyd",
+      "personaje": "Anakin Skywalker",
+      "foto": "https://image.tmdb.org/t/p/w500/tp5PRiy8Ip8Vs70pUY1jeHbk2wH.jpg"
+    },
+    {
+      "nombre": "Ian McDiarmid",
+      "personaje": "Senator Palpatine",
+      "foto": "https://image.tmdb.org/t/p/w500/9OSZMsnwNtM8JrHrEdgQEwyTaPj.jpg"
+    },
+    {
+      "nombre": "Pernilla August",
+      "personaje": "Shmi Skywalker",
+      "foto": "https://image.tmdb.org/t/p/w500/zICu2ItUmKh0dUcWtee49KpNDMq.jpg"
+    },
+    {
+      "nombre": "Oliver Ford Davies",
+      "personaje": "Governor Sio Bibble",
+      "foto": "https://image.tmdb.org/t/p/w500/hDdpoEWtNd0c46PcuORomdEI5j0.jpg"
+    },
+    {
+      "nombre": "Hugh Quarshie",
+      "personaje": "Captain Panaka",
+      "foto": "https://image.tmdb.org/t/p/w500/buBmcE8F8BpbL7M8yyxST2exMRP.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rick McCallum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "George Lucas",
+      "rol": "Director"
+    },
+    {
+      "nombre": "George Lucas",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Tattersall",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Peter Walpole",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Ben Burtt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "George Lucas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robin Gurland",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "John Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Paul Martin Smith",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Trisha Biggar",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Daryl Tucker",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Andreas Petrides",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Sharon Long",
+      "rol": "Wardrobe Supervisor"
+    },
+    {
+      "nombre": "Jim Passon",
+      "rol": "Color Timer"
+    }
+  ],
+  "director": "George Lucas",
+  "valoraciones": {
+    "tmdb": 6.582,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lucasfilm Ltd.",
+  "enlace_video": "https://1a-1791.com/video/fwe2/dd/s8/2/4/G/e/S/4GeSz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4188774912-4188858327",
+  "trailer": "https://www.youtube.com/watch?v=J3kyYFHdRsM"
+}
