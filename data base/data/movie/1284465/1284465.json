@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 1284465,
+  "poster": "https://image.tmdb.org/t/p/w500/k1kZXvpVusYQzi56VLuu0AgxTdB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xvOrWgPuBqsJTG3omRy1SlLOoZc.png",
+  "titulo": "La Muerte De Robin Hood",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Drama",
+    "Suspense",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.8,
+  "año": "2026",
+  "duracion": "2h 3min",
+  "edad_minima": 13,
+  "sinopsis": "Una cruda reinterpretación de la leyenda de Robin Hood donde un solitario marcado por la batalla, atormentado por su violento pasado, encuentra la redención a través de una mujer enigmática tras una grave herida.",
+  "fecha_estreno": "2026-06-18",
+  "titulo_original": "The Death of Robin Hood",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Hugh Jackman",
+      "personaje": "Robin Hood",
+      "foto": "https://image.tmdb.org/t/p/w500/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "nombre": "Jodie Comer",
+      "personaje": "Sister Brigid",
+      "foto": "https://image.tmdb.org/t/p/w500/AfsBpnfw0E2h8NZK4zkFcOjYlEb.jpg"
+    },
+    {
+      "nombre": "Bill Skarsgård",
+      "personaje": "Little John",
+      "foto": "https://image.tmdb.org/t/p/w500/yGML6E9OtHQ5PFSvxoIj901tvsL.jpg"
+    },
+    {
+      "nombre": "Murray Bartlett",
+      "personaje": "The Leper",
+      "foto": "https://image.tmdb.org/t/p/w500/eN20zfcRB2F51bmUbTK9byQCpb9.jpg"
+    },
+    {
+      "nombre": "Noah Jupe",
+      "personaje": "Arthur / Godwyn",
+      "foto": "https://image.tmdb.org/t/p/w500/cBhJisZrIsZzamiUCVjOZODcqOK.jpg"
+    },
+    {
+      "nombre": "Jade Croot",
+      "personaje": "Wainwright",
+      "foto": "https://image.tmdb.org/t/p/w500/j4DuuFPDdnEcDWFWCyBUuhhHkxg.jpg"
+    },
+    {
+      "nombre": "Faith Delaney",
+      "personaje": "Little Margaret",
+      "foto": "https://image.tmdb.org/t/p/w500/jIKjTzr4dCoybQgNhyREahh9Aym.jpg"
+    },
+    {
+      "nombre": "Tabitha Smyth",
+      "personaje": "Sarah",
+      "foto": "https://image.tmdb.org/t/p/w500/uREVbfIi4rD2W29zWbtzNqIhP4u.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Sarnoski",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Sarnoski",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Aaron Ryder",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Swett",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alexander Black",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hugh Jackman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jon Rosenberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rama Gottumukkala",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Sarnoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pat Scola",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Lorna Marie Mugan",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Andrew Mondshein",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Hauke Richter",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Paul Barry",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Josh Weston",
+      "rol": "Prosthetic Designer"
+    },
+    {
+      "nombre": "Peta Dunstall",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Peta Dunstall",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Paul Barry",
+      "rol": "Co-Producer"
+    }
+  ],
+  "director": "Michael Sarnoski",
+  "valoraciones": {
+    "tmdb": 6.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lyrical Media",
+  "enlace_video": "https://gscdn.cam/video/embed/ev39jrmzidmc",
+  "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0"
+}
