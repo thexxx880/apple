@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 532639,
+  "poster": "https://image.tmdb.org/t/p/w500/76MYNTMpbiZYqzNArPXmXnPsQce.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ebhBZcnCGbaUXeuZzhu61yqphYo.png",
+  "titulo": "Pinocho",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Aventura",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.3,
+  "año": "2022",
+  "duracion": "1h 51min",
+  "edad_minima": 13,
+  "sinopsis": "Recuento en acción viva y CGI del amado clásico sobre una marioneta de madera que vive una gran aventura para volverse un niño de verdad. Los demás personajes incluyen a Geppetto, el tallador de madera que construye a Pinocho y lo trata como si fuera su hijo de verdad; Pepito Grillo, quien funge como guía de Pinocho además de ser su “conciencia”; el Hada Azul; el “honrado” Juan; Sofía la gaviota y el Cochero.",
+  "fecha_estreno": "2022-09-07",
+  "titulo_original": "Pinocchio",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Joseph Gordon-Levitt",
+      "personaje": "Jiminy Cricket (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+    },
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Geppetto",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Benjamin Evan Ainsworth",
+      "personaje": "Pinocchio (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7KkGM3pED3mJmiuolmkGcGn4HPE.jpg"
+    },
+    {
+      "nombre": "Angus Wright",
+      "personaje": "Signore Rizzi",
+      "foto": "https://image.tmdb.org/t/p/w500/7VOW55b8WF0eyFJiCjiBXSRA5mG.jpg"
+    },
+    {
+      "nombre": "Cynthia Erivo",
+      "personaje": "Blue Fairy",
+      "foto": "https://image.tmdb.org/t/p/w500/gIAXqZwZCBqkh2ppfAV4xcnMxki.jpg"
+    },
+    {
+      "nombre": "Sheila Atim",
+      "personaje": "Signora Vitelli",
+      "foto": "https://image.tmdb.org/t/p/w500/esAjvG2IXvzQODNEHVCVsc4WALI.jpg"
+    },
+    {
+      "nombre": "Lorraine Bracco",
+      "personaje": "Sofia the Seagull (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tAtpCzN4sTOy1RHpMpJj52zTO4S.jpg"
+    },
+    {
+      "nombre": "Keegan-Michael Key",
+      "personaje": "'Honest' John (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xmdzYXP9j87a43FSiL138nLesuS.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chris Weitz",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Derek Hogue",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Miano",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Weitz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alan Silvestri",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Stefan Dechant",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Don Burgess",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jeremy Johns",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Sandra Scott",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Jeremy Johns",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jesse Goldsmith",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Paul Weitz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Baillie",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Joanna Johnston",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Glen Ballard",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Matthew Sullivan",
+      "rol": "Music Supervisor"
+    }
+  ],
+  "director": "Robert Zemeckis",
+  "valoraciones": {
+    "tmdb": 6.3,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/zfffv0fh7m3u",
+  "trailer": "https://www.youtube.com/watch?v=dZrmy91eZa4"
+}
