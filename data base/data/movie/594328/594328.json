@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 594328,
+  "poster": "https://image.tmdb.org/t/p/w500/i5rPRIEf88IKSCM2loRy3iN2lQc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hXz0u1wEYU7LogAPspwd1o4xBfj.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/yuw6CHA1LYLtkAMMLo5eEF1kCbY.png",
+  "titulo": "Phineas y Ferb, La película: Candace contra el universo",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Ciencia ficción",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.244,
+  "año": "2020",
+  "duracion": "1h 26min",
+  "edad_minima": 13,
+  "sinopsis": "La famosa pareja de hermanastros inventores tiene claro lo que va a hacer durante el día de hoy:  rescatar a su hermana de una abducción extraterrestre.",
+  "fecha_estreno": "2020-06-14",
+  "titulo_original": "Phineas and Ferb the Movie: Candace Against the Universe",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ashley French",
+      "personaje": "Candace Flynn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ot6ib67jxvKVG1JCBl0ROPGtdeP.jpg"
+    },
+    {
+      "nombre": "Vincent Martella",
+      "personaje": "Phineas Flynn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9vcbTBhKHsGrbZKEg4w9nFBWeQ6.jpg"
+    },
+    {
+      "nombre": "David Errigo Jr.",
+      "personaje": "Ferb Fletcher (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oTQuPPun1oDqd0PIRpl6QUZysuU.jpg"
+    },
+    {
+      "nombre": "Dan Povenmire",
+      "personaje": "Dr. Doofenshmirtz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jl42I66vZgly7vTfi660VEipuDn.jpg"
+    },
+    {
+      "nombre": "Olivia Olson",
+      "personaje": "Vanessa Doofenshmirtz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hZK9JpFK4xz7DHyxg9T1DOLN6gv.jpg"
+    },
+    {
+      "nombre": "Alyson Stoner",
+      "personaje": "Isabella (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oIjU19kaJv2laaYnAHemghHfyPh.jpg"
+    },
+    {
+      "nombre": "Bobby Gaylor",
+      "personaje": "Buford (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cnquuxR4N1JYPCYIgzFk5Ajdxxs.jpg"
+    },
+    {
+      "nombre": "Maulik Pancholy",
+      "personaje": "Baljeet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/89zHn7lNQEOfmOzv8A3LW3Gwqwm.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jeffrey M. Howard",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Brandi Young",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Povenmire",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bob Bowen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kate Kondell",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joshua Pruett",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Bob Bowen",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jon Colton Barry",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tricia Garcia",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Oreste Canestrelli",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Anne Harting",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Kyler Spears",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Jacob Hair",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Bobs Gannaway",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Jeff 'Swampy' Marsh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Povenmire",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ruben Chavez",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Danny Jacob",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ram Patel",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Albert Calleros",
+      "rol": "Storyboard Artist"
+    }
+  ],
+  "director": "Dan Povenmire",
+  "valoraciones": {
+    "tmdb": 7.244,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney Television Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/c8cslypau7av",
+  "trailer": "https://www.youtube.com/watch?v=w7FySIfypLc"
+}
