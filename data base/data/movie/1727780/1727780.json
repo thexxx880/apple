@@ -1,0 +1,89 @@
+{
+  "id_tmdb": 1727780,
+  "poster": "https://image.tmdb.org/t/p/w500/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/t5iMyppJhIdjPQDAWIWoilO5iYf.jpg",
+  "logo": null,
+  "titulo": "Borderline",
+  "trending": false,
+  "generos": [
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.667,
+  "año": "2026",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2026-07-17",
+  "titulo_original": "Borderline",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Marissa Arguijo",
+      "personaje": "Melina",
+      "foto": null
+    },
+    {
+      "nombre": "Michael-Eoin Stanney",
+      "personaje": "Shawn",
+      "foto": "https://image.tmdb.org/t/p/w500/ybgdmLiPWu0P9RH1lgGBR49d0Rt.jpg"
+    },
+    {
+      "nombre": "Marcus Jean Pirae",
+      "personaje": "Brett",
+      "foto": "https://image.tmdb.org/t/p/w500/4XD78iRQJpx0uTQRg98Dfzgyb69.jpg"
+    },
+    {
+      "nombre": "Dominic Hernandez",
+      "personaje": "Diego",
+      "foto": null
+    },
+    {
+      "nombre": "Nigel Vonas",
+      "personaje": "Detective Linquist",
+      "foto": "https://image.tmdb.org/t/p/w500/hhFFUHGXU8kSDjvJZPEVFCVsagz.jpg"
+    },
+    {
+      "nombre": "Oscar Alejandro",
+      "personaje": "Detective Delgado",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ryan Jordan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Marissa Arguijo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeff Cohen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ryan Jordan",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Donovan Randolph",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Marissa Arguijo",
+      "rol": "Casting Director"
+    }
+  ],
+  "director": "Ryan Jordan",
+  "valoraciones": {
+    "tmdb": 7.667,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gen1 Entertainment, LLC",
+  "enlace_video": "https://gscdn.cam/video/embed/i33rs0ssns4a",
+  "trailer": "https://www.youtube.com/watch?v=ORHBgSvX_24"
+}
