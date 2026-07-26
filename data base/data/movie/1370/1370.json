@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 1370,
+  "poster": "https://image.tmdb.org/t/p/w500/8t10W7QbwdKWWNIZnS62ckr1nbq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/osopXjViJ42bcsjCBS9mG3o9zpP.png",
+  "titulo": "Rambo III",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Suspense",
+    "Bélica"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.2,
+  "año": "1988",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas…",
+  "fecha_estreno": "1988-05-24",
+  "titulo_original": "Rambo III",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sylvester Stallone",
+      "personaje": "John Rambo",
+      "foto": "https://image.tmdb.org/t/p/w500/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "nombre": "Richard Crenna",
+      "personaje": "Trautman",
+      "foto": "https://image.tmdb.org/t/p/w500/dsViQ2ate32xTSQgxoEHKQl0Evj.jpg"
+    },
+    {
+      "nombre": "Marc de Jonge",
+      "personaje": "Coronel Zaysen",
+      "foto": "https://image.tmdb.org/t/p/w500/7KNFKt8futWgLRLQBBlFL9n0PoL.jpg"
+    },
+    {
+      "nombre": "Kurtwood Smith",
+      "personaje": "Griggs",
+      "foto": "https://image.tmdb.org/t/p/w500/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg"
+    },
+    {
+      "nombre": "Σπύρος Φωκάς",
+      "personaje": "Masoud",
+      "foto": "https://image.tmdb.org/t/p/w500/fE2TyuWyYrB2kGiwOdd35zYAfpm.jpg"
+    },
+    {
+      "nombre": "ששון גבאי",
+      "personaje": "Mousa",
+      "foto": "https://image.tmdb.org/t/p/w500/5ow43b9JxUZWrZPp8hJ1jn3nxUF.jpg"
+    },
+    {
+      "nombre": "Doudi Shoua",
+      "personaje": "Hamid",
+      "foto": null
+    },
+    {
+      "nombre": "Randy Raney",
+      "personaje": "Kourov",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sheldon Lettich",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Peter MacDonald",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Buzz Feitshans",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joy Todd",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Benjamín Fernández",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Thomas L. Fisher",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Rodger Pardee",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Jerry Goldsmith",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "O. Nicholas Brown",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Andrew London",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "James R. Symons",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Adrian Gorton",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Donna Barrett Gilbert",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Edward Warschilka",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Richard La Motte",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "Peter MacDonald",
+  "valoraciones": {
+    "tmdb": 6.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Carolco Pictures",
+  "enlace_video": "https://1a-1791.com/video/s8/2/v/T/v/H/vTvHt.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=SMLUwNSVX5Y"
+}
