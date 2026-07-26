@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 284019,
+  "poster": "https://image.tmdb.org/t/p/w500/da2AREjdecPInHzWeZ550X1aYDU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cmQdrAsmZomfAl3v7WurDvZM7UK.jpg",
+  "logo": null,
+  "titulo": "Phineas y Ferb: Misión Marvel",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia",
+    "Película de TV",
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.6,
+  "año": "2013",
+  "duracion": "0h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Episodio de cruce de la serie animada Phineas y Ferb, que contó con personajes de Marvel Entertainment, específicamente en sus encarnaciones de las series Universo Marvel en Disney XD.",
+  "fecha_estreno": "2013-08-16",
+  "titulo_original": "Phineas and Ferb: Mission Marvel",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Vincent Martella",
+      "personaje": "Phineas Flynn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9vcbTBhKHsGrbZKEg4w9nFBWeQ6.jpg"
+    },
+    {
+      "nombre": "Thomas Brodie-Sangster",
+      "personaje": "Ferb Fletcher (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tapXeOg3wnezcjm2ENox0lL2b25.jpg"
+    },
+    {
+      "nombre": "Ashley French",
+      "personaje": "Candace Flynn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ot6ib67jxvKVG1JCBl0ROPGtdeP.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Perry the Platypus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Dan Povenmire",
+      "personaje": "Dr. Heinz Doofenshmirtz (voice) / Additional Voices",
+      "foto": "https://image.tmdb.org/t/p/w500/jl42I66vZgly7vTfi660VEipuDn.jpg"
+    },
+    {
+      "nombre": "Maulik Pancholy",
+      "personaje": "Baljeet Tjinder (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/89zHn7lNQEOfmOzv8A3LW3Gwqwm.jpg"
+    },
+    {
+      "nombre": "Bobby Gaylor",
+      "personaje": "Buford Van Stomm (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cnquuxR4N1JYPCYIgzFk5Ajdxxs.jpg"
+    },
+    {
+      "nombre": "Alyson Stoner",
+      "personaje": "Isabella Garcia-Shapiro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oIjU19kaJv2laaYnAHemghHfyPh.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bernie Petterson",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Antoine Guilbaud",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jim Bernstein",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Kim Roberson",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Martin Olson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Scott D. Peterson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Robert Hughes",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Dani Vetere",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kaz",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Russell Calabrese",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Eddie Pittman",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Joe Orrantia",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Bernie Petterson",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Antoine Guilbaud",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Derek Lee Thompson",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Kyle Menke",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Kim Roberson",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Joshua Pruett",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Danny Jacob",
+      "rol": "Music"
+    }
+  ],
+  "director": "Robert Hughes",
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney Television Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/ensb5km3m4d8",
+  "trailer": "https://www.youtube.com/watch?v=stHZPQQyuJ0"
+}
