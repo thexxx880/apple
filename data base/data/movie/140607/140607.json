@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 140607,
+  "poster": "https://image.tmdb.org/t/p/w500/vI86GLIkT5pP3ZfNs2EvmTrBLBm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/k6EOrckWFuz7I4z4wiRwz8zsj4H.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1ub5OjVoJ93fwI3Gs83632Wh1XI.png",
+  "titulo": "Star Wars: El despertar de la fuerza",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.247,
+  "año": "2015",
+  "duracion": "2h 16min",
+  "edad_minima": 13,
+  "sinopsis": "Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja.",
+  "fecha_estreno": "2015-12-15",
+  "titulo_original": "Star Wars: The Force Awakens",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Daisy Ridley",
+      "personaje": "Rey",
+      "foto": "https://image.tmdb.org/t/p/w500/dnRtM8YBxidAshD76XIMN495Yqc.jpg"
+    },
+    {
+      "nombre": "John Boyega",
+      "personaje": "Finn",
+      "foto": "https://image.tmdb.org/t/p/w500/3153CfpgZQXTzCY0i74WpJumMQe.jpg"
+    },
+    {
+      "nombre": "Oscar Isaac",
+      "personaje": "Poe Dameron",
+      "foto": "https://image.tmdb.org/t/p/w500/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+    },
+    {
+      "nombre": "Adam Driver",
+      "personaje": "Kylo Ren",
+      "foto": "https://image.tmdb.org/t/p/w500/b5w381C8Z33D1iF30KT4k8tJNsk.jpg"
+    },
+    {
+      "nombre": "Carrie Fisher",
+      "personaje": "Princess Leia",
+      "foto": "https://image.tmdb.org/t/p/w500/of4yHmryKPy92eeskUQ7MRmjC3l.jpg"
+    },
+    {
+      "nombre": "Harrison Ford",
+      "personaje": "Han Solo",
+      "foto": "https://image.tmdb.org/t/p/w500/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+    },
+    {
+      "nombre": "Mark Hamill",
+      "personaje": "Luke Skywalker",
+      "foto": "https://image.tmdb.org/t/p/w500/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    },
+    {
+      "nombre": "Lupita Nyong'o",
+      "personaje": "Maz Kanata",
+      "foto": "https://image.tmdb.org/t/p/w500/y40Wu1T742kynOqtwXASc5Qgm49.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "J.J. Abrams",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bryan Burk",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "J.J. Abrams",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kathleen Kennedy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Arndt",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lawrence Kasdan",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "J.J. Abrams",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Adam J. Bernard",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Chloé Bruce",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Helga Bosman",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Rick James",
+      "rol": "Camera Trainee"
+    },
+    {
+      "nombre": "Matt Crook",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Eve Walker",
+      "rol": "Costume Coordinator"
+    },
+    {
+      "nombre": "George Lucas",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Dan Mindel",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Maryann Brandon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mary Jo Markey",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Nina Gold",
+      "rol": "Casting"
+    }
+  ],
+  "director": "J.J. Abrams",
+  "valoraciones": {
+    "tmdb": 7.247,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lucasfilm Ltd.",
+  "enlace_video": "https://gscdn.cam/video/embed/qelygayimzw9",
+  "trailer": "https://www.youtube.com/watch?v=V8qlIZsutAQ"
+}
