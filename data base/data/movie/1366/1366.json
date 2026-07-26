@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 1366,
+  "poster": "https://image.tmdb.org/t/p/w500/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xUZ2G8MRGEljqgqLxMJItK4iHfY.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4ZMlbEpP1gY7QkW5UdeoVwk814x.png",
+  "titulo": "Rocky",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.8,
+  "año": "1976",
+  "duracion": "2h 0min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando el campeón mundial de boxeo de peso pesado, Apollo Creed quiere darle a un luchador desconocido una oportunidad por el título como un truco publicitario, sus manejadores eligen a Rocky Balboa, un coleccionista sin educación para un prestamista de Filadelfia. Rocky se une con el entrenador Mickey Goldmill para aprovechar al máximo esta vez en un descanso de por vida.",
+  "fecha_estreno": "1976-12-03",
+  "titulo_original": "Rocky",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sylvester Stallone",
+      "personaje": "Robert 'Rocky' Balboa",
+      "foto": "https://image.tmdb.org/t/p/w500/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "nombre": "Talia Shire",
+      "personaje": "Adrianna 'Adrian' Pennino",
+      "foto": "https://image.tmdb.org/t/p/w500/oktJmlLeyYKBCWPNjHskDwAfjct.jpg"
+    },
+    {
+      "nombre": "Burt Young",
+      "personaje": "Paulie Pennino",
+      "foto": "https://image.tmdb.org/t/p/w500/6QWnsSbjYog0D6hkPhg7Frty54D.jpg"
+    },
+    {
+      "nombre": "Carl Weathers",
+      "personaje": "Apollo Creed",
+      "foto": "https://image.tmdb.org/t/p/w500/oUwtC5hEbcIZv53WPerZ9HhlSJR.jpg"
+    },
+    {
+      "nombre": "Burgess Meredith",
+      "personaje": "Mickey Goldmill",
+      "foto": "https://image.tmdb.org/t/p/w500/2ozNyIbHChcqIBANwvCDpUZGA9b.jpg"
+    },
+    {
+      "nombre": "Thayer David",
+      "personaje": "George 'Miles' Jergens",
+      "foto": "https://image.tmdb.org/t/p/w500/gAkmthly4dMu2Az8SNVWNSeRsYy.jpg"
+    },
+    {
+      "nombre": "Joe Spinell",
+      "personaje": "Tony Gazzo",
+      "foto": "https://image.tmdb.org/t/p/w500/jiok99ZvHDOj51BBgio2qvum0Mb.jpg"
+    },
+    {
+      "nombre": "Jimmy Gambina",
+      "personaje": "Mike",
+      "foto": "https://image.tmdb.org/t/p/w500/7z9cLBNBk67xstIS4dp2pMAgVyr.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Robert Chartoff",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Irwin Winkler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John G. Avildsen",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Harry W. Tetrick",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Bill Conti",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Michael Westmore",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "William J. Cassidy",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Scott Conrad",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jimmy Nickerson",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "James Crabe",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "James H. Spencer",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ray Molyneaux",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Joe Tuley",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Caro Jones",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "David Nichols",
+      "rol": "Other"
+    }
+  ],
+  "director": "John G. Avildsen",
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Winkler Films",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/7d/s8/2/y/G/y/o/yGyoz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=-Hk-LYcavrw"
+}
