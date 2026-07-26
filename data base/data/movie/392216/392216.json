@@ -1,0 +1,161 @@
+{
+  "id_tmdb": 392216,
+  "poster": "https://image.tmdb.org/t/p/w500/tz3dWhlrLb5eZ96iINOyGf1Pvdj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qnTeIxszgMsFJmPXVGLtj7rxVxN.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wuFJHwNSDWby94in8f9RY2fhbDu.png",
+  "titulo": "Phineas and Ferb Star Wars",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Ciencia ficción",
+    "Aventura",
+    "Película de TV",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.16,
+  "año": "2014",
+  "duracion": "0h 51min",
+  "edad_minima": 13,
+  "sinopsis": "Phineas y Ferb viajan a una galaxia muy lejana para ayudar a algunos héroes rebeldes.",
+  "fecha_estreno": "2014-07-26",
+  "titulo_original": "Phineas and Ferb: Star Wars",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Vincent Martella",
+      "personaje": "Phineas Flynn (voice) / Additional Voices",
+      "foto": "https://image.tmdb.org/t/p/w500/9vcbTBhKHsGrbZKEg4w9nFBWeQ6.jpg"
+    },
+    {
+      "nombre": "Thomas Brodie-Sangster",
+      "personaje": "Ferb Fletcher (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tapXeOg3wnezcjm2ENox0lL2b25.jpg"
+    },
+    {
+      "nombre": "Ashley French",
+      "personaje": "Candance Flynn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ot6ib67jxvKVG1JCBl0ROPGtdeP.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Perry the Rebelpus / Chewbacca / Additional Voices",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "April Winchell",
+      "personaje": "Princess Leia (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/twx3xkmvRAuHHJp3xUd1sbxTZRS.jpg"
+    },
+    {
+      "nombre": "Caroline Rhea",
+      "personaje": "Linda Flynn-Fletcher (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mlZbWfwoGkoGlbDhOscfo9f0jT4.jpg"
+    },
+    {
+      "nombre": "Dan Povenmire",
+      "personaje": "Heinz Darthenshmirtz / Imperial Officer Dan / Additional Voices",
+      "foto": "https://image.tmdb.org/t/p/w500/jl42I66vZgly7vTfi660VEipuDn.jpg"
+    },
+    {
+      "nombre": "Richard O'Brien",
+      "personaje": "Lawrence Fletcher / Additional Voices (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9FMfj8IcXuwKrfBvdNRBKv6WPC1.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sue Perrotto",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robert Hughes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kyle Menke",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Eddie Pittman",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Robert Hughes",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Edward Rivera",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Mike Diederich",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joe Orrantia",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mike Bell",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "John Mathot",
+      "rol": "Additional Storyboarding"
+    },
+    {
+      "nombre": "Edward Rivera",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Kyle Menke",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "John Mathot",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Mike Singleton",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Mike Diederich",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Joe Orrantia",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Russell Calabrese",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Eddie Pittman",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Patrick O'Connor",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Flamarion Ferreira",
+      "rol": "Additional Storyboarding"
+    }
+  ],
+  "director": "Sue Perrotto",
+  "valoraciones": {
+    "tmdb": 7.16,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney Television Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/mv9djwiyd82y",
+  "trailer": "https://www.youtube.com/watch?v=DYtnfbrRKvA"
+}
