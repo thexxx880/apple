@@ -1,0 +1,121 @@
+{
+  "id_tmdb": 1632334,
+  "poster": "https://image.tmdb.org/t/p/w500/xvT7NrTfJMpVRENgvoD87b1di8N.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/h9Qnbseuz4WIujqvmGdEfqky4pL.jpg",
+  "logo": null,
+  "titulo": "Kraken. El libro negro de las horas",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Suspense",
+    "Misterio"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.1,
+  "año": "2026",
+  "duracion": "2h 0min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2026-04-24",
+  "titulo_original": "Kraken. El libro negro de las horas",
+  "pais_origen": "Spain",
+  "reparto": [
+    {
+      "nombre": "Alejo Sauras",
+      "personaje": "Unai (Kraken)",
+      "foto": "https://image.tmdb.org/t/p/w500/mdqxyeniyvLw7pAH1VBA0PUJPf0.jpg"
+    },
+    {
+      "nombre": "Maggie Civantos",
+      "personaje": "Esti",
+      "foto": "https://image.tmdb.org/t/p/w500/gCDu8bx0Aklyhe0phKbzXUEY8RW.jpg"
+    },
+    {
+      "nombre": "Natalia Rodríguez",
+      "personaje": "Mencía",
+      "foto": "https://image.tmdb.org/t/p/w500/sn1MGn3Plx0QQPDkUwztJJTpvRm.jpg"
+    },
+    {
+      "nombre": "Martin Urrutia",
+      "personaje": "Gael (de joven)",
+      "foto": "https://image.tmdb.org/t/p/w500/xQXYe4KZhzO1dK0x3gIWIIB99Ht.jpg"
+    },
+    {
+      "nombre": "Aitziber Luma",
+      "personaje": "Ítaca (de joven)",
+      "foto": null
+    },
+    {
+      "nombre": "Natalia Millán",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/sPRa2VnO1wutbBUETT744iu6ivI.jpg"
+    },
+    {
+      "nombre": "Ana Gracia",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/vvAURYBlPfCzYaWKsnf3RJOapTj.jpg"
+    },
+    {
+      "nombre": "Fernando Soto",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/9tqHD2lgTyEaINR6OBQHnPfGVT9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Manuel Sanabria",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joaquín Llamas",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bárbara Vayá",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Manuel Sanabria",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Juliana Barrera",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rocío Martínez",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Juan Carlos Cueto",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Carlos Pérez Gascó",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Sara Sanchez-Cañete Bernal",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Chema Chinea",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Santiago Tello",
+      "rol": "Costume Coordinator"
+    }
+  ],
+  "director": "Manuel Sanabria",
+  "valoraciones": {
+    "tmdb": 6.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Isla Audiovisual",
+  "enlace_video": "https://gscdn.cam/video/embed/1zol9ak7b7sm",
+  "trailer": "https://www.youtube.com/watch?v=lP9cKSylkfQ"
+}
