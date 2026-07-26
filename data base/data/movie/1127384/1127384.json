@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 1127384,
+  "poster": "https://image.tmdb.org/t/p/w500/2yXnZvLxfi0paO0HnjpO4rLfocr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ax881eb7yKTJPtEGsNGFqwDqrHA.png",
+  "titulo": "Impacto Mortal",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.363,
+  "año": "2026",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "Un grupo de pasajeros internacionales en ruta de Los Ángeles a Shanghai se ven obligados a realizar un aterrizaje de emergencia en aguas infestadas de tiburones. Ahora deben superar el frenesí de los tiburones merodeantes.",
+  "fecha_estreno": "2026-04-30",
+  "titulo_original": "Deep Water",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Aaron Eckhart",
+      "personaje": "Ben",
+      "foto": "https://image.tmdb.org/t/p/w500/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+    },
+    {
+      "nombre": "Ben Kingsley",
+      "personaje": "Rich",
+      "foto": "https://image.tmdb.org/t/p/w500/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+    },
+    {
+      "nombre": "Molly Belle Wright",
+      "personaje": "Cora",
+      "foto": "https://image.tmdb.org/t/p/w500/sjG5KfNuvSyv7ztNFNcuCulnuCS.jpg"
+    },
+    {
+      "nombre": "Angus Sampson",
+      "personaje": "Dan",
+      "foto": "https://image.tmdb.org/t/p/w500/8EX6ul2zyVUg91oDvI3RpYS5szV.jpg"
+    },
+    {
+      "nombre": "Elijah Tamati",
+      "personaje": "Finn",
+      "foto": "https://image.tmdb.org/t/p/w500/rFGB97FgZDQ7t01NtMdb4n6vkgg.jpg"
+    },
+    {
+      "nombre": "Zhao Simei",
+      "personaje": "Lilly",
+      "foto": "https://image.tmdb.org/t/p/w500/39WrPp7nICluex1fGNhtPaUhTFI.jpg"
+    },
+    {
+      "nombre": "李汶翰",
+      "personaje": "Sam",
+      "foto": "https://image.tmdb.org/t/p/w500/eUi1yeqa7YIl4LIwz1rDasteJ27.jpg"
+    },
+    {
+      "nombre": "那尔那茜",
+      "personaje": "Zoe",
+      "foto": "https://image.tmdb.org/t/p/w500/i2oD8NEMmCSXDVtJq0bxOF0cJ4V.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gene Simmons",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gary Hamilton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Renny Harlin",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ying Ye",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Shayne Armstrong",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "S.P. Krause",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Damien Power",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Pete Bridges",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jaindra Watson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "DJ Stipsen",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Ashlee Fidow",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Stuart Thorp",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Andrew Tapper",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Willy Vila",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Fernando Velázquez",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Oliver Trevena",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bilal Ahmad",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jacques Abrahamian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Beckmann",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pete Bridges",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Renny Harlin",
+  "valoraciones": {
+    "tmdb": 7.363,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Magenta Light Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/83y2o8ddohrr",
+  "trailer": "https://www.youtube.com/watch?v=f0ptq0Lzdh8"
+}
