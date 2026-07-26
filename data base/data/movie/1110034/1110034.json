@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 1110034,
+  "poster": "https://image.tmdb.org/t/p/w500/uUCVGVWnBgIf6NV3AqHpJcCBC8T.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/cY4p0HWXp3f6JR7nEAavODuoldP.png",
+  "titulo": "Kraken",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.355,
+  "año": "2026",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2026-02-06",
+  "titulo_original": "Kraken",
+  "pais_origen": "Norway",
+  "reparto": [
+    {
+      "nombre": "Sara Khorami",
+      "personaje": "Johanne",
+      "foto": "https://image.tmdb.org/t/p/w500/jh49k9oVAVGdApgSCiRyJmrAgoG.jpg"
+    },
+    {
+      "nombre": "Mikkel Bratt Silset",
+      "personaje": "Erik",
+      "foto": "https://image.tmdb.org/t/p/w500/ooFYSgaxUxZHIwh1dYjs6qVerDK.jpg"
+    },
+    {
+      "nombre": "Ingvild Holthe Bygdnes",
+      "personaje": "Henriette",
+      "foto": "https://image.tmdb.org/t/p/w500/3AABshTodEIQ9v5JCmEG10qgfSb.jpg"
+    },
+    {
+      "nombre": "Øyvind Brandtzæg",
+      "personaje": "Avaldsnes",
+      "foto": "https://image.tmdb.org/t/p/w500/89knc7MjxpY4OJ7AxEnkpaUesVS.jpg"
+    },
+    {
+      "nombre": "Jenny Evensen",
+      "personaje": "Maria",
+      "foto": null
+    },
+    {
+      "nombre": "Steinar Klouman Hallert",
+      "personaje": "Cato",
+      "foto": "https://image.tmdb.org/t/p/w500/gA6QvgLkvQ13JliAOu4M7ZjhHzJ.jpg"
+    },
+    {
+      "nombre": "Filip Bargee Ramberg",
+      "personaje": "Hallvard",
+      "foto": "https://image.tmdb.org/t/p/w500/kHvul9jNaLtSr0pCAdkQXXSO4lh.jpg"
+    },
+    {
+      "nombre": "Jon Erik Myre",
+      "personaje": "Georg",
+      "foto": "https://image.tmdb.org/t/p/w500/9AU9oYNBnI8yQsGLarm6IkgrFts.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Vilde Eide",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Einar Loftesnes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pål Øie",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Einar Hagen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kjersti Helen Rasmussen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Natasha Arthur",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kristoffer Sindre Vittersø",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Jupe Louhelainen",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Benedicte Westbye",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Milana Keskikastari",
+      "rol": "Makeup & Hair"
+    },
+    {
+      "nombre": "Tytti Vaaleri",
+      "rol": "Makeup Supervisor"
+    },
+    {
+      "nombre": "Marjaana Virtanen",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Alicia M. Eidesund",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Nicolai Hervik Olsen",
+      "rol": "Catering"
+    },
+    {
+      "nombre": "Okku Rahikainen",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Petter Stokke",
+      "rol": "Second Assistant Camera"
+    },
+    {
+      "nombre": "Vilja Katramo",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Emeri Abel",
+      "rol": "Second Assistant Director"
+    }
+  ],
+  "director": "Pål Øie",
+  "valoraciones": {
+    "tmdb": 6.355,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Handmade films in Norwegian Woods",
+  "enlace_video": "https://streamwish.to/e/8m2xtiihlb3i",
+  "trailer": "https://www.youtube.com/watch?v=EUTatY1-oBI"
+}
