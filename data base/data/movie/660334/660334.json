@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 660334,
+  "poster": "https://image.tmdb.org/t/p/w500/rhGlVuY5zAzUraTRy9AmSNBC5ZS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9hYaZs1jUK60UBndbTpOu3F2z63.jpg",
+  "logo": null,
+  "titulo": "Arthur Rambo",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.086,
+  "año": "2022",
+  "duracion": "1h 27min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2022-02-02",
+  "titulo_original": "Arthur Rambo",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Rabah Nait Oufella",
+      "personaje": "Karim",
+      "foto": "https://image.tmdb.org/t/p/w500/smVi5iXcUz09ypPhfrO3xsEiXAn.jpg"
+    },
+    {
+      "nombre": "Antoine Reinartz",
+      "personaje": "Nicolas",
+      "foto": "https://image.tmdb.org/t/p/w500/OHGtRqIim2cEHOYKPlbgNOV6Cb.jpg"
+    },
+    {
+      "nombre": "Sofian Khammes",
+      "personaje": "Rachid",
+      "foto": "https://image.tmdb.org/t/p/w500/hI2QFMOpXJqPjBuAbBegERB4l6r.jpg"
+    },
+    {
+      "nombre": "Bilel Chegrani",
+      "personaje": "Farid",
+      "foto": "https://image.tmdb.org/t/p/w500/s5kOLzbRRvyHYreLbhET9ybsm7K.jpg"
+    },
+    {
+      "nombre": "Sarah Henochsberg",
+      "personaje": "Léa",
+      "foto": "https://image.tmdb.org/t/p/w500/b9HeaKx4e8mKblsNyjh2BeEcAXi.jpg"
+    },
+    {
+      "nombre": "Hélène Alexandridis",
+      "personaje": "Louise de Blossière",
+      "foto": "https://image.tmdb.org/t/p/w500/bawH07WkTbzu2vdEweZFLw6fvAx.jpg"
+    },
+    {
+      "nombre": "Chouaib Arif",
+      "personaje": "Driss",
+      "foto": null
+    },
+    {
+      "nombre": "Malika Zerrouki",
+      "personaje": "La mère",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Laurent Cantet",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Fanny Burdino",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Samuel Doux",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Marie-Ange Luciani",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Laurent Cantet",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Pierre Milon",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Julien Sicart",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Leïla Fournier",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mathilde Muyard",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Valérie Deloof",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Agnès Ravez",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Jean-Pierre Laforce",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Pascale Consigny",
+      "rol": "Settings"
+    },
+    {
+      "nombre": "Marie Le Garrec",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Delphine Daull",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Diego Urgoiti-Moinot",
+      "rol": "Production Director"
+    },
+    {
+      "nombre": "Christina Crassaris",
+      "rol": "Post Production Supervisor"
+    }
+  ],
+  "director": "Laurent Cantet",
+  "valoraciones": {
+    "tmdb": 6.086,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Les Films de Pierre",
+  "enlace_video": "https://gscdn.cam/video/embed/mab5hatmy4qa",
+  "trailer": "https://www.youtube.com/watch?v=pV7OfJDbGC8"
+}
