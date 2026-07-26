@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 1367,
+  "poster": "https://image.tmdb.org/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hIfe7FBKGO19weOV5Vgf9CaX6t6.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4US2AHCJAoOA2HvqP7OH0pqVhYl.png",
+  "titulo": "Rocky II",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "calificacion": "16",
+  "puntuacion": 7.299,
+  "año": "1979",
+  "duracion": "1h 59min",
+  "edad_minima": 13,
+  "sinopsis": "Después de que Rocky va la distancia con el campeón Apolo Creed, ambo intento de poner la lucha detrás de ellos y circular. Rocky se instala con Adrian, pero no puede reunir su vida fuera del anillo, mientras Creed busca una revancha para restaurar su reputación. Bastante pronto, el «Maestro del Desastre» y el «Semental italiano» se pone en un camino del enfrentamiento para una batalla culminante que es brutal e inolvidable.",
+  "fecha_estreno": "1979-06-15",
+  "titulo_original": "Rocky II",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sylvester Stallone",
+      "personaje": "Robert 'Rocky' Balboa",
+      "foto": "https://image.tmdb.org/t/p/w500/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "nombre": "Talia Shire",
+      "personaje": "Adrianna 'Adrian' Balboa",
+      "foto": "https://image.tmdb.org/t/p/w500/oktJmlLeyYKBCWPNjHskDwAfjct.jpg"
+    },
+    {
+      "nombre": "Burt Young",
+      "personaje": "Paulie Pennino",
+      "foto": "https://image.tmdb.org/t/p/w500/6QWnsSbjYog0D6hkPhg7Frty54D.jpg"
+    },
+    {
+      "nombre": "Carl Weathers",
+      "personaje": "Apollo Creed",
+      "foto": "https://image.tmdb.org/t/p/w500/oUwtC5hEbcIZv53WPerZ9HhlSJR.jpg"
+    },
+    {
+      "nombre": "Burgess Meredith",
+      "personaje": "Mickey Goldmill",
+      "foto": "https://image.tmdb.org/t/p/w500/2ozNyIbHChcqIBANwvCDpUZGA9b.jpg"
+    },
+    {
+      "nombre": "Tony Burton",
+      "personaje": "Tony 'Duke' Evers",
+      "foto": "https://image.tmdb.org/t/p/w500/iG51d1Ck1doZNGseRMqGTnNC8t8.jpg"
+    },
+    {
+      "nombre": "Joe Spinell",
+      "personaje": "Tony Gazzo",
+      "foto": "https://image.tmdb.org/t/p/w500/jiok99ZvHDOj51BBgio2qvum0Mb.jpg"
+    },
+    {
+      "nombre": "Leonard Gaines",
+      "personaje": "Agent",
+      "foto": "https://image.tmdb.org/t/p/w500/dxYP413Xay9ElQe75E9P8u2C4g.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Robert Chartoff",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Irwin Winkler",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bill Conti",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Bill Butler",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Stanford C. Allen",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Janice Hampton",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Richard Berger",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ed Baer",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Sandy Berke Jordan",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Tom Bronson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Philip Goldblat",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Jean Burt Reilly",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Joe Tuley",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Frank E. Warner",
+      "rol": "Supervising Sound Effects Editor"
+    }
+  ],
+  "director": "Sylvester Stallone",
+  "valoraciones": {
+    "tmdb": 7.299,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "United Artists",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/35/s8/2/6/i/5/n/6i5nz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=yTqsJT1mFng"
+}
