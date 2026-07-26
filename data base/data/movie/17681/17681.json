@@ -1,0 +1,151 @@
+{
+  "id_tmdb": 17681,
+  "poster": "https://image.tmdb.org/t/p/w500/aVS9CqFgfkypqLoljg1VDHSvMmB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/h84z0EDepDePgaoiW9QSj8RjXED.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hdGHUsopWDonfaz3Cb2hETyQKDt.png",
+  "titulo": "Scooby-Doo y el fantasma de la bruja",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Misterio",
+    "Familia",
+    "Fantasía",
+    "Animación"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.381,
+  "año": "1999",
+  "duracion": "1h 10min",
+  "edad_minima": 13,
+  "sinopsis": "La pandilla viaja a Nueva Inglaterra al Gran Festival de la Vendimia, invitados por Ben, un famoso escritor de novelas de terror. Todo va bien hasta que descubren que el lugar está embrujado por Sarah, un mujer que perteneció a la familia de Ben en el pasado. Hay que revelar el misterio de si Sarah era una mujer de buen corazón o una bruja...",
+  "fecha_estreno": "1999-10-05",
+  "titulo_original": "Scooby-Doo! and the Witch's Ghost",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Scott Innes",
+      "personaje": "Scooby-Doo / Shaggy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3tHbEEFyXb9qtVUCOj68wud6vHT.jpg"
+    },
+    {
+      "nombre": "Mary Kay Bergman",
+      "personaje": "Daphne (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/heTLLKqi4g7QqFa2JtOfoOGNpWh.jpg"
+    },
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Fred (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "B.J. Ward",
+      "personaje": "Velma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kD8iaIEmdsqURAbebzsox40EJAQ.jpg"
+    },
+    {
+      "nombre": "Tim Curry",
+      "personaje": "Ben Ravencroft (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
+    },
+    {
+      "nombre": "Kimberly Brooks",
+      "personaje": "Luna (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iPlCk1VQ8fnAtsMow6HlCZoQc0w.jpg"
+    },
+    {
+      "nombre": "Jennifer Hale",
+      "personaje": "Thorn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oNQCrdiSm0mABCcE5YaHwuZQK8X.jpg"
+    },
+    {
+      "nombre": "Jane Wiedlin",
+      "personaje": "Dusk (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qLyqdzATuW3AuusloCrRGc6KfTt.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jim Stenstrum",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rick Copp",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "David A. Goodman",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Glenn Leopold",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Davis Doi",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Cosmo Anzilotti",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rob Desales",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "嵯峨敏",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Rick Hinson",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Jean MacCurdy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kentaro Mizuno",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Davis Doi",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Vincent Guisetti",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Monette Holderer",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bodie Chandler",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Marty Wereski",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Collette Sunderman",
+      "rol": "Casting Director"
+    }
+  ],
+  "director": "Jim Stenstrum",
+  "valoraciones": {
+    "tmdb": 7.381,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Hanna-Barbera Cartoons",
+  "enlace_video": "https://rumble.com/hls-vod/6xt2xs/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=Of29b6KxlZo"
+}
