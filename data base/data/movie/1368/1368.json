@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1368,
+  "poster": "https://image.tmdb.org/t/p/w500/bGIDYYOX7Cj1o7W8JiwHd3TzJVw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/yAZUxdJ9tZHvNoSONu1JKvfRNw2.png",
+  "titulo": "Rambo",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Drama"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.51,
+  "año": "1982",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando John Rambo, el ex Bere Verde, es acosado por la policía local y arrestado por vagancia, el veterano de Vietnam escapa de la policía y corre por las colinas, donde se desarrolla una guerra ente Rambo y la policía de ese pueblo. Acosado por un incansable sheriff, Rambo emplea tácticas de guerrilla duras para sacudir a los policías.",
+  "fecha_estreno": "1982-10-22",
+  "titulo_original": "First Blood",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sylvester Stallone",
+      "personaje": "John Rambo",
+      "foto": "https://image.tmdb.org/t/p/w500/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "nombre": "Richard Crenna",
+      "personaje": "Col. Samuel Trautman",
+      "foto": "https://image.tmdb.org/t/p/w500/dsViQ2ate32xTSQgxoEHKQl0Evj.jpg"
+    },
+    {
+      "nombre": "Brian Dennehy",
+      "personaje": "Hope Sheriff Will Teasle",
+      "foto": "https://image.tmdb.org/t/p/w500/cg7CwS1vMJXCzZ0FUm4RbrjAJ2t.jpg"
+    },
+    {
+      "nombre": "Bill McKinney",
+      "personaje": "State Police Capt. Dave Kern",
+      "foto": "https://image.tmdb.org/t/p/w500/bXGJNizj5SbEFPjeBupnRxgwPq0.jpg"
+    },
+    {
+      "nombre": "Jack Starrett",
+      "personaje": "Deputy Sgt. Arthur Galt",
+      "foto": "https://image.tmdb.org/t/p/w500/AnB9XJJkveIyh64aeFKMs7jvyPW.jpg"
+    },
+    {
+      "nombre": "Michael Talbott",
+      "personaje": "Deputy Balford",
+      "foto": "https://image.tmdb.org/t/p/w500/kyHGWUqaMsYoFXjywZcaqxsKjLh.jpg"
+    },
+    {
+      "nombre": "Chris Mulkey",
+      "personaje": "Deputy Ward",
+      "foto": "https://image.tmdb.org/t/p/w500/kpJid21QcIBGvwP0Bddvw0p8wEl.jpg"
+    },
+    {
+      "nombre": "John McLiam",
+      "personaje": "Orval the Dog Man",
+      "foto": "https://image.tmdb.org/t/p/w500/2clg52K8jbFllLD5M1QD0F3yYhj.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ted Kotcheff",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Kozoll",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Buzz Feitshans",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Sackheim",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Morrell",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Salli Bailey",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Wolf Kroeger",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jerry Goldsmith",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Fred J. Brown",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Conrad E. Palmisano",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Kimberley Richardson",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Bub Asman",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Andrew Laszlo",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Tom Bronson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Joan E. Chapman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ilona Herman",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Ted Kotcheff",
+  "valoraciones": {
+    "tmdb": 7.51,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Carolco Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/k5r62i1eotgn",
+  "trailer": "https://www.youtube.com/watch?v=Rl_4vPKDijQ"
+}
