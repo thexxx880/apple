@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 522938,
+  "poster": "https://image.tmdb.org/t/p/w500/8U26HBfh6h3bS377U5vfMJjCSgp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8MCLB86dA7uJU67OLqbDENlmIxF.png",
+  "titulo": "Rambo: Last Blood",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Drama"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.5,
+  "año": "2019",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Después de luchar contra sus demonios durante décadas, John Rambo vive ahora en paz en su rancho familiar en Arizona, pero su descanso se ve interrumpido cuando Gabriela, la nieta de su ama de llaves María, desaparece después de cruzar la frontera con México con el propósito de conocer a su padre biológico. Rambo, que con los años se ha convertido para Gabriela en una verdadera figura paterna, emprende un desesperado y peligroso viaje para encontrarla.",
+  "fecha_estreno": "2019-09-18",
+  "titulo_original": "Rambo: Last Blood",
+  "pais_origen": "China",
+  "reparto": [
+    {
+      "nombre": "Sylvester Stallone",
+      "personaje": "John Rambo",
+      "foto": "https://image.tmdb.org/t/p/w500/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "nombre": "Paz Vega",
+      "personaje": "Carmen",
+      "foto": "https://image.tmdb.org/t/p/w500/fNLlJysFd5f0Q8Lj20EZpU8BiRN.jpg"
+    },
+    {
+      "nombre": "Sergio Peris-Mencheta",
+      "personaje": "Hugo Martínez",
+      "foto": "https://image.tmdb.org/t/p/w500/uPE1n0JpbicJ5gm2fNarbsx6Nc4.jpg"
+    },
+    {
+      "nombre": "Adriana Barraza",
+      "personaje": "María Beltrán",
+      "foto": "https://image.tmdb.org/t/p/w500/kfww4YbO9J2HpCldEqyyhQugwy5.jpg"
+    },
+    {
+      "nombre": "Yvette Monreal",
+      "personaje": "Gabriela",
+      "foto": "https://image.tmdb.org/t/p/w500/ub3IyLYc71IZIRzyUhrqOebRcDp.jpg"
+    },
+    {
+      "nombre": "Joaquín Cosío",
+      "personaje": "Don Manuel",
+      "foto": "https://image.tmdb.org/t/p/w500/ijMo3fMyY4VL1xyIj6ytiJrzaw9.jpg"
+    },
+    {
+      "nombre": "Pascacio López",
+      "personaje": "'El Flaco'",
+      "foto": "https://image.tmdb.org/t/p/w500/89g7oQ26tYHSZZSLaTdD9V8omOW.jpg"
+    },
+    {
+      "nombre": "Óscar Jaenada",
+      "personaje": "Víctor Martínez",
+      "foto": "https://image.tmdb.org/t/p/w500/qwphNLIwMyQW2ZLA0g0l1zFiB3w.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Matthew Cirulnick",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Avi Lerner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kevin King Templeton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adrian Grünberg",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Les Weldon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yariv Lerner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steven Paul",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dessy Slavova",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Radka Petkova",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ariel Vromen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christa Campbell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lati Grobman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Temprano",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Vladimir Kaloyanov",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Eduardo Hidalgo Jr.",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Franco-Giacomo Carbone",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ryan Nowak",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Kiril Kaloyanov",
+      "rol": "Boom Operator"
+    },
+    {
+      "nombre": "David Morrell",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Adrian Grünberg",
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Millennium Media",
+  "enlace_video": "https://rumble.com/hls-vod/6x0lx8/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=YPuhNtG47M0"
+}
