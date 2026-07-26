@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 7555,
+  "poster": "https://image.tmdb.org/t/p/w500/uCUfIzSnfJngxcHfbpPxzAo9p49.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wzfTG1obTazlGXiIcfRIviBZ1QU.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xeX99YTuaKhba0KO26l1OfbX7Ga.png",
+  "titulo": "Rambo 4: Regreso al infierno",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Bélica"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.7,
+  "año": "2008",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "John Rambo, el ex-boina verde con una ajetreada vida marcada por la guerra, vive ahora una solitaria y apacible existencia en la jungla del norte de Tailandia, pescando y cazando cobras para luego venderlas. Todo cambia cuando un grupo de misioneros católicos necesita que les guíe hasta la frontera con Birmania para suministrar medicinas y alimentos a unos refugiados asediados por el ejército birmano, que ha hecho de las torturas y los asesinatos algo habitual. Rambo no tendrá más remedio que volver a involucrarse. Se verá obligado a hacer lo que mejor sabe porque, muy a su pesar, lleva la guerra en la sangre.",
+  "fecha_estreno": "2008-01-24",
+  "titulo_original": "Rambo",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sylvester Stallone",
+      "personaje": "John Rambo",
+      "foto": "https://image.tmdb.org/t/p/w500/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "nombre": "Julie Benz",
+      "personaje": "Sarah",
+      "foto": "https://image.tmdb.org/t/p/w500/qNDO1eIlvMkrcMdkQfHAxzP4XXY.jpg"
+    },
+    {
+      "nombre": "Matthew Marsden",
+      "personaje": "School Boy",
+      "foto": "https://image.tmdb.org/t/p/w500/qejtyAt9dQdOS9AbXxSOwbw82E.jpg"
+    },
+    {
+      "nombre": "Graham McTavish",
+      "personaje": "Lewis",
+      "foto": "https://image.tmdb.org/t/p/w500/qpKVz46PkKVaXzthcJO4ldFPdM9.jpg"
+    },
+    {
+      "nombre": "Reynaldo Gallegos",
+      "personaje": "Diaz",
+      "foto": "https://image.tmdb.org/t/p/w500/x1JFYhTI4Pu1Dtj45YRf5mIHBtK.jpg"
+    },
+    {
+      "nombre": "Tim Kang",
+      "personaje": "En-Joo",
+      "foto": "https://image.tmdb.org/t/p/w500/Ae7qMN6fJTut145qpeSn1NOu8yx.jpg"
+    },
+    {
+      "nombre": "Jake La Botz",
+      "personaje": "Reese",
+      "foto": "https://image.tmdb.org/t/p/w500/sXXsLk6kG7AjkyUAp2a7XDgvEDq.jpg"
+    },
+    {
+      "nombre": "Maung Maung Khin",
+      "personaje": "Tint",
+      "foto": "https://image.tmdb.org/t/p/w500/cnZP323ym06lWnzEWj1mzlFgNhC.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Art Monterastelli",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Thompson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Avi Lerner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin King Templeton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Danny Dimbort",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sean Albertson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Trevor Short",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Boaz Davidson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Morrell",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Sheila Jaffe",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Scott H. Eddo",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Lizz Wolf",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Andreas Thiesmeyer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Bernhardt",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Franco-Giacomo Carbone",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Peter Block",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Sylvester Stallone",
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Millennium Media",
+  "enlace_video": "https://rumble.com/hls-vod/6x0leg/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=2oVMgRVk4lE"
+}
