@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 244623,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1pXDAxTnb9zYxMmrR5B8sALej3O.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xY3RLTXgV0IHmyPAE97p3ePWY1R.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/283Hy4d6WPK4t3FJ723yILLpekU.png",
+  "titulo": "Una nueva jugada",
+  "titulo_original": "Running Point",
+  "fecha_estreno": "2025-02-27",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "Una exfiestera debe demostrar su valía como empresaria cuando la ponen a cargo del equipo profesional de baloncesto de su familia.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Kate Hudson",
+      "personaje": "Isla Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/s79lH1QzEg2fkXULKBxRmU9aNr8.jpg"
+    },
+    {
+      "nombre": "Drew Tarver",
+      "personaje": "Sandy Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/eJoKHEPWjCQerQE2R184hUw4oZY.jpg"
+    },
+    {
+      "nombre": "Scott MacArthur",
+      "personaje": "Ness Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/rGTPhDMQYR7mmtcOwPMK7R4SDgV.jpg"
+    },
+    {
+      "nombre": "Brenda Song",
+      "personaje": "Ali Lee",
+      "foto": "https://image.tmdb.org/t/p/w500/nJOB9ZbIchbk0omaMq9E2C22J8x.jpg"
+    },
+    {
+      "nombre": "Fabrizio Guido",
+      "personaje": "Jackie Moreno",
+      "foto": "https://image.tmdb.org/t/p/w500/8sLrUxVHID1QTa7jYBsrGFC0neH.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Akshara Sekar",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "David Phillips",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Missy Mansour",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kate Hudson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mindy Kaling",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Linda Rambis",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Yayabell Debay",
+      "rol": "Script Coordinator"
+    },
+    {
+      "nombre": "Kristin Rapinchuk",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Matthew C. Blea",
+      "rol": "First Assistant \"C\" Camera"
+    },
+    {
+      "nombre": "Stephanie Gangel",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Micha Liberman",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Patrick Rousseau",
+      "rol": "\"C\" Camera Operator"
+    },
+    {
+      "nombre": "Catherine Nguyen",
+      "rol": "Transportation Coordinator"
+    },
+    {
+      "nombre": "Christopher Lee",
+      "rol": "Location Manager"
+    },
+    {
+      "nombre": "Jessica Shorten",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Rebecca Wyman",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Nicole Abellera Hallman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jeanne McCarthy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Akshara Sekar",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "David Phillips",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Missy Mansour",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt14879018",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=Rjt66v9FeNU"
+}
