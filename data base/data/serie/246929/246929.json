@@ -1,0 +1,74 @@
+{
+  "id_tmdb": 246929,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oYz66iyll5q5yImMnzVkvUOxBho.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gzNKeXtIOrv6mxBgw0Sh4plo8Ud.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nLZGgyL7Gl2CdlrBHb3nTTgBNhM.png",
+  "titulo": "Su Majestad",
+  "titulo_original": "Su majestad",
+  "fecha_estreno": "2025-02-27",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 6.7,
+  "sinopsis": "Cuando se ve salpicado por un escándalo financiero, el rey Alfonso XIV decide apartarse de la primera línea pública durante unos meses. Pero alguien debe quedarse al frente de la institución. No hay más alternativa que su única hija, Pilar. Ahora la princesa tendrá que demostrarle al país que no es la irresponsable, vaga e inútil que todos creen. Lo que pasa es que igual tienen razón.",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Anna Castillo",
+      "personaje": "Pilar",
+      "foto": "https://image.tmdb.org/t/p/w500/skQ9HzWM4Ya9YB6J9QSRPVgjfNG.jpg"
+    },
+    {
+      "nombre": "Ernesto Alterio",
+      "personaje": "Guillermo",
+      "foto": "https://image.tmdb.org/t/p/w500/8jcJoXh1Zc2OsxEoUViyqANJPjY.jpg"
+    },
+    {
+      "nombre": "Pablo Vázquez",
+      "personaje": "Maluenda",
+      "foto": "https://image.tmdb.org/t/p/w500/njlq7rJur3faHcLL2J3G6m0p621.jpg"
+    },
+    {
+      "nombre": "Pablo Derqui",
+      "personaje": "Alfonso",
+      "foto": "https://image.tmdb.org/t/p/w500/aqwJOsmnqbigPR5tZ6QFp4Q25XM.jpg"
+    },
+    {
+      "nombre": "Ramón Barea",
+      "personaje": "Isidro",
+      "foto": "https://image.tmdb.org/t/p/w500/7KJMpbljybgVMhHuNosECDrzact.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "María Heras",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "Diego Martín",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "David Iglesias Infiesta",
+      "rol": "Set Costumer"
+    },
+    {
+      "nombre": "Daniel García-Villaraco",
+      "rol": "VFX Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": "tt31418326",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Metro Goldwyn Mayer, Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=lQ7-jixm9Vw"
+}
