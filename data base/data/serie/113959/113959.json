@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 113959,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6OV2DkEoIOz0uh1DhqjnA8gG2Ff.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8UuyKCIaX0MqcECmcgPxFCANkq4.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sidoMlKGJYVgZws2CZTx5scRMtI.png",
+  "titulo": "Duster",
+  "titulo_original": "Duster",
+  "fecha_estreno": "2025-05-15",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 6.4,
+  "sinopsis": "En 1972, la primera agente negra del FBI se dirige al suroeste y recluta a un valiente conductor de escape en un audaz esfuerzo por acabar con un sindicato criminal en creciente.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Josh Holloway",
+      "personaje": "Jim Ellis",
+      "foto": "https://image.tmdb.org/t/p/w500/biuhUJn5BDhXpfKvVW4dVUxvB44.jpg"
+    },
+    {
+      "nombre": "Rachel Hilson",
+      "personaje": "Nina Hayes",
+      "foto": "https://image.tmdb.org/t/p/w500/nweHoDB305tViP7998kI14QjCK3.jpg"
+    },
+    {
+      "nombre": "Asivak Koostachin",
+      "personaje": "Awan",
+      "foto": "https://image.tmdb.org/t/p/w500/4fU8StrLbYHSwiLOKjX0Bp2yrzI.jpg"
+    },
+    {
+      "nombre": "Sydney Elisabeth",
+      "personaje": "Genesis Saxton",
+      "foto": ""
+    },
+    {
+      "nombre": "Benjamin Charles Watson",
+      "personaje": "Royce Saxton",
+      "foto": "https://image.tmdb.org/t/p/w500/r5mA9a7GSKoPDndeUFMf9r71HMR.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "LaToya Morgan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "J.J. Abrams",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rachel Rusch Rich",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Lambert",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Andrew Balek",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lucas Brown Eyes",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "LaToya Morgan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "J.J. Abrams",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rachel Rusch Rich",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Laura Karpman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Matt Lambert",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Andrew Balek",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lucas Brown Eyes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patrick Cady",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Sue Chung",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Michael Horowitz",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jamila Kerr",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Rebecca Rivo",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Kim Taylor-Coleman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jonah Markowitz",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Paula Dal Santo",
+      "rol": "Supervising Art Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.4,
+    "imdb": "tt12160826",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=hRgDeFq7qGo"
+}
