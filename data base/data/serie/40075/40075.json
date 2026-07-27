@@ -1,0 +1,70 @@
+{
+  "id_tmdb": 40075,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/gX9NP6pWG47oAkq723TfxtkG4Pr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/Kp2zHceW4rnvylgILxjGlJfX9p.png",
+  "titulo": "Gravity Falls",
+  "titulo_original": "Gravity Falls",
+  "fecha_estreno": "2012-06-15",
+  "duracion": "22min",
+  "año": "2012",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Misterio",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.6,
+  "sinopsis": "Los hermanos mellizos Dipper y Mabel Pines tienen una aventura inesperada cuando pasan el verano ayudando a su tío abuelo Stan a atravesar una trampa turística en la misteriosa ciudad de Gravity Falls, Oregon.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jason Ritter",
+      "personaje": "Dipper Pines (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9i4YvUpSlQDzH0U8y5FWXQkaAGf.jpg"
+    },
+    {
+      "nombre": "Kristen Schaal",
+      "personaje": "Mabel Pines (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/s3LSHVTx8gxHP2twYsXEGa8JbLl.jpg"
+    },
+    {
+      "nombre": "Alex Hirsch",
+      "personaje": "Grunkle Stan / Soos Ramirez / Bill Cipher / Old Man McGucket (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pGoKJKbqI3AwcmQkmEKG9jBXdcw.jpg"
+    },
+    {
+      "nombre": "Linda Cardellini",
+      "personaje": "Wendy Corduroy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bcycvynDprC1rrhBNrnBjn5uOUd.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Joe Pitt",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "Mike Rianda",
+      "rol": "Production Consultant"
+    },
+    {
+      "nombre": "Brad Breeck",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.6,
+    "imdb": "tt1865718",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=VviwUvs3hd0"
+}
