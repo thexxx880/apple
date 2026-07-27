@@ -1,0 +1,125 @@
+{
+  "id_tmdb": 289219,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/9T4ECKFMBWqT7msxdaCGtsa3g5R.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cvvj1RXGmmAZ1FZr6CrUu8LgQm5.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/u0WEIvISkr3bkSPDW8TL15dLmJD.png",
+  "titulo": "Star Wars: Maul - Señor de las sombras",
+  "titulo_original": "Star Wars: Maul - Shadow Lord",
+  "fecha_estreno": "2026-04-06",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.6,
+  "sinopsis": "Maul se alza de nuevo para liderar las facciones del hampa, conspirando para reconstruir su sindicato criminal y entrenar a un nuevo aprendiz en un planeta no tocado por el Imperio Galáctico.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Sam Witwer",
+      "personaje": "Maul (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8flOyMoh9hBQPqi6ISD7W1mDjnY.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Dave Filoni",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Athena Yvette Portillo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Michnovetz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Rau",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carrie Beck",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Rimes",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dave Filoni",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Athena Yvette Portillo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "George Lucas",
+      "rol": "Original Film Writer"
+    },
+    {
+      "nombre": "Matt Michnovetz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "George Lucas",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Brad Rau",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Brad Rau",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carrie Beck",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Rimes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alex Spotswood",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "David W. Collins",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "David W. Collins",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "David W. Collins",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Kevin Kiner",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Sean Kiner",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.6,
+    "imdb": "tt36594331",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=DkVepshZhGc"
+}
