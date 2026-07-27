@@ -1,0 +1,70 @@
+{
+  "id_tmdb": 225399,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/wqErdSqx21mVZVIqUShXMsTAECM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aHjnX5tFWwjpUiKsaBHKDYfpNV2.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/byP8YtZMZkIdzi8dXC4o2Psk5HW.png",
+  "titulo": "El gatopardo",
+  "titulo_original": "Il Gattopardo",
+  "fecha_estreno": "2025-03-05",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.667,
+  "sinopsis": "En medio de la unificación de Italia en el siglo XIX, un príncipe siciliano se enfrenta al choque entre el privilegio ancestral de su familia y los cambios revolucionarios.",
+  "pais_origen": "IT",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Kim Rossi Stuart",
+      "personaje": "Don Fabrizio Corbera",
+      "foto": "https://image.tmdb.org/t/p/w500/hrv0rI4OKKufipR87vfF0Zdxe0K.jpg"
+    },
+    {
+      "nombre": "Benedetta Porcaroli",
+      "personaje": "Concetta Corbera of Salina",
+      "foto": "https://image.tmdb.org/t/p/w500/aYSJ87nrceznZJPScm9wF5LNt8E.jpg"
+    },
+    {
+      "nombre": "Saul Nanni",
+      "personaje": "Tancredi Falconeri",
+      "foto": "https://image.tmdb.org/t/p/w500/1m9s0e8tz5W7pqyOlvD3X5S1ZXP.jpg"
+    },
+    {
+      "nombre": "Paolo Calabresi",
+      "personaje": "Padre Pirrone",
+      "foto": "https://image.tmdb.org/t/p/w500/tA3O7sukR9hMarh2BIP27ButtJ4.jpg"
+    },
+    {
+      "nombre": "Astrid Meloni",
+      "personaje": "Maria Stella Corbera of Salina",
+      "foto": "https://image.tmdb.org/t/p/w500/z6A1VBH8QAJQ3NhkRmo1hdKY3Vr.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Dimitri Capuani",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Giuseppe Tomasi Di Lampedusa",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Paolo Buonvino",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.667,
+    "imdb": "tt15198870",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=q-aZV95YSr0"
+}
