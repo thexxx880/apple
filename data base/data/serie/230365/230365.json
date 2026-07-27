@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 230365,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jGM3Z4Yl9QWs57QZl5rEQ4dD817.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jkHmUGAIr0NfHk1jIzYnmhpiGsm.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nr0CWs7AxuOooL6xu7FTEt1o9R0.png",
+  "titulo": "A muerte",
+  "titulo_original": "A muerte",
+  "fecha_estreno": "2025-02-05",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 6.6,
+  "sinopsis": "El mundo de Raúl se desmorona. Marta tiene un embarazo inesperado. Tras conocerse de forma divertida en un funeral, se tambalean en el caos de la vida y el amor.",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Verónica Echegui",
+      "personaje": "Marta",
+      "foto": "https://image.tmdb.org/t/p/w500/A6bHIHnDlmKY6pWOlgLNsUf60W5.jpg"
+    },
+    {
+      "nombre": "Joan Amargós Rubert",
+      "personaje": "Raúl",
+      "foto": "https://image.tmdb.org/t/p/w500/hWd45dyh8ARKmOBqtT2lMDyx4sd.jpg"
+    },
+    {
+      "nombre": "Cristian Valencia",
+      "personaje": "Edu",
+      "foto": "https://image.tmdb.org/t/p/w500/1CJyr00qifpyVcb5c8pgfy1cjSJ.jpg"
+    },
+    {
+      "nombre": "Paula Malia",
+      "personaje": "Georgina",
+      "foto": "https://image.tmdb.org/t/p/w500/qrjTDPGKgo159VsgCHnfk0cdSHq.jpg"
+    },
+    {
+      "nombre": "Claudia Melo",
+      "personaje": "Ana",
+      "foto": "https://image.tmdb.org/t/p/w500/sjUuJ1hl2A8sY7854JDdYupGEla.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Toni Carrizosa",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ana Eiras",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ignacio Segura",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lucía Alonso-Allende",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Alberto Aranda",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yolanda del Val",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Toni Carrizosa",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Daniel del Casar",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Ana Eiras",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ignacio Segura",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lucía Alonso-Allende",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Maria Codina",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Oriol Pérez Alcaraz",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Patricia Sagués",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Alberto Aranda",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yolanda del Val",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Montse García",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elena Bort",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Núria Guardia",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Néstor Reina",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Gisela Maestre",
+      "rol": "Foley Artist"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": "tt28074401",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Apple TV",
+  "trailer": "https://www.youtube.com/watch?v=uUsHlTmbLfw"
+}
