@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 207863,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/iRM12uCbKq5BONNERukJWzZv1pE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9DHo5qXkG0titQmr2PF92N3aYYk.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/e80RciagxfY3ZFuIkeDtZSmFmTq.png",
+  "titulo": "Las brujas de Mayfair de Anne Rice",
+  "titulo_original": "Mayfair Witches",
+  "fecha_estreno": "2023-01-08",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.287,
+  "sinopsis": "Basada en la trilogía superventas de Anne Rice, se centra en Rowan Mayfair, una joven e intuitiva neurocirujana que descubre que es la heredera de una familia de brujas. Mientras lidia con sus nuevos poderes, deberá enfrentarse a una presencia siniestra que ha perseguido a su familia durante generaciones.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Alexandra Daddario",
+      "personaje": "Dr. Rowan Fielding",
+      "foto": "https://image.tmdb.org/t/p/w500/raekYhYazR6L4c7PZNnEeP4ZkAD.jpg"
+    },
+    {
+      "nombre": "Tongayi Chirisa",
+      "personaje": "Ciprien 'Sip' Grieve",
+      "foto": "https://image.tmdb.org/t/p/w500/iNUnPz0fcz2kGYZ5lhkXo042iAl.jpg"
+    },
+    {
+      "nombre": "Ben Feldman",
+      "personaje": "Sam 'Lark' Larkin",
+      "foto": "https://image.tmdb.org/t/p/w500/neArGlsh50NtcGzUM99Puz6TrFX.jpg"
+    },
+    {
+      "nombre": "Alyssa Jirrels",
+      "personaje": "Moira Mayfair",
+      "foto": "https://image.tmdb.org/t/p/w500/x9VVL5yFEs3RWUvjkOsGFhuZWEJ.jpg"
+    },
+    {
+      "nombre": "Jack Huston",
+      "personaje": "Lasher",
+      "foto": "https://image.tmdb.org/t/p/w500/qWGoZaUbeuaOLbDvyP5txYr9Hct.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Elizabeth Reily",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jonathan Starch",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Megan Mostyn-Brown",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Logan Kibens",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Sarah Cornwell",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Mark Lafferty",
+      "rol": "Consulting Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Caelan Wolfe",
+      "rol": "Stand In"
+    },
+    {
+      "nombre": "Elizabeth Reily",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Cat Davidson",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Kirby Feagan",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Elizabeth Herberg",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Kirsten Oglesby",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Thomas Golubić",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Kate Rhodes James",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ryan Glorioso",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Carol Cutshall",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jonathan Starch",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Megan Mostyn-Brown",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Logan Kibens",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Sarah Cornwell",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Mark Lafferty",
+      "rol": "Consulting Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.287,
+    "imdb": "tt15428778",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "LionsGate",
+  "trailer": "https://www.youtube.com/watch?v=xscoUU7AeY8"
+}
