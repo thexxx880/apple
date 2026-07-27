@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 119243,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/tM4P2RNIIFzFJi7UngNVB80sRCp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jl1ie3pkBNv0T5dBQeK8CuQvxTM.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/hqqZ3NgK9wOuaUsTFB1IFv9V90i.png",
+  "titulo": "iCarly",
+  "titulo_original": "iCarly",
+  "fecha_estreno": "2021-06-17",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 7.645,
+  "sinopsis": "Una ex adolescente sensación de Internet y sus amigos afrontan los desafíos de la edad adulta. A veces lo hacen bien y, a veces, las cosas se ponen un poco locas.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Miranda Cosgrove",
+      "personaje": "Carly Shay",
+      "foto": "https://image.tmdb.org/t/p/w500/qIGeoyXEVu1LxTH34TWx1YSHyQr.jpg"
+    },
+    {
+      "nombre": "Jerry Trainor",
+      "personaje": "Spencer Shay",
+      "foto": "https://image.tmdb.org/t/p/w500/7rZX87iBEYEQ3ZngaNVi3eyxNTT.jpg"
+    },
+    {
+      "nombre": "Nathan Kress",
+      "personaje": "Freddie Benson",
+      "foto": "https://image.tmdb.org/t/p/w500/3DAchXVcQvqxsrsRFcYrjZZXxnb.jpg"
+    },
+    {
+      "nombre": "Laci Mosley",
+      "personaje": "Harper Bettencourt",
+      "foto": "https://image.tmdb.org/t/p/w500/2ZLFVsSkPkeQKADVZqEE9ZWQXwm.jpg"
+    },
+    {
+      "nombre": "Jaidyn Triplett",
+      "personaje": "Millicent Mitchell",
+      "foto": "https://image.tmdb.org/t/p/w500/7SMTOhswLqMpY7JRudnj1BpZOdx.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Erica Montolfo-Bura",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Julia Ahumada Grob",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Kayla C. Knutson",
+      "rol": "Executive Producer's Assistant"
+    },
+    {
+      "nombre": "Kate Stayman-London",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Melanie Kirschbaum",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Alexandra Decas",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Erica Montolfo-Bura",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Julia Ahumada Grob",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Kayla C. Knutson",
+      "rol": "Executive Producer's Assistant"
+    },
+    {
+      "nombre": "Kate Stayman-London",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Nasser Samara",
+      "rol": "Executive Story Editor"
+    },
+    {
+      "nombre": "Max Burnett",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Melanie Kirschbaum",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Alexandra Decas",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "David Malkoff",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Frank Geist",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Stephen Prime",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Harry Hannigan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aydrea Walden",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Kerry Carter",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Phill Lewis",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.645,
+    "imdb": "tt13657062",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nickelodeon",
+  "trailer": "https://www.youtube.com/watch?v=9qGw0KZS5gI"
+}
