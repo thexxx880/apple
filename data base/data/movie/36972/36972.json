@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 36972,
+  "poster": "https://image.tmdb.org/t/p/w500/hoYKtVt48NTQDk6NmUyf1Zw3wAP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bZ7UfV85En1sbMpw6dZMzX74Z6w.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5tIqMnhb4hF2RBJ5fFVV5Pay4Vj.png",
+  "titulo": "Scooby-Doo, actor de Hollywood",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Película de TV"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.6,
+  "año": "1979",
+  "duracion": "0h 49min",
+  "edad_minima": 13,
+  "sinopsis": "Los amigos de Scooby – Freddy, Dahpne, Velma y Shaggy- deciden que es tiempo de someterle a un cambio de imagen, ¡estilo Hollywodiense! Scooby debe pasar por unas transformaciones alucinantes -desde sheriff hasta rockero- en su intento de convencer a los estudios de cine que es la superestrella que buscan.",
+  "fecha_estreno": "1979-12-23",
+  "titulo_original": "Scooby Goes Hollywood",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Casey Kasem",
+      "personaje": "Shaggy Rogers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sBKx2Da5Igy55Sjk2dnhtI3JekC.jpg"
+    },
+    {
+      "nombre": "Don Messick",
+      "personaje": "Scooby-Doo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iT3okvWCKy6RAdo6dbx09RP0I3p.jpg"
+    },
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Fred Jones (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Heather North",
+      "personaje": "Daphne Blake (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rI0fhIxAFCOfPQn9GndwgaJdE0b.jpg"
+    },
+    {
+      "nombre": "Patricia Stevens",
+      "personaje": "Velma Dinkley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/34PRziMfBunFJ84X7ClPvR8OaDX.jpg"
+    },
+    {
+      "nombre": "Ginny McSwain",
+      "personaje": "Kerry / Girl Fan / Executive Secretary (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Marilyn Schreffler",
+      "personaje": "Cherie / Sis / Receptionist (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xtZzxa7zVa8xX47uoapwKtmJPwk.jpg"
+    },
+    {
+      "nombre": "Joan Gerber",
+      "personaje": "Lavonne / Second Woman / Waitress (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rF8g2ApsFf7qH5SEmhyJQru48JE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ray Patterson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Don Jurwich",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dick Robbins",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Duane Poole",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "William Hanna",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hoyt Curtin",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jerry Wittington",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Bill Keil",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Jay Sarbry",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Frank Andrina",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Colin Baker",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Bob Bemiller",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Oliver Callahan",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Lars Calonius",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Rudy Cataldi",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Ray Patterson",
+  "valoraciones": {
+    "tmdb": 7.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Hanna-Barbera Cartoons",
+  "enlace_video": "https://gscdn.cam/video/embed/zk6p9wh15a89",
+  "trailer": ""
+}
