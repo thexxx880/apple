@@ -1,0 +1,119 @@
+{
+  "id_tmdb": 207836,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/sHg5E3mZQo7dCMqsdZ5hv5QvWWu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1jgR2LI3MxmbG5lMpMUCF02sOz.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/50uvpAPNKxh75K0gQDH1V2mH95Q.png",
+  "titulo": "House of Hammer: Los secretos de la familia",
+  "titulo_original": "House of Hammer",
+  "fecha_estreno": "2022-09-02",
+  "duracion": "60min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 6.7,
+  "sinopsis": "Libertinaje. Engaño. Abuso. Adiccion. Corrupción. En el transcurso de cinco generaciones, los hombres de la familia Hammer tienen más secretos y escándalos de los que cualquier bóveda puede contener. Los supuestos crímenes de Armie Hammer son solo la punta del iceberg. A través de un tesoro de archivos y entrevistas de sobrevivientes y familiares, los oscuros y retorcidos secretos de la familia Hammer salen a la luz. Detrás del dinero y el poder se encuentra una dinastía disfuncional con sus personajes masculinos que exhiben todas las consecuencias devastadoras del privilegio descontrolado.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Armie Hammer",
+      "personaje": "Self (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/4Z5nLW2biRjqstDMKqSaeQYAesK.jpg"
+    },
+    {
+      "nombre": "Casey Hammer",
+      "personaje": "Self",
+      "foto": ""
+    },
+    {
+      "nombre": "Courtney Vucekovich",
+      "personaje": "Self",
+      "foto": ""
+    },
+    {
+      "nombre": "Ryan Bailey",
+      "personaje": "Self",
+      "foto": ""
+    },
+    {
+      "nombre": "Julia Morrison",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/zAm8hEhIbOpp4xOWIasiv2FfhMj.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Pamela Deutsch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elli Hakami",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Meredith Russell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Julian P. Hobbs",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Francesca Newton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Elli Hakami",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Pamela Deutsch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elli Hakami",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Meredith Russell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Julian P. Hobbs",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Francesca Newton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Claudia Raschke",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Elli Hakami",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Julian P. Hobbs",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Julian Seltzer",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": "tt14549716",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=A94cIymEk_8"
+}
