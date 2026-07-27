@@ -1,0 +1,121 @@
+{
+  "id_tmdb": 283484,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/rQ0K2m5ofSTEKHW3ELqhObjAjNf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iqayykMio4K0qq4MSBDTMLrwQG9.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/x1RicOqGYUefviLJDN0rSX6t0lR.png",
+  "titulo": "Solo una mirada",
+  "titulo_original": "Tylko jedno spojrzenie",
+  "fecha_estreno": "2025-03-05",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 6.365,
+  "sinopsis": "Cuando una inquietante foto aparece misteriosamente, una mujer se ve obligada a enfrentar verdades ocultas y recuerdos borrosos para proteger a su esposo y sus oscuros secretos.",
+  "pais_origen": "PL",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Maria Dębska",
+      "personaje": "Greta Rembiewska",
+      "foto": "https://image.tmdb.org/t/p/w500/yoMuNK2doLDZ2yAauCFpl2pdBgB.jpg"
+    },
+    {
+      "nombre": "Cezary Łukaszewicz",
+      "personaje": "Jacek Ławniczak",
+      "foto": "https://image.tmdb.org/t/p/w500/8ASklhZgDAllY4iWqhfRMaRuipz.jpg"
+    },
+    {
+      "nombre": "Marta Malikowska",
+      "personaje": "Kamila Sośnik",
+      "foto": "https://image.tmdb.org/t/p/w500/71eWea23roWLDMTcgxZk385KipQ.jpg"
+    },
+    {
+      "nombre": "Monika Krzywkowska",
+      "personaje": "Sandra Kowalska",
+      "foto": ""
+    },
+    {
+      "nombre": "Piotr Stramowski",
+      "personaje": "Jimmy D.",
+      "foto": "https://image.tmdb.org/t/p/w500/8VbVDk6G64uDcDP2zAjN5vKAsOe.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Dagmara Bończyk",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Harlan Coben",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrzej Muszyński",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Harlan Coben",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Marcin Macuk",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Dagmara Bończyk",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Harlan Coben",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrzej Muszyński",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Katarzyna Baran",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Malwina Musialska-Paszkiewicz",
+      "rol": "Makeup & Hair"
+    },
+    {
+      "nombre": "Paweł Flis",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Kornelia Kuzioła",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Viola Borcuch",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kacper Lipiński",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Harlan Coben",
+      "rol": "Creator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.365,
+    "imdb": "tt30876484",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": ""
+}
