@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 5371,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ny0vxdc2733gQVpXvXNds9M9Kpo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/u3rph1KVUOKbOtrPIgCb27H08Fy.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/dzM6ciclOCE58D9cEMJBTU7yOq.png",
+  "titulo": "iCarly",
+  "titulo_original": "iCarly",
+  "fecha_estreno": "2007-09-08",
+  "duracion": "24min",
+  "año": "2007",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Drama"
+  ],
+  "puntuacion": 7.954,
+  "sinopsis": "Mira a Carly, Sam y Freddie mientras intentan equilibrar su vida cotidiana en octavo grado con su nueva fama dirigiendo y protagonizando el programa más increíble de la web.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Miranda Cosgrove",
+      "personaje": "Carly Shay",
+      "foto": "https://image.tmdb.org/t/p/w500/qIGeoyXEVu1LxTH34TWx1YSHyQr.jpg"
+    },
+    {
+      "nombre": "Jennette McCurdy",
+      "personaje": "Sam Puckett",
+      "foto": "https://image.tmdb.org/t/p/w500/cBG9ifemTBneYnjSBrWj3fDYi9c.jpg"
+    },
+    {
+      "nombre": "Nathan Kress",
+      "personaje": "Freddie Benson",
+      "foto": "https://image.tmdb.org/t/p/w500/3DAchXVcQvqxsrsRFcYrjZZXxnb.jpg"
+    },
+    {
+      "nombre": "Jerry Trainor",
+      "personaje": "Spencer Shay",
+      "foto": "https://image.tmdb.org/t/p/w500/7rZX87iBEYEQ3ZngaNVi3eyxNTT.jpg"
+    },
+    {
+      "nombre": "Noah Munck",
+      "personaje": "Gibby Gibson",
+      "foto": "https://image.tmdb.org/t/p/w500/8CHEa4LezWiNm8LdJfjzrDnPos3.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Dan Schneider",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jake Farrow",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Fleckenstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "George Doty IV",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robin Weiner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Catania",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dan Schneider",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jake Farrow",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Fleckenstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "George Doty IV",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robin Weiner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Catania",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bruce Rand Berman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Krisha Bullock",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kristin Dangl",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Omar Camacho",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Patrick Garney",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Tim Waterman",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Miranda Cosgrove",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Drake Bell",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Michael Corcoran",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.954,
+    "imdb": "tt0972534",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nickelodeon",
+  "trailer": "https://www.youtube.com/watch?v=UZPdQyXl-Lo"
+}
