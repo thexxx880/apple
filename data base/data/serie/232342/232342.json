@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 232342,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/fCHmcC6MC7hXy7OO2KRjmJxskAg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pp4jnkOneeb4FFcni9VUCyo18sZ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/1BrRSjiiuokO4NZprPqHzehv39D.png",
+  "titulo": "Ciudad tóxica",
+  "titulo_original": "Toxic Town",
+  "fecha_estreno": "2025-02-27",
+  "duracion": "55min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.035,
+  "sinopsis": "Cuando docenas de bebés de Corby nacen con defectos físicos, sus madres se embarcan en una batalla para que los responsables paguen por sus actos.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jodie Whittaker",
+      "personaje": "Susan McIntyre",
+      "foto": "https://image.tmdb.org/t/p/w500/zS6EO1GsfOiuyaa66YqmUPWDX78.jpg"
+    },
+    {
+      "nombre": "Aimee Lou Wood",
+      "personaje": "Tracey Taylor",
+      "foto": "https://image.tmdb.org/t/p/w500/jq2CVIn889VvCgcwH4G7KZZWkLI.jpg"
+    },
+    {
+      "nombre": "Claudia Jessie",
+      "personaje": "Maggie Mahon",
+      "foto": "https://image.tmdb.org/t/p/w500/urv0p4Mi81m1jZO8YWF1i9NpLL7.jpg"
+    },
+    {
+      "nombre": "Karla Crome",
+      "personaje": "Pattie Walker",
+      "foto": "https://image.tmdb.org/t/p/w500/vuiF5OfHLQBaIfXgVKERJKRyPN8.jpg"
+    },
+    {
+      "nombre": "Robert Carlyle",
+      "personaje": "Sam Hagen",
+      "foto": "https://image.tmdb.org/t/p/w500/dLNeFPfJACiCiUz3oEdAjeKIwvZ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Delyth Scudamore",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jack Thorne",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Minkie Spiro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Annabel Jones",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charlie Brooker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Euros Lyn",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Delyth Scudamore",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jack Thorne",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Minkie Spiro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Annabel Jones",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sion Trefor",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Charlie Brooker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Euros Lyn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mike Noble",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pat Tookey-Dickson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Gill",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jamie Pearson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sergio Delgado",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Tony Miller",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Shaheen Baig",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Alexandra Toomey",
+      "rol": "Production Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.035,
+    "imdb": "tt28631067",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=GfXZ1d9PKXI"
+}
