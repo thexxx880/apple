@@ -1,0 +1,95 @@
+{
+  "id_tmdb": 44006,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/14LzHqJrFcHk7ruMNCXpEkB0Thg.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/5tJOYLdSHtS3B7uFTJ4RG9OYG.png",
+  "titulo": "Chicago en llamas",
+  "titulo_original": "Chicago Fire",
+  "fecha_estreno": "2012-10-10",
+  "duracion": "42min",
+  "año": "2012",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.408,
+  "sinopsis": "Las decisiones de los bomberos, equipos de rescate y paramédicos de la estación de bomberos 51 hacen la diferencia entre la vida y la muerte. Pero eso no es lo único, también se crea una gran familia entre los miembros del equipo. Dirigidos por el jefe Wallace Boden, la Unidad 51 lo deja todo en cada rescate de esta noble profesión.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Taylor Kinney",
+      "personaje": "Kelly Severide",
+      "foto": "https://image.tmdb.org/t/p/w500/lOYVNwhlvah02OnrGIZkFpyr4Wf.jpg"
+    },
+    {
+      "nombre": "David Eigenberg",
+      "personaje": "Christopher Herrmann",
+      "foto": "https://image.tmdb.org/t/p/w500/3JOY715n7Low0Y1a9YZAzhNjvZM.jpg"
+    },
+    {
+      "nombre": "Joe Miñoso",
+      "personaje": "Joe Cruz",
+      "foto": "https://image.tmdb.org/t/p/w500/je6BoStc1WicNZQNJWSrf0kNhAG.jpg"
+    },
+    {
+      "nombre": "Christian Stolte",
+      "personaje": "Randy 'Mouch' McHolland",
+      "foto": "https://image.tmdb.org/t/p/w500/hE460cJmuckGHWKGdSgmPxD9ixY.jpg"
+    },
+    {
+      "nombre": "Miranda Rae Mayo",
+      "personaje": "Stella Kidd",
+      "foto": "https://image.tmdb.org/t/p/w500/dvCagUBHBNGwsozC8KS3tFPtCcj.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Dick Wolf",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Brandt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Jankowski",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mirela Rupic",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Dick Wolf",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Brandt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Jankowski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Atli Örvarsson",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "David Fleming",
+      "rol": "Additional Music"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.408,
+    "imdb": "tt2261391",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal",
+  "trailer": "https://www.youtube.com/watch?v=l7NaBYkKnQo"
+}
