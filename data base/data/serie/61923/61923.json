@@ -1,0 +1,69 @@
+{
+  "id_tmdb": 61923,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/drnY78Uwi4nYw4jOEp067WRl4Lt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/80Cln79cRCpzudYD1zbVvi1fEyF.png",
+  "titulo": "Star vs las fuerzas del mal",
+  "titulo_original": "Star vs. the Forces of Evil",
+  "fecha_estreno": "2015-01-18",
+  "duracion": "11min",
+  "año": "2015",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Familia"
+  ],
+  "puntuacion": 8.4,
+  "sinopsis": "La guerrera intergaláctica Star Butterfly llega a la Tierra para vivir con la familia Diaz. Continúa luchando contra villanos en todo el universo y la escuela secundaria, principalmente para proteger su poderosa varita, un objeto que aún la confunde.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Eden Sher",
+      "personaje": "Star Butterfly (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/880rB5Z89P7AhD6ThtOLOWgNM2H.jpg"
+    },
+    {
+      "nombre": "Adam McArthur",
+      "personaje": "Marco Diaz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dX9wqqiD3HPJdJZLa8h1hFRZDBf.jpg"
+    },
+    {
+      "nombre": "Alan Tudyk",
+      "personaje": "Ludo / King River Butterfly (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Daron Nefcy",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Daron Nefcy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian H. Kim",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Adam Rosette",
+      "rol": "Character Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.4,
+    "imdb": "tt2758770",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=_bM8_XqcLAc"
+}
