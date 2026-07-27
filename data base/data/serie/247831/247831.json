@@ -1,0 +1,135 @@
+{
+  "id_tmdb": 247831,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/i0Jl1EkHux33PrOi0W5F2ECvH3q.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/m8s8Fp7fITnPzaftmVcsQYR5mMm.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/OKLX6IaPvGfCCzcJNvzaaEzHZb.png",
+  "titulo": "Los crímenes del mandala",
+  "titulo_original": "मंडला मर्डर्स",
+  "fecha_estreno": "2025-07-25",
+  "duracion": "40min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 7.286,
+  "sinopsis": "Tras una serie de asesinatos rituales que conmocionan a un pequeño pueblo, una inspectora y un expolicía deben investigar un misterio que guarda relación con su pasado.",
+  "pais_origen": "IN",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "वाणी कपूर",
+      "personaje": "Rea Thomas",
+      "foto": "https://image.tmdb.org/t/p/w500/5c3ElvXf6iWefpgJDTvThCDesis.jpg"
+    },
+    {
+      "nombre": "Vaibhav Raj Gupta",
+      "personaje": "Vikram Singh",
+      "foto": "https://image.tmdb.org/t/p/w500/3BzWiMwmau2carAAl8J1f5ZQ4zW.jpg"
+    },
+    {
+      "nombre": "Surveen Chawla",
+      "personaje": "Ananya Bhardwaj",
+      "foto": "https://image.tmdb.org/t/p/w500/anKAtXU9u9DfFma0e2R3C1WGDvX.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Yogendra Mogre",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gopi Puthran",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Manan Rawat",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Akshay Widhani",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aditya Chopra",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Uday Chopra",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Yogendra Mogre",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shaz Mohammed",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Gopi Puthran",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Manan Rawat",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Akshay Widhani",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aditya Chopra",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Uday Chopra",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Graham",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gopi Puthran",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Goswami Anurag",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Avinash Dwivedi",
+      "rol": "Additional Writing"
+    },
+    {
+      "nombre": "Chirag Garg",
+      "rol": "Additional Writing"
+    },
+    {
+      "nombre": "Gopi Puthran",
+      "rol": "Dialogue"
+    },
+    {
+      "nombre": "Goswami Anurag",
+      "rol": "Dialogue"
+    },
+    {
+      "nombre": "Avinash Dwivedi",
+      "rol": "Dialogue"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.286,
+    "imdb": "tt26626214",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": ""
+}
