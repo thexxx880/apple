@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 246381,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hqLcyZ2vkWVmCzODU6vtc71RHBr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4LBPDopxQXtK3t6mea7CV5AWNk6.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/oiGJ2bqgm8341DssMmBgr3FqqR0.png",
+  "titulo": "Prime Target: Objetivo clave",
+  "titulo_original": "Prime Target",
+  "fecha_estreno": "2025-01-22",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 6.764,
+  "sinopsis": "Un joven matemático brillante está apunto de hacer un descubrimiento importante cuando un enemigo sombrío intenta detenerlo. Mientras lucha por encontrar respuestas y por salvar su vida, forma una alianza con una agente del gobierno para desentrañar una conspiración inquietante.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Leo Woodall",
+      "personaje": "Edward Brooks",
+      "foto": "https://image.tmdb.org/t/p/w500/yv2JjEVm1jLR44ynkyYfhWP4I6r.jpg"
+    },
+    {
+      "nombre": "Quintessa Swindell",
+      "personaje": "Taylah Sanders",
+      "foto": "https://image.tmdb.org/t/p/w500/5lJWfIg1fCAKHv7uCooFuWr3D9V.jpg"
+    },
+    {
+      "nombre": "Sidse Babett Knudsen",
+      "personaje": "Professor Andrea Lavin",
+      "foto": "https://image.tmdb.org/t/p/w500/yVkWyBuJaup9I6FIgjZlGkczNNj.jpg"
+    },
+    {
+      "nombre": "Stephen Rea",
+      "personaje": "Professor James Alderman",
+      "foto": "https://image.tmdb.org/t/p/w500/e4zy2Js6Yz7G2dGYZh1vZRAL5DI.jpg"
+    },
+    {
+      "nombre": "Fra Fee",
+      "personaje": "Adam Mellor",
+      "foto": "https://image.tmdb.org/t/p/w500/1UnZxfqaRTpoqpafM9PEAvlHAc7.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ridley Scott",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Schaefer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Thompson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Beth Pattinson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Arnon Milchan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brady Hood",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ridley Scott",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Schaefer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Thompson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Beth Pattinson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Arnon Milchan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brady Hood",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David W. Zucker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Emma Broughton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Laura Hastings-Smith",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ed Rubin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Yariv Milchan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marina Brackenbury",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Wheale",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Laura Hastings-Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Carlin",
+      "rol": "Production Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.764,
+    "imdb": "tt31186958",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Apple TV",
+  "trailer": "https://www.youtube.com/watch?v=UQkkkipo1C4"
+}
