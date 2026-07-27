@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 1408,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7CIeyTV0pZ6HXjJkfgRIiuf5yxh.png",
+  "titulo": "Dr. House",
+  "titulo_original": "House",
+  "fecha_estreno": "2004-11-16",
+  "duracion": "44min",
+  "año": "2004",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.565,
+  "sinopsis": "El Dr. Gregory House, un genio médico misántropo, poco convencional y adicto a las drogas, lidera un equipo de diagnosticadores en el ficticio Hospital Universitario Princeton-Plainsboro en Nueva Jersey.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Hugh Laurie",
+      "personaje": "Gregory House",
+      "foto": "https://image.tmdb.org/t/p/w500/akArncggHnusP5jxzMBKmJDRrMo.jpg"
+    },
+    {
+      "nombre": "Robert Sean Leonard",
+      "personaje": "James Wilson",
+      "foto": "https://image.tmdb.org/t/p/w500/jXehZM0AWLJ2OIz4o0jFtHEzcMI.jpg"
+    },
+    {
+      "nombre": "Omar Epps",
+      "personaje": "Eric Foreman",
+      "foto": "https://image.tmdb.org/t/p/w500/iURSiniuHrfOCtjVMAw9HKxJh6z.jpg"
+    },
+    {
+      "nombre": "Jesse Spencer",
+      "personaje": "Robert Chase",
+      "foto": "https://image.tmdb.org/t/p/w500/nFqghuc1WaM6HxYZYc86A06wJbC.jpg"
+    },
+    {
+      "nombre": "Odette Annable",
+      "personaje": "Jessica Adams",
+      "foto": "https://image.tmdb.org/t/p/w500/zbEaTdg8a7USjfH5LxaU2U3W6Zb.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Peter Blake",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Foster",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Liz Friedman",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "David Hoselton",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Eli Attie",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Hugh Laurie",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Peter Blake",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Foster",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Liz Friedman",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "David Hoselton",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Eli Attie",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Hugh Laurie",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thomas L. Moran",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gerrit van der Meer",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Garrett Lerner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Russel Friend",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marcy G. Kaplan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Massive Attack",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Michael Baber",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Michael Lyle",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Steve De Leon",
+      "rol": "Transportation Coordinator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.565,
+    "imdb": "tt0412142",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal",
+  "trailer": "https://www.youtube.com/watch?v=MczMB8nU1sY"
+}
