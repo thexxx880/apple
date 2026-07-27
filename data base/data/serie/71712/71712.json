@@ -1,0 +1,119 @@
+{
+  "id_tmdb": 71712,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hnrzBrLKekwmSNPL4cJXzhdCX0k.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sOubuf2WYnAiK09TNoV1e4QDAWI.png",
+  "titulo": "The Good Doctor",
+  "titulo_original": "The Good Doctor",
+  "fecha_estreno": "2017-09-25",
+  "duracion": "24min",
+  "año": "2017",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.455,
+  "sinopsis": "La serie sigue a Shaun Murphy, un joven cirujano con autismo y síndrome del sabio de una pequeña ciudad, donde tuvo una infancia problemática. Él se traslada para unirse al prestigioso departamento de cirugía en San José St. Bonaventure Hospital.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Freddie Highmore",
+      "personaje": "Dr. Shaun Murphy",
+      "foto": "https://image.tmdb.org/t/p/w500/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+    },
+    {
+      "nombre": "Fiona Gubelmann",
+      "personaje": "Dr. Morgan Reznick",
+      "foto": "https://image.tmdb.org/t/p/w500/c80VyX8RyupJXb7EqTxHNHtN4Cn.jpg"
+    },
+    {
+      "nombre": "Will Yun Lee",
+      "personaje": "Dr. Alex Park",
+      "foto": "https://image.tmdb.org/t/p/w500/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+    },
+    {
+      "nombre": "Christina Chang",
+      "personaje": "Dr. Audrey Lim",
+      "foto": "https://image.tmdb.org/t/p/w500/5e8zzySBeJzozWJixt3E2HmZSv1.jpg"
+    },
+    {
+      "nombre": "Paige Spara",
+      "personaje": "Lea Dilallo",
+      "foto": "https://image.tmdb.org/t/p/w500/elcx21E3X5xBjW31gXBJnWTSvYX.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Erin Gunn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Shore",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Dae Kim",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Kim",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sebastian Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mike Listo",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chloe Campbell",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Erin Gunn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Shore",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Dae Kim",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Kim",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sebastian Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mike Listo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "박재범",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "Dan Romer",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.455,
+    "imdb": "tt6470478",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sony",
+  "trailer": "https://www.youtube.com/watch?v=eFJl_jJkODI"
+}
