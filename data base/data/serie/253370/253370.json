@@ -1,0 +1,97 @@
+{
+  "id_tmdb": 253370,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/uL5onQXgVas65Ts8Fok2uXCR8Cp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oFSHiP5GEN66vQyQqsXxPmPCqcu.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/vvKJ9UUIXVQs4IPkZa2yFkS0LeL.png",
+  "titulo": "La Frontera Oriental",
+  "titulo_original": "Przesmyk",
+  "fecha_estreno": "2025-01-31",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "War & Politics",
+    "Action & Adventure",
+    "Misterio"
+  ],
+  "puntuacion": 6.694,
+  "sinopsis": "En un punto estratégicamente crítico de Europa, una devastada espía polaca busca alejarse del mundo del servicio secreto.",
+  "pais_origen": "PL",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lena Góra",
+      "personaje": "Ewa Oginiec",
+      "foto": "https://image.tmdb.org/t/p/w500/vDHHE8fIUkwmQVF12EkqhpyCiKG.jpg"
+    },
+    {
+      "nombre": "Andrzej Konopka",
+      "personaje": "Zbigniew Lange",
+      "foto": "https://image.tmdb.org/t/p/w500/3QoIbqsBXj9Si1kuGOl0YCxM52v.jpg"
+    },
+    {
+      "nombre": "Bartłomiej Topa",
+      "personaje": "Krzysztof Hałaj",
+      "foto": "https://image.tmdb.org/t/p/w500/92X5zMr0xZO6Y76LrjJWKLgnp5O.jpg"
+    },
+    {
+      "nombre": "Ewelina Starejki",
+      "personaje": "Helena Jankulowska",
+      "foto": "https://image.tmdb.org/t/p/w500/mqiiiUdc0MZamDf1RXlR5jaBwNJ.jpg"
+    },
+    {
+      "nombre": "Karol Pocheć",
+      "personaje": "'Skiner'",
+      "foto": "https://image.tmdb.org/t/p/w500/JHMOmFQxpFOmNYStk21DXL4ua2.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Tomasz Blachnicki",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Wojciech Bockenheim",
+      "rol": "Idea"
+    },
+    {
+      "nombre": "Tomasz Blachnicki",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Maciej Fajst",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Pola Guźlińska",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Katarzyna Baran",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Marcin Filipowicz",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Kacper Fertacz",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Tomasz Parnowski",
+      "rol": "Production Manager"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.694,
+    "imdb": "tt35503291",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=cxoSpSauqmk"
+}
