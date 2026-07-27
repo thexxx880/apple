@@ -1,0 +1,67 @@
+{
+  "id_tmdb": 284792,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gm7OMY4t99UpiMpIShNOKvKLQwO.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/tlGhNHos2BcAabvkw7heyQd0XkV.png",
+  "titulo": "Medusa",
+  "titulo_original": "Medusa",
+  "fecha_estreno": "2025-03-05",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "Alguien quiere deshacerse de Bárbara Hidalgo, CEO de Medusa. ¿Podrá hallar al culpable en medio de una despiadada lucha familiar por la sucesión de su imperio empresarial?",
+  "pais_origen": "CO",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Juana Acosta",
+      "personaje": "Bárbara",
+      "foto": "https://image.tmdb.org/t/p/w500/r1Zcu20O9b0R7OYfeVjZVbtk4Vb.jpg"
+    },
+    {
+      "nombre": "Manolo Cardona",
+      "personaje": "Det. Danger Carmelo",
+      "foto": "https://image.tmdb.org/t/p/w500/9hPHLgO9lINwZynrFywTG9ms8Jl.jpg"
+    },
+    {
+      "nombre": "Sebastián Martínez",
+      "personaje": "Esteban",
+      "foto": "https://image.tmdb.org/t/p/w500/iBTsQPoJFzMjeY0VX8NwJJIVkKU.jpg"
+    },
+    {
+      "nombre": "Mariana Mozo",
+      "personaje": "Maya",
+      "foto": "https://image.tmdb.org/t/p/w500/pk6YCsp6bamRnxpbDojvtTjm34H.jpg"
+    },
+    {
+      "nombre": "Carlos Torres",
+      "personaje": "Cristian",
+      "foto": "https://image.tmdb.org/t/p/w500/2f2HhlZWaHao1vaPPJVl9hIXbFg.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Luis Eduardo Jiménez",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Luis Eduardo Jiménez",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt35836959",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=GKWBZTxR0ds"
+}
