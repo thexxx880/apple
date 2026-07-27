@@ -1,0 +1,64 @@
+{
+  "id_tmdb": 197588,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/c7KVx6Ip6wEKRLUxMvh6sEX9YCN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1MqkDOnmK54aKiCGIrRFcxe7XfR.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/aZzmh9ZZNG3ixTeY9VPsGSOouLn.png",
+  "titulo": "Hombre vs. Abeja",
+  "titulo_original": "Man vs Bee",
+  "fecha_estreno": "2022-06-24",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Comedia"
+  ],
+  "puntuacion": 7.114,
+  "sinopsis": "En esta serie de comedia, el torpe Trevor se enfrenta a una abeja muy astuta mientras cuida una elegante mansión, pero solo logra causar estragos.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rowan Atkinson",
+      "personaje": "Trevor Bingley",
+      "foto": "https://image.tmdb.org/t/p/w500/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Clark",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "William Davies",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chris Clark",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Filip Olejka",
+      "rol": "Music Arranger"
+    },
+    {
+      "nombre": "Robert Duncan",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "William Davies",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.114,
+    "imdb": "tt13640670",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=YQ1vN_91KO0"
+}
