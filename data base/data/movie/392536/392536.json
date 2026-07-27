@@ -1,0 +1,114 @@
+{
+  "id_tmdb": 392536,
+  "poster": "https://image.tmdb.org/t/p/w500/ivNqO23A38mtSUPhGAkx7QJoK3i.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8YQCybX8it6ILjPvf2xMf2do9Ac.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5ydyGQejlhSkSMXJeF18cK815DO.png",
+  "titulo": "Lego Scooby-Doo!: Hollywood encantado",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia",
+    "Misterio"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.296,
+  "año": "2016",
+  "duracion": "1h 15min",
+  "edad_minima": 13,
+  "sinopsis": "¡Oooh Hollywood! El glamour, el glam ... el jinete sin cabeza ?! ¡Únete a tu detective K-9 favorito, Scooby-Doo, junto con Shaggy y la pandilla de Mystery Inc., ya que se encuentran en un giro de la ciudad de oropel! Durante una gira VIP de los legendarios estudios de Brickton, Scooby y sus amigos obtienen una experiencia de primera mano de los rumores de que los monstruos de la película clásica caen en una llamada de casting espeluznante. Sólo hay una manera de resolver este thriller y salvar el estudio de envejecimiento: ¡es el tiempo mágico de la película de Mystery Inc! ¡Coge tus Scooby Snacks y salta en la silla del director para esta nueva película de LEGO®!",
+  "fecha_estreno": "2016-01-28",
+  "titulo_original": "LEGO Scooby-Doo! Haunted Hollywood",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Scooby-Doo / Fred Jones (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Daphne Blake (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Matthew Lillard",
+      "personaje": "Shaggy Rogers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    },
+    {
+      "nombre": "Kate Micucci",
+      "personaje": "Velma Dinkley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lgmIxZ59bnYflbkWyAfmWi0bUsT.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Sea Creature / Malt Shop Walt / Zombie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "JB Blanc",
+      "personaje": "Atticus Fink / Director (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fHLyXboPlBDo1aoAl085YqaPjO8.jpg"
+    },
+    {
+      "nombre": "Christian Lanz",
+      "personaje": "Bryan Lakeshore / Mummy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4GDmhCJvdOQHV0uRuK34XJBMiTr.jpg"
+    },
+    {
+      "nombre": "Scott Menville",
+      "personaje": "Junior (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iLoApH8LbyJSKFmdgWxNR314GGa.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rick Morales",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Duane Capizzi",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Rick Morales",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Heath Corson",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Craig Paulsen",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Robert J. Kral",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ken Spears",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jim Krieg",
+      "rol": "Teleplay"
+    },
+    {
+      "nombre": "Joe Ruby",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Rick Morales",
+  "valoraciones": {
+    "tmdb": 7.296,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/diq486ws16mc",
+  "trailer": "https://www.youtube.com/watch?v=iE1JxX_zCLg"
+}
