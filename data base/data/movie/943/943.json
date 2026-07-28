@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 943,
+  "poster": "https://image.tmdb.org/t/p/w500/3JInVf7jLXIt9OTbdLv88CP2eE6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kmt9XmhmX36sJduuDVFlTgEWh9U.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tD3KYaKD0m41ExPLXWWEF1m2lhy.png",
+  "titulo": "Arma Mortal 3",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Crimen"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.731,
+  "año": "1992",
+  "duracion": "1h 58min",
+  "edad_minima": 13,
+  "sinopsis": "Martin Riggs y Roger Murtaugh, la inigualable pareja de policías de Los Ángeles, se enfrentan a un difícil caso: armas confiscadas y a punto de ser destruidas han desaparecido de las dependencias policiales y están llegando a manos de los delincuentes más peligrosos de la ciudad.",
+  "fecha_estreno": "1992-05-15",
+  "titulo_original": "Lethal Weapon 3",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mel Gibson",
+      "personaje": "Martin Riggs",
+      "foto": "https://image.tmdb.org/t/p/w500/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+    },
+    {
+      "nombre": "Danny Glover",
+      "personaje": "Roger Murtaugh",
+      "foto": "https://image.tmdb.org/t/p/w500/2PJbpI9AyuhG4SWUIDxZwuBnuMb.jpg"
+    },
+    {
+      "nombre": "Joe Pesci",
+      "personaje": "Leo Getz",
+      "foto": "https://image.tmdb.org/t/p/w500/pEHQoL8yOndOq59iXlgsOpUTcTk.jpg"
+    },
+    {
+      "nombre": "Rene Russo",
+      "personaje": "Lorna Cole",
+      "foto": "https://image.tmdb.org/t/p/w500/yWPSqrv3nfPPKC6I2S0sRTWZ5Yi.jpg"
+    },
+    {
+      "nombre": "Stuart Wilson",
+      "personaje": "Jack Travis",
+      "foto": "https://image.tmdb.org/t/p/w500/ghP4hkVaNc4upspxsLQCwkOBhy6.jpg"
+    },
+    {
+      "nombre": "Steve Kahan",
+      "personaje": "Captain Murphy",
+      "foto": "https://image.tmdb.org/t/p/w500/qnarH2PdHTWsG7Hv2DlHSr7rj5h.jpg"
+    },
+    {
+      "nombre": "Mary Ellen Trainor",
+      "personaje": "Stephanie Woods",
+      "foto": "https://image.tmdb.org/t/p/w500/Y926jxSOXikBiqQIptho1VzU9o.jpg"
+    },
+    {
+      "nombre": "Darlene Love",
+      "personaje": "Trish Murtaugh",
+      "foto": "https://image.tmdb.org/t/p/w500/baTsmaZZhZyeBdwWtHcB5Q3rBq2.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Richard Donner",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Richard Donner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeffrey Boam",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Robert Mark Kamen",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joel Silver",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Eric Clapton",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Michael Kamen",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "David Sanborn",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jan de Bont",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Robert Brown",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Battle Davis",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Marion Dougherty",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "James H. Spencer",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Greg Papalia",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Richard C. Goddard",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Janet Brady",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Michael Alan Kahn",
+      "rol": "First Assistant Director"
+    }
+  ],
+  "director": "Richard Donner",
+  "valoraciones": {
+    "tmdb": 6.731,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Silver Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/s25nytwagjfu",
+  "trailer": "https://www.youtube.com/watch?v=qGqEpNGwanc"
+}
