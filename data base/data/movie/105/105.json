@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 105,
+  "poster": "https://image.tmdb.org/t/p/w500/acNRGwBz22E2m5OEWOhS8RiqiXM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png",
+  "titulo": "Volver al Futuro",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8.327,
+  "año": "1985",
+  "duracion": "1h 57min",
+  "edad_minima": 13,
+  "sinopsis": "El adolescente de los ochenta Marty McFly es enviado accidentalmente al pasado, a 1955, interrumpiendo sin darse cuenta el primer encuentro de sus padres y atrayendo el interés romántico de su madre. Marty debe reparar el daño a la historia reavivando el romance de sus padres y, con la ayuda de su excéntrico amigo inventor Doc Brown, regresar a 1985.",
+  "fecha_estreno": "1985-07-03",
+  "titulo_original": "Back to the Future",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Michael J. Fox",
+      "personaje": "Marty McFly",
+      "foto": "https://image.tmdb.org/t/p/w500/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+    },
+    {
+      "nombre": "Christopher Lloyd",
+      "personaje": "Emmett Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+    },
+    {
+      "nombre": "Crispin Glover",
+      "personaje": "George McFly",
+      "foto": "https://image.tmdb.org/t/p/w500/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg"
+    },
+    {
+      "nombre": "Lea Thompson",
+      "personaje": "Lorraine Baines",
+      "foto": "https://image.tmdb.org/t/p/w500/n7qTKpbAbr2P1RlcW1Lq1NhckQ2.jpg"
+    },
+    {
+      "nombre": "Claudia Wells",
+      "personaje": "Jennifer Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/2VOsPvoV2vmEUd1O2KjW3kcN8JD.jpg"
+    },
+    {
+      "nombre": "Thomas F. Wilson",
+      "personaje": "Biff Tannen",
+      "foto": "https://image.tmdb.org/t/p/w500/mVhm65ZVBIRIptWGiMIvoUy0Khi.jpg"
+    },
+    {
+      "nombre": "Marc McClure",
+      "personaje": "Dave McFly",
+      "foto": "https://image.tmdb.org/t/p/w500/qOOd1C4rj8GbnXi8YKldwbHpa8z.jpg"
+    },
+    {
+      "nombre": "Wendie Jo Sperber",
+      "personaje": "Linda McFly",
+      "foto": "https://image.tmdb.org/t/p/w500/dufqiCvSBQUxuHmMXcH6U8fZG4k.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Neil Canton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bob Gale",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Bob Gale",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dean Cundey",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Judy Taylor",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Alan Silvestri",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jane Feinberg",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mike Fenton",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Harry Keramidas",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Arthur Schmidt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Lawrence G. Paull",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Robert Schmelzer",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Spiro Razatos",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Bob Yerkes",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Per Welinder",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Robert Zemeckis",
+  "valoraciones": {
+    "tmdb": 8.327,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/5tqs7skbrrfb",
+  "trailer": "https://www.youtube.com/watch?v=xxSo8ZEvzE8"
+}
