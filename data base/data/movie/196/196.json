@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 196,
+  "poster": "https://image.tmdb.org/t/p/w500/wjT0eZtsU3A3OvqGmr37XyPf3Ey.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/R7CCAaWeyYu15jtXHAjEDejGY1.png",
+  "titulo": "Volver al Futuro 3",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.5,
+  "año": "1990",
+  "duracion": "1h 59min",
+  "edad_minima": 13,
+  "sinopsis": "Marty McFly sigue en 1955 y su amigo Doc ha retrocedido al año 1885, la época del salvaje oeste. Éste le envía una carta donde comenta que la máquina del tiempo está averiada, y que es imposible repararla. Sin embargo no le preocupa estar atrapado en el pasado, pues allí es muy feliz trabajando de herrero aunque convive con malhechores. Pero Marty descubre una vieja tumba en la que lee que Doc murió en 1885 y, sin pensárselo dos veces, irá a rescatar a su amigo.",
+  "fecha_estreno": "1990-05-25",
+  "titulo_original": "Back to the Future Part III",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Michael J. Fox",
+      "personaje": "Marty McFly / Seamus McFly",
+      "foto": "https://image.tmdb.org/t/p/w500/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+    },
+    {
+      "nombre": "Christopher Lloyd",
+      "personaje": "Doctor Emmett Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+    },
+    {
+      "nombre": "Mary Steenburgen",
+      "personaje": "Clara Clayton",
+      "foto": "https://image.tmdb.org/t/p/w500/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+    },
+    {
+      "nombre": "Thomas F. Wilson",
+      "personaje": "Buford 'Mad Dog' Tannen / Biff Tannen",
+      "foto": "https://image.tmdb.org/t/p/w500/mVhm65ZVBIRIptWGiMIvoUy0Khi.jpg"
+    },
+    {
+      "nombre": "Lea Thompson",
+      "personaje": "Maggie McFly / Lorraine McFly",
+      "foto": "https://image.tmdb.org/t/p/w500/n7qTKpbAbr2P1RlcW1Lq1NhckQ2.jpg"
+    },
+    {
+      "nombre": "Elisabeth Shue",
+      "personaje": "Jennifer",
+      "foto": "https://image.tmdb.org/t/p/w500/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg"
+    },
+    {
+      "nombre": "Matt Clark",
+      "personaje": "Bartender",
+      "foto": "https://image.tmdb.org/t/p/w500/n5TJz5CaTqRXLpAOl0wHJXrPQOk.jpg"
+    },
+    {
+      "nombre": "Richard Dysart",
+      "personaje": "Barbwire Salesman",
+      "foto": "https://image.tmdb.org/t/p/w500/yQOaZexN3YbqGWOguu2VrjsvX2G.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Neil Canton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bob Gale",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bob Gale",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bob Gale",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dean Cundey",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Alan Silvestri",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Harry Keramidas",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Arthur Schmidt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Rick Carter",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mike Fenton",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Valorie Massalas",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Judy Taylor",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Bob Yerkes",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "R.L. Tolbert",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Brian Smrz",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ben Scott",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Robert Zemeckis",
+  "valoraciones": {
+    "tmdb": 7.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/yhgh8c3tw1j2",
+  "trailer": "https://www.youtube.com/watch?v=DTdBq1fQOBU"
+}
