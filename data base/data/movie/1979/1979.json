@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1979,
+  "poster": "https://image.tmdb.org/t/p/w500/pRXgCDTRKEIUy5cySYA4zC5to5B.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/o2wYH40zW0JIYiYUTu6L4gsNy7E.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/s16Jk5x9VuhgN9sO3rmUvwDUNHc.png",
+  "titulo": "Los 4 Fantásticos y Silver Surfer",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Aventura",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.633,
+  "año": "2007",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "Los Cuatro Fantásticos aprenden que no son los únicos seres con superpoderes en el universo cuando se enfrentan al poderoso Silver Surfer y al come planetas Galactus.",
+  "fecha_estreno": "2007-06-13",
+  "titulo_original": "Fantastic Four: Rise of the Silver Surfer",
+  "pais_origen": "Germany",
+  "reparto": [
+    {
+      "nombre": "Ioan Gruffudd",
+      "personaje": "Reed Richards / Mr. Fantastic",
+      "foto": "https://image.tmdb.org/t/p/w500/h2pg2XwJPcOWotHgiohXjEZUBLa.jpg"
+    },
+    {
+      "nombre": "Jessica Alba",
+      "personaje": "Sue Richards / Invisible Woman",
+      "foto": "https://image.tmdb.org/t/p/w500/hPoy6FRfiCIxguX3w2CoBbDoaEV.jpg"
+    },
+    {
+      "nombre": "Chris Evans",
+      "personaje": "Johnny Storm / Human Torch",
+      "foto": "https://image.tmdb.org/t/p/w500/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "nombre": "Michael Chiklis",
+      "personaje": "Ben Grimm / The Thing",
+      "foto": "https://image.tmdb.org/t/p/w500/pAkKjbzxP6Z6Y5zAGpwmWQo1iji.jpg"
+    },
+    {
+      "nombre": "Julian McMahon",
+      "personaje": "Victor von Doom / Doctor Doom",
+      "foto": "https://image.tmdb.org/t/p/w500/PirhJFimrT5iK0qru4SzlwLW4G.jpg"
+    },
+    {
+      "nombre": "Laurence Fishburne",
+      "personaje": "Norrin Radd / Silver Surfer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+      "nombre": "Doug Jones",
+      "personaje": "Norrin Radd / Silver Surfer",
+      "foto": "https://image.tmdb.org/t/p/w500/rpvvWATYWHGjedJea0G97XufOwU.jpg"
+    },
+    {
+      "nombre": "Kerry Washington",
+      "personaje": "Alicia Masters",
+      "foto": "https://image.tmdb.org/t/p/w500/zgyjYlxmHG6Ntbg16JcTp8Vu8M3.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bernd Eichinger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ralph Winter",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tim Story",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Don Payne",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mark Frost",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Turman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Mark Frost",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Ottman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Coreen Mayrs",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Heike Brandstatter",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jack Kirby",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Larry Blanford",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Brett Armstrong",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Larissa Stadnichuk",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Owen Walstrom",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Patrick Tendai Pfupajena",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "David Mylrea",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Nesta Chapman",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Tim Story",
+  "valoraciones": {
+    "tmdb": 5.633,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "1492 Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/u6xquysr9zy0",
+  "trailer": "https://www.youtube.com/watch?v=7whodtti908"
+}
