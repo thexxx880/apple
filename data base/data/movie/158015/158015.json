@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 158015,
+  "poster": "https://image.tmdb.org/t/p/w500/8fbbaY5Z00u1Y4iDT5B7rN6l2eS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9J3HHP3kQ5ZStyirJyWPWtvvrHY.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mxOMaI7eE7DV8wwUCskWk6buY9y.png",
+  "titulo": "La Noche de la Expiación",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.25,
+  "año": "2013",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "Año 2022. En una futura sociedad distópica, el régimen político, llamado Nueva Fundación de los padres de América, ha implantado una medida catárquica ante la violencia campante y las cárceles saturadas: la \"purga anual\", según la cual una noche al año se puede cometer cualquier clase de crimen, incluso el asesinato, sin tener que responder ante la justicia. La violencia se desata durante esas 12 horas, y los individuos se desfogan, imperando la calma el resto del año. Horas antes de que comience la purga anual, el vendedor de sistemas de seguridad James Sandin regresa a su casa en un lujoso suburbio de Los Angeles junto a su esposa María y sus dos hijos, Zoey y Charlie. Lo que no contaba esa famillia es que poco tiempo después de comenzar la noche un extraño llame a la puerta.",
+  "fecha_estreno": "2013-05-31",
+  "titulo_original": "The Purge",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Ethan Hawke",
+      "personaje": "James Sandin",
+      "foto": "https://image.tmdb.org/t/p/w500/oojD9jSshvUT4t6AUySsBxoekHk.jpg"
+    },
+    {
+      "nombre": "Lena Headey",
+      "personaje": "Mary Sandin",
+      "foto": "https://image.tmdb.org/t/p/w500/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+    },
+    {
+      "nombre": "Max Burkholder",
+      "personaje": "Charlie Sandin",
+      "foto": "https://image.tmdb.org/t/p/w500/8uNNDZPSxLsNetHPl1zxMwKULTC.jpg"
+    },
+    {
+      "nombre": "Adelaide Kane",
+      "personaje": "Zoey Sandin",
+      "foto": "https://image.tmdb.org/t/p/w500/oqU4ho8m8WPPyabD6RC2GH1PPBP.jpg"
+    },
+    {
+      "nombre": "Edwin Hodge",
+      "personaje": "Bloody Stranger",
+      "foto": "https://image.tmdb.org/t/p/w500/lkouUtGzfgUPUj1LP8cEk8yvKXo.jpg"
+    },
+    {
+      "nombre": "Rhys Wakefield",
+      "personaje": "Polite Leader",
+      "foto": "https://image.tmdb.org/t/p/w500/wqg6qaNkYUMviXz7irNWJGDdeZB.jpg"
+    },
+    {
+      "nombre": "Tony Oller",
+      "personaje": "Henry",
+      "foto": "https://image.tmdb.org/t/p/w500/rQU8dHYLIMgGGkWYuGPg1NA7h2w.jpg"
+    },
+    {
+      "nombre": "Arija Bareikis",
+      "personaje": "Mrs. Grace Ferrin",
+      "foto": "https://image.tmdb.org/t/p/w500/vwiUbKHamFNfghWeAccw9OUVx9I.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James DeMonaco",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James DeMonaco",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Michael Bay",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Blum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Form",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brad Fuller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sébastien K. Lemercier",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Scott MacDonald",
+      "rol": "Leadman"
+    },
+    {
+      "nombre": "Nathan Whitehead",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jacques Jouffret",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Peter Gvozdas",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Melanie Jones",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jeanette Volturno",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Kaylene Carlson",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Gerard DiNardi",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Kurt Bryant",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Shanna Lynn",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Eugene Collier",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jesse Jacobs",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "James DeMonaco",
+  "valoraciones": {
+    "tmdb": 6.25,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/f/7/h/a/f7haq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=0gsWs5v5OvQ"
+}
