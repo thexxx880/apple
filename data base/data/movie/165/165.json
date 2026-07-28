@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 165,
+  "poster": "https://image.tmdb.org/t/p/w500/ygKImi2jzm0j00W3JXBxvxdUM8n.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/waC4N3F4tQr5t268VLAlAGBDHFN.png",
+  "titulo": "Volver al Futuro 2",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.8,
+  "año": "1989",
+  "duracion": "1h 48min",
+  "edad_minima": 13,
+  "sinopsis": "Aunque a Marty McFly todavía le falta tiempo para asimilar el hecho de estar viviendo dentro de la familia perfecta gracias a su anterior viaje en el tiempo, no le queda ni espacio para respirar cuando su amigo Doc aparece de improviso con la máquina del tiempo (mucho más modernizada), e insta a que le acompañen él y su novia a viajar al futuro para solucionar un problema con la ley que tendrá uno de sus futuros hijos.",
+  "fecha_estreno": "1989-11-22",
+  "titulo_original": "Back to the Future Part II",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Michael J. Fox",
+      "personaje": "Marty McFly / Marty McFly Junior / Marlene McFly",
+      "foto": "https://image.tmdb.org/t/p/w500/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+    },
+    {
+      "nombre": "Christopher Lloyd",
+      "personaje": "Doctor Emmett Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+    },
+    {
+      "nombre": "Lea Thompson",
+      "personaje": "Lorraine",
+      "foto": "https://image.tmdb.org/t/p/w500/n7qTKpbAbr2P1RlcW1Lq1NhckQ2.jpg"
+    },
+    {
+      "nombre": "Thomas F. Wilson",
+      "personaje": "Biff Tannen / Griff",
+      "foto": "https://image.tmdb.org/t/p/w500/mVhm65ZVBIRIptWGiMIvoUy0Khi.jpg"
+    },
+    {
+      "nombre": "Elisabeth Shue",
+      "personaje": "Jennifer",
+      "foto": "https://image.tmdb.org/t/p/w500/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg"
+    },
+    {
+      "nombre": "James Tolkan",
+      "personaje": "Strickland",
+      "foto": "https://image.tmdb.org/t/p/w500/euEktcyVXm1pq5UBC16v3zuBq7J.jpg"
+    },
+    {
+      "nombre": "Jeffrey Weissman",
+      "personaje": "George McFly",
+      "foto": "https://image.tmdb.org/t/p/w500/rdxAEWflihoR5Vt1TvsR0XcI6N5.jpg"
+    },
+    {
+      "nombre": "Casey Siemaszko",
+      "personaje": "3-D",
+      "foto": "https://image.tmdb.org/t/p/w500/7Ba8fFtFsh1SX01UxfIADtTTVl9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bob Gale",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Neil Canton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bob Gale",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bob Gale",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rick Carter",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Alan Silvestri",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Dean Cundey",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Judy Taylor",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Harry Keramidas",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Arthur Schmidt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Valorie Massalas",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mike Fenton",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Charles Croughwell",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "John-Clay Scott",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Richie Gaona",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Will Cascio",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Robert Zemeckis",
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/xxluom6hkxy3",
+  "trailer": "https://www.youtube.com/watch?v=F4TJ5-YVRdY"
+}
