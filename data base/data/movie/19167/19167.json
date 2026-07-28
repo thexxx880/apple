@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 19167,
+  "poster": "https://image.tmdb.org/t/p/w500/f7w3Mo1bYW46AXdgltC5j02x5we.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/48GZAYPY2WLT56sYOuDxXS4NP0o.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/45Ck36q0dnHI1iIBRseIXWnyjfC.png",
+  "titulo": "En territorio enemigo",
+  "trending": false,
+  "generos": [
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.549,
+  "año": "2006",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "El comandante Sam Keenan (Van Damme) es un antiguo S.E.A.L. de la marina con la experiencia de combate suficiente para proteger los intereses de los EE.UU. en cualquier parte del mundo. Pero el día que llega a su nuevo destino en un convulso país del Este de Europa, Keenan se ve envuelto en una situación sangrienta y caótica: rebeldes fuertemente armados han saqueado la capital, han asesinado al embajador de los EE.UU., y amenazan con derrocar al nuevo presidente y acabar con la incipiente democracia. Rápidamente, Keenan pone a salvo la embajada americana y concede asilo político al presidente del país. Sin embargo, las tropas estadounidenses que espera tardarán todavía horas en llegar y, mientras tanto, los insurgentes se acercan. La situación es desesperada; a Keenan no le queda más remedio que encontrar una manera de acabar con la rebelión antes de que la embajada sea pasto de las llamas.",
+  "fecha_estreno": "2006-05-02",
+  "titulo_original": "Second in Command",
+  "pais_origen": "Romania",
+  "reparto": [
+    {
+      "nombre": "Jean-Claude Van Damme",
+      "personaje": "Cmdr. Samuel 'Sam' Keenan",
+      "foto": "https://image.tmdb.org/t/p/w500/7DP3bm3MS0qa0L8tBLHGebbCu6H.jpg"
+    },
+    {
+      "nombre": "Julie Cox",
+      "personaje": "Michelle Whitman",
+      "foto": "https://image.tmdb.org/t/p/w500/iEuysgJLFqvj98HwefDliZ1RRQl.jpg"
+    },
+    {
+      "nombre": "Alan McKenna",
+      "personaje": "Capt. John Baldwin",
+      "foto": "https://image.tmdb.org/t/p/w500/kHnl8o3mhwLqqFws5TmVysQmgqy.jpg"
+    },
+    {
+      "nombre": "Razaaq Adoti",
+      "personaje": "Sgt. Earl 'Gunny' Darnell",
+      "foto": "https://image.tmdb.org/t/p/w500/bgN6Q0sMzAVLXvsU0CWFN8R42dG.jpg"
+    },
+    {
+      "nombre": "Velibor Topic",
+      "personaje": "Anton Tavarov",
+      "foto": "https://image.tmdb.org/t/p/w500/A1bzG46kIEpNlZBLqv5jum5s7xj.jpg"
+    },
+    {
+      "nombre": "William Tapley",
+      "personaje": "Frank Gaines",
+      "foto": "https://image.tmdb.org/t/p/w500/tQvcOQFL2iEOtbz9QDla6IiEDJ3.jpg"
+    },
+    {
+      "nombre": "Warren Derosa",
+      "personaje": "Mike Shustec",
+      "foto": "https://image.tmdb.org/t/p/w500/eIMSleFm9fyyKfKgoB7pVzK04Ij.jpg"
+    },
+    {
+      "nombre": "Ian Virgo",
+      "personaje": "Cpl. Will Butler",
+      "foto": "https://image.tmdb.org/t/p/w500/svvLAfMaOZghL0cd0oce0QClJmT.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Simon Fellows",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Pierre Spengler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David L. Corley",
+      "rol": "Story"
+    },
+    {
+      "nombre": "David L. Corley",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jonathan Bowers",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jonathan Bowers",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Milton Bearden",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jayson Rothwell",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stanimir Stamatov",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Kathy Brayton",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Vlad Păunescu",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "David Bixler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Sayfritz",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Douglas Milsome",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Oana Păunescu",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Vasile Albineț",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Ion Carangea",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Mihai Danciu",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Filip Ciprian Florian",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Marius Florian",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Simon Fellows",
+  "valoraciones": {
+    "tmdb": 5.549,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pueblo Film Group",
+  "enlace_video": "https://rumble.com/hls-vod/6uyago/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=_y2hUZMMp3A"
+}
