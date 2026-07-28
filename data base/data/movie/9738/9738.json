@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 9738,
+  "poster": "https://image.tmdb.org/t/p/w500/l3Yk65bVdgiMOMeK6O8aZxEBt5J.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2cDXXLirYsoP6rk9B8yrvNHbbFy.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tBtEp3V60gGyMwsYvEXU3e3vHlx.png",
+  "titulo": "Los 4 Fantásticos",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Fantasía",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.808,
+  "año": "2005",
+  "duracion": "1h 46min",
+  "edad_minima": 13,
+  "sinopsis": "Un grupo de astronautas obtiene superpoderes después de una exposición a la radiación cósmica y debe usarlos para oponerse a los planes de su enemigo, el doctor Victor Von Doom",
+  "fecha_estreno": "2005-06-29",
+  "titulo_original": "Fantastic Four",
+  "pais_origen": "Germany",
+  "reparto": [
+    {
+      "nombre": "Ioan Gruffudd",
+      "personaje": "Reed Richards / Mr. Fantastic",
+      "foto": "https://image.tmdb.org/t/p/w500/h2pg2XwJPcOWotHgiohXjEZUBLa.jpg"
+    },
+    {
+      "nombre": "Jessica Alba",
+      "personaje": "Sue Storm / Invisible Woman",
+      "foto": "https://image.tmdb.org/t/p/w500/hPoy6FRfiCIxguX3w2CoBbDoaEV.jpg"
+    },
+    {
+      "nombre": "Chris Evans",
+      "personaje": "Johnny Storm / Human Torch",
+      "foto": "https://image.tmdb.org/t/p/w500/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "nombre": "Michael Chiklis",
+      "personaje": "Ben Grimm / The Thing",
+      "foto": "https://image.tmdb.org/t/p/w500/pAkKjbzxP6Z6Y5zAGpwmWQo1iji.jpg"
+    },
+    {
+      "nombre": "Julian McMahon",
+      "personaje": "Victor von Doom / Doctor Doom",
+      "foto": "https://image.tmdb.org/t/p/w500/PirhJFimrT5iK0qru4SzlwLW4G.jpg"
+    },
+    {
+      "nombre": "Hamish Linklater",
+      "personaje": "Leonard",
+      "foto": "https://image.tmdb.org/t/p/w500/AnpxdQjBk3v2OQTgyyb9EuUxAow.jpg"
+    },
+    {
+      "nombre": "Kerry Washington",
+      "personaje": "Alicia Masters",
+      "foto": "https://image.tmdb.org/t/p/w500/zgyjYlxmHG6Ntbg16JcTp8Vu8M3.jpg"
+    },
+    {
+      "nombre": "Laurie Holden",
+      "personaje": "Debbie McIlvane",
+      "foto": "https://image.tmdb.org/t/p/w500/rRhtmJsZ5IiE0lYrLDmYOCiPK1P.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bernd Eichinger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ralph Winter",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tim Story",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark Frost",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Michael France",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Barnathan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Columbus",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Radcliffe",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Ottman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Oliver Wood",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "William Hoy",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Monique Ganderton",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Andrea Kinsky",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Brett Armstrong",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Krista Bell",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Tim Story",
+  "valoraciones": {
+    "tmdb": 5.808,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 3 KG",
+  "enlace_video": "https://gscdn.cam/video/embed/qa7s687ermbc",
+  "trailer": "https://www.youtube.com/watch?v=QIx2jkXYu34"
+}
