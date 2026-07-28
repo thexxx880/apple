@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 33217,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qYA2o1y67stEBAkQLRwbpGWHxTQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pOKcw45cAMPu8DN7E3bN5FEvxM3.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7LHTpAk5YyLjpu4akPDZVKtQFGR.png",
+  "titulo": "Justicia Joven",
+  "titulo_original": "Young Justice",
+  "fecha_estreno": "2010-11-26",
+  "duracion": "22min",
+  "año": "2010",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.392,
+  "sinopsis": "Un grupo de superhéroes adolescentes formado por Robin, Kid Flash, Aqualad, Miss Martian, entre otros, tratan de demostrar su valía para formar parte de la Liga de la Justicia mientras conviven con sus problemas de adolescencia.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jesse McCartney",
+      "personaje": "Dick Grayson / Robin / Nightwing (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4Amtwnuh5eaGOMcl3NMHJXyRbrg.jpg"
+    },
+    {
+      "nombre": "Khary Payton",
+      "personaje": "Kaldur'ahm / Aquaman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4PgEGuAb2KkaRb7P9PdK40pPeVH.jpg"
+    },
+    {
+      "nombre": "Nolan North",
+      "personaje": "Conner Kent / Superboy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg"
+    },
+    {
+      "nombre": "Danica McKellar",
+      "personaje": "M'gaan M'orzz / Megan Morse / Miss Martian (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qVasJ8uKtvrntIXaPylneLW3ykf.jpg"
+    },
+    {
+      "nombre": "Stephanie Lemelin",
+      "personaje": "Artemis Crock / Artemis / Tigress (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/of3XWkT2XPgci18PMIQd6Ozzrm.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Kip Brown",
+      "rol": "Post Producer"
+    },
+    {
+      "nombre": "Greg Weisman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brandon Vietti",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Roback",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Greg Weisman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Agnes Kim",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Liz Marshall",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Yadira Davis",
+      "rol": "Production Accountant"
+    },
+    {
+      "nombre": "Marissa Llano",
+      "rol": "Post-Production Manager"
+    },
+    {
+      "nombre": "Rebecca Sands Coutts",
+      "rol": "Post-Production Manager"
+    },
+    {
+      "nombre": "Kip Brown",
+      "rol": "Post Producer"
+    },
+    {
+      "nombre": "Brenna Kraus",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "Brenna Kraus",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Jeff Purves",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Alex Dilts",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Sarah Noonan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Youa Vang",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Pamela Long",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "Austin Reinkens",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Todd Gibbs",
+      "rol": "Other"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.392,
+    "imdb": "tt1641384",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC Comics, HBO Max, Warner Bros",
+  "trailer": ""
+}
