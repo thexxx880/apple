@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 354287,
+  "poster": "https://image.tmdb.org/t/p/w500/7rbKKR9TMwvBoKCX2dfvPOnnNSd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eQsellX1IeGaIjv1w4JBzoOrvmf.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/fr4lZLG0DIl40pjGT1zuuWknlMH.png",
+  "titulo": "Máquina de Guerra",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Bélica"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.615,
+  "año": "2017",
+  "duracion": "2h 2min",
+  "edad_minima": 13,
+  "sinopsis": "Una estrella de rock empeñada en ganar la guerra \"imposible\" en Afganistán nos lleva dentro de la compleja maquinaria de la guerra moderna. Inspirado por la historia real del general Stanley McChrystal.",
+  "fecha_estreno": "2017-05-26",
+  "titulo_original": "War Machine",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Brad Pitt",
+      "personaje": "Gen. Glen McMahon",
+      "foto": "https://image.tmdb.org/t/p/w500/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+    },
+    {
+      "nombre": "Anthony Michael Hall",
+      "personaje": "Greg Pulver",
+      "foto": "https://image.tmdb.org/t/p/w500/nLthzoCuNxxd3KteIrnnMg1066G.jpg"
+    },
+    {
+      "nombre": "Emory Cohen",
+      "personaje": "Willy Dunne",
+      "foto": "https://image.tmdb.org/t/p/w500/mtummZcNxmcJQ1JIoQUcV3Fwb3.jpg"
+    },
+    {
+      "nombre": "John Magaro",
+      "personaje": "Cory Staggart",
+      "foto": "https://image.tmdb.org/t/p/w500/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg"
+    },
+    {
+      "nombre": "Topher Grace",
+      "personaje": "Matt Little",
+      "foto": "https://image.tmdb.org/t/p/w500/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg"
+    },
+    {
+      "nombre": "Tilda Swinton",
+      "personaje": "German Politician",
+      "foto": "https://image.tmdb.org/t/p/w500/dzjT4LKgs7eOma84GsPy78DsGNH.jpg"
+    },
+    {
+      "nombre": "Daniel Betts",
+      "personaje": "Simon Ball",
+      "foto": "https://image.tmdb.org/t/p/w500/wKtPsR1At1EmJeYenSjRm4BeIiQ.jpg"
+    },
+    {
+      "nombre": "Aymen Hamdouchi",
+      "personaje": "Badi Basim",
+      "foto": "https://image.tmdb.org/t/p/w500/nLd7tahohZO7pQP1EzRgCdQZ4Xn.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ted Sarandos",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael P. Flannigan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Michôd",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Michôd",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Brad Pitt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dede Gardner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeremy Kleiner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ian Bryce",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sarah Bowen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Esberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pauline Fischer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Howarth",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Peter Burgis",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Zoe Freed",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Glen Gathard",
+      "rol": "Foley Supervisor"
+    },
+    {
+      "nombre": "Judah Getz",
+      "rol": "Foley Supervisor"
+    },
+    {
+      "nombre": "Peter Gleaves",
+      "rol": "ADR Recordist"
+    },
+    {
+      "nombre": "Arthur Graley",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Peter Hanson",
+      "rol": "Foley Editor"
+    },
+    {
+      "nombre": "Thom Kellar",
+      "rol": "Sound Effects Editor"
+    }
+  ],
+  "director": "David Michôd",
+  "valoraciones": {
+    "tmdb": 5.615,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Plan B Entertainment",
+  "enlace_video": "https://gscdn.cam/video/embed/5j9d15b2m1fs",
+  "trailer": "https://www.youtube.com/watch?v=JIO_BFCf8fU"
+}
