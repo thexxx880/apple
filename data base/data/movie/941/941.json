@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 941,
+  "poster": "https://image.tmdb.org/t/p/w500/oXSF4oiHwCEegf9A3gfNsNhRCCd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/guTNnSWS3CaH71jasY8W1FMptjG.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hRJrtGrXGwnusEw3ZefE0Ca9gWx.png",
+  "titulo": "Arma Mortal",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Crimen"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.301,
+  "año": "1987",
+  "duracion": "1h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Martin Riggs es un policía de Los Ángeles con tendencias suicidas. Su compañero Roger Murtaugh es un veterano y responsable policía y padre de familia. Juntos intentan frustrar una operación de contrabando de droga. Al mismo tiempo, a pesar de sus diferentes caracteres, se harán buenos amigos",
+  "fecha_estreno": "1987-03-06",
+  "titulo_original": "Lethal Weapon",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mel Gibson",
+      "personaje": "Martin Riggs",
+      "foto": "https://image.tmdb.org/t/p/w500/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+    },
+    {
+      "nombre": "Danny Glover",
+      "personaje": "Roger Murtaugh",
+      "foto": "https://image.tmdb.org/t/p/w500/2PJbpI9AyuhG4SWUIDxZwuBnuMb.jpg"
+    },
+    {
+      "nombre": "Gary Busey",
+      "personaje": "Mr. Joshua",
+      "foto": "https://image.tmdb.org/t/p/w500/8H7Hlv6b7ZoK4jZKeLnc2i4pfPL.jpg"
+    },
+    {
+      "nombre": "Mitchell Ryan",
+      "personaje": "General Peter McAllister",
+      "foto": "https://image.tmdb.org/t/p/w500/9XrbQfOjDeqjXJUHeSIA6OxJAJa.jpg"
+    },
+    {
+      "nombre": "Tom Atkins",
+      "personaje": "Michael Hunsaker",
+      "foto": "https://image.tmdb.org/t/p/w500/cqQnpAlq3FNLDr1jrAkUJokLw1M.jpg"
+    },
+    {
+      "nombre": "Darlene Love",
+      "personaje": "Trish Murtaugh",
+      "foto": "https://image.tmdb.org/t/p/w500/baTsmaZZhZyeBdwWtHcB5Q3rBq2.jpg"
+    },
+    {
+      "nombre": "Traci Wolfe",
+      "personaje": "Rianne Murtaugh",
+      "foto": "https://image.tmdb.org/t/p/w500/lvPqdsmm3nYO9xjdH1e9kAMrsdo.jpg"
+    },
+    {
+      "nombre": "Jackie Swanson",
+      "personaje": "Amanda Hunsaker",
+      "foto": "https://image.tmdb.org/t/p/w500/g1KOHjxel96XRpARmCZKiIMGwkK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Richard Donner",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Shane Black",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joel Silver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard Donner",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "J. Michael Riva",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Eric Clapton",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Marvin March",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Marion Dougherty",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Michael Kamen",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Stuart Baird",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Stephen Goldblatt",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mary Malin",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Scott H. Eddo",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "James Guthrie",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "Bennie Moore",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jeff Imada",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Richard Donner",
+  "valoraciones": {
+    "tmdb": 7.301,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Silver Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/t9ttepj469kf",
+  "trailer": "https://www.youtube.com/watch?v=RLu49mRcmYs"
+}
