@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 942,
+  "poster": "https://image.tmdb.org/t/p/w500/oyEcR3MhEJVCMwxAd9Jyb4gQfv3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ryuNZtfeugm9olrytaydFPsDSoB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/zUXo6wymJz0xZQ8wxlBU2Qenksc.png",
+  "titulo": "Arma Mortal 2",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Crimen"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.045,
+  "año": "1989",
+  "duracion": "1h 53min",
+  "edad_minima": 13,
+  "sinopsis": "La pareja de policías formada por Martin Riggs y su compañero Roger Murtaugh se enfrenta ahora a una poderosa organización sudafricana de traficantes de droga que opera en Estados Unidos. Su misión principal es la de proteger al testigo Leo Getz, un alocado contable que ha blanqueado dinero para la banda y que en unos días va a testificar contra ellos.",
+  "fecha_estreno": "1989-07-07",
+  "titulo_original": "Lethal Weapon 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mel Gibson",
+      "personaje": "Martin Riggs",
+      "foto": "https://image.tmdb.org/t/p/w500/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+    },
+    {
+      "nombre": "Danny Glover",
+      "personaje": "Roger Murtaugh",
+      "foto": "https://image.tmdb.org/t/p/w500/2PJbpI9AyuhG4SWUIDxZwuBnuMb.jpg"
+    },
+    {
+      "nombre": "Joe Pesci",
+      "personaje": "Leo Getz",
+      "foto": "https://image.tmdb.org/t/p/w500/pEHQoL8yOndOq59iXlgsOpUTcTk.jpg"
+    },
+    {
+      "nombre": "Joss Ackland",
+      "personaje": "Arjen Rudd",
+      "foto": "https://image.tmdb.org/t/p/w500/2votqyrYGvSsXKaPNIa0CZtvBMY.jpg"
+    },
+    {
+      "nombre": "Derrick O'Connor",
+      "personaje": "Pieter Vorstedt",
+      "foto": "https://image.tmdb.org/t/p/w500/ujw2zrsPldMXgIXeXIEnCBBOw1o.jpg"
+    },
+    {
+      "nombre": "Patsy Kensit",
+      "personaje": "Rika Van Den Haas",
+      "foto": "https://image.tmdb.org/t/p/w500/r60KQk3xOmMIhGmJqCeHQq6RX68.jpg"
+    },
+    {
+      "nombre": "Darlene Love",
+      "personaje": "Trish Murtaugh",
+      "foto": "https://image.tmdb.org/t/p/w500/baTsmaZZhZyeBdwWtHcB5Q3rBq2.jpg"
+    },
+    {
+      "nombre": "Traci Wolfe",
+      "personaje": "Rianne Murtaugh",
+      "foto": "https://image.tmdb.org/t/p/w500/lvPqdsmm3nYO9xjdH1e9kAMrsdo.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Richard Donner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard Donner",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joel Silver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeffrey Boam",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Shane Black",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Warren Murphy",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stephen Goldblatt",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "J. Michael Riva",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Marvin March",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "David Sanborn",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Stuart Baird",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Eric Clapton",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Gail Levin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Michael Kamen",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Richard Berger",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Marion Dougherty",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Nancy Hansen",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Michael Alan Kahn",
+      "rol": "Second Assistant Director"
+    }
+  ],
+  "director": "Richard Donner",
+  "valoraciones": {
+    "tmdb": 7.045,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Silver Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/5oqp81ahl5kz",
+  "trailer": "https://www.youtube.com/watch?v=xGcCI8JWCic"
+}
