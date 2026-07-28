@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 944,
+  "poster": "https://image.tmdb.org/t/p/w500/jGpqtRWA4RSol1bPvHiCpWg1CDI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/u4d4vymNPo1UuJ6ihtyy9OQgco2.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/y6PSLQMB89WGSt6PeQNJevc8TX.png",
+  "titulo": "Arma Mortal 4",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.616,
+  "año": "1998",
+  "duracion": "2h 8min",
+  "edad_minima": 13,
+  "sinopsis": "La pareja de policías formada por Martin Riggs y Roger Murtaugh vuelve a la carga para enfrentarse a un capo de la mafia asiática que ha extendido sus actividades a Los Ángeles. En la investigación les ayudará un joven policía responsable de los quebraderos de cabeza familiares de Murtaugh, ya que ha dejado embarazada a su hija. En casa de Riggs, las cosas también se complican cuando su compañera se queda embarazada y amenaza con hacerlo pasar por el altar.",
+  "fecha_estreno": "1998-07-10",
+  "titulo_original": "Lethal Weapon 4",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mel Gibson",
+      "personaje": "Martin Riggs",
+      "foto": "https://image.tmdb.org/t/p/w500/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+    },
+    {
+      "nombre": "Danny Glover",
+      "personaje": "Roger Murtaugh",
+      "foto": "https://image.tmdb.org/t/p/w500/2PJbpI9AyuhG4SWUIDxZwuBnuMb.jpg"
+    },
+    {
+      "nombre": "Joe Pesci",
+      "personaje": "Leo Getz",
+      "foto": "https://image.tmdb.org/t/p/w500/pEHQoL8yOndOq59iXlgsOpUTcTk.jpg"
+    },
+    {
+      "nombre": "Rene Russo",
+      "personaje": "Lorna Cole",
+      "foto": "https://image.tmdb.org/t/p/w500/yWPSqrv3nfPPKC6I2S0sRTWZ5Yi.jpg"
+    },
+    {
+      "nombre": "Chris Rock",
+      "personaje": "Det.Lee Butters",
+      "foto": "https://image.tmdb.org/t/p/w500/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
+    },
+    {
+      "nombre": "李连杰",
+      "personaje": "Wah Sing Ku",
+      "foto": "https://image.tmdb.org/t/p/w500/c4s8INzU0ZAujCQ1YmphCmcsNzl.jpg"
+    },
+    {
+      "nombre": "Steve Kahan",
+      "personaje": "Captain Murphy",
+      "foto": "https://image.tmdb.org/t/p/w500/qnarH2PdHTWsG7Hv2DlHSr7rj5h.jpg"
+    },
+    {
+      "nombre": "Kim Chan",
+      "personaje": "Benny Chan",
+      "foto": "https://image.tmdb.org/t/p/w500/oV350fpOcbi2O2JVUSFYoz6Utw1.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Richard Donner",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Richard Donner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Channing Gibson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joel Silver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jonathan Lemkin",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Alfred Gough",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Miles Millar",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Eric Clapton",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Michael Kamen",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "David Sanborn",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Andrzej Bartkowiak",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Dallas Puett",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Kevin Stitt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Eric Strand",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Frank J. Urioste",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Marion Dougherty",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "J. Michael Riva",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Lauri Gaffin",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "David F. Klassen",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Richard Donner",
+  "valoraciones": {
+    "tmdb": 6.616,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Silver Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/n65660m7q52j",
+  "trailer": "https://www.youtube.com/watch?v=pi2cGmz9Q2A"
+}
