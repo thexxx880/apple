@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 412546,
+  "poster": "https://image.tmdb.org/t/p/w500/20de4Rcmy4B0L5zyOc3Nc5F7c0D.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kUfhJUEa4Djx9yCxYCkuEcJFE12.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mXCrsRbOAdbzk3iuQlTom68a4S7.png",
+  "titulo": "Antrum",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.763,
+  "año": "2018",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "En 1988, la proyección de una película resultó en la muerte de cincuenta y seis personas cuando el cine de Budapest donde tenía lugar la premiere prendió en llamas. Desde entonces, es un título maldito, marcado a fuego por la tragedia. Ahora, se ha encontrado un nuevo negativo y se está restaurando una nueva copia: la película más mortal de la historia está lista para el reestreno.",
+  "fecha_estreno": "2018-10-14",
+  "titulo_original": "Antrum",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Nicole Tompkins",
+      "personaje": "Oralee",
+      "foto": "https://image.tmdb.org/t/p/w500/rD3uXD6PHHLyXoTk2sSITKsJmSF.jpg"
+    },
+    {
+      "nombre": "Rowan Smyth",
+      "personaje": "Nathan",
+      "foto": "https://image.tmdb.org/t/p/w500/mwIqNgSU5vtpcv7ZEPCdfYrBcBS.jpg"
+    },
+    {
+      "nombre": "Dan Istrate",
+      "personaje": "Cassius",
+      "foto": "https://image.tmdb.org/t/p/w500/kCnHIGtPkvsbfoGPrK7i6fb9vVy.jpg"
+    },
+    {
+      "nombre": "Circus-Szalewski",
+      "personaje": "Hanzie",
+      "foto": "https://image.tmdb.org/t/p/w500/gRGIpAkzmqjYoqwp8re4tqRIVEL.jpg"
+    },
+    {
+      "nombre": "Shu Sakimoto",
+      "personaje": "Haruki",
+      "foto": null
+    },
+    {
+      "nombre": "Kristel Elling",
+      "personaje": "Mother",
+      "foto": "https://image.tmdb.org/t/p/w500/1DyyxNBWJvPWRGXA30oshqCetue.jpg"
+    },
+    {
+      "nombre": "Lucy Rayner",
+      "personaje": "Narrator",
+      "foto": null
+    },
+    {
+      "nombre": "Carrie Hammontree",
+      "personaje": "Woman on Boat",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Laicini",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Amito",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Amito",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "David Amito",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Michael Laicini",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alicia Fricker",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Azra Valani",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Alicia Fricker",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "Jordan Lee-Tung",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Alice Xandra Thirteen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Bond",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kate McCafferty",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Darryl Wiliamson",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Morgan Collins",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Maksymilian Milczarczyk",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Adam Ive",
+      "rol": "Sound Re-Recording Mixer"
+    }
+  ],
+  "director": "Michael Laicini",
+  "valoraciones": {
+    "tmdb": 5.763,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Else Films",
+  "enlace_video": "https://gscdn.cam/video/embed/kmj8qr1fjoxd",
+  "trailer": "https://www.youtube.com/watch?v=faQ828XMCc4"
+}
