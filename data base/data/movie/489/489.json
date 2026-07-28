@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 489,
+  "poster": "https://image.tmdb.org/t/p/w500/bTmmTMyCi7Cd85sS4rz9tlM0iU3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xj1Sv1xm4Y0ydBueGuf10Y9qM0O.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+  "titulo": "Mente indomable",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.163,
+  "año": "1997",
+  "duracion": "2h 6min",
+  "edad_minima": 13,
+  "sinopsis": "Will Hunting, un conserje del M.I.T., tiene un don para las matemáticas, pero necesita la ayuda de un psicólogo para encontrar el rumbo de su vida.",
+  "fecha_estreno": "1997-12-05",
+  "titulo_original": "Good Will Hunting",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Matt Damon",
+      "personaje": "Will Hunting",
+      "foto": "https://image.tmdb.org/t/p/w500/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+    },
+    {
+      "nombre": "Robin Williams",
+      "personaje": "Sean Maguire",
+      "foto": "https://image.tmdb.org/t/p/w500/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+    },
+    {
+      "nombre": "Ben Affleck",
+      "personaje": "Chuckie Sullivan",
+      "foto": "https://image.tmdb.org/t/p/w500/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+    },
+    {
+      "nombre": "Stellan Skarsgård",
+      "personaje": "Gerald Lambeau",
+      "foto": "https://image.tmdb.org/t/p/w500/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+    },
+    {
+      "nombre": "Minnie Driver",
+      "personaje": "Skylar",
+      "foto": "https://image.tmdb.org/t/p/w500/2uwaHwpoutbXMuYY5v2dhWU0hml.jpg"
+    },
+    {
+      "nombre": "Casey Affleck",
+      "personaje": "Morgan O'Mally",
+      "foto": "https://image.tmdb.org/t/p/w500/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+    },
+    {
+      "nombre": "Cole Hauser",
+      "personaje": "Billy McBride",
+      "foto": "https://image.tmdb.org/t/p/w500/1SNoIDILoXtAUJu4f7nDCPVQH5j.jpg"
+    },
+    {
+      "nombre": "Vik Sahay",
+      "personaje": "MIT Student",
+      "foto": "https://image.tmdb.org/t/p/w500/690bPfmzaXsrZ1eDcUOCDT5TPpq.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gus Van Sant",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lawrence Bender",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ben Affleck",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Matt Damon",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jonathan Gordon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Su Armstrong",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Missy Stewart",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Pietro Scalia",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Suzanne Smith Crowley",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Bob Weinstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Harvey Weinstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jaro Dick",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Kerry Barden",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "James McAteer",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jean-Yves Escoffier",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Billy Hopkins",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Gus Van Sant",
+  "valoraciones": {
+    "tmdb": 8.163,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lawrence Bender Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/rvof13z7d3tx",
+  "trailer": "https://www.youtube.com/watch?v=ReIJ1lbL-Q8"
+}
