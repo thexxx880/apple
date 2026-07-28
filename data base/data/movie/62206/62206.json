@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 62206,
+  "poster": "https://image.tmdb.org/t/p/w500/bOHbTyE3wDKu2ExhsfhGZQOIVUm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jms0K8EDkLYVVYOm7R0IyeJQ6VM.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ihz16y3wffbS6olHKwGWyTIiOZI.png",
+  "titulo": "30 Minutos o Menos",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.778,
+  "año": "2011",
+  "duracion": "1h 23min",
+  "edad_minima": 13,
+  "sinopsis": "Nick (Jesse Eisenberg), un repartidor de pizzas, colisiona con los grandes planes de dos aspirantes a delincuentes (Danny McBride y Nick Swardson). Esta pareja de perdedores secuestra a Nick y le ata una bomba de relojería al cuerpo, amenazando con hacerla explosionar si él se niega a atracar un banco. Con tan solo un par de horas para hacer lo imposible, Nick pide ayuda a su amigo de toda la vida, Chet (Aziz Ansari). Según pasan los segundos, Nick y Chet tendrán que lidiar con policías, asesinos a sueldo, lanzallamas, y su propio pasado.",
+  "fecha_estreno": "2011-08-11",
+  "titulo_original": "30 Minutes or Less",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jesse Eisenberg",
+      "personaje": "Nick",
+      "foto": "https://image.tmdb.org/t/p/w500/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg"
+    },
+    {
+      "nombre": "Danny McBride",
+      "personaje": "Dwayne",
+      "foto": "https://image.tmdb.org/t/p/w500/sVFPzl2t5QlGudQKWAszIWZCXZv.jpg"
+    },
+    {
+      "nombre": "Aziz Ansari",
+      "personaje": "Chet",
+      "foto": "https://image.tmdb.org/t/p/w500/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg"
+    },
+    {
+      "nombre": "Nick Swardson",
+      "personaje": "Travis",
+      "foto": "https://image.tmdb.org/t/p/w500/eyZkNQvpvNzYBg9oXh2IM6zOE5G.jpg"
+    },
+    {
+      "nombre": "Dilshad Vadsaria",
+      "personaje": "Kate",
+      "foto": "https://image.tmdb.org/t/p/w500/yWCQLnykpfAfvTCukcj8WQTBMPc.jpg"
+    },
+    {
+      "nombre": "Michael Peña",
+      "personaje": "Chango",
+      "foto": "https://image.tmdb.org/t/p/w500/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+    },
+    {
+      "nombre": "Bianca Kajlich",
+      "personaje": "Juicy",
+      "foto": "https://image.tmdb.org/t/p/w500/mJdcpCgnR4nJLcCivk3E4jThuNn.jpg"
+    },
+    {
+      "nombre": "Fred Ward",
+      "personaje": "The Major",
+      "foto": "https://image.tmdb.org/t/p/w500/t3tZduAwP1LMR8Vc13HZ39wKJ1q.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ruben Fleischer",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Diliberti",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jeremy Kramer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ben Stiller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Stuart Cornfeld",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Diliberti",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Maher Ahmad",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Gene Serdena",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Monica Levinson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Austin Gorg",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Alan Baumgarten",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Nicole Abellera Hallman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jeanne McCarthy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Christie Wittenborn",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Marie Fink",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Natalie M. Meyer",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "G.A. Aguilar",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Ludwig Göransson",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Ruben Fleischer",
+  "valoraciones": {
+    "tmdb": 5.778,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/94ymfw362hbu",
+  "trailer": "https://www.youtube.com/watch?v=_o8u4pIf3Hs"
+}
