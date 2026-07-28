@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 284052,
+  "poster": "https://image.tmdb.org/t/p/w500/sOsvKTJS0XwtfLsNMO3C0CVWJ4u.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rJdfQcMREMJXhLzJ1oS2DZBAeqc.png",
+  "titulo": "Doctor Strange: Hechicero supremo",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Aventura",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.424,
+  "año": "2016",
+  "duracion": "1h 55min",
+  "edad_minima": 13,
+  "sinopsis": "La historia del famoso neurocirujano Dr. Stephen Strange cuya vida cambia para siempre luego de un accidente automovilístico que lo deja sin poder mover sus manos. Cuando la medicina tradicional falla, se ve obligado a buscar una cura y esperanzas en un lugar impensado: una comunidad aislada y misteriosa llamada Kamar-Taj. Rápidamente descubre que éste no es sólo un centro de recuperación, sino también la primera línea de una batalla en contra de fuerzas oscuras y ocultas empeñadas en destruir nuestra realidad. En poco tiempo, Strange, armado con sus poderes mágicos recientemente adquiridos, se ve obligado a elegir entre volver a su antigua vida de riqueza y estatus, o dejarlo todo para defender el mundo como el hechicero más poderoso del planeta.",
+  "fecha_estreno": "2016-10-25",
+  "titulo_original": "Doctor Strange",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Benedict Cumberbatch",
+      "personaje": "Dr. Stephen Strange",
+      "foto": "https://image.tmdb.org/t/p/w500/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+      "nombre": "Chiwetel Ejiofor",
+      "personaje": "Mordo",
+      "foto": "https://image.tmdb.org/t/p/w500/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+      "nombre": "Rachel McAdams",
+      "personaje": "Dr. Christine Palmer",
+      "foto": "https://image.tmdb.org/t/p/w500/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
+    },
+    {
+      "nombre": "Benedict Wong",
+      "personaje": "Wong",
+      "foto": "https://image.tmdb.org/t/p/w500/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+    },
+    {
+      "nombre": "Mads Mikkelsen",
+      "personaje": "Kaecilius",
+      "foto": "https://image.tmdb.org/t/p/w500/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg"
+    },
+    {
+      "nombre": "Tilda Swinton",
+      "personaje": "The Ancient One",
+      "foto": "https://image.tmdb.org/t/p/w500/dzjT4LKgs7eOma84GsPy78DsGNH.jpg"
+    },
+    {
+      "nombre": "Michael Stuhlbarg",
+      "personaje": "Dr. Nicodemus West",
+      "foto": "https://image.tmdb.org/t/p/w500/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+    },
+    {
+      "nombre": "Benjamin Bratt",
+      "personaje": "Jonathan Pangborn",
+      "foto": "https://image.tmdb.org/t/p/w500/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jon Spaihts",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Scott Derrickson",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "C. Robert Cargill",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Scott Derrickson",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Hunter Elliott",
+      "rol": "Visual Effects Coordinator"
+    },
+    {
+      "nombre": "Myke Schwartz",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Gui DaSilva-Greene",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Nicole Callender",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "George Kirby",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Jennifer Lamb",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Nick Brandon",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "James M. Churchman",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Mark Mottram",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Ginger McCarthy",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Tsuyoshi Abe",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Christoph Cordell",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Scott Derrickson",
+  "valoraciones": {
+    "tmdb": 7.424,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/nrw29py4ebsu",
+  "trailer": "https://www.youtube.com/watch?v=PqTILYUNU3s"
+}
