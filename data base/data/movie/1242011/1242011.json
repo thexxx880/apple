@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 1242011,
+  "poster": "https://image.tmdb.org/t/p/w500/pp2ho64ah9W9jCCIHavXUCuqISr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/39Niij05MXfibXBsHiUU0Ml0POX.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/zDXmq6slMYEVFN5k8XnD0je10yq.png",
+  "titulo": "Together: Juntos hasta la muerte",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.909,
+  "año": "2025",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "Una pareja con problemas en su relación se muda al campo, donde descubren una cueva con una fuerza sobrenatural. Al beber agua de la cueva, comienzan a experimentar transformaciones físicas y emocionales que reflejan su codependencia.",
+  "fecha_estreno": "2025-07-14",
+  "titulo_original": "Together",
+  "pais_origen": "Australia",
+  "reparto": [
+    {
+      "nombre": "Dave Franco",
+      "personaje": "Tim",
+      "foto": "https://image.tmdb.org/t/p/w500/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg"
+    },
+    {
+      "nombre": "Alison Brie",
+      "personaje": "Millie",
+      "foto": "https://image.tmdb.org/t/p/w500/uu16GiwYblS6IJV3o4qFSLWKXOC.jpg"
+    },
+    {
+      "nombre": "Damon Herriman",
+      "personaje": "Jamie",
+      "foto": "https://image.tmdb.org/t/p/w500/hzh9i0BlAEQDAhJxEgkEcBxMlJv.jpg"
+    },
+    {
+      "nombre": "Mia Morrissey",
+      "personaje": "Cath",
+      "foto": "https://image.tmdb.org/t/p/w500/wAHQYFi1FvvucXacTvbWeaNVqov.jpg"
+    },
+    {
+      "nombre": "Karl Richmond",
+      "personaje": "Jordy",
+      "foto": "https://image.tmdb.org/t/p/w500/zQ32YJZzMwAQrZ8F1Cjqc6560gh.jpg"
+    },
+    {
+      "nombre": "Jack Kenny",
+      "personaje": "Luke",
+      "foto": "https://image.tmdb.org/t/p/w500/v3A8RFnCNVloc7GIptPfSuJkhdp.jpg"
+    },
+    {
+      "nombre": "Francesca Waters",
+      "personaje": "Carol",
+      "foto": "https://image.tmdb.org/t/p/w500/z0zXS5qNuts4sJmf1KFNhmDWMIZ.jpg"
+    },
+    {
+      "nombre": "Aljin Abella",
+      "personaje": "Doctor Mendoza",
+      "foto": "https://image.tmdb.org/t/p/w500/mAsuTXH9xflaBUBYo3roUuV2bss.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alison Brie",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dave Franco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Erik Feig",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Max Silva",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Mittman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Julia Hammer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mike Cowap",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tim Headington",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Germain McMicking",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Samie Kim Falvey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lia Buman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Micah Green",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Steinman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Hong",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Neil Shah",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Emma Fitzsimmons",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Laura Waters",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kai Dolbashian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicholas Dare",
+      "rol": "Production Designer"
+    },
+    {
+      "nombre": "Megan Wynn",
+      "rol": "Line Producer"
+    }
+  ],
+  "director": "Michael Shanks",
+  "valoraciones": {
+    "tmdb": 6.909,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Picturestart",
+  "enlace_video": "https://gscdn.cam/video/embed/l8cranvzpwzp",
+  "trailer": "https://www.youtube.com/watch?v=9bqIwMH3En8"
+}
