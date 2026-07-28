@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 166424,
+  "poster": "https://image.tmdb.org/t/p/w500/auXAR5jfSNOWWtuEYFWcNadfzWX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/or5kDR8Ve3TtuPSdEf1X5NdQHyz.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/r7rAJTQTos1oEf7ueDz6qW6XHaE.png",
+  "titulo": "Los 4 Fantásticos",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 4.434,
+  "año": "2015",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Cuatro jóvenes inadaptados se teletransportan a un peligroso universo alternativo, lo que les confiere extraños poderes. Cuando sus vidas cambian de forma drástica e irremediable, deben aprender a controlar sus nuevas habilidades y trabajar en equipo para salvar al mundo de un viejo conocido que ahora se ha convertido en un temible enemigo. Adaptación contemporánea del equipo de superhéroes de Marvel",
+  "fecha_estreno": "2015-08-05",
+  "titulo_original": "Fantastic Four",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Miles Teller",
+      "personaje": "Reed Richards",
+      "foto": "https://image.tmdb.org/t/p/w500/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+    },
+    {
+      "nombre": "Michael B. Jordan",
+      "personaje": "Johnny Storm",
+      "foto": "https://image.tmdb.org/t/p/w500/sMBpav8cK7t7Nk0yf4tuNOqNUyW.jpg"
+    },
+    {
+      "nombre": "Kate Mara",
+      "personaje": "Sue Storm",
+      "foto": "https://image.tmdb.org/t/p/w500/xZYD8wYHMmN9dMMPiohnKEFoTGx.jpg"
+    },
+    {
+      "nombre": "Jamie Bell",
+      "personaje": "Ben Grimm / The Thing",
+      "foto": "https://image.tmdb.org/t/p/w500/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg"
+    },
+    {
+      "nombre": "Toby Kebbell",
+      "personaje": "Victor von Doom / Dr. Doom",
+      "foto": "https://image.tmdb.org/t/p/w500/mlYytYJvoEHmhDH2enLtES1098Q.jpg"
+    },
+    {
+      "nombre": "Reg E. Cathey",
+      "personaje": "Dr. Franklin Storm",
+      "foto": "https://image.tmdb.org/t/p/w500/cgyJJQUdbK4S7ihkL9hgIIwutk3.jpg"
+    },
+    {
+      "nombre": "Tim Blake Nelson",
+      "personaje": "Dr. Allen",
+      "foto": "https://image.tmdb.org/t/p/w500/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+    },
+    {
+      "nombre": "Tim Heidecker",
+      "personaje": "Mr. Richards",
+      "foto": "https://image.tmdb.org/t/p/w500/mj9huol5uyggzejRYTEHPVztRQg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jeremy Slater",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gregory Goodman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matthew Vaughn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Josh Trank",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Josh Trank",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robert Kulzer",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Heidi Pascoe",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Mandy Kowalski",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Helena Barrett",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Nico Woulard",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ashley Wilks",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jordan Warrack",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Aaron Walters",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Brennan Walstrom",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Tierre Turner",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Tim Trella",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Frank Torres",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Matt J. Thompson",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Josh Trank",
+  "valoraciones": {
+    "tmdb": 4.434,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Fox",
+  "enlace_video": "https://gscdn.cam/video/embed/ohiicj9n2f8g",
+  "trailer": "https://www.youtube.com/watch?v=AAgnQdiZFsQ"
+}
