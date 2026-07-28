@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 316727,
+  "poster": "https://image.tmdb.org/t/p/w500/2eVnqEQy4n98ujEdFkdddYEgpqW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/a7V3ZXCDAk3P7GjpgfN0IInjh0r.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/br66SOszUaL16FzfdgHHTK9fG8h.png",
+  "titulo": "12 Horas para sobrevivir: El Año de la Elección",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.38,
+  "año": "2016",
+  "duracion": "1h 49min",
+  "edad_minima": 13,
+  "sinopsis": "Tras sufrir las consecuencias de La Purga cuando era niña, una senadora de los Estados Unidos promete acabar con esta tradición si gana las elecciones a llevar a cabo este año. Sin embargo, no todos están de acuerdo, por lo que aprovecharán su oportunidad para detenerla durante la noche en la que todo crimen es legal.",
+  "fecha_estreno": "2016-06-29",
+  "titulo_original": "The Purge: Election Year",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Elizabeth Mitchell",
+      "personaje": "Senator Charlie Roan",
+      "foto": "https://image.tmdb.org/t/p/w500/tpagVmiCbOQ8CPiRxF5MuZGfZGV.jpg"
+    },
+    {
+      "nombre": "Frank Grillo",
+      "personaje": "Leo Barnes",
+      "foto": "https://image.tmdb.org/t/p/w500/kuEco4vo1xrsM8DyrNSZUEi593P.jpg"
+    },
+    {
+      "nombre": "Mykelti Williamson",
+      "personaje": "Joe Dixon",
+      "foto": "https://image.tmdb.org/t/p/w500/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+    },
+    {
+      "nombre": "Betty Gabriel",
+      "personaje": "Laney Rucker",
+      "foto": "https://image.tmdb.org/t/p/w500/n67i3H3VM5quDQfcS591EbotPby.jpg"
+    },
+    {
+      "nombre": "J. J. Soria",
+      "personaje": "Marcos",
+      "foto": "https://image.tmdb.org/t/p/w500/vcBpEeJLPtOuSnrSuV7oUJKSuY7.jpg"
+    },
+    {
+      "nombre": "Raymond J. Barry",
+      "personaje": "Leader Caleb Warrens",
+      "foto": "https://image.tmdb.org/t/p/w500/8rJs8BQMoVqEjjCHCS4i7o7joJ6.jpg"
+    },
+    {
+      "nombre": "Edwin Hodge",
+      "personaje": "Dante Bishop",
+      "foto": "https://image.tmdb.org/t/p/w500/lkouUtGzfgUPUj1LP8cEk8yvKXo.jpg"
+    },
+    {
+      "nombre": "Kyle Secor",
+      "personaje": "Minister Edwidge Owens",
+      "foto": "https://image.tmdb.org/t/p/w500/8hdk4SVuSWX8fcLQfOqbFCMMA9W.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James DeMonaco",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James DeMonaco",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Michael Bay",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sébastien K. Lemercier",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brad Fuller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Form",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Blum",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Samantha MacIvor",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "James DeMonaco",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Shawnna Thibodeau",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Paul E. Short",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kachina Dechert",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Becca GT",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jay Hieron",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Derrick Simmons",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jason Gupton",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Gene Rush",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "John Vincent Mason",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kimmy Suzuki",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "James DeMonaco",
+  "valoraciones": {
+    "tmdb": 6.38,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Why Not Productions",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/y/n/x/H/ynxHn.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=9rqIJcY9hMc"
+}
