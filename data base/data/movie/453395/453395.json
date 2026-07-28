@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 453395,
+  "poster": "https://image.tmdb.org/t/p/w500/1w3MlLZPqr2Pm5loQ9h2gJwenMr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lv3TXqhpaIxkclIHbhN2MRMOemQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6PaRKeCVDysn8OuwwCButVJzuh7.png",
+  "titulo": "Doctor Strange en el multiverso de la locura",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.231,
+  "año": "2022",
+  "duracion": "2h 6min",
+  "edad_minima": 13,
+  "sinopsis": "Doctor Strange, además de recibir ayuda de aliados místicos nuevos y otros ya conocidos, atraviesa las alucinantes y peligrosas realidades alternativas del Multiverso para enfrentarse a un nuevo y misterioso adversario.",
+  "fecha_estreno": "2022-05-04",
+  "titulo_original": "Doctor Strange in the Multiverse of Madness",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Benedict Cumberbatch",
+      "personaje": "Doctor Stephen Strange",
+      "foto": "https://image.tmdb.org/t/p/w500/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+      "nombre": "Xochitl Gomez",
+      "personaje": "America Chavez",
+      "foto": "https://image.tmdb.org/t/p/w500/q39DOx44YHrGF1h88R9HxRNZS3.jpg"
+    },
+    {
+      "nombre": "Elizabeth Olsen",
+      "personaje": "Wanda Maximoff / The Scarlet Witch",
+      "foto": "https://image.tmdb.org/t/p/w500/wIU675y4dofIDVuhaNWPizJNtep.jpg"
+    },
+    {
+      "nombre": "Chiwetel Ejiofor",
+      "personaje": "Baron Mordo",
+      "foto": "https://image.tmdb.org/t/p/w500/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+      "nombre": "Benedict Wong",
+      "personaje": "Wong",
+      "foto": "https://image.tmdb.org/t/p/w500/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+    },
+    {
+      "nombre": "Rachel McAdams",
+      "personaje": "Dr. Christine Palmer",
+      "foto": "https://image.tmdb.org/t/p/w500/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
+    },
+    {
+      "nombre": "Jett Klyne",
+      "personaje": "Tommy Maximoff",
+      "foto": "https://image.tmdb.org/t/p/w500/6F7fGR6iQFzKNFfHCCYZbg82Alk.jpg"
+    },
+    {
+      "nombre": "Julian Hilliard",
+      "personaje": "Billy Maximoff",
+      "foto": "https://image.tmdb.org/t/p/w500/lp1IJliBZb9OFP5KK09HjSGOsau.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sam Raimi",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Waldron",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Scott Derrickson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Allcock",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Eric Yamamoto",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Darrin Denlinger",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Soren Bendt Aaboe Pedersen",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Jonathan Maris",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Mitchell Bell",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Tia Nolan",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Graham Churchyard",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Richie Palmer",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Dave Jordan",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Helen Pollak",
+      "rol": "Line Producer"
+    }
+  ],
+  "director": "Sam Raimi",
+  "valoraciones": {
+    "tmdb": 7.231,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/qwdrhvjf4egc",
+  "trailer": "https://www.youtube.com/watch?v=Rf8LAYJSOL8"
+}
