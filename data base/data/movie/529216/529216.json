@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 529216,
+  "poster": "https://image.tmdb.org/t/p/w500/c7nki04Co6DUXWAB2GXDjg0E5km.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jOGRt1JEzfgmXbC88vGv4DwDppj.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ztO14JOI8NINd2av88j1vLfSHRH.png",
+  "titulo": "Durante la tormenta",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Drama",
+    "Misterio",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.462,
+  "año": "2018",
+  "duracion": "2h 9min",
+  "edad_minima": 13,
+  "sinopsis": "Una misteriosa interferencia entre dos tiempos provoca que Vera, una madre felizmente casada, salve la vida de un niño que vivió en su casa 25 años antes. Pero las consecuencias de su buena acción provocan una reacción en cadena que hace que despierte en una nueva realidad donde su hija nunca ha nacido...",
+  "fecha_estreno": "2018-11-30",
+  "titulo_original": "Durante la tormenta",
+  "pais_origen": "Spain",
+  "reparto": [
+    {
+      "nombre": "Adriana Ugarte",
+      "personaje": "Vera Roy",
+      "foto": "https://image.tmdb.org/t/p/w500/bn7tsAI8Ot0wb85v5pLp7QJ7SRB.jpg"
+    },
+    {
+      "nombre": "Chino Darín",
+      "personaje": "Inspector Leira",
+      "foto": "https://image.tmdb.org/t/p/w500/74iskBTtTctJDO6riMhhq7W8Dfa.jpg"
+    },
+    {
+      "nombre": "Javier Gutiérrez",
+      "personaje": "Ángel Prieto",
+      "foto": "https://image.tmdb.org/t/p/w500/18iTctoABaPVUzS6fDKR4E8PPg5.jpg"
+    },
+    {
+      "nombre": "Álvaro Morte",
+      "personaje": "David Ortiz",
+      "foto": "https://image.tmdb.org/t/p/w500/2TGPhdpRC5wjdFEJqnLYiN5kbwg.jpg"
+    },
+    {
+      "nombre": "Nora Navas",
+      "personaje": "Clara Medina",
+      "foto": "https://image.tmdb.org/t/p/w500/kTvfxyKoWUoxgsTSIRHs8dgdD3A.jpg"
+    },
+    {
+      "nombre": "Miquel Fernández",
+      "personaje": "Aitor Medina",
+      "foto": "https://image.tmdb.org/t/p/w500/xkJaKVSaLbwksDzvT5cacq9DuL6.jpg"
+    },
+    {
+      "nombre": "Clara Segura",
+      "personaje": "Hilda Weiss",
+      "foto": "https://image.tmdb.org/t/p/w500/AiDKfpPlgdiu7HHNwKkrDmr7h9O.jpg"
+    },
+    {
+      "nombre": "Mima Riera",
+      "personaje": "María Lasarte",
+      "foto": "https://image.tmdb.org/t/p/w500/tI3IT5kwObWfxpi264eNoPB4dza.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Oriol Paulo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Oriol Paulo",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jesús Ulled Nadal",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lara Sendim",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Eneko Lizarraga Arratibel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mikel Lejarza",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mercedes Gamero",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jaime Romero",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marc Domènech Sanmiquel",
+      "rol": "Digital Compositor"
+    },
+    {
+      "nombre": "Jaume Martí",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Eva Leira",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Balter Gallart",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Laura Rubirola",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marta Bazaco",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Xavi Giménez",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jaime Anduiza",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Daniela Forn",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Rosa Pérez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sandra Hermida",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Fernando Velázquez",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Oriol Paulo",
+  "valoraciones": {
+    "tmdb": 7.462,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Think Studio",
+  "enlace_video": "https://rumble.com/hls-vod/6uab9q/playlist.m3u8",
+  "trailer": "https://www.youtube.com/watch?v=pT0FQrdXCgU"
+}
