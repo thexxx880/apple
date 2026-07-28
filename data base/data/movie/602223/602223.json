@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 602223,
+  "poster": "https://image.tmdb.org/t/p/w500/r2t07ky5WFRiI0bXLRIQCjalNkj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ciKBP3tgzUxp7sHFNZxofBXUS8k.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/siI2nqlUf0txlke5ZBhbrr6odAJ.png",
+  "titulo": "La Purga Por Siempre",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.857,
+  "año": "2021",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "Todas las reglas se rompen cuando una secta de merodeadores sin ley decide que la Purga anual no se detiene al amanecer y, en cambio, nunca debe terminar mientras persiguen a un grupo de inmigrantes a quienes quieren castigar debido a su duro pasado histórico.",
+  "fecha_estreno": "2021-06-30",
+  "titulo_original": "The Forever Purge",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ana de la Reguera",
+      "personaje": "Adela",
+      "foto": "https://image.tmdb.org/t/p/w500/nEacV1wuUHV6eUyErGBhniJ85JY.jpg"
+    },
+    {
+      "nombre": "Josh Lucas",
+      "personaje": "Dylan Tucker",
+      "foto": "https://image.tmdb.org/t/p/w500/ueR4CH32f22DGjFxuhnW1o3YKB3.jpg"
+    },
+    {
+      "nombre": "Willow Beuoy",
+      "personaje": "Ally",
+      "foto": "https://image.tmdb.org/t/p/w500/xDb9pfMwgaXRCEu8O5AT9QJXlYw.jpg"
+    },
+    {
+      "nombre": "Leven Rambin",
+      "personaje": "Harper Tucker",
+      "foto": "https://image.tmdb.org/t/p/w500/vjXXg3QCtFIxvLl1Aa0fTHFhA3d.jpg"
+    },
+    {
+      "nombre": "Will Patton",
+      "personaje": "Caleb Tucker",
+      "foto": "https://image.tmdb.org/t/p/w500/1V4DbU1mfEim4oaA5bvJywDAKwB.jpg"
+    },
+    {
+      "nombre": "Cassidy Freeman",
+      "personaje": "Emma Kate",
+      "foto": "https://image.tmdb.org/t/p/w500/6QooKF97oaUoIrW2lbx36aYYGZH.jpg"
+    },
+    {
+      "nombre": "Tenoch Huerta Mejía",
+      "personaje": "Juan",
+      "foto": "https://image.tmdb.org/t/p/w500/x0Wy85CZu887ZQMWrjj4vVulczM.jpg"
+    },
+    {
+      "nombre": "Susie Abromeit",
+      "personaje": "Mrs. Hardin",
+      "foto": "https://image.tmdb.org/t/p/w500/7tMmET3hW1q1l78jDvQJd4XQGlo.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James DeMonaco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sébastien K. Lemercier",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James DeMonaco",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jason Blum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brad Fuller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Bay",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Everardo Gout",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Andrew Form",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "James Moran",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Mike Gunther",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Edward Poveda",
+      "rol": "Payroll Accountant"
+    },
+    {
+      "nombre": "Timothy Fraley",
+      "rol": "Set Production Assistant"
+    },
+    {
+      "nombre": "Monica Mazel",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Louie Novoa",
+      "rol": "Choreographer"
+    },
+    {
+      "nombre": "Dnelle Almanza",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "James Moran",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Adam J. Kassel",
+      "rol": "Set Production Assistant"
+    },
+    {
+      "nombre": "Kendra Rasmussen",
+      "rol": "Assistant Production Coordinator"
+    },
+    {
+      "nombre": "Ernesto Sandoval",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Liz Briseno",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Everardo Gout",
+  "valoraciones": {
+    "tmdb": 6.857,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Blumhouse Productions",
+  "enlace_video": "https://1a-1791.com/video/s8/2/f/7/h/a/f7haq.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=f3XbMyXuEGE"
+}
