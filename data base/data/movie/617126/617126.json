@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 617126,
+  "poster": "https://image.tmdb.org/t/p/w500/lESwYExnRVCDscOmdvklWxZgWUp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/zNJ0SoPc4ReFx8nrBLgbisNaNbx.png",
+  "titulo": "Los 4 Fantásticos: Primeros pasos",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Aventura",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.958,
+  "año": "2025",
+  "duracion": "2h 10min",
+  "edad_minima": 13,
+  "sinopsis": "Con un estruendoso trasfondo en un mundo retrofuturista inspirado en los años 60, la Primera Familia de Marvel enfrenta su desafío más intimidante hasta ahora. Obligados a equilibrar sus roles como héroes con la fuerza de su vínculo familiar, deben defender la Tierra de un voraz dios espacial llamado Galactus y su enigmático heraldo, Silver Surfer.",
+  "fecha_estreno": "2025-07-23",
+  "titulo_original": "The Fantastic 4: First Steps",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Pedro Pascal",
+      "personaje": "Reed Richards / Mister Fantastic",
+      "foto": "https://image.tmdb.org/t/p/w500/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+      "nombre": "Vanessa Kirby",
+      "personaje": "Sue Storm / Invisible Woman",
+      "foto": "https://image.tmdb.org/t/p/w500/tViEEsjvbhrJxWsOipUqIYjdHEb.jpg"
+    },
+    {
+      "nombre": "Ebon Moss-Bachrach",
+      "personaje": "Ben Grimm / The Thing",
+      "foto": "https://image.tmdb.org/t/p/w500/xD8GVNayMpiTZxLfahy2DseYcQq.jpg"
+    },
+    {
+      "nombre": "Joseph Quinn",
+      "personaje": "Johnny Storm / Human Torch",
+      "foto": "https://image.tmdb.org/t/p/w500/zshhuioZaH8S5ZKdMcojzWi1ntl.jpg"
+    },
+    {
+      "nombre": "Ralph Ineson",
+      "personaje": "Galactus",
+      "foto": "https://image.tmdb.org/t/p/w500/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+    },
+    {
+      "nombre": "Julia Garner",
+      "personaje": "Shalla-Bal / Silver Surfer",
+      "foto": "https://image.tmdb.org/t/p/w500/gpLpOBoHz5VF1IZhfWQNqJvDTWp.jpg"
+    },
+    {
+      "nombre": "Paul Walter Hauser",
+      "personaje": "Harvey Elder / Mole Man",
+      "foto": "https://image.tmdb.org/t/p/w500/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
+    },
+    {
+      "nombre": "Natasha Lyonne",
+      "personaje": "Rachel Rozman",
+      "foto": "https://image.tmdb.org/t/p/w500/2QJoTBEIeYyjGSDot9qxv2ayPH3.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Matt Shakman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eric Pearson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jeff Kaplan",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ian Springer",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Kat Wood",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Josh Friedman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Eric Pearson",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alexandra Byrne",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Kasra Farahani",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jess Hall",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jason Sweers",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Jeremy Simser",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Dan West",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Barrie Gower",
+      "rol": "Prosthetic Designer"
+    },
+    {
+      "nombre": "Michael Giacchino",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jille Azis",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "John Casali",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Alistair Williams",
+      "rol": "Special Effects Supervisor"
+    }
+  ],
+  "director": "Matt Shakman",
+  "valoraciones": {
+    "tmdb": 6.958,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/oxe5t2c79w1u",
+  "trailer": "https://www.youtube.com/watch?v=LJa5wv93YGM"
+}
