@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 969681,
+  "poster": "https://image.tmdb.org/t/p/w500/GUVYjqDLWy61q9hDYiV9M5UEJe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/fyaOQR7bgacK0BQNgEBDeIHdKhE.png",
+  "titulo": "Spider-Man: Un nuevo día",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.983,
+  "año": "2026",
+  "duracion": "2h 25min",
+  "edad_minima": 13,
+  "sinopsis": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.",
+  "fecha_estreno": "2026-07-28",
+  "titulo_original": "Spider-Man: Brand New Day",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Holland",
+      "personaje": "Peter Parker / Spider-Man",
+      "foto": "https://image.tmdb.org/t/p/w500/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+    },
+    {
+      "nombre": "Zendaya",
+      "personaje": "MJ",
+      "foto": "https://image.tmdb.org/t/p/w500/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+      "nombre": "Sadie Sink",
+      "personaje": "Jean Grey",
+      "foto": "https://image.tmdb.org/t/p/w500/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
+    },
+    {
+      "nombre": "Jacob Batalon",
+      "personaje": "Ned Leeds",
+      "foto": "https://image.tmdb.org/t/p/w500/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    },
+    {
+      "nombre": "Jon Bernthal",
+      "personaje": "Frank Castle / Punisher",
+      "foto": "https://image.tmdb.org/t/p/w500/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
+    },
+    {
+      "nombre": "Tramell Tillman",
+      "personaje": "Bill Metzger",
+      "foto": "https://image.tmdb.org/t/p/w500/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+    },
+    {
+      "nombre": "Michael Mando",
+      "personaje": "Mac Gargan",
+      "foto": "https://image.tmdb.org/t/p/w500/gvM2wG66bjEpiirdeQdyG9EzUfv.jpg"
+    },
+    {
+      "nombre": "Mark Ruffalo",
+      "personaje": "Bruce Banner / Hulk",
+      "foto": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Amy Pascal",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Destin Daniel Cretton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Erik Sommers",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Chris McKenna",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Rachel O'Connor",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Sarah Halley Finn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Steve Ditko",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Steve Ditko",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Peng Zhang",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Peng Zhang",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Jonathan Spencer",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Alistair Williams",
+      "rol": "Special Effects Supervisor"
+    },
+    {
+      "nombre": "Dave Jordan",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Tracey Wilson",
+      "rol": "Storyboard Artist"
+    }
+  ],
+  "director": "Destin Daniel Cretton",
+  "valoraciones": {
+    "tmdb": 7.983,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/sumozwmrr84l",
+  "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU"
+}
