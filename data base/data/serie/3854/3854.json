@@ -1,0 +1,102 @@
+{
+  "id_tmdb": 3854,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/957mnVq6w3xIZwhO1isb4RWPatr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fypGcrQCyb9vQ7L8AM6PHCjQSBC.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/6BTbnBKWJZIV0cG39OxdTPORw2B.png",
+  "titulo": "El Espectacular Hombre-Araña",
+  "titulo_original": "The Spectacular Spider-Man",
+  "fecha_estreno": "2008-03-08",
+  "duracion": "22min",
+  "año": "2008",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Kids",
+    "Familia"
+  ],
+  "puntuacion": 8.6,
+  "sinopsis": "La décima serie de televisión sobre Spiderman recoge la mitología sobre el original lanza telarañas al principio de su aventura como héroe, como un joven algo especial de 16 años que inicia sus estudios de secundaria. Habiendo pasado el verano luchando contra criminales comunes con sus recién encontrados poderes, Peter Parker debe guardar su identidad secreta y enfrentarse a los nuevos super-villanos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Josh Keaton",
+      "personaje": "Peter Parker / Spider Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9ss2EXbN0VarF1tM2Qotwxy6fJs.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Craig Kyle",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joshua Fine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric S. Rollman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Greg Weisman",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "José Zelaya",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Craig Kyle",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joshua Fine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric S. Rollman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kristopher Carter",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Michael McCuistion",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Lolita Ritmanis",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jamie Thomason",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Greg Weisman",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.6,
+    "imdb": "tt0976192",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=wkbKbeEEr0s"
+}
