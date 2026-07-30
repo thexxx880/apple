@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 83095,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/yX0d6aTjHrE5Sjp6gZ1dkPWCmIF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ygJ9BOiLwExwFdxQeZiiUA6TqME.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/z70hnNCbSaI9cNuTGI3iOLQ37mn.png",
+  "titulo": "El ascenso del héroe del escudo",
+  "titulo_original": "盾の勇者の成り上がり",
+  "fecha_estreno": "2019-01-09",
+  "duracion": "24min",
+  "año": "2019",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "puntuacion": 8.474,
+  "sinopsis": "Un apasionado de los videojuegos viaja mágicamente a un universo paralelo en el que lo eligen para ser uno de los cuatro héroes destinados a salvar al mundo de la destrucción.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "石川界人",
+      "personaje": "Naofumi Iwatani (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
+    },
+    {
+      "nombre": "瀬戸麻沙美",
+      "personaje": "Raphtalia (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iKKCPgKrNd4pJ0iBOC1SBZy2Y4Y.jpg"
+    },
+    {
+      "nombre": "日高里菜",
+      "personaje": "Filo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7JupZGvqcq4dRxiTKpPxzg8NUS4.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "笠原周造",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "星野歩",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "田中智則",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "飯塚彩",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Masashi Hirayama",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "木村天",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "笠原周造",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "星野歩",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "田中智則",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "東潤一",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "hydekick",
+      "rol": "2D Artist"
+    },
+    {
+      "nombre": "池田未歩",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "江間常高",
+      "rol": "Compositing Supervisor"
+    },
+    {
+      "nombre": "山岸歩奈実",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Alfredo Sirica",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Natalie Jeffreys",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "飯塚彩",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Masashi Hirayama",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "木村天",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "佐野貢一",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Taiga Shimizu",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.474,
+    "imdb": "tt9529546",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=rKnyi3TRznA"
+}
