@@ -1,0 +1,110 @@
+{
+  "id_tmdb": 72705,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/dKdcyyHUR5WTMnrbPdYN5y9xPVp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qDum1yhNftUMaIB3pPiZ7PLsIto.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7aDgcYCGQGypusA0OMMUSMzXzZ4.png",
+  "titulo": "Spider-Man de Marvel",
+  "titulo_original": "Marvel's Spider-Man",
+  "fecha_estreno": "2017-08-19",
+  "duracion": "21min",
+  "año": "2017",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 7.5,
+  "sinopsis": "Un adolescente inseguro pero valiente e inteligente llamado Peter Parker, un nuevo estudiante de Midtown High, es mordido por una araña radiactiva y se le otorgan poderes. Se convierte en un héroe llamado Spider-Man después de la muerte de su tío y debe adaptarse a esta nueva forma de vida.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Robbie Daymond",
+      "personaje": "Peter Parker / Spider-Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1Wu13TUN1FiTOx6K7nIDQo63SAX.jpg"
+    },
+    {
+      "nombre": "Nadji Jeter",
+      "personaje": "Miles Morales (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cG48MotQHIvqIe6Vz82TiXXWFDz.jpg"
+    },
+    {
+      "nombre": "Fred Tatasciore",
+      "personaje": "Max Modell (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    },
+    {
+      "nombre": "Laura Bailey",
+      "personaje": "Gwen Stacy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xrq33v9N78hhmApcfkoYx0TAw1A.jpg"
+    },
+    {
+      "nombre": "Melanie Minichino",
+      "personaje": "Anya Corazon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/avh6oLRCYxd8tjnbdSnd7Nqfcvk.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joe Quesada",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeph Loeb",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alan Fine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Buckley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joe Quesada",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jeph Loeb",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alan Fine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Tyler",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Dan Buckley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.5,
+    "imdb": "tt6135682",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney, Marvel",
+  "trailer": "https://www.youtube.com/watch?v=X814eTVbEyI"
+}
