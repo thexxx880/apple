@@ -1,0 +1,89 @@
+{
+  "id_tmdb": 66053,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jptkb9j1A1qVIB7XDH7xSFrkFzD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fjCymH4xdWonDJEXBqLRLKsmKCs.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/s7Cmemu0wt1aXbr3hjuE5Pld0KX.png",
+  "titulo": "Berserk",
+  "titulo_original": "ベルセルク",
+  "fecha_estreno": "2016-07-01",
+  "duracion": "24min",
+  "año": "2016",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.43,
+  "sinopsis": "Impulsado por la llama que arde en su corazón, Black Swordsman Guts continúa su aparentemente interminable búsqueda de venganza. En su camino se encuentra atroces forajidos, espíritus malignos delirantes y un devoto hijo de dios. Incluso mientras destruye su vida, Guts continúa luchando contra sus enemigos, que ejercen un poder repulsivo e inhumano, con nada más que su cuerpo, espada y su fuerza como humano.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "岩永洋昭",
+      "personaje": "Guts (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gxN0xt0JSWNMBYhoTa3W9PQ3Qcd.jpg"
+    },
+    {
+      "nombre": "行成とあ",
+      "personaje": "Casca (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aR11JLaHVeTM1RgGULsU9zIiaZs.jpg"
+    },
+    {
+      "nombre": "水原薫",
+      "personaje": "Puck (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wdaBFaG1Lwx85b9MvbdqymWQdqA.jpg"
+    },
+    {
+      "nombre": "Yôko Hikasa",
+      "personaje": "Farnese (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg"
+    },
+    {
+      "nombre": "興津和幸",
+      "personaje": "Serpico (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vgyaK5dAxhvzAi6LJM3ZyaJd4mJ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "田村ゆり",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "鷺巣詩郎",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "三浦建太郎",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "阿部恒",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "山上愛子",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "板垣伸",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "深見真",
+      "rol": "Series Composition"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.43,
+    "imdb": "tt5847454",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=2LjExEgg9Xw"
+}
