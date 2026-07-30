@@ -1,0 +1,114 @@
+{
+  "id_tmdb": 34391,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/91hqeylCZsMLfcBuuflaVJ5w2nm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dsLflWrkUpWLbvhYxGKHV0zrK7U.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/h6x7WuVPKWPz4LipkeoB3vePOhu.png",
+  "titulo": "Ultimate Spider-Man",
+  "titulo_original": "Marvel's Ultimate Spider-Man",
+  "fecha_estreno": "2012-04-01",
+  "duracion": "21min",
+  "año": "2012",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.685,
+  "sinopsis": "Peter Parker ha sido Spider-Man durante tan sólo un año, él ha salvado las vidas de muchos ciudadanos de Nueva York y a luchado contra varios supervillanos, pero aún está en el proceso de aprender a ser un héroe. Nick Fury le ofrece a Spider-Man la oportunidad de entrenar y trabajar para S.H.I.E.L.D.. Durante la serie te muestran el desarrollo del personaje y su lucha contra el crimen a lado de un equipo de superhéroes locales, los cuales al igual que Spider-Man son contactados por S.H.I.E.L.D. estos superhéroes son Power Man, Nova (Sam Alexander), White Tiger / Ava Ayala y Puño de Hierro.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Drake Bell",
+      "personaje": "Peter Parker / Spider-Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6KxFiHrqiniS3oxV4NCz0sYNTuo.jpg"
+    },
+    {
+      "nombre": "Misty Lee",
+      "personaje": "Aunt May Parker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wftoOAJvHYYuBOI0TjMfudxTnr0.jpg"
+    },
+    {
+      "nombre": "J.K. Simmons",
+      "personaje": "J. Jonah Jameson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+      "nombre": "Chi McBride",
+      "personaje": "Nick Fury (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cesCeJZ5gSywA9lTYReB5uhkfek.jpg"
+    },
+    {
+      "nombre": "Ogie Banks",
+      "personaje": "Luke Cage / Power Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/upoI7qDPU4j7Q2WaddinquaTzrM.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Leanne Moreau",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Buckley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeph Loeb",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alan Fine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Joe Quesada",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Leanne Moreau",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Manthei",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Dan Buckley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeph Loeb",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alan Fine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Joe Quesada",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.685,
+    "imdb": "tt1722512",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney, Marvel",
+  "trailer": "https://www.youtube.com/watch?v=nyMKJcnWh4k"
+}
