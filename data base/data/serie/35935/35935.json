@@ -1,0 +1,96 @@
+{
+  "id_tmdb": 35935,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/b2BK6kVTBmf3aDFs8VI6sKAu2wY.png",
+  "titulo": "Berserk",
+  "titulo_original": "剣風伝奇ベルセルク",
+  "fecha_estreno": "1997-10-08",
+  "duracion": "23min",
+  "año": "1997",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Animación"
+  ],
+  "puntuacion": 8.49,
+  "sinopsis": "Gatsu es un guerrero cuya vida no ha sido fácil: nació de una madre muerta, y al ser adoptado por el inflexible Gambino fue obligado a trabajar como mercenario para sobrevivir.\n\nSin embargo, tras su ingreso en la Cuadrilla del Halcón, una banda de mercenarios invencibles dirigidos por el misterioso Griffit, Gatsu parece haber encontrado su lugar... aunque fuera en el campo de batalla. Pero las circunstancias, los giros del destino y los inflexibles sueños de Griffit provocarán más de un derramamiento de sangre...",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Nobutoshi Canna",
+      "personaje": "Guts (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oYexnQo5k8MY2iYztDlr403H8rx.jpg"
+    },
+    {
+      "nombre": "森川智之",
+      "personaje": "Griffith (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hrzGBe4nokgkBNFekNo5hlXB2Bv.jpg"
+    },
+    {
+      "nombre": "宮村優子",
+      "personaje": "Casca (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lVxXWzREWxixZ51EK4gmz9LqCV9.jpg"
+    },
+    {
+      "nombre": "西村朋紘",
+      "personaje": "Corkus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3HggFRB2LO1GpfITnBGsT5pknzv.jpg"
+    },
+    {
+      "nombre": "石塚運昇",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "小林七郎",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "平沢進",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "松原徳弘",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "馬越嘉彦",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "辺見俊夫",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "吉田光伸",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "高橋ナオヒト",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "三浦建太郎",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "今川泰宏",
+      "rol": "Other"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.49,
+    "imdb": "tt0318871",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=odIwkGztmcc"
+}
