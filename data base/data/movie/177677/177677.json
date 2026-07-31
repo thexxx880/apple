@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 177677,
+  "poster": "https://image.tmdb.org/t/p/w500/q5twcJdIx9Swtl7CyzfvgQckWVK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vYIUN5rrCncHFY8WvcuXQlM4hk5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6NmUcfuRfzHaSnS1SEZc6g27q4A.png",
+  "titulo": "Misión Imposible 5: Nación Secreta",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.225,
+  "año": "2015",
+  "duracion": "2h 11min",
+  "edad_minima": 13,
+  "sinopsis": "Ethan y su equipo se enfrentan a su misión más imposible hasta el momento cuando tienen que erradicar una organización internacional de delincuentes tan hábil como ellos y comprometida con la destrucción del FMI.",
+  "fecha_estreno": "2015-07-28",
+  "titulo_original": "Mission: Impossible - Rogue Nation",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Cruise",
+      "personaje": "Ethan Hunt",
+      "foto": "https://image.tmdb.org/t/p/w500/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+      "nombre": "Jeremy Renner",
+      "personaje": "William Brandt",
+      "foto": "https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+    },
+    {
+      "nombre": "Simon Pegg",
+      "personaje": "Benji Dunn",
+      "foto": "https://image.tmdb.org/t/p/w500/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
+    },
+    {
+      "nombre": "Rebecca Ferguson",
+      "personaje": "Ilsa Faust",
+      "foto": "https://image.tmdb.org/t/p/w500/ty8ZPzaCBBlqIr5qzpOXI24iC8j.jpg"
+    },
+    {
+      "nombre": "Ving Rhames",
+      "personaje": "Luther Stickell",
+      "foto": "https://image.tmdb.org/t/p/w500/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+      "nombre": "Sean Harris",
+      "personaje": "Lane",
+      "foto": "https://image.tmdb.org/t/p/w500/jouyaTu0UuZMNBrADRRkCQX1VX1.jpg"
+    },
+    {
+      "nombre": "Simon McBurney",
+      "personaje": "Atlee",
+      "foto": "https://image.tmdb.org/t/p/w500/h0J9UH1g1C0c8T8x1mjvfUv5X5f.jpg"
+    },
+    {
+      "nombre": "张静初",
+      "personaje": "Lauren",
+      "foto": "https://image.tmdb.org/t/p/w500/nQdau9zu3e91AZZv471hKBnjIHo.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Christopher McQuarrie",
+      "rol": "Director"
+    },
+    {
+      "nombre": "J.J. Abrams",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Ellison",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Cruise",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bryan Burk",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Drew Pearce",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Christopher McQuarrie",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Don Granger",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Leopold Hughes",
+      "rol": "Post Production Assistant"
+    },
+    {
+      "nombre": "Lalo Schifrin",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Bruce Geller",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "David Appleby",
+      "rol": "Key Grip"
+    },
+    {
+      "nombre": "Mindy Marin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Lucinda Syson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Eddie Hamilton",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Robert Elswit",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Joe Kraemer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Simon Changer",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "James D. Bissell",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Joanna Johnston",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "Christopher McQuarrie",
+  "valoraciones": {
+    "tmdb": 7.225,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/6x6076/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=HX3CkwBvOGI"
+}
