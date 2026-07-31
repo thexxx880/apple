@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 575265,
+  "poster": "https://image.tmdb.org/t/p/w500/mKK7cVNg4mQmKl0Qry9fvr5AqP7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/q7R1iTKFhYAevIj2ODUTPsFg4G8.png",
+  "titulo": "Misión: Imposible - La sentencia final",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.2,
+  "año": "2025",
+  "duracion": "2h 50min",
+  "edad_minima": 13,
+  "sinopsis": "La Entidad, la IA experimental que se ha convertido en el villano de la historia, sigue activa y cuenta con el apoyo del malvado Gabriel en el mundo de los cárnicos. Por suerte, Ethan y su equipo tienen la llave que les podría dar el control de la Entidad, algo que les obligará a arriesgarse para eliminar a esa IA que descansa en el fondo del mar.",
+  "fecha_estreno": "2025-05-17",
+  "titulo_original": "Mission: Impossible - The Final Reckoning",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Cruise",
+      "personaje": "Ethan Hunt",
+      "foto": "https://image.tmdb.org/t/p/w500/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+      "nombre": "Hayley Atwell",
+      "personaje": "Grace",
+      "foto": "https://image.tmdb.org/t/p/w500/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+    },
+    {
+      "nombre": "Ving Rhames",
+      "personaje": "Luther Stickell",
+      "foto": "https://image.tmdb.org/t/p/w500/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+      "nombre": "Simon Pegg",
+      "personaje": "Benji Dunn",
+      "foto": "https://image.tmdb.org/t/p/w500/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
+    },
+    {
+      "nombre": "Esai Morales",
+      "personaje": "Gabriel",
+      "foto": "https://image.tmdb.org/t/p/w500/cNYciYzUzxraGlw0BPql1QePi5H.jpg"
+    },
+    {
+      "nombre": "Pom Klementieff",
+      "personaje": "Paris",
+      "foto": "https://image.tmdb.org/t/p/w500/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+    },
+    {
+      "nombre": "Henry Czerny",
+      "personaje": "Kittridge",
+      "foto": "https://image.tmdb.org/t/p/w500/zOWZzRmliKf9032IOOq0a3jXhVv.jpg"
+    },
+    {
+      "nombre": "Holt McCallany",
+      "personaje": "Serling",
+      "foto": "https://image.tmdb.org/t/p/w500/xHnvYcJv6YEku9pIg8LoDNHWQy.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jake Myers",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher McQuarrie",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher McQuarrie",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Erik Jendresen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tom Cruise",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher McQuarrie",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bruce Geller",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "Lalo Schifrin",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Tom Weaving",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Matthew Gray",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Raffaella Giovannetti",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Chris Munro",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Lloyd Dudley",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Rebecca Sheridan",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Gary Freeman",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Cecelia van Straaten",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Matt Sharp",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Don Granger",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Christopher McQuarrie",
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://hglink.to/e/umke9vpnmzdn",
+  "trailer": "https://www.youtube.com/watch?v=G1VBfMCZVkw"
+}
