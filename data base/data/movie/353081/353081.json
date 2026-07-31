@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 353081,
+  "poster": "https://image.tmdb.org/t/p/w500/d9UfJwY5jwdS9rB7hhhwYIEu0Vb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3IzR3VhZAyhxVnuRRUHFLkfK4hT.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/49BHz6Yik2BWtZBxk2XQx7LfQQz.png",
+  "titulo": "Misión Imposible 6: Repercusión",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.451,
+  "año": "2018",
+  "duracion": "2h 27min",
+  "edad_minima": 13,
+  "sinopsis": "Ethan Hunt y su equipo del FMI, junto con algunos aliados conocidos, corren contrarreloj tras una misión que salió mal.",
+  "fecha_estreno": "2018-07-25",
+  "titulo_original": "Mission: Impossible - Fallout",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Cruise",
+      "personaje": "Ethan Hunt",
+      "foto": "https://image.tmdb.org/t/p/w500/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+      "nombre": "Henry Cavill",
+      "personaje": "August Walker",
+      "foto": "https://image.tmdb.org/t/p/w500/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+    },
+    {
+      "nombre": "Ving Rhames",
+      "personaje": "Luther Stickell",
+      "foto": "https://image.tmdb.org/t/p/w500/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+      "nombre": "Simon Pegg",
+      "personaje": "Benji Dunn",
+      "foto": "https://image.tmdb.org/t/p/w500/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
+    },
+    {
+      "nombre": "Rebecca Ferguson",
+      "personaje": "Ilsa Faust",
+      "foto": "https://image.tmdb.org/t/p/w500/ty8ZPzaCBBlqIr5qzpOXI24iC8j.jpg"
+    },
+    {
+      "nombre": "Sean Harris",
+      "personaje": "Solomon Lane",
+      "foto": "https://image.tmdb.org/t/p/w500/jouyaTu0UuZMNBrADRRkCQX1VX1.jpg"
+    },
+    {
+      "nombre": "Angela Bassett",
+      "personaje": "Erika Sloane",
+      "foto": "https://image.tmdb.org/t/p/w500/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+    },
+    {
+      "nombre": "Vanessa Kirby",
+      "personaje": "The White Widow",
+      "foto": "https://image.tmdb.org/t/p/w500/tViEEsjvbhrJxWsOipUqIYjdHEb.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Christopher McQuarrie",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "J.J. Abrams",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Cruise",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher McQuarrie",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Ellison",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Raphaël Benoliel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bryan Burk",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sarah Mooney",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Peter Burgis",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Glen Gathard",
+      "rol": "Foley Mixer"
+    },
+    {
+      "nombre": "Sylvia Atkins",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Louise Young",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Rose Crocker",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Sarah Monzani",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Alice Moore",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Jacqueline Rathore",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Lalo Schifrin",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Bruce Geller",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "Lorne Balfe",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Christopher McQuarrie",
+  "valoraciones": {
+    "tmdb": 7.451,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/6x614u/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=MEOOas3JZt0"
+}
