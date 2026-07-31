@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 18785,
+  "poster": "https://image.tmdb.org/t/p/w500/kZaaJQEi7n3mrBct1H3l2g45Ijb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ciErZtCdboxyCjJxf468krLNRjX.png",
+  "titulo": "¿Qué Pasó Ayer?",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.337,
+  "año": "2009",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "El novio y tres amigos organizan una despedida de soltero en Las Vegas. Como era de esperar, a la mañana siguiente tienen una resaca tan monumental que no pueden recordar nada de lo ocurrido la noche anterior. Lo más extraordinario es que el novio ha desaparecido y en la suite del hotel se encuentran un tigre y un bebé.",
+  "fecha_estreno": "2009-06-02",
+  "titulo_original": "The Hangover",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Bradley Cooper",
+      "personaje": "Phil Wenneck",
+      "foto": "https://image.tmdb.org/t/p/w500/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
+    },
+    {
+      "nombre": "Ed Helms",
+      "personaje": "Stu Price",
+      "foto": "https://image.tmdb.org/t/p/w500/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    },
+    {
+      "nombre": "Zach Galifianakis",
+      "personaje": "Alan Garner",
+      "foto": "https://image.tmdb.org/t/p/w500/ncBSLoNUufKpg7vzx1gCtjhst8i.jpg"
+    },
+    {
+      "nombre": "Justin Bartha",
+      "personaje": "Doug Billings",
+      "foto": "https://image.tmdb.org/t/p/w500/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
+    },
+    {
+      "nombre": "Heather Graham",
+      "personaje": "Jade",
+      "foto": "https://image.tmdb.org/t/p/w500/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
+    },
+    {
+      "nombre": "Sasha Barrese",
+      "personaje": "Tracy Garner",
+      "foto": "https://image.tmdb.org/t/p/w500/4SGcSiC46h86mdChDj0taF5eHSl.jpg"
+    },
+    {
+      "nombre": "Jeffrey Tambor",
+      "personaje": "Sid Garner",
+      "foto": "https://image.tmdb.org/t/p/w500/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+    },
+    {
+      "nombre": "Ken Jeong",
+      "personaje": "Mr. Chow",
+      "foto": "https://image.tmdb.org/t/p/w500/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Daniel Goldberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Todd Phillips",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Todd Phillips",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jon Lucas",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Scott Moore",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Scott Budnick",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Bender",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bill Brzeski",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Christophe Beck",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Debra Neil-Fisher",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Juel Bestrop",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Lawrence Sher",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jon Jashni",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "William Fay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "J.C. Spink",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thomas Tull",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Seth Yanklewitz",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Todd Phillips",
+  "valoraciones": {
+    "tmdb": 7.337,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Legendary Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/m4q8d5g9kyd5",
+  "trailer": "https://www.youtube.com/watch?v=tlize92ffnY"
+}
