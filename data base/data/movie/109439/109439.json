@@ -1,0 +1,151 @@
+{
+  "id_tmdb": 109439,
+  "poster": "https://image.tmdb.org/t/p/w500/1goOfrB3ZRnoJenHHIDqiskMi9q.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/o8ZS811VjYbBi4pRYwILLdWCVey.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/pVBLvL9K5dIKvhK376iO74agvz8.png",
+  "titulo": "¿Qué Pasó Ayer? Parte III",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.213,
+  "año": "2013",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Tras la inesperada muerte de su padre, Alan es llevado por sus amigos Phil, Stu y Doug a un centro especializado para que mejore. Esta vez no hay boda ni fiesta de despedida, pues que cuando estos chicos salen a la carretera, y sobre todo cuando aparece Chow… la suerte está echada.",
+  "fecha_estreno": "2013-05-23",
+  "titulo_original": "The Hangover Part III",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Bradley Cooper",
+      "personaje": "Phil Wenneck",
+      "foto": "https://image.tmdb.org/t/p/w500/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
+    },
+    {
+      "nombre": "Ed Helms",
+      "personaje": "Stu Price",
+      "foto": "https://image.tmdb.org/t/p/w500/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    },
+    {
+      "nombre": "Zach Galifianakis",
+      "personaje": "Alan Garner",
+      "foto": "https://image.tmdb.org/t/p/w500/ncBSLoNUufKpg7vzx1gCtjhst8i.jpg"
+    },
+    {
+      "nombre": "Justin Bartha",
+      "personaje": "Doug Billings",
+      "foto": "https://image.tmdb.org/t/p/w500/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
+    },
+    {
+      "nombre": "Ken Jeong",
+      "personaje": "Mr. Chow",
+      "foto": "https://image.tmdb.org/t/p/w500/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
+    },
+    {
+      "nombre": "John Goodman",
+      "personaje": "Marshall",
+      "foto": "https://image.tmdb.org/t/p/w500/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+    },
+    {
+      "nombre": "Melissa McCarthy",
+      "personaje": "Cassie",
+      "foto": "https://image.tmdb.org/t/p/w500/yl0qva0O4u92fvtItakdvKmKrW9.jpg"
+    },
+    {
+      "nombre": "Jeffrey Tambor",
+      "personaje": "Sid Garner",
+      "foto": "https://image.tmdb.org/t/p/w500/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Todd Phillips",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Daniel Goldberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Todd Phillips",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Craig Mazin",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Todd Phillips",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Scott Moore",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jon Lucas",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christopher Allen Nelson",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Christophe Beck",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Thomas Tull",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lawrence Sher",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Scott Budnick",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeff Groth",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "J.C. Spink",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Janeen Schreyer",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Rebecca DeHerrera",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Keith Sayer",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Debra Neil-Fisher",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Louise Mingenbach",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "Todd Phillips",
+  "valoraciones": {
+    "tmdb": 6.213,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Green Hat Films",
+  "enlace_video": "https://gscdn.cam/video/embed/wss4lr164ns3",
+  "trailer": "https://www.youtube.com/watch?v=96TelFMZwHc"
+}
