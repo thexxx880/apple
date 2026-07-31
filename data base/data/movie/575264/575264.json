@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 575264,
+  "poster": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/oYqZ43RXHV4F9a8TTjMK29dF8iK.png",
+  "titulo": "Misión: Imposible - Sentencia mortal parte uno",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.504,
+  "año": "2023",
+  "duracion": "2h 44min",
+  "edad_minima": 13,
+  "sinopsis": "Ethan Hunt y su equipo del FMI, se embarcan en su misión más peligrosa hasta la fecha: localizar, antes de que caiga en las manos equivocadas, una nueva y terrorífica arma que amenaza a toda la humanidad. En esta tesitura, y con unas fuerzas oscuras del pasado de Ethan acechando, comienza una carrera mortal alrededor del mundo en la que está en juego el control del futuro y el destino del planeta. Enfrentado a un enemigo misterioso y todopoderoso, Ethan se ve obligado a considerar que nada puede anteponerse a su misión, ni siquiera las vidas de aquellos que más le importan.",
+  "fecha_estreno": "2023-07-08",
+  "titulo_original": "Mission: Impossible - Dead Reckoning Part One",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Cruise",
+      "personaje": "Ethan Hunt",
+      "foto": "https://image.tmdb.org/t/p/w500/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+      "nombre": "Hayley Atwell",
+      "personaje": "Grace",
+      "foto": "https://image.tmdb.org/t/p/w500/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+    },
+    {
+      "nombre": "Ving Rhames",
+      "personaje": "Luther Stickell",
+      "foto": "https://image.tmdb.org/t/p/w500/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+      "nombre": "Simon Pegg",
+      "personaje": "Benji Dunn",
+      "foto": "https://image.tmdb.org/t/p/w500/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
+    },
+    {
+      "nombre": "Rebecca Ferguson",
+      "personaje": "Ilsa Faust",
+      "foto": "https://image.tmdb.org/t/p/w500/ty8ZPzaCBBlqIr5qzpOXI24iC8j.jpg"
+    },
+    {
+      "nombre": "Vanessa Kirby",
+      "personaje": "The White Widow",
+      "foto": "https://image.tmdb.org/t/p/w500/tViEEsjvbhrJxWsOipUqIYjdHEb.jpg"
+    },
+    {
+      "nombre": "Esai Morales",
+      "personaje": "Gabriel",
+      "foto": "https://image.tmdb.org/t/p/w500/cNYciYzUzxraGlw0BPql1QePi5H.jpg"
+    },
+    {
+      "nombre": "Pom Klementieff",
+      "personaje": "Paris",
+      "foto": "https://image.tmdb.org/t/p/w500/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Christopher McQuarrie",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Erik Jendresen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Christopher McQuarrie",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Cruise",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher McQuarrie",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tommy Gormley",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Mary Boulding",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Bradley J. Fischer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mindy Marin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Lorne Balfe",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Bruce Geller",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "Lalo Schifrin",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Chris Brock",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Chris Burdon",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Gina Hallas",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Mark Lambert Bristol",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Nick Degan",
+      "rol": "Unit Production Manager"
+    }
+  ],
+  "director": "Christopher McQuarrie",
+  "valoraciones": {
+    "tmdb": 7.504,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/mp2ppikehfw1",
+  "trailer": "https://www.youtube.com/watch?v=HurjfO_TDlQ"
+}
