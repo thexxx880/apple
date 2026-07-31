@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 955,
+  "poster": "https://image.tmdb.org/t/p/w500/mskE3W88cjMRrnKQye8pjmJu3O1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/24DZfupDlhXeTchmcOkoGRhP5Vg.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3jkbG2FwimAyPaVxpWCKdrCUMoj.png",
+  "titulo": "Misión: Imposible 2",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.143,
+  "año": "2000",
+  "duracion": "1h 58min",
+  "edad_minima": 13,
+  "sinopsis": "El agente del FMI Ethan Hunt es enviado a Sydney para encontrar y destruir una enfermedad genéticamente modificada llamada «Quimera».",
+  "fecha_estreno": "2000-05-24",
+  "titulo_original": "Mission: Impossible II",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Cruise",
+      "personaje": "Ethan Hunt",
+      "foto": "https://image.tmdb.org/t/p/w500/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+      "nombre": "Dougray Scott",
+      "personaje": "Sean Ambrose",
+      "foto": "https://image.tmdb.org/t/p/w500/3zkotNLAUzfT2GOQM2BMIfI3yTb.jpg"
+    },
+    {
+      "nombre": "Thandiwe Newton",
+      "personaje": "Nyah Hall",
+      "foto": "https://image.tmdb.org/t/p/w500/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+    },
+    {
+      "nombre": "Ving Rhames",
+      "personaje": "Luther Stickell",
+      "foto": "https://image.tmdb.org/t/p/w500/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+      "nombre": "Richard Roxburgh",
+      "personaje": "Hugh Stamp",
+      "foto": "https://image.tmdb.org/t/p/w500/de1XpxnOuW4v4fFWFEjmBqmHaRf.jpg"
+    },
+    {
+      "nombre": "John Polson",
+      "personaje": "Billy Baird",
+      "foto": "https://image.tmdb.org/t/p/w500/rsjpQFAvQSo05HflPSCODCCbYFl.jpg"
+    },
+    {
+      "nombre": "Brendan Gleeson",
+      "personaje": "McCloy",
+      "foto": "https://image.tmdb.org/t/p/w500/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    },
+    {
+      "nombre": "Rade Šerbedžija",
+      "personaje": "Dr. Nekhorvich",
+      "foto": "https://image.tmdb.org/t/p/w500/1mJC5oD3pLH1vAS3wJ4sGNxYeqJ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tom Cruise",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paula Wagner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Towne",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "吴宇森",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Brannon Braga",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ronald D. Moore",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Robert McCann",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Steven Kemper",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "R. Bruce Steinheimer",
+      "rol": "Special Effects Coordinator"
+    },
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ray Anthony",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Gregory Apps",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kevin Kavanaugh",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Richard Ratliff",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Jeffrey L. Kimball",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Nathan Crowley",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Lauri Gaffin",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Bryan Bowen",
+      "rol": "Sound Effects Editor"
+    }
+  ],
+  "director": "吴宇森",
+  "valoraciones": {
+    "tmdb": 6.143,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/6x5y4y/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=hSPtsCQq52k"
+}
