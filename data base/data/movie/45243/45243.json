@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 45243,
+  "poster": "https://image.tmdb.org/t/p/w500/dzaVnS19yDTkkGZRlf89sND75i7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aGmsekNU5cMOkJMpbdRutkvmVMl.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mM6EI8gdvfvNbh88qocOOuozjNo.png",
+  "titulo": "¿Qué Pasó Ayer? Parte II",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.513,
+  "año": "2011",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "El grupo viaja a Tailandia para la boda de Stu. Tras el desastre de su despedida de soltero en Las Vegas el año pasado, Stu prefiere ir a lo seguro con un tranquilo brunch preboda. Sin embargo, nada sale según lo planeado y Bangkok se convierte en el escenario perfecto para otra aventura con este grupo tan alocado.",
+  "fecha_estreno": "2011-05-25",
+  "titulo_original": "The Hangover Part II",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Bradley Cooper",
+      "personaje": "Phil Wenneck",
+      "foto": "https://image.tmdb.org/t/p/w500/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
+    },
+    {
+      "nombre": "Ed Helms",
+      "personaje": "Stu Price",
+      "foto": "https://image.tmdb.org/t/p/w500/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    },
+    {
+      "nombre": "Zach Galifianakis",
+      "personaje": "Alan Garner",
+      "foto": "https://image.tmdb.org/t/p/w500/ncBSLoNUufKpg7vzx1gCtjhst8i.jpg"
+    },
+    {
+      "nombre": "Justin Bartha",
+      "personaje": "Doug Billings",
+      "foto": "https://image.tmdb.org/t/p/w500/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
+    },
+    {
+      "nombre": "Mason Lee",
+      "personaje": "Teddy",
+      "foto": "https://image.tmdb.org/t/p/w500/zVJfscd1rBPCXOMnsqTmlohCo8i.jpg"
+    },
+    {
+      "nombre": "Ken Jeong",
+      "personaje": "Mr. Chow",
+      "foto": "https://image.tmdb.org/t/p/w500/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
+    },
+    {
+      "nombre": "Paul Giamatti",
+      "personaje": "Kingsley",
+      "foto": "https://image.tmdb.org/t/p/w500/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+    },
+    {
+      "nombre": "Jeffrey Tambor",
+      "personaje": "Sid Garner",
+      "foto": "https://image.tmdb.org/t/p/w500/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Todd Phillips",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Scot Armstrong",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Craig Mazin",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Todd Phillips",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Todd Phillips",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Daniel Goldberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jon Lucas",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Scott Moore",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christophe Beck",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Justine Arteta",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kim Davis-Wagner",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Louise Mingenbach",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Randall Poster",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "George Drakoulias",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "David Siegel",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jeffrey Wetzel",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Bill Brzeski",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Chris Bender",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "J.C. Spink",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Budnick",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Todd Phillips",
+  "valoraciones": {
+    "tmdb": 6.513,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Legendary Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/ttse8mc27jcy",
+  "trailer": "https://www.youtube.com/watch?v=ohF5ZO_zOYU"
+}
