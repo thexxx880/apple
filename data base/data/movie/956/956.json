@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 956,
+  "poster": "https://image.tmdb.org/t/p/w500/w61xBgFOfP8Z6uHKIKn1sl1TI8j.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bYKeB9uUcPmvikjouEEQ86uvPw9.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jVOxeAy3xkmRBsck2hozcnbkqdK.png",
+  "titulo": "Misión: Imposible 3",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.768,
+  "año": "2006",
+  "duracion": "2h 6min",
+  "edad_minima": 13,
+  "sinopsis": "El agente del FMI Ethan Hunt entra en conflicto con un peligroso y sádico traficante de armas que, en respuesta, amenaza su vida y la de su prometida.",
+  "fecha_estreno": "2006-04-25",
+  "titulo_original": "Mission: Impossible III",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Cruise",
+      "personaje": "Ethan Hunt",
+      "foto": "https://image.tmdb.org/t/p/w500/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+      "nombre": "Philip Seymour Hoffman",
+      "personaje": "Owen Davian",
+      "foto": "https://image.tmdb.org/t/p/w500/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+    },
+    {
+      "nombre": "Ving Rhames",
+      "personaje": "Luther",
+      "foto": "https://image.tmdb.org/t/p/w500/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+      "nombre": "Billy Crudup",
+      "personaje": "Musgrave",
+      "foto": "https://image.tmdb.org/t/p/w500/4kHvUUVFMW8GJTHJtoAiskqhcyO.jpg"
+    },
+    {
+      "nombre": "Michelle Monaghan",
+      "personaje": "Julia",
+      "foto": "https://image.tmdb.org/t/p/w500/uK1qhSzKd9gkDh3p1H5e2PWMYyH.jpg"
+    },
+    {
+      "nombre": "Jonathan Rhys Meyers",
+      "personaje": "Declan",
+      "foto": "https://image.tmdb.org/t/p/w500/RsrGA98aMmyjTTxTLhAaOqnfLz.jpg"
+    },
+    {
+      "nombre": "Keri Russell",
+      "personaje": "Lindsey Farris",
+      "foto": "https://image.tmdb.org/t/p/w500/ykURfUHObA2wnLCtD4jrdMvFPkA.jpg"
+    },
+    {
+      "nombre": "Maggie Q",
+      "personaje": "Zhen",
+      "foto": "https://image.tmdb.org/t/p/w500/1Z0A8axunWqZrskGkfANv6W5qCl.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "J.J. Abrams",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Roberto Orci",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tom Cruise",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "J.J. Abrams",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Alex Kurtzman",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Paula Wagner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Zhao Haicheng",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Scott Chambliss",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Colleen Atwood",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Daniel Sudick",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Karen Manthey",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Warren Hanneman",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Maryann Brandon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Wade Allen",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Mary Jo Markey",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "April Webster",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Stephen M. Davis",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Daniel Acon",
+      "rol": "Special Effects Coordinator"
+    },
+    {
+      "nombre": "Michael Giacchino",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "J.J. Abrams",
+  "valoraciones": {
+    "tmdb": 6.768,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/6x5zki/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=4oVva0muTE8"
+}
