@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 954,
+  "poster": "https://image.tmdb.org/t/p/w500/xCpmxw3UUjv4PGzbIPOHeoKAV0l.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xmEO3geekHkjfWSdcQaWDnSIpto.png",
+  "titulo": "Misión: Imposible",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.027,
+  "año": "1996",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Un agente estadounidense, bajo la falsa sospecha de deslealtad, debe descubrir y exponer al verdadero espía sin la ayuda de su organización.",
+  "fecha_estreno": "1996-05-22",
+  "titulo_original": "Mission: Impossible",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Cruise",
+      "personaje": "Ethan Hunt",
+      "foto": "https://image.tmdb.org/t/p/w500/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+      "nombre": "Jon Voight",
+      "personaje": "Jim Phelps",
+      "foto": "https://image.tmdb.org/t/p/w500/oxLsItDwLddXu8YYJCfkddYNejL.jpg"
+    },
+    {
+      "nombre": "Emmanuelle Béart",
+      "personaje": "Claire",
+      "foto": "https://image.tmdb.org/t/p/w500/9zMPQS68UDDahxJQH9ZRiNuWmjU.jpg"
+    },
+    {
+      "nombre": "Henry Czerny",
+      "personaje": "Kittridge",
+      "foto": "https://image.tmdb.org/t/p/w500/zOWZzRmliKf9032IOOq0a3jXhVv.jpg"
+    },
+    {
+      "nombre": "Jean Reno",
+      "personaje": "Krieger",
+      "foto": "https://image.tmdb.org/t/p/w500/mw0EZJYz3kiFq9fNxsML773gotF.jpg"
+    },
+    {
+      "nombre": "Ving Rhames",
+      "personaje": "Luther",
+      "foto": "https://image.tmdb.org/t/p/w500/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+      "nombre": "Kristin Scott Thomas",
+      "personaje": "Sarah Davies",
+      "foto": "https://image.tmdb.org/t/p/w500/axksw0vAjBPSW02ZqpcC0V8rPD7.jpg"
+    },
+    {
+      "nombre": "Vanessa Redgrave",
+      "personaje": "Max",
+      "foto": "https://image.tmdb.org/t/p/w500/hBsjc7cW1DA0V6APwe3A7ESH3Lv.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Brian De Palma",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Koepp",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Robert Towne",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Tom Cruise",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paula Wagner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steven Zaillian",
+      "rol": "Story"
+    },
+    {
+      "nombre": "David Koepp",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stephen H. Burum",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Paul Hirsch",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Norman Reynolds",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Penny Rose",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jiří Farkaš",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Ellen Segal",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Ian Wingrove",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Greg Powell",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Danny Elfman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Lalo Schifrin",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Bruce Geller",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "Kenneth Chamitoff",
+      "rol": "Extras Casting"
+    }
+  ],
+  "director": "Brian De Palma",
+  "valoraciones": {
+    "tmdb": 7.027,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://rumble.com/hls-vod/6x5y4y/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=L8Pbjh4EZRk"
+}
