@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 5550,
+  "poster": "https://image.tmdb.org/t/p/w500/nEPpCbdh5UKspPgaH57SFzFJYw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uxYlITKYX1x1lhMpYiH60Z8Udu8.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/r5ssi2Gq2qdDFb3PBUBQATcJC2E.png",
+  "titulo": "RoboCop 3",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 4.9,
+  "año": "1993",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "La corporación súper Omni Productos de consumo todavía está resuelta a crear su proyecto favorito, Ciudad del Delta, para sustituir la ciudad que se pudre de Detroit. Lamentablemente, los habitantes del área no tienen intención de abandonar sus casas simplemente para deseos de la compañía. A este final, OCP han decidido obligarlos a irse empleando a un ejército mercenario despiadado para atacarlos y acosarlos. Una resistencia subterránea comienza y en esta lucha, Robocop debe decidir donde su lealtad está.",
+  "fecha_estreno": "1993-01-21",
+  "titulo_original": "RoboCop 3",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Robert John Burke",
+      "personaje": "Robocop",
+      "foto": "https://image.tmdb.org/t/p/w500/uWEaY5gypb6cp1bdUYG4uCKw4sK.jpg"
+    },
+    {
+      "nombre": "Nancy Allen",
+      "personaje": "Anne Lewis",
+      "foto": "https://image.tmdb.org/t/p/w500/ok87WkvJJJTDsTzqgmoC5BHv6Wh.jpg"
+    },
+    {
+      "nombre": "Rip Torn",
+      "personaje": "The CEO",
+      "foto": "https://image.tmdb.org/t/p/w500/jP74MHyQl6R8mH7aZKHrrD2Qjj2.jpg"
+    },
+    {
+      "nombre": "John Castle",
+      "personaje": "McDaggett",
+      "foto": "https://image.tmdb.org/t/p/w500/bC2KfRuMflJTDegbLJYawM5t2fS.jpg"
+    },
+    {
+      "nombre": "Jill Hennessy",
+      "personaje": "Dr. Marie Lazarus",
+      "foto": "https://image.tmdb.org/t/p/w500/aKsMIyY7gro0rrowVj91grq6OeM.jpg"
+    },
+    {
+      "nombre": "CCH Pounder",
+      "personaje": "Bertha",
+      "foto": "https://image.tmdb.org/t/p/w500/yLOU0qA5MwJyoKMc0e4HyZz4oFV.jpg"
+    },
+    {
+      "nombre": "Mako",
+      "personaje": "Kanemitsu",
+      "foto": "https://image.tmdb.org/t/p/w500/x0dZQHKQOZ1ancuRw8slO3rAiPq.jpg"
+    },
+    {
+      "nombre": "Robert DoQui",
+      "personaje": "Sergeant Reed",
+      "foto": "https://image.tmdb.org/t/p/w500/uLQsWehFSYRn2LNfzT9fUjSRpkF.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Fred Dekker",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Frank Miller",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Patrick Crowley",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fred Dekker",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Frank Miller",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Edward Neumeier",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Basil Poledouris",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Steven Jacobs",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Gary B. Kibbe",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Bert Lovitt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Miner",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Mike Johnson",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Andrew G. La Marca",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Jane Bartelme",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Steven Lambert",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Hilda Stark",
+      "rol": "Production Designer"
+    },
+    {
+      "nombre": "Ha Nguyen",
+      "rol": "Costume Designer"
+    }
+  ],
+  "director": "Fred Dekker",
+  "valoraciones": {
+    "tmdb": 4.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Orion Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/kpbqpbrou4ih",
+  "trailer": "https://www.youtube.com/watch?v=VWBo9-YtSQs"
+}
