@@ -1,0 +1,130 @@
+{
+  "id_tmdb": 14011,
+  "poster": "https://image.tmdb.org/t/p/w500/AmaSvf4Muh0tERE6qNZZaiTN1Rr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aKQqtcdgFOQ1WsDi0g2FCtxMTnr.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vbetUAz1N0DhrzXrRrnTApYUxt8.png",
+  "titulo": "La Liga de la Justicia: La Nueva Frontera",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Animación",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.827,
+  "año": "2008",
+  "duracion": "1h 15min",
+  "edad_minima": 13,
+  "sinopsis": "Descubre los orígenes de La Liga de la Justicia. Extraños al principio, estos superhéroes deben superar el miedo y la sospecha para forjar una alianza contra un monstruo tan formidable, que incluso el poderoso Superman no puede detenerlo solo. Film basdo en el comic \"DC: THE NEW FRONTIER\", una miniserie de seis números escrita y dibujada por Darwin Cooke (ganadora de los premios Eisner, Harvey y Shuster), y publicada en EEUU en el 2003.",
+  "fecha_estreno": "2008-02-26",
+  "titulo_original": "Justice League: The New Frontier",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "David Boreanaz",
+      "personaje": "Hal Jordan / Green Lantern (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rxbKFajA7zIv4sUJUpGNBWXS7jM.jpg"
+    },
+    {
+      "nombre": "Miguel Ferrer",
+      "personaje": "J'onn J'onzz / Martian Manhunter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/n6VZ8OQmozHmnJQRwR55gBH8Tl0.jpg"
+    },
+    {
+      "nombre": "Neil Patrick Harris",
+      "personaje": "Barry Allen / The Flash (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
+    },
+    {
+      "nombre": "John Heard",
+      "personaje": "Ace Morgan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zjhcxrCFK4q0C1gtVmeN8FeqCw0.jpg"
+    },
+    {
+      "nombre": "Lucy Lawless",
+      "personaje": "Wonder Woman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7fYfVk6jtdCWuJEo9pEqc6O2JkD.jpg"
+    },
+    {
+      "nombre": "Kyle MacLachlan",
+      "personaje": "Superman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg"
+    },
+    {
+      "nombre": "Lex Lang",
+      "personaje": "Rick Flagg (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hrgjiwtrnI6meAg2Q1eTGpyTrDX.jpg"
+    },
+    {
+      "nombre": "Phil Morris",
+      "personaje": "King Faraday (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iZADKc1QdCFpTvu0KnU3BZBwtrE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Stan Berkowitz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dave Bullock",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Darwyn Cooke",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Stan Berkowitz",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gregory Noveck",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Goguen",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Kimberly Smith",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Bruce Timm",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Darwyn Cooke",
+      "rol": "Graphic Novel"
+    },
+    {
+      "nombre": "Sander Schwartz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Judge Plummer",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Elen Orson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Kevin Manthei",
+      "rol": "Music"
+    }
+  ],
+  "director": "Dave Bullock",
+  "valoraciones": {
+    "tmdb": 6.827,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/jhdx179tnlpm",
+  "trailer": "https://www.youtube.com/watch?v=HGoU6KOA9ZI"
+}
