@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 97020,
+  "poster": "https://image.tmdb.org/t/p/w500/2ej8wIzOYBgWQ5XlpeFulnkHAoI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xACuC5FwpCdayrcCsJPxYzrl8BO.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/i3twADDnmJ9JVwwmRkBFJjSIeLR.png",
+  "titulo": "RoboCop",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.885,
+  "año": "2014",
+  "duracion": "1h 53min",
+  "edad_minima": 13,
+  "sinopsis": "Año 2028. La compañía multinacional OmniCorp domina la tecnología robótica. Sus robots han ganado todo tipo de guerras fuera de los Estados Unidos y ahora quieren probarlos dentro del país. Por su parte, Alex Murphy, un policía de Detroit, trata de acabar con la ola de crímenes que arrasa la ciudad. Cuando Alex resulta gravemente herido en acto de servicio, OmniCorp utiliza sus conocimientos de ciencia robótica para salvarlo y también para dotarlo de extraordinarias habilidades que le permitirán afrontar problemas fuera de lo común.",
+  "fecha_estreno": "2014-01-30",
+  "titulo_original": "RoboCop",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Joel Kinnaman",
+      "personaje": "Alex Murphy / RoboCop",
+      "foto": "https://image.tmdb.org/t/p/w500/cVfYzTyQdJ4xtxKPZe7IcW3BJN4.jpg"
+    },
+    {
+      "nombre": "Gary Oldman",
+      "personaje": "Dr. Dennett Norton",
+      "foto": "https://image.tmdb.org/t/p/w500/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+    },
+    {
+      "nombre": "Michael Keaton",
+      "personaje": "Raymond Sellars",
+      "foto": "https://image.tmdb.org/t/p/w500/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+    },
+    {
+      "nombre": "Abbie Cornish",
+      "personaje": "Clara Murphy",
+      "foto": "https://image.tmdb.org/t/p/w500/AgIA8uPnwySIbqaPjr5jEXwZbS.jpg"
+    },
+    {
+      "nombre": "Jackie Earle Haley",
+      "personaje": "Rick Mattox",
+      "foto": "https://image.tmdb.org/t/p/w500/xDPeiyklN8f9Ilowsti4lGVbioj.jpg"
+    },
+    {
+      "nombre": "Michael Kenneth Williams",
+      "personaje": "Jack Lewis",
+      "foto": "https://image.tmdb.org/t/p/w500/mafEXtGlT1qYjGmZtbjo7Ep5qK3.jpg"
+    },
+    {
+      "nombre": "Jennifer Ehle",
+      "personaje": "Liz Kline",
+      "foto": "https://image.tmdb.org/t/p/w500/kMddVKineLFpxsUoGrb3E6edkOv.jpg"
+    },
+    {
+      "nombre": "Jay Baruchel",
+      "personaje": "Tom Pope",
+      "foto": "https://image.tmdb.org/t/p/w500/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "José Padilha",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Gary Barber",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marc Abraham",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eric Newman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joshua Zetumer",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Edward Neumeier",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Michael Miner",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Angelo Colavecchia",
+      "rol": "\"A\" Camera Operator"
+    },
+    {
+      "nombre": "Angelo Colavecchia",
+      "rol": "Steadicam Operator"
+    },
+    {
+      "nombre": "Russel Bowie",
+      "rol": "First Assistant \"A\" Camera"
+    },
+    {
+      "nombre": "Johnathan Holmes",
+      "rol": "Second Assistant \"A\" Camera"
+    },
+    {
+      "nombre": "Michael Carella",
+      "rol": "\"B\" Camera Operator"
+    },
+    {
+      "nombre": "Ciarán Copelin",
+      "rol": "First Assistant \"B\" Camera"
+    },
+    {
+      "nombre": "Andrew Lounsbury",
+      "rol": "Second Assistant \"B\" Camera"
+    },
+    {
+      "nombre": "Jasper Vrakking",
+      "rol": "Digital Imaging Technician"
+    },
+    {
+      "nombre": "Jay Du Boisson",
+      "rol": "Assistant Costume Designer"
+    },
+    {
+      "nombre": "Linda Dowds",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Krista Burbidge",
+      "rol": "Key Makeup Artist"
+    },
+    {
+      "nombre": "Vincent Sullivan",
+      "rol": "Hair Department Head"
+    }
+  ],
+  "director": "José Padilha",
+  "valoraciones": {
+    "tmdb": 5.885,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Metro-Goldwyn-Mayer",
+  "enlace_video": "https://gscdn.cam/video/embed/9s0x4imruyql",
+  "trailer": "https://www.youtube.com/watch?v=8KpSKzT-Fh0"
+}
