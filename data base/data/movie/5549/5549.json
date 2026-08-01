@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 5549,
+  "poster": "https://image.tmdb.org/t/p/w500/zFMP2SQ8YNuWIfYfMSxMQLFIqU9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cT0YCYCtAQC8wi56VWK1JRGgk3a.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/sBcxEtaSwEjdFgidcluLFYEiVZZ.png",
+  "titulo": "RoboCop 2",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.038,
+  "año": "1990",
+  "duracion": "1h 57min",
+  "edad_minima": 13,
+  "sinopsis": "Después de un despliegue exitoso de la unidad de la Aplicación de la ley Robocop, OCP ve su objetivo de la pacificación urbana venir más cerca y más cerca, pero ya que esto se desarrolla, un nuevo narcótico conocido ya que «la Bomba nuclear» invade las calles conducidas por la Caña del líder Delirante por Dios. Cuando esta amenaza crece, puede resultar ser demasiado para Murphy para manejarse. OCP trata de reproducir el éxito de la primera unidad, pero termina con prototipos fracasados con cuestiones suicidas... hasta el Dr. Faxx, un científico que se extravía lejos del camino del OCP, usa la Caña como el nuevo sujeto para el proyecto de Robocop 2, Dios vivo.",
+  "fecha_estreno": "1990-06-22",
+  "titulo_original": "RoboCop 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Peter Weller",
+      "personaje": "RoboCop",
+      "foto": "https://image.tmdb.org/t/p/w500/3xevrmofgDhXBqV0UzSLOgR3jkk.jpg"
+    },
+    {
+      "nombre": "Nancy Allen",
+      "personaje": "Officer Anne Lewis",
+      "foto": "https://image.tmdb.org/t/p/w500/ok87WkvJJJTDsTzqgmoC5BHv6Wh.jpg"
+    },
+    {
+      "nombre": "Tom Noonan",
+      "personaje": "Cain",
+      "foto": "https://image.tmdb.org/t/p/w500/8cwl9gaCr0F0yJ518nc6baebPLL.jpg"
+    },
+    {
+      "nombre": "Belinda Bauer",
+      "personaje": "Dr. Juliette Faxx",
+      "foto": "https://image.tmdb.org/t/p/w500/oVKC7AAYTwz60GPXSUP04i83iW6.jpg"
+    },
+    {
+      "nombre": "Willard E. Pugh",
+      "personaje": "Mayor Kuzak",
+      "foto": "https://image.tmdb.org/t/p/w500/w5NJlOOdmWpnALYp1b8wnSaK1L9.jpg"
+    },
+    {
+      "nombre": "Dan O'Herlihy",
+      "personaje": "The Old Man",
+      "foto": "https://image.tmdb.org/t/p/w500/vhZodGF9IiHdpbU78ShpyCgBr3X.jpg"
+    },
+    {
+      "nombre": "Felton Perry",
+      "personaje": "Donald Johnson",
+      "foto": "https://image.tmdb.org/t/p/w500/vHH6ciuv8Wc03iKqYTmz4TcWcnv.jpg"
+    },
+    {
+      "nombre": "Gabriel Damon",
+      "personaje": "Hob",
+      "foto": "https://image.tmdb.org/t/p/w500/3egsFiVNyHSVlMsgbwgDEinACTT.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Frank Miller",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Irvin Kershner",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Walon Green",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jon Davison",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Frank Miller",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Irwin",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Deborah Zeitman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Leonard Rosenman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Armen Minasian",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Lee Smith",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Adams",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Sally Dennison",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Michael Miner",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Dave Batholomew",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Edward Neumeier",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Justine Jacoby",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Julie Selzer",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Irvin Kershner",
+  "valoraciones": {
+    "tmdb": 6.038,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Orion Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/ifjfm0fybcy8",
+  "trailer": "https://www.youtube.com/watch?v=HNcy89RqF5Q"
+}
