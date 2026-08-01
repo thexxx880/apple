@@ -1,0 +1,108 @@
+{
+  "id_tmdb": 217993,
+  "poster": "https://image.tmdb.org/t/p/w500/vbxw3IEseLTOMNOUBk3JS6gibbK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uD6AG36ykWAwKfSrLBuaVmpRC0.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8ciTJvRe2YbtamCEzTXqytxAiel.png",
+  "titulo": "La Liga De La Justicia: Guerra",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.44,
+  "año": "2014",
+  "duracion": "1h 19min",
+  "edad_minima": 13,
+  "sinopsis": "El mundo está bajo ataque de una armada alienígena liderada por el poderoso Apokoliptian, Darkseid. Un grupo de superhéroes que consiste en Superman, Batman, Mujer Maravilla, El Flash, Linterna Verde, Cyborg y Shazam deben dejar de lado sus diferencias y reunirse para defender la Tierra.",
+  "fecha_estreno": "2014-01-21",
+  "titulo_original": "Justice League: War",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Michelle Monaghan",
+      "personaje": "Diana Prince / Wonder Woman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uK1qhSzKd9gkDh3p1H5e2PWMYyH.jpg"
+    },
+    {
+      "nombre": "Alan Tudyk",
+      "personaje": "Clark Kent / Superman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+    },
+    {
+      "nombre": "Sean Astin",
+      "personaje": "Shazam (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+    },
+    {
+      "nombre": "Shemar Moore",
+      "personaje": "Victor Stone / Cyborg (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/epkv0UiwrPfCK3c0sHemSMi2jeh.jpg"
+    },
+    {
+      "nombre": "Christopher Gorham",
+      "personaje": "Barry Allen / The Flash (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dKFXHJ3KBJaeQ50udMdBEC0VFvI.jpg"
+    },
+    {
+      "nombre": "Justin Kirk",
+      "personaje": "Hal Jordan / Green Lantern (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7zRJN1qkaGPhUoGoIEtZDsDY9e6.jpg"
+    },
+    {
+      "nombre": "Jason O'Mara",
+      "personaje": "Bruce Wayne / Batman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9Cs9PD5pwUkFQPLmpp5e6wkFQoY.jpg"
+    },
+    {
+      "nombre": "George Newbern",
+      "personaje": "Steve Trevor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1Xx0K3KGqxyIpL6o2eVQKui86jS.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Heath Corson",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jay Oliva",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James Tucker",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christopher D. Lozinski",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Geoff Johns",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Jim Lee",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Kevin Kliesch",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Jay Oliva",
+  "valoraciones": {
+    "tmdb": 7.44,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/svub69pm6ohs",
+  "trailer": "https://www.youtube.com/watch?v=RGyrxamYhUA"
+}
