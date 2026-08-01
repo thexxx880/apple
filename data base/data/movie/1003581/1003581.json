@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 1003581,
+  "poster": "https://image.tmdb.org/t/p/w500/OKeu0tqBBdcnKVABplvLYhOEZT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/soRpXRJOYqBBsDYuH3mLYSIeufk.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6cy9B5iApCy7lgJBEI6Sum7MqkS.png",
+  "titulo": "Liga de la Justicia: Mundo bélico",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Ciencia ficción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.724,
+  "año": "2023",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "Mundo bélico, un lugar de interminables y brutales combates de gladiadores, Batman, Superman, Mujer Maravilla y otros deben unirse para formar una resistencia imbatible que lleve a todo el planeta a la libertad.",
+  "fecha_estreno": "2023-07-25",
+  "titulo_original": "Justice League: Warworld",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jensen Ackles",
+      "personaje": "Batman / Officer Wayne (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+    },
+    {
+      "nombre": "Darren Criss",
+      "personaje": "Superman / Agent Kent (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kqdhJuaHjgeVcnmA9DwWEIMdtBb.jpg"
+    },
+    {
+      "nombre": "Stana Katic",
+      "personaje": "Wonder Woman / Diana Prince (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4Kw0xJTzRc4VPfOVlaMr7OTfvN2.jpg"
+    },
+    {
+      "nombre": "Ike Amadi",
+      "personaje": "Martian Manhunter / J'onn J'onzz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xsv09XrYPk5bdY3cAUwKqJnraxC.jpg"
+    },
+    {
+      "nombre": "Troy Baker",
+      "personaje": "Jonah Hex (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mppX8pDkwNvx3dJzclwcGkngEb3.jpg"
+    },
+    {
+      "nombre": "Matt Bomer",
+      "personaje": "Old Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oxL27Z3XtjoABaOynKazZeg7qKM.jpg"
+    },
+    {
+      "nombre": "Roger Cross",
+      "personaje": "Machiste (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p3B3Ex5PqNaTXIcdiYe8Ww5vIXi.jpg"
+    },
+    {
+      "nombre": "Brett Dalton",
+      "personaje": "Bat Lash (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tetrTHW9QZoQRiuzPQa5JETQCJv.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jim Krieg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Josie Campbell",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kimberly S. Moreau",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ernie Altbacker",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jeremy Adams",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jeff Wamester",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Michael Uslan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bill Finger",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jerry Siegel",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Butch Lukic",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joe Shuster",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "William Moulton Marston",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Joe Certa",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Bruce King",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Wes Gleason",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Joe Samachson",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Jeff Wamester",
+  "valoraciones": {
+    "tmdb": 6.724,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://vimeos.net/embed-2u635y93c3r7.html",
+  "trailer": "https://www.youtube.com/watch?v=IPDLodUE9gg"
+}
