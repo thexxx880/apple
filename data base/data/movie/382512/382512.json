@@ -1,0 +1,135 @@
+{
+  "id_tmdb": 382512,
+  "poster": "https://image.tmdb.org/t/p/w500/4w3kzC7kmXzgXEAHjPHTPXuGqk9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p9yuxzkVrbw7mqsf9zl5hgQUsFJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/2k7ff2NzG8S0fRorAQRe16gHkyQ.png",
+  "titulo": "LEGO Liga de la Justicia: Batalla Cósmica",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.337,
+  "año": "2016",
+  "duracion": "1h 18min",
+  "edad_minima": 13,
+  "sinopsis": "Tierra, una joya brillante flotando en la oscuridad del espacio ... y para el robot conocido como Brainiac, la última pieza que capturaba para su colección de planetas. ¡No si la Liga de la Justicia tiene algo que decir al respecto!",
+  "fecha_estreno": "2016-02-16",
+  "titulo_original": "LEGO DC Comics Super Heroes: Justice League - Cosmic Clash",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Troy Baker",
+      "personaje": "Batman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mppX8pDkwNvx3dJzclwcGkngEb3.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Wonder Woman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Phil LaMarr",
+      "personaje": "Brainiac (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+    },
+    {
+      "nombre": "Nolan North",
+      "personaje": "Superman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg"
+    },
+    {
+      "nombre": "James Arnold Taylor",
+      "personaje": "The Flash (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sSthBDGT8HBd2hXRNPymA6D0ov8.jpg"
+    },
+    {
+      "nombre": "Kari Wahlgren",
+      "personaje": "Saturn Girl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg"
+    },
+    {
+      "nombre": "Khary Payton",
+      "personaje": "Cyborg (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4PgEGuAb2KkaRb7P9PdK40pPeVH.jpg"
+    },
+    {
+      "nombre": "Yuri Lowenthal",
+      "personaje": "Cosmic Boy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aLgXm0kbbIC8I5OBmnsK8TgVKwy.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rick Morales",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jim Krieg",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jill Wilfert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Cosler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brandon Vietti",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Tim Kelly",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Lisa Schaffer",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Michael Uslan",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Craig Paulsen",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jerry Siegel",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Joe Shuster",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "William Moulton Marston",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Rick Morales",
+  "valoraciones": {
+    "tmdb": 6.337,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://vimeos.net/embed-11n2yumogl4j.html",
+  "trailer": "https://www.youtube.com/watch?v=c1pZ7iZxkJU"
+}
