@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 791348,
+  "poster": "https://image.tmdb.org/t/p/w500/eSC0opO0KwASl0vIRFtJEQwCQps.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rQNWdUtbZxkvbFRfGZr9iUOizfs.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qtvxo4zgESb86ybZI1EKdTjCuOd.png",
+  "titulo": "Constantine: La Casa del Misterio",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Aventura",
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.853,
+  "año": "2022",
+  "duracion": "0h 27min",
+  "edad_minima": 13,
+  "sinopsis": "El detective ocultista John Constantine está atrapado en la Casa del Misterio, un dominio secreto del que nadie puede escapar.",
+  "fecha_estreno": "2022-05-02",
+  "titulo_original": "DC Showcase - Constantine: The House of Mystery",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Matt Ryan",
+      "personaje": "Constantine (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qLx6rzn6MMcJtTals5Z7Mb6z4Y9.jpg"
+    },
+    {
+      "nombre": "Ray Chase",
+      "personaje": "Jason Blood / Etrigan / Ritchie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xeJKJnvIwItI90roo7mMUduBbbq.jpg"
+    },
+    {
+      "nombre": "Robin Atkin Downes",
+      "personaje": "Gary Lester / Negral (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Beelzebub / Little Della / Little Jack (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Camilla Luddington",
+      "personaje": "Zatanna (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eKF5lSEdEtOCbsgb5mKjd8vYLck.jpg"
+    },
+    {
+      "nombre": "Damian O'Hare",
+      "personaje": "Ashox / Chas (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bO6TMDYluACYKy7zWEloym1SUa5.jpg"
+    },
+    {
+      "nombre": "Lou Diamond Phillips",
+      "personaje": "Spectre (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yqGZwaGe8XgoxfO7zmx7weGBaXZ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Matt Peters",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ernie Altbacker",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Rick Morales",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jim Krieg",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alyessa Ornelas",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Craig Paulsen",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Wes Gleason",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Peter Girardi",
+      "rol": "Executive In Charge Of Production"
+    },
+    {
+      "nombre": "Steven Choi",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Brian E.S. Jones",
+      "rol": "Executive In Charge Of Production"
+    },
+    {
+      "nombre": "Robert J. Kral",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Gardner Fox",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Steve Bissette",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "John Totleben",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jamie Delano",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Matt Peters",
+  "valoraciones": {
+    "tmdb": 6.853,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/1el6rt442nix",
+  "trailer": "https://www.youtube.com/watch?v=7W_6J9esLYY"
+}
