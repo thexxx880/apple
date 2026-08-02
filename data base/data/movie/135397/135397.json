@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 135397,
+  "poster": "https://image.tmdb.org/t/p/w500/bkXjL03yWPmiuFqxWEp4zSYVZBY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dF6FjTZzRTENfB4R17HDN20jLT2.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4IKkOzdAOz6LZWmPjEHlpufblYH.png",
+  "titulo": "Jurassic World",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.703,
+  "año": "2015",
+  "duracion": "2h 4min",
+  "edad_minima": 13,
+  "sinopsis": "Veintidós años después de lo ocurrido en Jurassic Park, la isla Nublar ha sido transformada en un enorme parque temático, Jurassic Wold, con versiones «domesticadas» de algunos de los dinosaurios más conocidos. Cuando todo parece ir sobre ruedas y ser el negocio del siglo, un nuevo dinosaurio de especie desconocida, pues ha sido creado manipulando genéticamente su ADN, y que resulta ser mucho más inteligente de lo que se pensaba, se escapa de su recinto y comienza a causar estragos entre los visitantes del Parque",
+  "fecha_estreno": "2015-06-06",
+  "titulo_original": "Jurassic World",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chris Pratt",
+      "personaje": "Owen",
+      "foto": "https://image.tmdb.org/t/p/w500/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "nombre": "Bryce Dallas Howard",
+      "personaje": "Claire",
+      "foto": "https://image.tmdb.org/t/p/w500/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg"
+    },
+    {
+      "nombre": "Irrfan Khan",
+      "personaje": "Masrani",
+      "foto": "https://image.tmdb.org/t/p/w500/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg"
+    },
+    {
+      "nombre": "Vincent D'Onofrio",
+      "personaje": "Hoskins",
+      "foto": "https://image.tmdb.org/t/p/w500/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+    },
+    {
+      "nombre": "Ty Simpkins",
+      "personaje": "Gray",
+      "foto": "https://image.tmdb.org/t/p/w500/8FyJcMFmPdCSfz2Zc5ZcAKrIorj.jpg"
+    },
+    {
+      "nombre": "Nick Robinson",
+      "personaje": "Zach",
+      "foto": "https://image.tmdb.org/t/p/w500/vWFoPTd8G7DIDXYmiTiq4oaYG5G.jpg"
+    },
+    {
+      "nombre": "Jake Johnson",
+      "personaje": "Lowery",
+      "foto": "https://image.tmdb.org/t/p/w500/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+    },
+    {
+      "nombre": "Omar Sy",
+      "personaje": "Barry",
+      "foto": "https://image.tmdb.org/t/p/w500/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rick Jaffa",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Frank Marshall",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Colin Trevorrow",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Amanda Silver",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Amanda Silver",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Derek Connolly",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Patrick Crowley",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rick Jaffa",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Satoshi Yamazaki",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "Robert Consing",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Michael Crichton",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Steven Spielberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mike Dharney",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Emile Ghorayeb",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Christa Munro",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Scott Trimble",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Chris Brenczewski",
+      "rol": "Special Effects Coordinator"
+    },
+    {
+      "nombre": "Holly O'Quin",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Mahealani Diego",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Jack Lazzaro",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Colin Trevorrow",
+  "valoraciones": {
+    "tmdb": 6.703,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Amblin Entertainment",
+  "enlace_video": "https://gscdn.cam/video/embed/tea1rx76exvk",
+  "trailer": "https://www.youtube.com/watch?v=zfURZ-Vb8_E"
+}
