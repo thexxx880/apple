@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 561,
+  "poster": "https://image.tmdb.org/t/p/w500/AiE8oPiXtxnhHRtAdWriqNuBiKY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/x3YFn10ehQKMRIJwIfiDAX8S9Xt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/AeI3EnOWGcNJz04DfD0KO3U0bIL.png",
+  "titulo": "Constantine",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Acción",
+    "Terror"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.19,
+  "año": "2005",
+  "duracion": "2h 1min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando John Constantine se une a una policía para resolver el misterioso suicidio de su hermana gemela, su investigación los lleva a través del mundo de demonios y ángeles que existe debajo del paisaje de Los Ángeles contemporáneo.",
+  "fecha_estreno": "2005-02-08",
+  "titulo_original": "Constantine",
+  "pais_origen": "Germany",
+  "reparto": [
+    {
+      "nombre": "Keanu Reeves",
+      "personaje": "John Constantine",
+      "foto": "https://image.tmdb.org/t/p/w500/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+      "nombre": "Rachel Weisz",
+      "personaje": "Angela Dodson / Isabel Dodson",
+      "foto": "https://image.tmdb.org/t/p/w500/9tfHL5tholha1YF6bSKt422ETPM.jpg"
+    },
+    {
+      "nombre": "Shia LaBeouf",
+      "personaje": "Chas Kramer",
+      "foto": "https://image.tmdb.org/t/p/w500/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
+    },
+    {
+      "nombre": "Djimon Hounsou",
+      "personaje": "Midnite",
+      "foto": "https://image.tmdb.org/t/p/w500/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+    },
+    {
+      "nombre": "Max Baker",
+      "personaje": "Beeman",
+      "foto": "https://image.tmdb.org/t/p/w500/z3hNp4zntZJVQPBUd08IXSAiWAL.jpg"
+    },
+    {
+      "nombre": "Pruitt Taylor Vince",
+      "personaje": "Father Hennessy",
+      "foto": "https://image.tmdb.org/t/p/w500/jqC1v8tF92QcmkQycnaLSuJiQfl.jpg"
+    },
+    {
+      "nombre": "Gavin Rossdale",
+      "personaje": "Balthazar",
+      "foto": "https://image.tmdb.org/t/p/w500/zjvzezZJwfKX2gJqyT3aF9RukAM.jpg"
+    },
+    {
+      "nombre": "Tilda Swinton",
+      "personaje": "Gabriel",
+      "foto": "https://image.tmdb.org/t/p/w500/dzjT4LKgs7eOma84GsPy78DsGNH.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Francis Lawrence",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Uslan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Benjamin Melniker",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Brodbin",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Erwin Stoff",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Frank A. Cappello",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Akiva Goldsman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lauren Shuler Donner",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ve Neill",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Gilbert Adler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Philippe Rousselot",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Wayne Wahrman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Aguilar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Lazan",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Klaus Badelt",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Brian Tyler",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Denise Chamian",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Louise Frogley",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Douglas A. Mowat",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Naomi Shohan",
+      "rol": "Production Design"
+    }
+  ],
+  "director": "Francis Lawrence",
+  "valoraciones": {
+    "tmdb": 7.19,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Village Roadshow Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/5uypp3n4la65",
+  "trailer": "https://www.youtube.com/watch?v=819JCbGfZpg"
+}
