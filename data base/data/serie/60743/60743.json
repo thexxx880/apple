@@ -1,0 +1,124 @@
+{
+  "id_tmdb": 60743,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6wUZJiqIRO4w3VYqe1tVRvUPsxn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lmDDpCCei9kTPIZb13P2NAqpmvO.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/q5EYqG7Y0YofdsCwb1ENghO4DYy.png",
+  "titulo": "Constantine",
+  "titulo_original": "Constantine",
+  "fecha_estreno": "2014-10-24",
+  "duracion": "43min",
+  "año": "2014",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.759,
+  "sinopsis": "John intenta conectarse con el alma de la persona que más busca, su madre, que murió dando a luz al protagonista, sin éxito. Cuando Liv, la hija de un amigo fallecido, se convierte en el blanco de los demonios, John interviene para salvarla, y juntos forman una alianza.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Matt Ryan",
+      "personaje": "John Constantine",
+      "foto": "https://image.tmdb.org/t/p/w500/qLx6rzn6MMcJtTals5Z7Mb6z4Y9.jpg"
+    },
+    {
+      "nombre": "Angélica Celaya",
+      "personaje": "Zed Martin",
+      "foto": "https://image.tmdb.org/t/p/w500/7yRxQE1DtUiL4z33P4I61VsQQsP.jpg"
+    },
+    {
+      "nombre": "Charles Halford",
+      "personaje": "Chas Chandler",
+      "foto": "https://image.tmdb.org/t/p/w500/mrCy6dA5AHqczA4aJX4drCQ3tjC.jpg"
+    },
+    {
+      "nombre": "Harold Perrineau",
+      "personaje": "Manny",
+      "foto": "https://image.tmdb.org/t/p/w500/bVSLpGUaislREbujmknOqadrxYM.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Romeo Tirone",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "David S. Goyer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Verheiden",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Cerone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Blank",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "James Spies",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Romeo Tirone",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "David S. Goyer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bear McCreary",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jamie Delano",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Mark Verheiden",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Cerone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Blank",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "James Spies",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Garth Ennis",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Drew Monahan",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Scott Reeves",
+      "rol": "Sound Assistant"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.759,
+    "imdb": "tt3489184",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC Comics, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=6gfCfxsbat4"
+}
