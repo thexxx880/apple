@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 8204,
+  "poster": "https://image.tmdb.org/t/p/w500/2QDs8ASLuqcwwuwSZi7FFdFTatl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cVfaHnjOOS5qX8z10qnBsslq2Oi.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tyJs9CYkLJASnB65ALzSPjkE9cT.png",
+  "titulo": "Las crónicas de Spiderwick",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Aventura",
+    "Fantasía",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.708,
+  "año": "2008",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando la familia Grace (la madre y sus hijos Jared, Simon y Mallory) deja Nueva York y se instalan en el viejo caserón de su tío Arthur Spiderwick, empiezan a ocurrir extraños sucesos. La familia le echa la culpa a Jared, pero cuando éste y sus hermanos investigan lo que está sucediendo, descubren la fantástica verdad sobre la finca Spiderwick y las criaturas que viven en ella.",
+  "fecha_estreno": "2008-02-14",
+  "titulo_original": "The Spiderwick Chronicles",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Freddie Highmore",
+      "personaje": "Jared Grace / Simon Grace",
+      "foto": "https://image.tmdb.org/t/p/w500/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+    },
+    {
+      "nombre": "Sarah Bolger",
+      "personaje": "Mallory Grace",
+      "foto": "https://image.tmdb.org/t/p/w500/buw6aDGctZMOTaPFAd9EaBPa76n.jpg"
+    },
+    {
+      "nombre": "David Strathairn",
+      "personaje": "Arthur Spiderwick",
+      "foto": "https://image.tmdb.org/t/p/w500/w5YM2cGefPnkoyIXCi2UrCQW53r.jpg"
+    },
+    {
+      "nombre": "Mary-Louise Parker",
+      "personaje": "Helen Grace",
+      "foto": "https://image.tmdb.org/t/p/w500/ljaNmBF31BbOvrrawms7vCsIqBP.jpg"
+    },
+    {
+      "nombre": "Nick Nolte",
+      "personaje": "Mulgarath",
+      "foto": "https://image.tmdb.org/t/p/w500/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+      "nombre": "Joan Plowright",
+      "personaje": "Aunt Lucinda Spiderwick",
+      "foto": "https://image.tmdb.org/t/p/w500/un5wsOnz22Rvl82niE0LGAVxggQ.jpg"
+    },
+    {
+      "nombre": "Andrew McCarthy",
+      "personaje": "Richard Grace",
+      "foto": "https://image.tmdb.org/t/p/w500/swlewiX5zUjF5za9JOFXIVrL3kH.jpg"
+    },
+    {
+      "nombre": "Seth Rogen",
+      "personaje": "Hogsqueal (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Karey Kirkpatrick",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Waters",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Karey Kirkpatrick",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Berenbaum",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Sayles",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ellen Goldsmith-Vein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Canton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Larry Franco",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Caleb Deschanel",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "James Horner",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Nathalie Girard",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Pascal Archambault Bouffard",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "France Raymond",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Nicole Germain",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Katina Waters",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Gilbert Larose Jr.",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Steve Jaworski",
+      "rol": "Compositor"
+    },
+    {
+      "nombre": "Carlos Huante",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "John Zdankiewicz",
+      "rol": "Lead Animator"
+    },
+    {
+      "nombre": "David A. Link",
+      "rol": "Compositor"
+    }
+  ],
+  "director": "Mark Waters",
+  "valoraciones": {
+    "tmdb": 6.708,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/6l25ajbbcm9b",
+  "trailer": "https://www.youtube.com/watch?v=_yTZ8E3vbsE"
+}
