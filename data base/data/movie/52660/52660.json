@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 52660,
+  "poster": "https://image.tmdb.org/t/p/w500/sWgP5tbXbqLsB76DZow0S5BUElc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2dkxyWdrclt4QGZ7sCdgtaQdWpG.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/yt6ZjD3MHxUaABHyQgCYXblv6D4.png",
+  "titulo": "Conjuro Fatal",
+  "trending": false,
+  "generos": [
+    "Película de TV",
+    "Misterio",
+    "Comedia",
+    "Terror",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.056,
+  "año": "1991",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "1991-09-07",
+  "titulo_original": "Cast a Deadly Spell",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Fred Ward",
+      "personaje": "Det. Harry Philip Lovecraft",
+      "foto": "https://image.tmdb.org/t/p/w500/t3tZduAwP1LMR8Vc13HZ39wKJ1q.jpg"
+    },
+    {
+      "nombre": "David Warner",
+      "personaje": "Amos Hackshaw",
+      "foto": "https://image.tmdb.org/t/p/w500/AlsZcAY2c4chfOxMW69gHQzH1B2.jpg"
+    },
+    {
+      "nombre": "Julianne Moore",
+      "personaje": "Connie Stone",
+      "foto": "https://image.tmdb.org/t/p/w500/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+    },
+    {
+      "nombre": "Clancy Brown",
+      "personaje": "Harry Bordon",
+      "foto": "https://image.tmdb.org/t/p/w500/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+    },
+    {
+      "nombre": "Alexandra Powers",
+      "personaje": "Olivia Hackshaw",
+      "foto": "https://image.tmdb.org/t/p/w500/zfz44FfM0YbGeScUTlUmf7gPvpq.jpg"
+    },
+    {
+      "nombre": "Charles Hallahan",
+      "personaje": "Det. Morris Bradbury",
+      "foto": "https://image.tmdb.org/t/p/w500/zQr2ytNB23Dy3uzbGkxfIsANw3y.jpg"
+    },
+    {
+      "nombre": "Arnetia Walker",
+      "personaje": "Hypolite Kropotkin",
+      "foto": "https://image.tmdb.org/t/p/w500/762MEkh7Og8H2WY9ST1wwSN3HM8.jpg"
+    },
+    {
+      "nombre": "Raymond O'Connor",
+      "personaje": "Tugwell",
+      "foto": "https://image.tmdb.org/t/p/w500/touz1XnfSbvu4DYcxWGyEXjL0YG.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Martin Campbell",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joseph Dougherty",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Gale Anne Hurd",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nelson Coates",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Richard F.W. Davis",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Scott Millan",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Thomas E. Surprenant",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Richard Portman",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Larry Stensvold",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Jon Bunker",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mary Rose",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Michelle Bühler",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Peter Bergren",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Vance Hartwell",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Joyce Anne Gilstrap",
+      "rol": "Set Decoration"
+    }
+  ],
+  "director": "Martin Campbell",
+  "valoraciones": {
+    "tmdb": 6.056,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pacific Western",
+  "enlace_video": "https://gscdn.cam/video/embed/ljdksgvokty3",
+  "trailer": "https://www.youtube.com/watch?v=ka-1ekOcRcQ"
+}
