@@ -1,0 +1,154 @@
+{
+  "id_tmdb": 46529,
+  "poster": "https://image.tmdb.org/t/p/w500/ksIYE3poDpDjdujMlU5LapE7lJ8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zGKDR7bYPo14MXmzpj8c4AErhtt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kS3sf2kSZ9QkZs0MiJvq837h4CP.png",
+  "titulo": "Soy el número cuatro",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Ciencia ficción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.199,
+  "año": "2011",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Después de que su mundo haya sido destruido por seres de otro planeta, nueve jóvenes alienígenas se esconden en la Tierra. Uno de ellos, el cuarto del grupo y que se hace llamar John Smith, descubre que no está a salvo: sus enemigos se encuentran en la Tierra, han acabado con los tres anteriores y le siguen los pasos para dar con él. Para intentar no ser descubierto el joven cuenta con la ayuda de un guardián que le protege, Henri. Haciéndose pasar por padre e hijo, su nuevo destino es Paradise, un pequeño pueblo de Ohio, donde John conoce a Sara, por la que pronto comienza a sentir una gran atracción.",
+  "fecha_estreno": "2011-02-18",
+  "titulo_original": "I Am Number Four",
+  "pais_origen": "India",
+  "reparto": [
+    {
+      "nombre": "Alex Pettyfer",
+      "personaje": "John Smith / Number Four",
+      "foto": "https://image.tmdb.org/t/p/w500/jcejkad2OWB71Bz1RRc4Ib0961k.jpg"
+    },
+    {
+      "nombre": "Dianna Agron",
+      "personaje": "Sarah Hart",
+      "foto": "https://image.tmdb.org/t/p/w500/9BVahBiKoMKndboGFYQYtEd3RM4.jpg"
+    },
+    {
+      "nombre": "Teresa Palmer",
+      "personaje": "Number Six / Maren Elizabeth",
+      "foto": "https://image.tmdb.org/t/p/w500/sjSiLSCp9LS1Z0nyGpmquTBuUyr.jpg"
+    },
+    {
+      "nombre": "Timothy Olyphant",
+      "personaje": "Henri Smith",
+      "foto": "https://image.tmdb.org/t/p/w500/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg"
+    },
+    {
+      "nombre": "Kevin Durand",
+      "personaje": "Mogadorian Commander",
+      "foto": "https://image.tmdb.org/t/p/w500/hINvryvce5tpod6kTnUg9ZTH8wg.jpg"
+    },
+    {
+      "nombre": "Callan McAuliffe",
+      "personaje": "Sam Goode",
+      "foto": "https://image.tmdb.org/t/p/w500/prb72bUO481G2Kxk55dD0LLnCAj.jpg"
+    },
+    {
+      "nombre": "Jake Abel",
+      "personaje": "Mark James",
+      "foto": "https://image.tmdb.org/t/p/w500/ijog1BFmm4BgZGnScwoYJKkwAcO.jpg"
+    },
+    {
+      "nombre": "Garrett M. Brown",
+      "personaje": "Mr. Simms",
+      "foto": "https://image.tmdb.org/t/p/w500/4tPbboNt7gBw8XPLK8UEA90iBpC.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James M. Freitag",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Bay",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Emily Berger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "D.J. Caruso",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Miles Millar",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Alfred Gough",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Marti Noxon",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tricia Wood",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Deborah Aquila",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Vince Filippone",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Chris Bender",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew Cohan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Trevor Rabin",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jim Page",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jobie Hughes",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Tom Southwell",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "David Valdes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "J.C. Spink",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Frey",
+      "rol": "Novel"
+    }
+  ],
+  "director": "D.J. Caruso",
+  "valoraciones": {
+    "tmdb": 6.199,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Bay Films",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/fa/s8/2/9/-/0/y/9-0yy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=XR2QSlHpKg4"
+}
