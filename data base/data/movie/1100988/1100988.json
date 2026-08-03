@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 1100988,
+  "poster": "https://image.tmdb.org/t/p/w500/gc5oHGz2AugoAlnfsmie1I0ZdOM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/zh03O0x9nYSn1G0TSletvOFBIis.png",
+  "titulo": "Exterminio: La evolución",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.607,
+  "año": "2025",
+  "duracion": "1h 55min",
+  "edad_minima": 13,
+  "sinopsis": "Casi tres décadas desde que el virus de la ira escapó de un laboratorio de armas biológicas. Uno de los supervivientes abandona la pequeña isla en una misión hacía el oscuro corazón del continente, descubriendo secretos, maravillas y horrores que han mutado no sólo a los infectados, sino también a otros supervivientes.",
+  "fecha_estreno": "2025-06-18",
+  "titulo_original": "28 Years Later",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Aaron Taylor-Johnson",
+      "personaje": "Jamie",
+      "foto": "https://image.tmdb.org/t/p/w500/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+    },
+    {
+      "nombre": "Alfie Williams",
+      "personaje": "Spike",
+      "foto": "https://image.tmdb.org/t/p/w500/3F46vn64Ya20rwtvTFVnqAK2LuI.jpg"
+    },
+    {
+      "nombre": "Ralph Fiennes",
+      "personaje": "Dr. Ian Kelson",
+      "foto": "https://image.tmdb.org/t/p/w500/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+    },
+    {
+      "nombre": "Jodie Comer",
+      "personaje": "Isla",
+      "foto": "https://image.tmdb.org/t/p/w500/AfsBpnfw0E2h8NZK4zkFcOjYlEb.jpg"
+    },
+    {
+      "nombre": "Jack O'Connell",
+      "personaje": "Jimmy Crystal",
+      "foto": "https://image.tmdb.org/t/p/w500/6Pct55VBkrqxQ57NL46UjWlJEvW.jpg"
+    },
+    {
+      "nombre": "Chi Lewis-Parry",
+      "personaje": "Samson",
+      "foto": "https://image.tmdb.org/t/p/w500/jAMu6BW9lDBVkawwB7VIi8CLai5.jpg"
+    },
+    {
+      "nombre": "Edvin Ryding",
+      "personaje": "Erik Sundqvist",
+      "foto": "https://image.tmdb.org/t/p/w500/d7fcmwBi974TD3soI4VG88c8YN2.jpg"
+    },
+    {
+      "nombre": "Christopher Fulford",
+      "personaje": "Sam",
+      "foto": "https://image.tmdb.org/t/p/w500/2n73aEyiU4fJprC2vHIf0M7YJ62.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Danny Boyle",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Garland",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Macdonald",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Rice",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Danny Boyle",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alex Garland",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Bernard Bellew",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Cillian Murphy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anthony Dod Mantle",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Gail Stevens",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Bryony Chaplin",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Rebecca Farhall",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Naomi Moore",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Sam Conway",
+      "rol": "Special Effects Supervisor"
+    },
+    {
+      "nombre": "Lucy Hatherley",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Jon Harris",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Alastair Vardy",
+      "rol": "Special Effects Assistant"
+    },
+    {
+      "nombre": "Beau Townshend",
+      "rol": "Special Effects Technician"
+    },
+    {
+      "nombre": "Simon Astall",
+      "rol": "Music Supervisor"
+    }
+  ],
+  "director": "Danny Boyle",
+  "valoraciones": {
+    "tmdb": 6.607,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/w8suu5r033ci",
+  "trailer": "https://www.youtube.com/watch?v=d-4F7jJUoOE"
+}
