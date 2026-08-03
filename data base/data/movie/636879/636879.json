@@ -1,0 +1,90 @@
+{
+  "id_tmdb": 636879,
+  "poster": "https://image.tmdb.org/t/p/w500/eutNRwSguV0NCx7BNAXOibWzjP6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/edXuLjxjYu1SkyMHd55hRasME8b.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/avKpCI0hky5qToVK8uP9llzOLzc.png",
+  "titulo": "La maldición de la monja",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.4,
+  "año": "2020",
+  "duracion": "1h 13min",
+  "edad_minima": 13,
+  "sinopsis": "Un grupo de viajeros se ve obligado a refugiarse en una cárcel abandonada donde una famosa monja llamada Sister Monday trabajó hace años. Según cuenta la leyenda, allí asesinó a un número indeterminado de prisioneros.",
+  "fecha_estreno": "2020-05-12",
+  "titulo_original": "A Nun's Curse",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Felissa Rose",
+      "personaje": "Sister Monday",
+      "foto": "https://image.tmdb.org/t/p/w500/PEiMOmcnhRJGlrOXxD2bSrRc37.jpg"
+    },
+    {
+      "nombre": "Damian Maffei",
+      "personaje": "Anthony",
+      "foto": "https://image.tmdb.org/t/p/w500/1U42lkw8nfRIt5pDwbzmPo4aI1g.jpg"
+    },
+    {
+      "nombre": "Erika Arlee",
+      "personaje": "Ashley-Kae",
+      "foto": "https://image.tmdb.org/t/p/w500/80Xm9u7zNgVPL7yJ0J2QwYerW0P.jpg"
+    },
+    {
+      "nombre": "Kristi Ray",
+      "personaje": "Gabby",
+      "foto": "https://image.tmdb.org/t/p/w500/wci2kZMzBgLkBmYCpzBSKV6uHrL.jpg"
+    },
+    {
+      "nombre": "Gunner Willis",
+      "personaje": "Michael",
+      "foto": "https://image.tmdb.org/t/p/w500/7btxsL6QQrInbRfdHJ2JmZX1cNM.jpg"
+    },
+    {
+      "nombre": "Michael James Daly",
+      "personaje": "Prisoner 1",
+      "foto": null
+    },
+    {
+      "nombre": "Sean Krumbholz",
+      "personaje": "Prisoner 2",
+      "foto": null
+    },
+    {
+      "nombre": "Ashley-Kae Luker",
+      "personaje": "Young Ashley-Kae",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tommy Faircloth",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Tommy Faircloth",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robert Zobel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tommy Faircloth",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [],
+  "director": "Tommy Faircloth",
+  "valoraciones": {
+    "tmdb": 6.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Desconocida",
+  "enlace_video": "https://hglink.to/e/49vstay9vumk",
+  "trailer": ""
+}
