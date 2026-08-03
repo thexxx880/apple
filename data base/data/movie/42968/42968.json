@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 42968,
+  "poster": "https://image.tmdb.org/t/p/w500/8WGGQ3NLtIRmcJY2R0qzInqi1zC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xh1Xjiu7Q0ORz3DbJjlwfC2KwVM.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/i0kHxyjyjoBVZcbpMgegy7Jifbh.png",
+  "titulo": "La monja",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Misterio"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.66,
+  "año": "2005",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Narra la historia de seis jóvenes internas en un siniestro colegio que pasan sus días atemorizadas por una temible monja. Un horrible secreto que traumatizará a las jóvenes reaparecerá 17 años más tarde, tras una serie de asesinatos que las reunirá para revivir juntas su oscuro pasado.",
+  "fecha_estreno": "2005-11-03",
+  "titulo_original": "La monja",
+  "pais_origen": "Spain",
+  "reparto": [
+    {
+      "nombre": "Anita Briem",
+      "personaje": "Eve",
+      "foto": "https://image.tmdb.org/t/p/w500/8M6MkLKpAXKRoYlhOH5LzBhBGFv.jpg"
+    },
+    {
+      "nombre": "Belén Blanco",
+      "personaje": "Julia",
+      "foto": "https://image.tmdb.org/t/p/w500/tG6Q8xk1V1xhFtu2Nn50YjKQHdt.jpg"
+    },
+    {
+      "nombre": "Manu Fullola",
+      "personaje": "Gabriel",
+      "foto": "https://image.tmdb.org/t/p/w500/9oYPbcyoeXzfNEhE9yhBahqcLQ0.jpg"
+    },
+    {
+      "nombre": "Alistair Freeland",
+      "personaje": "Joel",
+      "foto": null
+    },
+    {
+      "nombre": "Cristina Piaget",
+      "personaje": "Sister Úrsula",
+      "foto": "https://image.tmdb.org/t/p/w500/sDpIRrP7BFVNxq6VPfL63qMlXDJ.jpg"
+    },
+    {
+      "nombre": "Paulina Gálvez",
+      "personaje": "Zoe",
+      "foto": "https://image.tmdb.org/t/p/w500/qLn6T7rPAm0qLtwRwhVodD4BUTY.jpg"
+    },
+    {
+      "nombre": "Natalia Dicenta",
+      "personaje": "Susan",
+      "foto": "https://image.tmdb.org/t/p/w500/1Bvdsw4YwPtZV9sp69rsbR3lkHM.jpg"
+    },
+    {
+      "nombre": "Lola Marceli",
+      "personaje": "Mary",
+      "foto": "https://image.tmdb.org/t/p/w500/dzbcSz6X9lnFgzZKbckGNKOnsYW.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jaume Balagueró",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Manu Díez",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Luis de la Madrid",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Brian Yuzna",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Julio Fernández",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bernat Vilaplana",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Peter Block",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Luc Suarez",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jason Constantine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carlos Fernández",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elena Serra",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Miqui Pérez",
+      "rol": "Electrician"
+    },
+    {
+      "nombre": "Brian Yuzna",
+      "rol": "Creative Producer"
+    },
+    {
+      "nombre": "Julio Fernández",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Teresa Gefaell",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Reyes Matabuena",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Kwesi Dickson",
+      "rol": "Co-Producer"
+    }
+  ],
+  "director": "Luis de la Madrid",
+  "valoraciones": {
+    "tmdb": 5.66,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Castelao Productions",
+  "enlace_video": "https://vimeos.net/embed-6sg4jheofwts.html",
+  "trailer": "https://www.youtube.com/watch?v=hZEXyfKmYHg"
+}
