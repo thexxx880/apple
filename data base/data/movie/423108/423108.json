@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 423108,
+  "poster": "https://image.tmdb.org/t/p/w500/k8HN29t4VxiOagq9jaVVwZJ6wIB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p26c040MErns7DJYhisa1CpVB5i.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aqi0pRKE7YdFNtfoHl5XHYPlFYg.png",
+  "titulo": "El Conjuro 3: El diablo me obligó a hacerlo",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Misterio",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.344,
+  "año": "2021",
+  "duracion": "1h 51min",
+  "edad_minima": 13,
+  "sinopsis": "Los investigadores de fenómenos paranormales Ed y Lorraine Warren se enfrentan a un nuevo caso: el de un hombre acusado de un terrible asesinato, que asegura haber sido poseído por un demonio.",
+  "fecha_estreno": "2021-05-25",
+  "titulo_original": "The Conjuring: The Devil Made Me Do It",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Vera Farmiga",
+      "personaje": "Lorraine Warren",
+      "foto": "https://image.tmdb.org/t/p/w500/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+    },
+    {
+      "nombre": "Patrick Wilson",
+      "personaje": "Ed Warren",
+      "foto": "https://image.tmdb.org/t/p/w500/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+    },
+    {
+      "nombre": "Sterling Jerins",
+      "personaje": "Judy Warren",
+      "foto": "https://image.tmdb.org/t/p/w500/10kkqqbO8Ct58DqsBPSQIsG9ve4.jpg"
+    },
+    {
+      "nombre": "Sarah Catherine Hook",
+      "personaje": "Debbie Glatzel",
+      "foto": "https://image.tmdb.org/t/p/w500/hLXqA5OZYX9I9BTj82KlVYqgE2i.jpg"
+    },
+    {
+      "nombre": "Ruairí O'Connor",
+      "personaje": "Arne Cheyne Johnson",
+      "foto": "https://image.tmdb.org/t/p/w500/lSnYC598qzvh20VfSDOa3tpcLBo.jpg"
+    },
+    {
+      "nombre": "Julian Hilliard",
+      "personaje": "David Glatzel",
+      "foto": "https://image.tmdb.org/t/p/w500/lp1IJliBZb9OFP5KK09HjSGOsau.jpg"
+    },
+    {
+      "nombre": "Charlene Amoia",
+      "personaje": "Judy Glatzel",
+      "foto": "https://image.tmdb.org/t/p/w500/8hJNPw3XCErifcZZPOfd20JmiTC.jpg"
+    },
+    {
+      "nombre": "John Noble",
+      "personaje": "Father Kastner",
+      "foto": "https://image.tmdb.org/t/p/w500/t9dB8uU27sQDaEEFMiQvp5sbrXU.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Leslie Johnson-McGoldrick",
+      "rol": "Story"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Safran",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Leslie Johnson-McGoldrick",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Michael Chaves",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chad Hayes",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Christian Wagner",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Carey Hayes",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Emerald Gordon Wulf",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Shauna Galligan",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Jess Durham",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Bryan Haines",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Michael Babcock",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Jason W. Jennings",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Susan L. Bertram",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Jordan Johnson",
+      "rol": "Set Costumer"
+    },
+    {
+      "nombre": "Eric Bruneau",
+      "rol": "Visual Effects Producer"
+    }
+  ],
+  "director": "Michael Chaves",
+  "valoraciones": {
+    "tmdb": 7.344,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://gscdn.cam/video/embed/tbxha9mqdu87",
+  "trailer": "https://www.youtube.com/watch?v=tLFnRAzcaEc"
+}
