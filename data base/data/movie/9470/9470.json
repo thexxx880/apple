@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 9470,
+  "poster": "https://image.tmdb.org/t/p/w500/mBxFUHGMADr861QZSSgu9d11wjE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9XhZhoSnFJ3AjpfzdIiZVHLQIS4.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hMrHQ5BvSne82xVyrGOSpEF9Rds.png",
+  "titulo": "Kung fu",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Crimen",
+    "Fantasía"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.508,
+  "año": "2004",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "En Shanghai, China, en la década de 1940, un aspirante a gánster aspira a unirse a la notoria «Pandilla del hacha», mientras que los residentes de un complejo residencial exhiben poderes extraordinarios para defender su territorio.",
+  "fecha_estreno": "2004-02-10",
+  "titulo_original": "功夫",
+  "pais_origen": "China",
+  "reparto": [
+    {
+      "nombre": "周星馳",
+      "personaje": "Sing",
+      "foto": "https://image.tmdb.org/t/p/w500/j5DWs54BGZfp92G43c9OyHPvkNG.jpg"
+    },
+    {
+      "nombre": "元秋",
+      "personaje": "Landlady",
+      "foto": "https://image.tmdb.org/t/p/w500/5S70RuTmpHXCcyZNzx1sTjamOKw.jpg"
+    },
+    {
+      "nombre": "元華",
+      "personaje": "Landlord",
+      "foto": "https://image.tmdb.org/t/p/w500/50iChkgIJI7ZmPUjCpYKfEsXBnf.jpg"
+    },
+    {
+      "nombre": "林子聰",
+      "personaje": "Sing's Sidekick",
+      "foto": "https://image.tmdb.org/t/p/w500/4lA8TnRYSZBysNvZLMdNe1UoIK9.jpg"
+    },
+    {
+      "nombre": "梁小龍",
+      "personaje": "The Beast",
+      "foto": "https://image.tmdb.org/t/p/w500/thgf1TvGZu8Zmpd2enLaPWsqcXb.jpg"
+    },
+    {
+      "nombre": "黄圣依",
+      "personaje": "Fong",
+      "foto": "https://image.tmdb.org/t/p/w500/lxVYMxTcFbyySIL5Zm37Gsjvpuy.jpg"
+    },
+    {
+      "nombre": "陳國坤",
+      "personaje": "Brother Sum",
+      "foto": "https://image.tmdb.org/t/p/w500/rOhOd8Y2QjOXQFQj7nZItPC2MFh.jpg"
+    },
+    {
+      "nombre": "趙志淩",
+      "personaje": "Tailor",
+      "foto": "https://image.tmdb.org/t/p/w500/bYp1SVUMdZcpSpDvIGgptiVUatj.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "周星馳",
+      "rol": "Director"
+    },
+    {
+      "nombre": "周星馳",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "周星馳",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "劉鎮偉",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "崔寶珠",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "曾謹昌",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "陳文強",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Xin Huo",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "王中磊",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "林安兒",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "周星馳",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Xian Luo Zong",
+      "rol": "Music"
+    },
+    {
+      "nombre": "黃英華",
+      "rol": "Music"
+    },
+    {
+      "nombre": "潘恆生",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Bill Borden",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Hung",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hang Yi",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Zhao Haicheng",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "袁和平",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "洪金寶",
+      "rol": "Stunt Coordinator"
+    }
+  ],
+  "director": "周星馳",
+  "valoraciones": {
+    "tmdb": 7.508,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Huayi Brothers & Taihe Film Investment",
+  "enlace_video": "https://gscdn.cam/video/embed/a0sqvch1msou",
+  "trailer": "https://www.youtube.com/watch?v=-m3IB7N_PRk"
+}
