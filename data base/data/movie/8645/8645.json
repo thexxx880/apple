@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 8645,
+  "poster": "https://image.tmdb.org/t/p/w500/c2MWgaiUkyoknS4lf0iFvPxuxR6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6moXpp6y1EZ6pfnSxnKFMrbFnWv.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8JW5QYIYvPpux6bibi3IP9RXYvS.png",
+  "titulo": "El Fin de Los Tiempos",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.406,
+  "año": "2008",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "En unos minutos, en las principales ciudades de Estados Unidos, se producen unas extrañas y escalofriantes muertes que escapan a toda explicación. Elliot Moore (Wahlberg), un profesor de ciencias de Filadelfia, intentando eludir este misterioso y letal fenómeno, se dirige a Pensilvania con su mujer (Deschanel), su amigo Julian (Leguizamo) y la hija de éste; sin embargo, pronto queda de manifiesto que ningún lugar es seguro. Pero, de repente, Elliot empieza a vislumbrar la verdadera naturaleza de lo que está ocurriendo…",
+  "fecha_estreno": "2008-06-11",
+  "titulo_original": "The Happening",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mark Wahlberg",
+      "personaje": "Elliot Moore",
+      "foto": "https://image.tmdb.org/t/p/w500/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
+    },
+    {
+      "nombre": "Zooey Deschanel",
+      "personaje": "Alma Moore",
+      "foto": "https://image.tmdb.org/t/p/w500/30KQyjsXfrdm4Dcori7bDFTg9Le.jpg"
+    },
+    {
+      "nombre": "John Leguizamo",
+      "personaje": "Julian",
+      "foto": "https://image.tmdb.org/t/p/w500/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "nombre": "Ashlyn Sanchez",
+      "personaje": "Jess",
+      "foto": "https://image.tmdb.org/t/p/w500/8lWP6PMNPZOsQzCv8YrGNZ4S7qV.jpg"
+    },
+    {
+      "nombre": "Betty Buckley",
+      "personaje": "Mrs. Jones",
+      "foto": "https://image.tmdb.org/t/p/w500/vgEah6IHjirZGXjuGhTA1Wp9aQT.jpg"
+    },
+    {
+      "nombre": "Spencer Breslin",
+      "personaje": "Josh",
+      "foto": "https://image.tmdb.org/t/p/w500/jqZRcEjEt3iodgXoGOZUaahozjm.jpg"
+    },
+    {
+      "nombre": "Robert Bailey Jr.",
+      "personaje": "Jared",
+      "foto": "https://image.tmdb.org/t/p/w500/2CVKz4PSWBXv2IIIX54DW8MVza2.jpg"
+    },
+    {
+      "nombre": "Frank Collison",
+      "personaje": "Nursery Owner",
+      "foto": "https://image.tmdb.org/t/p/w500/hqzJ9DLLCjGEw4sG9shc3Aym8mT.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "M. Night Shyamalan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "M. Night Shyamalan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "M. Night Shyamalan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Barry Mendel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sam Mercer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Deven Khote",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jose L. Rodriguez",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Rusk",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gary Barber",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Roger Birnbaum",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ronnie Screwvala",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Zarina Screwvala",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Bernard",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "James Newton Howard",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tak Fujimoto",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Conrad Buff IV",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Douglas Aibel",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Stephanie Holbrook",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jeannine Oppewall",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Anthony Dunne",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "M. Night Shyamalan",
+  "valoraciones": {
+    "tmdb": 5.406,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Fox",
+  "enlace_video": "https://gscdn.cam/video/embed/4l8eej77ewrd",
+  "trailer": "https://www.youtube.com/watch?v=TIQ21m1Ks08"
+}
