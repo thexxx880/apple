@@ -1,0 +1,95 @@
+{
+  "id_tmdb": 388045,
+  "poster": "https://image.tmdb.org/t/p/w500/tIKboNPAWRhTq9xA8WyRn7dTxWg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3fEHPnm0KTyPWiZT6yEA3neLVHA.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/w9kYnHYQ9PqXnK0iOQcIdkVgaX7.png",
+  "titulo": "La Leyenda del Chupacabras",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Aventura",
+    "Fantasía",
+    "Terror",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.5,
+  "año": "2016",
+  "duracion": "1h 23min",
+  "edad_minima": 13,
+  "sinopsis": "Como parte de la saga \"Las leyendas\" Ánima Estudio ahora nos trae “La Leyenda del Chupacabras” en donde Leo San Juan, Teodora, las calaveritas de azúcar, Alebrije y Evaristo regresan para enfrentarse a una de las leyendas mexicanas más temidas y peligrosas de todos los tiempos.",
+  "fecha_estreno": "2016-10-21",
+  "titulo_original": "La Leyenda del Chupacabras",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Benny Emmanuel",
+      "personaje": "Leo San Juan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rSqiumttAOg08Auypm5Z7FpdvMS.jpg"
+    },
+    {
+      "nombre": "Emilio Treviño",
+      "personaje": "Nando San Juan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7FKIeNXd05F2RRuWGypNRhp1wvG.jpg"
+    },
+    {
+      "nombre": "Eduardo España",
+      "personaje": "Evaristo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qdqwOCZ9WbIG0YcFoe6cBuguO4H.jpg"
+    },
+    {
+      "nombre": "Mayté Cordero",
+      "personaje": "Teodora Villavicencio (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pDl6KR069aG5eRY9dHwrkyqsWUx.jpg"
+    },
+    {
+      "nombre": "Laura González",
+      "personaje": "Juanita (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Ricardo Mendoza",
+      "personaje": "Soldado Larios (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Herman López",
+      "personaje": "Alebrije (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Humberto Solórzano",
+      "personaje": "El Charro Negro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AryxOeRnzziOCaYylpZUpy9ockd.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alberto Rodríguez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Acán Coen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Alberto Rodríguez",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Leoncio Lara",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Alberto Rodríguez",
+  "valoraciones": {
+    "tmdb": 7.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Ánima Estudios",
+  "enlace_video": "https://gscdn.cam/video/embed/imnveqab95vy",
+  "trailer": "https://www.youtube.com/watch?v=yzBdChYoa2g"
+}
