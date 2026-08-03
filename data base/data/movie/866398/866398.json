@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 866398,
+  "poster": "https://image.tmdb.org/t/p/w500/9X8EhbSpYrf6pGFGttWtVDAs9Hr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f0ACHVpV707zqu4etZrXnWNdSgL.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kU7iTzvZ1GbQZMpWsP6wcqhZNoj.png",
+  "titulo": "Beekeeper: Sentencia de muerte",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.28,
+  "año": "2024",
+  "duracion": "1h 46min",
+  "edad_minima": 13,
+  "sinopsis": "La brutal campaña de venganza de un hombre adquiere dimensiones nacionales cuando se descubre que es un antiguo agente de una poderosa organización clandestina conocida como \"Los apicultores\".",
+  "fecha_estreno": "2024-01-08",
+  "titulo_original": "The Beekeeper",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Jason Statham",
+      "personaje": "Adam Clay",
+      "foto": "https://image.tmdb.org/t/p/w500/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+    },
+    {
+      "nombre": "Emmy Raver-Lampman",
+      "personaje": "Agent Verona Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/cBkHUBzqoqrnkxDXWlqQmm91pD2.jpg"
+    },
+    {
+      "nombre": "Josh Hutcherson",
+      "personaje": "Derek Danforth",
+      "foto": "https://image.tmdb.org/t/p/w500/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+    },
+    {
+      "nombre": "Jeremy Irons",
+      "personaje": "Wallace Westwyld",
+      "foto": "https://image.tmdb.org/t/p/w500/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+    },
+    {
+      "nombre": "Bobby Naderi",
+      "personaje": "Agent Matt Wiley",
+      "foto": "https://image.tmdb.org/t/p/w500/3jfEwF7vyCTIDPPm2OFoFlEEVA0.jpg"
+    },
+    {
+      "nombre": "David Witts",
+      "personaje": "Mickey Garnett",
+      "foto": "https://image.tmdb.org/t/p/w500/kqelxzQqffd1Qcz8VKOYSpoP7p8.jpg"
+    },
+    {
+      "nombre": "Michael Epp",
+      "personaje": "Pettis",
+      "foto": "https://image.tmdb.org/t/p/w500/3Nz3sX7QISm5e6mWNvJDKUD2Qyd.jpg"
+    },
+    {
+      "nombre": "Taylor James",
+      "personaje": "Lazarus",
+      "foto": "https://image.tmdb.org/t/p/w500/sMMCf0O7GcbJZoxmyWAbU6CsN6B.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jason Statham",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kurt Wimmer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bill Block",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kurt Wimmer",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "David Ayer",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chris Long",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Ayer",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sophie Newman",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Abbie Clayton",
+      "rol": "Set Production Assistant"
+    },
+    {
+      "nombre": "Philippa Howson",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Christopher S. Aud",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Dorian Burnett",
+      "rol": "Special Effects Technician"
+    },
+    {
+      "nombre": "Shaun Cobley",
+      "rol": "\"A\" Camera Operator"
+    },
+    {
+      "nombre": "Gabriel Beristain",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Geoffrey O'Brien",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Andrew Applin",
+      "rol": "Standby Carpenter"
+    },
+    {
+      "nombre": "Makana Sylva",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Vanluke Watson",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Nathan Holt",
+      "rol": "Set Dresser"
+    }
+  ],
+  "director": "David Ayer",
+  "valoraciones": {
+    "tmdb": 7.28,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Miramax",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/l/0/7/t/l07tr.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=oJm0t84q8c8"
+}
