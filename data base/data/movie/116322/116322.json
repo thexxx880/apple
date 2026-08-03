@@ -1,0 +1,110 @@
+{
+  "id_tmdb": 116322,
+  "poster": "https://image.tmdb.org/t/p/w500/vBiqoYfDIWKKzZTiQScqgCO09UD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bPFxOjKOl82QSrMqkH6UGIkyPvm.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nyPavk6syJBKPGh2DjeHewck621.png",
+  "titulo": "La Leyenda de la Llorona",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Fantasía",
+    "Terror"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.849,
+  "año": "2011",
+  "duracion": "1h 15min",
+  "edad_minima": 13,
+  "sinopsis": "Leo San Juan, a un año de haber derrotado al espíritu de La Nahuala, se enfrenta ahora a su primera gran misión: liberar a Xochimilco de La Llorona, el espíritu de una mujer que durante cientos de años ha asolado a la comunidad y ha secuestrado a decenas de niños. Con la ayuda de El Alebrije, Don Andrés y los niños Calaca, Leo planea vencerla. Sin embargo, el poder de ella hará que nuestro héroe y sus aliados se separen, enfrentando cada quien por su lado los peligros que aparecen en un Xochimilco embrujado por las lágrimas de La Llorona y las fuerzas obscuras que, desde la antigüedad, acechan detrás de este terrible monstruo.",
+  "fecha_estreno": "2011-10-21",
+  "titulo_original": "La Leyenda de la Llorona",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Rafael Inclán",
+      "personaje": "Alebrije (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dzarzpXKLpfsnREZO5t0wdQgHSp.jpg"
+    },
+    {
+      "nombre": "Yair Prado",
+      "personaje": "Leo San Juan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/elcwn63ZJ3ZZGMpiaZ3PboseHlj.jpg"
+    },
+    {
+      "nombre": "Mónica del Carmen",
+      "personaje": "Kika (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mMVTISzRtJWG8z7YEVfJrikkvLF.jpg"
+    },
+    {
+      "nombre": "Mayté Cordero",
+      "personaje": "Teodora Villavicencio (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pDl6KR069aG5eRY9dHwrkyqsWUx.jpg"
+    },
+    {
+      "nombre": "Rosario Zúñiga",
+      "personaje": "Rosa (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Mercedes Hernández",
+      "personaje": "Yoltzin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2pC5Lv1eiItvAxeEe8KTbRlM1wY.jpg"
+    },
+    {
+      "nombre": "Andrés Couturier",
+      "personaje": "Don Andres / Pujo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/63bXYLamnqYnSl2U9MrE78afH7e.jpg"
+    },
+    {
+      "nombre": "Rocío Lara",
+      "personaje": "La Llorona (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/e5UnWyILVhjXhvB0hGrxhuJuehh.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alberto Rodríguez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ricardo Arnaiz",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Alberto Rodríguez",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Omar Mustre",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jesús Guzmán",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "José C. García de Letona",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fernando De Fuentes Sainz",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Leoncio Lara",
+      "rol": "Music Director"
+    }
+  ],
+  "director": "Alberto Rodríguez",
+  "valoraciones": {
+    "tmdb": 7.849,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Ánima Estudios",
+  "enlace_video": "https://gscdn.cam/video/embed/n2jkejmdo6hc",
+  "trailer": "https://www.youtube.com/watch?v=djI8bX5NXj4"
+}
