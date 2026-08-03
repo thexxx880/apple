@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 18,
+  "poster": "https://image.tmdb.org/t/p/w500/4IgMSK6ehZcfniZoWFRLSxEPcHS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jW21PoKwqs79wk6bfiYezox63mK.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xmSfmWcRZ4saSya42cuyL25ZM7j.png",
+  "titulo": "El Quinto Elemento",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.587,
+  "año": "1997",
+  "duracion": "2h 6min",
+  "edad_minima": 13,
+  "sinopsis": "Cada 5.000 años se abre una puerta entre las dimensiones. En una dimensión existe el Universo y la vida. En la otra dimensión existe un elemento que no está hecho ni de tierra, ni de fuego, ni de aire, ni de agua, sino que es una anti-energía, la anti-vida: es el quinto elemento.",
+  "fecha_estreno": "1997-05-02",
+  "titulo_original": "Le Cinquième Élément",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Bruce Willis",
+      "personaje": "Korben Dallas",
+      "foto": "https://image.tmdb.org/t/p/w500/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+    },
+    {
+      "nombre": "Milla Jovovich",
+      "personaje": "Leeloo",
+      "foto": "https://image.tmdb.org/t/p/w500/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+    },
+    {
+      "nombre": "Gary Oldman",
+      "personaje": "Zorg",
+      "foto": "https://image.tmdb.org/t/p/w500/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+    },
+    {
+      "nombre": "Ian Holm",
+      "personaje": "Cornelius",
+      "foto": "https://image.tmdb.org/t/p/w500/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+    },
+    {
+      "nombre": "Chris Tucker",
+      "personaje": "Ruby Rhod",
+      "foto": "https://image.tmdb.org/t/p/w500/rE5OaSWp45pNpMm2TYbAwLgYoCn.jpg"
+    },
+    {
+      "nombre": "Luke Perry",
+      "personaje": "Billy",
+      "foto": "https://image.tmdb.org/t/p/w500/78TAr0wLoRHyubnYxjyHNCt70V2.jpg"
+    },
+    {
+      "nombre": "Brion James",
+      "personaje": "General Munro",
+      "foto": "https://image.tmdb.org/t/p/w500/qy5jIIsWrNCV1OVRaUiqYNhLLVT.jpg"
+    },
+    {
+      "nombre": "Tommy Lister Jr.",
+      "personaje": "President Lindberg",
+      "foto": "https://image.tmdb.org/t/p/w500/kHrfRLYyLhwfJEHHH8VNK9SyxpO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Luc Besson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robert Mark Kamen",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Patrice Ledoux",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sylvie Landra",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sarah Bradshaw",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Thierry Arbogast",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jim Morahan",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Pascal Chaumeil",
+      "rol": "Second Unit"
+    },
+    {
+      "nombre": "Jean-Paul Gaultier",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Maggie Gray",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Michael Lamont",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "John A. Amicarella",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Barrie Melrose",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Ira Gilford",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Kevin Phipps",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Luc Besson",
+  "valoraciones": {
+    "tmdb": 7.587,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gaumont",
+  "enlace_video": "https://gscdn.cam/video/embed/ej1f2tbiiv1a",
+  "trailer": "https://www.youtube.com/watch?v=5Sg2RkdkSvk"
+}
