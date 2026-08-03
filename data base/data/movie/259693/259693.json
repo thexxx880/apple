@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 259693,
+  "poster": "https://image.tmdb.org/t/p/w500/x4jUJ0fF60SSOeUUTkaRtmnDvwG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hD9zZYKYb1xBgcm8XIfyvclSkjs.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/u6eAzXyIYEy8Kj2Wi3pnE658N60.png",
+  "titulo": "El Conjuro 2",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.3,
+  "año": "2016",
+  "duracion": "2h 14min",
+  "edad_minima": 13,
+  "sinopsis": "En está ocasión, Lorraine y Ed Warren viajan al norte de Londres para ayudar a una madre soltera que cría a cuatro hijos sola en una casa plagada de espíritus malignos.",
+  "fecha_estreno": "2016-06-08",
+  "titulo_original": "The Conjuring 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Vera Farmiga",
+      "personaje": "Lorraine Warren",
+      "foto": "https://image.tmdb.org/t/p/w500/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+    },
+    {
+      "nombre": "Patrick Wilson",
+      "personaje": "Ed Warren",
+      "foto": "https://image.tmdb.org/t/p/w500/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+    },
+    {
+      "nombre": "Madison Wolfe",
+      "personaje": "Janet Hodgson",
+      "foto": "https://image.tmdb.org/t/p/w500/ir4dNcm1mmTuK4knqT8XivkwJPo.jpg"
+    },
+    {
+      "nombre": "Frances O'Connor",
+      "personaje": "Peggy Hodgson",
+      "foto": "https://image.tmdb.org/t/p/w500/tWGMS7DciV43tlxA6UEc2UqxrhL.jpg"
+    },
+    {
+      "nombre": "Lauren Esposito",
+      "personaje": "Margaret Hodgson",
+      "foto": "https://image.tmdb.org/t/p/w500/baHUTkriO7xY7HBZM5bYphTQIWJ.jpg"
+    },
+    {
+      "nombre": "Benjamin Haigh",
+      "personaje": "Billy Hodgson",
+      "foto": "https://image.tmdb.org/t/p/w500/9PKwxJfYOgxAkZurTTY17EdIPGY.jpg"
+    },
+    {
+      "nombre": "Patrick McAuley",
+      "personaje": "Johnny Hodgson",
+      "foto": "https://image.tmdb.org/t/p/w500/41HQu8aQPMcNi9kbiCpUCGHcX95.jpg"
+    },
+    {
+      "nombre": "Sterling Jerins",
+      "personaje": "Judy Warren",
+      "foto": "https://image.tmdb.org/t/p/w500/10kkqqbO8Ct58DqsBPSQIsG9ve4.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chad Hayes",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Chad Hayes",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Carey Hayes",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Carey Hayes",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Story"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Leslie Johnson-McGoldrick",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Toby Emmerich",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Richard Brener",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dave Neustadter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jenny Hinkey",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Albert Cho",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Conte Mark Matal",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Joel Kramer",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "John Rottger",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Norb Phillips",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Kelli Barksdale",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Lloyd Bass",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Emily Brobst",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "James Wan",
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://gscdn.cam/video/embed/ht999cergw48",
+  "trailer": "https://www.youtube.com/watch?v=bynhxcPQRYA"
+}
