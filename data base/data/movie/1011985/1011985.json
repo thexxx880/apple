@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 1011985,
+  "poster": "https://image.tmdb.org/t/p/w500/7JspmokDnpm8SEg28wtstfGps0K.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3ffPx9jqg0yj9y1KWeagT7D20CB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/QeAYsp12oO1o9vc1CTBDxxKgJk.png",
+  "titulo": "Kung Fu Panda 4",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.005,
+  "año": "2024",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Po se está preparando para convertirse en el líder espiritual de su Valle de la Paz, pero también necesita a alguien que ocupe su lugar como Guerrero Dragón. Como tal, entrenará a un nuevo practicante de kung fu para el lugar y se encontrará con un villano llamado Camaleón que evoca villanos del pasado.",
+  "fecha_estreno": "2024-03-02",
+  "titulo_original": "Kung Fu Panda 4",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jack Black",
+      "personaje": "Po (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "nombre": "Awkwafina",
+      "personaje": "Zhen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg"
+    },
+    {
+      "nombre": "Viola Davis",
+      "personaje": "The Chameleon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
+    },
+    {
+      "nombre": "Dustin Hoffman",
+      "personaje": "Shifu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+    },
+    {
+      "nombre": "Bryan Cranston",
+      "personaje": "Li (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+    },
+    {
+      "nombre": "James Hong",
+      "personaje": "Mr. Ping (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+    },
+    {
+      "nombre": "Ian McShane",
+      "personaje": "Tai Lung (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg"
+    },
+    {
+      "nombre": "Ke Huy Quan",
+      "personaje": "Han (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iestHyn7PLuVowj5Jaa1SGPboQ4.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jonathan Aibel",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Glenn Berger",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Darren Lemke",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Rebecca Huntley",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mike Mitchell",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christopher Knights",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Justin Weg",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Natalia Cronembold",
+      "rol": "Associate Editor"
+    },
+    {
+      "nombre": "Paul Duncan",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Steve Mazzaro",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Christi Soper Hilt",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Betsy Nofsinger",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Peter Maynez",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Mary M. Quinn",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Ethan Van der Ryn",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Wayne Tsay",
+      "rol": "Visual Development"
+    }
+  ],
+  "director": "Mike Mitchell",
+  "valoraciones": {
+    "tmdb": 7.005,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/3vn4a74gsb81",
+  "trailer": "https://www.youtube.com/watch?v=d2OONzqh2jk"
+}
