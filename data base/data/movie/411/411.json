@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 411,
+  "poster": "https://image.tmdb.org/t/p/w500/5WNqb7C6EX5r752mKjnfzxGvWui.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iENpLLnQw6J35cejyGATK6EJRW9.png",
+  "titulo": "Las crónicas de Narnia: El león, la bruja y el ropero",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.14,
+  "año": "2005",
+  "duracion": "2h 30min",
+  "edad_minima": 13,
+  "sinopsis": "La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter, que durante la Segunda Guerra Mundial descubren el mundo de Narnia, al que acceden a través de un armario mágico mientras juegan al escondite en la casa de campo de un viejo profesor. En Narnia descubrirán un mundo increíble habitado por animales que hablan, duendes, faunos, centauros y gigantes al que la Bruja Blanca- Jadis- ha condenado al invierno eterno. Con la ayuda del león Aslan, el noble soberano, los niños lucharán para vencer el poder que la Bruja Blanca ejerce sobre Narnia en una espectacular batalla y conseguir así liberarle de la maldición del frío.",
+  "fecha_estreno": "2005-12-07",
+  "titulo_original": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "William Moseley",
+      "personaje": "Peter Pevensie",
+      "foto": "https://image.tmdb.org/t/p/w500/skssqN3yL90iK5b9DtSg6fEQn1f.jpg"
+    },
+    {
+      "nombre": "Anna Popplewell",
+      "personaje": "Susan Pevensie",
+      "foto": "https://image.tmdb.org/t/p/w500/7GXEPxNCbc6EtnulCEPWnEvKJIN.jpg"
+    },
+    {
+      "nombre": "Skandar Keynes",
+      "personaje": "Edmund Pevensie",
+      "foto": "https://image.tmdb.org/t/p/w500/pIdgY16c6AzmCD31pXlCR9SjLlM.jpg"
+    },
+    {
+      "nombre": "Georgie Henley",
+      "personaje": "Lucy Pevensie",
+      "foto": "https://image.tmdb.org/t/p/w500/dW7ZQfrm2A4rVtZrIPbWOUXNvsJ.jpg"
+    },
+    {
+      "nombre": "Liam Neeson",
+      "personaje": "Aslan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+    },
+    {
+      "nombre": "Tilda Swinton",
+      "personaje": "White Witch",
+      "foto": "https://image.tmdb.org/t/p/w500/dzjT4LKgs7eOma84GsPy78DsGNH.jpg"
+    },
+    {
+      "nombre": "James McAvoy",
+      "personaje": "Mr. Tumnus",
+      "foto": "https://image.tmdb.org/t/p/w500/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+    },
+    {
+      "nombre": "Jim Broadbent",
+      "personaje": "Prof. Digory Kirke",
+      "foto": "https://image.tmdb.org/t/p/w500/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Matthew Stillman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Adamson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ann Peacock",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mark Johnson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Stephen McFeely",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Philip Steuer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Minkowski",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Markus",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jim May",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Roger Ford",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Andrew Adamson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Isis Mussenden",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Harry Gregson-Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Kerrie Brown",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Perry Moore",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Donald McAlpine",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Sim Evan-Jones",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Paul Tobin",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "Larry White",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Sean Button",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Andrew Adamson",
+  "valoraciones": {
+    "tmdb": 7.14,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/hhedklidsrz9",
+  "trailer": "https://www.youtube.com/watch?v=3mKPrxjwF7A"
+}
