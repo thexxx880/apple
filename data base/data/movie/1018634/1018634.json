@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 1018634,
+  "poster": "https://image.tmdb.org/t/p/w500/zK3USkKm7vW9XYdkNlWVMOu9CT9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yKdZTl3Xu3FcKJuM8zkSoR5g21U.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/igS4FOu3LUFsCfQHvIFB4ItUGUx.png",
+  "titulo": "El conjuro de la bruja",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Terror",
+    "Acción",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.03,
+  "año": "2023",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "Nour es una traficante de animales exóticos y otros productos ilegales, un trabajo que ejerce para poder mantener a su hijo y ahorrar con el fin de mudarse con él lejos de la ciudad. Con ese mismo propósito diseña una aplicación de móvil que pone en contacto a los usuarios con curanderos místicos de la zona marabú, pero una de sus consultas ocasiona una tragedia. Nour deberá defender a su familia de una ola de violencia imparable.",
+  "fecha_estreno": "2023-10-10",
+  "titulo_original": "Roqya",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "گلشیفته فراهانی",
+      "personaje": "Nour",
+      "foto": "https://image.tmdb.org/t/p/w500/lbsd2lAIQq4egOUXDIfjhte12vv.jpg"
+    },
+    {
+      "nombre": "Amine Zariouhi",
+      "personaje": "Amine",
+      "foto": null
+    },
+    {
+      "nombre": "Denis Lavant",
+      "personaje": "Jules",
+      "foto": "https://image.tmdb.org/t/p/w500/yFbBnHd70Z0pdq6GIzn8amWvmto.jpg"
+    },
+    {
+      "nombre": "Alexis Manenti",
+      "personaje": "Father Sebastian, the exorcist",
+      "foto": "https://image.tmdb.org/t/p/w500/n9YW0FkKhxlwMhFQz3U2OokuWFZ.jpg"
+    },
+    {
+      "nombre": "Karim Belkhadra",
+      "personaje": "Lyes Boussoufi",
+      "foto": "https://image.tmdb.org/t/p/w500/aFBzQEDL7Je3D09by4auqhGWybs.jpg"
+    },
+    {
+      "nombre": "Issaka Sawadogo",
+      "personaje": "Ahmed",
+      "foto": "https://image.tmdb.org/t/p/w500/kwEZzrGHsv2Jr2cL9VBQsfDM1Gb.jpg"
+    },
+    {
+      "nombre": "Jérémy Ferrari",
+      "personaje": "Dylan",
+      "foto": "https://image.tmdb.org/t/p/w500/1tQnebzMYRGfxBQ5xSk2IefJ09j.jpg"
+    },
+    {
+      "nombre": "Fareda Mouffok",
+      "personaje": "Rabea",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Saïd Belktibia",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ladj Ly",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Saïd Belktibia",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Louis Penicaut",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mathieu Deguilhem",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Arnaud Roth",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Romain Scavazza",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Alexandre Vu",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Yann Brouet",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Emmanuelle Pastre",
+      "rol": "Set Costumer"
+    },
+    {
+      "nombre": "Mélanie Moreira",
+      "rol": "Boom Operator"
+    },
+    {
+      "nombre": "Arnaud Lavaleix",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Matthieu Etenne",
+      "rol": "Key Grip"
+    },
+    {
+      "nombre": "Sacha Kouprianoff",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Lola Diane",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Julien Martin",
+      "rol": "ADR Mixer"
+    }
+  ],
+  "director": "Saïd Belktibia",
+  "valoraciones": {
+    "tmdb": 6.03,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Iconoclast Films",
+  "enlace_video": "https://1a-1791.com/video/fww1/61/s8/2/-/b/c/k/-bckz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=iFRAG8Iq9FI"
+}
