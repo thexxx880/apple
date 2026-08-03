@@ -1,0 +1,85 @@
+{
+  "id_tmdb": 494656,
+  "poster": "https://image.tmdb.org/t/p/w500/fDLJ5vIeRL68cIHlob11w2pBzH0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3AXR3AFTHdU38OR14jfcK8FjJ5H.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wvbT9JGKZb0Ljt1oBBX9sHlFll7.png",
+  "titulo": "La Leyenda Del Charro Negro",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Fantasía",
+    "Acción",
+    "Familia",
+    "Terror"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8.1,
+  "año": "2018",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "Después de haber liberado al Chupacabras, Leo San Juan decide que es tiempo de regresar junto con su hermano Nando a casa de su abuela. A mitad del camino, el Charro Negro logra confundir a Leo, y gracias a eso, una niña inocente es transportada al inframundo. Leo se ve forzado a reparar el daño. Sus amigos irán a ayudarlo y saldrán de ahí lo antes posible. Pero no es una coincidencia que el Charro haya decidido involucrar a Leo, ya que sus intenciones van más allá de conseguir un alma nueva...",
+  "fecha_estreno": "2018-01-19",
+  "titulo_original": "La leyenda del Charro Negro",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Benny Emmanuel",
+      "personaje": "Leo San Juan (voz)",
+      "foto": "https://image.tmdb.org/t/p/w500/rSqiumttAOg08Auypm5Z7FpdvMS.jpg"
+    },
+    {
+      "nombre": "Annie Rojas",
+      "personaje": "Xóchitl Ahuactzin (voz)",
+      "foto": "https://image.tmdb.org/t/p/w500/n6wZezP3kN0EKP3hX5fA8L1j0Vl.jpg"
+    },
+    {
+      "nombre": "Emilio Treviño",
+      "personaje": "Nando San Juan (voz)",
+      "foto": "https://image.tmdb.org/t/p/w500/7FKIeNXd05F2RRuWGypNRhp1wvG.jpg"
+    },
+    {
+      "nombre": "Mayté Cordero",
+      "personaje": "Teodora Villavicencio (voz)",
+      "foto": "https://image.tmdb.org/t/p/w500/pDl6KR069aG5eRY9dHwrkyqsWUx.jpg"
+    },
+    {
+      "nombre": "Erick Elías",
+      "personaje": "Charro Negro (voz)",
+      "foto": "https://image.tmdb.org/t/p/w500/XFaYUeMu4vo1FiP23UfPWxslNb.jpg"
+    },
+    {
+      "nombre": "Andrés Couturier",
+      "personaje": "Don Andrés (voz)",
+      "foto": "https://image.tmdb.org/t/p/w500/63bXYLamnqYnSl2U9MrE78afH7e.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alberto Rodríguez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Israel Hernández",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Alberto Rodríguez",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Leoncio Lara",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Alberto Rodríguez",
+  "valoraciones": {
+    "tmdb": 8.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Ánima Estudios",
+  "enlace_video": "https://gscdn.cam/video/embed/0mb12d6qh75h",
+  "trailer": "https://www.youtube.com/watch?v=eji78BJCXZY"
+}
