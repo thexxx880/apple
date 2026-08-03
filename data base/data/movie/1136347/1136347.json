@@ -1,0 +1,115 @@
+{
+  "id_tmdb": 1136347,
+  "poster": "https://image.tmdb.org/t/p/w500/g95fhs7w9LjLefMCLsMDFMoZ44x.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/r5JPFrwZyFwPQyLu4oXhm5h5tg1.jpg",
+  "logo": null,
+  "titulo": "La monja mala 3",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.1,
+  "año": "2024",
+  "duracion": "1h 12min",
+  "edad_minima": 13,
+  "sinopsis": "La monja ha regresado y ha puesto su mirada en una chica sola en las montañas.",
+  "fecha_estreno": "2024-01-05",
+  "titulo_original": "The Bad Nun 3",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Danielle Scott",
+      "personaje": "Jenny",
+      "foto": "https://image.tmdb.org/t/p/w500/ijFTK3OADnuAIjpRTbzuiZYnlYA.jpg"
+    },
+    {
+      "nombre": "Kelly Rian Sanson",
+      "personaje": "Mara Dohana",
+      "foto": "https://image.tmdb.org/t/p/w500/bx6qQl6mF5tQB8cL4BMq7nnNnUs.jpg"
+    },
+    {
+      "nombre": "Charlotte Coleman",
+      "personaje": "Dina Dohana",
+      "foto": "https://image.tmdb.org/t/p/w500/hLMhHjT8T3jtxtXcH9NTSVzPrgL.jpg"
+    },
+    {
+      "nombre": "Connor Powles",
+      "personaje": "Karl",
+      "foto": "https://image.tmdb.org/t/p/w500/oO2qqlbfTXZYGqqBROs1BOUS8EU.jpg"
+    },
+    {
+      "nombre": "Matt Tolson",
+      "personaje": "John",
+      "foto": null
+    },
+    {
+      "nombre": "Stephen Stallone Thomas",
+      "personaje": "Mike",
+      "foto": "https://image.tmdb.org/t/p/w500/6XBzumE0OSJ8S9K0kyH09OjoYwL.jpg"
+    },
+    {
+      "nombre": "Alesia Lifantii",
+      "personaje": "Lucy Lumley",
+      "foto": null
+    },
+    {
+      "nombre": "Arthur Edwards",
+      "personaje": "Leo",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Francesco Gabriele",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Becca Hirani",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tyler-James",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Oak Dalton",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Corry Raymond",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "James Daynolo",
+      "rol": "Second Assistant Camera"
+    },
+    {
+      "nombre": "James Cox",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Jecelnena Gubatan",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Stuart Alson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicole Holland",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Francesco Gabriele",
+  "valoraciones": {
+    "tmdb": 6.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Proportion Productions",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/f/V/d/c/fVdct.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=h9JssyNWICQ"
+}
