@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 13155,
+  "poster": "https://image.tmdb.org/t/p/w500/lWkSiJz7And3VgnCa6DOczgle0D.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p6zh3jTuuhNfsUhUCEajEizDC9K.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/A0s0bpfptoX125VjbEQ19A63ySr.png",
+  "titulo": "Oz, un mundo fantástico",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.708,
+  "año": "1985",
+  "duracion": "1h 49min",
+  "edad_minima": 13,
+  "sinopsis": "Continuación de la conocida historia de \"El mago de Oz\", en la que Dorothy (Fairuza Balk), de vuelta en Kansas, echa de menos sus aventuras en Oz. Su tía la lleva a un famoso doctor que dice hacer milagros con la electricidad. El azar hace que el tratamiento salga al revés, y Dorothy regresa a Oz. Allí intentará encontrar a sus antiguos amigos en la ciudad Esmeralda, pero el malvado rey Nome los ha transformado.",
+  "fecha_estreno": "1985-06-21",
+  "titulo_original": "Return to Oz",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Fairuza Balk",
+      "personaje": "Dorothy",
+      "foto": "https://image.tmdb.org/t/p/w500/jJGfElPOapRPRm99eovc3EUgLxp.jpg"
+    },
+    {
+      "nombre": "Nicol Williamson",
+      "personaje": "Dr. Worley / Nome King",
+      "foto": "https://image.tmdb.org/t/p/w500/hCGo3mIwSIE9VDOALwEfZUN7BGw.jpg"
+    },
+    {
+      "nombre": "Jean Marsh",
+      "personaje": "Nurse Wilson / Mombi",
+      "foto": "https://image.tmdb.org/t/p/w500/x4ZPhTWCn0BTLiTz2YnXUSRJJxT.jpg"
+    },
+    {
+      "nombre": "Piper Laurie",
+      "personaje": "Aunt Em",
+      "foto": "https://image.tmdb.org/t/p/w500/ccMC4RssRDKU6cz6K7rxiq1t2Hp.jpg"
+    },
+    {
+      "nombre": "Matt Clark",
+      "personaje": "Uncle Henry",
+      "foto": "https://image.tmdb.org/t/p/w500/n5TJz5CaTqRXLpAOl0wHJXrPQOk.jpg"
+    },
+    {
+      "nombre": "Michael Sundin",
+      "personaje": "Tik Tok",
+      "foto": "https://image.tmdb.org/t/p/w500/tjmc3exBr033iYtcnD3fZe0nN3M.jpg"
+    },
+    {
+      "nombre": "Tim Rose",
+      "personaje": "Tik Tok",
+      "foto": "https://image.tmdb.org/t/p/w500/7sRwkGOjXq56CUfaXbgtrHwdpoJ.jpg"
+    },
+    {
+      "nombre": "Sean Barrett",
+      "personaje": "Tik Tok (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/i2SvDD2QMYwadsZbpL1RJA34i10.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Walter Murch",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paul Maslansky",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Walter Murch",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gill Dennis",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Shire",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Gary Kurtz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Watkin",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Leslie Hodgson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Andy Bradford",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Cheryl Brown",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Alison Lynn",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Gareth Milne",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Nicola Roche",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Tip Tipping",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Sarah White",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Elaine Ford",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Walter Murch",
+  "valoraciones": {
+    "tmdb": 6.708,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Oz Productions Ltd.",
+  "enlace_video": "https://gscdn.cam/video/embed/obnksmvee0z3",
+  "trailer": "https://www.youtube.com/watch?v=14EEGw_sdDQ"
+}
