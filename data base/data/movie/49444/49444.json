@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 49444,
+  "poster": "https://image.tmdb.org/t/p/w500/aNji9U9SPTecmoqGippQUBEyouy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/reHkSQwiYKK4SabnGDY1FWKie82.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/n52KkzjoXr0WriwE2XTkD36gLLI.png",
+  "titulo": "Kung Fu Panda 2",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia",
+    "Acción"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.077,
+  "año": "2011",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "Po está ahora viviendo su sueño como el Guerrero del Dragón, protegiendo el Valle de la Paz junto a sus amigos y sus compañeros maestros del kung fu. Los Cinco Furiosos. Pero su nueva e impresionante vida se encuentra amenazada por la aparición de un villano formidable, que planea usar un arma secreta imparable para conquistar China y destruir el kung fu. Po debe volver la vista a su pasado para descubrir los secretos de su misterioso origen; solo entonces podrá adquirir la fuerza que necesita para vencer.",
+  "fecha_estreno": "2011-05-25",
+  "titulo_original": "Kung Fu Panda 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jack Black",
+      "personaje": "Po (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "nombre": "Angelina Jolie",
+      "personaje": "Tigress (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
+    },
+    {
+      "nombre": "Dustin Hoffman",
+      "personaje": "Master Shifu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+    },
+    {
+      "nombre": "Gary Oldman",
+      "personaje": "Lord Shen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+    },
+    {
+      "nombre": "Jackie Chan",
+      "personaje": "Monkey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "nombre": "Lucy Liu",
+      "personaje": "Viper (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
+    },
+    {
+      "nombre": "Seth Rogen",
+      "personaje": "Mantis (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+      "nombre": "David Cross",
+      "personaje": "Crane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aYsbAtUu5oWk1p8RY31k3w5Emul.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jennifer Yuh Nelson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Melissa Cobb",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jonathan Aibel",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Glenn Berger",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Chen-Yi Chang",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ryan Crego",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Derek Drymon",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ed Gombert",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Steve Cunningham",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Kendra Vander Vliet",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Jean-Francois Rey",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Josh LaBrot",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Claire Williams",
+      "rol": "Compositors"
+    },
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John Powell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Maryann Brandon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Clare Knight",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Suzanne Buirgy",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Glenn Berger",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jonathan Aibel",
+      "rol": "Co-Producer"
+    }
+  ],
+  "director": "Jennifer Yuh Nelson",
+  "valoraciones": {
+    "tmdb": 7.077,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/s8/2/0/H/4/l/0H4lm.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=FQ63rqSRrEI"
+}
