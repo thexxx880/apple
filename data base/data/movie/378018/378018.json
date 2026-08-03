@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 378018,
+  "poster": "https://image.tmdb.org/t/p/w500/iDBMq3mTtXueCNo9P4I4o4Ut4iM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oZwwwezJFlHmQGBRJDLmENXwOIt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jWGVURGJCMPVobiDHop8rytLoUh.png",
+  "titulo": "Conjuros del más allá",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Terror",
+    "Ciencia ficción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.017,
+  "año": "2016",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "Un policía traslada a un hombre herido a un pequeño hospital, y la violencia no tarda en desatarse. Los pocos médicos y pacientes que hay se ven rodeados por unos encapuchados y amenazados por una extraña criatura que crece dentro del hospital.",
+  "fecha_estreno": "2016-09-22",
+  "titulo_original": "The Void",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Aaron Poole",
+      "personaje": "Daniel Carter",
+      "foto": "https://image.tmdb.org/t/p/w500/4amEyfzcaHq8DBLpkFjmqg5wwwS.jpg"
+    },
+    {
+      "nombre": "Kathleen Munroe",
+      "personaje": "Allison",
+      "foto": "https://image.tmdb.org/t/p/w500/co8l2AzgtCnx4SgJpcqDrIfIxli.jpg"
+    },
+    {
+      "nombre": "Art Hindle",
+      "personaje": "Mitchell",
+      "foto": "https://image.tmdb.org/t/p/w500/lhoh2KGtDfSjiIJSKT9ymTypPCf.jpg"
+    },
+    {
+      "nombre": "Daniel Fathers",
+      "personaje": "Vincent",
+      "foto": "https://image.tmdb.org/t/p/w500/b0qxCiBh5h0BSE4Hik4W1GxWrNx.jpg"
+    },
+    {
+      "nombre": "Kenneth Welsh",
+      "personaje": "Dr. Richard Powell",
+      "foto": "https://image.tmdb.org/t/p/w500/hsmY2HaIdOEoTBtwFPxQLyLymYw.jpg"
+    },
+    {
+      "nombre": "Ellen Wong",
+      "personaje": "Kim",
+      "foto": "https://image.tmdb.org/t/p/w500/4XUSp0qEwEOAwqBMD3ZdDXf4BIg.jpg"
+    },
+    {
+      "nombre": "Stephanie Belding",
+      "personaje": "Beverly",
+      "foto": "https://image.tmdb.org/t/p/w500/4WIJ20f0v2EJ6SurBaMA6qecCE5.jpg"
+    },
+    {
+      "nombre": "Mik Byskov",
+      "personaje": "Simon",
+      "foto": "https://image.tmdb.org/t/p/w500/v5q9uLHkmXkm7GsYiEVFcLBHbp3.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jeremy Gillespie",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Steven Kostanski",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jeremy Gillespie",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Steven Kostanski",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jonathan Bronfman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Casey Walker",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Casey Walker",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Geoff D.E. Scott",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Che Spencer",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Zane Knisely",
+      "rol": "Makeup Effects"
+    },
+    {
+      "nombre": "Tisha Myles",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Chris Harmsworth",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Cam McLauchlin",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Stefano Beninati",
+      "rol": "Special Effects Coordinator"
+    },
+    {
+      "nombre": "Jeff Derushie",
+      "rol": "Makeup Effects"
+    },
+    {
+      "nombre": "Van Echeverri",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Stefano Beninati",
+      "rol": "Armorer"
+    },
+    {
+      "nombre": "Chantal Gravel",
+      "rol": "Hairstylist"
+    }
+  ],
+  "director": "Jeremy Gillespie",
+  "valoraciones": {
+    "tmdb": 6.017,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "XYZ Films",
+  "enlace_video": "https://gscdn.cam/video/embed/ckow4ek95kgz",
+  "trailer": "https://www.youtube.com/watch?v=IkmSNt4moNg"
+}
