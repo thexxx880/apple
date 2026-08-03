@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 439079,
+  "poster": "https://image.tmdb.org/t/p/w500/7fxjwtEvqI1BYkXEbGqJ3dQBgXD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cMnVmutb5mVgIBeiMOncAbwNjvG.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ljgxkgcdmWfU5XW6VgK5EpfcxLa.png",
+  "titulo": "La monja",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 5.91,
+  "año": "2018",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando una joven monja se suicida en una abadía de clausura en Rumania, un sacerdote experto en posesiones demoniacas y una novicia a punto de tomar sus votos, son enviados por el Vaticano para investigar. Juntos descubren el profano secreto de la orden.",
+  "fecha_estreno": "2018-09-05",
+  "titulo_original": "The Nun",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Taissa Farmiga",
+      "personaje": "Sister Irene",
+      "foto": "https://image.tmdb.org/t/p/w500/jMDY4rFh2SFINj0wzoX10Roye3n.jpg"
+    },
+    {
+      "nombre": "Demián Bichir",
+      "personaje": "Father Burke",
+      "foto": "https://image.tmdb.org/t/p/w500/dur9tX8tbDDJE5mSOZkuW2VDGz4.jpg"
+    },
+    {
+      "nombre": "Bonnie Aarons",
+      "personaje": "The Nun / Valak",
+      "foto": "https://image.tmdb.org/t/p/w500/iEtWuoXKx4ZKbIWwJp1V76Heavy.jpg"
+    },
+    {
+      "nombre": "Jonas Bloquet",
+      "personaje": "Maurice Theriault",
+      "foto": "https://image.tmdb.org/t/p/w500/ivbElHgLKv8PaVc2A9zIZSMSPcv.jpg"
+    },
+    {
+      "nombre": "Ingrid Bisu",
+      "personaje": "Sister Oana",
+      "foto": "https://image.tmdb.org/t/p/w500/ndXpP6itF7oSDQwIoHLVZCekNSg.jpg"
+    },
+    {
+      "nombre": "Patrick Wilson",
+      "personaje": "Ed Warren",
+      "foto": "https://image.tmdb.org/t/p/w500/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+    },
+    {
+      "nombre": "Vera Farmiga",
+      "personaje": "Lorraine Warren",
+      "foto": "https://image.tmdb.org/t/p/w500/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+    },
+    {
+      "nombre": "Lili Taylor",
+      "personaje": "Carolyn Perron",
+      "foto": "https://image.tmdb.org/t/p/w500/vWcMUi3QyvCr3QuFbjtwyPx7WtU.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Corin Hardy",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Gary Dauberman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Safran",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Gary Dauberman",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Amy Greene",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Michael Owen",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "David Paul Olsen",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Annie Chasse",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Rosine 'Ace' Hatem",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Niculae Cristian Bogdan",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Tammie Baird",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Adrian Nita",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Petre Marin",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Michael Clear",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gary Dauberman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kurt Bryant",
+      "rol": "Stunt Coordinator"
+    }
+  ],
+  "director": "Corin Hardy",
+  "valoraciones": {
+    "tmdb": 5.91,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://gscdn.cam/video/embed/z5lez9jjbp0z",
+  "trailer": "https://www.youtube.com/watch?v=UvMVjwwZOF4"
+}
