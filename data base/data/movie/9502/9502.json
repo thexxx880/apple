@@ -1,0 +1,154 @@
+{
+  "id_tmdb": 9502,
+  "poster": "https://image.tmdb.org/t/p/w500/zcORJ8s9zsBjvKxP0k4FASQSjpf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qdthf9WrRDSaIkGVQGhhJ9pz1hn.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8WKDWnKfoG0IdhBikwif9XWlRrX.png",
+  "titulo": "Kung Fu Panda",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.332,
+  "año": "2008",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando el Valle de la Paz se ve amenazado, el perezoso Po el panda descubre su destino como el “elegido” y se entrena para convertirse en un héroe de kung fu, pero no será fácil transformar al vago desaliñado en un valiente guerrero. Depende del Maestro Shifu y los Cinco Furiosos: Tigresa, Grulla, Mantis, Víbora y Mono: intentarlo.",
+  "fecha_estreno": "2008-06-04",
+  "titulo_original": "Kung Fu Panda",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jack Black",
+      "personaje": "Po (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "nombre": "Dustin Hoffman",
+      "personaje": "Master Shifu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+    },
+    {
+      "nombre": "Angelina Jolie",
+      "personaje": "Tigress (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
+    },
+    {
+      "nombre": "Ian McShane",
+      "personaje": "Tai Lung (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg"
+    },
+    {
+      "nombre": "Seth Rogen",
+      "personaje": "Mantis (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+      "nombre": "Lucy Liu",
+      "personaje": "Viper (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
+    },
+    {
+      "nombre": "David Cross",
+      "personaje": "Crane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aYsbAtUu5oWk1p8RY31k3w5Emul.jpg"
+    },
+    {
+      "nombre": "Randall Duk Kim",
+      "personaje": "Master Oogway (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/31T1gSUP67F2qPI3x6uLJn3Sat7.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Glenn Berger",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mark Osborne",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Stevenson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ethan Reiff",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Cyrus Voris",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Melissa Cobb",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jonathan Aibel",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John Powell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Yong Duk Jhun",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "C.K. Horness",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jennifer Yuh Nelson",
+      "rol": "Head of Story"
+    },
+    {
+      "nombre": "James Baxter",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Pat Sito",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "Simon Otto",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Claire Williams",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "Gabe Hordos",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Wayne Hellinger",
+      "rol": "Post Production Coordinator"
+    },
+    {
+      "nombre": "Raymond Zibach",
+      "rol": "Production Design"
+    }
+  ],
+  "director": "Mark Osborne",
+  "valoraciones": {
+    "tmdb": 7.332,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/da/s8/2/k/M/g/3/kMg3y.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=NRc-ze7Wrxw"
+}
