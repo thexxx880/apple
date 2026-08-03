@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 8247,
+  "poster": "https://image.tmdb.org/t/p/w500/jtd5jdh3rquFMr25qoRAENwlwa7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5A1ObQ0fGNHVWivBdlJyO586BTK.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/f8qxi6joYmLtqc8LRWpUEu35ubU.png",
+  "titulo": "Jumper",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.17,
+  "año": "2008",
+  "duracion": "1h 28min",
+  "edad_minima": 13,
+  "sinopsis": "David Rice es un hombre que no conoce fronteras, un Jumper, nacido con la extraña habilidad de teletransportarse instantáneamente a cualquier lugar de la Tierra. Cuando descubre a otros como él, David es empujado a una peligrosa y sangrienta guerra mientras es perseguido por un grupo siniestro y determinado de fanáticos que han jurado destruir a todos los Jumpers. ¡Ahora, el don extraordinario de David puede ser su única esperanza de supervivencia!",
+  "fecha_estreno": "2008-02-13",
+  "titulo_original": "Jumper",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Hayden Christensen",
+      "personaje": "David Rice",
+      "foto": "https://image.tmdb.org/t/p/w500/RuwAecNK9VDeTrfw6LUE4q4rIt.jpg"
+    },
+    {
+      "nombre": "Jamie Bell",
+      "personaje": "Griffin",
+      "foto": "https://image.tmdb.org/t/p/w500/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg"
+    },
+    {
+      "nombre": "Samuel L. Jackson",
+      "personaje": "Roland",
+      "foto": "https://image.tmdb.org/t/p/w500/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
+    },
+    {
+      "nombre": "Rachel Bilson",
+      "personaje": "Millie Harris",
+      "foto": "https://image.tmdb.org/t/p/w500/jlacH60rFke82EfuvFqgjcxPIx0.jpg"
+    },
+    {
+      "nombre": "Michael Rooker",
+      "personaje": "William Rice",
+      "foto": "https://image.tmdb.org/t/p/w500/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+    },
+    {
+      "nombre": "Diane Lane",
+      "personaje": "Mary Rice",
+      "foto": "https://image.tmdb.org/t/p/w500/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
+    },
+    {
+      "nombre": "AnnaSophia Robb",
+      "personaje": "Young Millie",
+      "foto": "https://image.tmdb.org/t/p/w500/tWlnAuyQeFidHcAo2zUVxNv0G0T.jpg"
+    },
+    {
+      "nombre": "Max Thieriot",
+      "personaje": "Young David",
+      "foto": "https://image.tmdb.org/t/p/w500/aBiTMI3qB6FPOVhXw7b15pjJkmL.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Arnon Milchan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jim Uhls",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Doug Liman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lucas Foster",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeffrey Harlacker",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Georgina Pope",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jay Sanders",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stacy Maes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Oliver Scholl",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ralph Vicinanza",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kim H. Winther",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Saar Klein",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Steven Gould",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Barry Peterson",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Dean Zimmerman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Don Zimmerman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Magali Guidasci",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Vince Gerardis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Martin L. Mercer",
+      "rol": "Storyboard Artist"
+    }
+  ],
+  "director": "Doug Liman",
+  "valoraciones": {
+    "tmdb": 6.17,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Dune Entertainment",
+  "enlace_video": "https://gscdn.cam/video/embed/4p5mupcx2mr9",
+  "trailer": "https://www.youtube.com/watch?v=hY5vDXOW4Nk"
+}
