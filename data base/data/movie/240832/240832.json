@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 240832,
+  "poster": "https://image.tmdb.org/t/p/w500/uy2TvHFwgKk6UzxxKnPsLkbQwTt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1hzH1Wu2xhXBNOWzw3RMwNTJX5q.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ax3ZZ1zY19ChEkZ45Ie7OxjTabt.png",
+  "titulo": "Lucy",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.475,
+  "año": "2014",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "Thriller de acción que sigue los pasos de una mujer envuelta involuntariamente en un asunto muy oscuro del que sabrá salir utilizando a sus captores, y que acabará transformándose en una guerrera despiadada cuya evolución supera la lógica humana.",
+  "fecha_estreno": "2014-07-25",
+  "titulo_original": "Lucy",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Scarlett Johansson",
+      "personaje": "Lucy",
+      "foto": "https://image.tmdb.org/t/p/w500/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "nombre": "Morgan Freeman",
+      "personaje": "Professor Norman",
+      "foto": "https://image.tmdb.org/t/p/w500/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+    },
+    {
+      "nombre": "최민식",
+      "personaje": "Mr. Jang",
+      "foto": "https://image.tmdb.org/t/p/w500/sd7gIA6nEkq6zumkDCfxSE0YSSV.jpg"
+    },
+    {
+      "nombre": "Amr Waked",
+      "personaje": "Pierre Del Rio",
+      "foto": "https://image.tmdb.org/t/p/w500/eRcAC2beUP52lQiejmKQA8jiyld.jpg"
+    },
+    {
+      "nombre": "Julian Rhind-Tutt",
+      "personaje": "The Limey",
+      "foto": "https://image.tmdb.org/t/p/w500/jvwtFc8XFpTb7NX1XRJX8TOfH5.jpg"
+    },
+    {
+      "nombre": "Pilou Asbæk",
+      "personaje": "Richard",
+      "foto": "https://image.tmdb.org/t/p/w500/hUJAtjbYG7rqm54aoWtNWeeKjTY.jpg"
+    },
+    {
+      "nombre": "Lio Tipton",
+      "personaje": "Caroline",
+      "foto": "https://image.tmdb.org/t/p/w500/jwLTUddwx1vGVcrpEGH87vVJsnY.jpg"
+    },
+    {
+      "nombre": "신유람",
+      "personaje": "Jang's Lieutenant",
+      "foto": "https://image.tmdb.org/t/p/w500/2dzAZGvfwvuyknrHpAeHQjPI4Sp.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Luc Besson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Virginie Besson-Silla",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Luc Besson",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Olivier Nguyen",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Guy Monbillard",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Shannon Mills",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Richard Bluff",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Gregory Fromentin",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Évelyne Tissandier",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "James Pastorius",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Charlie Clerc",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Matthieu Dallaporta",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Virginie Irdel",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Eduardo Pena",
+      "rol": "Conceptual Design"
+    },
+    {
+      "nombre": "Christophe Chabenet",
+      "rol": "Sculptor"
+    }
+  ],
+  "director": "Luc Besson",
+  "valoraciones": {
+    "tmdb": 6.475,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "EuropaCorp",
+  "enlace_video": "https://gscdn.cam/video/embed/dpu6v6mg1v48",
+  "trailer": "https://www.youtube.com/watch?v=l7zAV_MDC68"
+}
