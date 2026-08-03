@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 817,
+  "poster": "https://image.tmdb.org/t/p/w500/1Sz8rdGsdGVUKB7rSoesyJLq1IZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xI1tAzzUk2v9nON6DLAHzcOLK42.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wyi1NGhU5ZrfS8HXpk9TZaK58oK.png",
+  "titulo": "Austin Powers 2: El Espía Seductor",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Aventura",
+    "Crimen"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.314,
+  "año": "1999",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "Tras ser congelado, Austin Powers, un agente secreto de los años 60, vuelve a la vida en los años 90. Se encuentra con una nueva sociedad en la que tendrá que enfrentarse con nuevos villanos, pero también con el Doctor Maligno, su máximo enemigo. El malvado doctor tiene un siniestro plan: ha inventado una máquina del tiempo que le permitirá volver a los años 60 y destruir a su archienemigo. Pero Powers contará con la ayuda de una bella agente para derrotarlo.",
+  "fecha_estreno": "1999-06-08",
+  "titulo_original": "Austin Powers: The Spy Who Shagged Me",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mike Myers",
+      "personaje": "Austin Powers / Dr. Evil / Fat Bastard",
+      "foto": "https://image.tmdb.org/t/p/w500/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+    },
+    {
+      "nombre": "Heather Graham",
+      "personaje": "Felicity Shagwell",
+      "foto": "https://image.tmdb.org/t/p/w500/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
+    },
+    {
+      "nombre": "Verne Troyer",
+      "personaje": "Mini-Me",
+      "foto": "https://image.tmdb.org/t/p/w500/iNjzleUvrnhN4PDuuJerF2SCFfn.jpg"
+    },
+    {
+      "nombre": "Michael York",
+      "personaje": "Basil Exposition",
+      "foto": "https://image.tmdb.org/t/p/w500/ha9Nh8We778sUg8QyDE1IRATzDY.jpg"
+    },
+    {
+      "nombre": "Robert Wagner",
+      "personaje": "Number Two",
+      "foto": "https://image.tmdb.org/t/p/w500/dgIN3MrOfX8Q4pzchO58dhMgrFb.jpg"
+    },
+    {
+      "nombre": "Seth Green",
+      "personaje": "Scott Evil",
+      "foto": "https://image.tmdb.org/t/p/w500/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+    },
+    {
+      "nombre": "Mindy Sterling",
+      "personaje": "Frau Farbissina",
+      "foto": "https://image.tmdb.org/t/p/w500/hX99KTTCFxB4a2rB1SpDbr8imrK.jpg"
+    },
+    {
+      "nombre": "Will Ferrell",
+      "personaje": "Mustafa",
+      "foto": "https://image.tmdb.org/t/p/w500/yjGbyQzVjpQl8xFkFGa7JxKZWQb.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John S. Lyons",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jennifer Todd",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Suzanne Todd",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael McCullers",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jay Roach",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mike Myers",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Eric McLeod",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Demi Moore",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Debra Neil-Fisher",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jon Poll",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Bud Davis",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Alec Hammond",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Frederick Howard",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Rusty Smith",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Sara Andrews",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "George S. Clinton",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Javier Bennassar",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Ueli Steiger",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jeanne McCarthy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Keith Marbory",
+      "rol": "Special Effects"
+    }
+  ],
+  "director": "Jay Roach",
+  "valoraciones": {
+    "tmdb": 6.314,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://rumble.com/hls-vod/6xuqp4/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=a9HSJwG4DXo"
+}
