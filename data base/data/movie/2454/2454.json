@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 2454,
+  "poster": "https://image.tmdb.org/t/p/w500/5DjVX6Nqa6zvvY8AWpBxIuftLhw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9pBv1BOSloAUgAkF0meJWdnbV4Q.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/veHcoBUlqIlwY1KiU4v9NCUqs4i.png",
+  "titulo": "Las crónicas de Narnia: El príncipe Caspian",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.636,
+  "año": "2008",
+  "duracion": "2h 24min",
+  "edad_minima": 13,
+  "sinopsis": "La acción de \"Las crónicas de Narnia. El Príncipe Caspian\" transcurre un año después de los increíbles acontecimientos de «El León, la Bruja y el Armario», cuando los reyes y las reinas de Narnia -los 4 hermanos Pevensie- vuelven a reunirse en ese remoto y fantástico mundo, donde descubrirán que han pasado más de 1.300 años, calculados en tiempo narniano. Durante su ausencia, la Edad de Oro de Narnia ha terminado, y los Telmarinos han conquistado el reino de Narnia, que ahora está dominado por el malvado Rey Miraz, que gobierna sin piedad. Los cuatro niños no tardarán en conocer un nuevo y extraño personaje: el joven Príncipe Caspian, heredero legítimo al trono que se ha visto obligado a esconderse ya que su tío Miraz trama su asesinato para colocar a su hijo recién nacido en el trono.",
+  "fecha_estreno": "2008-05-15",
+  "titulo_original": "The Chronicles of Narnia: Prince Caspian",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "William Moseley",
+      "personaje": "Peter Pevensie",
+      "foto": "https://image.tmdb.org/t/p/w500/skssqN3yL90iK5b9DtSg6fEQn1f.jpg"
+    },
+    {
+      "nombre": "Anna Popplewell",
+      "personaje": "Susan Pevensie",
+      "foto": "https://image.tmdb.org/t/p/w500/7GXEPxNCbc6EtnulCEPWnEvKJIN.jpg"
+    },
+    {
+      "nombre": "Skandar Keynes",
+      "personaje": "Edmund Pevensie",
+      "foto": "https://image.tmdb.org/t/p/w500/pIdgY16c6AzmCD31pXlCR9SjLlM.jpg"
+    },
+    {
+      "nombre": "Georgie Henley",
+      "personaje": "Lucy Pevensie",
+      "foto": "https://image.tmdb.org/t/p/w500/dW7ZQfrm2A4rVtZrIPbWOUXNvsJ.jpg"
+    },
+    {
+      "nombre": "Ben Barnes",
+      "personaje": "Prince Caspian",
+      "foto": "https://image.tmdb.org/t/p/w500/k0tAM9XK0s4n0VQq1jX5cGf9uAa.jpg"
+    },
+    {
+      "nombre": "Tilda Swinton",
+      "personaje": "White Witch",
+      "foto": "https://image.tmdb.org/t/p/w500/dzjT4LKgs7eOma84GsPy78DsGNH.jpg"
+    },
+    {
+      "nombre": "Peter Dinklage",
+      "personaje": "Trumpkin",
+      "foto": "https://image.tmdb.org/t/p/w500/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+      "nombre": "Sergio Castellitto",
+      "personaje": "King Miraz",
+      "foto": "https://image.tmdb.org/t/p/w500/uq5xz7kinzgdclGOcechgfPBgYC.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Stephen McFeely",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Andrew Adamson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Adamson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mark Johnson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Adamson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Philip Steuer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Markus",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sim Evan-Jones",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Isis Mussenden",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Gail Stevens",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Roger Ford",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "C. S. Lewis",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Pippa Hall",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Josh Campbell",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Diego Zanco",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Harry Gregson-Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Perry Moore",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kerrie Brown",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Karl Walter Lindenlaub",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Andrew Adamson",
+  "valoraciones": {
+    "tmdb": 6.636,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/ufspalb66vq6",
+  "trailer": "https://www.youtube.com/watch?v=icnmPD3QitY"
+}
