@@ -1,0 +1,151 @@
+{
+  "id_tmdb": 968051,
+  "poster": "https://image.tmdb.org/t/p/w500/cRp5MhCXwyEjJ3gqynmUME4nJPv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/27jtaS1oCiLK5Y7P6iOXG2yj1Nc.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iiss10zFigU9UrIG5tLoZL0fEbH.png",
+  "titulo": "La monja II",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.635,
+  "año": "2023",
+  "duracion": "2h 0min",
+  "edad_minima": 13,
+  "sinopsis": "1956 – Francia. Un sacerdote es asesinado. Un mal se está extendiendo. La hermana Irene una vez más se encuentra cara a cara con Valak, la monja demonio.",
+  "fecha_estreno": "2023-09-06",
+  "titulo_original": "The Nun II",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Taissa Farmiga",
+      "personaje": "Sister Irene",
+      "foto": "https://image.tmdb.org/t/p/w500/jMDY4rFh2SFINj0wzoX10Roye3n.jpg"
+    },
+    {
+      "nombre": "Anna Popplewell",
+      "personaje": "Kate",
+      "foto": "https://image.tmdb.org/t/p/w500/7GXEPxNCbc6EtnulCEPWnEvKJIN.jpg"
+    },
+    {
+      "nombre": "Jonas Bloquet",
+      "personaje": "Maurice Theriault",
+      "foto": "https://image.tmdb.org/t/p/w500/ivbElHgLKv8PaVc2A9zIZSMSPcv.jpg"
+    },
+    {
+      "nombre": "Storm Reid",
+      "personaje": "Sister Debra",
+      "foto": "https://image.tmdb.org/t/p/w500/c5ld0nVHZ2dv25Jhn5DpXwTlXyH.jpg"
+    },
+    {
+      "nombre": "Katelyn Rose Downey",
+      "personaje": "Sophie",
+      "foto": "https://image.tmdb.org/t/p/w500/50mZMR1gxqFNahFA8nahFnvsWQy.jpg"
+    },
+    {
+      "nombre": "Léontine d'Oncieu",
+      "personaje": "Simone",
+      "foto": "https://image.tmdb.org/t/p/w500/orJtBX9JMDIW8F2SzgnNGCyHxQQ.jpg"
+    },
+    {
+      "nombre": "Anouk Darwin Homewood",
+      "personaje": "Céleste",
+      "foto": "https://image.tmdb.org/t/p/w500/uaCycUZotvP8sNIRNLB2tyfJPRs.jpg"
+    },
+    {
+      "nombre": "Sarah Pachoud",
+      "personaje": "Emily",
+      "foto": "https://image.tmdb.org/t/p/w500/rJRNdhJoiRbtBiUVGFkFKFovfR9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Chaves",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Safran",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Akela Cooper",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ian B. Goldberg",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Richard Naing",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Akela Cooper",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Zach Pino",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Jason W. Jennings",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "John Marquis",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Jason W. Jennings",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Michael Clear",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Richard Brener",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dave Neustadter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lainey Lipson",
+      "rol": "Casting Assistant"
+    },
+    {
+      "nombre": "Tristan Nyby",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Dominique Moisan",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Emmanuel Delis",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Véronique Boslé",
+      "rol": "Hairstylist"
+    }
+  ],
+  "director": "Michael Chaves",
+  "valoraciones": {
+    "tmdb": 6.635,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://gscdn.cam/video/embed/6sn7f92o7j7a",
+  "trailer": "https://www.youtube.com/watch?v=QF-oyCwaArU"
+}
