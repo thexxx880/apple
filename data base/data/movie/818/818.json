@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 818,
+  "poster": "https://image.tmdb.org/t/p/w500/72bSmfG2V95oQfM7C2gmtQeMwrq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kuPpElzfYnzsCye0hF8EbJSrvwo.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/w1wYYGtKxgoyJNdIxlwi94hcXuN.png",
+  "titulo": "Austin Powers 3: El Miembro de Oro",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Crimen"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.024,
+  "año": "2002",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "El agente Austin Powers se enfrenta de nuevo al doctor Maligno y a su cómplice, Mini-Yo; que tras escapar de una cárcel de máxima seguridad obliga a Austin Powers a ponerse de nuevo en acción. Miembro de Oro es un misterioso personaje que ayuda al doctor Maligno a idear el plan para dominar el mundo. El malvado viajará en el tiempo y secuestrará al padre del protagonista.... Otro gran éxito de taquilla de las aventuras del singular espía funky protagonizado por el famoso cómico Mike Myers.",
+  "fecha_estreno": "2002-07-26",
+  "titulo_original": "Austin Powers in Goldmember",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mike Myers",
+      "personaje": "Austin Powers / Dr. Evil / Goldmember / Fat Bastard",
+      "foto": "https://image.tmdb.org/t/p/w500/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+    },
+    {
+      "nombre": "Beyoncé",
+      "personaje": "Foxxy Cleopatra",
+      "foto": "https://image.tmdb.org/t/p/w500/2HbjNtiCtmbArEnELuDFU7knaVK.jpg"
+    },
+    {
+      "nombre": "Seth Green",
+      "personaje": "Scott Evil",
+      "foto": "https://image.tmdb.org/t/p/w500/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+    },
+    {
+      "nombre": "Michael York",
+      "personaje": "Basil Exposition",
+      "foto": "https://image.tmdb.org/t/p/w500/ha9Nh8We778sUg8QyDE1IRATzDY.jpg"
+    },
+    {
+      "nombre": "Robert Wagner",
+      "personaje": "Number Two",
+      "foto": "https://image.tmdb.org/t/p/w500/dgIN3MrOfX8Q4pzchO58dhMgrFb.jpg"
+    },
+    {
+      "nombre": "Mindy Sterling",
+      "personaje": "Frau Farbissina",
+      "foto": "https://image.tmdb.org/t/p/w500/hX99KTTCFxB4a2rB1SpDbr8imrK.jpg"
+    },
+    {
+      "nombre": "Verne Troyer",
+      "personaje": "Mini-Me",
+      "foto": "https://image.tmdb.org/t/p/w500/iNjzleUvrnhN4PDuuJerF2SCFfn.jpg"
+    },
+    {
+      "nombre": "Michael Caine",
+      "personaje": "Nigel Powers",
+      "foto": "https://image.tmdb.org/t/p/w500/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jay Roach",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mike Myers",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Michael McCullers",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John S. Lyons",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eric McLeod",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mike Myers",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jennifer Todd",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Suzanne Todd",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "George S. Clinton",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Peter Deming",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Greg Hayden",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jon Poll",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Juel Bestrop",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jeanne McCarthy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Rusty Smith",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Drew Boughton",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Sara Andrews",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Robin Beauchesne",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "George H. Anderson",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Thomas Bartke",
+      "rol": "Music Editor"
+    }
+  ],
+  "director": "Jay Roach",
+  "valoraciones": {
+    "tmdb": 6.024,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Eric's Boy",
+  "enlace_video": "https://rumble.com/hls-vod/6xur6u/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=JuOVbayBr0I"
+}
