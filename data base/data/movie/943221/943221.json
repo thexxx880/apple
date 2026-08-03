@@ -1,0 +1,127 @@
+{
+  "id_tmdb": 943221,
+  "poster": "https://image.tmdb.org/t/p/w500/lVRoLtpn4zq97YjTrCGsb5BlrW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xOcwcyLM2lqXCrZG8AIHC8DXElF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6ForPe16nyQ7vJ7oWREX9Dg18Bi.png",
+  "titulo": "Mal de ojo",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.7,
+  "año": "2022",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Nala, una niña de 13 años, viaja con su familia de la ciudad a la casa de su abuela en el campo, para tratar de encontrar una cura para la misteriosa enfermedad de su hermana pequeña... pero pronto encontrará que su abuela no es exactamente lo que parece...",
+  "fecha_estreno": "2022-09-22",
+  "titulo_original": "Mal de ojo",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Ofelia Medina",
+      "personaje": "Josefa",
+      "foto": "https://image.tmdb.org/t/p/w500/8lRQ05k1UAEB8vf8WdxZ9Hh6J0j.jpg"
+    },
+    {
+      "nombre": "Paola Miguel",
+      "personaje": "Nala",
+      "foto": "https://image.tmdb.org/t/p/w500/NNOiMXbKU9IUlPtbGKp6kfflTV.jpg"
+    },
+    {
+      "nombre": "Ivanna Sofia Ferro",
+      "personaje": "Luna",
+      "foto": null
+    },
+    {
+      "nombre": "Samantha Castillo",
+      "personaje": "Rebecca",
+      "foto": "https://image.tmdb.org/t/p/w500/lEncigxnVPIfkk8tQ3eECY7z8tz.jpg"
+    },
+    {
+      "nombre": "Arap Bethke",
+      "personaje": "Guillermo",
+      "foto": "https://image.tmdb.org/t/p/w500/aPXtmEoWjlb6lKm31KRC21wi0um.jpg"
+    },
+    {
+      "nombre": "Mauro González",
+      "personaje": "Pedro",
+      "foto": "https://image.tmdb.org/t/p/w500/pO3jKuowxuW19K0sP8Jprl8YMzd.jpg"
+    },
+    {
+      "nombre": "Mildred Motta",
+      "personaje": "Vecina",
+      "foto": null
+    },
+    {
+      "nombre": "Paloma Alvamar",
+      "personaje": "Abigail",
+      "foto": "https://image.tmdb.org/t/p/w500/fdVU71B8LibogeKQhIhXk8PcPc.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Isaac Ezban",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Junior Rosario",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Edgar San Juan",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Edgar San Juan",
+      "rol": "Script"
+    },
+    {
+      "nombre": "Isaac Ezban",
+      "rol": "Script"
+    },
+    {
+      "nombre": "Natalia Contreras",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Adelle Achar",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Oscar Salazar",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Edgar Garcia Lopez",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "Christian Urdapilleta",
+      "rol": "Creature Design"
+    },
+    {
+      "nombre": "Isi Sarfati",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Camilla Uboldi",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Óscar Figueroa",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Isaac Ezban",
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Film Tank",
+  "enlace_video": "https://vimeos.net/embed-ro856bu2757v.html",
+  "trailer": "https://www.youtube.com/watch?v=TXtAhO72KqM"
+}
