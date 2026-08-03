@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 630,
+  "poster": "https://image.tmdb.org/t/p/w500/ymUY2iIm8IuSYuIX1SsABgPyB48.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/g1OvTd1eF346vmx8qsJnjaiooZ6.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9sMH0Dl6DYv1Nq8e6bhvsBDIeaP.png",
+  "titulo": "El mago de Oz",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Familia"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.583,
+  "año": "1939",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "Dorothy Gale es arrastrada de una granja en Kansas a una tierra mágica de Oz en un tornado y se embarca en una búsqueda con sus nuevos amigos para ver al Mago que puede ayudarla a volver a casa en Kansas y ayudar a sus amigos también.",
+  "fecha_estreno": "1939-08-21",
+  "titulo_original": "The Wizard of Oz",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Judy Garland",
+      "personaje": "Dorothy Gale",
+      "foto": "https://image.tmdb.org/t/p/w500/vUsMDyRhHYUdayQosHhBF6knWGh.jpg"
+    },
+    {
+      "nombre": "Ray Bolger",
+      "personaje": "\"Hunk\" / Scarecrow",
+      "foto": "https://image.tmdb.org/t/p/w500/43GZ1i6m905Q0r0qe99lgUUPX5O.jpg"
+    },
+    {
+      "nombre": "Jack Haley",
+      "personaje": "\"Hickory\" / Tin Man",
+      "foto": "https://image.tmdb.org/t/p/w500/bvZMv9OeLQT67zpprx5Og3QIDEA.jpg"
+    },
+    {
+      "nombre": "Bert Lahr",
+      "personaje": "\"Zeke\" / Cowardly Lion",
+      "foto": "https://image.tmdb.org/t/p/w500/ArYiG2D7IWRrTZorgUQZyrhkdjj.jpg"
+    },
+    {
+      "nombre": "Frank Morgan",
+      "personaje": "Professor Marvel / The Wizard of Oz",
+      "foto": "https://image.tmdb.org/t/p/w500/gwbmaZ6EGYbsBbe8pWW3Gded02k.jpg"
+    },
+    {
+      "nombre": "Margaret Hamilton",
+      "personaje": "Miss Gulch / Wicked Witch of the West",
+      "foto": "https://image.tmdb.org/t/p/w500/e2tJi7ziy5HCNO6pnpAXoxhnlfg.jpg"
+    },
+    {
+      "nombre": "Billie Burke",
+      "personaje": "Glinda",
+      "foto": "https://image.tmdb.org/t/p/w500/gciSUzrGMI1BHDxiElw8KEcIOVW.jpg"
+    },
+    {
+      "nombre": "Charley Grapewin",
+      "personaje": "Uncle Henry",
+      "foto": "https://image.tmdb.org/t/p/w500/xROPwMkTUgweYQFhbTsvklIMhlw.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Mervyn LeRoy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Florence Ryerson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Victor Fleming",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Noel Langley",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Edgar Allan Woolf",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Victor Fleming",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Harold Rosson",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Blanche Sewell",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Adrian",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Cedric Gibbons",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Edwin B. Willis",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "A. Arnold Gillespie",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Noel Langley",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "E.Y. Harburg",
+      "rol": "Lyricist"
+    },
+    {
+      "nombre": "L. Frank Baum",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "George Bassman",
+      "rol": "Music Arranger"
+    },
+    {
+      "nombre": "Murray Cutter",
+      "rol": "Music Arranger"
+    },
+    {
+      "nombre": "Paul Marquardt",
+      "rol": "Music Arranger"
+    }
+  ],
+  "director": "Victor Fleming",
+  "valoraciones": {
+    "tmdb": 7.583,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Metro-Goldwyn-Mayer",
+  "enlace_video": "https://vimeos.net/embed-lbw9emo3luj0.html",
+  "trailer": "https://www.youtube.com/watch?v=b_A2twyZevo"
+}
