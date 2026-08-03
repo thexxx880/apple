@@ -1,0 +1,97 @@
+{
+  "id_tmdb": 29826,
+  "poster": "https://image.tmdb.org/t/p/w500/dggo1MOieBZsJ18qqqaT4B4VdB4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/umAxZQoJ0I6YlwYB5NqLqD7NjdX.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/u7JzuAK3BNPRqmT3j04Wv1sO2WK.png",
+  "titulo": "La Leyenda de la Nahuala",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Fantasía",
+    "Animación",
+    "Terror"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8,
+  "año": "2007",
+  "duracion": "1h 24min",
+  "edad_minima": 13,
+  "sinopsis": "Leo San Juan, un niño inseguro de nueve años de edad, vive eternamente asustado por las historias de terror que Nando le cuenta a su hermano mayor. Dentro de estas historias es \"La leyenda de Nahuala\", según la cual, una vieja casona abandonada es poseída por el alcohol de una bruja malvada conocida como el Nahuala.",
+  "fecha_estreno": "2007-10-31",
+  "titulo_original": "La Leyenda de la Nahuala",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Fabrizio Santini",
+      "personaje": "Leo San Juan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/39QUuschZTOvkPFsJmuNx7d6u5m.jpg"
+    },
+    {
+      "nombre": "Martha Higareda",
+      "personaje": "Xochitl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kEj8kOEcJhY2lBjOwZ0TkTyalsG.jpg"
+    },
+    {
+      "nombre": "Andrés Bustamante",
+      "personaje": "Don Andres (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/33YPIWsDmJHE88BGWp0RnJUHYD0.jpg"
+    },
+    {
+      "nombre": "Jesús Ochoa",
+      "personaje": "Santos (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7q5cin3hrPIhMqRkPZ2sSyTrqlk.jpg"
+    },
+    {
+      "nombre": "Rafael Inclán",
+      "personaje": "Alebrije (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dzarzpXKLpfsnREZO5t0wdQgHSp.jpg"
+    },
+    {
+      "nombre": "Ofelia Medina",
+      "personaje": "Nahuala (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8lRQ05k1UAEB8vf8WdxZ9Hh6J0j.jpg"
+    },
+    {
+      "nombre": "Manuel Valdés",
+      "personaje": "Lorenzo Villavicencio (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xCQnJrjnFCfGXMwqATKj9pqnWWK.jpg"
+    },
+    {
+      "nombre": "Mayté Cordero",
+      "personaje": "Teodora Villavicencio (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pDl6KR069aG5eRY9dHwrkyqsWUx.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Socorro Aguilar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ricardo Arnaiz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Socorro Aguilar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Socorro Aguilar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ricardo Arnaiz",
+      "rol": "Director"
+    }
+  ],
+  "crew": [],
+  "director": "Ricardo Arnaiz",
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Animex Producciones",
+  "enlace_video": "https://gscdn.cam/video/embed/va05v6elmhgg",
+  "trailer": ""
+}
