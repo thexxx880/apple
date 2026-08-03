@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 763215,
+  "poster": "https://image.tmdb.org/t/p/w500/lALTAmIXeavXrr9vss5EhNBpMYA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/deLWkOLZmBNkm8p16igfapQyqeq.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7geLV3GZ542hfnuKfJvo7M2IJGp.png",
+  "titulo": "Damsel",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.982,
+  "año": "2024",
+  "duracion": "1h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Una damisela se casa con un encantador príncipe, pero el matrimonio se convierte en una odisea por la supervivencia cuando la entregan como ofrenda a un feroz dragón.",
+  "fecha_estreno": "2024-03-07",
+  "titulo_original": "Damsel",
+  "pais_origen": "Spain",
+  "reparto": [
+    {
+      "nombre": "Millie Bobby Brown",
+      "personaje": "Elodie",
+      "foto": "https://image.tmdb.org/t/p/w500/kHO7hdNEVuTnQ0OjjrxP1RcAa0e.jpg"
+    },
+    {
+      "nombre": "Brooke Carter",
+      "personaje": "Floria",
+      "foto": "https://image.tmdb.org/t/p/w500/8L4wMLvtBGZu4oLzVPVgOzuyl1k.jpg"
+    },
+    {
+      "nombre": "Nick Robinson",
+      "personaje": "Prince Henry",
+      "foto": "https://image.tmdb.org/t/p/w500/vWFoPTd8G7DIDXYmiTiq4oaYG5G.jpg"
+    },
+    {
+      "nombre": "Robin Wright",
+      "personaje": "Queen Isabelle",
+      "foto": "https://image.tmdb.org/t/p/w500/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+    },
+    {
+      "nombre": "Milo Twomey",
+      "personaje": "King Roderick",
+      "foto": "https://image.tmdb.org/t/p/w500/dOWhwnXKIWpumwHKnaV86V86XMS.jpg"
+    },
+    {
+      "nombre": "Ray Winstone",
+      "personaje": "Lord Bayford",
+      "foto": "https://image.tmdb.org/t/p/w500/eSRgAC98u5hQroeZzDeRf60XE21.jpg"
+    },
+    {
+      "nombre": "Angela Bassett",
+      "personaje": "Lady Bayford",
+      "foto": "https://image.tmdb.org/t/p/w500/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+    },
+    {
+      "nombre": "Nicole Joseph",
+      "personaje": "Princess Victoria",
+      "foto": "https://image.tmdb.org/t/p/w500/oHnwEAiDtry7hEYX7qvyQFLO9Ax.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Castaldi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeff Kirschenbaum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Juan Carlos Fresnadillo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joe Roth",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Mazeau",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Emily Wolfe",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Sue Baden-Powell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Mazeau",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Larry Fong",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Tom Hannibal",
+      "rol": "Visual Effects Editor"
+    },
+    {
+      "nombre": "Robert Brown",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jo Monteiro",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "David Fleming",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Fiona Weir",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jason Knox-Johnston",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Amanda Monk",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "Emma Britton",
+      "rol": "Stunt Double"
+    }
+  ],
+  "director": "Juan Carlos Fresnadillo",
+  "valoraciones": {
+    "tmdb": 6.982,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "PCMA Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/05zbxbq0nkmg",
+  "trailer": "https://www.youtube.com/watch?v=iM150ZWovZM"
+}
