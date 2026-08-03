@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1562,
+  "poster": "https://image.tmdb.org/t/p/w500/kiPmIodLT3dGVdRItMBITO2c5a6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/83ownpZPvBHJD5UVNShzQfa3LaW.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jHPWhBihkW5ZTUptPcGb1JVIYl0.png",
+  "titulo": "Exterminio 2",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.598,
+  "año": "2007",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Seis meses después de que el virus de la rabia fuera infligido a la población de Gran Bretaña, el ejército de los EE.UU. ayuda a asegurar una pequeña área de Londres para que los sobrevivientes se repoblen y comiencen de nuevo. Pero no todo va de acuerdo al plan.",
+  "fecha_estreno": "2007-04-26",
+  "titulo_original": "28 Weeks Later",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Robert Carlyle",
+      "personaje": "Donald Harris",
+      "foto": "https://image.tmdb.org/t/p/w500/dLNeFPfJACiCiUz3oEdAjeKIwvZ.jpg"
+    },
+    {
+      "nombre": "Rose Byrne",
+      "personaje": "Scarlet",
+      "foto": "https://image.tmdb.org/t/p/w500/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+    },
+    {
+      "nombre": "Jeremy Renner",
+      "personaje": "Sergeant Doyle",
+      "foto": "https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+    },
+    {
+      "nombre": "Harold Perrineau",
+      "personaje": "Flynn",
+      "foto": "https://image.tmdb.org/t/p/w500/bVSLpGUaislREbujmknOqadrxYM.jpg"
+    },
+    {
+      "nombre": "Catherine McCormack",
+      "personaje": "Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/vYyMCGKeIUTZMdEgVwQCgX7q1T3.jpg"
+    },
+    {
+      "nombre": "Mackintosh Muggleton",
+      "personaje": "Andy Harris",
+      "foto": "https://image.tmdb.org/t/p/w500/nWhYVUA0aVriQo6KTvW41tE8FKi.jpg"
+    },
+    {
+      "nombre": "Imogen Poots",
+      "personaje": "Tammy Harris",
+      "foto": "https://image.tmdb.org/t/p/w500/7uMFX0ecPZT2tc8L5DFFNbUckc9.jpg"
+    },
+    {
+      "nombre": "Idris Elba",
+      "personaje": "General Stone",
+      "foto": "https://image.tmdb.org/t/p/w500/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Juan Carlos Fresnadillo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bernard Bellew",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Allon Reich",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Macdonald",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Enrique López Lavigne",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rowan Joffé",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Juan Carlos Fresnadillo",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jesús Olmo",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Enrique Chediak",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Danny Boyle",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alex Garland",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Gill",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mark Tildesley",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Patrick Rolfe",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Denis Schnegg",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Michelle Day",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jane Petrie",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Luan Placks",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Shaheen Baig",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Katrina Mackay",
+      "rol": "Assistant Art Director"
+    }
+  ],
+  "director": "Juan Carlos Fresnadillo",
+  "valoraciones": {
+    "tmdb": 6.598,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DNA Films",
+  "enlace_video": "https://gscdn.cam/video/embed/89351dwodmq7",
+  "trailer": "https://www.youtube.com/watch?v=gPOt4mAEfBE"
+}
