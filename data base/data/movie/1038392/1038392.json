@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 1038392,
+  "poster": "https://image.tmdb.org/t/p/w500/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/i8MupUe4xgmYXoRNAQMYvuoexSU.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/zb3uyouM8gdEqzuhhGEGvwT8WSf.png",
+  "titulo": "El Conjuro 4: Últimos ritos",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.951,
+  "año": "2025",
+  "duracion": "2h 16min",
+  "edad_minima": 13,
+  "sinopsis": "En 1986, los investigadores paranormales, Ed y Lorraine Warren, salen de su retiro para investigar, junto con su hija adulta Judy y su compañero Tony, el caso Smurl, una entidad demoníaca más oscura.",
+  "fecha_estreno": "2025-09-03",
+  "titulo_original": "The Conjuring: Last Rites",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Patrick Wilson",
+      "personaje": "Ed Warren",
+      "foto": "https://image.tmdb.org/t/p/w500/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+    },
+    {
+      "nombre": "Vera Farmiga",
+      "personaje": "Lorraine Warren",
+      "foto": "https://image.tmdb.org/t/p/w500/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+    },
+    {
+      "nombre": "Mia Tomlinson",
+      "personaje": "Judy Warren",
+      "foto": "https://image.tmdb.org/t/p/w500/9OoCftD6TAImFAUnvSC445toavW.jpg"
+    },
+    {
+      "nombre": "Ben Hardy",
+      "personaje": "Tony Spera",
+      "foto": "https://image.tmdb.org/t/p/w500/b20ijbr2tbqlGvqZgkCpNZ5AYvS.jpg"
+    },
+    {
+      "nombre": "Rebecca Calder",
+      "personaje": "Janet Smurl",
+      "foto": "https://image.tmdb.org/t/p/w500/2pkBR7d9MMrgRUBopEc7kRP8ZJL.jpg"
+    },
+    {
+      "nombre": "Tilly Walker",
+      "personaje": "Carin Smurl",
+      "foto": "https://image.tmdb.org/t/p/w500/wd9La2PfiSP9CsU4BwlNHqXfDn6.jpg"
+    },
+    {
+      "nombre": "Elliot Cowan",
+      "personaje": "Jack Smurl",
+      "foto": "https://image.tmdb.org/t/p/w500/zxewsfDGYuCqV7gsZjMQct6BXMJ.jpg"
+    },
+    {
+      "nombre": "Shannon Kook",
+      "personaje": "Drew Thomas",
+      "foto": "https://image.tmdb.org/t/p/w500/rCTdLWbrqsGbMml8TNfGD94jPpp.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Wan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Safran",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Chaves",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Leslie Johnson-McGoldrick",
+      "rol": "Story"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ian B. Goldberg",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Richard Naing",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Leslie Johnson-McGoldrick",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Judson Scott",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Clear",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tony Spera",
+      "rol": "Production Consultant"
+    },
+    {
+      "nombre": "Rose Wicksteed",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Sophie Kingston-Smith",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Richard Van Den Bergh",
+      "rol": "Special Effects Supervisor"
+    },
+    {
+      "nombre": "Eli Born",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Steven Hall",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Aaron Becker",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "Kaush Bharti",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Andrew Palmer",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Aoife Warren",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Michael Chaves",
+  "valoraciones": {
+    "tmdb": 6.951,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://gscdn.cam/video/embed/4qsvphnjzgal",
+  "trailer": "https://www.youtube.com/watch?v=p4aWdkM5xF8"
+}
