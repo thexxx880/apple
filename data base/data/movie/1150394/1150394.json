@@ -1,0 +1,102 @@
+{
+  "id_tmdb": 1150394,
+  "poster": "https://image.tmdb.org/t/p/w500/4f9ghI3utknpeBZSAzNuIKKATOA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dMOcD7kAscK2UUeiv63ivtdWAlh.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/w1oxFBRmw0BFDpzjGgVrJ6dqLT1.png",
+  "titulo": "La Leyenda de los Chaneques",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Terror"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8.4,
+  "año": "2023",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "Cinco años después de haber renunciado a sus poderes y haberse separado de sus amigos, Leo San Juan ha iniciado una nueva vida tratando de concentrarse en la familia y en la panadería, alejándose del peligro y de las aventuras. Sin embargo, Leo sabe que rara vez se cumplen sus planes y esta vez no es la excepción: estando de viaje con Nando en Veracruz, las cosas empiezan a ponerse raras, y es que desde lo más profundo de la selva de los Tuxtlas una antigua maldición ha regresado y sólo Leo puede enfrentarla.",
+  "fecha_estreno": "2023-07-14",
+  "titulo_original": "La Leyenda de los Chaneques",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Benny Emmanuel",
+      "personaje": "Leo San Juan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rSqiumttAOg08Auypm5Z7FpdvMS.jpg"
+    },
+    {
+      "nombre": "Emilio Treviño",
+      "personaje": "Nando San Juan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7FKIeNXd05F2RRuWGypNRhp1wvG.jpg"
+    },
+    {
+      "nombre": "Jorge Rafael",
+      "personaje": "Diego (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2dFgA7gxKRSQWT6lnKIAkopE7MO.jpg"
+    },
+    {
+      "nombre": "Mayté Cordero",
+      "personaje": "Teodora Villavicencio (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pDl6KR069aG5eRY9dHwrkyqsWUx.jpg"
+    },
+    {
+      "nombre": "Annie Rojas",
+      "personaje": "Xóchitl Ahuactzin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/n6wZezP3kN0EKP3hX5fA8L1j0Vl.jpg"
+    },
+    {
+      "nombre": "Eduardo España",
+      "personaje": "Evaristo",
+      "foto": "https://image.tmdb.org/t/p/w500/qdqwOCZ9WbIG0YcFoe6cBuguO4H.jpg"
+    },
+    {
+      "nombre": "Andrés Couturier",
+      "personaje": "Don Andrés",
+      "foto": "https://image.tmdb.org/t/p/w500/63bXYLamnqYnSl2U9MrE78afH7e.jpg"
+    },
+    {
+      "nombre": "Alejandro Villeli",
+      "personaje": "Chamán",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Fernando De Fuentes Sainz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Israel Hernández",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "José C. García de Letona",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marvick Núñez",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Leoncio Lara",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Alberto Rodríguez",
+      "rol": "Co-Director"
+    }
+  ],
+  "director": "Marvick Núñez",
+  "valoraciones": {
+    "tmdb": 8.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Ánima Estudios",
+  "enlace_video": "https://gscdn.cam/video/embed/d1ww4hga4qia",
+  "trailer": ""
+}
