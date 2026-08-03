@@ -1,0 +1,103 @@
+{
+  "id_tmdb": 268690,
+  "poster": "https://image.tmdb.org/t/p/w500/j2szysGPr5F3pYZNcT83sMBLkP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cwHQRDAqkz92TyFbE9Cp5sUvVyA.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3VcGv7Mqe4jMdjkQxtPFRtN0C4L.png",
+  "titulo": "La Leyenda de las Momias de Guanajuato",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Terror",
+    "Aventura",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8.1,
+  "año": "2014",
+  "duracion": "1h 24min",
+  "edad_minima": 13,
+  "sinopsis": "Secuela del filme animado \"La leyenda de la llorona\". En esta ocasión Leo San Juan, Don Andrés, Teodora y el Alebrije llegan a Guanajuato para intentar detener a las momias - que han despertado inexplicablemente - y recuperar a su amiga Xóchitl. Con ayuda de Luis, un amigo que conocen en la ciudad, Leo va descubriendo el terrible secreto del acaudalado Rosseau, mientras el resto del equipo se da cuenta que han caído en una trampa.",
+  "fecha_estreno": "2014-10-30",
+  "titulo_original": "La Leyenda de las Momias de Guanajuato",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Benny Emmanuel",
+      "personaje": "Leo San Juan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rSqiumttAOg08Auypm5Z7FpdvMS.jpg"
+    },
+    {
+      "nombre": "Mayté Cordero",
+      "personaje": "Teodora Villavicencio (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pDl6KR069aG5eRY9dHwrkyqsWUx.jpg"
+    },
+    {
+      "nombre": "Eduardo España",
+      "personaje": "Evaristo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qdqwOCZ9WbIG0YcFoe6cBuguO4H.jpg"
+    },
+    {
+      "nombre": "Rafael Inclán",
+      "personaje": "Alebrije (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dzarzpXKLpfsnREZO5t0wdQgHSp.jpg"
+    },
+    {
+      "nombre": "Andrés Couturier",
+      "personaje": "Don Andrés (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/63bXYLamnqYnSl2U9MrE78afH7e.jpg"
+    },
+    {
+      "nombre": "José Luis Orozco",
+      "personaje": "Don Gaspar (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kY4RwJ5kNvDHmsweD54Z8MPWM87.jpg"
+    },
+    {
+      "nombre": "Alexander Müller",
+      "personaje": "Valentina-Luis (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Orlando Quiroz",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/e1KA6UUgkoNnhr4gweQrscNlUc0.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alberto Rodríguez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Dulce María Belchez Guerrero",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ricardo Arnaiz",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Alberto Rodríguez",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jesús Guzmán",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Roberto Bolado",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Alberto Rodríguez",
+  "valoraciones": {
+    "tmdb": 8.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Ánima Estudios",
+  "enlace_video": "https://gscdn.cam/video/embed/9tgncmua76t3",
+  "trailer": "https://www.youtube.com/watch?v=bn0A0ofhOBs"
+}
