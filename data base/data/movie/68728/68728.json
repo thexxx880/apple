@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 68728,
+  "poster": "https://image.tmdb.org/t/p/w500/x6whkqnEQ8XPaL9lGTI6DwJlC66.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/o6TYNmB1CT85j7lmyvSedoybyc9.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/dneS2cppsEU67sWIRdUQdCMyKHw.png",
+  "titulo": "Oz:  El Poderoso",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Aventura",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 5.938,
+  "año": "2013",
+  "duracion": "2h 7min",
+  "edad_minima": 13,
+  "sinopsis": "La fantástica aventura de Disney, Oz: El Poderoso, sigue a Oscar Diggs (James Franco), un mago de poca monta con una ética dudosa. Cuando Diggs es llevado a la brillante Tierra de Oz, él cree haberse ganado la lotería, hasta que conoce a tres brujas que no están convencidas de que él sea el gran mago que todos esperan.",
+  "fecha_estreno": "2013-03-07",
+  "titulo_original": "Oz the Great and Powerful",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "James Franco",
+      "personaje": "Oz",
+      "foto": "https://image.tmdb.org/t/p/w500/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+    },
+    {
+      "nombre": "Mila Kunis",
+      "personaje": "Theodora / Wicked Witch of the West",
+      "foto": "https://image.tmdb.org/t/p/w500/cJAHQWX9hVadDFx5WTSBIW0VjvP.jpg"
+    },
+    {
+      "nombre": "Rachel Weisz",
+      "personaje": "Evanora",
+      "foto": "https://image.tmdb.org/t/p/w500/9tfHL5tholha1YF6bSKt422ETPM.jpg"
+    },
+    {
+      "nombre": "Michelle Williams",
+      "personaje": "Annie / Glinda",
+      "foto": "https://image.tmdb.org/t/p/w500/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+    },
+    {
+      "nombre": "Zach Braff",
+      "personaje": "Frank / Finley",
+      "foto": "https://image.tmdb.org/t/p/w500/koIHwqE6hWIXuOIDHNADwSuGq6N.jpg"
+    },
+    {
+      "nombre": "Bill Cobbs",
+      "personaje": "Master Tinker",
+      "foto": "https://image.tmdb.org/t/p/w500/xRBrI4rPkZuMBMDh8GPke20ZgUv.jpg"
+    },
+    {
+      "nombre": "Joey King",
+      "personaje": "Girl in Wheelchair / China Girl",
+      "foto": "https://image.tmdb.org/t/p/w500/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+    },
+    {
+      "nombre": "Tony Cox",
+      "personaje": "Knuck",
+      "foto": "https://image.tmdb.org/t/p/w500/sbZS0gxvRsAIgHxIEL8STINpn7u.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sam Raimi",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mitchell Kapner",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Lindsay-Abaire",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joe Roth",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "L. Frank Baum",
+      "rol": "Author"
+    },
+    {
+      "nombre": "Grant Curtis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joshua Donen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Palak Patel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Philip Steuer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Deming",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Bob Murawski",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John Papsidera",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Robert Stromberg",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "John Lord Booth III",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Andrew L. Jones",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Meghan C. Rogers",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Sam Raimi",
+  "valoraciones": {
+    "tmdb": 5.938,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Roth Films",
+  "enlace_video": "https://streamwish.to/e/ohau5mbob5o7",
+  "trailer": "https://www.youtube.com/watch?v=KrQLcxR8o8U"
+}
