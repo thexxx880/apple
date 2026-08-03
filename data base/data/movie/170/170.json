@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 170,
+  "poster": "https://image.tmdb.org/t/p/w500/7qW1Fr3sUU6mM1nWb8yJMvWhmHu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wroSBngqUpcZVUIFPtbVjsREJQ3.png",
+  "titulo": "Exterminio",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.244,
+  "año": "2002",
+  "duracion": "1h 53min",
+  "edad_minima": 13,
+  "sinopsis": "Cuatro semanas después de que un misterioso e incurable virus se extendiera por todo el Reino Unido, un puñado de supervivientes intentan encontrar refugio.",
+  "fecha_estreno": "2002-10-31",
+  "titulo_original": "28 Days Later",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Cillian Murphy",
+      "personaje": "Jim",
+      "foto": "https://image.tmdb.org/t/p/w500/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+    },
+    {
+      "nombre": "Naomie Harris",
+      "personaje": "Selena",
+      "foto": "https://image.tmdb.org/t/p/w500/41TVAcYqKKF7PGf3x7QfaLvkLSW.jpg"
+    },
+    {
+      "nombre": "Brendan Gleeson",
+      "personaje": "Frank",
+      "foto": "https://image.tmdb.org/t/p/w500/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    },
+    {
+      "nombre": "Megan Burns",
+      "personaje": "Hannah",
+      "foto": "https://image.tmdb.org/t/p/w500/xOZbpZH5E6YlUvsM2DDd6iYpsnk.jpg"
+    },
+    {
+      "nombre": "Christopher Eccleston",
+      "personaje": "Major Henry West",
+      "foto": "https://image.tmdb.org/t/p/w500/v6ezjezzDo6xP2wlONO5ZzBciwl.jpg"
+    },
+    {
+      "nombre": "Noah Huntley",
+      "personaje": "Mark",
+      "foto": "https://image.tmdb.org/t/p/w500/dAwfkCqQOFqADngR4vAE9lG7D8Z.jpg"
+    },
+    {
+      "nombre": "Luke Mably",
+      "personaje": "Private Clifton",
+      "foto": "https://image.tmdb.org/t/p/w500/jTMAb14IELP0s2FjpFsM0Bo5rJk.jpg"
+    },
+    {
+      "nombre": "Stuart McQuarrie",
+      "personaje": "Seargent Farrell",
+      "foto": "https://image.tmdb.org/t/p/w500/uK7JmNrNrHUvueKyIvNrN1SlHKO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Andrew Macdonald",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Danny Boyle",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alex Garland",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Murphy",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Anthony Dod Mantle",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mark Tildesley",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Gail Stevens",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Chris Gill",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Denis Schnegg",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Fanny Taylor",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Patrick Rolfe",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Rachael Fleming",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Rod Gorwood",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Anne Lavender-Jones",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Glenn Freemantle",
+      "rol": "Sound Designer"
+    }
+  ],
+  "director": "Danny Boyle",
+  "valoraciones": {
+    "tmdb": 7.244,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DNA Films",
+  "enlace_video": "https://gscdn.cam/video/embed/3kuve96a6dsq",
+  "trailer": "https://www.youtube.com/watch?v=mWEhfF27O0c"
+}
