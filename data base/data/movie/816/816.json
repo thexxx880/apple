@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 816,
+  "poster": "https://image.tmdb.org/t/p/w500/99XaTLygymVuzqZAlWOaWfld67u.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wSm5McaHSAyOx4gGRYdlDHzj00y.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1AT8rDpmnORbn5ioS4QXeaLXlbr.png",
+  "titulo": "Austin Powers: El Agente Internacional del Misterio",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Crimen"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.597,
+  "año": "1997",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "Primera aventura de Austin Powers (Mike Myers), un peculiar y atractivo espía de los años sesenta, cuyo principal enemigo es el doctor Maligno (interpretado también por Myers). Tras ser ambos sometidos a un proceso de congelación, se despiertan treinta años después en una sociedad completamente distinta a la que conocían. Sin embargo, ellos siguen siendo los mismos.",
+  "fecha_estreno": "1997-05-02",
+  "titulo_original": "Austin Powers: International Man of Mystery",
+  "pais_origen": "Germany",
+  "reparto": [
+    {
+      "nombre": "Mike Myers",
+      "personaje": "Austin Powers / Dr. Evil",
+      "foto": "https://image.tmdb.org/t/p/w500/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+    },
+    {
+      "nombre": "Elizabeth Hurley",
+      "personaje": "Vanessa Kensington",
+      "foto": "https://image.tmdb.org/t/p/w500/1z6bx9I3J8gTQAQPrA5cJgzkiqt.jpg"
+    },
+    {
+      "nombre": "Michael York",
+      "personaje": "Basil Exposition",
+      "foto": "https://image.tmdb.org/t/p/w500/ha9Nh8We778sUg8QyDE1IRATzDY.jpg"
+    },
+    {
+      "nombre": "Mimi Rogers",
+      "personaje": "Mrs. Kensington",
+      "foto": "https://image.tmdb.org/t/p/w500/o5G9610OuMuVyubfvXwR7rUPfHg.jpg"
+    },
+    {
+      "nombre": "Robert Wagner",
+      "personaje": "Number Two",
+      "foto": "https://image.tmdb.org/t/p/w500/dgIN3MrOfX8Q4pzchO58dhMgrFb.jpg"
+    },
+    {
+      "nombre": "Seth Green",
+      "personaje": "Scott Evil",
+      "foto": "https://image.tmdb.org/t/p/w500/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+    },
+    {
+      "nombre": "Fabiana Udenio",
+      "personaje": "Alotta Fagina",
+      "foto": "https://image.tmdb.org/t/p/w500/h0X8ZywuhsqdYpqy6dNiXaOG7XM.jpg"
+    },
+    {
+      "nombre": "Mindy Sterling",
+      "personaje": "Frau Farbissina",
+      "foto": "https://image.tmdb.org/t/p/w500/hX99KTTCFxB4a2rB1SpDbr8imrK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Demi Moore",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Suzanne Todd",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jennifer Todd",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mike Myers",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jay Roach",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mike Myers",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Cynthia Kay Charette",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Richard Ratliff",
+      "rol": "Special Effects Coordinator"
+    },
+    {
+      "nombre": "Danny Cangemi",
+      "rol": "Special Effects Coordinator"
+    },
+    {
+      "nombre": "Peter Deming",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Thomas Love",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Javier Bennassar",
+      "rol": "Supervising Sound Effects Editor"
+    },
+    {
+      "nombre": "Dorian Cheah",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Bud Davis",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Dan Olexiewicz",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Debra Neil-Fisher",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jay Caputo",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Dawn Hoggatt",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Jay Roach",
+  "valoraciones": {
+    "tmdb": 6.597,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://rumble.com/hls-vod/6xuqa4/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=9HGy-c4_xFg"
+}
