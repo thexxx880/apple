@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 445651,
+  "poster": "https://image.tmdb.org/t/p/w500/tkwFkWJNMA5kDWcMQnXMXH5LI4G.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5BxrMNGl3YDiWgHCVJu8iLQoJDM.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/lvlYBvIRsTE7T954W0ySkvZhVdQ.png",
+  "titulo": "Mentes poderosas",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.02,
+  "año": "2018",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Después de que una enfermedad matara al 98% de los niños y jóvenes de los Estados Unidos, el 2% que consiguió sobrevivir ha desarrollado superpoderes, pero los han encerrado en campos de internamiento al ser declarados una amenaza. Una de esas niñas de 16 años, Ruby, consigue escapar de su campamento y se une a un grupo de adolescentes que huyen de las fuerzas del gobierno.",
+  "fecha_estreno": "2018-07-25",
+  "titulo_original": "The Darkest Minds",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Amandla Stenberg",
+      "personaje": "Ruby Daly",
+      "foto": "https://image.tmdb.org/t/p/w500/1Kv2sVVUkNSXyvmma8RBAX0CNGA.jpg"
+    },
+    {
+      "nombre": "Harris Dickinson",
+      "personaje": "Liam Stewart",
+      "foto": "https://image.tmdb.org/t/p/w500/pqqnYWWHa3Va80EXofXrVlRqIDM.jpg"
+    },
+    {
+      "nombre": "Patrick Gibson",
+      "personaje": "Clancy Gray",
+      "foto": "https://image.tmdb.org/t/p/w500/1pCUKn2BqJJB5IuktEZGgYw6hbt.jpg"
+    },
+    {
+      "nombre": "Skylan Brooks",
+      "personaje": "Charles 'Chubs' Meriwether",
+      "foto": "https://image.tmdb.org/t/p/w500/sH66hEpQlAqWh81Ecas9Y29H86k.jpg"
+    },
+    {
+      "nombre": "Mandy Moore",
+      "personaje": "Cate Connor",
+      "foto": "https://image.tmdb.org/t/p/w500/2n0rqUGojRNEHrmtPeCEptHREEY.jpg"
+    },
+    {
+      "nombre": "Miyako",
+      "personaje": "Suzume",
+      "foto": "https://image.tmdb.org/t/p/w500/16Bng9xjDVgSBf4BdFkZmqcQZah.jpg"
+    },
+    {
+      "nombre": "Mark O'Brien",
+      "personaje": "Rob Meadows",
+      "foto": "https://image.tmdb.org/t/p/w500/8ckgltvlife4BBJcBpHEQWXfQ9p.jpg"
+    },
+    {
+      "nombre": "Gwendoline Christie",
+      "personaje": "Lady Jane",
+      "foto": "https://image.tmdb.org/t/p/w500/kmlv5i02n3zKryBr2W3kSeWVKTD.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jennifer Yuh Nelson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chad Hodge",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Dan Levine",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Cohen",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "H.H. Cooper",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Dean Zimmerman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Barbara Harris",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Paul D. Kelly",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jennifer Teves",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Rand Geiger",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Lily Gwyer-Miller",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "H.H. Cooper",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Jack Gill",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Jeff Hubbard",
+      "rol": "Second Unit First Assistant Director"
+    },
+    {
+      "nombre": "Shanalyna C. Palmer",
+      "rol": "Second Second Assistant Director"
+    },
+    {
+      "nombre": "Kristen Ploucha",
+      "rol": "Second Assistant Director"
+    }
+  ],
+  "director": "Jennifer Yuh Nelson",
+  "valoraciones": {
+    "tmdb": 7.02,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "21 Laps Entertainment",
+  "enlace_video": "https://gscdn.cam/video/embed/iuch7wywl125",
+  "trailer": "https://www.youtube.com/watch?v=L4YtUUk6lcg"
+}
