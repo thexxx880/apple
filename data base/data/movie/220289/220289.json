@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 220289,
+  "poster": "https://image.tmdb.org/t/p/w500/5dEWii9B5capta63xDaSpr9wtVn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cvGE73s935bXEAVt2W0zADPPegG.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/posRps8fN5t6DMauUVouRwqCZjk.png",
+  "titulo": "Coherencia",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.2,
+  "año": "2014",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "En Finlandia, en 1923, el paso de un cometa hizo que los habitantes de un pueblo quedaran completamente desorientados; incluso una mujer llegó a llamar a la policía denunciando que el hombre que estaba en su casa no era su marido. Décadas más tarde, un grupo de amigos recuerda este caso mientras cenan, brindan y se preparan para ver pasar un cometa...",
+  "fecha_estreno": "2014-04-06",
+  "titulo_original": "Coherence",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Emily Baldoni",
+      "personaje": "Em",
+      "foto": "https://image.tmdb.org/t/p/w500/1d5FaYSUNLkgu0ev6PBlDgk8DoC.jpg"
+    },
+    {
+      "nombre": "Maury Sterling",
+      "personaje": "Kevin",
+      "foto": "https://image.tmdb.org/t/p/w500/dO9rd0F67Jt9hkcLw4CXERE9q1z.jpg"
+    },
+    {
+      "nombre": "Nicholas Brendon",
+      "personaje": "Mike",
+      "foto": "https://image.tmdb.org/t/p/w500/6O5sg97Fv07EzdWjpoq3lb8KnTM.jpg"
+    },
+    {
+      "nombre": "Lorene Scafaria",
+      "personaje": "Lee",
+      "foto": "https://image.tmdb.org/t/p/w500/1hgB5sHrCKsZmzTw78Re202bJ8q.jpg"
+    },
+    {
+      "nombre": "Elizabeth Gracen",
+      "personaje": "Beth",
+      "foto": "https://image.tmdb.org/t/p/w500/9UjiQnswCcHrRjzHzFOzOE0QDYA.jpg"
+    },
+    {
+      "nombre": "Hugo Armstrong",
+      "personaje": "Hugh",
+      "foto": "https://image.tmdb.org/t/p/w500/iEvscOR5Js8pXlNbCRGpD2lyXDC.jpg"
+    },
+    {
+      "nombre": "Alex Manugian",
+      "personaje": "Amir",
+      "foto": "https://image.tmdb.org/t/p/w500/bLwcXrNen9xlnl7bOlP2mmoaYVI.jpg"
+    },
+    {
+      "nombre": "Lauren Maher",
+      "personaje": "Laurie",
+      "foto": "https://image.tmdb.org/t/p/w500/udtzRPT5cf5wQSW7QT7UcnD79Os.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Ward Byrkit",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alex Manugian",
+      "rol": "Story"
+    },
+    {
+      "nombre": "James Ward Byrkit",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "James Ward Byrkit",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Lene Bausager",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Loren Smith",
+      "rol": "Digital Intermediate Producer"
+    },
+    {
+      "nombre": "Scott Berst",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Doug Blake",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Victoria Wood",
+      "rol": "Wig Designer"
+    },
+    {
+      "nombre": "Ben Bywater",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Jeremy Gordon",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Doug Blake",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Peter Konerko",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "Shane McAllen",
+      "rol": "Colorist"
+    },
+    {
+      "nombre": "Rebekah Sindoris",
+      "rol": "Accountant"
+    },
+    {
+      "nombre": "Ryan Meyer",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Sean McAllen",
+      "rol": "Assistant Editor"
+    }
+  ],
+  "director": "James Ward Byrkit",
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Bellanova Films",
+  "enlace_video": "https://gscdn.cam/video/embed/7um39fofp8sg",
+  "trailer": "https://www.youtube.com/watch?v=YixSld-6PqM"
+}
