@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 2080,
+  "poster": "https://image.tmdb.org/t/p/w500/lQAiASSFzY5SMud5f0Gu0C0jLlJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p4GzAzjlL7lXIVGvayg7zvzGTSi.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iDrOgWxEWS9YTub0Hl0CLbBsvkV.png",
+  "titulo": "X-Men orígenes: Wolverine",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.296,
+  "año": "2009",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "Los primeros años de James Logan, con la rivalidad con su hermano Victor Creed, su servicio en el equipo de fuerzas especiales Arma X, y su experimentación hacia el mutante revestido de metal Wolverine.",
+  "fecha_estreno": "2009-04-28",
+  "titulo_original": "X-Men Origins: Wolverine",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Hugh Jackman",
+      "personaje": "Logan / Wolverine",
+      "foto": "https://image.tmdb.org/t/p/w500/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "nombre": "Liev Schreiber",
+      "personaje": "Victor Creed",
+      "foto": "https://image.tmdb.org/t/p/w500/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
+    },
+    {
+      "nombre": "Danny Huston",
+      "personaje": "Stryker",
+      "foto": "https://image.tmdb.org/t/p/w500/mNz9t7MNANopavbLgcsZMMQBJ0u.jpg"
+    },
+    {
+      "nombre": "Lynn Collins",
+      "personaje": "Kayla Silverfox",
+      "foto": "https://image.tmdb.org/t/p/w500/ajPwDxFs3D0gbsaphHyB0ufWc3V.jpg"
+    },
+    {
+      "nombre": "Kevin Durand",
+      "personaje": "Fred Dukes",
+      "foto": "https://image.tmdb.org/t/p/w500/hINvryvce5tpod6kTnUg9ZTH8wg.jpg"
+    },
+    {
+      "nombre": "Dominic Monaghan",
+      "personaje": "Bradley",
+      "foto": "https://image.tmdb.org/t/p/w500/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg"
+    },
+    {
+      "nombre": "Taylor Kitsch",
+      "personaje": "Remy LeBeau",
+      "foto": "https://image.tmdb.org/t/p/w500/pTFkwvE2URbbftiaofexfolhkH9.jpg"
+    },
+    {
+      "nombre": "Daniel Henney",
+      "personaje": "Agent Zero",
+      "foto": "https://image.tmdb.org/t/p/w500/elAolohpUG5nS99EZxHZjd44DsS.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Benioff",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lauren Shuler Donner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hugh Jackman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gavin Hood",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Skip Woods",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bryan Singer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Palermo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ralph Winter",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Scott Cozens",
+      "rol": "Second Assistant \"B\" Camera"
+    },
+    {
+      "nombre": "Stephen Maier",
+      "rol": "First Assistant \"A\" Camera"
+    },
+    {
+      "nombre": "Cameron Morley",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Mark Rogers",
+      "rol": "Additional Still Photographer"
+    },
+    {
+      "nombre": "Keir Beck",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "James H. Fisher",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "Dale H. Jahraus",
+      "rol": "\"B\" Camera Operator"
+    },
+    {
+      "nombre": "Mal Booth",
+      "rol": "Dolly Grip"
+    },
+    {
+      "nombre": "Darrin Keough",
+      "rol": "\"B\" Camera Operator"
+    },
+    {
+      "nombre": "Hans Bjerno",
+      "rol": "Aerial Director of Photography"
+    },
+    {
+      "nombre": "Brad Shield",
+      "rol": "Second Unit Director of Photography"
+    },
+    {
+      "nombre": "Trig Singer",
+      "rol": "\"B\" Camera Operator"
+    }
+  ],
+  "director": "Gavin Hood",
+  "valoraciones": {
+    "tmdb": 6.296,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Donners' Company",
+  "enlace_video": "https://gscdn.cam/video/embed/fnrsl7qwfssr",
+  "trailer": "https://www.youtube.com/watch?v=8TQ-gD4UCmI"
+}
