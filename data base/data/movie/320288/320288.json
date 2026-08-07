@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 320288,
+  "poster": "https://image.tmdb.org/t/p/w500/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vf7N6TJTQpo8rYBfumBmPRYMbAE.png",
+  "titulo": "X-Men: Dark Phoenix",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.966,
+  "año": "2019",
+  "duracion": "1h 54min",
+  "edad_minima": 13,
+  "sinopsis": "Jean Grey comienza a desarrollar increíbles poderes que la corrompen y la convierten en un Fénix Oscuro, haciendo que los X-Men decidan si su vida vale más que toda la humanidad.",
+  "fecha_estreno": "2019-06-05",
+  "titulo_original": "Dark Phoenix",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sophie Turner",
+      "personaje": "Jean Grey / Dark Phoenix",
+      "foto": "https://image.tmdb.org/t/p/w500/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg"
+    },
+    {
+      "nombre": "James McAvoy",
+      "personaje": "Charles Xavier / Professor X",
+      "foto": "https://image.tmdb.org/t/p/w500/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+    },
+    {
+      "nombre": "Nicholas Hoult",
+      "personaje": "Hank McCoy / Beast",
+      "foto": "https://image.tmdb.org/t/p/w500/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg"
+    },
+    {
+      "nombre": "Tye Sheridan",
+      "personaje": "Scott Summers / Cyclops",
+      "foto": "https://image.tmdb.org/t/p/w500/d5ZS2fjqC98cIGkhEGX0fRYhku4.jpg"
+    },
+    {
+      "nombre": "Michael Fassbender",
+      "personaje": "Erik Lensherr / Magneto",
+      "foto": "https://image.tmdb.org/t/p/w500/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+    },
+    {
+      "nombre": "Alexandra Shipp",
+      "personaje": "Ororo Munroe / Storm",
+      "foto": "https://image.tmdb.org/t/p/w500/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
+    },
+    {
+      "nombre": "Evan Peters",
+      "personaje": "Peter Maximoff / Quicksilver",
+      "foto": "https://image.tmdb.org/t/p/w500/m9okq20ca2Md38i2ekJeKs3vTwa.jpg"
+    },
+    {
+      "nombre": "Jessica Chastain",
+      "personaje": "Vuk",
+      "foto": "https://image.tmdb.org/t/p/w500/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lauren Shuler Donner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Todd Hallowell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hutch Parker",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bryan Singer",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stan Lee",
+      "rol": "In Memory Of"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Jack Kirby",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Chris Claremont",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Dave Cockrum",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Len Wein",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "John Byrne",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ali Dunn",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jim Dunn",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Janene Carleton",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Shawnna Thibodeau",
+      "rol": "Stunt Double"
+    }
+  ],
+  "director": "Simon Kinberg",
+  "valoraciones": {
+    "tmdb": 5.966,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Genre Films",
+  "enlace_video": "https://gscdn.cam/video/embed/v4mr9zkt47t6",
+  "trailer": "https://www.youtube.com/watch?v=fMWQP_53U_g"
+}
