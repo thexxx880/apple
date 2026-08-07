@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 933045,
+  "poster": "https://image.tmdb.org/t/p/w500/23zxCsXRtX9ESrR0lfx1Attso2A.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mYSU5nCYVfUBh51TGu7V5fW6XXd.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iowGbXHgyJNVvn1w3Xbg7h8Secb.png",
+  "titulo": "Tigres salvajes de Rusia (Russia’s Wild Tiger)",
+  "trending": false,
+  "generos": [
+    "Documental",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7,
+  "año": "2022",
+  "duracion": "0h 44min",
+  "edad_minima": 13,
+  "sinopsis": "Registra la batalla por la supervivencia de los grandes felinos y revela detalles íntimos de sus vidas. Los animales de los que se alimentan también están en la película: los tigres no podrían sobrevivir sin el ciervo sika, el wapiti de Altai, los jabalíes y los osos negros asiáticos. Guiando al espectador a través de la película, un tigre anciano cuenta la historia de su cachorro, nacido en un área de conservación, un año después de dejar a su madre.",
+  "fecha_estreno": "2022-01-30",
+  "titulo_original": "Russia's Wild Tiger",
+  "pais_origen": "Austria",
+  "reparto": [
+    {
+      "nombre": "Salvatore Vecchio",
+      "personaje": "Narrator (voice)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Franz Hafner",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ingrid Klingohr",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nils Klingohr",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nikolaus Klingohr",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Franz Hafner",
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Interspot Film",
+  "enlace_video": "https://gscdn.cam/video/embed/0iwc6nlfkfte",
+  "trailer": ""
+}
