@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 36668,
+  "poster": "https://image.tmdb.org/t/p/w500/6FnWDI3mKZhfWv7NznKUFlvSdo0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sBl1n4Oi2wX81EtXIb8NsPqJf3W.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rtgcqY37lJUDTrzzProxvyeqtZz.png",
+  "titulo": "X-Men 3: La Batalla Final",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.425,
+  "año": "2006",
+  "duracion": "1h 44min",
+  "edad_minima": 13,
+  "sinopsis": "El gobierno humano desarrolla una cura para las mutaciones, y Jean Gray se convierte en un personaje oscuro e incontrolable llamado el Fénix que se alía con Magneto, causando una escalada en una batalla total para los X-Men.",
+  "fecha_estreno": "2006-05-24",
+  "titulo_original": "X-Men: The Last Stand",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Hugh Jackman",
+      "personaje": "Logan / Wolverine",
+      "foto": "https://image.tmdb.org/t/p/w500/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "nombre": "Halle Berry",
+      "personaje": "Ororo Munroe / Storm",
+      "foto": "https://image.tmdb.org/t/p/w500/84HRDZodRCuBSpYGSc3ow8WucI4.jpg"
+    },
+    {
+      "nombre": "Ian McKellen",
+      "personaje": "Erik Lehnsherr / Magneto",
+      "foto": "https://image.tmdb.org/t/p/w500/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+    },
+    {
+      "nombre": "Patrick Stewart",
+      "personaje": "Professor Charles Xavier",
+      "foto": "https://image.tmdb.org/t/p/w500/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg"
+    },
+    {
+      "nombre": "Famke Janssen",
+      "personaje": "Jean Grey / Phoenix",
+      "foto": "https://image.tmdb.org/t/p/w500/uvZGwNsLqe9NyA57Qlt46IkO8Bd.jpg"
+    },
+    {
+      "nombre": "Anna Paquin",
+      "personaje": "Marie / Rogue",
+      "foto": "https://image.tmdb.org/t/p/w500/5FjBCsn3kujldP8LizoCrc3hsHp.jpg"
+    },
+    {
+      "nombre": "Kelsey Grammer",
+      "personaje": "Dr. Henry 'Hank' McCoy / Beast",
+      "foto": "https://image.tmdb.org/t/p/w500/5zik4VJim6YTSWDjC7tkp13wxUp.jpg"
+    },
+    {
+      "nombre": "James Marsden",
+      "personaje": "Scott Summers / Cyclops",
+      "foto": "https://image.tmdb.org/t/p/w500/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Brett Ratner",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Zak Penn",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lauren Shuler Donner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ralph Winter",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stephannie Hawkins",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Angela Uyeda",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Monte Thompson",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Marshall Virtue",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "John Wardlow",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Shayna Segal",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Michael Roselli",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Rick Pearce",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Gerald Paetz",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Scott Nicholson",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ronald Robinson",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Lani Gelera",
+      "rol": "Stunt Double"
+    }
+  ],
+  "director": "Brett Ratner",
+  "valoraciones": {
+    "tmdb": 6.425,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Donners' Company",
+  "enlace_video": "https://gscdn.cam/video/embed/3fguot8xntcz",
+  "trailer": "https://www.youtube.com/watch?v=X8ozc_dQprk"
+}
