@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 11542,
+  "poster": "https://image.tmdb.org/t/p/w500/r7AmGFI9mdAm2U9QoSr057uDrQY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4iJQItnH2qmV7fZVDGvdE4XyxcO.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bM9et9k0FeEZplIrMzbTUgaJIjJ.png",
+  "titulo": "Estados alterados",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.717,
+  "año": "1980",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "El científico Eddie Jessup (William Hurt) cree que hay otros estados de conciencia que son tan reales como la vida cotidiana. Utilizando la privación sensorial y añadiendo medicamentos potentes y alucinógenos, investiga estos estados alterados y soporta experiencias que hacen que la locura parezca una bendición.",
+  "fecha_estreno": "1980-12-25",
+  "titulo_original": "Altered States",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "William Hurt",
+      "personaje": "Professor Eddie Jessup",
+      "foto": "https://image.tmdb.org/t/p/w500/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+    },
+    {
+      "nombre": "Blair Brown",
+      "personaje": "Emily Jessup",
+      "foto": "https://image.tmdb.org/t/p/w500/hnVybZLBUJNr93gCTwgRQRCkjpm.jpg"
+    },
+    {
+      "nombre": "Bob Balaban",
+      "personaje": "Arthur Rosenberg",
+      "foto": "https://image.tmdb.org/t/p/w500/qceORed11dvRnxQjVGexPvgF5Xu.jpg"
+    },
+    {
+      "nombre": "Charles Haid",
+      "personaje": "Mason Parrish",
+      "foto": "https://image.tmdb.org/t/p/w500/6X2iBOvxH9ud6XFgMwNycFnfVqh.jpg"
+    },
+    {
+      "nombre": "Thaao Penghlis",
+      "personaje": "Echeverria",
+      "foto": "https://image.tmdb.org/t/p/w500/vNHYrgo9GetIhiHf2jBKWKYsebz.jpg"
+    },
+    {
+      "nombre": "Miguel Godreau",
+      "personaje": "Primal Man",
+      "foto": null
+    },
+    {
+      "nombre": "Dori Brenner",
+      "personaje": "Sylvia Rosenberg",
+      "foto": "https://image.tmdb.org/t/p/w500/yO67n33e8VnhBCxjE3agUk7F9jq.jpg"
+    },
+    {
+      "nombre": "Peter Brandon",
+      "personaje": "Hobart",
+      "foto": "https://image.tmdb.org/t/p/w500/ab2xdAoZcA8pjcjyEd0DGcUizPd.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Paddy Chayefsky",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Howard Gottfried",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ken Russell",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Paddy Chayefsky",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "John Corigliano",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Daniel Melnick",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jordan Cronenweth",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Eric Jenkins",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Howard Feuer",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ruth Myers",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jeremy Ritzer",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Richard Macdonald",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Thomas L. Roysden",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Bran Ferren",
+      "rol": "Visual Effects Director"
+    },
+    {
+      "nombre": "Michael Minkler",
+      "rol": "Sound Re-Recording Mixer"
+    }
+  ],
+  "director": "Ken Russell",
+  "valoraciones": {
+    "tmdb": 6.717,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/fh1tpwu2cvlr",
+  "trailer": "https://www.youtube.com/watch?v=0XNVQ4ILPBA"
+}
