@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 336882,
+  "poster": "https://image.tmdb.org/t/p/w500/toDnNcdRxoYIhnTvEA2vpFAggmi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9W0aXF5HhGilDHloymf7sTCne8z.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iFyKP3KtwGcnk6ZFyS8IapgDqUl.png",
+  "titulo": "La última ola",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Drama"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.697,
+  "año": "2015",
+  "duracion": "1h 44min",
+  "edad_minima": 13,
+  "sinopsis": "Ubicada en la montaña Akneset, en el fiordo noruego de Geiranger, la historia se desarrolla en un mismo día en el que un violento tsunami de más de 80 metros apastará todo a su paso. Entre las posibles víctimas un geólogo que se ve atrapado en medio de este desastre natural y que iniciará una carrera contra el tiempo para salvar su vida y la de los suyos.",
+  "fecha_estreno": "2015-08-28",
+  "titulo_original": "Bølgen",
+  "pais_origen": "Norway",
+  "reparto": [
+    {
+      "nombre": "Kristoffer Joner",
+      "personaje": "Kristian Eikjord",
+      "foto": "https://image.tmdb.org/t/p/w500/vufeSWAdY9653t5Vxu3HysCnIkY.jpg"
+    },
+    {
+      "nombre": "Ane Dahl Torp",
+      "personaje": "Idun Karlsen",
+      "foto": "https://image.tmdb.org/t/p/w500/loW4MVWGzbJJzcBb8HNotalmLtk.jpg"
+    },
+    {
+      "nombre": "Jonas Hoff Oftebro",
+      "personaje": "Sondre Eikjord",
+      "foto": "https://image.tmdb.org/t/p/w500/xK84F6JmW6pauOZCs47DNGR7PCE.jpg"
+    },
+    {
+      "nombre": "Edith Haagenrud-Sande",
+      "personaje": "Julia Eikjord",
+      "foto": "https://image.tmdb.org/t/p/w500/jm87s4jio07WC15PKBUrteuenV3.jpg"
+    },
+    {
+      "nombre": "Fridtjov Såheim",
+      "personaje": "Arvid Øvrebø",
+      "foto": "https://image.tmdb.org/t/p/w500/clOaTXrlYeWP6BGtBu5R7EKby4G.jpg"
+    },
+    {
+      "nombre": "Laila Goody",
+      "personaje": "Margot Valldal",
+      "foto": "https://image.tmdb.org/t/p/w500/20NmCANZtaApMBusEiNIpeMEKa6.jpg"
+    },
+    {
+      "nombre": "Arthur Berning",
+      "personaje": "Jacob Vikra",
+      "foto": "https://image.tmdb.org/t/p/w500/k2yRmu46KllJhr4FEJY0xzxtUmm.jpg"
+    },
+    {
+      "nombre": "Herman Bernhoft",
+      "personaje": "Georg",
+      "foto": "https://image.tmdb.org/t/p/w500/91GRL85UjuKZ083vQjKfKsi6yhe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Roar Uthaug",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Kåre Raake",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Are Heidenstrøm",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Martin Sundland",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Harald Rosenløw-Eeg",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Martin Sundland",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Roar Uthaug",
+      "rol": "Story"
+    },
+    {
+      "nombre": "John Kåre Raake",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Andrei Cretan",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Sean Wheelan",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "John-Erling Holmenes Fredriksen",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Calin Catalin",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Christian Schaanning",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Anders Granlund",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Adrian Curelea",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Áslaug Dröfn Sigurdardóttir",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Christian Siebenherz",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Johan Bjerke",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Karen Fabritius Gram",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Stig Holte",
+      "rol": "Sound Effects Editor"
+    }
+  ],
+  "director": "Roar Uthaug",
+  "valoraciones": {
+    "tmdb": 6.697,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fantefilm",
+  "enlace_video": "https://vimeos.net/embed-0r48l54zug05.html",
+  "trailer": "https://www.youtube.com/watch?v=QPIOV-tCaEU"
+}
