@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 1451867,
+  "poster": "https://image.tmdb.org/t/p/w500/15CI7f65PC5iopF1BmnpsIAEoUo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qEqvcwXH5skWfed1rgZq45FL36G.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wvqeyMRBJngjijmemx64Wnj6tEC.png",
+  "titulo": "Elefantes fantasmas",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.7,
+  "año": "2026",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Un científico se adentra por Angola en busca de los elefantes más grandes que hayan pisado el planeta.",
+  "fecha_estreno": "2026-02-27",
+  "titulo_original": "Ghost Elephants",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Werner Herzog",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg"
+    },
+    {
+      "nombre": "Steve Boyes",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/lD8Y9frwW2pGihlm395W5qvDAT9.jpg"
+    },
+    {
+      "nombre": "Kerllen Costa",
+      "personaje": "Self - Environmental Anthropologist",
+      "foto": "https://image.tmdb.org/t/p/w500/4CAJprv8jeyQ6Dz4bClr8UzUbxJ.jpg"
+    },
+    {
+      "nombre": "Qui",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Qui-Dawid",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Kobus",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Gary Trower",
+      "personaje": "Self - Anthropologist, San Culture Specialist",
+      "foto": null
+    },
+    {
+      "nombre": "Jordana Meyer",
+      "personaje": "Self - Molecular Ecologist, Stanford University",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Werner Herzog",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Werner Herzog",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ariel Leon Isacovitch",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Werner Herzog",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Werner Herzog",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marco Capalbo",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Rafael Leyva",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Andrew Trapani",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Emerson Farrell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Sze",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David B. Kirk",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Terrence Battle",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Casey Graf",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Nugent",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carolyn Bernstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tim Horsburgh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ernst Reijseger",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Werner Herzog",
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sobey Road Entertainment",
+  "enlace_video": "https://gscdn.cam/video/embed/ml58rmcm3fdr",
+  "trailer": "https://www.youtube.com/watch?v=YoOD-2Wn7ik"
+}
