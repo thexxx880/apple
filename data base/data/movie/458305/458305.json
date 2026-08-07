@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 458305,
+  "poster": "https://image.tmdb.org/t/p/w500/cWO9yPLhInkrLANC4KwKgFGedP8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zLa8fA7boGtNoNH7n6iYi9UqoaH.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/gTmyB3HQ7vb8TKGwvA5OfcjEgW2.png",
+  "titulo": "Vivarium",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Misterio",
+    "Terror"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.069,
+  "año": "2019",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Gemma (Imogen Poots) y Tom (Jesse Eisenberg) son una joven pareja que se ha planteado la compra de su primera casa. Para ello visitan una inmobiliaria donde los recibe un extraño agente de ventas, que les acompaña a Yonder, una nueva, misteriosa y peculiar urbanización donde todas las casas son idénticas, para mostrarles una vivienda unifamiliar para ellos. Volviendo de la visita, quedan atrapados en una laberíntica e interminable pesadilla surrealista.",
+  "fecha_estreno": "2019-09-07",
+  "titulo_original": "Vivarium",
+  "pais_origen": "Belgium",
+  "reparto": [
+    {
+      "nombre": "Imogen Poots",
+      "personaje": "Gemma",
+      "foto": "https://image.tmdb.org/t/p/w500/7uMFX0ecPZT2tc8L5DFFNbUckc9.jpg"
+    },
+    {
+      "nombre": "Jesse Eisenberg",
+      "personaje": "Tom",
+      "foto": "https://image.tmdb.org/t/p/w500/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg"
+    },
+    {
+      "nombre": "Senan Jennings",
+      "personaje": "Young Boy",
+      "foto": "https://image.tmdb.org/t/p/w500/wuG6FkYNoNEupBiMbBmdVYcImNj.jpg"
+    },
+    {
+      "nombre": "Éanna Hardwicke",
+      "personaje": "Older Boy",
+      "foto": "https://image.tmdb.org/t/p/w500/mNp6otIVAoQpDepppvyTVXb2bsE.jpg"
+    },
+    {
+      "nombre": "Jonathan Aris",
+      "personaje": "Martin",
+      "foto": "https://image.tmdb.org/t/p/w500/e3mdBI4oCXwf4locFbPKwHsAjaI.jpg"
+    },
+    {
+      "nombre": "Côme Thiry",
+      "personaje": "Baby",
+      "foto": null
+    },
+    {
+      "nombre": "Molly McCann",
+      "personaje": "Molly",
+      "foto": "https://image.tmdb.org/t/p/w500/zj9W1ztt5sRnpwOwy7zicXjmLrA.jpg"
+    },
+    {
+      "nombre": "Danielle Ryan",
+      "personaje": "School Mom",
+      "foto": "https://image.tmdb.org/t/p/w500/binlXh4F1ZzzuVERQqoHa4JDdwY.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lorcan Finnegan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Garret Shanley",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Brendan McCarthy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Garret Shanley",
+      "rol": "Story"
+    },
+    {
+      "nombre": "John McDonnell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lorcan Finnegan",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Neil Guerin",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Violaine Barbaroux",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dave Flanagan",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Jesse Eisenberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thomas Gammeltoft",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dirk Bombey",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Tricia Perrott",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Imogen Poots",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Manuel Chiche",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kristian Eidnes Andersen",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Jacques Pedersen",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Tom Speirs",
+      "rol": "Third Assistant Director"
+    }
+  ],
+  "director": "Lorcan Finnegan",
+  "valoraciones": {
+    "tmdb": 6.069,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fantastic Films",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/0c/s8/2/Y/J/m/j/YJmjz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=8aMHIkteKX4"
+}
