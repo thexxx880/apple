@@ -1,0 +1,64 @@
+{
+  "id_tmdb": 1538573,
+  "poster": "https://image.tmdb.org/t/p/w500/iXNdiLowyxNem3hHmIh4M9A16Q8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/klD0xdA1iOepMe8qm708Lks4YAQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/eLI8LQfz4TNdtLmkAUqNqkITrBm.png",
+  "titulo": "Cleopatra: el misterio final",
+  "trending": false,
+  "generos": [
+    "Documental",
+    "Historia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.87,
+  "año": "2025",
+  "duracion": "1h 7min",
+  "edad_minima": 13,
+  "sinopsis": "Después de 20 años buscando la tumba de Cleopatra, la búsqueda de la arqueóloga K. Martínez se traslada a un sitio submarino en el Mediterráneo. Está acompañada por el descubridor del Titanic, Bob Ballard, la Armada Egipcia y equipos de buceo para explorar la ubicación.",
+  "fecha_estreno": "2025-09-25",
+  "titulo_original": "Cleopatra's Final Secret",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Kathleen Martinez",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "زاهي حواس",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/lDZadqSZrcfDNy79w8nvWZL7cKW.jpg"
+    },
+    {
+      "nombre": "Robert D. Ballard",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/wiNQa47si2jK6ODJ2Q0nMufqAky.jpg"
+    },
+    {
+      "nombre": "Salima Ikram",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/oFsmRFgHMpBRk79G6d2CJBXt68s.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alex Kiehl",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mikolaj Bakalarz",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Alex Kiehl",
+  "valoraciones": {
+    "tmdb": 7.87,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "National Geographic",
+  "enlace_video": "https://rumble.com/hls-vod/6xupls/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=xhHxNLNJ_4o"
+}
