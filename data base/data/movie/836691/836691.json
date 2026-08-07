@@ -1,0 +1,59 @@
+{
+  "id_tmdb": 836691,
+  "poster": "https://image.tmdb.org/t/p/w500/yTmkiIddqXWed5LQWJ98Tt1cllA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gSpADcISuvwNnFBaVkg95OARMq1.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aYOjkHSfRJ09bSIdZIvl8CQInQr.png",
+  "titulo": "Playa de tiburones con Chris Hemsworth",
+  "trending": false,
+  "generos": [
+    "Documental",
+    "Película de TV"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.6,
+  "año": "2021",
+  "duracion": "0h 44min",
+  "edad_minima": 13,
+  "sinopsis": "Dirigido por Sally Aitken y el actor australiano Chirs Hemsworth se reúne y entrevista a diversos especialistas biólogos, surfistas, conservacionistas y defensores de los tiburones de su país natal para entender y descubrir que ha disparado los ataques y explicar la manera en que los humanos deben convivir con otras especies para mantener un balance natural correcto.",
+  "fecha_estreno": "2021-07-05",
+  "titulo_original": "Shark Beach with Chris Hemsworth",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Chris Hemsworth",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "nombre": "Valerie Taylor",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Mick Fanning",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/8wKGQ1mqLEOK7j37ncGi4fU93el.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sally Aitken",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chris Hemsworth",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Sally Aitken",
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nutopia",
+  "enlace_video": "https://streamwish.to/e/etr4lac4sfr7",
+  "trailer": "https://www.youtube.com/watch?v=lgWetDl1t6E"
+}
