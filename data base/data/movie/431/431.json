@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 431,
+  "poster": "https://image.tmdb.org/t/p/w500/ngM6WtSC1bzcST3QzbCiDYsxo7E.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3TimUBrXMVblpnTsyg4HssGVbBv.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/S4uJjQ45eK7k6oeOCcCvWtPYQH.png",
+  "titulo": "El cubo",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Ciencia ficción",
+    "Misterio"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.827,
+  "año": "1998",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "Seis personas aparecen encerradas en un complejo laberinto de habitaciones cúbicas que esconde trampas mortales. No saben cómo llegaron allí, pero pronto descubren que deberán resolver ciertos enigmas y sortear con habilidad todas las trampas si quieren sobrevivir.",
+  "fecha_estreno": "1998-07-11",
+  "titulo_original": "Cube",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Nicole De Boer",
+      "personaje": "Leaven",
+      "foto": "https://image.tmdb.org/t/p/w500/wMbn79Fy2So26LpRA9QITodfexV.jpg"
+    },
+    {
+      "nombre": "Nicky Guadagni",
+      "personaje": "Holloway",
+      "foto": "https://image.tmdb.org/t/p/w500/qJCelkMEFOa86LC0xTPF8m9p5Rf.jpg"
+    },
+    {
+      "nombre": "Maurice Dean Wint",
+      "personaje": "Quentin",
+      "foto": "https://image.tmdb.org/t/p/w500/aTCGk2zc9z4xurgAtLrVSFk5HkU.jpg"
+    },
+    {
+      "nombre": "David Hewlett",
+      "personaje": "Worth",
+      "foto": "https://image.tmdb.org/t/p/w500/bm6Tjfaj7iuRLI0hkvxHBlP4pUO.jpg"
+    },
+    {
+      "nombre": "Andrew Miller",
+      "personaje": "Kazan",
+      "foto": "https://image.tmdb.org/t/p/w500/48Bb9l5CIP0ccQYFDm571ceS7Iq.jpg"
+    },
+    {
+      "nombre": "Wayne Robson",
+      "personaje": "Rennes",
+      "foto": "https://image.tmdb.org/t/p/w500/idYHGiGyWcUUrVFm9THGLzTgWHF.jpg"
+    },
+    {
+      "nombre": "Julian Richings",
+      "personaje": "Alderson",
+      "foto": "https://image.tmdb.org/t/p/w500/6aXnbVDNlYXKFOUK7CZ2lboAlxE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Vincenzo Natali",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mehra Meh",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Betty Orr",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "André Bijelic",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Vincenzo Natali",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Graeme Manson",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Korven",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Derek Rogers",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "John Sanders",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jasna Stefanovic",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Wendy May Moore",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Louise Mackintosh",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Louise Mackintosh",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Peter Atto",
+      "rol": "Art Department Assistant"
+    },
+    {
+      "nombre": "Mario D'Amaral",
+      "rol": "Art Department Assistant"
+    },
+    {
+      "nombre": "Jane Kim",
+      "rol": "Art Department Assistant"
+    },
+    {
+      "nombre": "Sue Motahedin",
+      "rol": "Art Department Assistant"
+    },
+    {
+      "nombre": "Mark Newman",
+      "rol": "Art Department Assistant"
+    }
+  ],
+  "director": "Vincenzo Natali",
+  "valoraciones": {
+    "tmdb": 6.827,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cube Libre",
+  "enlace_video": "https://gscdn.cam/video/embed/ucobk9dczc3l",
+  "trailer": "https://www.youtube.com/watch?v=HYoTGYT0-I4"
+}
