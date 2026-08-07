@@ -1,0 +1,151 @@
+{
+  "id_tmdb": 10501,
+  "poster": "https://image.tmdb.org/t/p/w500/yI7KqevlFBOJDpXFTZa0swDQZLU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ciM5RFsBoWEj0tbwJy42Hr76iRd.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xPYcdlAeDBY5pKDxMa74iaDwtGl.png",
+  "titulo": "El camino hacia El Dorado",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.299,
+  "año": "2000",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "Dos estafadores consiguen un mapa que lleva a la legendaria ciudad del oro, El Dorado.",
+  "fecha_estreno": "2000-03-31",
+  "titulo_original": "The Road to El Dorado",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Kenneth Branagh",
+      "personaje": "Miguel  (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+    },
+    {
+      "nombre": "Kevin Kline",
+      "personaje": "Tulio (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ArH5dACd9AmWNNMnI6bGEkiFYIM.jpg"
+    },
+    {
+      "nombre": "Rosie Perez",
+      "personaje": "Chel (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/g6iJNyIhVDY5NxZU1jbKMjPnNYf.jpg"
+    },
+    {
+      "nombre": "Armand Assante",
+      "personaje": "Tzekel-Kan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9HbbWAJacTHguO2InDVHKGnaasm.jpg"
+    },
+    {
+      "nombre": "Edward James Olmos",
+      "personaje": "Chief (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mXnilUrQBIMLHSQkPjQk99mX70x.jpg"
+    },
+    {
+      "nombre": "Jim Cummings",
+      "personaje": "Cortes (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Altivo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Tobin Bell",
+      "personaje": "Zaragoza (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y5rppj4alNn2dYXR94DGp08baAx.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Terry Rossio",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bibo Bergeron",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ted Elliott",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bonne Radford",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brooke Breton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Don Paul",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John Powell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Stephen Wood",
+      "rol": "2D Artist"
+    },
+    {
+      "nombre": "Lorenzo E. Martinez",
+      "rol": "Layout Supervisor"
+    },
+    {
+      "nombre": "Kevin Turcotte",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "David S. Karoll",
+      "rol": "Modeling"
+    },
+    {
+      "nombre": "Elton John",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Damon O'Beirne",
+      "rol": "Layout Supervisor"
+    },
+    {
+      "nombre": "Dan Philips",
+      "rol": "Digital Supervisor"
+    },
+    {
+      "nombre": "Bud Myrick",
+      "rol": "3D Artist"
+    },
+    {
+      "nombre": "Jill Hopper",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Mark Swift",
+      "rol": "Production Manager"
+    }
+  ],
+  "director": "Bibo Bergeron",
+  "valoraciones": {
+    "tmdb": 7.299,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/elaovv70q2r6",
+  "trailer": "https://www.youtube.com/watch?v=JcOfJwN0bdY"
+}
