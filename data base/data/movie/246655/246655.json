@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 246655,
+  "poster": "https://image.tmdb.org/t/p/w500/i5ET4lACwrb97sdPzmIThieasOk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sTQNRqLbfCXolrb5CizAW1dj528.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6DY9HnPAl8jbbqESsuYiERbdaLi.png",
+  "titulo": "X-Men: Apocalipsis",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Fantasía",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.526,
+  "año": "2016",
+  "duracion": "2h 23min",
+  "edad_minima": 13,
+  "sinopsis": "En la década de 1980 los X-Men deben derrotar a un antiguo mutante todopoderoso, En Sabah Nur, que pretende prosperar trayendo destrucción al mundo.",
+  "fecha_estreno": "2016-05-18",
+  "titulo_original": "X-Men: Apocalypse",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "James McAvoy",
+      "personaje": "Professor Charles Xavier",
+      "foto": "https://image.tmdb.org/t/p/w500/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+    },
+    {
+      "nombre": "Michael Fassbender",
+      "personaje": "Erik Lehnsherr / Magneto",
+      "foto": "https://image.tmdb.org/t/p/w500/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+    },
+    {
+      "nombre": "Jennifer Lawrence",
+      "personaje": "Raven / Mystique",
+      "foto": "https://image.tmdb.org/t/p/w500/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
+    },
+    {
+      "nombre": "Nicholas Hoult",
+      "personaje": "Hank McCoy / Beast",
+      "foto": "https://image.tmdb.org/t/p/w500/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg"
+    },
+    {
+      "nombre": "Oscar Isaac",
+      "personaje": "En Sabah Nur / Apocalypse",
+      "foto": "https://image.tmdb.org/t/p/w500/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+    },
+    {
+      "nombre": "Rose Byrne",
+      "personaje": "Moira MacTaggert",
+      "foto": "https://image.tmdb.org/t/p/w500/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+    },
+    {
+      "nombre": "Evan Peters",
+      "personaje": "Peter Maximoff / Quicksilver",
+      "foto": "https://image.tmdb.org/t/p/w500/m9okq20ca2Md38i2ekJeKs3vTwa.jpg"
+    },
+    {
+      "nombre": "Josh Helman",
+      "personaje": "Col. William Stryker",
+      "foto": "https://image.tmdb.org/t/p/w500/1thwLjrgvFv7ifjyVtTKQh23OCh.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bryan Singer",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Michael Dougherty",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Dan Harris",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bryan Singer",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lauren Shuler Donner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Patrick Rousseau",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Garrett Warren",
+      "rol": "Fight Choreographer"
+    },
+    {
+      "nombre": "Dane Farwell",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Stephannie Hawkins",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Josh McLaglen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Ottman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Newton Thomas Sigel",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Todd Hallowell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Bell",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Blake Collins",
+      "rol": "Foley"
+    },
+    {
+      "nombre": "Kurt D. Lott",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Thomas J. Larsen",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Bryan Singer",
+  "valoraciones": {
+    "tmdb": 6.526,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Donners' Company",
+  "enlace_video": "https://gscdn.cam/video/embed/eogehg651h7m",
+  "trailer": "https://www.youtube.com/watch?v=4BImDtyAIA0"
+}
