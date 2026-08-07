@@ -1,0 +1,68 @@
+{
+  "id_tmdb": 1452827,
+  "poster": "https://image.tmdb.org/t/p/w500/r70WqeN6iIYIrwzxfNYFpegKbLN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/h4xi19UruYzqQUVSwOMQIVArGhs.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4nlCcQAZ219UUQHkhNIF8DhHBT6.png",
+  "titulo": "Leones Marinos de las Galápagos",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.875,
+  "año": "2025",
+  "duracion": "1h 23min",
+  "edad_minima": 13,
+  "sinopsis": "En el corazón del Océano Pacífico se encuentra un archipiélago, hogar de una comunidad única de criaturas que no se encuentran en ningún otro lugar del planeta. Narrado por Brendan Fraser, \"Leones Marinos de las Galápagos\" de Disneynature, nos lleva bajo el agua junto a Leo, un cachorro de león marino que está aprendiendo a navegar por la vida. Leo debe dejar la colonia de su madre para encontrar su propio hogar.",
+  "fecha_estreno": "2025-04-21",
+  "titulo_original": "Sea Lions of the Galapagos",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Brendan Fraser",
+      "personaje": "Self - Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Hugh Wilson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Hugh Wilson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Keith Scholey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Roy Conli",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Keith Scholey",
+      "rol": "Co-Director"
+    },
+    {
+      "nombre": "Raphaelle Thibaut",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tara Knowles",
+      "rol": "Production Manager"
+    }
+  ],
+  "director": "Hugh Wilson",
+  "valoraciones": {
+    "tmdb": 7.875,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Silverback Films",
+  "enlace_video": "https://gscdn.cam/video/embed/9kgdj30pjfdv",
+  "trailer": "https://www.youtube.com/watch?v=X0nclu9lzaQ"
+}
