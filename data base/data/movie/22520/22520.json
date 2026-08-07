@@ -1,0 +1,108 @@
+{
+  "id_tmdb": 22520,
+  "poster": "https://image.tmdb.org/t/p/w500/1ib8yTKDDYIxj0X8ywGomFPLpJE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wsHuH5Y3WBqA9xdhvmIbvY101PW.jpg",
+  "logo": null,
+  "titulo": "아치와 씨팍",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Animación",
+    "Ciencia ficción",
+    "Comedia",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.218,
+  "año": "2006",
+  "duracion": "1h 28min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2006-06-28",
+  "titulo_original": "아치와 씨팍",
+  "pais_origen": "South Korea",
+  "reparto": [
+    {
+      "nombre": "류승범",
+      "personaje": "Aachi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xFp1ON5RN9EYw4hQOnqfjWIxjVt.jpg"
+    },
+    {
+      "nombre": "현영",
+      "personaje": "Beautiful (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/60HKqRH3zlf6E5IBI4y75SPMpxe.jpg"
+    },
+    {
+      "nombre": "신해철",
+      "personaje": "Diaper King (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4wBUZ29UnfncyAefU0cjB3a7yaE.jpg"
+    },
+    {
+      "nombre": "임창정",
+      "personaje": "Ssispak (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nUz34M4BLpgAbKkA8OaGD3AkACe.jpg"
+    },
+    {
+      "nombre": "양정화",
+      "personaje": "Bojagi gang (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nj1Asi3Cn3yiFoqhIbq2GoS6Wwz.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jo Beom-jin",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jo Beom-jin",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jeong Hye-won",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kang Sang-kyun",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kim Chang-soo",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Kim Byeong-gab",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Kim Yun-gi",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Seo Dong-hyeon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Park Han-jae",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Lee Chung-bok",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "달파란",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Jo Beom-jin",
+  "valoraciones": {
+    "tmdb": 6.218,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "J Team",
+  "enlace_video": "https://rumble.com/hls-vod/NiGHkVoxKqk/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=4i7bAC2Y_XI"
+}
