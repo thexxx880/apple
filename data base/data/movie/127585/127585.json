@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 127585,
+  "poster": "https://image.tmdb.org/t/p/w500/ggb9nmS5alJuA0ll0iU5YHiGbb0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3czpqXzFy5UcNuD1AubecRLWkwD.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ni2bcCb9VYjhqCwGKpCnu9qRGaj.png",
+  "titulo": "X-Men: Días del futuro pasado",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.534,
+  "año": "2014",
+  "duracion": "2h 11min",
+  "edad_minima": 13,
+  "sinopsis": "Los X-Men originales unen fuerzas y envían a Wolverine al pasado en un intento desesperado de cambiar la historia y prevenir un evento que desemboca en la perdición tanto para humanos como para mutantes.",
+  "fecha_estreno": "2014-05-15",
+  "titulo_original": "X-Men: Days of Future Past",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Hugh Jackman",
+      "personaje": "Logan / Wolverine",
+      "foto": "https://image.tmdb.org/t/p/w500/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "nombre": "James McAvoy",
+      "personaje": "Charles Xavier",
+      "foto": "https://image.tmdb.org/t/p/w500/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+    },
+    {
+      "nombre": "Michael Fassbender",
+      "personaje": "Erik Lehnsherr",
+      "foto": "https://image.tmdb.org/t/p/w500/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+    },
+    {
+      "nombre": "Patrick Stewart",
+      "personaje": "Professor X",
+      "foto": "https://image.tmdb.org/t/p/w500/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg"
+    },
+    {
+      "nombre": "Ian McKellen",
+      "personaje": "Magneto",
+      "foto": "https://image.tmdb.org/t/p/w500/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+    },
+    {
+      "nombre": "Jennifer Lawrence",
+      "personaje": "Raven / Mystique",
+      "foto": "https://image.tmdb.org/t/p/w500/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
+    },
+    {
+      "nombre": "Halle Berry",
+      "personaje": "Storm",
+      "foto": "https://image.tmdb.org/t/p/w500/84HRDZodRCuBSpYGSc3ow8WucI4.jpg"
+    },
+    {
+      "nombre": "Nicholas Hoult",
+      "personaje": "Hank / Beast",
+      "foto": "https://image.tmdb.org/t/p/w500/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bryan Singer",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lauren Shuler Donner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bryan Singer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Matthew Vaughn",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Jane Goldman",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh McLaglen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Todd Hallowell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Byrne",
+      "rol": "Graphic Novel Illustrator"
+    },
+    {
+      "nombre": "Ve Neill",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "John Ottman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Newton Thomas Sigel",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "John Myhre",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Andrea Kenyon",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Roger Mussenden",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Randi Wells",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ravi Bansal",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Bryan Singer",
+  "valoraciones": {
+    "tmdb": 7.534,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Bad Hat Harry Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/ob36qnqc9lqj",
+  "trailer": "https://www.youtube.com/watch?v=KPLp3YTMQuk"
+}
