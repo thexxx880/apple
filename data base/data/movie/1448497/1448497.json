@@ -1,0 +1,104 @@
+{
+  "id_tmdb": 1448497,
+  "poster": "https://image.tmdb.org/t/p/w500/q1g8OV441LN0DKoCS7CRdL3OvQK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2hthvh4L1pHYZ5alepSqIAFYrRv.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/zjekHvyxjEKfGmSUnV37N82v50y.png",
+  "titulo": "Océanos con David Attenborough",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.021,
+  "año": "2025",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "Attenborough explora los hábitats submarinos del planeta, revelando la mayor época de descubrimientos oceánicos y destacando la importancia vital del océano, al tiempo que expone sus problemas y destaca las oportunidades de recuperación de la vida marina.",
+  "fecha_estreno": "2025-05-08",
+  "titulo_original": "Ocean with David Attenborough",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "David Attenborough",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/tt3LW3XftcvxOZtMXmIaJSWFN7y.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Colin Butfield",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Toby Nowlan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Keith Scholey",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Toby Nowlan",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Steven Price",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Louise Pedersen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rachel Job",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom McDonald",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Janet Han Vissering",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jasper Smith",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Enric Sala",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kristin Rechberger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rolly van Rappard",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Francoise van Rappard",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Prince Albert II of Monaco",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Toby Strong",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Colin Butfield",
+  "valoraciones": {
+    "tmdb": 8.021,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Silverback Films",
+  "enlace_video": "https://gscdn.cam/video/embed/3u5jtq1zf0i1",
+  "trailer": "https://www.youtube.com/watch?v=v5J7aP2FYH4"
+}
