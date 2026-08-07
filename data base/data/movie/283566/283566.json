@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 283566,
+  "poster": "https://image.tmdb.org/t/p/w500/x22zDi3C2JLpLrLhaZPMtfhS4K1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nCRgJZw6aSlFvdssD9JKhmOI4Yw.png",
+  "titulo": "Evangelion: 3.0+1.0 Tres veces una vez",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Ciencia ficción",
+    "Drama"
+  ],
+  "calificacion": "B",
+  "puntuacion": 8.2,
+  "año": "2021",
+  "duracion": "2h 35min",
+  "edad_minima": 13,
+  "sinopsis": "La cuarta y última entrega de Rebuild of Evangelion. Misato y su grupo anti-NERV Wille llegan a París, una ciudad roja por la coreización. La tripulación del Wunder aterriza en una torre de contención. Tienen 720 segundos para restaurar la ciudad. Cuando aparece una horda de NERV Evas, la Unidad 8 del Eva mejorado de Mari debe interceptarla. Shinji, Asuka y Rei deambulan por Japón.",
+  "fecha_estreno": "2021-03-08",
+  "titulo_original": "シン・エヴァンゲリオン劇場版:||",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "緒方恵美",
+      "personaje": "Shinji Ikari (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eNdfMUyZgG5P4TNIZpbTAu8gBs9.jpg"
+    },
+    {
+      "nombre": "宮村優子",
+      "personaje": "Asuka Shikinami Langley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lVxXWzREWxixZ51EK4gmz9LqCV9.jpg"
+    },
+    {
+      "nombre": "坂本真綾",
+      "personaje": "Mari Makinami Illustrious (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hPz2oEQui8a4q9aXdBugQf93ONq.jpg"
+    },
+    {
+      "nombre": "林原めぐみ",
+      "personaje": "Rei Ayanami / Yui Ikari (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+    },
+    {
+      "nombre": "三石琴乃",
+      "personaje": "Misato Katsuragi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
+    },
+    {
+      "nombre": "山口由里子",
+      "personaje": "Ritsuko Akagi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/14hV8oOMkZddPpvdpVSODRwVPgv.jpg"
+    },
+    {
+      "nombre": "Tomokazu Seki",
+      "personaje": "Toji Suzuhara (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
+    },
+    {
+      "nombre": "岩永哲哉",
+      "personaje": "Kensuke Aida (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4IG4sg8dFOizFboBCfeftDzYslU.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "鶴巻和哉",
+      "rol": "Director"
+    },
+    {
+      "nombre": "前田真宏",
+      "rol": "Director"
+    },
+    {
+      "nombre": "中山勝一",
+      "rol": "Director"
+    },
+    {
+      "nombre": "庵野秀明",
+      "rol": "Director"
+    },
+    {
+      "nombre": "庵野秀明",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "宇多田ヒカル",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "井関修一",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Michael Tanaka",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "寺岡巌",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "福士享",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "鷺巣詩郎",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tsubasa Takabe",
+      "rol": "Modeling"
+    },
+    {
+      "nombre": "すしお",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "平松禎史",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "菊地和子",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "錦織敦史",
+      "rol": "Supervising Animation Director"
+    },
+    {
+      "nombre": "김세준",
+      "rol": "Animation Director"
+    }
+  ],
+  "director": "鶴巻和哉",
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "khara",
+  "enlace_video": "https://uqload.io/embed-cnfoygzfp9xe.html",
+  "trailer": "https://www.youtube.com/watch?v=Vjl9ApttZE8"
+}
