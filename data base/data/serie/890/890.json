@@ -1,0 +1,133 @@
+{
+  "id_tmdb": 890,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8t5BmqgaYQQckYXF4Q9M1cVnqXt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/z2RumCOIZ6HO3oMvfINzZlFnPAw.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jNIXy1QNfYKzHCarH043bjOjBOD.png",
+  "titulo": "Neon Genesis Evangelion",
+  "titulo_original": "新世紀エヴァンゲリオン",
+  "fecha_estreno": "1995-10-04",
+  "duracion": "25min",
+  "año": "1995",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Animación",
+    "Drama"
+  ],
+  "puntuacion": 8.6,
+  "sinopsis": "La historia da lugar en un mundo futurista en el que una organización paramilitar llamada NERV protege a la humanidad de los ataques de seres de origen y naturaleza desconocidos, los «ángeles», utilizando para ello mechas humanoides llamados «EVA». A medida que avanza la trama, esta se vuelve paulatinamente más confusa y psicológica, en donde las personalidades de los personajes se hacen cada vez más inestables y su desarrollo se torna fundamental.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "緒方恵美",
+      "personaje": "Shinji Ikari (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eNdfMUyZgG5P4TNIZpbTAu8gBs9.jpg"
+    },
+    {
+      "nombre": "三石琴乃",
+      "personaje": "Misato Katsuragi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
+    },
+    {
+      "nombre": "林原めぐみ",
+      "personaje": "Rei Ayanami (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+    },
+    {
+      "nombre": "宮村優子",
+      "personaje": "Asuka Langley Soryu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lVxXWzREWxixZ51EK4gmz9LqCV9.jpg"
+    },
+    {
+      "nombre": "山口由里子",
+      "personaje": "Dr. Ritsuko Akagi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/14hV8oOMkZddPpvdpVSODRwVPgv.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "小林教子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "杉山豊",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "大月俊倫",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "貞本義行",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "加藤浩",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "山下いくと",
+      "rol": "Mechanical Designer"
+    },
+    {
+      "nombre": "庵野秀明",
+      "rol": "Mechanical Designer"
+    },
+    {
+      "nombre": "黒田洋一",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "小林教子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "杉山豊",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "摩砂雪",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "鶴巻和哉",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "三木幸子",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "野口透",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "高橋洋子",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "西川増水",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "岡本有香",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "鷺巣詩郎",
+      "rol": "Music"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.6,
+    "imdb": "tt0112159",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=Ni8kEQi1BwA"
+}
