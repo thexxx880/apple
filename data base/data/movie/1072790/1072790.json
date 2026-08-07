@@ -1,0 +1,152 @@
+{
+  "id_tmdb": 1072790,
+  "poster": "https://image.tmdb.org/t/p/w500/smIleWSSXhbBunnWkKmyGj9oVaj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/j9eOeLlTGoHoM8BNUJVNyWmIvCi.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wG6EpZdAYwkwm7yFw0o8J68sYa.svg",
+  "titulo": "Con todos menos contigo",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.759,
+  "año": "2023",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "Después de una primera cita increíble, la ardiente atracción de Bea y Ben se vuelve helada, hasta que se reencuentran inesperadamente en una boda en Australia. Entonces hacen lo que harían dos adultos maduros cualesquiera: pretender ser una pareja.",
+  "fecha_estreno": "2023-12-21",
+  "titulo_original": "Anyone but You",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sydney Sweeney",
+      "personaje": "Bea",
+      "foto": "https://image.tmdb.org/t/p/w500/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg"
+    },
+    {
+      "nombre": "Glen Powell",
+      "personaje": "Ben",
+      "foto": "https://image.tmdb.org/t/p/w500/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
+    },
+    {
+      "nombre": "Mia Artemis",
+      "personaje": "Barista",
+      "foto": "https://image.tmdb.org/t/p/w500/yVlUXIgP3MpE8mv9qPIINnD55Uc.jpg"
+    },
+    {
+      "nombre": "Nat Buchanan",
+      "personaje": "Miranda Clerk",
+      "foto": "https://image.tmdb.org/t/p/w500/r0vGq2jwwA7WQPoD7I0wcOxB2KC.jpg"
+    },
+    {
+      "nombre": "GaTa",
+      "personaje": "Pete",
+      "foto": "https://image.tmdb.org/t/p/w500/2axCSmwaghud0WVjnqxX022fUUF.jpg"
+    },
+    {
+      "nombre": "Alexandra Shipp",
+      "personaje": "Claudia",
+      "foto": "https://image.tmdb.org/t/p/w500/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
+    },
+    {
+      "nombre": "Hadley Robinson",
+      "personaje": "Halle",
+      "foto": "https://image.tmdb.org/t/p/w500/rZ7O1iAb8JAdaUk4D6yKrNG4WbH.jpg"
+    },
+    {
+      "nombre": "Dermot Mulroney",
+      "personaje": "Leo",
+      "foto": "https://image.tmdb.org/t/p/w500/kkrMKD6b4vEdphVgKsenRY4NgiC.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ilana Wolpert",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Will Gluck",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ilana Wolpert",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Will Gluck",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joe Roth",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeff Kirschenbaum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Will Gluck",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sooyeon Lim",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Sandra Nieuwenhuijsen",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Amelia Gebler",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jennifer Lamphee",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Jay Corry",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "James McGrady",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Anna Broadbent",
+      "rol": "Clearances Coordinator"
+    },
+    {
+      "nombre": "Josh Bush",
+      "rol": "Construction Manager"
+    },
+    {
+      "nombre": "Gabrielle Carey",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Kirsten Coleman",
+      "rol": "Property Buyer"
+    },
+    {
+      "nombre": "Ken Lau",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Jonah Lindley",
+      "rol": "Swing"
+    }
+  ],
+  "director": "Will Gluck",
+  "valoraciones": {
+    "tmdb": 6.759,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Olive Bridge Entertainment",
+  "enlace_video": "https://gscdn.cam/video/embed/0vmbw9jye69l",
+  "trailer": "https://www.youtube.com/watch?v=biOxRfgF8Rs"
+}
