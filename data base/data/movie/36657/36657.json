@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 36657,
+  "poster": "https://image.tmdb.org/t/p/w500/aF170xLGytZcC0xeSlSamImgIi4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3QUVzbcNyfGe3ocWkYAT8emK8Co.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qkDbPsV76eU9ldQsHhjmEzjeeox.png",
+  "titulo": "X-Men",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.021,
+  "año": "2000",
+  "duracion": "1h 44min",
+  "edad_minima": 13,
+  "sinopsis": "En un mundo en el que los mutantes (humanos superpotentes evolucionados) existen y son discriminados, se forman dos grupos para un choque inevitable: la Hermandad supremacista, y los X-Men pacifistas.",
+  "fecha_estreno": "2000-07-13",
+  "titulo_original": "X-Men",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Hugh Jackman",
+      "personaje": "Logan / Wolverine",
+      "foto": "https://image.tmdb.org/t/p/w500/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "nombre": "Patrick Stewart",
+      "personaje": "Xavier",
+      "foto": "https://image.tmdb.org/t/p/w500/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg"
+    },
+    {
+      "nombre": "Ian McKellen",
+      "personaje": "Magneto",
+      "foto": "https://image.tmdb.org/t/p/w500/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+    },
+    {
+      "nombre": "Famke Janssen",
+      "personaje": "Jean Grey",
+      "foto": "https://image.tmdb.org/t/p/w500/uvZGwNsLqe9NyA57Qlt46IkO8Bd.jpg"
+    },
+    {
+      "nombre": "James Marsden",
+      "personaje": "Cyclops",
+      "foto": "https://image.tmdb.org/t/p/w500/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
+    },
+    {
+      "nombre": "Halle Berry",
+      "personaje": "Storm",
+      "foto": "https://image.tmdb.org/t/p/w500/84HRDZodRCuBSpYGSc3ow8WucI4.jpg"
+    },
+    {
+      "nombre": "Anna Paquin",
+      "personaje": "Rogue",
+      "foto": "https://image.tmdb.org/t/p/w500/5FjBCsn3kujldP8LizoCrc3hsHp.jpg"
+    },
+    {
+      "nombre": "Tyler Mane",
+      "personaje": "Sabretooth",
+      "foto": "https://image.tmdb.org/t/p/w500/3M8oXR5bBsnOJX29SGrQ1vx9L7R.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Hayter",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lauren Shuler Donner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bryan Singer",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tom DeSanto",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bryan Singer",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ralph Winter",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Patrick Rousseau",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Aric Dupere",
+      "rol": "Extras Casting Assistant"
+    },
+    {
+      "nombre": "Christopher Allen Nelson",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Ann Brodie",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Jack Kirby",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Gary Archer",
+      "rol": "Prosthetics"
+    },
+    {
+      "nombre": "Kevin Stitt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John Wright",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Steven Rosenblum",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Louise Mingenbach",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Newton Thomas Sigel",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Bryan Singer",
+  "valoraciones": {
+    "tmdb": 7.021,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Donners' Company",
+  "enlace_video": "https://vimeos.net/embed-kaw5zonr7rpd.html",
+  "trailer": "https://www.youtube.com/watch?v=s4Wqw8tqgdM"
+}
