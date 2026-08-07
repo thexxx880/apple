@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 36658,
+  "poster": "https://image.tmdb.org/t/p/w500/bnZUa8bCq2uz56Jv6Clpcjtvw0V.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7TYITrR804tLITNur3b8VLCK6tw.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/Ab2M8vN5oaos3K7uE7B5vLmTzbJ.png",
+  "titulo": "X-Men 2",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.043,
+  "año": "2003",
+  "duracion": "2h 14min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando el coronel antimutante William Stryker secuestra al profesor X y ataca su escuela, los X-Men deben aliarse con su archienemigo Magneto para detenerlo.",
+  "fecha_estreno": "2003-04-27",
+  "titulo_original": "X2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Hugh Jackman",
+      "personaje": "Logan / Wolverine",
+      "foto": "https://image.tmdb.org/t/p/w500/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "nombre": "Patrick Stewart",
+      "personaje": "Professor Charles Xavier",
+      "foto": "https://image.tmdb.org/t/p/w500/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg"
+    },
+    {
+      "nombre": "Ian McKellen",
+      "personaje": "Eric Lehnsherr / Magneto",
+      "foto": "https://image.tmdb.org/t/p/w500/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+    },
+    {
+      "nombre": "James Marsden",
+      "personaje": "Scott Summers / Cyclops",
+      "foto": "https://image.tmdb.org/t/p/w500/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
+    },
+    {
+      "nombre": "Brian Cox",
+      "personaje": "William Stryker",
+      "foto": "https://image.tmdb.org/t/p/w500/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
+    },
+    {
+      "nombre": "Famke Janssen",
+      "personaje": "Jean Grey",
+      "foto": "https://image.tmdb.org/t/p/w500/uvZGwNsLqe9NyA57Qlt46IkO8Bd.jpg"
+    },
+    {
+      "nombre": "Halle Berry",
+      "personaje": "Ororo Munroe / Storm",
+      "foto": "https://image.tmdb.org/t/p/w500/84HRDZodRCuBSpYGSc3ow8WucI4.jpg"
+    },
+    {
+      "nombre": "Alan Cumming",
+      "personaje": "Kurt Wagner / Nightcrawler",
+      "foto": "https://image.tmdb.org/t/p/w500/axil8ufunARfqyU4ceZNh36fkVQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Dougherty",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Dan Harris",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Hayter",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Zak Penn",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bryan Singer",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bryan Singer",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Hayter",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lauren Shuler Donner",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Terry Notary",
+      "rol": "Choreographer"
+    },
+    {
+      "nombre": "Elliot Graham",
+      "rol": "Co-Editor"
+    },
+    {
+      "nombre": "Jason McGatlin",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Lee Cleary",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Franziska Keller",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "Gordon J. Smith",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Barbara Wilson",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Rob Young",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Michael L. Fink",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Jason B. Landels",
+      "rol": "Assistant Property Master"
+    },
+    {
+      "nombre": "Tim Merkel",
+      "rol": "Steadicam Operator"
+    },
+    {
+      "nombre": "Sean M. Harding",
+      "rol": "First Assistant \"B\" Camera"
+    }
+  ],
+  "director": "Bryan Singer",
+  "valoraciones": {
+    "tmdb": 7.043,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Donners' Company",
+  "enlace_video": "https://vimeos.net/embed-3xk41vkhgxi3.html",
+  "trailer": "https://www.youtube.com/watch?v=yVzqz_zpP20"
+}
