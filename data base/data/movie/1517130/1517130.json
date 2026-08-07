@@ -1,0 +1,134 @@
+{
+  "id_tmdb": 1517130,
+  "poster": "https://image.tmdb.org/t/p/w500/lSwna3oxEjGDWsBtyUBuNrf0hJJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3B6odC0OD8S2InTeHu9XYAe708v.jpg",
+  "logo": null,
+  "titulo": "Приказната за Силјан",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.2,
+  "año": "2025",
+  "duracion": "1h 20min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2025-09-22",
+  "titulo_original": "Приказната за Силјан",
+  "pais_origen": "Macedonia",
+  "reparto": [
+    {
+      "nombre": "Nikola Conev",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Jana Coneva",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Aleksandra Coneva",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Aleksandar Conev",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Ilina Coneva",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Ile Stojkovski",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Stojčo Filipov",
+      "personaje": "Self",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Тамара Котевска",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Тамара Котевска",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jordančo Petkovski",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Тамара Котевска",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jean Dakar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Anna Hashmi",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jean Dakar",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Martin Ivanov",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Laurene Powell Jobs",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Davis Guggenheim",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lizzie Fox",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Casey Meurer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carolyn Bernstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tim Horsburgh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joe Wilson Davies",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "HunOuk Park",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Тамара Котевска",
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Concordia Studio",
+  "enlace_video": "https://gscdn.cam/video/embed/ij20kpq9vwob",
+  "trailer": "https://www.youtube.com/watch?v=14xo8s-0kU4"
+}
