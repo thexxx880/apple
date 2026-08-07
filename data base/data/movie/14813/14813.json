@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 14813,
+  "poster": "https://image.tmdb.org/t/p/w500/3fp6Og76ETtbKGiMffBTsrCcXJ3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8x16xGu1p2vqfkSNRhGJNlBz8Fz.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wnjYOo2CJFa2L755is4Il77Hdsm.png",
+  "titulo": "Cuento de Navidad de Mickey",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.669,
+  "año": "1983",
+  "duracion": "0h 24min",
+  "edad_minima": 13,
+  "sinopsis": "Los clásicos personajes animados de Disney interpretan los papeles en este recuento animado de la obra maestra de Charles Dickens.",
+  "fecha_estreno": "1983-10-19",
+  "titulo_original": "Mickey's Christmas Carol",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Alan Young",
+      "personaje": "Scrooge McDuck - Ebenezer Scrooge (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9sMQDRksfRxXysHCSP98S8Z9mf8.jpg"
+    },
+    {
+      "nombre": "Wayne Allwine",
+      "personaje": "Mickey - Bob Cratchit / Weasel Gravedigger / Begger Dog (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ggyRzgJ0ZO2tiZ7jPC323ivEKCM.jpg"
+    },
+    {
+      "nombre": "Clarence Nash",
+      "personaje": "Donald - Nephew Fred (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/x2g2hbu4RRIcn6Q5RT8gpWR1FKV.jpg"
+    },
+    {
+      "nombre": "Hal Smith",
+      "personaje": "Goofy - Jacob Marley's Ghost / Collector for the Poor #1 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xVXbKpSgCHvP5ymJNeB1fyf4GMP.jpg"
+    },
+    {
+      "nombre": "Will Ryan",
+      "personaje": "Collector for the Poor #2 / Ghost of Christmas Present (Willie the Giant) / Ghost of Christmas Future (Pete) / Santa Claus (Big Bad Wolf) / Weasel #2 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qRkyGcSju2VmEb7RTBM3Wpa0rvI.jpg"
+    },
+    {
+      "nombre": "Patricia Parris",
+      "personaje": "Daisy - Belle (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Dick Billingsley",
+      "personaje": "Tiny Tim (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fh1vh6kuAwiAsjty5BjZw7uMdEn.jpg"
+    },
+    {
+      "nombre": "Eddie Carroll",
+      "personaje": "Jiminy Cricket - Ghost of Christmas Past (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7pM423N1GwGQGkyYgKboVPhV2fC.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Burny Mattinson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Burny Mattinson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Burny Mattinson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Tony Marino",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ed Gombert",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Don Griffith",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Alan Young",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Alan Dinehart",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Irwin Kostal",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Armetta Jackson-Hamlett",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "James Melton",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Don Griffith",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Edward Hansen",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Charles Dickens",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Matthew O'Callaghan",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Sylvia Roemer",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Glen Keane",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Mark Henn",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Ed Gombert",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Dale Baer",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Burny Mattinson",
+  "valoraciones": {
+    "tmdb": 7.669,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/ur7i6809wkkz",
+  "trailer": "https://www.youtube.com/watch?v=eCO4D7KTRtE"
+}
