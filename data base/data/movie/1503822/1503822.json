@@ -1,0 +1,110 @@
+{
+  "id_tmdb": 1503822,
+  "poster": "https://image.tmdb.org/t/p/w500/8zcrI1L3UJdaz1q1rOwl7igbHLx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p955Nmq0rUf6VAPpmnsgw4GidNs.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3yfEn1BlHxm6Wcl2KHGlgOlx7uj.png",
+  "titulo": "Tiburones De Cerca Con Bertie Gregory",
+  "trending": false,
+  "generos": [
+    "Documental",
+    "Película de TV"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7,
+  "año": "2025",
+  "duracion": "0h 44min",
+  "edad_minima": 13,
+  "sinopsis": "Bertie se dirige a Sudáfrica para emprender su misión más audaz hasta la fecha. Estas aguas albergan a uno de los depredadores más temidos y famosos del océano, el gran tiburón blanco. Bertie se sumergirá en las aguas poco profundas sin jaula de protección para filmar a los imponentes tiburones mientras cazan focas. En sus dominios descubrirá los desafíos a los que se enfrentan en el siempre cambiante hábitat.",
+  "fecha_estreno": "2025-07-05",
+  "titulo_original": "Sharks Up Close with Bertie Gregory",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Bertie Gregory",
+      "personaje": "Self - Host",
+      "foto": "https://image.tmdb.org/t/p/w500/33SnXfOwM7RuBnuEPf4ziqXvlF9.jpg"
+    },
+    {
+      "nombre": "Patrick Mcdonald",
+      "personaje": "Self - Skipper",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bertie Gregory",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Will West",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Will West",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jennie Hammond",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Will West",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Khara Stibbons",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Anwar Mamon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bertie Gregory",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "James Loudon",
+      "rol": "Drone Operator"
+    },
+    {
+      "nombre": "Ryan Simmonds",
+      "rol": "Additional Camera"
+    },
+    {
+      "nombre": "Dan Beecham",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Drew Sewell",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Maria Dennett",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Angus Hutton",
+      "rol": "Researcher"
+    },
+    {
+      "nombre": "Kiki Wang",
+      "rol": "Researcher"
+    },
+    {
+      "nombre": "Katie Grant",
+      "rol": "Production Coordinator"
+    }
+  ],
+  "director": "Will West",
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "National Geographic",
+  "enlace_video": "https://streamwish.to/e/ykzgp5u8eyj0",
+  "trailer": "https://www.youtube.com/watch?v=nkrb7VkpEv4"
+}
