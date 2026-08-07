@@ -1,0 +1,116 @@
+{
+  "id_tmdb": 1601082,
+  "poster": "https://image.tmdb.org/t/p/w500/x7EDMH4aOFM9s5BeEj3TcbMyKOS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/snyThv9JMTLqyfNfnpGk6q356SB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/olKw3EAMzmHZCWwsIt9YFnmrx7L.png",
+  "titulo": "Cheetahs Up Close with Bertie Gregory",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.771,
+  "año": "2026",
+  "duracion": "0h 45min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2026-01-01",
+  "titulo_original": "Cheetahs Up Close with Bertie Gregory",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Bertie Gregory",
+      "personaje": "Self - Host",
+      "foto": "https://image.tmdb.org/t/p/w500/33SnXfOwM7RuBnuEPf4ziqXvlF9.jpg"
+    },
+    {
+      "nombre": "Baz Kessy",
+      "personaje": "Self - Wildlife Expert/Driver",
+      "foto": null
+    },
+    {
+      "nombre": "Tom Walker",
+      "personaje": "Self - Cinematographer",
+      "foto": null
+    },
+    {
+      "nombre": "Denis Mollel",
+      "personaje": "Self - Driver",
+      "foto": null
+    },
+    {
+      "nombre": "Kelvin Munisi",
+      "personaje": "Self - Scientific Consultant",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jigar Ganatra",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bertie Gregory",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bertie Gregory",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jigar Ganatra",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Dan Schwalm",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Anwar Mamon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom Walker",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Douglas Ndanshau",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Maria Dennett",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Elly Novick",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Katie Grant",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Angus Hutton",
+      "rol": "Researcher"
+    },
+    {
+      "nombre": "Will Hyde",
+      "rol": "Music"
+    },
+    {
+      "nombre": "James Joshua Otto",
+      "rol": "Music"
+    }
+  ],
+  "director": "Jigar Ganatra",
+  "valoraciones": {
+    "tmdb": 7.771,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "National Geographic",
+  "enlace_video": "https://gscdn.cam/video/embed/8qiuyct7tjcr",
+  "trailer": "https://www.youtube.com/watch?v=7kIFierzEMg"
+}
