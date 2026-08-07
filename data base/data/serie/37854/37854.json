@@ -1,0 +1,59 @@
+{
+  "id_tmdb": 37854,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/9gpPRqhgPzxdhvgixODD8ox2JkS.png",
+  "titulo": "One Piece",
+  "titulo_original": "ワンピース",
+  "fecha_estreno": "1999-10-20",
+  "duracion": "24min",
+  "año": "1999",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Comedia",
+    "Animación"
+  ],
+  "puntuacion": 8.749,
+  "sinopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "田中真弓",
+      "personaje": "Monkey D. Luffy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"
+    },
+    {
+      "nombre": "中井和哉",
+      "personaje": "Roronoa Zoro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cOHSa0FBrG3u9P6g8A56sInkvod.jpg"
+    },
+    {
+      "nombre": "矢口真里",
+      "personaje": "Yoko (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/edjVzlYS9elEzDHJdAunceWhkWR.jpg"
+    },
+    {
+      "nombre": "岡村明美",
+      "personaje": "Nami (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"
+    },
+    {
+      "nombre": "山口勝平",
+      "personaje": "Usopp (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.749,
+    "imdb": "tt0388629",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=1KMcoJBMWE4"
+}
