@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 149871,
+  "poster": "https://image.tmdb.org/t/p/w500/tCw5ZR5RkmAtCztmkP8dYh1nkoX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lMaWlYThCSnsmW3usxWTpSuyZp1.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/v7TVBHp3kpnLhH07mdbQN13Eom1.png",
+  "titulo": "El cuento de la Princesa Kaguya",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.1,
+  "año": "2013",
+  "duracion": "2h 17min",
+  "edad_minima": 13,
+  "sinopsis": "Basada en un cuento popular japonés anónimo del siglo IX, \"El cortador de bambú\". La historia comienza cuando una pareja de ancianos campesinos encuentra a una niña diminuta dentro de una planta de bambú, y deciden adoptarla como si fuera su hija. Pasan los años, y rápidamente se convierte en una hermosa mujer pretendida por muchos hombres poderosos.",
+  "fecha_estreno": "2013-11-23",
+  "titulo_original": "かぐや姫の物語",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "朝倉あき",
+      "personaje": "The Princess Kaguya (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/65ZiHTem1HFNx4aHBcqQPdRRsPn.jpg"
+    },
+    {
+      "nombre": "地井武男",
+      "personaje": "Sanuki no Miyatsuko (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1DMf3RKwhtEipZAdmgj7hkkbe8V.jpg"
+    },
+    {
+      "nombre": "宮本信子",
+      "personaje": "Ōna / Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pkIBgyBP4UYOlqK8EnpJ1BMuv9D.jpg"
+    },
+    {
+      "nombre": "高良健吾",
+      "personaje": "Sutemaru (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wb293WmYQ7yTAtf3opmhCoTJQfa.jpg"
+    },
+    {
+      "nombre": "高畑淳子",
+      "personaje": "Lady Sagami (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xfVilFePWPW5qkJMa8GWQmvc5Fp.jpg"
+    },
+    {
+      "nombre": "田畑智子",
+      "personaje": "Menowarawa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8jtrmUQWICGtcaCbeceLGqteVtq.jpg"
+    },
+    {
+      "nombre": "立川志の輔",
+      "personaje": "Lord Inbe no Akita (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sQsLUZLusjHBVwgH9dA9R2aZgwO.jpg"
+    },
+    {
+      "nombre": "上川隆也",
+      "personaje": "Prince Ishitsukuri (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ecgrhujjLwzqbYs83J4LIEqinfm.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "坂口理子",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Isao Takahata",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Isao Takahata",
+      "rol": "Director"
+    },
+    {
+      "nombre": "西村義明",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "氏家齊一郎",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "橋本侑香里",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "奥田誠治",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "福山亮一",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "垣田由紀子",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "藤巻直哉",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "中島智成",
+      "rol": "CG Artist"
+    },
+    {
+      "nombre": "泉津井陽一",
+      "rol": "Painter"
+    },
+    {
+      "nombre": "川口隆",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Natsumi Watanabe",
+      "rol": "Painter"
+    },
+    {
+      "nombre": "山本真希",
+      "rol": "Painter"
+    },
+    {
+      "nombre": "糸川敬子",
+      "rol": "Painter"
+    },
+    {
+      "nombre": "芝原秀典",
+      "rol": "Compositing Artist"
+    }
+  ],
+  "director": "Isao Takahata",
+  "valoraciones": {
+    "tmdb": 8.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Studio Ghibli",
+  "enlace_video": "https://gscdn.cam/video/embed/v62cc1xe6wl0",
+  "trailer": "https://www.youtube.com/watch?v=iPm7HfO3mis"
+}
