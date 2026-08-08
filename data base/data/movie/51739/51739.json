@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 51739,
+  "poster": "https://image.tmdb.org/t/p/w500/oodcSQHB4OPGeByB0YoluyniuEs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7Z7WVzJsSReG8B0CaPk0bvWD7tK.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/llGFLnbpbuQr2DuqyBM5MadLMXA.png",
+  "titulo": "El mundo secreto de Arrietty",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.674,
+  "año": "2010",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "En una casita oculta bajo las tablas del suelo de una mansión campestre, vive una familia de seres diminutos, de apenas 10 cm. de altura, que tienen la norma de no dejarse ver nunca por los seres humanos; sin embargo, su tranquila existencia cambia cuando Arrietty, una audaz adolescente, es vista accidentalmente por un niño que se acaba de establecer en la casa debido a su delicada salud. Al tiempo que entre ambos surge una gran amistad, la existencia de los diminutos seres se verá peligrosamente amenazada... Adaptación del cuento infantil \"The Borrowers\", escrito por Mary Norton y ambientado en el Tokio contemporáneo.",
+  "fecha_estreno": "2010-07-16",
+  "titulo_original": "借りぐらしのアリエッティ",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "志田未来",
+      "personaje": "Arrietty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wfacZjLuVkaiW32ZNZqdjfLFNxC.jpg"
+    },
+    {
+      "nombre": "神木隆之介",
+      "personaje": "Sho (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+    },
+    {
+      "nombre": "三浦友和",
+      "personaje": "Pod (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2tKusMF6dzGOfH7MM73FCsJzRoJ.jpg"
+    },
+    {
+      "nombre": "竹下景子",
+      "personaje": "Sadako Maki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jmXWhUM4IhvyMrRkzYnDQamkqjG.jpg"
+    },
+    {
+      "nombre": "樹木希林",
+      "personaje": "Haru (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7ndJHln7nWzrCMlSaBBAz9UjiuB.jpg"
+    },
+    {
+      "nombre": "大竹しのぶ",
+      "personaje": "Homily (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/az5hCPy37MFM9EH2f3gn1cTBhA6.jpg"
+    },
+    {
+      "nombre": "藤原竜也",
+      "personaje": "Spiller (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lxPjnmbu3DyoEioVPfuY75fKoQL.jpg"
+    },
+    {
+      "nombre": "羽鳥慎一",
+      "personaje": "Postman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hU5C3QKuzZH1kTeuPCgjYds6EXk.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "鈴木敏夫",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "米林宏昌",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Hayao Miyazaki",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "丹羽圭子",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "松原理恵",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "久保正彦",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "濱洲英喜",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "上石恵美",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "田中敦子",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "志村恵美子",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "芳尾英明",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "田村篤",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "石角安沙美",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "今野史枝",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "藤原宏樹",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "山森英司",
+      "rol": "Key Animation"
+    }
+  ],
+  "director": "米林宏昌",
+  "valoraciones": {
+    "tmdb": 7.674,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Studio Ghibli",
+  "enlace_video": "https://gscdn.cam/video/embed/galu8k1eqv7o",
+  "trailer": "https://www.youtube.com/watch?v=DskjJGeaRQA"
+}
