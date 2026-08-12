@@ -1,0 +1,115 @@
+{
+  "id_tmdb": 70338,
+  "poster": "https://image.tmdb.org/t/p/w500/5QK5lBNxntov4g6fDT1HyBtGK17.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fLBMZVAV75my1nFg4JR0fKOu4ho.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/44j37irFg7hEZpa5sSEaVm4Qvzv.png",
+  "titulo": "Los Padrinos Mágicos, la película: ¡Momento de crecer, Timmy Turner!",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Fantasía",
+    "Película de TV",
+    "Comedia",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 4.838,
+  "año": "2011",
+  "duracion": "0h 57min",
+  "edad_minima": 13,
+  "sinopsis": "Timmy Turner, ahora con 23 años, debe decidir si madura, y entonces perderá a sus padrinos mágicos, o si permanece siendo infantil.",
+  "fecha_estreno": "2011-07-09",
+  "titulo_original": "A Fairly Odd Movie: Grow Up, Timmy Turner!",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Drake Bell",
+      "personaje": "Timmy Turner",
+      "foto": "https://image.tmdb.org/t/p/w500/6KxFiHrqiniS3oxV4NCz0sYNTuo.jpg"
+    },
+    {
+      "nombre": "Daniella Monet",
+      "personaje": "Tootie",
+      "foto": "https://image.tmdb.org/t/p/w500/5QW1c5SUch81C5KIpfJgclJ4ct5.jpg"
+    },
+    {
+      "nombre": "Tara Strong",
+      "personaje": "Poof (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
+    },
+    {
+      "nombre": "Jason Alexander",
+      "personaje": "Cosmo",
+      "foto": "https://image.tmdb.org/t/p/w500/qRezZ2yhM2bmBERt7jVcxo8RVSA.jpg"
+    },
+    {
+      "nombre": "Daran Norris",
+      "personaje": "Cosmo (voice) / Mr. Turner",
+      "foto": "https://image.tmdb.org/t/p/w500/oLaegqPwuEdNNJVqrvcgI6guYsi.jpg"
+    },
+    {
+      "nombre": "Cheryl Hines",
+      "personaje": "Wanda",
+      "foto": "https://image.tmdb.org/t/p/w500/jUW4xdla64Vtq1o2Ob8Oc7MjT9C.jpg"
+    },
+    {
+      "nombre": "Susanne Blakeslee",
+      "personaje": "Wanda (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5s4vquKADCS90iOiEwgCTZkaQjX.jpg"
+    },
+    {
+      "nombre": "Teryl Rothery",
+      "personaje": "Mrs. Turner",
+      "foto": "https://image.tmdb.org/t/p/w500/fB3XmJ4PRMGo28LxbvTHuYyL3gi.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Savage Steve Holland",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Butch Hartman",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Scott Fellows",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jon Joffin",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Anita Brandt-Burgoyne",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Damon Fecht",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Lauren Levine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Frances Smith",
+      "rol": "First Assistant Hairstylist"
+    },
+    {
+      "nombre": "Ken Rabehl",
+      "rol": "Assistant Art Director"
+    }
+  ],
+  "director": "Savage Steve Holland",
+  "valoraciones": {
+    "tmdb": 4.838,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pacific Bay Entertainment Canada",
+  "enlace_video": "https://gscdn.cam/video/embed/uxplsz40bqpw",
+  "trailer": ""
+}
