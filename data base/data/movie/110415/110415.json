@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 110415,
+  "poster": "https://image.tmdb.org/t/p/w500/zi37vgWUmbZBFtCMHlLZWGTVAG9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tBIRtMCELcA5PxO7z7OiuCHJdFO.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/233abhqwFtzGhcWStY4eonwpVnn.png",
+  "titulo": "El expreso del miedo",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.906,
+  "año": "2013",
+  "duracion": "2h 6min",
+  "edad_minima": 13,
+  "sinopsis": "En un futuro en el que un experimento fallido de cambio climático mata a toda la vida en el planeta, excepto a unos pocos afortunados que abordaron el Snowpiercer, un tren que viaja por todo el mundo, donde surge un sistema de clases. La supervivencia de la raza humana depende de estos valerosos sobrevivientes. Pero serán capaces de coexistir dentro de un espacio tan claustrofóbico?",
+  "fecha_estreno": "2013-08-01",
+  "titulo_original": "설국열차",
+  "pais_origen": "South Korea",
+  "reparto": [
+    {
+      "nombre": "Chris Evans",
+      "personaje": "Curtis",
+      "foto": "https://image.tmdb.org/t/p/w500/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "nombre": "송강호",
+      "personaje": "Namgoong Minsu",
+      "foto": "https://image.tmdb.org/t/p/w500/kBM9UTPYXUA2RNk210DXhztLFns.jpg"
+    },
+    {
+      "nombre": "Ed Harris",
+      "personaje": "Wilford",
+      "foto": "https://image.tmdb.org/t/p/w500/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+    },
+    {
+      "nombre": "John Hurt",
+      "personaje": "Gilliam",
+      "foto": "https://image.tmdb.org/t/p/w500/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+    },
+    {
+      "nombre": "Tilda Swinton",
+      "personaje": "Mason",
+      "foto": "https://image.tmdb.org/t/p/w500/dzjT4LKgs7eOma84GsPy78DsGNH.jpg"
+    },
+    {
+      "nombre": "Jamie Bell",
+      "personaje": "Edgar",
+      "foto": "https://image.tmdb.org/t/p/w500/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg"
+    },
+    {
+      "nombre": "Octavia Spencer",
+      "personaje": "Tanya",
+      "foto": "https://image.tmdb.org/t/p/w500/zDGydyM1fmvNWzQlTAns9IZjNxT.jpg"
+    },
+    {
+      "nombre": "Ewen Bremner",
+      "personaje": "Andrew",
+      "foto": "https://image.tmdb.org/t/p/w500/u80rtfJRqCg4qKcdEPmYv8IkCvu.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bong Joon Ho",
+      "rol": "Director"
+    },
+    {
+      "nombre": "정태성",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bong Joon Ho",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Steven Nam",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kelly Masterson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jeong Won-jo",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Cho Yong-seok",
+      "rol": "VFX Supervisor"
+    },
+    {
+      "nombre": "Jean-Marc Rochette",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Stefan Kovacik",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ondřej Nekvasil",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jacques Lob",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Bong Joon Ho",
+      "rol": "Screenstory"
+    },
+    {
+      "nombre": "Marco Beltrami",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "최민영",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "홍경표",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Benjamin Legrand",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Jakub Dvořák",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "김은영",
+      "rol": "Art Department Manager"
+    }
+  ],
+  "director": "Bong Joon Ho",
+  "valoraciones": {
+    "tmdb": 6.906,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Opus Pictures",
+  "enlace_video": "https://vimeos.net/embed-g8lonxcllxvk.html",
+  "trailer": "https://www.youtube.com/watch?v=3Np3v7xnNJk"
+}
