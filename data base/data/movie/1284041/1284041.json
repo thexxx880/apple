@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 1284041,
+  "poster": "https://image.tmdb.org/t/p/w500/pJnkPtQE8A5H67biPTaTedtHs1L.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/90QSfS49sDbpXKwQOsCksxSDuun.png",
+  "titulo": "La última casa",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.839,
+  "año": "2026",
+  "duracion": "1h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Tras quedar atrapados en su propia casa, los miembros de una familia deben sobrevivir con recursos cada vez más escasos y enfrentar la fuerza oscura que los mantiene encerrados.",
+  "fecha_estreno": "2026-08-06",
+  "titulo_original": "The Last House",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Greta Lee",
+      "personaje": "Ann",
+      "foto": "https://image.tmdb.org/t/p/w500/6SydTis4XUcovlwIGskT59JowLX.jpg"
+    },
+    {
+      "nombre": "Wagner Moura",
+      "personaje": "Jason",
+      "foto": "https://image.tmdb.org/t/p/w500/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
+    },
+    {
+      "nombre": "Riley Chung",
+      "personaje": "Ruth (8 Years Old)",
+      "foto": "https://image.tmdb.org/t/p/w500/9yKaWeYlhnUmit4JN0H2YYgmR50.jpg"
+    },
+    {
+      "nombre": "Noah Alexander Sosnowski",
+      "personaje": "Graham (12 Years Old)",
+      "foto": "https://image.tmdb.org/t/p/w500/i3s6Rf7QpWvt5QDkYm7XdNP5FY.jpg"
+    },
+    {
+      "nombre": "Emma Ho",
+      "personaje": "Ruth (13 Years Old)",
+      "foto": "https://image.tmdb.org/t/p/w500/mUVxoj09thSFpHhHD6xzam7XyNm.jpg"
+    },
+    {
+      "nombre": "Gabriel Barbosa",
+      "personaje": "Graham (17 Years Old)",
+      "foto": "https://image.tmdb.org/t/p/w500/tHWVcUd8tnoSiep76nI4rsquZY5.jpg"
+    },
+    {
+      "nombre": "Arden Cho",
+      "personaje": "Adult Ruth",
+      "foto": "https://image.tmdb.org/t/p/w500/uXXUOCkqhfijNZYgmzjnfs7jQMw.jpg"
+    },
+    {
+      "nombre": "Audrey Anderson",
+      "personaje": "Susan",
+      "foto": "https://image.tmdb.org/t/p/w500/aXuOgHcxoeSmhd1qY60nCISUVW9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Louis Leterrier",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Louis Leterrier",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Oly Obst",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kori Adelson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Chernin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jenno Topping",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matthew Robinson",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Cecile Gaget",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thomas Benski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lars Sylvest",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thorsten Schumacher",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Damian Anderson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pål Ulvik Rokseth",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Alyssa Weisberg",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kevin Jenkins",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Adam Badrawy",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Phil Benson",
+      "rol": "Post Production Producer"
+    },
+    {
+      "nombre": "Ben Howard",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Tim Wooster",
+      "rol": "Second Unit Director of Photography"
+    }
+  ],
+  "director": "Louis Leterrier",
+  "valoraciones": {
+    "tmdb": 6.839,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Chernin Entertainment",
+  "enlace_video": "https://gscdn.cam/video/embed/h3wextehrapv",
+  "trailer": "https://www.youtube.com/watch?v=MLxgaz2Zp1k"
+}
