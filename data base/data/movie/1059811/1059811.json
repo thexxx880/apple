@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 1059811,
+  "poster": "https://image.tmdb.org/t/p/w500/sYCOiQbvxwRKtuJryDklRbj8AXm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nV4nOG6ZCK8orRL7T5wXXgMdM0N.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6d3TG7W6xHFiVeTtLVMUEUibl5J.png",
+  "titulo": "Flora e hijo",
+  "trending": false,
+  "generos": [
+    "Música",
+    "Comedia",
+    "Drama"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.908,
+  "año": "2023",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Flora, madre soltera, no tiene idea de qué hacer con su rebelde hijo adolescente, Max. Su intento de que no se meta en problemas lleva a esta familia desavenida de Dublín a una guitarra acústica destartalada, un músico fracasado de Los Ángeles y a la armonía.",
+  "fecha_estreno": "2023-09-21",
+  "titulo_original": "Flora and Son",
+  "pais_origen": "Ireland",
+  "reparto": [
+    {
+      "nombre": "Eve Hewson",
+      "personaje": "Flora",
+      "foto": "https://image.tmdb.org/t/p/w500/1OlMfQrXEujIPTBUWt3AM0J0hJa.jpg"
+    },
+    {
+      "nombre": "Orén Kinlan",
+      "personaje": "Max",
+      "foto": "https://image.tmdb.org/t/p/w500/upWzsq1PdRrOnXP19GmEC06LlLE.jpg"
+    },
+    {
+      "nombre": "Joseph Gordon-Levitt",
+      "personaje": "Jeff",
+      "foto": "https://image.tmdb.org/t/p/w500/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+    },
+    {
+      "nombre": "Jack Reynor",
+      "personaje": "Ian",
+      "foto": "https://image.tmdb.org/t/p/w500/1MSZks6afitwdYttLh617G6MBRQ.jpg"
+    },
+    {
+      "nombre": "Marcella Plunkett",
+      "personaje": "Kathy",
+      "foto": "https://image.tmdb.org/t/p/w500/ieeuGpDxOQMvSzNYehDZT7FMCLR.jpg"
+    },
+    {
+      "nombre": "Paul Reid",
+      "personaje": "Kev",
+      "foto": "https://image.tmdb.org/t/p/w500/j94PrRDF1bZQ4fDE4y8NaxIPVt.jpg"
+    },
+    {
+      "nombre": "Don Wycherley",
+      "personaje": "Guard",
+      "foto": "https://image.tmdb.org/t/p/w500/tW4s04DGwi7MEXQ6bIxdIYmI0ah.jpg"
+    },
+    {
+      "nombre": "Amy Huberman",
+      "personaje": "Aishling",
+      "foto": "https://image.tmdb.org/t/p/w500/3Jv2QqgWdXxHXukYGpytRl0812T.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John Carney",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Carney",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Anthony Bregman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Carney",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Cron",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rebecca O'Flanagan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Walpole",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Conroy",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Cathleen Dore",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Milan Popelka",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alison Cohen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stephen O'Connell",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Ashleigh Jeffers",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Triona Lillis",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Dominic Lawrence",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Dominic Lawrence",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Amy Rowan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Lindsay Herron",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Stephanie Kavanagh",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "John Carney",
+  "valoraciones": {
+    "tmdb": 6.908,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Likely Story",
+  "enlace_video": "https://gscdn.cam/video/embed/xplzae8o8tee",
+  "trailer": "https://www.youtube.com/watch?v=beNTTHnMIy8"
+}
