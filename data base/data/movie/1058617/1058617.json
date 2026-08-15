@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 1058617,
+  "poster": "https://image.tmdb.org/t/p/w500/oMruDjFOYzjbFPNRjVT8uxEtb6T.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2oTqxCe7EGMqMpJx5we2xcBT6Lx.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xNr8Lo6cmFlMSupenekIHjF3hcv.png",
+  "titulo": "Fancy Dance: Una danza ceremonial",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.593,
+  "año": "2024",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Después de la desaparición de su hermana, Jax y su sobrina Roki deben permanecer juntas. Desesperadas por mantener intacta lo que queda de su familia, Jax y Roki desafían a la ley e inician un viaje hacia el Grand Nation Powwow en la ciudad de Oklahoma.",
+  "fecha_estreno": "2024-06-21",
+  "titulo_original": "Fancy Dance",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Lily Gladstone",
+      "personaje": "Jax",
+      "foto": "https://image.tmdb.org/t/p/w500/zYAN84WqZv2sbVE2JDkcWoXGoF7.jpg"
+    },
+    {
+      "nombre": "Isabel DeRoy-Olson",
+      "personaje": "Roki",
+      "foto": "https://image.tmdb.org/t/p/w500/5Q00DYyruBqaJQuHqnu6qxVnpXT.jpg"
+    },
+    {
+      "nombre": "Ryan Begay",
+      "personaje": "JJ",
+      "foto": "https://image.tmdb.org/t/p/w500/oIzcJxPs0gcW5Ne6beuwaXKTZrJ.jpg"
+    },
+    {
+      "nombre": "Shea Whigham",
+      "personaje": "Frank",
+      "foto": "https://image.tmdb.org/t/p/w500/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+    },
+    {
+      "nombre": "Audrey Wasilewski",
+      "personaje": "Nancy",
+      "foto": "https://image.tmdb.org/t/p/w500/4iUq8nA7hm2taO0vMMvvwtQvLr2.jpg"
+    },
+    {
+      "nombre": "Crystle Lightning",
+      "personaje": "Sapphire",
+      "foto": "https://image.tmdb.org/t/p/w500/vx5UIK3ddm8hLf5WGKvQ2za26Sv.jpg"
+    },
+    {
+      "nombre": "Tamara Podemski",
+      "personaje": "Ricky",
+      "foto": "https://image.tmdb.org/t/p/w500/nqcdt9ko2XGA5XXqGX6ybxD5AKw.jpg"
+    },
+    {
+      "nombre": "Patrice Fisher",
+      "personaje": "Ruth",
+      "foto": "https://image.tmdb.org/t/p/w500/gLUamHSgSS6Ky6Db0cmu8GQqoud.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Miciana Alise",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Deidre Backs",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Erica Tremblay",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Erica Tremblay",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Erica Tremblay",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tommy Oliver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Heather Rae",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nina Yang Bongiovi",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bryan Binder",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Charlotte Koh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bird Runningwater",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Higdon",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Carolina Costa",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Robert Grigsby Wilson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Samantha Crain",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Marisa DeFranco",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Nathan Carlson",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "Amira Borg",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Stacey Rice",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "James Spiteri",
+      "rol": "Visual Effects Producer"
+    }
+  ],
+  "director": "Erica Tremblay",
+  "valoraciones": {
+    "tmdb": 6.593,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Confluential Films",
+  "enlace_video": "https://gscdn.cam/video/embed/fgbj9uoktt4h",
+  "trailer": "https://www.youtube.com/watch?v=VJyX5a8dP-8"
+}
