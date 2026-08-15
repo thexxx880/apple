@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 621876,
+  "poster": "https://image.tmdb.org/t/p/w500/ehesNeYjfTkkJgIYbKKrWcqY2fA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tHjoTxM4SMgazi3Y2X8mmAtONVL.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5j58yOEiSEERzlTf3GJv40UHKtq.png",
+  "titulo": "Flora y Ulises",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Comedia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.456,
+  "año": "2021",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Flora, una cínica niña de 10 años fanática de los comics, cuyos padres se han separado recientemente. Luego de rescatar a una ardilla a la que nombra Ulises, Flora se sorprende al descubrir que Ulises posee poderes de superhéroe únicos que los llevan a una divertida aventura, llena de complicaciones, que cambiarán la vida de Flora, y su perspectiva, para siempre.",
+  "fecha_estreno": "2021-02-19",
+  "titulo_original": "Flora & Ulysses",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Matilda Lawler",
+      "personaje": "Flora",
+      "foto": "https://image.tmdb.org/t/p/w500/uKioAyk7zSyO1BCOs5OQtNB4QNP.jpg"
+    },
+    {
+      "nombre": "Alyson Hannigan",
+      "personaje": "Phyllis",
+      "foto": "https://image.tmdb.org/t/p/w500/bO16z8rAzZWdjCga8dcbJ2AFAh2.jpg"
+    },
+    {
+      "nombre": "Ben Schwartz",
+      "personaje": "George",
+      "foto": "https://image.tmdb.org/t/p/w500/hWEQe66jXUAGVhbU5dy8s0IrrAQ.jpg"
+    },
+    {
+      "nombre": "Benjamin Evan Ainsworth",
+      "personaje": "William",
+      "foto": "https://image.tmdb.org/t/p/w500/7KkGM3pED3mJmiuolmkGcGn4HPE.jpg"
+    },
+    {
+      "nombre": "Danny Pudi",
+      "personaje": "Miller",
+      "foto": "https://image.tmdb.org/t/p/w500/w0zT8Y2dQHU8FgV03NJoHJE6tmD.jpg"
+    },
+    {
+      "nombre": "Darien Martin",
+      "personaje": "Incandesto",
+      "foto": "https://image.tmdb.org/t/p/w500/ikQEhFZUBkrIt868hT0lbTsnLME.jpg"
+    },
+    {
+      "nombre": "Anna Deavere Smith",
+      "personaje": "Dr. Meescham",
+      "foto": "https://image.tmdb.org/t/p/w500/1LJYoLzI26BBm4pmOJk4UT9vABt.jpg"
+    },
+    {
+      "nombre": "Bobby Moynihan",
+      "personaje": "Stanlee",
+      "foto": "https://image.tmdb.org/t/p/w500/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gil Netter",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lena Khan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Brad Copeland",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Owen Walstrom",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Peter Steffan",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Joanna Mireau",
+      "rol": "Assistant Makeup Artist"
+    },
+    {
+      "nombre": "Cassandra Ebner",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Wakako Sekine",
+      "rol": "Compositing Artist"
+    },
+    {
+      "nombre": "Gregg Brilliant",
+      "rol": "Unit Publicist"
+    },
+    {
+      "nombre": "Kate DiCamillo",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Katterli Frauenfelder",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrew Dunn",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Michael Fitzgerald",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jamie Gross",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mona May",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "Lena Khan",
+  "valoraciones": {
+    "tmdb": 6.456,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/in42cc1mo0av",
+  "trailer": "https://www.youtube.com/watch?v=WJz50zGP0A8"
+}
