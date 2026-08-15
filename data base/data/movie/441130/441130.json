@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 441130,
+  "poster": "https://image.tmdb.org/t/p/w500/4AbbGAiz1t5Hxa9c35avWeyB3dA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3zTbERSBLh7waK9811RTKGAcG86.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1XjM98TpYMaSTIx74ufyVSokHAL.png",
+  "titulo": "Wolfwalkers: Espíritu de lobo",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 8.171,
+  "año": "2020",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "Una joven aprendiz de cazadora viaja a Irlanda con su padre en busca de la última manada de lobos. Pero todo cambia cuando conoce a una niña de una misteriosa tribu que, se rumora, se transforma en lobo por las noches.",
+  "fecha_estreno": "2020-10-26",
+  "titulo_original": "Wolfwalkers",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Honor Kneafsey",
+      "personaje": "Robyn Goodfellowe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xce8nauB4HuvwkqWDlIkJbaBSfw.jpg"
+    },
+    {
+      "nombre": "Eva Whittaker",
+      "personaje": "Mebh Óg MacTíre (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Sean Bean",
+      "personaje": "Robyn's Father, Bill Goodfellowe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+    },
+    {
+      "nombre": "Simon McBurney",
+      "personaje": "Lord Protector (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/h0J9UH1g1C0c8T8x1mjvfUv5X5f.jpg"
+    },
+    {
+      "nombre": "Tommy Tiernan",
+      "personaje": "Sean Óg (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/x0CGES4ihttp52R7eD3mDjiMYjq.jpg"
+    },
+    {
+      "nombre": "Maria Doyle Kennedy",
+      "personaje": "Mebh's Mother, Moll MacTíre (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dlZ5METJ8AKFjjlA6tjQiA9yfK3.jpg"
+    },
+    {
+      "nombre": "Jon Kenny",
+      "personaje": "Stringy Woodcutter, Ned (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4wlz0fYI7oWvSjGcZE67vcuDONa.jpg"
+    },
+    {
+      "nombre": "John Morton",
+      "personaje": "Stumpy Woodcutter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fupl0frMxZTPhSLZrrB3eGZ5mna.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tomm Moore",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ross Stewart",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tomm Moore",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nora Twomey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Stéphan Roelants",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul Young",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tomm Moore",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ross Stewart",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christine Seznec",
+      "rol": "Sound Supervisor"
+    },
+    {
+      "nombre": "Kairen Waloch",
+      "rol": "Additional Casting"
+    },
+    {
+      "nombre": "Alan Slattery",
+      "rol": "Additional Editing"
+    },
+    {
+      "nombre": "Maria Pareja",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Nicole Storck",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Tomm Moore",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Steven McClurg",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Anna FitzSimons",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Ross Stewart",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Charly Katrin Mårtensson",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Alexandre Fleurant",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Colette Macauley",
+      "rol": "Assistant Accountant"
+    }
+  ],
+  "director": "Tomm Moore",
+  "valoraciones": {
+    "tmdb": 8.171,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Saloon",
+  "enlace_video": "https://gscdn.cam/video/embed/wm2m37l5xfhr",
+  "trailer": "https://www.youtube.com/watch?v=VjbRDnCj_Z4"
+}
