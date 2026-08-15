@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 466420,
+  "poster": "https://image.tmdb.org/t/p/w500/yCWQJFm2CJ5PddNxz2Ce9CNeqLT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wqFUSoev8k7XbfsG5eQq2YQwxxG.png",
+  "titulo": "Los asesinos de la luna",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Historia",
+    "Drama"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.388,
+  "año": "2023",
+  "duracion": "3h 26min",
+  "edad_minima": 13,
+  "sinopsis": "Ambientada en la década de 1920 en Oklahoma, cuenta la historia de los asesinatos en serie de miembros de la Nación Osage, un pueblo originario rico en petróleo. Una serie de crímenes brutales que llegaron a conocerse como el Reino del terror.",
+  "fecha_estreno": "2023-10-18",
+  "titulo_original": "Killers of the Flower Moon",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Leonardo DiCaprio",
+      "personaje": "Ernest Burkhart",
+      "foto": "https://image.tmdb.org/t/p/w500/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+      "nombre": "Robert De Niro",
+      "personaje": "William Hale",
+      "foto": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "nombre": "Lily Gladstone",
+      "personaje": "Mollie Burkhart",
+      "foto": "https://image.tmdb.org/t/p/w500/zYAN84WqZv2sbVE2JDkcWoXGoF7.jpg"
+    },
+    {
+      "nombre": "Jesse Plemons",
+      "personaje": "Tom White",
+      "foto": "https://image.tmdb.org/t/p/w500/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+    },
+    {
+      "nombre": "Tantoo Cardinal",
+      "personaje": "Lizzie Q",
+      "foto": "https://image.tmdb.org/t/p/w500/rxhjfygJlPwztf36iRI7UDn5dr7.jpg"
+    },
+    {
+      "nombre": "John Lithgow",
+      "personaje": "Prosecutor Peter Leaward",
+      "foto": "https://image.tmdb.org/t/p/w500/ajfuBSm1HuVqFJlbTmAlza62Xxr.jpg"
+    },
+    {
+      "nombre": "Brendan Fraser",
+      "personaje": "W.S. Hamilton",
+      "foto": "https://image.tmdb.org/t/p/w500/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    },
+    {
+      "nombre": "Cara Jade Myers",
+      "personaje": "Anna",
+      "foto": "https://image.tmdb.org/t/p/w500/5oHV0iqIja1qmX5cKyQHWA0eVXB.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Martin Scorsese",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Martin Scorsese",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Daniel Lupi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eric Roth",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Martin Scorsese",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bradley Thomas",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Friedkin",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jack Fisk",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Adam Willis",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Matt Prueitt",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "Stephen Oh",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "David Connan",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "Blake Bennett",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "Josh Elam",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "Nathan M. Schindler",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "Krystina Figg",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "Chad Bennett",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "Kate Sprance",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Jacob Alvarez",
+      "rol": "Grip"
+    }
+  ],
+  "director": "Martin Scorsese",
+  "valoraciones": {
+    "tmdb": 7.388,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Apple Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/k8g5swzsuu52",
+  "trailer": "https://www.youtube.com/watch?v=wyYsrrpZuD0"
+}
