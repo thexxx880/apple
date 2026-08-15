@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 911430,
+  "poster": "https://image.tmdb.org/t/p/w500/yKIG63pXN89EfbTA7yKpwxAU1rf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xOB0YAN0Z50TMY5EydztrVZ5spR.png",
+  "titulo": "F1 la película",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Drama"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.8,
+  "año": "2025",
+  "duracion": "2h 36min",
+  "edad_minima": 13,
+  "sinopsis": "El piloto legendario Sonny Hayes es convencido de salir de su retiro para liderar a un equipo de la Fórmula 1 en dificultades y ser mentor de un joven piloto talentoso, mientras se busca una última oportunidad de gloria.",
+  "fecha_estreno": "2025-06-25",
+  "titulo_original": "F1",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Brad Pitt",
+      "personaje": "Sonny Hayes",
+      "foto": "https://image.tmdb.org/t/p/w500/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+      "nombre": "Damson Idris",
+      "personaje": "Joshua Pearce",
+      "foto": "https://image.tmdb.org/t/p/w500/y0dcRs4GF6Xx23OxDr1ytc8thlL.jpg"
+    },
+    {
+      "nombre": "Javier Bardem",
+      "personaje": "Ruben Cervantes",
+      "foto": "https://image.tmdb.org/t/p/w500/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
+    },
+    {
+      "nombre": "Kerry Condon",
+      "personaje": "Kate McKenna",
+      "foto": "https://image.tmdb.org/t/p/w500/bLP627Ar30kSqy5ZIYVJioCprOH.jpg"
+    },
+    {
+      "nombre": "Tobias Menzies",
+      "personaje": "Peter Banning",
+      "foto": "https://image.tmdb.org/t/p/w500/hGhAw2obMEOu1K0ed9b3jds9thf.jpg"
+    },
+    {
+      "nombre": "Kim Bodnia",
+      "personaje": "Kaspar Smolinski",
+      "foto": "https://image.tmdb.org/t/p/w500/koWU6vb82cuCDLeYE1erqnQ39cW.jpg"
+    },
+    {
+      "nombre": "Sarah Niles",
+      "personaje": "Bernadette",
+      "foto": "https://image.tmdb.org/t/p/w500/ySelhnmCCX9VnlPvceO9c5XOelK.jpg"
+    },
+    {
+      "nombre": "Will Merrick",
+      "personaje": "Nickleby",
+      "foto": "https://image.tmdb.org/t/p/w500/3IVuzHqE8FIBV679o4VGrZInpsE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lewis Hamilton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joseph Kosinski",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chad Oman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joseph Kosinski",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ehren Kruger",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jerry Bruckheimer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeremy Kleiner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brad Pitt",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Tildesley",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Edd Cross",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Hugh McClelland",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Véronique Melery",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Julian Day",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Claudio Miranda",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Lottie Geliot",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Andrew McCarthy",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "George Alvarezzo",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Erin Duffy",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "David Campbell-Bell",
+      "rol": "Production Manager"
+    }
+  ],
+  "director": "Joseph Kosinski",
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Plan B Entertainment",
+  "enlace_video": "https://gscdn.cam/video/embed/bwg48rxg6y8p",
+  "trailer": "https://www.youtube.com/watch?v=ge_ABjtYx88"
+}
