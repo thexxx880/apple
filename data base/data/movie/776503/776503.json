@@ -11,7 +11,7 @@
     "Romance"
   ],
   "calificacion": "C",
-  "puntuacion": 7.89,
+  "puntuacion": 7.885,
   "año": "2021",
   "duracion": "1h 51min",
   "edad_minima": 13,
@@ -53,7 +53,7 @@
     {
       "nombre": "Amy Forsyth",
       "personaje": "Gertie",
-      "foto": "https://image.tmdb.org/t/p/w500/ii3DqSprC4MTFsqzjAloynqVOKB.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/q9ZSgZZrNDavLsbrRQPTJLFGG53.jpg"
     },
     {
       "nombre": "Kevin Chapman",
@@ -139,7 +139,7 @@
   ],
   "director": "Sian Heder",
   "valoraciones": {
-    "tmdb": 7.89,
+    "tmdb": 7.885,
     "imdb": null,
     "rotten_tomatoes": null
   },
