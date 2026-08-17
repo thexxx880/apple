@@ -8,12 +8,11 @@
   "generos": [
     "Fantasía",
     "Comedia",
-    "Animación",
     "Familia",
     "Película de TV"
   ],
   "calificacion": "PG-13",
-  "puntuacion": 5.638,
+  "puntuacion": 5.554,
   "año": "2014",
   "duracion": "1h 6min",
   "edad_minima": 13,
@@ -35,7 +34,7 @@
     {
       "nombre": "Tara Strong",
       "personaje": "Poof (voice)",
-      "foto": "https://image.tmdb.org/t/p/w500/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
     },
     {
       "nombre": "Scott Baio",
@@ -145,11 +144,11 @@
   ],
   "director": "Savage Steve Holland",
   "valoraciones": {
-    "tmdb": 5.638,
+    "tmdb": 5.554,
     "imdb": null,
     "rotten_tomatoes": null
   },
   "distribuidora": "Pacific Bay Entertainment Canada",
-  "enlace_video": "https://rumble.com/hls-vod/76rmbk/playlist.m3u8?u=0&b=0",
+  "enlace_video": "https://gscdn.cam/video/embed/0x13fqf56z5w",
   "trailer": "https://www.youtube.com/watch?v=Icf6BoFjhFQ"
 }
