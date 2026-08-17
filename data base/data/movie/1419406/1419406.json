@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 1419406,
+  "poster": "https://image.tmdb.org/t/p/w500/1Man1JfL1UpFaOeKwn3i7ci1hts.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ydk33NEl57XqGSc0Bo6phCoYkGG.png",
+  "titulo": "Operación Sombra",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Drama",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 8.101,
+  "año": "2025",
+  "duracion": "2h 22min",
+  "edad_minima": 13,
+  "sinopsis": "Unos astutos y traicioneros ladrones desafian a la Policía Judicial de Macao. La Policía, que se encontraba en una dura batalla, invita de nuevo al experto en rastreo Huang De Zhong, retirado desde hace muchos años, a unir fuerzas con la joven élite del Departamento de Investigación Criminal de la Policía Judicial. Bajo la colisión de las técnicas tradicionales de rastreo y la alta tecnología, la policía y los criminales luchan con ingenio y valentía, y se lanzan a un duelo entre el bien y el mal parecido al juego del gato y el ratón.",
+  "fecha_estreno": "2025-08-16",
+  "titulo_original": "捕风追影",
+  "pais_origen": "China",
+  "reparto": [
+    {
+      "nombre": "Jackie Chan",
+      "personaje": "Wong Tak Chung",
+      "foto": "https://image.tmdb.org/t/p/w500/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "nombre": "张子枫",
+      "personaje": "He Qiuguo",
+      "foto": "https://image.tmdb.org/t/p/w500/3S8yEnTVqH8T3bTVf9FmtXxWcu2.jpg"
+    },
+    {
+      "nombre": "梁家輝",
+      "personaje": "Fu Longsheng",
+      "foto": "https://image.tmdb.org/t/p/w500/ksrZeHeEKqPm5GS1IrmJ9WC9sRS.jpg"
+    },
+    {
+      "nombre": "此沙",
+      "personaje": "Xi Meng / Xi Wang",
+      "foto": "https://image.tmdb.org/t/p/w500/eWytg5M0VUCb0aHEKpUDijQ7JxF.jpg"
+    },
+    {
+      "nombre": "Jun",
+      "personaje": "Hu Feng",
+      "foto": "https://image.tmdb.org/t/p/w500/z1seXrQQWG7nsQVHqSWKefJQ8DO.jpg"
+    },
+    {
+      "nombre": "周政杰",
+      "personaje": "Liu Jinxiao",
+      "foto": "https://image.tmdb.org/t/p/w500/9n4vnXt6SIrfUfDDXxz4ewxhbSf.jpg"
+    },
+    {
+      "nombre": "王杍逸",
+      "personaje": "Wu Yaolei",
+      "foto": "https://image.tmdb.org/t/p/w500/6xOEI8NnQuvRwe6nSDXYGAamKzO.jpg"
+    },
+    {
+      "nombre": "郎月婷",
+      "personaje": "Madam Wang",
+      "foto": "https://image.tmdb.org/t/p/w500/bdyJhQrIG7ai9B2Tp2kD2M0F32X.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "杨子",
+      "rol": "Director"
+    },
+    {
+      "nombre": "杨子",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "韓肯",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "王振威",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Nicolas Errèra",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "钱添添",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "龚宇",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "李捷",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "王晓晖",
+      "rol": "Production Executive"
+    },
+    {
+      "nombre": "孟钧",
+      "rol": "Production Executive"
+    },
+    {
+      "nombre": "苏杭",
+      "rol": "Action Director"
+    },
+    {
+      "nombre": "张一博",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "王砚伟",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "王寶儀",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "翟禹佳",
+      "rol": "Post Production Supervisor"
+    }
+  ],
+  "director": "杨子",
+  "valoraciones": {
+    "tmdb": 8.101,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "iQIYI Pictures （重复 同 iQiyi Motion Pictures）",
+  "enlace_video": "https://gscdn.cam/video/embed/aflvtxb828rj",
+  "trailer": "https://www.youtube.com/watch?v=xvmADAJOoCg"
+}
