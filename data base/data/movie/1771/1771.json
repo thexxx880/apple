@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 1771,
+  "poster": "https://image.tmdb.org/t/p/w500/82ucHZ4ioVGiweT1XMl1mUZaodq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bPz8Dv3aUlgQH6CJz9rVH063Mfm.png",
+  "titulo": "Capitán América: El Primer Vengador",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.009,
+  "año": "2011",
+  "duracion": "2h 5min",
+  "edad_minima": 13,
+  "sinopsis": "Steve Rogers, un soldado militar rechazado, se transforma en el Capitán América después de tomar una dosis de un «suero de Súper-Soldado». Pero ser el Capitán América tiene un precio cuando intenta acabar con un belicista y una organización terrorista.",
+  "fecha_estreno": "2011-07-22",
+  "titulo_original": "Captain America: The First Avenger",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chris Evans",
+      "personaje": "Captain America / Steve Rogers",
+      "foto": "https://image.tmdb.org/t/p/w500/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "nombre": "Hayley Atwell",
+      "personaje": "Peggy Carter",
+      "foto": "https://image.tmdb.org/t/p/w500/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+    },
+    {
+      "nombre": "Sebastian Stan",
+      "personaje": "James Buchanan 'Bucky' Barnes",
+      "foto": "https://image.tmdb.org/t/p/w500/mLqE91qUnE8fbfMvsXD7BcWJKNK.jpg"
+    },
+    {
+      "nombre": "Tommy Lee Jones",
+      "personaje": "Colonel Chester Phillips",
+      "foto": "https://image.tmdb.org/t/p/w500/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+    },
+    {
+      "nombre": "Hugo Weaving",
+      "personaje": "Johann Schmidt / Red Skull",
+      "foto": "https://image.tmdb.org/t/p/w500/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+    },
+    {
+      "nombre": "Dominic Cooper",
+      "personaje": "Howard Stark",
+      "foto": "https://image.tmdb.org/t/p/w500/wFPdARerxpaAaHucYGTSNqViWpn.jpg"
+    },
+    {
+      "nombre": "Richard Armitage",
+      "personaje": "Heinz Kruger",
+      "foto": "https://image.tmdb.org/t/p/w500/oNoKjTOUNUiJ01UNQSCQDkt5EHi.jpg"
+    },
+    {
+      "nombre": "Stanley Tucci",
+      "personaje": "Dr. Abraham Erskine",
+      "foto": "https://image.tmdb.org/t/p/w500/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Markus",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joe Johnston",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Stephen McFeely",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alan Fine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nigel Gostelow",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Priscilla John",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Robert Dalva",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Alan Silvestri",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "David Maisel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeffrey Ford",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Halley Finn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joe Johnston",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Randi Hiller",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Joe Johnston",
+  "valoraciones": {
+    "tmdb": 7.009,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/naz5xfgkxhwl",
+  "trailer": "https://www.youtube.com/watch?v=W4DlMggBPvc"
+}
