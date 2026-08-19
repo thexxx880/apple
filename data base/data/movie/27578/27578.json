@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 27578,
+  "poster": "https://image.tmdb.org/t/p/w500/y8ZqlmkZTAoDXCkhCXDlWBiLwBq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yBv9RxlWPXRCvjMFsrmB1pxwWo6.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7Gjh8HJpkgQplW0ydg1xJrZWwAC.png",
+  "titulo": "Los indestructibles",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Aventura",
+    "Acción"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.252,
+  "año": "2010",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "Barney Ross lidera una banda de mercenarios altamente capacitados, incluido el entusiasta de los cuchillos Lee Christmas, un experto en artes marciales, especialista en armas pesadas, demolicionista y un francotirador de cañón suelto. Cuando el misterioso Sr. Church encarga al grupo asesinar al dictador de una pequeña isla sudamericana, Barney y Lee visitan el remoto lugar para explorar su oposición y descubrir la verdadera naturaleza del conflicto que envuelve a la ciudad.",
+  "fecha_estreno": "2010-08-07",
+  "titulo_original": "The Expendables",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sylvester Stallone",
+      "personaje": "Barney Ross",
+      "foto": "https://image.tmdb.org/t/p/w500/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "nombre": "Jason Statham",
+      "personaje": "Lee Christmas",
+      "foto": "https://image.tmdb.org/t/p/w500/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+    },
+    {
+      "nombre": "李连杰",
+      "personaje": "Yin Yang",
+      "foto": "https://image.tmdb.org/t/p/w500/c4s8INzU0ZAujCQ1YmphCmcsNzl.jpg"
+    },
+    {
+      "nombre": "Dolph Lundgren",
+      "personaje": "Gunner Jensen",
+      "foto": "https://image.tmdb.org/t/p/w500/fB1tOws6Gav0xE8LYlELEb82hJt.jpg"
+    },
+    {
+      "nombre": "Eric Roberts",
+      "personaje": "James Monroe",
+      "foto": "https://image.tmdb.org/t/p/w500/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg"
+    },
+    {
+      "nombre": "Randy Couture",
+      "personaje": "Toll Road",
+      "foto": "https://image.tmdb.org/t/p/w500/pmdPaQBWufFVwVxJYofLcERZr1l.jpg"
+    },
+    {
+      "nombre": "Steve Austin",
+      "personaje": "Paine",
+      "foto": "https://image.tmdb.org/t/p/w500/xLc81J33tXrzlMjEFxBTKP4kgO0.jpg"
+    },
+    {
+      "nombre": "David Zayas",
+      "personaje": "General Garza",
+      "foto": "https://image.tmdb.org/t/p/w500/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Callaham",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Callaham",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kevin King Templeton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Avi Lerner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Thompson",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brian Tyler",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Eda Kowan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Trevor Short",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Constantine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Boaz Davidson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jon Feltheimer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Les Weldon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Danny Dimbort",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Franco-Giacomo Carbone",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Basil Iwanyk",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Guymon Casady",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeffrey L. Kimball",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Sylvester Stallone",
+  "valoraciones": {
+    "tmdb": 6.252,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nimar Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/dtr5fu8zyvxl",
+  "trailer": "https://www.youtube.com/watch?v=G_OQpXk8vAQ"
+}
