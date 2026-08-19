@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 76163,
+  "poster": "https://image.tmdb.org/t/p/w500/vqFq6aylDrY23wfPdCgUAIA4bO0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ihKsZZYMbyHXC1L7s90WDLITdC5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iFjRQZ8Cwk8OQ8D72tPLDXnqAiX.png",
+  "titulo": "Los indestructibles 2",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.355,
+  "año": "2012",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "El líder mercenario Barney Ross, Lee Christmas y el resto del equipo Expendables se reúnen con el Sr. Church quien los contrata para un aparente trabajo sencillo. Pero las cosas salen muy mal, obligando a los mercenarios a buscar venganza por la muerte de un camarada. Con las probabilidades en su contra, Barney y su equipo enfrentan una ola de destrucción a través de las fuerzas opositoras, sólo para encontrarse con una amenaza inesperada: seis libras de plutonio para armas.",
+  "fecha_estreno": "2012-08-15",
+  "titulo_original": "The Expendables 2",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sylvester Stallone",
+      "personaje": "Barney Ross",
+      "foto": "https://image.tmdb.org/t/p/w500/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "nombre": "Jason Statham",
+      "personaje": "Lee Christmas",
+      "foto": "https://image.tmdb.org/t/p/w500/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+    },
+    {
+      "nombre": "李连杰",
+      "personaje": "Yin Yang",
+      "foto": "https://image.tmdb.org/t/p/w500/c4s8INzU0ZAujCQ1YmphCmcsNzl.jpg"
+    },
+    {
+      "nombre": "Dolph Lundgren",
+      "personaje": "Gunner Jensen",
+      "foto": "https://image.tmdb.org/t/p/w500/fB1tOws6Gav0xE8LYlELEb82hJt.jpg"
+    },
+    {
+      "nombre": "Chuck Norris",
+      "personaje": "Booker",
+      "foto": "https://image.tmdb.org/t/p/w500/m3uLikdhi9qObRvGVHsKX5H93lR.jpg"
+    },
+    {
+      "nombre": "Jean-Claude Van Damme",
+      "personaje": "Jean Vilain",
+      "foto": "https://image.tmdb.org/t/p/w500/7DP3bm3MS0qa0L8tBLHGebbCu6H.jpg"
+    },
+    {
+      "nombre": "Bruce Willis",
+      "personaje": "Church",
+      "foto": "https://image.tmdb.org/t/p/w500/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+    },
+    {
+      "nombre": "Arnold Schwarzenegger",
+      "personaje": "Trench",
+      "foto": "https://image.tmdb.org/t/p/w500/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Simon West",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ken Kaufman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Danny Lerner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Agosto",
+      "rol": "Story"
+    },
+    {
+      "nombre": "John Thompson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Avi Lerner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard Wenk",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Basil Iwanyk",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Guymon Casady",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Todd E. Miller",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Danny Dimbort",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shelly Johnson",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jason Constantine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Boaz Davidson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jon Feltheimer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Trevor Short",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lizz Wolf",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Mariana Stansheva",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Valentin Valov",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Simon West",
+  "valoraciones": {
+    "tmdb": 6.355,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Millennium Media",
+  "enlace_video": "https://gscdn.cam/video/embed/5dcj2hm4ndqz",
+  "trailer": "https://www.youtube.com/watch?v=OkF6KFG_Bmw"
+}
