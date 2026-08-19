@@ -1,0 +1,83 @@
+{
+  "id_tmdb": 607,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/bPiMkfXduH7UNxVITSh6e66xLUx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gnK2nptRXra4RnKgGqAWFSqP5aG.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/l9Q8jYVyzm17qatUwb1pVEyPcwO.png",
+  "titulo": "Las chicas superpoderosas",
+  "titulo_original": "The Powerpuff Girls",
+  "fecha_estreno": "1998-11-18",
+  "duracion": "12min",
+  "año": "1998",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Comedia",
+    "Kids",
+    "Familia"
+  ],
+  "puntuacion": 7.5,
+  "sinopsis": "Tres niñas con superpoderes se pasan el día salvando al mundo (o al menos a la ciudad de Saltadilla) de monstruos, aspirantes a conquistadores y otras cosas asquerosas.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Cathy Cavadini",
+      "personaje": "Blossom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9sThx5Ajdy1aBJSppQDbTkmANlA.jpg"
+    },
+    {
+      "nombre": "Tara Strong",
+      "personaje": "Bubbles (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
+    },
+    {
+      "nombre": "E. G. Daily",
+      "personaje": "Buttercup (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sWLXj0yvpMEsZTIsS1ReVQzGnwO.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Mayor / Snake / Lil' Arturo / Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
+    },
+    {
+      "nombre": "Tom Kane",
+      "personaje": "Professor Utonium / Him / Talking Dog (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Craig McCracken",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Genndy Tartakovsky",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "James L. Venable",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Craig McCracken",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Genndy Tartakovsky",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.5,
+    "imdb": "tt0175058",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=Y9qtsvOTXfw"
+}
