@@ -11,7 +11,7 @@
     "Suspense"
   ],
   "calificacion": "PG-13",
-  "puntuacion": 7.394,
+  "puntuacion": 7.397,
   "año": "2009",
   "duracion": "1h 48min",
   "edad_minima": 13,
@@ -23,7 +23,7 @@
     {
       "nombre": "Jamie Foxx",
       "personaje": "Nick Rice",
-      "foto": "https://image.tmdb.org/t/p/w500/25zzvFA6yx2Q9BYnugsbd4JWDfu.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
     },
     {
       "nombre": "Gerard Butler",
@@ -71,15 +71,7 @@
       "rol": "Director"
     },
     {
-      "nombre": "Mark Gill",
-      "rol": "Producer"
-    },
-    {
-      "nombre": "Alan Siegel",
-      "rol": "Producer"
-    },
-    {
-      "nombre": "Gerard Butler",
+      "nombre": "Lucas Foster",
       "rol": "Producer"
     },
     {
@@ -87,7 +79,15 @@
       "rol": "Producer"
     },
     {
-      "nombre": "Lucas Foster",
+      "nombre": "Mark Gill",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gerard Butler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alan Siegel",
       "rol": "Producer"
     }
   ],
@@ -101,6 +101,10 @@
       "rol": "Stunt Double"
     },
     {
+      "nombre": "Alex Hajdu",
+      "rol": "Production Design"
+    },
+    {
       "nombre": "Jeff G. Waxman",
       "rol": "Co-Producer"
     },
@@ -109,28 +113,24 @@
       "rol": "Camera Operator"
     },
     {
-      "nombre": "Jeffrey Kurland",
-      "rol": "Costume Design"
+      "nombre": "Chryss Hionis",
+      "rol": "Set Decoration"
     },
     {
-      "nombre": "Jesse Rosenthal",
-      "rol": "Art Direction"
+      "nombre": "Diane Dixon",
+      "rol": "Hair Department Head"
     },
     {
-      "nombre": "Neil Sacker",
-      "rol": "Executive Producer"
-    },
-    {
-      "nombre": "Gregory Veeser",
-      "rol": "Associate Producer"
+      "nombre": "Joseph Middleton",
+      "rol": "Casting"
     },
     {
       "nombre": "Lydia Bensimmon",
       "rol": "Key Hair Stylist"
     },
     {
-      "nombre": "Christopher Assells",
-      "rol": "Sound Effects Editor"
+      "nombre": "Ian Watermeier",
+      "rol": "Co-Producer"
     },
     {
       "nombre": "Zigmund Gron",
@@ -143,11 +143,11 @@
   ],
   "director": "F. Gary Gray",
   "valoraciones": {
-    "tmdb": 7.394,
+    "tmdb": 7.397,
     "imdb": null,
     "rotten_tomatoes": null
   },
   "distribuidora": "The Film Department",
-  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/11/s8/2/I/j/f/u/Ijfuy.aaa.mp4",
+  "enlace_video": "https://gscdn.cam/video/embed/xevq069bqavw",
   "trailer": "https://www.youtube.com/watch?v=LX6kVRsdXW4"
 }
