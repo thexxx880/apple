@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 138103,
+  "poster": "https://image.tmdb.org/t/p/w500/ezw5eT6Zzo821SbyQnXbMwa2p0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xSfBWkAarrPwwfiGBAMt8wqxUUH.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ipN7SUMdSpitzURbFObWJH2On2d.png",
+  "titulo": "Los indestructibles 3",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.202,
+  "año": "2014",
+  "duracion": "2h 11min",
+  "edad_minima": 13,
+  "sinopsis": "Barney, Navidad y el resto del equipo se encuentra cara a cara con Conrad Stonebanks, quien hace años co-fundó The Expendables with Barney. Stonebanks se convirtió posteriormente en un despiadado comerciante de armas y en alguien a quien Barney se vio obligado a matar ... o eso pensó. Stonebanks, que eludió la muerte una vez antes, ahora está haciendo su misión de poner fin a The Expendables - pero Barney tiene otros planes. Barney decide que tiene que luchar contra la sangre vieja con sangre nueva, y trae una nueva era de los miembros del equipo de Expendables, reclutando a personas que son más jóvenes, más rápido y más tech-savvy. La última misión se convierte en un choque de estilo clásico de la vieja escuela versus experiencia de alta tecnología en la batalla más personal de los Expendables.",
+  "fecha_estreno": "2014-08-07",
+  "titulo_original": "The Expendables 3",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sylvester Stallone",
+      "personaje": "Barney Ross",
+      "foto": "https://image.tmdb.org/t/p/w500/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "nombre": "Jason Statham",
+      "personaje": "Lee Christmas",
+      "foto": "https://image.tmdb.org/t/p/w500/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+    },
+    {
+      "nombre": "Harrison Ford",
+      "personaje": "Max Drummer",
+      "foto": "https://image.tmdb.org/t/p/w500/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+    },
+    {
+      "nombre": "Arnold Schwarzenegger",
+      "personaje": "Trench",
+      "foto": "https://image.tmdb.org/t/p/w500/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
+    },
+    {
+      "nombre": "Mel Gibson",
+      "personaje": "Conrad Stonebanks",
+      "foto": "https://image.tmdb.org/t/p/w500/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+    },
+    {
+      "nombre": "Wesley Snipes",
+      "personaje": "Doc",
+      "foto": "https://image.tmdb.org/t/p/w500/iDmPuZXAGheRMbMyB80acMWYJ2s.jpg"
+    },
+    {
+      "nombre": "Dolph Lundgren",
+      "personaje": "Gunner Jensen",
+      "foto": "https://image.tmdb.org/t/p/w500/fB1tOws6Gav0xE8LYlELEb82hJt.jpg"
+    },
+    {
+      "nombre": "Randy Couture",
+      "personaje": "Toll Road",
+      "foto": "https://image.tmdb.org/t/p/w500/pmdPaQBWufFVwVxJYofLcERZr1l.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Patrick Hughes",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Katrin Benedikt",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sylvester Stallone",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Avi Lerner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Danny Lerner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin King Templeton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Thompson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Les Weldon",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Boaz Davidson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Basil Iwanyk",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Bradley",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Dan Bradley",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "David Callaham",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Brian Tyler",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Peter Menzies Jr.",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Sean Albertson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Paul Harb",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Avi Lerner",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Daniel T. Dorrance",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mariana Stansheva",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Patrick Hughes",
+  "valoraciones": {
+    "tmdb": 6.202,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Davis Films",
+  "enlace_video": "https://gscdn.cam/video/embed/alpv9csmw42f",
+  "trailer": "https://www.youtube.com/watch?v=KATn_m-AX9I"
+}
