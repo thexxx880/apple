@@ -1,0 +1,105 @@
+{
+  "id_tmdb": 128071,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7SwSAG48QvvMy8jlAgm3LGt3VGq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jhv7ChslieSdfC3Dqfhq9ERYoOP.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/b20sJbPclrehxJfjFCOirG1gTWB.svg",
+  "titulo": "Jellystone!",
+  "titulo_original": "Jellystone!",
+  "fecha_estreno": "2021-07-29",
+  "duracion": "11min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 7.029,
+  "sinopsis": "Es el pueblo de Jellystone: un bello lugar donde viven y disfrutan tus personajes favoritos de Hanna-Barbera, pero puede haber problemas entre ellos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jeff Bergman",
+      "personaje": "Yogi Bear / Wally Gator / Mr Jinx (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qeCpFCrmocsMvI7pZ1vqCCo6cPZ.jpg"
+    },
+    {
+      "nombre": "C.H. Greenblatt",
+      "personaje": "Boo Boo / Benny / Doggie Daddy / Peter Potamus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/h7y7ehFkygWbXCQQgpvxfJ5NEzi.jpg"
+    },
+    {
+      "nombre": "Jim Conroy",
+      "personaje": "Huckleberry Hound / Captain Caveman / Pa Rugg / ... (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5oYIYDSCpmpI7SUcvYV8dDL6qOi.jpg"
+    },
+    {
+      "nombre": "Georgie Kidder",
+      "personaje": "Auggie Doggie / Brain / Floral Rugg (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dUq776Ae3y48zC67vJvKjiX0qMT.jpg"
+    },
+    {
+      "nombre": "Grace Helbig",
+      "personaje": "Cindy Bear / Yappy / Taffy / Granny Sweet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zKLlM8sa3MXxJFboPqIYGhavrVj.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Adam Middleton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "C.H. Greenblatt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Adam Middleton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "C.H. Greenblatt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Greg Emerson",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Sarah Noonan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Agnes Kim",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.029,
+    "imdb": "tt11198220",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=-HAVgdujUWQ"
+}
