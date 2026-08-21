@@ -1,0 +1,116 @@
+{
+  "id_tmdb": 1434,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oalgdH3vglKvg1SB4OaMyoJ29sx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/l27nQrTwjq5GIp8typOdUKvlDZQ.png",
+  "titulo": "Padre de Familia",
+  "titulo_original": "Family Guy",
+  "fecha_estreno": "1999-01-31",
+  "duracion": "24min",
+  "año": "1999",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "puntuacion": 7.4,
+  "sinopsis": "La disfuncional familia Griffin (Los padres Peter y Lois; sus hijos Meg, Chris y Stewie; y su perro antropormófico Brian) viven aventuras cada vez más enfermizas, retorcidas, políticamente incorrecto y tremendamente dulce.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Seth MacFarlane",
+      "personaje": "Peter Griffin / Brian Griffin / Stewie Griffin / Glenn Quagmire (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8oQJqM51Z0Qtdb7sE6ZfX1peNCB.jpg"
+    },
+    {
+      "nombre": "Alex Borstein",
+      "personaje": "Lois Griffin / Tricia Takanawa / Loretta Brown / Barbara Pewterschmidt (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/g0OYqCNSa5N7zRVJl3J2FKV3LFj.jpg"
+    },
+    {
+      "nombre": "Mila Kunis",
+      "personaje": "Meg Griffin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cJAHQWX9hVadDFx5WTSBIW0VjvP.jpg"
+    },
+    {
+      "nombre": "Seth Green",
+      "personaje": "Chris Griffin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+    },
+    {
+      "nombre": "Patrick Warburton",
+      "personaje": "Joe Swanson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eLqDtbFYmlTxov9vT9Dwldn839v.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Alec Sulkin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Hentemann",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Richard Appel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kara Vallow",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Callaghan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shannon Smith",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alec Sulkin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Hentemann",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Richard Appel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kara Vallow",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Callaghan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shannon Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Danny Smith",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Seth MacFarlane",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": "tt0182576",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fox",
+  "trailer": "https://www.youtube.com/watch?v=J32iwo65RMc"
+}
