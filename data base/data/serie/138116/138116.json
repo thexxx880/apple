@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 138116,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/p8B66Qhp03Wyiag4lLZ6uHsGAZt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yUkgP6tBYpphCgsN0qfVoLkxD4x.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/md1GbWfFlj0o1mgbVt8UQSq4il1.png",
+  "titulo": "Villanos",
+  "titulo_original": "Villanos",
+  "fecha_estreno": "2021-10-29",
+  "duracion": "11min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Animación"
+  ],
+  "puntuacion": 8.789,
+  "sinopsis": "El espectáculo sigue las desventuras del infame Black Hat, un demonio inhumano narcisista vulgar y elegantemente vestido que hace su parte para hacer que el mundo sea un poco más vil y sus héroes un poco más muertos.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "José Antonio Macías",
+      "personaje": "Doctor Flug / Dr. Flexx (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lR1dvnAR5GgCXGxUAdeuNqiJFje.jpg"
+    },
+    {
+      "nombre": "Alan Ituriel",
+      "personaje": "Black Hat / Black Hot (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/72Gd7UdFfAw0kSnt8GJQJ6emmi2.jpg"
+    },
+    {
+      "nombre": "Meli G",
+      "personaje": "Demencia / Dolencia (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dbU8aPIdxkRAOS9kAROknmxsWC4.jpg"
+    },
+    {
+      "nombre": "Mark Fischbach",
+      "personaje": "505 (voice)/Black Hot (english voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2y59nq7vipTBdRMmMTsy1d4HeiG.jpg"
+    },
+    {
+      "nombre": "Cristina Hernández",
+      "personaje": "Miss Heed (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kHO4t0ojru0Ng4qtMDMAqrEzkQ9.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.789,
+    "imdb": "",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": ""
+}
