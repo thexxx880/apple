@@ -1,0 +1,53 @@
+{
+  "id_tmdb": 2190,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/bvxWAJR8Tc3UTMO2h0kP5uRFwDq.png",
+  "titulo": "South Park",
+  "titulo_original": "South Park",
+  "fecha_estreno": "1997-08-13",
+  "duracion": "24min",
+  "año": "1997",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "puntuacion": 8.337,
+  "sinopsis": "Cuatro niños (Stan, Kyle, Cartman y Kenny) irreverentes de primaria viven grandes y surrealistas desventuras en la tranquila y disfuncional pueblo South Park, Colorado.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Trey Parker",
+      "personaje": "Eric Cartman / Stan Marsh (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3tJe8t90lrcQzXj9cRcpW9wmj2c.jpg"
+    },
+    {
+      "nombre": "Matt Stone",
+      "personaje": "Kyle Broflovski / Kenny McCormick (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nS3BOaF0EHd7vyATV7WBnFEvTLr.jpg"
+    },
+    {
+      "nombre": "Mona Marshall",
+      "personaje": "Sheila Broflovski (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/A2RCAt0Xmm3jLBKZogQAJX6eD9n.jpg"
+    },
+    {
+      "nombre": "Jennifer Howell",
+      "personaje": "Bebe Stevens (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tYgRyRGtDRyo5LBVv7McaRNY7LX.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.337,
+    "imdb": "tt0121955",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Animations Adult",
+  "trailer": "https://www.youtube.com/watch?v=oUIK01ek-Ko"
+}
