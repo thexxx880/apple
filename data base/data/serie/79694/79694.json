@@ -1,0 +1,113 @@
+{
+  "id_tmdb": 79694,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ixXYN0ODQ1NtObDYXVfh6enuxbo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gaLhSPFtrlfsDrQtmxz0cxqA3YS.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nWkUXabMs2Chze9zemY4sUKwzUs.png",
+  "titulo": "ThunderCats Roar",
+  "titulo_original": "ThunderCats Roar",
+  "fecha_estreno": "2020-02-22",
+  "duracion": "11min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Kids",
+    "Animación",
+    "Comedia",
+    "Action & Adventure"
+  ],
+  "puntuacion": 2.833,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Max Mittelman",
+      "personaje": "Lion-O / Wilykat (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zQqiIgestpxssPrUXQXkY2Sq0y8.jpg"
+    },
+    {
+      "nombre": "Erica Lindbeck",
+      "personaje": "Cheetara / Wilykit (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/l5ISBt8S8Upct0fDgaEPuELp4zE.jpg"
+    },
+    {
+      "nombre": "Patrick Seitz",
+      "personaje": "Panthro / Mumm-Ra (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dIAUmfTbC4duex4lRV5ET7JEQhs.jpg"
+    },
+    {
+      "nombre": "Chris Jai Alex",
+      "personaje": "Tygra (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tNdDu6VPOoDw6CU6Lq1D9PYpLnY.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Marly Halpern-Graser",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Victor Courtright",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jules Bass",
+      "rol": "Consulting Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marly Halpern-Graser",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Victor Courtright",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "神聖かまってちゃん",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Theodore Walter Wolf",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Wes Gleason",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Matthew Janszen",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Andi Gibson",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Jules Bass",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Matthew Janszen",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 2.833,
+    "imdb": "tt8435344",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=2qi41rHz4ps"
+}
