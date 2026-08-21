@@ -1,0 +1,110 @@
+{
+  "id_tmdb": 46922,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/Re9I5tauOspaJxYCIqRqavKT4F.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2FCDydVqTYsIO0d16DT32nxm7g8.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/lVeCDyPIj246FFUsAjsNDOv3ta7.png",
+  "titulo": "Ben 10: Omniverse",
+  "titulo_original": "Ben 10: Omniverse",
+  "fecha_estreno": "2012-08-01",
+  "duracion": "22min",
+  "año": "2012",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "puntuacion": 8.254,
+  "sinopsis": "Ben 10 está listo para ser un héroe independiente, pero el abuelo Max lo hace formar un equipo con compañero inexperto. Con diez nuevos héroes alienígenas ¡es un Omniverse totalmente nuevo!",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Yuri Lowenthal",
+      "personaje": "Ben Tennyson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aLgXm0kbbIC8I5OBmnsK8TgVKwy.jpg"
+    },
+    {
+      "nombre": "Tara Strong",
+      "personaje": "Young Ben Tennyson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
+    },
+    {
+      "nombre": "Bumper Robinson",
+      "personaje": "Rook Blonko (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9KU72zZXIfsGAPgHmhlJmTYvor9.jpg"
+    },
+    {
+      "nombre": "Paul Eiding",
+      "personaje": "Grandpa Max (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3Gxs9fTnkQLFlmMHROlgiDJ4p10.jpg"
+    },
+    {
+      "nombre": "Ashley Johnson",
+      "personaje": "Gwen Tennyson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8s36QwB7Zq3PrbY1W6a6ctTFFoe.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Vincent Aniceto",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Donna Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian A. Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jennifer Pelphrey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rob Sorcher",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tramm Wigzell",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Vincent Aniceto",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Donna Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian A. Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jennifer Pelphrey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rob Sorcher",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tramm Wigzell",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.254,
+    "imdb": "tt2293002",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=rg_rjuS2_SU"
+}
