@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 95350,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/tWQQufVyYfIwDvhicXI1gLAXWR0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rx7P703ezg6drkBUjZYJFGR6V2j.png",
+  "titulo": "Linternas",
+  "titulo_original": "Lanterns",
+  "fecha_estreno": "2026-08-16",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.1,
+  "sinopsis": "El nuevo recluta John Stewart y la leyenda Hal Jordan, dos policías intergalácticos, se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Kyle Chandler",
+      "personaje": "Hal Jordan",
+      "foto": "https://image.tmdb.org/t/p/w500/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
+    },
+    {
+      "nombre": "Aaron Pierre",
+      "personaje": "John Stewart",
+      "foto": "https://image.tmdb.org/t/p/w500/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
+    },
+    {
+      "nombre": "Kelly Macdonald",
+      "personaje": "Sheriff Kerry Kane",
+      "foto": "https://image.tmdb.org/t/p/w500/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+    },
+    {
+      "nombre": "Garret Dillahunt",
+      "personaje": "William 'Will' Macon",
+      "foto": "https://image.tmdb.org/t/p/w500/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg"
+    },
+    {
+      "nombre": "Poorna Jagannathan",
+      "personaje": "Zoe Macon",
+      "foto": "https://image.tmdb.org/t/p/w500/cdfzpja6kif9NsWlN2K91RVn1Xt.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Peter Safran",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Gunn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom King",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Damon Lindelof",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Mundy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Hawes",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Peter Safran",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Gunn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom King",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Damon Lindelof",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Mundy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Hawes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ron Schmidt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alexa L. Fogel",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Karen Wacker",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Breannah Gibson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Justin Britt-Gibson",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Vanessa Baden Kelly",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Stephanie Economou",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John Paino",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Kiegan Downs",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.1,
+    "imdb": "tt26545992",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC Comics, HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=hi3oZSjSfiw"
+}
