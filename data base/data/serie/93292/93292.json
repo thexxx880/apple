@@ -1,0 +1,92 @@
+{
+  "id_tmdb": 93292,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/fLJ74pNLxYrAMFBNI95VSDPiOGd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gahwgNlUOWdA7pSgH0HJPEiVOsF.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/RDUx2AhnLWw35j8iwdagDLVNeG.png",
+  "titulo": "Duncanville",
+  "titulo_original": "Duncanville",
+  "fecha_estreno": "2020-02-16",
+  "duracion": "22min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Animación"
+  ],
+  "puntuacion": 7.729,
+  "sinopsis": "La serie se centra en la vida de Duncan, un niño de 15 años espectacularmente promedio, su familia y amigos. Poehler brindará la voz de Duncan y su nerviosa madre, Annie, que constantemente trata de evitar que su hijo arruine su vida.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Amy Poehler",
+      "personaje": "Duncan / Annie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rwmvRonpluV6dCPiQissYrchvSD.jpg"
+    },
+    {
+      "nombre": "Riki Lindhome",
+      "personaje": "Kimberly (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kJAGFp0ZW5sY0NoysFZcfSRykZa.jpg"
+    },
+    {
+      "nombre": "Joy Osmanski",
+      "personaje": "Jing (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xoRSO5b7hWN9i42fFEswHwStLEI.jpg"
+    },
+    {
+      "nombre": "Ty Burrell",
+      "personaje": "Jack (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4dwlnG1dcEPAf2cjNsYbYJn5E8Y.jpg"
+    },
+    {
+      "nombre": "Yassir Lester",
+      "personaje": "Yangzi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cxQk4vTeBnFPgTvmVpYtkmTKVTf.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mike Scully",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julie Thacker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Poehler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dave Becky",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mike Scully",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julie Thacker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Poehler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dave Becky",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.729,
+    "imdb": "tt9073898",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=dvB1NzrmZHY"
+}
