@@ -1,0 +1,73 @@
+{
+  "id_tmdb": 92684,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lTpGn2hgB0WGFGp6Q6ArkEWWTsk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8mNQpab95fhyR2JF4nJ6dIORwKJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jlqUjWV6loT0Ss3Ckdi8CTrMZKJ.png",
+  "titulo": "Los Héroes del Apocalipsis",
+  "titulo_original": "The Last Kids on Earth",
+  "fecha_estreno": "2019-09-17",
+  "duracion": "68min",
+  "año": "2019",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.1,
+  "sinopsis": "Cuando zombis y monstruos invaden su pueblo, un belicoso huérfano de 13 años hace equipo con sus amigos con la esperanza de sobrevivir al caos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Bruce Campbell",
+      "personaje": "Chef (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p9335ljr7luOWsfwZSOlsIzFJKE.jpg"
+    },
+    {
+      "nombre": "Mark Hamill",
+      "personaje": "Bardle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    },
+    {
+      "nombre": "Nick Wolfhard",
+      "personaje": "Jack Sullivan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vRhppLc1ntrMBz0buLbam7aVvzm.jpg"
+    },
+    {
+      "nombre": "Keith David",
+      "personaje": "Thrull (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+    },
+    {
+      "nombre": "Rosario Dawson",
+      "personaje": "Rezzoch (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1mm7JGHIUX3GRRGXEV9QCzsI0ao.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Matthew Berkowitz",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Matthew Berkowitz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Max Brallier",
+      "rol": "Novel"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.1,
+    "imdb": "tt8914012",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=iEWkd-fOIMU"
+}
