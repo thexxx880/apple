@@ -1,0 +1,105 @@
+{
+  "id_tmdb": 4194,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jAbECCJ8n7Rr25p2Y7MXPGMdoSR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/m6eRgkR1KC6Mr6gKx6gKCzSn6vD.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/iHBWwRSyTSRIxPCyZ8nkNLc1woz.png",
+  "titulo": "Star Wars: La Guerra de los Clones",
+  "titulo_original": "Star Wars: The Clone Wars",
+  "fecha_estreno": "2008-10-03",
+  "duracion": "24min",
+  "año": "2008",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Animación"
+  ],
+  "puntuacion": 8.5,
+  "sinopsis": "La escasa tropa Jedi lucha por mantener la libertad y devolver la paz a la Galaxia frente al aparentemente interminable ejército droide, clones diseñados genéticamente. A través de cientos de planetas, los Caballeros Jedi y los Separatistas combaten por el futuro de la Galaxia, pero el número de planetas que van cayendo en manos del Lado Oscuro cada vez es mayor a causa de los movimientos de los Separatistas. El terrible conflicto se agrava porque nuestros héroes se ven absorbidos por la confusión de guerra, mientras el Conde Dooku, el asesino Asajj Ventress, su maestro Darth Sidious, el General Grievous y una amplia galería de enemigos nunca antes visto también conspiran y se unen para derrotarlos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ashley Eckstein",
+      "personaje": "Ahsoka Tano (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fIjLS6RAafEUOeReG5W51cA7dWY.jpg"
+    },
+    {
+      "nombre": "Matt Lanter",
+      "personaje": "Anakin Skywalker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2ms8DR9n4wh9ZU6lIuqsE58LPT9.jpg"
+    },
+    {
+      "nombre": "James Arnold Taylor",
+      "personaje": "Obi-Wan Kenobi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sSthBDGT8HBd2hXRNPymA6D0ov8.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Clone Troopers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Tom Kane",
+      "personaje": "Yoda / Wullf Yularen / Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Dave Filoni",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Caroline Kermel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Josh Rimes",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Cary Silver",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dave Filoni",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Caroline Kermel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Josh Rimes",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Cary Silver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "George Lucas",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Kevin Kiner",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Mark Evans",
+      "rol": "Scoring Mixer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.5,
+    "imdb": "tt0458290",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=ZLW2jkd6E7g"
+}
