@@ -1,0 +1,66 @@
+{
+  "id_tmdb": 92685,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lE5OYF0axjCVtrxLMetA8i8QpZ8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bGqKaVROpz7pWUNuBxgU8hbcXYn.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/aWmkgysNDp6s2zg0og2iWSraaSH.png",
+  "titulo": "La Casa Búho",
+  "titulo_original": "The Owl House",
+  "fecha_estreno": "2020-01-10",
+  "duracion": "24min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Familia"
+  ],
+  "puntuacion": 8.7,
+  "sinopsis": "Luz, una adolescente humana muy segura de sí misma, se topa accidentalmente con un portal que la lleva a un mágico y nuevo mundo, en el cual se hace amiga de la bruja rebelde Eda y de King, un adorable guerrero en miniatura. A pesar de no tener habilidades mágicas, Luz va tras su sueño de convertirse en bruja.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Sarah-Nicole Robles",
+      "personaje": "Luz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wfk8MRawUfhSpD4v6zwC3EuikIu.jpg"
+    },
+    {
+      "nombre": "Issac Ryan Brown",
+      "personaje": "Gus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xyS9AOh0YZsCEzlLkE5DHQhUhZa.jpg"
+    },
+    {
+      "nombre": "Wendie Malick",
+      "personaje": "Eda (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4yDh5iu4Qyib35aXfo7SStFpnNC.jpg"
+    },
+    {
+      "nombre": "Tati Gabrielle",
+      "personaje": "Willow (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/txZTL1HkPVxliTilbjlwR51VIt6.jpg"
+    },
+    {
+      "nombre": "Mae Whitman",
+      "personaje": "Amity (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y7fg9R5zvqDCZCUt3uwcyOoCOFp.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Kevin Locarro",
+      "rol": "Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.7,
+    "imdb": "tt8050756",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=4O_i4lSTHB4"
+}
