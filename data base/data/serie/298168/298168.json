@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 298168,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xxz63rBBX5MiPzZ7HDoBGfl7zTK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sYFEpsg6bPkMvXIll7bvmhetSza.png",
+  "titulo": "Fragmentos",
+  "titulo_original": "The Shards",
+  "fecha_estreno": "2026-08-05",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 7.067,
+  "sinopsis": "Ambientada en un elitista instituto de Los Ángeles en los años 80, la historia gira alrededor de Bret, un joven aspirante a escritor, muy observador y perspicaz cuya realidad comienza a tambalearse con la llegada de un nuevo alumno misterioso, Robert Mallory. Su incorporación al instituto coincide con el creciente terror provocado por «The Trawler», un asesino en serie que tiene como objetivo a adolescentes en toda la ciudad…",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Igby Rigney",
+      "personaje": "Bret Easton Ellis",
+      "foto": "https://image.tmdb.org/t/p/w500/fky5xTDneWgX6stcDK4QLEFI3Qv.jpg"
+    },
+    {
+      "nombre": "Kaia Gerber",
+      "personaje": "Susan Reynolds",
+      "foto": "https://image.tmdb.org/t/p/w500/wO3y1JaO32GhqTVE7AE3ABkz1o7.jpg"
+    },
+    {
+      "nombre": "Homer Gere",
+      "personaje": "Robert Mallory",
+      "foto": "https://image.tmdb.org/t/p/w500/bZAfJ2GbeCCYGEDDz25hPBdqMHD.jpg"
+    },
+    {
+      "nombre": "Hayes Warner",
+      "personaje": "Debbie Schaffer",
+      "foto": "https://image.tmdb.org/t/p/w500/eXmaXyWCHe7ESdMHRNBilntvdxp.jpg"
+    },
+    {
+      "nombre": "Graham Campbell",
+      "personaje": "Thom Wright",
+      "foto": "https://image.tmdb.org/t/p/w500/km4WcqbKnh6kPZATLQ2D88uvMbx.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ryan Murphy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bret Easton Ellis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Max Winkler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nick Hall",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kathleen McCaffrey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Young",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ryan Murphy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bret Easton Ellis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Max Winkler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nick Hall",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kathleen McCaffrey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Young",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bret Easton Ellis",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Nina Jacobson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Simpson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric Kovtun",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Robertson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nissa Diederich",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tanase Popa",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Uppendahl",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kip Davis Myers",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.067,
+    "imdb": "tt27543562",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=O3S7aKk0ALw"
+}
