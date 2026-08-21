@@ -1,0 +1,60 @@
+{
+  "id_tmdb": 130688,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7v38qWsDRcNevolzuYBMZtnph8L.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/z0RaSf4tAvugf832rIaaGkwJRXF.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2ZubDNTnZ5BNQHipHbTtd4ywSkQ.png",
+  "titulo": "Tibucán",
+  "titulo_original": "Sharkdog",
+  "fecha_estreno": "2021-09-03",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Kids"
+  ],
+  "puntuacion": 8.042,
+  "sinopsis": "Es mitad tiburón, mitad perro. Tiene un gran corazón... ¡y la panza llena de palitos de pescado! Para Tibucán y su fiel amigo Max, ninguna aventura es tonta o imposible.",
+  "pais_origen": "SG",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Sharkdog (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Liam Mitchell",
+      "personaje": "Max (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/o58L5QBDXg9H20aVmemADpW3Qaz.jpg"
+    },
+    {
+      "nombre": "Kari Wahlgren",
+      "personaje": "Mia (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg"
+    },
+    {
+      "nombre": "Judy Alice Lee",
+      "personaje": "Olivia (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2NOl1s40NkgpHJ6WKcIMIgH8fEU.jpg"
+    },
+    {
+      "nombre": "Liz Burnette",
+      "personaje": "Captain Quigley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/41wbqJF9FUYWTB94Amgh0yKZUUS.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.042,
+    "imdb": "tt12211696",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=ewbE8AGsA7I"
+}
