@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 4556,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rRKTV46DKVP8AfdCQDyQMAtJeCl.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/h7GUXPlMq6cX8EAyBcriNhUyHRc.png",
+  "titulo": "Scrubs",
+  "titulo_original": "Scrubs",
+  "fecha_estreno": "2001-10-02",
+  "duracion": "24min",
+  "año": "2001",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 8.114,
+  "sinopsis": "Scrubs es una comedia disparatada que se centra en la vida de unos internos recién llegados a un hospital académico, narrando en clave humorística su entrada en la medicina real. Sus dudas y contradicciones forman parte de su proceso de aprendizaje, así como hacer frente a sus errores y a tratar a los pacientes. El tono satírico de la serie entronca más con el espíritu de la mítica ‘M.A.S.H’ que con las series de hospitales más convencionales como ‘Urgencias’ o ‘Anatomía de Grey’, mostrando una visión desacomplejada e hilarante de los dramas hospitalarios.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Zach Braff",
+      "personaje": "John 'J.D.' Dorian",
+      "foto": "https://image.tmdb.org/t/p/w500/koIHwqE6hWIXuOIDHNADwSuGq6N.jpg"
+    },
+    {
+      "nombre": "Donald Faison",
+      "personaje": "Christopher Turk",
+      "foto": "https://image.tmdb.org/t/p/w500/gNwWP1CHob9Y8fjY69w7EwGxMoz.jpg"
+    },
+    {
+      "nombre": "John C. McGinley",
+      "personaje": "Perry Cox",
+      "foto": "https://image.tmdb.org/t/p/w500/a9Oc7STg83syQh3X22u2TroAifk.jpg"
+    },
+    {
+      "nombre": "Eliza Coupe",
+      "personaje": "Denise Mahoney",
+      "foto": "https://image.tmdb.org/t/p/w500/uscVJ5XW8pA74wPaT29OlIx1Fy5.jpg"
+    },
+    {
+      "nombre": "Kerry Bishé",
+      "personaje": "Lucy Bennett",
+      "foto": "https://image.tmdb.org/t/p/w500/2bUBBFrTgHxAhLS5OxutSrrTPja.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Zach Braff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Corey Nickerson",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Kevin Etten",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Randall Keenan Winston",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Prentice Penny",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Josh Bycel",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Zach Braff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Corey Nickerson",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Kevin Etten",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Randall Keenan Winston",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Prentice Penny",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Josh Bycel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christa Miller",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Liz Newman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Danny Rose",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Bill Lawrence",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Quick",
+      "rol": "Transportation Captain"
+    },
+    {
+      "nombre": "Debby Romano",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Carey Bennett",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Brett Benner",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Peter Nusbaum",
+      "rol": "Supervising Sound Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.114,
+    "imdb": "tt0285403",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=Ku-sCYVHC9Y"
+}
