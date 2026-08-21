@@ -1,0 +1,59 @@
+{
+  "id_tmdb": 75219,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/h050XJoiIobaH6bhj3MAhgilkpJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/roX3IG6dRnodf7mkdT2JWKrtW8H.png",
+  "titulo": "9-1-1",
+  "titulo_original": "9-1-1",
+  "fecha_estreno": "2018-01-03",
+  "duracion": "24min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.22,
+  "sinopsis": "Se centra en las vidas y las carreras de los que reciben las llamadas de emergencia: policías, paramédicos, bomberos, gente que arriesga su vida para salvar a otros.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Angela Bassett",
+      "personaje": "Athena Grant",
+      "foto": "https://image.tmdb.org/t/p/w500/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+    },
+    {
+      "nombre": "Jennifer Love Hewitt",
+      "personaje": "Maddie Buckley",
+      "foto": "https://image.tmdb.org/t/p/w500/kRySMLtckE7tl6136y0yzFYpUfE.jpg"
+    },
+    {
+      "nombre": "Oliver Stark",
+      "personaje": "Evan 'Buck' Buckley",
+      "foto": "https://image.tmdb.org/t/p/w500/5XrJkxXtqoy1fnur95MTDPY8K3p.jpg"
+    },
+    {
+      "nombre": "Aisha Hinds",
+      "personaje": "Henrietta 'Hen' Wilson",
+      "foto": "https://image.tmdb.org/t/p/w500/zk59cqqDmJMFjnjYSC2xOqwp91r.jpg"
+    },
+    {
+      "nombre": "Kenneth Choi",
+      "personaje": "Howard 'Chimney' Han",
+      "foto": "https://image.tmdb.org/t/p/w500/3606Uo4fiUtV9Y6eOwpM48qpSgJ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.22,
+    "imdb": "tt7235466",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fox",
+  "trailer": "https://www.youtube.com/watch?v=FNiRCqENgPA"
+}
