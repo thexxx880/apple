@@ -1,0 +1,83 @@
+{
+  "id_tmdb": 135799,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/n35vysDI3z4wsHSpElErNXKsAMX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/w12daIYCQnZJqCr9Eyha8QE6nUm.jpg",
+  "logo": "",
+  "titulo": "Flow navideño",
+  "titulo_original": "Christmas Flow",
+  "fecha_estreno": "2021-11-17",
+  "duracion": "52min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 6.388,
+  "sinopsis": "",
+  "pais_origen": "FR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Shirine Boutella",
+      "personaje": "Lila",
+      "foto": "https://image.tmdb.org/t/p/w500/4qBT877sIjMLycDBmahEpL1nwEk.jpg"
+    },
+    {
+      "nombre": "Tayc",
+      "personaje": "Marcus",
+      "foto": "https://image.tmdb.org/t/p/w500/hIMCy1s7sR7lDocb9aXFlYlHupz.jpg"
+    },
+    {
+      "nombre": "Marion Séclin",
+      "personaje": "Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/maAVTMKFfwtn5FRUcpKDiT8aQEu.jpg"
+    },
+    {
+      "nombre": "Camille Lou",
+      "personaje": "Mel",
+      "foto": "https://image.tmdb.org/t/p/w500/nKYywaCPmKxDEFwJhOyKfOxO8XK.jpg"
+    },
+    {
+      "nombre": "Aloïse Sauvage",
+      "personaje": "Jeanne",
+      "foto": "https://image.tmdb.org/t/p/w500/p4hMEhziL0hCQShOZ2d8zK1y2tH.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Nadège Loiseau",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Henri Debeurme",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nadège Loiseau",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Henri Debeurme",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Henri Debeurme",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Youssef Akdim",
+      "rol": "Music"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.388,
+    "imdb": "tt15340790",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Navidad, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=OlzdkZ3aVUk"
+}
