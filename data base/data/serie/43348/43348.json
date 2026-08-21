@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 43348,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jZqm7HFuxfH9P0LFjQZ8nzrCUHP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1QcHCReXoEIV7WKGaPSUk6ZfK17.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/9shIjrycCIquMazOpuyQHYtTPkH.png",
+  "titulo": "Pablo Escobar: El Patrón del Mal",
+  "titulo_original": "Pablo Escobar: El Patrón del Mal",
+  "fecha_estreno": "2012-05-28",
+  "duracion": "45min",
+  "año": "2012",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 7.65,
+  "sinopsis": "Esta fascinante serie narra la vida del infame Pablo Escobar, desde sus días como ratero hasta convertirse en el jefe de un imperio del narcotráfico.",
+  "pais_origen": "CO",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Andrés Parra",
+      "personaje": "Pablo Emilio Escobar Gaviria",
+      "foto": "https://image.tmdb.org/t/p/w500/4VLToLmpMaFcgIuuYCyyV6tWVfG.jpg"
+    },
+    {
+      "nombre": "Christian Tappan",
+      "personaje": "Gonzalo Gaviria",
+      "foto": "https://image.tmdb.org/t/p/w500/AsgxuVkpzSE4uC4iQCS4WNMQhEC.jpg"
+    },
+    {
+      "nombre": "Cecilia Navia",
+      "personaje": "Patricia de Escobar \"Paty\"",
+      "foto": "https://image.tmdb.org/t/p/w500/lpulWZp3ipBVhBUe6ZzizfuW2gH.jpg"
+    },
+    {
+      "nombre": "Angie Cepeda",
+      "personaje": "Regina Parejo",
+      "foto": "https://image.tmdb.org/t/p/w500/azShCjdzK93jcBBOJSs5lFUd7CH.jpg"
+    },
+    {
+      "nombre": "Vicky Hernández",
+      "personaje": "Doña Enelia de Escobar",
+      "foto": "https://image.tmdb.org/t/p/w500/lYqzCOurEAhVGefN5yDVbWAvvC7.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Carlos Moreno",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Laura Mora",
+      "rol": "Director"
+    },
+    {
+      "nombre": "César Augusto Rodríguez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Angélica Guerra",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amparo Gutiérrez",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Diego F. Ramírez",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Carlos Moreno",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Laura Mora",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Camilo Cano",
+      "rol": "Idea"
+    },
+    {
+      "nombre": "Juan Camilo Ferrand",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Alonso Salazar",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Juana Uribe",
+      "rol": "Idea"
+    },
+    {
+      "nombre": "César Augusto Rodríguez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nathalia Chaparro Vega",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Ernesto Escamilla",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Angélica Guerra",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amparo Gutiérrez",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Diego F. Ramírez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Juana Uribe",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Camilo Cano",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alfredo Ruiz",
+      "rol": "Director of Photography"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.65,
+    "imdb": "tt2187850",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=Fq5lrpOWy04"
+}
