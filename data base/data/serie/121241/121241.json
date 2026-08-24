@@ -1,0 +1,66 @@
+{
+  "id_tmdb": 121241,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xUmmVJam69gM03WtE0jhVYuriy4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gDSrDsX6xPyrUILEHdDNKJbrcKv.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/mz6eB9F1Jyf88FFYGF4WkTB0Q3s.png",
+  "titulo": "La chica de Oslo",
+  "titulo_original": "Bortført",
+  "fecha_estreno": "2021-04-11",
+  "duracion": "33min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 0,
+  "sinopsis": "Cuando secuestran a su hija, una diplomática noruega viaja a Oriente Medio y aprovecha su relación con viejas amistades —y un gran secreto— para intentar liberarla.",
+  "pais_origen": "NO",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Shaniaz Hama Ali",
+      "personaje": "Selma",
+      "foto": "https://image.tmdb.org/t/p/w500/tUeSusBlV5KRHqt4jT524pPFzy1.jpg"
+    },
+    {
+      "nombre": "Amitay Yaish Ben Ousilio",
+      "personaje": "Chaim - Defense Minister",
+      "foto": ""
+    },
+    {
+      "nombre": "Anneke von der Lippe",
+      "personaje": "Alex",
+      "foto": "https://image.tmdb.org/t/p/w500/wAvLqJqsBAVMLanBTfvs4AJm5nL.jpg"
+    },
+    {
+      "nombre": "עמוס תמם",
+      "personaje": "Arik",
+      "foto": "https://image.tmdb.org/t/p/w500/vgS0htfAnL7t9tMY0Gm7XPlraN2.jpg"
+    },
+    {
+      "nombre": "Raida Adon",
+      "personaje": "Layla",
+      "foto": "https://image.tmdb.org/t/p/w500/dkV0zO786GxB9KGtTnuo7gJYY3K.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Ronit Weiss-Berkowitz",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Kyrre Holm Tønne Johannessen",
+      "rol": "Creator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 0,
+    "imdb": "tt13968792",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": ""
+}
