@@ -1,0 +1,133 @@
+{
+  "id_tmdb": 99966,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8jClvC5U756Uhd8zDYek50ihO49.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/A5aVsr2xszwkDqrbqixFw3gAzqm.png",
+  "titulo": "Estamos Muertos",
+  "titulo_original": "지금 우리 학교는",
+  "fecha_estreno": "2022-01-28",
+  "duracion": "65min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.283,
+  "sinopsis": "Luego de que un virus zombi se propaga por su escuela, un grupo de jóvenes atrapados debe encontrar una salida o acabar infectado.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "박지후",
+      "personaje": "Nam On-jo",
+      "foto": "https://image.tmdb.org/t/p/w500/bZy15WXLhOflOgtQpICbgeeqzm6.jpg"
+    },
+    {
+      "nombre": "윤찬영",
+      "personaje": "Lee Cheong-san",
+      "foto": "https://image.tmdb.org/t/p/w500/7Al19wuV9XnjIiiPlsor3MK84Kx.jpg"
+    },
+    {
+      "nombre": "조이현",
+      "personaje": "Choi Nam-ra",
+      "foto": "https://image.tmdb.org/t/p/w500/gXN9DiFTwri92HkKSjfbMyYEELR.jpg"
+    },
+    {
+      "nombre": "로몬",
+      "personaje": "Lee Su-hyeok",
+      "foto": "https://image.tmdb.org/t/p/w500/2MrtBPoE4hKrBMohQ1rxOYl2ABX.jpg"
+    },
+    {
+      "nombre": "유인수",
+      "personaje": "Yoon Gwi-nam",
+      "foto": "https://image.tmdb.org/t/p/w500/9acPcttWXPT2UwTjlxv5lHVscU3.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ham Yeong-hoon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Son Ki-won",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Park Cheol-su",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "김창섭",
+      "rol": "Sound Supervisor"
+    },
+    {
+      "nombre": "Yang Hee-hwa",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "신민경",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Park Se-seung",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "모그",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Shin Seung-hoon",
+      "rol": "Lighting Director"
+    },
+    {
+      "nombre": "조태희",
+      "rol": "Makeup & Hair"
+    },
+    {
+      "nombre": "오세영",
+      "rol": "Martial Arts Choreographer"
+    },
+    {
+      "nombre": "Lee Tae-ho",
+      "rol": "Martial Arts Choreographer"
+    },
+    {
+      "nombre": "Ham Yeong-hoon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Son Ki-won",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Park Cheol-su",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "조화성",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "고동훈",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "박진호",
+      "rol": "Digital Intermediate"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.283,
+    "imdb": "tt14169960",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=IN5TD4VRcSM"
+}
