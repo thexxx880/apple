@@ -1,0 +1,89 @@
+{
+  "id_tmdb": 77240,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5NNdB1DY9oIYbzK3mde1X8vptFW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dSvRkislUYBu8jWpqRpUsfNFNcr.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4qmshmHHST6onmmwOm9M0QGIptU.png",
+  "titulo": "Capitán Tsubasa",
+  "titulo_original": "キャプテン翼",
+  "fecha_estreno": "2018-04-03",
+  "duracion": "24min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 8.197,
+  "sinopsis": "La historia del capitán de fútbol Tsubasa Ōzora y su relación con sus compañeros de equipo, rivalidad con sus oponentes, entrenamiento, competencia y la acción y el resultado de cada partido de fútbol.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "三瓶由布子",
+      "personaje": "Tsubasa Oozora (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gms4G7ZRIQYXI9zsorkQr8aHnOU.jpg"
+    },
+    {
+      "nombre": "鈴村健一",
+      "personaje": "Genzou Wakabayashi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vFqjmIjxfgBkh3ZmUin7QETV0sy.jpg"
+    },
+    {
+      "nombre": "福原綾香",
+      "personaje": "Taro Misaki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ldfOv94R1qdPO9404cfu6bogqmj.jpg"
+    },
+    {
+      "nombre": "田村睦心",
+      "personaje": "Ryo Ishizaki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uvbBIRiBK6GDLEESiYSFWOVlaE4.jpg"
+    },
+    {
+      "nombre": "佐藤拓也",
+      "personaje": "Kojirou Hyuga (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xZgoTs6DOSneHkoOWL751pQzLru.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "薄井勝太郎",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "山川典夫",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "薄井勝太郎",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "山川典夫",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "渡辺はじめ",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "松尾早人",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "高橋陽一",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.197,
+    "imdb": "tt7784442",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=E5FRxUIA8AA"
+}
