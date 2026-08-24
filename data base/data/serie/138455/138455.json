@@ -1,0 +1,111 @@
+{
+  "id_tmdb": 138455,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/4K4seZBQmGxS4swPpTAThUN226.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kD65OcLyMhvGJShWKqe4ILzpBOo.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/baP7cWOtZfS9YhhAEbsJxU34zqy.png",
+  "titulo": "Atracción fatal",
+  "titulo_original": "Fatal Attraction",
+  "fecha_estreno": "2023-04-30",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 6.117,
+  "sinopsis": "ATRACCIÓN FATAL es una recreación del clásico thriller psicosexual y un hito cultural de los años 80 desde la perspectiva de los privilegios, los trastornos de la personalidad, la dinámica familiar y el asesinato.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lizzy Caplan",
+      "personaje": "Alex Forrest",
+      "foto": "https://image.tmdb.org/t/p/w500/cHs9pPpjcEMpWrGmrAYAn0QOE78.jpg"
+    },
+    {
+      "nombre": "Joshua Jackson",
+      "personaje": "Dan Gallagher",
+      "foto": "https://image.tmdb.org/t/p/w500/mH2a5YFd8J7upjjWwEzM75vitA2.jpg"
+    },
+    {
+      "nombre": "Amanda Peet",
+      "personaje": "Beth Gallagher",
+      "foto": "https://image.tmdb.org/t/p/w500/5TfyCj0X9ftKO11FN057P05s78C.jpg"
+    },
+    {
+      "nombre": "Alyssa Jirrels",
+      "personaje": "Ellen Gallagher",
+      "foto": "https://image.tmdb.org/t/p/w500/x9VVL5yFEs3RWUvjkOsGFhuZWEJ.jpg"
+    },
+    {
+      "nombre": "Toby Huss",
+      "personaje": "Mike Gerard",
+      "foto": "https://image.tmdb.org/t/p/w500/dUqygHlDDnOBZLnE51MPJHkHWvQ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Alexandra Cunningham",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin J. Hynes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Darryl Frank",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Justin Falvey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sherry Lansing",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alexandra Cunningham",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin J. Hynes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Darryl Frank",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Justin Falvey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sherry Lansing",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kathy Jarvis",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "James Dearden",
+      "rol": "Original Film Writer"
+    },
+    {
+      "nombre": "Brandon Thomas",
+      "rol": "Casting Assistant"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.117,
+    "imdb": "tt14351748",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount",
+  "trailer": "https://www.youtube.com/watch?v=exRezFs8IdY"
+}
