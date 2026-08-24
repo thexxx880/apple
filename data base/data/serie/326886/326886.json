@@ -1,0 +1,42 @@
+{
+  "id_tmdb": 326886,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/aqyDVbCuvVe0KK1cI7PQDtF3PkG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8hZdO0BSPSvi1XoQ7titEkyKCms.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/5m6wAuWTSQ59U3mBtDhfZvmathe.png",
+  "titulo": "贵人多旺事",
+  "titulo_original": "贵人多旺事",
+  "fecha_estreno": "2026-07-03",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 0,
+  "sinopsis": "",
+  "pais_origen": "CN",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "卢洋洋",
+      "personaje": "Li Qingqing",
+      "foto": "https://image.tmdb.org/t/p/w500/9PjVqBvv7Zhhy5TmEwHxzJpjRjD.jpg"
+    },
+    {
+      "nombre": "潘毅鸿",
+      "personaje": "Zheng Yuanhe",
+      "foto": "https://image.tmdb.org/t/p/w500/5lKTCBZkEMSOTenV1N0aoNTVegZ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 0,
+    "imdb": "",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": ""
+}
