@@ -1,0 +1,85 @@
+{
+  "id_tmdb": 154822,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/aZZKkmhgkN6AfmK7m7KrJRI1Uc5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/sP0R5F8fkVM0eHcRFXr012rzNAM.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ufuoEkCswixbqmhFvLX3L6Yirdq.png",
+  "titulo": "Si las estrellas hablaran",
+  "titulo_original": "별들에게 물어봐",
+  "fecha_estreno": "2025-01-04",
+  "duracion": "70min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "puntuacion": 7.418,
+  "sinopsis": "Gong Ryong es obstetra y futuro yerno del grupo chaebol más grande, MZ. Tiene una misión secreta de la que no puede contarle a nadie. Para su misión secreta, paga una gran suma de dinero para viajar a la estación espacial como turista espacial. En la estación espacial está estacionada Eve Kim, una científica espacial de élite y actualmente se encuentra en su primera misión a una estación espacial como comandante. Es una perfeccionista que sigue estrictamente las reglas y no tolera ni un solo error en un área donde los peligros acechan por todas partes. Los miembros de su tripulación incluyen al científico investigador de la mosca de la fruta Kang Gang Soo, que es el segundo hijo de una familia que dirige una empresa financiera global.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lee Min-ho",
+      "personaje": "Gong Ryong",
+      "foto": "https://image.tmdb.org/t/p/w500/iqopuz6cKuRZRUPZQrj7lFZcWWb.jpg"
+    },
+    {
+      "nombre": "공효진",
+      "personaje": "Eve Kim",
+      "foto": "https://image.tmdb.org/t/p/w500/u2ZDHJOHRkgzY0dpaORitoZjF4F.jpg"
+    },
+    {
+      "nombre": "오정세",
+      "personaje": "Kang Kang-su",
+      "foto": "https://image.tmdb.org/t/p/w500/oIqRAdI5e777odhOJl6e4Jc9ADj.jpg"
+    },
+    {
+      "nombre": "한지은",
+      "personaje": "Choi Go-eun",
+      "foto": "https://image.tmdb.org/t/p/w500/zIDcvAITf82sEDqfAcDfHDybEnM.jpg"
+    },
+    {
+      "nombre": "김주헌",
+      "personaje": "Park Dong-ah",
+      "foto": "https://image.tmdb.org/t/p/w500/xkj3d7zNoHW2veJboV11WemxMbi.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "박신우",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Seo Sook-hyang",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "박신우",
+      "rol": "Director"
+    },
+    {
+      "nombre": "진",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Seungkwan",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "이수현",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.418,
+    "imdb": "tt26215550",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=ASd_GLr3ZFY"
+}
