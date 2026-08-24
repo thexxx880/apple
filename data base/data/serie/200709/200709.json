@@ -1,0 +1,116 @@
+{
+  "id_tmdb": 200709,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lI3Yfv7TsYWzBYTnJVzento1Q2H.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8s3nIdfLe0M3yadLZZjHGyZjDJL.png",
+  "titulo": "Un héroe débil",
+  "titulo_original": "약한영웅",
+  "fecha_estreno": "2022-11-18",
+  "duracion": "84min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "puntuacion": 8.694,
+  "sinopsis": "Yeon Shi Eun, un estudiante modelo con calificaciones que pertenecen al 1% superior de la escuela. Se ve débil pero lucha contra numerosas violencias dentro y fuera de la escuela. Representa a un chico naturalmente débil en términos de apariencia, dominando una escuela parecida a una jungla usando su cerebro, poder analítico y herramientas.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "박지훈",
+      "personaje": "Yeon Si-eun",
+      "foto": "https://image.tmdb.org/t/p/w500/zbNZZ8o6qF3gaDndsq76h19Pe33.jpg"
+    },
+    {
+      "nombre": "최현욱",
+      "personaje": "Ahn Su-ho",
+      "foto": "https://image.tmdb.org/t/p/w500/oHG5nnXAzkNBs0xEQlbwOaIFYPQ.jpg"
+    },
+    {
+      "nombre": "홍경",
+      "personaje": "Oh Beom-seok",
+      "foto": "https://image.tmdb.org/t/p/w500/wRXum47BB0ciPGINjCvT36rDuQE.jpg"
+    },
+    {
+      "nombre": "려운",
+      "personaje": "Park Hu-min",
+      "foto": "https://image.tmdb.org/t/p/w500/y2QVVNdV0PqWfvhuPT0hvdWOouP.jpg"
+    },
+    {
+      "nombre": "최민영",
+      "personaje": "Seo Jun-tae",
+      "foto": "https://image.tmdb.org/t/p/w500/pPtfIxmzGOlIpls6atxaoTBxDiR.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "박단희",
+      "rol": "Director"
+    },
+    {
+      "nombre": "유수민",
+      "rol": "Director"
+    },
+    {
+      "nombre": "古天樂",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "陳可辛",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "한준희",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "류현",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "류현",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "조승연",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "박단희",
+      "rol": "Director"
+    },
+    {
+      "nombre": "유수민",
+      "rol": "Director"
+    },
+    {
+      "nombre": "유수민",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "프라이머리",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "古天樂",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "陳可辛",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.694,
+    "imdb": "tt20234568",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=GDTz8sLK3_Q"
+}
