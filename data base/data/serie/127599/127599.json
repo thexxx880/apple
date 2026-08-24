@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 127599,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/9j4Tl5XbRaaiHEXpkFUF4WCfIlt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/1LtZKtOSgiPclfbNB66iK0tl3h8.png",
+  "titulo": "Super Crooks",
+  "titulo_original": "スーパー・クルックス",
+  "fecha_estreno": "2021-11-25",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Crimen",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.098,
+  "sinopsis": "Johnny Bolt recluta a un variado grupo de supervillanos para un último golpe que tiene como objetivo a un despiadado jefe criminal. ¿Qué podría salir mal?",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "津田健次郎",
+      "personaje": "Johnny Bolt (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+    },
+    {
+      "nombre": "坂本真綾",
+      "personaje": "Kasey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hPz2oEQui8a4q9aXdBugQf93ONq.jpg"
+    },
+    {
+      "nombre": "木村靖司",
+      "personaje": "Carmine (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wZFTrAeUIbZDvIHGk7B4cW551NM.jpg"
+    },
+    {
+      "nombre": "家中宏",
+      "personaje": "Christopher Matts (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eoqG5eX6TmTzaQLgl2MUkek6Jl.jpg"
+    },
+    {
+      "nombre": "ピエール瀧",
+      "personaje": "The Gladiator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nIgFcU0smYH7FdzUt96d685uU1h.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "許瑠伊",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "南雅彦",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Millar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "大藪芳広",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "三谷高史",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Stanislas Brunet",
+      "rol": "Conceptual Design"
+    },
+    {
+      "nombre": "堀元宣",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "佐藤大",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "Taprikk Sweezee",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "テイ・トウワ",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "安東容太",
+      "rol": "3D Director"
+    },
+    {
+      "nombre": "許瑠伊",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "坂本久美子",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "南雅彦",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "神林剛",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "中山しほ子",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "三井友和",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "Mark Millar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "大藪芳広",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.098,
+    "imdb": "tt14272628",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=qOCFaeaJVDQ"
+}
