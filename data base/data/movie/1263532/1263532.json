@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1263532,
+  "poster": "https://image.tmdb.org/t/p/w500/6Qwd9xKb1TnO7juMlZqHNiiJLWm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1WWukZCoavYEofNVRHJqE4t1urW.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uGOWwIkZlWexe3AvcnKFVMB80Lr.png",
+  "titulo": "Carrera de bestias",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.82,
+  "año": "2026",
+  "duracion": "2h 4min",
+  "edad_minima": 13,
+  "sinopsis": "En un Río de Janeiro futuro, un joven líder de la resistencia debe entrar en una competencia mortal inspirada en el parkour para salvar la vida de su hermana.",
+  "fecha_estreno": "2026-03-17",
+  "titulo_original": "Corrida dos Bichos",
+  "pais_origen": "Brazil",
+  "reparto": [
+    {
+      "nombre": "Matheus Abreu",
+      "personaje": "Mano",
+      "foto": "https://image.tmdb.org/t/p/w500/puXvuXPGn0xAZhvbszAU7lFS6AA.jpg"
+    },
+    {
+      "nombre": "Rodrigo Santoro",
+      "personaje": "Abu",
+      "foto": "https://image.tmdb.org/t/p/w500/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+    },
+    {
+      "nombre": "Isis Valverde",
+      "personaje": "Nadine",
+      "foto": "https://image.tmdb.org/t/p/w500/3QYulTU0dLFvp0zetmaBcXS4RK7.jpg"
+    },
+    {
+      "nombre": "Thainá Duarte",
+      "personaje": "Dalva",
+      "foto": "https://image.tmdb.org/t/p/w500/jAieEyQUn5rPE6xaCmntaSGk52K.jpg"
+    },
+    {
+      "nombre": "Bruno Gagliasso",
+      "personaje": "Leon",
+      "foto": "https://image.tmdb.org/t/p/w500/6TDn2PK9mF2uUKI64rcvq42Yf5R.jpg"
+    },
+    {
+      "nombre": "Seu Jorge",
+      "personaje": "Baco",
+      "foto": "https://image.tmdb.org/t/p/w500/p8VUk0ZSzfAF9uWjWg2jEVpPtTy.jpg"
+    },
+    {
+      "nombre": "Silvero Pereira",
+      "personaje": "Sinatra",
+      "foto": "https://image.tmdb.org/t/p/w500/oqfM8pMF1UmDfW0BTfxzW1BiEIm.jpg"
+    },
+    {
+      "nombre": "João Guilherme Ávila",
+      "personaje": "Jonas",
+      "foto": "https://image.tmdb.org/t/p/w500/nqdbtum0AgOflNV4JTZsWem89ZB.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Fernando Meirelles",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rodrigo Pesavento",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ernesto Solis",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rodrigo Lages",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ernesto Solis",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Andrea Barata Ribeiro",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eva Klaver",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Marco Abujamra",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Cristina Abi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gabriela Monnerat",
+      "rol": "Costume Assistant"
+    },
+    {
+      "nombre": "Marco Abujamra",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Ernesto Solis",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Guto Gontijo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gustavo Hadba",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Lucas Gonzaga",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Tulé Peak",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Alessandro Laroca",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Eduardo Virmond Lima",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Antonio Pinto",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Patricia Faria",
+      "rol": "Casting Director"
+    }
+  ],
+  "director": "Fernando Meirelles",
+  "valoraciones": {
+    "tmdb": 6.82,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "O2 Filmes",
+  "enlace_video": "https://vimeos.net/embed-9a4j4a67o99d.html",
+  "trailer": "https://www.youtube.com/watch?v=JVVqUrIp05U"
+}
