@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 1621552,
+  "poster": "https://image.tmdb.org/t/p/w500/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/T5e5ACf1u6a4iepDg0xUHLIsHE.png",
+  "titulo": "La captura",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.783,
+  "año": "2026",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Dos policías mexicanos, durante un control rutinario en las últimas horas de su turno, detienen un coche robado y se encuentran cara a cara con uno de los delincuentes más peligrosos del mundo.",
+  "fecha_estreno": "2026-08-21",
+  "titulo_original": "La captura",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Alfonso Herrera",
+      "personaje": "Carmona",
+      "foto": "https://image.tmdb.org/t/p/w500/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg"
+    },
+    {
+      "nombre": "Noé Hernández",
+      "personaje": "Rosales",
+      "foto": "https://image.tmdb.org/t/p/w500/l3NXUy1x5buKHawSw4xye5JW8pl.jpg"
+    },
+    {
+      "nombre": "Héctor Kotsifakis",
+      "personaje": "El Chapo Guzmán",
+      "foto": "https://image.tmdb.org/t/p/w500/IE5KgMI1bE0LcloTHNVsk3kldk.jpg"
+    },
+    {
+      "nombre": "Juan Pablo Cruz García",
+      "personaje": "Cholo Iván",
+      "foto": null
+    },
+    {
+      "nombre": "Paola Fernández",
+      "personaje": "Isaura",
+      "foto": "https://image.tmdb.org/t/p/w500/kRfjEVZULgJNf8XC5PJETkoc7bx.jpg"
+    },
+    {
+      "nombre": "Antonio Fortier",
+      "personaje": "Barraza",
+      "foto": null
+    },
+    {
+      "nombre": "Allan Durell",
+      "personaje": "Ortega",
+      "foto": null
+    },
+    {
+      "nombre": "Gerardo Trejoluna",
+      "personaje": "Valladares",
+      "foto": "https://image.tmdb.org/t/p/w500/fJzcjj3JrARh3iQEx5lMbCEfRKq.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chava Cartas",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bernardo Esquinca",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Francisco González Compeán",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sebastian Jurado",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ximena Basaguren",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carlos Bravo",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Héctor de Mauleón",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Jorge Eduardo Ramírez",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Víctor Hernández Stumpfhauser",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Beto Casillas",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Alberto J. Baixauli",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sam Baixauli",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Emilie Moran",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Tato Cartas",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mariana Dizpen",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Omar Vázquez",
+      "rol": "Set Decoration"
+    }
+  ],
+  "director": "Chava Cartas",
+  "valoraciones": {
+    "tmdb": 6.783,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Draco Films",
+  "enlace_video": "https://vimeos.net/embed-qkrrwrtl3t1i.html",
+  "trailer": "https://www.youtube.com/watch?v=Rk0efhpa-5Y"
+}
