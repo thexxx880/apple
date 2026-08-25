@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 364689,
+  "poster": "https://image.tmdb.org/t/p/w500/iAW9t4RNN5vAXbE2i5eRSe0z0oS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sTOhZruocNubL0HxjvdouwCEL9I.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wHhnBsVmMck5ESFB6XxOeNWEOn1.png",
+  "titulo": "Olé, el viaje de Ferdinand",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.208,
+  "año": "2017",
+  "duracion": "1h 48min",
+  "edad_minima": 13,
+  "sinopsis": "Después de que Ferdinand, un toro de gran corazón, es confundido con una bestia peligrosa, es capturado y apartado de su hogar. Decidido a volver con su familia, reúne a un equipo de inadaptados en la aventura definitiva.",
+  "fecha_estreno": "2017-12-09",
+  "titulo_original": "Ferdinand",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "John Cena",
+      "personaje": "Ferdinand (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+    },
+    {
+      "nombre": "Kate McKinnon",
+      "personaje": "Lupe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2cNetzianFcxPQbyOQnkAIkKUZE.jpg"
+    },
+    {
+      "nombre": "Anthony Anderson",
+      "personaje": "Bones (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
+    },
+    {
+      "nombre": "Bobby Cannavale",
+      "personaje": "Valiente / Valiente's Father (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wlp20ggyNI7x0xGUtTjC2Xl2XmD.jpg"
+    },
+    {
+      "nombre": "Peyton Manning",
+      "personaje": "Guapo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/raqIgHYZhf7ibLDEeAVpLrWtJI8.jpg"
+    },
+    {
+      "nombre": "Gina Rodriguez",
+      "personaje": "Una (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2Mw6L8gpAhnXAgmJZkz85YxVmOt.jpg"
+    },
+    {
+      "nombre": "Miguel Ángel Silvestre",
+      "personaje": "El Primero (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ft14HqAFsvk0o2m5rOXrfYUI4KA.jpg"
+    },
+    {
+      "nombre": "David Tennant",
+      "personaje": "Angus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mGfrEMbxjUWjek1WDSq1j4TULIR.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Carlos Saldanha",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lori Forte",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bruce Anderson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert L. Baird",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lisa Marie Stetler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Davis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tim Federle",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Brad Copeland",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christian Kaplan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Harry Hitner",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Renato Falcão",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Thomas Cardone",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "John Powell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tansal Arnas",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Louaye Moulayess",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Lisa Allen",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Paul Mounsey",
+      "rol": "Additional Music"
+    },
+    {
+      "nombre": "Brock Boyts",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Elena Ortego",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Julen Santiago",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Carlos Saldanha",
+  "valoraciones": {
+    "tmdb": 7.208,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Blue Sky Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/fa42g59xz94o",
+  "trailer": "https://www.youtube.com/watch?v=0Iiq-9fhwa0"
+}
