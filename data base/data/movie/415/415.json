@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 415,
+  "poster": "https://image.tmdb.org/t/p/w500/gJAvyXHdIjeKHS07Dlim7LETBEK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kEuQWHte2erRpAICrYqkAZaZAAY.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/euCpl7dqBmrFYcsDTzds8DBm98i.png",
+  "titulo": "Batman & Robin",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Aventura"
+  ],
+  "calificacion": "A",
+  "puntuacion": 4.393,
+  "año": "1997",
+  "duracion": "2h 5min",
+  "edad_minima": 13,
+  "sinopsis": "Los experimentos del doctor Victor Fries, mediante los cuales busca conservar criogénicamente la vida de su esposa, originan un error fatal que lo convierte en el señor Frío, un villano que necesita mantener su cuerpo a temperaturas glaciales y que intentará congelar a todos los habitantes de Ciudad Gótica. Además, en el transcurso de un experimento, la tímida botánica Pamela Isley se transforma en la terrible Hiedra Venenosa, que tratará de asesinar a todos los seres humanos para que las plantas recuperen su hegemonía sobre la Tierra. Batman y su compañero Robin deberán enfrentarse a ellos para hacer fracasar sus siniestros planes.",
+  "fecha_estreno": "1997-06-20",
+  "titulo_original": "Batman & Robin",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "George Clooney",
+      "personaje": "Batman / Bruce Wayne",
+      "foto": "https://image.tmdb.org/t/p/w500/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
+    },
+    {
+      "nombre": "Chris O'Donnell",
+      "personaje": "Robin / Dick Grayson",
+      "foto": "https://image.tmdb.org/t/p/w500/KvWBFg1aMBdu4X2PihXYL8xcFD.jpg"
+    },
+    {
+      "nombre": "Arnold Schwarzenegger",
+      "personaje": "Mr. Freeze / Dr. Victor Fries",
+      "foto": "https://image.tmdb.org/t/p/w500/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
+    },
+    {
+      "nombre": "Uma Thurman",
+      "personaje": "Poison Ivy / Dr. Pamela Isley",
+      "foto": "https://image.tmdb.org/t/p/w500/hlYG0MC6im0MHNq1xixxVilfwyR.jpg"
+    },
+    {
+      "nombre": "Alicia Silverstone",
+      "personaje": "Batgirl / Barbara Wilson",
+      "foto": "https://image.tmdb.org/t/p/w500/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+    },
+    {
+      "nombre": "Michael Gough",
+      "personaje": "Alfred Pennyworth",
+      "foto": "https://image.tmdb.org/t/p/w500/yoxoYUnySjL0Ccyle91AkPTxXbC.jpg"
+    },
+    {
+      "nombre": "Pat Hingle",
+      "personaje": "Commissioner Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/pSvLdAxEwluDOee7H1FV4yiq3a2.jpg"
+    },
+    {
+      "nombre": "John Glover",
+      "personaje": "Dr. Jason Woodrue",
+      "foto": "https://image.tmdb.org/t/p/w500/aPmq20MXqFALrUxaaJoC2Xonumo.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Joel Schumacher",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Peter Macgregor-Scott",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Akiva Goldsman",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Elliot Goldenthal",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Stephen Goldblatt",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mark Stevens",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Dennis Virkler",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mali Finn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Barbara Ling",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Benjamin Melniker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Uslan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ve Neill",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Billy D. Lucas",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Danny Epper",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Joel Schumacher",
+  "valoraciones": {
+    "tmdb": 4.393,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/3e9aw53wkrjd",
+  "trailer": "https://www.youtube.com/watch?v=Zc7sjDHW2KY"
+}
