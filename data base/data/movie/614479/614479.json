@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 614479,
+  "poster": "https://image.tmdb.org/t/p/w500/im4yhz8A9LvXgu1nBPSIBtaBIf6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/i2GVEvltEu3BXn5crBSxgKuTaca.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7ppeDNEOLuLl8lHlnTfpFONdA3W.png",
+  "titulo": "La noche del demonio: La puerta roja",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.5,
+  "año": "2023",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "Una familia se ve atrapada en una espiral de terror cuando descubren una misteriosa puerta en su nueva casa. Al abrirla, liberan fuerzas oscuras que amenazan con consumirlos, enfrentándolos a un mal más allá de su comprensión y poniendo en peligro sus vidas y su cordura.",
+  "fecha_estreno": "2023-07-05",
+  "titulo_original": "Insidious: The Red Door",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ty Simpkins",
+      "personaje": "Dalton Lambert",
+      "foto": "https://image.tmdb.org/t/p/w500/8FyJcMFmPdCSfz2Zc5ZcAKrIorj.jpg"
+    },
+    {
+      "nombre": "Patrick Wilson",
+      "personaje": "Josh Lambert",
+      "foto": "https://image.tmdb.org/t/p/w500/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+    },
+    {
+      "nombre": "Sinclair Daniel",
+      "personaje": "Chris Winslow",
+      "foto": "https://image.tmdb.org/t/p/w500/xwozf5a01naJlGo8Arsp7oudhkl.jpg"
+    },
+    {
+      "nombre": "Hiam Abbass",
+      "personaje": "Professor Armagan",
+      "foto": "https://image.tmdb.org/t/p/w500/2cz9mO3qhUQeGdVHzWkS2Pwx94l.jpg"
+    },
+    {
+      "nombre": "Andrew Astor",
+      "personaje": "Foster Lambert",
+      "foto": "https://image.tmdb.org/t/p/w500/aCCCImK8mThTIWgF3d67V4gEt8p.jpg"
+    },
+    {
+      "nombre": "David Call",
+      "personaje": "Smash Face / Ben Burton",
+      "foto": "https://image.tmdb.org/t/p/w500/lcfAlaiVRjpmb5OXtrso0eH8br.jpg"
+    },
+    {
+      "nombre": "Steve Coulter",
+      "personaje": "Carl",
+      "foto": "https://image.tmdb.org/t/p/w500/ng01ren9pCYPIsIwRqC1xHzD5IG.jpg"
+    },
+    {
+      "nombre": "Peter Dager",
+      "personaje": "Nick the Dick",
+      "foto": "https://image.tmdb.org/t/p/w500/iYo3oUqaWcrQizMFPyWJtlW8xrT.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jason Blum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patrick Wilson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Oren Peli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Leigh Whannell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Leigh Whannell",
+      "rol": "Story"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Scott Teems",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Scott Teems",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Riley Flanagan",
+      "rol": "Second Second Assistant Director"
+    },
+    {
+      "nombre": "Daniel Hargrave",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Stephen Harrison",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Leigh Whannell",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Steven Schneider",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Kavanaugh-Jones",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alexyz Danine Kemp",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Ryan Turek",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dajia Milan",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Adam Reamer",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mary Chipman",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Carmilla Cunny",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Patrick Wilson",
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Blumhouse Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/cei03o4lecgd",
+  "trailer": "https://www.youtube.com/watch?v=gexw4P68kbg"
+}
