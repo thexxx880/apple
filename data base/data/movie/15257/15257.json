@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 15257,
+  "poster": "https://image.tmdb.org/t/p/w500/p8PZfkrCuXanfYr3k6xAS6WzN8Y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Aack4R47Po0qtyvID374rRacuWB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8v5G1CRMflcu8YrgwYrcxynClOS.png",
+  "titulo": "Hulk vs. Wolverine",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Ciencia ficción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.1,
+  "año": "2009",
+  "duracion": "0h 38min",
+  "edad_minima": 13,
+  "sinopsis": "El Increíble Hulk ha estado rasgando una línea a través del campo canadiense, dejando una franja de destrucción a su paso. Debe ser detenido a toda costa, y sólo hay un hombre capaz de hacerlo. Él es Wolverine.",
+  "fecha_estreno": "2009-01-27",
+  "titulo_original": "Hulk vs. Wolverine",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Fred Tatasciore",
+      "personaje": "Hulk (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    },
+    {
+      "nombre": "Bryce Johnson",
+      "personaje": "Bruce Banner (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/m27ITiYlBJ4biPS8dmZ9W5QOPZX.jpg"
+    },
+    {
+      "nombre": "Steve Blum",
+      "personaje": "Wolverine / Logan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+    },
+    {
+      "nombre": "Nolan North",
+      "personaje": "Deadpool (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg"
+    },
+    {
+      "nombre": "Tom Kane",
+      "personaje": "The Professor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg"
+    },
+    {
+      "nombre": "Janyse Jaud",
+      "personaje": "Lady Deathstrike (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7ZvfIfmgkU2B8jA25czUoKXXq6e.jpg"
+    },
+    {
+      "nombre": "Nicole Oliver",
+      "personaje": "Betty Ross (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/plAsVfhTrYaU78JrZbJSQ4uXpX1.jpg"
+    },
+    {
+      "nombre": "Mark Acheson",
+      "personaje": "Sabretooth (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gY6VEIa7BoLjzMCaO3slSnocuah.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Frank Paur",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Craig Kyle",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Christopher L. Yost",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Frank Paur",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Guy Michelmore",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "George Rizkallah",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Barry Windsor-Smith",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ken Katsumoto",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Craig Kyle",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Eric S. Rollman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carrie Wassenaar",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Kyle Clausen",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Charles Maynes",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Zachary C. Ross",
+      "rol": "Sound Editor"
+    }
+  ],
+  "director": "Frank Paur",
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lionsgate",
+  "enlace_video": "https://rumble.com/hls-vod/6wiz60/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=BG-yJRb7vZQ"
+}
