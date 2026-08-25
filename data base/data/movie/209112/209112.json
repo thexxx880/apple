@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 209112,
+  "poster": "https://image.tmdb.org/t/p/w500/ogl7euSNTWPpnB7nnq9E6RDTHNK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4kxXl5pDg9miWKG7tN6RjVrzK7b.png",
+  "titulo": "Batman versus Superman: El Origen de la Justicia",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.01,
+  "año": "2016",
+  "duracion": "2h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Dos años después de la destrucción de Metrópolis, la humanidad aún intenta determinar el rol de Superman en el mundo. Para evitar que las acciones del Hombre de Acero pasen desapercibidas, Batman se enfrenta a Superman, mientras una amenaza surge de las sombras.",
+  "fecha_estreno": "2016-03-23",
+  "titulo_original": "Batman v Superman: Dawn of Justice",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ben Affleck",
+      "personaje": "Bruce Wayne / Batman",
+      "foto": "https://image.tmdb.org/t/p/w500/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+    },
+    {
+      "nombre": "Henry Cavill",
+      "personaje": "Clark Kent / Superman",
+      "foto": "https://image.tmdb.org/t/p/w500/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+    },
+    {
+      "nombre": "Jesse Eisenberg",
+      "personaje": "Lex Luthor",
+      "foto": "https://image.tmdb.org/t/p/w500/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+    },
+    {
+      "nombre": "Gal Gadot",
+      "personaje": "Diana Prince / Wonder Woman",
+      "foto": "https://image.tmdb.org/t/p/w500/qCJB1ACi5VjtY4ypXuv3hjAvbSu.jpg"
+    },
+    {
+      "nombre": "Amy Adams",
+      "personaje": "Lois",
+      "foto": "https://image.tmdb.org/t/p/w500/1h2r2VTpoFb5QefAaBYYQgQzL9z.jpg"
+    },
+    {
+      "nombre": "Diane Lane",
+      "personaje": "Martha Kent",
+      "foto": "https://image.tmdb.org/t/p/w500/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
+    },
+    {
+      "nombre": "Laurence Fishburne",
+      "personaje": "Perry White",
+      "foto": "https://image.tmdb.org/t/p/w500/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+      "nombre": "Jeremy Irons",
+      "personaje": "Alfred",
+      "foto": "https://image.tmdb.org/t/p/w500/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Zack Snyder",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David S. Goyer",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Charles Roven",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Deborah Snyder",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Terrio",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jim Rowe",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "William Moulton Marston",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jim Rowe",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Misha Bukowski",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Scott Hecker",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Scott Hecker",
+      "rol": "Sound Supervisor"
+    },
+    {
+      "nombre": "Steve Mazzaro",
+      "rol": "Additional Music"
+    },
+    {
+      "nombre": "Andrew Kawczynski",
+      "rol": "Additional Music"
+    },
+    {
+      "nombre": "Benjamin Wallfisch",
+      "rol": "Additional Music"
+    },
+    {
+      "nombre": "Alan Meyerson",
+      "rol": "Scoring Mixer"
+    },
+    {
+      "nombre": "Eric Zimmerman",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Bill Young",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Zack Snyder",
+  "valoraciones": {
+    "tmdb": 6.01,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/ge09b2m4pn4g",
+  "trailer": "https://www.youtube.com/watch?v=s9EkdAHqtvU"
+}
