@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 929590,
+  "poster": "https://image.tmdb.org/t/p/w500/rLyuE271bVhhRMTjukRNXkWTg6C.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/t2SXZ7KLriaLyf5QT8Iar6fSOGp.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qkAhGhjcejaQUry3KSWCkrA7a48.png",
+  "titulo": "Guerra Civil",
+  "trending": false,
+  "generos": [
+    "Bélica",
+    "Acción",
+    "Drama"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.848,
+  "año": "2024",
+  "duracion": "1h 49min",
+  "edad_minima": 13,
+  "sinopsis": "En un futuro cercano, un grupo de periodistas de guerra intenta sobrevivir mientras informan la verdad mientras Estados Unidos se encuentra al borde de una guerra civil.",
+  "fecha_estreno": "2024-04-10",
+  "titulo_original": "Civil War",
+  "pais_origen": "Finland",
+  "reparto": [
+    {
+      "nombre": "Kirsten Dunst",
+      "personaje": "Lee",
+      "foto": "https://image.tmdb.org/t/p/w500/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+    },
+    {
+      "nombre": "Wagner Moura",
+      "personaje": "Joel",
+      "foto": "https://image.tmdb.org/t/p/w500/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
+    },
+    {
+      "nombre": "Cailee Spaeny",
+      "personaje": "Jessie",
+      "foto": "https://image.tmdb.org/t/p/w500/6gUzyMnwo7TjZA7E1Amd1GI8JGw.jpg"
+    },
+    {
+      "nombre": "Stephen McKinley Henderson",
+      "personaje": "Sammy",
+      "foto": "https://image.tmdb.org/t/p/w500/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
+    },
+    {
+      "nombre": "李志傑",
+      "personaje": "Tony",
+      "foto": "https://image.tmdb.org/t/p/w500/3zKvaCGrZnxQLnlUxnCITeMp86K.jpg"
+    },
+    {
+      "nombre": "Nick Offerman",
+      "personaje": "President",
+      "foto": "https://image.tmdb.org/t/p/w500/f6z3mPVtaF40ewfdmZydprAjmYd.jpg"
+    },
+    {
+      "nombre": "Jefferson White",
+      "personaje": "Dave",
+      "foto": "https://image.tmdb.org/t/p/w500/8QSrhrWpqTBGJN3rfijXCvmOcb5.jpg"
+    },
+    {
+      "nombre": "Evan Lai",
+      "personaje": "Bohai",
+      "foto": "https://image.tmdb.org/t/p/w500/rSDVfjEcWdFKztdWIy8hkRAnDoI.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alex Garland",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Andrew Macdonald",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Allon Reich",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Garland",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Gregory Goodman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rob Hardy",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Janelle Beaudry",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Caty Maxey",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Lizbeth Ayala",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Lee Alan McConnell",
+      "rol": "Special Effects Coordinator"
+    },
+    {
+      "nombre": "Jason Vigdor",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jake Roberts",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Meghan Kasperlik",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Amy Wood",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Mark Dillon",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Crystal Broedel",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Ashley Levy",
+      "rol": "Makeup Department Head"
+    }
+  ],
+  "director": "Alex Garland",
+  "valoraciones": {
+    "tmdb": 6.848,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DNA Films",
+  "enlace_video": "https://gscdn.cam/video/embed/z6iq2xp48nmb",
+  "trailer": "https://www.youtube.com/watch?v=c2G18nIVpNE"
+}
