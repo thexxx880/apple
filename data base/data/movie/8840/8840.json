@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 8840,
+  "poster": "https://image.tmdb.org/t/p/w500/bnWNKHr0QyzIUrY6TQQQ2hoxQsG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xbqluNfftDJtxDsqcpx9kKme4LF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/v3DeW0YDjYYqvgZJET5YVk3HK2C.png",
+  "titulo": "Corazón de Dragón",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Acción",
+    "Aventura",
+    "Drama"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.566,
+  "año": "1996",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "Ubicada en el siglo X, cuando los dragones volaban por la tierra y existía un antiguo código de honor respetado por dragones, reyes y caballeros. Bowen es un Caballero del antiguo código que enseña las artes de caballería al príncipe Einon. Sin embargo, el padre de Einon, un corrupto Rey, no está de acuerdo con esto y en una revuelta, el príncipe es herido y agoniza. La reina Aislinn, en un desesperado intento por salvarle la vida, va a un milenario castillo abandonado en busca del dragón que habita ahí y es guardián de los ritos antiguos. El dragón promete salvar la vida del príncipe dándole la mitad de su corazón a cambio de que este, al ser Rey, conserve los preceptos de caballería del código de honor. Al salvar la vida, el príncipe se convierte en una replica del padre solo que con más poder por lo que, al morir el Rey, Eion se convierte en un gobernante déspota y tiránico.",
+  "fecha_estreno": "1996-05-31",
+  "titulo_original": "DragonHeart",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Dennis Quaid",
+      "personaje": "Bowen",
+      "foto": "https://image.tmdb.org/t/p/w500/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+    },
+    {
+      "nombre": "Sean Connery",
+      "personaje": "Draco (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hbB676mW62gjsh0f51ICYE11niG.jpg"
+    },
+    {
+      "nombre": "David Thewlis",
+      "personaje": "King Einon",
+      "foto": "https://image.tmdb.org/t/p/w500/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+    },
+    {
+      "nombre": "Dina Meyer",
+      "personaje": "Kara",
+      "foto": "https://image.tmdb.org/t/p/w500/1AQEXem8soBEKjjDhE0mOyXtjCG.jpg"
+    },
+    {
+      "nombre": "Pete Postlethwaite",
+      "personaje": "Gilbert",
+      "foto": "https://image.tmdb.org/t/p/w500/2gpa75Ci4y2OKmOc8WXnaeGgyKF.jpg"
+    },
+    {
+      "nombre": "Jason Isaacs",
+      "personaje": "Lord Felton",
+      "foto": "https://image.tmdb.org/t/p/w500/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+    },
+    {
+      "nombre": "Brian Thompson",
+      "personaje": "Brok",
+      "foto": "https://image.tmdb.org/t/p/w500/qooSjBMA1P85JhBpHlwmmisGroO.jpg"
+    },
+    {
+      "nombre": "Julie Christie",
+      "personaje": "Queen Aislinn",
+      "foto": "https://image.tmdb.org/t/p/w500/siAi4XZhDPP8LRgbByzwLqVaLIQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Raffaella De Laurentiis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Charles Edward Pogue",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Rob Cohen",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Patrick Read Johnson",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Eggby",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Patrick Read Johnson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Randy Edelman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "David Rotman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Amundson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Rob Coleman",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Giorgio Desideri",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Nada Pinter",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Anna B. Sheppard",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Ján Svoboda",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Benjamín Fernández",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Margery Simkin",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Rob Cohen",
+  "valoraciones": {
+    "tmdb": 6.566,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/w5or7vwp8gpf",
+  "trailer": "https://www.youtube.com/watch?v=7MSLlD8lQ5k"
+}
