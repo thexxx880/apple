@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 14609,
+  "poster": "https://image.tmdb.org/t/p/w500/iMCkGHVrYRdqKROPRPmVaJVSlg3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lJRGgbi4Slsz171vcJ0Ctgiea6v.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/47EHlAjFFudSdA6bGfo5HUkeFC6.png",
+  "titulo": "Los Últimos Vengadores",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Animación",
+    "Familia",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.87,
+  "año": "2006",
+  "duracion": "1h 12min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando un misil nuclear se disparó a Washington en 1945, Captain America logró hacerlo detonar en la atmósfera superior. Pero entonces se cayó millas en las profundidades heladas del Atlántico del Norte, donde permaneció perdido durante más de sesenta años. Pero ahora, con el mundo que está enfrente del mismo mal, Captain America se debe levantar otra vez como nuestra última esperanza de la supervivencia.",
+  "fecha_estreno": "2006-02-21",
+  "titulo_original": "Ultimate Avengers: The Movie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Justin Gross",
+      "personaje": "Steve Rogers / Captain America (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Janet Pym / The Wasp (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Nolan North",
+      "personaje": "Hank Pym / Giant Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg"
+    },
+    {
+      "nombre": "Olivia D'Abo",
+      "personaje": "Natalia Romanoff / Black Widow (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sQTqkjNyUSl25cIDr8xhjmO4DhA.jpg"
+    },
+    {
+      "nombre": "Marc Worden",
+      "personaje": "Tony Stark / Iron Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d91IoBbnS5HX2I8lzGosvc39PgS.jpg"
+    },
+    {
+      "nombre": "Michael Massee",
+      "personaje": "Bruce Banner (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/swlvVVcDhaJztxr3fgB04YGoX6I.jpg"
+    },
+    {
+      "nombre": "David Boat",
+      "personaje": "Thor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tuuqOfuwPGLqICofgPhHceIDhOX.jpg"
+    },
+    {
+      "nombre": "Andre Ware",
+      "personaje": "Nick Fury (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ukimnb2sfaZFSax8XqskWyLgoCc.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Curt Geda",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Steven E. Gordon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bob Richardson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bob Richardson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Greg Johnson",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bryan Hitch",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Mark Millar",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Boyd Kirkland",
+      "rol": "Screenstory"
+    },
+    {
+      "nombre": "Craig Kyle",
+      "rol": "Screenstory"
+    },
+    {
+      "nombre": "Carrie Wassenaar",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Ron Hohauser",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Cory Gustke",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Patrick Archibald",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Dell Barras",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Sharon Bridgeman",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Dave Bullock",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Phil Craven",
+      "rol": "Storyboard Artist"
+    }
+  ],
+  "director": "Curt Geda",
+  "valoraciones": {
+    "tmdb": 6.87,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lions Gate Family Entertainment",
+  "enlace_video": "https://streamwish.to/e/rob6scys7v5n",
+  "trailer": "https://www.youtube.com/watch?v=IQ9QjHVaurM"
+}
