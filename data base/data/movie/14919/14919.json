@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 14919,
+  "poster": "https://image.tmdb.org/t/p/w500/wZdRUZX624bTFo2drYrrBjoNL7Y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cMUuAgVsMWOCawXonZ4D1dSMd6h.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/x4sGjFThNQmk5OayZFrv4DKO8zH.png",
+  "titulo": "Batman: La máscara del fantasma",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Crimen",
+    "Misterio"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.502,
+  "año": "1993",
+  "duracion": "1h 16min",
+  "edad_minima": 13,
+  "sinopsis": "Una enigmática figura fantasmal hace su aparición, cumpliendo las ejecuciones de determinadas figuras importantes del hampa. Simultáneamente regresa a Gotham una muchacha con la cual Bruce Wayne mantuvo un idilio; éste rememorará su relación con la chica y, de paso, su propio 'nacimiento' como Batman.",
+  "fecha_estreno": "1993-12-25",
+  "titulo_original": "Batman: Mask of the Phantasm",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Kevin Conroy",
+      "personaje": "Batman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zvWhAwO2l8Kb5IJTwTbKzURypg7.jpg"
+    },
+    {
+      "nombre": "Dana Delany",
+      "personaje": "Andrea Beaumont (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5mEVqIAVj0YzqUKDy5YXbQPcUyM.jpg"
+    },
+    {
+      "nombre": "Hart Bochner",
+      "personaje": "Arthur Reeves (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nfC2ByTNS3xoygwYVbUYsx2Zae6.jpg"
+    },
+    {
+      "nombre": "Stacy Keach",
+      "personaje": "Phantasm and Carl Beaumont (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gtYepb7Vu9bXcdZ62PXm56KalNl.jpg"
+    },
+    {
+      "nombre": "Abe Vigoda",
+      "personaje": "Salvatore Valestra (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/luWKPNb58IgJ2ovrtgPAzHGLLYL.jpg"
+    },
+    {
+      "nombre": "Dick Miller",
+      "personaje": "Chuckie Sol (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zyQXh8BkLg0DDo23pxJN2dy6Bqj.jpg"
+    },
+    {
+      "nombre": "John P. Ryan",
+      "personaje": "Buzz Bronski (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6WV5Sv2YnFG0W1rVnxOxpLyIFUM.jpg"
+    },
+    {
+      "nombre": "Efrem Zimbalist Jr.",
+      "personaje": "Alfred (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d1xwCJUtKxddiO3r1WAZQehd0is.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bruce Timm",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Martin Pasko",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Eric Radomski",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paul Dini",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Michael Reaves",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Michael Uslan",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lisa Leonardi-Knight",
+      "rol": "Animation Manager"
+    },
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Andrea Romano",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Shirley Walker",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Mark A. Keatts",
+      "rol": "ADR Editor"
+    },
+    {
+      "nombre": "Kelly Ann Foley",
+      "rol": "ADR Supervisor"
+    },
+    {
+      "nombre": "Bruce Timm",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Tom Ruegger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric Radomski",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Al Breitenbach",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Glen Murakami",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Bruce Timm",
+  "valoraciones": {
+    "tmdb": 7.502,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Family Entertainment",
+  "enlace_video": "https://gscdn.cam/video/embed/mgjfx40gavoe",
+  "trailer": "https://www.youtube.com/watch?v=imtYrQEZ4H8"
+}
