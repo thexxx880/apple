@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1612018,
+  "poster": "https://image.tmdb.org/t/p/w500/15Hs6RG2V4zOEJKi8zRazYqQ5PQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/lhJUUF3qulqwojyE1Clki0cLXaY.png",
+  "titulo": "Jackass: La última y nos vamos",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Documental"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.6,
+  "año": "2026",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "La quinta y última entrega de la franquicia Jackass, donde el equipo se embarca en una última y descabellada cruzada.",
+  "fecha_estreno": "2026-06-25",
+  "titulo_original": "Jackass: Best and Last",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Johnny Knoxville",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/7XDKsHsLC4uNYaGsuWG1tQXWRnu.jpg"
+    },
+    {
+      "nombre": "Steve-O",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/At4V4KPVOoBvWMtlZy6m4Wyvo3K.jpg"
+    },
+    {
+      "nombre": "Chris Pontius",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/fNthW6ozHId6veZmZO6dC1ofZhI.jpg"
+    },
+    {
+      "nombre": "Jason 'Wee Man' Acuña",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/TYKzbOeNATeI1t4c51K7wp3Ny3.jpg"
+    },
+    {
+      "nombre": "Dave England",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/32OIQ5UTMGVCjsWoa6FNfnDeLtE.jpg"
+    },
+    {
+      "nombre": "Preston Lacy",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/rJN0hgmardnLgQxmArsCPyDMSIf.jpg"
+    },
+    {
+      "nombre": "Ehren McGhehey",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/4q6TuSoHj5kk1AuJaI1TYLob2yd.jpg"
+    },
+    {
+      "nombre": "Bam Margera",
+      "personaje": "Self (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/4UiQ7FKhrwo0lUxBPPLZQSL2ZUb.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Johnny Knoxville",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeff Tremaine",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jason 'Wee Man' Acuña",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sean Cliver",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Dimitry Elyashkevich",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Dave England",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Zach Holmes",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Johnny Knoxville",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sean Cliver",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Dimitry Elyashkevich",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Chris Pontius",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Steve-O",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Cordell Mansfield",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Dimitry Elyashkevich",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Pete Chiappetta",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anthony Tittanegro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrew Lary",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shanna Zablow Newton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Greg Iguchi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tony Gardner",
+      "rol": "Makeup Effects Designer"
+    }
+  ],
+  "director": "Jeff Tremaine",
+  "valoraciones": {
+    "tmdb": 7.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/blomc56k7snz",
+  "trailer": "https://www.youtube.com/watch?v=BM6m-VMwbEk"
+}
