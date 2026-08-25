@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 989473,
+  "poster": "https://image.tmdb.org/t/p/w500/lMA79k1ClhT0AKNEwKlZ3YhdP2A.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hu2K1XlEyRjO2JvzIHBa6cPQRAi.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/paaG7ru9D4pjmakj9omUQZQZuam.png",
+  "titulo": "Invitación a un asesinato",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Suspense",
+    "Película de TV"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.573,
+  "año": "2023",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "1934. Sur de Inglaterra. Sin motivo aparente y al igual que otras cinco personas que no se conocen entre sí, Miranda, una florista de 28 años, es invitada a pasar el fin de semana en la mansión del multimillonario Lewis Findley.",
+  "fecha_estreno": "2023-05-05",
+  "titulo_original": "Invitation to a Murder",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mischa Barton",
+      "personaje": "Miranda Green",
+      "foto": "https://image.tmdb.org/t/p/w500/j3eZsKKIz4uWdVwAvokv8GHU21w.jpg"
+    },
+    {
+      "nombre": "Chris Browning",
+      "personaje": "Donald Walker",
+      "foto": "https://image.tmdb.org/t/p/w500/jKsUctww9FbZXlY04kyzIM0tBse.jpg"
+    },
+    {
+      "nombre": "Bianca A. Santos",
+      "personaje": "Carmen Blanco",
+      "foto": "https://image.tmdb.org/t/p/w500/pXg9qTtbSG5vGSqKZVAMci5zb2T.jpg"
+    },
+    {
+      "nombre": "Giles Matthey",
+      "personaje": "Phillip Armstrong",
+      "foto": "https://image.tmdb.org/t/p/w500/aoVphKnWthaRKJRrpqOPS1LmUeW.jpg"
+    },
+    {
+      "nombre": "Grace Lynn Kung",
+      "personaje": "Lu Wang",
+      "foto": "https://image.tmdb.org/t/p/w500/4iJEk5nwNOQGLOmLOHizvw5rorM.jpg"
+    },
+    {
+      "nombre": "Seamus Dever",
+      "personaje": "Lawrence Kane",
+      "foto": "https://image.tmdb.org/t/p/w500/izuwVXJowfoI5L51whUuHyjmdf8.jpg"
+    },
+    {
+      "nombre": "James Urbaniak",
+      "personaje": "Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/7KUK2x6OI5XdPX5xrYAo9hxL49Z.jpg"
+    },
+    {
+      "nombre": "Amy Sloan",
+      "personaje": "Katherine",
+      "foto": "https://image.tmdb.org/t/p/w500/kA3tB47pBkS76DRKMrBBWkE9QP0.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Zeus Zamani",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Stephen Shimek",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Brian O'Donnell",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sebastien Semon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jerome Reygner-Kalfon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Vilim",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gérard Miller",
+      "rol": "Idea"
+    },
+    {
+      "nombre": "Jerome Reygner-Kalfon",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Brian Vilim",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Lisa Ystrom",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Nathaly Lopez",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ben Peacock",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Lauren Gregory",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Sebastien Semon",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Natalie Gajewski",
+      "rol": "Hair Setup"
+    },
+    {
+      "nombre": "Michael Testa",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Klein Haley",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Gianna Capra",
+      "rol": "Second Assistant Director"
+    }
+  ],
+  "director": "Stephen Shimek",
+  "valoraciones": {
+    "tmdb": 5.573,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "ACE entertainment",
+  "enlace_video": "https://gscdn.cam/video/embed/h2p3etgunxb3",
+  "trailer": "https://www.youtube.com/watch?v=B_HOii1vVg8"
+}
