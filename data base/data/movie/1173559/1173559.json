@@ -1,0 +1,77 @@
+{
+  "id_tmdb": 1173559,
+  "poster": "https://image.tmdb.org/t/p/w500/8kljUAovBatZRYp2ye2RZr239hU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8HbNKB2pMiD3mfLgbxe7DgAKjdS.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kFhWmlEunW6st4AMH0I0gjCsAks.png",
+  "titulo": "Las puertas de infierno",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 4.839,
+  "año": "2024",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Una cabaña aislada se ve asolada por una serie de asesinatos, y sin que sus habitantes lo sepan, algo sobrenatural acecha en sus pasillos. ¿Podrá la pareja resolver a tiempo el misterio de los terrenos malditos o abrirán la puerta al infierno?",
+  "fecha_estreno": "2024-11-29",
+  "titulo_original": "Insidious Inferno",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Stephanie Leet",
+      "personaje": "Monica Duvalier",
+      "foto": null
+    },
+    {
+      "nombre": "Neil Green",
+      "personaje": "Andre Duvalier",
+      "foto": null
+    },
+    {
+      "nombre": "Chynna Rae Shurts",
+      "personaje": "Mary",
+      "foto": "https://image.tmdb.org/t/p/w500/grxwhkVW9wux9VhLjNYAWdU5YPP.jpg"
+    },
+    {
+      "nombre": "Steve Larkin",
+      "personaje": "Dorian Tobin Ryan III",
+      "foto": null
+    },
+    {
+      "nombre": "Erik Skybak",
+      "personaje": "Cameron",
+      "foto": "https://image.tmdb.org/t/p/w500/yZ1mnUq3RFlPj1xrlD79oENyKi1.jpg"
+    },
+    {
+      "nombre": "Tim Coyle",
+      "personaje": "Gregory",
+      "foto": "https://image.tmdb.org/t/p/w500/mInwXIaMgkQ1va8dgAiTI6s4lQw.jpg"
+    },
+    {
+      "nombre": "Marcella Laasch",
+      "personaje": "Donna Olson",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Calvin Morie McCarthy",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Calvin Morie McCarthy",
+      "rol": "Director"
+    }
+  ],
+  "crew": [],
+  "director": "Calvin Morie McCarthy",
+  "valoraciones": {
+    "tmdb": 4.839,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Raptor FX Studio",
+  "enlace_video": "https://vimeos.net/embed-4tvyj9yvy2s7.html",
+  "trailer": "https://www.youtube.com/watch?v=F9TGBNG6qRk"
+}
