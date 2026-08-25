@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 272,
+  "poster": "https://image.tmdb.org/t/p/w500/zBVNawbcB9z3cQw3uOvQ6dTLBS2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tsPuQ6zskYUFBF9migOLUmTRTBS.png",
+  "titulo": "Batman inicia",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.729,
+  "año": "2005",
+  "duracion": "2h 20min",
+  "edad_minima": 13,
+  "sinopsis": "Después de entrenar con su mentor, Batman comienza su lucha para liberar a Ciudad Gótica de la corrupción.",
+  "fecha_estreno": "2005-06-10",
+  "titulo_original": "Batman Begins",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Christian Bale",
+      "personaje": "Bruce Wayne / Batman",
+      "foto": "https://image.tmdb.org/t/p/w500/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+      "nombre": "Michael Caine",
+      "personaje": "Alfred",
+      "foto": "https://image.tmdb.org/t/p/w500/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+      "nombre": "Liam Neeson",
+      "personaje": "Ducard",
+      "foto": "https://image.tmdb.org/t/p/w500/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+    },
+    {
+      "nombre": "Katie Holmes",
+      "personaje": "Rachel Dawes",
+      "foto": "https://image.tmdb.org/t/p/w500/gDhc9rLbhpXdY8lISD7yPiIhvp4.jpg"
+    },
+    {
+      "nombre": "Gary Oldman",
+      "personaje": "Jim Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+    },
+    {
+      "nombre": "Cillian Murphy",
+      "personaje": "Dr. Jonathan Crane",
+      "foto": "https://image.tmdb.org/t/p/w500/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+    },
+    {
+      "nombre": "Tom Wilkinson",
+      "personaje": "Carmine Falcone",
+      "foto": "https://image.tmdb.org/t/p/w500/xSUohQDXuepOU2nSqtDj2us5RZo.jpg"
+    },
+    {
+      "nombre": "Rutger Hauer",
+      "personaje": "Earle",
+      "foto": "https://image.tmdb.org/t/p/w500/xyag0LbjocTwx2Ht7B3RofvCNMT.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Emma Thomas",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Charles Roven",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Larry Franco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David S. Goyer",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Christopher Nolan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lorne Orleans",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Nolan",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "James Newton Howard",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Wally Pfister",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Lee Smith",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John Papsidera",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Lucinda Syson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Andy Norman",
+      "rol": "Fight Choreographer"
+    },
+    {
+      "nombre": "Gina Reale",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Linda Perlin",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Natalie M. Meyer",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Maryann Kelman",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Glory Fioramonti",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Christopher Nolan",
+  "valoraciones": {
+    "tmdb": 7.729,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fww1/ba/s8/2/m/l/A/x/mlAxy.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=lirBhHXvDSg"
+}
