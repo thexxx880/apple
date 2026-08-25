@@ -1,0 +1,95 @@
+{
+  "id_tmdb": 394355,
+  "poster": "https://image.tmdb.org/t/p/w500/cjUNXJIXBHmKjpI0oH5MmEKgOTt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tl5nJ9zH3YyGMZjeRrgZMu6wHOt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uY4CJ8UR6X58sSmKjosnuqvlkLO.png",
+  "titulo": "Hulk Vs.",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Animación",
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.64,
+  "año": "2009",
+  "duracion": "1h 18min",
+  "edad_minima": 13,
+  "sinopsis": "Hulk Vs. es una película de animación directa a video de Marvel Animation y Lionsgate, con el increíble Hulk en dos batallas de cortometrajes, uno contra Wolverine , y el otro contra Thor .",
+  "fecha_estreno": "2009-01-27",
+  "titulo_original": "Hulk Vs.",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Fred Tatasciore",
+      "personaje": "Hulk (voice) (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    },
+    {
+      "nombre": "Matthew Wolf",
+      "personaje": "Thor (voice) (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/x3Lrc41VrY5wf0KsJNCUvyCjHhc.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Sif (voice) (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Kari Wahlgren",
+      "personaje": "Amora (voice) (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg"
+    },
+    {
+      "nombre": "Steve Blum",
+      "personaje": "Wolverine (voice) (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+    },
+    {
+      "nombre": "Bryce Johnson",
+      "personaje": "Bruce Banner (voice) (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/m27ITiYlBJ4biPS8dmZ9W5QOPZX.jpg"
+    },
+    {
+      "nombre": "Nolan North",
+      "personaje": "Deadpool (voice) (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg"
+    },
+    {
+      "nombre": "Graham McTavish",
+      "personaje": "Loki (voice) (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/qpKVz46PkKVaXzthcJO4ldFPdM9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Frank Paur",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sam Liu",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Barry Windsor-Smith",
+      "rol": "Comic Book"
+    }
+  ],
+  "director": "Frank Paur",
+  "valoraciones": {
+    "tmdb": 6.64,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/5wm7bvfldcof",
+  "trailer": "https://www.youtube.com/watch?v=MlnmZDvkZ8k"
+}
