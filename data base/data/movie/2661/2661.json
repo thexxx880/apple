@@ -1,7 +1,7 @@
 {
   "id_tmdb": 2661,
-  "poster": "https://image.tmdb.org/t/p/w500/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/78WYLdsidjafX5cll2G6fWCR1xB.jpg",
+  "poster": "https://image.tmdb.org/t/p/w500/iBaHizz1sfMs4N03aHsGe7I2G6S.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nOWOU0bdX76iF9XA1YPlInLbI4Y.jpg",
   "logo": "https://image.tmdb.org/t/p/w300/lURiZEiF62WnusdNtyIwgCPI0Si.png",
   "titulo": "Batman",
   "trending": false,
@@ -11,7 +11,7 @@
     "Crimen"
   ],
   "calificacion": "PG-13",
-  "puntuacion": 6.4,
+  "puntuacion": 6.367,
   "año": "1966",
   "duracion": "1h 45min",
   "edad_minima": 13,
@@ -63,16 +63,16 @@
   ],
   "equipo_creativo": [
     {
+      "nombre": "Leslie H. Martinson",
+      "rol": "Director"
+    },
+    {
       "nombre": "Lorenzo Semple Jr.",
       "rol": "Screenplay"
     },
     {
       "nombre": "William Dozier",
       "rol": "Producer"
-    },
-    {
-      "nombre": "Leslie H. Martinson",
-      "rol": "Director"
     }
   ],
   "crew": [
@@ -85,16 +85,16 @@
       "rol": "Sound Designer"
     },
     {
+      "nombre": "Serge Krizman",
+      "rol": "Art Direction"
+    },
+    {
       "nombre": "Howard Schwartz",
       "rol": "Director of Photography"
     },
     {
       "nombre": "Harry M. Leonard",
       "rol": "Sound Designer"
-    },
-    {
-      "nombre": "Serge Krizman",
-      "rol": "Art Direction"
     },
     {
       "nombre": "Bob Kane",
@@ -115,11 +115,11 @@
   ],
   "director": "Leslie H. Martinson",
   "valoraciones": {
-    "tmdb": 6.4,
+    "tmdb": 6.367,
     "imdb": null,
     "rotten_tomatoes": null
   },
   "distribuidora": "William Dozier Productions",
-  "enlace_video": "https://1a-1791.com/video/fwe2/90/s8/2/n/o/9/l/no9lw.caa.mp4",
+  "enlace_video": "https://hglink.to/e/1mn0f4wtviw2",
   "trailer": "https://www.youtube.com/watch?v=TdG2V4vhPjg"
 }
