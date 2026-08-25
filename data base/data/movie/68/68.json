@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 68,
+  "poster": "https://image.tmdb.org/t/p/w500/x7N8ZbCw7ojT8XbvoeGL0LXTK8E.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9IYyCLf5NNAQFK9pNtqzEU9HWzM.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/eYVeQ6gYzti3zsJtzAL0jBgDIro.png",
+  "titulo": "Brasil",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.657,
+  "año": "1985",
+  "duracion": "2h 23min",
+  "edad_minima": 13,
+  "sinopsis": "En un extraño y deprimente universo futurista donde reinan las máquinas, una mosca cae dentro de un ordenador y cambia el apellido del guerrillero Harry Tuttle (Robert de Niro) por el del tranquilo padre de familia Harry Buttle, que es detenido y asesinado por el aparato represor del Estado. El tranquilo burócrata Sam Lowry (Jonathan Pryce) es el encargado de devolver un talón a la familia de la víctima, circunstancia que le permite conocer a Jill Layton (Kim Greist), la mujer de sus sueños. Y, mientras la persigue, hace amistad con Harry Tuttle y se convierte en su cómplice.",
+  "fecha_estreno": "1985-02-20",
+  "titulo_original": "Brazil",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Jonathan Pryce",
+      "personaje": "Sam Lowry",
+      "foto": "https://image.tmdb.org/t/p/w500/3nQ01F9WPNPzzLblY7XyaihT9JT.jpg"
+    },
+    {
+      "nombre": "Robert De Niro",
+      "personaje": "Harry Tuttle",
+      "foto": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "nombre": "Katherine Helmond",
+      "personaje": "Mrs. Ida Lowry",
+      "foto": "https://image.tmdb.org/t/p/w500/ewqxAgTyclJLwQi4WWU5QZiCM0Q.jpg"
+    },
+    {
+      "nombre": "Ian Holm",
+      "personaje": "Mr. Kurtzmann",
+      "foto": "https://image.tmdb.org/t/p/w500/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+    },
+    {
+      "nombre": "Bob Hoskins",
+      "personaje": "Spoor",
+      "foto": "https://image.tmdb.org/t/p/w500/qOeE7bVHAsNTbP77Qk6TwrrWHZc.jpg"
+    },
+    {
+      "nombre": "Michael Palin",
+      "personaje": "Jack Lint",
+      "foto": "https://image.tmdb.org/t/p/w500/gWz8S2FEUEm1f3LQrN8cSUjnfhu.jpg"
+    },
+    {
+      "nombre": "Ian Richardson",
+      "personaje": "Mr. Warrenn",
+      "foto": "https://image.tmdb.org/t/p/w500/e90jCJwnzjnxXstcdPrVZOtLUpp.jpg"
+    },
+    {
+      "nombre": "Peter Vaughan",
+      "personaje": "Mr. Helpmann",
+      "foto": "https://image.tmdb.org/t/p/w500/pqblKGyukQmyTbMTAhFG1B2mgFq.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Terry Gilliam",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tom Stoppard",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Arnon Milchan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patrick Cassavetti",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Charles McKeown",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Terry Gilliam",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Roger Pratt",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Irene Lamb",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Norman Garwood",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Rodney Glenn",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Julian Doyle",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Kamen",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "James Acheson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "George Ball",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Gary Dawson",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "John Beard",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Keith Pain",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Margery Simkin",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Terry Gilliam",
+  "valoraciones": {
+    "tmdb": 7.657,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Embassy International Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/mhh7hj2xdfi4",
+  "trailer": "https://www.youtube.com/watch?v=A_7ATU9dslE"
+}
