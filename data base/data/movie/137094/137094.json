@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 137094,
+  "poster": "https://image.tmdb.org/t/p/w500/eNpySHnJeP8tq5ctN6QCkECe8HI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6KaCzcVKsdxlsTIq35xAix5U3Nb.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/m0A63BxPGfuKwHj0POWe2ikrHYk.png",
+  "titulo": "Jack Ryan: Código Sombra",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Drama",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.121,
+  "año": "2014",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Jack Ryan es un veterano de guerra que lleva una doble vida: es un ejecutivo de Wall Street y además trabaja de forma encubierta como analista de la CIA. Cuando descubre un complot meticulosamente planeado para hundir la economía norteamericana y sembrar el caos en todo el mundo, deciden que él es el hombre más adecuado para impedirlo debido a su habilidad para interpretar datos globales. Jack tendrá que viajar a Moscú para intentar descubrir toda la verdad, porque de ello depende la vida de millones personas, pero eso implica moverse en un mundo en el que no puede fiarse de nadie.",
+  "fecha_estreno": "2014-01-15",
+  "titulo_original": "Jack Ryan: Shadow Recruit",
+  "pais_origen": "Russia",
+  "reparto": [
+    {
+      "nombre": "Chris Pine",
+      "personaje": "Jack Ryan",
+      "foto": "https://image.tmdb.org/t/p/w500/vSe6sIsdtcoqBhuWRXynahFg8Vf.jpg"
+    },
+    {
+      "nombre": "Keira Knightley",
+      "personaje": "Cathy Muller",
+      "foto": "https://image.tmdb.org/t/p/w500/k69IOXdz8PAvaegAI8WYvQvyyUJ.jpg"
+    },
+    {
+      "nombre": "Kevin Costner",
+      "personaje": "William Harper",
+      "foto": "https://image.tmdb.org/t/p/w500/608blZipRDZkDpzp8VItB64qMaT.jpg"
+    },
+    {
+      "nombre": "Kenneth Branagh",
+      "personaje": "Viktor Cherevin",
+      "foto": "https://image.tmdb.org/t/p/w500/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+    },
+    {
+      "nombre": "Lenn Kudrjawizki",
+      "personaje": "Constantin",
+      "foto": "https://image.tmdb.org/t/p/w500/lmkkEMW00qHspVescWmqEWYN7lG.jpg"
+    },
+    {
+      "nombre": "Colm Feore",
+      "personaje": "Rob Behringer",
+      "foto": "https://image.tmdb.org/t/p/w500/oOxcf1qB1IvVZrBEE1PdrfMiyBK.jpg"
+    },
+    {
+      "nombre": "Gemma Chan",
+      "personaje": "Amy Chan",
+      "foto": "https://image.tmdb.org/t/p/w500/stTKj4iNauhqlVmZ6XAsFsvcMCY.jpg"
+    },
+    {
+      "nombre": "Alec Utgoff",
+      "personaje": "Aleksandr Borovsky",
+      "foto": "https://image.tmdb.org/t/p/w500/zYtPKsXbeUg8kR2UqADdgKDfvJ1.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tom Clancy",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kenneth Branagh",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Adam Cozad",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Koepp",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lorenzo di Bonaventura",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mace Neufeld",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Barron",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Vahradian",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tom Clancy",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tommy Harper",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charmaine Fuller",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Christopher Fulton",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Renata Gilbert",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Carol Hemming",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Soleil Jackson",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Paula Price",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Tracey Wells",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Jeremy Woodhead",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Adenike Wright",
+      "rol": "Hairstylist"
+    }
+  ],
+  "director": "Kenneth Branagh",
+  "valoraciones": {
+    "tmdb": 6.121,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "di Bonaventura Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/72qvealcuf1u",
+  "trailer": "https://www.youtube.com/watch?v=khtmgdS5Jz0"
+}
