@@ -1,0 +1,63 @@
+{
+  "id_tmdb": 989246,
+  "poster": "https://image.tmdb.org/t/p/w500/nWTtqm8muP5k7hOyDfpmG0chpy1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/25Z6XXXPe4v63HPOje0yyYWKWfz.jpg",
+  "logo": null,
+  "titulo": "El secreto de los pájaros cantores",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.6,
+  "año": "2025",
+  "duracion": "1h 17min",
+  "edad_minima": 13,
+  "sinopsis": "Lucie, de 9 años, llega a Bectoile para pasar las vacaciones mientras su madre dirige una excavación arqueológica. Con la ayuda de un nuevo amigo y dos extraños pájaros cantores, se embarca en una aventura que la acerca a un antiguo secreto familiar.",
+  "fecha_estreno": "2025-10-22",
+  "titulo_original": "Le Secret des mésanges",
+  "pais_origen": "Belgium",
+  "reparto": [],
+  "equipo_creativo": [
+    {
+      "nombre": "Antoine Lanciaux",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Antoine Lanciaux",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Pierre-Luc Granjon",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sara Sponga",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Hervé Guichard",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Loïc Burkhardt",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Emmanuel Desbouiges",
+      "rol": "Post Production Supervisor"
+    }
+  ],
+  "director": "Antoine Lanciaux",
+  "valoraciones": {
+    "tmdb": 5.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Folimage",
+  "enlace_video": "https://streamwish.to/e/vbe97n207uup",
+  "trailer": ""
+}
