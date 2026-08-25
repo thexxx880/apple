@@ -1,0 +1,159 @@
+{
+  "id_tmdb": 13851,
+  "poster": "https://image.tmdb.org/t/p/w500/cUcDkHuoYOKgLwXKNpOne3lmBEC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/niRgVCgvDVxD67u6gjKZnkBO1AD.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/16TA1LHS1KZ12FavOmwCwSdSCuq.png",
+  "titulo": "Batman: El caballero de Ciudad Gótica",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Animación",
+    "Drama",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.717,
+  "año": "2008",
+  "duracion": "1h 16min",
+  "edad_minima": 13,
+  "sinopsis": "Explore la transición de Bruce Wayne desde su inicio como vigilante atormentado hasta The Dark Knight de una metrópolis en ruinas con seis capítulos distintos, pero que se pretende que se vea en su totalidad.",
+  "fecha_estreno": "2008-07-08",
+  "titulo_original": "Batman: Gotham Knight",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "Kevin Conroy",
+      "personaje": "Batman / Bruce Wayne (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zvWhAwO2l8Kb5IJTwTbKzURypg7.jpg"
+    },
+    {
+      "nombre": "Jason Marsden",
+      "personaje": "Thomas Wayne / Cop / Doctor / Youth 2 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/68kkcU88K9vS6Rrw2ysfe2zFwZ0.jpg"
+    },
+    {
+      "nombre": "Scott Menville",
+      "personaje": "B-Devil / Cop (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iLoApH8LbyJSKFmdgWxNR314GGa.jpg"
+    },
+    {
+      "nombre": "George Newbern",
+      "personaje": "Man in Black / Guido / Man / Youth 3 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1Xx0K3KGqxyIpL6o2eVQKui86jS.jpg"
+    },
+    {
+      "nombre": "Corey Padnos",
+      "personaje": "Porkchop (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sDucFkxWSsZIUptOTH5ABztd7CS.jpg"
+    },
+    {
+      "nombre": "Crystal Scales",
+      "personaje": "Meesh (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8El1hT3IYljRbll41iaoikTshfe.jpg"
+    },
+    {
+      "nombre": "Alanna Ubach",
+      "personaje": "Dander (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ffyBAEoW3bDgVJQV3GaHsZ9x29W.jpg"
+    },
+    {
+      "nombre": "Gary Dourdan",
+      "personaje": "Crispus Allen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xsxjlW98I8ml4FCHV040b3XaBOi.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Brian Azzarello",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "東出太",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Greg Rucka",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Josh Olson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jordan Goldberg",
+      "rol": "Story"
+    },
+    {
+      "nombre": "David S. Goyer",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "青木康浩",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "田頭しのぶ",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "林祐一郎",
+      "rol": "Co-Director"
+    },
+    {
+      "nombre": "Robert Hargreaves",
+      "rol": "Sound Effects Designer"
+    },
+    {
+      "nombre": "Lisa Judson",
+      "rol": "Executive In Charge Of Production"
+    },
+    {
+      "nombre": "Joe Gall",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Kevin Manthei",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "武宮むつみ",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Christopher Drake",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "東出太",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "濱宇津妙子",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "青木康浩",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Jong-Sik Nam",
+      "rol": "Animation Director"
+    }
+  ],
+  "director": "東出太",
+  "valoraciones": {
+    "tmdb": 6.717,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC",
+  "enlace_video": "https://gscdn.cam/video/embed/63q8n65v4ff7",
+  "trailer": "https://www.youtube.com/watch?v=0beX8b4zX5E"
+}
