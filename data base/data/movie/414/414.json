@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 414,
+  "poster": "https://image.tmdb.org/t/p/w500/nyD216HGAaF79wJ2NS0l5vdMmD4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/snlu32RmjldF9b068UURJg8sQtn.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8a98y1dDjbYZKkF1KJXWuFU8XKP.png",
+  "titulo": "Batman eternamente",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Fantasía"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.458,
+  "año": "1995",
+  "duracion": "2h 2min",
+  "edad_minima": 13,
+  "sinopsis": "Batman debe luchar contra el ex fiscal de distrito Harvey Dent, que ahora es Dos Caras y Edward Nygma, El Acertijo. Batman contará ahora con un nuevo interés amoroso y un joven acróbata de circo que queda huérfano y se convierte en su compañero: Robin.",
+  "fecha_estreno": "1995-06-16",
+  "titulo_original": "Batman Forever",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Val Kilmer",
+      "personaje": "Batman / Bruce Wayne",
+      "foto": "https://image.tmdb.org/t/p/w500/sWH9jTD0bC5gWhhceUlzfNiNup0.jpg"
+    },
+    {
+      "nombre": "Tommy Lee Jones",
+      "personaje": "Harvey Two-Face / Harvey Dent",
+      "foto": "https://image.tmdb.org/t/p/w500/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+    },
+    {
+      "nombre": "Jim Carrey",
+      "personaje": "Riddler / Edward Nygma",
+      "foto": "https://image.tmdb.org/t/p/w500/y3U9QfPN6sJaGl6l68xjwWj28ig.jpg"
+    },
+    {
+      "nombre": "Nicole Kidman",
+      "personaje": "Dr. Chase Meridian",
+      "foto": "https://image.tmdb.org/t/p/w500/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+    },
+    {
+      "nombre": "Chris O'Donnell",
+      "personaje": "Robin / Dick Grayson",
+      "foto": "https://image.tmdb.org/t/p/w500/KvWBFg1aMBdu4X2PihXYL8xcFD.jpg"
+    },
+    {
+      "nombre": "Michael Gough",
+      "personaje": "Alfred Pennyworth",
+      "foto": "https://image.tmdb.org/t/p/w500/yoxoYUnySjL0Ccyle91AkPTxXbC.jpg"
+    },
+    {
+      "nombre": "Pat Hingle",
+      "personaje": "Commissioner Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/pSvLdAxEwluDOee7H1FV4yiq3a2.jpg"
+    },
+    {
+      "nombre": "Drew Barrymore",
+      "personaje": "Sugar",
+      "foto": "https://image.tmdb.org/t/p/w500/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tim Burton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joel Schumacher",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Peter Macgregor-Scott",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Akiva Goldsman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lee Batchler",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Janet Scott Batchler",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Lee Batchler",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Janet Scott Batchler",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Stevens",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Elliot Goldenthal",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ve Neill",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Dennis Virkler",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Barbara Ling",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Stephen Goldblatt",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mali Finn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Donna Keegan",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Dana Hee",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Anita Hart",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Dana Hee",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Danielle Burgio",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Joel Schumacher",
+  "valoraciones": {
+    "tmdb": 5.458,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/1vkifc8b4v1h",
+  "trailer": "https://www.youtube.com/watch?v=suOgRZflPtk"
+}
