@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 830788,
+  "poster": "https://image.tmdb.org/t/p/w500/65U0lox03NVBEHF6xGzwxU7vp42.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wqlwSAATTZTYA60OSeTKsj4ChZh.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/fstBpdRbZcpPeRvgtmABE1Cvdmc.png",
+  "titulo": "La Invitación",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.983,
+  "año": "2022",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Tras la muerte de su madre, su única familia, Evie se somete a una prueba de ADN…y descubre que tiene un primo, quien la invita a una boda extravagante en el campo inglés. Lo que comienza como un juego seductor de parte de su anfitrión pronto se torna en una pesadilla por supervivencia para Evie cuando descubre los retorcidos secretos de su familia y las intenciones macabras detrás de su generosidad.",
+  "fecha_estreno": "2022-08-24",
+  "titulo_original": "The Invitation",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Nathalie Emmanuel",
+      "personaje": "Evie Alexander",
+      "foto": "https://image.tmdb.org/t/p/w500/uh8EIhxKJxK7xsJlWcIgBkqyAKq.jpg"
+    },
+    {
+      "nombre": "Thomas Doherty",
+      "personaje": "Walter De Ville",
+      "foto": "https://image.tmdb.org/t/p/w500/z3vAK2Z2W4hh3QZRGyGcz9g2TaQ.jpg"
+    },
+    {
+      "nombre": "Sean Pertwee",
+      "personaje": "Mr. Fields",
+      "foto": "https://image.tmdb.org/t/p/w500/j4pAEMhKL5vA61ADrkxxLFtcI4c.jpg"
+    },
+    {
+      "nombre": "Hugh Skinner",
+      "personaje": "Oliver Alexander",
+      "foto": "https://image.tmdb.org/t/p/w500/7MHdNxS1gRnx0ZQGPrfS5eRjMe3.jpg"
+    },
+    {
+      "nombre": "Carol Ann Crawford",
+      "personaje": "Mrs. Swift",
+      "foto": "https://image.tmdb.org/t/p/w500/yHuBILKG7k4f8IuYbBVS2li8FyT.jpg"
+    },
+    {
+      "nombre": "Alana Boden",
+      "personaje": "Lucy",
+      "foto": "https://image.tmdb.org/t/p/w500/rbql1VGkF64OJnET9u5yAb2vkHR.jpg"
+    },
+    {
+      "nombre": "Stephanie Corneliussen",
+      "personaje": "Viktoria",
+      "foto": "https://image.tmdb.org/t/p/w500/1GHECMoMmSkKiYkzRp0VsYxh6kJ.jpg"
+    },
+    {
+      "nombre": "Tian Chaudhry",
+      "personaje": "Diya",
+      "foto": "https://image.tmdb.org/t/p/w500/mncs7UtlzspQvzkcJvU927UWIbE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Emile Gladstone",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jessica M. Thompson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Blair Butler",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jessica M. Thompson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael P. Flannigan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Danielle Knox",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Tom Elkins",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jiri Karasek",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Orsolya Petrilla",
+      "rol": "Key Makeup Artist"
+    },
+    {
+      "nombre": "Autumn Eakin",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Andrew Orlando",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Adrienn Schön",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Zsuzsanna Sipos",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Felicity Abbott",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Kieron Lavine",
+      "rol": "Hairstylist"
+    }
+  ],
+  "director": "Jessica M. Thompson",
+  "valoraciones": {
+    "tmdb": 5.983,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Screen Gems",
+  "enlace_video": "https://gscdn.cam/video/embed/tz2wg4ybyhc1",
+  "trailer": "https://www.youtube.com/watch?v=9Fzczrdt9K0"
+}
