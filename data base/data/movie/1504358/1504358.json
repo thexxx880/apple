@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1504358,
+  "poster": "https://image.tmdb.org/t/p/w500/eSHrRxvVxXH0JYdj2NdBD78FC6B.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/85b5hyT9xnfhzUST9vcPN91TzaZ.png",
+  "titulo": "No se desea buena suerte",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Música",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.175,
+  "año": "2026",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Sophie Birenbaum está lista para ser el centro de atención como la protagonista del musical escolar, hasta que debe enfrentar más drama en casa que en el escenario.",
+  "fecha_estreno": "2026-08-13",
+  "titulo_original": "Don't Say Good Luck",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sunny Sandler",
+      "personaje": "Sophie Birenbaum",
+      "foto": "https://image.tmdb.org/t/p/w500/bZqheNbKINcFeVJUtkeBVKeQK8h.jpg"
+    },
+    {
+      "nombre": "Melanie Lynskey",
+      "personaje": "Elizabeth Birenbaum",
+      "foto": "https://image.tmdb.org/t/p/w500/kzrWI1sTgnA0H7TCIKzDOUtOW4n.jpg"
+    },
+    {
+      "nombre": "Max Greenfield",
+      "personaje": "Ted Birenbaum",
+      "foto": "https://image.tmdb.org/t/p/w500/79w2mSZT8JwYv5ZwjJMDYQbzptE.jpg"
+    },
+    {
+      "nombre": "Stephanie Beatriz",
+      "personaje": "Ms. Parker",
+      "foto": "https://image.tmdb.org/t/p/w500/7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg"
+    },
+    {
+      "nombre": "Bebe Neuwirth",
+      "personaje": "Linda",
+      "foto": "https://image.tmdb.org/t/p/w500/yFOdER8Fc07DU6U3kq2PRcbvDR.jpg"
+    },
+    {
+      "nombre": "Steve Buscemi",
+      "personaje": "Dale",
+      "foto": "https://image.tmdb.org/t/p/w500/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+    },
+    {
+      "nombre": "Matan Friedman",
+      "personaje": "Caleb Birenbaum",
+      "foto": null
+    },
+    {
+      "nombre": "Eitan Friedman",
+      "personaje": "Ethan Birenbaum",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Julia Hart",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Fred Berger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Kavanaugh-Jones",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jordan Horowitz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Sandler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jackie Sandler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Laura Hankin",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Laura Hankin",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Roiff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Barry Weissler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dimitri Kouri",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Yuli",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Bryce Fortner",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Sophia Lin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Judit Maull",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Grady",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tim Grimes",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Shayar Bhansali",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Vanessa Porter",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Dan Wilcox",
+      "rol": "Music Supervisor"
+    }
+  ],
+  "director": "Julia Hart",
+  "valoraciones": {
+    "tmdb": 7.175,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Original Headquarters",
+  "enlace_video": "https://vimeos.net/embed-kko2w94tk90c.html",
+  "trailer": "https://www.youtube.com/watch?v=bvWqHSFkO5s"
+}
