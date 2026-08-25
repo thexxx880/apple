@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 656663,
+  "poster": "https://image.tmdb.org/t/p/w500/rCfviMjtmvMJUGBWK1xjUsQhn7S.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f2J8DpT5bqV0AiI9VVcfiuqKo5l.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iPwR293ZZ3xH07oTSmPpUt4dfrP.png",
+  "titulo": "Jackass por Siempre",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Documental"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.814,
+  "año": "2022",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "El equipo de Jackass ha vuelto para su cruzada final. Johnny Knoxville, Steve-O y el resto de la pandilla regresan para otra ronda de divertidas, salvajemente absurdas y a menudo, peligrosos retos.",
+  "fecha_estreno": "2022-02-01",
+  "titulo_original": "Jackass Forever",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Johnny Knoxville",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/7XDKsHsLC4uNYaGsuWG1tQXWRnu.jpg"
+    },
+    {
+      "nombre": "Steve-O",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/At4V4KPVOoBvWMtlZy6m4Wyvo3K.jpg"
+    },
+    {
+      "nombre": "Chris Pontius",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/fNthW6ozHId6veZmZO6dC1ofZhI.jpg"
+    },
+    {
+      "nombre": "Dave England",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/32OIQ5UTMGVCjsWoa6FNfnDeLtE.jpg"
+    },
+    {
+      "nombre": "Jason 'Wee Man' Acuña",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/TYKzbOeNATeI1t4c51K7wp3Ny3.jpg"
+    },
+    {
+      "nombre": "Ehren McGhehey",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/4q6TuSoHj5kk1AuJaI1TYLob2yd.jpg"
+    },
+    {
+      "nombre": "Preston Lacy",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/rJN0hgmardnLgQxmArsCPyDMSIf.jpg"
+    },
+    {
+      "nombre": "Zach Holmes",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/q5HxqgzpKIwhR9bKy51z5V0vlzE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Nick Kreiss",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Dave England",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Steve-O",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ehren McGhehey",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Preston Lacy",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jason 'Wee Man' Acuña",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Chris Pontius",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Colton Dunn",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chris Raab",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Emily Ting",
+      "rol": "Costumer"
+    },
+    {
+      "nombre": "Joseph Shirley",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Lisa Li",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Amanda Zohar",
+      "rol": "Assistant Sound Editor"
+    },
+    {
+      "nombre": "Kelly Vandever",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Leo Bovell",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Trip Brock",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Amanda Zohar",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Chris Giammalvo",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Raymond Park",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Kelly Vandever",
+      "rol": "Sound Re-Recording Mixer"
+    }
+  ],
+  "director": "Jeff Tremaine",
+  "valoraciones": {
+    "tmdb": 6.814,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/s9kq1aejyqoy",
+  "trailer": "https://www.youtube.com/watch?v=p74bzf-beGc"
+}
