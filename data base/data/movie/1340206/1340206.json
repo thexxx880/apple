@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 1340206,
+  "poster": "https://image.tmdb.org/t/p/w500/wyDcQxJAkDEtx2wxD5yP4JBU8d9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2f5Viug0j2jskSmeyhd89QYhqmS.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/lrLjRPRoHCD6owbZ5pBv8cxnSRY.png",
+  "titulo": "El afinador",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.422,
+  "año": "2026",
+  "duracion": "1h 49min",
+  "edad_minima": 13,
+  "sinopsis": "Las meticulosas habilidades de un talentoso afinador de pianos le llevan a descubrir una inesperada aptitud para abrir cajas fuertes, lo que pone su vida patas arriba.",
+  "fecha_estreno": "2026-05-21",
+  "titulo_original": "Tuner",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Leo Woodall",
+      "personaje": "Niki White",
+      "foto": "https://image.tmdb.org/t/p/w500/yv2JjEVm1jLR44ynkyYfhWP4I6r.jpg"
+    },
+    {
+      "nombre": "Havana Rose Liu",
+      "personaje": "Ruthie",
+      "foto": "https://image.tmdb.org/t/p/w500/lqdialbfdj5l4KYMSlL4aausMaV.jpg"
+    },
+    {
+      "nombre": "ליאור רז",
+      "personaje": "Uri",
+      "foto": "https://image.tmdb.org/t/p/w500/bl3KLFUQ4Q0zC9lCU4qP1Jf4qHS.jpg"
+    },
+    {
+      "nombre": "Tovah Feldshuh",
+      "personaje": "Marla",
+      "foto": "https://image.tmdb.org/t/p/w500/c0VOkTP88UneW37YOBebtBhMHYF.jpg"
+    },
+    {
+      "nombre": "Gil Cohen",
+      "personaje": "Yoni",
+      "foto": "https://image.tmdb.org/t/p/w500/lHZi4fChatE5ul54xaAAWppQ8sR.jpg"
+    },
+    {
+      "nombre": "Nissan Sakira",
+      "personaje": "Benny",
+      "foto": "https://image.tmdb.org/t/p/w500/hGr4YLXaNZ6nWOOQ9Wih6QNqOU.jpg"
+    },
+    {
+      "nombre": "Jean Yoon",
+      "personaje": "Dr. Madeline Richard",
+      "foto": "https://image.tmdb.org/t/p/w500/ce8sXtsy7HNGWG0xqSo4QTaghjM.jpg"
+    },
+    {
+      "nombre": "Jean Reno",
+      "personaje": "Marius Maissner",
+      "foto": "https://image.tmdb.org/t/p/w500/mw0EZJYz3kiFq9fNxsML773gotF.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Daniel Roher",
+      "rol": "Director"
+    },
+    {
+      "nombre": "JoAnne Sellar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lila Yacoub",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Teddy Schwarzman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Heimler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Daniel Roher",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Robert Ramsey",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lowell A. Meyer",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Greg O'Bryant",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John Buchan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Dylan Jury",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jason Knight",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Debra Zane",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Peter Cosco",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Andrea Kristof",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Andrew Hill",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Sarah Millman",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Candice Ornstein",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Kerry Vaughan",
+      "rol": "Key Makeup Artist"
+    }
+  ],
+  "director": "Daniel Roher",
+  "valoraciones": {
+    "tmdb": 7.422,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Black Bear Pictures",
+  "enlace_video": "https://hglink.to/e/eu3y1tlc6axf",
+  "trailer": "https://www.youtube.com/watch?v=XiehvETTjTQ"
+}
