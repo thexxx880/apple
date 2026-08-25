@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 69735,
+  "poster": "https://image.tmdb.org/t/p/w500/sDK83BJirIyEpHwtm4e3CpkS4q2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bNMw3onveTYU7PpLQRK0HQK8JRb.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/d7DyMDXZqU8aAlvQ9SGhlkBKPPp.png",
+  "titulo": "Batman: Año Uno",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Animación",
+    "Crimen",
+    "Drama",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.248,
+  "año": "2011",
+  "duracion": "1h 4min",
+  "edad_minima": 13,
+  "sinopsis": "Adaptación animada del aclamado cómic de Frank Miller. La historia del original cuenta los inicios de la carrera de Bruce Wayne como Batman y de James Gordon con el Departamento de Policía de Gotham City. La vida de estos dos individuos se entrelazan cuando descubren que son aliados en contra de los poderes corruptos en Gotham City. La historia también incluye la primera aparición del capo de la mafia Carmine Falcone.",
+  "fecha_estreno": "2011-09-27",
+  "titulo_original": "Batman: Year One",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ben McKenzie",
+      "personaje": "Batman / Bruce Wayne (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2jlwhOXKakL6gk365u4gPkTtHHi.jpg"
+    },
+    {
+      "nombre": "Bryan Cranston",
+      "personaje": "Jim Gordon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+    },
+    {
+      "nombre": "Eliza Dushku",
+      "personaje": "Selina (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lvu4Vo9GL7uOjtU59MDiy3QDPAZ.jpg"
+    },
+    {
+      "nombre": "Jon Polito",
+      "personaje": "Commissioner Loeb (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4HjxMy4Ir2dWz7ycX5l3sgxOY4g.jpg"
+    },
+    {
+      "nombre": "Alex Rocco",
+      "personaje": "Falcone (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uAG4qvYhYHuCyyXGm3lqC4o6ujc.jpg"
+    },
+    {
+      "nombre": "Katee Sackhoff",
+      "personaje": "Detective Essen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kzcwfDDrgXnVgyTfcpG0obOn7Qk.jpg"
+    },
+    {
+      "nombre": "Sara Ballantine",
+      "personaje": "Skeevers' Attorney (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1U5cbBlLEWGvtFY0fCgevwVNWQ4.jpg"
+    },
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Alfred (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lauren Montgomery",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sam Liu",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tab Murphy",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lauren Montgomery",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Frank Miller",
+      "rol": "Graphic Novel"
+    },
+    {
+      "nombre": "Christopher Berkeley",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "David Mazzucchelli",
+      "rol": "Graphic Novel"
+    },
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Michael Uslan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Margaret Hou",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Christopher D. Lozinski",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jay Oliva",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Benjamin Melniker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christopher Drake",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Bruce Timm",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Lauren Montgomery",
+  "valoraciones": {
+    "tmdb": 7.248,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/760fgsw942ki",
+  "trailer": "https://www.youtube.com/watch?v=s86sUsWRx0Q"
+}
