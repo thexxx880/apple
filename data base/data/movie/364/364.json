@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 364,
+  "poster": "https://image.tmdb.org/t/p/w500/nCwLr2j66erneCQhsmdFQfhpY5o.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7x4SNxO5HWArighxxFeet5sn3il.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/57LOzjJkiq6HSf2lLzQLMTrMZAu.png",
+  "titulo": "Batman regresa",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.949,
+  "año": "1992",
+  "duracion": "2h 6min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando un empresario corrupto y el grotesco Pingüino tratan de tomar el control de Ciudad Gótica, sólo Batman puede detenerlos, mientras que Gatúbela tiene sus propios planes.",
+  "fecha_estreno": "1992-06-19",
+  "titulo_original": "Batman Returns",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Michael Keaton",
+      "personaje": "Batman / Bruce Wayne",
+      "foto": "https://image.tmdb.org/t/p/w500/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+    },
+    {
+      "nombre": "Danny DeVito",
+      "personaje": "Penguin",
+      "foto": "https://image.tmdb.org/t/p/w500/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+    },
+    {
+      "nombre": "Michelle Pfeiffer",
+      "personaje": "Catwoman / Selina",
+      "foto": "https://image.tmdb.org/t/p/w500/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg"
+    },
+    {
+      "nombre": "Christopher Walken",
+      "personaje": "Max Shreck",
+      "foto": "https://image.tmdb.org/t/p/w500/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    },
+    {
+      "nombre": "Michael Gough",
+      "personaje": "Alfred",
+      "foto": "https://image.tmdb.org/t/p/w500/yoxoYUnySjL0Ccyle91AkPTxXbC.jpg"
+    },
+    {
+      "nombre": "Pat Hingle",
+      "personaje": "Commissioner Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/pSvLdAxEwluDOee7H1FV4yiq3a2.jpg"
+    },
+    {
+      "nombre": "Michael Murphy",
+      "personaje": "Mayor",
+      "foto": "https://image.tmdb.org/t/p/w500/3quWjoqh8vKoSXE9Ll3AC7pgsRh.jpg"
+    },
+    {
+      "nombre": "Cristi Conaway",
+      "personaje": "Ice Princess",
+      "foto": "https://image.tmdb.org/t/p/w500/wxBtTzVzrzm1ybkNMF9OWWXs6KO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tim Burton",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Denise Di Novi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tim Burton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Daniel Waters",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Daniel Waters",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Sam Hamm",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bo Welch",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ve Neill",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Bob Badami",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Chris Lebenzon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Danny Elfman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Stefan Czapsky",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Marion Dougherty",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Klexius Kolby",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Richard Drown",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Scott Sproule",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kathy Long",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "David Lea",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Tim Burton",
+  "valoraciones": {
+    "tmdb": 6.949,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/n1ivh7cm88po",
+  "trailer": "https://www.youtube.com/watch?v=TlbtLfWvFbo"
+}
