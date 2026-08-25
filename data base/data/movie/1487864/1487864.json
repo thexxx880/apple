@@ -1,0 +1,133 @@
+{
+  "id_tmdb": 1487864,
+  "poster": "https://image.tmdb.org/t/p/w500/jgIHdtYjvqNRMRcJFVnGUcLmNIb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xsYKXRB5iBiIviMKyBonwd5k0Dg.png",
+  "titulo": "Nando entre dos mundos: Una película de Sintonía",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Suspense",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.763,
+  "año": "2026",
+  "duracion": "1h 49min",
+  "edad_minima": 13,
+  "sinopsis": "Nando, atrapado entre la vida familiar y sus obligaciones con el inframundo criminal, enfrenta una encrucijada imposible: decidir dónde depositar su lealtad.",
+  "fecha_estreno": "2026-08-12",
+  "titulo_original": "Nando Entre Dois Mundos: Um Filme Sintonia",
+  "pais_origen": "Brazil",
+  "reparto": [
+    {
+      "nombre": "Christian Malheiros",
+      "personaje": "Nando/N.D da V.A",
+      "foto": "https://image.tmdb.org/t/p/w500/brlrAurMpSNgxDbVmuliSKzIU5x.jpg"
+    },
+    {
+      "nombre": "Duda Pimenta",
+      "personaje": "Bruna",
+      "foto": "https://image.tmdb.org/t/p/w500/aWU2sH70U2dNnCSVIE2em7M9Qt9.jpg"
+    },
+    {
+      "nombre": "Julia Yamaguchi",
+      "personaje": "Scheyla",
+      "foto": "https://image.tmdb.org/t/p/w500/ySfdMXqhfJFbTmv3NYjMeoZ5tkn.jpg"
+    },
+    {
+      "nombre": "Jottapê",
+      "personaje": "Doni",
+      "foto": "https://image.tmdb.org/t/p/w500/abA5dh1Ymc1lt0feLKjm1edQF6T.jpg"
+    },
+    {
+      "nombre": "Bruna Mascarenhas",
+      "personaje": "Rita",
+      "foto": "https://image.tmdb.org/t/p/w500/3b5je1h0otETtktRLrLYASvMYby.jpg"
+    },
+    {
+      "nombre": "Enio Cavalcante",
+      "personaje": "Joel",
+      "foto": "https://image.tmdb.org/t/p/w500/dsM5QrDS8GrFwnnrp8HXMwlNS53.jpg"
+    },
+    {
+      "nombre": "Henrique Santana",
+      "personaje": "Moicano",
+      "foto": null
+    },
+    {
+      "nombre": "Victor Galisteu",
+      "personaje": "Murilo",
+      "foto": "https://image.tmdb.org/t/p/w500/aqVbop5ApWifSLexYhQvtp10iaB.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "KondZilla",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Felipe Braga",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Guilherme Moraes Quintella",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Johnny Araújo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Léo Todeschini",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Denis Nielsen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Caio Gullane",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fabiano Gullane",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Caio Gullane",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ana Saito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marina Puech Leão",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cristiane Façanha",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Johnny Araújo",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Viviane Zangrossi",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "director": "Johnny Araújo",
+  "valoraciones": {
+    "tmdb": 5.763,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gullane Entretenimento",
+  "enlace_video": "https://gscdn.cam/video/embed/8ofz8bgalxvx",
+  "trailer": ""
+}
