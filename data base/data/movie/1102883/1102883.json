@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1102883,
+  "poster": "https://image.tmdb.org/t/p/w500/icFriZyktJO96UX9BMqEFJU3J7P.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9eynUDRhChIsgSYLK82aC4zIQ2M.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jgxTAD0MidSRbvoiiGyGba3YAsS.png",
+  "titulo": "Mother Mary",
+  "trending": false,
+  "generos": [
+    "Música",
+    "Drama",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.73,
+  "año": "2026",
+  "duracion": "1h 38min",
+  "edad_minima": 13,
+  "sinopsis": "Viejas heridas enterradas salen a la luz cuando la icónica estrella del pop, Mother Mary, se reencuentra con su distanciada mejor amiga y exdiseñadora de vestuario, Sam Anselm, en la víspera de su actuación de regreso.",
+  "fecha_estreno": "2026-04-16",
+  "titulo_original": "Mother Mary",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Anne Hathaway",
+      "personaje": "Mother Mary",
+      "foto": "https://image.tmdb.org/t/p/w500/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+      "nombre": "Michaela Coel",
+      "personaje": "Sam Anselm",
+      "foto": "https://image.tmdb.org/t/p/w500/rbN1F0R8DMUh6IYwl0owyD8LukN.jpg"
+    },
+    {
+      "nombre": "Hunter Schafer",
+      "personaje": "Hilda Offer",
+      "foto": "https://image.tmdb.org/t/p/w500/AilBKow2NuvPBQbvGRx69RxKUBi.jpg"
+    },
+    {
+      "nombre": "FKA twigs",
+      "personaje": "Imogen",
+      "foto": "https://image.tmdb.org/t/p/w500/8bUUu7jPEY1aQgAtJXM2NyYpfgN.jpg"
+    },
+    {
+      "nombre": "Sian Clifford",
+      "personaje": "Jade",
+      "foto": "https://image.tmdb.org/t/p/w500/rIqcwewXdkrDTMTwX56QPa7MNTC.jpg"
+    },
+    {
+      "nombre": "Kaia Gerber",
+      "personaje": "Nikki",
+      "foto": "https://image.tmdb.org/t/p/w500/wO3y1JaO32GhqTVE7AE3ABkz1o7.jpg"
+    },
+    {
+      "nombre": "Alba Baptista",
+      "personaje": "Miel Contrera",
+      "foto": "https://image.tmdb.org/t/p/w500/gV5LYhN7BRc7xjySFek9gdm5tNA.jpg"
+    },
+    {
+      "nombre": "Atheena Frizzell",
+      "personaje": "Emily",
+      "foto": "https://image.tmdb.org/t/p/w500/lHMiMYEXUMoemgqcuzz8t2Lhp62.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Lowery",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "David Lowery",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Maximilian Leo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jonathan Saubach",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Toby Halbrooks",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jonas Katzenstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeanie Igoe",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James M. Johnston",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bina Daigeler",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Daniel Hart",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jack Antonoff",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Charli xcx",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "James M. Johnston",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Stefan Hollekamp",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Johnny Marshall",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Francesca Balestra Di Mottola",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ryan Heller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Bloom",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrew Droz Palermo",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Christopher Barnett",
+      "rol": "Sound Re-Recording Mixer"
+    }
+  ],
+  "director": "David Lowery",
+  "valoraciones": {
+    "tmdb": 5.73,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "A24",
+  "enlace_video": "https://gscdn.cam/video/embed/oe1766t8mcx4",
+  "trailer": "https://www.youtube.com/watch?v=aqYHOsuje1E"
+}
