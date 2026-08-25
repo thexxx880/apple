@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 408648,
+  "poster": "https://image.tmdb.org/t/p/w500/cC5zcStR6WJExkthMmKwXrOfrBs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/twCXJuIQxTsor1fZm4QeAfVeiao.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uH8VzzlHBXX0yTUP34DTeiqCg4.png",
+  "titulo": "Batman y Harley Quinn",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Crimen",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.178,
+  "año": "2017",
+  "duracion": "1h 14min",
+  "edad_minima": 13,
+  "sinopsis": "Batman y Nightwing se ven forzados a formar una frágil alianza con Harley Quinn para así detener a Hiedra Venenosa y Floronic Man, quienes están transformando en plantas a los ciudadanos.",
+  "fecha_estreno": "2017-07-21",
+  "titulo_original": "Batman and Harley Quinn",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Kevin Conroy",
+      "personaje": "Batman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zvWhAwO2l8Kb5IJTwTbKzURypg7.jpg"
+    },
+    {
+      "nombre": "Melissa Rauch",
+      "personaje": "Harley Quinn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2gdX9GwWL8ulRSYFv8iQ4ZP69Yp.jpg"
+    },
+    {
+      "nombre": "Paget Brewster",
+      "personaje": "Poison Ivy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nq9ZuGPvzyfS8dOuPWTQUw7Igxg.jpg"
+    },
+    {
+      "nombre": "Loren Lester",
+      "personaje": "Nightwing (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AmdxCKx7ehFXtOglUH02iewTHqI.jpg"
+    },
+    {
+      "nombre": "Kevin Michael Richardson",
+      "personaje": "Jason Woodrue (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    },
+    {
+      "nombre": "Eric Bauza",
+      "personaje": "Wesley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+    },
+    {
+      "nombre": "Trevor Devall",
+      "personaje": "Bobby Liebowitz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iCFqgVzkhLkMOw9DKmUmfQ3OyCZ.jpg"
+    },
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "Sarge Steel (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sam Liu",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bruce Timm",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bruce Timm",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jim Krieg",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael McCuistion",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Kristopher Carter",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Lolita Ritmanis",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Amy McKenna",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Matthew Mahoney",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Mark A. Keatts",
+      "rol": "Supervising Dialogue Editor"
+    },
+    {
+      "nombre": "David M. Cowan",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "David M. Cowan",
+      "rol": "ADR Editor"
+    },
+    {
+      "nombre": "Kelly Ann Foley",
+      "rol": "ADR Editor"
+    },
+    {
+      "nombre": "Kelly Ann Foley",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Patrick J. Foley",
+      "rol": "ADR Editor"
+    },
+    {
+      "nombre": "Patrick J. Foley",
+      "rol": "Dialogue Editor"
+    }
+  ],
+  "director": "Sam Liu",
+  "valoraciones": {
+    "tmdb": 6.178,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC Entertainment",
+  "enlace_video": "https://gscdn.cam/video/embed/5kix5jgl8zbf",
+  "trailer": "https://www.youtube.com/watch?v=fPL8uL1h8FA"
+}
