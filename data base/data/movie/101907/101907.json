@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 101907,
+  "poster": "https://image.tmdb.org/t/p/w500/4NS7L9xtGEOsZA0gnqdQBI7QiXu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p0cYNkCjGYOJxUsk3hoPmYFFlSO.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/o8kPjawaREkUqT4fxqcA6iiazZA.png",
+  "titulo": "Hulk vs. Thor",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Animación",
+    "Fantasía",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.798,
+  "año": "2009",
+  "duracion": "0h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Loki, en su ambición por dominar Asgard, manipula a Bruce Banner para separar a Hulk de su humanidad. Tras tomar control de la bestia y eliminar a Banner, desata una amenaza imparable, poniendo en riesgo el reino y a su hermano Thor.",
+  "fecha_estreno": "2009-01-27",
+  "titulo_original": "Hulk vs. Thor",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Fred Tatasciore",
+      "personaje": "Hulk (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    },
+    {
+      "nombre": "Graham McTavish",
+      "personaje": "Loki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qpKVz46PkKVaXzthcJO4ldFPdM9.jpg"
+    },
+    {
+      "nombre": "Matthew Wolf",
+      "personaje": "Thor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/x3Lrc41VrY5wf0KsJNCUvyCjHhc.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Sif (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Bryce Johnson",
+      "personaje": "Bruce Banner (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/m27ITiYlBJ4biPS8dmZ9W5QOPZX.jpg"
+    },
+    {
+      "nombre": "Kari Wahlgren",
+      "personaje": "Amora the Enchantress (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg"
+    },
+    {
+      "nombre": "Janyse Jaud",
+      "personaje": "Hela (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7ZvfIfmgkU2B8jA25czUoKXXq6e.jpg"
+    },
+    {
+      "nombre": "Jay Brazeau",
+      "personaje": "Volstagg (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sfZmnOv1Nd6jqeks5QtsW2Co3uH.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sam Liu",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Frank Paur",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher L. Yost",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Frank Paur",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Craig Kyle",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gary Hartle",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Jay Oliva",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Lauren Montgomery",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Tim Divar",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "George Rizkallah",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jamie Simone",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Ken Katsumoto",
+      "rol": "Executive In Charge Of Production"
+    },
+    {
+      "nombre": "Eric S. Rollman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carrie Wassenaar",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Craig Kyle",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "director": "Sam Liu",
+  "valoraciones": {
+    "tmdb": 6.798,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Animation",
+  "enlace_video": "https://rumble.com/hls-vod/6wiy9w/playlist.m3u8?u=0&b=0",
+  "trailer": ""
+}
