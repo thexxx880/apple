@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 1927,
+  "poster": "https://image.tmdb.org/t/p/w500/iXZq1LvlsmR9PMryzcGmOt9vuZe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8vQBXqDbb30qNpBcNYwTesSg75.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ulcecwSxeLcye1ZBbRWADy59oYe.png",
+  "titulo": "Hulk",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Aventura",
+    "Acción",
+    "Drama"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 5.6,
+  "año": "2003",
+  "duracion": "2h 18min",
+  "edad_minima": 13,
+  "sinopsis": "Bruce Banner (Eric Bana), un brillante investigador en el campo de la tecnología genética, oculta un pasado doloroso que lo ha dejado estigmatizado. Su antigua novia, la investigadora Betty Ross (Jennifer Connelly), que perdió la paciencia esperando que recuperara la estabilidad emocional, fue testigo de un grave accidente sufrido por Banner en el laboratorio: debido a una explosión el cuerpo del científico absorbió una dosis letal de rayos gamma; desde entonces, Banner empezó a sentir en su interior la presencia de un ente peligroso y, a la vez, oscuramente atractivo. Mientras tanto, Hulk, una criatura salvaje y prodigiosamente fuerte aparece esporádicamente, dejando tras de sí una estela de destrucción.",
+  "fecha_estreno": "2003-06-19",
+  "titulo_original": "Hulk",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Eric Bana",
+      "personaje": "Bruce Banner",
+      "foto": "https://image.tmdb.org/t/p/w500/l9yoDgw3YFC2gMD1HTo5djGOwSY.jpg"
+    },
+    {
+      "nombre": "Jennifer Connelly",
+      "personaje": "Betty Ross",
+      "foto": "https://image.tmdb.org/t/p/w500/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
+    },
+    {
+      "nombre": "Sam Elliott",
+      "personaje": "Ross",
+      "foto": "https://image.tmdb.org/t/p/w500/zE1fpXlIUo7fcujlVlGvHdDiCv6.jpg"
+    },
+    {
+      "nombre": "Josh Lucas",
+      "personaje": "Talbot",
+      "foto": "https://image.tmdb.org/t/p/w500/ueR4CH32f22DGjFxuhnW1o3YKB3.jpg"
+    },
+    {
+      "nombre": "Nick Nolte",
+      "personaje": "Father",
+      "foto": "https://image.tmdb.org/t/p/w500/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+      "nombre": "Paul Kersey",
+      "personaje": "Young David Banner",
+      "foto": "https://image.tmdb.org/t/p/w500/l6yMPZRKUdMqjet9xZeApLarfCS.jpg"
+    },
+    {
+      "nombre": "Todd Tesen",
+      "personaje": "Young Ross",
+      "foto": "https://image.tmdb.org/t/p/w500/wzAFRAEBCbn9zOxKR52v9qnQ2Ol.jpg"
+    },
+    {
+      "nombre": "Cara Buono",
+      "personaje": "Edith Banner",
+      "foto": "https://image.tmdb.org/t/p/w500/QQv5pitEXvrGR4sgECvNDLwhTG.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Gale Anne Hurd",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Schamus",
+      "rol": "Story"
+    },
+    {
+      "nombre": "James Schamus",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "James Schamus",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Turman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Michael France",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Larry Franco",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Frederick Elmes",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Danny Elfman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jack Kirby",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tim Squyres",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marit Allen",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Avy Kaufman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Franklyn Warren",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Dane Farwell",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Bevin Kaye",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "李安",
+  "valoraciones": {
+    "tmdb": 5.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Enterprises",
+  "enlace_video": "https://gscdn.cam/video/embed/745q84triqzv",
+  "trailer": "https://www.youtube.com/watch?v=4HVY_k1HrzI"
+}
