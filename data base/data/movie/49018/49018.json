@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 49018,
+  "poster": "https://image.tmdb.org/t/p/w500/3myfmbsEApam7jaPosW2Q76qdkS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tJvRdhlkonjBLBUpTqp0RPPujxJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9s6Puvh0W9hmgiHUHgTncuStp7j.png",
+  "titulo": "La noche del demonio",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.951,
+  "año": "2011",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Una familia descubre que los espíritus oscuros han invadido su hogar después de que su hijo inexplicablemente cae en un sueño sin fin. Cuando llegan a un profesional para obtener ayuda, aprenden que las cosas son mucho más personales de lo que pensaban.",
+  "fecha_estreno": "2011-03-31",
+  "titulo_original": "Insidious",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Patrick Wilson",
+      "personaje": "Josh Lambert",
+      "foto": "https://image.tmdb.org/t/p/w500/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+    },
+    {
+      "nombre": "Rose Byrne",
+      "personaje": "Renai Lambert",
+      "foto": "https://image.tmdb.org/t/p/w500/4Vd7w19asuBfUGgz0NIuQI5wxIA.jpg"
+    },
+    {
+      "nombre": "Lin Shaye",
+      "personaje": "Elise Rainier",
+      "foto": "https://image.tmdb.org/t/p/w500/aL87Za52elH81zMiXQn5C7AXAeg.jpg"
+    },
+    {
+      "nombre": "Ty Simpkins",
+      "personaje": "Dalton Lambert",
+      "foto": "https://image.tmdb.org/t/p/w500/8FyJcMFmPdCSfz2Zc5ZcAKrIorj.jpg"
+    },
+    {
+      "nombre": "Barbara Hershey",
+      "personaje": "Lorraine Lambert",
+      "foto": "https://image.tmdb.org/t/p/w500/6swwfge3HlvyBVRSNwroFtMcgNB.jpg"
+    },
+    {
+      "nombre": "Leigh Whannell",
+      "personaje": "Specs",
+      "foto": "https://image.tmdb.org/t/p/w500/wvoTbsROOHfCqJ3Voe9zpal429L.jpg"
+    },
+    {
+      "nombre": "Angus Sampson",
+      "personaje": "Tucker",
+      "foto": "https://image.tmdb.org/t/p/w500/8EX6ul2zyVUg91oDvI3RpYS5szV.jpg"
+    },
+    {
+      "nombre": "Andrew Astor",
+      "personaje": "Foster Lambert",
+      "foto": "https://image.tmdb.org/t/p/w500/aCCCImK8mThTIWgF3d67V4gEt8p.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Oren Peli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Steven Schneider",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Leigh Whannell",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jason Blum",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John R. Leonetti",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Brian Kavanaugh-Jones",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anne McCarthy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "David M. Brewer",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Joseph Bishara",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Aaron Becker",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "Justin T. Woods",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Michael A. Galasso",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Katina Waters",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Danny Downey",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Dennis Alaniz",
+      "rol": "Additional Editor"
+    },
+    {
+      "nombre": "Albert Cho",
+      "rol": "First Assistant Director"
+    }
+  ],
+  "director": "James Wan",
+  "valoraciones": {
+    "tmdb": 6.951,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Alliance Films",
+  "enlace_video": "https://gscdn.cam/video/embed/242az0kfvz54",
+  "trailer": "https://www.youtube.com/watch?v=62rpZcMYa0A"
+}
