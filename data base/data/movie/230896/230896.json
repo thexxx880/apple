@@ -1,0 +1,132 @@
+{
+  "id_tmdb": 230896,
+  "poster": "https://image.tmdb.org/t/p/w500/xz9WKyI3Bz33HzsR7hQgPpIoiC9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/909eoRF1vXvoAzQLMSijjrf2ZJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/cJmUsqtg628UYDyhEIr38sSyC77.png",
+  "titulo": "Iron Man y Hulk: Héroes unidos",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.939,
+  "año": "2013",
+  "duracion": "1h 11min",
+  "edad_minima": 13,
+  "sinopsis": "¡El Hombre de Hierro Invencible y Hulk Increíble se deben afiliar a fuerzas para salvar la Tierra de su mayor amenaza aún! Cuando dos científicos de Hydra tratan de supercobrar un Reactor del Arco Duro de la energía Gamma de Hulk, sueltan a un ser de la electricidad pura llamada Zzzax - y tiene hambre para la destrucción. Juntos, el Hombre de Hierro y Hulk son la única fuerza que está de pie en el camino del apagón planetario de Zzzax. Pero primero, el dúo heroico súper tendrá que pasar el gruñido de Wendigos, robots mortales y la central eléctrica escamosa, Abominación. ¿Pueden dos de los héroes más fuertes de la Maravilla encontrar una manera de colaborar sin romper el uno al otro antes de que el tiempo se agote?",
+  "fecha_estreno": "2013-12-03",
+  "titulo_original": "Iron Man & Hulk: Heroes United",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Adrian Pasdar",
+      "personaje": "Iron Man / Tony Stark (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4KdM69ljovbLumGoVe8ct9s6GJm.jpg"
+    },
+    {
+      "nombre": "Fred Tatasciore",
+      "personaje": "The Hulk (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Dr. Cruler / Zzzax (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Robin Atkin Downes",
+      "personaje": "Dr. Fump / Abomination (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"
+    },
+    {
+      "nombre": "David Kaye",
+      "personaje": "Jarvis (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/izxtFSio5twcVA1oJWPvobxpcZj.jpg"
+    },
+    {
+      "nombre": "Liam O'Brien",
+      "personaje": "The Red Skull (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ko7Bba6fQEaAbVFAp1kQHTzuYCp.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Leo Riley",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Henry Gilroy",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Brandon Auman",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Todd Casey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eric Radomski",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lori Gloede",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tammy Holguin",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Leo Riley",
+      "rol": "Supervising Technical Director"
+    },
+    {
+      "nombre": "Jeph Loeb",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joe Quesada",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Buckley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Emily Chiu",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Alan Fine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jacob Kindberg",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Adam Redding",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Leo Riley",
+  "valoraciones": {
+    "tmdb": 5.939,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Animation",
+  "enlace_video": "https://rumble.com/hls-vod/6wiyxk/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=cr-cyTGtzy8"
+}
