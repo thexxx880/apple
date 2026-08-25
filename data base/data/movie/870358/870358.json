@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 870358,
+  "poster": "https://image.tmdb.org/t/p/w500/9TIuqkEdEZtEpLMSC6JZ5wWEbR3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/t4I3Zsbuk6G9yOL8Gn6dOWIbqJm.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nzrbBzZrLwQmLRR8zphcwdgW1Bq.png",
+  "titulo": "Un pequeño Batman Navideño",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Familia",
+    "Comedia"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.64,
+  "año": "2023",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Esta Navidad, Damian Wayne quiere ser un superhéroe como su papá, el único e inigualable Batman. Cuando Damian se queda solo en casa, mientras Batman se enfrenta a los peores supervillanos de Gótica durante la Nochebuena, se topa con un plan malvado para robarse la Navidad y aprovecha la oportunidad para salvar el día.",
+  "fecha_estreno": "2023-12-08",
+  "titulo_original": "Merry Little Batman",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Yonas Kibreab",
+      "personaje": "Damian Wayne / Little Batman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vp7wBIQ4MkfJJ5KfN8bMOLxdSJE.jpg"
+    },
+    {
+      "nombre": "Luke Wilson",
+      "personaje": "Bruce Wayne / Batman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nH1h9dZGSBuWIOyX27HpYyYykvr.jpg"
+    },
+    {
+      "nombre": "James Cromwell",
+      "personaje": "Alfred Pennyworth (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+    },
+    {
+      "nombre": "David Hornsby",
+      "personaje": "The Joker / Fireman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wL20daMDqsa9ALA7EQrzgFyIMvz.jpg"
+    },
+    {
+      "nombre": "Dolph Adomian",
+      "personaje": "Mr. Freeze / Annoyed Man (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Michael Fielding",
+      "personaje": "Terry (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yZnhH7dkuzpOYQmZarSfMhUvN08.jpg"
+    },
+    {
+      "nombre": "Brian George",
+      "personaje": "The Penguin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mHjc58pfKkxtghhliPOnNz0SlcT.jpg"
+    },
+    {
+      "nombre": "Therese McLaughlin",
+      "personaje": "Poison Ivy / Hostage Woman / Concerned Citizen (voice)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Mike Roth",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Morgan Evans",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jase Ricci",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mike Roth",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Morgan Evans",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Rebecca Palatnik",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mike Roth",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Patrick Stump",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Chuck Dixon",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Graham Nolan",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Doug Moench",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Kristi Reed",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Sarah Noonan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Morgan Rudner",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Guillaume Fesquet",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Daby Zainab Faidhi",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Andres Salaff",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "director": "Mike Roth",
+  "valoraciones": {
+    "tmdb": 6.64,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/j62q1zjs8ivl",
+  "trailer": "https://www.youtube.com/watch?v=4g_t8yo2SVM"
+}
