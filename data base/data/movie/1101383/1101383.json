@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1101383,
+  "poster": "https://image.tmdb.org/t/p/w500/hT5qnmx9FXGkuBy5Vo1DkOoYyuS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/gtkwRPiT58EXCU5OuTQm8ADlDOQ.png",
+  "titulo": "El final de la Calle Oak",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Misterio",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.385,
+  "año": "2026",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Tras un misterioso suceso cósmico que arranca Oak Street de sus suburbios y transporta su vecindario a un lugar desconocido, la familia Platt pronto se adaptarán a un entorno ahora irreconocible.",
+  "fecha_estreno": "2026-08-12",
+  "titulo_original": "The End of Oak Street",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Anne Hathaway",
+      "personaje": "Denise Platt",
+      "foto": "https://image.tmdb.org/t/p/w500/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+      "nombre": "Ewan McGregor",
+      "personaje": "Greg Platt",
+      "foto": "https://image.tmdb.org/t/p/w500/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg"
+    },
+    {
+      "nombre": "Christian Convery",
+      "personaje": "Brian Platt",
+      "foto": "https://image.tmdb.org/t/p/w500/tOR2tSrvHPVDltE4jBDEva3GNqY.jpg"
+    },
+    {
+      "nombre": "Maisy Stella",
+      "personaje": "Audrey Platt",
+      "foto": "https://image.tmdb.org/t/p/w500/dlnP0Yzbr9EEbVg6M0PQVQ7pwUF.jpg"
+    },
+    {
+      "nombre": "Jordan Alexa Davis",
+      "personaje": "Jeannette Christiansen",
+      "foto": "https://image.tmdb.org/t/p/w500/itz31u3sG9hAlwuFZ6FWz1KhY1R.jpg"
+    },
+    {
+      "nombre": "P.J. Byrne",
+      "personaje": "Mel Jacobs",
+      "foto": "https://image.tmdb.org/t/p/w500/1JVBaxRy3OxkHymD3nwBd5kVWWL.jpg"
+    },
+    {
+      "nombre": "Bethany Anne Lind",
+      "personaje": "Mary Bagrowski",
+      "foto": "https://image.tmdb.org/t/p/w500/d0FjeKbWYhbTzFSimCnC9K1Maza.jpg"
+    },
+    {
+      "nombre": "Emily Kuroda",
+      "personaje": "Mrs. Valcour",
+      "foto": "https://image.tmdb.org/t/p/w500/yaZhAxSsElEaX0az2U6FUBN38ET.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Robert Mitchell",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Robert Mitchell",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Hannah Minghella",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Robert Mitchell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "J.J. Abrams",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Jackson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tommy Harper",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jon Cohen",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chris Bender",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jake Weiner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mike Gioulakis",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Maya Shimoguchi",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Riley Flanagan",
+      "rol": "Second Second Assistant Director"
+    },
+    {
+      "nombre": "Michael Hatzer",
+      "rol": "Digital Intermediate Colorist"
+    },
+    {
+      "nombre": "Leeann Stonebreaker",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Leeann Stonebreaker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Axelrad",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mark Bennett",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kim Khoo",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Michael Salven",
+      "rol": "First Assistant Director"
+    }
+  ],
+  "director": "David Robert Mitchell",
+  "valoraciones": {
+    "tmdb": 6.385,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://streamwish.to/e/dbww55bfufqa",
+  "trailer": "https://www.youtube.com/watch?v=u4tgctWuHc0"
+}
