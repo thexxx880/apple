@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 9012,
+  "poster": "https://image.tmdb.org/t/p/w500/cZB7b7b3hdlLPGZScmivgzAMzC8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zqd39GO0GdO5TaO8HxnkmWwu2p8.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/pynAZIPaDZib1QNR5O8Rlr1QHfn.png",
+  "titulo": "Jackass: La película",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Documental"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.336,
+  "año": "2002",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "Johnny Knoxville y el resto del reparto de la serie de televisión \"Jackass\" realizan las hazañas más escandalosas y divertidas en Japón, donde se disfrazan de pandas y atacan un campo de golf mas intensas que en la TV.",
+  "fecha_estreno": "2002-10-25",
+  "titulo_original": "Jackass: The Movie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Johnny Knoxville",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/7XDKsHsLC4uNYaGsuWG1tQXWRnu.jpg"
+    },
+    {
+      "nombre": "Bam Margera",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/4UiQ7FKhrwo0lUxBPPLZQSL2ZUb.jpg"
+    },
+    {
+      "nombre": "Steve-O",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/At4V4KPVOoBvWMtlZy6m4Wyvo3K.jpg"
+    },
+    {
+      "nombre": "Chris Pontius",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/fNthW6ozHId6veZmZO6dC1ofZhI.jpg"
+    },
+    {
+      "nombre": "Ryan Dunn",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/cP0846ILp23Sz5W2bEfJxQMMJts.jpg"
+    },
+    {
+      "nombre": "Jason 'Wee Man' Acuña",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/TYKzbOeNATeI1t4c51K7wp3Ny3.jpg"
+    },
+    {
+      "nombre": "Preston Lacy",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/rJN0hgmardnLgQxmArsCPyDMSIf.jpg"
+    },
+    {
+      "nombre": "Dave England",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/32OIQ5UTMGVCjsWoa6FNfnDeLtE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Johnny Knoxville",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Spike Jonze",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeff Tremaine",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jeff Tremaine",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeff Tremaine",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Dave England",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Phil Clapp",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Anne Zogby",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dimitry Elyashkevich",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "John Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kristine Young Gaffney",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Liz Ewart",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mark Hansen",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Dan Bradley",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Michelle Klepper",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Trip Taylor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jessica Swirnoff",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Sam Spiegel",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Dimitry Elyashkevich",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Sean Cliver",
+      "rol": "Co-Producer"
+    }
+  ],
+  "director": "Jeff Tremaine",
+  "valoraciones": {
+    "tmdb": 6.336,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lynch Siderow Productions",
+  "enlace_video": "https://streamwish.to/e/q5leti4tm1aw",
+  "trailer": "https://www.youtube.com/watch?v=GKuUHOqhKGM"
+}
