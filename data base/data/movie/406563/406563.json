@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 406563,
+  "poster": "https://image.tmdb.org/t/p/w500/cTc4svNfcS83LxudQK89tewy86Z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q1r0QUf4UVTqtkxOSMnTD8RyTaL.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/oyRgD1JLC4Fu12pwjx9wMn2o3XY.png",
+  "titulo": "La noche del demonio: La última llave",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.276,
+  "año": "2018",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "La parapsicóloga Elise Rainier se enfrenta a su pasado oscuro cuando regresa a su antigua casa familiar, donde se desata una serie de horrores paranormales que amenazan con destruir todo lo que ella conoce. Con su vida y su cordura en juego, Elise debe enfrentarse a sus propios demonios mientras lucha contra fuerzas malévolas que buscan dominarla.",
+  "fecha_estreno": "2018-01-03",
+  "titulo_original": "Insidious: The Last Key",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Lin Shaye",
+      "personaje": "Elise Rainier",
+      "foto": "https://image.tmdb.org/t/p/w500/aL87Za52elH81zMiXQn5C7AXAeg.jpg"
+    },
+    {
+      "nombre": "Leigh Whannell",
+      "personaje": "Specs",
+      "foto": "https://image.tmdb.org/t/p/w500/wvoTbsROOHfCqJ3Voe9zpal429L.jpg"
+    },
+    {
+      "nombre": "Angus Sampson",
+      "personaje": "Tucker",
+      "foto": "https://image.tmdb.org/t/p/w500/8EX6ul2zyVUg91oDvI3RpYS5szV.jpg"
+    },
+    {
+      "nombre": "Kirk Acevedo",
+      "personaje": "Ted Garza",
+      "foto": "https://image.tmdb.org/t/p/w500/jFUHECwo7L3KOZ0HxCQytl90qed.jpg"
+    },
+    {
+      "nombre": "Caitlin Gerard",
+      "personaje": "Imogen Rainier",
+      "foto": "https://image.tmdb.org/t/p/w500/z0iCiV5kUb3GtKSlJ5BFZMCuRy9.jpg"
+    },
+    {
+      "nombre": "Spencer Locke",
+      "personaje": "Melissa Rainier",
+      "foto": "https://image.tmdb.org/t/p/w500/2mHfjqDY8e3ZISkFmi1qjrMs7uN.jpg"
+    },
+    {
+      "nombre": "Josh Stewart",
+      "personaje": "Gerald Rainier",
+      "foto": "https://image.tmdb.org/t/p/w500/prgoT9fq5Z2ZCGmC1rrSZkq4wH9.jpg"
+    },
+    {
+      "nombre": "Tessa Ferrer",
+      "personaje": "Audrey Rainier",
+      "foto": "https://image.tmdb.org/t/p/w500/xFSplcK6C8giWrDlP7U0TNe2yUH.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Adam Robitel",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Leigh Whannell",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jason Blum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Oren Peli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Wan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Leigh Whannell",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Emily Brobst",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Cassandra McCormick",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jim Small",
+      "rol": "Assistant Location Manager"
+    },
+    {
+      "nombre": "Aaron A. Goffman",
+      "rol": "Additional Photography"
+    },
+    {
+      "nombre": "Aaron A. Goffman",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Meegan E. Godfrey",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Joseph Bishara",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Leigh Whannell",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Lisa Norcia",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Rick Osako",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Timothy Alverson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Toby Oliver",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Adam Robitel",
+  "valoraciones": {
+    "tmdb": 6.276,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Stage 6 Films",
+  "enlace_video": "https://gscdn.cam/video/embed/5kydz0jewzpr",
+  "trailer": "https://www.youtube.com/watch?v=lUwaosQZkHU"
+}
