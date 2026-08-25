@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 208134,
+  "poster": "https://image.tmdb.org/t/p/w500/x6P7Rukzxbt2lmpwMzNkM4atLl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1rNQG7LOjZheSN1iLGGxaey2254.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nNMvEUQH6HdxOTvB0tJq25PFtrc.png",
+  "titulo": "El abuelo sinvergüenza",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.2,
+  "año": "2013",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "Irving Zisman, de 86 años, está en un viaje por América con el compañero más improbable: su nieto de 8 años, Billy. Irving Zisman lleva a su joven e impresionable nieto a un viaje a través del país en el que ellos conocen a bailarines exóticos, clientes de un bar de motociclistas y otros ciudadanos inocentes.",
+  "fecha_estreno": "2013-10-22",
+  "titulo_original": "Jackass Presents: Bad Grandpa",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Johnny Knoxville",
+      "personaje": "Irving Zisman",
+      "foto": "https://image.tmdb.org/t/p/w500/7XDKsHsLC4uNYaGsuWG1tQXWRnu.jpg"
+    },
+    {
+      "nombre": "Jackson Nicoll",
+      "personaje": "Billy Zisman-Muskie",
+      "foto": "https://image.tmdb.org/t/p/w500/gWWEU4Ixt5KPYON5jwNSaTG0qg0.jpg"
+    },
+    {
+      "nombre": "Georgina Cates",
+      "personaje": "Kimmie Zisman",
+      "foto": "https://image.tmdb.org/t/p/w500/z6kXNLesRLmnMPhyAk2Pdb4loSS.jpg"
+    },
+    {
+      "nombre": "Catherine Keener",
+      "personaje": "Ellie Zisman",
+      "foto": "https://image.tmdb.org/t/p/w500/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+    },
+    {
+      "nombre": "Spike Jonze",
+      "personaje": "Gloria",
+      "foto": "https://image.tmdb.org/t/p/w500/x2QeqEXvi3QjgTybvZ4mmqUf4qO.jpg"
+    },
+    {
+      "nombre": "Kamber Hejlik",
+      "personaje": "Doctor",
+      "foto": null
+    },
+    {
+      "nombre": "Grasie Mercedes",
+      "personaje": "Hostess",
+      "foto": "https://image.tmdb.org/t/p/w500/j0kxXD9UzW0PrHlglYoEFqNAl1C.jpg"
+    },
+    {
+      "nombre": "Jack Polick",
+      "personaje": "Funeral Worker",
+      "foto": "https://image.tmdb.org/t/p/w500/ztR8ZvAd0Sn82so01wq2Ws0Hnd7.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Johnny Knoxville",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Johnny Knoxville",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeff Tremaine",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jeff Tremaine",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Johnny Knoxville",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Adam Small",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Derek Freda",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Spike Jonze",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lance Bangs",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Dimitry Elyashkevich",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Knate Gwaltney",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Koool G Murder",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Sam Spiegel",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ryan Arndt",
+      "rol": "Special Effects Technician"
+    },
+    {
+      "nombre": "Stephen Prouty",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Charles Grisham",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Anthony Burrell",
+      "rol": "Choreographer"
+    },
+    {
+      "nombre": "Joe “Oz\" Osborne",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Matthew Wilson Ross",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Barry Owen Smoter",
+      "rol": "Associate Producer"
+    }
+  ],
+  "director": "Jeff Tremaine",
+  "valoraciones": {
+    "tmdb": 6.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://vimeos.net/embed-7d3nq0mowo0a.html",
+  "trailer": "https://www.youtube.com/watch?v=_MSrAwfagG4"
+}
