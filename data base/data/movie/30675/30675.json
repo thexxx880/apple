@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 30675,
+  "poster": "https://image.tmdb.org/t/p/w500/dyu6DJSNWnEWxLnFlFkWFAgF9X9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bXpGsWpNuIL1GfxU9oakKv2a0Dx.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/dSJ0Ezz1Ow7tUtXf6ClyVlGtfz.png",
+  "titulo": "Planeta Hulk",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Animación",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.115,
+  "año": "2010",
+  "duracion": "1h 21min",
+  "edad_minima": 13,
+  "sinopsis": "Aunque en el planeta Tierra son pocos los que pueden hacer daño a Hulk, en el planeta Sakaar varios son igual de poderosos que él, debido a que pasó por una barrera absorbedora de vitalidad. Al principio Hulk no será mas que un esclavo pero, con el paso del tiempo, se convertirá en gladiador y líder rebelde con el objetivo de derrotar al Rey Rojo, que le mantiene prisionero junto a otros esclavos... Película que adapta los cómics homónimos protagonizados por Hulk y escritos por Greg Pak.",
+  "fecha_estreno": "2010-02-02",
+  "titulo_original": "Planet Hulk",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Rick D. Wasserman",
+      "personaje": "Hulk (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gjjsSK4WMvDQhComOC02ht1Yo26.jpg"
+    },
+    {
+      "nombre": "Lisa Ann Beley",
+      "personaje": "Caiera (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5Lz5k8JKoCE4NFK82gMOlMx6cK2.jpg"
+    },
+    {
+      "nombre": "Mark Hildreth",
+      "personaje": "Red King (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pHkXbCjIPbUSeOZLV3z6dnj8WVB.jpg"
+    },
+    {
+      "nombre": "Liam O'Brien",
+      "personaje": "Hiroim (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ko7Bba6fQEaAbVFAp1kQHTzuYCp.jpg"
+    },
+    {
+      "nombre": "Kevin Michael Richardson",
+      "personaje": "Korg (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    },
+    {
+      "nombre": "Sam Vincent",
+      "personaje": "Miek (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eJadsFcztqQZQIKzL5cMyasi1oa.jpg"
+    },
+    {
+      "nombre": "Advah Soudack",
+      "personaje": "Elloe Kaifi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wY9wZdQ6a3kTA0CnNGjDEEcDHrD.jpg"
+    },
+    {
+      "nombre": "Michael Kopsa",
+      "personaje": "Lavin Skee (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eGoaXyQMd9mfAkhc6PqMhFxef5m.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sam Liu",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Greg Johnson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Frank Paur",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Greg Pak",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Carlo Pagulayan",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Greg Johnson",
+      "rol": "Screenstory"
+    },
+    {
+      "nombre": "Craig Kyle",
+      "rol": "Screenstory"
+    },
+    {
+      "nombre": "Joshua Fine",
+      "rol": "Screenstory"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jack Kirby",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Joshua Fine",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Ken Katsumoto",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Craig Kyle",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Eric S. Rollman",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Sam Liu",
+  "valoraciones": {
+    "tmdb": 7.115,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/yewofpc5vwl6",
+  "trailer": "https://www.youtube.com/watch?v=l1Y88nfJhDM"
+}
