@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 16290,
+  "poster": "https://image.tmdb.org/t/p/w500/uPirN07su7LFixyZyLrNMMQ9u1E.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2RmJI0jfXMFF0br3pXQsHiy3lgh.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7bf4ZTEWTRJzydh6r0o160466zU.png",
+  "titulo": "Jackass 3D",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Documental",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.636,
+  "año": "2010",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "Jackass 3D es una película filmada en 3D y la tercera película de la serie de Jackass. Sigue la misma premisa que las dos primeras películas, así como las series de TV. Es una compilación de varias travesuras, trucos y parodias. Antes de que la película comience, una breve introducción es hecha por el Beavis y Butt-head explicando la tecnología 3D detrás de la película. La entrada presenta el molde alineación y luego atacarse por varios objetos en el ralentí. La película marca el 10o aniversario de la licencia, comenzada en 2000.",
+  "fecha_estreno": "2010-10-15",
+  "titulo_original": "Jackass 3D",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Johnny Knoxville",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/7XDKsHsLC4uNYaGsuWG1tQXWRnu.jpg"
+    },
+    {
+      "nombre": "Bam Margera",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/4UiQ7FKhrwo0lUxBPPLZQSL2ZUb.jpg"
+    },
+    {
+      "nombre": "Ryan Dunn",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/cP0846ILp23Sz5W2bEfJxQMMJts.jpg"
+    },
+    {
+      "nombre": "Steve-O",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/At4V4KPVOoBvWMtlZy6m4Wyvo3K.jpg"
+    },
+    {
+      "nombre": "Chris Pontius",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/fNthW6ozHId6veZmZO6dC1ofZhI.jpg"
+    },
+    {
+      "nombre": "Jason 'Wee Man' Acuña",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/TYKzbOeNATeI1t4c51K7wp3Ny3.jpg"
+    },
+    {
+      "nombre": "Preston Lacy",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/rJN0hgmardnLgQxmArsCPyDMSIf.jpg"
+    },
+    {
+      "nombre": "Ehren McGhehey",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/4q6TuSoHj5kk1AuJaI1TYLob2yd.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Spike Jonze",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Johnny Knoxville",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jeff Tremaine",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Madison Clapp",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sean Cliver",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "David Weathers",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Trip Taylor",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lance Bangs",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Harrison Stone",
+      "rol": "Co-Writer"
+    },
+    {
+      "nombre": "Clay Cullen",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Matthew Kosinski",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Amjad Albasel",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Seth Casriel",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Dimitry Elyashkevich",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Chris O'Connell",
+      "rol": "Visual Effects Editor"
+    },
+    {
+      "nombre": "Knate Gwaltney",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Liliana Colombo",
+      "rol": "Rotoscoping Artist"
+    },
+    {
+      "nombre": "Douglas Banks",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Van Toffler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Peter Blackmon",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Jeff Tremaine",
+  "valoraciones": {
+    "tmdb": 6.636,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "MTV Films",
+  "enlace_video": "https://vimeos.net/embed-2oh6ltggvryy.html",
+  "trailer": "https://www.youtube.com/watch?v=WWmwYzJ0Rs8"
+}
