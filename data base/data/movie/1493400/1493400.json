@@ -1,0 +1,135 @@
+{
+  "id_tmdb": 1493400,
+  "poster": "https://image.tmdb.org/t/p/w500/lUGn8nzz0wU0zoApaex8WmwaCpT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qK9GCg6yjYynL4THWjoNphn5JNN.png",
+  "titulo": "Camp Rock 3",
+  "trending": false,
+  "generos": [
+    "Música",
+    "Comedia",
+    "Drama",
+    "Película de TV",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.404,
+  "año": "2026",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "En Camp Rock, los Connect 3 están buscando un nuevo grupo para abrir sus conciertos en la gira. Entre los campistas, como Sage, Desi, Rosie y otros, la competencia por ganar ese codiciado lugar desata rivalidades y romances, mientras todos luchan por destacar.",
+  "fecha_estreno": "2026-08-13",
+  "titulo_original": "Camp Rock 3",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Liamani Segura",
+      "personaje": "Sage Scott",
+      "foto": "https://image.tmdb.org/t/p/w500/jqjmZQwrYQNj9QModC9HoEfF3N2.jpg"
+    },
+    {
+      "nombre": "Malachi Barton",
+      "personaje": "Fletch Robinson",
+      "foto": "https://image.tmdb.org/t/p/w500/lmV6ParCZkniV1OQO71xxfjFjaG.jpg"
+    },
+    {
+      "nombre": "Lumi Pollack",
+      "personaje": "Rosie Kleinman",
+      "foto": "https://image.tmdb.org/t/p/w500/ngKlo2wJ54OMDFgX3cpFEdsTvfi.jpg"
+    },
+    {
+      "nombre": "Hudson Stone",
+      "personaje": "Desi Scott",
+      "foto": "https://image.tmdb.org/t/p/w500/q7cpKCtm50jPnlYESislWb1H8Gr.jpg"
+    },
+    {
+      "nombre": "Casey Trotter",
+      "personaje": "Cliff Carmichael",
+      "foto": "https://image.tmdb.org/t/p/w500/xVCdT8ww3iuU8bPYG548GKK5Z8S.jpg"
+    },
+    {
+      "nombre": "Brooklynn Pitts",
+      "personaje": "Callie Banks",
+      "foto": "https://image.tmdb.org/t/p/w500/s4SC9qvQVzFYhd4WxPerCaC8uuy.jpg"
+    },
+    {
+      "nombre": "Sherry Cola",
+      "personaje": "Lark",
+      "foto": "https://image.tmdb.org/t/p/w500/fO6t05iJo4gqsTkOgPO1jwF4B4t.jpg"
+    },
+    {
+      "nombre": "Maria Canals-Barrera",
+      "personaje": "Connie Torres",
+      "foto": "https://image.tmdb.org/t/p/w500/bqlwEfG1oczOW0f8tsJ31lbIfPo.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Eydie Faye",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Veronica Rodriguez",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tim Federle",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Demi Lovato",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joe Jonas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nick Jonas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Jonas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jamal Sims",
+      "rol": "Choreographer"
+    },
+    {
+      "nombre": "Betsy Sullenger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Spencer Berman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gary Marsh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Vincent De Paula",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Danielle Aufiero",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tyler Bishop Harron",
+      "rol": "Production Design"
+    }
+  ],
+  "director": "Veronica Rodriguez",
+  "valoraciones": {
+    "tmdb": 6.404,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Chorus Boy",
+  "enlace_video": "https://gscdn.cam/video/embed/nhof23e5ay0z",
+  "trailer": "https://www.youtube.com/watch?v=mLXBZArUEoM"
+}
