@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 950028,
+  "poster": "https://image.tmdb.org/t/p/w500/dvMLCv3u989LO1tLLDYMJcK8TZo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/2thUpIEVR2KDkVANzFm97wOzOno.png",
+  "titulo": "La invitación",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.3,
+  "año": "2026",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "El matrimonio de Joe y Angela pende de un hilo. Cuando invitan a sus enigmáticos vecinos de arriba a una cena, la noche toma un rumbo inesperado.",
+  "fecha_estreno": "2026-06-25",
+  "titulo_original": "The Invite",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Seth Rogen",
+      "personaje": "Joe",
+      "foto": "https://image.tmdb.org/t/p/w500/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+      "nombre": "Olivia Wilde",
+      "personaje": "Angela",
+      "foto": "https://image.tmdb.org/t/p/w500/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
+    },
+    {
+      "nombre": "Penélope Cruz",
+      "personaje": "Piña",
+      "foto": "https://image.tmdb.org/t/p/w500/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
+    },
+    {
+      "nombre": "Edward Norton",
+      "personaje": "Hawk",
+      "foto": "https://image.tmdb.org/t/p/w500/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+    },
+    {
+      "nombre": "Skip Howland",
+      "personaje": "Doorman (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/mXgzTq5QFTcWDi5eJe2vFQnaZ47.jpg"
+    },
+    {
+      "nombre": "Mel Powell",
+      "personaje": "Bartender (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/qu7T2uxliIK6TbCp1JAVY5rWPLl.jpg"
+    },
+    {
+      "nombre": "Rachel Thurow",
+      "personaje": "Subway Goer (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/cmc9sL0MfauEeeyRPmMFvNDePhK.jpg"
+    },
+    {
+      "nombre": "Mario Valdez",
+      "personaje": "Subway Goer (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/4CShBxkTX3OLYtHjuAkMbzgKI5y.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Permut",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Megan Ellison",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ben Browning",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rashida Jones",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Will McCormack",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Olivia Wilde",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Patrick Chu",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cesc Gay",
+      "rol": "Original Film Writer"
+    },
+    {
+      "nombre": "Adam Newport-Berra",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jade Healy",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Γιώργος Μαυροψαρίδης",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Devonté Hynes",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Saul Germaine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shayne Fiske Goldner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Glen Basner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alex G. Scott",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alex Astrachan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anthony Boys",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Olivia Wilde",
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Annapurna Pictures",
+  "enlace_video": "https://scdn.cam/iframe/abc18f55f2837a94a02dca4359f5797b?token=5d10c26750cad1bea5b42d899168094c",
+  "trailer": "https://www.youtube.com/watch?v=nelkiuezJxg"
+}
