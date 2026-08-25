@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 537056,
+  "poster": "https://image.tmdb.org/t/p/w500/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eevJuYAitUe6VwFN29aFwzeyeTr.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6C6qP2AdzfZDIcrsMwrLb1CjPes.png",
+  "titulo": "Batman: Hush",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Animación",
+    "Crimen",
+    "Misterio"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.156,
+  "año": "2019",
+  "duracion": "1h 21min",
+  "edad_minima": 13,
+  "sinopsis": "Un nuevo villano de quien sólo se conoce el nombre, “Hush”, emplea a todos los enemigos de Gotham para destruir la vida tanto de Batman, el héroe, como la de Bruce Wayne, el empresario y playboy que ahora mantiene una relación íntima con Selina Kyle, también conocida como “Catwoman”. Adaptación de uno de los grandes clásicos del universo DC: “Batman: Hush” escrito por Jeph Loeb y dibujado por Jim Lee.",
+  "fecha_estreno": "2019-07-19",
+  "titulo_original": "Batman: Hush",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jason O'Mara",
+      "personaje": "Batman / Bruce Wayne (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9Cs9PD5pwUkFQPLmpp5e6wkFQoY.jpg"
+    },
+    {
+      "nombre": "Jennifer Morrison",
+      "personaje": "Catwoman / Selina Kyle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lTu5IRT6egUMfQeC3kFhNNzWvqV.jpg"
+    },
+    {
+      "nombre": "Maury Sterling",
+      "personaje": "Thomas Elliot (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dO9rd0F67Jt9hkcLw4CXERE9q1z.jpg"
+    },
+    {
+      "nombre": "Sean Maher",
+      "personaje": "Nightwing / Dick Grayson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/o7splcOIVAdbHnwohJOUAvXWVlk.jpg"
+    },
+    {
+      "nombre": "Geoffrey Arend",
+      "personaje": "The Riddler / Edward Nigma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bpqF3V5lK5GxuIU4VuTaVaztIvw.jpg"
+    },
+    {
+      "nombre": "James Garrett",
+      "personaje": "Alfred Pennyworth (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/40toPED1mRtO3EKYsXV6ssRP3Ba.jpg"
+    },
+    {
+      "nombre": "Jerry O'Connell",
+      "personaje": "Superman / Kal-El / Clark Kent (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/siMZhO5SIUc6K5sTKyVJRXmkoiG.jpg"
+    },
+    {
+      "nombre": "Rebecca Romijn",
+      "personaje": "Lois Lane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/doqFBHNbNhoLF9RX9SYPqwu1mvd.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Justin Copeland",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ernie Altbacker",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Amy McKenna",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jarelle Dampier",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Frederik Wiedmann",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jeph Loeb",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "James Tucker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Benjamin Melniker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Uslan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jim Krieg",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Phillip Bourassa",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Jim Lee",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Christopher D. Lozinski",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Justin Copeland",
+  "valoraciones": {
+    "tmdb": 7.156,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/9nktuu64h2ds",
+  "trailer": "https://www.youtube.com/watch?v=cQFFnUg0u70"
+}
