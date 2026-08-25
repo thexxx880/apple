@@ -1,0 +1,130 @@
+{
+  "id_tmdb": 790462,
+  "poster": "https://image.tmdb.org/t/p/w500/2ZgXNi458jc7DqdAMhsHpF1sX0I.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uNVm7P02IDiYsi9lul0aJ0lROBL.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kSzW8vTzUmkK5w9DOILfuohnvhR.png",
+  "titulo": "Estación Espacial Internacional",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.736,
+  "año": "2024",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando se produce un acontecimiento bélico mundial en la Tierra, Estados Unidos y Rusia, ambas naciones contactan en secreto con sus astronautas a bordo de la ISS y les dan instrucciones para que tomen el control de la estación por cualquier medio necesario.",
+  "fecha_estreno": "2024-01-19",
+  "titulo_original": "I.S.S.",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ariana DeBose",
+      "personaje": "Dr. Kira Foster",
+      "foto": "https://image.tmdb.org/t/p/w500/nfUaNCqCRe5KWF0XPmdn3eP1kPD.jpg"
+    },
+    {
+      "nombre": "Chris Messina",
+      "personaje": "Gordon Barrett",
+      "foto": "https://image.tmdb.org/t/p/w500/l9DbQTK5pI6SOGpmfbADGLhdOYS.jpg"
+    },
+    {
+      "nombre": "John Gallagher Jr.",
+      "personaje": "Christian Campbell",
+      "foto": "https://image.tmdb.org/t/p/w500/e4eEg5lH6Yk0OkpieUoUYdzl2Ui.jpg"
+    },
+    {
+      "nombre": "Мария Машкова",
+      "personaje": "Weronika Vetrov",
+      "foto": "https://image.tmdb.org/t/p/w500/akv5uUaBnS8KkqsM91aHx1HtlYd.jpg"
+    },
+    {
+      "nombre": "Costa Ronin",
+      "personaje": "Nicholai Pulov",
+      "foto": "https://image.tmdb.org/t/p/w500/6PjUNZ6HYCT5PlQdXFI1ue2tOls.jpg"
+    },
+    {
+      "nombre": "Pilou Asbæk",
+      "personaje": "Alexey Pulov",
+      "foto": "https://image.tmdb.org/t/p/w500/hUJAtjbYG7rqm54aoWtNWeeKjTY.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Mickey Liddell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pete Shilaimon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nick Shafir",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gabriela Cowperthwaite",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sean Vawter",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Mark Cacciatore",
+      "rol": "Assistant Property Master"
+    },
+    {
+      "nombre": "Cat Dawson",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Colin Patton",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Maria Bentfield",
+      "rol": "Set Decoration Buyer"
+    },
+    {
+      "nombre": "Kevin Hardison",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Alison Semenza",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Nick Remy Matthews",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mitchell Grobman",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Brandon Arrington",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Joseph Middleton",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mehrdod Heydari",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Gabriela Cowperthwaite",
+  "valoraciones": {
+    "tmdb": 5.736,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "LD Entertainment",
+  "enlace_video": "https://streamwish.to/e/44056bmzbanm",
+  "trailer": "https://www.youtube.com/watch?v=BywoLxuBgT0"
+}
