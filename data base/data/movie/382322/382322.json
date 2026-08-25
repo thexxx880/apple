@@ -1,0 +1,135 @@
+{
+  "id_tmdb": 382322,
+  "poster": "https://image.tmdb.org/t/p/w500/ouRndgsflwbSs54yWIQYwPDqIzl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2jApwp78umL4dK9uSBJAngNDiG9.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jpy7YZ6Qb1cx5xBkFA4NdEVjfbN.png",
+  "titulo": "Batman: La Broma Mortal",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Crimen",
+    "Drama",
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.607,
+  "año": "2016",
+  "duracion": "1h 17min",
+  "edad_minima": 13,
+  "sinopsis": "¿Qué se necesita para desquiciar una persona? ¿Cuánta desesperación quebranta una mente? Estas son las malévolas preguntas que el Joker se ha propuesto a responder, para demostrar a la Ciudad Gótica que hasta un hombre ordinario como el comisionado Gordon está a solo un mal día de la completa locura. Con base en la aclamada novela gráfica de DC Comics, sea testigo de un viaje dentro de la psique del Príncipe Payaso del Crimen. Siga sus humildes comienzos como un cómic que lucha hasta su fatídico encuentro con el Caballero de la Noche que lo cambió todo. Impulsado por el regreso de Kevin Conroy como Batman y Mark Hamill como el Joker, sea testigo del nacimiento de un súper villano, la fortaleza de un héroe y la frase clave que le quitará el habla.",
+  "fecha_estreno": "2016-07-24",
+  "titulo_original": "Batman: The Killing Joke",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Kevin Conroy",
+      "personaje": "Batman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zvWhAwO2l8Kb5IJTwTbKzURypg7.jpg"
+    },
+    {
+      "nombre": "Mark Hamill",
+      "personaje": "The Joker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    },
+    {
+      "nombre": "Tara Strong",
+      "personaje": "Barbara Gordon / Batgirl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
+    },
+    {
+      "nombre": "Ray Wise",
+      "personaje": "Commissioner Gordon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/60313U01R1j9eueDBXiIh9o55RQ.jpg"
+    },
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "Francesco (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+    },
+    {
+      "nombre": "Robin Atkin Downes",
+      "personaje": "Detective Bullock (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"
+    },
+    {
+      "nombre": "Brian George",
+      "personaje": "Alfred (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mHjc58pfKkxtghhliPOnNz0SlcT.jpg"
+    },
+    {
+      "nombre": "JP Karliak",
+      "personaje": "Reese (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7Rc3n8KmKUaztqfsIpddO1a2ggn.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Brian Azzarello",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sam Liu",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jon Suzuki",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "鹿島功光",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Brian Master",
+      "rol": "Online Editor"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Kelly Ann Foley",
+      "rol": "ADR Editor"
+    },
+    {
+      "nombre": "竹内一義",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Matt Singer",
+      "rol": "Post-Production Manager"
+    },
+    {
+      "nombre": "Kelly Ann Foley",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Matthew Mahoney",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Darren Griffiths",
+      "rol": "Online Editor"
+    },
+    {
+      "nombre": "Amy McKenna",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Mark A. Keatts",
+      "rol": "Supervising Dialogue Editor"
+    }
+  ],
+  "director": "Sam Liu",
+  "valoraciones": {
+    "tmdb": 6.607,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://vimeos.net/embed-6g0d27cp9tqf.html",
+  "trailer": "https://www.youtube.com/watch?v=ZQTqu1_iQkw"
+}
