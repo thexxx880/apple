@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 268,
+  "poster": "https://image.tmdb.org/t/p/w500/oNHCO2vQGVhXNzZdRZQim9x9HIx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rBN6GPKUDZ6ZKAQiEZegZ0DZb6V.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wW1ZNNd1wrGErQ5bWmyxZymytDy.png",
+  "titulo": "Batman",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Acción",
+    "Crimen"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.233,
+  "año": "1989",
+  "duracion": "2h 6min",
+  "edad_minima": 13,
+  "sinopsis": "La oscura y peligrosa Ciudad Gótica se halla protegida por su corrupto cuerpo de policía. A pesar de los esfuerzos del fiscal del distrito Harvey Dent y el comisionado de policía Jim Gordon, la ciudad es cada vez más insegura hasta que aparece Batman, el Señor de la Noche. La reconocida periodista Vicky Vale intentará descubrir el secreto que se oculta tras el hombre murciélago.",
+  "fecha_estreno": "1989-06-21",
+  "titulo_original": "Batman",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Michael Keaton",
+      "personaje": "Batman / Bruce Wayne",
+      "foto": "https://image.tmdb.org/t/p/w500/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+    },
+    {
+      "nombre": "Jack Nicholson",
+      "personaje": "Joker / Jack Napier",
+      "foto": "https://image.tmdb.org/t/p/w500/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg"
+    },
+    {
+      "nombre": "Kim Basinger",
+      "personaje": "Vicki Vale",
+      "foto": "https://image.tmdb.org/t/p/w500/iqQ4o2sRna7J1Z9KkB9Avp9CIsk.jpg"
+    },
+    {
+      "nombre": "Robert Wuhl",
+      "personaje": "Alexander Knox",
+      "foto": "https://image.tmdb.org/t/p/w500/hs8jxnVGOytAhwM9Y7Rab69ijdW.jpg"
+    },
+    {
+      "nombre": "Pat Hingle",
+      "personaje": "Commissioner Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/pSvLdAxEwluDOee7H1FV4yiq3a2.jpg"
+    },
+    {
+      "nombre": "Billy Dee Williams",
+      "personaje": "Harvey Dent",
+      "foto": "https://image.tmdb.org/t/p/w500/dCiHLiCapPuRwKkM1ytVZ7PwYQY.jpg"
+    },
+    {
+      "nombre": "Michael Gough",
+      "personaje": "Alfred",
+      "foto": "https://image.tmdb.org/t/p/w500/yoxoYUnySjL0Ccyle91AkPTxXbC.jpg"
+    },
+    {
+      "nombre": "Jack Palance",
+      "personaje": "Grissom",
+      "foto": "https://image.tmdb.org/t/p/w500/sRr2YPa1IElRE1vG1PQcgLrS9om.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tim Burton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Warren Skaaren",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Peter Guber",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jon Peters",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sam Hamm",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sam Hamm",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ray Lovejoy",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Roger Pratt",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Danny Elfman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Marion Dougherty",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Anton Furst",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Tony van Silva",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Terry Forrestal",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jim Dowdall",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Steve Whyment",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Nick Hobbs",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jeff Hewitt-Davis",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Tim Burton",
+  "valoraciones": {
+    "tmdb": 7.233,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://streamwish.to/e/otu37ea6yvrk",
+  "trailer": "https://www.youtube.com/watch?v=ygK7sAavO0c"
+}
