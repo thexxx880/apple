@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 2654,
+  "poster": "https://image.tmdb.org/t/p/w500/sBcKsjV9eEGj1m9dA7P4vwrnoA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uofxTi1d3IIAdRdyzKl5se5PGf1.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/orfyPGfCPhD9WDeL7L0mGIBLJrY.png",
+  "titulo": "En La Boca Del Miedo",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Misterio",
+    "Drama",
+    "Suspense",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.201,
+  "año": "1995",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "Un investigador de seguros comienza a descubrir que el impacto que los libros de un escritor de terror tienen en sus fanáticos es más que inspirador.",
+  "fecha_estreno": "1995-02-03",
+  "titulo_original": "In the Mouth of Madness",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sam Neill",
+      "personaje": "John Trent",
+      "foto": "https://image.tmdb.org/t/p/w500/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+      "nombre": "Julie Carmen",
+      "personaje": "Linda Styles",
+      "foto": "https://image.tmdb.org/t/p/w500/o8PSFlMyIAj6edruQNyf3JvoVA.jpg"
+    },
+    {
+      "nombre": "Jürgen Prochnow",
+      "personaje": "Sutter Cane",
+      "foto": "https://image.tmdb.org/t/p/w500/45gcCuTcZdqpVISh5C8q1N9HyEz.jpg"
+    },
+    {
+      "nombre": "David Warner",
+      "personaje": "Dr. Wrenn",
+      "foto": "https://image.tmdb.org/t/p/w500/AlsZcAY2c4chfOxMW69gHQzH1B2.jpg"
+    },
+    {
+      "nombre": "John Glover",
+      "personaje": "Saperstein",
+      "foto": "https://image.tmdb.org/t/p/w500/aPmq20MXqFALrUxaaJoC2Xonumo.jpg"
+    },
+    {
+      "nombre": "Bernie Casey",
+      "personaje": "Robinson",
+      "foto": "https://image.tmdb.org/t/p/w500/xxmL2k2lxWswkFOJJEdi2Tf51YK.jpg"
+    },
+    {
+      "nombre": "Peter Jason",
+      "personaje": "Mr. Paul",
+      "foto": "https://image.tmdb.org/t/p/w500/xoqIuVvEH6BG6sOg4NnZzUKFnaf.jpg"
+    },
+    {
+      "nombre": "Charlton Heston",
+      "personaje": "Jackson Harglow",
+      "foto": "https://image.tmdb.org/t/p/w500/mJabHWZrjlFiF8U8Bbr8lSFtLX6.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michael De Luca",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sandy King",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Carpenter",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Carpenter",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jim Lang",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Elinor Rose Galbraith",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Gary B. Kibbe",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Edward A. Warschilka",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Rob Coleman",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Michael De Luca",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robin Michel Bush",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jeff Ginn",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Artist W. Robinson",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Peter Grundy",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jeff Imada",
+      "rol": "Stunt Coordinator"
+    }
+  ],
+  "director": "John Carpenter",
+  "valoraciones": {
+    "tmdb": 7.201,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Line Cinema",
+  "enlace_video": "https://gscdn.cam/video/embed/khtmzhowltmh",
+  "trailer": "https://www.youtube.com/watch?v=qs1qo46GfWs"
+}
