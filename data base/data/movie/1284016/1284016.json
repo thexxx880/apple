@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1284016,
+  "poster": "https://image.tmdb.org/t/p/w500/1WKC0csxnncUMgXPpZE0MkDWc9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4V7qKmhxlQaIbJlUk5eOYjSFEVA.png",
+  "titulo": "Letras Robadas",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Música",
+    "Drama"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.1,
+  "año": "2026",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Una edificante historia musical sobre una cantante de bodas, una estrella del rock y la canción que se interpone entre ellas.",
+  "fecha_estreno": "2026-05-18",
+  "titulo_original": "Power Ballad",
+  "pais_origen": "Ireland",
+  "reparto": [
+    {
+      "nombre": "Paul Rudd",
+      "personaje": "Rick",
+      "foto": "https://image.tmdb.org/t/p/w500/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "nombre": "Nick Jonas",
+      "personaje": "Danny Wilson",
+      "foto": "https://image.tmdb.org/t/p/w500/y79k7wrDeyRbrGFs2Z3XHU5mq0o.jpg"
+    },
+    {
+      "nombre": "Peter McDonald",
+      "personaje": "Sandy",
+      "foto": "https://image.tmdb.org/t/p/w500/ahacAWWP4zzuVumOUB8hZoJcHTA.jpg"
+    },
+    {
+      "nombre": "Marcella Plunkett",
+      "personaje": "Rachel",
+      "foto": "https://image.tmdb.org/t/p/w500/ieeuGpDxOQMvSzNYehDZT7FMCLR.jpg"
+    },
+    {
+      "nombre": "Havana Rose Liu",
+      "personaje": "Marcia",
+      "foto": "https://image.tmdb.org/t/p/w500/lqdialbfdj5l4KYMSlL4aausMaV.jpg"
+    },
+    {
+      "nombre": "Jack Reynor",
+      "personaje": "Mac",
+      "foto": "https://image.tmdb.org/t/p/w500/hl0zOfOU9tiBT4znHIB9jpxrJaM.jpg"
+    },
+    {
+      "nombre": "Rory Keenan",
+      "personaje": "Binzer",
+      "foto": "https://image.tmdb.org/t/p/w500/coxaroBNEpi4xjQ7kZuZBxSqO29.jpg"
+    },
+    {
+      "nombre": "Keith McErlean",
+      "personaje": "Kyle",
+      "foto": "https://image.tmdb.org/t/p/w500/rkSrF2jGZRIt4iwS1qIB967mTM4.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John Carney",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Cron",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Walpole",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Carney",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Rebecca O'Flanagan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Carney",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Anthony Bregman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter McDonald",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Yaron Orbach",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Stephen O'Connell",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Dean Wares",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "John Carney",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Gary Clark",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jeanne McCarthy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Amy Rowan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Sarah Hong",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Gary Clark",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "John Carney",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Anna Carney",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Triona Lillis",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "John Carney",
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Likely Story",
+  "enlace_video": "https://gscdn.cam/video/embed/dva5jt1blatv",
+  "trailer": "https://www.youtube.com/watch?v=-faiHUsbP_U"
+}
