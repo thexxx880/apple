@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 1560520,
+  "poster": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/yH9NHHGZx4H5Zt7dZtCJqbUdViN.png",
+  "titulo": "Batman: Knightfall Part 1: Knightfall",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.435,
+  "año": "2026",
+  "duracion": "1h 19min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando el misterioso gigante conocido únicamente como Bane libera a toda la galería de villanos de Batman del Manicomio de Arkham, el Cruzado Encapuchado se ve llevado al límite de su resistencia física y mental.",
+  "fecha_estreno": "2026-06-23",
+  "titulo_original": "Batman: Knightfall Part 1: Knightfall",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Anson Mount",
+      "personaje": "Batman / Bruce Wayne (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+    },
+    {
+      "nombre": "Michael Mando",
+      "personaje": "Bane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gvM2wG66bjEpiirdeQdyG9EzUfv.jpg"
+    },
+    {
+      "nombre": "Pablo Schreiber",
+      "personaje": "Azrael / Jean-Paul Valley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg"
+    },
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Ventriloquist / Scarface / Vincent (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "Luis Bermudez",
+      "personaje": "Catman / Doctor / Guard (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cn1yzMsCrUatAqjDEIxTb8h38X9.jpg"
+    },
+    {
+      "nombre": "Bruce Boxleitner",
+      "personaje": "Commissioner Gordon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1x99F4oJTFAFY2HR4PbQdxiGyMH.jpg"
+    },
+    {
+      "nombre": "Jessica Camacho",
+      "personaje": "Renee Montoya (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rmms55MpLdBWRDX8LLDTctgXUuA.jpg"
+    },
+    {
+      "nombre": "Anthony Crivello",
+      "personaje": "Franco Bertinelli / Priest / Prisoner (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AmeKWIanHlHYEDXpDfySEk95Myo.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jeff Wamester",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jeremy Adams",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jim Krieg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kimberly S. Moreau",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Uslan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rick Morales",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Bob Kane",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Bill Finger",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Doug Moench",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Chuck Dixon",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Alan Grant",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Dennis O'Neil",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Peter David",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Jo Duffy",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Jim Aparo",
+      "rol": "Comic Book"
+    }
+  ],
+  "director": "Jeff Wamester",
+  "valoraciones": {
+    "tmdb": 8.435,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://streamwish.to/e/wohxtjr2fcg9",
+  "trailer": "https://www.youtube.com/watch?v=90HAqMk7qv0"
+}
