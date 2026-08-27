@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 198152,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3uZUfYhNI3ZPh4cwLNDtDAQbuR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/xpwVTvVTiSZgcYnBGMwzWUn6P7X.png",
+  "titulo": "ONIMAI: I'm Now Your Sister!",
+  "titulo_original": "お兄ちゃんはおしまい！",
+  "fecha_estreno": "2023-01-05",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "puntuacion": 7.5,
+  "sinopsis": "Una científica loca acaba convirtiendo a su hermano mayor, amante de los videojuegos, ¡en una chica!",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "高野麻里佳",
+      "personaje": "Mahiro Oyama (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tGtrlF6iBDHoBEmRfPdOyVt7X18.jpg"
+    },
+    {
+      "nombre": "石原夏織",
+      "personaje": "Mihari Oyama (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6L8Y52WSpky0iMMa0YYT67CaAQg.jpg"
+    },
+    {
+      "nombre": "金元寿子",
+      "personaje": "Kaede Hozuki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qyJPQaehMc4Sy5jaTfIJLdrll2v.jpg"
+    },
+    {
+      "nombre": "津田美波",
+      "personaje": "Momiji Hozuki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bgPI0vCsH43aZVfBuUcQ91cDBxe.jpg"
+    },
+    {
+      "nombre": "優木かな",
+      "personaje": "Asahi Ohka (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gnKY83EbfaJWi1y47dgOtiRegAK.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "浅野宗祐",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "金子広孝",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "山中一孝",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "大澤信博",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "大田圭二",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "福井詔雄",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "横手美智子",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "今村亮",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "藤井慎吾",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "桶狭間ありさ",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "阿知波大輔",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "土居真紀子",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "小林雅代",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "吉田光平",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "えなこ",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "岡祐司",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "石原夏織",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "伏原あかね",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "金元寿子",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "高野麻里佳",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "長谷川卓也",
+      "rol": "Sound Effects"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.5,
+    "imdb": "tt21929424",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=pvnrSpb109U"
+}
