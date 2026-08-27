@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 72426,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2VjS9XA68JUPBUFsX9NTuXBqR9e.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9ONsuIkAZnOmjwq2FHe3EsDJuaB.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/dHjNRlSkg9asPHMJdYpKMup7Omj.png",
+  "titulo": "Gamers!",
+  "titulo_original": "ゲーマーズ！",
+  "fecha_estreno": "2017-07-13",
+  "duracion": "24min",
+  "año": "2017",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "puntuacion": 7.921,
+  "sinopsis": "Esta es una historia que gira en torno a ciertos estudiantes y un hobby. Amano Keita es nuestro solitario protagonista que tiene una pasión por los juegos y es amigo de Uehara Tasuku, que secretamente es un compañero de juego y es alguien que cree que su vida es perfecta. También tenemos a Karen Tendou, la presidenta del club de videojuegos y Chiaki Hoshinomori, quien constantemente pelea con Keita. Esta es una historia llena de una secuencia continua de escenas de comedias y malentendidos. ¡Nuestra caótica comedia romántica ahora comienza!",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "潘めぐみ",
+      "personaje": "Keita Amano (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cwnwrPg1YvB19TbfouC4ShGPmbQ.jpg"
+    },
+    {
+      "nombre": "金元寿子",
+      "personaje": "Karen Tendo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qyJPQaehMc4Sy5jaTfIJLdrll2v.jpg"
+    },
+    {
+      "nombre": "大久保瑠美",
+      "personaje": "Aguri (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cf4cnFMllu1yO3X0gCGGDdl8GXW.jpg"
+    },
+    {
+      "nombre": "豊永利行",
+      "personaje": "Tasuku Uehara (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/duhxGjWjgo6WagvGgKu529ztz7u.jpg"
+    },
+    {
+      "nombre": "Manaka Iwami",
+      "personaje": "Chiaki Hoshinomori (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/leKMaCBswXG8u4mfQNQ7J3y6Xow.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "兼光一博",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "大和田智之",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "金子広孝",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Katsumi Kikumasa",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "小倉充俊",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "岡村武真",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "佐藤天昭",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "岡本学",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "木村佳史子",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "古市裕一",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "兼光一博",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "葵せきな",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "斉藤雅己",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "大和田智之",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "頓所信二",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "金子広孝",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Katsumi Kikumasa",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "明田川仁",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "内田裕基",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "小倉充俊",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "岡村武真",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.921,
+    "imdb": "tt7163698",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=HqkrousBhew"
+}
