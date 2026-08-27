@@ -3,7 +3,7 @@
   "poster": "https://image.tmdb.org/t/p/w500/y4jSWrykjrtfrxuvImpu857Qrxr.jpg",
   "backdrop": "https://image.tmdb.org/t/p/w1280/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
   "logo": "https://image.tmdb.org/t/p/w300/q4wdswLUVVrl8OSjYXPqjihRHXs.png",
-  "titulo": "Terminator: El Exterminador",
+  "titulo": "Terminator: El exterminador",
   "trending": false,
   "generos": [
     "Acción",
@@ -11,7 +11,7 @@
     "Ciencia ficción"
   ],
   "calificacion": "B-15",
-  "puntuacion": 7.683,
+  "puntuacion": 7.688,
   "año": "1984",
   "duracion": "1h 48min",
   "edad_minima": 13,
@@ -23,7 +23,7 @@
     {
       "nombre": "Arnold Schwarzenegger",
       "personaje": "Terminator",
-      "foto": "https://image.tmdb.org/t/p/w500/dgCABuZp2HBehCT84O4WBp7KIoe.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
     },
     {
       "nombre": "Michael Biehn",
@@ -64,28 +64,32 @@
   "equipo_creativo": [
     {
       "nombre": "James Cameron",
-      "rol": "Director"
+      "rol": "Writer"
     },
     {
       "nombre": "Gale Anne Hurd",
       "rol": "Producer"
     },
     {
-      "nombre": "James Cameron",
+      "nombre": "Gale Anne Hurd",
       "rol": "Writer"
     },
     {
-      "nombre": "Gale Anne Hurd",
-      "rol": "Writer"
+      "nombre": "James Cameron",
+      "rol": "Director"
     }
   ],
   "crew": [
     {
-      "nombre": "Derek Gibson",
+      "nombre": "John Daly",
       "rol": "Executive Producer"
     },
     {
-      "nombre": "John Daly",
+      "nombre": "Adam Greenberg",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Derek Gibson",
       "rol": "Executive Producer"
     },
     {
@@ -93,45 +97,41 @@
       "rol": "Original Music Composer"
     },
     {
-      "nombre": "Adam Greenberg",
-      "rol": "Director of Photography"
+      "nombre": "Stanzi Stokes",
+      "rol": "Casting"
     },
     {
       "nombre": "Mark Goldblatt",
       "rol": "Editor"
     },
     {
-      "nombre": "Stanzi Stokes",
-      "rol": "Casting"
-    },
-    {
-      "nombre": "George Costello",
-      "rol": "Art Direction"
-    },
-    {
-      "nombre": "Maria Caso",
-      "rol": "Set Decoration"
+      "nombre": "Deborah Everton",
+      "rol": "Costume Supervisor"
     },
     {
       "nombre": "Jeff Dawn",
       "rol": "Makeup Department Head"
     },
     {
-      "nombre": "Deborah Everton",
-      "rol": "Costume Supervisor"
+      "nombre": "Maria Caso",
+      "rol": "Set Decoration"
     },
     {
-      "nombre": "Hilary Wright",
-      "rol": "Costume Design"
+      "nombre": "George Costello",
+      "rol": "Art Direction"
     },
     {
-      "nombre": "Shay Austin",
-      "rol": "Assistant Art Director"
+      "nombre": "Ernest Farino",
+      "rol": "Special Effects Coordinator"
+    },
+    {
+      "nombre": "Gary Schoeneck",
+      "rol": "Leadman"
     }
   ],
   "director": "James Cameron",
   "valoraciones": {
-    "tmdb": 7.683,
+    "tmdb": 7.688,
     "imdb": null,
     "rotten_tomatoes": null
   },
