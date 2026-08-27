@@ -1,6 +1,6 @@
 {
   "id_tmdb": 99861,
-  "poster": "https://image.tmdb.org/t/p/w500/ggyEm4OkePLo8zEdDm5Pac2fOgz.jpg",
+  "poster": "https://image.tmdb.org/t/p/w500/fXi6HGIJXi7Z8YWZRcRI56dfY4p.jpg",
   "backdrop": "https://image.tmdb.org/t/p/w1280/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
   "logo": "https://image.tmdb.org/t/p/w300/vGwih539oBuo4kYZSywx0t4pGze.png",
   "titulo": "Avengers 2: Era de Ultrón",
@@ -11,7 +11,7 @@
     "Ciencia ficción"
   ],
   "calificacion": "B",
-  "puntuacion": 7.272,
+  "puntuacion": 7.276,
   "año": "2015",
   "duracion": "2h 21min",
   "edad_minima": 13,
@@ -53,12 +53,12 @@
     {
       "nombre": "James Spader",
       "personaje": "Ultron (voice)",
-      "foto": "https://image.tmdb.org/t/p/w500/uET0mbf2bMkUXbRb1Oxi8Qjqcw3.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/3gurW3OgDOD4hcqDfgcqUnoNg34.jpg"
     },
     {
       "nombre": "Samuel L. Jackson",
       "personaje": "Nick Fury",
-      "foto": "https://image.tmdb.org/t/p/w500/aF7jIjZ66M0af5c02P9Duzq1zO7.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
     }
   ],
   "equipo_creativo": [
@@ -68,11 +68,11 @@
     },
     {
       "nombre": "Joss Whedon",
-      "rol": "Writer"
+      "rol": "Director"
     },
     {
       "nombre": "Joss Whedon",
-      "rol": "Director"
+      "rol": "Writer"
     }
   ],
   "crew": [
@@ -81,11 +81,11 @@
       "rol": "Thanks"
     },
     {
-      "nombre": "Jeremy Latcham",
+      "nombre": "Stan Lee",
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Stan Lee",
+      "nombre": "Jeremy Latcham",
       "rol": "Executive Producer"
     },
     {
@@ -109,6 +109,10 @@
       "rol": "Comic Book"
     },
     {
+      "nombre": "Joe Simon",
+      "rol": "Characters"
+    },
+    {
       "nombre": "Jim Starlin",
       "rol": "Characters"
     },
@@ -119,15 +123,11 @@
     {
       "nombre": "Stan Lee",
       "rol": "Comic Book"
-    },
-    {
-      "nombre": "Joe Simon",
-      "rol": "Characters"
     }
   ],
   "director": "Joss Whedon",
   "valoraciones": {
-    "tmdb": 7.272,
+    "tmdb": 7.276,
     "imdb": null,
     "rotten_tomatoes": null
   },
