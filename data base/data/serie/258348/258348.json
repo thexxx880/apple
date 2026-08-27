@@ -1,0 +1,71 @@
+{
+  "id_tmdb": 258348,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/avajalKjBP5QjwIEb5Xs8QXg1K.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sSoQShcfjlAUeWhXoHXtFNFNgfl.png",
+  "titulo": "Clevatess",
+  "titulo_original": "クレバテス-魔獣の王と赤子と屍の勇者",
+  "fecha_estreno": "2025-07-02",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8,
+  "sinopsis": "El reinado de Clevatess, uno de los Señores de las Bestias Mágicas, se desmorona al revivir a un héroe al que él mismo mató y adoptar a un bebé humanoide huérfano: la última esperanza para salvar un mundo moribundo. Ahora unidos, ¿qué destino les espera a este improbable trío?",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "白石晴香",
+      "personaje": "Alicia (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hrQxTVNGLi3jXC7v4kETArpA0dV.jpg"
+    },
+    {
+      "nombre": "田村睦心",
+      "personaje": "Clen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uvbBIRiBK6GDLEESiYSFWOVlaE4.jpg"
+    },
+    {
+      "nombre": "中村悠一",
+      "personaje": "Clevatess (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wb8behVKjBHX9XXrEydvNINCYwH.jpg"
+    },
+    {
+      "nombre": "会沢紗弥",
+      "personaje": "Luna (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3QoVKl1w7uBMf5ivJ4MccYkt4zR.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "田口清隆",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "小柳啓伍",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "信澤宣明",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "佐古宗一郎",
+      "rol": "Character Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": "tt32991344",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=ew3ZwDbUAtA"
+}
