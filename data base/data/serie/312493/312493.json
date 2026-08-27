@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 312493,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7UTSB8enoMYwXZykELHNNrCw2ND.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cUNHl2RBFO7qNoAhmRyML0BdWsY.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/1XIlkJ0UeTwNlfWs5rRptOj3QWI.png",
+  "titulo": "Hit viral",
+  "titulo_original": "喧嘩独学",
+  "fecha_estreno": "2026-06-11",
+  "duracion": "50min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.031,
+  "sinopsis": "Tras hacerse viral después de una pelea, un adolescente pobre y víctima de acoso escolar crea un canal de streaming para ganar dinero y cambiar su situación.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "鈴鹿央士",
+      "personaje": "Kota Shimura",
+      "foto": "https://image.tmdb.org/t/p/w500/k5hKLBwSvxcwfSxetS4uo60Knx.jpg"
+    },
+    {
+      "nombre": "見上愛",
+      "personaje": "Aki Yashio",
+      "foto": "https://image.tmdb.org/t/p/w500/rj9P9XKrsW8n9ECX7HyaiwezmdU.jpg"
+    },
+    {
+      "nombre": "菅生新樹",
+      "personaje": "Toru Kaneko / \"Kanegon\"",
+      "foto": "https://image.tmdb.org/t/p/w500/2R8eekvrjZDv2fSVcQUuynVJfDb.jpg"
+    },
+    {
+      "nombre": "生見愛瑠",
+      "personaje": "Kaho Asamiya",
+      "foto": "https://image.tmdb.org/t/p/w500/bZjwmpUt9J3GtRLzNH5LUNDu29s.jpg"
+    },
+    {
+      "nombre": "濱尾ノリタカ",
+      "personaje": "Tatsuya Ogi",
+      "foto": "https://image.tmdb.org/t/p/w500/qkWQn0zyeg967iWzPXEDo8BvK7P.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "稲葉直人",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "前田茂司",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "福井雄太",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "武内英樹",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Taejun Park",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Kim Junghyun",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "稲葉直人",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "前田茂司",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "稲葉直人",
+      "rol": "Development Manager"
+    },
+    {
+      "nombre": "福井雄太",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "長崎悠",
+      "rol": "VFX Supervisor"
+    },
+    {
+      "nombre": "伊東晃",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "中嶋翔太",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "金杉貴史",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "穗垣順之助",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "村﨑達",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "藤井祐伍",
+      "rol": "Action Director"
+    },
+    {
+      "nombre": "棈木陽次",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "李家俊理",
+      "rol": "Gaffer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.031,
+    "imdb": "tt39400589",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=WduwZN8y37k"
+}
