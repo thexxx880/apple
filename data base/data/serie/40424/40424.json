@@ -1,8 +1,8 @@
 {
   "id_tmdb": 40424,
-  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/CMG53GMx0OFFmF4dzhlFuebarq.jpg",
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7C1PMnV0uMrMNcfws5J7aLNxe3Q.jpg",
   "backdrop": "https://image.tmdb.org/t/p/original/zBIIyH8yfdlfvvpEiG9PLwoVXc6.jpg",
-  "logo": "https://image.tmdb.org/t/p/original/ovPldfMI0r5eqHJXpeWikEYaVgx.png",
+  "logo": "https://image.tmdb.org/t/p/original/tkaFoGYZugttnc6A2W1DUK8oRFK.png",
   "titulo": "Initial D",
   "titulo_original": "頭文字D",
   "fecha_estreno": "1998-04-18",
@@ -14,7 +14,7 @@
     "Action & Adventure",
     "Drama"
   ],
-  "puntuacion": 7.996,
+  "puntuacion": 7.954,
   "sinopsis": "Cuenta la historia de Takumi Fujiwara, un estudiante de 18 años de edad que trabaja en una gasolinera con dos amigos: Itsuki (compañero de clase que no cesa de hablar a Takumi de su pasión por los coches y de sus modelos preferidos) e Iketani (algo mayor que ellos y líder del equipo local de corredores callejeros: Los Akina Speedstars). Takumi, a ojos de sus amigos, no tiene la más mínima idea de coches ni tampoco el más mínimo interés.",
   "pais_origen": "JP",
   "calificacion": "16",
@@ -28,7 +28,7 @@
     {
       "nombre": "阿部敦",
       "personaje": "Shinji Inui (voice)",
-      "foto": "https://image.tmdb.org/t/p/w500/yqJ4CYgSietAHfxyAraVCdUfPia.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/b59PickRsrhT6kaUKN2dD8c7ip.jpg"
     },
     {
       "nombre": "Takehito Koyasu",
@@ -63,16 +63,16 @@
       "rol": "Other"
     },
     {
-      "nombre": "三笠修",
-      "rol": "Color Designer"
+      "nombre": "橋本みつお",
+      "rol": "Series Director"
     },
     {
       "nombre": "池上伸治",
       "rol": "Director of Photography"
     },
     {
-      "nombre": "橋本みつお",
-      "rol": "Series Director"
+      "nombre": "三笠修",
+      "rol": "Color Designer"
     },
     {
       "nombre": "横井秀章",
@@ -107,19 +107,19 @@
       "rol": "Sound Director"
     },
     {
-      "nombre": "益田祐里",
+      "nombre": "瀬川素公",
       "rol": "Theme Song Performance"
     },
     {
-      "nombre": "瀬川素公",
+      "nombre": "益田祐里",
       "rol": "Theme Song Performance"
     }
   ],
   "valoraciones": {
-    "tmdb": 7.996,
+    "tmdb": 7.954,
     "imdb": "tt0385426",
     "rotten_tomatoes": null
   },
   "distribuidora": "Anime",
-  "trailer": "https://www.youtube.com/watch?v=1-pkl2ukzLY"
+  "trailer": ""
 }
