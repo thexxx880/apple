@@ -1,0 +1,129 @@
+{
+  "id_tmdb": 271607,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/e2zegxrA6tyT1nobxXoMTWlQjJf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dl3pdT1NZiqRM4aDBwsD2TtO8x9.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/lLceCenGnPt1t4MrZYib8bjgLCJ.png",
+  "titulo": "La nobleza de las flores",
+  "titulo_original": "薫る花は凛と咲く",
+  "fecha_estreno": "2025-07-06",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama"
+  ],
+  "puntuacion": 8.7,
+  "sinopsis": "Cuando el intimidante Rintarō conoce a la tierna Kaoruko, nace una inesperada relación cercana. Solo hay un pequeño problema: las escuelas a las que van son archienemigas.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "中山祥徳",
+      "personaje": "Rintaro Tsumugi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4yDNgdPPEmy8YDaYuZzRcdxLp5G.jpg"
+    },
+    {
+      "nombre": "井上ほの花",
+      "personaje": "Kaoruko Waguri (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eZHNcyvGvFm8FyUMa0WnW2yrYMx.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "清水博之",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "古川慎",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "堀祥子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "大和雅恵",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "長嶺利江子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "大和田智之",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "山崎莉乃",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "原田萌喜",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "幸喜あすか",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "横田明日香",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "長瀬由起子",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "新居和弘",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "濱野高年",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "吉田優子",
+      "rol": "Prop Designer"
+    },
+    {
+      "nombre": "塩澤良憲",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "梅下麻奈未",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "渡邉啓太",
+      "rol": "3D Director"
+    },
+    {
+      "nombre": "山口智",
+      "rol": "Other"
+    },
+    {
+      "nombre": "黒木美幸",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "Haruka Tsuzuki",
+      "rol": "Other"
+    },
+    {
+      "nombre": "清水博之",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.7,
+    "imdb": "tt36592690",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=1FcVJxxPWh4"
+}
