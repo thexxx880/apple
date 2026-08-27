@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 64196,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2tHAFkKMvwbR22CCMsR5eAFYzP.png",
+  "titulo": "Overlord",
+  "titulo_original": "オーバーロード",
+  "fecha_estreno": "2015-07-07",
+  "duracion": "24min",
+  "año": "2015",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.458,
+  "sinopsis": "La historia da comienzo cuando Yggdrasil, un popular juego online, es cerrado un día sin previo aviso. Sin embargo, el protagonista, Momonga, decide no salir del juego. Momonga así se transforma y se convierte en “el mago más poderoso”. El mundo sigue cambiando con él dentro y los NPCs comienzan a sentir emociones. Sin familia, amigos ni lugar en la sociedad, Momonga tendrá que luchar por adaptarse al nuevo mundo en el que se ha convertido el juego.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "日野聡",
+      "personaje": "Momonga / Ains Ooal Gown (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8ZJIiwIVF2zDyyFr7oXewj0eEuu.jpg"
+    },
+    {
+      "nombre": "原由実",
+      "personaje": "Albedo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4aWGp1MuKUkFhSOueLMdB6aeJAV.jpg"
+    },
+    {
+      "nombre": "上坂すみれ",
+      "personaje": "Shalltear Bloodfallen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AbouCe2WVBHvMlBm9NnG7GHyJpa.jpg"
+    },
+    {
+      "nombre": "Manami Numakura",
+      "personaje": "Narberal Gamma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eDbMXgeTCA2D6i7894Ag43RADrk.jpg"
+    },
+    {
+      "nombre": "渡辺明乃",
+      "personaje": "Virtuous King of the Forest (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4E05IJxvTGNHb2GSaiyxbCZ5nd8.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "小林智",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "田代早苗",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "山崎明日香",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "山崎史紀",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "田中翔",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "中東豊和",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "小林智",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "田代早苗",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "山崎明日香",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "山崎史紀",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "田中翔",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "今村大樹",
+      "rol": "Creature Design"
+    },
+    {
+      "nombre": "竹内杏子",
+      "rol": "Prop Designer"
+    },
+    {
+      "nombre": "杉浦幸次",
+      "rol": "Creature Design"
+    },
+    {
+      "nombre": "竹内杏子",
+      "rol": "Creature Design"
+    },
+    {
+      "nombre": "渡辺祥生",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "池田繁美",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "塚常真理子",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "大久保修一",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "乗末美穂",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "友野加世子",
+      "rol": "Art Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.458,
+    "imdb": "tt4869896",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=uhlBqFj9kDw"
+}
