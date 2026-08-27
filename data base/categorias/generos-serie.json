@@ -1,5 +1,18 @@
 [
   {
+    "id_tmdb": 40424,
+    "poster": "https://image.tmdb.org/t/p/w500/7C1PMnV0uMrMNcfws5J7aLNxe3Q.jpg",
+    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=40424",
+    "type": "serie",
+    "año": "1998",
+    "titulo": "Initial D",
+    "generos": [
+      "Animación",
+      "Action & Adventure",
+      "Drama"
+    ]
+  },
+  {
     "id_tmdb": 293697,
     "poster": "https://image.tmdb.org/t/p/w500/vNXVxjzHrUFnhZkZlQgvdUmzG4Q.jpg",
     "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=293697",
@@ -3723,19 +3736,6 @@
       "Animación",
       "Comedia",
       "Kids"
-    ]
-  },
-  {
-    "id_tmdb": 40424,
-    "poster": "https://image.tmdb.org/t/p/w500/CMG53GMx0OFFmF4dzhlFuebarq.jpg",
-    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=40424",
-    "type": "serie",
-    "año": "1998",
-    "titulo": "Initial D",
-    "generos": [
-      "Animación",
-      "Action & Adventure",
-      "Drama"
     ]
   }
 ]
