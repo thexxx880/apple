@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 245842,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/v8gkKx1BvD3AH0MjwgCPbHTwxPE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/vF4uHLG7p10GtQbelFtRx7HKAb.png",
+  "titulo": "Wistoria: Wand and Sword",
+  "titulo_original": "杖と剣のウィストリア",
+  "fecha_estreno": "2024-07-07",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.051,
+  "sinopsis": "Will es un chico muy trabajador que se inscribe en una academia de magia con la esperanza de convertirse en un gran hechicero. Por desgracia, su plan tiene un fallo crítico: que no tiene la capacidad de usar magia. Las miradas de desprecio de sus compañeros e instructores hacen que Will se desanime en ocasiones, pero sigue adelante con una fuerza de voluntad inquebrantable. No puede usar una varita, pero puede blandir su espada en su intento por llegar a lo más alto de un mundo dominado por la magia. Solo necesita creer en sus propios puntos fuertes y recordar la promesa que le hizo a alguien muy importante para él...",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "天﨑滉平",
+      "personaje": "Will Serfort (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tnN5jLiLjcDa7qn88uLb1iAfivL.jpg"
+    },
+    {
+      "nombre": "関根明良",
+      "personaje": "Elfaria Alvis Serfort (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/czYoPzAEK1gI7RxRiPyDSFYRm5x.jpg"
+    },
+    {
+      "nombre": "鈴木れい子",
+      "personaje": "Caldron (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qgFATlpp1HnAHyhgRJ1QdBYksEG.jpg"
+    },
+    {
+      "nombre": "田丸篤志",
+      "personaje": "Jhorua Moraine (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/coh8N88X0eBIHfPgHE9qFMrUMCD.jpg"
+    },
+    {
+      "nombre": "高橋伸也",
+      "personaje": "Lunais Alerht (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/19DN4yrD9c3E7BWthVEqvwhQNdb.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "操上弘貴",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "深田有紀",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "畠山渉",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "青山勝樹",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "白取瑞樹",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "古川慎",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "操上弘貴",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "深田有紀",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "畠山渉",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "青山勝樹",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "五島卓二",
+      "rol": "CGI Director"
+    },
+    {
+      "nombre": "平岡雅樹",
+      "rol": "Prop Designer"
+    },
+    {
+      "nombre": "菊池晃",
+      "rol": "Creature Design"
+    },
+    {
+      "nombre": "白取瑞樹",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "中野尚美",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "前田有紀",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "大槻綾子",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "吉武将人",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "森下広人",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "あきづきりょう",
+      "rol": "Prop Designer"
+    },
+    {
+      "nombre": "原田吉朗",
+      "rol": "Creature Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.051,
+    "imdb": "tt31889371",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=FNiBiXXeyb8"
+}
