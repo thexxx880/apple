@@ -1,0 +1,100 @@
+{
+  "id_tmdb": 128252,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5EDGgVdkH5qNC8tYdImb2QdnhIK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iQlel1ftOsnWguxyN98eUmKTOPm.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8D8rl7FdVlWqiLHRuapk0v8sfdG.png",
+  "titulo": "El cartel de los sapos: El origen",
+  "titulo_original": "El cartel de los sapos: El origen",
+  "fecha_estreno": "2022-06-14",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 7.926,
+  "sinopsis": "A lo largo de cuatro décadas, dos hermanos humildes de Cali intentan conciliar la familia, el romance y los negocios ilegales en su camino a convertirse en capos narcos.",
+  "pais_origen": "CO",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Juan Pablo Urrego",
+      "personaje": "Emmanuel Villegas (Joven)",
+      "foto": "https://image.tmdb.org/t/p/w500/4TNyhSkYis42mSt0o9UYhXo13g9.jpg"
+    },
+    {
+      "nombre": "Sebastián Osorio",
+      "personaje": "Leonardo Villegas (Joven)",
+      "foto": "https://image.tmdb.org/t/p/w500/ih8oznWyTJy3rYfu0pJkyq4bs07.jpg"
+    },
+    {
+      "nombre": "Gustavo Angarita Jr.",
+      "personaje": "Emmanuel Villegas (Adulto)",
+      "foto": "https://image.tmdb.org/t/p/w500/cZnxZ3hXa5fi6EWbUqViR3ozFr3.jpg"
+    },
+    {
+      "nombre": "Carlos-Manuel Vesga",
+      "personaje": "Leonardo Villegas (Adulto)",
+      "foto": "https://image.tmdb.org/t/p/w500/crm5YcUTtb5pXhZbJsATA8EAoPD.jpg"
+    },
+    {
+      "nombre": "Patricia Tamayo",
+      "personaje": "Marlén Ulloa",
+      "foto": "https://image.tmdb.org/t/p/w500/tanOAogWo2ECSsPonlLp3pNPpk.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Camilo Villamizar",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Camilo Villamizar",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Johny Alexander Ortiz",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Karen Rodríguez",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jose Ricardo Torres",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Jhonatan Chang Moreno",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Kelly Ramirez",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Julian Duque Guevara",
+      "rol": "Digital Compositor"
+    },
+    {
+      "nombre": "Daniela Trujillo Pabón",
+      "rol": "Key Costumer"
+    },
+    {
+      "nombre": "Ulrike Koch Cabrera",
+      "rol": "Second Assistant Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.926,
+    "imdb": "tt14417802",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": ""
+}
