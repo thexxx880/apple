@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 76130,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/s3F5f0OxHBWR0hvnPn2JKWOZfFU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cRyGHTfK2J3GFMxsiI6eLbe9mu1.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rCeM7Lquwd6UQj2yuQKmaBcHVqU.png",
+  "titulo": "Mordidas mortales",
+  "titulo_original": "キリングバイツ",
+  "fecha_estreno": "2018-01-13",
+  "duracion": "25min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Crimen"
+  ],
+  "puntuacion": 7.7,
+  "sinopsis": "En un mundo en el que existen duelos entre híbridos de seres humanos y distintos animales, el estudiante universitario Nomoto Yuya se ve envuelto en una terrible situación: unos conocidos le obligan a acompañarlos a secuestrar a una chica. Sin embargo, la joven es una híbrido de tejón de la miel, un animal de lo más feroz, y no duda en defenderse y matarlos a todos, menos al pobre Yuya. De este modo, los dos forjarán una extraña amistad y Hitomi se quedará al lado de Yuya para protegerlo.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "内田真礼",
+      "personaje": "Eruza Nakanishi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lrcxZXkIgHU55dMs8C4DKkUohqJ.jpg"
+    },
+    {
+      "nombre": "羽多野渉",
+      "personaje": "Yuuya Nomoto (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/i1meHlOXLP2ubJZkmyGJONrxikQ.jpg"
+    },
+    {
+      "nombre": "雨宮天",
+      "personaje": "Hitomi Uzaki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4ZZcdFH4QgbIC8AeJ3BLG1ue7G5.jpg"
+    },
+    {
+      "nombre": "上坂すみれ",
+      "personaje": "Ui Inaba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AbouCe2WVBHvMlBm9NnG7GHyJpa.jpg"
+    },
+    {
+      "nombre": "中村悠一",
+      "personaje": "Taiga Nakanishi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wb8behVKjBHX9XXrEydvNINCYwH.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "竹枝義典",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "黒須礼央",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "西雅太郎",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "高木隆行",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "林俊安",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "今瀬千早",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "朱白あおい",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "西片康人",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "竹枝義典",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "明田川仁",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "黒須礼央",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "西雅太郎",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "高木隆行",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "林俊安",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "今瀬千早",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "前田俊博",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "高梨康治",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "小山恭正",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "長谷川舞",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "増元由紀大",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "後藤泰輔",
+      "rol": "CGI Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": "tt7879138",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=e61w70E8UUw"
+}
