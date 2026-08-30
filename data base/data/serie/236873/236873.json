@@ -1,0 +1,75 @@
+{
+  "id_tmdb": 236873,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/cpNVaiWGuKcUubMQgq3Ee6F9HBq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/f14rjYL5ZHr6ekO02QucjGODbXy.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/hyRFfMcZ1Ed5hGOV89Aj59qbgKh.png",
+  "titulo": "Rigo",
+  "titulo_original": "Rigo",
+  "fecha_estreno": "2023-10-08",
+  "duracion": "50min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.402,
+  "sinopsis": "Ese enclenque del que tanto se burlan va a ser conocido en todo el mundo, vaticina don Rigoberto, quien tiene la certeza de que su hijo asmático, pobre y nacido en un pueblo acosado por la violencia está destinado a hacer historia como deportista. Rigo crece para honrar la memoria de su padre, con gran empeño monta su bicicleta y se convierte en el orgullo de su familia y de su pueblo.",
+  "pais_origen": "CO",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Juan Pablo Urrego",
+      "personaje": "Rigoberto Urán",
+      "foto": "https://image.tmdb.org/t/p/w500/4TNyhSkYis42mSt0o9UYhXo13g9.jpg"
+    },
+    {
+      "nombre": "Ana María Estupiñán",
+      "personaje": "Michelle Durango",
+      "foto": ""
+    },
+    {
+      "nombre": "Sandra Reyes",
+      "personaje": "Aracely Urán",
+      "foto": "https://image.tmdb.org/t/p/w500/c4MJaYy8ncxjkSRlJk9zeM7ii4a.jpg"
+    },
+    {
+      "nombre": "Ramiro Meneses",
+      "personaje": "Luis Urán \"Lucho\"",
+      "foto": "https://image.tmdb.org/t/p/w500/eiBkOmeL4nVEl3VDzAolCqQ5EhQ.jpg"
+    },
+    {
+      "nombre": "Ella Becerra",
+      "personaje": "Berenice Urán",
+      "foto": "https://image.tmdb.org/t/p/w500/t8UibXnku0bMCl48KC6XGQdb2e6.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Juan Carlos Mazo",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Juan Carlos Mazo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "César Augusto Betancourt",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ana Maria Perez",
+      "rol": "Production Executive"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.402,
+    "imdb": "tt29549403",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=skUPTrJfQMQ"
+}
