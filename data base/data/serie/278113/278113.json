@@ -1,0 +1,89 @@
+{
+  "id_tmdb": 278113,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/A55hvXauo57l8HYo4AjYeFfn0W4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/AoJgqEYpxRWd58gNQKNwYlPUFeZ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/v8tT7XG9Gh3j8l2itc5kDt8XdZ8.png",
+  "titulo": "Tierra de oro",
+  "titulo_original": "골드랜드",
+  "fecha_estreno": "2026-04-29",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Misterio"
+  ],
+  "puntuacion": 7.9,
+  "sinopsis": "Una mujer de un pequeño pueblo descubre lingotes de oro de contrabando y debe huir de peligrosos delincuentes, lo que la obliga a regresar al lugar que juró evitar.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Park Bo-young",
+      "personaje": "Kim Hee-ju",
+      "foto": "https://image.tmdb.org/t/p/w500/x1LNh8i8XmO3oqNYzRslzYj1VoZ.jpg"
+    },
+    {
+      "nombre": "김성철",
+      "personaje": "Jang 'Woo-gi' Wook",
+      "foto": "https://image.tmdb.org/t/p/w500/nR9r7iBvuLJJYvIxqbyzpWtsO6q.jpg"
+    },
+    {
+      "nombre": "이현욱",
+      "personaje": "Lee Do-kyung",
+      "foto": "https://image.tmdb.org/t/p/w500/hU8tF6BsZdhDWtQk7rItZ4CiJwR.jpg"
+    },
+    {
+      "nombre": "이광수",
+      "personaje": "Park Ho-chul",
+      "foto": "https://image.tmdb.org/t/p/w500/eqjZXCV4EutnoVxZwOveK6Nl5W9.jpg"
+    },
+    {
+      "nombre": "김희원",
+      "personaje": "Kim Jin-man",
+      "foto": "https://image.tmdb.org/t/p/w500/sDCxskfmmNidOjV2LwsWh9dAVbN.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "김성훈",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jang Kyung-ik",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yoo Sang-won",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Hwang Jo-yoon",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "김성훈",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jang Kyung-ik",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yoo Sang-won",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.9,
+    "imdb": "tt37253311",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": "https://www.youtube.com/watch?v=DvBcZSAReF0"
+}
