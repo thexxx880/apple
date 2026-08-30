@@ -1,0 +1,52 @@
+{
+  "id_tmdb": 313935,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/e15CzQT6KQWTUhCzpzbYeCXGGgT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4fGxDEZQfgi7Ot334t7SZ2HBMkE.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/yMZ2XuGnlUa1ciDyiMZyYY70v7J.png",
+  "titulo": "Bodas S.A.",
+  "titulo_original": "Bodas S.A.",
+  "fecha_estreno": "2026-02-13",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 7.538,
+  "sinopsis": "Fannie regresa a casa y acaba trabajando para su madre, la wedding planner número uno del país. Entre bodas caóticas, sabotajes y heridas familiares, ambas descubren que lo más difícil no es planear bodas… sino convivir.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Consuelo Duval",
+      "personaje": "Silvia",
+      "foto": "https://image.tmdb.org/t/p/w500/qchquKFwzzaqQJr0TgBvbjsOJyI.jpg"
+    },
+    {
+      "nombre": "Gisselle Kuri",
+      "personaje": "Fannie",
+      "foto": "https://image.tmdb.org/t/p/w500/imjkbVF8wQwSsVJo9eQueJlU5xf.jpg"
+    },
+    {
+      "nombre": "Danae Reynaud",
+      "personaje": "Coral",
+      "foto": "https://image.tmdb.org/t/p/w500/oCM6vXWMRRF7jsB6GZAt0FN1ACL.jpg"
+    },
+    {
+      "nombre": "Ruy Senderos",
+      "personaje": "Julio",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.538,
+    "imdb": "tt38353553",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Vix",
+  "trailer": ""
+}
