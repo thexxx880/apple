@@ -1,0 +1,112 @@
+{
+  "id_tmdb": 123349,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/13iB2e6R8haTfaFfRrBGB11M0wQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ft9kPRULcAN7hgjvzpEfmtROiQR.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8xFgXcDcrs7eNRcK1Nd87BPd32w.png",
+  "titulo": "El sonido de la magia",
+  "titulo_original": "안나라수마나라",
+  "fecha_estreno": "2022-05-06",
+  "duracion": "69min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.682,
+  "sinopsis": "",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "지창욱",
+      "personaje": "Lee Eul",
+      "foto": "https://image.tmdb.org/t/p/w500/sBmHrO5Tn27Ot5hy0yAKniROmNb.jpg"
+    },
+    {
+      "nombre": "최성은",
+      "personaje": "Yun Ah-yi",
+      "foto": "https://image.tmdb.org/t/p/w500/sbtcXMrHoFVyX2Mw5s5NDryaUaM.jpg"
+    },
+    {
+      "nombre": "황인엽",
+      "personaje": "Na Il-deung",
+      "foto": "https://image.tmdb.org/t/p/w500/dI1dL3QHSmDdhXyB65ETjpxKN7Z.jpg"
+    },
+    {
+      "nombre": "지혜원",
+      "personaje": "Baek Ha-Na",
+      "foto": "https://image.tmdb.org/t/p/w500/usAZ7PwGfyZ5VsWAARjWpxLuFfS.jpg"
+    },
+    {
+      "nombre": "최영준",
+      "personaje": "Detective Kim",
+      "foto": "https://image.tmdb.org/t/p/w500/8qi16JP0iqxDektKbQSsopKAhos.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Kim Seong-yoon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "한석원",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kim Seong-yoon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ha Il-kwon",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Kim Min-jung",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Park Seong-il",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "김일광",
+      "rol": "Digital Intermediate"
+    },
+    {
+      "nombre": "한명환",
+      "rol": "Sound Supervisor"
+    },
+    {
+      "nombre": "Park Jin-ah",
+      "rol": "Makeup & Hair"
+    },
+    {
+      "nombre": "Kim So-yeon",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "조상경",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "최민영",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "한석원",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.682,
+    "imdb": "tt14460684",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=GaVW093-cSw"
+}
