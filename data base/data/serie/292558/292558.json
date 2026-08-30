@@ -1,0 +1,63 @@
+{
+  "id_tmdb": 292558,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/dAISEl3uXtw64jlkTCm1H1XnQ4W.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg",
+  "logo": "",
+  "titulo": "Toda la verdad de mis mentiras",
+  "titulo_original": "Toda la verdad de mis mentiras",
+  "fecha_estreno": "2026-08-28",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 7,
+  "sinopsis": "Narra la historia de Coco y Marín, dos íntimos amigos y compañeros de piso que están a punto de embarcarse en un divertido y surrealista viaje en caravana junto a su grupo de amigos.",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Daniel Ibáñez",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/d2j4qq0TUasP8if26wIXQOP4kjS.jpg"
+    },
+    {
+      "nombre": "Itziar Manero",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/qX0D6L4zbWx48gkm8khoFcIEV9T.jpg"
+    },
+    {
+      "nombre": "Ricardo Gómez",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/v1wrShJLsBnOypbXdxksvjy4cKG.jpg"
+    },
+    {
+      "nombre": "Brays Efe",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/7eh358DNtQ20jrLnuIqJWFvfIyG.jpg"
+    },
+    {
+      "nombre": "Lucía de la Fuente",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/ibzx2OS7Jgbj8xtNHBgaMB3coUL.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Elísabet Benavent",
+      "rol": "Novel"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": "tt37053085",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=QET2gy8nb6o"
+}
