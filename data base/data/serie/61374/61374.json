@@ -1,0 +1,93 @@
+{
+  "id_tmdb": 61374,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/wdjQBMBf9su8eiDxDMnXPFNvZls.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jnwRlthXIgJB75Mt9GEl93Dczki.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/d8EC9cW7179NfGKj9rUn7lWrt5P.png",
+  "titulo": "Tokyo Ghoul",
+  "titulo_original": "東京喰種トーキョーグール",
+  "fecha_estreno": "2014-07-04",
+  "duracion": "24min",
+  "año": "2014",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.255,
+  "sinopsis": "Ken Kaneki es un estudiante universitario del ratón de biblioteca que resuelve a una muchacha nombra a Rize en un café que él frecuenta. Tienen la misma edad y tienen los mismos intereses, por lo que rápidamente se acercan. Poco sabe Kaneki que Rize es un ghoul - una especie de monstruo que vive cazando y devorando carne humana. Cuando parte de su órgano especial - \"el niño rojo\" - es trasplantado a Kaneki, se convierte en un ghoul mismo, atrapado en un mundo deformado donde los seres humanos no son la parte superior de la cadena alimentaria.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "花江夏樹",
+      "personaje": "Ken Kaneki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+    },
+    {
+      "nombre": "雨宮天",
+      "personaje": "Touka Kirishima (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4ZZcdFH4QgbIC8AeJ3BLG1ue7G5.jpg"
+    },
+    {
+      "nombre": "浅沼晋太郎",
+      "personaje": "Nishiki Nishio (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5D2YC0c4zg9TXyOi0PpIXRugvzb.jpg"
+    },
+    {
+      "nombre": "櫻井孝宏",
+      "personaje": "Uta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+    },
+    {
+      "nombre": "諸星すみれ",
+      "personaje": "Hinami Fueguchi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6AoZkW7NxgsWXkoCkTGDSgFcyao.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "上田憲伯",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "北嶋徹",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "石橋啓",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "渡部穏寛",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "中嶋敦子",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "上田憲伯",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "武藤晶子",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "石田スイ",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.255,
+    "imdb": "tt3741634",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=I0-yFnbPdj0"
+}
