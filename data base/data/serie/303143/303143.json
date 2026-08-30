@@ -1,0 +1,81 @@
+{
+  "id_tmdb": 303143,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/gRkBqyHrIqcjsIoTdbRmWgxMKpV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3Vj6kPyPXJPV0ibRFNesnZ4Zhlu.png",
+  "titulo": "Mi némesis con aires de realeza",
+  "titulo_original": "멋진 신세계",
+  "fecha_estreno": "2026-05-08",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.893,
+  "sinopsis": "Una villana de la era Joseon condenada a muerte despierta en la Seúl actual, donde un despiadado heredero podría ser su última esperanza de cambiar su destino.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "임지연",
+      "personaje": "Shin Seo-ri / Kang Dan-sim",
+      "foto": "https://image.tmdb.org/t/p/w500/gAwwi5fBxCKLnrP9bjOQFtMUs6j.jpg"
+    },
+    {
+      "nombre": "Heo Nam-jun",
+      "personaje": "Cha Se-gye / Yi Hyeon",
+      "foto": "https://image.tmdb.org/t/p/w500/17NPgo2g3X6kjLaz9nx2qKFH9.jpg"
+    },
+    {
+      "nombre": "장승조",
+      "personaje": "Choi Mun-do / King An-jeong",
+      "foto": "https://image.tmdb.org/t/p/w500/3HWGHh4Zazo4rEjQNz1B7KEJ9Cd.jpg"
+    },
+    {
+      "nombre": "김민석",
+      "personaje": "Bae Gwang-nam",
+      "foto": "https://image.tmdb.org/t/p/w500/oZNJCOMEqFPzN4xSSGulE62gUMZ.jpg"
+    },
+    {
+      "nombre": "이세희",
+      "personaje": "Yoon Ji-hyo",
+      "foto": "https://image.tmdb.org/t/p/w500/qpItJBOITbf2Z9URBdwA90diJSo.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Han Tae-sob",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kim Min-tae",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "강현주",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Han Tae-sob",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kim Min-tae",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.893,
+    "imdb": "tt38828946",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=efj9rk9mCeo"
+}
