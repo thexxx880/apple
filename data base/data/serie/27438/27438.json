@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 27438,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/sEnv5R5zRvsQDKJ9mNbpHQQdP4K.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/roLGHJepYqPvE75O5JKEL58knva.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/mIkpVqW0CXG7VOTl5dAw78oP6be.png",
+  "titulo": "ToHeart2",
+  "titulo_original": "ToHeart2",
+  "fecha_estreno": "2005-10-04",
+  "duracion": "25min",
+  "año": "2005",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama"
+  ],
+  "puntuacion": 6.3,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "夏樹リオ",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/46BlB9cVS0Qq0XnG0lhqbbdbZna.jpg"
+    },
+    {
+      "nombre": "吉田小南美",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wEV9qNxKh1tUvxt6EydFjxNK3F5.jpg"
+    },
+    {
+      "nombre": "福山潤",
+      "personaje": "Takaaki Kōno (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eT9eloyIaIkTvTqMmpcsAleP2hM.jpg"
+    },
+    {
+      "nombre": "小暮英麻",
+      "personaje": "Maako Asagiri (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6THPVBv2fOp6M5lXDcjtX6XckEA.jpg"
+    },
+    {
+      "nombre": "生天目仁美",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jidfw5qDgZjC4TPY3YunJQxlEmr.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 6.3,
+    "imdb": "tt0988930",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
