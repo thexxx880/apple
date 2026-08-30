@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 9663,
+  "poster": "https://image.tmdb.org/t/p/w500/x4McyTic59hmajyANHGUtCvyG3m.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/a34NyULWqPXALmAF6rE3kne9ZfX.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/fylQQiIwHaGEwRuJ2X56VBAf22X.png",
+  "titulo": "Starman: El hombre de las estrellas",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Drama",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.929,
+  "año": "1984",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando derriban su nave espacial en Wisconsin, un ser del espacio exterior, Starman (Jeff Bridges), llega a la remota cabaña de una joven viuda, Jenny Hayden (Karen Allen), y allí toma la apariencia de su difunto marido. El extraterrestre convence a Jenny para que le lleve a Arizona, ya que si no llega a su nave nodriza antes de tres días, morirá. Al mismo tiempo, los agentes del gobierno quieren capturar al hombre de las estrellas, vivo o muerto.",
+  "fecha_estreno": "1984-12-13",
+  "titulo_original": "Starman",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jeff Bridges",
+      "personaje": "Starman / Scott Hayden",
+      "foto": "https://image.tmdb.org/t/p/w500/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+    },
+    {
+      "nombre": "Karen Allen",
+      "personaje": "Jenny Hayden",
+      "foto": "https://image.tmdb.org/t/p/w500/eJszpndpRzrXbSlz7RUlApoTykn.jpg"
+    },
+    {
+      "nombre": "Charles Martin Smith",
+      "personaje": "Mark Shermin",
+      "foto": "https://image.tmdb.org/t/p/w500/uzm5v0Q7nCH223EvPiJyh9Y0qiN.jpg"
+    },
+    {
+      "nombre": "Richard Jaeckel",
+      "personaje": "George Fox",
+      "foto": "https://image.tmdb.org/t/p/w500/bqPHmgKzNOWU58GtoB2SDiH8MHV.jpg"
+    },
+    {
+      "nombre": "Robert Phalen",
+      "personaje": "Major Bell",
+      "foto": "https://image.tmdb.org/t/p/w500/3iYiOBKzGkz3Ny9J72aHSqwPfQs.jpg"
+    },
+    {
+      "nombre": "Tony Edwards",
+      "personaje": "Sergeant Lemon",
+      "foto": "https://image.tmdb.org/t/p/w500/vmbrsMS8HSGh91FC2uglYKQ5I2b.jpg"
+    },
+    {
+      "nombre": "John Walter Davis",
+      "personaje": "Brad Heinmuller",
+      "foto": null
+    },
+    {
+      "nombre": "Ted White",
+      "personaje": "Deer Hunter",
+      "foto": "https://image.tmdb.org/t/p/w500/o0xZT23XzW3xpDmqEwe9i7CiAxD.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Raynold Gideon",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "John Carpenter",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bruce A. Evans",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Larry Franco",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Donald M. Morgan",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Marion Rothman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Raynold Gideon",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Bruce A. Evans",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Virginia Katz",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Robert Jauregui",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "John-Clay Scott",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Tony Rivetti Sr.",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Kerry Rossall",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Thomas Causey",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Curt Sobel",
+      "rol": "Supervising Music Editor"
+    },
+    {
+      "nombre": "Joseph F. Brennan",
+      "rol": "Boom Operator"
+    }
+  ],
+  "director": "John Carpenter",
+  "valoraciones": {
+    "tmdb": 6.929,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/5pof0j2dnql8",
+  "trailer": "https://www.youtube.com/watch?v=m9GbkmUG0PM"
+}
