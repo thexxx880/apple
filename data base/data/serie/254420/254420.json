@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 254420,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/13BnuRw5cpELxANM4VshPOFV1FA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/truh4rtTUdRVYGeT0n17dxvdv41.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/701jK89ECQSGGtC1SXs8PKJzGwJ.png",
+  "titulo": "Elle: Legalmente rubia",
+  "titulo_original": "Elle",
+  "fecha_estreno": "2026-07-01",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 7.858,
+  "sinopsis": "Antes de ser un pez fuera del agua en Harvard, en 1995, Elle Woods fue un pez en las aguas tumultuosas de la preparatoria donde se enfrenta a amistades complicadas, un romance prohibido y elecciones cuestionables de moda. En este inesperado capítulo de su adolescencia, descubrimos las experiencias que convirtieron a Elle en la icónica mujer que conocemos y amamos.",
+  "pais_origen": "CA",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lexi Minetree",
+      "personaje": "Elle Woods",
+      "foto": "https://image.tmdb.org/t/p/w500/3WtXFA7rV6iU2nms1EY2yjNOhAZ.jpg"
+    },
+    {
+      "nombre": "June Diane Raphael",
+      "personaje": "Eva Woods",
+      "foto": "https://image.tmdb.org/t/p/w500/AzzQxrUqcpX06RLiKYJr4fYYkG.jpg"
+    },
+    {
+      "nombre": "Tom Everett Scott",
+      "personaje": "Wyatt Woods",
+      "foto": "https://image.tmdb.org/t/p/w500/nVDihOvsSm7kmeyHLtAcEzrrSYC.jpg"
+    },
+    {
+      "nombre": "Gabrielle Policano",
+      "personaje": "Liz",
+      "foto": "https://image.tmdb.org/t/p/w500/hkQSeTfp7wpFJJ6jFE0QnjPB9M5.jpg"
+    },
+    {
+      "nombre": "Jacob Moskovitz",
+      "personaje": "Miles",
+      "foto": "https://image.tmdb.org/t/p/w500/hD5YgBC0VAnCRWX54vZXl0hwkj8.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Amanda Brown",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Moore",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Van Arragon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eli Wilson Pelton",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jen Regan",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Josie Craven",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Laurin Kelsey",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Sara Byblow",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Kate Marshall",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "David Rubin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Matt Lander",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tom Howe",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Amanda Brown",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Amanda Brown",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Moore",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Van Arragon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eli Wilson Pelton",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jen Regan",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Josie Craven",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Melissa Parent Connolly",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Julia Brownell",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.858,
+    "imdb": "tt32020831",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Metro Goldwyn Mayer, Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=eB6Slu6nPIU"
+}
