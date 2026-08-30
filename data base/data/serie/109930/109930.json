@@ -1,0 +1,73 @@
+{
+  "id_tmdb": 109930,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7GnkLJ70Az49PuOnhRrC7Oaylnp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/Eto7g02aDIbK0P5a1TTyKqbVSm.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/19GsaHceigdPa3BtAl0HccPe2EY.png",
+  "titulo": "El maravilloso mundo de Mickey Mouse",
+  "titulo_original": "The Wonderful World of Mickey Mouse",
+  "fecha_estreno": "2020-11-18",
+  "duracion": "7min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Kids"
+  ],
+  "puntuacion": 7.6,
+  "sinopsis": "Vive la diversión y la emoción con Mickey y sus amigos cuando se embarcan en las mayores aventuras de su vida, esquivando los obstáculos y los peligros de un mundo loco y salvaje donde la magia de Disney hace que lo imposible sea posible.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Chris Diamantopoulos",
+      "personaje": "Mickey Mouse (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oenBtpk0RTId4wacQKYU4cPcq8Z.jpg"
+    },
+    {
+      "nombre": "Kaitlyn Robrock",
+      "personaje": "Minnie Mouse (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1joOQrgyU9ap9W1cvimh01XmKcO.jpg"
+    },
+    {
+      "nombre": "Bill Farmer",
+      "personaje": "Goofy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lhezx68R12s5Bsv7d77BrQb7tWA.jpg"
+    },
+    {
+      "nombre": "Tony Anselmo",
+      "personaje": "Donald Duck (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8ocCq9OxVg7A0g7hf7EqeT0QenX.jpg"
+    },
+    {
+      "nombre": "Tress MacNeille",
+      "personaje": "Daisy Duck (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Paul Rudish",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Paul Rudish",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christopher Willis",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.6,
+    "imdb": "tt13089270",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=2Zhv4PrTr_k"
+}
