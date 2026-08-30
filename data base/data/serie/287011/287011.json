@@ -1,0 +1,72 @@
+{
+  "id_tmdb": 287011,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ah91RIeK91AXYPDCsKHozRSgEox.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kOveERxl0qVsyiZtJOf2v632GWb.png",
+  "titulo": "Un amor que no se agota",
+  "titulo_original": "오늘도 매진했습니다",
+  "fecha_estreno": "2026-04-22",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 8.384,
+  "sinopsis": "Cuando una presentadora de televentas adicta al trabajo pierde su puesto, parte al campo para recuperarlo, pero un granjero misterioso trastoca sus planes… y su corazón.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "안효섭",
+      "personaje": "Matthew Lee / Lee Hae Seok",
+      "foto": "https://image.tmdb.org/t/p/w500/oLS5jvS5cZ7SaXNctA8VYXPp6ax.jpg"
+    },
+    {
+      "nombre": "채원빈",
+      "personaje": "Dam Ye-jin",
+      "foto": "https://image.tmdb.org/t/p/w500/f3FqHQgS3tImIfDwjYbDpaQMcei.jpg"
+    },
+    {
+      "nombre": "Kim Bum",
+      "personaje": "Eric Seo",
+      "foto": "https://image.tmdb.org/t/p/w500/sMYFAFG6yxhqUNIJzcDK1kGbfPq.jpg"
+    },
+    {
+      "nombre": "윤병희",
+      "personaje": "Kang Mu-won",
+      "foto": "https://image.tmdb.org/t/p/w500/77HOYpL0BI6BN4kaTYUMNIlnLM0.jpg"
+    },
+    {
+      "nombre": "고두심",
+      "personaje": "Song Hak Daek / Yang Sang Geum",
+      "foto": "https://image.tmdb.org/t/p/w500/kp93ShpiupK6A9c0eLyQVmFHt2m.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "안종연",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "진승희",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "안종연",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.384,
+    "imdb": "tt39387440",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=LhfSS7-RhVE"
+}
