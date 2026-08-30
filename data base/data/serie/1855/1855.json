@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 1855,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7YFranrnnIcCrgsLYQsoq8aE3Ir.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kGKcKyX4Wf4XGVqp2dTGn0E4Luc.png",
+  "titulo": "Star Trek: Voyager",
+  "titulo_original": "Star Trek: Voyager",
+  "fecha_estreno": "1995-01-16",
+  "duracion": "45min",
+  "año": "1995",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.79,
+  "sinopsis": "Transportada al Cuadrante Delta por una fuerza hostil que ha matado a la mitad de su tripulación, la capitana Kathryn Janeway se ve forzada a hacer un pacto con los asaltantes: la tripulación de una nave de oficiales renegados de la Federación, conocidos como Maquis. Mientras la tensión entre los Maquis y los oficiales de la Flota Estelar estalla en violentos incidentes ocasionales, la tripulación tiene que enfrentarse a peligros mayores y más mortíferos, bajo la forma de misteriosas anomalías espaciales que amenazan con destruir la nave en más de una ocasión. También están las violentas y amenazadoras razas locales, como los belicosos Kazon, y los siniestros cosechadores de órganos de la Sodalidad Vidiiana. Al poner rumbo de vuelta a casa, la capitana Janeway y su tripulación se embarcan en un excitante y peligroso viaje a través del espacio desconocido.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Kate Mulgrew",
+      "personaje": "Kathryn Janeway",
+      "foto": "https://image.tmdb.org/t/p/w500/cikUr2PEluEamVsLgrnWWLx9ZsI.jpg"
+    },
+    {
+      "nombre": "Robert Beltran",
+      "personaje": "Chakotay",
+      "foto": "https://image.tmdb.org/t/p/w500/4Y9zzqveAeiI55VRC6mPyLQroHe.jpg"
+    },
+    {
+      "nombre": "Roxann Dawson",
+      "personaje": "B'Elanna Torres",
+      "foto": "https://image.tmdb.org/t/p/w500/46TogVXwdXoDqOnbcMulTXHaFzx.jpg"
+    },
+    {
+      "nombre": "Robert Duncan McNeill",
+      "personaje": "Tom Paris",
+      "foto": "https://image.tmdb.org/t/p/w500/3z4QJjOvUp2eO3fIjKngPdtWGfQ.jpg"
+    },
+    {
+      "nombre": "Ethan Phillips",
+      "personaje": "Neelix",
+      "foto": "https://image.tmdb.org/t/p/w500/npr6XzOaGJauOBV1ydaqmX6T5hl.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Rick Berman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Wendy Neuss",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Merri D. Howard",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kenneth Biller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brannon Braga",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Taylor",
+      "rol": "Executive Story Editor"
+    },
+    {
+      "nombre": "Jeri Taylor",
+      "rol": "Creative Consultant"
+    },
+    {
+      "nombre": "Michael Piller",
+      "rol": "Creative Consultant"
+    },
+    {
+      "nombre": "Gene Roddenberry",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "Jerry Goldsmith",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Rick Berman",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Michael Piller",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Jeri Taylor",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Robert Blackman",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Richard D. James",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Rick Berman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Eyslee",
+      "rol": "Best Boy Electric"
+    },
+    {
+      "nombre": "Jerry Trent",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Bill Wistrom",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Alan Sims",
+      "rol": "Property Master"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.79,
+    "imdb": "tt0112178",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount",
+  "trailer": "https://www.youtube.com/watch?v=b1PX9E2RsgU"
+}
