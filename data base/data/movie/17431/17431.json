@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 17431,
+  "poster": "https://image.tmdb.org/t/p/w500/6c3ll5lULUaqeNNko1p8q8pmroi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mvUAo9ACgmLpS4Ofc2IwD4n7WCt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qMP5h6CTp5VC0weghwL0vE4t1pX.png",
+  "titulo": "En la luna",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Drama"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.563,
+  "año": "2009",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "En el otro lado de la luna, el solitario minero Sam avanza lentamente hacia el final de su período de tres años trabajando para una mega corporación que ha encontrado una veta de oro en la roca lunar. Pero, la locura acecha.",
+  "fecha_estreno": "2009-06-12",
+  "titulo_original": "Moon",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Sam Rockwell",
+      "personaje": "Sam Bell",
+      "foto": "https://image.tmdb.org/t/p/w500/afYhNpLwpa65Yy0Q0g00FNFhzx5.jpg"
+    },
+    {
+      "nombre": "Kevin Spacey",
+      "personaje": "GERTY (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+    },
+    {
+      "nombre": "Dominique McElligott",
+      "personaje": "Tess Bell",
+      "foto": "https://image.tmdb.org/t/p/w500/5GzfpBFLvYbgNN5XJvSPpTZGu4V.jpg"
+    },
+    {
+      "nombre": "Rosie Shaw",
+      "personaje": "Little Eve",
+      "foto": "https://image.tmdb.org/t/p/w500/t798QpTlVOk3kUcf5Xm3TlNjVeV.jpg"
+    },
+    {
+      "nombre": "Adrienne Shaw",
+      "personaje": "Nanny",
+      "foto": "https://image.tmdb.org/t/p/w500/c62K2PlWXNtnOsnYnJ874H5UaQS.jpg"
+    },
+    {
+      "nombre": "Kaya Scodelario",
+      "personaje": "Eve",
+      "foto": "https://image.tmdb.org/t/p/w500/uVp7VarM5GX08hfCEGt63OM5c5c.jpg"
+    },
+    {
+      "nombre": "Benedict Wong",
+      "personaje": "Thompson",
+      "foto": "https://image.tmdb.org/t/p/w500/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+    },
+    {
+      "nombre": "Matt Berry",
+      "personaje": "Overmeyers",
+      "foto": "https://image.tmdb.org/t/p/w500/1UCAuXgzQfeANlLnZFVSuq0OFhR.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Nathan Parker",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Nicky Bentham",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Duncan Jones",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Duncan Jones",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Stuart Fenegan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Trudie Styler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Foligno",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Francis",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Clint Mansell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Chesney Hawkes",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Gary Shaw",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Trevor Beattie",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tony Noble",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Bil Bungay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicolas Gaster",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Bill Zysblat",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Henry",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Manuel Puro",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jane Petrie",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jeremy Zimmermann",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Duncan Jones",
+  "valoraciones": {
+    "tmdb": 7.563,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lunar Industries",
+  "enlace_video": "https://hglink.to/e/d2zxdaifwp7l",
+  "trailer": "https://www.youtube.com/watch?v=xV5udqNpP94"
+}
