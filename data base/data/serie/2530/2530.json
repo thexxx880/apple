@@ -1,0 +1,60 @@
+{
+  "id_tmdb": 2530,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8RzacJ668ozLFT0a5UNEoqm0SWw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/b5c4ZWXOTcXD8RV7OoZb8HjIJ1i.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/lgbLmidipd2kHqhVsu3855rQHUs.png",
+  "titulo": "Mr. Bean, la serie animada",
+  "titulo_original": "Mr. Bean: The Animated Series",
+  "fecha_estreno": "2002-01-05",
+  "duracion": "11min",
+  "año": "2002",
+  "trending": false,
+  "generos": [
+    "Kids",
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 6.885,
+  "sinopsis": "Mr. Bean vive mil y una aventuras, junto a su fiel osito Teddy, pero esta vez en formato animado y no en carne y hueso.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rowan Atkinson",
+      "personaje": "Mr. Bean (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+    },
+    {
+      "nombre": "Sally Grace",
+      "personaje": "Mrs. Julia Wicket (Voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rcAxD8Mlf38VPHWXVXvqY00ZG46.jpg"
+    },
+    {
+      "nombre": "Matilda Ziegler",
+      "personaje": "Irma Gobb, Mr. Bean's girlfriend (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1vGZvZYl6K7KFEgGqYVvseeJMcp.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Rowan Atkinson",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rowan Atkinson",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.885,
+    "imdb": "tt0280277",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=SxsmBqnflNw"
+}
