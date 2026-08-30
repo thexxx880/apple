@@ -1,0 +1,52 @@
+{
+  "id_tmdb": 275224,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/sCjOLNZPeh067D2d7aXBeuwMGmn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/a5BYpkrmhSdHiGrW5IU30PgKAmR.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/dRga7Uq2ofaphtqUXHaTG0ODvYb.png",
+  "titulo": "Gutiérrez Is mai neim",
+  "titulo_original": "Gutiérrez Is mai neim",
+  "fecha_estreno": "2026-08-26",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 9,
+  "sinopsis": "El subcomisario Roberto Gutiérrez (Barassi) es un policía poco preparado en cuyas manos cae el delicado caso de asesinato del embajador ruso en Argentina. Cuando la CIA toma el control del homicidio, Gutiérrez decide jugar su propio juego junto a su compañero, el teniente Rubén Torcoletti (Yayo). Con una brigada tan leal como incompetente y métodos de dudosa legalidad, desatará el caos para demostrar quién manda en su jurisdicción y resolver el caso antes que el servicio de inteligencia estadounidense.",
+  "pais_origen": "AR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Darío Barassi",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/hyYKH6LbGX9pkkgKLDOoUhygcAN.jpg"
+    },
+    {
+      "nombre": "Yayo Guridi",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/y2C4OJ99NdgX5GE55WcjOQfcU5n.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Luciano Avila",
+      "rol": "Online Editor"
+    },
+    {
+      "nombre": "Luciano Avila",
+      "rol": "Assistant Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9,
+    "imdb": "tt39278978",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=8UVbuA4C3qg"
+}
