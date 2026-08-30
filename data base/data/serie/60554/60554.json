@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 60554,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/eLrScs6Bs26JMcS8hiZhf7YRROr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8BNjxMJMFp0BgqMh4PyuwZMXxh1.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8X1WGGiURCHMguEgFbOy8w9AJhX.png",
+  "titulo": "Star Wars Rebels",
+  "titulo_original": "Star Wars Rebels",
+  "fecha_estreno": "2014-10-13",
+  "duracion": "24min",
+  "año": "2014",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.7,
+  "sinopsis": "La obra se desarrolla en el espacio temporal que va desde Star Wars: Episode III - Revenge of the Sith hasta Star Wars: Episode IV - A New Hope. El canciller supremo Palpatine ha ideado una falsa guerra para aumentar su poder dentro de la República galáctica y con ella ha proclamado un Imperio del que él es líder supremo. Para consolidar su nuevo régimen tratará de destruir a la noble Orden Jedi, al tiempo que surge en la sombra un movimiento rebelde.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Freddie Prinze Jr.",
+      "personaje": "Kanan Jarrus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8V9yNBjCNRBKROyjCLKLJGcCBdG.jpg"
+    },
+    {
+      "nombre": "Taylor Gray",
+      "personaje": "Ezra Bridger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/b3BvNIll4hVP8HT0UcyzIy08MRJ.jpg"
+    },
+    {
+      "nombre": "Vanessa Marshall",
+      "personaje": "Hera Syndulla (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yZsWfaiOxaN5MZkWIKPbxz1KKS1.jpg"
+    },
+    {
+      "nombre": "Tiya Sircar",
+      "personaje": "Sabine Wren (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ySOwYAheNWApnu9TBJkziNthMA6.jpg"
+    },
+    {
+      "nombre": "Dave Filoni",
+      "personaje": "C1-10P 'Chopper' (voice) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Dave Filoni",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carrie Beck",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Henry Gilroy",
+      "rol": "Executive Co-Producer"
+    },
+    {
+      "nombre": "Corrine Wong",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Athena Yvette Portillo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dave Filoni",
+      "rol": "Supervising Animation Director"
+    },
+    {
+      "nombre": "Kevin Kiner",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "George Lucas",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Dave Filoni",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kilian Plunkett",
+      "rol": "Production Designer"
+    },
+    {
+      "nombre": "Carrie Beck",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe E. Elwood",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Alex McDonnell",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Henry Gilroy",
+      "rol": "Executive Co-Producer"
+    },
+    {
+      "nombre": "Corrine Wong",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Athena Yvette Portillo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Simon Kinberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kiri Zooper",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jared Forman",
+      "rol": "Music Coordinator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": "tt2930604",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=xg5YN3LAGw4"
+}
