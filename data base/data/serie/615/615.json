@@ -1,8 +1,8 @@
 {
   "id_tmdb": 615,
-  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5PLGffaQ5Xw7RyMSZXh39ue6RSt.jpg",
   "backdrop": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-  "logo": "https://image.tmdb.org/t/p/original/6jNQtbazLLAu5gLzW46FP8EGePb.png",
+  "logo": "https://image.tmdb.org/t/p/original/d9mSTJXcysIH5MvMPzhvxyP0JAz.png",
   "titulo": "Futurama",
   "titulo_original": "Futurama",
   "fecha_estreno": "1999-03-28",
@@ -14,7 +14,7 @@
     "Comedia",
     "Sci-Fi & Fantasy"
   ],
-  "puntuacion": 8.4,
+  "puntuacion": 8.365,
   "sinopsis": "Una divertidísima serie animada creada por Matt Groening que cuenta la historia de un repartidor de pizzas llamado Fry que se congela criogénicamente por accidente en 1999 y se despierta 1000 años más tarde en un nuevo mundo que, en muchos aspectos, no ha progresado mucho desde el siglo XX.",
   "pais_origen": "US",
   "calificacion": "16",
@@ -47,10 +47,92 @@
     }
   ],
   "director": "",
-  "equipo_creativo": [],
-  "crew": [],
+  "equipo_creativo": [
+    {
+      "nombre": "Ariel Ladensohn",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Shirin Najafi",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Cody Ziglar",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Tiffany Anne Brower",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Bill Odenkirk",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Patric M. Verrone",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ariel Ladensohn",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Shirin Najafi",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Cody Ziglar",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Tiffany Anne Brower",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Mary Hidalgo",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Libby Thomas Dickey",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Bill Odenkirk",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Christopher Tyng",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Patric M. Verrone",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Eric Horsted",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Ken Keeler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Claudia Katz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Groening",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David X. Cohen",
+      "rol": "Executive Producer"
+    }
+  ],
   "valoraciones": {
-    "tmdb": 8.4,
+    "tmdb": 8.365,
     "imdb": "tt0149460",
     "rotten_tomatoes": null
   },
