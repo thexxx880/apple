@@ -1,0 +1,95 @@
+{
+  "id_tmdb": 303405,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/276nOduPN10I05ajiQdoq6NQBcU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/m2px7CZWxArlG8Lyld1XKIkD5aA.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/r33mDH29NETEvk0qmVxmXUPnOt1.png",
+  "titulo": "Los pecados de Kujo",
+  "titulo_original": "九条の大罪",
+  "fecha_estreno": "2026-04-02",
+  "duracion": "40min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 7.7,
+  "sinopsis": "Desde matones hasta yakuzas, el abogado Taiza Kujo defiende a lo peor de la sociedad con la ayuda de su colega Karasuma, que cuestiona su ética.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "柳楽優弥",
+      "personaje": "Taiza Kujo",
+      "foto": "https://image.tmdb.org/t/p/w500/7gk7OBP0r51M897sRZseU7n3OMm.jpg"
+    },
+    {
+      "nombre": "松村北斗",
+      "personaje": "Shinji Karasuma",
+      "foto": "https://image.tmdb.org/t/p/w500/rtdHPwvoSel4m4CbJwZgcfnFsA0.jpg"
+    },
+    {
+      "nombre": "池田エライザ",
+      "personaje": "Hitomi Yakushimae",
+      "foto": "https://image.tmdb.org/t/p/w500/9O5oVUq06ao6MXbYxQ93y8MwTMP.jpg"
+    },
+    {
+      "nombre": "町田啓太",
+      "personaje": "Kengo Mibu",
+      "foto": "https://image.tmdb.org/t/p/w500/fbc42SNQgPSbx3jtv2Z5Vsrt6MO.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "那須田淳",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "杉山香織",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "高橋信一",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "那須田淳",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "真鍋昌平",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "杉山香織",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "塩塚モエカ",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "河西ゆりか",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "根本ノンジ",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "高橋信一",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": "tt38742795",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=8EE4hQ3Y8XA"
+}
