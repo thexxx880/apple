@@ -1,0 +1,85 @@
+{
+  "id_tmdb": 39351,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oS3nip9GGsx5A7vWp8A1cazqJlF.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nOPg4FutzDnPdwlXMDy8hVRuJAr.png",
+  "titulo": "Grimm",
+  "titulo_original": "Grimm",
+  "fecha_estreno": "2011-10-28",
+  "duracion": "24min",
+  "año": "2011",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.266,
+  "sinopsis": "El Detective Nick Burkhardt  empieza a ver cosas inexplicables, hasta que llega su tía Marie  y le revela que desciende de un grupo de cazadores de élite, los “Grimms”, que se encargan de proteger a la humanidad de toda clase de seres sobrenaturales. Entonces llega a la conclusión de que es su deber desempeñar esa misión",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "David Giuntoli",
+      "personaje": "Nick Burkhardt",
+      "foto": "https://image.tmdb.org/t/p/w500/tMuuIilbbhyubO44kEuHnExa2qY.jpg"
+    },
+    {
+      "nombre": "Silas Weir Mitchell",
+      "personaje": "Monroe",
+      "foto": "https://image.tmdb.org/t/p/w500/6TDZz2GdGDorb7ZGDpotMn27cOm.jpg"
+    },
+    {
+      "nombre": "Russell Hornsby",
+      "personaje": "Hank Griffin",
+      "foto": "https://image.tmdb.org/t/p/w500/lA2XCK2GgwVoboX3NskkKp5rxOF.jpg"
+    },
+    {
+      "nombre": "Sasha Roiz",
+      "personaje": "Sean Renard",
+      "foto": "https://image.tmdb.org/t/p/w500/hneSnvFh25FFRWRzd93EhO7S11p.jpg"
+    },
+    {
+      "nombre": "Reggie Lee",
+      "personaje": "Drew Wu",
+      "foto": "https://image.tmdb.org/t/p/w500/93my9HnsFT5DFq9oY1nCJ8Ttv22.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "David Greenwalt",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Clinton Wayne",
+      "rol": "Special Effects Key Makeup Artist"
+    },
+    {
+      "nombre": "Neal Sopata",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "David Greenwalt",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Richard Marvin",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Dan Schaefer",
+      "rol": "Storyboard Artist"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.266,
+    "imdb": "tt1830617",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal",
+  "trailer": "https://www.youtube.com/watch?v=vXIIprAciPQ"
+}
