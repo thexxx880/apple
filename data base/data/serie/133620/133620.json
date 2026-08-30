@@ -1,0 +1,55 @@
+{
+  "id_tmdb": 133620,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xWoTBTcWicfHnB7hRq1EDKdV1Mw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fHgSqVB1XFiUJsA5PJyxT6q9jI7.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/vUAdtIyek2O5dTVJu1UC4dQj1jx.png",
+  "titulo": "El mundo de Karma",
+  "titulo_original": "Karma’s World",
+  "fecha_estreno": "2021-10-15",
+  "duracion": "13min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Kids"
+  ],
+  "puntuacion": 7.2,
+  "sinopsis": "Karma es una niña con un don musical que hace malabares con el rap y las rimas mientras usa su talento, ambición y corazón para resolver cualquier problema.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Asia Bryant",
+      "personaje": "Karma Grant (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/t422mg7zIjZkYfKhC0VHroB2hnM.jpg"
+    },
+    {
+      "nombre": "Ludacris",
+      "personaje": "Conrad Grant (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/erkJijujhe48vhJ8iCEtVpNEeVn.jpg"
+    },
+    {
+      "nombre": "Danielle Brooks",
+      "personaje": "Dr. Lillie Carter-Grant (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hwrMFbcALcqrV7S2pRP9C5BXrU0.jpg"
+    },
+    {
+      "nombre": "Ramone Hamilton",
+      "personaje": "Crash Watkins (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lmys7pUzYvdX1IsHRpr9OjH1U5A.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": "tt13321232",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=ZhNu93rGx-o"
+}
