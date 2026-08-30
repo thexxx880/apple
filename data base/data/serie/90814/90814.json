@@ -1,0 +1,84 @@
+{
+  "id_tmdb": 90814,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2LTSggPYwuLvekQgvQfJ310auvP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nQAyoR7kmyiQCC9EAJLb12ZDS2.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4Xg7HRtHhoXyXDDvEDjqvmVGDB6.png",
+  "titulo": "Extracurricular",
+  "titulo_original": "인간수업",
+  "fecha_estreno": "2020-04-29",
+  "duracion": "55min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 8.098,
+  "sinopsis": "La serie sigue a un grupo de estudiantes de secundaria que comienzan a cometer delitos para ganar dinero y los peligros impredecibles e irreversibles que enfrentan como resultado de sus acciones:\n\nEl aparentemente tímido Oh Ji-soo, es un joven estudiante modelo de secundaria, sin embargo en realidad es el autor intelectual de una serie de actividades criminales que van más allá de la imaginación de sus compañeros de clases, ya que para poder tener dinero para sus gastos y para pagar su matrícula universitaria, toma una mala decisión, la cual lo lleva a cometer un grave delito.4​\n\nPronto su aparente arriesgada y despreocupada doble vida, se verá interrumpida, cuando se mezcla con la imprudente alborotadora Seo Min-hee y la rica Bae Gyu-ri, dos jóvenes estudiantes que asisten a la misma escuela que Ji-soo, y que pronto terminan involucradas en sus crímenes.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "김동희",
+      "personaje": "Oh Ji-soo",
+      "foto": "https://image.tmdb.org/t/p/w500/hrW8nWYzGmm3StKdHuHQMGk23Kj.jpg"
+    },
+    {
+      "nombre": "박주현",
+      "personaje": "Bae Gyu-ri",
+      "foto": "https://image.tmdb.org/t/p/w500/2xfmCqWWNE3wLAUg2WlByP9kvMP.jpg"
+    },
+    {
+      "nombre": "정다빈",
+      "personaje": "Seo Min-hee",
+      "foto": "https://image.tmdb.org/t/p/w500/nE6AZgKofgr3CzdA48nsRPuqLU3.jpg"
+    },
+    {
+      "nombre": "남윤수",
+      "personaje": "Kwak Ki-tae",
+      "foto": "https://image.tmdb.org/t/p/w500/lPOTG0iwINk1N1w7N0Xv2ndKqm0.jpg"
+    },
+    {
+      "nombre": "김여진",
+      "personaje": "Lee Hae-gyoung",
+      "foto": "https://image.tmdb.org/t/p/w500/ijRex60fv0k4neHuvWxi94qHSU1.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "김진민",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Yoon Shin-ae",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "김진민",
+      "rol": "Director"
+    },
+    {
+      "nombre": "진한새",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Yoon Shin-ae",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Um Hye-jung",
+      "rol": "Director of Photography"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.098,
+    "imdb": "tt10262630",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=oby8ahWyED8"
+}
