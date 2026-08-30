@@ -1,0 +1,115 @@
+{
+  "id_tmdb": 110371,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/zGIDqyyLbTMNW5xqLyBo1EVADcM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/edl2vLPzj9RNmHrmOhobLNrXei4.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/brg3ojSNTpU8Gwe3bpS693sr1RZ.png",
+  "titulo": "WIXOSS DIVA(A)LIVE",
+  "titulo_original": "WIXOSS DIVA(A)LIVE",
+  "fecha_estreno": "2021-01-09",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Animación"
+  ],
+  "puntuacion": 4.7,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "福積沙耶",
+      "personaje": "Hirana Asu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zlSTVQsai4DcvHimLo8r4dg8DhG.jpg"
+    },
+    {
+      "nombre": "星ノ谷しずく",
+      "personaje": "Akino Onko (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4B0JUnK6DU8MbjtnBywSpv1Hoqw.jpg"
+    },
+    {
+      "nombre": "長谷川玲奈",
+      "personaje": "Rara Inumiya (VJ.Wolf) (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/t9AKwthyKIOLF9FvkmVuVkrHvBt.jpg"
+    },
+    {
+      "nombre": "Kotone Watanabe",
+      "personaje": "Koeru Nobagoshi (Nova) (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tGEkVbap5sZmsY0RLaq4bbid7KZ.jpg"
+    },
+    {
+      "nombre": "Asami Mizukami",
+      "personaje": "Big Bang (Bang) (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/l8KAAgERKriluxZwNwq00ZhbsiS.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "志治雄一郎",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "松根マサト",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "井内舞子",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "しぐれうい",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "玉井豪",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "鈴木朗",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "斉藤良成",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "前田ゆり子",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "岩浪美和",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "市原彩香",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "瀧川三智",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "黒澤豊",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "中村真衣",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "志治雄一郎",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 4.7,
+    "imdb": "tt13142936",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
