@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 4607,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/47RazdqbtMmDxKHskObbHkc2D3o.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/srmhxpICRrlfYdAjUYJ1HGzyHAi.png",
+  "titulo": "Lost",
+  "titulo_original": "Lost",
+  "fecha_estreno": "2004-09-22",
+  "duracion": "24min",
+  "año": "2004",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Action & Adventure",
+    "Drama"
+  ],
+  "puntuacion": 8,
+  "sinopsis": "Cuando el vuelo 815 se estrella en una remota isla tropical, los pasajeros deben enfrentarse a peligros ocultos y misteriosas fuerzas malignas para sobrevivir.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Matthew Fox",
+      "personaje": "Jack Shephard",
+      "foto": "https://image.tmdb.org/t/p/w500/6VIfueb4j3GCsIhxnstsXlY5C3Y.jpg"
+    },
+    {
+      "nombre": "Evangeline Lilly",
+      "personaje": "Kate Austen",
+      "foto": "https://image.tmdb.org/t/p/w500/zgztLIWTJZm3vjGU7ezhF8GXESJ.jpg"
+    },
+    {
+      "nombre": "Terry O'Quinn",
+      "personaje": "John Locke",
+      "foto": "https://image.tmdb.org/t/p/w500/kSweOGPprLe1vDvu38wJQaWIih7.jpg"
+    },
+    {
+      "nombre": "Josh Holloway",
+      "personaje": "James Sawyer",
+      "foto": "https://image.tmdb.org/t/p/w500/biuhUJn5BDhXpfKvVW4dVUxvB44.jpg"
+    },
+    {
+      "nombre": "Michael Emerson",
+      "personaje": "Benjamin Linus",
+      "foto": "https://image.tmdb.org/t/p/w500/xOpr90SF1RCtjFNTu32nZQ90buY.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Melinda Hsu Taylor",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jean Higgins",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elizabeth Sarnoff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul Zbyszewski",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Greggory Nations",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Adam Horowitz",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Melinda Hsu Taylor",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jean Higgins",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elizabeth Sarnoff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul Zbyszewski",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Greggory Nations",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Adam Horowitz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Edward Kitsis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rachel Whitley",
+      "rol": "Location Casting"
+    },
+    {
+      "nombre": "Michael Romano",
+      "rol": "Electrician"
+    },
+    {
+      "nombre": "Ra'uf Glasgow",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jack Bender",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "J.J. Abrams",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bryan Burk",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carlton Cuse",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Damon Lindelof",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": "tt0411008",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=qMXAsu64-Ws"
+}
