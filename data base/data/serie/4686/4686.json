@@ -1,0 +1,87 @@
+{
+  "id_tmdb": 4686,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/eogRp6oAPK0SEvQmCrQ78LTlSdp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/v5hLUEpbn3G3oLXLdF7lFikDivb.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rxbiE1hQO87uoR3IS9viS2KivDL.svg",
+  "titulo": "Ben 10",
+  "titulo_original": "Ben 10",
+  "fecha_estreno": "2005-12-27",
+  "duracion": "22min",
+  "año": "2005",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "Gracias a un dispositivo misterioso conocido como el Omnitrix, Ben Tennyson tiene el poder de transformarse en una variedad de superhéroes alienígenas.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Tara Strong",
+      "personaje": "Ben Tennyson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
+    },
+    {
+      "nombre": "Meagan Moore",
+      "personaje": "Gwen Tennyson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1XjXATNVs8gcV7sullORxEXIbEh.jpg"
+    },
+    {
+      "nombre": "Paul Eiding",
+      "personaje": "Grandpa Max (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3Gxs9fTnkQLFlmMHROlgiDJ4p10.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Stinkfly / Wildmutt (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Steve Blum",
+      "personaje": "Ghostfreak / Heatblast / Vilgax (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sam Register",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Soto",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sam Register",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Soto",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Greg Klein",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Tom Pugsley",
+      "rol": "Story Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "tt0760437",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=mB7PD5MHmXE"
+}
