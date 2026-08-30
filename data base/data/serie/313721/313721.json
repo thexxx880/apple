@@ -1,0 +1,120 @@
+{
+  "id_tmdb": 313721,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/rNjB5TBYUBOxXR2GjR02uukSwBw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xvxSV4J28kgFaDMbaDnmAlV2YmB.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/fkNyoLphw1UBy1wbItEnszAXXzk.png",
+  "titulo": "Dear Killer Nannies: Criado por sicarios",
+  "titulo_original": "Dear Killer Nannies: Criado por sicarios",
+  "fecha_estreno": "2026-04-01",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 7.817,
+  "sinopsis": "Una inspiración en la niñez y la adolescencia de Juan Pablo Escobar, hijo del narcoterrorista colombiano Pablo Escobar Gaviria.",
+  "pais_origen": "AR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Janer Villareal",
+      "personaje": "Teenage Juan Pablo",
+      "foto": "https://image.tmdb.org/t/p/w500/fk8kwl9Rop4Dm8dLLRpCiGYCXDI.jpg"
+    },
+    {
+      "nombre": "Miguel Tamayo",
+      "personaje": "Young Juan Pablo",
+      "foto": ""
+    },
+    {
+      "nombre": "Miguel Ángel García",
+      "personaje": "Young Juan Pablo",
+      "foto": ""
+    },
+    {
+      "nombre": "Sebastian Marroquin",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aTq0yHilB4pPfQV8fNuN2mV2IJW.jpg"
+    },
+    {
+      "nombre": "John Leguizamo",
+      "personaje": "Pablo Escobar Gaviria",
+      "foto": "https://image.tmdb.org/t/p/w500/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sebastián Ortega",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pablo Culell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Juan Ponce",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Samuel Duque Duque",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ángela Suárez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Magdalena La Rotta",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sebastián Ortega",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pablo Culell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Juan Ponce",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Samuel Duque Duque",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ángela Suárez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Magdalena La Rotta",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Leguizamo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pablo Bernst",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mateo Guzmán",
+      "rol": "Director of Photography"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.817,
+    "imdb": "tt32125946",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=mljBu2GgTnQ"
+}
