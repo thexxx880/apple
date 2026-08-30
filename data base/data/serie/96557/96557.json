@@ -1,0 +1,55 @@
+{
+  "id_tmdb": 96557,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/a1HwzDbytC87vFTyQz7K40Jv2L8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9sTIxPFsjdcMjI1GdfC9JyQ4rTw.jpg",
+  "logo": "",
+  "titulo": "Pandemia",
+  "titulo_original": "Pandemic: How to Prevent an Outbreak",
+  "fecha_estreno": "2020-01-22",
+  "duracion": "50min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 6.883,
+  "sinopsis": "Una docuserie para conocer a los héroes al frente de la batalla contra la gripe y los esfuerzos que hacen para detener el próximo brote mundial.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Syra Madad",
+      "personaje": "",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Doug Shultz",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sheri Fink",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Doug Shultz",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sheri Fink",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.883,
+    "imdb": "tt11497904",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=qtMaG5vhCqc"
+}
