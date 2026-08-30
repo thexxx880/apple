@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 61222,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/81BCTObfPk0EvarJpUgnGXHvM9x.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8czXfVg26ohZB41TijcXkMcbedc.png",
+  "titulo": "BoJack Horseman",
+  "titulo_original": "BoJack Horseman",
+  "fecha_estreno": "2014-08-22",
+  "duracion": "24min",
+  "año": "2014",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 8.531,
+  "sinopsis": "Conoce al caballo más querido de los noventa, pero 20 años después. Un cascarrabias con un corazón no precisamente de oro, ¿quizás de cobre?",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Will Arnett",
+      "personaje": "BoJack Horseman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cXupYqk2ERP13XBkw816skYdVDO.jpg"
+    },
+    {
+      "nombre": "Aaron Paul",
+      "personaje": "Todd Chavez (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+    },
+    {
+      "nombre": "Alison Brie",
+      "personaje": "Diane Nguyen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/smqYVStfIHDYKTu8T1BA2LnhdF9.jpg"
+    },
+    {
+      "nombre": "Amy Sedaris",
+      "personaje": "Princess Carolyn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AjVjRYI1PaC11i4FqGSK1TkwOmq.jpg"
+    },
+    {
+      "nombre": "Paul F. Tompkins",
+      "personaje": "Mr. Peanutbutter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pL9v2aubEAOSW0lgrWyP0vvGr34.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Shauna McGarry",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Lisa Hanawalt",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Nick Adams",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Mike Hollingsworth",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Peter Knight",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Elijah Aron",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Shauna McGarry",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Lisa Hanawalt",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Nick Adams",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Mike Hollingsworth",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Peter Knight",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Elijah Aron",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Tom Cabral",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Richard Choi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Will Arnett",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christian Zucconi",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Stephanie Gumpel",
+      "rol": "Post Production Coordinator"
+    },
+    {
+      "nombre": "Hannah Hooper",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Lisa Hanawalt",
+      "rol": "Production Designer"
+    },
+    {
+      "nombre": "Andrew Wessen",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Andy Gowan",
+      "rol": "Music Supervisor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.531,
+    "imdb": "tt3398228",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Animations Adult, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=i1eJMig5Ik4"
+}
