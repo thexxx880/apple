@@ -1,0 +1,121 @@
+{
+  "id_tmdb": 103506,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/zJZO8n71WpdkWWOeQlnvDFkagWB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/w24jEpY2TFKHw5IC8MFU8rPEfUT.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/yj1pX0RUKv9l7W4ryZ3UREoyDy9.png",
+  "titulo": "Jeffrey Epstein: Asquerosamente rico",
+  "titulo_original": "Jeffrey Epstein: Filthy Rich",
+  "fecha_estreno": "2020-05-27",
+  "duracion": "56min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Documental"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "Los relatos de las sobrevivientes avivan esta docuserie, que analiza cómo el convicto abusador sexual Jeffrey Epstein usaba su riqueza y poder para perpetrar sus delitos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jeffrey Epstein",
+      "personaje": "Self (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/xYotfVAMFVQWMrBEEGLAyqNaAOx.jpg"
+    },
+    {
+      "nombre": "Ghislaine Maxwell",
+      "personaje": "Self (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/d39xIk9fnGxYN82qf7E716D8f1u.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joe Berlinger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Leopoldo Gout",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jon Doran",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lisa Bryant",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ismael González",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Bill Robinson",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joe Berlinger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Leopoldo Gout",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jon Doran",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lisa Bryant",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ismael González",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Bill Robinson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jon Kamen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Landesman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Justin Melland",
+      "rol": "Music"
+    },
+    {
+      "nombre": "James Patterson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lisa Bryant",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Connolly",
+      "rol": "Book"
+    },
+    {
+      "nombre": "James Patterson",
+      "rol": "Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt12312250",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=-j0rjlfmDx4"
+}
