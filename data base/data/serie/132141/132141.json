@@ -1,0 +1,103 @@
+{
+  "id_tmdb": 132141,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/zc1nMTDGRxazYawj4nbETaEpX60.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vmLt0tC5KeLd4K5ASLG5s0Ho7op.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/6yQCuFJchmVDIGo1D3GAQ6ycAEl.png",
+  "titulo": "Maya y los tres",
+  "titulo_original": "Maya y los tres",
+  "fecha_estreno": "2021-10-22",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Action & Adventure",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 7.873,
+  "sinopsis": "Una valiente princesa guerrera emprende una gran misión: debe cumplir una antigua profecía y salvar a la humanidad de la ira de los vengativos dioses.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Zoe Saldaña",
+      "personaje": "Princess Maya (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+    },
+    {
+      "nombre": "Jorge R. Gutierrez",
+      "personaje": "King Teca (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lOoh5SWBdfMO2zPWyZjE3TxCmL4.jpg"
+    },
+    {
+      "nombre": "Sandra Equihua",
+      "personaje": "Queen Teca (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/A8scLbOYyYClMYK9IBzv7ytKaf3.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Chiapa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Diego Luna",
+      "personaje": "Zatz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qwbjcyDN37OHiln4a6P4LP31o7F.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jeff Ranjo",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jorge R. Gutierrez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tim Yoon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Silvia Cardenas Olivas",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jeff Ranjo",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jorge R. Gutierrez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tim Yoon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sandra Equihua",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Silvia Cardenas Olivas",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Kali Uchis",
+      "rol": "Songs"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.873,
+    "imdb": "tt8787772",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=QrPMlYSbkEQ"
+}
