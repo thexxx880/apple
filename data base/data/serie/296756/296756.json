@@ -1,0 +1,134 @@
+{
+  "id_tmdb": 296756,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/fnbmOKHcO3W66rNE4ESfc4DjShi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sfBplhHAq2UrOkiydefSYyVLzWw.png",
+  "titulo": "El Presidente Curtis",
+  "titulo_original": "President Curtis",
+  "fecha_estreno": "2026-07-26",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "puntuacion": 5.886,
+  "sinopsis": "El presidente Curtis y su equipo enfrentan crisis extraordinarias que nadie más puede resolver.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Keith David",
+      "personaje": "President Andre Curtis (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+    },
+    {
+      "nombre": "Stephanie Beatriz",
+      "personaje": "Rho Banks (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg"
+    },
+    {
+      "nombre": "Jim Rash",
+      "personaje": "Special Agent Francis O'Doyle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cXat9HZ5ajQZsrAZ8xE4zIEVEcb.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Dan Harmon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Siciliano",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Danielle Uhlarik",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Monica Mitchell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Levy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anne Lane",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dan Harmon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Siciliano",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Danielle Uhlarik",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Monica Mitchell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Levy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anne Lane",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Brian Prodi Flynn",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Malloy Moseley",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Fill Marc Sagadraca",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Anthony Alfonso",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Haley Daniels",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Ryan Elder",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Sara Jane Sherman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Adam Burnier",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Michael Pacheco",
+      "rol": "Animation Supervisor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.886,
+    "imdb": "tt37692332",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Animations Adult",
+  "trailer": "https://www.youtube.com/watch?v=KuSbjxrKvUc"
+}
