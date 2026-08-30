@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 93846,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xKlN63j8m5fGghHCejxiXR4T2Q8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bgTm5TTI6uoY0RbLA3Fbl5z32JG.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/wUytzf9awUKYutbbPiaF84DagUu.png",
+  "titulo": "El rey: Eterno monarca",
+  "titulo_original": "더 킹 : 영원의 군주",
+  "fecha_estreno": "2020-04-17",
+  "duracion": "72min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "puntuacion": 8.246,
+  "sinopsis": "Un emperador coreano contemporáneo atraviesa un enigmático portal y entra en un mundo paralelo, en el cual se encuentra con una resuelta detective de policía.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lee Min-ho",
+      "personaje": "Lee Gon",
+      "foto": "https://image.tmdb.org/t/p/w500/iqopuz6cKuRZRUPZQrj7lFZcWWb.jpg"
+    },
+    {
+      "nombre": "김고은",
+      "personaje": "Jung Tae-eul / Luna",
+      "foto": "https://image.tmdb.org/t/p/w500/p7wuD6eX0YcZ5LXWhx0XjvEYZKz.jpg"
+    },
+    {
+      "nombre": "우도환",
+      "personaje": "Jo Eun-sup / Jo-young",
+      "foto": "https://image.tmdb.org/t/p/w500/6r1yIpHLmoIqujKv9KQeZPEUhXy.jpg"
+    },
+    {
+      "nombre": "김경남",
+      "personaje": "Kang Shin-jae",
+      "foto": "https://image.tmdb.org/t/p/w500/8aj45J8AoEnidX08NlgY9l4foE8.jpg"
+    },
+    {
+      "nombre": "정은채",
+      "personaje": "Goo Seo-ryung / Goo Eun-ah",
+      "foto": "https://image.tmdb.org/t/p/w500/cw3Ia40hTP1SfGj0Qw9pqRaNill.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "백상훈",
+      "rol": "Director"
+    },
+    {
+      "nombre": "정지현",
+      "rol": "Director"
+    },
+    {
+      "nombre": "최진희",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Yoon Ha-lim",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "유제원",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "김은숙",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "백상훈",
+      "rol": "Director"
+    },
+    {
+      "nombre": "정지현",
+      "rol": "Director"
+    },
+    {
+      "nombre": "최진희",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gae-mi",
+      "rol": "Music Director"
+    },
+    {
+      "nombre": "Yoon Ha-lim",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "유제원",
+      "rol": "Director"
+    },
+    {
+      "nombre": "하성운",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "자이언티",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "화사",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "김종완",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "박용주",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Sunwoo Jung A",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "폴킴",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "개코",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.246,
+    "imdb": "tt11228748",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=N1L1iaFZQ9I"
+}
