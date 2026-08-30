@@ -1,0 +1,120 @@
+{
+  "id_tmdb": 278573,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/51EIbzw2pvsi73UXGtuHaZGJfQa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/hENq4lEkMftzGddpCzFZQM7UswW.png",
+  "titulo": "La corona perfecta",
+  "titulo_original": "21세기 대군부인",
+  "fecha_estreno": "2026-04-10",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 9.106,
+  "sinopsis": "En una Corea moderna con una monarquía constitucional, una heredera de Chaebol y un príncipe impotente contraen un matrimonio por contrato, descubriendo el amor y el coraje mientras enfrentan barreras sociales y cicatrices personales.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "IU",
+      "personaje": "Seong Hui-ju",
+      "foto": "https://image.tmdb.org/t/p/w500/uNhKOO9lIAFXF11LM6gjCrX2CJz.jpg"
+    },
+    {
+      "nombre": "변우석",
+      "personaje": "Grand Prince I-an",
+      "foto": "https://image.tmdb.org/t/p/w500/iACGQCFJZUMsy4ywEzNiPokXFB9.jpg"
+    },
+    {
+      "nombre": "노상현",
+      "personaje": "Min Jeong-u",
+      "foto": "https://image.tmdb.org/t/p/w500/wdevvu2YLIvAPVEkScjO9JGbioq.jpg"
+    },
+    {
+      "nombre": "공승연",
+      "personaje": "Yun I-rang",
+      "foto": "https://image.tmdb.org/t/p/w500/yHZsZH9AHJbaRiHSWiKQamIeHWa.jpg"
+    },
+    {
+      "nombre": "유수빈",
+      "personaje": "Choi Hyeon",
+      "foto": "https://image.tmdb.org/t/p/w500/vulO1ngz0s3jUBXQbW2ADuyK3Fa.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "박준화",
+      "rol": "Director"
+    },
+    {
+      "nombre": "배희영",
+      "rol": "Director"
+    },
+    {
+      "nombre": "장세정",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "박지혜",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "이대용",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "강대선",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "박준화",
+      "rol": "Director"
+    },
+    {
+      "nombre": "배희영",
+      "rol": "Director"
+    },
+    {
+      "nombre": "유지원",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "장세정",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "박지혜",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "이대용",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "정태중",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "강대선",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "배현진",
+      "rol": "Cinematography"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9.106,
+    "imdb": "tt39333617",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": "https://www.youtube.com/watch?v=MOXFNE9x1G4"
+}
