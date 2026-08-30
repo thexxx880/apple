@@ -1,0 +1,80 @@
+{
+  "id_tmdb": 96160,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/umvrWjTyVgW9ulC4noFd2kuZJRM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/x2qrI0gQ1tK1NXuSALhZk6Eq4mG.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4WibKCi50JPz7u67xJEhDksLQXS.png",
+  "titulo": "Holo, mi amor",
+  "titulo_original": "나 홀로 그대",
+  "fecha_estreno": "2020-02-07",
+  "duracion": "57min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.471,
+  "sinopsis": "Una mujer de éxito que padece de afasia tiene problemas sociales debido a su incapacidad para reconocer los rostros de quienes la rodean.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "윤현민",
+      "personaje": "Ko Nan-do / Holo",
+      "foto": "https://image.tmdb.org/t/p/w500/mH5JOQWFy5XyR0AX61Pqz8dfGVl.jpg"
+    },
+    {
+      "nombre": "고성희",
+      "personaje": "Han So-yeon",
+      "foto": "https://image.tmdb.org/t/p/w500/25SZEv7gv3FvipAFgcqrHaIYCKp.jpg"
+    },
+    {
+      "nombre": "최여진",
+      "personaje": "Ko Yoo-jin",
+      "foto": "https://image.tmdb.org/t/p/w500/igCkz4OmkTeS2tSeYSHX9bMNMw8.jpg"
+    },
+    {
+      "nombre": "Chansung",
+      "personaje": "Baek Chan-sung",
+      "foto": "https://image.tmdb.org/t/p/w500/4tc3O5ewRk0Z4eQuaiJhl0ppzAR.jpg"
+    },
+    {
+      "nombre": "이정은",
+      "personaje": "So-yeon's mother",
+      "foto": "https://image.tmdb.org/t/p/w500/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "이상엽",
+      "rol": "Director"
+    },
+    {
+      "nombre": "최진희",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "이상엽",
+      "rol": "Director"
+    },
+    {
+      "nombre": "류용재",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "최진희",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.471,
+    "imdb": "tt11058644",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=sBVp2fBvFos"
+}
