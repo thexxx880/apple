@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 2103,
+  "poster": "https://image.tmdb.org/t/p/w500/bBDXyW7YyEixEeJdRBTv1oj9dFB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/avjG5EPgWXyLvsUId6hEn0iqT4A.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/pGOEIjvvPphbJk0UPnbQy4tETL2.png",
+  "titulo": "Solaris",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Ciencia ficción",
+    "Misterio"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.945,
+  "año": "2002",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando el Doctor Chris Kelvin recibe una llamada de socorro proveniente de una base espacial situada junto al planeta Solaris, emprende un viaje hacia lo desconocido de consecuencias imprevisibles para su futuro. Una vez en la base, comprueba que sólo hay dos supervivientes.",
+  "fecha_estreno": "2002-11-27",
+  "titulo_original": "Solaris",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "George Clooney",
+      "personaje": "Chris Kelvin",
+      "foto": "https://image.tmdb.org/t/p/w500/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
+    },
+    {
+      "nombre": "Natascha McElhone",
+      "personaje": "Rheya",
+      "foto": "https://image.tmdb.org/t/p/w500/9pxaoasotR1pdCXYSfN1pkm0geO.jpg"
+    },
+    {
+      "nombre": "Viola Davis",
+      "personaje": "Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
+    },
+    {
+      "nombre": "Jeremy Davies",
+      "personaje": "Snow",
+      "foto": "https://image.tmdb.org/t/p/w500/tNtcpQnMxzl0OqVDsyA63oAgPbI.jpg"
+    },
+    {
+      "nombre": "Ulrich Tukur",
+      "personaje": "Gibarian",
+      "foto": "https://image.tmdb.org/t/p/w500/nP9iuQml65bHD0jINp0f4I7Fkce.jpg"
+    },
+    {
+      "nombre": "Michael Ensign",
+      "personaje": "Friend",
+      "foto": "https://image.tmdb.org/t/p/w500/kCFAgMTp7kHDN1YzrlIi1aBaaoF.jpg"
+    },
+    {
+      "nombre": "John Cho",
+      "personaje": "DBA Emissary",
+      "foto": "https://image.tmdb.org/t/p/w500/4Lar4uy8gk78cEocq6ERPRFWt3e.jpg"
+    },
+    {
+      "nombre": "Morgan Rusler",
+      "personaje": "DBA Emissary",
+      "foto": "https://image.tmdb.org/t/p/w500/bKTFDc5J3ViirEIOu8UnOu1GjSL.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jon Landau",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steven Soderbergh",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rae Sanchini",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steven Soderbergh",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "James Cameron",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Steven Soderbergh",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Debra Zane",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Cliff Martinez",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Steve Arnold",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Keith P. Cunningham",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Steven Soderbergh",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Milena Canonero",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Philip Messina",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Kristen Toscano Messina",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "John Hewitt",
+      "rol": "CG Supervisor"
+    },
+    {
+      "nombre": "Larry Blake",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Chris Snyder",
+      "rol": "Construction Coordinator"
+    }
+  ],
+  "director": "Steven Soderbergh",
+  "valoraciones": {
+    "tmdb": 5.945,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Fox",
+  "enlace_video": "https://hglink.to/e/jfv0pjjx3r1q",
+  "trailer": "https://www.youtube.com/watch?v=mIvv1ZLqd6g"
+}
