@@ -1,0 +1,63 @@
+{
+  "id_tmdb": 286360,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kFJG81yOutOysDcNlgZ4FS3BooW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oBJ6dZ6A1tY1O94RmWnJkkQVbLz.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/iBou4FOgdkQ29Cbd9P5p56xOQkp.png",
+  "titulo": "El chico de la última fila",
+  "titulo_original": "맨 끝줄 소년",
+  "fecha_estreno": "2026-06-26",
+  "duracion": "63min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 7.9,
+  "sinopsis": "Tras descubrir el talento de un alumno para escribir, un profesor de Literatura se ofrece como su mentor, pero cuanto más se adentra en el relato, más caótico se torna todo.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "최민식",
+      "personaje": "Heo Mun-oh",
+      "foto": "https://image.tmdb.org/t/p/w500/sd7gIA6nEkq6zumkDCfxSE0YSSV.jpg"
+    },
+    {
+      "nombre": "최현욱",
+      "personaje": "Lee Kang",
+      "foto": "https://image.tmdb.org/t/p/w500/oHG5nnXAzkNBs0xEQlbwOaIFYPQ.jpg"
+    },
+    {
+      "nombre": "허준호",
+      "personaje": "Kim Su-hun",
+      "foto": "https://image.tmdb.org/t/p/w500/t6wAW0pdbycCERKMdl4VF2Sm6E3.jpg"
+    },
+    {
+      "nombre": "김윤진",
+      "personaje": "Ahn Eun-joo",
+      "foto": "https://image.tmdb.org/t/p/w500/xS7eco56mUiZGJGWDZ0pwzrUAei.jpg"
+    },
+    {
+      "nombre": "진경",
+      "personaje": "Jo Hyeon-suk",
+      "foto": "https://image.tmdb.org/t/p/w500/eKw4YbLw0LWkTCn6wbTiKkRltc2.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Juan Mayorga",
+      "rol": "Original Story"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.9,
+    "imdb": "tt36270432",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=yEMHh3mRjv4"
+}
