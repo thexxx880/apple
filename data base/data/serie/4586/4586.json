@@ -1,0 +1,108 @@
+{
+  "id_tmdb": 4586,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8U2ndZrneigI2zkvGuTJtt1ZsxK.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8NL55PGAE1zcjN1LXdqO7PF1aWO.png",
+  "titulo": "Las Chicas Gilmore",
+  "titulo_original": "Gilmore Girls",
+  "fecha_estreno": "2000-10-05",
+  "duracion": "44min",
+  "año": "2000",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 7.883,
+  "sinopsis": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lauren Graham",
+      "personaje": "Lorelai Gilmore",
+      "foto": "https://image.tmdb.org/t/p/w500/3leQVZnthAZwngH7HAD6T7qfsVu.jpg"
+    },
+    {
+      "nombre": "Alexis Bledel",
+      "personaje": "Rory Gilmore",
+      "foto": "https://image.tmdb.org/t/p/w500/mhkQzBtp2wuYoKhYqJ4IpDtbS3t.jpg"
+    },
+    {
+      "nombre": "Scott Patterson",
+      "personaje": "Luke Danes",
+      "foto": "https://image.tmdb.org/t/p/w500/qTm0LFuV8DktunzKa5T3UZoq1tC.jpg"
+    },
+    {
+      "nombre": "Melissa McCarthy",
+      "personaje": "Sookie St. James",
+      "foto": "https://image.tmdb.org/t/p/w500/yl0qva0O4u92fvtItakdvKmKrW9.jpg"
+    },
+    {
+      "nombre": "Keiko Agena",
+      "personaje": "Lane Kim",
+      "foto": "https://image.tmdb.org/t/p/w500/7v2XH9LQts17OQtsprzpNiWAWEu.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Janet Leahy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Amy Sherman-Palladino",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Daniel Palladino",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Long",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gavin Polone",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Stephens",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Janet Leahy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Amy Sherman-Palladino",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Daniel Palladino",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Long",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gavin Polone",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Stephens",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.883,
+    "imdb": "tt0238784",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=Ac47mma8XRA"
+}
