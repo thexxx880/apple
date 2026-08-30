@@ -1,0 +1,59 @@
+{
+  "id_tmdb": 300954,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/nRTpRToUtfizkt4luZLfb7LTIEe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lfTUwBiSyCVcvBPAMzSOYGUgr2c.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7z3toQDQBjKd6v06pt8kGhhZebh.png",
+  "titulo": "El esposo",
+  "titulo_original": "결혼의 완성",
+  "fecha_estreno": "2026-07-04",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 8.6,
+  "sinopsis": "Tae-ju y Se-yun están a punto de divorciarse. Pero cuando Tae-ju hace un comentario que provoca el secuestro de su esposa, todo cambia. Para peor, lo consideran el principal sospechoso. Tae-ju debe huir y rescatar a su esposa por sus propios medios. Para salvarla, llegará a límites extremos.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "남궁민",
+      "personaje": "Kang Tae-ju",
+      "foto": "https://image.tmdb.org/t/p/w500/d67Fh2o6aFm7mJYfkqWzeGjEjco.jpg"
+    },
+    {
+      "nombre": "이설",
+      "personaje": "Ko Se-yun",
+      "foto": "https://image.tmdb.org/t/p/w500/9WaLwRRQM6wVnvAsSp4IQk1PS7C.jpg"
+    },
+    {
+      "nombre": "김대명",
+      "personaje": "Noh Man-hui",
+      "foto": "https://image.tmdb.org/t/p/w500/aDBoiB6lfSFB3aKOopnp7Lau9mc.jpg"
+    },
+    {
+      "nombre": "이상희",
+      "personaje": "Kim Gyeon-gae",
+      "foto": "https://image.tmdb.org/t/p/w500/lf0RoPOizR5YGBolLwWrHj0WQeB.jpg"
+    },
+    {
+      "nombre": "장광",
+      "personaje": "Ko Dong-chan",
+      "foto": "https://image.tmdb.org/t/p/w500/t8xMsqeIe3YzdFNeeh43TPs7c1Y.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.6,
+    "imdb": "tt39393581",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": "https://www.youtube.com/watch?v=U6jpcKxFC8g"
+}
