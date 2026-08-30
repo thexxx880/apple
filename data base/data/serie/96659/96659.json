@@ -1,0 +1,94 @@
+{
+  "id_tmdb": 96659,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/khU0nt0PAbX0t6IpBBvTxm1uzoZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/A4KK6HthXvDMYRJekrM1GF6sH7y.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/wjiruTNw0zUD9Bx0iBO97e3BvMK.png",
+  "titulo": "He-Man y los Amos del Universo",
+  "titulo_original": "He-Man and the Masters of the Universe",
+  "fecha_estreno": "2021-09-16",
+  "duracion": "25min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Familia",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.093,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Yuri Lowenthal",
+      "personaje": "Adam / He-Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aLgXm0kbbIC8I5OBmnsK8TgVKwy.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Adam Bonnett",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rob David",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christopher Keenan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Susan Corbin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fred Soulie",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeff Matsuda",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Yingzhong Hu",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Adam Bonnett",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rob David",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christopher Keenan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Susan Corbin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fred Soulie",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeff Matsuda",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.093,
+    "imdb": "tt11465278",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=7zreJ6HB-JA"
+}
