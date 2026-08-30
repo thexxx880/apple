@@ -1,0 +1,97 @@
+{
+  "id_tmdb": 1412,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wAFuDJfZJrnh6a1wf1Vt7PqYBvR.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/mhbXXIcwfpJglV7ReMmAihfEotU.png",
+  "titulo": "Arrow",
+  "titulo_original": "Arrow",
+  "fecha_estreno": "2012-10-10",
+  "duracion": "24min",
+  "año": "2012",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 6.837,
+  "sinopsis": "Oliver Queen ha desaparecido y dado por muerto cuando su yate se pierde en el mar. el vuelve después como un hombre nuevo dedicado a limpiar la ciudad como un vigilante encapuchado armado con un arco.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Stephen Amell",
+      "personaje": "Oliver Queen / Green Arrow",
+      "foto": "https://image.tmdb.org/t/p/w500/hyg78jsQLLaIVs4Je2znPysAUxj.jpg"
+    },
+    {
+      "nombre": "David Ramsey",
+      "personaje": "John Diggle / Spartan",
+      "foto": "https://image.tmdb.org/t/p/w500/bZWO7WfBYI8iojTFozzqN2X3RWL.jpg"
+    },
+    {
+      "nombre": "Rick Gonzalez",
+      "personaje": "Rene Ramirez / Wild Dog",
+      "foto": "https://image.tmdb.org/t/p/w500/pVHDPq1a2oCZktgI3VumMRzGBd3.jpg"
+    },
+    {
+      "nombre": "Juliana Harkavy",
+      "personaje": "Dinah Drake / Black Canary",
+      "foto": "https://image.tmdb.org/t/p/w500/mO8gTYhjrVO2N2dtjwWt1PEYjoo.jpg"
+    },
+    {
+      "nombre": "Katherine McNamara",
+      "personaje": "Mia Smoak / Blackstar",
+      "foto": "https://image.tmdb.org/t/p/w500/cuGVMcnpi6HjobaGADo1xtaDglR.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Beth Schwartz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marc Guggenheim",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Greg Berlanti",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Bunting",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Beth Schwartz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marc Guggenheim",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Greg Berlanti",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Blake Neely",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ken Shane",
+      "rol": "First Assistant Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.837,
+    "imdb": "tt2193021",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC Comics, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=nPL9wWWuFqA"
+}
