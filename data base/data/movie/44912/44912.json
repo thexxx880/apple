@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 44912,
+  "poster": "https://image.tmdb.org/t/p/w500/pdmEDdadx3Cbw7v7dQEBXvqemdY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tS3ByIQR6V61DaWhEIFbLSuLK5Q.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/75UWl4bTFreVZKbCaZwscwENwPT.png",
+  "titulo": "Linterna Verde",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 5.19,
+  "año": "2011",
+  "duracion": "1h 54min",
+  "edad_minima": 13,
+  "sinopsis": "En un universo tan vasto como misterioso, una pequeña pero misteriosa fuerza ha existido por siglos. Protectores de la paz y la justicia se hace llamar el cuerpo de linternas verdes. Una hermandad de guerreros que juraron mantener el orden intergaláctico donde cada linterna verde lleva un anillo que le da superpoderes. Pero cuando un nuevo enemigo llamado Parallax amenaza con destruir el balance y el poder del universo, su destino y el de la tierra cae en manos del nuevo recluta; el primer humano que ha sido elegido: Hal Jordan.",
+  "fecha_estreno": "2011-06-14",
+  "titulo_original": "Green Lantern",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ryan Reynolds",
+      "personaje": "Hal Jordan / Green Lantern",
+      "foto": "https://image.tmdb.org/t/p/w500/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+      "nombre": "Blake Lively",
+      "personaje": "Carol Ferris",
+      "foto": "https://image.tmdb.org/t/p/w500/rkGVjd6wImtgjOCi0IpeffdEWtb.jpg"
+    },
+    {
+      "nombre": "Peter Sarsgaard",
+      "personaje": "Hector Hammond",
+      "foto": "https://image.tmdb.org/t/p/w500/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg"
+    },
+    {
+      "nombre": "Mark Strong",
+      "personaje": "Sinestro",
+      "foto": "https://image.tmdb.org/t/p/w500/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+    },
+    {
+      "nombre": "Tim Robbins",
+      "personaje": "Senator Hammond",
+      "foto": "https://image.tmdb.org/t/p/w500/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+    },
+    {
+      "nombre": "Jay O. Sanders",
+      "personaje": "Carl Ferris",
+      "foto": "https://image.tmdb.org/t/p/w500/z8btmLryEZlLkBah2XhZFydmty4.jpg"
+    },
+    {
+      "nombre": "Taika Waititi",
+      "personaje": "Tom Kalmaku",
+      "foto": "https://image.tmdb.org/t/p/w500/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+    },
+    {
+      "nombre": "Angela Bassett",
+      "personaje": "Dr. Amanda Waller",
+      "foto": "https://image.tmdb.org/t/p/w500/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Martin Campbell",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Greg Berlanti",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Michael Goldenberg",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Greg Berlanti",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Donald De Line",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Geoff Johns",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marc Guggenheim",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Michael Green",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "James Newton Howard",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Heidi Brook Myers",
+      "rol": "ADR & Dubbing"
+    },
+    {
+      "nombre": "Herb Gains",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrew Haas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dion Beebe",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Pam Dixon",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Grant Major",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Luci Romberg",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ashley Nicole Hudson",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ngila Dickson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Gary Archer",
+      "rol": "Prosthetics"
+    },
+    {
+      "nombre": "Clay Cullen",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Martin Campbell",
+  "valoraciones": {
+    "tmdb": 5.19,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "De Line Pictures",
+  "enlace_video": "https://hugh.cdn.rumble.cloud/video/fwe2/b7/s8/2/A/0/w/t/A0wtz.aaa.mp4",
+  "trailer": "https://www.youtube.com/watch?v=ojYMekJgqJU"
+}
