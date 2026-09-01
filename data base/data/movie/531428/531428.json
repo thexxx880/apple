@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 531428,
+  "poster": "https://image.tmdb.org/t/p/w500/muAsDE6qAqdKB2VJsIzo1uVSSuM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ivJ5UzT6IzucLVfbZwCCwiJJoBz.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/l0oWpsKtqlnfPbBoj5zZVkogEGb.png",
+  "titulo": "Retrato de una mujer en llamas",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.087,
+  "año": "2019",
+  "duracion": "2h 0min",
+  "edad_minima": 13,
+  "sinopsis": "Francia, 1770. Marianne, una pintora, recibe un encargo de una condesa que consiste en realizar el retrato de bodas de su hija Héloïse, una joven que acaba de dejar el convento y que tiene serias dudas respecto a su próximo matrimonio. Marianne tiene que retratarla sin su conocimiento, por lo que se dedica a investigarla a diario.",
+  "fecha_estreno": "2019-09-06",
+  "titulo_original": "Portrait de la jeune fille en feu",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Noémie Merlant",
+      "personaje": "Marianne",
+      "foto": "https://image.tmdb.org/t/p/w500/l9ECDc9GGIESuKuT5zxIJknAD33.jpg"
+    },
+    {
+      "nombre": "Adèle Haenel",
+      "personaje": "Héloïse",
+      "foto": "https://image.tmdb.org/t/p/w500/uf2BVprWBZB7hxv0lj1RO48EDEZ.jpg"
+    },
+    {
+      "nombre": "Luàna Bajrami",
+      "personaje": "Sophie",
+      "foto": "https://image.tmdb.org/t/p/w500/2fqQuPWmdvcaScBqguN4rcRXcWc.jpg"
+    },
+    {
+      "nombre": "Valeria Golino",
+      "personaje": "La Comtesse",
+      "foto": "https://image.tmdb.org/t/p/w500/bLw0lNPEhICtbTLtnTswamefN7C.jpg"
+    },
+    {
+      "nombre": "Christel Baras",
+      "personaje": "La faiseuse d'ange",
+      "foto": "https://image.tmdb.org/t/p/w500/lZdOrS1y7ADRm99GCl05vpV8zLF.jpg"
+    },
+    {
+      "nombre": "Armande Boulanger",
+      "personaje": "L'élève atelier",
+      "foto": "https://image.tmdb.org/t/p/w500/3qiFTfRl8x68D8u6aUXWmV5POEb.jpg"
+    },
+    {
+      "nombre": "Guy Delamarche",
+      "personaje": "L'homme salon",
+      "foto": "https://image.tmdb.org/t/p/w500/5iCVhlXw8F59ya0B0BJZhfLO2Oc.jpg"
+    },
+    {
+      "nombre": "Clément Bouyssou",
+      "personaje": "Le batelier",
+      "foto": "https://image.tmdb.org/t/p/w500/523TGI1P3MIj0rg8TJyJLsEdti9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Céline Sciamma",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bénédicte Couvreur",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Céline Sciamma",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Arthur Simonini",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Christel Baras",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Dorothée Guiraud",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Para One",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Thomas Grézaud",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Claire Mathon",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Julien Lacheray",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Olivier Père",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Rémi Burah",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Charles Lagorce",
+      "rol": "Best Boy Grip"
+    },
+    {
+      "nombre": "Vincent Taberlet",
+      "rol": "Electrician"
+    },
+    {
+      "nombre": "Jérôme Bigueur",
+      "rol": "Colorist"
+    }
+  ],
+  "director": "Céline Sciamma",
+  "valoraciones": {
+    "tmdb": 8.087,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lilies Films",
+  "enlace_video": "https://gscdn.cam/video/embed/k8n2gki1rkbc",
+  "trailer": "https://www.youtube.com/watch?v=X1Z-_QG-0Gw"
+}
