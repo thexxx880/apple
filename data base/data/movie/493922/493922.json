@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 493922,
+  "poster": "https://image.tmdb.org/t/p/w500/6chE8jSfzggAudaHmKodzBz8Sl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7Wlazf1mZk3Pizu4vhUZUUAMBA4.png",
+  "titulo": "El legado del diablo",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Misterio",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.3,
+  "año": "2018",
+  "duracion": "2h 6min",
+  "edad_minima": 13,
+  "sinopsis": "Tras la muerte de la matriarca de la familia Leigh, Annie y sus hijos descubren secretos inquietantes sobre su herencia. Su vida cotidiana no solo se ve afectada, sino que también se ven envueltos en un destino aterrador del que no pueden escapar, llevándolos al borde de la locura.",
+  "fecha_estreno": "2018-06-07",
+  "titulo_original": "Hereditary",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Toni Collette",
+      "personaje": "Annie Graham",
+      "foto": "https://image.tmdb.org/t/p/w500/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg"
+    },
+    {
+      "nombre": "Alex Wolff",
+      "personaje": "Peter Graham",
+      "foto": "https://image.tmdb.org/t/p/w500/7PMu5zFOEH7PqFDzrKThgKD4Ndf.jpg"
+    },
+    {
+      "nombre": "Gabriel Byrne",
+      "personaje": "Steve Graham",
+      "foto": "https://image.tmdb.org/t/p/w500/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
+    },
+    {
+      "nombre": "Milly Shapiro",
+      "personaje": "Charlie Graham",
+      "foto": "https://image.tmdb.org/t/p/w500/5QVwZttyqVDl0M3AKwe0SDU8S5R.jpg"
+    },
+    {
+      "nombre": "Ann Dowd",
+      "personaje": "Joan",
+      "foto": "https://image.tmdb.org/t/p/w500/zo44U71uiMNVW1HSiOa5F9MpqIq.jpg"
+    },
+    {
+      "nombre": "Mallory Bechtel",
+      "personaje": "Bridget",
+      "foto": "https://image.tmdb.org/t/p/w500/knFuxxTKvZOTZaqy7M3V8ZWndY5.jpg"
+    },
+    {
+      "nombre": "Brock McKinney",
+      "personaje": "Aaron",
+      "foto": "https://image.tmdb.org/t/p/w500/m9OQFajkGavQwhNG7wD1Wxl0aPC.jpg"
+    },
+    {
+      "nombre": "Jake Brown",
+      "personaje": "Brendan",
+      "foto": "https://image.tmdb.org/t/p/w500/p3kIlJNenOJ0nUSQKd8vRXpSvzh.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Buddy Patrick",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lars Knudsen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Scott Frakes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ari Aster",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ari Aster",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "MarSchelle Walker",
+      "rol": "Second Second Assistant Director"
+    },
+    {
+      "nombre": "Jed Seus",
+      "rol": "Steadicam Operator"
+    },
+    {
+      "nombre": "Nicholes Antonio",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jason Painter",
+      "rol": "First Assistant \"B\" Camera"
+    },
+    {
+      "nombre": "Corbett McAllister",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Andy Baker",
+      "rol": "First Assistant \"A\" Camera"
+    },
+    {
+      "nombre": "Matthew Leslie",
+      "rol": "Second Assistant \"A\" Camera"
+    },
+    {
+      "nombre": "Jonathan Hallett",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Kody Riekena",
+      "rol": "Second Assistant \"B\" Camera"
+    },
+    {
+      "nombre": "Craig Sullivan",
+      "rol": "Key Grip"
+    },
+    {
+      "nombre": "Craig Katayama",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "Shane Etsitty",
+      "rol": "Set Dresser"
+    }
+  ],
+  "director": "Ari Aster",
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "PalmStar Media",
+  "enlace_video": "https://gscdn.cam/video/embed/yjajrhnmb4o6",
+  "trailer": "https://www.youtube.com/watch?v=MJNR58zaStE"
+}
