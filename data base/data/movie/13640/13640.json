@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 13640,
+  "poster": "https://image.tmdb.org/t/p/w500/4Lv3rhwgSgnPlWaTfv6V7VHWmgC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oTPSjQyETTFYDehdbiG8yi2oDmL.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vvmWilmsLugvPxQ1g2qXhti5p6Q.png",
+  "titulo": "La Muerte de Superman",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Animación",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.726,
+  "año": "2007",
+  "duracion": "1h 15min",
+  "edad_minima": 13,
+  "sinopsis": "Adaptación del cómic 'The Death of Superman' que DC comics lanzó en los años 90s donde supuestamente Superman era asesinado por uno de los más temibles villanos a los que se ha enfrentado, una bestia llamada Doomsday.",
+  "fecha_estreno": "2007-09-18",
+  "titulo_original": "Superman: Doomsday",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Adam Baldwin",
+      "personaje": "Superman / Clark Kent / Dark Superman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lfbyJWNWGbiYfU0Yr1tjn6Trd2V.jpg"
+    },
+    {
+      "nombre": "Anne Heche",
+      "personaje": "Lois Lane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg"
+    },
+    {
+      "nombre": "James Marsters",
+      "personaje": "Lex Luthor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oJnBB3g2IINnsLSr8B79bJ9ykkx.jpg"
+    },
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "Toyman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+    },
+    {
+      "nombre": "Swoosie Kurtz",
+      "personaje": "Martha Kent (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uCHMttpxVITjDXtjs8FS6O7TQHx.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Robot (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
+    },
+    {
+      "nombre": "Ray Wise",
+      "personaje": "Perry White (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/60313U01R1j9eueDBXiIh9o55RQ.jpg"
+    },
+    {
+      "nombre": "Cree Summer",
+      "personaje": "Mercy Graves (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7DRq0zPUUWu55pUbnc2roVnzOJ9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lauren Montgomery",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bruce Timm",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Duane Capizzi",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Brandon Vietti",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Duane Capizzi",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bruce Timm",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bruce Timm",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Robert J. Kral",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Bobbie Page",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Joe Gall",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sander Schwartz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrea Romano",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tristin Cole",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "John Dillon",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Jay Oliva",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Roger Stern",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jerry Siegel",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Dan Jurgens",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Louise Simonson",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Lauren Montgomery",
+  "valoraciones": {
+    "tmdb": 6.726,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC",
+  "enlace_video": "https://gscdn.cam/video/embed/didioj48qoc7",
+  "trailer": "https://www.youtube.com/watch?v=l3keuiWzY-Q"
+}
