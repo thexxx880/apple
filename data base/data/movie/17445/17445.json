@@ -1,0 +1,134 @@
+{
+  "id_tmdb": 17445,
+  "poster": "https://image.tmdb.org/t/p/w500/pEreGSA55Jjky2RBZsj3vgGM96U.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zYARGakIhHUvPuVJzlbqU40FrnV.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/pEQQpZANlPsTe8LvCZj46yeyetx.png",
+  "titulo": "Linterna Verde: Primer Vuelo",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción",
+    "Animación"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.9,
+  "año": "2009",
+  "duracion": "1h 15min",
+  "edad_minima": 13,
+  "sinopsis": "El piloto de prueba Hal Jordan es reclutado para unirse a una sociedad llamada “Linterna Verde Corporación”, luego de la puerta de su predecesor Abin Sur. Tras aceptar la misión, es llamado a entrenar bajo la supervisión de un maestro llamado Siniestro. El nuevo recluta descubre que su mentor es en realidad una parte centrar de una conspiración secreta que amenaza las filosofías, tradiciones y herencia de la corporación de linternas verdes.",
+  "fecha_estreno": "2009-07-28",
+  "titulo_original": "Green Lantern: First Flight",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Christopher Meloni",
+      "personaje": "Hal Jordan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nHlFFbRTh85vkohBBtRQjYnWEtb.jpg"
+    },
+    {
+      "nombre": "Victor Garber",
+      "personaje": "Sinestro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/FdhXl8qxsKgj22Ip99SRM9jUx1.jpg"
+    },
+    {
+      "nombre": "Michael Madsen",
+      "personaje": "Kilowog (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fvr2EXEPrVwsF2JlfRp0Olbj4g8.jpg"
+    },
+    {
+      "nombre": "Tricia Helfer",
+      "personaje": "Boodikka (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cXwa8yT2Qv7EmCI8yjs5ldvMHmw.jpg"
+    },
+    {
+      "nombre": "John Larroquette",
+      "personaje": "Tomar-Re (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rWXMelYm34YIBOzJJaQrBI50NEp.jpg"
+    },
+    {
+      "nombre": "Kurtwood Smith",
+      "personaje": "Kanjar Ro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg"
+    },
+    {
+      "nombre": "Larry Drake",
+      "personaje": "Ganthet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/VkS3sb0gpLEY0AW7M92RO0m60b.jpg"
+    },
+    {
+      "nombre": "William Schallert",
+      "personaje": "Appa Ali Apsa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cWwLO0UxvKupMFqu4jyMnycSE1o.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lauren Montgomery",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bruce Timm",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Bobbie Page",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jay Oliva",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Vasquez",
+      "rol": "Assistant Production Manager"
+    },
+    {
+      "nombre": "Andrea Romano",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Rob Desales",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Robert J. Kral",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Linda Steiner",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "John Diaz",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Alan Burnett",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Ben Kalina",
+      "rol": "Production Manager"
+    }
+  ],
+  "director": "Lauren Montgomery",
+  "valoraciones": {
+    "tmdb": 6.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC",
+  "enlace_video": "https://gscdn.cam/video/embed/1xqht7hmzv84",
+  "trailer": "https://www.youtube.com/watch?v=B_v_-A26xK8"
+}
