@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 206487,
+  "poster": "https://image.tmdb.org/t/p/w500/qXabr1nGFE3HCdIlU9xFGqALALg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/yBjJDYgkvfoYV2ozuCOQRMW6PT3.png",
+  "titulo": "Predestinación",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.415,
+  "año": "2014",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Un agente especial de un departamento secreto del gobierno, una agencia creada en los años 80 que permite realizar viajes en el tiempo, tendrá que realizar una compleja serie de \"saltos\" hacia atrás en el tiempo con el fin de detener al conocido como \"el terrorista fallido\", un individuo que está poniendo bombas por todo el país con miles de víctimas. En uno de sus viajes a los 70, el agente, que trabaja encubierto como camarero de un bar, conoce a un hombre que le narra una historia extraordinaria.",
+  "fecha_estreno": "2014-08-28",
+  "titulo_original": "Predestination",
+  "pais_origen": "Australia",
+  "reparto": [
+    {
+      "nombre": "Ethan Hawke",
+      "personaje": "The Bartender",
+      "foto": "https://image.tmdb.org/t/p/w500/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+    },
+    {
+      "nombre": "Sarah Snook",
+      "personaje": "The Unmarried Mother",
+      "foto": "https://image.tmdb.org/t/p/w500/w9xv72oaTISLgeT381fU4Jor9GV.jpg"
+    },
+    {
+      "nombre": "Noah Taylor",
+      "personaje": "Mr. Robertson",
+      "foto": "https://image.tmdb.org/t/p/w500/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg"
+    },
+    {
+      "nombre": "Christopher Kirby",
+      "personaje": "Mr. Miles",
+      "foto": "https://image.tmdb.org/t/p/w500/djNk4Q2A79XPhMOtAE2F2fgCIhI.jpg"
+    },
+    {
+      "nombre": "Madeleine West",
+      "personaje": "Mrs. Stapleton",
+      "foto": "https://image.tmdb.org/t/p/w500/buJ3lN6iDQBuuP9FwGgpT9WQxLt.jpg"
+    },
+    {
+      "nombre": "Jim Knobeloch",
+      "personaje": "Dr. Belfort",
+      "foto": "https://image.tmdb.org/t/p/w500/m6B8YOYzd1YjrnvtOIdy9bzGEEH.jpg"
+    },
+    {
+      "nombre": "Freya Stafford",
+      "personaje": "Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/yHisdwlraY7scY5fkYFO5XiXc6F.jpg"
+    },
+    {
+      "nombre": "Elise Jansen",
+      "personaje": "Nurse",
+      "foto": "https://image.tmdb.org/t/p/w500/y3KQKUyPG3lJYh2URnuHc1z6mfz.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Peter Spierig",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Peter Spierig",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tim McGahan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Spierig",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paddy McDonald",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Spierig",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Michael Spierig",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Spierig",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Leigh Pickford",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Gary Hamilton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Nott",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Robert A. Heinlein",
+      "rol": "Short Story"
+    },
+    {
+      "nombre": "Michael Burton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Spierig",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "James M. Vernon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew Putland",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Matt Villa",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Rangi Sutton",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Chris Goodes",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Dan Maxwell",
+      "rol": "Steadicam Operator"
+    }
+  ],
+  "director": "Peter Spierig",
+  "valoraciones": {
+    "tmdb": 7.415,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Screen Queensland",
+  "enlace_video": "https://gscdn.cam/video/embed/tgt7o9ghfjwm",
+  "trailer": "https://www.youtube.com/watch?v=xxG-YfedrfU"
+}
