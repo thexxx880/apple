@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 419743,
+  "poster": "https://image.tmdb.org/t/p/w500/zx1dOX2uNDJyIeEYzsFLmXJaOwA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uTT0yYYgD5S4cDpNOJxuvCITAeC.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vZuBrhFo3H8q1QQQFzcZWva1vhJ.png",
+  "titulo": "Desobediencia",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.881,
+  "año": "2018",
+  "duracion": "1h 54min",
+  "edad_minima": 13,
+  "sinopsis": "Una mujer que se crió en una familia ortodoxa judía regresa a su hogar con motivo de la muerte de su padre rabino. La controversia no tardará en aparecer cuando ella comienza a mostrar interés por una vieja amiga del colegio.",
+  "fecha_estreno": "2018-04-24",
+  "titulo_original": "Disobedience",
+  "pais_origen": "Ireland",
+  "reparto": [
+    {
+      "nombre": "Rachel Weisz",
+      "personaje": "Ronit Krushka",
+      "foto": "https://image.tmdb.org/t/p/w500/9tfHL5tholha1YF6bSKt422ETPM.jpg"
+    },
+    {
+      "nombre": "Rachel McAdams",
+      "personaje": "Esti Kuperman",
+      "foto": "https://image.tmdb.org/t/p/w500/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
+    },
+    {
+      "nombre": "Alessandro Nivola",
+      "personaje": "Dovid Kuperman",
+      "foto": "https://image.tmdb.org/t/p/w500/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
+    },
+    {
+      "nombre": "Allan Corduner",
+      "personaje": "Moshe Hartog",
+      "foto": "https://image.tmdb.org/t/p/w500/9bZTEBUjY02UeooNnghZXxKfiO7.jpg"
+    },
+    {
+      "nombre": "Anton Lesser",
+      "personaje": "Rav Krushka",
+      "foto": "https://image.tmdb.org/t/p/w500/x0lmqgkmphvOCSTHk2oxsaxA9Ra.jpg"
+    },
+    {
+      "nombre": "Nicholas Woodeson",
+      "personaje": "Rabbi Goldfarb",
+      "foto": "https://image.tmdb.org/t/p/w500/g8sVxrMjLAWEde8TZaa42e2Lr42.jpg"
+    },
+    {
+      "nombre": "David Fleeshman",
+      "personaje": "Yosef Kirschbaum",
+      "foto": "https://image.tmdb.org/t/p/w500/2d87T5EVYJYCdOmMxkDcC8GlUPi.jpg"
+    },
+    {
+      "nombre": "Steve Furst",
+      "personaje": "Dr. Gideon Rigler",
+      "foto": "https://image.tmdb.org/t/p/w500/13V6yjaswSUppCLak7aGdWNTsbY.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Rebecca Lenkiewicz",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sebastián Lelio",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sebastián Lelio",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rachel Weisz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ed Guiney",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Frida Torresblanco",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ben Baird",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Sandra Frieze",
+      "rol": "Dialect Coach"
+    },
+    {
+      "nombre": "Hannah Jell",
+      "rol": "Camera Trainee"
+    },
+    {
+      "nombre": "Calem Trevor",
+      "rol": "Second Assistant \"B\" Camera"
+    },
+    {
+      "nombre": "Kate Selby",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Malou Coindreau",
+      "rol": "Floor Runner"
+    },
+    {
+      "nombre": "Alexandra Slade",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Emma Costello",
+      "rol": "Production Secretary"
+    },
+    {
+      "nombre": "Simone Tomasi",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Lucy Lee",
+      "rol": "Assistant Location Manager"
+    },
+    {
+      "nombre": "Deborah Harding",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "India Jaques",
+      "rol": "Art Department Assistant"
+    }
+  ],
+  "director": "Sebastián Lelio",
+  "valoraciones": {
+    "tmdb": 6.881,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Braven Films",
+  "enlace_video": "https://gscdn.cam/video/embed/blexw80bea2v",
+  "trailer": "https://www.youtube.com/watch?v=RgoKZ3zORfE"
+}
