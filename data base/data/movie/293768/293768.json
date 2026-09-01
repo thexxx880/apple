@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 293768,
+  "poster": "https://image.tmdb.org/t/p/w500/1jcD7bGnoWTIaQTu6gQLNj4E7aF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6fwuBSN56KtiHH19bLRIxGtfpC5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aqAhepk3S13jE9UFvuAiZclVII.png",
+  "titulo": "Desaparecido",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.25,
+  "año": "2017",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "La madre soltera Karla McCoy vive una vida perfecta con su pequeño hijo Frankie. Un día, al entrar en un parque local, Karla ve a su hijo secuestrado de repente por un secuestrador. Para evitar que Frankie sea capturada, Karla sale en una misión para exigirle a la gente de la ciudad que ayude a rescatar a su hijo.",
+  "fecha_estreno": "2017-08-03",
+  "titulo_original": "Kidnap",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Halle Berry",
+      "personaje": "Karla Dyson",
+      "foto": "https://image.tmdb.org/t/p/w500/84HRDZodRCuBSpYGSc3ow8WucI4.jpg"
+    },
+    {
+      "nombre": "Sage Correa",
+      "personaje": "Frankie Dyson",
+      "foto": "https://image.tmdb.org/t/p/w500/4IUCWSrqFhX6NICOFu6ycvtHAQ8.jpg"
+    },
+    {
+      "nombre": "Chris McGinn",
+      "personaje": "Margo Fickey",
+      "foto": "https://image.tmdb.org/t/p/w500/btXHykfRjmK65qx4ntGwGmHCIRB.jpg"
+    },
+    {
+      "nombre": "Lew Temple",
+      "personaje": "Terry Fickey",
+      "foto": "https://image.tmdb.org/t/p/w500/s8FXAUqIclO4ndI9BsLavrxqQup.jpg"
+    },
+    {
+      "nombre": "Jason George",
+      "personaje": "David",
+      "foto": "https://image.tmdb.org/t/p/w500/eTiyxcbtEsdANo1NGFsfk3mZPW3.jpg"
+    },
+    {
+      "nombre": "Christopher Berry",
+      "personaje": "The Bearded Man",
+      "foto": "https://image.tmdb.org/t/p/w500/8y2HybPVLxUabwnMPjdBREbitKZ.jpg"
+    },
+    {
+      "nombre": "Arron Shiver",
+      "personaje": "Bill",
+      "foto": null
+    },
+    {
+      "nombre": "Kurtis Bedford",
+      "personaje": "Del",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Luis Prieto",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lorenzo di Bonaventura",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Elaine Goldsmith-Thomas",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Halle Berry",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Knate Gwaltney",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Gregory Chou",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Erik Howsam",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joey Tufaro",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Deven MacNair",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Aja Frary",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Nancy Nayor",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Federico Jusid",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Flavio Martínez Labiano",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Avi Youabian",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mike Drake",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Bill Johnson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Frank J. Zito III",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Deanna Simmons",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Denise Templeton",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "Neely Eisenstein",
+      "rol": "Casting Associate"
+    }
+  ],
+  "director": "Luis Prieto",
+  "valoraciones": {
+    "tmdb": 6.25,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Ingenious Media",
+  "enlace_video": "https://gscdn.cam/video/embed/vgr5pjzl1ah8",
+  "trailer": "https://www.youtube.com/watch?v=R1CEXeuirAM"
+}
