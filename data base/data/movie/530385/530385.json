@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 530385,
+  "poster": "https://image.tmdb.org/t/p/w500/4GAu35PwRZXEIJp7UEBljQ1aP1G.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mjf2CyGrMqjUjsjXsaEsakBrOdA.png",
+  "titulo": "Midsommar: el terror no espera la noche",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Drama",
+    "Misterio"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.145,
+  "año": "2019",
+  "duracion": "2h 28min",
+  "edad_minima": 13,
+  "sinopsis": "Una pareja estadounidense que no está pasando por su mejor momento acude con unos amigos a un festival de verano que se celebra cada noventa años en una aldea remota de Suecia. Lo que comienza como unas vacaciones de ensueño en un lugar en el que el sol no se pone nunca, poco a poco se convierte en una oscura pesadilla cuando los misteriosos aldeanos les invitan a participar en sus perturbadoras actividades festivas.",
+  "fecha_estreno": "2019-07-03",
+  "titulo_original": "Midsommar",
+  "pais_origen": "Sweden",
+  "reparto": [
+    {
+      "nombre": "Florence Pugh",
+      "personaje": "Dani",
+      "foto": "https://image.tmdb.org/t/p/w500/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+    },
+    {
+      "nombre": "Jack Reynor",
+      "personaje": "Christian",
+      "foto": "https://image.tmdb.org/t/p/w500/hl0zOfOU9tiBT4znHIB9jpxrJaM.jpg"
+    },
+    {
+      "nombre": "William Jackson Harper",
+      "personaje": "Josh",
+      "foto": "https://image.tmdb.org/t/p/w500/5Oy037YttIweiqNGaErkalNmH0G.jpg"
+    },
+    {
+      "nombre": "Will Poulter",
+      "personaje": "Mark",
+      "foto": "https://image.tmdb.org/t/p/w500/9blYMaj79VGC6BHTLmJp3V5S8r3.jpg"
+    },
+    {
+      "nombre": "Vilhelm Blomgren",
+      "personaje": "Pelle",
+      "foto": "https://image.tmdb.org/t/p/w500/uxfGg0gwEJS6CvY0PMNk90yoO71.jpg"
+    },
+    {
+      "nombre": "Isabelle Grill",
+      "personaje": "Maja",
+      "foto": "https://image.tmdb.org/t/p/w500/5g2ytU0fLCRHM20PHwjAAW3IYz2.jpg"
+    },
+    {
+      "nombre": "Gunnel Fred",
+      "personaje": "Siv",
+      "foto": "https://image.tmdb.org/t/p/w500/qpszltzBSTK0smwpfpGFJvN24um.jpg"
+    },
+    {
+      "nombre": "Ellora Torchia",
+      "personaje": "Connie",
+      "foto": "https://image.tmdb.org/t/p/w500/xGeOoLNne2U3rViaL8adlT7Hhpl.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ari Aster",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ari Aster",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lars Knudsen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Beau Ferris",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patrik Andersson",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ben Rimmer",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Péter 'Tiger' Rácz",
+      "rol": "Digital Imaging Technician"
+    },
+    {
+      "nombre": "Anna Törjék",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Matyas Borda",
+      "rol": "Prosthetic Makeup Artist"
+    },
+    {
+      "nombre": "Athina Sapanidis",
+      "rol": "Prosthetic Makeup Artist"
+    },
+    {
+      "nombre": "Andrea Kozma",
+      "rol": "Prosthetic Makeup Artist"
+    },
+    {
+      "nombre": "Izabell Janositz",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Árpád Halász",
+      "rol": "Animal Wrangler"
+    },
+    {
+      "nombre": "Thurman Martin III",
+      "rol": "Visual Effects Coordinator"
+    },
+    {
+      "nombre": "Mátyás Tóth",
+      "rol": "Set Costumer"
+    },
+    {
+      "nombre": "Joseph Grundfast",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Ben Foster",
+      "rol": "Conductor"
+    }
+  ],
+  "director": "Ari Aster",
+  "valoraciones": {
+    "tmdb": 7.145,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "B-Reel Films",
+  "enlace_video": "https://gscdn.cam/video/embed/vx58nvxsfdv1",
+  "trailer": "https://www.youtube.com/watch?v=1Vnghdsjmd0"
+}
