@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 13183,
+  "poster": "https://image.tmdb.org/t/p/w500/l0v7bgWK5M85mcuMNO5AtkP1XVn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dH7ia3vtkYCa3CBvDnvVjqm9uiQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/k9lFXOoVKHCQePRVewYYcvvGK5G.png",
+  "titulo": "Watchmen, los vigilantes",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.356,
+  "año": "2009",
+  "duracion": "2h 43min",
+  "edad_minima": 13,
+  "sinopsis": "En 1985, donde existen antiguos superhéroes, el asesinato de un colega empuja al vigilante activo Rorschach a realizar su propia investigación, descubriendo algo que podría cambiar por completo el curso de la historia tal y como la conocemos.",
+  "fecha_estreno": "2009-03-04",
+  "titulo_original": "Watchmen",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Malin Akerman",
+      "personaje": "Laurie Jupiter / Silk Spectre II",
+      "foto": "https://image.tmdb.org/t/p/w500/u38qRcCAiO3SZdFKJKx3fncDyef.jpg"
+    },
+    {
+      "nombre": "Patrick Wilson",
+      "personaje": "Dan Dreiberg / Nite Owl II",
+      "foto": "https://image.tmdb.org/t/p/w500/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+    },
+    {
+      "nombre": "Billy Crudup",
+      "personaje": "Jon Osterman / Dr. Manhattan",
+      "foto": "https://image.tmdb.org/t/p/w500/4kHvUUVFMW8GJTHJtoAiskqhcyO.jpg"
+    },
+    {
+      "nombre": "Matthew Goode",
+      "personaje": "Adrian Veidt / Ozymandias",
+      "foto": "https://image.tmdb.org/t/p/w500/3XaKKl0bKswTWbJ0Lh9nZ4UdAQo.jpg"
+    },
+    {
+      "nombre": "Jackie Earle Haley",
+      "personaje": "Walter Kovacs / Rorschach",
+      "foto": "https://image.tmdb.org/t/p/w500/xDPeiyklN8f9Ilowsti4lGVbioj.jpg"
+    },
+    {
+      "nombre": "Jeffrey Dean Morgan",
+      "personaje": "Edward Blake / The Comedian",
+      "foto": "https://image.tmdb.org/t/p/w500/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
+    },
+    {
+      "nombre": "Carla Gugino",
+      "personaje": "Sally Jupiter / Silk Spectre",
+      "foto": "https://image.tmdb.org/t/p/w500/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
+    },
+    {
+      "nombre": "Laura Mennell",
+      "personaje": "Janey Slater",
+      "foto": "https://image.tmdb.org/t/p/w500/onIPcCc3swg2q2k2vRcNtqYdwaQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Deborah Snyder",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Zack Snyder",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David Hayter",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lawrence Gordon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Wesley Coller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lloyd Levin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Tse",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Herb Gains",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thomas Tull",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "William Hoy",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "James Steuart",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Helen Jarvis",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Alex McDowell",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Tyler Bates",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Larry Fong",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Kristy Carlson",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Michael Wilkinson",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jim Erickson",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Monique Ganderton",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Zack Snyder",
+  "valoraciones": {
+    "tmdb": 7.356,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/ffmp7njqxn0y",
+  "trailer": "https://www.youtube.com/watch?v=89xoXmHgG00"
+}
