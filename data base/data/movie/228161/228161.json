@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 228161,
+  "poster": "https://image.tmdb.org/t/p/w500/lADyT1MVDEBaiikuw3Mbrn3ydTe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gnkBzJVH2zicIopP2fHf4kRElne.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kpm1MF67FO7JvtU4WJjPxrxDJMB.png",
+  "titulo": "Home: No hay lugar como el hogar",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Comedia",
+    "Animación",
+    "Ciencia ficción",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.788,
+  "año": "2015",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "Un grupo de pacíficos alienígenas se encuentran huyendo de sus enemigos, y deciden esconderse de ellos en la Tierra. Sin embargo, uno de estos humildes extraterrestres accidentalmente notifica a sus perseguidores cuál es su ubicación, y no le queda más remedio que huir junto con una chica adolescente.",
+  "fecha_estreno": "2015-03-18",
+  "titulo_original": "Home",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jim Parsons",
+      "personaje": "Oh (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4D5oAUeM2wlejSwJJ6TmKoM9Abn.jpg"
+    },
+    {
+      "nombre": "Rihanna",
+      "personaje": "Gratuity 'Tip' Tucci (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/piXUA7L0gWQNtnDPXtBe24C9FF6.jpg"
+    },
+    {
+      "nombre": "Steve Martin",
+      "personaje": "Capitain Smek (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d0KthX8hVWU9BxTCG1QUO8FURRm.jpg"
+    },
+    {
+      "nombre": "Jennifer Lopez",
+      "personaje": "Lucy Tucci (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/go2wwj8NGLYqKr7MdqbG3nLWICX.jpg"
+    },
+    {
+      "nombre": "Matt Jones",
+      "personaje": "Kyle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/x13vFDaJHY1CxNvSPWujYe12bMc.jpg"
+    },
+    {
+      "nombre": "Brian Stepanek",
+      "personaje": "Gorg Commander / Father / Boov (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oxBgwkiEZtoHE4Uqi7GMwM3sK9x.jpg"
+    },
+    {
+      "nombre": "April Lawrence",
+      "personaje": "Boov Announcer (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Lisa Stewart",
+      "personaje": "Boov (voice)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Mireille Soria",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom J. Astle",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Matt Ember",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Suzanne Buirgy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tim Johnson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Todd Wilderman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Christopher Jenkins",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Takao Noguchi",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Adam Rex",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Simon Otto",
+      "rol": "Supervising Animator"
+    },
+    {
+      "nombre": "Josh LaBrot",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Munira Moiz Tayabji",
+      "rol": "Supervising Technical Director"
+    },
+    {
+      "nombre": "Ken Ball",
+      "rol": "Lighting Supervisor"
+    },
+    {
+      "nombre": "Rajarajan Ramakrishnan",
+      "rol": "Lighting Supervisor"
+    },
+    {
+      "nombre": "Betsy Nofsinger",
+      "rol": "Lighting Coordinator"
+    },
+    {
+      "nombre": "Lorne Balfe",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Kathy Altieri",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Rebecca Huntley",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Marek Kochout",
+      "rol": "Animation Supervisor"
+    }
+  ],
+  "director": "Tim Johnson",
+  "valoraciones": {
+    "tmdb": 6.788,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/uy8g1wp8uqzf",
+  "trailer": "https://www.youtube.com/watch?v=Du4jTG7-93k"
+}
