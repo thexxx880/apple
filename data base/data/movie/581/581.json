@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 581,
+  "poster": "https://image.tmdb.org/t/p/w500/sKVwj51kTWdOweIFFNjmLVN1qG1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/viT6FO1cswwu1LYqbqNN1kdtJeP.png",
+  "titulo": "Danza con Lobos",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Drama",
+    "Western"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.842,
+  "año": "1990",
+  "duracion": "3h 54min",
+  "edad_minima": 13,
+  "sinopsis": "El teniente John Dunbar, un soldado de la Unión durante la Guerra Civil, se encuentra solo en un puesto fronterizo y desarrolla una relación con una tribu de nativos americanos. La película explora su conexión con la naturaleza y la cultura nativa, mientras enfrenta conflictos entre su lealtad y su creciente simpatía por los indígenas. Danza con lobos\" recibió elogios de la crítica y ganó siete premios Oscar, incluido el de Mejor Película.",
+  "fecha_estreno": "1990-11-09",
+  "titulo_original": "Dances with Wolves",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Kevin Costner",
+      "personaje": "Lieutenant Dunbar",
+      "foto": "https://image.tmdb.org/t/p/w500/608blZipRDZkDpzp8VItB64qMaT.jpg"
+    },
+    {
+      "nombre": "Mary McDonnell",
+      "personaje": "Stands With A Fist",
+      "foto": "https://image.tmdb.org/t/p/w500/qqdaaFLEPXbB8thVJJkYJ4WoAuj.jpg"
+    },
+    {
+      "nombre": "Graham Greene",
+      "personaje": "Kicking Bird",
+      "foto": "https://image.tmdb.org/t/p/w500/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg"
+    },
+    {
+      "nombre": "Rodney A. Grant",
+      "personaje": "Wind In His Hair",
+      "foto": "https://image.tmdb.org/t/p/w500/44J0nk3dWoGbCXIgHi9lftmiUHR.jpg"
+    },
+    {
+      "nombre": "Floyd 'Red Crow' Westerman",
+      "personaje": "Ten Bears",
+      "foto": "https://image.tmdb.org/t/p/w500/mtlDkkqentn5wyJcVOOEq8UXKk9.jpg"
+    },
+    {
+      "nombre": "Tantoo Cardinal",
+      "personaje": "Black Shawl",
+      "foto": "https://image.tmdb.org/t/p/w500/rxhjfygJlPwztf36iRI7UDn5dr7.jpg"
+    },
+    {
+      "nombre": "Robert Pastorelli",
+      "personaje": "Timmons",
+      "foto": "https://image.tmdb.org/t/p/w500/ds12780uuJrpSabogQBqc7mveSQ.jpg"
+    },
+    {
+      "nombre": "Charles Rocket",
+      "personaje": "Lieutenant Elgin",
+      "foto": "https://image.tmdb.org/t/p/w500/g2HeXDVqtGhYKBqeV4cFaZ7RbVV.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Costner",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jim Wilson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Costner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Blake",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "William Hoy",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John Barry",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Steve Potter",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Elisabeth Leustig",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Elsa Zamparelli",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Lisa Dean",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jeffrey Beecroft",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Dean Semler",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Neil Travis",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Scott A. Stephens",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Deborah Mills-Whitlock",
+      "rol": "Assistant Hairstylist"
+    },
+    {
+      "nombre": "Linda Bowman",
+      "rol": "Assistant Hairstylist"
+    }
+  ],
+  "director": "Kevin Costner",
+  "valoraciones": {
+    "tmdb": 7.842,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Tig Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/x3zq754m79i8",
+  "trailer": "https://www.youtube.com/watch?v=N4gr-uXUg1M"
+}
