@@ -1,0 +1,88 @@
+{
+  "id_tmdb": 284274,
+  "poster": "https://image.tmdb.org/t/p/w500/jpALvBEBe7MSEuHZDWEolcUfEGX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zlfNpyumsbMhmQnq9GqSdFqHrzy.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/g0px71QgR0qy07B2M6FwZuQ0cxt.png",
+  "titulo": "Iron Man y Capitán América: héroes unidos",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.5,
+  "año": "2014",
+  "duracion": "1h 11min",
+  "edad_minima": 13,
+  "sinopsis": "¡El Hombre de hierro y Captain America luchan para guardar el Cráneo Rojo y su triggerman, Capataz, de soltar a un ejército de Brutos Hydra en el mundo! Secuela a la película «Hombre de Hierro & Casco: Heroes United» y Hombre de Hierro del rasgo que forma un equipo con Captain America, viene para acompañar la película de acción viva «Captain America: El Soldado de Invierno».",
+  "fecha_estreno": "2014-07-29",
+  "titulo_original": "Iron Man & Captain America: Heroes United",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Adrian Pasdar",
+      "personaje": "Iron Man / Tony Stark (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4KdM69ljovbLumGoVe8ct9s6GJm.jpg"
+    },
+    {
+      "nombre": "Roger Craig Smith",
+      "personaje": "Captain America (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6oE356GbRHAf91Llw7LDpvsAf5L.jpg"
+    },
+    {
+      "nombre": "Fred Tatasciore",
+      "personaje": "The Hulk (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    },
+    {
+      "nombre": "David Kaye",
+      "personaje": "Jarvis (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/izxtFSio5twcVA1oJWPvobxpcZj.jpg"
+    },
+    {
+      "nombre": "Clancy Brown",
+      "personaje": "Taskmaster (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Dr. Cruler / Hydra Trooper (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Liam O'Brien",
+      "personaje": "The Red Skull (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ko7Bba6fQEaAbVFAp1kQHTzuYCp.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Leo Riley",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Heiko von Drengenberg",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Joel Fletcher",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Sue Houston Safianoff",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Leo Riley",
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Animation",
+  "enlace_video": "https://streamwish.to/e/3ue2of1fop6f",
+  "trailer": "https://www.youtube.com/watch?v=thTmIcLY3O0"
+}
