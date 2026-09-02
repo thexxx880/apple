@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 8358,
+  "poster": "https://image.tmdb.org/t/p/w500/BlxcYMoHMXsgf3sXcHAjLOuQ1y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oCFVYPXI4IfhtF3GapU2jkDicDI.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qhx2A9jNz8u2ZyUhgnAMyzAasZH.png",
+  "titulo": "Náufrago",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.667,
+  "año": "2000",
+  "duracion": "2h 23min",
+  "edad_minima": 13,
+  "sinopsis": "Chuck Noland, un ejecutivo de la empresa multinacional de mensajería FedEx, se ve apartado de su cómoda vida y de su prometida a causa de un accidente de avión por el que queda aislado de la civilización en una remota isla tropical. Único superviviente y solo en la isla, tras cuatro años de subsistencia Chuck aprende todas las técnicas de supervivencia mientras sufre la tortura de la soledad. La solución: arriesgar la vida adentrándose mar adentro.",
+  "fecha_estreno": "2000-12-22",
+  "titulo_original": "Cast Away",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Chuck Noland",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Helen Hunt",
+      "personaje": "Kelly Frears",
+      "foto": "https://image.tmdb.org/t/p/w500/bdhW2Ra84cJG3B5RDzUO6niUTO7.jpg"
+    },
+    {
+      "nombre": "Nick Searcy",
+      "personaje": "Stan",
+      "foto": "https://image.tmdb.org/t/p/w500/AnqbYGdLLaUaMfCtE0zYiRiI7E6.jpg"
+    },
+    {
+      "nombre": "Jenifer Lewis",
+      "personaje": "Becca Twig",
+      "foto": "https://image.tmdb.org/t/p/w500/htrTYcoJQQpSYo6BrRehe3h46vo.jpg"
+    },
+    {
+      "nombre": "Geoffrey Blake",
+      "personaje": "Maynard Graham",
+      "foto": "https://image.tmdb.org/t/p/w500/uKdiO6QagiT0mZ7tf9Xrl8OZUKy.jpg"
+    },
+    {
+      "nombre": "Peter Von Berg",
+      "personaje": "Yuri",
+      "foto": "https://image.tmdb.org/t/p/w500/ny5OYWklI39mAUeJY7sl1ZAypNs.jpg"
+    },
+    {
+      "nombre": "Chris Noth",
+      "personaje": "Jerry Lovett",
+      "foto": "https://image.tmdb.org/t/p/w500/9awGeDN5MSbSefDMAyMglm96vcy.jpg"
+    },
+    {
+      "nombre": "Lari White",
+      "personaje": "Bettina Peterson",
+      "foto": "https://image.tmdb.org/t/p/w500/lIag4eML9njr1I9j8TlAKBk50gc.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tom Hanks",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steve Starkey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jack Rapke",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Broyles Jr.",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joan Bradshaw",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alan Silvestri",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Don Burgess",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Arthur Schmidt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Victoria Burrows",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Сергей Гуревич",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Gary Archer",
+      "rol": "Prosthetics"
+    },
+    {
+      "nombre": "Mickey Giacomazzi",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Steven J. Boyd",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Cherylanne Martin",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Kirk A. Holland",
+      "rol": "Transportation Captain"
+    },
+    {
+      "nombre": "Kim Sinclair",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Robert Zemeckis",
+  "valoraciones": {
+    "tmdb": 7.667,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Fox",
+  "enlace_video": "https://gscdn.cam/video/embed/m19dxpc8l7i4",
+  "trailer": "https://www.youtube.com/watch?v=4tVklCz2jcI"
+}
