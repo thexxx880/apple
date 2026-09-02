@@ -1,0 +1,46 @@
+{
+  "id_tmdb": 833049,
+  "poster": "https://image.tmdb.org/t/p/w500/aYuhH9M1OgMpi8gJLus6f3vN1Di.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mXwIODTCo7fyVflYXGA9qIQ6CiG.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/cYMsoJB11ONekoahyn4jEKzm1pi.png",
+  "titulo": "PAW Patrol: Moto Pups",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Película de TV",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.6,
+  "año": "2021",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "El Motorcycle Stunt Show llega a la ciudad, trayendo al famoso ciclista acrobático Wildcat y a los ciclistas problemáticos, el Ruff-Ruff Pack. ¡Wildcat se une a la Patrulla Canina para ayudar a evitar que los malos destrocen la ciudad!",
+  "fecha_estreno": "2021-01-15",
+  "titulo_original": "PAW Patrol: Moto Pups",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Justin Paul Kelly",
+      "personaje": "Chase (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qmi6cqd7AIoMJGHhPTcAQscxKhe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Charles E. Bastien",
+      "rol": "Director"
+    }
+  ],
+  "crew": [],
+  "director": "Charles E. Bastien",
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nickelodeon Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/rsw6m608ds10",
+  "trailer": ""
+}
