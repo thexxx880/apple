@@ -1,0 +1,98 @@
+{
+  "id_tmdb": 552095,
+  "poster": "https://image.tmdb.org/t/p/w500/tHcVkfjPZ8bocEV3tsZtdpln9Az.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AseABzwquvPFMpVQUDeDifYjLkF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/biCmhORqETq4EiioJwHt1rFlxeK.png",
+  "titulo": "Patrulla de Cachorros La Poderosa Patrulla",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Familia",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.53,
+  "año": "2018",
+  "duracion": "0h 44min",
+  "edad_minima": 13,
+  "sinopsis": "Patrulla Canina: Cachorros Poderosos. Cuando los planes del alcalde Humdinger de llegar a la luna resultan en la caída de un meteoro a la tierra, los cachorros de la Patrulla Canina deberán hacer todo lo posible por proteger a los ciudadanos de Bahía de la Aventura. Pero a raíz de la energía expulsada por este meteoro, los cachorros descubren que tienen superpoderes. Lo único malo es que Harold, el sobrino del alcalde, también ha adquirido superpoderes y, gracias a ellos, ayudará a su tío, quien ahora también quiere tener superpoderes, a robar lo que queda del meteoro. ¿Lograrán los Super Cachorros detenerlos y salvar la ciudad?",
+  "fecha_estreno": "2018-10-04",
+  "titulo_original": "PAW Patrol: Mighty Pups",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Max Calinescu",
+      "personaje": "Chase (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gka71Kd41IReIrsU4k1dRShHjSP.jpg"
+    },
+    {
+      "nombre": "Devan Cohen",
+      "personaje": "Rubble (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zD6WjkN9Stk5H5UFyqCGjKfdWkB.jpg"
+    },
+    {
+      "nombre": "Drew Davis",
+      "personaje": "Marshall (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dnGGLwChFNJaRDEygvfMIPLiTOZ.jpg"
+    },
+    {
+      "nombre": "Samuel Faraci",
+      "personaje": "Rocky (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/twXV8RllqPsJmxUKoyQi2X3hTfW.jpg"
+    },
+    {
+      "nombre": "Kallan Holley",
+      "personaje": "Skye (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/l1POWrTgqn2Q6WrYtiy2SqAlnCD.jpg"
+    },
+    {
+      "nombre": "Jaxon Mercey",
+      "personaje": "Ryder (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jk0qrsJ3VOFlzdy4T5c9t563ZOo.jpg"
+    },
+    {
+      "nombre": "Carter Thorne",
+      "personaje": "Zuma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yqkymSZ7rAaQySif6agGLddswpr.jpg"
+    },
+    {
+      "nombre": "Deanne Degruijter",
+      "personaje": "Mayor Goodway (voice)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jonah Stroh",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason McKenzie",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christina Sang St. Catherine",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Stajan",
+      "rol": "Lighting Supervisor"
+    },
+    {
+      "nombre": "Toni Stevens",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "director": "Desconocido",
+  "valoraciones": {
+    "tmdb": 7.53,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Desconocida",
+  "enlace_video": "https://gscdn.cam/video/embed/edqda6p42ngv",
+  "trailer": "https://www.youtube.com/watch?v=8h68qI5akO4"
+}
