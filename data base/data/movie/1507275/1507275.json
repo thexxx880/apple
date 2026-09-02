@@ -1,0 +1,105 @@
+{
+  "id_tmdb": 1507275,
+  "poster": "https://image.tmdb.org/t/p/w500/Aq71BI9YAEhO6GBvsLFjd3SGSDT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/32mjpsITLwEQcvqKuMBGyajN18h.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/59K64wc1y4Rm7QDvk66VT6mP35k.png",
+  "titulo": "PAW Patrol especial de Navidad",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.5,
+  "año": "2025",
+  "duracion": "0h 55min",
+  "edad_minima": 13,
+  "sinopsis": "Rubble está deseando que llegue la Navidad, con la esperanza de que Papá Noel le traiga un taladro láser pero cuando Papá Noel cae enfermo por un resfriado, la Navidad ¡corre peligro de cancelarse!",
+  "fecha_estreno": "2025-10-30",
+  "titulo_original": "A Paw Patrol Christmas",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Luke Dietz",
+      "personaje": "Chase (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3JsnxWS7wIsdplyDLtzr2PS6sgM.jpg"
+    },
+    {
+      "nombre": "Lilly Bartlam",
+      "personaje": "Skye (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dPIQFgUNaEQ70m6Bt7SVbbfYPbg.jpg"
+    },
+    {
+      "nombre": "Lucien Duncan-Reid",
+      "personaje": "Rubble (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sliCDt3gkMHXcXusq72PLLFTbHG.jpg"
+    },
+    {
+      "nombre": "Jesse Gervasi",
+      "personaje": "Marshall (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ncXW5NuXsKqtjMsNwUgui0VyADI.jpg"
+    },
+    {
+      "nombre": "Courtney Gilmour",
+      "personaje": "Lizzy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/npFPJrUT6oHXSD1RCkwJug938Qt.jpg"
+    },
+    {
+      "nombre": "Kai Harris",
+      "personaje": "Ryder (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/puIL0Z1bybGQcV1IwUhyDUNLk7M.jpg"
+    },
+    {
+      "nombre": "Jordan Mazeral",
+      "personaje": "Zuma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iZtTedIiDtKbOhW070ZJPFOGuD1.jpg"
+    },
+    {
+      "nombre": "Ron Pardo",
+      "personaje": "Mayor Humdinger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hE4QOBmPqstfmBVXmlcJmsljUMw.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jamie Whitney",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tone Thyne",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Cal Brunker",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Bob Barlen",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "James Chapple",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Graeme Cornies",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Brian L. Pickett",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Jamie Whitney",
+  "valoraciones": {
+    "tmdb": 7.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Spin Master",
+  "enlace_video": "https://vimeos.net/embed-aokt2l87rtu0.html",
+  "trailer": "https://www.youtube.com/watch?v=HYi1EDnpy9M"
+}
