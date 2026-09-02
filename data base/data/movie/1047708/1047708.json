@@ -1,0 +1,63 @@
+{
+  "id_tmdb": 1047708,
+  "poster": "https://image.tmdb.org/t/p/w500/m3OnswB1Q0VtPAIM3qEy5qLUKSF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tltjbkdCVO61lb7pFygBIKoaAUI.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/cZgQzZvagnUXo20wfmwkPufn7rD.png",
+  "titulo": "PAW Patrol: Rescue Knights",
+  "trending": false,
+  "generos": [
+    "Animación"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 9,
+  "año": "2022",
+  "duracion": "2h 19min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2022-01-10",
+  "titulo_original": "PAW Patrol: Rescue Knights",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Devan Cohen",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/zD6WjkN9Stk5H5UFyqCGjKfdWkB.jpg"
+    },
+    {
+      "nombre": "Owen Mason",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/umn0bD9qPdILE5hKlwL6nDRkU1q.jpg"
+    },
+    {
+      "nombre": "Kallan Holley",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/l1POWrTgqn2Q6WrYtiy2SqAlnCD.jpg"
+    },
+    {
+      "nombre": "Justin Paul Kelly",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/qmi6cqd7AIoMJGHhPTcAQscxKhe.jpg"
+    },
+    {
+      "nombre": "Joey Nijem",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/nGjSMHEJQ4h2omvB8d7PRjyoEvr.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jamie Whitney",
+      "rol": "Director"
+    }
+  ],
+  "crew": [],
+  "director": "Jamie Whitney",
+  "valoraciones": {
+    "tmdb": 9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Viacom",
+  "enlace_video": "https://gscdn.cam/video/embed/fpsgsrf2bbzo",
+  "trailer": ""
+}
