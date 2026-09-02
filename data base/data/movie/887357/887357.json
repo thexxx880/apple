@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 887357,
+  "poster": "https://image.tmdb.org/t/p/w500/jkXGB3K0m0VgqHjO7u5rWjDzYca.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rRGl4Uqo962I2iqQSOT8nArWNWd.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hl0RhZEdLr8rl93YhZ2YozpnPKH.png",
+  "titulo": "Linterna Verde: Teman a mi poder",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Ciencia ficción",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.733,
+  "año": "2022",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "El francotirador de la Marina recién dado de baja, John Stewart, se encuentra en una encrucijada en su vida, que solo se complica al recibir un anillo extraterrestre que le otorga los poderes de la Linterna Verde de la Tierra. Desafortunadamente, el anillo no viene con instrucciones, pero sí con equipaje, como una horda de asesinos interplanetarios empeñados en eliminar a todos los Green Lantern del universo. Ahora, con la ayuda del alegre Green Arrow, Adam Strange y Hawkgirl, este soldado reacio debe viajar al corazón de una guerra galáctica entre Rann y Thanagar y de alguna manera tener éxito donde todos los demás Green Lanterns han fallado.",
+  "fecha_estreno": "2022-07-26",
+  "titulo_original": "Green Lantern: Beware My Power",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Aldis Hodge",
+      "personaje": "John Stewart / Green Lantern (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/enDU0pemco1mFxxdLKUzWakC6sk.jpg"
+    },
+    {
+      "nombre": "Jimmi Simpson",
+      "personaje": "Green Arrow (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg"
+    },
+    {
+      "nombre": "Ike Amadi",
+      "personaje": "Martian Manhunter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xsv09XrYPk5bdY3cAUwKqJnraxC.jpg"
+    },
+    {
+      "nombre": "Brian Bloom",
+      "personaje": "Adam Strange (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9mZKhI3aVbzZ5Xq43n7fGzWAqi0.jpg"
+    },
+    {
+      "nombre": "Jamie Gray Hyder",
+      "personaje": "Hawkgirl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xVg5JQTEsdTw9IVen33g3GkisLg.jpg"
+    },
+    {
+      "nombre": "Mara Junot",
+      "personaje": "Lyssa Drak / Banth Dar (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oeleO9LWLaY4H3YvcNymeXC1TuK.jpg"
+    },
+    {
+      "nombre": "Jason J. Lewis",
+      "personaje": "Ganthet / Captain Kantus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oyc78HfzQ6DsjJCKvRFm2ZyiJOs.jpg"
+    },
+    {
+      "nombre": "Sunil Malhotra",
+      "personaje": "Power Ring / Rannian Comander (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vCuWowwG4dWVgUf9Oe2BFxWblNC.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ernie Altbacker",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "John Semper Jr.",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jeff Wamester",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jim Krieg",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Butch Lukic",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Angela O'Sullivan",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Bruce King",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Wes Gleason",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Marlene Corpuz",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Justin Schultz",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Dennis O'Neil",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Neal Adams",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Gardner Fox",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Murphy Anderson",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Geoff Johns",
+      "rol": "Characters"
+    }
+  ],
+  "director": "Jeff Wamester",
+  "valoraciones": {
+    "tmdb": 6.733,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://vimeos.net/embed-317wjmmxaoea.html",
+  "trailer": "https://www.youtube.com/watch?v=bjD3r8wPQQA"
+}
