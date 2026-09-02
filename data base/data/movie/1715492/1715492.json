@@ -1,0 +1,123 @@
+{
+  "id_tmdb": 1715492,
+  "poster": "https://image.tmdb.org/t/p/w500/tkeqiyvmrjinpP7GMRywlXU0RAR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/buQFEfitDlSif4OVrFZIWVSqcSw.png",
+  "titulo": "Naufragio: Pesadilla en el mar",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.16,
+  "año": "2026",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "En este inmersivo documental, imágenes nunca antes vistas y testimonios de los sobrevivientes reconstruyen el naufragio de un crucero de lujo en 2012 y el desastre que le siguió.",
+  "fecha_estreno": "2026-07-10",
+  "titulo_original": "Shipwrecked: Nightmare at Sea",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "John Scimone",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Meghan Scimone",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Patricia Sandoval",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Nicholas Taliaferro",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Stefania Vincenzi",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Manrico Giampedroni",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Rose Metcalf",
+      "personaje": "Self",
+      "foto": null
+    },
+    {
+      "nombre": "Francesco Schettino",
+      "personaje": "Self (Archive Footage)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chiara Messineo",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Charlie Webb",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Simon Barker",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Chris Dale",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "James Incledon",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Edward Farmer",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Ralf Hildenbeutel",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Louisa Reid",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Nicky Murphy",
+      "rol": "Head of Production"
+    },
+    {
+      "nombre": "Smitha Kalkuzhi",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Lux Aeterna",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Alexine Puglisi",
+      "rol": "Researcher"
+    }
+  ],
+  "director": "Chiara Messineo",
+  "valoraciones": {
+    "tmdb": 7.16,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "RAW",
+  "enlace_video": "https://gscdn.cam/video/embed/a6lxsujgz0fs",
+  "trailer": "https://www.youtube.com/watch?v=eWPdwVtVx9Y"
+}
