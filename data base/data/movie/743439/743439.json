@@ -1,0 +1,112 @@
+{
+  "id_tmdb": 743439,
+  "poster": "https://image.tmdb.org/t/p/w500/qHcn3PbjVHxBweDZxWpYH3JfugS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vwpxy4kmQyW5aBJ3uxhQM6koU6H.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/oeqqX9RQIKHMPUUvGg7h4XBCucS.png",
+  "titulo": "PAW Patrol Jet al rescate",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.091,
+  "año": "2020",
+  "duracion": "0h 56min",
+  "edad_minima": 13,
+  "sinopsis": "Los super cachorros han de defender Barkingburg del Duque de Flappington, que gracias a una gema mágica ha adquirido la habilidad de levitar.",
+  "fecha_estreno": "2020-09-10",
+  "titulo_original": "PAW Patrol: Jet to the Rescue",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Anya Cooke",
+      "personaje": "Sweetie",
+      "foto": "https://image.tmdb.org/t/p/w500/cYbEEXULGmKjGH5vKf6L8LEbNV5.jpg"
+    },
+    {
+      "nombre": "Caoimhe Judd",
+      "personaje": "The Princess of Barkingburg",
+      "foto": null
+    },
+    {
+      "nombre": "Lilly Bartlam",
+      "personaje": "Skye",
+      "foto": "https://image.tmdb.org/t/p/w500/dPIQFgUNaEQ70m6Bt7SVbbfYPbg.jpg"
+    },
+    {
+      "nombre": "Berkley Silverman",
+      "personaje": "Everest",
+      "foto": "https://image.tmdb.org/t/p/w500/83VDU6z8UFbhHkvzpkfh9LAEcNQ.jpg"
+    },
+    {
+      "nombre": "David López",
+      "personaje": "Tracker",
+      "foto": null
+    },
+    {
+      "nombre": "Joey Nijem",
+      "personaje": "Ryder",
+      "foto": "https://image.tmdb.org/t/p/w500/nGjSMHEJQ4h2omvB8d7PRjyoEvr.jpg"
+    },
+    {
+      "nombre": "Ashton Frank",
+      "personaje": "Duke of Flappington",
+      "foto": null
+    },
+    {
+      "nombre": "Justin Paul Kelly",
+      "personaje": "Chase",
+      "foto": "https://image.tmdb.org/t/p/w500/qmi6cqd7AIoMJGHhPTcAQscxKhe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Charles E. Bastien",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Louise Moon",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Dave Sharples",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Damian Temporale",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Beatty",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pascale Leblance",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jonah Stroh",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Dan Mokriy",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Mark Stajan",
+      "rol": "Lighting Supervisor"
+    }
+  ],
+  "director": "Charles E. Bastien",
+  "valoraciones": {
+    "tmdb": 7.091,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Desconocida",
+  "enlace_video": "https://gscdn.cam/video/embed/633pcx0iww8a",
+  "trailer": "https://www.youtube.com/watch?v=169jD2LiH1A"
+}
