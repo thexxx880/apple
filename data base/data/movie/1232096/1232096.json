@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 1232096,
+  "poster": "https://image.tmdb.org/t/p/w500/6cks8ln16clpMvcGPBiqyZb47iM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vR1MFXfCKvqwBGeNut2fjKJmOXo.jpg",
+  "logo": null,
+  "titulo": "PAW Patrol: Aqua Pups",
+  "trending": false,
+  "generos": [
+    "Animación"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 9.8,
+  "año": "2023",
+  "duracion": "2h 0min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2023-03-28",
+  "titulo_original": "PAW Patrol: Aqua Pups",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Keegan Hedley",
+      "personaje": "Rubble (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qhW17BokK46oWklW6GK4C7fCwrc.jpg"
+    },
+    {
+      "nombre": "Lilly Bartlam",
+      "personaje": "Skye (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dPIQFgUNaEQ70m6Bt7SVbbfYPbg.jpg"
+    },
+    {
+      "nombre": "Beckett Hipkiss",
+      "personaje": "Ryder (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/a3F8oxLYHOrwlamlcoXuGvlQsAF.jpg"
+    },
+    {
+      "nombre": "Kaia Oz",
+      "personaje": "Coral (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kXjTDHMq2Vfjy7h6UJN6INqfYwC.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Charles E. Bastien",
+      "rol": "Director"
+    }
+  ],
+  "crew": [],
+  "director": "Charles E. Bastien",
+  "valoraciones": {
+    "tmdb": 9.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Desconocida",
+  "enlace_video": "https://gscdn.cam/video/embed/m7ldm8oass08",
+  "trailer": ""
+}
