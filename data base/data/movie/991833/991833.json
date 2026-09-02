@@ -1,0 +1,87 @@
+{
+  "id_tmdb": 991833,
+  "poster": "https://image.tmdb.org/t/p/w500/dISGpQk5AdAbijIFoU9W90teMkU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/a2BeIDEOq94NS9b8mYB6fiV2Ijx.jpg",
+  "logo": null,
+  "titulo": "La Cuadrilla Cat, un evento exclusivo de Paw Patrol",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.5,
+  "año": "2022",
+  "duracion": "1h 8min",
+  "edad_minima": 13,
+  "sinopsis": "Paw Patrol se une a un nuevo grupo de héroes: La Cuadrilla Cat: ¡Wild, Leo, Shade y Rory! ¡Estos dos equipos tendrán que trabajar juntos para salvar Bahía Aventura!",
+  "fecha_estreno": "2022-06-24",
+  "titulo_original": "Cat Pack: A PAW Patrol Exclusive Event",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Kyle Hodgson",
+      "personaje": "Hubcap (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Wyatt White",
+      "personaje": "Alex (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eSqJt9uVXW1RNqlsE9YMX88pRcH.jpg"
+    },
+    {
+      "nombre": "Tianna SwamiNathan",
+      "personaje": "Rory (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/r52o2SgBLHYzjar0lodPlzPRVPy.jpg"
+    },
+    {
+      "nombre": "Justin Paul Kelly",
+      "personaje": "Chase",
+      "foto": "https://image.tmdb.org/t/p/w500/qmi6cqd7AIoMJGHhPTcAQscxKhe.jpg"
+    },
+    {
+      "nombre": "Lucien Duncan-Reid",
+      "personaje": "Rubble",
+      "foto": "https://image.tmdb.org/t/p/w500/sliCDt3gkMHXcXusq72PLLFTbHG.jpg"
+    },
+    {
+      "nombre": "Christian Corrao",
+      "personaje": "Marshall",
+      "foto": "https://image.tmdb.org/t/p/w500/2ry9fdm6KVVx0Cao9wNM9AZ1sOY.jpg"
+    },
+    {
+      "nombre": "Jackson Reid",
+      "personaje": "Rocky",
+      "foto": "https://image.tmdb.org/t/p/w500/tGqmNaz6g1v74nbbkZhgkoiGsyD.jpg"
+    },
+    {
+      "nombre": "Lilly Bartlam",
+      "personaje": "Skye",
+      "foto": "https://image.tmdb.org/t/p/w500/dPIQFgUNaEQ70m6Bt7SVbbfYPbg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jason McKenzie",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Stokes",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Charles E. Bastien",
+      "rol": "Director"
+    }
+  ],
+  "crew": [],
+  "director": "Charles E. Bastien",
+  "valoraciones": {
+    "tmdb": 7.5,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Spin Master",
+  "enlace_video": "https://gscdn.cam/video/embed/a0l0xernzp6b",
+  "trailer": "https://www.youtube.com/watch?v=SOXCaVi3BtA"
+}
