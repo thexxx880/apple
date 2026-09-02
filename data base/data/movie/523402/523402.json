@@ -1,0 +1,41 @@
+{
+  "id_tmdb": 523402,
+  "poster": "https://image.tmdb.org/t/p/w500/4ySjVdARrCSlrDJb3xdUl821iP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Atvz0QPBD9WJirfDazIUktQIyFe.jpg",
+  "logo": null,
+  "titulo": "PAW Patrol: Mission PAW",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Película de TV",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8,
+  "año": "2018",
+  "duracion": "1h 19min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2018-03-21",
+  "titulo_original": "PAW Patrol: Mission PAW",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Justin Paul Kelly",
+      "personaje": "Chase (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qmi6cqd7AIoMJGHhPTcAQscxKhe.jpg"
+    }
+  ],
+  "equipo_creativo": [],
+  "crew": [],
+  "director": "Desconocido",
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nickelodeon Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/09ihyf5tybir",
+  "trailer": ""
+}
