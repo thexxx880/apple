@@ -1,0 +1,114 @@
+{
+  "id_tmdb": 624620,
+  "poster": "https://image.tmdb.org/t/p/w500/1RPCWwMTSLIwXqWarOJXIqIE9rH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9Kv8JLhvz6iQeqcxIut0BMEvIPz.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3PpOKDn6rkKuH0cJm9FWA7FEY2F.png",
+  "titulo": "PAW Patrol: Ready, Race, Rescue!",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Fantasía",
+    "Aventura"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.123,
+  "año": "2019",
+  "duracion": "0h 44min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2019-08-02",
+  "titulo_original": "PAW Patrol: Ready, Race, Rescue!",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Drew Davis",
+      "personaje": "Marshall (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dnGGLwChFNJaRDEygvfMIPLiTOZ.jpg"
+    },
+    {
+      "nombre": "Julius Cho",
+      "personaje": "Lionel Lightspeed",
+      "foto": "https://image.tmdb.org/t/p/w500/6wgRH6hGJbvnwD4fjS0x6uV9MNS.jpg"
+    },
+    {
+      "nombre": "Anya Cooke",
+      "personaje": "Sweetie",
+      "foto": "https://image.tmdb.org/t/p/w500/cYbEEXULGmKjGH5vKf6L8LEbNV5.jpg"
+    },
+    {
+      "nombre": "Cal Dodd",
+      "personaje": "Ron Rapidfire",
+      "foto": "https://image.tmdb.org/t/p/w500/lnBlxGfIGnXxKkULmQ2bJYYbFNf.jpg"
+    },
+    {
+      "nombre": "Isaac Emberson-Heeks",
+      "personaje": "The Whoosh (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Addison Holley",
+      "personaje": "The Cheetah",
+      "foto": "https://image.tmdb.org/t/p/w500/izAgKphXuo8EGZndMjTcUA4X4kq.jpg"
+    },
+    {
+      "nombre": "Kallan Holley",
+      "personaje": "Skye",
+      "foto": "https://image.tmdb.org/t/p/w500/l1POWrTgqn2Q6WrYtiy2SqAlnCD.jpg"
+    },
+    {
+      "nombre": "Caoimhe Judd",
+      "personaje": "The Princess of Barkingburg",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Dave Sharples",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steven Sullivan",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Matt Beatty",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Charles E. Bastien",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brian L. Pickett",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Graeme Cornies",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jason McKenzie",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Jennifer Dodge",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Chapple",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Charles E. Bastien",
+  "valoraciones": {
+    "tmdb": 7.123,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nickelodeon Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/y6lemzhk63mt",
+  "trailer": "https://www.youtube.com/watch?v=lAKXRYTb6B8"
+}
