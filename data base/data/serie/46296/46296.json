@@ -1,0 +1,135 @@
+{
+  "id_tmdb": 46296,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg",
+  "titulo": "Spartacus",
+  "titulo_original": "Spartacus",
+  "fecha_estreno": "2010-01-22",
+  "duracion": "53min",
+  "año": "2010",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.033,
+  "sinopsis": "La vida de Spartacus, el gladiador que lideró una rebelión contra los romanos. Desde su período como aliado de los romanos, pasando por su traición y su conversión en gladiador, hasta la rebelión que lidera y su resultado final.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Liam McIntyre",
+      "personaje": "Spartacus",
+      "foto": "https://image.tmdb.org/t/p/w500/vTw11F1awNW8AlxInljEsK96cNB.jpg"
+    },
+    {
+      "nombre": "Manu Bennett",
+      "personaje": "Crixus",
+      "foto": "https://image.tmdb.org/t/p/w500/vwcTCQoRqfOjGZA1TPCx9TWTNht.jpg"
+    },
+    {
+      "nombre": "Dustin Clare",
+      "personaje": "Gannicus",
+      "foto": "https://image.tmdb.org/t/p/w500/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
+    },
+    {
+      "nombre": "Cynthia Addai-Robinson",
+      "personaje": "Naevia",
+      "foto": "https://image.tmdb.org/t/p/w500/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
+    },
+    {
+      "nombre": "Jaime Murray",
+      "personaje": "Gaia",
+      "foto": "https://image.tmdb.org/t/p/w500/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Todd Helbing",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Sam Raimi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven S. DeKnight",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Tapert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joshua Donen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aaron Lam",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Todd Helbing",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Sam Raimi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven S. DeKnight",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Tapert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joshua Donen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Miranda Kwok",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Aaron Lam",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Charles Knight",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tracy Bellomo",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Chloe Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Romel Adam",
+      "rol": "Executive Producer's Assistant"
+    },
+    {
+      "nombre": "Joseph LoDuca",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Nick Bassett",
+      "rol": "Supervising Art Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.033,
+    "imdb": "tt1442449",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=4WXDJPaHuR4"
+}
