@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 102899,
+  "poster": "https://image.tmdb.org/t/p/w500/tMJ0FBFrYZjo6BNHiYbgqiy8Tf5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aDYxTR9IEIPVazrYXtoRTMFZnOY.png",
+  "titulo": "Ant-Man: El hombre Hormiga",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Aventura",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.067,
+  "año": "2015",
+  "duracion": "1h 57min",
+  "edad_minima": 13,
+  "sinopsis": "Armado con un supertraje con la asombrosa habilidad de reducir a escala su tamaño  pero aumentar su fuerza, el ladrón Scott Lang debe abrazar a su héroe interior y ayudar a su mentor, el Dr. Hank Pym, el cual planea y lleva a cabo un atraco necesario que salvará al mundo.",
+  "fecha_estreno": "2015-07-14",
+  "titulo_original": "Ant-Man",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Paul Rudd",
+      "personaje": "Scott Lang / Ant-Man",
+      "foto": "https://image.tmdb.org/t/p/w500/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "nombre": "Michael Douglas",
+      "personaje": "Dr. Hank Pym",
+      "foto": "https://image.tmdb.org/t/p/w500/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+    },
+    {
+      "nombre": "Evangeline Lilly",
+      "personaje": "Hope van Dyne",
+      "foto": "https://image.tmdb.org/t/p/w500/zgztLIWTJZm3vjGU7ezhF8GXESJ.jpg"
+    },
+    {
+      "nombre": "Corey Stoll",
+      "personaje": "Darren Cross / Yellowjacket",
+      "foto": "https://image.tmdb.org/t/p/w500/2eMxKecTZBiS60gPUVWcimYgGDp.jpg"
+    },
+    {
+      "nombre": "Bobby Cannavale",
+      "personaje": "Paxton",
+      "foto": "https://image.tmdb.org/t/p/w500/wlp20ggyNI7x0xGUtTjC2Xl2XmD.jpg"
+    },
+    {
+      "nombre": "Anthony Mackie",
+      "personaje": "Sam Wilson / Falcon",
+      "foto": "https://image.tmdb.org/t/p/w500/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+    },
+    {
+      "nombre": "Judy Greer",
+      "personaje": "Maggie Lang",
+      "foto": "https://image.tmdb.org/t/p/w500/pTLjIjh83R424RGxIfq4U0yx947.jpg"
+    },
+    {
+      "nombre": "Abby Ryder Fortson",
+      "personaje": "Cassie Lang",
+      "foto": "https://image.tmdb.org/t/p/w500/mNRZFVtAvj5P3HxM2PFM1YqXMAw.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Peyton Reed",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam McKay",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Paul Rudd",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Edgar Wright",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joe Cornish",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Joe Cornish",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Edgar Wright",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christopher Kelly",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Riley Flanagan",
+      "rol": "Set Production Assistant"
+    },
+    {
+      "nombre": "Jennifer Badger",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Alan Fine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Runyard",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Hannah Betts",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Steve Kelso",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Anthony N.",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Ashley Rae Riddick",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Jack Kirby",
+      "rol": "Comic Book"
+    }
+  ],
+  "director": "Peyton Reed",
+  "valoraciones": {
+    "tmdb": 7.067,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/dxxlxn2x2nus",
+  "trailer": "https://www.youtube.com/watch?v=cx3joJnXydc"
+}
