@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 5689,
+  "poster": "https://image.tmdb.org/t/p/w500/j5tzyf7KpNV81JeK6ZdhdjYxgUT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4HYBkZPz2Gb7LWXludvvOfATzGS.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/B6Bhs10JXBbWddV7jCp0972m3C.png",
+  "titulo": "La laguna azul",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Drama",
+    "Romance"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.137,
+  "año": "1980",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Durante la época victoriana, dos jóvenes niños, Emmeline y Richard Lestrange son pasajeros de un velero que hace la ruta del cabo de Hornos con el padre de Richard, ya que los padres de Emmeline están muertos, y actúa como su tío. Un incendio provoca la destrucción de la nave, y el ayudante de cocina, Paddy, lleva a los niños en un bote salvavidas con él, pero ésto hace que los separen de los demás supervivientes, y los dejan a la deriva. Después de días sin rumbo fijo, llegan a una exuberante isla tropical.",
+  "fecha_estreno": "1980-07-05",
+  "titulo_original": "The Blue Lagoon",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Brooke Shields",
+      "personaje": "Emmeline",
+      "foto": "https://image.tmdb.org/t/p/w500/s8IV8iIsCfzvGBA9hGC2kKrVyqK.jpg"
+    },
+    {
+      "nombre": "Christopher Atkins",
+      "personaje": "Richard",
+      "foto": "https://image.tmdb.org/t/p/w500/jLuwUuLaPaLYHUJ8pqzNwnr2IyG.jpg"
+    },
+    {
+      "nombre": "Leo McKern",
+      "personaje": "Paddy Button",
+      "foto": "https://image.tmdb.org/t/p/w500/yzVoghBAj7iK8dsVu39TNrLpfvE.jpg"
+    },
+    {
+      "nombre": "William Daniels",
+      "personaje": "Arthur Lestrange",
+      "foto": "https://image.tmdb.org/t/p/w500/1SCR6im2maiASfTD5h7r0g9dU78.jpg"
+    },
+    {
+      "nombre": "Jeffrey Kleiser",
+      "personaje": "Lookout",
+      "foto": "https://image.tmdb.org/t/p/w500/a9ordebyzn7hkbUPIaAYUAcTCdK.jpg"
+    },
+    {
+      "nombre": "Gus Mercurio",
+      "personaje": "Officer",
+      "foto": "https://image.tmdb.org/t/p/w500/2VIvK34X1NeAEvWqyMU9lFbGVsZ.jpg"
+    },
+    {
+      "nombre": "Elva Josephson",
+      "personaje": "Young Emmeline",
+      "foto": null
+    },
+    {
+      "nombre": "Glenn Kohan",
+      "personaje": "Young Richard",
+      "foto": "https://image.tmdb.org/t/p/w500/o4XJVupALFf5585d5Q4N2hpShGh.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Randal Kleiser",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Randal Kleiser",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Douglas Day Stewart",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Henry De Vere Stacpoole",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Néstor Almendros",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Basil Poledouris",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Richard Franklin",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Robert Gordon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Peter Lyons Collister",
+      "rol": "Additional Photography"
+    },
+    {
+      "nombre": "Jon Dowding",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jean-Pierre Dorléac",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Vic Ramos",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mark Piper",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Peter Bogart",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Tom Beckert",
+      "rol": "Sound Re-Recording Mixer"
+    }
+  ],
+  "director": "Randal Kleiser",
+  "valoraciones": {
+    "tmdb": 6.137,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/b4hh86m0s8so",
+  "trailer": "https://www.youtube.com/watch?v=DYhhph8uZyk"
+}
