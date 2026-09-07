@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 363088,
+  "poster": "https://image.tmdb.org/t/p/w500/bvYI6i9lQ3bsup9PgnMF3YYr8ZR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iYdgEUE2W2aJkgqfSjf1x3gFfuV.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/j5riXPPxbx4fyIRPMan1FK2yGb0.png",
+  "titulo": "Ant-Man 2: La Avispa",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.897,
+  "año": "2018",
+  "duracion": "1h 58min",
+  "edad_minima": 13,
+  "sinopsis": "Mientras Scott Lang equilibra el ser un superhéroe y un padre, Hope van Dyne y el Dr. Hank Pym presentan una nueva misión urgente que unen al Hombre hormiga junto a La Avispa para luchar juntos y descubrir los secretos de su pasado.",
+  "fecha_estreno": "2018-07-04",
+  "titulo_original": "Ant-Man and the Wasp",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Paul Rudd",
+      "personaje": "Scott Lang / Ant-Man",
+      "foto": "https://image.tmdb.org/t/p/w500/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "nombre": "Evangeline Lilly",
+      "personaje": "Hope Van Dyne / Wasp",
+      "foto": "https://image.tmdb.org/t/p/w500/zgztLIWTJZm3vjGU7ezhF8GXESJ.jpg"
+    },
+    {
+      "nombre": "Michael Douglas",
+      "personaje": "Dr. Hank Pym",
+      "foto": "https://image.tmdb.org/t/p/w500/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+    },
+    {
+      "nombre": "Hannah John-Kamen",
+      "personaje": "Ava / Ghost",
+      "foto": "https://image.tmdb.org/t/p/w500/V8P9EVelewGVXbuyEylqrzF6iG.jpg"
+    },
+    {
+      "nombre": "Randall Park",
+      "personaje": "Jimmy Woo",
+      "foto": "https://image.tmdb.org/t/p/w500/u1QpbjVIKegk79DJG9HFmg9Ljv4.jpg"
+    },
+    {
+      "nombre": "Michelle Pfeiffer",
+      "personaje": "Janet Van Dyne / Wasp",
+      "foto": "https://image.tmdb.org/t/p/w500/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg"
+    },
+    {
+      "nombre": "Laurence Fishburne",
+      "personaje": "Dr. Bill Foster",
+      "foto": "https://image.tmdb.org/t/p/w500/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+      "nombre": "Michael Peña",
+      "personaje": "Luis",
+      "foto": "https://image.tmdb.org/t/p/w500/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Peyton Reed",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris McKenna",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Erik Sommers",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Andrew Barrer",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gabriel Ferrari",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Paul Rudd",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Stephen Broussard",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "George Cottle",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Chris Daniels",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kiante Elam",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Colin Follenweider",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Brenda Lorena Garcia",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Henry Kingi",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Ingrid Kleinig",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Will Leong",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Bethany Levy",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Michael Runyard",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Kelly Bellini",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Chris Brewster",
+      "rol": "Fight Choreographer"
+    }
+  ],
+  "director": "Peyton Reed",
+  "valoraciones": {
+    "tmdb": 6.897,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/bos2d2ql7ama",
+  "trailer": "https://www.youtube.com/watch?v=UUkn-enk2RU"
+}
