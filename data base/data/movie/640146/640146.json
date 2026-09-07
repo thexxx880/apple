@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 640146,
+  "poster": "https://image.tmdb.org/t/p/w500/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7WxVKp35lxxGUin8eLvTkDcr5Ke.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iY3PUr1nSOdEAhBZMCJn4fD4yJC.png",
+  "titulo": "Ant-Man and the Wasp: Quantumania",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.221,
+  "año": "2023",
+  "duracion": "2h 5min",
+  "edad_minima": 13,
+  "sinopsis": "Los superhéroes Scott Lang y Hope van Dyne regresan para continuar sus aventuras como Ant-Man y Wasp. Con los padres de Hope, Hank Pym y Janet van Dyne, y con la hija de Scott, Cassie Lang, la familia explora el Reino Quántico, interactúa con extrañas criaturas y se embarca en una aventura que los hará ir más allá de lo que creían posible.",
+  "fecha_estreno": "2023-02-15",
+  "titulo_original": "Ant-Man and the Wasp: Quantumania",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Paul Rudd",
+      "personaje": "Scott Lang / Ant-Man",
+      "foto": "https://image.tmdb.org/t/p/w500/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "nombre": "Evangeline Lilly",
+      "personaje": "Hope Van Dyne / The Wasp",
+      "foto": "https://image.tmdb.org/t/p/w500/zgztLIWTJZm3vjGU7ezhF8GXESJ.jpg"
+    },
+    {
+      "nombre": "Michael Douglas",
+      "personaje": "Dr. Hank Pym",
+      "foto": "https://image.tmdb.org/t/p/w500/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+    },
+    {
+      "nombre": "Michelle Pfeiffer",
+      "personaje": "Janet Van Dyne",
+      "foto": "https://image.tmdb.org/t/p/w500/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg"
+    },
+    {
+      "nombre": "Jonathan Majors",
+      "personaje": "Kang the Conqueror",
+      "foto": "https://image.tmdb.org/t/p/w500/nsxnMbkl9Lpc12AmYwKi9SmsJ7e.jpg"
+    },
+    {
+      "nombre": "Kathryn Newton",
+      "personaje": "Cassie Lang",
+      "foto": "https://image.tmdb.org/t/p/w500/26OEa0uS8552sVJakaCEHYvqOao.jpg"
+    },
+    {
+      "nombre": "Corey Stoll",
+      "personaje": "M.O.D.O.K.",
+      "foto": "https://image.tmdb.org/t/p/w500/2eMxKecTZBiS60gPUVWcimYgGDp.jpg"
+    },
+    {
+      "nombre": "Bill Murray",
+      "personaje": "Lord Krylar",
+      "foto": "https://image.tmdb.org/t/p/w500/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Stephen Broussard",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeff Loveness",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peyton Reed",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bill Pope",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jamie Christopher",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Christophe Beck",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Kevin R. Wright",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Daniel Arrias",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Scott Brady",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Morgane Bujoli",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Curtis Rowland Small",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Mitch Gould",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Catherine Peck",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ailís Smith",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Joanna Bennett",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Peyton Reed",
+  "valoraciones": {
+    "tmdb": 6.221,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/f8al10tsuo47",
+  "trailer": "https://www.youtube.com/watch?v=G4ZV8qfskfA"
+}
