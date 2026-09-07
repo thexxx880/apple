@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 13888,
+  "poster": "https://image.tmdb.org/t/p/w500/bmKxZRgUS4MMSKiN70ZkG5JPD6y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8vREmZvEKvsz5Ptp1gazc9rAhts.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/eEOOQSfkY6RXPkJJjTzxe50vpFC.png",
+  "titulo": "El regreso a la laguna azul",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.169,
+  "año": "1991",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "Dos jóvenes naúfragos mueren dejando solo a su hijo de dos años en la barca. El niño es recogido en alta mar por un barco, donde Sarah Hargrave, que viaja con su pequeña hija, se hace cargo del niño. Al declararse una epidemia de cólera y para evitar una muerte cierta, Sarah y los niños son puestos en una pequeña embarcación que, después de varios días a la deriva, llega a una isla desierta. Al morir Sarah, los jóvenes se quedan solos y deberán luchar por sobrevivir.",
+  "fecha_estreno": "1991-08-02",
+  "titulo_original": "Return to the Blue Lagoon",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Milla Jovovich",
+      "personaje": "Lilli",
+      "foto": "https://image.tmdb.org/t/p/w500/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+    },
+    {
+      "nombre": "Brian Krause",
+      "personaje": "Richard",
+      "foto": "https://image.tmdb.org/t/p/w500/jW2vwTvcJAGxbiWMXD3p065Lhs1.jpg"
+    },
+    {
+      "nombre": "Lisa Pelikan",
+      "personaje": "Sarah Hargrave",
+      "foto": "https://image.tmdb.org/t/p/w500/9pA1C6RTJ9OT2S0J2xeOKxVqvl4.jpg"
+    },
+    {
+      "nombre": "Courtney Barilla",
+      "personaje": "Young Lilli",
+      "foto": null
+    },
+    {
+      "nombre": "Garette Ratliff Henson",
+      "personaje": "Young Richard",
+      "foto": "https://image.tmdb.org/t/p/w500/J9R9AU4rAPq9lhOpWdf9uemJuG.jpg"
+    },
+    {
+      "nombre": "Brian Blain",
+      "personaje": "Capt. Jacob Hilliard",
+      "foto": null
+    },
+    {
+      "nombre": "Emma James",
+      "personaje": "Infant Lilli",
+      "foto": null
+    },
+    {
+      "nombre": "Jackson Barton",
+      "personaje": "Infant Richard",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "William A. Graham",
+      "rol": "Director"
+    },
+    {
+      "nombre": "William A. Graham",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Bogart",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Leslie Stevens",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bob Roe",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Paul Grinder",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Robert Agganis",
+      "rol": "Assistant Camera"
+    },
+    {
+      "nombre": "Mark Abrahams",
+      "rol": "Key Grip"
+    },
+    {
+      "nombre": "Alan Goldenhar",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Gary Hill",
+      "rol": "Best Boy Electric"
+    },
+    {
+      "nombre": "Barry Idoine",
+      "rol": "Second Assistant Camera"
+    },
+    {
+      "nombre": "Darrin Keough",
+      "rol": "First Assistant Camera"
+    },
+    {
+      "nombre": "Vincent Monton",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Ron Taylor",
+      "rol": "Underwater Camera"
+    },
+    {
+      "nombre": "Paul Thompson",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Geoffrey Wharton",
+      "rol": "Camera Operator"
+    }
+  ],
+  "director": "William A. Graham",
+  "valoraciones": {
+    "tmdb": 6.169,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Price Entertainment",
+  "enlace_video": "https://vimeos.net/embed-ok48kh1a5ngb.html",
+  "trailer": "https://www.youtube.com/watch?v=_qDaxkLUcTM"
+}
