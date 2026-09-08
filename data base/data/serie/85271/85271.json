@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 85271,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/cYEPx04WxSSbBA2kdUT6XluYgIw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/pGPIQ7Gc3JrWtcgeArcuf1g3feQ.png",
+  "titulo": "WandaVision",
+  "titulo_original": "WandaVision",
+  "fecha_estreno": "2021-01-15",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 8.18,
+  "sinopsis": "Wanda Maximoff y Vision, dos seres superpoderosos que viven vidas suburbanas idealizadas, comienzan a sospechar que nada es lo que parece.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Elizabeth Olsen",
+      "personaje": "Wanda Maximoff / Scarlet Witch",
+      "foto": "https://image.tmdb.org/t/p/w500/wIU675y4dofIDVuhaNWPizJNtep.jpg"
+    },
+    {
+      "nombre": "Paul Bettany",
+      "personaje": "Vision / The Vision",
+      "foto": "https://image.tmdb.org/t/p/w500/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+    },
+    {
+      "nombre": "Kathryn Hahn",
+      "personaje": "Agnes / Agatha Harkness",
+      "foto": "https://image.tmdb.org/t/p/w500/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+    },
+    {
+      "nombre": "Teyonah Parris",
+      "personaje": "Monica Rambeau / Geraldine",
+      "foto": "https://image.tmdb.org/t/p/w500/iGvBTOi0y2fbBVwgnBRXgY0IXDY.jpg"
+    },
+    {
+      "nombre": "Randall Park",
+      "personaje": "Jimmy Woo",
+      "foto": "https://image.tmdb.org/t/p/w500/u1QpbjVIKegk79DJG9HFmg9Ljv4.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "James Schembri",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Victoria Alonso",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Tamez",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "James Alexander",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Mary Kane",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Sarah Halley Finn",
+      "rol": "Consulting Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Daniel Selon",
+      "rol": "Assistant Costume Designer"
+    },
+    {
+      "nombre": "Karen Bartek",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Vasilios Tanis",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Cindy Welles",
+      "rol": "Key Hair Stylist"
+    },
+    {
+      "nombre": "Courtney Young",
+      "rol": "Dialogue Coach"
+    },
+    {
+      "nombre": "Ashley Kravitz",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Bill Mantlo",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Brian Michael Bendis",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "David Finch",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Jack Kirby",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "John Buscema",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "John Cassaday",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Joss Whedon",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Olivier Coipel",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Steve Englehart",
+      "rol": "Thanks"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.18,
+    "imdb": "tt9140560",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=tCE4CpxlaqE"
+}
