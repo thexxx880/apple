@@ -1,0 +1,39 @@
+{
+  "id_tmdb": 96677,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/pvs4XEveCXeqKRkor4w2CtPk0pU.png",
+  "titulo": "Lupin",
+  "titulo_original": "Lupin",
+  "fecha_estreno": "2021-01-08",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 7.683,
+  "sinopsis": "Inspirado en las aventuras de Arsène Lupin, el caballeroso ladrón Assane Diop se propone vengar a su padre de las injusticias sufridas a manos de una familia adinerada.",
+  "pais_origen": "FR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Omar Sy",
+      "personaje": "Assane Diop",
+      "foto": "https://image.tmdb.org/t/p/w500/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.683,
+    "imdb": "tt2531336",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=x5ZrXf7URQ0"
+}
