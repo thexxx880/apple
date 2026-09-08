@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 52814,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/m8tW2ssuqib10BUlUZfbYlfqEfd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zW0v2YT74C6tRafzqqBkfSqLAN0.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jrbnYVeSqZ24xiFKY5wR0AUjw8X.png",
+  "titulo": "Halo",
+  "titulo_original": "Halo",
+  "fecha_estreno": "2022-03-24",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.193,
+  "sinopsis": "Representando un conflicto épico del siglo 26 entre la humanidad y una amenaza alienígena conocida como el Pacto, la serie teje historias personales profundamente dibujadas con acción, aventura y una visión ricamente imaginada del futuro.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Pablo Schreiber",
+      "personaje": "Master Chief, Spartan-117 / John-117",
+      "foto": "https://image.tmdb.org/t/p/w500/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg"
+    },
+    {
+      "nombre": "Natascha McElhone",
+      "personaje": "Dr. Catherine Halsey",
+      "foto": "https://image.tmdb.org/t/p/w500/9pxaoasotR1pdCXYSfN1pkm0geO.jpg"
+    },
+    {
+      "nombre": "Joseph Morgan",
+      "personaje": "James Ackerson",
+      "foto": "https://image.tmdb.org/t/p/w500/iNNHzvT3glx11njLD3RL4yOYPbJ.jpg"
+    },
+    {
+      "nombre": "शबाना आज़मी",
+      "personaje": "Margaret Parangosky",
+      "foto": "https://image.tmdb.org/t/p/w500/gy7DpFaZnpU4XOwBc8jhhE8rYYj.jpg"
+    },
+    {
+      "nombre": "Christina Bennington",
+      "personaje": "Cortana",
+      "foto": "https://image.tmdb.org/t/p/w500/xco2FnsnCUWcA13T4qrf6l5w27B.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Gabriella Csoma",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Ahmadu Garba",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Michael C. May",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Dale Butler",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Pablo Schreiber",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sarah McCarron",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Martin O'Donnell",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Gabriella Csoma",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Ahmadu Garba",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Michael C. May",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Bear McCreary",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Dale Butler",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Pablo Schreiber",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Salvatori",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Sarah McCarron",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marisha Mukerjee",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Natascha McElhone",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nick Iannelli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Wiener",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Foster",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Wojciech Zieliński",
+      "rol": "Senior Visual Effects Supervisor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.193,
+    "imdb": "tt2934286",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount",
+  "trailer": "https://www.youtube.com/watch?v=b4doITNi2RE"
+}
