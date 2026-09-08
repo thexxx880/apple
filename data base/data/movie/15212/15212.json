@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 15212,
+  "poster": "https://image.tmdb.org/t/p/w500/sF4lbKXJEw6EdLcpd5twx7Rxn16.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/soXbrOOu5mo1hK1i4fPhSF76C9r.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/awdlptJTHuTljYx5GRgev1IqnsD.png",
+  "titulo": "Especies IV",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 4.663,
+  "año": "2007",
+  "duracion": "1h 38min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando la inteligente profesora universitaria Miranda Hollander (Helena Mattsson) sufre una pérdida de conciencia, y se despierta entre los restos de una sangrienta carnicería, pide ayuda a su tío Tom (Ben Cross) y éste le revela la terrible verdad: que sólo es humana a medias y que en realidad es un clon de un híbrido de ADN humano y alienígena. Tío y sobrina se verán obligados a huir a México en busca del científico responsable de su creación, pero muy pronto tendrán que enfrentarse a una sanguinaria legión de híbridos mientras se agota el plazo para que Miranda, sin poder evitarlo, deba rendirse ante el instinto asesino que alberga en su propio cuerpo",
+  "fecha_estreno": "2007-10-17",
+  "titulo_original": "Species: The Awakening",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Helena Mattsson",
+      "personaje": "Miranda Hollander",
+      "foto": "https://image.tmdb.org/t/p/w500/9b3ZG8KoEZA2MlVIyE4hGH00Cr6.jpg"
+    },
+    {
+      "nombre": "Ben Cross",
+      "personaje": "Tom Hollander",
+      "foto": "https://image.tmdb.org/t/p/w500/11gObExUG7lFCA7WeYgHabnZjDg.jpg"
+    },
+    {
+      "nombre": "Dominic Keating",
+      "personaje": "Forbes",
+      "foto": "https://image.tmdb.org/t/p/w500/eRe4BJz9fTztlRKikDRHhmss6ee.jpg"
+    },
+    {
+      "nombre": "Marlene Favela",
+      "personaje": "Azura",
+      "foto": "https://image.tmdb.org/t/p/w500/3s0BKUN15xTnDKmU98FgMU6Nczr.jpg"
+    },
+    {
+      "nombre": "Meagen Fay",
+      "personaje": "Celeste",
+      "foto": "https://image.tmdb.org/t/p/w500/iphc6rNBqhYBIVWVACCEzBBH4eL.jpg"
+    },
+    {
+      "nombre": "Roger Cudney",
+      "personaje": "Leland Fisk",
+      "foto": "https://image.tmdb.org/t/p/w500/8SQKmOP5mhx8uutESO45DaEWboM.jpg"
+    },
+    {
+      "nombre": "Mauricio Martínez",
+      "personaje": "Dalton",
+      "foto": "https://image.tmdb.org/t/p/w500/cciaeEDqKJvKX0zgBpQQMPQK1uY.jpg"
+    },
+    {
+      "nombre": "Edy Arellano",
+      "personaje": "Calderón",
+      "foto": "https://image.tmdb.org/t/p/w500/l4YHGIL8sB1DyXxXZ1P7oiG6Gt6.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Nick Lyon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Frank Mancuso Jr.",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lorenzo O'Brien",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ben Ripley",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Paul Weber",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Adela Cortázar",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jaime Reynoso",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Paul Cristo",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Kevin Haskins",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Cecilia Montiel",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Felipe Salazar",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Claudia Becker",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Carlos Lagunas",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Carlos Lagunas",
+      "rol": "Concept Artist"
+    },
+    {
+      "nombre": "Dennis Feldman",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Aaron Mazzolini",
+      "rol": "Co-Producer"
+    }
+  ],
+  "director": "Nick Lyon",
+  "valoraciones": {
+    "tmdb": 4.663,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "360 Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/82hxpvv8acpq",
+  "trailer": "https://www.youtube.com/watch?v=jDt8xJXoHaM"
+}
