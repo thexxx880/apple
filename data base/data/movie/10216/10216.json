@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 10216,
+  "poster": "https://image.tmdb.org/t/p/w500/oVGhHwul3G1yKYgfuMhNHerXLqd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q5q8kXiPH0oOBfMXwXIC0koe3uV.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/umB6CJaqP1RYe6hfLNBxcWm5ij6.png",
+  "titulo": "Especies II",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Acción",
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.198,
+  "año": "1998",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Habiendo devuelto enseguida de una misión con Marte, el comandante Ross no es exactamente sí. ¡Se hace despacio una entidad extranjera aterradora con un objetivo - para procrear con mujeres humanas! Cuando las mujeres innumerables sufren muertes espantosas después de llevar al descendiente medio extranjero, la científica Laura Baker y el asesino contratado uso de Press Lennox Eva, un clon extranjero más templado, para encontrar a Ross y su nidada. Antes de que Eva largo se escape para aparear con Ross.",
+  "fecha_estreno": "1998-04-10",
+  "titulo_original": "Species II",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Natasha Henstridge",
+      "personaje": "Eve",
+      "foto": "https://image.tmdb.org/t/p/w500/lfRFm3MLOGPtaDHWTstoQfKAyLM.jpg"
+    },
+    {
+      "nombre": "Michael Madsen",
+      "personaje": "Press Lenox",
+      "foto": "https://image.tmdb.org/t/p/w500/fvr2EXEPrVwsF2JlfRp0Olbj4g8.jpg"
+    },
+    {
+      "nombre": "Marg Helgenberger",
+      "personaje": "Dr. Laura Baker",
+      "foto": "https://image.tmdb.org/t/p/w500/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
+    },
+    {
+      "nombre": "Mykelti Williamson",
+      "personaje": "Dennis Gamble",
+      "foto": "https://image.tmdb.org/t/p/w500/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+    },
+    {
+      "nombre": "Justin Lazard",
+      "personaje": "Patrick Ross",
+      "foto": "https://image.tmdb.org/t/p/w500/7vJUM2bwgJ9ruGgq4PLqnrlTyFR.jpg"
+    },
+    {
+      "nombre": "James Cromwell",
+      "personaje": "Senator Ross",
+      "foto": "https://image.tmdb.org/t/p/w500/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+    },
+    {
+      "nombre": "George Dzundza",
+      "personaje": "Colonel Burgess",
+      "foto": "https://image.tmdb.org/t/p/w500/wmnQQn0dFygl90M2N8tlWlpGHzV.jpg"
+    },
+    {
+      "nombre": "Sarah Wynter",
+      "personaje": "Melissa",
+      "foto": "https://image.tmdb.org/t/p/w500/eHZIJ6aruXQt9Qtp3GrNFMjpyTr.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Frank Mancuso Jr.",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Medak",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chris Brancato",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Matthew F. Leonetti",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Miljen 'Kreka' Kljaković",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Cathy Sandrich Gelfond",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mark Zuelzke",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Amanda Mackey",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Laurie Riley",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Richard Bruno",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Suzette Sheets",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Pete Anthony",
+      "rol": "Orchestrator"
+    },
+    {
+      "nombre": "R. Dana Harlow",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "Jennifer Caputo",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ray Lykins",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Peter Medak",
+  "valoraciones": {
+    "tmdb": 5.198,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Metro-Goldwyn-Mayer",
+  "enlace_video": "https://gscdn.cam/video/embed/716ap5swaap1",
+  "trailer": "https://www.youtube.com/watch?v=zJXdwcKdGf0"
+}
