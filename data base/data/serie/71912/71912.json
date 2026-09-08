@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 71912,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/9CjS0twpknyUhjmEeuXHsu6CQAs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/k1qdSQTf6azrWzYemV5epcvv3i8.png",
+  "titulo": "The Witcher",
+  "titulo_original": "The Witcher",
+  "fecha_estreno": "2019-12-20",
+  "duracion": "24min",
+  "año": "2019",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.892,
+  "sinopsis": "El brujo Geralt, un cazador mutante de monstruos, lucha por encontrar su lugar en un mundo en el que las personas son frecuentemente más perversas que las bestias.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Liam Hemsworth",
+      "personaje": "Geralt of Rivia",
+      "foto": "https://image.tmdb.org/t/p/w500/As5ujeSSJRQN4TE3odg3kDk0b5o.jpg"
+    },
+    {
+      "nombre": "Anya Chalotra",
+      "personaje": "Yennefer of Vengerberg",
+      "foto": "https://image.tmdb.org/t/p/w500/c3QiX7znSjTR7u2xj29KH6DAnMs.jpg"
+    },
+    {
+      "nombre": "Freya Allan",
+      "personaje": "Princess Cirilla 'Ciri' of Cintra",
+      "foto": "https://image.tmdb.org/t/p/w500/8RuLG2mePw8YgFNUjWROBuxMrwT.jpg"
+    },
+    {
+      "nombre": "Joey Batey",
+      "personaje": "Jaskier / The Sandpiper",
+      "foto": "https://image.tmdb.org/t/p/w500/4uo4JPaK6KpdN7v8C1pbwKpNVJU.jpg"
+    },
+    {
+      "nombre": "Eamon Farren",
+      "personaje": "Cahir",
+      "foto": "https://image.tmdb.org/t/p/w500/f4EX93f9MRCfjJc4kKAKqVqRsUW.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "David Stephens",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Sean Daniel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lauren Schmidt Hissrich",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Алик Сахаров",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tomek Bagiński",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason F. Brown",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sara Bennett",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Richard R. Reed",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "David Stephens",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "David French",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Danusia Stok",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Lucinda Wright",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Sean Daniel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lauren Schmidt Hissrich",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Алик Сахаров",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tomek Bagiński",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason F. Brown",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrzej Sapkowski",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Jarosław Sawko",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrzej Sapkowski",
+      "rol": "Creative Consultant"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.892,
+    "imdb": "tt5180504",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=eb90gqGYP9c"
+}
