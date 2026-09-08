@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 18126,
+  "poster": "https://image.tmdb.org/t/p/w500/iA6aOMexDB2Hni3xpauAoiHLVF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sGqepjVCkXeG7IDPNnvpT8G3AyW.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/nJfAstDG6kpnmXvD0qn3TEWjI8F.png",
+  "titulo": "Hannah Montana: La película",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia",
+    "Música",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.6,
+  "año": "2009",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "Como muchas adolescentes, Miley Stewart se la pasa entre su familia, sus amigos y la escuela, pero a diferencia de sus conocidos, ella tiene una personalidad secreta como la estrella de música llamada Hannah Montana. Cuando la creciente popularidad de Hannah amenaza con apoderarse de la vida de Miley, su papá aparece para regresarla a la realidad. De vuelta en su casa de Tennessee, Miley inicia una aventura que ni la misma Hannah Montana podría imaginar.",
+  "fecha_estreno": "2009-04-10",
+  "titulo_original": "Hannah Montana: The Movie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Miley Cyrus",
+      "personaje": "Miley Stewart / Hannah Montana",
+      "foto": "https://image.tmdb.org/t/p/w500/7slnMlDLR1O65U3Hr8gcOmxDlZz.jpg"
+    },
+    {
+      "nombre": "Billy Ray Cyrus",
+      "personaje": "Robby Stewart",
+      "foto": "https://image.tmdb.org/t/p/w500/ly0Ejh5micQppq2L6UJvbl8Y674.jpg"
+    },
+    {
+      "nombre": "Emily Osment",
+      "personaje": "Lilly Truscott",
+      "foto": "https://image.tmdb.org/t/p/w500/bRqBSRe5t1FjMUEb3XgiKbpCy30.jpg"
+    },
+    {
+      "nombre": "Margo Martindale",
+      "personaje": "Ruby",
+      "foto": "https://image.tmdb.org/t/p/w500/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg"
+    },
+    {
+      "nombre": "Jason Earles",
+      "personaje": "Jackson Stewart",
+      "foto": "https://image.tmdb.org/t/p/w500/98kgD3jp4DmwwL1SmViN5cRE5NI.jpg"
+    },
+    {
+      "nombre": "Peter Gunn",
+      "personaje": "Oswald Granger",
+      "foto": "https://image.tmdb.org/t/p/w500/1QN2XhLhbzMCSk6cI9e5IN1gNG7.jpg"
+    },
+    {
+      "nombre": "Melora Hardin",
+      "personaje": "Lorelai",
+      "foto": "https://image.tmdb.org/t/p/w500/ymH5zoBrtEfFWIkgKAhiEbtiAg4.jpg"
+    },
+    {
+      "nombre": "Mitchel Musso",
+      "personaje": "Oliver Oken",
+      "foto": "https://image.tmdb.org/t/p/w500/ofaAVYn61scqEMtXmK9G7TIFNhA.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Dan Berendsen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Peter Chelsom",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Miles Millar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Billy Ray Cyrus",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alfred Gough",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chuck Borden",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Jennifer Badger",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Ryan Carr",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Justin Gant",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Corey Pritchett",
+      "rol": "Special Effects Coordinator"
+    },
+    {
+      "nombre": "Steve Hart",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Scotty Richards",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Laura Dash",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Allan Graf",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ed McDermott II",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Paul E. Short",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Rose Sias",
+      "rol": "Stunt Double"
+    }
+  ],
+  "director": "Peter Chelsom",
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "It's a Laugh Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/5yw5sr5e46uc",
+  "trailer": "https://www.youtube.com/watch?v=ZjlsO8VykNk"
+}
