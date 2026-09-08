@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 73586,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8mPGPuSx8NbSDmjABbEqlja0I96.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nuiEND7CihapgQ3OkWBLR1q5qUq.png",
+  "titulo": "Yellowstone",
+  "titulo_original": "Yellowstone",
+  "fecha_estreno": "2018-06-20",
+  "duracion": "24min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Western",
+    "Drama"
+  ],
+  "puntuacion": 8.269,
+  "sinopsis": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Luke Grimes",
+      "personaje": "Kayce Dutton",
+      "foto": "https://image.tmdb.org/t/p/w500/c547Xiwf9feeDbGfQchfJCkC111.jpg"
+    },
+    {
+      "nombre": "Kelly Reilly",
+      "personaje": "Beth Dutton",
+      "foto": "https://image.tmdb.org/t/p/w500/l8aQsryOQvxgX6SdZ4XtzU8KEXn.jpg"
+    },
+    {
+      "nombre": "Wes Bentley",
+      "personaje": "Jamie Dutton",
+      "foto": "https://image.tmdb.org/t/p/w500/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+    },
+    {
+      "nombre": "Cole Hauser",
+      "personaje": "Rip Wheeler",
+      "foto": "https://image.tmdb.org/t/p/w500/1SNoIDILoXtAUJu4f7nDCPVQH5j.jpg"
+    },
+    {
+      "nombre": "Kelsey Asbille",
+      "personaje": "Monica Dutton",
+      "foto": "https://image.tmdb.org/t/p/w500/zOr1U00vGsPMsieAJIFyYVUw8wa.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Christina Alexandra Voros",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Stephen Kay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bob Yari",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Art Linson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Taylor Sheridan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Linson",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christina Alexandra Voros",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Suzanne Stover",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Yvonne Boudreaux",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Keith Cox",
+      "rol": "Executive In Charge Of Production"
+    },
+    {
+      "nombre": "Breton Vivian",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Stephen Kay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bob Yari",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Art Linson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Taylor Sheridan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Linson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kevin Costner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Tyler",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Michael Friedman",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "David C. Glasser",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Papsidera",
+      "rol": "Casting"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.269,
+    "imdb": "tt4236770",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount",
+  "trailer": "https://www.youtube.com/watch?v=suobrMPBLlo"
+}
