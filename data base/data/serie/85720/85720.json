@@ -1,0 +1,124 @@
+{
+  "id_tmdb": 85720,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1Ok36olOn9HXOUlFdlOYngItmxX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qzSjrYSZAWrjhg6Yf3hCcfJE4o0.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4DXRDbxsyk93GPIjGjwNTXPsT8C.png",
+  "titulo": "Sombra y hueso",
+  "titulo_original": "Shadow and Bone",
+  "fecha_estreno": "2021-04-23",
+  "duracion": "52min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.744,
+  "sinopsis": "Fuerzas oscuras conspiran contra Alina Starkov, una cartógrafa huérfana con un poder extraordinario que podría cambiar el destino de su devastado mundo.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jessie Mei Li",
+      "personaje": "Alina Starkov",
+      "foto": "https://image.tmdb.org/t/p/w500/3OREEt5tcqkVNMuaino7qA6hSWG.jpg"
+    },
+    {
+      "nombre": "Archie Renaux",
+      "personaje": "Malyen 'Mal' Oretsev",
+      "foto": "https://image.tmdb.org/t/p/w500/uTd18t2VJovN2jSJyhuG8Yy3PV6.jpg"
+    },
+    {
+      "nombre": "Freddy Carter",
+      "personaje": "Kaz Brekker",
+      "foto": "https://image.tmdb.org/t/p/w500/u4Ibhf8LnRzfuR2IUx6ZQWdWaVv.jpg"
+    },
+    {
+      "nombre": "Amita Suman",
+      "personaje": "Inej Ghafa",
+      "foto": "https://image.tmdb.org/t/p/w500/sNvhzsyttm39LPaANbwOMMmeXh4.jpg"
+    },
+    {
+      "nombre": "Kit Young",
+      "personaje": "Jesper Fahey",
+      "foto": "https://image.tmdb.org/t/p/w500/6wL0uEnRJsY67NCAj5KpmGkgr2A.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Leigh Bardugo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric Heisserer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pouya Shahbazian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Cohen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Barry",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marcell Bodri",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Leigh Bardugo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric Heisserer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shawn Levy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pouya Shahbazian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Cohen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Barry",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joseph Trapanese",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Dan Levine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Leigh Bardugo",
+      "rol": "Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.744,
+    "imdb": "tt2403776",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=8HOfzFSGdjw"
+}
