@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1284046,
+  "poster": "https://image.tmdb.org/t/p/w500/tRVR2QNr7ua6xEL226N0zRVeDI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bDjcbJZL2JpBuyab36UZzpEMTGO.png",
+  "titulo": "Aniquilación",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.3,
+  "año": "2026",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando un escuadrón rebelde de supersoldados modificados genéticamente se desata en el desierto, una francotiradora del ejército de armas tomar debe desatar el infierno para proteger a su hija pequeña.",
+  "fecha_estreno": "2026-09-02",
+  "titulo_original": "Onslaught",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Adria Arjona",
+      "personaje": "Celeste",
+      "foto": "https://image.tmdb.org/t/p/w500/jEhooOqKM7XXQqOfnHUxz3T1It.jpg"
+    },
+    {
+      "nombre": "Dan Stevens",
+      "personaje": "Dr. Hans Kammler",
+      "foto": "https://image.tmdb.org/t/p/w500/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
+    },
+    {
+      "nombre": "Eric Wareheim",
+      "personaje": "Kovacks",
+      "foto": "https://image.tmdb.org/t/p/w500/x9STTsfrnC7SnuHuRczPFbGi6xp.jpg"
+    },
+    {
+      "nombre": "Reginald VelJohnson",
+      "personaje": "Josiah",
+      "foto": "https://image.tmdb.org/t/p/w500/r0F5y1PAQEDM08MBj3oI1IIX4gi.jpg"
+    },
+    {
+      "nombre": "Michael Biehn",
+      "personaje": "Baylor",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    },
+    {
+      "nombre": "Blake Kennedy",
+      "personaje": "Daisy",
+      "foto": null
+    },
+    {
+      "nombre": "Alex Pereira",
+      "personaje": "The Butcher",
+      "foto": "https://image.tmdb.org/t/p/w500/2CbbPCRIv0bTMvVBgOzo6PeWdMi.jpg"
+    },
+    {
+      "nombre": "Drew Starkey",
+      "personaje": "Cyrus",
+      "foto": "https://image.tmdb.org/t/p/w500/gD3YIM3Yinc3v6Qg7dvRRKXzAyw.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jeremy Platt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alexander Black",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Simon Barrett",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Swett",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aaron Ryder",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Wingard",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Wingard",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Simon Barrett",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jon Rosenberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adria Arjona",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Oren Soffer",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Adam Avery",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Josh Schaeffer",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Rebecca Dealy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tom Hammock",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Marisa Frantz",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Tyler Standen",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "David Hack",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Jennifer M. Quinteros",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "TK Shom",
+      "rol": "First Assistant Director"
+    }
+  ],
+  "director": "Adam Wingard",
+  "valoraciones": {
+    "tmdb": 6.3,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "A24",
+  "enlace_video": "https://streamwish.to/e/w0n73fy8wnxa",
+  "trailer": "https://www.youtube.com/watch?v=AMLCbpM1fRQ"
+}
