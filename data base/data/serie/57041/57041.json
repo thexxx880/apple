@@ -1,0 +1,80 @@
+{
+  "id_tmdb": 57041,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/cWD3BD0aQFypLGVOvd23hWdg5bP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
+  "titulo": "Gintama",
+  "titulo_original": "銀魂",
+  "fecha_estreno": "2006-04-04",
+  "duracion": "24min",
+  "año": "2006",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.1,
+  "sinopsis": "La historia de Gintama se sitúa en un Edo alternativo (actual Tokio), conquistado por alienígenas llamados Amanto, quienes prohíben el uso de espadas y debilitan a los samuráis. El protagonista, Gintoki Sakata, es un samurái excéntrico que termina formando el grupo “Yorozuya” junto a Shinpachi, un joven que lo admira, y Kagura, una chica alienígena con fuerza sobrehumana. Juntos trabajan como freelancers resolviendo diversos encargos. A lo largo de la serie interactúan con otros personajes importantes como el grupo policial Shinsengumi, el terrorista idealista Kotaro Katsura y el violento antagonista Shinsuke Takasugi. Aunque la historia principal se desarrolla gradualmente, también contiene sagas que se desvían del argumento central con frecuencia.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "杉田智和",
+      "personaje": "Gintoki Sakata (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
+    },
+    {
+      "nombre": "釘宮理恵",
+      "personaje": "Kagura (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xHonhNFpTpz9zCVXLAF7D4OuHLv.jpg"
+    },
+    {
+      "nombre": "阪口大助",
+      "personaje": "Shinpachi Shimura (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cP9lnoYSCyIpSlUkZN4k6RoD7fF.jpg"
+    },
+    {
+      "nombre": "石田彰",
+      "personaje": "Kotarou Katsura (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg"
+    },
+    {
+      "nombre": "立木文彦",
+      "personaje": "Taizou Hasegawa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9nHFGrvdT5c4klZOiFQElybNy7h.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "宮脇千鶴",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "藤田陽一",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "Audio Highs",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "空知英秋",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "空知英秋",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.1,
+    "imdb": "tt0988818",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=5IFAvOQIGsg"
+}
