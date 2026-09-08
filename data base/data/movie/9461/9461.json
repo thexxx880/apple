@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 9461,
+  "poster": "https://image.tmdb.org/t/p/w500/ssZnHf4cPRJGpQGv9unW8B76nrb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ugfBioco0L7qNvwq0d0Pl0AL8SL.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/i8zb7mTq7mEgEyRVACTsAOISYz4.png",
+  "titulo": "Operación Dragón",
+  "trending": false,
+  "generos": [
+    "Acción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.417,
+  "año": "1973",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "Un agente secreto entra a la isla fortificada de un magnate del opio junto a otros peleadores para un torneo de artes marciales",
+  "fecha_estreno": "1973-08-17",
+  "titulo_original": "Enter the Dragon",
+  "pais_origen": "Hong Kong",
+  "reparto": [
+    {
+      "nombre": "Bruce Lee",
+      "personaje": "Lee",
+      "foto": "https://image.tmdb.org/t/p/w500/uUC3N3sIuFLD0ZpNyc58NxW1Pzf.jpg"
+    },
+    {
+      "nombre": "John Saxon",
+      "personaje": "Roper",
+      "foto": "https://image.tmdb.org/t/p/w500/rQh2ddJYtP3x2g1mnlFBQz547FO.jpg"
+    },
+    {
+      "nombre": "Jim Kelly",
+      "personaje": "Williams",
+      "foto": "https://image.tmdb.org/t/p/w500/h47y5UmNxYjoFzichoigXV5e749.jpg"
+    },
+    {
+      "nombre": "石堅",
+      "personaje": "Han",
+      "foto": "https://image.tmdb.org/t/p/w500/aFf4n1OvDtCgrI4i3dNJktAaHkv.jpg"
+    },
+    {
+      "nombre": "Ahna Capri",
+      "personaje": "Tania",
+      "foto": "https://image.tmdb.org/t/p/w500/3iredrvZwzEhvAMNqQ9Gzju5wwN.jpg"
+    },
+    {
+      "nombre": "Robert Wall",
+      "personaje": "Oharra",
+      "foto": "https://image.tmdb.org/t/p/w500/sDkSeL61HsrKYSB5Y8aF7xy4AD0.jpg"
+    },
+    {
+      "nombre": "Angela Mao Ying",
+      "personaje": "Su Lin",
+      "foto": "https://image.tmdb.org/t/p/w500/wSxvKomLzRohITIzWKUWnHum3G0.jpg"
+    },
+    {
+      "nombre": "Betty Chung",
+      "personaje": "Mei Ling",
+      "foto": "https://image.tmdb.org/t/p/w500/9AaMAN4TepfTpsExDLO0diP3xC.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Paul M. Heller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Clouse",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bruce Lee",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fred Weintraub",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Allin",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gil Hubbs",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Shen Chien",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "George Watters",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Lalo Schifrin",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "張耀宗",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Kurt Hirschler",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Eugene Marks",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Louis Sit",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "林正英",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "蔣榮發",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Robert Wall",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jackie Chan",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Robert Clouse",
+  "valoraciones": {
+    "tmdb": 7.417,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Concord Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/aikhya89tv4z",
+  "trailer": "https://www.youtube.com/watch?v=CDUw0ruKzNY"
+}
