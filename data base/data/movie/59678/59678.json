@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 59678,
+  "poster": "https://image.tmdb.org/t/p/w500/d7eVbUOHSyBofZBMnUGBZ0nbg4b.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ncYrkutA6Yd1Gmh8fLyGieWlqLv.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/sRqMT16pw1VpHay6a0dmYaupFYL.png",
+  "titulo": "Ataque al bloque",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.464,
+  "año": "2011",
+  "duracion": "1h 28min",
+  "edad_minima": 13,
+  "sinopsis": "Divertida y aterradora película de aventuras que enfrenta a una banda de adolescentes contra una invasión de salvajes alienígenas, convirtiendo una zona marginal de Londres en una zona de peligrosos juegos de ciencia ficción. De la noche a la mañana, un bloque de pisos se convierte en una fortaleza sitiada y un grupo de adolescentes de la calle en héroes. El enfrentamiento entre el ghetto y el espacio exterior está servido.",
+  "fecha_estreno": "2011-05-11",
+  "titulo_original": "Attack the Block",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "John Boyega",
+      "personaje": "Moses",
+      "foto": "https://image.tmdb.org/t/p/w500/3153CfpgZQXTzCY0i74WpJumMQe.jpg"
+    },
+    {
+      "nombre": "Jodie Whittaker",
+      "personaje": "Sam",
+      "foto": "https://image.tmdb.org/t/p/w500/zS6EO1GsfOiuyaa66YqmUPWDX78.jpg"
+    },
+    {
+      "nombre": "Nick Frost",
+      "personaje": "Ron",
+      "foto": "https://image.tmdb.org/t/p/w500/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg"
+    },
+    {
+      "nombre": "Alex Esmail",
+      "personaje": "Pest",
+      "foto": "https://image.tmdb.org/t/p/w500/rJplPsMpRHmdu1myv2Yj3Sndtgd.jpg"
+    },
+    {
+      "nombre": "Luke Treadaway",
+      "personaje": "Brewis",
+      "foto": "https://image.tmdb.org/t/p/w500/kAIfKIuyucJsiMHeEAkavxTnMpi.jpg"
+    },
+    {
+      "nombre": "Selom Awadzi",
+      "personaje": "Tonks",
+      "foto": "https://image.tmdb.org/t/p/w500/zWdNUUInJpGTjzI5JS5AepacuJt.jpg"
+    },
+    {
+      "nombre": "Franz Drameh",
+      "personaje": "Dennis",
+      "foto": "https://image.tmdb.org/t/p/w500/xSEv3SN8CSn0bozoOnPd77kEOiD.jpg"
+    },
+    {
+      "nombre": "Simon Howard",
+      "personaje": "Biggz",
+      "foto": "https://image.tmdb.org/t/p/w500/hv2fRRHVcUA1QujwbpzJy5Bmpn3.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Wilson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Cornish",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joe Cornish",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Nira Park",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rupert Lloyd-Parry",
+      "rol": "Key Grip"
+    },
+    {
+      "nombre": "Julian Morson",
+      "rol": "\"A\" Camera Operator"
+    },
+    {
+      "nombre": "Dean Morrish",
+      "rol": "Clapper Loader"
+    },
+    {
+      "nombre": "Rodrigo Gutierrez",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Rob Gilmour",
+      "rol": "Clapper Loader"
+    },
+    {
+      "nombre": "Nathan Mann",
+      "rol": "Focus Puller"
+    },
+    {
+      "nombre": "Sarah Rollason",
+      "rol": "Focus Puller"
+    },
+    {
+      "nombre": "Peter Talbot",
+      "rol": "Second Unit Director of Photography"
+    },
+    {
+      "nombre": "Julian Morson",
+      "rol": "Second Unit Director of Photography"
+    },
+    {
+      "nombre": "Shaun Cobley",
+      "rol": "Focus Puller"
+    },
+    {
+      "nombre": "Peter Field",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Matt Nettheim",
+      "rol": "Still Photographer"
+    }
+  ],
+  "director": "Joe Cornish",
+  "valoraciones": {
+    "tmdb": 6.464,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "UK Film Council",
+  "enlace_video": "https://gscdn.cam/video/embed/e2y1y2h517eq",
+  "trailer": "https://www.youtube.com/watch?v=A4mf86YPqjM"
+}
