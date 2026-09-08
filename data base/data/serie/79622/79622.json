@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 79622,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/mjsz10d1abJXZwT9b8CTgniRJh9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qiHP7bcwRVvxDoeH6PpvkwmpYyS.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/t6zSFNIeBqA83nPQRUU7yzTvbNk.png",
+  "titulo": "Hunters",
+  "titulo_original": "Hunters",
+  "fecha_estreno": "2020-02-20",
+  "duracion": "24min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 7.123,
+  "sinopsis": "Un grupo de cazadores de nazis que vive en la ciudad de Nueva York en 1977 descubre que cientos de antiguos altos funcionarios nazis están conspirando para crear un Cuarto Reich en los Estados Unidos. El ecléctico equipo emprenderá una sangrienta búsqueda para cazarlos y llevarlos ante la justicia.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Logan Lerman",
+      "personaje": "Jonah Heidelbaum",
+      "foto": "https://image.tmdb.org/t/p/w500/ckcpgSvSWOhi8mvAfR1Cpsakg3S.jpg"
+    },
+    {
+      "nombre": "Al Pacino",
+      "personaje": "Meyer Offerman / Wilhelm Zuchs",
+      "foto": "https://image.tmdb.org/t/p/w500/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+    },
+    {
+      "nombre": "Lena Olin",
+      "personaje": "Eva Braun-Hitler / The Colonel",
+      "foto": "https://image.tmdb.org/t/p/w500/tUg7cH4qLqs5WdOIH0WMQby9kWH.jpg"
+    },
+    {
+      "nombre": "Jerrika Hinton",
+      "personaje": "Millie Morris",
+      "foto": "https://image.tmdb.org/t/p/w500/iEk8Js3ypPvzE53rp7t6NRbyhAR.jpg"
+    },
+    {
+      "nombre": "Josh Radnor",
+      "personaje": "Lonny Flash",
+      "foto": "https://image.tmdb.org/t/p/w500/rHx4D70iRUkka5kl9064kOvmSQs.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Phil Abraham",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy McLeish",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Chris Rosati",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "David Rosen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Natalie Laine Williams",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jenna Santoianni",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Phil Abraham",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy McLeish",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Chris Rosati",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "David Rosen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Natalie Laine Williams",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Haley Z. Boston",
+      "rol": "Executive Story Editor"
+    },
+    {
+      "nombre": "Tori Sampson",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Jenna Santoianni",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom Lesinski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jordan Peele",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Win Rosenfeld",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nikki Toscano",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nelson McCormick",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Weil",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kennedy Edmonds",
+      "rol": "Executive Producer's Assistant"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.123,
+    "imdb": "tt7456722",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=HBGkjmfIzAw"
+}
