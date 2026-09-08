@@ -1,0 +1,107 @@
+{
+  "id_tmdb": 1731694,
+  "poster": "https://image.tmdb.org/t/p/w500/6sUsn029xHGQxO8VAJXfYcHmKB7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/upecGaCuQOIbSpdz85mrJ395UMg.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/yFtaWR3xy7sJTlTXoFXmpwwSqIw.png",
+  "titulo": "LEGO Star Wars: The Mandalorian",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Ciencia ficción",
+    "Aventura",
+    "Familia",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7,
+  "año": "2026",
+  "duracion": "0h 50min",
+  "edad_minima": 13,
+  "sinopsis": "El Mandaloriano y Grogu asisten a una gran fiesta que sus peculiares aliados celebran en honor a su heroísmo.",
+  "fecha_estreno": "2026-09-02",
+  "titulo_original": "LEGO Star Wars: The Mandalorian",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Gavin Hammon",
+      "personaje": "The Mandalorian (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9ZHGDWn5u4EZQhYU0RR628RTgOz.jpg"
+    },
+    {
+      "nombre": "Amy Sedaris",
+      "personaje": "Peli Motto (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AjVjRYI1PaC11i4FqGSK1TkwOmq.jpg"
+    },
+    {
+      "nombre": "Bill Burr",
+      "personaje": "Migs Mayfield (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4U95TX23X97OK9csaKVwzqAjFUV.jpg"
+    },
+    {
+      "nombre": "David Pasquesi",
+      "personaje": "Majordomo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oQplec891LMv0wndTtKh1bIS11Z.jpg"
+    },
+    {
+      "nombre": "Katee Sackhoff",
+      "personaje": "Bo-Katan Kryze (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kzcwfDDrgXnVgyTfcpG0obOn7Qk.jpg"
+    },
+    {
+      "nombre": "Emily Swallow",
+      "personaje": "The Armorer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8wS86vFMoDnfAJzOL9yNqvXcCpA.jpg"
+    },
+    {
+      "nombre": "Giancarlo Esposito",
+      "personaje": "Moff Gideon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+    },
+    {
+      "nombre": "Matthew Wood",
+      "personaje": "Bib Fortuna / Jawas / Kowakian Monkey-Lizard (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/u1UjHLTeS5Dregg85A3GICf7Nkf.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Buckley",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Keith Malone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jill Wilfert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Cosler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jacqui Lopez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Waugh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Rimes",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Chris Buckley",
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lucasfilm Ltd.",
+  "enlace_video": "https://vimeos.net/embed-tomn7ghj1bqe.html",
+  "trailer": "https://www.youtube.com/watch?v=NEqBkXeEpkk"
+}
