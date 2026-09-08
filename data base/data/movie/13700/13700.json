@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 13700,
+  "poster": "https://image.tmdb.org/t/p/w500/p6xPtCH7Bph1PStv9AjTgikspEA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Jghbo8U2XkmGjCfKD9NiMM70ha.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/64eSg612flvkyg1EaZUvnhFe7J6.png",
+  "titulo": "Vacas Vaqueras",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.07,
+  "año": "2004",
+  "duracion": "1h 16min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando un poderoso forajido intenta apoderarse de la granja de lácteos \"paraíso\", tres vacas determinadas, un semental karateca llamado Buck y un colorido elenco de animalitos unen sus fuerzas para salvar a la granja. El riesgo es muy alto cuando esta peculiar alianza de animales arriesga sus pellejos al entablar una batalla de ingenios con la misteriosa banda de malosos. No te pierdas esta aventura de Disney, con asombrosa animación y canciones originales.",
+  "fecha_estreno": "2004-04-02",
+  "titulo_original": "Home on the Range",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Roseanne Barr",
+      "personaje": "Maggie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oyY5lWTFzhymLB4sJ1OODseI3jR.jpg"
+    },
+    {
+      "nombre": "Judi Dench",
+      "personaje": "Mrs. Caloway (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cpna5VGvAxuKuC31xJPBKy9zbnv.jpg"
+    },
+    {
+      "nombre": "Jennifer Tilly",
+      "personaje": "Grace (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9vYoYF385cVq9oDO3pDpXihP4vz.jpg"
+    },
+    {
+      "nombre": "Steve Buscemi",
+      "personaje": "Wesley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+    },
+    {
+      "nombre": "G.W. Bailey",
+      "personaje": "Rusty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/doZuJwI446yhQ28PHT9vyM6pa0f.jpg"
+    },
+    {
+      "nombre": "Cuba Gooding Jr.",
+      "personaje": "Buck (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+    },
+    {
+      "nombre": "Randy Quaid",
+      "personaje": "Alameda Slim (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rGWvDokcMLIwck10dKIutSoTM9r.jpg"
+    },
+    {
+      "nombre": "Lance LeGault",
+      "personaje": "Junior (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dQOCLWXsB1VKFtg4TZqC9QCxpLJ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John Sanford",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Will Finn",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alice Dewey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Sanford",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Sam Levine",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Michael LaBash",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Will Finn",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Mark Kennedy",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Carter Goodrich",
+      "rol": "Visual Development"
+    },
+    {
+      "nombre": "Chris Buck",
+      "rol": "Supervising Animator"
+    },
+    {
+      "nombre": "Leonard Robledo",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Marlon West",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Dan Read",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Mary Hidalgo",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Glenn Slater",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "H. Lee Peterson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Shirley Pierce",
+      "rol": "Additional Dialogue"
+    },
+    {
+      "nombre": "Mike Surrey",
+      "rol": "Supervising Animator"
+    },
+    {
+      "nombre": "Mark A. Hester",
+      "rol": "Associate Editor"
+    },
+    {
+      "nombre": "Alan Menken",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "John Sanford",
+  "valoraciones": {
+    "tmdb": 6.07,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/21lt06bhx7z2",
+  "trailer": "https://www.youtube.com/watch?v=LMW_nGAsLfc"
+}
