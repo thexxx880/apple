@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 35558,
+  "poster": "https://image.tmdb.org/t/p/w500/5qjlYhD9wVeC4dRwk5KcNi1XWam.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nsWgxQrDcTVhSGzAu5kVlw64XB1.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iel9G8nuUPpGqr5aQ09HVhPpLWO.png",
+  "titulo": "Starstruck: Mi Novio es una Súperestrella",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Película de TV",
+    "Música"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.04,
+  "año": "2010",
+  "duracion": "1h 20min",
+  "edad_minima": 13,
+  "sinopsis": "Jessica Olsen, una chica de Michigan, encuentra ridícula la actitud de su hermana, obsesionada con el cantante Christopher Wilde. Un día parte con su familia hacia Los Ángeles con la única idea de visitar a su abuela, mientras que su hermana pretende aprovechar el viaje para encontrar a Christopher Wilde. Pero el azar hará que sea Jessica la que le encuentre.",
+  "fecha_estreno": "2010-02-14",
+  "titulo_original": "Starstruck",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sterling Knight",
+      "personaje": "Christopher Wilde",
+      "foto": "https://image.tmdb.org/t/p/w500/dwYZPuMMDT2nfG6Sr12uP2ZcDrq.jpg"
+    },
+    {
+      "nombre": "Danielle Campbell",
+      "personaje": "Jessica Olson",
+      "foto": "https://image.tmdb.org/t/p/w500/vFbWHM5KhUfEQmFQBnwszuPMPhi.jpg"
+    },
+    {
+      "nombre": "Maggie Castle",
+      "personaje": "Sara Olson",
+      "foto": "https://image.tmdb.org/t/p/w500/qZzd4YiOgfN9rQBsf2zESK49vt7.jpg"
+    },
+    {
+      "nombre": "Brandon Mychal Smith",
+      "personaje": "Albert Joshua \"Stubby\" Stubbins",
+      "foto": "https://image.tmdb.org/t/p/w500/5nKqpvHatEEjyQWXWIH3fABDDSe.jpg"
+    },
+    {
+      "nombre": "Chelsea Kane",
+      "personaje": "Alexis",
+      "foto": "https://image.tmdb.org/t/p/w500/yYN0NtxO0hB6FVfZma84pWSXdbw.jpg"
+    },
+    {
+      "nombre": "Matt Winston",
+      "personaje": "Alan Smith",
+      "foto": "https://image.tmdb.org/t/p/w500/et38vhCb9y8yGleMRNY2j4nDDyr.jpg"
+    },
+    {
+      "nombre": "Toni Trucks",
+      "personaje": "Libby Lam",
+      "foto": "https://image.tmdb.org/t/p/w500/s2qfaRUh8oEt78HqkXTagbeVNE7.jpg"
+    },
+    {
+      "nombre": "Abbie Cobb",
+      "personaje": "AJ",
+      "foto": "https://image.tmdb.org/t/p/w500/uxgUaiVoQcr8ZFAmub6OJRur5yr.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Grossman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jayne Bieber",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Barbara Johns",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Barbara Johns",
+      "rol": "Teleplay"
+    },
+    {
+      "nombre": "Annie DeYoung",
+      "rol": "Teleplay"
+    },
+    {
+      "nombre": "Lygia Orta",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "David Lawrence",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Horacio Marquínez",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jeffrey Thal",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Lauren Levine",
+      "rol": "Transportation Coordinator"
+    },
+    {
+      "nombre": "Gary A. Krakoff",
+      "rol": "Construction Coordinator"
+    },
+    {
+      "nombre": "Amber Funk",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Steven Vincent",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Mary Church",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Pete Corona",
+      "rol": "Costume Assistant"
+    }
+  ],
+  "director": "Michael Grossman",
+  "valoraciones": {
+    "tmdb": 7.04,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney Channel",
+  "enlace_video": "https://gscdn.cam/video/embed/kcovvi6mu2u2",
+  "trailer": "https://www.youtube.com/watch?v=PmqQyrycpmE"
+}
