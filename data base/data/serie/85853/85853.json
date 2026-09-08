@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 85853,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5QcaEyfSbJEmiaxf7ch8nBl0GO4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2KzRW0vaaO91zTeWuCHPMaJjesu.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/effK2kMvuw51XdCvBWdERfUCDsL.png",
+  "titulo": "Perry Mason",
+  "titulo_original": "Perry Mason",
+  "fecha_estreno": "2020-06-21",
+  "duracion": "24min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Crimen"
+  ],
+  "puntuacion": 7.22,
+  "sinopsis": "Serie sobre el origen de Perry Mason, el abogado criminalista más legendario de la ficción estadounidense. El caso de la década llama a la puerta de Mason y su incesante búsqueda de la verdad descubre una ciudad dividida, y quizá un camino hacia su propia salvación.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Matthew Rhys",
+      "personaje": "Perry Mason",
+      "foto": "https://image.tmdb.org/t/p/w500/8uktKexgPn0tsW3dsXVNqkqiNh7.jpg"
+    },
+    {
+      "nombre": "Juliet Rylance",
+      "personaje": "Della Street",
+      "foto": "https://image.tmdb.org/t/p/w500/bN0cZI8DTETIBlYn0bPG3og8u7f.jpg"
+    },
+    {
+      "nombre": "Chris Chalk",
+      "personaje": "Paul Drake",
+      "foto": "https://image.tmdb.org/t/p/w500/j8IpJkLTAhalh5Q356VNojcIAtx.jpg"
+    },
+    {
+      "nombre": "Justin Kirk",
+      "personaje": "Hamilton Burger",
+      "foto": "https://image.tmdb.org/t/p/w500/7zRJN1qkaGPhUoGoIEtZDsDY9e6.jpg"
+    },
+    {
+      "nombre": "Diarra Kilpatrick",
+      "personaje": "Clara Drake",
+      "foto": "https://image.tmdb.org/t/p/w500/riIETmWl2d5On4YaKy3ISLUjPf.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mauricio Katz",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Ava Nelson",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Reuben Lim",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ronald Cosmo Vecchiarelli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pedro Peirano",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Michael Begler",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brad Einhorn",
+      "rol": "Property Master"
+    },
+    {
+      "nombre": "Niko Gutierrez-Kovner",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Mauricio Katz",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Ava Nelson",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Keith P. Cunningham",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Reuben Lim",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ronald Cosmo Vecchiarelli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rebecca Mangieri",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Pedro Peirano",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Clay Cullen",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Wade Allen",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Michael Begler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Regina Heyman",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jack Amiel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew Rhys",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.22,
+    "imdb": "tt2077823",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=pGM0HAJmitY"
+}
