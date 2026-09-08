@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 76669,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/c07WqB99Igco0rua794q9k9QJYm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1qOA3kMtQO8bjnW8M2smjA8tp10.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/5Zc6jyQDa0eCxg9Zdn9RFNcRXwJ.png",
+  "titulo": "Élite",
+  "titulo_original": "Élite",
+  "fecha_estreno": "2018-10-05",
+  "duracion": "24min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 8.003,
+  "sinopsis": "Las Encinas es el colegio más exclusivo del país y al que la élite envía a sus hijos a estudiar. Un mundo privilegiado con fiestas de alta sociedad, niños ricos, sexo y drogas. En él acaban de ser admitidos tres chicos de clase obrera después de que un terremoto destruyera el colegio público y sus alumnos tuvieran que ser repartidos por otros institutos de la zona. El choque entre los que lo tienen todo y los que no tienen nada que perder crea una tormenta perfecta que acaba en un asesinato. ¿Quién ha cometido el crimen?",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Omar Ayuso",
+      "personaje": "Omar Shanaa",
+      "foto": "https://image.tmdb.org/t/p/w500/c4bAqv3PoSVK4ov7cw076NNqg6f.jpg"
+    },
+    {
+      "nombre": "Valentina Zenere",
+      "personaje": "Isadora Artiñan",
+      "foto": "https://image.tmdb.org/t/p/w500/5EfGAj1nOocsFb8Ffst5Ik48Gye.jpg"
+    },
+    {
+      "nombre": "André Lamoglia",
+      "personaje": "Iván Carvalho",
+      "foto": "https://image.tmdb.org/t/p/w500/6kMkE1tPagXWRCQHAt2PYHyo6kD.jpg"
+    },
+    {
+      "nombre": "Carmen Arrufat",
+      "personaje": "Sara",
+      "foto": "https://image.tmdb.org/t/p/w500/9swPIqmwj4ao2l9Q5zrjZau1GFA.jpg"
+    },
+    {
+      "nombre": "Ander Puig",
+      "personaje": "Nico",
+      "foto": "https://image.tmdb.org/t/p/w500/4seAT5elw0hAbKIpCKlNwwfim38.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ricardo Curto",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "Álvaro Sánchez Bustos",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Paloma Molina",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Antonio Asensio Mosbah",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ruben Goldfarb",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jaime Vaca",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Arancha González",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Ybare Seco",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Adrián Valle",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Judith López",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Lorena Berlanga",
+      "rol": "Key Makeup Artist"
+    },
+    {
+      "nombre": "Natalia Méndez",
+      "rol": "Key Hair Stylist"
+    },
+    {
+      "nombre": "Ricardo Curto",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "Virginia Lacorzana",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Babel Gayo",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Héctor Ubón",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Alejandro Gil",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Mercè Coll",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Eider Marrón",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Álvaro López-Arregui",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Paulina Márquez",
+      "rol": "Music Supervisor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.003,
+    "imdb": "tt7134908",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=72kTH4erwIY"
+}
