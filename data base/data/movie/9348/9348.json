@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 9348,
+  "poster": "https://image.tmdb.org/t/p/w500/xTkMpm749MXzTbxc1diPsALUMGP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tEHmWaIzM0nuFi1CKQL8mJdJZsT.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/eu0Mb6aCbHZn7mFJa0qGNXuJ1TQ.png",
+  "titulo": "Especies",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Terror",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.991,
+  "año": "1995",
+  "duracion": "1h 51min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando una bella hembra resultante del cruce de un ser humano y un alienígena (Natasha Henstridge) se escapa de un laboratorio de observación, el científico Javier Fich (Ben Kingsley) envía en su búsqueda a un asesino profesional (Michael Madsen), a un psiquiatra, a una bióloga y a un antropólogo. Mientras siguen su pista por Los Ángeles, el equipo descubre cuál es su plan; aparearse con hombres para producir crías que puedan destruir a la raza humana. Mientras su mortal reloj biológico avanza con rapidez, Fitch y su equipo se lanzan a una inquietante persecución de la que depende el destino de la humanidad.",
+  "fecha_estreno": "1995-07-07",
+  "titulo_original": "Species",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Natasha Henstridge",
+      "personaje": "Sil",
+      "foto": "https://image.tmdb.org/t/p/w500/lfRFm3MLOGPtaDHWTstoQfKAyLM.jpg"
+    },
+    {
+      "nombre": "Ben Kingsley",
+      "personaje": "Xavier Fitch",
+      "foto": "https://image.tmdb.org/t/p/w500/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+    },
+    {
+      "nombre": "Michael Madsen",
+      "personaje": "Preston Lennox",
+      "foto": "https://image.tmdb.org/t/p/w500/fvr2EXEPrVwsF2JlfRp0Olbj4g8.jpg"
+    },
+    {
+      "nombre": "Marg Helgenberger",
+      "personaje": "Dr. Laura Baker",
+      "foto": "https://image.tmdb.org/t/p/w500/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
+    },
+    {
+      "nombre": "Alfred Molina",
+      "personaje": "Dr. Stephen Arden",
+      "foto": "https://image.tmdb.org/t/p/w500/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "nombre": "Forest Whitaker",
+      "personaje": "Dan Smithson, Empath",
+      "foto": "https://image.tmdb.org/t/p/w500/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+    },
+    {
+      "nombre": "Michelle Williams",
+      "personaje": "Young Sil",
+      "foto": "https://image.tmdb.org/t/p/w500/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+    },
+    {
+      "nombre": "Jordan Lund",
+      "personaje": "Aide",
+      "foto": "https://image.tmdb.org/t/p/w500/hrq0Mlj9Z42m9SpiOk5jXJNIrF6.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Roger Donaldson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Frank Mancuso Jr.",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dennis Feldman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dennis Feldman",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "H. R. Giger",
+      "rol": "Conceptual Design"
+    },
+    {
+      "nombre": "Christopher Young",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Andrzej Bartkowiak",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Conrad Buff IV",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "David Streit",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Muto",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Amanda Mackey",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kenny Myers",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Jackie Carr",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Dan Webster",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Margo Baxley",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Cathy Sandrich Gelfond",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Roger Donaldson",
+  "valoraciones": {
+    "tmdb": 5.991,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Metro-Goldwyn-Mayer",
+  "enlace_video": "https://gscdn.cam/video/embed/5hihd8gxdvuq",
+  "trailer": "https://www.youtube.com/watch?v=ECe9Yqltw_w"
+}
