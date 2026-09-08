@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 84958,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/vCk6wy6WQHwARR4jewbxhhmESs7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/6yb7XUr6l7ctCwf8OJ9NN5brQ53.png",
+  "titulo": "Loki",
+  "titulo_original": "Loki",
+  "fecha_estreno": "2021-06-09",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.174,
+  "sinopsis": "Loki es llevado ante la misteriosa organización llamada AVT (Autoridad de Variación Temporal) después de los acontecimientos ocurridos en \"Avengers: Endgame (2019)\" y se le da a elegir enfrentarse a ser borrado de la existencia debido a que es una \"variante de tiempo\" o ayudar a arreglar la línea de tiempo y detener una amenaza mayor.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Tom Hiddleston",
+      "personaje": "Loki Laufeyson",
+      "foto": "https://image.tmdb.org/t/p/w500/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+    },
+    {
+      "nombre": "Sophia Di Martino",
+      "personaje": "Sylvie / The Variant",
+      "foto": "https://image.tmdb.org/t/p/w500/qZdFp18btpQJfDoknxr7DgfRpcB.jpg"
+    },
+    {
+      "nombre": "Wunmi Mosaku",
+      "personaje": "Hunter B-15",
+      "foto": "https://image.tmdb.org/t/p/w500/vp7qDA7cYZj0MDYk1k4wysmznnN.jpg"
+    },
+    {
+      "nombre": "Eugene Cordero",
+      "personaje": "Casey / Hunter K-5E",
+      "foto": "https://image.tmdb.org/t/p/w500/waruLSR8lXBjhAFL0J6ihuVY62d.jpg"
+    },
+    {
+      "nombre": "Ke Huy Quan",
+      "personaje": "Ouroboros 'OB'",
+      "foto": "https://image.tmdb.org/t/p/w500/iestHyn7PLuVowj5Jaa1SGPboQ4.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Michele Blood",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Johannes Bresser",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Aaron Moorhead",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Justin Benson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric Martin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Winderbaum",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christian Waite",
+      "rol": "CG Supervisor"
+    },
+    {
+      "nombre": "Maisie Robinson",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Milly Hanson",
+      "rol": "Draughtsman"
+    },
+    {
+      "nombre": "Aoife Power",
+      "rol": "Assistant Set Decoration"
+    },
+    {
+      "nombre": "Paul Munro",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Jille Azis",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Rachel Alter",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Dan West",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Andreas Gutuen Aaser",
+      "rol": "Additional Music"
+    },
+    {
+      "nombre": "Katharyn Blair",
+      "rol": "Executive Story Editor"
+    },
+    {
+      "nombre": "Chris Ness",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Brett Maline",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Michele Blood",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Jamie Lengyel",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Tommy Turtle",
+      "rol": "Unit Production Manager"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.174,
+    "imdb": "tt9140554",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=uz1CREWyISo"
+}
