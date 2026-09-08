@@ -1,0 +1,124 @@
+{
+  "id_tmdb": 50712,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/tfjvfipG4FoKOeG3rpDuGWIvx4k.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5U0dYTkHXPhoExNnEm5iKrpDqtr.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/wFe5m9XtZHf7m9D1R29LrhAmatr.png",
+  "titulo": "Black Butler",
+  "titulo_original": "黒執事",
+  "fecha_estreno": "2008-10-02",
+  "duracion": "24min",
+  "año": "2008",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Drama",
+    "Misterio",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.762,
+  "sinopsis": "Ciel Phantomhive, Conde de Phantomhive y propietario de Juguetes Phantom, la compañía de juguetes más grande de la Inglaterra Victoriana, es un niño de 12 años y un amo exigente. Apesar de su corta edad, Ciel Phantomhive cuenta con la confianza total de la Reina Victoria para hacerse cargo de ciertos \"casos\" de índole extraña. A su lado siempre está Sebastian Michaels, el perfecto mayordomo inglés en todos los sentidos, quien puede, de la manera más rápida y eficiente, tanto mantener la mansión en perfecto estado como derrotar a cualquier enemigo que se atreva a interponerse en su camino. Pero qué es exactamente lo que el Conde de Phantomhive busca, y cuáles son las verdaderas intenciones de Sebastian, son las cuestiones que en realidad absolutamente nadie conoce.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "小野大輔",
+      "personaje": "Sebastian Michaelis (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg"
+    },
+    {
+      "nombre": "坂本真綾",
+      "personaje": "Ciel Phantomhive (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hPz2oEQui8a4q9aXdBugQf93ONq.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "福島祐一",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "髙橋佳那子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "木村康貴",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "黒﨑静佳",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "伊藤達弘",
+      "rol": "CGI Director"
+    },
+    {
+      "nombre": "本倉悠介",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "清水暁",
+      "rol": "Development Manager"
+    },
+    {
+      "nombre": "Rahul Purini",
+      "rol": "Development Manager"
+    },
+    {
+      "nombre": "松浦克義",
+      "rol": "Development Manager"
+    },
+    {
+      "nombre": "岩上敦宏",
+      "rol": "Development Manager"
+    },
+    {
+      "nombre": "Rahul Purini",
+      "rol": "Other"
+    },
+    {
+      "nombre": "井上貴允",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "明田川仁",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "小口理菜",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "横田明日香",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "伊良波理沙",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "根本邦明",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "金森つばさ",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "福島祐一",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.762,
+    "imdb": "tt1316554",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=EoipHZFNXv0"
+}
