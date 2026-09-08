@@ -11,10 +11,10 @@
   "trending": false,
   "generos": [
     "Misterio",
-    "Drama",
-    "Sci-Fi & Fantasy"
+    "Sci-Fi & Fantasy",
+    "Drama"
   ],
-  "puntuacion": 6.929,
+  "puntuacion": 6.925,
   "sinopsis": "El tranquilo y pequeño pueblo de Maine está siendo aterrorizado por una fuerza malévola oculta tras la máscara de un payaso, y que tan sólo se la conoce como “Eso”. Tras sus primeras víctimas, una pandilla formada por siete amigos de la infancia deciden volver a reunirse para atacar el mal y destruirlo, intentando librar así del terror a su pueblo natal.",
   "pais_origen": "US",
   "calificacion": "16",
@@ -23,7 +23,7 @@
     {
       "nombre": "Tim Curry",
       "personaje": "Pennywise",
-      "foto": "https://image.tmdb.org/t/p/w500/lYVYVNsPDzeLL6ReCRhh8kezu4y.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
     },
     {
       "nombre": "Harry Anderson",
@@ -128,7 +128,7 @@
     }
   ],
   "valoraciones": {
-    "tmdb": 6.929,
+    "tmdb": 6.925,
     "imdb": "tt0099864",
     "rotten_tomatoes": null
   },
