@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 72710,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/rV8ZYmMIpy9Xi6Qe7JEmpWq8OI7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1gajPADcRyzmYvfAefbJwhCy4bk.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/n0DbitoLIH1l67WusQBioAKhji7.png",
+  "titulo": "El Continental: Del mundo de John Wick",
+  "titulo_original": "The Continental: From the World of John Wick",
+  "fecha_estreno": "2023-09-22",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.367,
+  "sinopsis": "Serie precuela de la franquicia cinematográfica John Wick, centrada en la historia de Winston Scott. Muestra su camino para llegar a su posición como propietario de la sucursal neoyorquina de la cadena de Hoteles Continental, refugios seguros para asesinos en cuyos terrenos no se puede matar ni dejar de pagar una deuda.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Colin Woodell",
+      "personaje": "Winston Scott",
+      "foto": "https://image.tmdb.org/t/p/w500/mh32Sz1K8o7jUNGb4IGO4CRJhkQ.jpg"
+    },
+    {
+      "nombre": "Mel Gibson",
+      "personaje": "Cormac O'Connor",
+      "foto": "https://image.tmdb.org/t/p/w500/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+    },
+    {
+      "nombre": "Mishel Prada",
+      "personaje": "Kate 'KD' Di Silva",
+      "foto": "https://image.tmdb.org/t/p/w500/skvHoSnDH91y1rkfbEIVwaqmueQ.jpg"
+    },
+    {
+      "nombre": "Ben Robson",
+      "personaje": "Frankie Scott",
+      "foto": "https://image.tmdb.org/t/p/w500/5PC13qMbigvYXd4rhay6VgHJXhX.jpg"
+    },
+    {
+      "nombre": "Hubert Point-Du Jour",
+      "personaje": "Miles Burton",
+      "foto": "https://image.tmdb.org/t/p/w500/pmY6QlYF6YTCPiXED0Lcv5RP68d.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Basil Iwanyk",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chad Stahelski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Derek Kolstad",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Leitch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Greg Coolidge",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kirk Ward",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Basil Iwanyk",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chad Stahelski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Derek Kolstad",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Leitch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Greg Coolidge",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kirk Ward",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Erica Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shawn Simmons",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul Wernick",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rhett Reese",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marshall Persinger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Albert Hughes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Raffertie",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Drew Boughton",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Iain Smith",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.367,
+    "imdb": "tt6486762",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=GBlynBE0sv4"
+}
