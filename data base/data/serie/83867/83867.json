@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 83867,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/e3cWQzBxHK803AbZGjp1feQFgyS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/quCeAmVQHfsdcYkicbxZWVauCVb.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2vyPbpZVYkYAzU8QqyGi6EmawB5.png",
+  "titulo": "Andor",
+  "titulo_original": "Andor",
+  "fecha_estreno": "2022-09-21",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+  ],
+  "puntuacion": 8.308,
+  "sinopsis": "En una época llena de peligros, engaños e intrigas, Cassian Andor descubrirá la diferencia que puede marcar en la lucha contra el tiránico Imperio Galáctico. Se embarca en un camino que está destinado a convertirlo en un héroe rebelde.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Diego Luna",
+      "personaje": "Cassian Andor",
+      "foto": "https://image.tmdb.org/t/p/w500/qwbjcyDN37OHiln4a6P4LP31o7F.jpg"
+    },
+    {
+      "nombre": "Anton Lesser",
+      "personaje": "Major Partagaz",
+      "foto": "https://image.tmdb.org/t/p/w500/x0lmqgkmphvOCSTHk2oxsaxA9Ra.jpg"
+    },
+    {
+      "nombre": "Muhannad Bhaier",
+      "personaje": "Wilmon",
+      "foto": "https://image.tmdb.org/t/p/w500/5hn7WeXi6wguwxTPTSmcmzHAs9.jpg"
+    },
+    {
+      "nombre": "Stellan Skarsgård",
+      "personaje": "Luthen Rael",
+      "foto": "https://image.tmdb.org/t/p/w500/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+    },
+    {
+      "nombre": "Denise Gough",
+      "personaje": "Dedra Meero",
+      "foto": "https://image.tmdb.org/t/p/w500/wWcby4ARYqr8d92ZdjyQcfaiJBW.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Stefan Drury",
+      "rol": "Executive Visual Effects Producer"
+    },
+    {
+      "nombre": "Adele Jones-Venables",
+      "rol": "Executive Visual Effects Producer"
+    },
+    {
+      "nombre": "Duncan Ramsay",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Karl Caffrey",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Elaine Waugh",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "John Gilroy",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Margit Pfeiffer",
+      "rol": "ADR Supervisor"
+    },
+    {
+      "nombre": "Mathieu Vig",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Stefan Drury",
+      "rol": "Executive Visual Effects Producer"
+    },
+    {
+      "nombre": "Adele Jones-Venables",
+      "rol": "Executive Visual Effects Producer"
+    },
+    {
+      "nombre": "Duncan Ramsay",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Brandon Roberts",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Karl Caffrey",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Karl Caffrey",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Elaine Waugh",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Jonathan Spencer",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "John Wesley DeWolfe",
+      "rol": "Camera Technician"
+    },
+    {
+      "nombre": "Jo Graysmark",
+      "rol": "Assistant Set Decoration"
+    },
+    {
+      "nombre": "Pablo R. Montenegro",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Tom Monroe",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Jordan McInnes",
+      "rol": "Third Assistant Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.308,
+    "imdb": "tt9253284",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=duN-KQgOjYs"
+}
