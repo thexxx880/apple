@@ -1,0 +1,92 @@
+{
+  "id_tmdb": 114502,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/z58JCUkxDEm7CdZnE8ThW4xiamC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/u2s4grihC8ayQFf9y9bc7fM7PUq.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/bJ7zLpMBDfldKOkt9ABDskL3R1x.png",
+  "titulo": "Cars: Aventuras en el camino",
+  "titulo_original": "Cars on the Road",
+  "fecha_estreno": "2022-09-08",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Comedia",
+    "Kids",
+    "Animación",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.4,
+  "sinopsis": "En está miniserie animada sigue a Rayo McQueen y a su mejor amigo Mate mientras se dirigen al este de Radiador Springs en un viaje por carretera a través de Estados Unidos para reunirse con la hermana de Mate.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Owen Wilson",
+      "personaje": "Lightning McQueen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+    },
+    {
+      "nombre": "Larry the Cable Guy",
+      "personaje": "Mater (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/34pX2sQj9DddaQWRBGukSWYdXxS.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Pete Docter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marc Sondheimer",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Pete Docter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marc Sondheimer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jake Monaco",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tom Myers",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Tom Myers",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Benjamin A. Burtt",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Natalie Lyon",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kevin Reher",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kate Hansen-Birnbaum",
+      "rol": "Casting Associate"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": "tt11981568",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=zONZLIADtpc"
+}
