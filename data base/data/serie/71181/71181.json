@@ -1,0 +1,105 @@
+{
+  "id_tmdb": 71181,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5lA8Vaz9zzWxoAqyRHYHkIy8R3D.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3zzAYFF57wqNbwDqtByMHi85HkH.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jUAUWF1dKk1mfGUtzo62fdE7xWh.png",
+  "titulo": "Troy: Fall of a City",
+  "titulo_original": "Troy: Fall of a City",
+  "fecha_estreno": "2018-02-17",
+  "duracion": "56min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "War & Politics",
+    "Drama"
+  ],
+  "puntuacion": 5.8,
+  "sinopsis": "Mientras busca a la mujer que Afrodita le prometió, el pastor Paris descubre su verdadera identidad y se enamora de Helena de Esparta. La guerra de Troya está servida.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Louis Hunter",
+      "personaje": "Paris",
+      "foto": "https://image.tmdb.org/t/p/w500/5nqSaQi4DMMdLydwGNwnxxM3KQD.jpg"
+    },
+    {
+      "nombre": "Bella Dayne",
+      "personaje": "Helen",
+      "foto": "https://image.tmdb.org/t/p/w500/8fWktaJ2TM5gckri7RNUFSugtnm.jpg"
+    },
+    {
+      "nombre": "Chloe Pirrie",
+      "personaje": "Andromache",
+      "foto": "https://image.tmdb.org/t/p/w500/t5pUoG5kDk8F0uNQ1reMD8Cd4V0.jpg"
+    },
+    {
+      "nombre": "Christiaan Schoombie",
+      "personaje": "Troilus",
+      "foto": "https://image.tmdb.org/t/p/w500/eeXSTbGS7KcSHG42tChj0VoAHZe.jpg"
+    },
+    {
+      "nombre": "Johnny Harris",
+      "personaje": "Agamemnon",
+      "foto": "https://image.tmdb.org/t/p/w500/6W9SJ8ebalDAqZNhfYCOzThycF5.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Christopher Aird",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Farr",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Derek Wax",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christopher Aird",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Farr",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Derek Wax",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Victor Jenkins",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Homer",
+      "rol": "Original Concept"
+    },
+    {
+      "nombre": "Melinda Launspach",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Robin Coudert",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Rob Harris",
+      "rol": "Production Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.8,
+    "imdb": "tt5103758",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=QTBOi1PAMmw"
+}
