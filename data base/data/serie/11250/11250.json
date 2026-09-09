@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 11250,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/91UV7pNcDPhIzJl7EuK36sK5vRG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qabMMIpNUUKYFqQxHEWErEEBD8G.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/iCUz98zYO408VdaTik59ewtyO3X.png",
+  "titulo": "Pasión de gavilanes",
+  "titulo_original": "Pasión de gavilanes",
+  "fecha_estreno": "2003-10-21",
+  "duracion": "24min",
+  "año": "2003",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.68,
+  "sinopsis": "Los hermanos Reyes buscan vengar la muerte de su hermana menor, Ruth. Pero su plan toma un giro inesperado cuando conocen a las hermosas hermanas Elizondo, con las que se involucran emocionalmente . Ellas son hijas de Don Bernardo Elizondo, a quien culpan de su tragedia.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Mario Cimarro",
+      "personaje": "Juan Reyes",
+      "foto": "https://image.tmdb.org/t/p/w500/5tsIXFwE5r0i8TGsTTXt2XSwvdL.jpg"
+    },
+    {
+      "nombre": "Danna García",
+      "personaje": "Norma Elizondo",
+      "foto": "https://image.tmdb.org/t/p/w500/9fxIwr5v3Uy6iv4brRgVx85ciT.jpg"
+    },
+    {
+      "nombre": "Juan A. Baptista",
+      "personaje": "Oscar Reyes",
+      "foto": "https://image.tmdb.org/t/p/w500/nXlaqQWT7nzLYhoE08VAJBX5XJ6.jpg"
+    },
+    {
+      "nombre": "Paola Rey",
+      "personaje": "Jimena Elizondo",
+      "foto": "https://image.tmdb.org/t/p/w500/qMsKx95vJsOE0RtzzP0jIdkZpxX.jpg"
+    },
+    {
+      "nombre": "Michel Brown",
+      "personaje": "Franco Reyes",
+      "foto": "https://image.tmdb.org/t/p/w500/4a4KLHBaDbB8MHDCqOsKMfBqxDR.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.68,
+    "imdb": "tt0387763",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": "https://www.youtube.com/watch?v=mcl7QUaNJY4"
+}
