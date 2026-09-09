@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 39563,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/nFIGlDGpRLIhD9C5nER4xZLkQjt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2BHJ9J71xzj1pivrPoSnCJSEPrg.jpg",
+  "logo": "",
+  "titulo": "Flor Salvaje",
+  "titulo_original": "Flor Salvaje",
+  "fecha_estreno": "2011-08-02",
+  "duracion": "45min",
+  "año": "2011",
+  "trending": false,
+  "generos": [
+    "Soap",
+    "Drama"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "Una joven mujer llega a un pueblo petrolero y comienza a trabajar en un cabaret para poder mantener a sus hermanas. Allí se convierte en una mujer fuerte y capaz de defender lo que más ama en la vida.",
+  "pais_origen": "CO",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Roberto Manrique",
+      "personaje": "Sacramento Iglesias",
+      "foto": "https://image.tmdb.org/t/p/w500/aRHZTpImYFJdLbw2q4hhQK0mWKO.jpg"
+    },
+    {
+      "nombre": "Tony Dalton",
+      "personaje": "Don Rafael Urrieta",
+      "foto": "https://image.tmdb.org/t/p/w500/vWteTJu9Dyrax7gQq8ndTjx5s6V.jpg"
+    },
+    {
+      "nombre": "Mónica Spear",
+      "personaje": "Amanda Monteverde",
+      "foto": "https://image.tmdb.org/t/p/w500/hX78qdPZHngNYL9IQJoYMheECsn.jpg"
+    },
+    {
+      "nombre": "José Luis Reséndez",
+      "personaje": "Pablo Aguilar",
+      "foto": "https://image.tmdb.org/t/p/w500/9YHpU8qlNAaKkHwh0kmONmG1Vk.jpg"
+    },
+    {
+      "nombre": "María Elisa Camargo",
+      "personaje": "Catalina Larrazabal de Urrieta",
+      "foto": "https://image.tmdb.org/t/p/w500/3rkxKz7bylodgS0ITMjlLkBPvVK.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt1976753",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": ""
+}
