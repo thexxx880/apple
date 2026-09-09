@@ -1,0 +1,83 @@
+{
+  "id_tmdb": 35338,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ceoJyZgsHBaenUxhobHUA6mXXf0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cFqNqC40XlssRmReUnaqDey9EgW.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jCZfk4d0eYcQV4Yn53gM9tr1e7m.png",
+  "titulo": "La que se avecina",
+  "titulo_original": "La que se avecina",
+  "fecha_estreno": "2007-04-22",
+  "duracion": "90min",
+  "año": "2007",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 8.081,
+  "sinopsis": "Esta ficción en clave de humor afronta las aventuras y conflictos cotidianos de los vecinos de un edificio de nueva construcción en las periferias de una gran ciudad. Mirador de Montepinar es un inmueble que consta de un total de diez viviendas y de cuatro locales. Sus residentes y empleados conforman un singular y heterogéneo grupo.",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "María Adánez",
+      "personaje": "Rebeca Ortiz Sotomayor",
+      "foto": "https://image.tmdb.org/t/p/w500/rjnxRiyNJK8JLGVxfDihCFhB7um.jpg"
+    },
+    {
+      "nombre": "Carlos Areces",
+      "personaje": "Agustín Gordillo Caravaca",
+      "foto": "https://image.tmdb.org/t/p/w500/qoJz3KqgNvXUWD52b0SWX0oDplG.jpg"
+    },
+    {
+      "nombre": "Ana Arias",
+      "personaje": "Cristina Sanromán García",
+      "foto": "https://image.tmdb.org/t/p/w500/p6gK886IIk1VdOnN70br7a8p2ps.jpg"
+    },
+    {
+      "nombre": "Pablo Chiapella",
+      "personaje": "Amador Rivas Latorre",
+      "foto": "https://image.tmdb.org/t/p/w500/AkOhRbgkzBp9QWUIjb8Bu8SaBPx.jpg"
+    },
+    {
+      "nombre": "Mamen García",
+      "personaje": "Victoria Balmaseda de Unzeta y Téllez-Girón",
+      "foto": "https://image.tmdb.org/t/p/w500/k7eXYq7CxP1I2PSVGXt4EfM14RQ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Santiago G. Lillo",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jaime Sagi-Vela",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Óscar Romero",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Elena Arnao",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Mónica Guzmán",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Santiago G. Lillo",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.081,
+    "imdb": "tt0922037",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Prime Video",
+  "trailer": ""
+}
