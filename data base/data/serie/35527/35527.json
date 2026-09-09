@@ -1,0 +1,124 @@
+{
+  "id_tmdb": 35527,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/9qyd6CVZPrb0OzFtsRo6RBZauZz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/A2XDyb9nPLi2TxXHuzJDZJyAXKx.jpg",
+  "logo": "",
+  "titulo": "La tormenta",
+  "titulo_original": "La tormenta",
+  "fecha_estreno": "2005-09-19",
+  "duracion": "45min",
+  "año": "2005",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Soap"
+  ],
+  "puntuacion": 7.429,
+  "sinopsis": "María Teresa Montillo administra una hacienda donde sufre. Se enfrenta con su pasado y conoce a un amor inesperado.",
+  "pais_origen": "CO",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Christian Meier",
+      "personaje": "Santos Torrealba",
+      "foto": "https://image.tmdb.org/t/p/w500/Aez99BPhe7e63RuOtWGiojrV3rm.jpg"
+    },
+    {
+      "nombre": "Natasha Klauss",
+      "personaje": "Isabela Montilla",
+      "foto": "https://image.tmdb.org/t/p/w500/gdhHVVDdOUK9RgmWrckbUGK9SOg.jpg"
+    },
+    {
+      "nombre": "Marcelo Buquet",
+      "personaje": "Simón Guerrero",
+      "foto": ""
+    },
+    {
+      "nombre": "Aura Cristina Geithner",
+      "personaje": "Bernarda Ayala",
+      "foto": "https://image.tmdb.org/t/p/w500/v2TXukHVTwu9qHu0CmqpW7BLkCx.jpg"
+    },
+    {
+      "nombre": "Aura Cristina Geithner",
+      "personaje": "Valentina Ayala",
+      "foto": "https://image.tmdb.org/t/p/w500/v2TXukHVTwu9qHu0CmqpW7BLkCx.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Hugo León Ferrer",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Hugo León Ferrer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lucero Venegas",
+      "rol": "Location Manager"
+    },
+    {
+      "nombre": "Perla Farías",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Alfredo Zamudio",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Eduardo Carreño",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Oliver Camargo",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Nicolás Uribe",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Alba Merchan Hamann",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "César Chaparro",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Gabriela Monroy",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Claudia Carvajal",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Manuel Guerrero",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Alfredo Salamanca",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Andrés Santamaria",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Alexandra Galindo",
+      "rol": "Assistant Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.429,
+    "imdb": "tt0459721",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": ""
+}
