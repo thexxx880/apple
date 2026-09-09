@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 2316,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/mZMmfkTDiXgdKADBykhEFDp940V.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+  "titulo": "La Oficina",
+  "titulo_original": "The Office",
+  "fecha_estreno": "2005-03-24",
+  "duracion": "24min",
+  "año": "2005",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 8.583,
+  "sinopsis": "La vida diaria de los empleados de una oficina de una compañía papelera localizada en Scranton, Pensilvania. Corrosivo retrato de los miembros de una empresa. Versión americana de una popular serie británica de la BBC del mismo título.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rainn Wilson",
+      "personaje": "Dwight Schrute",
+      "foto": "https://image.tmdb.org/t/p/w500/yRTElSeC3q9nBqBuleI6OODlDMS.jpg"
+    },
+    {
+      "nombre": "John Krasinski",
+      "personaje": "Jim Halpert",
+      "foto": "https://image.tmdb.org/t/p/w500/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg"
+    },
+    {
+      "nombre": "Jenna Fischer",
+      "personaje": "Pam Beesly",
+      "foto": "https://image.tmdb.org/t/p/w500/mfKRbOHTPNi9jFSthtjl4FGVZv6.jpg"
+    },
+    {
+      "nombre": "Ed Helms",
+      "personaje": "Andy Bernard",
+      "foto": "https://image.tmdb.org/t/p/w500/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Warren Lieberstein",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Brent Forrester",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Halsted Sullivan",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Steve Burgess",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Justin Spitzer",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Dan Greaney",
+      "rol": "Consulting Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Warren Lieberstein",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Brent Forrester",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Halsted Sullivan",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Steve Burgess",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Justin Spitzer",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Dan Greaney",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Paul Lieberstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Teri Weinberg",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Ricky Gervais",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stephen Merchant",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Greg Daniels",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Howard Klein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Silverman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ricky Gervais",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "Stephen Merchant",
+      "rol": "Original Series Creator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.583,
+    "imdb": "tt0386676",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=-C2z-nshFts"
+}
