@@ -1,0 +1,87 @@
+{
+  "id_tmdb": 299939,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/m97hzwX4ZmkMVB6Drky8fwg635n.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/uTQrN2E9ulajgC6nN3JbjjSIjFl.png",
+  "titulo": "Monstruo: La Historia de Lizzie Borden",
+  "titulo_original": "Monster: The Lizzie Borden Story",
+  "fecha_estreno": "2026-09-17",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 0,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ella Beatty",
+      "personaje": "Lizzie Borden",
+      "foto": "https://image.tmdb.org/t/p/w500/ksWqDRv0knHs9vFffeRD0c28UKH.jpg"
+    },
+    {
+      "nombre": "Vicky Krieps",
+      "personaje": "Bridget Sullivan",
+      "foto": "https://image.tmdb.org/t/p/w500/9laK3w40qBnE5UY41wJfnUAYMmC.jpg"
+    },
+    {
+      "nombre": "Sarah Paulson",
+      "personaje": "Aileen Wuornos",
+      "foto": "https://image.tmdb.org/t/p/w500/tJnhBV516yrekR3hTDUw15UMbxS.jpg"
+    },
+    {
+      "nombre": "Charlie Hunnam",
+      "personaje": "Andrew Borden",
+      "foto": "https://image.tmdb.org/t/p/w500/5WIDrnY25Ps2RYu0zIzHSVuSt5n.jpg"
+    },
+    {
+      "nombre": "Rebecca Hall",
+      "personaje": "Abby Borden",
+      "foto": "https://image.tmdb.org/t/p/w500/coC58ANiDbqRIyle5zEl9QDektf.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ryan Murphy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ian Brennan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric Kovtun",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ryan Murphy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ian Brennan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric Kovtun",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew Flood Ferguson",
+      "rol": "Production Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 0,
+    "imdb": "tt13207736",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=gYTzF1vna40"
+}
