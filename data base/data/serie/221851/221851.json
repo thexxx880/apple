@@ -1,0 +1,85 @@
+{
+  "id_tmdb": 221851,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/4YaV9hJ1vJWLROjIC0Sqj6g7nNc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qHCXeAM13OYvcmjXeOhtvXfc8uo.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/pkwLgVJEtrXs6DRSAgrUGCmKJhD.png",
+  "titulo": "Cásate con mi Esposo",
+  "titulo_original": "내 남편과 결혼해줘",
+  "fecha_estreno": "2024-01-01",
+  "duracion": "63min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Comedia"
+  ],
+  "puntuacion": 8.498,
+  "sinopsis": "Ji-won, una mujer de vida limitada, regresa a 10 años atrás y sueña con vengarse tras ser asesinada por su marido, que tuvo una aventura con su mejor amiga.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "박민영",
+      "personaje": "Kang Ji-won",
+      "foto": "https://image.tmdb.org/t/p/w500/5Op0Gx0DULFLHtGdWVdqnYdwkAS.jpg"
+    },
+    {
+      "nombre": "나인우",
+      "personaje": "Yoo Ji-hyeok",
+      "foto": "https://image.tmdb.org/t/p/w500/A0ibLEz3mwzUljcIzLoadxhcDOd.jpg"
+    },
+    {
+      "nombre": "이이경",
+      "personaje": "Park Min-hwan",
+      "foto": "https://image.tmdb.org/t/p/w500/arIQjEhzxihRJvkOJjIksPA5EZM.jpg"
+    },
+    {
+      "nombre": "송하윤",
+      "personaje": "Jeong Su-min",
+      "foto": "https://image.tmdb.org/t/p/w500/pPn8m1cjEtMoSdC3w50TbaMl6h9.jpg"
+    },
+    {
+      "nombre": "이기광",
+      "personaje": "Baek Eun-ho",
+      "foto": "https://image.tmdb.org/t/p/w500/4krpBmuM6wlPqct4FIiLLF1ZjvQ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "박원국",
+      "rol": "Director"
+    },
+    {
+      "nombre": "손자영",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "박원국",
+      "rol": "Director"
+    },
+    {
+      "nombre": "신유담",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "손자영",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "성소작",
+      "rol": "Novel"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.498,
+    "imdb": "tt26628595",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": "https://www.youtube.com/watch?v=4URidE59IAI"
+}
