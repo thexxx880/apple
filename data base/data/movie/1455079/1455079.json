@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 1455079,
+  "poster": "https://image.tmdb.org/t/p/w500/f0Gip8ZwWySoVXuv7icSdP5B8U3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rHEKPwNj6j2R36EZXxPKOzkdp6d.png",
+  "titulo": "Tu, yo & la Toscana",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.4,
+  "año": "2026",
+  "duracion": "1h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Anna, una joven que ha dejado atrás su sueño de ser chef, viaja impulsivamente a la Toscana tras conocer a Matteo, dueño de una villa vacía. Cuando la madre de él aparece inesperadamente, Anna finge ser su prometida. La mentira se complica aún más con la llegada de Michael, cuyo inesperado vínculo con Anna podría cambiarlo todo.",
+  "fecha_estreno": "2026-04-09",
+  "titulo_original": "You, Me & Tuscany",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Halle Bailey",
+      "personaje": "Anna",
+      "foto": "https://image.tmdb.org/t/p/w500/1Gjdlx81P7xTeVwHNIDgjgmzZq5.jpg"
+    },
+    {
+      "nombre": "Regé-Jean Page",
+      "personaje": "Michael",
+      "foto": "https://image.tmdb.org/t/p/w500/rR5gFJ5kggfYrpFMxybwLtGPcOw.jpg"
+    },
+    {
+      "nombre": "Lorenzo de Moor",
+      "personaje": "Matteo",
+      "foto": "https://image.tmdb.org/t/p/w500/g4iHpi1bRfblpyFRYpTJxtVQghX.jpg"
+    },
+    {
+      "nombre": "Marco Calvani",
+      "personaje": "Lorenzo",
+      "foto": "https://image.tmdb.org/t/p/w500/bLwEolcLKayPOJ9t2biUgN1SH9z.jpg"
+    },
+    {
+      "nombre": "Isabella Ferrari",
+      "personaje": "Gabriella",
+      "foto": "https://image.tmdb.org/t/p/w500/eZkxlvM7JGIl0GkQcNS2uE8HyeB.jpg"
+    },
+    {
+      "nombre": "Paolo Sassanelli",
+      "personaje": "Vincenzo",
+      "foto": "https://image.tmdb.org/t/p/w500/iQNrMG857WG4rpjZrYsXK2RPXr8.jpg"
+    },
+    {
+      "nombre": "Stefania Casini",
+      "personaje": "Nonna Alessia",
+      "foto": "https://image.tmdb.org/t/p/w500/aSg1jmYTV4nUhm6noY6ocP6hGUT.jpg"
+    },
+    {
+      "nombre": "Stella Pecollo",
+      "personaje": "Francesca",
+      "foto": "https://image.tmdb.org/t/p/w500/l6PplGuKHDTgVT6mwumSKXVyXEg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kat Coiro",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Will Packer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Johanna Byer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan Engle",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ryan Engle",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kristin Engle",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Elena Albanese",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Danny Ruhlmann",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Massimo Cantini Parrini",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Scott Putman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Putman",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "John Debney",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Annamaria Sambucco",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Massimo Appolloni",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Troy Takaki",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Zene Baker",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Chiara Balducci",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Katia Sisto",
+      "rol": "Makeup Designer"
+    }
+  ],
+  "director": "Kat Coiro",
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Will Packer Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/5eg33tyheqlj",
+  "trailer": "https://www.youtube.com/watch?v=uYTMroh8pjI"
+}
