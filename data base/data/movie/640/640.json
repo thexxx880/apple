@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 640,
+  "poster": "https://image.tmdb.org/t/p/w500/wcWi3xIEzIjDERTZyWoqryQGURA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sfW8gtA6Bz2F4zK1FoCKbMqTF8Z.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7w3bs2ep4yEWJnjm5Us2NnWQk0a.png",
+  "titulo": "Atrápame si puedes",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.978,
+  "año": "2002",
+  "duracion": "2h 21min",
+  "edad_minima": 13,
+  "sinopsis": "Basada en una historia real. En los años sesenta, Frank W. Abagnale era un joven y escurridizo delincuente que adoptaba diversas identidades (médico, abogado o copiloto de líneas aéreas). Carl Hanratty, un agente del FBI, tenía la misión de seguir su pista y capturarlo para llevarlo ante la justicia, pero Frank siempre iba un paso por delante de él.",
+  "fecha_estreno": "2002-12-16",
+  "titulo_original": "Catch Me If You Can",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Leonardo DiCaprio",
+      "personaje": "Frank Abagnale Jr.",
+      "foto": "https://image.tmdb.org/t/p/w500/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+      "nombre": "Tom Hanks",
+      "personaje": "Carl Hanratty",
+      "foto": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "nombre": "Christopher Walken",
+      "personaje": "Frank Abagnale",
+      "foto": "https://image.tmdb.org/t/p/w500/wShPFtq1fjTH4zx7W6SeKsO9Npz.jpg"
+    },
+    {
+      "nombre": "Martin Sheen",
+      "personaje": "Roger Strong",
+      "foto": "https://image.tmdb.org/t/p/w500/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
+    },
+    {
+      "nombre": "Nathalie Baye",
+      "personaje": "Paula Abagnale",
+      "foto": "https://image.tmdb.org/t/p/w500/9WZnFcyqdixlOfqHKBXq0l0Rc4L.jpg"
+    },
+    {
+      "nombre": "Amy Adams",
+      "personaje": "Brenda Strong",
+      "foto": "https://image.tmdb.org/t/p/w500/1h2r2VTpoFb5QefAaBYYQgQzL9z.jpg"
+    },
+    {
+      "nombre": "James Brolin",
+      "personaje": "Jack Barnes",
+      "foto": "https://image.tmdb.org/t/p/w500/j5DCjshDWSv4nMJdWyXWCmRmROU.jpg"
+    },
+    {
+      "nombre": "Brian Howe",
+      "personaje": "Earl Amdursky",
+      "foto": "https://image.tmdb.org/t/p/w500/6JpzCLWbKG6Hp44r09ro0ZkJDSH.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Steven Spielberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steven Spielberg",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jeff Nathanson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Walter F. Parkes",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sarah Knowles",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Janusz Kamiński",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Debra Zane",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Barry Kemp",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anthony Romano",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Leslie A. Pope",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Michel Shane",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Kahn",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jeannine Oppewall",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Laurie MacDonald",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mary Zophres",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Kevin Erb",
+      "rol": "Best Boy Grip"
+    }
+  ],
+  "director": "Steven Spielberg",
+  "valoraciones": {
+    "tmdb": 7.978,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Kemp Company",
+  "enlace_video": "https://filelions.to/v/egej1pkccmke",
+  "trailer": "https://www.youtube.com/watch?v=71rDQ7z4eFg"
+}
