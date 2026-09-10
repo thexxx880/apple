@@ -1,0 +1,65 @@
+{
+  "id_tmdb": 17572,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xhPpCLky3gmLlAjAs8gf15h6Bxg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gzoDeOxJ1mvtoBQdk94l5HzVil2.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/17Ok151nqIwAZIyp2yJrYNvyYTU.png",
+  "titulo": "Kick Buttowski: Medio Doble de Riesgo",
+  "titulo_original": "Kick Buttowski: Suburban Daredevil",
+  "fecha_estreno": "2010-02-13",
+  "duracion": "22min",
+  "año": "2010",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "La historia se centra en Clarence Francis Buttowski, un acróbata que prefiere que lo llamen por el nombre de «Kick» Buttowski. Le gusta mucho la acción, el peligro y las cosas asombrosas y con su mejor amigo Gunther tratan de hacer lo más increíble.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Charlie Schlatter",
+      "personaje": "Kick Buttowski (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tAXK63aGqIP7CqgvxNLEC2KHKvf.jpg"
+    },
+    {
+      "nombre": "Danny Cooksey",
+      "personaje": "Brad Buttowski (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1diDYWnss7hsYzRru9nfPCyg6Yb.jpg"
+    },
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "Mr. Vickle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+    },
+    {
+      "nombre": "Eric Christian Olsen",
+      "personaje": "Wade (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/v6r77LimgA49VxsRjKVFUYeVVRi.jpg"
+    },
+    {
+      "nombre": "Matt Jones",
+      "personaje": "Gunther Magnuson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/x13vFDaJHY1CxNvSPWujYe12bMc.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Scott Armstrong",
+      "rol": "Animation"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "tt1600757",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=V90vBucJois"
+}
