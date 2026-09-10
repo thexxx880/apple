@@ -1,0 +1,152 @@
+{
+  "id_tmdb": 1516698,
+  "poster": "https://image.tmdb.org/t/p/w500/18HnXofpKuoD8oMdRj6GPvmdEJN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/AtWebMQXtIytO1ccEZP4WdKtZqP.png",
+  "titulo": "Sunrise: El último amanecer",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.643,
+  "año": "2026",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "Basada en la exitosa novela, Sunrise: El último amanecer narra la historia de Ry, una universitaria con una enfermedad crónica que viaja a Mallorca junto a su madre. Cuando se enamora de Julián, descubre una nueva forma de vivir, pero, antes de que termine el verano, el deterioro de su salud y los secretos familiares ponen todo en riesgo.",
+  "fecha_estreno": "2026-08-26",
+  "titulo_original": "The Last Sunrise",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Maia Reficco",
+      "personaje": "Oriah 'Ry' Pera",
+      "foto": "https://image.tmdb.org/t/p/w500/brPJjB7K3zkqKhmKkCTr5cGZXUy.jpg"
+    },
+    {
+      "nombre": "Fernando Lindez",
+      "personaje": "Julián",
+      "foto": "https://image.tmdb.org/t/p/w500/quHSt84xNfEqCk9v5fv3qVxlbaX.jpg"
+    },
+    {
+      "nombre": "Eva Longoria",
+      "personaje": "Isolde Pera",
+      "foto": "https://image.tmdb.org/t/p/w500/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
+    },
+    {
+      "nombre": "Chloé Sweetlove",
+      "personaje": "Amara",
+      "foto": "https://image.tmdb.org/t/p/w500/pjwHAPDzyKojzK47hjZ9RNzZ1yR.jpg"
+    },
+    {
+      "nombre": "Andrés Velencoso",
+      "personaje": "Mateo",
+      "foto": "https://image.tmdb.org/t/p/w500/gzQlzEWYWDNDfAEH2pk8VR30xDe.jpg"
+    },
+    {
+      "nombre": "Stefanie Martini",
+      "personaje": "Lena",
+      "foto": "https://image.tmdb.org/t/p/w500/cSSIiss7lTRAoZ1QqOJtA9iodUu.jpg"
+    },
+    {
+      "nombre": "Sabrina Bartlett",
+      "personaje": "Prisha",
+      "foto": "https://image.tmdb.org/t/p/w500/w4AnBCVuHFhYiJYWJ1SzT09yhBb.jpg"
+    },
+    {
+      "nombre": "Àlex Peracaula",
+      "personaje": "Carlos",
+      "foto": "https://image.tmdb.org/t/p/w500/92UnW3XPciP9jPHhVIdn8m3TbiJ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Carlson Young",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Anna Klassen",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Anna Todd",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jennifer Gibgot",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Panay",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lena Roklin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Pitt",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Anna Todd",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Rob Givens",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Pebbles Day",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Pebbles Day",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Liliana Niespial",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "David Ramon Ballart",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Victoria Fernandez Rostello",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Aubrey Smyth",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Marina Torres Guerra",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Julia Maderuelo",
+      "rol": "Art Department Assistant"
+    },
+    {
+      "nombre": "Nikolay Bakalov",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Zahary Borisov",
+      "rol": "Dialogue Editor"
+    }
+  ],
+  "director": "Carlson Young",
+  "valoraciones": {
+    "tmdb": 6.643,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Amazon MGM Studios",
+  "enlace_video": "https://vimeos.net/embed-myaqf6eoprzq.html",
+  "trailer": "https://www.youtube.com/watch?v=NhI2UpkFAFw"
+}
