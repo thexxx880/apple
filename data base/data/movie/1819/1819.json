@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 1819,
+  "poster": "https://image.tmdb.org/t/p/w500/q1Atl5XHa0xEFsQkMs9igXsNF6c.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/muMAXHW2RknY5kA9VCmFhVHLkYh.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4nag0GfytjdqtvSfT5RbTphInk.png",
+  "titulo": "Tres son Multitud",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.6,
+  "año": "2006",
+  "duracion": "1h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Los recién casados Carl y Molly Peterson se encuentran con una inesperada visita en su perfectamente construido paraíso conyugal. Se trata de Dupree, un vividor con alma de poeta martirizado por su jefe. Cuando se toma una semana para ir a Hawai como padrino de boda de Carl y Molly, lo despiden de la empresa. Sin trabajo, sin coche, sin casa, Dupree se instala con los Peterson indefinidamente.",
+  "fecha_estreno": "2006-07-13",
+  "titulo_original": "You, Me and Dupree",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Owen Wilson",
+      "personaje": "Dupree",
+      "foto": "https://image.tmdb.org/t/p/w500/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+    },
+    {
+      "nombre": "Kate Hudson",
+      "personaje": "Molly",
+      "foto": "https://image.tmdb.org/t/p/w500/s79lH1QzEg2fkXULKBxRmU9aNr8.jpg"
+    },
+    {
+      "nombre": "Matt Dillon",
+      "personaje": "Carl",
+      "foto": "https://image.tmdb.org/t/p/w500/wVoSUexYH79igPgxIXKWRlV2uBk.jpg"
+    },
+    {
+      "nombre": "Michael Douglas",
+      "personaje": "Mr. Thompson",
+      "foto": "https://image.tmdb.org/t/p/w500/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+    },
+    {
+      "nombre": "Seth Rogen",
+      "personaje": "Neil",
+      "foto": "https://image.tmdb.org/t/p/w500/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+      "nombre": "Amanda Detmer",
+      "personaje": "Annie",
+      "foto": "https://image.tmdb.org/t/p/w500/gEfxlgMGN7bZdu3A0vgeBp1hVHy.jpg"
+    },
+    {
+      "nombre": "Ralph Ting",
+      "personaje": "Toshi",
+      "foto": null
+    },
+    {
+      "nombre": "Todd Stashwick",
+      "personaje": "Tony",
+      "foto": "https://image.tmdb.org/t/p/w500/seKRXV2HMS36ip4SfQq6PLRiLL2.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Anthony Russo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joe Russo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael LeSieur",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Scott Stuber",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Owen Wilson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mary Parent",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Theodore Shapiro",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Charles Minsky",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Peter B. Ellis",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Debra Neil-Fisher",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Barry Robison",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Deborah Aquila",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Barbara Munch",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Karen Patch",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Michael Fottrell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aaron Kaplan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sean Perrone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elaine Perlmann",
+      "rol": "Assistant Costume Designer"
+    }
+  ],
+  "director": "Anthony Russo",
+  "valoraciones": {
+    "tmdb": 5.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "MMCB Film Produktion 2004",
+  "enlace_video": "https://gscdn.cam/video/embed/lbffrxqe3khl",
+  "trailer": "https://www.youtube.com/watch?v=TluIBiITdkA"
+}
