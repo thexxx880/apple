@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 1433367,
+  "poster": "https://image.tmdb.org/t/p/w500/dfuqSiCp3Y24nO1z1YembfTrrtn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/65cG1sq2NiiMnq2VLdgnha8WB4P.png",
+  "titulo": "Solo por una noche",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.8,
+  "año": "2026",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "Dos desconocidos, ávidos de amor, se topan por casualidad en la única noche del año en que las personas solteras tienen permitido tener relaciones sexuales.",
+  "fecha_estreno": "2026-07-28",
+  "titulo_original": "One Night Only",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Monica Barbaro",
+      "personaje": "Allie",
+      "foto": "https://image.tmdb.org/t/p/w500/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
+    },
+    {
+      "nombre": "Callum Turner",
+      "personaje": "Owen",
+      "foto": "https://image.tmdb.org/t/p/w500/1QqpyYbX6zyyrtlKAJLbKM4B4k9.jpg"
+    },
+    {
+      "nombre": "Maya Hawke",
+      "personaje": "Malika",
+      "foto": "https://image.tmdb.org/t/p/w500/7oihORN6wlSC9qKULcpVq7Kqv1l.jpg"
+    },
+    {
+      "nombre": "King Princess",
+      "personaje": "Jacinta",
+      "foto": "https://image.tmdb.org/t/p/w500/hQFDqQj5fmprYGOsKZMVRLCPJFd.jpg"
+    },
+    {
+      "nombre": "Molly Ringwald",
+      "personaje": "Linda",
+      "foto": "https://image.tmdb.org/t/p/w500/eXRphPiX18t8C3nCoOuxQFNegqP.jpg"
+    },
+    {
+      "nombre": "LeVar Burton",
+      "personaje": "Rick",
+      "foto": "https://image.tmdb.org/t/p/w500/tC74tISKpFGmJkrw24MMLix5nNa.jpg"
+    },
+    {
+      "nombre": "Charlie Gillespie",
+      "personaje": "Ezra Strong",
+      "foto": "https://image.tmdb.org/t/p/w500/wFNpaCIveZ5DXCCJhproXWdKlEi.jpg"
+    },
+    {
+      "nombre": "Quintessa Swindell",
+      "personaje": "Arya",
+      "foto": "https://image.tmdb.org/t/p/w500/3rWuQThPernDgpluR1Q8xDgg3Tu.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Will Gluck",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Will Gluck",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jacqueline Monetta",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Travis Braun",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kathleen Chopin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "John Ort",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Yaron Orbach",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Dean Neistat",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Scott Kuzio",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jacqueline Oknaian Demeterio",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Adam McCarthy",
+      "rol": "Executive In Charge Of Production"
+    },
+    {
+      "nombre": "Tia Nolan",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Gregg Alexander",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Danielle Brisebois",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Nick Lashley",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Este Haim",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Will Gluck",
+  "valoraciones": {
+    "tmdb": 6.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://voe.sx/e/mbzvkfoaso8t",
+  "trailer": "https://www.youtube.com/watch?v=lDsAVq9lo9g"
+}
