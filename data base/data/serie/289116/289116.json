@@ -1,0 +1,87 @@
+{
+  "id_tmdb": 289116,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/s1igZ0HLygVhGrMdXj1oMHGCZSU.png",
+  "titulo": "天才，女友",
+  "titulo_original": "天才，女友",
+  "fecha_estreno": "2026-08-02",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.583,
+  "sinopsis": "",
+  "pais_origen": "CN",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "田曦薇",
+      "personaje": "Lin Zhixia",
+      "foto": "https://image.tmdb.org/t/p/w500/i5lXDkbCTSD3Y7Vcy00iUtCoalX.jpg"
+    },
+    {
+      "nombre": "胡一天",
+      "personaje": "Jiang Yubai",
+      "foto": "https://image.tmdb.org/t/p/w500/3TdSv9FWbImvJO65I2z8GEcU791.jpg"
+    },
+    {
+      "nombre": "赖伟明",
+      "personaje": "Shen Fuxuan",
+      "foto": "https://image.tmdb.org/t/p/w500/uPkzVNaSYLrIeTNmZs7mHrpKDKy.jpg"
+    },
+    {
+      "nombre": "厉嘉琪",
+      "personaje": "Tang Tingting",
+      "foto": "https://image.tmdb.org/t/p/w500/irRmvwQmWDaKJ270nZSSdSYGyrt.jpg"
+    },
+    {
+      "nombre": "夏浩然",
+      "personaje": "Duan Qiyan",
+      "foto": "https://image.tmdb.org/t/p/w500/c2Wj7zXGQWiNlSrvWViNrhLjEnJ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "王晓晖",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "戴婧婷",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "田羽生",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "龚宇",
+      "rol": "Presenter"
+    },
+    {
+      "nombre": "王晓晖",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "戴婧婷",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "田羽生",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.583,
+    "imdb": "tt37831535",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": "https://www.youtube.com/watch?v=AukOst2Wtbw"
+}
