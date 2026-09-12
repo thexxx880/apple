@@ -1,0 +1,75 @@
+{
+  "id_tmdb": 289139,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/tYdb3BHpBsUFbeUXROtM4Kqe138.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mmXea9UCZ83TMhHaSkDAJCHKr0S.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ysRDnWE8tgJXdfrpmsOPZ4icpWQ.png",
+  "titulo": "这一秒过火",
+  "titulo_original": "这一秒过火",
+  "fecha_estreno": "2026-07-19",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.5,
+  "sinopsis": "",
+  "pais_origen": "CN",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "张凌赫",
+      "personaje": "Murong Qingyi",
+      "foto": "https://image.tmdb.org/t/p/w500/aLJgImwImy1lfOCZTOBkh4T0xt5.jpg"
+    },
+    {
+      "nombre": "王楚然",
+      "personaje": "Ren Susu / Fang Mulan",
+      "foto": "https://image.tmdb.org/t/p/w500/trE6PMD0vgcuvEMog7gRpnWr8TQ.jpg"
+    },
+    {
+      "nombre": "付辛博",
+      "personaje": "Murong Qingyu",
+      "foto": "https://image.tmdb.org/t/p/w500/fKLKE5rMpFtTzsIEATAPzuFyTmV.jpg"
+    },
+    {
+      "nombre": "徐振轩",
+      "personaje": "Li Boze",
+      "foto": "https://image.tmdb.org/t/p/w500/3GeK90KDy6VaHEeTbN9e55LCBOp.jpg"
+    },
+    {
+      "nombre": "王籽苏",
+      "personaje": "Hai Tangqing",
+      "foto": "https://image.tmdb.org/t/p/w500/jqzlZ6EHNGBKdRDSek1XEhtexeq.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Yi Jun",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "匪我思存",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Yi Jun",
+      "rol": "Director"
+    },
+    {
+      "nombre": "那英",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.5,
+    "imdb": "tt37443650",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": "https://www.youtube.com/watch?v=5E0TonOHnY0"
+}
