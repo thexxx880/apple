@@ -1,0 +1,77 @@
+{
+  "id_tmdb": 298610,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/74gzuJ9CFLPfgYpQNJmFEsNAeyD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/lgJtcSWyybMicOFjao0shRt1JVo.png",
+  "titulo": "Muertos de amor",
+  "titulo_original": "오싹한 연애",
+  "fecha_estreno": "2026-07-18",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "puntuacion": 8.7,
+  "sinopsis": "Una heredera hotelera que ve fantasmas y un fiscal brillante unen fuerzas en una intensa investigación donde el romance surge entre misterios y peligros.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "박은빈",
+      "personaje": "Cheon Yeo-ri",
+      "foto": "https://image.tmdb.org/t/p/w500/2PqeVq0KV1pEUgeeSquk2ljfMR0.jpg"
+    },
+    {
+      "nombre": "양세종",
+      "personaje": "Ma Gang-uk",
+      "foto": "https://image.tmdb.org/t/p/w500/zQQixC3LXRvvbiecDFbNGIKe5Nc.jpg"
+    },
+    {
+      "nombre": "옹성우",
+      "personaje": "Kang Min-hwan",
+      "foto": "https://image.tmdb.org/t/p/w500/wkEE49MqC6oCeTC3YqMfmM0FOmt.jpg"
+    },
+    {
+      "nombre": "조혜주",
+      "personaje": "Cheon Ha-ri",
+      "foto": "https://image.tmdb.org/t/p/w500/7nBMavFQSdTK6ARlNgKaeCmYZ89.jpg"
+    },
+    {
+      "nombre": "백지원",
+      "personaje": "Ok Gye-hui",
+      "foto": "https://image.tmdb.org/t/p/w500/z8nW62LAHh3YW5Z1OlcK7hJcQ5S.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Lee Min-soo",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lee Min-soo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "최정미",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "황인호",
+      "rol": "Original Story"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.7,
+    "imdb": "tt40247521",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=gFvycajlifg"
+}
