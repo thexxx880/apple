@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 312523,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/vHp5N6Tq2fzEVp7eZ7vK04SRmzM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iTmOvi8vZeFntt3q7BuWsPugmal.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ifZSONpm6S4Zjax1nsUiOSGUstD.png",
+  "titulo": "S&X",
+  "titulo_original": "SとX﻿",
+  "fecha_estreno": "2026-08-20",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.833,
+  "sinopsis": "En su clínica, Ichito Shimotori ofrece terapia sexual y trata diversos casos íntimos..., mientras enfrenta su propia batalla en secreto.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "中島健人",
+      "personaje": "Ichito Shimotori",
+      "foto": "https://image.tmdb.org/t/p/w500/gKs2ondJ9iXtsgdxzjKASODQLS3.jpg"
+    },
+    {
+      "nombre": "新木優子",
+      "personaje": "Yumi Ichinose",
+      "foto": "https://image.tmdb.org/t/p/w500/8RZR3OuxqQMpVJJNN11IdI5j1u6.jpg"
+    },
+    {
+      "nombre": "三浦獠太",
+      "personaje": "Yuta Saigawa",
+      "foto": "https://image.tmdb.org/t/p/w500/wRyHnD53bruX5MGw21Z9kNzHHAN.jpg"
+    },
+    {
+      "nombre": "藤間爽子",
+      "personaje": "Marin Natsume",
+      "foto": "https://image.tmdb.org/t/p/w500/v69wYAQWwsCw6UoAXkepa8zrNRB.jpg"
+    },
+    {
+      "nombre": "中村蒼",
+      "personaje": "Shun Kazuma",
+      "foto": "https://image.tmdb.org/t/p/w500/melP3Udhsm8jpesyHURSFh3gGEL.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "瀬戸麻理子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "齋藤大輔",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "進威志",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "押田興将",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "草野翔吾",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "多田基生",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "吉田智子",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "瀬戸麻理子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "齋藤大輔",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "山田康介",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "ちゃんMari",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "西村昌幸",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "小林圭一",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "安藤真人",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Koji Shinoda",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Kana Masuda",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Hitomi Akiyama",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "進威志",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "押田興将",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "草野翔吾",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.833,
+    "imdb": "tt39365311",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=uNpa-qba6oM"
+}
