@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 300168,
+  "poster": "https://image.tmdb.org/t/p/w500/bNLYneTNnlfjf0jVUADlqA7RXaf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rnNkUJlo03a8D0utxiOrADstaMT.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9fDYY85PXweZcLQZNqcIINpvIR1.png",
+  "titulo": "Dragon Blade",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Historia",
+    "Acción",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.412,
+  "año": "2015",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "Un decurión de una Legión romana se verá solo y abandonado en medio de China tras una expedición fallida. Será allí donde se cruce con un heroico soldado chino con el que unirá sus fuerzas para combatir a un enemigo aún mayor que amenaza no sólo a China, sino a todo el mundo conocido.",
+  "fecha_estreno": "2015-02-19",
+  "titulo_original": "天將雄師",
+  "pais_origen": "Hong Kong",
+  "reparto": [
+    {
+      "nombre": "Jackie Chan",
+      "personaje": "Huo Han",
+      "foto": "https://image.tmdb.org/t/p/w500/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "nombre": "John Cusack",
+      "personaje": "Lucius",
+      "foto": "https://image.tmdb.org/t/p/w500/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+    },
+    {
+      "nombre": "Adrien Brody",
+      "personaje": "Tiberius",
+      "foto": "https://image.tmdb.org/t/p/w500/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+    },
+    {
+      "nombre": "Sharni Vinson",
+      "personaje": "The Queen",
+      "foto": "https://image.tmdb.org/t/p/w500/vy5c6P2S3kOA9iDg8OOagWo850t.jpg"
+    },
+    {
+      "nombre": "Kevin Lee",
+      "personaje": "Roman Soldier",
+      "foto": "https://image.tmdb.org/t/p/w500/569jeEGzXEdoTBJww26IpcmQ1uR.jpg"
+    },
+    {
+      "nombre": "Robert Peoples",
+      "personaje": "Roman Soldier",
+      "foto": "https://image.tmdb.org/t/p/w500/ueeeZ5R9bcCBzIG0mf5A9bkb6O3.jpg"
+    },
+    {
+      "nombre": "Tomer Oz",
+      "personaje": "Huo An General",
+      "foto": "https://image.tmdb.org/t/p/w500/9y3grtvYq8JMpzawlBAzs4rTsSA.jpg"
+    },
+    {
+      "nombre": "Alfred Hsing",
+      "personaje": "Han Soldier",
+      "foto": "https://image.tmdb.org/t/p/w500/b1cXnVypaxUzj7bq7GpyNAE6rCt.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "曾珮珊",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jackie Chan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "李仁港",
+      "rol": "Director"
+    },
+    {
+      "nombre": "李仁港",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brahim Achabbakhe",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "黎允文",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Jia Neng Huang",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Tony Cheng",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "李昭樺",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "何钧",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "鄭穎園",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Sunny Sun",
+      "rol": "Coordinating Producer"
+    },
+    {
+      "nombre": "Zhao Lei",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Zhao Lei",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Max Huang",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "施磊",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "李仁港",
+  "valoraciones": {
+    "tmdb": 6.412,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Visualizer Film Company",
+  "enlace_video": "https://gscdn.cam/video/embed/381gkg6o4nst",
+  "trailer": "https://www.youtube.com/watch?v=lwMlpp8GIAI"
+}
