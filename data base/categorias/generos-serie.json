@@ -1,5 +1,17 @@
 [
   {
+    "id_tmdb": 902,
+    "poster": "https://image.tmdb.org/t/p/w500/dJas6Y7lXzgPHgr4ro0qCOTgNiM.jpg",
+    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=902",
+    "type": "serie",
+    "año": "2000",
+    "titulo": "Yu-Gi-Oh! Duelo de Monstruos",
+    "generos": [
+      "Animación",
+      "Action & Adventure"
+    ]
+  },
+  {
     "id_tmdb": 45854,
     "poster": "https://image.tmdb.org/t/p/w500/uGOjTI1HQukcCU7wDCtQlnsBaG7.jpg",
     "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=45854",
@@ -2494,18 +2506,6 @@
       "Animación",
       "Action & Adventure",
       "Sci-Fi & Fantasy"
-    ]
-  },
-  {
-    "id_tmdb": 902,
-    "poster": "https://image.tmdb.org/t/p/w500/dJas6Y7lXzgPHgr4ro0qCOTgNiM.jpg",
-    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=902",
-    "type": "serie",
-    "año": "2000",
-    "titulo": "Yu-Gi-Oh! Duelo de Monstruos",
-    "generos": [
-      "Animación",
-      "Action & Adventure"
     ]
   },
   {
