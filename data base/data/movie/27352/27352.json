@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 27352,
+  "poster": "https://image.tmdb.org/t/p/w500/o8CjAqb58H3pmqVN8jysrO3sZXJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/deWrpB0Wv3oz6Wa7KsbqyC50BmM.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3pmJqMNL1JN5ZpHiQ2LADth02mQ.png",
+  "titulo": "Perdido en acción 3",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Bélica",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.744,
+  "año": "1988",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "La guerra de Vietnam llega a su caótico final. El coronel Braddock (Chuck Norris) busca a su mujer vietnamita, que está embarazada, entre el terror de la desesperada huida de la ciudad de Saigón. La embajada norteamericana está siendo evacuada, y tras una explosión Braddock cree que su mujer ha fallecido...",
+  "fecha_estreno": "1988-01-22",
+  "titulo_original": "Braddock: Missing in Action III",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chuck Norris",
+      "personaje": "Col. James Braddock",
+      "foto": "https://image.tmdb.org/t/p/w500/m3uLikdhi9qObRvGVHsKX5H93lR.jpg"
+    },
+    {
+      "nombre": "Aki Aleong",
+      "personaje": "Gen. Quoc",
+      "foto": "https://image.tmdb.org/t/p/w500/Aq3IiDVCgdiOc6nSpzCcmBJoZR4.jpg"
+    },
+    {
+      "nombre": "Yehuda Efroni",
+      "personaje": "Rev. Polanski",
+      "foto": "https://image.tmdb.org/t/p/w500/iuQgd0NUfMBGAK5iZ6T9wyl3hEX.jpg"
+    },
+    {
+      "nombre": "Floyd Levine",
+      "personaje": "Gen. Duncan",
+      "foto": "https://image.tmdb.org/t/p/w500/eM3IThey5aY0jVIrA6Wx61KBUE1.jpg"
+    },
+    {
+      "nombre": "Jack Rader",
+      "personaje": "Littlejohn",
+      "foto": "https://image.tmdb.org/t/p/w500/veZGDbgHdds3n7f6DJn6oneKqMc.jpg"
+    },
+    {
+      "nombre": "Keith David",
+      "personaje": "Embassy Gate Captain",
+      "foto": "https://image.tmdb.org/t/p/w500/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+    },
+    {
+      "nombre": "Jeff Habberstad",
+      "personaje": "U.S. Helicopter Pilot",
+      "foto": "https://image.tmdb.org/t/p/w500/idZDMv2dVRxttymSJLSBQsbjS9N.jpg"
+    },
+    {
+      "nombre": "BJ Davis",
+      "personaje": "Helicopter Crew Member",
+      "foto": "https://image.tmdb.org/t/p/w500/2pQ7B35DvNmxuh0Gek0C7wz1Ci9.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chuck Norris",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Aaron Norris",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James Bruner",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Menahem Golan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yoram Globus",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Steve Bing",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Arthur Silver",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Ken Bornstein",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael J. Duthie",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Larry Levinson",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jay Chattaway",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "João Fernandes",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jon Curtis Price",
+      "rol": "Additional Photography"
+    },
+    {
+      "nombre": "Jon Curtis Price",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Jon H. Epstein",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "James Bryan",
+      "rol": "Sound Effects Editor"
+    }
+  ],
+  "director": "Aaron Norris",
+  "valoraciones": {
+    "tmdb": 5.744,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Golan-Globus Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/xi7gbqmd77c6",
+  "trailer": "https://www.youtube.com/watch?v=BzxjMRdxAqM"
+}
