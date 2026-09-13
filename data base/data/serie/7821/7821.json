@@ -1,0 +1,70 @@
+{
+  "id_tmdb": 7821,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xeDaYUWycTmk4yQ0WAZzQvk38af.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hAAQlQfCwRfHWftE3vuHe5nDq5a.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7AMKhnVHaTGpKFmHBS91kXH53J8.png",
+  "titulo": "El Chavo Animado",
+  "titulo_original": "El Chavo Animado",
+  "fecha_estreno": "2006-10-21",
+  "duracion": "23min",
+  "año": "2006",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids",
+    "Familia"
+  ],
+  "puntuacion": 7.65,
+  "sinopsis": "Una versión de dibujos animados basados en la serie El Chavo, la cual fue producida originalmente en los años 70 y 80. Los episodios del Chavo animado se basan en la serie original con los libretos de Roberto Gómez Bolaños.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Sebastián Llapur",
+      "personaje": "Federico \"Quico\" (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jWlB0OHlSSajwLCWCeDcIU1jmqy.jpg"
+    },
+    {
+      "nombre": "Víctor Delgado",
+      "personaje": "Senón Barriga y Pesado \"Señor Barriga\" (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hDEQCSYILTNi26WJ2i22MuhzY6H.jpg"
+    },
+    {
+      "nombre": "Erica Edwards",
+      "personaje": "Doña Florinda / Popis (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/l9U0KLIyYz2SqqKdC9WEEmXoFDi.jpg"
+    },
+    {
+      "nombre": "Jesús Guzmán",
+      "personaje": "El Chavo del 8 (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/m3bbEELSWpZaF4bbyQT8e0BkF7w.jpg"
+    },
+    {
+      "nombre": "Mario Castañeda",
+      "personaje": "Don Ramón / Ñoño (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rXonFHXqbE4cFzAM4NhHsl7ptvM.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Chespirito",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chespirito",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.65,
+    "imdb": "tt0883625",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": ""
+}
