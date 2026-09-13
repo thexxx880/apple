@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 949,
+  "poster": "https://image.tmdb.org/t/p/w500/c1qMPl0takx8I4JFxDXMAEEOKXg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uI22JkEMediWyiRqhllNqeeGtW0.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/yZNW4ukVeazN1U37XKRUWTWgnTw.png",
+  "titulo": "Fuego contra Fuego",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Acción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 7.944,
+  "año": "1995",
+  "duracion": "2h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Neil McCauley es un experto ladrón. Su filosofía consiste en vivir sin ataduras que puedan constituir un obstáculo, si las cosas se complican. Su banda la forman criminales profesionales tan cualificados que pueden impresionar incluso al detective Vincent Hanna. Pero Hannah vive tan obsesionado con su trabajo que llega incluso a poner en peligro su relación sentimental. Cuando la banda de McCauley prepara el golpe definitivo y el equipo de Hannah intenta evitarlo, cada uno de ellos comprende que tiene que vérselas con una de las mentes más brillantes a la que se ha enfrentado en su carrera.",
+  "fecha_estreno": "1995-12-15",
+  "titulo_original": "Heat",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Al Pacino",
+      "personaje": "Lt. Vincent Hanna",
+      "foto": "https://image.tmdb.org/t/p/w500/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+    },
+    {
+      "nombre": "Robert De Niro",
+      "personaje": "Neil McCauley",
+      "foto": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "nombre": "Val Kilmer",
+      "personaje": "Chris Shiherlis",
+      "foto": "https://image.tmdb.org/t/p/w500/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg"
+    },
+    {
+      "nombre": "Jon Voight",
+      "personaje": "Nate",
+      "foto": "https://image.tmdb.org/t/p/w500/bmfwKaLxUt4qck2UJgm2maWVMTR.jpg"
+    },
+    {
+      "nombre": "Tom Sizemore",
+      "personaje": "Michael Cheritto",
+      "foto": "https://image.tmdb.org/t/p/w500/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+    },
+    {
+      "nombre": "Diane Venora",
+      "personaje": "Justine",
+      "foto": "https://image.tmdb.org/t/p/w500/mZWVEZ18jMiJuS3A56tejPipdo8.jpg"
+    },
+    {
+      "nombre": "Amy Brenneman",
+      "personaje": "Eady",
+      "foto": "https://image.tmdb.org/t/p/w500/4FJNcWqnYciJzsZRsORZuyxdKfb.jpg"
+    },
+    {
+      "nombre": "Ashley Judd",
+      "personaje": "Charlene Shiherlis",
+      "foto": "https://image.tmdb.org/t/p/w500/5771ZxVIs5rQbI1SV8TOlAFcF15.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Art Linson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Mann",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Mann",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Mann",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dov Hoenig",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Per Hallberg",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Bonnie Timmermann",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Joel Kramer",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Dante Spinotti",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Pasquale Buba",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Elliot Goldenthal",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Deborah L. Scott",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Neil Krepela",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "William Goldenberg",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Tony Brubaker",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Terry D. Frazee",
+      "rol": "Special Effects Coordinator"
+    }
+  ],
+  "director": "Michael Mann",
+  "valoraciones": {
+    "tmdb": 7.944,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://vimeos.net/embed-v28kg4uyw0ue.html",
+  "trailer": "https://www.youtube.com/watch?v=14oNcFxiVaQ"
+}
