@@ -1,0 +1,123 @@
+{
+  "id_tmdb": 1506560,
+  "poster": "https://image.tmdb.org/t/p/w500/7zgvtsSPFH4rnV4UEXt9aqNKzIB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tBZMwg5oCJn8P0pStfuOMhhSQD3.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vK0HJA8iXg3hLAcq3brLSMRGK6g.png",
+  "titulo": "La Furia de los Thundermans",
+  "trending": false,
+  "generos": [
+    "Película de TV",
+    "Familia",
+    "Ciencia ficción",
+    "Acción",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.74,
+  "año": "2026",
+  "duracion": "1h 12min",
+  "edad_minima": 13,
+  "sinopsis": "Los nuevos poderes energéticos de Chloe dividen a los Thundermans sobre si entrenarla en casa o enviarla a una escuela de héroes. Pero cuando la decana de la escuela revela un peligroso plan, la familia se reúne para salvar a Chloe y a la ciudad.",
+  "fecha_estreno": "2026-09-03",
+  "titulo_original": "Clash of the Thundermans",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Kira Kosarin",
+      "personaje": "Phoebe Thunderman",
+      "foto": "https://image.tmdb.org/t/p/w500/rWshWHUPTlw3zIsgzXe3oo94mDP.jpg"
+    },
+    {
+      "nombre": "Jack Griffo",
+      "personaje": "Max Thunderman",
+      "foto": "https://image.tmdb.org/t/p/w500/tG3K8Lpwb0FXHEMLTvCbwUyH1LR.jpg"
+    },
+    {
+      "nombre": "Maya Le Clark",
+      "personaje": "Chloe Thunderman",
+      "foto": "https://image.tmdb.org/t/p/w500/5FVWT2mKZYWk7dDmL9KGURwY3Bb.jpg"
+    },
+    {
+      "nombre": "Rosa Blasi",
+      "personaje": "Barb Thunderman",
+      "foto": "https://image.tmdb.org/t/p/w500/lhRsVoOXAx0bwn6eJcx38njZEMS.jpg"
+    },
+    {
+      "nombre": "Chris Tallman",
+      "personaje": "Hank Thunderman",
+      "foto": "https://image.tmdb.org/t/p/w500/7ft585219p5A3HdYFLyM3Dxawi1.jpg"
+    },
+    {
+      "nombre": "Diego Velazquez",
+      "personaje": "Billy Thunderman",
+      "foto": "https://image.tmdb.org/t/p/w500/sYfMqj0BO6y5fNB80AAbKOfbMTR.jpg"
+    },
+    {
+      "nombre": "Addison Riecke",
+      "personaje": "Nora Thunderman",
+      "foto": "https://image.tmdb.org/t/p/w500/bLZDfktybcMbC2qp46G9LJ5L1UX.jpg"
+    },
+    {
+      "nombre": "Daniele Gaither",
+      "personaje": "President Kickbutt",
+      "foto": "https://image.tmdb.org/t/p/w500/jkQwV1jOwCCI5uTe99dS4ZfYc9p.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Trevor Kirschner",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jed Spingarn",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sean William Cunningham",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Marc Dworkin",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kira Kosarin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jack Griffo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jed Spingarn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jed Spingarn",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Sean William Cunningham",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Frederik Wiedmann",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Carlos González",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Trevor Kirschner",
+  "valoraciones": {
+    "tmdb": 6.74,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Television Studios",
+  "enlace_video": "https://vimeos.net/embed-su5neszijuj9.html",
+  "trailer": "https://www.youtube.com/watch?v=Tui9Jpmyb6Q"
+}
