@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 202783,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jC6Ml45QAcPVXpG3NKU9fBM8cGd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/viQZtznvR20oTTSbXp6MPAWkGB2.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/x9i9F584lN7ActLLqwjKxOibAIY.png",
+  "titulo": "La paradoja del asesino",
+  "titulo_original": "살인자ㅇ난감",
+  "fecha_estreno": "2024-02-09",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Comedia",
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 7.364,
+  "sinopsis": "Cuando una muerte accidental lleva a muchas más, un joven común y corriente y un astuto detective quedan atrapados en un interminable juego del gato y el ratón.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Choi Woo-shik",
+      "personaje": "Lee Tang",
+      "foto": "https://image.tmdb.org/t/p/w500/9mZ9DNopxpCLUjXd0rLd42TLamw.jpg"
+    },
+    {
+      "nombre": "손석구",
+      "personaje": "Jang Nan-gam",
+      "foto": "https://image.tmdb.org/t/p/w500/natZWFVBAWLKWCYebgVGywHtsME.jpg"
+    },
+    {
+      "nombre": "이희준",
+      "personaje": "Song Chon",
+      "foto": "https://image.tmdb.org/t/p/w500/4slyXnHbKgzmeyJNetBSORgDDEF.jpg"
+    },
+    {
+      "nombre": "권다함",
+      "personaje": "Ahn Yong-jae",
+      "foto": "https://image.tmdb.org/t/p/w500/ulInuoKvagzuCPmuRNQiFyHLFLv.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Lee Chang-hee",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Shon Seung-ae",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kim Soon-ho",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jung Su-jin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kim Ji-soo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "김지연",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lee Chang-hee",
+      "rol": "Director"
+    },
+    {
+      "nombre": "김다민",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Shon Seung-ae",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lee Chang-hee",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Kim Soon-ho",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jung Su-jin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kkomabi",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Park Se-seung",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Kim Ji-soo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shin Seung-hoon",
+      "rol": "Lighting Director"
+    },
+    {
+      "nombre": "안성일",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Kim Dong-guk",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "진훈",
+      "rol": "Props"
+    },
+    {
+      "nombre": "이나겸",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "김형직",
+      "rol": "Set Decoration"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.364,
+    "imdb": "tt28642796",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=X2rXQ0rEfPI"
+}
