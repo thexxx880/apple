@@ -1,0 +1,101 @@
+{
+  "id_tmdb": 391262,
+  "poster": "https://image.tmdb.org/t/p/w500/7Q8U3MIfpJB1SzgSEgUOk63hy5r.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/u3Dp8mDV8HQxoiysNgppFVc74m2.jpg",
+  "logo": null,
+  "titulo": "Curve",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7,
+  "año": "2016",
+  "duracion": "0h 10min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2016-04-16",
+  "titulo_original": "Curve",
+  "pais_origen": "Australia",
+  "reparto": [
+    {
+      "nombre": "Laura Jane Turner",
+      "personaje": "Woman",
+      "foto": "https://image.tmdb.org/t/p/w500/nkHiIuEQenWF1lXO9U96fd5ZRw.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Tim Egan",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tim Egan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ahren Morris",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tim Egan",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Tim Egan",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Ruth Twardy",
+      "rol": "Scenic Artist"
+    },
+    {
+      "nombre": "Tom Savige",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "Cassie Dart",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "Krystal Shultheiss",
+      "rol": "Compositor"
+    },
+    {
+      "nombre": "Tim McCormick",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "Rob MacKenzie",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Sarah Alkemade",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Mia'Kate Russell",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Rob MacKenzie",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Daragh Doyle",
+      "rol": "3D Artist"
+    }
+  ],
+  "director": "Tim Egan",
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lodestone films",
+  "enlace_video": "https://vidmoly.org/embed-gwr8ydiumszd.html",
+  "trailer": "https://www.youtube.com/watch?v=mQIrhKhnnaA"
+}
