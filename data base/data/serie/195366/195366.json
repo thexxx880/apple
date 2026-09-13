@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 195366,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3YVQ6gsDnMYQWQCavtWE5bSfyJ2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2UuWkqlDFT13MxNovuv9DF56j3t.jpg",
+  "logo": "",
+  "titulo": "El Último Rey: El Hijo del Pueblo",
+  "titulo_original": "El último rey: El hijo del pueblo",
+  "fecha_estreno": "2022-03-14",
+  "duracion": "45min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.318,
+  "sinopsis": "La vida de Vicente Fernández, quien antes de llegar a cantar en el Estadio Azteca pintaba casas, tenía un matrimonio estable y luego intentó enmendar su ausencia como padre cuando se encomendó a Dios para salvar la vida de uno de sus hijos.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Miguel Garza",
+      "personaje": "Raúl Velasco",
+      "foto": ""
+    },
+    {
+      "nombre": "Pablo Montero",
+      "personaje": "Vicente Fernández",
+      "foto": ""
+    },
+    {
+      "nombre": "Angélica Aragón",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/ejduK7b15cBN2Gr5FRIQOdoNrXS.jpg"
+    },
+    {
+      "nombre": "Salvador Sánchez",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/ywDIDiK39kAKQ9TLNMgq7Z4avmJ.jpg"
+    },
+    {
+      "nombre": "Emilio Osorio",
+      "personaje": "El potrillo",
+      "foto": "https://image.tmdb.org/t/p/w500/3XMYnWscAeGEtDCQXYTKkFweniz.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.318,
+    "imdb": "tt17048678",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=epx4kOTHrg8"
+}
