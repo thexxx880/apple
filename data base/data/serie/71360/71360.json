@@ -1,0 +1,72 @@
+{
+  "id_tmdb": 71360,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/f05J9joLN57YAKMlorFVtzlTOYN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fpTzXuP25gO02sAIrSGnjSA9tuX.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4aYAWCKnjUsjIPwWIDCnhHB4YEt.png",
+  "titulo": "Yu-Gi-Oh! VRAINS",
+  "titulo_original": "遊☆戯☆王VRAINS",
+  "fecha_estreno": "2017-05-10",
+  "duracion": "24min",
+  "año": "2017",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Animación",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.037,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "石毛翔弥",
+      "personaje": "Yuusaku Fujiki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ohW9TNSoiL9n5SgLBbAj85wJXAA.jpg"
+    },
+    {
+      "nombre": "武内駿輔",
+      "personaje": "Ryoken Kogami (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p1bD76bPptJ41mKRtv0mIr8ZcvO.jpg"
+    },
+    {
+      "nombre": "櫻井孝宏",
+      "personaje": "Ai (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+    },
+    {
+      "nombre": "梶裕貴",
+      "personaje": "Takeru Homura (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+    },
+    {
+      "nombre": "八代拓",
+      "personaje": "Flame (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eVdB6myaNJ4h38UU9hHHlsaCWHn.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "猪俣泰史",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "吉田伸",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "原憲一",
+      "rol": "Character Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.037,
+    "imdb": "tt5628740",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
