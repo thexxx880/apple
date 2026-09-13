@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 1433929,
+  "poster": "https://image.tmdb.org/t/p/w500/xPaoGDyb7C30rBVDqLidUNl8Ef1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2Pibybzy2hSe74KTNAxja4OJ5hj.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/gja7lNXXYHWaZZZtvy4aknRni9t.png",
+  "titulo": "N121: Ultima Parada",
+  "trending": false,
+  "generos": [
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.1,
+  "año": "2026",
+  "duracion": "2h 0min",
+  "edad_minima": 13,
+  "sinopsis": "Aïssa, Oscar y Simon son tres jóvenes amigos que, tras una noche de fiesta en París, suben al autobús nocturno 121 para volver a casa. Pero una pequeña pelea con otro pasajero desencadena una espiral de malentendidos y tensiones que convierten el viaje en una peligrosa huida. La situación se complica cada vez más, mientras el autobús recorre la ciudad con la policía pisándoles los talones.",
+  "fecha_estreno": "2026-02-04",
+  "titulo_original": "N121 Bus de nuit",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Riadh Belaïche",
+      "personaje": "Aïssa",
+      "foto": "https://image.tmdb.org/t/p/w500/225hxWQ49iK5pFbyZes5YhDDecc.jpg"
+    },
+    {
+      "nombre": "Bakary Diombera",
+      "personaje": "Oscar",
+      "foto": "https://image.tmdb.org/t/p/w500/3huF1EzLjKDF58up144qsftH6YZ.jpg"
+    },
+    {
+      "nombre": "Gaspard Gevin-Hié",
+      "personaje": "Simon",
+      "foto": "https://image.tmdb.org/t/p/w500/jC37cl2MapwNsHjOXecOlSJg31d.jpg"
+    },
+    {
+      "nombre": "Mylène Jampanoï",
+      "personaje": "Johanna",
+      "foto": "https://image.tmdb.org/t/p/w500/mTEI86ajYXgOLimGrOKxtHFV1Ek.jpg"
+    },
+    {
+      "nombre": "Paola Locatelli",
+      "personaje": "Mona",
+      "foto": "https://image.tmdb.org/t/p/w500/mWojsDCUKV6LwfMjVYTrDCLSEyO.jpg"
+    },
+    {
+      "nombre": "Arben Bajraktaraj",
+      "personaje": "Dimitri",
+      "foto": "https://image.tmdb.org/t/p/w500/gohEi2zGCW40tah5ZJGZlHukmfB.jpg"
+    },
+    {
+      "nombre": "Jérémie Covillault",
+      "personaje": "Barth",
+      "foto": "https://image.tmdb.org/t/p/w500/z2Iya5Rm5UA31RDzBIkrabFboSQ.jpg"
+    },
+    {
+      "nombre": "Damien Jouillerot",
+      "personaje": "Philippe",
+      "foto": "https://image.tmdb.org/t/p/w500/tVlPUpSCg4fONZFGpq4kZDuTfzp.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Morade Aïssaoui",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Morade Aïssaoui",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sandra Karim",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Julien Madon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aimée Buidine",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sledge Bidounga",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kamel Guemra",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ludovic Zuili",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ludovic Zuili",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "François-Xavier Decraene",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Cloé Garbay",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Laurent Jacobs",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Bastien Sirodot",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Paul Sabin",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Camille Reysset",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Meriem Amari",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Antoine Dore",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jérôme Wargnier",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Grégory Bruneau",
+      "rol": "Unit Manager"
+    },
+    {
+      "nombre": "Martin Guigues",
+      "rol": "Assistant Production Manager"
+    }
+  ],
+  "director": "Morade Aïssaoui",
+  "valoraciones": {
+    "tmdb": 6.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Ripley films",
+  "enlace_video": "https://streamwish.to/e/9yti86unagax",
+  "trailer": ""
+}
