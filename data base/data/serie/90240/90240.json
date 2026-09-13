@@ -1,0 +1,120 @@
+{
+  "id_tmdb": 90240,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jm58Z3zG5G4MLcKj26sidNIf1tw.jpg",
+  "backdrop": "",
+  "logo": "",
+  "titulo": "Monte Calvario",
+  "titulo_original": "Monte Calvario",
+  "fecha_estreno": "1986-03-17",
+  "duracion": "45min",
+  "año": "1986",
+  "trending": false,
+  "generos": [
+    "Soap",
+    "Drama"
+  ],
+  "puntuacion": 6.333,
+  "sinopsis": "",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Edith González",
+      "personaje": "Ana Rosa Pérez Montalbán",
+      "foto": "https://image.tmdb.org/t/p/w500/hROLymdQizy3FLpDF3TNrEkQVAG.jpg"
+    },
+    {
+      "nombre": "Arturo Peniche",
+      "personaje": "Dr. Gustavo Seckerman",
+      "foto": "https://image.tmdb.org/t/p/w500/doxAMkE7Mxaz15oIyTOrxQmWLox.jpg"
+    },
+    {
+      "nombre": "José Alonso",
+      "personaje": "Octavio Montero Narváez",
+      "foto": "https://image.tmdb.org/t/p/w500/8P46hQQxU8u6jT9lWKSwJKN1cdw.jpg"
+    },
+    {
+      "nombre": "Ursula Prats",
+      "personaje": "Olivia Montero Narváez",
+      "foto": ""
+    },
+    {
+      "nombre": "Aurora Molina",
+      "personaje": "Chana",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ernesto Arreola",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Valentín Pimstein",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ernesto Arreola",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Delia Fiallo",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Carlos Romero",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Valeria Phillips",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Ernesto Arreola",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Valentín Pimstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alfredo Frutos",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Alejandro García",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Salvador Mejía",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Ernesto Arreola",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Rosalba Santoyo",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Javier Ortega",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Angelli Nesma Medina",
+      "rol": "Production Coordinator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.333,
+    "imdb": "tt0215429",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": ""
+}
