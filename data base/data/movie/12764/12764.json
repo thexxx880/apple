@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 12764,
+  "poster": "https://image.tmdb.org/t/p/w500/8j3vhv2IVwvV7UQFf5YtuDLcO0h.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7xADC2HSQw9fAQuPMPsZS2XVPV7.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4NYvMBSpwgwnVvxexxIzd2LGKuR.png",
+  "titulo": "Perdido en acción 2",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Bélica",
+    "Drama",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.823,
+  "año": "1985",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "La guerra de Vietnam hace tiempo que terminó, pero el coronel Braddock (Chuck Norris) está prisionero con su comando en uno de los campos de concentración más duros de la región. Sin perspectivas de poder ser liberados, Braddock y sus hombres planean un plan de fuga...",
+  "fecha_estreno": "1985-03-01",
+  "titulo_original": "Missing in Action 2: The Beginning",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chuck Norris",
+      "personaje": "Colonel James Braddock",
+      "foto": "https://image.tmdb.org/t/p/w500/m3uLikdhi9qObRvGVHsKX5H93lR.jpg"
+    },
+    {
+      "nombre": "Soon-Tek Oh",
+      "personaje": "Colonel Yin",
+      "foto": "https://image.tmdb.org/t/p/w500/m2qkVJLmfcNYQe85bJ5iuF6e8ha.jpg"
+    },
+    {
+      "nombre": "Steven Williams",
+      "personaje": "Captain David Nester",
+      "foto": "https://image.tmdb.org/t/p/w500/nOsMJ7zPykxlPkjgoMrk677BaqQ.jpg"
+    },
+    {
+      "nombre": "John Wesley",
+      "personaje": "Frankie",
+      "foto": "https://image.tmdb.org/t/p/w500/kD6BbJYQhq3XxCTw4UvS3AuBMRl.jpg"
+    },
+    {
+      "nombre": "Professor Toru Tanaka",
+      "personaje": "Lao",
+      "foto": "https://image.tmdb.org/t/p/w500/yDQO9ejJ2UOo87jCVLvxsULCY4D.jpg"
+    },
+    {
+      "nombre": "John Otrin",
+      "personaje": "Soldier",
+      "foto": "https://image.tmdb.org/t/p/w500/pszSyyhGYG5DrRTQTaBPPHLn7Ga.jpg"
+    },
+    {
+      "nombre": "Christopher Cary",
+      "personaje": "Emerson",
+      "foto": "https://image.tmdb.org/t/p/w500/8OtPURlaSjcpcTZW6I00BawCmGP.jpg"
+    },
+    {
+      "nombre": "Joseph Hieu",
+      "personaje": "Guard",
+      "foto": "https://image.tmdb.org/t/p/w500/aPIMi3N78XGNrkUqJjxyYp1I4h.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Arthur Silver",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Larry Levinson",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Yoram Globus",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steve Bing",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lance Hool",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Menahem Golan",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brian May",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Mark Conte",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jorge Stahl Jr.",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Marcus Manton",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jeff Imada",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "BJ Davis",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Michael Baugh",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "David Varod",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Poppy Cannon-Reese",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "Moni Mansano",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Lilly Benyair-Gart",
+      "rol": "Assistant Makeup Artist"
+    },
+    {
+      "nombre": "Robert Sidell",
+      "rol": "Key Makeup Artist"
+    }
+  ],
+  "director": "Lance Hool",
+  "valoraciones": {
+    "tmdb": 5.823,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Golan-Globus Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/g7thuixqm2l9",
+  "trailer": "https://www.youtube.com/watch?v=eap1lshAjIg"
+}
