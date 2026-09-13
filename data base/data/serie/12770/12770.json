@@ -1,0 +1,68 @@
+{
+  "id_tmdb": 12770,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1IDNuZg5jxPIGBtktn97x2OIZNu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/i7SSR8SHkYLckcoMhtv6Mhi8Ecm.jpg",
+  "logo": "",
+  "titulo": "Corazón salvaje",
+  "titulo_original": "Corazón salvaje",
+  "fecha_estreno": "1977-09-26",
+  "duracion": "30min",
+  "año": "1977",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Action & Adventure"
+  ],
+  "puntuacion": 6,
+  "sinopsis": "",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Angélica María",
+      "personaje": "Mónica Molnar",
+      "foto": "https://image.tmdb.org/t/p/w500/lOOCxxanJgfJEKvhPOk071ZJsFD.jpg"
+    },
+    {
+      "nombre": "Martín Cortés",
+      "personaje": "Juan del Diablo",
+      "foto": ""
+    },
+    {
+      "nombre": "Susana Dosamantes",
+      "personaje": "Aimee Molnar",
+      "foto": "https://image.tmdb.org/t/p/w500/zuJkgXFGF9Jb1H1QHDLEBn2TkPD.jpg"
+    },
+    {
+      "nombre": "Fernando Allende",
+      "personaje": "Renato D'Autremont de la Motte et Valois",
+      "foto": "https://image.tmdb.org/t/p/w500/i1iAWnOWrkqj7uo5315DEAlfWai.jpg"
+    },
+    {
+      "nombre": "Bertha Moss",
+      "personaje": "Sofía D'Autremont de la Motte et Valois",
+      "foto": "https://image.tmdb.org/t/p/w500/7ZpDFfyuJWJ0zEdjZZa9dhvxuvL.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Alfredo Saldaña",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alfredo Saldaña",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6,
+    "imdb": "tt0324739",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": ""
+}
