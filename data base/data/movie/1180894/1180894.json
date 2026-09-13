@@ -1,0 +1,115 @@
+{
+  "id_tmdb": 1180894,
+  "poster": "https://image.tmdb.org/t/p/w500/quKC1fvq0yqi7Xej9MBAUNBcXsC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wRRvCEb871lZPcssGwEnJt0l3KN.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/jddLK8c0r2ZDnr0cJoC7qCDA0fJ.png",
+  "titulo": "Bajo tus pies",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 4.9,
+  "año": "2026",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Isabel se muda con sus dos hijos a un edificio prestigioso con un alquiler económico y un curioso sistema de admisión, pero tres ancianas vecinas del piso de abajo perturban su tranquilidad con gritos nocturnos que dan un giro oscuro a sus vidas.",
+  "fecha_estreno": "2026-02-19",
+  "titulo_original": "Bajo tus pies",
+  "pais_origen": "Argentina",
+  "reparto": [
+    {
+      "nombre": "Maribel Verdú",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg"
+    },
+    {
+      "nombre": "Sofía Otero",
+      "personaje": "Lucía",
+      "foto": "https://image.tmdb.org/t/p/w500/4B2F3TwZlpDnyBPWkEk2kv1zj12.jpg"
+    },
+    {
+      "nombre": "Erik Probanza",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/axbNHusACv26Ys8YDCH7CdW7p4m.jpg"
+    },
+    {
+      "nombre": "Urko Olazábal",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/fkLYtgVFIim0mbmdBXjkoogjTSm.jpg"
+    },
+    {
+      "nombre": "Marcelo Galván",
+      "personaje": "",
+      "foto": null
+    },
+    {
+      "nombre": "Ibai Atanes",
+      "personaje": "",
+      "foto": null
+    },
+    {
+      "nombre": "Zorion Eguileor",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/vKv31N3RKzwd82REqsl37aOeXcr.jpg"
+    },
+    {
+      "nombre": "Sandra Ferrús",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/9iJdwxJUJSIts1EoE5Of1vpjolm.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Cristian Bernard",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Cristian Bernard",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Hernán Moyano",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ana Esperanza Villar Romarís",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tomas Leonhardt",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Sergio Figueroa",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Félix Monti",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Txabe Atxa",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Florencia Inés González",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Amaia Ajuria",
+      "rol": "Art Department Assistant"
+    }
+  ],
+  "director": "Cristian Bernard",
+  "valoraciones": {
+    "tmdb": 4.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Basque Films",
+  "enlace_video": "https://hglink.to/e/mjusdkmm8oic",
+  "trailer": "https://www.youtube.com/watch?v=2f2IUUapOzA"
+}
