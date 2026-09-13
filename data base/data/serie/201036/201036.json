@@ -1,0 +1,103 @@
+{
+  "id_tmdb": 201036,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/dpawzsaoh6n4QLNZknE5lgHZPAq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/v81vwZqbGmlur3DnUaz2VWsl9LB.jpg",
+  "logo": "",
+  "titulo": "Pueblo chico, infierno grande",
+  "titulo_original": "Pueblo chico, infierno grande",
+  "fecha_estreno": "1997-01-06",
+  "duracion": "22min",
+  "año": "1997",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8,
+  "sinopsis": "",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Verónica Castro",
+      "personaje": "Leonarda Ruán",
+      "foto": "https://image.tmdb.org/t/p/w500/6ZWR2qGA3Dc54YUunU6qn3WQioC.jpg"
+    },
+    {
+      "nombre": "Juan Soler",
+      "personaje": "Génaro Onchi",
+      "foto": "https://image.tmdb.org/t/p/w500/1GsbilAFEPon8erTCywiFutFjrB.jpg"
+    },
+    {
+      "nombre": "Guillermo Capetillo",
+      "personaje": "Hermilo Jaimez",
+      "foto": "https://image.tmdb.org/t/p/w500/y2Ykc4scjJad4H9sLJiOv4QCtGH.jpg"
+    },
+    {
+      "nombre": "Alma Delfina",
+      "personaje": "Magdalena",
+      "foto": "https://image.tmdb.org/t/p/w500/zfMaMNGPdRMDAZ2HOVpqfjfpMJh.jpg"
+    },
+    {
+      "nombre": "Luis Gimeno",
+      "personaje": "Padre Arceo",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Benjamín Cann",
+      "rol": "Director"
+    },
+    {
+      "nombre": "José Alberto Castro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ernesto Hernández",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mario Hernández",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sergio Schmucler",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Benjamín Cann",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Javier Ruán",
+      "rol": "Story"
+    },
+    {
+      "nombre": "José Alberto Castro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Verónica Castro",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Begoña Sánchez Fernández",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ernesto Hernández",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": "tt0211850",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": ""
+}
