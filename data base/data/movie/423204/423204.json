@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 423204,
+  "poster": "https://image.tmdb.org/t/p/w500/zC8HSq4xWsPgPDjgmlFix4VMtaD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sGqqnvOqJg2HDHrjtCPIlCwF4Mu.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ytbylI7X6H68OS1vsmjByVJ0XCl.png",
+  "titulo": "Agente bajo fuego",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.612,
+  "año": "2019",
+  "duracion": "2h 2min",
+  "edad_minima": 13,
+  "sinopsis": "Después de un ataque traicionero, el agente del Servicio Secreto Mike Banning es acusado de intentar asesinar al Presidente Trumbull. Perseguido por sus propios colegas y por el FBI, Banning comienza una carrera contrarreloj para limpiar su nombre.",
+  "fecha_estreno": "2019-08-21",
+  "titulo_original": "Angel Has Fallen",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Gerard Butler",
+      "personaje": "Mike Banning",
+      "foto": "https://image.tmdb.org/t/p/w500/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+    },
+    {
+      "nombre": "Morgan Freeman",
+      "personaje": "Alan Trumbull",
+      "foto": "https://image.tmdb.org/t/p/w500/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+    },
+    {
+      "nombre": "Jada Pinkett Smith",
+      "personaje": "Agent Thompson",
+      "foto": "https://image.tmdb.org/t/p/w500/3RyvVVSlgRbZANDFkYiAsRMaHW.jpg"
+    },
+    {
+      "nombre": "Nick Nolte",
+      "personaje": "Clay Banning",
+      "foto": "https://image.tmdb.org/t/p/w500/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+      "nombre": "Danny Huston",
+      "personaje": "Wade Jennings",
+      "foto": "https://image.tmdb.org/t/p/w500/mNz9t7MNANopavbLgcsZMMQBJ0u.jpg"
+    },
+    {
+      "nombre": "Tim Blake Nelson",
+      "personaje": "VP Kirby",
+      "foto": "https://image.tmdb.org/t/p/w500/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+    },
+    {
+      "nombre": "Lance Reddick",
+      "personaje": "David Gentry",
+      "foto": "https://image.tmdb.org/t/p/w500/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+    },
+    {
+      "nombre": "Frederick Schmidt",
+      "personaje": "Travis Cole",
+      "foto": "https://image.tmdb.org/t/p/w500/uJbO9kaUJEdE3wlX8XUAf9bIVEe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ric Roman Waugh",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Les Weldon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Mark Kamen",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Yariv Lerner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Katrin Benedikt",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Matt Cook",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Creighton Rothenberger",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Alan Siegel",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Linda Brenon",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Alex Fenn",
+      "rol": "Associate Editor"
+    },
+    {
+      "nombre": "Oleg Belogorsky",
+      "rol": "ADR Mixer"
+    },
+    {
+      "nombre": "Simon Diggins",
+      "rol": "ADR Mixer"
+    },
+    {
+      "nombre": "George Lee",
+      "rol": "Assistant Sound Editor"
+    },
+    {
+      "nombre": "Monika Radwańska",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Zoe Freed",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Adam Horley",
+      "rol": "ADR Editor"
+    },
+    {
+      "nombre": "Glen Gathard",
+      "rol": "Foley Mixer"
+    },
+    {
+      "nombre": "Mark DeSimone",
+      "rol": "ADR Mixer"
+    },
+    {
+      "nombre": "Cheryl Goodbody",
+      "rol": "Post Production Coordinator"
+    },
+    {
+      "nombre": "Rebecca Heathcote",
+      "rol": "Foley Artist"
+    }
+  ],
+  "director": "Ric Roman Waugh",
+  "valoraciones": {
+    "tmdb": 6.612,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Campbell Grobman Films",
+  "enlace_video": "https://vimeos.net/embed-7ofsbszdesbn.html",
+  "trailer": "https://www.youtube.com/watch?v=l4AQchYSxwc"
+}
