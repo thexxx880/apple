@@ -1,0 +1,89 @@
+{
+  "id_tmdb": 1769452,
+  "poster": "https://image.tmdb.org/t/p/w500/pbMYE26JZYgwjshV0sdzKaPdjM9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1Fpu72aqOOLRnuTJyUjIK3jKQD.jpg",
+  "logo": null,
+  "titulo": "Los Simpson: Planeta amarillo",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 0,
+  "año": "2025",
+  "duracion": "0h 22min",
+  "edad_minima": 13,
+  "sinopsis": "Los Simpson son representados como animales en un documental de naturaleza al estilo de National Geographic. Homer y Marge viven una historia de amor en el Ártico como una beluga y una narval, mientras Bart, Lisa y otros habitantes de Springfield aparecen transformados en diferentes especies y enfrentan los desafíos de la vida salvaje.",
+  "fecha_estreno": "2025-04-22",
+  "titulo_original": "The Simpson: Yellow Planet",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Dan Castellaneta",
+      "personaje": "Homer Simpson / Kodos / Krusty el Payaso / Sideshow Mel",
+      "foto": "https://image.tmdb.org/t/p/w500/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
+    },
+    {
+      "nombre": "Julie Kavner",
+      "personaje": "Marge Simpson / Patty Bouvier / Selma Bouvier / Jacqueline Bouvier",
+      "foto": "https://image.tmdb.org/t/p/w500/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
+    },
+    {
+      "nombre": "Nancy Cartwright",
+      "personaje": "Bart Simpson / Nelson Muntz / Maggie Simpson / Ralph Wiggum / Kearney Zzyzwicz / Rod Flanders / voces adicionales",
+      "foto": "https://image.tmdb.org/t/p/w500/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg"
+    },
+    {
+      "nombre": "Yeardley Smith",
+      "personaje": "Lisa Simpson",
+      "foto": "https://image.tmdb.org/t/p/w500/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
+    },
+    {
+      "nombre": "Hank Azaria",
+      "personaje": "Kirk Van Houten / Moe Szyslak / Comic Book Guy / Gary Chalmers / Snake Jailbird / Professor Frink / Blubbo's Trainer",
+      "foto": "https://image.tmdb.org/t/p/w500/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+    },
+    {
+      "nombre": "Harry Shearer",
+      "personaje": "Principal Skinner / Kang / Lenny Leonard / Reverend Lovejoy / Rainier Wolfcastle / Ned Flanders",
+      "foto": "https://image.tmdb.org/t/p/w500/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg"
+    },
+    {
+      "nombre": "Hugh Bonneville",
+      "personaje": "Narrador",
+      "foto": "https://image.tmdb.org/t/p/w500/skbxj8MUuNiI39ZkP38uEirU0bC.jpg"
+    },
+    {
+      "nombre": "Pamela Hayden",
+      "personaje": "Milhouse Van Houten / Jimbo Jones / Todd Flanders",
+      "foto": "https://image.tmdb.org/t/p/w500/mPMtuVB6AEulRhlfn69y5RvgmNT.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Mike B. Anderson",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Matt Groening",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "J. Stewart Burns",
+      "rol": "Author"
+    }
+  ],
+  "director": "Mike B. Anderson",
+  "valoraciones": {
+    "tmdb": 0,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney Channel",
+  "enlace_video": "https://hglink.to/e/4kfap8pt74s6",
+  "trailer": ""
+}
