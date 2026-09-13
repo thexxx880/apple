@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 12656,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7GqB48FlDbyGpTFuD0tMnZ0JwLi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wjs3xiJvh7h1qvIpv8kEmz79ys0.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3LCLg44ohoNTDL4UmbcUBRIa8sm.png",
+  "titulo": "Rosalinda",
+  "titulo_original": "Rosalinda",
+  "fecha_estreno": "1999-03-01",
+  "duracion": "45min",
+  "año": "1999",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Soap"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "Soledad está en la cárcel injustamente. Cuando nace su hija Rosalinda se la entrega a su hermana para que no crezca en la prisión. Con el paso de los años, Rosalinda se enamora de Fernando José; ambos se enfrentan a algunas adversidades para ser felices.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Thalía",
+      "personaje": "Rosalinda Pérez Romero / Rosalinda del Castillo Romero / Paloma Dorantes",
+      "foto": "https://image.tmdb.org/t/p/w500/zV0A90HmQSL3Gn3gNs7fIyWUapr.jpg"
+    },
+    {
+      "nombre": "Fernando Carrillo",
+      "personaje": "Fernando José Altamirano del Castillo",
+      "foto": ""
+    },
+    {
+      "nombre": "Lupita Ferrer",
+      "personaje": "Valeria del Castillo vda. de Altamirano",
+      "foto": "https://image.tmdb.org/t/p/w500/7oA3gNuxL0LnvMlIQsU1fUwntP5.jpg"
+    },
+    {
+      "nombre": "Nora Salinas",
+      "personaje": "Fedra Pérez Romero",
+      "foto": ""
+    },
+    {
+      "nombre": "Angélica María",
+      "personaje": "Soledad Romero vda. de Del Castillo / Marta",
+      "foto": "https://image.tmdb.org/t/p/w500/lOOCxxanJgfJEKvhPOk071ZJsFD.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Nathalie Lartilleux",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Beatriz Sheridan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Salvador Mejía",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Karina Duprez",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Octavio Ortega",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Delia Fiallo",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Kary Fajer",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Martha Leticia Rivera",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Nathalie Lartilleux",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Lino Gama",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Manuel Barajas",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Juan Antonio Sagredo",
+      "rol": "Set Designer"
+    },
+    {
+      "nombre": "Pablo Peralta",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Beatriz Sheridan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "José Antonio 'Potro' Farías",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Adrián Frutos",
+      "rol": "Supervising Editor"
+    },
+    {
+      "nombre": "Dolores Ortega",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Marco Antonio Rocha",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Karlos Velázquez",
+      "rol": "Cinematography"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt0202200",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": "https://www.youtube.com/watch?v=eHLtWElyhyQ"
+}
