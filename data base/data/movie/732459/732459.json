@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 732459,
+  "poster": "https://image.tmdb.org/t/p/w500/fYAHGYOBi5NPIb0wLQGDyVie2v9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2CWJTgfU8SGRZ25hn8L6iujATvk.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tKbLtLBXzpsRt1mNvGi7GCdbGGd.png",
+  "titulo": "La espada de los 47 Ronin",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Acción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.37,
+  "año": "2022",
+  "duracion": "1h 46min",
+  "edad_minima": 13,
+  "sinopsis": "En esta secuela de \"47 Ronin\", una nueva clase de guerreros emerge entre los clanes Samurai para evitar que una espada codiciada caiga en las manos equivocadas.",
+  "fecha_estreno": "2022-10-25",
+  "titulo_original": "Blade of the 47 Ronin",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Anna Akana",
+      "personaje": "Luna",
+      "foto": "https://image.tmdb.org/t/p/w500/taJmE5h3inYhvrLXO7Dq9IMGhEp.jpg"
+    },
+    {
+      "nombre": "Mark Dacascos",
+      "personaje": "Shinshiro",
+      "foto": "https://image.tmdb.org/t/p/w500/trOACuJz1KzhB51qe6asaxRuxrh.jpg"
+    },
+    {
+      "nombre": "Teresa Ting",
+      "personaje": "Onami",
+      "foto": "https://image.tmdb.org/t/p/w500/saHbkcRxQpjlEhYJFGcFV8rfz2F.jpg"
+    },
+    {
+      "nombre": "Dustin Nguyễn",
+      "personaje": "Nikko",
+      "foto": "https://image.tmdb.org/t/p/w500/40TjXyYUSG3O01Zak4TJLz0oZN3.jpg"
+    },
+    {
+      "nombre": "Dan Southworth",
+      "personaje": "Yurei",
+      "foto": "https://image.tmdb.org/t/p/w500/2DKM8LkytmWkiQjhq2QGO8n2P5H.jpg"
+    },
+    {
+      "nombre": "Yoshi Sudarso",
+      "personaje": "Sun",
+      "foto": "https://image.tmdb.org/t/p/w500/8EN72XVPCXZWy57oU6AQZZC2Whw.jpg"
+    },
+    {
+      "nombre": "Akira Koieyama",
+      "personaje": "Ikeda",
+      "foto": "https://image.tmdb.org/t/p/w500/udGNTKfxxmYOtGiAbiZfqqa9TVz.jpg"
+    },
+    {
+      "nombre": "Nino Furuhata",
+      "personaje": "Dash",
+      "foto": "https://image.tmdb.org/t/p/w500/5nGPyQpN9wKpjTqJQXSICsvhOHd.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "April Jeanette Mendez",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Aimee Garcia",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "John Swetnam",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tim Kwok",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ron Yuan",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Claire Koonce",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ron Yuan",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jonathan Halperyn",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Charles Norris",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Anne-Marie Roberge",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Charlene Lee",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "L.T. Chang",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Virág Varga",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Gillian Hawser",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Joseph C. Nemec III",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Daniel Kresmery",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Godena-Juhász Attila",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "Ron Yuan",
+  "valoraciones": {
+    "tmdb": 6.37,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal 1440 Entertainment",
+  "enlace_video": "https://vimeos.net/embed-o71hskcctk0d.html",
+  "trailer": "https://www.youtube.com/watch?v=xWN2iVRlqek"
+}
