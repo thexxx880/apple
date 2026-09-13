@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 846214,
+  "poster": "https://image.tmdb.org/t/p/w500/u10ZfFwbCMB4UrFy7OlHq08fBRr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jBUukLTCmXL79itbmK5JtQvImYS.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5PIpzTOHfaVbEDP8xlrwRp3Up6G.png",
+  "titulo": "Los Simpson: El Bueno, El Bart Y El Loki",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.188,
+  "año": "2021",
+  "duracion": "0h 6min",
+  "edad_minima": 13,
+  "sinopsis": "Loki es desterrado de Asgard una vez más y debe enfrentarse a sus oponentes más duros hasta ahora: los Simpson y los héroes más poderosos de Springfield. El dios de la travesura se une a Bart Simpson en el evento cruzado definitivo que rinde homenaje al universo cinematográfico de Marvel de superhéroes y villanos.",
+  "fecha_estreno": "2021-07-07",
+  "titulo_original": "The Good, the Bart, and the Loki",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Hiddleston",
+      "personaje": "Loki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+    },
+    {
+      "nombre": "Dan Castellaneta",
+      "personaje": "Homer Simpson / Barney Gumble (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
+    },
+    {
+      "nombre": "Nancy Cartwright",
+      "personaje": "Bart Simpson / Ralph Wiggum (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg"
+    },
+    {
+      "nombre": "Yeardley Smith",
+      "personaje": "Lisa Simpson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
+    },
+    {
+      "nombre": "Maurice LaMarche",
+      "personaje": "Odin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+    },
+    {
+      "nombre": "Dawnn Lewis",
+      "personaje": "Ravonna Renslayer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ppxGgmkTczev2VsiOSMfaGUy580.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jeff Westbrook",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "David Silverman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Al Jean",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "John Frink",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jessica Conrad",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Matt Selman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James L. Brooks",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard Raynis",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nick Conti",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Sam Grinberg",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Alexander Duke",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Eli Balser",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "Danielle Weisberg",
+      "rol": "Script Coordinator"
+    },
+    {
+      "nombre": "Brian J. Kaufman",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Scott Muller",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Brent M. Bowen",
+      "rol": "CG Artist"
+    },
+    {
+      "nombre": "Dale Hendrickson",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Chris Ledesma",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Roger Injarusorn",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Lisa Walder",
+      "rol": "Thanks"
+    }
+  ],
+  "director": "David Silverman",
+  "valoraciones": {
+    "tmdb": 7.188,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gracie Films",
+  "enlace_video": "https://streamwish.to/e/tq9co1mb0h81",
+  "trailer": "https://www.youtube.com/watch?v=K_PcaDs-tEc"
+}
