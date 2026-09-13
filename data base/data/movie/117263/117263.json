@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 117263,
+  "poster": "https://image.tmdb.org/t/p/w500/AfZeUmLYo25RRhGc1pqGOkNcScT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mjYU7EwVeOtM39ArdWHZk78VhYm.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/pZilC1fSyF0xrFKHVKGwLgXSY0y.png",
+  "titulo": "Olimpo Bajo Fuego",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.4,
+  "año": "2013",
+  "duracion": "1h 51min",
+  "edad_minima": 13,
+  "sinopsis": "Tras un accidente en el que sólo consiguió salvar la vida del Presidente Asher, el agente del Servicio Secreto Mike Banning decide dejar su puesto para trabajar en el Departamento del Tesoro. Pero, cuando un comando norcoreano liderado por Kang ataca la Casa Blanca y toma como rehenes al Presidente y a su equipo, Banning se verá obligado a entrar de nuevo en acción.",
+  "fecha_estreno": "2013-03-20",
+  "titulo_original": "Olympus Has Fallen",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Gerard Butler",
+      "personaje": "Mike Banning",
+      "foto": "https://image.tmdb.org/t/p/w500/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+    },
+    {
+      "nombre": "Aaron Eckhart",
+      "personaje": "President Benjamin Asher",
+      "foto": "https://image.tmdb.org/t/p/w500/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+    },
+    {
+      "nombre": "Finley Jacobsen",
+      "personaje": "Connor",
+      "foto": "https://image.tmdb.org/t/p/w500/jb5V4NPK0rSxQ7KH6PxftVhQLW8.jpg"
+    },
+    {
+      "nombre": "Dylan McDermott",
+      "personaje": "Forbes",
+      "foto": "https://image.tmdb.org/t/p/w500/3i69RNLuL7KOD9pCmHQYruhcOdn.jpg"
+    },
+    {
+      "nombre": "Rick Yune",
+      "personaje": "Kang",
+      "foto": "https://image.tmdb.org/t/p/w500/iC6qDOLaL7osc4eCZlm9AT9Ffxi.jpg"
+    },
+    {
+      "nombre": "Morgan Freeman",
+      "personaje": "Alan Trumbull",
+      "foto": "https://image.tmdb.org/t/p/w500/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+    },
+    {
+      "nombre": "Cole Hauser",
+      "personaje": "Roma",
+      "foto": "https://image.tmdb.org/t/p/w500/1SNoIDILoXtAUJu4f7nDCPVQH5j.jpg"
+    },
+    {
+      "nombre": "Radha Mitchell",
+      "personaje": "Leah",
+      "foto": "https://image.tmdb.org/t/p/w500/8EVKyEkwPfIA6GxlIo0PJv0A5mm.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Antoine Fuqua",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Gerard Butler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ed Cathell III",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Gill",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Antoine Fuqua",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Danny Lerner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alan Siegel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Katrin Benedikt",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Refoua",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Derek R. Hill",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Karen Steward",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Trevor Morris",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Cathy Sandrich Gelfond",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Amanda Mackey",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Doug Hall",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jaime Fernandez",
+      "rol": "Set Dresser"
+    },
+    {
+      "nombre": "Mike Wilson",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "鄭繼宗",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ryan Glorioso",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Conrad W. Hall",
+      "rol": "Director of Photography"
+    }
+  ],
+  "director": "Antoine Fuqua",
+  "valoraciones": {
+    "tmdb": 6.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Millennium Media",
+  "enlace_video": "https://vimeos.net/embed-po7pizg6rlh9.html",
+  "trailer": "https://www.youtube.com/watch?v=f9NKnYEN1xM"
+}
