@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 11026,
+  "poster": "https://image.tmdb.org/t/p/w500/4t5HKt6i2jAjJOov9LvcC0aIV95.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/A2kXYkGGdeLU20YHPM9qs6GX9nN.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/l2pZrkm6U1kNOqDL4FW9kuWhTq2.png",
+  "titulo": "El Exorcista: El comienzo",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.408,
+  "año": "2004",
+  "duracion": "1h 53min",
+  "edad_minima": 13,
+  "sinopsis": "El padre Merrin (Stellan Skarsgård) llevaba muchos años en el oficio, pero, debido a las atrocidades cometidas en su parroquia contra gente inocente durante la II Guerra Mundial, el sacerdote pierde toda la fe en la divinidad. Decidido a reencontrarse consigo mismo y ansioso por olvidar las imágenes atroces que inundan su memoria, el padre organiza un viaje a Kenia, donde ocurrirán acontecimientos insólitos que darán un vuelco al rumbo de su fe.",
+  "fecha_estreno": "2004-08-20",
+  "titulo_original": "Exorcist: The Beginning",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Stellan Skarsgård",
+      "personaje": "Father Lankester Merrin",
+      "foto": "https://image.tmdb.org/t/p/w500/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+    },
+    {
+      "nombre": "Izabella Scorupco",
+      "personaje": "Sarah Lesno",
+      "foto": "https://image.tmdb.org/t/p/w500/Av7fykzXL701au42sTbhufHpwwv.jpg"
+    },
+    {
+      "nombre": "James D'Arcy",
+      "personaje": "Father Francis",
+      "foto": "https://image.tmdb.org/t/p/w500/6CInTvBeLwXLx2id9TgaULaVEO4.jpg"
+    },
+    {
+      "nombre": "Julian Wadham",
+      "personaje": "Major Granville",
+      "foto": "https://image.tmdb.org/t/p/w500/xV74ywhz6EjjD8yp4VMUIAVuuKJ.jpg"
+    },
+    {
+      "nombre": "Remy Sweeney",
+      "personaje": "Joseph",
+      "foto": "https://image.tmdb.org/t/p/w500/2R0oEmJdFIbEzy3DRCXiSHz0puf.jpg"
+    },
+    {
+      "nombre": "Andrew French",
+      "personaje": "Chuma",
+      "foto": "https://image.tmdb.org/t/p/w500/9HC9N1yJPbKg2XS78Fw7Gw2Pm2P.jpg"
+    },
+    {
+      "nombre": "Antonie Kamerling",
+      "personaje": "Lieutenant Kessel",
+      "foto": "https://image.tmdb.org/t/p/w500/zgFQb4ryjB1nFY9up5AnfARpREU.jpg"
+    },
+    {
+      "nombre": "Ben Cross",
+      "personaje": "Semelier",
+      "foto": "https://image.tmdb.org/t/p/w500/11gObExUG7lFCA7WeYgHabnZjDg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alexi Hawley",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Renny Harlin",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James G. Robinson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Caleb Carr",
+      "rol": "Story"
+    },
+    {
+      "nombre": "William Wisher",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Guy McElwaine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Todd E. Miller",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "David Robinson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Trevor Rabin",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Vittorio Storaro",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mark Goldblatt",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mario Novelli",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Giorgio Antonini",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Enrico Salamon",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Valentina Paradiso",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Alessandro Borgese",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Diego Tomassini",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Renny Harlin",
+  "valoraciones": {
+    "tmdb": 5.408,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Dominion Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/asqzvcb5e52m",
+  "trailer": "https://www.youtube.com/watch?v=eHJEMIYNFFY"
+}
