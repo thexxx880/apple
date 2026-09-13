@@ -1,0 +1,94 @@
+{
+  "id_tmdb": 45854,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/uGOjTI1HQukcCU7wDCtQlnsBaG7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8jgvqyz76ydAwLrntGn3jTaYr7S.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/gL3MhlLu2cf7DEH8UvTutxuLFgD.png",
+  "titulo": "Yu-Gi-Oh! Zexal",
+  "titulo_original": "遊☆戯☆王ZEXAL",
+  "fecha_estreno": "2011-04-11",
+  "duracion": "25min",
+  "año": "2011",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "畠中祐",
+      "personaje": "Yuma Tsukumo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xPDqoxAia1ShoVC2aMS2ZDPDWzG.jpg"
+    },
+    {
+      "nombre": "入野自由",
+      "personaje": "Astral (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+    },
+    {
+      "nombre": "小松未可子",
+      "personaje": "Kotori Mizuki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/13tQEZ1tLdOmi7oGoRJ4xep1ODQ.jpg"
+    },
+    {
+      "nombre": "増田俊樹",
+      "personaje": "Ryoga 'Shark' Kamishiro / Nash (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oMAk5Pu3aazmwFwiVOgyU7iW5ut.jpg"
+    },
+    {
+      "nombre": "内山昂輝",
+      "personaje": "Kaito Tenjō (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "中川航",
+      "rol": "Prop Designer"
+    },
+    {
+      "nombre": "桑原智",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "吉田伸",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "高橋和希",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "高取ヒデアキ",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "箕輪綾美",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "楫野允史",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "赤沢賢二",
+      "rol": "Director of Photography"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt2363624",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=aVbyUhQ89nU"
+}
