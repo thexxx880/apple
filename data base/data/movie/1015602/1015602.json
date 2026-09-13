@@ -1,0 +1,151 @@
+{
+  "id_tmdb": 1015602,
+  "poster": "https://image.tmdb.org/t/p/w500/sj3PGomvhxTpBdbnTwenKd8SSUO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/A2XhlMUimRDViZDuJPeDtaJoHmT.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3u2a4LJyS5Bf5OJApkeJqk1g1zx.png",
+  "titulo": "Bienvenidos al Club",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.228,
+  "año": "2022",
+  "duracion": "0h 4min",
+  "edad_minima": 13,
+  "sinopsis": "Es el Día de Disney+ y Lisa Simpson está decidida a transformarse en una princesa. Después de conocer a algunos de los villanos más notables de Disney, Lisa se sorprende al aprender que ser mala podría ser más divertido.",
+  "fecha_estreno": "2022-09-08",
+  "titulo_original": "Welcome to the Club",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Nancy Cartwright",
+      "personaje": "Bart Simpson / Mickey Mouse (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg"
+    },
+    {
+      "nombre": "Yeardley Smith",
+      "personaje": "Lisa Simpson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
+    },
+    {
+      "nombre": "Chris Edgerly",
+      "personaje": "Prince Charming / Princes (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bjkN9Ugv6Kd3Z3y9p9DgWAc10Q7.jpg"
+    },
+    {
+      "nombre": "Dawnn Lewis",
+      "personaje": "Ursula / Kaa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ppxGgmkTczev2VsiOSMfaGUy580.jpg"
+    },
+    {
+      "nombre": "Tress MacNeille",
+      "personaje": "Evil Queen / Cruella de Vil / Queen of Hearts (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+    },
+    {
+      "nombre": "Kevin Michael Richardson",
+      "personaje": "Captain Hook (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    },
+    {
+      "nombre": "Tom Hiddleston",
+      "personaje": "Loki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Silverman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "J. Stewart Burns",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joel H. Cohen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Al Jean",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Christine Nangle",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Loni Steele Sosthand",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "James L. Brooks",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matt Groening",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alexander Duke",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Richard K. Chung",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Dominique Braud",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Roger Injarusorn",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Dima Malanitchev",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jake Schaefer",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Scott Muller",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Nick Conti",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Brian J. Kaufman",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Jesse D. Miller",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Alexa Patterson",
+      "rol": "Script Coordinator"
+    },
+    {
+      "nombre": "Tim Lauber",
+      "rol": "Sound Recordist"
+    }
+  ],
+  "director": "David Silverman",
+  "valoraciones": {
+    "tmdb": 6.228,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gracie Films",
+  "enlace_video": "https://gscdn.cam/video/embed/0c1dn4htzfau",
+  "trailer": ""
+}
