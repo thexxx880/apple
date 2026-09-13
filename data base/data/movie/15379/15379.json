@@ -1,0 +1,150 @@
+{
+  "id_tmdb": 15379,
+  "poster": "https://image.tmdb.org/t/p/w500/oDmp4JVGPsX9s1IqijBhImXhNOa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8GVHeU77wFodIkwetIufkTVPgOF.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8tVB5kzZe0y3CjxEt0LGATOrLHZ.png",
+  "titulo": "Perdido en acción",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Suspense",
+    "Bélica"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.898,
+  "año": "1984",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "El coronel Braddock (Chuck Norris) escapó hace ya 10 años de un campo de prisioneros cuando estuvo combatiendo en la guerra del Vietnam. Ahora volverá de nuevo a dicho país para intentar rescatar a varios soldados norteamericanos capturados en el conflicto, y que se sabe siguen en cautividad y vivos tras todo este tiempo.",
+  "fecha_estreno": "1984-11-16",
+  "titulo_original": "Missing in Action",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Chuck Norris",
+      "personaje": "Col. James Braddock",
+      "foto": "https://image.tmdb.org/t/p/w500/m3uLikdhi9qObRvGVHsKX5H93lR.jpg"
+    },
+    {
+      "nombre": "M. Emmet Walsh",
+      "personaje": "Tuck",
+      "foto": "https://image.tmdb.org/t/p/w500/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg"
+    },
+    {
+      "nombre": "David Tress",
+      "personaje": "Sen. Porter",
+      "foto": "https://image.tmdb.org/t/p/w500/gLyDdtF4CbKj8hxJ5LLP3ZRnjnJ.jpg"
+    },
+    {
+      "nombre": "Lenore Kasdorf",
+      "personaje": "Ann",
+      "foto": "https://image.tmdb.org/t/p/w500/zyU2cEF8RUC8Zx11SmVBYIPQ62a.jpg"
+    },
+    {
+      "nombre": "James Hong",
+      "personaje": "Gen. Trau",
+      "foto": "https://image.tmdb.org/t/p/w500/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+    },
+    {
+      "nombre": "Pierrino Mascarino",
+      "personaje": "Jacques",
+      "foto": "https://image.tmdb.org/t/p/w500/5ZD0q5LEsVXYSUPFoCHBRSeZTaD.jpg"
+    },
+    {
+      "nombre": "Erich Anderson",
+      "personaje": "Masucci",
+      "foto": "https://image.tmdb.org/t/p/w500/hb89TAid82AM8MJLZEQ70WWISNv.jpg"
+    },
+    {
+      "nombre": "Joseph Carberry",
+      "personaje": "Carter",
+      "foto": "https://image.tmdb.org/t/p/w500/qv6kxhi8alMcNlL4oWnE3EE9Fjs.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Bruner",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lance Hool",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Joseph Zito",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Menahem Golan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Crowther",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Yoram Globus",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Larry Levinson",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Daniel Loewenthal",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Lance Hool",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "João Fernandes",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Arthur Silver",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Steve Bing",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jay Chattaway",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Joel Goodman",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Richard Candib",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Skip Cook",
+      "rol": "Key Grip"
+    },
+    {
+      "nombre": "Jack K. Tillar",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Ken Dufva",
+      "rol": "Foley"
+    }
+  ],
+  "director": "Joseph Zito",
+  "valoraciones": {
+    "tmdb": 5.898,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Cannon Group",
+  "enlace_video": "https://gscdn.cam/video/embed/ny6jwrm4rmob",
+  "trailer": "https://www.youtube.com/watch?v=hWiQlmsd5fQ"
+}
