@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1493,
+  "poster": "https://image.tmdb.org/t/p/w500/kIPoETHfbPHz2atvsZdmZY7YpgB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bTpjn4OEeoLEJYjRvEvkPfPQZdb.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7AiFKcXRecKhQNO8pEAbEoaDYAa.png",
+  "titulo": "Miss Simpatía",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Crimen",
+    "Acción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.536,
+  "año": "2000",
+  "duracion": "1h 50min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando un asesino amenaza el concurso de Miss Estados Unidos, el FBI decide enviar a una agente infiltrada como participante. La mejor candidata que encuentran para la misión es Gracie Hart, una agente de modales toscos y poco femeninos. Ante su total falta de glamour, el FBI decide buscarle un representante que le enseñe todos los trucos del mundo de la pasarela",
+  "fecha_estreno": "2000-12-22",
+  "titulo_original": "Miss Congeniality",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Sandra Bullock",
+      "personaje": "Gracie Hart",
+      "foto": "https://image.tmdb.org/t/p/w500/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+    },
+    {
+      "nombre": "Michael Caine",
+      "personaje": "Victor Melling",
+      "foto": "https://image.tmdb.org/t/p/w500/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+      "nombre": "Benjamin Bratt",
+      "personaje": "Eric Matthews",
+      "foto": "https://image.tmdb.org/t/p/w500/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+    },
+    {
+      "nombre": "Candice Bergen",
+      "personaje": "Kathy Morningside",
+      "foto": "https://image.tmdb.org/t/p/w500/yDthvXPRkcwSVcPj9QZz3Z7ZH5B.jpg"
+    },
+    {
+      "nombre": "William Shatner",
+      "personaje": "Stan Fields",
+      "foto": "https://image.tmdb.org/t/p/w500/puzpe91Lh0CzdRKg9iYilQsjoYk.jpg"
+    },
+    {
+      "nombre": "Ernie Hudson",
+      "personaje": "McDonald",
+      "foto": "https://image.tmdb.org/t/p/w500/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
+    },
+    {
+      "nombre": "John DiResta",
+      "personaje": "Agent Clonsky",
+      "foto": "https://image.tmdb.org/t/p/w500/hMfnViQtWrGOQlDGvn8BscAV3pk.jpg"
+    },
+    {
+      "nombre": "Heather Burns",
+      "personaje": "Cheryl 'New York'",
+      "foto": "https://image.tmdb.org/t/p/w500/bfxBZFw7YbkWIywC2FDk96IwXOG.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Katie Ford",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Donald Petrie",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Marc Lawrence",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Caryn Lucas",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sandra Bullock",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gary Archer",
+      "rol": "Prosthetics"
+    },
+    {
+      "nombre": "Katie Ford",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Marc Lawrence",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bruce Berman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ginger Sledge",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Denise Chamian",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Pam Fuller",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "László Kovács",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Billy Weber",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Peter S. Larkin",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Susie DeSanto",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Edward Shearmur",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Donald Petrie",
+  "valoraciones": {
+    "tmdb": 6.536,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Village Roadshow Pictures",
+  "enlace_video": "https://vimeos.net/embed-7ntv3zt24w0y.html",
+  "trailer": "https://www.youtube.com/watch?v=MSXZJDuNwJE"
+}
