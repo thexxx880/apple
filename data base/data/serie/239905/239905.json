@@ -1,0 +1,60 @@
+{
+  "id_tmdb": 239905,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/fPws5haPtaQLs72Ak6x3NHnsqcS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/sEYo719lGVXw67SOcZbqZKJxOvw.jpg",
+  "logo": "",
+  "titulo": "Vivir un poco - Final",
+  "titulo_original": "Vivir un poco",
+  "fecha_estreno": "1985-07-29",
+  "duracion": "22min",
+  "año": "1985",
+  "trending": false,
+  "generos": [
+    "Soap",
+    "Drama",
+    "Crimen",
+    "Misterio"
+  ],
+  "puntuacion": 7.333,
+  "sinopsis": "Una mujer es liberada luego de estar veinte años presa e intenta limpiar su nombre.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Angélica Aragón",
+      "personaje": "Andrea Santos y Ruvalcaba de Merisa-Obregón",
+      "foto": "https://image.tmdb.org/t/p/w500/ejduK7b15cBN2Gr5FRIQOdoNrXS.jpg"
+    },
+    {
+      "nombre": "Rogelio Guerra",
+      "personaje": "Gregorio Merisa-Obregón",
+      "foto": "https://image.tmdb.org/t/p/w500/osROYzlKnitI1lhW1UR0hkab7iA.jpg"
+    },
+    {
+      "nombre": "Irma Lozano",
+      "personaje": "Rosa Merisa Obregón",
+      "foto": "https://image.tmdb.org/t/p/w500/tTcEnuc0VXaAc1RveXlGRYPhbcX.jpg"
+    },
+    {
+      "nombre": "Patricia Pereyra",
+      "personaje": "Atenas Merisa Obregón",
+      "foto": ""
+    },
+    {
+      "nombre": "Beatriz Sheridan",
+      "personaje": "Aura Merisa Obregón",
+      "foto": "https://image.tmdb.org/t/p/w500/iZzgPNlao04i6ZqMYYBeWeLZfNI.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.333,
+    "imdb": "tt0216516",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": ""
+}
