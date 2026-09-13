@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 860508,
+  "poster": "https://image.tmdb.org/t/p/w500/pBooYCjOyHUY1UFBrrXfEa6VvwZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png",
+  "titulo": "Susurran tu nombre",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Suspense"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.795,
+  "año": "2026",
+  "duracion": "1h 54min",
+  "edad_minima": 13,
+  "sinopsis": "Tras la desaparición de su hijo, un viudo recurre a la ayuda de su padre ausente: un detective retirado que, años atrás, encarceló al asesino serial vinculado con este caso.",
+  "fecha_estreno": "2026-08-27",
+  "titulo_original": "The Whisper Man",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Robert De Niro",
+      "personaje": "Peter Willis",
+      "foto": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "nombre": "Michelle Monaghan",
+      "personaje": "Amanda Beck",
+      "foto": "https://image.tmdb.org/t/p/w500/uK1qhSzKd9gkDh3p1H5e2PWMYyH.jpg"
+    },
+    {
+      "nombre": "Adam Scott",
+      "personaje": "Tom Kennedy",
+      "foto": "https://image.tmdb.org/t/p/w500/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+    },
+    {
+      "nombre": "Acston Luca Porto",
+      "personaje": "Jake Kennedy",
+      "foto": "https://image.tmdb.org/t/p/w500/ddAq8ZTkBoEbAzVuaseWoVkdLyy.jpg"
+    },
+    {
+      "nombre": "Michael Keaton",
+      "personaje": "Frank Carter",
+      "foto": "https://image.tmdb.org/t/p/w500/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+    },
+    {
+      "nombre": "Owen Teague",
+      "personaje": "Frank Carter Jr.",
+      "foto": "https://image.tmdb.org/t/p/w500/tgCkGE0LIggyjMmgSwHhpZAkfJs.jpg"
+    },
+    {
+      "nombre": "Hamish Linklater",
+      "personaje": "Norman Collins",
+      "foto": "https://image.tmdb.org/t/p/w500/ksTXQnWuKvmcVcbmHrvGaDof0P2.jpg"
+    },
+    {
+      "nombre": "Will Brill",
+      "personaje": "Sgt. John Dyson",
+      "foto": "https://image.tmdb.org/t/p/w500/eTPXcvxlquT8ppKnwAe2a3CzI90.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Ashcroft",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Anthony Russo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Russo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Angela Russo-Otstot",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Disco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ben Jacoby",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Chase Palmer",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kassee Whiting",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alex North",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Marcus Viscidi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Deming",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Anastasia White",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Nuria Sitja",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Kerrie Smith",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Christopher Tellefsen",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Doug Huszti",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Michael Lerman",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Stephen A. Pope",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Bill Almeida",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Julie Carr",
+      "rol": "First Assistant Editor"
+    }
+  ],
+  "director": "James Ashcroft",
+  "valoraciones": {
+    "tmdb": 6.795,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "AGBO",
+  "enlace_video": "https://vimeos.net/embed-469fa8jyrvus.html",
+  "trailer": "https://www.youtube.com/watch?v=ZHRR-1CKYIQ"
+}
