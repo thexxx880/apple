@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 267860,
+  "poster": "https://image.tmdb.org/t/p/w500/vGiJRfqZ6E7zq3TJFrMn2tgr5A1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ndi0PlHzSbV2pV2wUZFtS58Wk54.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vkYHGnteygMVb97yDUxIcZY4YqX.png",
+  "titulo": "Londres Bajo Fuego",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.228,
+  "año": "2016",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "En un mundo gobernado por la injusticia y el caos, aparece la figura del Presidente de los Estados Unidos que junto a su portavoz Trumbull, liderarán una lucha interna por las libertades de todos los americanos. Sin embargo, se producirá un intento de derrocamiento por parte de fuerzas espías para acabar con el Primer Ministro inglés. Esto podría significar el fin de la paz mundial. Para ello el Presidente contará con la inestimable ayuda de su guardaespaldas. Mike Benning, agente secreto del MI6, liderará una operación para intentar acabar con esta revolución. Benning no estará sólo, ya que volverá a encontrar apoyo de Trumbull, especializado en técnicas paramilitares.",
+  "fecha_estreno": "2016-03-02",
+  "titulo_original": "London Has Fallen",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Gerard Butler",
+      "personaje": "Mike Banning",
+      "foto": "https://image.tmdb.org/t/p/w500/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+    },
+    {
+      "nombre": "Aaron Eckhart",
+      "personaje": "President Benjamin Asher",
+      "foto": "https://image.tmdb.org/t/p/w500/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+    },
+    {
+      "nombre": "Angela Bassett",
+      "personaje": "Lynne Jacobs",
+      "foto": "https://image.tmdb.org/t/p/w500/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+    },
+    {
+      "nombre": "Morgan Freeman",
+      "personaje": "Alan Trumbull",
+      "foto": "https://image.tmdb.org/t/p/w500/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+    },
+    {
+      "nombre": "Melissa Leo",
+      "personaje": "Secretary of Defense Ruth McMillan",
+      "foto": "https://image.tmdb.org/t/p/w500/ueAIX0MH68xCei3N8vFLS0EUEjY.jpg"
+    },
+    {
+      "nombre": "Robert Forster",
+      "personaje": "General Edward Clegg",
+      "foto": "https://image.tmdb.org/t/p/w500/vGDifxN2PnO69rnpg6FoWkocFCD.jpg"
+    },
+    {
+      "nombre": "Sean O'Bryan",
+      "personaje": "NSA Deputy Director Ray Monroe",
+      "foto": "https://image.tmdb.org/t/p/w500/nS6ZEJvn6O7FCNcDSeIFfbwpW03.jpg"
+    },
+    {
+      "nombre": "Radha Mitchell",
+      "personaje": "Leah Banning",
+      "foto": "https://image.tmdb.org/t/p/w500/8EVKyEkwPfIA6GxlIo0PJv0A5mm.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Katrin Benedikt",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Christian Gudegast",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Creighton Rothenberger",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Babak Najafi",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Gerard Butler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John Thompson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Katrin Benedikt",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Chad St. John",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jeff Richardson",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Zarene Dallas",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Steve Griffin",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Aaron Hartley",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Lucy Allen",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ed Wild",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jim Beeby",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Bill Crutcher",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "John Warhurst",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Beth Lewis",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Mariana Stansheva",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Robyn Paiba",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Babak Najafi",
+  "valoraciones": {
+    "tmdb": 6.228,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Millennium Media",
+  "enlace_video": "https://vimeos.net/embed-yw0v69k5j46v.html",
+  "trailer": "https://www.youtube.com/watch?v=Ja9XxdMAEk4"
+}
