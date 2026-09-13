@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 877183,
+  "poster": "https://image.tmdb.org/t/p/w500/y48Hg3jyL0TljAlRdSa0AX2PbcQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/djnEP20aAs5mVXNANJsjmVhkzrk.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/q7WwudSOoWrNy3c4ia8egMd5K9Y.png",
+  "titulo": "Los Simpson en Plusniversario",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.435,
+  "año": "2021",
+  "duracion": "0h 5min",
+  "edad_minima": 13,
+  "sinopsis": "Los Simpson organizan una fiesta para el Día de Disney+ y todos estan invitados, excepto Homero. Con amigos de toda la plataforma y la música adecuada para una princesa de Disney, el Plusniversario es el evento del año de Springfield.",
+  "fecha_estreno": "2021-11-12",
+  "titulo_original": "The Simpsons in Plusaversary",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Dan Castellaneta",
+      "personaje": "Homer Simpson / Barney Gumble / Sideshow Mel / Happy / Grumpy / Donald Duck / Winnie the Pooh (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
+    },
+    {
+      "nombre": "Nancy Cartwright",
+      "personaje": "Bart Simpson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg"
+    },
+    {
+      "nombre": "Yeardley Smith",
+      "personaje": "Lisa Simpson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
+    },
+    {
+      "nombre": "Hank Azaria",
+      "personaje": "Moe Szyslak / Captain McCallister / Goofy / Buzz Lightyear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+    },
+    {
+      "nombre": "Tress MacNeille",
+      "personaje": "Maleficent (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Matt Groening",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James L. Brooks",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Vebber",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jessica Conrad",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Al Jean",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Al Jean",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard Sakai",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Loni Steele Sosthand",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Richard K. Chung",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Alexander Duke",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Dima Malanitchev",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Eli Balser",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "Seth Cooper",
+      "rol": "Prop Designer"
+    },
+    {
+      "nombre": "John Krause",
+      "rol": "Prop Designer"
+    },
+    {
+      "nombre": "Scott Muller",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mark Linden",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Tara A. Paul",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Travis Powers",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "David Betancourt",
+      "rol": "Sound Engineer"
+    },
+    {
+      "nombre": "Christine Sirois",
+      "rol": "Sound Recordist"
+    }
+  ],
+  "director": "David Silverman",
+  "valoraciones": {
+    "tmdb": 6.435,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gracie Films",
+  "enlace_video": "https://vimeos.net/embed-g6hw1r7a27rn.html",
+  "trailer": ""
+}
