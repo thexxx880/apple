@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 426284,
+  "poster": "https://image.tmdb.org/t/p/w500/2t8UqokjQ1aRDjgdkivBvtyepYF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aP6MVLsZpQ51p93PwNsyy1TVUIW.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aIdVAIptSeyOdfbpG2ctDZANWuO.png",
+  "titulo": "La Espada Del Inmortal",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Fantasía",
+    "Aventura",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.702,
+  "año": "2017",
+  "duracion": "2h 20min",
+  "edad_minima": 13,
+  "sinopsis": "Manji ve cómo su hermana pequeña es asesinada frente a él, iniciándo entonces su venganza. Una misteriosa mujer aparecerá ante Manji, otorgándole eterna juventud e inmortalidad. Entonces, los padres de Rin Asano serán asesinados por un grupo de espadachines llamado Itto ruy, siendo el estudio de esgrima de sus padres destruido. Para vengarse, pedirá ayuda a Manji, y ambos lucharán contra los Itto ruy.",
+  "fecha_estreno": "2017-04-29",
+  "titulo_original": "無限の住人",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "木村拓哉",
+      "personaje": "Manji",
+      "foto": "https://image.tmdb.org/t/p/w500/sswCg8kvFsgSaVJwcIKKe4K7jOe.jpg"
+    },
+    {
+      "nombre": "杉咲花",
+      "personaje": "Machi / Rin Asano",
+      "foto": "https://image.tmdb.org/t/p/w500/uMdZegIX39id7QdYfnYPkpdFLFo.jpg"
+    },
+    {
+      "nombre": "福士蒼汰",
+      "personaje": "Anotsu Kagehisa",
+      "foto": "https://image.tmdb.org/t/p/w500/kUC8afeFVBM5jVSdmJ4Gz12IggV.jpg"
+    },
+    {
+      "nombre": "市原隼人",
+      "personaje": "Shira",
+      "foto": "https://image.tmdb.org/t/p/w500/78ACMc1I37krWbGRlH7OHZFiSUt.jpg"
+    },
+    {
+      "nombre": "戸田恵梨香",
+      "personaje": "Makie Otono-Tachibana",
+      "foto": "https://image.tmdb.org/t/p/w500/iCqhPoR55jp25EUO0WcTGqVS6qW.jpg"
+    },
+    {
+      "nombre": "北村一輝",
+      "personaje": "Sabato Kuroi",
+      "foto": "https://image.tmdb.org/t/p/w500/8wbssNyn2yLASfRLj22dk4G5zVN.jpg"
+    },
+    {
+      "nombre": "Chiaki Kuriyama",
+      "personaje": "Hyakurin",
+      "foto": "https://image.tmdb.org/t/p/w500/2lGs2rzx9VovrtBFsKM5Fy1Uja5.jpg"
+    },
+    {
+      "nombre": "満島真之介",
+      "personaje": "Taito Magatsu",
+      "foto": "https://image.tmdb.org/t/p/w500/mO2xxVJhgXSb1AyimfnDEPtpPwh.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "三池崇史",
+      "rol": "Director"
+    },
+    {
+      "nombre": "大石哲也",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "前田茂司",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeremy Thomas",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "坂美佐子",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tetsu Fujimura",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "荒波修",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "吉羽治",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nao Okawa",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "奥野敏聡",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "정태성",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "亀山敬司",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "遠藤浩二",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Peter Watson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alainée Kent",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "小岩井宏悦",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "今井朝幸",
+      "rol": "Line Producer"
+    }
+  ],
+  "director": "三池崇史",
+  "valoraciones": {
+    "tmdb": 6.702,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "TV Asahi",
+  "enlace_video": "https://gscdn.cam/video/embed/2hzy0huxd2k9",
+  "trailer": "https://www.youtube.com/watch?v=GajHeLJyd6Q"
+}
