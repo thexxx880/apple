@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 25528,
+  "poster": "https://image.tmdb.org/t/p/w500/5e57hCfvjnuYjno09QiHfRk81EH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lDtTiBO8CyLhbsi7idZe2MQDXTB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/vsHKvigO7tADPiCTXLNmjOG9OZs.png",
+  "titulo": "Ninja Americano 4: La aniquilación",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.294,
+  "año": "1990",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando Brad Norris y tres de sus comandos de la Fuerza Delta son capturados por Ninjas Negros en un bosque tropical africano, la oficina central en Washington D.C. avisa entonces a Sean Davidson y Carl Brackston para rescatarles. Pero ellos también son capturados y la misión de rescate pasa a un sólo hombre, Joe Armstrong.",
+  "fecha_estreno": "1990-10-30",
+  "titulo_original": "American Ninja 4: The Annihilation",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Michael Dudikoff",
+      "personaje": "Joe Armstrong",
+      "foto": "https://image.tmdb.org/t/p/w500/mj8wZ5Ov8ZAjvUBfIxVf4oADogh.jpg"
+    },
+    {
+      "nombre": "David Bradley",
+      "personaje": "Sean Davidson",
+      "foto": "https://image.tmdb.org/t/p/w500/uu275GxZrHfqcaBJx6DeSuHEYWy.jpg"
+    },
+    {
+      "nombre": "James Booth",
+      "personaje": "Mulgrew",
+      "foto": "https://image.tmdb.org/t/p/w500/lar15H1w85zWXQGg41PNdwWOc0o.jpg"
+    },
+    {
+      "nombre": "Dwayne Alexandre",
+      "personaje": "Brackston",
+      "foto": "https://image.tmdb.org/t/p/w500/izJKzDrGnb6MT6vjtVzOegdUIsa.jpg"
+    },
+    {
+      "nombre": "Ken Gampu",
+      "personaje": "Dr. Tamba",
+      "foto": "https://image.tmdb.org/t/p/w500/9Wv1WIzrettH5GbgZhVoQk1oxmq.jpg"
+    },
+    {
+      "nombre": "Robin Stille",
+      "personaje": "Sarah",
+      "foto": "https://image.tmdb.org/t/p/w500/dOieiO8j9S8dEn2ZRVIft7aBgs8.jpg"
+    },
+    {
+      "nombre": "Frantz Dobrowsky",
+      "personaje": "O'Reilly",
+      "foto": null
+    },
+    {
+      "nombre": "Ron Smerczak",
+      "personaje": "Maksood",
+      "foto": "https://image.tmdb.org/t/p/w500/bLdgFZi6DRChTpfgm2BUOnAiqMb.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Cedric Sundstrom",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ovidio G. Assonitis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Pearce",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Geeves",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Avi Kleinberger",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Gideon Amir",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Avi Lerner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nic. tenBroek",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Yossi Wein",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Claudio M. Cutry",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Gianna Pisanello",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ruth Strimling",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Emilia Roux",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Richard Miranda",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "Cleone Johnson",
+      "rol": "Makeup & Hair Assistant"
+    },
+    {
+      "nombre": "Willie Naude",
+      "rol": "First Assistant Director"
+    }
+  ],
+  "director": "Cedric Sundstrom",
+  "valoraciones": {
+    "tmdb": 5.294,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Cannon Group",
+  "enlace_video": "https://gscdn.cam/video/embed/09czb7zdn1zd",
+  "trailer": "https://www.youtube.com/watch?v=qMiIV4nVrWk"
+}
