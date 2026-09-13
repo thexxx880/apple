@@ -1,0 +1,108 @@
+{
+  "id_tmdb": 1437703,
+  "poster": "https://image.tmdb.org/t/p/w500/zBwSaw3sEwqH9vSijiPbUdbHNQz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dlVvlYfvpD05KYbKFxEUvskvWWd.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1DOFawhcJ7wr3XraSaOchsJUZms.png",
+  "titulo": "Moscas",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.857,
+  "año": "2026",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Olga lleva una vida estrictamente controlada y sin ataduras en un enorme edificio de apartamentos. Cuando, por necesidad económica, alquila una habitación a un hombre que también introduce a escondidas a su hijo de nueve años, surge un vínculo inesperado.",
+  "fecha_estreno": "2026-07-01",
+  "titulo_original": "Moscas",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Bastián Escobar",
+      "personaje": "Cristian",
+      "foto": null
+    },
+    {
+      "nombre": "Teresa Sánchez",
+      "personaje": "Olga",
+      "foto": "https://image.tmdb.org/t/p/w500/iLzgyVP822PHZCOtNFROi9YSHTJ.jpg"
+    },
+    {
+      "nombre": "Hugo Ramirez",
+      "personaje": "Tulio",
+      "foto": null
+    },
+    {
+      "nombre": "Enrique Arreola",
+      "personaje": "Isaac",
+      "foto": "https://image.tmdb.org/t/p/w500/eUX3UQrOMSNyasimc5vYtwHY518.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Fernando Eimbcke",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Fernando Eimbcke",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Vanesa Garnica",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Michel Franco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fernando Eimbcke",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Erendira Nuñez Larios",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Javier Umpierrez",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "María Secco",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Salvador Reyes Zúñiga",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Alfredo Wigueras",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Luciana Solórzano",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Gabriela Fernandez",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "Camilo Lara",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Fernando Eimbcke",
+  "valoraciones": {
+    "tmdb": 6.857,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Teorema",
+  "enlace_video": "https://gscdn.cam/video/embed/iw11fduuj25r",
+  "trailer": "https://www.youtube.com/watch?v=wtuCOy5ZW6A"
+}
