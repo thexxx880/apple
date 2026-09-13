@@ -1,0 +1,118 @@
+{
+  "id_tmdb": 68895,
+  "poster": "https://image.tmdb.org/t/p/w500/kHGryC1UwsVYW7DMTF7nzVUx9mV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qnAy2XthzsPzquzNNa4jSSmdszt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rGDGxiFTYCXbEsSUQhG5cYqacIC.png",
+  "titulo": "El rey de los kickboxers",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.896,
+  "año": "1990",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Hace diez años, en Bangkok (Thailandia), Sean, el hermano de Jake Donahue, tras ganar un campeonato de Kickboxing, es brutalmente asesinado por Khan. Jake, de catorce años, queda fisicamente y emocionalmente destrozado. En la actualidad, Jake es un policía secreto en Nueva York, que destaca por su valor y arriesgada dedicación en la captura de peligrosos criminales. Cuando la Interpol le envía a Thailandia a desenmascarar a una mortifera banda de delincuentes, Jake sabe que tendrá que enfrentarse a Khan. Para poder vencer en la lucha final, buscará la ayuda de Prang, el maestro del Kickboxing.",
+  "fecha_estreno": "1990-11-01",
+  "titulo_original": "The King of the Kickboxers",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Loren Avedon",
+      "personaje": "Jake Donahue",
+      "foto": "https://image.tmdb.org/t/p/w500/cdibroxQxb1pysWaVWI9mm6u69i.jpg"
+    },
+    {
+      "nombre": "Billy Blanks",
+      "personaje": "Khan",
+      "foto": "https://image.tmdb.org/t/p/w500/bs7utYFkIbc40BGImAa2QRhsLX5.jpg"
+    },
+    {
+      "nombre": "Keith Cooke",
+      "personaje": "Prang",
+      "foto": "https://image.tmdb.org/t/p/w500/dnvy4P6gd7jRduV4OLQoYdW9CAW.jpg"
+    },
+    {
+      "nombre": "Jerry Trimble",
+      "personaje": "Drug Dealer",
+      "foto": "https://image.tmdb.org/t/p/w500/oDK7NCnz2z2BFV8YquEpj8PBwed.jpg"
+    },
+    {
+      "nombre": "Richard Jaeckel",
+      "personaje": "Captain O'Day",
+      "foto": "https://image.tmdb.org/t/p/w500/bqPHmgKzNOWU58GtoB2SDiH8MHV.jpg"
+    },
+    {
+      "nombre": "Don Stroud",
+      "personaje": "Anderson",
+      "foto": "https://image.tmdb.org/t/p/w500/n6yorMuvxBGDvIWwsqitNpwzwid.jpg"
+    },
+    {
+      "nombre": "Sherrie Rose",
+      "personaje": "Molly",
+      "foto": "https://image.tmdb.org/t/p/w500/7RRTbEcwe2MnjpvqMCZLOWimqkg.jpg"
+    },
+    {
+      "nombre": "William Long Jr.",
+      "personaje": "Big Boss",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lo Yuen-Ming",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Keith W. Strandberg",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Keith W. Strandberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Boonlert Setthamongkol",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Viking Chiu",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Ng See-Yuen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ng See-Yuen",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Keith W. Strandberg",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Richard Yuen",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Viking Chiu",
+      "rol": "Photoscience Manager"
+    }
+  ],
+  "director": "Lo Yuen-Ming",
+  "valoraciones": {
+    "tmdb": 6.896,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Imperial Entertainment",
+  "enlace_video": "https://hglink.to/e/vd9frxqdc9bt",
+  "trailer": "https://www.youtube.com/watch?v=tSudpY75cX8"
+}
