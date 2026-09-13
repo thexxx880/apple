@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 35,
+  "poster": "https://image.tmdb.org/t/p/w500/d9wHkwF9ttnNKuOoEIStve32jEk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/7ju2r6SfmRbtkb4urhLtTpUxEbN.png",
+  "titulo": "Los Simpson: La película",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.023,
+  "año": "2007",
+  "duracion": "1h 26min",
+  "edad_minima": 13,
+  "sinopsis": "Homero debe salvar al mundo de una catástrofe que él mismo ha provocado. Todo comienza con Homero, su nueva mascota, un cerdo, y un silo lleno de excrementos que tiene una fuga, una combinación que desencadena un desastre distinto a todo lo que Springfield haya experimentado jamás. Mientras Marge está indignada por la monumental metedura de pata de su patán marido, una turba vengativa cae sobre el hogar de los Simpson...",
+  "fecha_estreno": "2007-07-25",
+  "titulo_original": "The Simpsons Movie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Dan Castellaneta",
+      "personaje": "Homer Simpson / Itchy / Barney / Abe Simpson / Stage Manager / Krusty the Clown / Mayor Quimby / Mayor's Aide / Multi-Eyed Squirrel / Panicky Man / Sideshow Mel / Mr. Teeny / EPA Official / Kissing Cop / Bear / Boy on Phone / NSA Worker / Officer / Santa's Little Helper / Squeaky-Voiced Teen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
+    },
+    {
+      "nombre": "Julie Kavner",
+      "personaje": "Marge Simpson / Selma Bouvier / Patty Bouvier (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
+    },
+    {
+      "nombre": "Nancy Cartwright",
+      "personaje": "Bart Simpson / Maggie Simpson / Ralph / Nelson / Todd Flanders / TV Daughter / Woman on Phone (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg"
+    },
+    {
+      "nombre": "Yeardley Smith",
+      "personaje": "Lisa Simpson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
+    },
+    {
+      "nombre": "Hank Azaria",
+      "personaje": "Professor Frink / Comic Book Guy / Moe / Chief Wiggum / Lou / Carl / Cletus / Bumblebee Man / Male EPA Worker / Dome Depot Announcer / Kissing Cop / Carnival Barker / Counter Man / Apu / Drederick Tatum / Sea Captain / EPA Passenger / Robot / Dr. Nick / Wise Guy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+    },
+    {
+      "nombre": "Harry Shearer",
+      "personaje": "Scratchy / Mr. Burns / Rev. Lovejoy / Ned Flanders / Lenny / Skull / President Arnold Schwarzenegger / Kent Brockman / Principal Skinner / Dr. Hibbert / Smithers / Toll Booth Man / Guard / Otto / Kang (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg"
+    },
+    {
+      "nombre": "Pamela Hayden",
+      "personaje": "Milhouse Van Houten / Jimbo Jones / Rod Flanders (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mPMtuVB6AEulRhlfn69y5RvgmNT.jpg"
+    },
+    {
+      "nombre": "Tress MacNeille",
+      "personaje": "Sweet Old Lady / Colin / Mrs. Skinner / Nelson's Mother / Pig / Cat Lady / Female EPA Worker / G.P.S. Woman / Cookie Kwan / Lindsey Naegle / TV Son / Medicine Woman / Girl on Phone (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Silverman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Matt Groening",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "James L. Brooks",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Al Jean",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "David Mirkin",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mike Reiss",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mike Scully",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Matt Selman",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nikki Vanzo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hans Zimmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "John Carnochan",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Dima Malanitchev",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Chris Scarabosio",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Tom Myers",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Frans Vischer",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Rick Moser",
+      "rol": "Compositors"
+    },
+    {
+      "nombre": "Edwin Shortess",
+      "rol": "Compositors"
+    },
+    {
+      "nombre": "Matthew Schofield",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Anthony DeRosa",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "John Pomeroy",
+      "rol": "Animation"
+    }
+  ],
+  "director": "David Silverman",
+  "valoraciones": {
+    "tmdb": 7.023,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gracie Films",
+  "enlace_video": "https://streamwish.to/e/b4m5exnnd9am",
+  "trailer": "https://www.youtube.com/watch?v=XPG0MqIcby8"
+}
