@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 587792,
+  "poster": "https://image.tmdb.org/t/p/w500/eYNS3rNpLDxx5NJ16dwczAf4a7e.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/d7JUXVvjvVCXWs1mlpyO5ESdWdT.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/1O92r8CnyvdEgeda7rOZDYEWNAG.png",
+  "titulo": "Palm Springs",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.338,
+  "año": "2020",
+  "duracion": "1h 30min",
+  "edad_minima": 13,
+  "sinopsis": "Nyles, un joven despreocupado, conoce por casualidad a Sarah, la dama de honor (a regañadientes) en una boda en Palm Springs. Las cosas se complican a medida que no pueden huir del lugar ni de si mismos.",
+  "fecha_estreno": "2020-07-10",
+  "titulo_original": "Palm Springs",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Andy Samberg",
+      "personaje": "Nyles",
+      "foto": "https://image.tmdb.org/t/p/w500/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg"
+    },
+    {
+      "nombre": "Cristin Milioti",
+      "personaje": "Sarah",
+      "foto": "https://image.tmdb.org/t/p/w500/aiOOWmej3qYSiR9cUs3lm5x5SkB.jpg"
+    },
+    {
+      "nombre": "J.K. Simmons",
+      "personaje": "Roy",
+      "foto": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+      "nombre": "Peter Gallagher",
+      "personaje": "Howard",
+      "foto": "https://image.tmdb.org/t/p/w500/vD6q6Ja6bAhbfqlXS4ybCtyXtdA.jpg"
+    },
+    {
+      "nombre": "Meredith Hagner",
+      "personaje": "Misty",
+      "foto": "https://image.tmdb.org/t/p/w500/cRXnuFmhZ1FpuuixGaslHZ0B5op.jpg"
+    },
+    {
+      "nombre": "Camila Mendes",
+      "personaje": "Tala",
+      "foto": "https://image.tmdb.org/t/p/w500/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+    },
+    {
+      "nombre": "Tyler Hoechlin",
+      "personaje": "Abe",
+      "foto": "https://image.tmdb.org/t/p/w500/9AAjJeq9b0GyO0LmKQ9LHb9rzw0.jpg"
+    },
+    {
+      "nombre": "Chris Pang",
+      "personaje": "Trevor",
+      "foto": "https://image.tmdb.org/t/p/w500/rd1ScdIuW0Wo4qdjIDsnXeZDr8a.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Andy Siara",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Max Barbakow",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Max Barbakow",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Andy Samberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jorma Taccone",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Becky Sloviter",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dylan Sellers",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Akiva Schaffer",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Adam Pere",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Jack Van Nuis",
+      "rol": "Digital Compositor"
+    },
+    {
+      "nombre": "Daniel Dupre",
+      "rol": "Matte Painter"
+    },
+    {
+      "nombre": "Tim LeDoux",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Andrew Kalicki",
+      "rol": "Visual Effects Coordinator"
+    },
+    {
+      "nombre": "John Brubaker",
+      "rol": "Compositing Supervisor"
+    },
+    {
+      "nombre": "Jasper M. Baltzersen",
+      "rol": "Digital Compositor"
+    },
+    {
+      "nombre": "Tomohiko Fukuda",
+      "rol": "Digital Compositor"
+    },
+    {
+      "nombre": "Joshua Little",
+      "rol": "CG Artist"
+    },
+    {
+      "nombre": "Brian Fortune",
+      "rol": "Digital Compositor"
+    },
+    {
+      "nombre": "Joshua Bailor",
+      "rol": "Digital Compositor"
+    },
+    {
+      "nombre": "Ndosi Anyabwile",
+      "rol": "Digital Compositor"
+    }
+  ],
+  "director": "Max Barbakow",
+  "valoraciones": {
+    "tmdb": 7.338,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Limelight",
+  "enlace_video": "https://gscdn.cam/video/embed/y1s5ocmcxji4",
+  "trailer": "https://www.youtube.com/watch?v=CpBLtXduh_k"
+}
