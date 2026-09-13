@@ -1,0 +1,72 @@
+{
+  "id_tmdb": 46143,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/uWxMIZeg1Mqz0KFOZ1etFdUIuXa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/k2JuTY6vRtyj7FgNeLoKbyeZX0.jpg",
+  "logo": "",
+  "titulo": "Xica da Silva",
+  "titulo_original": "Xica da Silva",
+  "fecha_estreno": "1996-09-17",
+  "duracion": "24min",
+  "año": "1996",
+  "trending": false,
+  "generos": [
+    "Soap",
+    "Drama"
+  ],
+  "puntuacion": 7.881,
+  "sinopsis": "La historia de una esclava negra que se convierte en una dama de sociedad, despertando envidia y odio a su alrededor.",
+  "pais_origen": "BR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Taís Araújo",
+      "personaje": "Xica da Silva",
+      "foto": "https://image.tmdb.org/t/p/w500/jy2bViOZjvDfMv7jfPeuWAFWDyt.jpg"
+    },
+    {
+      "nombre": "Victor Wagner",
+      "personaje": "Contratador João Fernandes Oliveira",
+      "foto": "https://image.tmdb.org/t/p/w500/8eSTGHesSy8k44AAMZq822zHDv2.jpg"
+    },
+    {
+      "nombre": "Drica Moraes",
+      "personaje": "Violante Cabral",
+      "foto": "https://image.tmdb.org/t/p/w500/qQO47cN3esrDZn1eXWmzzG08CRI.jpg"
+    },
+    {
+      "nombre": "Carla Cabral",
+      "personaje": "Maria das Dores Gonçalo (Das Dores)",
+      "foto": "https://image.tmdb.org/t/p/w500/hjPPEfsZPzhSEN4WLHK5JrEbQmE.jpg"
+    },
+    {
+      "nombre": "Murilo Rosa",
+      "personaje": "Martim Caldeira Brant",
+      "foto": "https://image.tmdb.org/t/p/w500/7151dJTIoayM6qJfxjYaD9jLJw2.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Walter Avancini",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Walter Avancini",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Walcyr Carrasco",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.881,
+    "imdb": "tt0138277",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": ""
+}
