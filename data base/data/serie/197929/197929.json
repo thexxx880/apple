@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 197929,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/4BUcOGbMVZqgbrLdhmRn91dIGHz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zdpDdMe3zxRPMeUBWWNP7shBIzT.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/vvwufZ0XGoDyCfkCjNG8fB81bmU.png",
+  "titulo": "El Inmortal",
+  "titulo_original": "El inmortal",
+  "fecha_estreno": "2022-10-28",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Álex García",
+      "personaje": "José Antonio Ortiz",
+      "foto": "https://image.tmdb.org/t/p/w500/e084h1xHbQsEsq0zLBWfFmRNvsg.jpg"
+    },
+    {
+      "nombre": "Emilio Palacios",
+      "personaje": "Sebas Ortiz",
+      "foto": "https://image.tmdb.org/t/p/w500/iCXd6ckVChBRaLqdgScSpPr52ZC.jpg"
+    },
+    {
+      "nombre": "Marcel Borràs",
+      "personaje": "Rober",
+      "foto": "https://image.tmdb.org/t/p/w500/9c5ykk8bgM2cSieTuHOASbeW2XK.jpg"
+    },
+    {
+      "nombre": "Jason Day",
+      "personaje": "Fausti",
+      "foto": "https://image.tmdb.org/t/p/w500/xDrIZ5GLe52xRHvxPHolQrs7bvI.jpg"
+    },
+    {
+      "nombre": "María Hervás",
+      "personaje": "Isabel",
+      "foto": "https://image.tmdb.org/t/p/w500/lFiZ63KEVvdHBj3P2KOJ1xF44ed.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt8712456",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=86hcgqlE7fQ"
+}
