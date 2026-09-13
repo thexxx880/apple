@@ -1,0 +1,121 @@
+{
+  "id_tmdb": 1428226,
+  "poster": "https://image.tmdb.org/t/p/w500/1aCGJVkBZch6UN62yk44TGYU5Or.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hmoNULa9OEIM5pCzXr1XnuTVgUT.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3iE8J8LiOpfFIiGoiMR417jhd0z.png",
+  "titulo": "Hasta el fin del mundo",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6,
+  "año": "2026",
+  "duracion": "1h 38min",
+  "edad_minima": 13,
+  "sinopsis": "La vida de Manuel da un vuelco cuando Esmeralda, su amor perdido de hace quince años, lo llama inesperadamente. A pesar de estar a punto de casarse con otra persona, él se reencontrará con Esmeralda y ambos se darán cuenta de que su amor trasciende el tiempo.",
+  "fecha_estreno": "2026-07-23",
+  "titulo_original": "Hasta el fin del mundo",
+  "pais_origen": "Spain",
+  "reparto": [
+    {
+      "nombre": "Mauricio Ochmann",
+      "personaje": "Manuel",
+      "foto": "https://image.tmdb.org/t/p/w500/h5NuTsPV9HdsjPSuBG4vZtvKtlF.jpg"
+    },
+    {
+      "nombre": "Aislinn Derbez",
+      "personaje": "Esmeralda",
+      "foto": "https://image.tmdb.org/t/p/w500/y3aA1x3JpBOZHhZzTPBpDyhcra1.jpg"
+    },
+    {
+      "nombre": "Daniel Pérez Prada",
+      "personaje": "David Urquiza",
+      "foto": "https://image.tmdb.org/t/p/w500/xjxu8rfAhHFZjeeiyPGsz3O8Fjp.jpg"
+    },
+    {
+      "nombre": "Melina Figueroa",
+      "personaje": "Cynthia",
+      "foto": null
+    },
+    {
+      "nombre": "Miguel Ángel Jiménez",
+      "personaje": "Guardia Civil",
+      "foto": null
+    },
+    {
+      "nombre": "Eduardo Santacruz",
+      "personaje": "Salvador Ramírez",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Emiliano Castro Vizcarra",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Emiliano Castro Vizcarra",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Melina Figueroa",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Mario Orozco",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Frank Ariza",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ricardo Coeto",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Francisco Cordero",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Frank Ariza",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ricardo Coeto",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Francisco Cordero",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aislinn Derbez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ivonne Vela",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Maria Vertiz",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Emiliano Castro Vizcarra",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Emiliano Castro Vizcarra",
+  "valoraciones": {
+    "tmdb": 6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "AF Films",
+  "enlace_video": "https://vidhidepro.com/v/el47n5gboyq4",
+  "trailer": ""
+}
