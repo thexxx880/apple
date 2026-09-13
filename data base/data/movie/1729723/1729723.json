@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1729723,
+  "poster": "https://image.tmdb.org/t/p/w500/wybH2AK9kazNW7WYKST1YzUKP75.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8QrfX089llkLcwQ1XORwOBTSHeJ.png",
+  "titulo": "Yellow Mirror: La realidad paralela de Homero",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.157,
+  "año": "2026",
+  "duracion": "0h 27min",
+  "edad_minima": 13,
+  "sinopsis": "Una lámpara defectuosa revela una desgarradora verdad sobre lo que Homero cree que es la realidad, y una tableta impulsada por inteligencia artificial se hace amiga de Maggie y la controla. Los Simpson luchan por encontrar la luz a través de dos oscuras historias sobre lo curioso y lo extraño en este episodio exclusivo de Disney+.",
+  "fecha_estreno": "2026-08-26",
+  "titulo_original": "Yellow Mirror",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Dan Castellaneta",
+      "personaje": "Homer Simpson / Barney Gumble (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
+    },
+    {
+      "nombre": "Nancy Cartwright",
+      "personaje": "Bart Simpson / Ralph Wiggum (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg"
+    },
+    {
+      "nombre": "Julie Kavner",
+      "personaje": "Marge Simpson / Jacqueline Bouvier (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
+    },
+    {
+      "nombre": "Yeardley Smith",
+      "personaje": "Lisa Simpson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
+    },
+    {
+      "nombre": "Patti Harrison",
+      "personaje": "Hailey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/n9h4QmVkRzdOVqKTQoQESIbDjuX.jpg"
+    },
+    {
+      "nombre": "Demi Moore",
+      "personaje": "Lydia (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+    },
+    {
+      "nombre": "Harry Shearer",
+      "personaje": "Lenny Leonard (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg"
+    },
+    {
+      "nombre": "Alex Désert",
+      "personaje": "Carl Carlson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iz5fLxrOTKYUkpUmGXgVfCfIZxn.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Carolyn Omine",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kai Omine",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Matthew Faughnan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Richard Raynis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard Sakai",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Denise Sirkot",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard K. Chung",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alexander Duke",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mike B. Anderson",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Nick Dahan",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Scott Muller",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Nick Conti",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Carolyn Omine",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Don Barrozo",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Bridge",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Matt Selman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James L. Brooks",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Frink",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Groening",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Al Jean",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Matthew Faughnan",
+  "valoraciones": {
+    "tmdb": 8.157,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gracie Films",
+  "enlace_video": "https://vimeos.net/embed-76ldlx5cayl5.html",
+  "trailer": "https://www.youtube.com/watch?v=zNyZ6OlMbh0"
+}
