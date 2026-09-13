@@ -1,0 +1,125 @@
+{
+  "id_tmdb": 67460,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/sJ0FEXMb4tcRW8kPIdLJUco5H6K.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pRejrAALzDQsrCm2nh7xa5cK4HA.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/eknOOMKkVObZ6kg6Q09ns26ZU50.png",
+  "titulo": "Yu-Gi-Oh! Arc-V",
+  "titulo_original": "遊☆戯☆王ARC-V",
+  "fecha_estreno": "2014-04-06",
+  "duracion": "25min",
+  "año": "2014",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.341,
+  "sinopsis": "Serie de TV (2014). 124 episodios.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "小野賢章",
+      "personaje": "Yuya Sakaki (voice) / Joeri (voice) / Zarc (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wUYJ3HIeygHfh4rAqupE4RPoG3W.jpg"
+    },
+    {
+      "nombre": "稲村優奈",
+      "personaje": "Yuzu Hiiragi (voice) / Serena (voice) / Rin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rgVFt1IFpeSIlwC86iQ8GzAS63.jpg"
+    },
+    {
+      "nombre": "高木心平",
+      "personaje": "Ute (voice) / Hugo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6PTAXgbu2oFwToFxwd6PtlEMSTl.jpg"
+    },
+    {
+      "nombre": "逢沢 りな",
+      "personaje": "Ruri Kurosaki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wYGYaZWlYArxIHnKpZ0W5Re828F.jpg"
+    },
+    {
+      "nombre": "細谷佳正",
+      "personaje": "Reiji Akaba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "平山亜希子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "佐々木亮",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "数野高輔",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "小野勝巳",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "佐藤よしひろ",
+      "rol": "Prop Designer"
+    },
+    {
+      "nombre": "上代務",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "横田明美",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "牧孝雄",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "中川幸太郎",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "高橋和希",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "赤沢賢二",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "楫野允史",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "箕輪綾美",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "平山亜希子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "佐々木亮",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "数野高輔",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.341,
+    "imdb": "tt3696476",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=GuoavHFTsbQ"
+}
