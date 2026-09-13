@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 12500,
+  "poster": "https://image.tmdb.org/t/p/w500/irbutkEF9qg7W1lXSnUcryKAjI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7zY3QYzr2eZs2YNbEB0JObH7A9O.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wgMwp6Jc39J5uSXoIj5RRyOeiCp.png",
+  "titulo": "Ninja Americano",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.975,
+  "año": "1985",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "En Filipinas, Joe Armstrong (Michael Dudikoff), un soldado americano de la Armada, cae en una emboscada tendida por unos rebeldes. Pero con su supremo dominio de las artes marciales consigue defenderse y, de paso, descubrir una horrible conspiración en el seno del ejército americano...",
+  "fecha_estreno": "1985-08-30",
+  "titulo_original": "American Ninja",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Michael Dudikoff",
+      "personaje": "Pvt. Joe Armstrong",
+      "foto": "https://image.tmdb.org/t/p/w500/mj8wZ5Ov8ZAjvUBfIxVf4oADogh.jpg"
+    },
+    {
+      "nombre": "Steve James",
+      "personaje": "Cpl. Curtis Jackson",
+      "foto": "https://image.tmdb.org/t/p/w500/wMz9DNYCd5B2xl7YtU7aq0H1bbz.jpg"
+    },
+    {
+      "nombre": "Judie Aronson",
+      "personaje": "Patricia Hickock",
+      "foto": "https://image.tmdb.org/t/p/w500/mHfgGvgdrfFvWTbkqRjziyNFxny.jpg"
+    },
+    {
+      "nombre": "Guich Koock",
+      "personaje": "Col. William T. Hickock",
+      "foto": "https://image.tmdb.org/t/p/w500/loRBK51lUh3J4H49XecsD0UiL3Z.jpg"
+    },
+    {
+      "nombre": "John Fujioka",
+      "personaje": "Shinyuki",
+      "foto": "https://image.tmdb.org/t/p/w500/bH6tXN6aOOW97cbiXY5yLUtFl8c.jpg"
+    },
+    {
+      "nombre": "Don Stewart",
+      "personaje": "Victor Ortega",
+      "foto": null
+    },
+    {
+      "nombre": "John LaMotta",
+      "personaje": "MSgt. Rinaldo",
+      "foto": "https://image.tmdb.org/t/p/w500/xyj8QUjBv2wxgHfkHqI60lwC8Re.jpg"
+    },
+    {
+      "nombre": "Tadashi Yamashita",
+      "personaje": "Black Star Ninja",
+      "foto": "https://image.tmdb.org/t/p/w500/eSCbxdhoTC4iSrbwWr5KflwZcVz.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Sam Firstenberg",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paul De Mielche",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gideon Amir",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James R. Silke",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Yoram Globus",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gideon Amir",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Avi Kleinberger",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Ken Metcalfe",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Linn",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Marcus Manton",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Adrian Gorton",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Hanania Baer",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Andy Horvitch",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Peter Lee-Thompson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Perry Bullington",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ken Metcalfe",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Marcel Mindlin",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Daniel Wetherbee",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Robert MacDonald",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tony Artieda",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Sam Firstenberg",
+  "valoraciones": {
+    "tmdb": 5.975,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Cannon Group",
+  "enlace_video": "https://vimeos.net/embed-e4nsfes7f9zk.html",
+  "trailer": "https://www.youtube.com/watch?v=JInNMEkyPkE"
+}
