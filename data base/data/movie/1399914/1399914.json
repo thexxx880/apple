@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 1399914,
+  "poster": "https://image.tmdb.org/t/p/w500/q4nny4lnjnLYzN10EvBBRsJComp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3kbWZFgcCx4YbKkKHvJDGh6ebsH.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/dYvdW8Wfy52iADXKXFiY941V2fJ.png",
+  "titulo": "Los Simpson: Santa Homero",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.039,
+  "año": "2024",
+  "duracion": "0h 45min",
+  "edad_minima": 13,
+  "sinopsis": "Todo se complica cuando el mentalista británico Darren Brown llega a Springfield . Homero queda hipnotizado y piensa que es Santa Claus, desencadenando una serie de reacciones en todo el pueblo.",
+  "fecha_estreno": "2024-12-16",
+  "titulo_original": "The Simpsons: O C'mon All Ye Faithful",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Dan Castellaneta",
+      "personaje": "Homer Simpson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
+    },
+    {
+      "nombre": "Julie Kavner",
+      "personaje": "Marge Simpson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
+    },
+    {
+      "nombre": "Nancy Cartwright",
+      "personaje": "Bart Simpson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg"
+    },
+    {
+      "nombre": "Yeardley Smith",
+      "personaje": "Lisa Simpson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
+    },
+    {
+      "nombre": "Hank Azaria",
+      "personaje": "Moe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+    },
+    {
+      "nombre": "Harry Shearer",
+      "personaje": "Mr. Burns (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg"
+    },
+    {
+      "nombre": "Derren Brown",
+      "personaje": "Derren Brown (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/u8nwmf1bgaF7huakfKaGCYRqM5H.jpg"
+    },
+    {
+      "nombre": "Patti LaBelle",
+      "personaje": "Patti LaBelle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1t9BjspI4Y3eXombjV4H6eLhBWv.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Debbie Bruce Mahan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Matthew Faughnan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Loni Steele Sosthand",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Mirkin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mike Reiss",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard K. Chung",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard Raynis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Denise Sirkot",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Carolyn Omine",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "John Frink",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tim Long",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Rob LaZebnik",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Joel H. Cohen",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Brian Kelley",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "J. Stewart Burns",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Michael Price",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jeff Westbrook",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Dan Castellaneta",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Dan Vebber",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Ryan Koh",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "director": "Debbie Bruce Mahan",
+  "valoraciones": {
+    "tmdb": 7.039,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gracie Films",
+  "enlace_video": "https://gscdn.cam/video/embed/8a8dj32lyxnu",
+  "trailer": "https://www.youtube.com/watch?v=hiRST4Jvo0s"
+}
