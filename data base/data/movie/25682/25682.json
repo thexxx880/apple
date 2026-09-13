@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 25682,
+  "poster": "https://image.tmdb.org/t/p/w500/miZonmnwb3TokNANN5JVBbyS8os.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pXqA3aUxrsdUbthRqBhnNUi0RVe.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/68IWDP0E0ICLZmEzH6tIarRviIk.png",
+  "titulo": "Ninja Americano 3: La cacería",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 4.832,
+  "año": "1989",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "Steve James y David Bradley viajan a la remota isla caribeña de Triana esperando competir en un prestigioso torneo de artes marciales, pero en lugar de eso, se ven obligados a competir contrarreloj para salvar sus vidas cuando el terrible villano \"Cobra\" (Marjoe Gortner) utiliza una terrorífica arma biológica de nueva generación.",
+  "fecha_estreno": "1989-02-24",
+  "titulo_original": "American Ninja 3: Blood Hunt",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "David Bradley",
+      "personaje": "Sean Davidson",
+      "foto": "https://image.tmdb.org/t/p/w500/uu275GxZrHfqcaBJx6DeSuHEYWy.jpg"
+    },
+    {
+      "nombre": "Steve James",
+      "personaje": "Curtis Jackson",
+      "foto": "https://image.tmdb.org/t/p/w500/wMz9DNYCd5B2xl7YtU7aq0H1bbz.jpg"
+    },
+    {
+      "nombre": "Marjoe Gortner",
+      "personaje": "The Cobra",
+      "foto": "https://image.tmdb.org/t/p/w500/AmVU5U1LGDuxZbfGauMSDYpD4US.jpg"
+    },
+    {
+      "nombre": "Michele B. Chan",
+      "personaje": "Chan Lee",
+      "foto": "https://image.tmdb.org/t/p/w500/dpk6v14Ag74x7KRfOsqbTMFKG06.jpg"
+    },
+    {
+      "nombre": "Yehuda Efroni",
+      "personaje": "General Andreas",
+      "foto": "https://image.tmdb.org/t/p/w500/iuQgd0NUfMBGAK5iZ6T9wyl3hEX.jpg"
+    },
+    {
+      "nombre": "Calvin Jung",
+      "personaje": "Izumo",
+      "foto": "https://image.tmdb.org/t/p/w500/kQoOcL8d3R6svosZtgVCskSHS5V.jpg"
+    },
+    {
+      "nombre": "Adrienne Pearce",
+      "personaje": "Minister's Secretary",
+      "foto": "https://image.tmdb.org/t/p/w500/n4ZXCDsFGu2LWFd6eeTu0cL35wc.jpg"
+    },
+    {
+      "nombre": "Evan J. Klisser",
+      "personaje": "Dexter",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "John Stodel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cedric Sundstrom",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Harry Alan Towers",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gary Conway",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gianna Pisanello",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Avi Kleinberger",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "George Bartels",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Avi Lerner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "George S. Clinton",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Gideon Amir",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Ruth Strimling",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Michael J. Duthie",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "William Butler",
+      "rol": "Prosthetic Makeup Artist"
+    },
+    {
+      "nombre": "Patrick Cyccone Jr.",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Dieter Keck",
+      "rol": "Boom Operator"
+    },
+    {
+      "nombre": "Dave Dunn-Yarker",
+      "rol": "Aerial Camera"
+    }
+  ],
+  "director": "Cedric Sundstrom",
+  "valoraciones": {
+    "tmdb": 4.832,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Cannon Group",
+  "enlace_video": "https://gscdn.cam/video/embed/jlpqnp8143xu",
+  "trailer": "https://www.youtube.com/watch?v=xNzMcuBo4q8"
+}
