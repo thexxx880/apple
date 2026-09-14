@@ -1,0 +1,50 @@
+{
+  "id_tmdb": 15307,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/zvxkzPqSdBr4OjdniE9Ol05XQYR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/r0MNtyQgUzi5oJBSsRgIKDM7DI7.jpg",
+  "logo": "",
+  "titulo": "The Hanna-Barbera New Cartoon Series",
+  "titulo_original": "The Hanna-Barbera New Cartoon Series",
+  "fecha_estreno": "1962-09-03",
+  "duracion": "6min",
+  "año": "1962",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids",
+    "Familia"
+  ],
+  "puntuacion": 6.6,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Bill Thompson",
+      "personaje": "Touché Turtle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4l8jV6jZ9k06B62MH1rdtCho3Ag.jpg"
+    },
+    {
+      "nombre": "Alan Reed",
+      "personaje": "Dum Dum (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ilsEwVPUTQ6f9qSdRtraGhZ5BG6.jpg"
+    },
+    {
+      "nombre": "Don Messick",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iT3okvWCKy6RAdo6dbx09RP0I3p.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": "tt0278220",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": ""
+}
