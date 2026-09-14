@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 18341,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ZbasUYGZxdjJ4LuiDOTHDrmFEo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4MV0zUHCs1cV4N5iQefoO5omTQ9.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/fXRsNGumI5YgKv9YBvPGemcyWJ2.png",
+  "titulo": "Sortilegio",
+  "titulo_original": "Sortilegio",
+  "fecha_estreno": "2009-06-01",
+  "duracion": "45min",
+  "año": "2009",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Familia",
+    "Soap"
+  ],
+  "puntuacion": 7.666,
+  "sinopsis": "María José es una sencilla pueblerina que espera con ilusión el día de su boda con Alejandro Lombardo, sin sospechar que su “Alejandro” es en realidad Bruno, el hermanastro del verdadero Alejandro, quien ha heredado una gran fortuna.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jacqueline Bracamontes",
+      "personaje": "María José Samaniego Miranda de Lombardo / Sandra Betancourt Miranda",
+      "foto": "https://image.tmdb.org/t/p/w500/erQUSJAH0GAlY46DLJDFirWowgC.jpg"
+    },
+    {
+      "nombre": "William Levy",
+      "personaje": "Alejandro \"Alex\" Lombardo Villavicencio",
+      "foto": "https://image.tmdb.org/t/p/w500/dqFP6DYo2tJhFpQ4dopdrltjNcd.jpg"
+    },
+    {
+      "nombre": "David Zepeda",
+      "personaje": "Bruno Damian Albéniz / Bruno Damian Lombardo Sarmiento",
+      "foto": "https://image.tmdb.org/t/p/w500/2l8SpihRUmyYI0u8bdsc54lF8HK.jpg"
+    },
+    {
+      "nombre": "Daniela Romo",
+      "personaje": "Victoria Vda. de Albéniz / Vda. de Lombardo",
+      "foto": "https://image.tmdb.org/t/p/w500/ywqosg7f0RfGkAS79ex6dvKZfw6.jpg"
+    },
+    {
+      "nombre": "Gabriel Soto",
+      "personaje": "Fernando Alanís",
+      "foto": "https://image.tmdb.org/t/p/w500/uLSZhvBvkkDg42Z2fsHLQXGFAZu.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Karina Duprez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mónica Miguel",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Carla Estrada",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Carla Estrada",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Guillermo Gutiérrez",
+      "rol": "Producer's Assistant"
+    },
+    {
+      "nombre": "Arturo Lorca",
+      "rol": "Associate Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "María Zarattini",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Claudia Velazco",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Karina Duprez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mónica Miguel",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Carla Estrada",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Carla Estrada",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Guillermo Gutiérrez",
+      "rol": "Producer's Assistant"
+    },
+    {
+      "nombre": "Arturo Lorca",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Israel Flores",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Víctor Hugo Flores",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Rafael Brizuela",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Not applicable",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Not applicable",
+      "rol": "Makeup Department Head"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.666,
+    "imdb": "tt1439031",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": "https://www.youtube.com/watch?v=MSDzAHdB22A"
+}
