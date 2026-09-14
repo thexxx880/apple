@@ -1,0 +1,82 @@
+{
+  "id_tmdb": 160,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xYMOCsMw8OkaNndVskkSO9NXmcY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/56EA7Ex9vzg6MbeV2rVhx6QKMgI.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/gL5sktaQXuFcNAzkEdp80AR5yVS.png",
+  "titulo": "Las Tortugas Ninja",
+  "titulo_original": "Teenage Mutant Ninja Turtles",
+  "fecha_estreno": "1987-12-14",
+  "duracion": "22min",
+  "año": "1987",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 7.762,
+  "sinopsis": "Las Tortugas Ninja nacieron en las alcantarillas de Manhattan después de que una sustancia mutagénica transformara a cuatro tortugas mascota en criaturas mitad humanas.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Cam Clarke",
+      "personaje": "Leonardo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hScRMNVHAFge06mOfFEauKcthtO.jpg"
+    },
+    {
+      "nombre": "Barry Gordon",
+      "personaje": "Donatello (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eVEEAykXPyX7wP01GzCTtejShQx.jpg"
+    },
+    {
+      "nombre": "Townsend Coleman",
+      "personaje": "Michaelangelo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aMVAo35uihg08G8uc4Q4FiAS5ku.jpg"
+    },
+    {
+      "nombre": "Michael Gough",
+      "personaje": "Raphael (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/a1dGHmgxR6xvnHY1CSw9GN7Yy9Z.jpg"
+    },
+    {
+      "nombre": "Peter Renaday",
+      "personaje": "Splinter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dzigC811W3TRz6RJDKH4fXXrQs.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Kara Vallow",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kara Vallow",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Mandell",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Kevin Eastman",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Peter Laird",
+      "rol": "Characters"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.762,
+    "imdb": "tt0131613",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=TqxpXyjoMeQ"
+}
