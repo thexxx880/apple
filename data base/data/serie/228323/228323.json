@@ -1,0 +1,92 @@
+{
+  "id_tmdb": 228323,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lmpZy8UAy6RZa9FwAv2lxTGVPjR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wsnR2VCFqePWx0I27W3FXo1lp9D.jpg",
+  "logo": "",
+  "titulo": "En carne propia",
+  "titulo_original": "En carne propia",
+  "fecha_estreno": "1990-12-03",
+  "duracion": "22min",
+  "año": "1990",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 6.5,
+  "sinopsis": "Corre el año 1972: Magdalena Dumont y Octávio Muriel celebran el cumpleaños de su hija, la pequeña Estefanía, en una fiesta en la mansión familiar. Sin embargo, esta fiesta es tan solo un telón de fondo y una oportunidad para cometer un crimen.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Edith González",
+      "personaje": "Estefanía Muriel / Natalia de Jesús Ortega",
+      "foto": "https://image.tmdb.org/t/p/w500/hROLymdQizy3FLpDF3TNrEkQVAG.jpg"
+    },
+    {
+      "nombre": "Eduardo Yáñez",
+      "personaje": "Leonardo Rivadeneira",
+      "foto": "https://image.tmdb.org/t/p/w500/byj6rAJexfc72eXNL89EdOrYwA9.jpg"
+    },
+    {
+      "nombre": "Gonzalo Vega",
+      "personaje": "Octavio Muriel",
+      "foto": "https://image.tmdb.org/t/p/w500/kPz5ICDol74lJ6vmsJDgkw7D7AP.jpg"
+    },
+    {
+      "nombre": "Angélica Aragón",
+      "personaje": "Magdalena Dumont de Muriel",
+      "foto": "https://image.tmdb.org/t/p/w500/ejduK7b15cBN2Gr5FRIQOdoNrXS.jpg"
+    },
+    {
+      "nombre": "Raúl Meraz",
+      "personaje": "Don Alfonso Dumont",
+      "foto": "https://image.tmdb.org/t/p/w500/59UsfcaYSNwJUEfz5P4BFsW2hae.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Soledad Ruiz",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Carlos Téllez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Carlos Téllez",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Soledad Ruiz",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Enrique Serna",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Carlos Téllez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Carlos Téllez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carlos Olmos",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": "tt0215409",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": "https://www.youtube.com/watch?v=_D9v0hK73ro"
+}
