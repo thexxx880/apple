@@ -1,0 +1,44 @@
+{
+  "id_tmdb": 260376,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/buhh0jcDrUMjuYnfL1Lp1OUuRTJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aWhkp4aNc1er3mrTws9GGHh6atK.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/yOWt21EZ53EtXMwz9IfyrXfkbur.png",
+  "titulo": "Casper the Friendly Ghost",
+  "titulo_original": "Casper the Friendly Ghost",
+  "fecha_estreno": "1950-10-13",
+  "duracion": "24min",
+  "año": "1950",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Kids",
+    "Comedia"
+  ],
+  "puntuacion": 10,
+  "sinopsis": "¡Sigue las aventuras del fantasma más amigable del mundo, Casper, y sus amigos Wendy la Brujita Buena, Baby Huey, la Pequeña Audrey y más, en esta espeluznante colección de dibujos animados!",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Alan Shay",
+      "personaje": "Casper",
+      "foto": "https://image.tmdb.org/t/p/w500/yNk7vw7BfLsm356c8K119j6WABI.jpg"
+    },
+    {
+      "nombre": "Gwen Davies",
+      "personaje": "Casper",
+      "foto": "https://image.tmdb.org/t/p/w500/6D4UderOUdtoFSpglUNkdsUYXvN.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 10,
+    "imdb": "",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": ""
+}
