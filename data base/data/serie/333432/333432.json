@@ -1,0 +1,54 @@
+{
+  "id_tmdb": 333432,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/iJ7tEJYIYdCvBUvf1vqb5ITGyeq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/byIqSmeAIh2jovGcuPCcOlBBObG.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/bgE3RtEUdfjH9FybQy2eBdw8aYb.png",
+  "titulo": "Looney Tunes",
+  "titulo_original": "Looney Tunes",
+  "fecha_estreno": "1929-01-05",
+  "duracion": "24min",
+  "año": "1929",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "June Foray",
+      "personaje": "Granny, Witch Hazel, various others",
+      "foto": "https://image.tmdb.org/t/p/w500/6s5sWcOPGtVdbMFtZwkWadArj2I.jpg"
+    },
+    {
+      "nombre": "Arthur Q. Bryan",
+      "personaje": "Elmer Fudd",
+      "foto": "https://image.tmdb.org/t/p/w500/15K5UH5aLdqxwFBWobnXZ0Qhb4J.jpg"
+    },
+    {
+      "nombre": "Billy Bletcher",
+      "personaje": "Papa Bear, Spike, Wolf, various others",
+      "foto": "https://image.tmdb.org/t/p/w500/ncapDtCeDsMJxEKFXocJTFfnpau.jpg"
+    },
+    {
+      "nombre": "Mel Blanc",
+      "personaje": "Bugs Bunny, Daffy Duck, Tweety, Sylvester the Cat, Yosemite Sam, various others",
+      "foto": "https://image.tmdb.org/t/p/w500/8fevv4K06TmHsYom2XfmxgKrTcd.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=DuXwFlL8Usk"
+}
