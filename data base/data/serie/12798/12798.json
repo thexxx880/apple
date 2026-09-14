@@ -1,0 +1,84 @@
+{
+  "id_tmdb": 12798,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/gzbDPlrvjiOHPRZAQjiLel4evMF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8NBKa6r9BkvjZyNTPl20k6oCovy.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7dA9EAnWmfUJ145EFDrEg8kwZt8.png",
+  "titulo": "Rina",
+  "titulo_original": "Rina",
+  "fecha_estreno": "1977-01-03",
+  "duracion": "30min",
+  "año": "1977",
+  "trending": false,
+  "generos": [
+    "Soap",
+    "Drama"
+  ],
+  "puntuacion": 7.7,
+  "sinopsis": "Don Leopoldo Miranda es un viejo gruñón, inválido y millonario que, a punto de morir, no soporta la idea de que su fortuna quede en manos de su odiosa cuñada Rafaela. Para evitarlo, se casa con una jovencita que un día se acerca a venderle flores. Esta jovencita, pobre y jorobada, se llama Rina.\n\nCon solo 17 años, Rina queda viuda y millonaria. Rafaela, furiosa, concibe un malévolo plan para quitarle su fortuna: Hace que Rina se opere la joroba y la casa con su hijo Carlos Augusto.\n\nRina se enamora de su esposo, pero él la desprecia ya que la compara con un gran amor que murió trágicamente al pie del altar. Debido al trauma que le causó esta tragedia, Carlos Augusto ha quedado impotente. Sin embargo la ingenua Rina lo cura de su enfermedad. Queda embarazada, y Rafaela intentará enloquecerla para quedarse con su herencia y su nieto. Sólo la bondad y el gran amor de Rina lograrán combatir a su suegra y hacer que su esposo le corresponda.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ofelia Medina",
+      "personaje": "Rina Galeana",
+      "foto": "https://image.tmdb.org/t/p/w500/8lRQ05k1UAEB8vf8WdxZ9Hh6J0j.jpg"
+    },
+    {
+      "nombre": "Enrique Álvarez Félix",
+      "personaje": "Carlos Augusto Miranda Carballo",
+      "foto": "https://image.tmdb.org/t/p/w500/rbJilwgcOuyLjHaAmfzT7EMXI2E.jpg"
+    },
+    {
+      "nombre": "María Rubio",
+      "personaje": "Rafaela Carballo viuda de Miranda",
+      "foto": "https://image.tmdb.org/t/p/w500/4usOkk4OVJtr6uhyhNWiZ0rzWvn.jpg"
+    },
+    {
+      "nombre": "Carlos Ancira",
+      "personaje": "Leopoldo Miranda",
+      "foto": "https://image.tmdb.org/t/p/w500/itJG55KLDe0bkLVbPKLV3Un00po.jpg"
+    },
+    {
+      "nombre": "Alicia Rodríguez Fernández",
+      "personaje": "María Julia/ Victoria",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Dimitrio Sarrás",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Valentín Pimstein",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Inés Rodena",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Luis Reyes de la Maza",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Dimitrio Sarrás",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Valentín Pimstein",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": "tt0224956",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": "https://www.youtube.com/watch?v=FRh1sn2_4qc"
+}
