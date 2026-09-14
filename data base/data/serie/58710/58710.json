@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 58710,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6cQ8B9WwAlTfY7bkXJrPEecnAxu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fUtgiJGvWqOR1WcWCvkCd2NzpVG.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kvD6mecwZ5Kmi0ohJVWQRe6e4OG.png",
+  "titulo": "Carita de Ángel",
+  "titulo_original": "Carita de Ángel",
+  "fecha_estreno": "2000-06-19",
+  "duracion": "45min",
+  "año": "2000",
+  "trending": false,
+  "generos": [
+    "Soap",
+    "Drama",
+    "Kids",
+    "Comedia"
+  ],
+  "puntuacion": 7.804,
+  "sinopsis": "Dulce María es como su nombre, una dulce niña de 5 años, llena de alegría y buenos sentimientos. Con la muerte de su madre, su padre, Luciano Larios, se hunde en la depresión y el dolor, y decide alejarse de todo y de todos. Interna a Dulce María en el colegio de monjas \"Reina de América\" y se marcha al extranjero dejándola al cuidado de su hermano Gabriel, que es sacerdote. La única que visita que recibe la niña es la de su querida tía Estefanía, a quien llama cariñosamente \"Tía Pelucas\" debido a que en lugar de mostrar su cabello, usa pelucas de colores que combina con su ropa.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Daniela Aedo",
+      "personaje": "Dulce María Larios Valle",
+      "foto": "https://image.tmdb.org/t/p/w500/qRJl4VbT0s5N9j4v875zbFi3CLc.jpg"
+    },
+    {
+      "nombre": "Lisette Morelos",
+      "personaje": "Cecilia Santos de Larios",
+      "foto": "https://image.tmdb.org/t/p/w500/ppNJngO5Tth4i3RRWOVHvkSnxFm.jpg"
+    },
+    {
+      "nombre": "Miguel de León",
+      "personaje": "Luciano Larios Rocha",
+      "foto": "https://image.tmdb.org/t/p/w500/dWPxOP6QhlJtYUQb74pLgDxWdgn.jpg"
+    },
+    {
+      "nombre": "Libertad Lamarque",
+      "personaje": "Madre Superiora Piedad de la Luz",
+      "foto": "https://image.tmdb.org/t/p/w500/7Xgj3EFd6KgdmgRvwEAsWJkBVoA.jpg"
+    },
+    {
+      "nombre": "Silvia Pinal",
+      "personaje": "Reverenda Lucía / Madre Superiora #2",
+      "foto": "https://image.tmdb.org/t/p/w500/1qa21MhlZ7vKCAjyrsfrS9hxniP.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Juan Carlos Muñoz",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Marta Luna",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Pablo Noceda",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Georgina Castro",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Nicandro Díaz González",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lily Garza",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alberto Aridjis",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Juan Carlos Muñoz",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Marta Luna",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kary Fajer",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Abel Santacruz",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Valentin Rodriguez",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Ricardo Tejeda",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Beatriz Cecilia",
+      "rol": "Choreographer"
+    },
+    {
+      "nombre": "Noemi Cortés",
+      "rol": "Continuity"
+    },
+    {
+      "nombre": "Patricia de Vincenzo",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Omar Ayala",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ángel Campos",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Rosario Velicia",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Pablo Noceda",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Georgina Castro",
+      "rol": "Associate Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.804,
+    "imdb": "tt0247859",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": "https://www.youtube.com/watch?v=he_Yn3VRYTo"
+}
