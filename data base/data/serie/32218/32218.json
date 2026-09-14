@@ -1,0 +1,67 @@
+{
+  "id_tmdb": 32218,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/o0Ib9awYstLDQwmQQeSjiXrfLJ5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/71F0VYpgRjCO6R9VzqhUZiHZbT7.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nAfhwSBfe4Q0wRkB8e3cfsfuOhh.png",
+  "titulo": "Soy tu dueña",
+  "titulo_original": "Soy tu dueña",
+  "fecha_estreno": "2010-06-15",
+  "duracion": "24min",
+  "año": "2010",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.705,
+  "sinopsis": "Valentina Vilaça es una mujer adinerada que heredó una inmensa fortuna de sus padres tras la muerte de estos en un accidente automovilístico. Vive en una mansión de la Ciudad de México con su tía, Isabel Rangel de Dorantes, y su prima, Ivana Dorantes Rangel —quien trata a Valentina con gran indiferencia y siente envidia de ella—. Todo cambia para Valentina cuando su prometido, Alonso Penalva, se alía con Ivana y la deja plantada en el altar el día de su boda. A partir de ese momento, Valentina se convierte en una mujer amargada, aunque finalmente encuentra el amor junto a José Miguel Montesinos.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lucero",
+      "personaje": "Valentina Villalba Rangel",
+      "foto": "https://image.tmdb.org/t/p/w500/wMjyAYYAXyCO5I6qn9Btn704V0k.jpg"
+    },
+    {
+      "nombre": "Fernando Colunga",
+      "personaje": "José Miguel Montesinos",
+      "foto": "https://image.tmdb.org/t/p/w500/jJzhBF7qVWXjqLidNbQBYpu5nDH.jpg"
+    },
+    {
+      "nombre": "Gabriela Spanic",
+      "personaje": "Ivana Dorantes Rangel",
+      "foto": "https://image.tmdb.org/t/p/w500/cTtrFMJhWifDnBs0ZmmcsEXbcOQ.jpg"
+    },
+    {
+      "nombre": "Sergio Goyri",
+      "personaje": "Rosendo Gavilan",
+      "foto": "https://image.tmdb.org/t/p/w500/x7TXmva21eXLrzjWWYbdFET8HGb.jpg"
+    },
+    {
+      "nombre": "David Zepeda",
+      "personaje": "Alonso Peñalvert",
+      "foto": "https://image.tmdb.org/t/p/w500/2l8SpihRUmyYI0u8bdsc54lF8HK.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Nicandro Díaz González",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nicandro Díaz González",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.705,
+    "imdb": "tt1630269",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": "https://www.youtube.com/watch?v=NBOK9m95HwA"
+}
