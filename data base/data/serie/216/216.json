@@ -1,0 +1,98 @@
+{
+  "id_tmdb": 216,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/x2kuMiqTkZhqi3DHxdPq8uBz4kw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/q8Eiw6XBQ9urbaKmP9ChxkjOZmw.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/j91wwYjp6nJ2EjuIZZeatYmjJpU.png",
+  "titulo": "Duck Dodgers",
+  "titulo_original": "Duck Dodgers",
+  "fecha_estreno": "2003-08-23",
+  "duracion": "22min",
+  "año": "2003",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "puntuacion": 7.461,
+  "sinopsis": "Duck Dodgers es una serie televisiva animada americana, basado en el corto Duck Dodgers in the 24½th Century de 1953, producido por Warner Bros. Animation de 2003 a 2005.1 La serie es un cómic de ciencia ficción, con personajes de Looney Tunes como actores en papeles de metaficción, con el Pato Lucas como el héroe titular. Originalmente se transmitió en Cartoon Network y Boomerang.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Joe Alaskey",
+      "personaje": "Duck Dodgers / The Martian Commander (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bYC9pHuC8ownvMlEgWoMEwItsUu.jpg"
+    },
+    {
+      "nombre": "Bob Bergen",
+      "personaje": "The Eager Young Space Cadet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"
+    },
+    {
+      "nombre": "Richard McGonagle",
+      "personaje": "Dr. I.Q. Hi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eso1WgiZiqwOb1vp2sOF6uJyJn1.jpg"
+    },
+    {
+      "nombre": "Tia Carrere",
+      "personaje": "The Martian Queen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/keNGO3NAGVhiFzHhGPjGw4TzqJ5.jpg"
+    },
+    {
+      "nombre": "Michael Dorn",
+      "personaje": "Centurion Robot (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6mVjb0YsidC0gW9P8mXMkQirfcK.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Paul Dini",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tom Jones",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Robert J. Kral",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Chuck Jones",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Kliph Scurlock",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Michael Ivins",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Steven Drozd",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Wayne Coyne",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Paul Dini",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.461,
+    "imdb": "tt0376390",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros",
+  "trailer": ""
+}
