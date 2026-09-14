@@ -1,7 +1,7 @@
 {
   "id_tmdb": 95350,
   "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/tWQQufVyYfIwDvhicXI1gLAXWR0.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
   "logo": "https://image.tmdb.org/t/p/original/rx7P703ezg6drkBUjZYJFGR6V2j.png",
   "titulo": "Linternas",
   "titulo_original": "Lanterns",
@@ -14,7 +14,7 @@
     "Misterio",
     "Sci-Fi & Fantasy"
   ],
-  "puntuacion": 8.1,
+  "puntuacion": 8.27,
   "sinopsis": "El nuevo recluta John Stewart y la leyenda Hal Jordan, dos policías intergalácticos, se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos.",
   "pais_origen": "US",
   "calificacion": "16",
@@ -28,7 +28,7 @@
     {
       "nombre": "Aaron Pierre",
       "personaje": "John Stewart",
-      "foto": "https://image.tmdb.org/t/p/w500/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/hNwZWdT2KxKj1YLbipvtUhNjfAp.jpg"
     },
     {
       "nombre": "Kelly Macdonald",
@@ -38,26 +38,26 @@
     {
       "nombre": "Garret Dillahunt",
       "personaje": "William 'Will' Macon",
-      "foto": "https://image.tmdb.org/t/p/w500/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/7wHWTkIhre0j9L9CY2t5VVwg630.jpg"
     },
     {
       "nombre": "Poorna Jagannathan",
       "personaje": "Zoe Macon",
-      "foto": "https://image.tmdb.org/t/p/w500/cdfzpja6kif9NsWlN2K91RVn1Xt.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg"
     }
   ],
   "director": "",
   "equipo_creativo": [
     {
-      "nombre": "Peter Safran",
-      "rol": "Executive Producer"
-    },
-    {
       "nombre": "James Gunn",
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Tom King",
+      "nombre": "Peter Safran",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Mundy",
       "rol": "Executive Producer"
     },
     {
@@ -65,7 +65,7 @@
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Chris Mundy",
+      "nombre": "Tom King",
       "rol": "Executive Producer"
     },
     {
@@ -75,15 +75,15 @@
   ],
   "crew": [
     {
-      "nombre": "Peter Safran",
-      "rol": "Executive Producer"
-    },
-    {
       "nombre": "James Gunn",
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Tom King",
+      "nombre": "Peter Safran",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Mundy",
       "rol": "Executive Producer"
     },
     {
@@ -91,7 +91,7 @@
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Chris Mundy",
+      "nombre": "Tom King",
       "rol": "Executive Producer"
     },
     {
@@ -136,7 +136,7 @@
     }
   ],
   "valoraciones": {
-    "tmdb": 8.1,
+    "tmdb": 8.27,
     "imdb": "tt26545992",
     "rotten_tomatoes": null
   },
