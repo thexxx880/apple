@@ -1,0 +1,90 @@
+{
+  "id_tmdb": 4784,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/r6V6sDF8rtYWXPsov5zwEt8iTux.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pCHKnO0jSKL46IlHRmFEVmZXLkn.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/679UiREFVHwL2XDlVje7JDQ7NZJ.png",
+  "titulo": "La Mujer Araña",
+  "titulo_original": "Spider-Woman",
+  "fecha_estreno": "1979-09-22",
+  "duracion": "20min",
+  "año": "1979",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Kids",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.577,
+  "sinopsis": "Siendo niña, mientras visitaba el laboratorio de su padre, Jessica fue mordida por una araña venenosa. Forzado a utilizar un suero de arácnido sin experimentar, El Dr. Drew no solo salvó la vida de su hija; sin saberlo, le dió increíbles poderes de arácnido. Poderes que ella ahora utiliza para luchar contra el mal, a la vez que apoya a la justicia como la Mujer Araña.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Joan Van Ark",
+      "personaje": "Spider-Woman / Jessica Drew (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kaFX2j8kclLUYHkNBoBIJySTMqT.jpg"
+    },
+    {
+      "nombre": "Dick Tufeld",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1aLohm3asIPl1JDKDsSUadFnBsB.jpg"
+    },
+    {
+      "nombre": "Bruce Millar",
+      "personaje": "Jeff Hunt (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Bryan Scott",
+      "personaje": "Billy (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Lou Krugman",
+      "personaje": "Chief Cooper / General / Admiral Hubbard (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/A0E6io5FCn52tVzDXy0zG4dST4U.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Lee Gunther",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David H. DePatie",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Friz Freleng",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lee Gunther",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David H. DePatie",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Friz Freleng",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Art Vitello",
+      "rol": "Animation"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.577,
+    "imdb": "tt0197911",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=IvGgQdamZfQ"
+}
