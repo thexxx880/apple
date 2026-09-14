@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 10400,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qvMb4xMSg01H9HSWdZDSeBSCosU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7PJl7G515bu3XajvKWrfi2hz8iW.jpg",
+  "logo": "",
+  "titulo": "La pequeña Lulú",
+  "titulo_original": "The Little Lulu Show",
+  "fecha_estreno": "1995-10-22",
+  "duracion": "22min",
+  "año": "1995",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Kids"
+  ],
+  "puntuacion": 7.6,
+  "sinopsis": "La pequeña Lulú, una comediante animada, y su mejor amiga Anita viven locas aventuras con el club de Tobi, gastando bromas y metiéndose en líos en la escuela, por el barrio y en el parque.",
+  "pais_origen": "CA",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Tracey Ullman",
+      "personaje": "Louise \"Little Lulu\" Moppet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg"
+    },
+    {
+      "nombre": "Bruce Dinsmore",
+      "personaje": "Thomas \"Tubby\" Tompkins (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aO0qlddrQlogsnlLU9CP5q8N1Mf.jpg"
+    },
+    {
+      "nombre": "Vanessa Lengies",
+      "personaje": "Annie Inch (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yqnNHJsTQGVlkSN5phh9QShoXTm.jpg"
+    },
+    {
+      "nombre": "Dawn Ford",
+      "personaje": "Iggy Inch (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/f6MGyVIEUcCIbCVAy6MZH8NMnuC.jpg"
+    },
+    {
+      "nombre": "Justin Bradley",
+      "personaje": "Eddie Stimson (voice)",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.6,
+    "imdb": "tt0242213",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": ""
+}
