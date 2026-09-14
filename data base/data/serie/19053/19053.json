@@ -1,0 +1,86 @@
+{
+  "id_tmdb": 19053,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5jAIzVTg08r7bqCdQm0733oDeLR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2O4DxwUcjiqWnkDq008fpcHQ5AZ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nP9tJeHLqI4uBdtjUS91qjvwTTa.png",
+  "titulo": "Augie Doggie and Doggie Daddy",
+  "titulo_original": "Augie Doggie and Doggie Daddy",
+  "fecha_estreno": "1959-09-19",
+  "duracion": "7min",
+  "año": "1959",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 7.6,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Daws Butler",
+      "personaje": "Augie Doggie",
+      "foto": "https://image.tmdb.org/t/p/w500/qxaOMbICdts0qpUmkYj3OMhDGt8.jpg"
+    },
+    {
+      "nombre": "Doug Young",
+      "personaje": "Doggie Daddy",
+      "foto": "https://image.tmdb.org/t/p/w500/wyRweNQiHFXvlSN6BagrSFxIKBk.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hoyt Curtin",
+      "rol": "Music"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Maltese",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.6,
+    "imdb": "tt11425668",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": ""
+}
