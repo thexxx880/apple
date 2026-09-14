@@ -1,0 +1,78 @@
+{
+  "id_tmdb": 335211,
+  "poster": "",
+  "backdrop": "",
+  "logo": "",
+  "titulo": "Tom y Jerry",
+  "titulo_original": "Tom and Jerry",
+  "fecha_estreno": "1940-02-10",
+  "duracion": "24min",
+  "año": "1940",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "puntuacion": 0,
+  "sinopsis": "Tom, un astuto gato doméstico, intenta atrapar constantemente a Jerry, un pequeño y escurridizo ratón que vive en la misma casa. Sus persecuciones y enfrentamientos desencadenan situaciones caóticas y cómicas, convirtiendo su eterna rivalidad en una sucesión de aventuras llenas de humor físico.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Director"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rudolf Ising",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fred Quimby",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "William Hanna",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Director"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rudolf Ising",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fred Quimby",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Scott Bradley",
+      "rol": "Music"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 0,
+    "imdb": "",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Metro Goldwyn Mayer, Warner Bros",
+  "trailer": ""
+}
