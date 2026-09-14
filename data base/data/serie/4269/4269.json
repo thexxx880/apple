@@ -1,0 +1,102 @@
+{
+  "id_tmdb": 4269,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/h4DvodvcLWh7xdpj872Bq0V2DKS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1XpTPpBDqMrP1USdJIiH2oBd7UU.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/uOp96jgbEdqXDfP0beEzL6Rkxc1.png",
+  "titulo": "Transformers G1",
+  "titulo_original": "The Transformers",
+  "fecha_estreno": "1984-10-06",
+  "duracion": "22min",
+  "año": "1984",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Kids",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.846,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Peter Cullen",
+      "personaje": "Optimus Prime (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
+    },
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Galvatron / Chromedome (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Richard Gautier",
+      "personaje": "Hot Rod (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dEbmkkUJ22d4hD1rtwmLqVNxcsA.jpg"
+    },
+    {
+      "nombre": "Jack Angel",
+      "personaje": "Ultra Magnus / Cyclonus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5MsVwIULYJotUSbDs61uSJff7ei.jpg"
+    },
+    {
+      "nombre": "Susan Blu",
+      "personaje": "Arcee (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xDtrH8YqqVc11kAUThxG80AaaHP.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Lee Gunther",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Margaret Loesch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nelson Shin",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Russell",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Lee Gunther",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Donald F. Glut",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Robert J. Walsh",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Margaret Loesch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nelson Shin",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Johnny Douglas",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.846,
+    "imdb": "tt0086817",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=q6Bf3Hui_LE"
+}
