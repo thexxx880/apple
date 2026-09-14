@@ -1,0 +1,95 @@
+{
+  "id_tmdb": 1769,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/cGceNrHpUl3utUzE502xSY8l9ST.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gxSbrQ0pR85NdEA0bXvSokVVRdA.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/mAoSwO1WtJQmISby9EBomF5Ybcf.png",
+  "titulo": "Johnny Test",
+  "titulo_original": "Johnny Test",
+  "fecha_estreno": "2005-09-17",
+  "duracion": "11min",
+  "año": "2005",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "puntuacion": 6.329,
+  "sinopsis": "Johnny Test, un ingenioso niño de 11 años, y Dukey, su perro transgénico parlante, protagonizan aventuras para salvar a su familia y al mundo.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "James Arnold Taylor",
+      "personaje": "Johnny Test (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sSthBDGT8HBd2hXRNPymA6D0ov8.jpg"
+    },
+    {
+      "nombre": "Maryke Hendrikse",
+      "personaje": "Susan Test (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9iMFnpg5VmZvNWJ7Lo9AlvemoMb.jpg"
+    },
+    {
+      "nombre": "Ashleigh Ball",
+      "personaje": "Mary Test (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ovPv8tKP5ZYUtJ7AsKMvjwecsQT.jpg"
+    },
+    {
+      "nombre": "Lee Tockar",
+      "personaje": "The General / Bling-Bling Boy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eloBMEfs9q0ypUzXueVg5qe4CJe.jpg"
+    },
+    {
+      "nombre": "Ian James Corlett",
+      "personaje": "Hugh Test (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y0p99omSo8CgHWPjv7qXtAQVyzr.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Hirsh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Fellows",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Toper Taylor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Fellows",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Hirsh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Fellows",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Toper Taylor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Fellows",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.329,
+    "imdb": "tt0454349",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=n3uVwxAoUdo"
+}
