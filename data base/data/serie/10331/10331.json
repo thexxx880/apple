@@ -1,0 +1,96 @@
+{
+  "id_tmdb": 10331,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/sKZR2IIrPPo2LnMdYfxvOlXFls7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/feOqjyLikWoN3sANxwGYehwX3HB.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3mHoVgBkuAv3SWRsesA09cXxSzM.png",
+  "titulo": "Spawn",
+  "titulo_original": "Spawn",
+  "fecha_estreno": "1997-05-16",
+  "duracion": "24min",
+  "año": "1997",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Drama",
+    "Misterio",
+    "Sci-Fi & Fantasy",
+    "Crimen"
+  ],
+  "puntuacion": 8.026,
+  "sinopsis": "Al Simmons, un superagente del gobierno, es asesinado por su jefe, el malvado Jason Wynn, con la ayuda de su terrible colaborador, Clown. Deseando volver a ver a su amada Wanda, y cegado por la venganza, Simmons decide hacer un pacto con el diablo.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Todd McFarlane",
+      "personaje": "Self - Host",
+      "foto": "https://image.tmdb.org/t/p/w500/fG0NF6gKK0lBwJTtTPXzp4e4yp8.jpg"
+    },
+    {
+      "nombre": "Keith David",
+      "personaje": "Al Simmons / Spawn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+    },
+    {
+      "nombre": "Richard Dysart",
+      "personaje": "Nicholas Cogliostro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yQOaZexN3YbqGWOguu2VrjsvX2G.jpg"
+    },
+    {
+      "nombre": "Dominique Jennings",
+      "personaje": "Wanda Blake (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "James Keane",
+      "personaje": "Sam Burke (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qGOuDCsYQ6IVfUr2P5K2pV6v9Ij.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Todd McFarlane",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Leekley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Randall White",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rebekah Bradford",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "John Leekley",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Todd McFarlane",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Leekley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Randall White",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.026,
+    "imdb": "tt0118475",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DC Comics, HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=YsOsrjPp_WE"
+}
