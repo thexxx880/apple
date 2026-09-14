@@ -1,5 +1,18 @@
 [
   {
+    "id_tmdb": 2328,
+    "poster": "https://image.tmdb.org/t/p/w500/qx3SJlAp2RK656TusqKx1qEqVMW.jpg",
+    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=2328",
+    "type": "serie",
+    "año": "1993",
+    "titulo": "Power Rangers",
+    "generos": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Kids"
+    ]
+  },
+  {
     "id_tmdb": 3411,
     "poster": "https://image.tmdb.org/t/p/w500/rIdaPIehrNdQvNNrVQs0da1kaEQ.jpg",
     "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=3411",
@@ -11,19 +24,6 @@
       "Action & Adventure",
       "Crimen",
       "Sci-Fi & Fantasy"
-    ]
-  },
-  {
-    "id_tmdb": 2328,
-    "poster": "https://image.tmdb.org/t/p/w500/qx3SJlAp2RK656TusqKx1qEqVMW.jpg",
-    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=2328",
-    "type": "serie",
-    "año": "1993",
-    "titulo": "Power Rangers",
-    "generos": [
-      "Action & Adventure",
-      "Sci-Fi & Fantasy",
-      "Kids"
     ]
   },
   {
