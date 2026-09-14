@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 2328,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/nhPocet3k2Dw2BwpHdT0dManc9Q.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/i01wnWz0Z3rMATqbkAVLHEaGbNP.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/bCfmjFxNLjMKRSLFx5uFpivX2ly.png",
+  "titulo": "Power Rangers",
+  "titulo_original": "Power Rangers",
+  "fecha_estreno": "1993-08-28",
+  "duracion": "24min",
+  "año": "1993",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "Recordada serie de televisión de principios de los 90 que tuvo gran éxito en todo el mundo, generando no sólo una película (Power Rangers: La película), sino también una larguísima lista de nuevas series basadas en los personajes, así como una gran cantidad de merchandising relacionado con las mismas.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "David Yost",
+      "personaje": "Billy Cranston",
+      "foto": "https://image.tmdb.org/t/p/w500/yS9o0lmhsCBDevzUXDvE5ahsCSV.jpg"
+    },
+    {
+      "nombre": "Kai Moya",
+      "personaje": "Ollie Kana",
+      "foto": "https://image.tmdb.org/t/p/w500/2gwLCWp27qADBiuVYzLTYcJbniO.jpg"
+    },
+    {
+      "nombre": "Hunter Deno",
+      "personaje": "Amelia Jones",
+      "foto": "https://image.tmdb.org/t/p/w500/uJYFz1SiXCaTpf2tbwcs2zqnVje.jpg"
+    },
+    {
+      "nombre": "Tessa Rao",
+      "personaje": "Izzy Garcia",
+      "foto": "https://image.tmdb.org/t/p/w500/6Yh9XgaO2LssGKb6pjvg3ZXwSEi.jpg"
+    },
+    {
+      "nombre": "Jacqueline Joe",
+      "personaje": "Fern",
+      "foto": "https://image.tmdb.org/t/p/w500/3cosjwKSbDq2hEPS4w8WacT9rQs.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Kari Rosenberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Randi Yaffa",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hillary Zwick Turner",
+      "rol": "Creative Producer"
+    },
+    {
+      "nombre": "Simon Bennett",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Olivier Dumont",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Becca Barnes",
+      "rol": "Co-Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Takashi Furuya",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kari Rosenberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Timmins",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Hirokazu Iwakami",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ryohei Sakai",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Randi Yaffa",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tsubasa Hotta",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Atsushi Okuma",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Hillary Zwick Turner",
+      "rol": "Creative Producer"
+    },
+    {
+      "nombre": "Mackay Crawley",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kohei Matsuoka",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kei Saeki",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "高嵜百花",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Alec McColl",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Rintaro Shimizu",
+      "rol": "Stunts"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt0106064",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=JtHdFyqQi6A"
+}
