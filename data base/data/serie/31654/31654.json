@@ -1,0 +1,80 @@
+{
+  "id_tmdb": 31654,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/aRnUQ7rVpC2fxBz387h1Wgy02Fs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/naP3oYVX0vSxpx0HjUkdeKbkfiA.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/A4lDu1tryHOqpmUOeIZk9rknImv.png",
+  "titulo": "Digimon",
+  "titulo_original": "デジモンアドベンチャー",
+  "fecha_estreno": "1999-03-07",
+  "duracion": "22min",
+  "año": "1999",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.07,
+  "sinopsis": "La historia se centra en 7 niños de Japón, que son transportados al Mundo digital después de encontrar unos Digivice y ser arrastrados por una \"gran ola\", llegando así a la Isla File (lit. «Isla archivo»). Allí encuentran a sus compañeros Digimon, y con su ayuda, aprenderán a sobrevivir pese a las adversidades de estar en un mundo desconocido. Conforme avanza la serie, descubren que son los Niños elegidos. A mitad de la serie se integra el octavo niño elegido con su Digimon. Los 8 niños tendrán que luchar contra las fuerzas de la oscuridad que quieren apoderarse del mundo digital y el mundo real.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "木内レイコ",
+      "personaje": "Daisuke Motomiya (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nv9hyd2QKyMIsQbulKJ3giEBHtq.jpg"
+    },
+    {
+      "nombre": "Megumi Urawa",
+      "personaje": "Iori Hida / Armadimon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d02D5dxz8bmAuIkG8GrUabKvBW7.jpg"
+    },
+    {
+      "nombre": "夏樹リオ",
+      "personaje": "Miyako Inoue (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/46BlB9cVS0Qq0XnG0lhqbbdbZna.jpg"
+    },
+    {
+      "nombre": "平田広明",
+      "personaje": "Takeru Takaishi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mMWEdlssJm3TVuXW4Wb7pQeX20Z.jpg"
+    },
+    {
+      "nombre": "Romi Park",
+      "personaje": "Ken Ichijouji / Digimon Kaiser (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fl9vyA3HEkOyTiZBJBhAR3OSmrO.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "前川淳",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "吉村元希",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "角銅博之",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "和田光司",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "本郷あきよし",
+      "rol": "Original Concept"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.07,
+    "imdb": "tt0210418",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=bCGbuDujAiE"
+}
