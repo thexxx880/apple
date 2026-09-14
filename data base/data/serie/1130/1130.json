@@ -1,0 +1,94 @@
+{
+  "id_tmdb": 1130,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/18rhdRDXAAHUTsbWtIQn2ZkjRL9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jTupUx9wdoIKe8BFoP5Z1xzEtno.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/dSt9Cfo4M4ueGibNmuuQNUBBKwX.png",
+  "titulo": "Silver Surfer",
+  "titulo_original": "Silver Surfer",
+  "fecha_estreno": "1998-02-07",
+  "duracion": "24min",
+  "año": "1998",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "puntuacion": 7.368,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Paul Essiembre",
+      "personaje": "Silver Surfer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cM9uhNoWtNBfjVpmESoL0HJf9UX.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Roy Allen Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Larry Brody",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chris Kane",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Roy Allen Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Larry Brody",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Larry Brody",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Dale Hendrickson",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jack Kirby",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Characters"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.368,
+    "imdb": "tt0203268",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=hHLI7VPFXro"
+}
