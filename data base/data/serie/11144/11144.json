@@ -1,0 +1,50 @@
+{
+  "id_tmdb": 11144,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2XAHYEZZT2uSzVlz46E1SgjRO2v.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mcnCaHvHnoPqEoFEeCo5Qys3E5r.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4QSN16laCmsavE82MenI9EXVnHg.png",
+  "titulo": "El grupo increíble",
+  "titulo_original": "Drak Pack",
+  "fecha_estreno": "1980-11-22",
+  "duracion": "22min",
+  "año": "1980",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "puntuacion": 7.8,
+  "sinopsis": "Originalmente conocida como Drak Pack, la serie muestra a tres adolescentes, que son descendientes del Conde Drácula, Frankenstein, y de un hombre lobo, este trio forma un equipo de superhéroes llamada el increíble grupo del Conde Drácula, destinado a expiar los crímenes de sus antepasados.",
+  "pais_origen": "AU",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": "tt0220892",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": ""
+}
