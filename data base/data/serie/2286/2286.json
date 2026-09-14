@@ -1,0 +1,61 @@
+{
+  "id_tmdb": 2286,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kLquadlhGPfpKHkVNRgrq0tzHkL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fE1HSYnlUlGYBdq81oLuiOnTDC7.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nKy5U2df7ipiwE8JmKOFZqwHwHW.png",
+  "titulo": "Los Verdaderos Cazafantasmas",
+  "titulo_original": "The Real Ghostbusters",
+  "fecha_estreno": "1986-09-13",
+  "duracion": "25min",
+  "año": "1986",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Comedia",
+    "Kids",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.684,
+  "sinopsis": "Adaptación de animación de la película \"Los Cazafantasmas\". Continúa las aventuras de Peter Venkman, Ray Stantz, Egon Spengler, Winston Zeddmore, su secretaria Janine Melnitz y de su mascota 'Pegajoso\", que buscan a los fantasmas que amenazan a los ciudadanos para encerrarlos en la cámara de almacenamiento oculta en el sótano de su estación.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Maurice LaMarche",
+      "personaje": "Egon Spengler (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+    },
+    {
+      "nombre": "Dave Coulier",
+      "personaje": "Peter Venkman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mpWFTLJqVh3Wa42CG6X4tAND2bB.jpg"
+    },
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Ray Stantz / Slimer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Kath Soucie",
+      "personaje": "Janine Melnitz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dSE1JtsdA1aSgIIw415bsXtmkPg.jpg"
+    },
+    {
+      "nombre": "Buster Jones",
+      "personaje": "Winston Zeddemore (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hbJs5xn6XZy1SVTAimmNnxqNrza.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.684,
+    "imdb": "tt0090506",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=N1K13XZnX1o"
+}
