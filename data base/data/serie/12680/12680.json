@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 12680,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/bYrC9ReL44aNI6uxAYSGN50r7Yb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xpvADQD7auqYtaHU8NS6T0FmFzI.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sls5ALBLoWsW7OgkR8wpSsz5i4V.png",
+  "titulo": "Los Ricos También Lloran",
+  "titulo_original": "Los ricos también lloran",
+  "fecha_estreno": "1979-04-09",
+  "duracion": "24min",
+  "año": "1979",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Soap"
+  ],
+  "puntuacion": 5.833,
+  "sinopsis": "Mariana es hermosa, auténtica e inteligente. Al quedar huérfana y tras la muerte de su madrina, Alberto Salvatierra, el magnate de la industria alimenticia, decide acogerla en su hogar. Sin saberlo, su destino cambiará al conocer a Luis Alberto con quien vivirá una historia de amor que tendrá que luchar contra los obstáculos, entre ellos la maldad de Soraya, accionista y socia de la empresa, y amante de Luis Alberto.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Verónica Castro",
+      "personaje": "Mariana Villarreal",
+      "foto": "https://image.tmdb.org/t/p/w500/6ZWR2qGA3Dc54YUunU6qn3WQioC.jpg"
+    },
+    {
+      "nombre": "Rogelio Guerra",
+      "personaje": "Luis Alberto Salvatierra",
+      "foto": "https://image.tmdb.org/t/p/w500/osROYzlKnitI1lhW1UR0hkab7iA.jpg"
+    },
+    {
+      "nombre": "Rocío Banquells",
+      "personaje": "Esther Izaguirre de Salvatierra",
+      "foto": ""
+    },
+    {
+      "nombre": "Augusto Benedico",
+      "personaje": "Don Alberto Salvatierra",
+      "foto": "https://image.tmdb.org/t/p/w500/uZfaMjOIwq2kQe4vFA0tDWB9sSV.jpg"
+    },
+    {
+      "nombre": "Alicia Rodriguez",
+      "personaje": "Doña Elena Salvatierra",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 5.833,
+    "imdb": "tt0211855",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": "https://www.youtube.com/watch?v=mRbiex5rir8"
+}
