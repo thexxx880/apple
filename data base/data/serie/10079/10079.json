@@ -1,0 +1,98 @@
+{
+  "id_tmdb": 10079,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kctDt88H2aMywGgdGcCLNuvd2g0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/z0szinMWegbR2cH9zIxaBKy2C5b.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/hsPeNbeMC4nTG1qdRfAQnQaTuBE.png",
+  "titulo": "El Hombre-Araña: Sin Limites",
+  "titulo_original": "Spider-Man Unlimited",
+  "fecha_estreno": "1999-10-02",
+  "duracion": "24min",
+  "año": "1999",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "puntuacion": 7.587,
+  "sinopsis": "Peter Parker, dado por muerto tras salvar a una persona de un incendio, aprovecha esto y se embarca en una misión para hallar a John Jameson en la Contra Tierra.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rino Romano",
+      "personaje": "Spider-Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rpyq7xdQ5zSCHYiwnlPvkx7gLrl.jpg"
+    },
+    {
+      "nombre": "John Payne",
+      "personaje": "John Jameson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/btMhXmLswTUqBZaUqxVBaUls032.jpg"
+    },
+    {
+      "nombre": "Brian Drummond",
+      "personaje": "Venom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oNKCHFuMZTASvyayEj3cRXLEjJL.jpg"
+    },
+    {
+      "nombre": "Michael Donovan",
+      "personaje": "Carnage (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yutmM2NruR2oCWSESSPu3PG7g11.jpg"
+    },
+    {
+      "nombre": "Richard Newman",
+      "personaje": "High Evolutionary (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/t7fBQZH581NgM1DCQYPEqzkqZ3D.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Eric S. Rollman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Will Meugniot",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew Edelman",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Eric S. Rollman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Will Meugniot",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Avi Arad",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew Edelman",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Dana Tafoya-Cameron",
+      "rol": "Executive In Charge Of Production"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.587,
+    "imdb": "tt0207120",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=s_85l8sBlPk"
+}
