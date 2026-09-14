@@ -1,0 +1,74 @@
+{
+  "id_tmdb": 1824,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/uvPvl5KAzHoWXSKPsTRP1sHpCo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4C6mXY38695IHyTYGdIj49Pmha0.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3AfVl6VN29m7U9trc546FKmB3dZ.png",
+  "titulo": "Capitán N",
+  "titulo_original": "Captain N: The Game Master",
+  "fecha_estreno": "1989-09-09",
+  "duracion": "22min",
+  "año": "1989",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Kids"
+  ],
+  "puntuacion": 7.229,
+  "sinopsis": "Videoland es una ciudad futurísta y virtual donde está custodiada por la Princesa Lana y de observar las dimensiones de los video juegos según su correspondecia, sin prometer nada.\n\nEntre los villanos populares de los 80', Mother Brain consiguió una forma de traspasar a los multiversos de varias dimensiones de videojuegos, haciendo maldad y aliándose de los villanos de la serie, entre los cuales eran personajes más de los video juegos de la consola de Nintendo que solo de la compañía.\n\nLos héroes serían Simon Belmont, Megaman, Kid Icarus (que era Pit pero llamado acá como Kid Icarus), Princesa Lana más Kevin Keene (Capitán N) y su perro Duke.\n\nDe aquí por así decirlo, el sueño de todo Gamer se hizo realidad.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Matt Hill",
+      "personaje": "Kevin Keene / Captain N  (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c9LL79WphPAjDX4J9yHV5ZoANxy.jpg"
+    },
+    {
+      "nombre": "Venus Terzo",
+      "personaje": "Princess Lana (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pzDAljgejPs0lieYRE8dGPt3Xdl.jpg"
+    },
+    {
+      "nombre": "Andrew Kavadas",
+      "personaje": "Simon Belmont (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kMPNolaRjFIyJKQpphOMj0FuQgz.jpg"
+    },
+    {
+      "nombre": "Alessandro Juliani",
+      "personaje": "Kid Icarus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/f8pVEpYsRU30EsMoWcBsTkUN9e0.jpg"
+    },
+    {
+      "nombre": "Doug Parker",
+      "personaje": "Mega Man (voice)",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Andy Heyward",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Steven Dean Moore",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Andy Heyward",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.229,
+    "imdb": "tt0096554",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": ""
+}
