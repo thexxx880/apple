@@ -1,0 +1,116 @@
+{
+  "id_tmdb": 31713,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/p7VSebvaZ6eWTrJDFh1sV7h6GV2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/umeyX0a6JkDubtxfCDNPjWW66FL.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ywRHvrywENtfn5ukQjkcEFOYl5Q.png",
+  "titulo": "Street Fighter II: V",
+  "titulo_original": "ストリートファイターII V",
+  "fecha_estreno": "1995-04-10",
+  "duracion": "25min",
+  "año": "1995",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.747,
+  "sinopsis": "En esta serie animada, los amigos fanáticos de las artes marciales Ryu y Ken viajan por el mundo en busca de técnicas para mejorar sus habilidades de lucha.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "横山智佐",
+      "personaje": "Chun-Li",
+      "foto": "https://image.tmdb.org/t/p/w500/zdG1f8EJl4vNSCaW9ABkz3ezZFI.jpg"
+    },
+    {
+      "nombre": "内海賢二",
+      "personaje": "M. Bison",
+      "foto": "https://image.tmdb.org/t/p/w500/8rNvgs40LJbCbjf7qFCfDeKBnIk.jpg"
+    },
+    {
+      "nombre": "辻谷耕史",
+      "personaje": "Ryu",
+      "foto": "https://image.tmdb.org/t/p/w500/7NTqy1dhJUNYjMAFqB5j1lNaar.jpg"
+    },
+    {
+      "nombre": "羽賀研二",
+      "personaje": "Ken Masters",
+      "foto": "https://image.tmdb.org/t/p/w500/nTQ7oFP7ZFjbAxGEwi18xBmUmmd.jpg"
+    },
+    {
+      "nombre": "Tessyo Genda",
+      "personaje": "Guile",
+      "foto": "https://image.tmdb.org/t/p/w500/7eJeYv2OCHKAadeFVdabVkpWldo.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "坂井 昭夫",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kenichi Imai",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "杉井ギサブロー",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "はしもとなおと",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "佐藤卓哉",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "加野晃",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "加野晃",
+      "rol": "Supervising Animation Director"
+    },
+    {
+      "nombre": "坂井 昭夫",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "川崎真弘",
+      "rol": "Music"
+    },
+    {
+      "nombre": "西川淳一郎",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Kenichi Imai",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kenichi Imai",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "斯波重治",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "小堤勝哉",
+      "rol": "Director of Photography"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.747,
+    "imdb": "tt0144069",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=2YvspShqS_0"
+}
