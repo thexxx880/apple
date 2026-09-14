@@ -1,0 +1,72 @@
+{
+  "id_tmdb": 58450,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qHPdvdPE0U2B4nuQaU0IrWtqoQ2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yPCeoIWrVl79Set8XZ46dgayjDK.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3yInfgO4ovqIC5M7GV5unRT41Fm.png",
+  "titulo": "Lo Que La Vida Me Robó",
+  "titulo_original": "Lo Que La Vida Me Robó",
+  "fecha_estreno": "2013-10-28",
+  "duracion": "45min",
+  "año": "2013",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Soap"
+  ],
+  "puntuacion": 7.76,
+  "sinopsis": "Serie que cuenta cómo el amor de Montserrat se ve truncado por la avaricia de su madre.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Angelique Boyer",
+      "personaje": "Monserrat Mendoza",
+      "foto": "https://image.tmdb.org/t/p/w500/c73CU85L1sHganTpVUHnjw3gbba.jpg"
+    },
+    {
+      "nombre": "Sebastián Rulli",
+      "personaje": "Alejandro Almonte",
+      "foto": "https://image.tmdb.org/t/p/w500/5RVVRhpExIGWE0lZYJSgMW0V3dR.jpg"
+    },
+    {
+      "nombre": "Luis Roberto Guzmán",
+      "personaje": "José Luis Álvarez",
+      "foto": "https://image.tmdb.org/t/p/w500/hNxC4CtRQTR69qvZEzUPO84d7UC.jpg"
+    },
+    {
+      "nombre": "Daniela Castro",
+      "personaje": "Graciela Giacinti de Mendoza",
+      "foto": "https://image.tmdb.org/t/p/w500/j0Yrr7YAagEI34s99ZqQ0nT15VR.jpg"
+    },
+    {
+      "nombre": "Sergio Sendel",
+      "personaje": "Pedro Medina",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Angelli Nesma Medina",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Angelli Nesma Medina",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Caridad Bravo Adams",
+      "rol": "Novel"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.76,
+    "imdb": "tt3223004",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": "https://www.youtube.com/watch?v=nUOqCDzM8m4"
+}
