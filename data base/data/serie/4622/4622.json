@@ -1,0 +1,110 @@
+{
+  "id_tmdb": 4622,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/a2yhB6QXqxCBvzRtJdBwk4lMBFg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oSBOivU2VjjrLlslo5Hdixygneo.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/mnI1JNOE0HGgXpgkvnLyKzFa65y.png",
+  "titulo": "Code Lyoco",
+  "titulo_original": "Code Lyoko",
+  "fecha_estreno": "2003-09-03",
+  "duracion": "23min",
+  "año": "2003",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Animación",
+    "Comedia",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.59,
+  "sinopsis": "Un grupo de adolescentes debe evitar que un virus informático se apodere del mundo real.",
+  "pais_origen": "FR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Raphaëlle Lubansu",
+      "personaje": "Jeremie Belpois / Odd della Robbia (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/71LHmM2KHt2b6JQ7BNEhnZ657yf.jpg"
+    },
+    {
+      "nombre": "Géraldine Frippiat",
+      "personaje": "Yumi Ishiyama (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Marie-Line Landerwijn",
+      "personaje": "Ulrich Stern (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/owgLGuLwgPI807ME2Iqcjlv4VjE.jpg"
+    },
+    {
+      "nombre": "Sophie Landresse",
+      "personaje": "Aelita Schaeffer (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Mathieu Moreau",
+      "personaje": "William Dunbar (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6OHPAx3Vweeq43ViGv92q5Et2k0.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Nicolas Atlan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jérome Mouscadet",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Benoît Di Sabatino",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Christophe Di Sabatino",
+      "rol": "Associate Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sophie Decroisette",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Marie-Line Landerwijn",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Nicolas Atlan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jérome Mouscadet",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Benoît Di Sabatino",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Christophe Di Sabatino",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Tania Palumbo",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Noam Kaniel",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.59,
+    "imdb": "tt0417311",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=2yQr3IKO698"
+}
