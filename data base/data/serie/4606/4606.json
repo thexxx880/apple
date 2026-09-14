@@ -1,0 +1,101 @@
+{
+  "id_tmdb": 4606,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/pE6l6I1ICKOu4pDUXxkl87TTLZx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4qcNKcng7HYlKJJ0DFYIH52gWNF.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/81VjKQPucCpPE4Yf8FRcJ9MBaR0.png",
+  "titulo": "Garfield y sus Amigos",
+  "titulo_original": "Garfield and Friends",
+  "fecha_estreno": "1988-09-17",
+  "duracion": "23min",
+  "año": "1988",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 7.283,
+  "sinopsis": "Cada espectáculo se divide en historias sobre ya sea Garfield y Odie y en los problemas en los que se meten, u Orson el cerdo y sus aventuras en una granja con sus compañeros los animales de granja.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lorenzo Music",
+      "personaje": "Garfield (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Gregg Berger",
+      "personaje": "Odie / Orson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bMlJUmhblX50gQrnA8XWG7UuaLk.jpg"
+    },
+    {
+      "nombre": "Thom Huge",
+      "personaje": "Jon Arbuckle / Roy / Binky the Clown (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Howard Morris",
+      "personaje": "Wade (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nb50cjIZX1tBzXlXGWuzihKXgPB.jpg"
+    },
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Bo / Booker / Sheldon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Lee Mendelson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Phil Roman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bill Melendez",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jay Poynor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jim Davis",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lee Mendelson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Phil Roman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bill Melendez",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jay Poynor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jim Davis",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.283,
+    "imdb": "tt0094469",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=A5nQiMY7Hgg"
+}
