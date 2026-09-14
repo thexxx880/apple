@@ -1,0 +1,105 @@
+{
+  "id_tmdb": 4232,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/f30lAglX7X0VXLnkYO62inqc7ww.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/82czKnq7CcHaGjNSkxlHLwanE2k.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/5Fnz5SdIWpuNJRx3Dsp23hKcQed.png",
+  "titulo": "Don Gato y su Pandilla",
+  "titulo_original": "Top Cat",
+  "fecha_estreno": "1961-09-27",
+  "duracion": "24min",
+  "año": "1961",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 7.544,
+  "sinopsis": "La vida en un callejón de Nueva York nunca fue tan divertida como en esta serie animada de 1961 que sigue los muchos esquemas de enriquecimiento rápido de una banda de felinos astutos. Don Gato, un estafador inteligente cuyos amigos cercanos lo llaman DG, guía a sus fieles seguidores Panza, Espanto, Benito Bodoque, Demóstenes y Cucho en una variedad de estafas, actividades de juego y acrobacias descabelladas, todo en la búsqueda de un dólar rápido. Por su parte, el Oficial Matute, policía del vecindario, trata infructuosamente de atraparlos y llevarlos a la cárcel.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Arnold Stang",
+      "personaje": "Top Cat  (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oJCqwzVa65BgqrdNZh7Hf0QnQlq.jpg"
+    },
+    {
+      "nombre": "Maurice Gosfield",
+      "personaje": "Benny the Ball  (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ihaiSnNgWN7ZUJOSWQKm063BGqG.jpg"
+    },
+    {
+      "nombre": "Leo De Lyon",
+      "personaje": "Brain / Spook  (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fIIM9YxJ4Wy003KXd3ZBi495Lbo.jpg"
+    },
+    {
+      "nombre": "Marvin Kaplan",
+      "personaje": "Choo Choo  (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jQ64Eu8L7RPiT5l9IujkwwxadkS.jpg"
+    },
+    {
+      "nombre": "John Stephenson",
+      "personaje": "Fancy-Fancy  (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7Tl0KkH3Sw7RMmsvTIv3Alz9vrn.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alan Dinehart",
+      "rol": "Associate Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lawrence Goble",
+      "rol": "Title Designer"
+    },
+    {
+      "nombre": "Howard Hanson",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alan Dinehart",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Frank Paiker",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Charles August Nichols",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Hoyt Curtin",
+      "rol": "Music Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.544,
+    "imdb": "tt0054572",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=HW-1YLRRyaM"
+}
