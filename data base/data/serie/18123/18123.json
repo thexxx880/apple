@@ -1,0 +1,85 @@
+{
+  "id_tmdb": 18123,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/gUcaxw7wocfn1FjgiVb5P7aKNqn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2VvLk11UlmdHFPQkDgm4KPSjLrs.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sbMQhWG4wDGLzuOdFNRV104C040.png",
+  "titulo": "¡Scooby-Doo! Misterios S.A.",
+  "titulo_original": "Scooby-Doo! Mystery Incorporated",
+  "fecha_estreno": "2010-07-12",
+  "duracion": "22min",
+  "año": "2010",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Misterio",
+    "Familia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "Un pueblo pequeño y tranquilo cuenta con una larga historia de avistamientos de fantasmas, duendes, posesión de demonios y otros sucesos paranormales. Este pueblo es el hogar del famoso grupo conocido como \"Misterio a la Orden\", compuesto por los adolescentes Fred Jones, Daphne Blake, Vilma Dinkley, Shaggy Rogers y por supuesto, el gran danés Scooby-Doo, donde ellos viven junto a sus familias. Siendo esta una secuela de la serie original, retrata a la pandilla como se los vió en ¿Scooby-Doo, Dónde estás?",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Scooby-Doo / Fred Jones (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Daphne Blake (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Mindy Cohn",
+      "personaje": "Velma Dinkley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AcEAchSYIUiRInwyD8nPwj8ztZa.jpg"
+    },
+    {
+      "nombre": "Matthew Lillard",
+      "personaje": "Shaggy Rogers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sam Register",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Derrick J. Wyatt",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Chul-ho Kim",
+      "rol": "Other"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Ovi Nedelcu",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "tt1660055",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=eL7s1RHxKQ8"
+}
