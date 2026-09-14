@@ -1,0 +1,41 @@
+{
+  "id_tmdb": 2777,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/fTGEhXPR3RfyCyni2Ju1ze3oRrl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fVO7r9tAnauny8DAqbetlQ1tVtu.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/9QXfJyWU1VmEdlLhO1U3IgZVVp6.png",
+  "titulo": "Oggy y las cucarachas",
+  "titulo_original": "Oggy et les Cafards",
+  "fecha_estreno": "1999-09-06",
+  "duracion": "7min",
+  "año": "1999",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.5,
+  "sinopsis": "Oggy sería el gato más feliz del mundo si tres cucarachas no hubieran decidido instalarse en su acogedor hogar.",
+  "pais_origen": "FR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Kaycie Chase",
+      "personaje": "Piya (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tis8Xvy8ALtFc9Kt7JBma0ze3Xp.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.5,
+    "imdb": "tt0213363",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=QEAgkSOs4S0"
+}
