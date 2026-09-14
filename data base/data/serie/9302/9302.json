@@ -1,0 +1,129 @@
+{
+  "id_tmdb": 9302,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/pxv1aOcl5crXKaWN0dsUeqoSpfP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rRoqRhFoUGUoCXSdxDjplML2SSK.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nbiOPPNoGpt23F2VUwM89xLQFdh.png",
+  "titulo": "Digimon Tamers",
+  "titulo_original": "デジモンテイマーズ",
+  "fecha_estreno": "2001-04-01",
+  "duracion": "25min",
+  "año": "2001",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.56,
+  "sinopsis": "Digimon Tamers toma lugar en una continuidad diferente a la de su predecesora, un mundo parecido al nuestro donde los digimon son una franquicia de juguetes y una serie de TV. O eso es lo que las personas normales suponen... Un grupo de niños de 10 años, Takato Matsuki, Henry Wong y Rika Nonaka, se alían con sus propios digimon, para poder detener a los digimons salvajes que intentan invadir el Mundo Real y a una sombría organización del gobierno, que también va contra los salvajes, aunque con propósitos diferentes.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "津村まこと",
+      "personaje": "Takato Matsuda (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/81DYZwZ4M7Atf6w5Zk1e18QeIW8.jpg"
+    },
+    {
+      "nombre": "Masako Nozawa",
+      "personaje": "Guilmon / Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+    },
+    {
+      "nombre": "Fumiko Orikasa",
+      "personaje": "Ruki Makino (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
+    },
+    {
+      "nombre": "今井由香",
+      "personaje": "Renamon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/SivuDZuk3GsYVm9kYdSKcnQQ9I.jpg"
+    },
+    {
+      "nombre": "山口眞弓",
+      "personaje": "Li Jianliang (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uzkuXAZqQhbW03ELeLpmjcIzGpS.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Atsunari Baba",
+      "rol": "Producer's Assistant"
+    },
+    {
+      "nombre": "関弘美",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kyotaro Kimura",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "和田光司",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "わたなべけいと",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "貝澤幸男",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "Kouichi Katagiri",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Atsunari Baba",
+      "rol": "Producer's Assistant"
+    },
+    {
+      "nombre": "岡田将介",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "小中千昭",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "中鶴勝祥",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "有澤孝紀",
+      "rol": "Music"
+    },
+    {
+      "nombre": "本郷あきよし",
+      "rol": "Original Concept"
+    },
+    {
+      "nombre": "関弘美",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kyotaro Kimura",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "小中千昭",
+      "rol": "Script"
+    },
+    {
+      "nombre": "小中千昭",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.56,
+    "imdb": "tt0295080",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=DC_DiGLwxYY"
+}
