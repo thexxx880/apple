@@ -1,0 +1,100 @@
+{
+  "id_tmdb": 12926,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5Thydptu5Ym3mq0XTGJXpdl624Y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/i5WyNy4tVmRbcOvTfYXWuEpTNK7.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/xv6ZqqbVfMEwj5qBxmV3jcrv6ek.png",
+  "titulo": "Teresa",
+  "titulo_original": "Teresa",
+  "fecha_estreno": "2010-08-02",
+  "duracion": "47min",
+  "año": "2010",
+  "trending": false,
+  "generos": [
+    "Soap",
+    "Drama"
+  ],
+  "puntuacion": 7.717,
+  "sinopsis": "Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Angelique Boyer",
+      "personaje": "Teresa Chávez",
+      "foto": "https://image.tmdb.org/t/p/w500/c73CU85L1sHganTpVUHnjw3gbba.jpg"
+    },
+    {
+      "nombre": "Aarón Díaz",
+      "personaje": "Mariano Sánchez",
+      "foto": "https://image.tmdb.org/t/p/w500/4ayqBPw1xsne9s7h2OBJXWoIUeO.jpg"
+    },
+    {
+      "nombre": "Cynthia Klitbo",
+      "personaje": "Juana Godoy",
+      "foto": "https://image.tmdb.org/t/p/w500/5ZaMAvEZo0teBFPOFw1BOTxBQe1.jpg"
+    },
+    {
+      "nombre": "Sebastián Rulli",
+      "personaje": "Arturo de la Barrera",
+      "foto": "https://image.tmdb.org/t/p/w500/5RVVRhpExIGWE0lZYJSgMW0V3dR.jpg"
+    },
+    {
+      "nombre": "Ana Brenda Contreras",
+      "personaje": "Aurora Alcazár",
+      "foto": "https://image.tmdb.org/t/p/w500/3ELp4YRikJKQDUCedSgnPpbCVDb.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ernesto Hernández",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fausto Sáinz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "José Alberto Castro",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ernesto Hernández",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gloria Trevi",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Ximena Suárez",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mimí Bechelani",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Fausto Sáinz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "José Alberto Castro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julián Aguilar",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.717,
+    "imdb": "tt1705090",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": "https://www.youtube.com/watch?v=Ijx-IEbJlxo"
+}
