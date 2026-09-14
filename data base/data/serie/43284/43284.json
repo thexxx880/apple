@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 43284,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hUECPkYsh5KFvw2oC3xBaOEItBH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/29oa86b0qJ8MEUZuFBmZf5KglsF.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8yDHV9WNegHUCBtsE2HRFEEBwl0.png",
+  "titulo": "María Isabel",
+  "titulo_original": "María Isabel",
+  "fecha_estreno": "1997-08-04",
+  "duracion": "22min",
+  "año": "1997",
+  "trending": false,
+  "generos": [
+    "Soap",
+    "Drama",
+    "Familia"
+  ],
+  "puntuacion": 7.325,
+  "sinopsis": "María Isabel es una bella e inocente indígena huichola que vive en un pueblo del estado de Nayarit con su tata, Pedro y con Chona, su madrastra, quien siempre la ha odiado y maltratado.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Adela Noriega",
+      "personaje": "María Isabel Sanchez",
+      "foto": "https://image.tmdb.org/t/p/w500/sECifSdx97lzt66CPBrwRrwg0ag.jpg"
+    },
+    {
+      "nombre": "Fernando Carrillo",
+      "personaje": "Ricardo Mendiola Zúñiga",
+      "foto": ""
+    },
+    {
+      "nombre": "Lorena Herrera",
+      "personaje": "Lucrecia Fontaner Hernández",
+      "foto": "https://image.tmdb.org/t/p/w500/gQjioi4pHAg6SKVgjR7tUTBkmHG.jpg"
+    },
+    {
+      "nombre": "Patricia Reyes Spíndola",
+      "personaje": "Manuela Rojas López",
+      "foto": "https://image.tmdb.org/t/p/w500/2f971sKYkQETqZyFN2ULEZ1SwP.jpg"
+    },
+    {
+      "nombre": "Lilia Aragón",
+      "personaje": "Rosaura Méndez Larrea",
+      "foto": "https://image.tmdb.org/t/p/w500/9xXleTk9um4JtCyFE5U1Qc0UrEi.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Arturo Lorca",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Miguel Córcega",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alejandro Frutos",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Carla Estrada",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mónica Miguel",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jesús Acuña",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Liliana Abud",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Alejandro Frutos",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Luis Horacio Valdés",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Arturo Lorca",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Leonardo Ramos",
+      "rol": "Compositor"
+    },
+    {
+      "nombre": "Juan Franco",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jesús Blanco",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Salvador Zoe",
+      "rol": "Compositor"
+    },
+    {
+      "nombre": "Miguel Córcega",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alejandro Frutos",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Carla Estrada",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Diana Aranda",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Mónica Miguel",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rodrigo Escamilla",
+      "rol": "Music"
+    },
+    {
+      "nombre": "René Muñoz",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.325,
+    "imdb": "tt0211828",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": "https://www.youtube.com/watch?v=iv1o-AWK7w4"
+}
