@@ -1,0 +1,118 @@
+{
+  "id_tmdb": 6549,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oSeJ2nESB77iC6SLo4qcqoadjdt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ix5tWGa7m7qGmXOmEBJgqv91T6F.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/yCJRPxSd14jCb6XVZKIKR8P97lh.png",
+  "titulo": "Wolverine y los X-Men",
+  "titulo_original": "Wolverine and the X-Men",
+  "fecha_estreno": "2009-01-23",
+  "duracion": "22min",
+  "año": "2009",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.582,
+  "sinopsis": "Wolverine y los X-Men deben volver a juntarse, no solo para luchar contra la cada vez más poderosa División de Lucha contra Mutantes, sino también para impedir un futuro catastrófico que Xavier le advirtió a Wolverine que nunca debe concretarse.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Steve Blum",
+      "personaje": "Logan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+    },
+    {
+      "nombre": "Jim Ward",
+      "personaje": "Professor Charles Xavier (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7Um56ftGoxN6c5GxJSNckeARCDy.jpg"
+    },
+    {
+      "nombre": "Nolan North",
+      "personaje": "Cyclops (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg"
+    },
+    {
+      "nombre": "Fred Tatasciore",
+      "personaje": "Beast (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    },
+    {
+      "nombre": "Kari Wahlgren",
+      "personaje": "Emma Frost (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joshua Fine",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Craig Kyle",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Spencer Pollard",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Ed Borgerding",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dave Kupczyk",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "Joshua Fine",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Craig Kyle",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Spencer Pollard",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Dean Grinsfelder",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ed Borgerding",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.582,
+    "imdb": "tt0772145",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=g6YZF1usS4M"
+}
