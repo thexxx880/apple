@@ -1,0 +1,116 @@
+{
+  "id_tmdb": 202609,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/o87XR71zF8XYNLZKUg5GR98YuTD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kgXZQBspdmlDXjY8d4zMPmp5om8.jpg",
+  "logo": "",
+  "titulo": "Mi pequeña Soledad",
+  "titulo_original": "Mi pequeña Soledad",
+  "fecha_estreno": "1990-05-14",
+  "duracion": "25min",
+  "año": "1990",
+  "trending": false,
+  "generos": [
+    "Soap",
+    "Drama"
+  ],
+  "puntuacion": 8,
+  "sinopsis": "",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Verónica Castro",
+      "personaje": "Soledad \"Sol\" Fernández",
+      "foto": "https://image.tmdb.org/t/p/w500/6ZWR2qGA3Dc54YUunU6qn3WQioC.jpg"
+    },
+    {
+      "nombre": "Omar Fierro",
+      "personaje": "Carlos Arizmendi",
+      "foto": "https://image.tmdb.org/t/p/w500/33alJfjocW53togDhN1rg6xPSPM.jpg"
+    },
+    {
+      "nombre": "Salvador Pineda",
+      "personaje": "Gerardo Salazar Ballesteros",
+      "foto": "https://image.tmdb.org/t/p/w500/spo8o3J5Fvf5zH58URdonsveUoU.jpg"
+    },
+    {
+      "nombre": "Antonio de Carlo",
+      "personaje": "José Luis Garza",
+      "foto": ""
+    },
+    {
+      "nombre": "Angélica Rivera",
+      "personaje": "Marisa Villaseñor",
+      "foto": "https://image.tmdb.org/t/p/w500/dwnugupvQwTg7GvcJ5ZAr62rvxd.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Beatriz Sheridan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Verónica Castro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Angelli Nesma Medina",
+      "rol": "Associate Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Beatriz Sheridan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Marissa Garrido",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ernesto Arreola",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Eduardo Magallanes",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Jorge Lozano Soriano",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Dolores Ortega",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Verónica Castro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "René Muñoz",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Verónica Castro",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Angelli Nesma Medina",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "José Alberto Castro",
+      "rol": "Production Manager"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": "tt0211829",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": ""
+}
