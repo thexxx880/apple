@@ -1,0 +1,78 @@
+{
+  "id_tmdb": 3303,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hVdj8XEGpLkx5lQoCwWM73HPeHv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1UpqxBznJWB2yq3QIJkNALiCr4t.jpg",
+  "logo": "",
+  "titulo": "Fantasma del Espacio",
+  "titulo_original": "Space Ghost and Dino Boy",
+  "fecha_estreno": "1966-09-10",
+  "duracion": "8min",
+  "año": "1966",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Kids",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.459,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Gary Owens",
+      "personaje": "Space Ghost (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ePzwxyCOniCwwGefJG1xxmZfXBN.jpg"
+    },
+    {
+      "nombre": "Ginny Tyler",
+      "personaje": "Jan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/suST6Ql6kGHsfA1eWNfEvSSm1mj.jpg"
+    },
+    {
+      "nombre": "Tim Matheson",
+      "personaje": "Jace (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6oexiiYLJYXU6NjIhzlpA3mqYGF.jpg"
+    },
+    {
+      "nombre": "Don Messick",
+      "personaje": "Blip / Zorak (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iT3okvWCKy6RAdo6dbx09RP0I3p.jpg"
+    },
+    {
+      "nombre": "Keye Luke",
+      "personaje": "Brak / Lokar (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fh9RufZ6VQjKGFVtXFr3wv2MYCd.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.459,
+    "imdb": "tt0060026",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": ""
+}
