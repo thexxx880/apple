@@ -1,0 +1,69 @@
+{
+  "id_tmdb": 12961,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/uUYw0HKpaxZWbKkzCIPgEwXPDr3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/55gsc08ajOpUIKNAsNPa3V4qWkE.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/76iZCULQrVcv5XJJv5IChlfEiHu.png",
+  "titulo": "Rubí",
+  "titulo_original": "Rubí",
+  "fecha_estreno": "2004-05-17",
+  "duracion": "45min",
+  "año": "2004",
+  "trending": false,
+  "generos": [
+    "Soap",
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 7.748,
+  "sinopsis": "Rubí es una mujer tan bella como lo es de perversa y su máximo sueño es encontrar a un hombre rico y conquistarlo con su hermosura, para que la saque de la pobreza a cualquier precio.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Bárbara Mori",
+      "personaje": "Rubí Pérez Ochoa / Fernanda Martínez",
+      "foto": "https://image.tmdb.org/t/p/w500/y82o82y52BoKvFCMHG3R3Ahv43O.jpg"
+    },
+    {
+      "nombre": "Eduardo Santamarina",
+      "personaje": "Alejandro Cárdenas Ruiz",
+      "foto": "https://image.tmdb.org/t/p/w500/5kSFZtkLVMTFgM4X9gbhclfyDJE.jpg"
+    },
+    {
+      "nombre": "Jacqueline Bracamontes",
+      "personaje": "Maribel de la Fuente",
+      "foto": "https://image.tmdb.org/t/p/w500/erQUSJAH0GAlY46DLJDFirWowgC.jpg"
+    },
+    {
+      "nombre": "Sebastián Rulli",
+      "personaje": "Héctor Ferrer Garza",
+      "foto": "https://image.tmdb.org/t/p/w500/5RVVRhpExIGWE0lZYJSgMW0V3dR.jpg"
+    },
+    {
+      "nombre": "Ana Martín",
+      "personaje": "Refugio Ochoa Vda. de Pérez",
+      "foto": "https://image.tmdb.org/t/p/w500/hwOnKor9wQLOfusZnrprTftgd1w.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "José Alberto Castro",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "José Alberto Castro",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.748,
+    "imdb": "tt0391683",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": "https://www.youtube.com/watch?v=PKKN3t51r0c"
+}
