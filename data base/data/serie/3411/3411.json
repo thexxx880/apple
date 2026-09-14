@@ -1,0 +1,114 @@
+{
+  "id_tmdb": 3411,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/rIdaPIehrNdQvNNrVQs0da1kaEQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/quOkMpsmwPSUKU9bjLoSGmqHRrc.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/gENIeKZAQHBJmgXXg5r3DBaSMnS.png",
+  "titulo": "RoboCop: La Serie Animada",
+  "titulo_original": "RoboCop: The Animated Series",
+  "fecha_estreno": "1988-10-01",
+  "duracion": "30min",
+  "año": "1988",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Crimen",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.144,
+  "sinopsis": "La serie continua la trama de la película, con Alex Murphy todavía luchando para salvar a la vieja ciudad de Detroit de un sinnúmero de elementos descontrolados; y, en ocasiones, luchando por recuperar aspectos de su humanidad y de mantener su utilidad a los ojos de \"El Viejo\", Presidente de OCP. En muchos episodios se ve la reputación de RoboCop puesta a prueba o amenazada por las intervenciones del doctor McNamara, creador del ED-260, de la versión actualizada de los Droid encargados de hacer cumplir la serie 209 y el principal competidor para el apoyo financiero de la OCP. A menudo desarrolla otras amenazas mecánicas que atacan con frecuencia a RoboCop.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Dan Hennessey",
+      "personaje": "Robocop",
+      "foto": "https://image.tmdb.org/t/p/w500/daqfBEBplJg6DpFAVX8q41t0eZP.jpg"
+    },
+    {
+      "nombre": "Susan Roman",
+      "personaje": "Anne Lewis",
+      "foto": "https://image.tmdb.org/t/p/w500/vyWyOdnKcoNf40ytZSy6qlIIr9p.jpg"
+    },
+    {
+      "nombre": "Barbara Budd",
+      "personaje": "",
+      "foto": ""
+    },
+    {
+      "nombre": "Len Carlson",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/xmj4nwXFymJHFjrEErQ1aiFl16M.jpg"
+    },
+    {
+      "nombre": "Rex Hagon",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/5pAbWn5nUhP6Vju6RVEKf899uRN.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Bill Hutton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tony Love",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rich Fogel",
+      "rol": "Development Producer"
+    },
+    {
+      "nombre": "Margaret Loesch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joe Taritero",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bill Hutton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tony Love",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Haim Saban",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Shuki Levy",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Rich Fogel",
+      "rol": "Development Producer"
+    },
+    {
+      "nombre": "Mark Seindenberg",
+      "rol": "Development Manager"
+    },
+    {
+      "nombre": "Margaret Loesch",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joe Taritero",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.144,
+    "imdb": "tt0194622",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=D8CYHhB0RqQ"
+}
