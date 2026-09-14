@@ -1,0 +1,70 @@
+{
+  "id_tmdb": 60306,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xunu7Vhk9FZuzw9tecNoDw6UyGo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lcdYKqxvPRRMnfoS8a9FfLrYDfu.jpg",
+  "logo": "",
+  "titulo": "Xiaolin Chronicles",
+  "titulo_original": "Xiaolin Chronicles",
+  "fecha_estreno": "2013-08-26",
+  "duracion": "25min",
+  "año": "2013",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Animación"
+  ],
+  "puntuacion": 5.533,
+  "sinopsis": "",
+  "pais_origen": "CA",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Tara Strong",
+      "personaje": "Omi / Ping Pong (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
+    },
+    {
+      "nombre": "Eric Bauza",
+      "personaje": "Raimundo Pedrosa / Jack Spicer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+    },
+    {
+      "nombre": "Jennifer Hale",
+      "personaje": "Kimiko Tohomiko  (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oNQCrdiSm0mABCcE5YaHwuZQK8X.jpg"
+    },
+    {
+      "nombre": "David A. Kaye",
+      "personaje": "Clay Bailey / Chase Young (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fAK9KpVtPeZ9MTUXamfVqwUGBId.jpg"
+    },
+    {
+      "nombre": "Michael Donovan",
+      "personaje": "Dojo Kanojo Cho / Master Fung (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yutmM2NruR2oCWSESSPu3PG7g11.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Christelle Naga",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christelle Naga",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.533,
+    "imdb": "tt2824770",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=qa-XgJtE5PI"
+}
