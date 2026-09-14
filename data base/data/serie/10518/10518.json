@@ -1,0 +1,96 @@
+{
+  "id_tmdb": 10518,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2qR4gdHBpx2tOL7c5FJkwms9R8y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/e2hh2OEqKG6FegxIuRTYY61hIhA.jpg",
+  "logo": "",
+  "titulo": "Clue Club",
+  "titulo_original": "Clue Club",
+  "fecha_estreno": "1976-08-14",
+  "duracion": "22min",
+  "año": "1976",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Comedia",
+    "Crimen",
+    "Kids",
+    "Misterio"
+  ],
+  "puntuacion": 6.667,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Bob Hastings",
+      "personaje": "D.D.",
+      "foto": "https://image.tmdb.org/t/p/w500/j8Bcul6PCSDOwY4tl2wLkcelgYf.jpg"
+    },
+    {
+      "nombre": "Paul Winchell",
+      "personaje": "Woofer",
+      "foto": "https://image.tmdb.org/t/p/w500/aZjzqTlzhBpcXogubUP8wcPE4Da.jpg"
+    },
+    {
+      "nombre": "John Stephenson",
+      "personaje": "Sheriff Bagley",
+      "foto": "https://image.tmdb.org/t/p/w500/7Tl0KkH3Sw7RMmsvTIv3Alz9vrn.jpg"
+    },
+    {
+      "nombre": "Tara Talboy",
+      "personaje": "Dottie",
+      "foto": ""
+    },
+    {
+      "nombre": "Jim MacGeorge",
+      "personaje": "Whimper",
+      "foto": "https://image.tmdb.org/t/p/w500/9DZt2LhUcB8mA9mhXXMu0wRL5Cm.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Lovy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Charles August Nichols",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Lovy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Charles August Nichols",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.667,
+    "imdb": "tt0125612",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": ""
+}
