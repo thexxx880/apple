@@ -1,0 +1,116 @@
+{
+  "id_tmdb": 83596,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/y6XVVl2MNZyrw52PRWqNPHtxkse.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jcOAOJKQphUoMZEsBtsME8Tl3KN.jpg",
+  "logo": "",
+  "titulo": "Amarte a muerte",
+  "titulo_original": "Amar a Muerte",
+  "fecha_estreno": "2018-10-29",
+  "duracion": "60min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Soap"
+  ],
+  "puntuacion": 7.8,
+  "sinopsis": "Estos hombres mueren el mismo día y sus almas se reencarnan en diferentes cuerpos. El alma del empresario revivirá en el cuerpo del asesino que fue ejecutado en una silla eléctrica, y por su parte, el alma del asesino renacerá en el cuerpo del profesor de antropología.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Angelique Boyer",
+      "personaje": "Lucía Borges",
+      "foto": "https://image.tmdb.org/t/p/w500/c73CU85L1sHganTpVUHnjw3gbba.jpg"
+    },
+    {
+      "nombre": "Michel Brown",
+      "personaje": "Macario \"El Chino\" Valdés / Jacobo Reyes",
+      "foto": "https://image.tmdb.org/t/p/w500/4a4KLHBaDbB8MHDCqOsKMfBqxDR.jpg"
+    },
+    {
+      "nombre": "Alejandro Nones",
+      "personaje": "Johny Corona",
+      "foto": "https://image.tmdb.org/t/p/w500/rPVuMhBGeYTFyvu81p2omjDoud9.jpg"
+    },
+    {
+      "nombre": "Claudia Martín",
+      "personaje": "Eva Carvajal",
+      "foto": "https://image.tmdb.org/t/p/w500/f0GPIELWByPOMvF4XGQAkG1enIE.jpg"
+    },
+    {
+      "nombre": "Arturo Barba",
+      "personaje": "Beltrán Camacho / Macario \"El Chino\" Valdés",
+      "foto": "https://image.tmdb.org/t/p/w500/oH6I58ap02zkWhxic5tm6LcOltz.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Billy Rovzar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Carlos Bardasano",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alejandro Lozano",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Carlos Andrés Cock Marín",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joe Rendón",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rolando Ocampo",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Billy Rovzar",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Carlos Bardasano",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Leonardo Padrón",
+      "rol": "Script"
+    },
+    {
+      "nombre": "Julio Jiménez",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Alejandro Lozano",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Carlos Andrés Cock Marín",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joe Rendón",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rolando Ocampo",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": "tt8682608",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": ""
+}
