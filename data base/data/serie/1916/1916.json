@@ -1,0 +1,77 @@
+{
+  "id_tmdb": 1916,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3Lyc5VqhTqq76vmKUn1an8rlnP7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qyW97RT9OFwwQJteSQ1FACQfrBD.jpg",
+  "logo": "",
+  "titulo": "2 Perros Tontos",
+  "titulo_original": "2 Stupid Dogs",
+  "fecha_estreno": "1993-09-05",
+  "duracion": "30min",
+  "año": "1993",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids",
+    "Sci-Fi & Fantasy",
+    "Familia"
+  ],
+  "puntuacion": 7.125,
+  "sinopsis": "La serie muestra las desventuras de dos perros, uno pequeño y otro grande los cuales no son nada inteligentes, además en algunos episodios los perros interactúan con sus dueños humanos, la serie incluye un segmento del inspector Ardilla.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Brad Garrett",
+      "personaje": "The Big Dog (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+    },
+    {
+      "nombre": "Mark Schiff",
+      "personaje": "The Little Dog (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/j2s2w7R40hqF8XAY9VURYO7JIUl.jpg"
+    },
+    {
+      "nombre": "Brian Cummings",
+      "personaje": "Hollywood (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4q4Y9qVTPh3og39kGNWkNCmMJAx.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Larry Huber",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Larry Huber",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.125,
+    "imdb": "tt0105928",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": ""
+}
