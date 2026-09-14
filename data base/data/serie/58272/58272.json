@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 58272,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/rvxT556ZI86DUcNtbQhFuG0BBZY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rRTYQ9IUvCC1aQAvqqOx3mOIGrB.jpg",
+  "logo": "",
+  "titulo": "Siempre te amaré",
+  "titulo_original": "Siempre te amaré",
+  "fecha_estreno": "2000-01-24",
+  "duracion": "41min",
+  "año": "2000",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.7,
+  "sinopsis": "",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Laura Flores",
+      "personaje": "Victoria Castellanos / Amparo Rivas",
+      "foto": "https://image.tmdb.org/t/p/w500/rJqyCEBqB4ua2SjQ7PlDvzjlsby.jpg"
+    },
+    {
+      "nombre": "Alejandra Avalos",
+      "personaje": "Gilda Gomez/Martha Laura Isaguirre",
+      "foto": "https://image.tmdb.org/t/p/w500/d5koL1PU4fBUgVcs5E4UXg20Nyx.jpg"
+    },
+    {
+      "nombre": "Fernando Carrillo",
+      "personaje": "Mauricio Castellanos",
+      "foto": ""
+    },
+    {
+      "nombre": "Arturo Peniche",
+      "personaje": "Luis Miguel Garay",
+      "foto": "https://image.tmdb.org/t/p/w500/doxAMkE7Mxaz15oIyTOrxQmWLox.jpg"
+    },
+    {
+      "nombre": "Guillermo García Cantú",
+      "personaje": "Jorge Montesinos",
+      "foto": "https://image.tmdb.org/t/p/w500/kSNoXf6JZUh3GCrEcYYa6mpISOO.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.7,
+    "imdb": "",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": ""
+}
