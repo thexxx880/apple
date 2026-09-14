@@ -1,0 +1,84 @@
+{
+  "id_tmdb": 888,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/cwgW8j4yh5hNMnvokozpVkjuSu2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/tszlsbfyTOPSZe2z6K4mwHtcnmI.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/fnN2AJ567v6zil4kocaQ9H6gVRc.png",
+  "titulo": "El Hombre Araña",
+  "titulo_original": "Spider-Man",
+  "fecha_estreno": "1994-11-19",
+  "duracion": "24min",
+  "año": "1994",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.306,
+  "sinopsis": "Después de ser picado por una araña radioactiva, el joven Peter Parker descubre que ahora tiene superpoderes similares a las arañas. Con la esperanza de utilizar sus nuevas habilidades para la riqueza y la fama, deja que su ego lo ciegue a las necesidades de los demás, e indirectamente causa la muerte de su tío Ben cuando se niega a ayudar a un policía a atrapar a un criminal. Humillado por su fracaso, decide utilizar su talento para luchar contra el crimen, y se convierte en Spider-Man. Al luchar contra varios supervillanos, Peter también debe equilibrar su vida personal, con su novia Mary Jane, su trabajo como fotógrafo en Daily Bugle y un editor convencido de que Spider-man es un criminal que debe ser encarcelado.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Christopher Daniel Barnes",
+      "personaje": "Peter Parker / Spider-Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dE99eEJ9F8RweONabFIzb2p57iK.jpg"
+    },
+    {
+      "nombre": "Sara Ballantine",
+      "personaje": "Mary Jane Watson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1U5cbBlLEWGvtFY0fCgevwVNWQ4.jpg"
+    },
+    {
+      "nombre": "Jennifer Hale",
+      "personaje": "Felicia Hardy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oNQCrdiSm0mABCcE5YaHwuZQK8X.jpg"
+    },
+    {
+      "nombre": "Ed Asner",
+      "personaje": "J. Jonah Jameson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AeVizz1AfAB2TbsfyzgBvqeSR3G.jpg"
+    },
+    {
+      "nombre": "Rodney Saulsberry",
+      "personaje": "Joe 'Robbie' Robertson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oq8ppTU9gFt6pju7Kkxd2CfuciJ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Avi Arad",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Avi Arad",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Steve Ditko",
+      "rol": "Characters"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.306,
+    "imdb": "tt0112175",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=XyDjtIbsUDU"
+}
