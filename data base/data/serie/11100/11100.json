@@ -1,0 +1,73 @@
+{
+  "id_tmdb": 11100,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/elcF4hnfQ4tx0lmW9tGKDsI3Vct.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nU5YaWbnF4dmdpSQz06Dn2uL0Hk.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3fiIkiVZ673BEh5J1tXVwFiGFm6.png",
+  "titulo": "Godzilla: La serie",
+  "titulo_original": "Godzilla: The Series",
+  "fecha_estreno": "1998-09-12",
+  "duracion": "24min",
+  "año": "1998",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Kids"
+  ],
+  "puntuacion": 7.946,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ian Ziering",
+      "personaje": "Nick Tatopoulos (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/keJ4aYXWzUD1MOTDNrKDAXUstW0.jpg"
+    },
+    {
+      "nombre": "Charity James",
+      "personaje": "Elsie Chapman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/u6A2R1WXXbCHXWapAdLNRXg4Vmg.jpg"
+    },
+    {
+      "nombre": "Brigitte Bako",
+      "personaje": "Monique DuPre (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/i7Jb30gO8bQi65tJSuH428jDjTO.jpg"
+    },
+    {
+      "nombre": "Rino Romano",
+      "personaje": "Randy Hernandez (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rpyq7xdQ5zSCHYiwnlPvkx7gLrl.jpg"
+    },
+    {
+      "nombre": "Malcolm Danare",
+      "personaje": "Mendel Craven (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uWmucINKfgQk5qX3tZxyf8oQibC.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Dean Devlin",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dean Devlin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Roger Injarusorn",
+      "rol": "Digital Effects Supervisor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.946,
+    "imdb": "tt0177443",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sony, Sony Animations",
+  "trailer": "https://www.youtube.com/watch?v=1b2CtgkwJQA"
+}
