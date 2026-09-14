@@ -1,0 +1,132 @@
+{
+  "id_tmdb": 12568,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/L3MPoQSvfbHZAJEdskXTM1vdHi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kez8Vt5lIus3vrcN6NTmUezKee5.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3Nqf5bWyqgOyyT3rIbPhSEzPppm.png",
+  "titulo": "Destilando amor",
+  "titulo_original": "Destilando amor",
+  "fecha_estreno": "2007-01-22",
+  "duracion": "60min",
+  "año": "2007",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Soap"
+  ],
+  "puntuacion": 7.691,
+  "sinopsis": "Nace el amor entre una joven campesina y el nieto del fallecido dueño de una empresa tequilera. El joven promete volver a casarse con su novia en cuanto termine sus estudios en el extranjero, sin saber que ella ha quedado embarazada.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Angélica Rivera",
+      "personaje": "Teresa Hernández García \"Gaviota\" / Mariana Franco Villareal",
+      "foto": "https://image.tmdb.org/t/p/w500/dwnugupvQwTg7GvcJ5ZAr62rvxd.jpg"
+    },
+    {
+      "nombre": "Eduardo Yáñez",
+      "personaje": "Rodrigo Montalvo Santos",
+      "foto": "https://image.tmdb.org/t/p/w500/byj6rAJexfc72eXNL89EdOrYwA9.jpg"
+    },
+    {
+      "nombre": "Sergio Sendel",
+      "personaje": "Aaron Montalvo Iturbe",
+      "foto": ""
+    },
+    {
+      "nombre": "Chantal Andere",
+      "personaje": "Minerva Olmos de Montalvo",
+      "foto": "https://image.tmdb.org/t/p/w500/hMlHuxotoDmHjoKDqrR1Vb09gWB.jpg"
+    },
+    {
+      "nombre": "Martha Julia",
+      "personaje": "Isadora Duarte De la Vega de Montalvo",
+      "foto": "https://image.tmdb.org/t/p/w500/1fE3SSQeomWp13SOiSM0I2whS10.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Nicandro Díaz González",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Miguel Córcega",
+      "rol": "Director"
+    },
+    {
+      "nombre": "J. Antonio Arvizú",
+      "rol": "Associate Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nicandro Díaz González",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Miguel Córcega",
+      "rol": "Director"
+    },
+    {
+      "nombre": "J. Antonio Arvizú",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Gerardo Luna",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kary Fajer",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Gerardo Rosado",
+      "rol": "Compositor"
+    },
+    {
+      "nombre": "Jorge Eduardo Murguía",
+      "rol": "Compositor"
+    },
+    {
+      "nombre": "Alejandro de La Parra",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Carolina Calderón",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Alejandro de La Parra",
+      "rol": "Additional Music"
+    },
+    {
+      "nombre": "Mauricio Arriaga",
+      "rol": "Compositor"
+    },
+    {
+      "nombre": "Luis Guzmán",
+      "rol": "Compositor"
+    },
+    {
+      "nombre": "Maricarmen Marcos",
+      "rol": "General Manager"
+    },
+    {
+      "nombre": "Pablo Peralta",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Juan Manuel Hernandez Gutierrez",
+      "rol": "Assistant Set Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.691,
+    "imdb": "tt0940629",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": ""
+}
