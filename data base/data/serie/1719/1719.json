@@ -1,0 +1,59 @@
+{
+  "id_tmdb": 1719,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3zA9IYdJnNOBj6fF0cQwHli2Vzh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2HZuIQfSTcay8eoVIqeaGEwUWaB.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/tDhvyMy8Hfl2f5gTfhGx3wddLIu.svg",
+  "titulo": "Gárgolas",
+  "titulo_original": "Gargoyles",
+  "fecha_estreno": "1994-10-24",
+  "duracion": "22min",
+  "año": "1994",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.082,
+  "sinopsis": "Aclamada serie de animación de Disney, y la primera en incorporar elementos dramáticos e incluso violencia en los productos animados de la compañía. La serie presenta a un clan de criaturas guerreras conocidas como Gárgolas, que se vuelven de piedra durante el día. Dirigidos por su líder Goliath en el año 994 D.C., protegen el castillo Wyvern y a sus residentes humanos en la costa de Escocia hasta que una traición causa la masacre del clan y un hechizo mágico fuerza a los sobrevivientes a dormir en piedra hasta que el castillo se eleve por sobre las nubes.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Keith David",
+      "personaje": "Goliath (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+    },
+    {
+      "nombre": "Salli Richardson-Whitfield",
+      "personaje": "Elisa Maza (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wMQaIzY5kyRQd8UwF1lphKK6oQm.jpg"
+    },
+    {
+      "nombre": "Ed Asner",
+      "personaje": "Hudson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AeVizz1AfAB2TbsfyzgBvqeSR3G.jpg"
+    },
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Brooklyn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "Thom Adcox-Hernandez",
+      "personaje": "Lexington (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3AfOZ9SULB8ZewM5Lrs5q8Bcmrq.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.082,
+    "imdb": "tt0108783",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=mdiqam7KYVs"
+}
