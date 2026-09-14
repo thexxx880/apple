@@ -1,0 +1,77 @@
+{
+  "id_tmdb": 958,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kWwaoXeonbgcstnVVqlUEB0wlDr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bhe9fryG3wwYvWQ2ZNfZ0surHDc.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8SiukSH1aNdzybdhocJ6J1Z6P9B.png",
+  "titulo": "Transformers: La Guerra de Bestias",
+  "titulo_original": "Beast Wars: Transformers",
+  "fecha_estreno": "1996-04-22",
+  "duracion": "30min",
+  "año": "1996",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Kids"
+  ],
+  "puntuacion": 8.1,
+  "sinopsis": "",
+  "pais_origen": "CA",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Garry Chalk",
+      "personaje": "Optimus Primal (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jESGnBSP0OjFxJejN1OPsjXA9sJ.jpg"
+    },
+    {
+      "nombre": "David Kaye",
+      "personaje": "Megatron (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/izxtFSio5twcVA1oJWPvobxpcZj.jpg"
+    },
+    {
+      "nombre": "Colin Murdock",
+      "personaje": "Quickstrike (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6t5LJdFTW7VSu7UYULs22quJIT.jpg"
+    },
+    {
+      "nombre": "Scott McNeil",
+      "personaje": "Dinobot / Rattrap / Waspinator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rjiHH4krrSdipdSUdSUjvODKJM2.jpg"
+    },
+    {
+      "nombre": "Ian James Corlett",
+      "personaje": "Cheetor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y0p99omSo8CgHWPjv7qXtAQVyzr.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Stéphane Reichel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Larry DiTillio",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stéphane Reichel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Larry DiTillio",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.1,
+    "imdb": "tt0115108",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=5_qKLZq6frg"
+}
