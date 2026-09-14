@@ -1,0 +1,105 @@
+{
+  "id_tmdb": 8991,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xx5tqOkY2S01vymQJwrL1RMoUHO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5QCrgY5Qk6FW10PzAngc9yOvQpi.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/wOVDG0xp9jNssWLi6oq9JvUM31m.png",
+  "titulo": "Digimon Frontier",
+  "titulo_original": "デジモンフロンティア",
+  "fecha_estreno": "2002-04-07",
+  "duracion": "23min",
+  "año": "2002",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.033,
+  "sinopsis": "Cuarta serie de animación basada en el mundo Digimon. Esta narra unos acontecimientos completamente independientes de lo ocurrido en las anteriores partes de Digimon, esta serie fue la que sustituyo a Digimon Tamers al finalizar esta. La historia comienza cuando los niños elegidos reciben un mensaje en su teléfono móvil que les cita a las 5:00 p.m. en la estación de tren. Allí suben al tren para más tarde descubrir que se trata de un digimon, Trailmon. Ya en tierra, se encuentran Bokomon y Neemon, quienes les guiaran por el digimundo para derrotar a Cherubimon con ayuda de los guerreros legendarios, quienes intenta salvar el digimundo.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "竹内順子",
+      "personaje": "神原拓也/火神兽",
+      "foto": "https://image.tmdb.org/t/p/w500/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+    },
+    {
+      "nombre": "神谷浩史",
+      "personaje": "源辉二/野狼兽",
+      "foto": "https://image.tmdb.org/t/p/w500/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
+    },
+    {
+      "nombre": "石毛佐和",
+      "personaje": "织本泉/仙女兽",
+      "foto": "https://image.tmdb.org/t/p/w500/mFcac1VyKfx67nN9zNavNfx43sv.jpg"
+    },
+    {
+      "nombre": "四反田マイケル",
+      "personaje": "柴山纯平/电光兽",
+      "foto": "https://image.tmdb.org/t/p/w500/qj6cKZgN3ODcXmU2pT0cJeFi5JQ.jpg"
+    },
+    {
+      "nombre": "鈴村健一",
+      "personaje": "木村辉一/黑狮兽",
+      "foto": "https://image.tmdb.org/t/p/w500/vFqjmIjxfgBkh3ZmUin7QETV0sy.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "貝澤幸男",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "和田光司",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "富田祐弘",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "本郷あきよし",
+      "rol": "Original Concept"
+    },
+    {
+      "nombre": "貝澤幸男",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "有澤孝紀",
+      "rol": "Music"
+    },
+    {
+      "nombre": "中鶴勝祥",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "山室直儀",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "わたなべけいと",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "富田祐弘",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "貝澤幸男",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.033,
+    "imdb": "tt0316975",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
