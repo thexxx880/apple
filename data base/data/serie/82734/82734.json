@@ -1,0 +1,72 @@
+{
+  "id_tmdb": 82734,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ntjqGjhg6BS4gJplDM33gWV6mNz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lzZznDjrsvUXSXbhJxuZx5xq2JS.jpg",
+  "logo": "",
+  "titulo": "Colorina",
+  "titulo_original": "Colorina",
+  "fecha_estreno": "1980-03-03",
+  "duracion": "30min",
+  "año": "1980",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Soap"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "Fernanda, mejor conocida como Colorina, es una mujer muy bella que trabaja como prostituta en un cabaret junto a su amiga Rita. Una noche ellas son invitadas por Iván a pasar la noche a su casa con la promesa de un buen pago por compañía, Iván resulta ser solamente un vividor que se mantiene a costillas de su cuñado Gustavo Adolfo quien está casado con Alba, hermana de Iván, la cual está postrada en cama por una enfermedad terminal. Cuando Rita y Colorina reclaman por el pago del dinero arman un escándalo en la casa despertando a la señora de la misma y madre de Gustavo Adolfo, Ana María, quien esa misma noche elabora un plan que consiste en tener un nieto y heredero a costillas de la necesidad financiera de Colorina a quien ofrece una fuerte cantidad de dinero para embarazarse de su hijo.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lucía Méndez",
+      "personaje": "Colorina",
+      "foto": "https://image.tmdb.org/t/p/w500/mWU7EuT7oituaBH6tSOUKeHZ7VO.jpg"
+    },
+    {
+      "nombre": "Enrique Álvarez Félix",
+      "personaje": "Gustavo Adolfo Almazán y de la Vega",
+      "foto": "https://image.tmdb.org/t/p/w500/rbJilwgcOuyLjHaAmfzT7EMXI2E.jpg"
+    },
+    {
+      "nombre": "Armando Calvo",
+      "personaje": "Guillermo Almazán",
+      "foto": "https://image.tmdb.org/t/p/w500/qhk9gbYuWbcbOcc7FXdeQjjlVpq.jpg"
+    },
+    {
+      "nombre": "Héctor Ortega",
+      "personaje": "Toribio",
+      "foto": "https://image.tmdb.org/t/p/w500/lfxYNb8yRXBz63ALF0zcOAQEEho.jpg"
+    },
+    {
+      "nombre": "Julissa",
+      "personaje": "Rita",
+      "foto": "https://image.tmdb.org/t/p/w500/ma0lz2CHIke3ADexWBzYTtg6S5T.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Dimitrio Sarrás",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dimitrio Sarrás",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Arturo Moya Grau",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt0221738",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": ""
+}
