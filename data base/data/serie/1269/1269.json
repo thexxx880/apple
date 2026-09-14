@@ -1,0 +1,55 @@
+{
+  "id_tmdb": 1269,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/j3xftoLKv388eAtDcxfivpuv3mx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hF2Dnx9g6pm87UJ6RJ58PrpdMWQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/1oX12RUptiU2dwS7oGCKhYwPSu1.png",
+  "titulo": "El Hombre-Araña y sus Sorprendentes Amigos",
+  "titulo_original": "Spider-Man and His Amazing Friends",
+  "fecha_estreno": "1981-09-12",
+  "duracion": "24min",
+  "año": "1981",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "puntuacion": 7.539,
+  "sinopsis": "Al defender a la humanidad de las fuerzas del mal, el Hombre Araña conoce a Estrella de Fuego y a Deslizador de Plata. Estos tres superhéroes deciden unirse al conocerse con sus identidades secretas en la universidad, viviendo en la casa de la Tía May junto con la perrita de Angelica, llamada Minky. Esta serie es secuela directa de \"Las nuevas aventuras del Hombre Araña\", Producida por Marvel Productions, Ltd.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Dan Gilvezan",
+      "personaje": "Spider-Man / Peter Parker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tgJVkPQm2ZqeOGocsN4ikeJbycG.jpg"
+    },
+    {
+      "nombre": "Kathy Garver",
+      "personaje": "Firestar / Angelica Jones (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fdRtDVk0uoXkImDbhDTVhgSFe0n.jpg"
+    },
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Iceman / Bobby Drake (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Art Vitello",
+      "rol": "Animation Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.539,
+    "imdb": "tt0083481",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=xCmZVPundLg"
+}
