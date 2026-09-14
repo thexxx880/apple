@@ -1,0 +1,62 @@
+{
+  "id_tmdb": 31214,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/AvCYAvFatdPo5oA1gI98BKSysHK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qAt1utpV69XavkMtTNGQEMSNE9H.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/tCk9MErc6K58lIuUV5GOExueEUN.png",
+  "titulo": "Corazón Salvaje",
+  "titulo_original": "Corazón salvaje",
+  "fecha_estreno": "2009-10-12",
+  "duracion": "44min",
+  "año": "2009",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 5.8,
+  "sinopsis": "Dos historias se entrelazan; un hijo ilegítimo abandonado y una joven que sacrifica su felicidad para salvar la reputación de su hermana gemela",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Osvaldo Ríos",
+      "personaje": "Juan de Dios San Román",
+      "foto": ""
+    },
+    {
+      "nombre": "Eduardo Yáñez",
+      "personaje": "Juan del Diablo",
+      "foto": "https://image.tmdb.org/t/p/w500/byj6rAJexfc72eXNL89EdOrYwA9.jpg"
+    },
+    {
+      "nombre": "Enrique Rocha",
+      "personaje": "Rodrigo Montes de Oca",
+      "foto": "https://image.tmdb.org/t/p/w500/j7g0mDIZBNQjiowevsqjTCDuQUl.jpg"
+    },
+    {
+      "nombre": "Aracely Arámbula",
+      "personaje": "Regina Montes de Oca",
+      "foto": "https://image.tmdb.org/t/p/w500/dYvgcWCMq3efXcPjN1vW1RKRGh8.jpg"
+    },
+    {
+      "nombre": "Laura Flores",
+      "personaje": "María del Rosario Montes de Oca",
+      "foto": "https://image.tmdb.org/t/p/w500/rJqyCEBqB4ua2SjQ7PlDvzjlsby.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Salvador Mejía",
+      "rol": "Production Executive"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.8,
+    "imdb": "tt1522468",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": ""
+}
