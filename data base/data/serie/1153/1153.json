@@ -1,0 +1,76 @@
+{
+  "id_tmdb": 1153,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5QrwlR2y9uxGArQJrS8VbxxgxUk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/k57FhSy0kkmRmigMG76gFoy4ZtY.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/zGf48LSElGmAV58VZ77dOq7VFd5.png",
+  "titulo": "Hombres de negro - la serie animada",
+  "titulo_original": "Men in Black: The Series",
+  "fecha_estreno": "1997-10-11",
+  "duracion": "30min",
+  "año": "1997",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.365,
+  "sinopsis": "Serie de TV (1997-2001). Basada en la película del mismo nombre, la serie animada hace crónica de las aventuras de los agentes Jay y Kay. Con sus colegas Zeta y Elle, proporcionan servicios de seguridad intergalácticos, sumamente secretos para salvaguardar la Tierra de malvados extraterrestres...",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Gregg Berger",
+      "personaje": "Agent K (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bMlJUmhblX50gQrnA8XWG7UuaLk.jpg"
+    },
+    {
+      "nombre": "Keith Diamond",
+      "personaje": "Agent J (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mAvu6POsVZ2iDVHfA8ytBN1T6mN.jpg"
+    },
+    {
+      "nombre": "Charles Napier",
+      "personaje": "Chief Zed (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/w16LEJlHDtqGWeFCk5a7a2GDeBK.jpg"
+    },
+    {
+      "nombre": "Jennifer Martin",
+      "personaje": "Agent Elle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/v6nGkgJCEbhyEjhWnQjxeF7QucF.jpg"
+    },
+    {
+      "nombre": "Adam Baldwin",
+      "personaje": "Agent X (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lfbyJWNWGbiYfU0Yr1tjn6Trd2V.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Dao Le",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Lowell Cunningham",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "Roger Injarusorn",
+      "rol": "Digital Effects Supervisor"
+    },
+    {
+      "nombre": "Richard J. Gasparian",
+      "rol": "Animation Manager"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.365,
+    "imdb": "tt0127385",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sony, Sony Animations",
+  "trailer": "https://www.youtube.com/watch?v=mVAePIyC4kQ"
+}
