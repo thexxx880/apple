@@ -1,0 +1,60 @@
+{
+  "id_tmdb": 9957,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8IuTg9XaviDwpfm99IXUUPukrVA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kCn0YRqJyhjiyP7hTtLnEVLyYvk.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/oDYasLKeWxMxuyaRffSCvKb7azN.png",
+  "titulo": "La Máscara (serie animada)",
+  "titulo_original": "The Mask: Animated Series",
+  "fecha_estreno": "1995-08-12",
+  "duracion": "22min",
+  "año": "1995",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.174,
+  "sinopsis": "Serie de animación surgida a raíz del éxito de la película protagonizada por Jim Carrey, que a su vez adaptaba un popular cómic de Dark Horse. Sigue la historia de Stanley Ipkiss, quien tras encontrar una máscara mágica es capaz de convertirse en un improvisado superhéroe.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rob Paulsen",
+      "personaje": "Stanley Ipkiss / The Mask (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tchCr0vkApDzGRwiRn5unCrxYmQ.jpg"
+    },
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Milo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Heidi Shannon",
+      "personaje": "Peggy (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Neil Ross",
+      "personaje": "Lieutenant Kellaway (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pNgkQKw5k6z9kscDnOAwstcmNnt.jpg"
+    },
+    {
+      "nombre": "Jim Cummings",
+      "personaje": "Detective Doyle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.174,
+    "imdb": "tt0112064",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks, Warner Bros",
+  "trailer": ""
+}
