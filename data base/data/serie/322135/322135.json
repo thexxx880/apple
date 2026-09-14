@@ -1,0 +1,65 @@
+{
+  "id_tmdb": 322135,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/aiP6DKu02kNg0iaIzHvQBv7u6DR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bvOeRUlVIW2CTHC4wR2ixjh67aO.jpg",
+  "logo": "",
+  "titulo": "Dino Boy in the Lost Valley",
+  "titulo_original": "Dino Boy in the Lost Valley",
+  "fecha_estreno": "1966-09-10",
+  "duracion": "6min",
+  "año": "1966",
+  "trending": false,
+  "generos": [
+    "Animación"
+  ],
+  "puntuacion": 6,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John David Carson",
+      "rol": "Vocals"
+    },
+    {
+      "nombre": "Mike Road",
+      "rol": "Vocals"
+    },
+    {
+      "nombre": "Don Messick",
+      "rol": "Vocals"
+    },
+    {
+      "nombre": "Gary Owens",
+      "rol": "Vocals"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6,
+    "imdb": "tt15791462",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": ""
+}
