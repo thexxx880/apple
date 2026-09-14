@@ -1,0 +1,134 @@
+{
+  "id_tmdb": 21730,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ldTILeuLdsLRNADg5T9eONC10wO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6q1eredSOpFhzjoStR8V29BxAZC.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/giC0NigcXaiYVM78cOshP2rRgdG.png",
+  "titulo": "Mobile Suit Gundam Wing",
+  "titulo_original": "新機動戦記ガンダムW",
+  "fecha_estreno": "1995-04-07",
+  "duracion": "25min",
+  "año": "1995",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "War & Politics"
+  ],
+  "puntuacion": 7.829,
+  "sinopsis": "Han pasado casi dos siglos desde que la humanidad empezó a dejar su planeta natal, para establecerse en Colonias Espaciales. La construcción de las primeras Colonias se llevó a cabo con grandes esfuerzos y sacrificios de los pioneros terrícolas. Una importante razón de este éxito estaba basada en los Mobile Suits (Trajes Móviles), esencialmente armaduras individuales humanoides, que permitían a los humanos operar en el espacio.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Hikaru Midorikawa",
+      "personaje": "Heero Yuy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pvzfUDE9UruEhRBrONVFk83o6Zh.jpg"
+    },
+    {
+      "nombre": "矢島晶子",
+      "personaje": "Relena Darlian (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7b9jO2IYcSpBQRcmhXnlOIgwmRI.jpg"
+    },
+    {
+      "nombre": "Toshihiko Seki",
+      "personaje": "Duo Maxwell (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7jUPvx4hxWZWZJgyiCwd8KxWuvI.jpg"
+    },
+    {
+      "nombre": "中原茂",
+      "personaje": "Trowa Barton (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/b1Yup2dGpo1LeOzgfbcvtd3IF41.jpg"
+    },
+    {
+      "nombre": "折笠愛",
+      "personaje": "Quatre Raberba Winner (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6ztt20jMc4oprKbixp2sNrR2ykK.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "小泉美明",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "植田益朗",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "富岡秀行",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "矢立肇",
+      "rol": "Original Concept"
+    },
+    {
+      "nombre": "永野椎菜",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "高山みなみ",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "富野由悠季",
+      "rol": "Original Concept"
+    },
+    {
+      "nombre": "山森重之",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "辺見俊夫",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "池さゆり",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "松田昭彦",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "小泉美明",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "植田益朗",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "出渕裕",
+      "rol": "Costume Designer"
+    },
+    {
+      "nombre": "石垣純哉",
+      "rol": "Mechanical Designer"
+    },
+    {
+      "nombre": "カトキハジメ",
+      "rol": "Mechanical Designer"
+    },
+    {
+      "nombre": "大河原邦男",
+      "rol": "Mechanical Designer"
+    },
+    {
+      "nombre": "隅沢克之",
+      "rol": "Series Composition"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.829,
+    "imdb": "tt0159193",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=OW7GYCbu6Os"
+}
