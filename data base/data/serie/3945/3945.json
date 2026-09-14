@@ -1,0 +1,104 @@
+{
+  "id_tmdb": 3945,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lj5HNwvZKVvIco8wHBfFlrFmpw2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rEOVZ5wn7J6weTySh8eYNk0DTeJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/5Dt2fbQH8IXAXkTmxZgYjGCzxzq.png",
+  "titulo": "¿Dónde en el mundo está Carmen Sandiego?",
+  "titulo_original": "Where on Earth Is Carmen Sandiego?",
+  "fecha_estreno": "1994-02-05",
+  "duracion": "21min",
+  "año": "1994",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Animación",
+    "Kids"
+  ],
+  "puntuacion": 7.45,
+  "sinopsis": "¿Dónde en el mundo está Carmen Sandiego? es una serie animada de televisión basada en la serie de videojuegos de PC de los años '80. El programa fue producido por DIC Entertainment/Program Exchange y originalmente fue emitido los días sábados por la la cadena Fox. La serie ganó un Premio Emmy por \"Programa Infantil Animado Sobresaliente\" en 1995.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rita Moreno",
+      "personaje": "Carmen Sandiego (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
+    },
+    {
+      "nombre": "Jennifer Hale",
+      "personaje": "Ivy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oNQCrdiSm0mABCcE5YaHwuZQK8X.jpg"
+    },
+    {
+      "nombre": "Scott Menville",
+      "personaje": "Zack (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iLoApH8LbyJSKFmdgWxNR314GGa.jpg"
+    },
+    {
+      "nombre": "Rodger Bumpass",
+      "personaje": "The Chief (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lGQkw6adxqB6Hcm7VK8nVHbKupe.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Andy Heyward",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sean Roche",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robby London",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Benjamin Melniker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Maliani",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Uslan",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Andy Heyward",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sean Roche",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robby London",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Benjamin Melniker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Maliani",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Uslan",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.45,
+    "imdb": "tt0167742",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=EAzXEy-3Z7E"
+}
