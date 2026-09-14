@@ -1,0 +1,77 @@
+{
+  "id_tmdb": 4167,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qvyCcBrKrc0nhmOMY49iNE0Fu47.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/b7iffoUr98QbhMdKRrc7ofETp2j.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/xYY8r7r7wVHVhAA6EymbJHnx5Qy.png",
+  "titulo": "Los Pequeños Picapiedra",
+  "titulo_original": "The Flintstone Kids",
+  "fecha_estreno": "1986-09-06",
+  "duracion": "30min",
+  "año": "1986",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 6.468,
+  "sinopsis": "Historias de Pedro, Pablo, Vilma y Betty, que viven todo tipo de aventuras en el mundo prehistórico de Roca Plana durante su infancia.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Scott Menville",
+      "personaje": "Freddy Flintstone",
+      "foto": "https://image.tmdb.org/t/p/w500/iLoApH8LbyJSKFmdgWxNR314GGa.jpg"
+    },
+    {
+      "nombre": "Hamilton Camp",
+      "personaje": "Barney Rubble",
+      "foto": "https://image.tmdb.org/t/p/w500/1ftUhoIOkYzzPW9lmkMYrskxgXT.jpg"
+    },
+    {
+      "nombre": "Julie McWhirter",
+      "personaje": "Wilma Slaghoople",
+      "foto": "https://image.tmdb.org/t/p/w500/4XOGAogJN9W1eBVVnYt3VZfotDI.jpg"
+    },
+    {
+      "nombre": "B.J. Ward",
+      "personaje": "Betty McBricker",
+      "foto": "https://image.tmdb.org/t/p/w500/kD8iaIEmdsqURAbebzsox40EJAQ.jpg"
+    },
+    {
+      "nombre": "Mel Blanc",
+      "personaje": "Dino / Captain Caveman",
+      "foto": "https://image.tmdb.org/t/p/w500/8fevv4K06TmHsYom2XfmxgKrTcd.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.468,
+    "imdb": "tt0240265",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=ozALyhvfsRk"
+}
