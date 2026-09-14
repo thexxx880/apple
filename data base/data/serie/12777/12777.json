@@ -1,0 +1,92 @@
+{
+  "id_tmdb": 12777,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/r7O2OTPM6xU6YAIVkHdhETLeqEb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vCegizcgxwvi2vcx9Om6jGMdxEa.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/irqsUnKFZ4j7GVzUWpTaZP10zFJ.png",
+  "titulo": "Corazón Salvaje",
+  "titulo_original": "Corazón salvaje",
+  "fecha_estreno": "1992-12-31",
+  "duracion": "30min",
+  "año": "1992",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Soap"
+  ],
+  "puntuacion": 7.958,
+  "sinopsis": "Telenovela que dramatiza los romances y rivalidades entre dos hermanos y dos hermanas en el México de principios del siglo XX.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Edith González",
+      "personaje": "Mónica de Altamira",
+      "foto": "https://image.tmdb.org/t/p/w500/hROLymdQizy3FLpDF3TNrEkQVAG.jpg"
+    },
+    {
+      "nombre": "Eduardo Palomo",
+      "personaje": "Juan del Diablo/Francisco Alcazar y Valle",
+      "foto": "https://image.tmdb.org/t/p/w500/lFZVzLggbbt4KenNWMVQtMMZWcX.jpg"
+    },
+    {
+      "nombre": "Ariel López Padilla",
+      "personaje": "Andrés Alcázar y Valle",
+      "foto": "https://image.tmdb.org/t/p/w500/zspbFMZD62XyVj5QrJnqGGmLcxE.jpg"
+    },
+    {
+      "nombre": "Ana Colchero",
+      "personaje": "Aimeé de Altamira",
+      "foto": "https://image.tmdb.org/t/p/w500/AvIEF1EPB3zWZJ9NNNSGIBvTZew.jpg"
+    },
+    {
+      "nombre": "Enrique Lizalde",
+      "personaje": "Noel Mancera",
+      "foto": "https://image.tmdb.org/t/p/w500/4Ssw0magrt3uL8oX3FthxE9JQzC.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "José Rendón",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alberto Cortés",
+      "rol": "Director"
+    },
+    {
+      "nombre": "José Rendón",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Caridad Bravo Adams",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "María Zarattini",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "José Rendón",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alberto Cortés",
+      "rol": "Director"
+    },
+    {
+      "nombre": "José Rendón",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.958,
+    "imdb": "tt0212653",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": "https://www.youtube.com/watch?v=cshZX-BL6Ok"
+}
