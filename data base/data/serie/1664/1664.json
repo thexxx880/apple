@@ -1,0 +1,68 @@
+{
+  "id_tmdb": 1664,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/mFcSBC5ckNJ1BSFBjSJmpDTtrXw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nVHovBi2yqZAYW17273ytA8SE7c.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sPuZZjeu1ZJrQA2tyI6Oe45lxf6.png",
+  "titulo": "El Hombre-Araña: La Serie",
+  "titulo_original": "Spider-Man: The New Animated Series",
+  "fecha_estreno": "2003-07-11",
+  "duracion": "24min",
+  "año": "2003",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Familia"
+  ],
+  "puntuacion": 7.221,
+  "sinopsis": "Combinando los gráficos computarizados más artísticos con animaciones procesadas, El Hombre-Araña cobra vida en una ciudad iluminada con luces neon.\n\nBasada en la legendaria historieta de Marvel, la serie se centra en las aventuras de Peter Parker, quien desarrolla súper poderes después de que lo muerde una araña genéticamente alterada.",
+  "pais_origen": "CA",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Neil Patrick Harris",
+      "personaje": "Peter Parker / Spider-Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
+    },
+    {
+      "nombre": "Lisa Loeb",
+      "personaje": "Mary Jane Watson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hNBhj3OSWjUopfVspS4BsT4o3Xj.jpg"
+    },
+    {
+      "nombre": "Ian Ziering",
+      "personaje": "Harry Osborn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/keJ4aYXWzUD1MOTDNrKDAXUstW0.jpg"
+    },
+    {
+      "nombre": "Angelle Brooks",
+      "personaje": "Indira 'Indy' Daimonji  (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2TSLiidwPy9GQlW7WuKUS0O3Xes.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Steve Ditko",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Stan Lee",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "David Hartman",
+      "rol": "Art Direction"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.221,
+    "imdb": "tt0290983",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=94vwZ5fyT7k"
+}
