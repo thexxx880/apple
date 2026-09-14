@@ -1,0 +1,68 @@
+{
+  "id_tmdb": 1570,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/30TKKVAZzeCAHujE0ONhJNlSKOk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/e9pwnvHUVtP7jg4icWXYRWF2uc9.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/l4Ti0YyIySgsTzimq48AS2RXqCN.png",
+  "titulo": "Las aventuras de Tintín",
+  "titulo_original": "The Adventures of Tintin",
+  "fecha_estreno": "1991-10-02",
+  "duracion": "22min",
+  "año": "1991",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Misterio"
+  ],
+  "puntuacion": 7.929,
+  "sinopsis": "Tintín, eterno adolescente sin familia conocida, es reportero que en realidad actúa más como aventurero o detective. Viaja por todo el mundo acompañado de su inseparable perro Milú con el propósito de enfrentarse a las fuerzas del mal para proteger a los débiles y a los oprimidos y saciar su inagotable sed de aventuras.",
+  "pais_origen": "FR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Thierry Wermuth",
+      "personaje": "Tintin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xIbLOtByj9Hba5msZNss8y1u7Hp.jpg"
+    },
+    {
+      "nombre": "Christian Pelissier",
+      "personaje": "Haddock (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oDPEzA8tcNUd5yOnQMUa4ju1Plv.jpg"
+    },
+    {
+      "nombre": "Henri Labussière",
+      "personaje": "Tournesol (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aiefHWaaE67s8jtdtNgOgzhmo0k.jpg"
+    },
+    {
+      "nombre": "Yves Barsacq",
+      "personaje": "Dupont (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bxTkvQcR3b78MM3BXGBJ0jSbOL9.jpg"
+    },
+    {
+      "nombre": "Jean-Pierre Moulin",
+      "personaje": "Dupond (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wEvU7af1O32IMlPxqCOP06C80ww.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Serge Élissalde",
+      "rol": "Animation Manager"
+    },
+    {
+      "nombre": "Hergé",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.929,
+    "imdb": "tt0179552",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=Sd8KZFdv54A"
+}
