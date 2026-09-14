@@ -1,0 +1,97 @@
+{
+  "id_tmdb": 4035,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1Wcx99T1zbJzJXCqevOL4MNPdKz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vWaIxifDJeKXq4igHTOE5epqcop.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rhNUt6UNjTPZxYCkenqgfhWa8sN.png",
+  "titulo": "El inspector Gadget",
+  "titulo_original": "Inspector Gadget",
+  "fecha_estreno": "1983-09-05",
+  "duracion": "22min",
+  "año": "1983",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 6.851,
+  "sinopsis": "Serie de dibujos animados protagonizada por un detective torpe y despistado, el Inspector Gadget, que es además un cyborg equipado con varios artilugios (gadgets) colocados por todo su cuerpo. Su principal enemigo es el Dr. Gang, líder de la malvada organización MAD.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Don Adams",
+      "personaje": "Inspector Gadget (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/egFBdfEG2hCrSKo3fCVD1Fz5sLe.jpg"
+    },
+    {
+      "nombre": "Maurice LaMarche",
+      "personaje": "Chief Quimby (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+    },
+    {
+      "nombre": "Holly Berger",
+      "personaje": "Penny (voice)",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jean Chalopin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andy Heyward",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patrick Loubert",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "横山正和",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "Yoriko Takahashi",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jean Chalopin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andy Heyward",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patrick Loubert",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Shuki Levy",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Haim Saban",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "鶴渕允寿",
+      "rol": "Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.851,
+    "imdb": "tt0085033",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": ""
+}
