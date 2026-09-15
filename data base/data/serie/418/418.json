@@ -1,0 +1,91 @@
+{
+  "id_tmdb": 418,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/uk2LWNUuISMgeuuzQM2sSiN6DNM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/tnGkk8SH68n6DbcFg3J4oVKA5Ml.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4funbJU7J4iVq9AU3ctPWdGE9Jn.png",
+  "titulo": "Un cachorro llamado Scooby-Doo",
+  "titulo_original": "A Pup Named Scooby-Doo",
+  "fecha_estreno": "1988-09-10",
+  "duracion": "23min",
+  "año": "1988",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Misterio",
+    "Comedia",
+    "Familia",
+    "Kids"
+  ],
+  "puntuacion": 7.539,
+  "sinopsis": "Spin-Off de la serie original Scooby Doo que nos muestra las divertidas aventuras del joven cachorro Scooby y sus amigos Shaggy, Daphne, Velma y Fred cuando eran pequeños.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Don Messick",
+      "personaje": "Scooby-Doo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iT3okvWCKy6RAdo6dbx09RP0I3p.jpg"
+    },
+    {
+      "nombre": "Casey Kasem",
+      "personaje": "Shaggy Rogers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sBKx2Da5Igy55Sjk2dnhtI3JekC.jpg"
+    },
+    {
+      "nombre": "Carl Steven",
+      "personaje": "Fred Jones (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/k2ufs2EYkGjJrKceWaZTxmc0kEf.jpg"
+    },
+    {
+      "nombre": "Kellie Martin",
+      "personaje": "Daphne Blake (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vDy90F1H953nR1CfONVdCQ99YXw.jpg"
+    },
+    {
+      "nombre": "Christina Lange",
+      "personaje": "Velma Dinkley (voice)",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jay Patterson",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joe Ruby",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Ken Spears",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jay Patterson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Debney",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Roger Chiasson",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jayne Barbera",
+      "rol": "Executive In Charge Of Production"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.539,
+    "imdb": "tt0094531",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=OJ79j5n-dWY"
+}
