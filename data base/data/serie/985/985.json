@@ -1,0 +1,78 @@
+{
+  "id_tmdb": 985,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2vnTQqiVlw2aTnWhmCSQBZfu0kS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wJgLiMIaptq7jfY0tXTYQEcbevw.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ur2iYi574WBLgEl9dSRnyZoFMr7.png",
+  "titulo": "La Carrera de Los Autos Locos",
+  "titulo_original": "Wacky Races",
+  "fecha_estreno": "1968-09-14",
+  "duracion": "11min",
+  "año": "1968",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 7.332,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "John Stephenson",
+      "personaje": "Blubber Bear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7Tl0KkH3Sw7RMmsvTIv3Alz9vrn.jpg"
+    },
+    {
+      "nombre": "Paul Winchell",
+      "personaje": "Clyde (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aZjzqTlzhBpcXogubUP8wcPE4Da.jpg"
+    },
+    {
+      "nombre": "Don Messick",
+      "personaje": "Gravel Slag (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iT3okvWCKy6RAdo6dbx09RP0I3p.jpg"
+    },
+    {
+      "nombre": "Daws Butler",
+      "personaje": "Big Gruesome (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qxaOMbICdts0qpUmkYj3OMhDGt8.jpg"
+    },
+    {
+      "nombre": "Janet Waldo",
+      "personaje": "Penelope Pitstop (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/liuY8vTRtKsQeDN7HYZD2oRkE80.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.332,
+    "imdb": "tt0122365",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=8jHrrMThQJk"
+}
