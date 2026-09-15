@@ -1,0 +1,81 @@
+{
+  "id_tmdb": 2129,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hFOdbXGvx3xaVU2Jm7oQUNnNX0E.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1BQqYdAAwTo1HBnXJrCNj6DQ9B3.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/mBg482Hvmej3LCyEpG26B1RjiyH.png",
+  "titulo": "Las Aventuras de Jimmy Neutron: El Niño Genio",
+  "titulo_original": "The Adventures of Jimmy Neutron: Boy Genius",
+  "fecha_estreno": "2002-07-20",
+  "duracion": "24min",
+  "año": "2002",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Kids"
+  ],
+  "puntuacion": 7.382,
+  "sinopsis": "Un joven científico y sus amigos despegan en naves espaciales para rescatar a sus padres de alienígenas.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Debi Derryberry",
+      "personaje": "Jimmy Neutron (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aCVgHnvGBw7ssZA9kl1Pnr5pJjU.jpg"
+    },
+    {
+      "nombre": "Jeffrey Garcia",
+      "personaje": "Sheen Estevez (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oIFQs8SLqgIfg9ll5O70IvGgAOm.jpg"
+    },
+    {
+      "nombre": "Rob Paulsen",
+      "personaje": "Carl Wheezer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7buvKWIjPlspqruaO3b28V5owJr.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Steve Oedekerk",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John A. Davis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Keith Alcorn",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Steve Oedekerk",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John A. Davis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Keith Alcorn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Charlie Brissette",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.382,
+    "imdb": "tt0320808",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nickelodeon",
+  "trailer": "https://www.youtube.com/watch?v=zm9hb03dvaw"
+}
