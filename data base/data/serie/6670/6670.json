@@ -1,0 +1,96 @@
+{
+  "id_tmdb": 6670,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/4tpCaJq94eHBWsWVtwFWojbUjcM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dwNNwA3tY9ShotYFxXRbcb7MrIN.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/f4WbguPvyC0VzAYYyZygGoNwAin.png",
+  "titulo": "El show de Charlie Brown y Snoopy",
+  "titulo_original": "The Charlie Brown and Snoopy Show",
+  "fecha_estreno": "1983-09-17",
+  "duracion": "23min",
+  "año": "1983",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "puntuacion": 7.6,
+  "sinopsis": "Serie de televisión protagonizada por los populares personajes de Charles M. Schulz, siguiendo las andanzas de todos los personajes del cómic y presentando secuencias clave de los mismos, como los numerosos partidos de béisbol entre Charlie Brown y sus amigos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Bill Melendez",
+      "personaje": "Snoopy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/se2qF1kdaKTwDa69xjzA3j2gKaG.jpg"
+    },
+    {
+      "nombre": "Jeremy Schoenberg",
+      "personaje": "Linus van Pelt (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Fergie",
+      "personaje": "Sally Brown (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nfFaBZSWJY2S00cB70N5hXQlqCO.jpg"
+    },
+    {
+      "nombre": "Gini Holtzman",
+      "personaje": "Peppermint Patty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/A0Vwb4sNe5JZZRArKPe1Snn5OvQ.jpg"
+    },
+    {
+      "nombre": "Keri Houlihan",
+      "personaje": "Marcie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nlZXfsEcPyL6N4T3X5nPbN9SmCi.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Bill Melendez",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chuck McCann",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Julie Maryon",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Desiree Goyette",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Charles M. Schulz",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ed Bogas",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Desiree Goyette",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Bill Melendez",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "Bill Melendez",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.6,
+    "imdb": "tt0084996",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": ""
+}
