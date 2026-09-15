@@ -1,0 +1,79 @@
+{
+  "id_tmdb": 1072,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xnOyqYYx81buw4YZI6xuqxPaD6C.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/b1jIOCcB9QeXubzhvoguq258RNW.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2NSAVE2hLrSdDKo8UWqevGV4T2f.png",
+  "titulo": "Scooby's All-Stars",
+  "titulo_original": "Scooby's All-Stars",
+  "fecha_estreno": "1977-09-10",
+  "duracion": "30min",
+  "año": "1977",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids",
+    "Familia",
+    "Misterio"
+  ],
+  "puntuacion": 8.111,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Don Messick",
+      "personaje": "Announcer / Boo Boo Bear / Scooby-Doo / Mr. Creeply (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iT3okvWCKy6RAdo6dbx09RP0I3p.jpg"
+    },
+    {
+      "nombre": "Daws Butler",
+      "personaje": "Snagglepuss / Yogi Bear / Quick Draw McGraw / Various (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qxaOMbICdts0qpUmkYj3OMhDGt8.jpg"
+    },
+    {
+      "nombre": "John Stephenson",
+      "personaje": "Mildew Wolf / Dread Baron / Great Fondoo / Doggie Daddy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7Tl0KkH3Sw7RMmsvTIv3Alz9vrn.jpg"
+    },
+    {
+      "nombre": "Casey Kasem",
+      "personaje": "Shaggy Rogers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sBKx2Da5Igy55Sjk2dnhtI3JekC.jpg"
+    },
+    {
+      "nombre": "Scatman Crothers",
+      "personaje": "Hong Kong Phooey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ughfThqQuuoPLSsC9HfkxwX370w.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "William Hanna",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joseph Barbera",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.111,
+    "imdb": "tt0181941",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks, Warner Bros",
+  "trailer": ""
+}
