@@ -1,0 +1,75 @@
+{
+  "id_tmdb": 335220,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xGJh11mrmrBYW370YpDWFopJyhm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/Mn41D6APeSiwyioBkUH5O1Kh5.jpg",
+  "logo": "",
+  "titulo": "La Pantera Rosa",
+  "titulo_original": "The Pink Panther",
+  "fecha_estreno": "",
+  "duracion": "24min",
+  "año": "",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 0,
+  "sinopsis": "La Pantera Rosa protagoniza una serie de aventuras cómicas y disparatadas en las que utiliza su ingenio para enfrentarse a situaciones cotidianas, personajes y problemas inesperados. Silenciosa y astuta, la elegante pantera suele convertir cualquier situación en una sucesión de divertidos gags y enredos, especialmente cuando se encuentra con su conocido adversario, el pequeño hombre de gran nariz.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Friz Freleng",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Hawley Pratt",
+      "rol": "Director"
+    },
+    {
+      "nombre": "David H. DePatie",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Friz Freleng",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Hawley Pratt",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John W. Dunn",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "David H. DePatie",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "William Lava",
+      "rol": "Music"
+    },
+    {
+      "nombre": "John W. Dunn",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bob Matz",
+      "rol": "Animation"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 0,
+    "imdb": "",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Metro Goldwyn Mayer",
+  "trailer": "https://www.youtube.com/watch?v=PQ7cXcAQFjU"
+}
