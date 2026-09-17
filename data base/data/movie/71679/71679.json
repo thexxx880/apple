@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 71679,
+  "poster": "https://image.tmdb.org/t/p/w500/oLNcOs6H7hpbQOjun2PhmZduxaz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mLgFebdy051NX1vfFrpuUPRQHgg.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/pfMWV7Q9Dfvp2grsZDabHGKvwL0.png",
+  "titulo": "Resident Evil 5: La venganza",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Terror",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.828,
+  "año": "2012",
+  "duracion": "1h 36min",
+  "edad_minima": 13,
+  "sinopsis": "Alice lucha junto a un movimiento de resistencia para recuperar su libertad de una instalación de pruebas de la Corporación Umbrella.",
+  "fecha_estreno": "2012-09-12",
+  "titulo_original": "Resident Evil: Retribution",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Milla Jovovich",
+      "personaje": "Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+    },
+    {
+      "nombre": "Sienna Guillory",
+      "personaje": "Jill Valentine",
+      "foto": "https://image.tmdb.org/t/p/w500/nO190bAQxXvZH3DG9rZto0eocLe.jpg"
+    },
+    {
+      "nombre": "Michelle Rodriguez",
+      "personaje": "Rain",
+      "foto": "https://image.tmdb.org/t/p/w500/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg"
+    },
+    {
+      "nombre": "Aryana Engineer",
+      "personaje": "Becky",
+      "foto": "https://image.tmdb.org/t/p/w500/rVKtsVvYacIR1S2BLNis1XKG9kN.jpg"
+    },
+    {
+      "nombre": "李冰冰",
+      "personaje": "Ada Wong",
+      "foto": "https://image.tmdb.org/t/p/w500/gBDRToPG0smAFSUpWT5pmJv2fJr.jpg"
+    },
+    {
+      "nombre": "Boris Kodjoe",
+      "personaje": "Luther West",
+      "foto": "https://image.tmdb.org/t/p/w500/fo6bMq96LUDEatiXlQlMctOMGI3.jpg"
+    },
+    {
+      "nombre": "Johann Urb",
+      "personaje": "Leon S. Kennedy",
+      "foto": "https://image.tmdb.org/t/p/w500/odqA3smkYm5C02GEjdrrgZ5qYEU.jpg"
+    },
+    {
+      "nombre": "Robin Kasyanov",
+      "personaje": "Sergei",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Don Carmody",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jeremy Bolt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alexander Dostal",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Robert Johnson",
+      "rol": "Key Grip"
+    },
+    {
+      "nombre": "Martin Moszkowicz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Shewchuk",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Hartley Gorenstein",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Niven Howie",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Wendy Partridge",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Deirdre Bowen",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kevin Phipps",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Corry Glass",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Marie-Ève Beckers",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Mary Ann Stevens",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ilora Rosenberg",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Paul W. S. Anderson",
+  "valoraciones": {
+    "tmdb": 5.828,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Davis Films/Impact Pictures",
+  "enlace_video": "https://vimeos.net/embed-qit0a4mmp95c.html",
+  "trailer": "https://www.youtube.com/watch?v=hoyMT-7wEqs"
+}
