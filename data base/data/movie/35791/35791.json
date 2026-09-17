@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 35791,
+  "poster": "https://image.tmdb.org/t/p/w500/fRWIWoGwRwhkRFdfMiGBxVPYCm9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8AvzydMm6vKICPOUuUG2KIW2on.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/eUuPDIapQ9N0lYbnOl4vdQReG3a.png",
+  "titulo": "Resident Evil 4: La resurrección",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Terror",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.056,
+  "año": "2010",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Mientras aún está en la búsqueda de la destrucción de la malvada Corporación Umbrella, Alice se une a un grupo de supervivientes que viven en una prisión rodeados de infectados y que también quieren trasladarse al misterioso pero supuestamente indemne refugio conocido como Arcadia.",
+  "fecha_estreno": "2010-09-01",
+  "titulo_original": "Resident Evil: Afterlife",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Milla Jovovich",
+      "personaje": "Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+    },
+    {
+      "nombre": "Ali Larter",
+      "personaje": "Claire Redfield",
+      "foto": "https://image.tmdb.org/t/p/w500/5qaQFxx8Az83ycd4LHyQ39HXaEJ.jpg"
+    },
+    {
+      "nombre": "Kim Coates",
+      "personaje": "Bennett",
+      "foto": "https://image.tmdb.org/t/p/w500/brhVd2vTTBJNpM2ZrOFc6SnXCAd.jpg"
+    },
+    {
+      "nombre": "Shawn Roberts",
+      "personaje": "Albert Wesker",
+      "foto": "https://image.tmdb.org/t/p/w500/uTuz1fSq0iYyNsqfSUdvSdHQd87.jpg"
+    },
+    {
+      "nombre": "Sergio Peris-Mencheta",
+      "personaje": "Angel",
+      "foto": "https://image.tmdb.org/t/p/w500/uPE1n0JpbicJ5gm2fNarbsx6Nc4.jpg"
+    },
+    {
+      "nombre": "Spencer Locke",
+      "personaje": "K-Mart",
+      "foto": "https://image.tmdb.org/t/p/w500/2mHfjqDY8e3ZISkFmi1qjrMs7uN.jpg"
+    },
+    {
+      "nombre": "Boris Kodjoe",
+      "personaje": "Luther",
+      "foto": "https://image.tmdb.org/t/p/w500/fo6bMq96LUDEatiXlQlMctOMGI3.jpg"
+    },
+    {
+      "nombre": "Wentworth Miller",
+      "personaje": "Chris Redfield",
+      "foto": "https://image.tmdb.org/t/p/w500/js09M98qo6rEyyIlTbRMI6XiZJH.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jeremy Bolt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "小林裕幸",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Don Carmody",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Kulzer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bernd Eichinger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Samuel Hadida",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Arvinder Greywal",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Niven Howie",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Glen MacPherson",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Victor Hadida",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robin D. Cook",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Martin Moszkowicz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mary Ann Stevens",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Joanne Leach",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Vanessa King",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Rick Forsayeth",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Angelica Lisk-Hann",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Karen Leach",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Paul W. S. Anderson",
+  "valoraciones": {
+    "tmdb": 6.056,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Screen Gems",
+  "enlace_video": "https://vimeos.net/embed-stktm0g8wbta.html",
+  "trailer": "https://www.youtube.com/watch?v=SRRN6MvCdeg"
+}
