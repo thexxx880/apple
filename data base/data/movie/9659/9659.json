@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 9659,
+  "poster": "https://image.tmdb.org/t/p/w500/fUaujQcU0WYvuBQ9q2gEytKj1Ud.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mWQg2INejtX1PCWRAN4vseadA6H.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4Tc7cVledZvoGVLTAb7BUHiCgCd.png",
+  "titulo": "Mad Max: Salvajes de Autopista",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.68,
+  "año": "1979",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "En un futuro posnuclear, Max Rockatansky, un policía encargado de la vigilancia de una autopista, tendrá que vérselas con unos criminales que actúan como vándalos, sembrando el pánico por las carreteras. Cuando, durante una persecución, Max acaba con Nightrider, el líder del violento grupo, el resto de la banda jura vengar su muerte.",
+  "fecha_estreno": "1979-04-12",
+  "titulo_original": "Mad Max",
+  "pais_origen": "Australia",
+  "reparto": [
+    {
+      "nombre": "Mel Gibson",
+      "personaje": "Max Rockatansky",
+      "foto": "https://image.tmdb.org/t/p/w500/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+    },
+    {
+      "nombre": "Joanne Samuel",
+      "personaje": "Jessie Rockatansky",
+      "foto": "https://image.tmdb.org/t/p/w500/cmll6mR4FYp6WwD4c5F8rdbBV9Q.jpg"
+    },
+    {
+      "nombre": "Hugh Keays-Byrne",
+      "personaje": "Toecutter",
+      "foto": "https://image.tmdb.org/t/p/w500/7XSPjKNwmyEPMnmoVSQ42ykMz6M.jpg"
+    },
+    {
+      "nombre": "Steve Bisley",
+      "personaje": "Jim Goose",
+      "foto": "https://image.tmdb.org/t/p/w500/9KE407G6yIItUDlduj9MWAz392o.jpg"
+    },
+    {
+      "nombre": "Tim Burns",
+      "personaje": "Johnny the Boy",
+      "foto": "https://image.tmdb.org/t/p/w500/7pTNhTT1WdvAYV48kqg9f56TDpr.jpg"
+    },
+    {
+      "nombre": "Roger Ward",
+      "personaje": "Fifi",
+      "foto": "https://image.tmdb.org/t/p/w500/1ABctS3WpNwqlSzytPwudMSrIge.jpg"
+    },
+    {
+      "nombre": "Vincent Gil",
+      "personaje": "Nightrider",
+      "foto": "https://image.tmdb.org/t/p/w500/ybGGgwtAhgvby9GBOrTv2UlMTB0.jpg"
+    },
+    {
+      "nombre": "Lulu Pinkus",
+      "personaje": "Nightrider's Girl",
+      "foto": "https://image.tmdb.org/t/p/w500/AbOLubfn43CAwwentG7W1zPr1ZN.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Byron Kennedy",
+      "rol": "Story"
+    },
+    {
+      "nombre": "George Miller",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Byron Kennedy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "George Miller",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "George Miller",
+      "rol": "Director"
+    },
+    {
+      "nombre": "James McCausland",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brian May",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Cliff Hayes",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Tony Paterson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jon Dowding",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "David Eggby",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Grant Page",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Bill Miller",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Vivien Mepham",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Ben Taylor",
+      "rol": "Hairstylist"
+    },
+    {
+      "nombre": "Chris Murray",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "Clare Griffin",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Shirley Ballard",
+      "rol": "Script Supervisor"
+    }
+  ],
+  "director": "George Miller",
+  "valoraciones": {
+    "tmdb": 6.68,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Kennedy Miller Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/0j0k1zah3inz",
+  "trailer": "https://www.youtube.com/watch?v=E3F8IegOcjA"
+}
