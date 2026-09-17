@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 76341,
+  "poster": "https://image.tmdb.org/t/p/w500/wf0rvyXBTf2me1af6T0Z7WykTVo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4YdkDF2Topc44pVKdClyeXZEqBg.png",
+  "titulo": "Mad Max: Furia en el camino",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.638,
+  "año": "2015",
+  "duracion": "2h 0min",
+  "edad_minima": 13,
+  "sinopsis": "Perseguido por su turbulento pasado, Mad Max cree que la mejor forma de sobrevivir es ir solo por el mundo. Sin embargo, se ve arrastrado a formar parte de un grupo que huye a través del desierto en un War Rig conducido por una Emperatriz de élite: Furiosa. Escapan de una Ciudadela tiranizada por Immortan Joe, a quien han arrebatado algo irreemplazable. Enfurecido, el Señor de la Guerra moviliza a todas sus bandas y persigue implacablemente a los rebeldes en una \"guerra de la carretera\" de altas revoluciones... Cuarta entrega de la saga post-apocalíptica que resucita la trilogía que a principios de los ochenta protagonizó Mel Gibson.",
+  "fecha_estreno": "2015-05-13",
+  "titulo_original": "Mad Max: Fury Road",
+  "pais_origen": "Australia",
+  "reparto": [
+    {
+      "nombre": "Tom Hardy",
+      "personaje": "Max Rockatansky",
+      "foto": "https://image.tmdb.org/t/p/w500/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+    },
+    {
+      "nombre": "Charlize Theron",
+      "personaje": "Imperator Furiosa",
+      "foto": "https://image.tmdb.org/t/p/w500/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+    },
+    {
+      "nombre": "Nicholas Hoult",
+      "personaje": "Nux",
+      "foto": "https://image.tmdb.org/t/p/w500/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg"
+    },
+    {
+      "nombre": "Hugh Keays-Byrne",
+      "personaje": "Immortan Joe",
+      "foto": "https://image.tmdb.org/t/p/w500/7XSPjKNwmyEPMnmoVSQ42ykMz6M.jpg"
+    },
+    {
+      "nombre": "Josh Helman",
+      "personaje": "Slit",
+      "foto": "https://image.tmdb.org/t/p/w500/1thwLjrgvFv7ifjyVtTKQh23OCh.jpg"
+    },
+    {
+      "nombre": "Nathan Jones",
+      "personaje": "Rictus Erectus",
+      "foto": "https://image.tmdb.org/t/p/w500/hlu4qYy9JGPxGn0wT8Ea6mTWR8R.jpg"
+    },
+    {
+      "nombre": "Zoë Kravitz",
+      "personaje": "Toast the Knowing",
+      "foto": "https://image.tmdb.org/t/p/w500/n0mhAgmY6eJQmA7kaugsTZEJgHo.jpg"
+    },
+    {
+      "nombre": "Rosie Huntington-Whiteley",
+      "personaje": "The Splendid Angharad",
+      "foto": "https://image.tmdb.org/t/p/w500/oq5iX2VoLGF41P5DmNDNJcczESR.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "George Miller",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Doug Mitchell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "George Miller",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Nico Lathouris",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Brendan McCarthy",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "George Miller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "P.J. Voeten",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Victoria Mielewska",
+      "rol": "Dialect Coach"
+    },
+    {
+      "nombre": "Wendy Croad",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Lee-Roy Titus",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Danielle Wiessner",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Danielle Blake",
+      "rol": "Second Second Assistant Director"
+    },
+    {
+      "nombre": "Emma Jamvold",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "P.J. Voeten",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Andrew Burfield",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Cuan Prytz",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Eddie Thorne",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Robyn Glaser",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Sonal Joshi",
+      "rol": "Dialogue Editor"
+    }
+  ],
+  "director": "George Miller",
+  "valoraciones": {
+    "tmdb": 7.638,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://vimeos.net/embed-jx8rhdsbb9m7.html",
+  "trailer": "https://www.youtube.com/watch?v=UyqFAle_4aE"
+}
