@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 471498,
+  "poster": "https://image.tmdb.org/t/p/w500/roG7MoLiHMsmeWgRtMSXH9HB57h.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jedggylU3FyIN7XRAl9WY8mrT6H.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mOxm9fwIWoH5LbWFeqD3i5zgadO.png",
+  "titulo": "Oxígeno",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Suspense",
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.611,
+  "año": "2021",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Una mujer despierta en una unidad criogénica sin saber quién es. El oxígeno se agota rápidamente, y recobrar la memoria es su única posibilidad de sobrevivir.",
+  "fecha_estreno": "2021-05-12",
+  "titulo_original": "Oxygène",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Mélanie Laurent",
+      "personaje": "Elizabeth 'Liz' Hansen",
+      "foto": "https://image.tmdb.org/t/p/w500/i99ogEo4gQyanCmHWYYoS6hsUqL.jpg"
+    },
+    {
+      "nombre": "Mathieu Amalric",
+      "personaje": "M.I.L.O",
+      "foto": "https://image.tmdb.org/t/p/w500/fMhfoTbjlXQy2Iojp7oYx49hLQl.jpg"
+    },
+    {
+      "nombre": "Malik Zidi",
+      "personaje": "Léo Ferguson",
+      "foto": "https://image.tmdb.org/t/p/w500/pn4QUm8KfBJFu8xDteJnWH9yK0J.jpg"
+    },
+    {
+      "nombre": "Laura Boujenah",
+      "personaje": "Alice Hansen",
+      "foto": "https://image.tmdb.org/t/p/w500/swwUMnCpNLyhIOCpUfYk9PePvpi.jpg"
+    },
+    {
+      "nombre": "Éric Herson-Macarel",
+      "personaje": "Capitain Moreau",
+      "foto": "https://image.tmdb.org/t/p/w500/8dI30NV0nbdsgwx9ZNDIbGJy8cm.jpg"
+    },
+    {
+      "nombre": "Anie Balestra",
+      "personaje": "Elderly Woman",
+      "foto": "https://image.tmdb.org/t/p/w500/kY7LuvmbKbW3r65tEPjWd94iAVP.jpg"
+    },
+    {
+      "nombre": "Marc Saez",
+      "personaje": "Inspector",
+      "foto": "https://image.tmdb.org/t/p/w500/AuTG0Eqq8w0MtWP1J3bgkYX66rl.jpg"
+    },
+    {
+      "nombre": "Cathy Cerda",
+      "personaje": "Old Alice Hansen",
+      "foto": "https://image.tmdb.org/t/p/w500/jvk5jyUD7qAc893FeCHjSWJEgFK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Christie LeBlanc",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Alexandre Aja",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Vincent Maraval",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brahim Chioua",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Grégory Levasseur",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alexandre Aja",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Noémie Devide",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christie LeBlanc",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Maxime Alexandre",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Robin Coudert",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Agnès Beziers",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Serge Catoire",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stéphane Roche",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jean Rabasse",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Franck Khalfoun",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Laurence Clerc",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adam Riback",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Engle",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dominique Moisan",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Alexandre Aja",
+  "valoraciones": {
+    "tmdb": 6.611,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Getaway Films",
+  "enlace_video": "https://vimeos.net/embed-soa6dydcq15d.html",
+  "trailer": "https://www.youtube.com/watch?v=8IqXgZd-P98"
+}
