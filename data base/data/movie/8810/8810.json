@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 8810,
+  "poster": "https://image.tmdb.org/t/p/w500/udpVgRB3xz5ZN553apthn4TyT6G.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/174GLcjPmCbECh7IAn8bxtQRMQM.png",
+  "titulo": "Mad Max 2: El Guerrero de la Carretera",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.39,
+  "año": "1981",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "Tras el holocausto nuclear, la gasolina se ha convertido en un bien escaso y muy codiciado. Mad Max, héroe solitario, inicia una lucha sin cuartel para ayudar a una colonia de supervivientes constantemente atacada por un grupo de violentos guerreros que intenta arrebatarle un tanque de gasolina. Max decide ayudar a los defensores del tanque.",
+  "fecha_estreno": "1981-12-24",
+  "titulo_original": "Mad Max 2",
+  "pais_origen": "Australia",
+  "reparto": [
+    {
+      "nombre": "Mel Gibson",
+      "personaje": "Max Rockatansky",
+      "foto": "https://image.tmdb.org/t/p/w500/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+    },
+    {
+      "nombre": "Bruce Spence",
+      "personaje": "The Gyro Captain",
+      "foto": "https://image.tmdb.org/t/p/w500/kuaIudFTIBahGAdCamThG13jPp7.jpg"
+    },
+    {
+      "nombre": "Michael Preston",
+      "personaje": "Pappagallo",
+      "foto": "https://image.tmdb.org/t/p/w500/kcfNCp4uXqKhlqcfWrwfTalA5Gz.jpg"
+    },
+    {
+      "nombre": "Max Phipps",
+      "personaje": "The Toadie",
+      "foto": "https://image.tmdb.org/t/p/w500/rtsjiDnsOw96wFH5d7d7PAa1Ymc.jpg"
+    },
+    {
+      "nombre": "Vernon Wells",
+      "personaje": "Wez",
+      "foto": "https://image.tmdb.org/t/p/w500/rpKjskAbftBMFi1HWZ0Jo6lZgod.jpg"
+    },
+    {
+      "nombre": "Kjell Nilsson",
+      "personaje": "The Humungus",
+      "foto": "https://image.tmdb.org/t/p/w500/pRXQcU8MJ4WhYpAp8pW6V5xgkbn.jpg"
+    },
+    {
+      "nombre": "Emil Minty",
+      "personaje": "The Feral Kid",
+      "foto": "https://image.tmdb.org/t/p/w500/wVLyCjPVIMv93aUFiRXIfMrAWR5.jpg"
+    },
+    {
+      "nombre": "Virginia Hey",
+      "personaje": "Warrior Woman",
+      "foto": "https://image.tmdb.org/t/p/w500/ba2gJgPdzkFJJzJSHFh3IOTSPp5.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Terry Hayes",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "George Miller",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "George Miller",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Byron Kennedy",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Hannant",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Norma Moriceau",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Brian May",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Graham \"Grace\" Walker",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Tim Wellburn",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Balson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "David Stiven",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Bob McCarron",
+      "rol": "Makeup Effects"
+    },
+    {
+      "nombre": "Dean Semler",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Linda Bates",
+      "rol": "Producer's Assistant"
+    },
+    {
+      "nombre": "Peter Lipscombe",
+      "rol": "Assistant Camera"
+    },
+    {
+      "nombre": "Ralph Clark",
+      "rol": "Transportation Coordinator"
+    },
+    {
+      "nombre": "Jennifer Lee-Lewes",
+      "rol": "Assistant Accountant"
+    }
+  ],
+  "director": "George Miller",
+  "valoraciones": {
+    "tmdb": 7.39,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Kennedy Miller Productions",
+  "enlace_video": "https://vimeos.net/embed-yk1ce3t3itvl.html",
+  "trailer": "https://www.youtube.com/watch?v=bwcADuJZDNA"
+}
