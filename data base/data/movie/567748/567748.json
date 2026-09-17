@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 567748,
+  "poster": "https://image.tmdb.org/t/p/w500/5n3jwXdrNs1gVjmLC4eIj7QI310.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5wPWgTvdoVKW6ICeEAg86IBJOBW.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tnLY0ms61zgRMXNmDu2tDjql4aW.png",
+  "titulo": "Culpable",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.425,
+  "año": "2021",
+  "duracion": "1h 29min",
+  "edad_minima": 13,
+  "sinopsis": "Degradado al servicio de emergencias, un policía intenta salvar a una angustiada interlocutora durante un día desgarrador de revelaciones... y ajustes de cuentas.",
+  "fecha_estreno": "2021-09-24",
+  "titulo_original": "The Guilty",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jake Gyllenhaal",
+      "personaje": "Joe Baylor",
+      "foto": "https://image.tmdb.org/t/p/w500/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
+    },
+    {
+      "nombre": "Ethan Hawke",
+      "personaje": "Sgt. Bill Miller (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+    },
+    {
+      "nombre": "Riley Keough",
+      "personaje": "Emily Lighton (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wsodGduU4frFdMy1roqeDmj4kZ.jpg"
+    },
+    {
+      "nombre": "Peter Sarsgaard",
+      "personaje": "Henry Fisher (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg"
+    },
+    {
+      "nombre": "Christina Vidal Mitchell",
+      "personaje": "Sgt. Denise Wade",
+      "foto": "https://image.tmdb.org/t/p/w500/crf8W71bjJIHPiFYB1ny4Dl3amY.jpg"
+    },
+    {
+      "nombre": "Paul Dano",
+      "personaje": "Matthew Fontenot (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gOD5bO0hKnzzJm7sJeGeEJjfBBw.jpg"
+    },
+    {
+      "nombre": "Eli Goree",
+      "personaje": "Rick (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5Vax365TiO0NjlMD4nL6vfOBIHP.jpg"
+    },
+    {
+      "nombre": "Da'Vine Joy Randolph",
+      "personaje": "CHP Dispatcher (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7RuYeGxTwFRt2q8fkT8nuEz1nIC.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Scott Greenberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jake Gyllenhaal",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Riva Marker",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michel Litvak",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Litvak",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gary Michael Walters",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Светлана Меткина",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Antoine Fuqua",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marcelo Zarvos",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Kristin Catuogno",
+      "rol": "ADR Recordist"
+    },
+    {
+      "nombre": "Mark DeSimone",
+      "rol": "ADR Mixer"
+    },
+    {
+      "nombre": "Will Digby",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "David Esparza",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "David Esparza",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "David Esparza",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Micah Loken",
+      "rol": "Dialogue Editor"
+    },
+    {
+      "nombre": "Paul Lynch",
+      "rol": "ADR Recordist"
+    },
+    {
+      "nombre": "Ed Novick",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Steve Pederson",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Eryne Prine",
+      "rol": "Sound Effects Editor"
+    }
+  ],
+  "director": "Antoine Fuqua",
+  "valoraciones": {
+    "tmdb": 6.425,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nine Stories Productions",
+  "enlace_video": "https://vimeos.net/embed-hbposmx39acf.html",
+  "trailer": "https://www.youtube.com/watch?v=Se-sQCcyEbE"
+}
