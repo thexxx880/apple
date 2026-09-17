@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 508439,
+  "poster": "https://image.tmdb.org/t/p/w500/d72uPaJskwnfctdISOK58Sd8ZrR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bcT8CaBIj086WVD7K529h78eujb.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/co2PA7qA0t0gwxIC7gQZ1AUr1rl.png",
+  "titulo": "Unidos",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.634,
+  "año": "2020",
+  "duracion": "1h 42min",
+  "edad_minima": 13,
+  "sinopsis": "Ian y Barley Lightfoot, dos hermanos elfos adolescentes, se embarcan en una búsqueda extraordinaria para describir si todavía queda un poco de magia ahí afuera.",
+  "fecha_estreno": "2020-02-29",
+  "titulo_original": "Onward",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tom Holland",
+      "personaje": "Ian Lightfoot (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
+    },
+    {
+      "nombre": "Chris Pratt",
+      "personaje": "Barley Lightfoot (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "nombre": "Julia Louis-Dreyfus",
+      "personaje": "Laurel Lightfoot (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iEfHQNrVbVFesDPjdySom9nqsFg.jpg"
+    },
+    {
+      "nombre": "Octavia Spencer",
+      "personaje": "The Manticore (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zDGydyM1fmvNWzQlTAns9IZjNxT.jpg"
+    },
+    {
+      "nombre": "Mel Rodriguez",
+      "personaje": "Officer Colt Bronco (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wwvthcEDo6WHOHumcoh1tT1IaoB.jpg"
+    },
+    {
+      "nombre": "Kyle Bornheimer",
+      "personaje": "Wilden Lightfoot (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/79KUwXqB2FdKqxsAMppkJ8Aa78e.jpg"
+    },
+    {
+      "nombre": "Lena Waithe",
+      "personaje": "Officer Spector (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yidK25mjpxTTYCICmZnxgks6utx.jpg"
+    },
+    {
+      "nombre": "Ali Wong",
+      "personaje": "Officer Gore (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vpVDlzPIIzgwdO23MbbwvfmPtXQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kori Rae",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jason Headley",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Dan Scanlon",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Keith Bunin",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Dan Scanlon",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Seong-Young Kim",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Kate Hansen-Birnbaum",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Jordan Rempel",
+      "rol": "Lighting Supervisor"
+    },
+    {
+      "nombre": "Kevin Reher",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Sanjay Bakshi",
+      "rol": "Supervising Technical Director"
+    },
+    {
+      "nombre": "Kimberly Patrick",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Chris Gridley",
+      "rol": "ADR Supervisor"
+    },
+    {
+      "nombre": "Steve Orlando",
+      "rol": "Foley Editor"
+    },
+    {
+      "nombre": "David C. Hughes",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Michael Semanick",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Jonathan Pytko",
+      "rol": "Lighting Supervisor"
+    },
+    {
+      "nombre": "Shannon Mills",
+      "rol": "Sound Designer"
+    }
+  ],
+  "director": "Dan Scanlon",
+  "valoraciones": {
+    "tmdb": 7.634,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/riy04oe90z04",
+  "trailer": "https://www.youtube.com/watch?v=I8JTARGhwtY"
+}
