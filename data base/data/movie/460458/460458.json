@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 460458,
+  "poster": "https://image.tmdb.org/t/p/w500/oRIoAzRLtoNO9adWRW0jeGfMr0N.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qW5x6PDf5ao4KwOyKwGRWwzOQA4.png",
+  "titulo": "Resident Evil: Bienvenidos a Raccoon City",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Terror",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 5.926,
+  "año": "2021",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "Raccoon City, antaño la floreciente sede del gigante farmacéutico Umbrella, es ahora una ciudad del Medio Oeste en vías de extinción. El éxodo de la compañía ha dejado la ciudad convertida en un páramo... con un gran mal que se está gestando bajo la superficie. Cuando ese mal se desata, los habitantes de la ciudad cambian para siempre... y un pequeño grupo de supervivientes debe colaborar para descubrir la verdad sobre Umbrella y sobrevivir a la noche.",
+  "fecha_estreno": "2021-11-24",
+  "titulo_original": "Resident Evil: Welcome to Raccoon City",
+  "pais_origen": "Germany",
+  "reparto": [
+    {
+      "nombre": "Kaya Scodelario",
+      "personaje": "Claire Redfield",
+      "foto": "https://image.tmdb.org/t/p/w500/qmtXUabwXw0RvyK6R0la6CmvGxr.jpg"
+    },
+    {
+      "nombre": "Hannah John-Kamen",
+      "personaje": "Jill Valentine",
+      "foto": "https://image.tmdb.org/t/p/w500/V8P9EVelewGVXbuyEylqrzF6iG.jpg"
+    },
+    {
+      "nombre": "Robbie Amell",
+      "personaje": "Chris Redfield",
+      "foto": "https://image.tmdb.org/t/p/w500/5MPx1TEdgPs9UEXV65nd80JikSH.jpg"
+    },
+    {
+      "nombre": "Tom Hopper",
+      "personaje": "Albert Wesker",
+      "foto": "https://image.tmdb.org/t/p/w500/4Bx09xFBXIWIhptQ10yJEPbB1HI.jpg"
+    },
+    {
+      "nombre": "Avan Jogia",
+      "personaje": "Leon Kennedy",
+      "foto": "https://image.tmdb.org/t/p/w500/7BX0Lg39bHlgtvWZpszTr1YjTAW.jpg"
+    },
+    {
+      "nombre": "Donal Logue",
+      "personaje": "Chief Irons",
+      "foto": "https://image.tmdb.org/t/p/w500/5Rj850yVkIqsgCihtZLbkNSHbFb.jpg"
+    },
+    {
+      "nombre": "Neal McDonough",
+      "personaje": "William Birkin",
+      "foto": "https://image.tmdb.org/t/p/w500/3mI3i1CpjATSCta1Tb2qsyl1KCh.jpg"
+    },
+    {
+      "nombre": "Lily Gao",
+      "personaje": "Ada Wong",
+      "foto": "https://image.tmdb.org/t/p/w500/qCNsTSz3g70M9PNaNxWw5uRepQy.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Johannes Roberts",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Johannes Roberts",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robert Kulzer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hartley Gorenstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "James Harris",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jennifer Spence",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Dev Singh",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Maxime Alexandre",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jennifer Lantz",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Cayley Jensen",
+      "rol": "Costume Set Supervisor"
+    },
+    {
+      "nombre": "Minda Johnson",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Kalene Osborne",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Joseph Hinds",
+      "rol": "Assistant Makeup Artist"
+    },
+    {
+      "nombre": "Ashley Nay",
+      "rol": "Key Hair Stylist"
+    },
+    {
+      "nombre": "Scott Strauss",
+      "rol": "Executive In Charge Of Production"
+    },
+    {
+      "nombre": "Samantha McMeekin",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Andre Coutu",
+      "rol": "Post Producer"
+    }
+  ],
+  "director": "Johannes Roberts",
+  "valoraciones": {
+    "tmdb": 5.926,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Constantin Film",
+  "enlace_video": "https://vimeos.net/embed-k8l69g0vqnpv.html",
+  "trailer": "https://www.youtube.com/watch?v=IQqqAWMIIAQ"
+}
