@@ -1,0 +1,119 @@
+{
+  "id_tmdb": 110948,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7536SC15K131VhleCGednCll0Uz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/o04090TAInK18zXAkp71Duq8Qbx.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/lzIEKAWJ5kHFryEXUkDnnil0PI8.png",
+  "titulo": "El show de Snoopy",
+  "titulo_original": "The Snoopy Show",
+  "fecha_estreno": "2021-02-05",
+  "duracion": "22min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Animación"
+  ],
+  "puntuacion": 7.776,
+  "sinopsis": "El perrito más icónico del mundo está aquí. Descubre nuevas aventuras con el beagle más bailarín y soñador, acompañado de sus fieles amigos Woodstock, Charlie Brown y su inolvidable pandilla.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ethan Pugiotto",
+      "personaje": "Charlie Brown (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jBs7QjH6L7hDygxc6ld511s5ClL.jpg"
+    },
+    {
+      "nombre": "Terry McGurrin",
+      "personaje": "Snoopy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aruw7oreQdYRzyT2oTFWJUVgO3r.jpg"
+    },
+    {
+      "nombre": "Rob Tinkler",
+      "personaje": "Woodstock (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/i08td9dgUt51SEeMUbPgHHkbGbt.jpg"
+    },
+    {
+      "nombre": "Christian Dal Dosso",
+      "personaje": "Franklin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p8LFGZT6I6Uw2Wsaau2yfuyfljL.jpg"
+    },
+    {
+      "nombre": "Isabella Leo",
+      "personaje": "Lucy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mYfAOwCfXYOvtFStCWhcL3hr1h9.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Josh Scherba",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anne Loi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stephanie Betts",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paige Braddock",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Craig Schulz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Evestaff",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Josh Scherba",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anne Loi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stephanie Betts",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paige Braddock",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Craig Schulz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Evestaff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charles M. Schulz",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Jeff Morrow",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Rob Boutilier",
+      "rol": "Series Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.776,
+    "imdb": "tt13206602",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Apple TV",
+  "trailer": "https://www.youtube.com/watch?v=WiN34FCQf-U"
+}
