@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 9355,
+  "poster": "https://image.tmdb.org/t/p/w500/u9gVwCajHkJpVAaVRau2xSOeHcl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cO8zcdPhLT3UdykkXCvfhIVrgHK.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/hEzjVcohZYoVIkZ1oyNT8AuCMWJ.png",
+  "titulo": "Mad Max 3: Más Allá de la Cúpula del Trueno",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "calificacion": "A",
+  "puntuacion": 6.216,
+  "año": "1985",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "Tras la catástrofe nuclear, Mad Max cruza un desierto donde pierde su caravana de camellos. Llega a una ciudad donde le proponen cambiárselos a cambio de que ataque al tirano de la ciudad subterránea, un enano que fabrica gas metano con excrementos de cerdo.",
+  "fecha_estreno": "1985-06-29",
+  "titulo_original": "Mad Max Beyond Thunderdome",
+  "pais_origen": "Australia",
+  "reparto": [
+    {
+      "nombre": "Mel Gibson",
+      "personaje": "Max Rockatansky",
+      "foto": "https://image.tmdb.org/t/p/w500/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+    },
+    {
+      "nombre": "Tina Turner",
+      "personaje": "Aunty Entity",
+      "foto": "https://image.tmdb.org/t/p/w500/rqL6OCQi5IzZPYCZPvtqbKNUKGA.jpg"
+    },
+    {
+      "nombre": "Helen Buday",
+      "personaje": "Savannah Nix",
+      "foto": "https://image.tmdb.org/t/p/w500/irvUmcrwIGYZImJKVAk7HqZYTh8.jpg"
+    },
+    {
+      "nombre": "Bruce Spence",
+      "personaje": "Jedediah the Pilot",
+      "foto": "https://image.tmdb.org/t/p/w500/kuaIudFTIBahGAdCamThG13jPp7.jpg"
+    },
+    {
+      "nombre": "Angelo Rossitto",
+      "personaje": "Master",
+      "foto": "https://image.tmdb.org/t/p/w500/rq7EWZ2rHOmA1WIOdOfjRXP9lrK.jpg"
+    },
+    {
+      "nombre": "Adam Cockburn",
+      "personaje": "Jedediah Jr.",
+      "foto": "https://image.tmdb.org/t/p/w500/irSlKaf3SiR8vyPZmkS0Bt6FgHl.jpg"
+    },
+    {
+      "nombre": "Frank Thring",
+      "personaje": "The Collector",
+      "foto": "https://image.tmdb.org/t/p/w500/uuXtWasXbPKH34kDS9gaMIdtAAO.jpg"
+    },
+    {
+      "nombre": "Paul Larsson",
+      "personaje": "Blaster",
+      "foto": "https://image.tmdb.org/t/p/w500/yO2quH8eJbgzLfyYHADqx33o1qv.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "George Miller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "George Miller",
+      "rol": "Director"
+    },
+    {
+      "nombre": "George Miller",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Terry Hayes",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "George Ogilvie",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alison Barrett",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Graham \"Grace\" Walker",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Dean Semler",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Richard Francis-Bruce",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Maurice Jarre",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Spike Cherrie",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Marijke Rikki van Gyen",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Rangi Nikora",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Zenda Graves",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Ian Lind",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Norma Moriceau",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Ian Kenny",
+      "rol": "Second Assistant Director"
+    }
+  ],
+  "director": "George Miller",
+  "valoraciones": {
+    "tmdb": 6.216,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Kennedy Miller Productions",
+  "enlace_video": "https://vimeos.net/embed-5sco4qppc8oi.html",
+  "trailer": "https://www.youtube.com/watch?v=vynTmqiizog"
+}
