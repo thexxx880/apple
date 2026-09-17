@@ -1,0 +1,117 @@
+{
+  "id_tmdb": 823219,
+  "poster": "https://image.tmdb.org/t/p/w500/sx81sF46pooqfqbbqFy84xXpXpH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pZfpUMEJzw9BZHtXuZzzOrRxtMa.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3SyIzFtJngTityAelYxsvweD3Q1.png",
+  "titulo": "Flow",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.066,
+  "año": "2024",
+  "duracion": "1h 25min",
+  "edad_minima": 13,
+  "sinopsis": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
+  "fecha_estreno": "2024-08-29",
+  "titulo_original": "Straume",
+  "pais_origen": "Latvia",
+  "reparto": [],
+  "equipo_creativo": [
+    {
+      "nombre": "Matīss Kaža",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gints Zilbalodis",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ron Dyens",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gints Zilbalodis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gregory Zalcman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matīss Kaža",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gints Zilbalodis",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Alon Knoll",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gints Zilbalodis",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Rihards Zaļupe",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Léo Silly-Pélissier",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Gints Zilbalodis",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Gurwal Coïc-Gallas",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Philippe Charbonnel",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Gints Zilbalodis",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Gints Zilbalodis",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ron Dyens",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Claire Maillard",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Léo Silly-Pélissier",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Maxime Leclerc",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Gints Zilbalodis",
+  "valoraciones": {
+    "tmdb": 8.066,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Dream Well Studio",
+  "enlace_video": "https://vimeos.net/embed-y6jbsgvxoomb.html",
+  "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw"
+}
