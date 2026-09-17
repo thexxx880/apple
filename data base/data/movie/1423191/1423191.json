@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 1423191,
+  "poster": "https://image.tmdb.org/t/p/w500/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/m9WqiXJWy1gARXt7RIeS3l8eRpp.png",
+  "titulo": "Resident Evil: Noche cero",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Ciencia ficción"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 8,
+  "año": "2026",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
+  "fecha_estreno": "2026-09-16",
+  "titulo_original": "Resident Evil",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Austin Abrams",
+      "personaje": "Bryan",
+      "foto": "https://image.tmdb.org/t/p/w500/gG4KsGZDw3tO2R66cn9VdOo8uSu.jpg"
+    },
+    {
+      "nombre": "Zach Cherry",
+      "personaje": "Dave",
+      "foto": "https://image.tmdb.org/t/p/w500/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+    },
+    {
+      "nombre": "Kali Reis",
+      "personaje": "Pauline",
+      "foto": "https://image.tmdb.org/t/p/w500/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg"
+    },
+    {
+      "nombre": "Paul Walter Hauser",
+      "personaje": "Carl",
+      "foto": "https://image.tmdb.org/t/p/w500/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
+    },
+    {
+      "nombre": "Johnno Wilson",
+      "personaje": "Max",
+      "foto": "https://image.tmdb.org/t/p/w500/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg"
+    },
+    {
+      "nombre": "Shaun W. Loeser",
+      "personaje": "Puker",
+      "foto": "https://image.tmdb.org/t/p/w500/pMV7kzy7OHk4X93uRGbrdvuFgQB.jpg"
+    },
+    {
+      "nombre": "Devon Deshaun Stewart",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/qZ5BMtEva7XEEdO3BpB9pCPzqMx.jpg"
+    },
+    {
+      "nombre": "Zach Cregger",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Zach Cregger",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Robert Kulzer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Roy Lee",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Miri Yoon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Asad Qizilbash",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Carter Swan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Shay Hatten",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Zach Cregger",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tom Hammock",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Sean Guest",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Dariusz Wolski",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Alessandro Ongaro",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Jan Petřina",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Viktor Prášil",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Martina Ter-Akopowá",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Ludek Vomacka",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Oliver Berben",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Richard S. Wright",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Bernacchi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brice R. Parker",
+      "rol": "Visual Effects Producer"
+    }
+  ],
+  "director": "Zach Cregger",
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Constantin Film",
+  "enlace_video": "https://voe.sx/e/2zndh593v2ia",
+  "trailer": "https://www.youtube.com/watch?v=d6oszs7f5aI"
+}
