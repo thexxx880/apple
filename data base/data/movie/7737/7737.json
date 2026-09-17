@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 7737,
+  "poster": "https://image.tmdb.org/t/p/w500/aE4iLd3hcjLCc2o9xsuRjGp8P.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5UgYt4ewCZZeX9HEG1Bk0ts4xu7.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3baNfVrDH9FefE1q7vUz0CWZE9U.png",
+  "titulo": "Resident Evil 3: La extinción",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.299,
+  "año": "2007",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "Los supervivientes de la catástrofe de Raccoon City recorren el desierto de Nevada con la esperanza de llegar a Alaska. Alice se une a la caravana y a su lucha contra la malvada Corporación Umbrella.",
+  "fecha_estreno": "2007-09-20",
+  "titulo_original": "Resident Evil: Extinction",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Milla Jovovich",
+      "personaje": "Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+    },
+    {
+      "nombre": "עודד פהר",
+      "personaje": "Carlos Olivera",
+      "foto": "https://image.tmdb.org/t/p/w500/xt50Z02mO5pLTW0cNLZhIsiequJ.jpg"
+    },
+    {
+      "nombre": "Ali Larter",
+      "personaje": "Claire",
+      "foto": "https://image.tmdb.org/t/p/w500/5qaQFxx8Az83ycd4LHyQ39HXaEJ.jpg"
+    },
+    {
+      "nombre": "Iain Glen",
+      "personaje": "Dr. Isaacs",
+      "foto": "https://image.tmdb.org/t/p/w500/d9CKAAiV1HvSnzzmpDzD0mC0HlX.jpg"
+    },
+    {
+      "nombre": "Ashanti",
+      "personaje": "Betty",
+      "foto": "https://image.tmdb.org/t/p/w500/8yISv5NjfgBQXs6rP7osxVIkD1U.jpg"
+    },
+    {
+      "nombre": "Christopher Egan",
+      "personaje": "Mikey",
+      "foto": "https://image.tmdb.org/t/p/w500/nox0JJdkF2glyxPsxsQPlRhHAcX.jpg"
+    },
+    {
+      "nombre": "Spencer Locke",
+      "personaje": "K-Mart",
+      "foto": "https://image.tmdb.org/t/p/w500/2mHfjqDY8e3ZISkFmi1qjrMs7uN.jpg"
+    },
+    {
+      "nombre": "Matthew Marsden",
+      "personaje": "Slater",
+      "foto": "https://image.tmdb.org/t/p/w500/qejtyAt9dQdOS9AbXxSOwbw82E.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Russell Mulcahy",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeremy Bolt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bernd Eichinger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Samuel Hadida",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Kulzer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Victor Hadida",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Héctor López Lechuga",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Martin Moszkowicz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kelly Van Horn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charlie Clouser",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "David Johnson",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Niven Howie",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Scot Boland",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Victoria Burrows",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Eugenio Caballero",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Marco Niro",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Barbara Enriquez",
+      "rol": "Set Decoration"
+    }
+  ],
+  "director": "Russell Mulcahy",
+  "valoraciones": {
+    "tmdb": 6.299,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Screen Gems",
+  "enlace_video": "https://gscdn.cam/video/embed/aqs2e5r664f2",
+  "trailer": "https://www.youtube.com/watch?v=KNim-rMiabI"
+}
