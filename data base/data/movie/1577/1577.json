@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 1577,
+  "poster": "https://image.tmdb.org/t/p/w500/8tNrm8TgAeSgH35rPs2WJD26Hnf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5PJP3NaiH9ZJRzrEHLeqSY5rNxb.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wG9m4Lc97mRHcHZPjiHjEYrrGN1.png",
+  "titulo": "Resident Evil: Apocalipsis",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.365,
+  "año": "2004",
+  "duracion": "1h 34min",
+  "edad_minima": 13,
+  "sinopsis": "Alice se despierta en el hospital de Raccoon City después de que la zona haya sido invadida por los zombis, y ahora debe conseguir salir de la ciudad antes de que se lance una bomba nuclear.",
+  "fecha_estreno": "2004-09-10",
+  "titulo_original": "Resident Evil: Apocalypse",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Milla Jovovich",
+      "personaje": "Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+    },
+    {
+      "nombre": "Sienna Guillory",
+      "personaje": "Jill Valentine",
+      "foto": "https://image.tmdb.org/t/p/w500/nO190bAQxXvZH3DG9rZto0eocLe.jpg"
+    },
+    {
+      "nombre": "עודד פהר",
+      "personaje": "Carlos Olivera",
+      "foto": "https://image.tmdb.org/t/p/w500/xt50Z02mO5pLTW0cNLZhIsiequJ.jpg"
+    },
+    {
+      "nombre": "Thomas Kretschmann",
+      "personaje": "Major Cain",
+      "foto": "https://image.tmdb.org/t/p/w500/7M0P39a3CVA22dJyv5YQEkTThU7.jpg"
+    },
+    {
+      "nombre": "Sophie Vavasseur",
+      "personaje": "Angie Ashford",
+      "foto": "https://image.tmdb.org/t/p/w500/6ahlhT5dxfGa8Fn8KAE70cUM17X.jpg"
+    },
+    {
+      "nombre": "Razaaq Adoti",
+      "personaje": "Sgt. Peyton Wells",
+      "foto": "https://image.tmdb.org/t/p/w500/bgN6Q0sMzAVLXvsU0CWFN8R42dG.jpg"
+    },
+    {
+      "nombre": "Jared Harris",
+      "personaje": "Dr. Ashford",
+      "foto": "https://image.tmdb.org/t/p/w500/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg"
+    },
+    {
+      "nombre": "Mike Epps",
+      "personaje": "L.J.",
+      "foto": "https://image.tmdb.org/t/p/w500/kDI4E3ALm2rVkF38GwhWwXmDq0a.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Alexander Witt",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeremy Bolt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Don Carmody",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dennis Chapman",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Bernd Eichinger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Samuel Hadida",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Victor Hadida",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Kulzer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alicia Turner",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Melissa R. Stubbs",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Mary Ann Stevens",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Vanessa Reid",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Cheryl Quiacos",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Patrizia Quas",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Sue Parker",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Alexander Witt",
+  "valoraciones": {
+    "tmdb": 6.365,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Davis Films/Impact Pictures",
+  "enlace_video": "https://vimeos.net/embed-fvndu071zwhc.html",
+  "trailer": "https://www.youtube.com/watch?v=PkutbYENBis"
+}
