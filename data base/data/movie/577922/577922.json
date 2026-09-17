@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 577922,
+  "poster": "https://image.tmdb.org/t/p/w500/jFAi1Uv3JjNPEgjKuneG5mBlAvA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mQOUyqDybTqxl73hO5LujCZsM1o.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/kzG6oo1JhVapC8kMQHdNVGI9ROp.png",
+  "titulo": "Tenet",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.2,
+  "año": "2020",
+  "duracion": "2h 30min",
+  "edad_minima": 13,
+  "sinopsis": "Una acción épica que gira en torno al espionaje internacional, los viajes en el tiempo y la evolución, en la que un agente secreto debe evitar la Tercera Guerra Mundial.",
+  "fecha_estreno": "2020-08-22",
+  "titulo_original": "Tenet",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "John David Washington",
+      "personaje": "Protagonist",
+      "foto": "https://image.tmdb.org/t/p/w500/27C77ni5XmlgkJVbomXPC4tHWVd.jpg"
+    },
+    {
+      "nombre": "Robert Pattinson",
+      "personaje": "Neil",
+      "foto": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+      "nombre": "Elizabeth Debicki",
+      "personaje": "Kat",
+      "foto": "https://image.tmdb.org/t/p/w500/sJxj44aKdY0pjSIgnxBgMWLrQmw.jpg"
+    },
+    {
+      "nombre": "Kenneth Branagh",
+      "personaje": "Sator",
+      "foto": "https://image.tmdb.org/t/p/w500/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+    },
+    {
+      "nombre": "डिम्पल कपाड़िया",
+      "personaje": "Priya",
+      "foto": "https://image.tmdb.org/t/p/w500/nZoVs8drMLefoBN7PZ49slHuJe7.jpg"
+    },
+    {
+      "nombre": "Michael Caine",
+      "personaje": "Crosby",
+      "foto": "https://image.tmdb.org/t/p/w500/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+      "nombre": "Martin Donovan",
+      "personaje": "Fay",
+      "foto": "https://image.tmdb.org/t/p/w500/wTCmpcmd8mcAbsX6Yc7zFs2J98Q.jpg"
+    },
+    {
+      "nombre": "Fiona Dourif",
+      "personaje": "Wheeler",
+      "foto": "https://image.tmdb.org/t/p/w500/kV5726ehAEu6sxD5cuvI7Iq0dNC.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Christopher Nolan",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Christopher Nolan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Emma Thomas",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Nolan",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Travis Scott",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Ilona Faustova",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Jamie Hearing",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Aki Laulajainen",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "Reetu Aggarwal",
+      "rol": "3D Artist"
+    },
+    {
+      "nombre": "Jennifer Õun",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Erkki Tikan",
+      "rol": "Armorer"
+    },
+    {
+      "nombre": "Emeri Abel",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Sarower Reza Jimi",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Ivo Felt",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Karl Agapuu",
+      "rol": "Set Dresser"
+    },
+    {
+      "nombre": "Markus Andreas",
+      "rol": "Sound Mixer"
+    }
+  ],
+  "director": "Christopher Nolan",
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://vimeos.net/embed-tv98p28ytnkk.html",
+  "trailer": "https://www.youtube.com/watch?v=KJP5RunZUKk"
+}
