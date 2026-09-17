@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 37735,
+  "poster": "https://image.tmdb.org/t/p/w500/jQIpXLrdXMMjr4zedQ20rI56oSw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/30rvmoEBqovm723agDJ3QddWXcY.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4JAJKhnR6IBMgNCWaflpd7P7QBa.png",
+  "titulo": "Se Dice de Mí",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.801,
+  "año": "2010",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "El guión, obra del dramaturgo Bert V. Royal, es una versión moderna y en clave estudiantil de “La letra escarlata”, la novela de Nathaniel Hawthorne. Narra la historia de una joven que decide fingir que lleva una vida promiscua, creyendo que así obtendrá algún tipo de beneficio. Sin embargo, las circunstancias se volverán en su contra.",
+  "fecha_estreno": "2010-09-16",
+  "titulo_original": "Easy A",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Emma Stone",
+      "personaje": "Olive",
+      "foto": "https://image.tmdb.org/t/p/w500/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+    },
+    {
+      "nombre": "Penn Badgley",
+      "personaje": "Woodchuck Todd",
+      "foto": "https://image.tmdb.org/t/p/w500/3ekfkoj3YmRlCtez4OOZoVPiO7a.jpg"
+    },
+    {
+      "nombre": "Amanda Bynes",
+      "personaje": "Marianne",
+      "foto": "https://image.tmdb.org/t/p/w500/7bpm17KLd3e7pfEDUBdu8kKtc14.jpg"
+    },
+    {
+      "nombre": "Dan Byrd",
+      "personaje": "Brandon",
+      "foto": "https://image.tmdb.org/t/p/w500/kUna0GNGKOjzIG7QhTYhvmAF57P.jpg"
+    },
+    {
+      "nombre": "Thomas Haden Church",
+      "personaje": "Mr. Griffith",
+      "foto": "https://image.tmdb.org/t/p/w500/74NK9HCYvNafMggSp1PAK5Nwkpe.jpg"
+    },
+    {
+      "nombre": "Patricia Clarkson",
+      "personaje": "Rosemary",
+      "foto": "https://image.tmdb.org/t/p/w500/rHHM9G83fpBAcFathbSyV4Tot5j.jpg"
+    },
+    {
+      "nombre": "Cam Gigandet",
+      "personaje": "Micah",
+      "foto": "https://image.tmdb.org/t/p/w500/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
+    },
+    {
+      "nombre": "Lisa Kudrow",
+      "personaje": "Mrs. Griffith",
+      "foto": "https://image.tmdb.org/t/p/w500/ziatnwJRiBJIcc8jlk6xoClhfOy.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Will Gluck",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Zanne Devine",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Will Gluck",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bert V. Royal",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lisa Miller Katz",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tracy Manzo",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Michelle Vittone",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Karen Agresti",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Clifford L. Rogers",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Mark B. Johnson",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Michael Grady",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Troy Hope",
+      "rol": "Painter"
+    },
+    {
+      "nombre": "Carol Kiefer",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "Bo Johnson",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Mynka Draper",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "David Lombard",
+      "rol": "Leadman"
+    }
+  ],
+  "director": "Will Gluck",
+  "valoraciones": {
+    "tmdb": 6.801,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Screen Gems",
+  "enlace_video": "https://gscdn.cam/video/embed/ahwzt4c31igm",
+  "trailer": "https://www.youtube.com/watch?v=TqenycG_HH4"
+}
