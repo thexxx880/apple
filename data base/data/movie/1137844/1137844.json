@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 1137844,
+  "poster": "https://image.tmdb.org/t/p/w500/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/pGv2k86yKzO4viRfKvRlYbbedQ2.png",
+  "titulo": "Mayday",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia"
+  ],
+  "calificacion": "B",
+  "puntuacion": 7.982,
+  "año": "2026",
+  "duracion": "1h 51min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando un piloto naval estadounidense queda atrapado tras líneas enemigas en una misión secreta durante la Guerra Fría, su única oportunidad de sobrevivir es formar una alianza con un excéntrico exagente de la KGB.",
+  "fecha_estreno": "2026-09-03",
+  "titulo_original": "Mayday",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ryan Reynolds",
+      "personaje": "Troy Kelly",
+      "foto": "https://image.tmdb.org/t/p/w500/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+      "nombre": "Kenneth Branagh",
+      "personaje": "Nikolai Ustinov",
+      "foto": "https://image.tmdb.org/t/p/w500/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+    },
+    {
+      "nombre": "Marcin Dorociński",
+      "personaje": "Alexander Volkov",
+      "foto": "https://image.tmdb.org/t/p/w500/pyPUnMHxNPKKYxn8PehQJfSbZzO.jpg"
+    },
+    {
+      "nombre": "Мария Бакалова",
+      "personaje": "Anna Ustinov",
+      "foto": "https://image.tmdb.org/t/p/w500/vCz0ycZr1PgJVOAeS29fIiZE8pN.jpg"
+    },
+    {
+      "nombre": "David Morse",
+      "personaje": "Harold Kelly",
+      "foto": "https://image.tmdb.org/t/p/w500/A6zGbkFjM3uajIakgsSeNTmSKqY.jpg"
+    },
+    {
+      "nombre": "Clark Johnson",
+      "personaje": "CDR Keith Hardwick",
+      "foto": "https://image.tmdb.org/t/p/w500/k4EcCKRI7lqxrqYqVuffdSe9JBN.jpg"
+    },
+    {
+      "nombre": "Wendy Crewson",
+      "personaje": "Assistant Director Karen Meadows",
+      "foto": "https://image.tmdb.org/t/p/w500/6hplkzK8KV5Cw8Z8SVKwlt3nU5I.jpg"
+    },
+    {
+      "nombre": "Louis Cancelmi",
+      "personaje": "Maj Pete Sanders",
+      "foto": "https://image.tmdb.org/t/p/w500/4MUGuoK0WbLsTt3sg2CD4OsLynZ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jonathan Goldstein",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Francis Daley",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Francis Daley",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jonathan Goldstein",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "David Ellison",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Don Granger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ashley Fox",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Barry Peterson",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Daniel Stevens",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Darrin Denlinger",
+      "rol": "Storyboard Artist"
+    },
+    {
+      "nombre": "Jamie Gross",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Brandon Proctor",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Dennis Bodenheimer",
+      "rol": "Special Effects Technician"
+    },
+    {
+      "nombre": "Brad Martin",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Mindy Marin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Colin Stetson",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Nora Takacs Ekberg",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Linda Bándi",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Michele Laliberte",
+      "rol": "Supervising Art Director"
+    }
+  ],
+  "director": "Jonathan Goldstein",
+  "valoraciones": {
+    "tmdb": 7.982,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Skydance Media",
+  "enlace_video": "https://vimeos.net/embed-9jznqrxtgrm1.html",
+  "trailer": "https://www.youtube.com/watch?v=om5Un9X720M"
+}
