@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 1576,
+  "poster": "https://image.tmdb.org/t/p/w500/u1YAvcPSnWgJulzrvkOy4NNrDZO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/l5KvxFVOru3Qyf3dl2asNw5g1MD.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/do41Sk3AOh3DOqRszFl6B7KqNmR.png",
+  "titulo": "Resident Evil: El Huésped Maldito",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.672,
+  "año": "2002",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Una unidad militar especial lucha contra una poderosa supercomputadora fuera de control y contra cientos de científicos que han mutado en criaturas carnívoras después de un accidente de laboratorio.",
+  "fecha_estreno": "2002-03-15",
+  "titulo_original": "Resident Evil",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Milla Jovovich",
+      "personaje": "Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+    },
+    {
+      "nombre": "Michelle Rodriguez",
+      "personaje": "Rain",
+      "foto": "https://image.tmdb.org/t/p/w500/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg"
+    },
+    {
+      "nombre": "Eric Mabius",
+      "personaje": "Matt",
+      "foto": "https://image.tmdb.org/t/p/w500/gfTyV38S5BzV9pZnIducUgo68hK.jpg"
+    },
+    {
+      "nombre": "James Purefoy",
+      "personaje": "Spence",
+      "foto": "https://image.tmdb.org/t/p/w500/nCNyifrD9wOao27A1nT5n4Soxt1.jpg"
+    },
+    {
+      "nombre": "Martin Crewes",
+      "personaje": "Kaplan",
+      "foto": "https://image.tmdb.org/t/p/w500/gar5CPEMP5efGF5h36iyqSDvHsB.jpg"
+    },
+    {
+      "nombre": "Colin Salmon",
+      "personaje": "One",
+      "foto": "https://image.tmdb.org/t/p/w500/mLlAU6Zl2MIL5znp5UHdX3sVTN7.jpg"
+    },
+    {
+      "nombre": "Pasquale Aleardi",
+      "personaje": "J.D.",
+      "foto": "https://image.tmdb.org/t/p/w500/zY9iu1ObHecBwRmZscIHbhDxiJw.jpg"
+    },
+    {
+      "nombre": "Heike Makatsch",
+      "personaje": "Lisa",
+      "foto": "https://image.tmdb.org/t/p/w500/plwQwvsMG18F3eiD0rWN1Vpw75u.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Samuel Hadida",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bernd Eichinger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeremy Bolt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paul W. S. Anderson",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Johnson",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Silke Böttcher",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Babette Schimanek",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Katja Richter",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jana Herrmann",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Katrin Schrake",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Richard Bridgland",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Robyn Ray",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Suzanne M. Smith",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Paul Goldsmith",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Alexander Berner",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Marilyn Manson",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Paul W. S. Anderson",
+  "valoraciones": {
+    "tmdb": 6.672,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Impact Pictures",
+  "enlace_video": "https://vimeos.net/embed-5nz7muy0f2cw.html",
+  "trailer": "https://www.youtube.com/watch?v=HhBAIDHvRTc"
+}
