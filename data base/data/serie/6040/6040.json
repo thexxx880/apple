@@ -1,0 +1,59 @@
+{
+  "id_tmdb": 6040,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7NXE5onlwWChnvaVW1bZczaJs0N.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dE28FZ6HKbsM8cJxlYk4WL0vuhU.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3TvKKp8cVYvXDYaufSC3S2MKYJl.png",
+  "titulo": "Ben 10: Fuerza Alienígena",
+  "titulo_original": "Ben 10: Alien Force",
+  "fecha_estreno": "2008-04-18",
+  "duracion": "23min",
+  "año": "2008",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.296,
+  "sinopsis": "Benn Tennyson tiene ahora 15 años y busca en convertirse otra vez en un líder Omnitrix y luchar contra la Highbreed que están destruyendo la Tierra.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Yuri Lowenthal",
+      "personaje": "Ben Tennyson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aLgXm0kbbIC8I5OBmnsK8TgVKwy.jpg"
+    },
+    {
+      "nombre": "Ashley Johnson",
+      "personaje": "Gwen Tennyson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8s36QwB7Zq3PrbY1W6a6ctTFFoe.jpg"
+    },
+    {
+      "nombre": "Greg Cipes",
+      "personaje": "Kevin Levin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/x6kE9Ox4sR3HnrF6qtnjGNgujzV.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sam Register",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sam Register",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.296,
+    "imdb": "tt1192169",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=ZzyGrn_Mysk"
+}
