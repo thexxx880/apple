@@ -1,0 +1,54 @@
+{
+  "id_tmdb": 63401,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/w5HBl9zeltw74xJ0Ozp2FVTr3RR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cl5FVcBEgddaC7dUL8HDMH6m2tp.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7aKOA6uXTGL4ClDnLqGIx64Mi5x.png",
+  "titulo": "Escandalosos",
+  "titulo_original": "We Bare Bears",
+  "fecha_estreno": "2015-08-24",
+  "duracion": "11min",
+  "año": "2015",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 7.733,
+  "sinopsis": "Tres hermanos osos tratan torpemente de encontrar su lugar en una sociedad civilizada, ya sea buscando comida, tratando de hacer amigos humanos o intentando hacerse famosos en Internet.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Eric Edelstein",
+      "personaje": "Grizzly (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d1ng4kzNijFQ8DSQWeU5P6XDgmA.jpg"
+    },
+    {
+      "nombre": "Demetri Martin",
+      "personaje": "Ice Bear (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/poesoCgSdYtCFEqWbrh6499qOac.jpg"
+    },
+    {
+      "nombre": "Bobby Moynihan",
+      "personaje": "Panda (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Tom Law",
+      "rol": "Storyboard Artist"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.733,
+    "imdb": "tt4839610",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=Pc7_-y4g2Lc"
+}
