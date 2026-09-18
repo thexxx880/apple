@@ -1,0 +1,74 @@
+{
+  "id_tmdb": 37606,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/al3wD1MqEfwifOBBFnBM5uOl9OT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gmO3aezFgDcrhcymhNSJLGZ3CT.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/n3V2kI3fgNNswQLoxZy84zCkY65.png",
+  "titulo": "El increíble mundo de Gumball",
+  "titulo_original": "The Amazing World of Gumball",
+  "fecha_estreno": "2011-05-03",
+  "duracion": "24min",
+  "año": "2011",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Sci-Fi & Fantasy",
+    "Comedia"
+  ],
+  "puntuacion": 8.532,
+  "sinopsis": "La serie gira en torno a la vida de un gato azul llamado Gumball Watterson y sus frecuentes travesuras en la ficticia ciudad estadounidense de Elmore, acompañado por su hermano adoptivo y mejor amigo, Darwin. Otros miembros de la familia Watterson son: una conejita rosada e intelectual hermana menor, Anaís; un conejo holgazán como su padre, Richard; y su madre Nicole, una gata, quienes a menudo se ven involucrados en las aventuras de Gumball. Gumball y sus hermanos asisten a la escuela \"Elmore Junior School\" (Escuela primaria de Elmore), donde, a lo largo de la serie, interactúan con sus varios compañeros, principalmente con el interés amoroso de Gumball, Penny.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Nicolas Cantu",
+      "personaje": "Gumball Watterson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ySFxLOQ9ejiZddviRVf9bhZvDsf.jpg"
+    },
+    {
+      "nombre": "Kyla Kowalewski",
+      "personaje": "Anais Watterson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7MOdiZv7gv1tkI6Aac08rxZGLOQ.jpg"
+    },
+    {
+      "nombre": "Donielle T. Hansley Jr.",
+      "personaje": "Darwin Watterson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yZVAuQjltznepyoLAGGxW89BLhF.jpg"
+    },
+    {
+      "nombre": "Christian J. Simon",
+      "personaje": "Darwin Watterson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/e9lHgP8xbCP9VOZPC5nonnypIpa.jpg"
+    },
+    {
+      "nombre": "Teresa Gallagher",
+      "personaje": "Nicole Watterson / Penny Fitzgerald / Teri / Mrs. Robinson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2oHiEkrPfgbfKllBFDAhZK4v1Of.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mic Graves",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mic Graves",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ben Bocquelet",
+      "rol": "Creator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.532,
+    "imdb": "tt1942683",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=v27QcfOoonI"
+}
