@@ -1,0 +1,55 @@
+{
+  "id_tmdb": 31109,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oGEF6kQLGsreSrUtcKg4F2p1Bqz.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/duhqkJdPgKR2vDnjbIDyLbYtfRD.png",
+  "titulo": "Ben 10: Supremacía Alienígena",
+  "titulo_original": "Ben 10: Ultimate Alien",
+  "fecha_estreno": "2010-04-23",
+  "duracion": "23min",
+  "año": "2010",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "puntuacion": 8.22,
+  "sinopsis": "Serie de dibujos animados sobre un superhéroe de 16 años llamado Ben Tennyson, quien lucha contra villanos usando el Ultimatrix, un aparato que lo transforma en diversos héroes alienígenas.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Yuri Lowenthal",
+      "personaje": "Ben Tennyson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aLgXm0kbbIC8I5OBmnsK8TgVKwy.jpg"
+    },
+    {
+      "nombre": "Ashley Johnson",
+      "personaje": "Gwen Tennyson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8s36QwB7Zq3PrbY1W6a6ctTFFoe.jpg"
+    },
+    {
+      "nombre": "Greg Cipes",
+      "personaje": "Kevin Levin (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/x6kE9Ox4sR3HnrF6qtnjGNgujzV.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "Humungosaur (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.22,
+    "imdb": "tt1622696",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=YNr8iwItNVA"
+}
