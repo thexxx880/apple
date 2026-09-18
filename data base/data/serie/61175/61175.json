@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 61175,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/e5YSF0Inv9eL77jv2WQtNOOB3Bg.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/6jDasiqqhTUnZqBf9BiFr6k6HqL.png",
+  "titulo": "Steven Universe",
+  "titulo_original": "Steven Universe",
+  "fecha_estreno": "2013-11-04",
+  "duracion": "11min",
+  "año": "2013",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Comedia",
+    "Sci-Fi & Fantasy",
+    "Familia"
+  ],
+  "puntuacion": 8.412,
+  "sinopsis": "Un niño pequeño toma el lugar de su madre en un grupo de seres basados en piedras preciosas, y debe aprender a controlar sus poderes.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Zach Callison",
+      "personaje": "Steven Universe (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xZ498fu7e34DNBDVNMAs4phMrdV.jpg"
+    },
+    {
+      "nombre": "Estelle",
+      "personaje": "Garnet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/l4V8IZg3pZKTG6x4gAy9FilFOXH.jpg"
+    },
+    {
+      "nombre": "Michaela Dietz",
+      "personaje": "Amethyst (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yma1aG1ehl71K19f7zt4igMpByd.jpg"
+    },
+    {
+      "nombre": "Deedee Magno Hall",
+      "personaje": "Pearl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7YE7BszWB45woWAzrBomXu4TgCE.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Curtis Lelash",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jennifer Pelphrey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rob Sorcher",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian A. Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jackie Buscarino",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rebecca Sugar",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bill Devine",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Patrick Janssen",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Paul Douglas",
+      "rol": "Supervising Editor"
+    },
+    {
+      "nombre": "Lisa Zunich",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Alan Pasman",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Joel Espana",
+      "rol": "Simulation & Effects Artist"
+    },
+    {
+      "nombre": "Therisse Amunatigui",
+      "rol": "Post Production Assistant"
+    },
+    {
+      "nombre": "Alex Borquez",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Conrad Montgomery",
+      "rol": "Executive In Charge Of Production"
+    },
+    {
+      "nombre": "Stacy Renfroe",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Christy Cohen",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Alicia Parkinson",
+      "rol": "Post-Production Manager"
+    },
+    {
+      "nombre": "Aleth Romanillos",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Tony Orozco",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Tony Orozco",
+      "rol": "Sound Re-Recording Mixer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.412,
+    "imdb": "tt3061046",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=FUAaThUypEM"
+}
