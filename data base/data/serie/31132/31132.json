@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 31132,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6xea7V4d2xayrlBKOtMZ4wlV6wZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/boI87jYfFcvmxWUE6own4KU7Vux.png",
+  "titulo": "Un show más",
+  "titulo_original": "Regular Show",
+  "fecha_estreno": "2010-09-06",
+  "duracion": "11min",
+  "año": "2010",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.634,
+  "sinopsis": "Mordecai (un arrendajo azul) y Rigby (un mapache) son encargados de mantenimiento en un parque, y buscan cualquier excusa para no trabajar. En su día a día viven múltiples aventuras, muchas de ellas de carácter surrealista, en las que también interactúan el resto de personajes.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "J.G. Quintel",
+      "personaje": "Mordecai / Hi Five Ghost (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vwhch5Z4RmvU9rmV2SbJjn7VX8f.jpg"
+    },
+    {
+      "nombre": "William Salyers",
+      "personaje": "Rigby (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lB1R4NwWAlBnWkYCJdOrVDq92H2.jpg"
+    },
+    {
+      "nombre": "Mark Hamill",
+      "personaje": "Skips (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    },
+    {
+      "nombre": "Sam Marin",
+      "personaje": "Benson / Pops / Muscle Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fWNACxcmaVQSJilCBCfqHoEbbLy.jpg"
+    },
+    {
+      "nombre": "Minty Lewis",
+      "personaje": "Eileen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/29CjHsPwIEDQVcjoJ1L3Fezlgbk.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sean Szeles",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Ryan Slater",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "J.G. Quintel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rob Sorcher",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Curtis Lelash",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jennifer Pelphrey",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alicia Parkinson",
+      "rol": "Post-Production Manager"
+    },
+    {
+      "nombre": "Carolyn Johnstone",
+      "rol": "Finance"
+    },
+    {
+      "nombre": "Tony Orozco",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Paula Spence",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Sean Szeles",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "J.G. Quintel",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Matt Price",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Albert Fox",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "J.G. Quintel",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ryan Slater",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Linda Barry",
+      "rol": "Administration"
+    },
+    {
+      "nombre": "Danielle Adrias",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "John Enroth",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Anna Granfors",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Conrad Montgomery",
+      "rol": "Executive In Charge Of Production"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.634,
+    "imdb": "tt1710308",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=1i3ufVR4AXg"
+}
