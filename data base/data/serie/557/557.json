@@ -1,0 +1,105 @@
+{
+  "id_tmdb": 557,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/9fZXdQbYeDMBTBtMNnsF2K2YWBh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vhU1AMY3x4QPL0LRGHS8dEYN75e.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nKHUDqgrZcBAW4h9bMEciqMwZHe.png",
+  "titulo": "El Campamento de Lazlo",
+  "titulo_original": "Camp Lazlo",
+  "fecha_estreno": "2005-07-08",
+  "duracion": "22min",
+  "año": "2005",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 6.883,
+  "sinopsis": "La serie se desarrolla a orillas del Lago Goteras, en donde esta el campamento de verano llamado Campamento Riñón, en donde hay toda clase de actividades para campistas. Cerca de allí hay un campamento para chicas llamado Planicie Bellota, y más allá, hay un pueblo llamado Pinos espinoso. En esos lugares es donde Lazlo, un mono araña optimista y amable, y sus amigos pasan por diversas aventuras en un contexto surrealista.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Carlos Alazraqui",
+      "personaje": "Lazlo / Clam / Chef McMuesli (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg"
+    },
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Raj / Samson / Commander Hoo-Ha (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "Mr. Lawrence",
+      "personaje": "Edward / Dave / Ping Pong / Nurse Leslie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gWFgxlREzbaPPdWsQZSCdjrFozy.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Scoutmaster Lumpus / Slinkman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
+    },
+    {
+      "nombre": "Steve Little",
+      "personaje": "Chip / Skip (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Hvu3pGKc0YtTgTwfku1EJvYSzY.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joe Murray",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jennifer Pelphrey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Janet Dimon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark O'Hare",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian A. Miller",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joe Murray",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jennifer Pelphrey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Janet Dimon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark O'Hare",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian A. Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andy Paley",
+      "rol": "Music"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.883,
+    "imdb": "tt0419315",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=7a8CBfLqWlY"
+}
