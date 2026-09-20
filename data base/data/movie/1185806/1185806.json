@@ -1,0 +1,151 @@
+{
+  "id_tmdb": 1185806,
+  "poster": "https://image.tmdb.org/t/p/w500/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3E34E6nOzcOyP2YuavhUIyqWizn.png",
+  "titulo": "Paw Patrol: La dino película",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Aventura",
+    "Familia",
+    "Fantasía",
+    "Comedia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.912,
+  "año": "2026",
+  "duracion": "1h 28min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+  "fecha_estreno": "2026-07-23",
+  "titulo_original": "PAW Patrol: The Dino Movie",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Carter Young",
+      "personaje": "Marshall (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ezkMRnYOjsYXrcwHEJ2JIDWTJJq.jpg"
+    },
+    {
+      "nombre": "Mckenna Grace",
+      "personaje": "Skye (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg"
+    },
+    {
+      "nombre": "Terry Crews",
+      "personaje": "Alistair Stonewall (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pxTY4SglLo5hFcMH00MxPeC5u55.jpg"
+    },
+    {
+      "nombre": "Meredith MacNeill",
+      "personaje": "Harper Cutlass (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jcJq5Af7KSleMFVhrla5xbv8TOg.jpg"
+    },
+    {
+      "nombre": "Ron Pardo",
+      "personaje": "Mayor Humdinger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hE4QOBmPqstfmBVXmlcJmsljUMw.jpg"
+    },
+    {
+      "nombre": "Jennifer Hudson",
+      "personaje": "Lilian Ledes (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4wpTUqEjHYjDMj0Fv6BvfjeIS1H.jpg"
+    },
+    {
+      "nombre": "Hayden Chemberlen",
+      "personaje": "Rex (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Fortune Feimster",
+      "personaje": "Eugenia Bunsen (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9f2p2T61K4pIvKQMLRlow8znkXU.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jennifer Dodge",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cal Brunker",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Cal Brunker",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Cal Brunker",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bob Barlen",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Laura Clunie",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Toni Stevens",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ronnen Harary",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ed Fuller",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Pete Chiappetta",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrew Lary",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anthony Tittanegro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Keith Chapman",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Pinar Toprak",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Dave Jordan",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Justine von Winterfeldt",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Michael MacAdam",
+      "rol": "Head of Story"
+    },
+    {
+      "nombre": "Ava Max",
+      "rol": "Songs"
+    }
+  ],
+  "director": "Cal Brunker",
+  "valoraciones": {
+    "tmdb": 7.912,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Spin Master",
+  "enlace_video": "https://vimeos.net/embed-34naripqnep6.html",
+  "trailer": "https://www.youtube.com/watch?v=l08qv9mM4fQ"
+}
