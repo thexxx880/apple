@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1377237,
+  "poster": "https://image.tmdb.org/t/p/w500/gxrGVQdFmc3xxVn6UyY31ZjqM0s.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/8c9579AMfKYWbWJEB94EUEK82Me.png",
+  "titulo": "Entrega al límite",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.887,
+  "año": "2026",
+  "duracion": "1h 37min",
+  "edad_minima": 13,
+  "sinopsis": "Frank es un mensajero encargado de transportar un órgano que puede salvarle la vida a un joven receptor. Pero la misión se vuelve una carrera contra el tiempo cuando un despiadado jefe del crimen hará lo que sea necesario para quedarse con él.",
+  "fecha_estreno": "2026-09-07",
+  "titulo_original": "Runner",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Alan Ritchson",
+      "personaje": "Hank Malone",
+      "foto": "https://image.tmdb.org/t/p/w500/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+    },
+    {
+      "nombre": "Owen Wilson",
+      "personaje": "Ben Bishop",
+      "foto": "https://image.tmdb.org/t/p/w500/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+    },
+    {
+      "nombre": "Rodrigo Santoro",
+      "personaje": "Damian Zaldivar",
+      "foto": "https://image.tmdb.org/t/p/w500/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+    },
+    {
+      "nombre": "Leila George",
+      "personaje": "Kate Baker",
+      "foto": "https://image.tmdb.org/t/p/w500/s46DMiPDGSMq6qad5TL8mG5qfdy.jpg"
+    },
+    {
+      "nombre": "Kate Box",
+      "personaje": "Dr. Ainsley",
+      "foto": "https://image.tmdb.org/t/p/w500/zv4NckgNBn6Tc2xhCdNFFx9o9EZ.jpg"
+    },
+    {
+      "nombre": "Adriana Barraza",
+      "personaje": "Donna",
+      "foto": "https://image.tmdb.org/t/p/w500/kfww4YbO9J2HpCldEqyyhQugwy5.jpg"
+    },
+    {
+      "nombre": "Peta Sergeant",
+      "personaje": "Nurse Julie",
+      "foto": "https://image.tmdb.org/t/p/w500/owkSN29t7P6hpazZKsUMt7FybrP.jpg"
+    },
+    {
+      "nombre": "Scarlett Crabtree",
+      "personaje": "Ellie Baker",
+      "foto": "https://image.tmdb.org/t/p/w500/3377x3ADVhE5kuPV7JpCByqvF5r.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Scott Waugh",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tommy White",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Miles Hubley",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Todd Garner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alan Ritchson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Fasano",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jeffrey Greenstein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Deborah Glover",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lauren Gennawey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew Alex Goldberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tyler Zacharia",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christopher Hammond",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thayer Juergens",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Mulready",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Greg P. Russell",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Lorenzo Senatore",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Matt Villa",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Enzo Iacono",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Nathan Lloyd",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Thomas Sullivan",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Scott Waugh",
+  "valoraciones": {
+    "tmdb": 7.887,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Broken Road Productions",
+  "enlace_video": "https://flaswish.com/e/rgf9i20u8t1s",
+  "trailer": "https://www.youtube.com/watch?v=B6Z9MM1LhEA"
+}
