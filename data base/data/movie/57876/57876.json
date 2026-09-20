@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 57876,
+  "poster": "https://image.tmdb.org/t/p/w500/ochcUJTPQSfU5fDMA21y4xoDzeX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3SzAsdYAleY3HM3qyAHftcAlYOs.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/5Yghbu0n9Z1s4RS3IbO1FvXgM0v.png",
+  "titulo": "Area 51",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Misterio",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.005,
+  "año": "2015",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Tres jóvenes teóricos de la conspiración intentan descubrir los misterios del Área 51, la ubicación secreta del gobierno que se rumorea que albergó encuentros con seres extraterrestres. Lo que encuentran en esta instalación oculta expone secretos inimaginables.",
+  "fecha_estreno": "2015-05-15",
+  "titulo_original": "Area 51",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Frank Novak",
+      "personaje": "Frank Novak",
+      "foto": "https://image.tmdb.org/t/p/w500/oAYRVswbxQCTM62A3pyQRbRiwUN.jpg"
+    },
+    {
+      "nombre": "Reid Warner",
+      "personaje": "Reid",
+      "foto": "https://image.tmdb.org/t/p/w500/9PpGQn8BSUOv75F0zGawa9x9VHi.jpg"
+    },
+    {
+      "nombre": "Darrin Bragg",
+      "personaje": "Darrin",
+      "foto": "https://image.tmdb.org/t/p/w500/36YfU8aoPLozhL3SOgxrkjNaPQK.jpg"
+    },
+    {
+      "nombre": "Ben Rovner",
+      "personaje": "Ben",
+      "foto": "https://image.tmdb.org/t/p/w500/fChJUA74293QjXo0gV9BHtZGRSR.jpg"
+    },
+    {
+      "nombre": "Jelena Nik",
+      "personaje": "Jelena",
+      "foto": "https://image.tmdb.org/t/p/w500/mU1gyr6nhMU30XUp9LdWePDO3Gn.jpg"
+    },
+    {
+      "nombre": "David Thornsberry",
+      "personaje": "Employee",
+      "foto": null
+    },
+    {
+      "nombre": "Amelia Thornsberry",
+      "personaje": "Employee Daughter",
+      "foto": null
+    },
+    {
+      "nombre": "Jennefer Folsom",
+      "personaje": "Jennefer Ludwigsen",
+      "foto": "https://image.tmdb.org/t/p/w500/o24jTDccGaxcNBv0bKz4cjZTiPE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jason Blum",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Oren Peli",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Oren Peli",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jeanette Volturno",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Rick Osako",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Jake Morrison",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Amir Zbeda",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stuart Ford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Oren Peli",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven Schneider",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Todd Grossman",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Blake Maniquis",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jake York",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Valerie McCaffrey",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Patrick M. Sullivan Jr.",
+      "rol": "Production Design"
+    }
+  ],
+  "director": "Oren Peli",
+  "valoraciones": {
+    "tmdb": 5.005,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Insurge Pictures",
+  "enlace_video": "https://flaswish.com/e/jdrr1mfngxue",
+  "trailer": "https://www.youtube.com/watch?v=jg1Jt2Ft6xg"
+}
