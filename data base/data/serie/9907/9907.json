@@ -1,0 +1,97 @@
+{
+  "id_tmdb": 9907,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/4H5diUE5bKp9dxcisJ3wbZzvAg7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zzaV28kJHg87Gw0aWHmYy5qjnXC.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/gKHuiAQeK6w8FRrz7ZVjsaYYQBO.svg",
+  "titulo": "Chowder",
+  "titulo_original": "Chowder",
+  "fecha_estreno": "2007-11-02",
+  "duracion": "24min",
+  "año": "2007",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "Chowder es un joven aprendiz que solo tiene un gran sueño en la vida: convertirse en un gran chef.\n\nVive en la Ciudad Mazapán junto a su mentor Mung Daal, Truffles y Shnitzel. Es aprendiz de cocina de un servicio de banquetes y vive aventuras con Gazpacho, el vendedor de fruta y productos en la ciudad Mazapán.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Nicky Jones",
+      "personaje": "Chowder (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4japJvDxkbJ9Xu66Q2l5OYBaaNQ.jpg"
+    },
+    {
+      "nombre": "Dwight Schultz",
+      "personaje": "Mung Daal (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kVXkC94gNdSWRvDAs0DqBCduJ4S.jpg"
+    },
+    {
+      "nombre": "Tara Strong",
+      "personaje": "Truffles Daal (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
+    },
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "Shnitzel (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+    },
+    {
+      "nombre": "Liliana Mumy",
+      "personaje": "Panini (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rjwfUdZYb1P7y2DR8pekZ5tusHZ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jennifer Pelphrey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Louis J. Cuck",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian A. Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "C.H. Greenblatt",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jennifer Pelphrey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Louis J. Cuck",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian A. Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "William Reiss",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "C.H. Greenblatt",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "tt1140100",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": ""
+}
