@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 1384216,
+  "poster": "https://image.tmdb.org/t/p/w500/flipeYd0sa4y4kpIc7Pn59JeBIj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6rJXbyu5J0TVtrJnxPvHkKzMcll.png",
+  "titulo": "La guerra de los últimos",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Suspense",
+    "Aventura"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 6.6,
+  "año": "2026",
+  "duracion": "1h 59min",
+  "edad_minima": 13,
+  "sinopsis": "Tras la devastación mundial causada por una pandemia, un hombre vive una existencia solitaria en un hangar de aviones en Colorado con su perro y un hosco pistolero con quien ha entablado amistad. Cuando escucha una misteriosa transmisión por radio mientras vuela su viejo Cessna, comienza una búsqueda para descubrir el origen del sonido.",
+  "fecha_estreno": "2026-08-26",
+  "titulo_original": "The Dog Stars",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jacob Elordi",
+      "personaje": "Hig",
+      "foto": "https://image.tmdb.org/t/p/w500/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+    },
+    {
+      "nombre": "Margaret Qualley",
+      "personaje": "Cima",
+      "foto": "https://image.tmdb.org/t/p/w500/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
+    },
+    {
+      "nombre": "Josh Brolin",
+      "personaje": "Bangley",
+      "foto": "https://image.tmdb.org/t/p/w500/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "nombre": "Guy Pearce",
+      "personaje": "Pops",
+      "foto": "https://image.tmdb.org/t/p/w500/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+    },
+    {
+      "nombre": "Allison Janney",
+      "personaje": "Darlene",
+      "foto": "https://image.tmdb.org/t/p/w500/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+    },
+    {
+      "nombre": "Benedict Wong",
+      "personaje": "Aaron",
+      "foto": "https://image.tmdb.org/t/p/w500/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+    },
+    {
+      "nombre": "Ewen Bremner",
+      "personaje": "Crossbow Hunter",
+      "foto": "https://image.tmdb.org/t/p/w500/u80rtfJRqCg4qKcdEPmYv8IkCvu.jpg"
+    },
+    {
+      "nombre": "James Craze",
+      "personaje": "Logan",
+      "foto": "https://image.tmdb.org/t/p/w500/stLoQ1f6H7h2qS27AkogQZhNJVG.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ridley Scott",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark L. Smith",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Mark L. Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cliff Roberts",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael A. Pruss",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ridley Scott",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Peter Heller",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Lily Brooks-Dalton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Heller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brandon Scott Smith",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Janty Yates",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Micky Froehlich",
+      "rol": "\"A\" Camera Operator"
+    },
+    {
+      "nombre": "Chris Seagers",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Charley Henley",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Erik Messerschmidt",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Neil Corbould",
+      "rol": "Special Effects Supervisor"
+    },
+    {
+      "nombre": "Claire Simpson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sam Restivo",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Ridley Scott",
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "20th Century Studios",
+  "enlace_video": "https://voe.sx/e/grzzba48patf",
+  "trailer": "https://www.youtube.com/watch?v=-xSxaE1ClEE"
+}
