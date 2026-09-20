@@ -1,0 +1,92 @@
+{
+  "id_tmdb": 4229,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ko0CZnMZZZm19HHWwROB05gEKyr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yqKI437ohJAF9EQYkPYH0PTBDEt.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3uD97eczEvKoGZz9aE8J6l6QVNI.png",
+  "titulo": "El laboratorio de Dexter",
+  "titulo_original": "Dexter's Laboratory",
+  "fecha_estreno": "1996-04-28",
+  "duracion": "7min",
+  "año": "1996",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.663,
+  "sinopsis": "Dexter es un pequeño superdotado que transformó su habitación en un increíble laboratorio. Allí realiza todo tipo de experimentos extraños, pero todo está bajo control, o al menos si su hermana Dee Dee no aparece.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Candi Milo",
+      "personaje": "Dexter (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tUjXMG2118Oagj7IjWJDEdmtCRW.jpg"
+    },
+    {
+      "nombre": "Kat Cressida",
+      "personaje": "Dee Dee (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/np4jO1Qdv5Ch6DuFeWy8ZYolQQl.jpg"
+    },
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Dad (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "Kath Soucie",
+      "personaje": "Mom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dSE1JtsdA1aSgIIw415bsXtmkPg.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Savino",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Genndy Tartakovsky",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Genndy Tartakovsky",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chris Savino",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Genndy Tartakovsky",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Genndy Tartakovsky",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andy Bialk",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Thomas Chase",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Steve Rucker",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.663,
+    "imdb": "tt0115157",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=W7-e2SgsyLk"
+}
