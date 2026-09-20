@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 1631807,
+  "poster": "https://image.tmdb.org/t/p/w500/bf9ojBGbivquotOyAE2y669rYVO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/4y4KrzgXWj9RKuR3CTGSZCffJyU.png",
+  "titulo": "Una Mujer sin Pasado",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Suspense",
+    "Misterio"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.371,
+  "año": "2026",
+  "duracion": "1h 59min",
+  "edad_minima": 13,
+  "sinopsis": "Tras descubrir que tiene familia y un imperio naviero, una mujer con amnesia vuelve a su pasado acomodado y aparentemente perfecto para entender por qué lo abandonó.",
+  "fecha_estreno": "2026-08-28",
+  "titulo_original": "Den hemmelige kvinde",
+  "pais_origen": "Denmark",
+  "reparto": [
+    {
+      "nombre": "Natalie Madueño",
+      "personaje": "Helene Söderberg",
+      "foto": "https://image.tmdb.org/t/p/w500/jZlygLDDW0joAZRkep7Fe9OGopv.jpg"
+    },
+    {
+      "nombre": "Claes Bang",
+      "personaje": "Edmund",
+      "foto": "https://image.tmdb.org/t/p/w500/allXGdenaUpFq1bJSIeZPkJeHfe.jpg"
+    },
+    {
+      "nombre": "Pål Sverre Hagen",
+      "personaje": "Joachim",
+      "foto": "https://image.tmdb.org/t/p/w500/eJzuZZfFBaMSgcbR3Pe5zBxEC3z.jpg"
+    },
+    {
+      "nombre": "Stina Ekblad",
+      "personaje": "Caroline",
+      "foto": "https://image.tmdb.org/t/p/w500/sFf5N9Noxbj8Xpx7DHB6rOASIrR.jpg"
+    },
+    {
+      "nombre": "Ingrid Bolsø Berdal",
+      "personaje": "Iben Rask",
+      "foto": "https://image.tmdb.org/t/p/w500/iv9RaskT1WronDXaTKh9mI5KNUn.jpg"
+    },
+    {
+      "nombre": "Thea Sofie Loch Næss",
+      "personaje": "Maria",
+      "foto": "https://image.tmdb.org/t/p/w500/k0aq1OjmVp9psvNx4JAXQovbHqc.jpg"
+    },
+    {
+      "nombre": "Lars Simonsen",
+      "personaje": "Aksel Söderberg",
+      "foto": "https://image.tmdb.org/t/p/w500/s4F4M7ViAkrY5EETrl6neRmNB4l.jpg"
+    },
+    {
+      "nombre": "Ida Appel",
+      "personaje": "Lulu",
+      "foto": "https://image.tmdb.org/t/p/w500/4aU9cbXjQBQVP9TIz0HjyBC2Ysw.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Barbara Topsøe-Rothenborg",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Anders Frithiof August",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Marcella Lindstad Dichmann",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Barbara Topsøe-Rothenborg",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lars Reinholdt",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Elvin Matz",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Aramis Silvereke",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Alexander Westlund",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Kim Arnt  Torp",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Mia Bang Stenberg",
+      "rol": "Post Producer"
+    },
+    {
+      "nombre": "Birgitte Lassen",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Charlotte Moe",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Mathias Hassing",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Claus Lynge",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Lars Wissing",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Carsten Søsted",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Barbara Topsøe-Rothenborg",
+  "valoraciones": {
+    "tmdb": 6.371,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "SF Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/w6mrbal4wk9e",
+  "trailer": "https://www.youtube.com/watch?v=FldeGkt4e4k"
+}
