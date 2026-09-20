@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 16866,
+  "poster": "https://image.tmdb.org/t/p/w500/vYKAExhbNvXceccU8kNUMUht8dj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wk7R89u4l3AC3PRg7Abac2IJ5Ky.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/AhRqf467xmjYDzCyQ8GdagooVIh.png",
+  "titulo": "Planeta 51",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia",
+    "Ciencia ficción",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.9,
+  "año": "2009",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "Historia de una familia de extraterrestres que vive tranquilamente en su planeta hasta la llegada de lo que para ellos es un alienígena: un hombre. El Capitán Charles \"Chuck\" Baker, astronauta americano, aterriza en Planeta 51 pensando que es la primera persona en pisar el planeta. Para su sorpresa, descubre que el planeta está habitado por pequeñas criaturas verdes que viven felizmente en un mundo plagado de cercas blancas, reminiscencia de la alegre inocencia de la América de los años 50, y cuyo único temor es el de ser invadidos por alienígenas... ¡como Chuck! Ayudado por su compañero robot \"Rover\" y su nuevo amigo Lem, Chuck tendrá que abrirse camino a través del deslumbrante y desconcertante paisaje del planeta para no convertirse en pieza permanente del Museo Espacial de Invasores Alienígenas de Planeta 51.",
+  "fecha_estreno": "2009-11-19",
+  "titulo_original": "Planet 51",
+  "pais_origen": "Spain",
+  "reparto": [
+    {
+      "nombre": "Justin Long",
+      "personaje": "Lem (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7TGXeHw4o86IBm6xknQotpludXK.jpg"
+    },
+    {
+      "nombre": "Dwayne Johnson",
+      "personaje": "Chuck Baker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+    },
+    {
+      "nombre": "Jessica Biel",
+      "personaje": "Neera (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/u5DzbWKvAzS0M4ZhYqpUR9MZr2M.jpg"
+    },
+    {
+      "nombre": "Seann William Scott",
+      "personaje": "Skiff (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AftiUFP4rYcl3SG3xllxyiLiuXS.jpg"
+    },
+    {
+      "nombre": "Gary Oldman",
+      "personaje": "General Grawl (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+    },
+    {
+      "nombre": "John Cleese",
+      "personaje": "Professor Kipple (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nQpBf77cStmR35V0XOinm2zZMWG.jpg"
+    },
+    {
+      "nombre": "Freddie Benedict",
+      "personaje": "Eckle (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Alan Marriott",
+      "personaje": "Glar (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nY7kD6EAWRocDyFtrf8w1rKZheJ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Guy Collins",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jorge Blanco",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ignacio Pérez Dolset",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Stillman",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alex Rodríguez",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Fernando Juárez",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Ed Colyer",
+      "rol": "Foley Mixer"
+    },
+    {
+      "nombre": "Peter Burgis",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Andie Derrick",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Chris Burdon",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Max Bygrave",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Larry Hopkins",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Roberto H.G.",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Álvaro de Iscar",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Derek Trigg",
+      "rol": "Foley Editor"
+    },
+    {
+      "nombre": "Jack Stew",
+      "rol": "Foley Artist"
+    }
+  ],
+  "director": "Jorge Blanco",
+  "valoraciones": {
+    "tmdb": 5.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Ilion Animation Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/ts8grhbz38mj",
+  "trailer": "https://www.youtube.com/watch?v=zaBAOVslv08"
+}
