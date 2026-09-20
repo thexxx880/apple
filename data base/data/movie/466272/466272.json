@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 466272,
+  "poster": "https://image.tmdb.org/t/p/w500/zLMSIALbAuX0FjA94JvDFqpspD7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/iGI91eIha7BV5qeHI3hIqY2bcIh.png",
+  "titulo": "Había una vez en Hollywood",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Suspense"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.419,
+  "año": "2019",
+  "duracion": "2h 42min",
+  "edad_minima": 13,
+  "sinopsis": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",
+  "fecha_estreno": "2019-07-24",
+  "titulo_original": "Once Upon a Time... in Hollywood",
+  "pais_origen": "China",
+  "reparto": [
+    {
+      "nombre": "Leonardo DiCaprio",
+      "personaje": "Rick Dalton",
+      "foto": "https://image.tmdb.org/t/p/w500/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+      "nombre": "Brad Pitt",
+      "personaje": "Cliff Booth",
+      "foto": "https://image.tmdb.org/t/p/w500/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+      "nombre": "Margot Robbie",
+      "personaje": "Sharon Tate",
+      "foto": "https://image.tmdb.org/t/p/w500/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+    },
+    {
+      "nombre": "Emile Hirsch",
+      "personaje": "Jay Sebring",
+      "foto": "https://image.tmdb.org/t/p/w500/NQjX6KjtDDyLnvbxhrU9xQWaYJ.jpg"
+    },
+    {
+      "nombre": "Margaret Qualley",
+      "personaje": "'Pussycat'",
+      "foto": "https://image.tmdb.org/t/p/w500/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
+    },
+    {
+      "nombre": "Timothy Olyphant",
+      "personaje": "Jim Stacy",
+      "foto": "https://image.tmdb.org/t/p/w500/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg"
+    },
+    {
+      "nombre": "Julia Butters",
+      "personaje": "Trudi Fraser",
+      "foto": "https://image.tmdb.org/t/p/w500/uVlPm7s3J1pLg6pLa5rYg43wd1.jpg"
+    },
+    {
+      "nombre": "Austin Butler",
+      "personaje": "'Tex'",
+      "foto": "https://image.tmdb.org/t/p/w500/atdAs4pFGjUQ4m2W8kJYly7N6cC.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "David Heyman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Shannon McIntosh",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Quentin Tarantino",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Quentin Tarantino",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Quentin Tarantino",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gary Archer",
+      "rol": "Prosthetics"
+    },
+    {
+      "nombre": "Clay Cullen",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Zack Duhame",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Joe Bucaro III",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Hannah Betts",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Jack Perry",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Dalon Williams",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Casey O'Neill",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Mike McKee",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Allan Padelford",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Tara Macken",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Braxton McAllister",
+      "rol": "Stunt Double"
+    }
+  ],
+  "director": "Quentin Tarantino",
+  "valoraciones": {
+    "tmdb": 7.419,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Heyday Films",
+  "enlace_video": "https://gscdn.cam/video/embed/ua3fdjrkavjs",
+  "trailer": "https://www.youtube.com/watch?v=vKgITiP1UMg"
+}
