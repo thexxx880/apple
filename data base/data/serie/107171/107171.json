@@ -1,0 +1,88 @@
+{
+  "id_tmdb": 107171,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/e3R3sTrIMOp6hOGlRUprEfXhP8X.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5eXSRMoSOYbx4rIJaRe492NtALV.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/grMOj36hobcQKbgFyRf794ZMQFF.png",
+  "titulo": "La CQ",
+  "titulo_original": "La CQ",
+  "fecha_estreno": "2012-08-06",
+  "duracion": "22min",
+  "año": "2012",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 8.148,
+  "sinopsis": "Un grupo de ocho amigos coinciden en el instituto Constantino Quijano donde viven alocadas aventuras juntos. Sus personalidades variopintas les harán empezar a descubrir grandes cosas y les meterán en algún que otro problema.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Emiliano Flores",
+      "personaje": "Ángel Del Río",
+      "foto": "https://image.tmdb.org/t/p/w500/bRtykKXtFZVih9U2cruw2w57kc2.jpg"
+    },
+    {
+      "nombre": "Ale Müller",
+      "personaje": "Clara",
+      "foto": "https://image.tmdb.org/t/p/w500/ZrRoz48wlSgYBeoPgFvlnZvMuP.jpg"
+    },
+    {
+      "nombre": "Harold Azuara",
+      "personaje": "Monche",
+      "foto": "https://image.tmdb.org/t/p/w500/jBZiH0YqASbQZ24PIxu1KGEHUED.jpg"
+    },
+    {
+      "nombre": "Benny Emmanuel",
+      "personaje": "Beto",
+      "foto": "https://image.tmdb.org/t/p/w500/rSqiumttAOg08Auypm5Z7FpdvMS.jpg"
+    },
+    {
+      "nombre": "Fernanda Urdapilleta",
+      "personaje": "Jenny Pinto",
+      "foto": "https://image.tmdb.org/t/p/w500/kVXhi4nAKZuvbFuIHGgGdGIE7lJ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sergio Adrián Sánchez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jorge Ortiz de Pinedo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Pedro Ortiz de Pinedo",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Juanba Berasategi",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sergio Adrián Sánchez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jorge Ortiz de Pinedo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Pedro Ortiz de Pinedo",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.148,
+    "imdb": "tt2766118",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks",
+  "trailer": "https://www.youtube.com/watch?v=ZV7x2xbeM8A"
+}
