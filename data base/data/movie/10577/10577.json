@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 10577,
+  "poster": "https://image.tmdb.org/t/p/w500/97fPAGCU5Cu8SB2PYNP5Zu5TssC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bYaSV1JD9f1FBPrCDTQvFl0wcgb.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/3PceSf59tMqvI2jWSFNWBxZuH9D.png",
+  "titulo": "Drácula 2000",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.245,
+  "año": "2000",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando, tras cien años de confinamiento, Drácula es al fin liberado, se encuentra en un mundo dominado por la tentación y el caos, donde encaja a la perfección: es el siglo XXI. Decide viajar a los Estados Unidos, un lugar perfecto para seducir bellas jóvenes y luchar por la conquista del poder. Pero lo mueve también otra razón: sabe que en algún lugar de Nueva Orleans hay una joven que es la única persona del mundo que comparte su oscuro legado.",
+  "fecha_estreno": "2000-12-22",
+  "titulo_original": "Dracula 2000",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Gerard Butler",
+      "personaje": "Dracula",
+      "foto": "https://image.tmdb.org/t/p/w500/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+    },
+    {
+      "nombre": "Christopher Plummer",
+      "personaje": "Matthew Van Helsing",
+      "foto": "https://image.tmdb.org/t/p/w500/u0YBwss0ebEUp8sjRtQKnK2wZdR.jpg"
+    },
+    {
+      "nombre": "Jonny Lee Miller",
+      "personaje": "Simon Sheppard",
+      "foto": "https://image.tmdb.org/t/p/w500/otCQdDtnrMvZ5tPC62zLx0SaXeR.jpg"
+    },
+    {
+      "nombre": "Justine Waddell",
+      "personaje": "Mary Heller",
+      "foto": "https://image.tmdb.org/t/p/w500/gVPTeUJW1Doq19LTPZfsfNqC06N.jpg"
+    },
+    {
+      "nombre": "Vitamin C",
+      "personaje": "Lucy Westerman",
+      "foto": "https://image.tmdb.org/t/p/w500/i7Np51sxcMkkpBnmQRgYzBPygLz.jpg"
+    },
+    {
+      "nombre": "Jennifer Esposito",
+      "personaje": "Solina",
+      "foto": "https://image.tmdb.org/t/p/w500/xI3Jar2KwgzBYH79oVXUxvXisUq.jpg"
+    },
+    {
+      "nombre": "Omar Epps",
+      "personaje": "Marcus",
+      "foto": "https://image.tmdb.org/t/p/w500/iURSiniuHrfOCtjVMAw9HKxJh6z.jpg"
+    },
+    {
+      "nombre": "Sean Patrick Thomas",
+      "personaje": "Trick",
+      "foto": "https://image.tmdb.org/t/p/w500/59Mqg13DVutKEN4ZmkG8O814uKg.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Joel Soisson",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "W.K. Border",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patrick Lussier",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joel Soisson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joel Soisson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Patrick Lussier",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Wes Craven",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "鮑德熹",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Marco Beltrami",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Peter Devaney Flanagan",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jennifer Vey",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jeff Galpin",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Peter Cox",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Erin Jarvis",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Douglas Ganton",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Taryn Ash",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Don Stockford",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "坂本浩一",
+      "rol": "Stunt Coordinator"
+    }
+  ],
+  "director": "Patrick Lussier",
+  "valoraciones": {
+    "tmdb": 5.245,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Wes Craven Films",
+  "enlace_video": "https://gscdn.cam/video/embed/w68rchxeiqzf",
+  "trailer": "https://www.youtube.com/watch?v=py_sPdBmstA"
+}
