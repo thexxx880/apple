@@ -1,0 +1,160 @@
+{
+  "id_tmdb": 11970,
+  "poster": "https://image.tmdb.org/t/p/w500/4Q2rLG6a9fJhKM5emIYLzgw4HCa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oG9dcGSSu13fjFp1Uly15ZXjRKV.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aqYqmwaJ0JQlmHqPjxEvvImm0Nv.png",
+  "titulo": "Hércules",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Fantasía",
+    "Aventura",
+    "Comedia",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.499,
+  "año": "1997",
+  "duracion": "1h 33min",
+  "edad_minima": 13,
+  "sinopsis": "El hijo de Zeus y Hera es despojado de su inmortalidad cuando es un niño y debe convertirse en un verdadero héroe para poder reclamarla.",
+  "fecha_estreno": "1997-06-13",
+  "titulo_original": "Hercules",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Tate Donovan",
+      "personaje": "Hercules (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1SVx1zVO2lR5mUoduURUL64mIDH.jpg"
+    },
+    {
+      "nombre": "Josh Keaton",
+      "personaje": "Young Hercules (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9ss2EXbN0VarF1tM2Qotwxy6fJs.jpg"
+    },
+    {
+      "nombre": "Roger Bart",
+      "personaje": "Young Hercules (singing voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cliL3nZpi0di8wkNK9VBznd99lg.jpg"
+    },
+    {
+      "nombre": "Danny DeVito",
+      "personaje": "Philoctetes (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+    },
+    {
+      "nombre": "James Woods",
+      "personaje": "Hades (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tLH7mpH4KqkWL5VgjueTbewGsfK.jpg"
+    },
+    {
+      "nombre": "Susan Egan",
+      "personaje": "Meg (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3S8wsKhnEgg7hh7CogMOctj1Pvy.jpg"
+    },
+    {
+      "nombre": "Bobcat Goldthwait",
+      "personaje": "Pain (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7Q6MWUQ5YheFm6xxUxigqIFAB95.jpg"
+    },
+    {
+      "nombre": "Matt Frewer",
+      "personaje": "Panic (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gh91nUlR6C7rYhDhjab7cAZQlIt.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ron Clements",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bob Shaw",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Musker",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ron Clements",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ron Clements",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Musker",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Don McEnery",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Irene Mecchi",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Robert W. Hedland",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Tom Finan",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Bolton",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Vera Pacheco",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "James Baker",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Andreas Deja",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Anthony DeRosa",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Chung Sup Yoon",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Rick Moore",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Maria Gonzalez",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "Caroline Cruikshank",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Jay Jackson",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Ron Clements",
+  "valoraciones": {
+    "tmdb": 7.499,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Feature Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/cjs80eft63ke",
+  "trailer": "https://www.youtube.com/watch?v=mXRDoJqg5Oo"
+}
