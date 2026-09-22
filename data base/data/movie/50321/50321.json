@@ -1,0 +1,154 @@
+{
+  "id_tmdb": 50321,
+  "poster": "https://image.tmdb.org/t/p/w500/xbUoWCdb3v0bAak7XQTc1dmTXtM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sU9wVEAgWPXPULYQMctd0T5MCdI.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/rek3O6174M3OXyiw1Mn2ISYJdMQ.png",
+  "titulo": "Marte Necesita Mamás",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Familia",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.989,
+  "año": "2011",
+  "duracion": "1h 28min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando los marcianos secuestran repentinamente a su madre, el travieso Milo se apresura al rescate y descubre por qué todas las madres son tan especiales.",
+  "fecha_estreno": "2011-03-09",
+  "titulo_original": "Mars Needs Moms",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Seth Green",
+      "personaje": "Milo (performance capture)",
+      "foto": "https://image.tmdb.org/t/p/w500/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+    },
+    {
+      "nombre": "Seth Robert Dusky",
+      "personaje": "Milo (voice) (as Seth Dusky)",
+      "foto": null
+    },
+    {
+      "nombre": "Joan Cusack",
+      "personaje": "Mom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+    },
+    {
+      "nombre": "Dan Fogler",
+      "personaje": "Gribble (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zJWbLEjfbDthBMucq9M6L4GJXL3.jpg"
+    },
+    {
+      "nombre": "Breckin Meyer",
+      "personaje": "Alien (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lKzhwW7qqQF4ZMGtRqakqrKrxzm.jpg"
+    },
+    {
+      "nombre": "Elisabeth Harnois",
+      "personaje": "Ki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yq9H8T5urAGhzvEBxbw4gBjvDN2.jpg"
+    },
+    {
+      "nombre": "Tom Everett Scott",
+      "personaje": "Milo's Dad (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nVDihOvsSm7kmeyHLtAcEzrrSYC.jpg"
+    },
+    {
+      "nombre": "Mindy Sterling",
+      "personaje": "Supervisor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hX99KTTCFxB4a2rB1SpDbr8imrK.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Simon Wells",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Simon Wells",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Steven J. Boyd",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jack Rapke",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Steve Starkey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Zemeckis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Wendy Wells",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Garrett Warren",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Jason Corgan Brown",
+      "rol": "Art Department Manager"
+    },
+    {
+      "nombre": "James Sathre",
+      "rol": "Lighting Technician"
+    },
+    {
+      "nombre": "Jimmy Almeida",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Michael Parks",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Michael Leung",
+      "rol": "Lighting Artist"
+    },
+    {
+      "nombre": "Yuhon Ng",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Berkeley Breathed",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Benjamin Feder",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Scot Boland",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Victoria Burrows",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Doug Chiang",
+      "rol": "Production Design"
+    }
+  ],
+  "director": "Simon Wells",
+  "valoraciones": {
+    "tmdb": 5.989,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Walt Disney Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/7r8pvckryyyo",
+  "trailer": "https://www.youtube.com/watch?v=JWYVQzG0rYk"
+}
