@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 430474,
+  "poster": "https://image.tmdb.org/t/p/w500/tfpJqV97nTgoHQGplkZkUod0joM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3fUule7CGt4Eq1lPPqyz3qSXa8C.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/cOkGOlsXKncb6YOTCiD53ltnn1F.png",
+  "titulo": "Deep, el pulpo",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.9,
+  "año": "2017",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "En un futuro no muy lejano, los últimos supervivientes del planeta tierra son un grupo excéntrico de criaturas abismales cuyo hogar está en una grieta muy profunda en el océano y protegidos por el mítico Kraken. Una catástrofe hará que el pequeño pulpo Deep, junto a sus amigos Evo y Alice tengan que emprender un peligroso viaje lleno de aventuras salvajes y así poder salvar a todos los habitantes de la grieta.",
+  "fecha_estreno": "2017-05-11",
+  "titulo_original": "Deep",
+  "pais_origen": "Belgium",
+  "reparto": [
+    {
+      "nombre": "Justin Felbinger",
+      "personaje": "Deep (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7qY0El4GT6MTb0xVzC5pQwcN2JU.jpg"
+    },
+    {
+      "nombre": "Jess Harnell",
+      "personaje": "Luigi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+    },
+    {
+      "nombre": "Phil LaMarr",
+      "personaje": "Artie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+    },
+    {
+      "nombre": "Dwight Schultz",
+      "personaje": "Kraken (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kVXkC94gNdSWRvDAs0DqBCduJ4S.jpg"
+    },
+    {
+      "nombre": "Elisabeth Gray",
+      "personaje": "Maura (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Anna Vocino",
+      "personaje": "Norma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bRzRpuzBUI8C4JKSTeF7edCcCl8.jpg"
+    },
+    {
+      "nombre": "Lindsey Alena",
+      "personaje": "Alice (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Beth Rollan",
+      "personaje": "Alice (singing voice)",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Adrian Politowski",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yunzhong Guo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nadia Khamlichi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Karl Richards",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Julio Soto Gurpide",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adriana Malfatti Chen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Julio Soto Gurpide",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jose Tatay",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Peter Rogers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ignasi Estapé",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Florian Dargel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gilles Waterkeyn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicolás de Poulpiquet",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Javier Ares",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ian Hutchinson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Claudia Bluemhuber",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julio Soto Gurpide",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Qi Yao Deng",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jan Goossen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ned Lott",
+      "rol": "Casting"
+    }
+  ],
+  "director": "Julio Soto Gurpide",
+  "valoraciones": {
+    "tmdb": 5.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Grindstone Entertainment Group",
+  "enlace_video": "https://vimeos.net/embed-tfbncvof1bjr.html",
+  "trailer": "https://www.youtube.com/watch?v=lpQ0DvCFBf0"
+}
