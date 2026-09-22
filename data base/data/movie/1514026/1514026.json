@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 1514026,
+  "poster": "https://image.tmdb.org/t/p/w500/szMG36D2cIxeQ7i5zRQbq0DnNDe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/wJ3Nfqd0QRHxcXuHQ9i8FEPrjuU.png",
+  "titulo": "Buddy",
+  "trending": false,
+  "generos": [
+    "Terror",
+    "Comedia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.8,
+  "año": "2026",
+  "duracion": "1h 35min",
+  "edad_minima": 13,
+  "sinopsis": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
+  "fecha_estreno": "2026-08-27",
+  "titulo_original": "Buddy",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Keegan-Michael Key",
+      "personaje": "Buddy the Unicorn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xmdzYXP9j87a43FSiL138nLesuS.jpg"
+    },
+    {
+      "nombre": "Cristin Milioti",
+      "personaje": "Grace",
+      "foto": "https://image.tmdb.org/t/p/w500/aiOOWmej3qYSiR9cUs3lm5x5SkB.jpg"
+    },
+    {
+      "nombre": "Delaney Quinn",
+      "personaje": "Freddy",
+      "foto": "https://image.tmdb.org/t/p/w500/byBPP7Zg4NKQEejOBme9PUdRAZp.jpg"
+    },
+    {
+      "nombre": "Caleb Williams",
+      "personaje": "Wade",
+      "foto": "https://image.tmdb.org/t/p/w500/sj9KCRMetMRjbhNHHnCUzKu3QKj.jpg"
+    },
+    {
+      "nombre": "Madison Polan",
+      "personaje": "Hannah",
+      "foto": "https://image.tmdb.org/t/p/w500/rFlA9iYyefyFTWv1YIMdMoUFgfZ.jpg"
+    },
+    {
+      "nombre": "Tristan Borders",
+      "personaje": "Oliver",
+      "foto": "https://image.tmdb.org/t/p/w500/hZ6g2V3eyaqUQjp1jPSNJHVaNIL.jpg"
+    },
+    {
+      "nombre": "Patton Oswalt",
+      "personaje": "Strappy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+    },
+    {
+      "nombre": "Jimmica Collins",
+      "personaje": "Betty Bunny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nWqwqhsLKj3bMjKNzdf38TpWg3v.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Casper Kelly",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tyler Davidson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Casper Kelly",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jamie King",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "J.D. Lifshitz",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Raphael Margules",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Drew Sykes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tracy Rosenblum",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Zach Kuperstein",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Josh Ethier",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michael Yezerski",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Kevin Flanigan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dexter Braff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Roberto Linck",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Guilhad Emilio Schenker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gideon Tadmor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adam J. Wilde",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marlowe Taylor",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Mac Smith",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Mac Smith",
+      "rol": "Supervising Sound Editor"
+    }
+  ],
+  "director": "Casper Kelly",
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "BoulderLight Pictures",
+  "enlace_video": "https://voe.sx/e/gpjlmn2lso9q",
+  "trailer": "https://www.youtube.com/watch?v=O1fNEHX9tSM"
+}
