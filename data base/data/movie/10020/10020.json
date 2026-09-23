@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 10020,
+  "poster": "https://image.tmdb.org/t/p/w500/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ciockcq9OEj727O1SLuhmFWuVbz.png",
+  "titulo": "La Bella y La Bestia",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Familia",
+    "Animación",
+    "Fantasía"
+  ],
+  "calificacion": "A",
+  "puntuacion": 7.725,
+  "año": "1991",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "La joven Bella se encuentra prisionera en un castillo encantado, gobernado por una bestia. A medida que pasa el tiempo, descubre la verdadera naturaleza amable de la bestia y se desarrolla un amor improbable entre ellos, desafiando los prejuicios y las apariencias externas.",
+  "fecha_estreno": "1991-10-22",
+  "titulo_original": "Beauty and the Beast",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Paige O'Hara",
+      "personaje": "Belle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/g61DJhK2rUOJJ2Rk4Kw0svUPWRh.jpg"
+    },
+    {
+      "nombre": "Robby Benson",
+      "personaje": "Beast (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/a7lauBiOZmJEuYDSpfHrJDOgrOc.jpg"
+    },
+    {
+      "nombre": "Richard White",
+      "personaje": "Gaston (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ffrXvosdpVWd00neXUyposGNViF.jpg"
+    },
+    {
+      "nombre": "Jerry Orbach",
+      "personaje": "Lumiere (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/C0n4GfMUoesutHPbquKw9JANtW.jpg"
+    },
+    {
+      "nombre": "David Ogden Stiers",
+      "personaje": "Cogsworth (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg"
+    },
+    {
+      "nombre": "Angela Lansbury",
+      "personaje": "Mrs. Potts (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gGAWbfMqhJnXzC8dRLeOSXOo9vO.jpg"
+    },
+    {
+      "nombre": "Rex Everhart",
+      "personaje": "Maurice (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dX5HOEcUl6Amx9btPN3jCnSloOO.jpg"
+    },
+    {
+      "nombre": "Jesse Corti",
+      "personaje": "Lefou (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oI6zfkWgkMP3UFT5KCi5B6etzCa.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Sanders",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Brenda Chapman",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Robert Lence",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Bruce Woodside",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Gary Trousdale",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kevin Harkey",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Don Hahn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Ellery",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bill Wilner",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Howard Ashman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Carnochan",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Vera Pacheco",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "James Baxter",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "Anthony DeRosa",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Tim Allen",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Scott F. Johnston",
+      "rol": "Software Engineer"
+    },
+    {
+      "nombre": "Jeannine Berger",
+      "rol": "Post Production Consulting"
+    },
+    {
+      "nombre": "Larry White",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Bill Perkins",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Rick Moore",
+      "rol": "Layout"
+    }
+  ],
+  "director": "Gary Trousdale",
+  "valoraciones": {
+    "tmdb": 7.725,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Silver Screen Partners IV",
+  "enlace_video": "https://hglink.to/e/08riwelhgg5i",
+  "trailer": "https://www.youtube.com/watch?v=UUVpyeS_fVw"
+}
