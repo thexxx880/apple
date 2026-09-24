@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 64690,
+  "poster": "https://image.tmdb.org/t/p/w500/uC6ykM4OcOaxS7mLMdF7eebdk1Z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hoyAALgfmjMEK7O1wZ4r8wT91RP.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/fyQJgRixor6LVkk2DHQGijKkAWa.png",
+  "titulo": "Drive: El Escape",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Suspense",
+    "Crimen"
+  ],
+  "calificacion": "B15 ",
+  "puntuacion": 7.584,
+  "año": "2011",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "Un misterioso doble de acción de Hollywood se pone a trabajar como conductor de huida y se encuentra en problemas cuando ayuda a su vecina.",
+  "fecha_estreno": "2011-09-15",
+  "titulo_original": "Drive",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ryan Gosling",
+      "personaje": "Driver",
+      "foto": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+    },
+    {
+      "nombre": "Carey Mulligan",
+      "personaje": "Irene",
+      "foto": "https://image.tmdb.org/t/p/w500/iwVHhqoz5b62FR0SDpZ7wfsuTBI.jpg"
+    },
+    {
+      "nombre": "Bryan Cranston",
+      "personaje": "Shannon",
+      "foto": "https://image.tmdb.org/t/p/w500/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg"
+    },
+    {
+      "nombre": "Albert Brooks",
+      "personaje": "Bernie Rose",
+      "foto": "https://image.tmdb.org/t/p/w500/8iDSGu5l93N7benjf6b3AysBore.jpg"
+    },
+    {
+      "nombre": "Oscar Isaac",
+      "personaje": "Standard",
+      "foto": "https://image.tmdb.org/t/p/w500/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+    },
+    {
+      "nombre": "Christina Hendricks",
+      "personaje": "Blanche",
+      "foto": "https://image.tmdb.org/t/p/w500/nwSh3NXQtUT3joHbCVwLvOoBxJG.jpg"
+    },
+    {
+      "nombre": "Ron Perlman",
+      "personaje": "Nino",
+      "foto": "https://image.tmdb.org/t/p/w500/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
+    },
+    {
+      "nombre": "Kaden Leos",
+      "personaje": "Benicio",
+      "foto": "https://image.tmdb.org/t/p/w500/5mp6qF9xLaRU3FC6aDqpMd8ptbB.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Nicolas Winding Refn",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Marc Platt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Siegel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hossein Amini",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "John Palermo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michel Litvak",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gigi Pritzker",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Newton Thomas Sigel",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mindy Marin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Erin Benach",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "James Sallis",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Lola Corfixen",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Liv Corfixen",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Lizzielou Corfixen",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Dieter Busch",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Mam Smith",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Joe Bucaro III",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Scotty Richards",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Lane Leavitt",
+      "rol": "Utility Stunts"
+    }
+  ],
+  "director": "Nicolas Winding Refn",
+  "valoraciones": {
+    "tmdb": 7.584,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "FilmDistrict",
+  "enlace_video": "https://gscdn.cam/video/embed/17w0e3tbtmw7",
+  "trailer": "https://www.youtube.com/watch?v=--XQKuqUrMo"
+}
