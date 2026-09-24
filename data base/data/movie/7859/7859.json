@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 7859,
+  "poster": "https://image.tmdb.org/t/p/w500/zmK1mWz0L8zGdQmKkgOQeVmxbmS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tutGoHgPKTrgr1T6sfMZxN1V4E6.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/du7sguq0fkUOthBVt70O85F6FED.png",
+  "titulo": "Half Nelson",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.65,
+  "año": "2006",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "Dan Dunne (Ryan Gosling), un profesor de un conflictivo instituto de Brooklyn, es adicto a las drogas. Cuando Drey, una problemática estudiante, descubre su secreto, nace entre ambos una insólita amistad.",
+  "fecha_estreno": "2006-08-11",
+  "titulo_original": "Half Nelson",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ryan Gosling",
+      "personaje": "Dan Dunne",
+      "foto": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+    },
+    {
+      "nombre": "Shareeka Epps",
+      "personaje": "Drey",
+      "foto": "https://image.tmdb.org/t/p/w500/5zzj5SsssfVsf9e9NGNxdlqCgD3.jpg"
+    },
+    {
+      "nombre": "Anthony Mackie",
+      "personaje": "Frank",
+      "foto": "https://image.tmdb.org/t/p/w500/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+    },
+    {
+      "nombre": "Jeff Lima",
+      "personaje": "Roodly",
+      "foto": "https://image.tmdb.org/t/p/w500/qkZQKtyn6A5D2xtw8xJ4Hj01ztI.jpg"
+    },
+    {
+      "nombre": "Monique Gabriela Curnen",
+      "personaje": "Isabel",
+      "foto": "https://image.tmdb.org/t/p/w500/lJgLQs7cfM49m8VzVviwxIByz76.jpg"
+    },
+    {
+      "nombre": "Tina Holmes",
+      "personaje": "Rachel",
+      "foto": "https://image.tmdb.org/t/p/w500/4c8vuZTCIqCFxX1NRqRKmuOCJMy.jpg"
+    },
+    {
+      "nombre": "Nathan Corbett",
+      "personaje": "Terrance",
+      "foto": "https://image.tmdb.org/t/p/w500/wHEfFaDJyM2500VqXalD5RuQnO.jpg"
+    },
+    {
+      "nombre": "Tyra Kwao-Vovo",
+      "personaje": "Stacy",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ryan Fleck",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Lynette Howell Taylor",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Orlovsky",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Anna Boden",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rosanne Korenberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jamie Patricof",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan Fleck",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Anna Boden",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Scott London",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrij Parekh",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Clara Markowicz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charlie Corwin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul S. Mezey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Doug Dey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eyde Belasco",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Anna Boden",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Beth Mickle",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Anna Boden",
+      "rol": "Co-Director"
+    },
+    {
+      "nombre": "Nicholas R. Bell",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Sabrina Alston",
+      "rol": "Hairstylist"
+    }
+  ],
+  "director": "Ryan Fleck",
+  "valoraciones": {
+    "tmdb": 6.65,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Hunting Lane Films",
+  "enlace_video": "https://ok.ru/videoembed/9378800470651",
+  "trailer": "https://www.youtube.com/watch?v=BNdg2Ds3Fpw"
+}
