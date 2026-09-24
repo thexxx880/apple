@@ -1,0 +1,152 @@
+{
+  "id_tmdb": 318846,
+  "poster": "https://image.tmdb.org/t/p/w500/kNjz9Ezuf8tZHP2MfMbtDzDJ8wR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iof28QKa6bKFYCXSexuITxdKBvi.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/fZw3SwSyolJpnzbb25HyzhC90fL.png",
+  "titulo": "La Gran Apuesta",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.373,
+  "año": "2015",
+  "duracion": "2h 10min",
+  "edad_minima": 13,
+  "sinopsis": "Basado en la historia real de cuatro audaces inversores que vieron lo que los grandes bancos, los medios y el gobierno se negaron a ver: el inminente colapso de la economía mundial que resultó en la crisis financiera de 2008.",
+  "fecha_estreno": "2015-12-11",
+  "titulo_original": "The Big Short",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Steve Carell",
+      "personaje": "Mark Baum",
+      "foto": "https://image.tmdb.org/t/p/w500/sSxw69G0znJuettMYGDCAXfSwSY.jpg"
+    },
+    {
+      "nombre": "Christian Bale",
+      "personaje": "Michael Burry",
+      "foto": "https://image.tmdb.org/t/p/w500/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+      "nombre": "Ryan Gosling",
+      "personaje": "Jared Vennett",
+      "foto": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+    },
+    {
+      "nombre": "Brad Pitt",
+      "personaje": "Ben Rickert",
+      "foto": "https://image.tmdb.org/t/p/w500/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+      "nombre": "Marisa Tomei",
+      "personaje": "Cynthia Baum",
+      "foto": "https://image.tmdb.org/t/p/w500/5NCCKQooVCQD36R6JL3a1hOeBVn.jpg"
+    },
+    {
+      "nombre": "Melissa Leo",
+      "personaje": "Georgia Hale",
+      "foto": "https://image.tmdb.org/t/p/w500/ueAIX0MH68xCei3N8vFLS0EUEjY.jpg"
+    },
+    {
+      "nombre": "Hamish Linklater",
+      "personaje": "Porter Collins",
+      "foto": "https://image.tmdb.org/t/p/w500/ksTXQnWuKvmcVcbmHrvGaDof0P2.jpg"
+    },
+    {
+      "nombre": "John Magaro",
+      "personaje": "Charlie Geller",
+      "foto": "https://image.tmdb.org/t/p/w500/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Adam McKay",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Adam McKay",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Charles Randolph",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jeremy Kleiner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Arnon Milchan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brad Pitt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dede Gardner",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jean-Paul Bernard",
+      "rol": "Grip"
+    },
+    {
+      "nombre": "Peter Epstein",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Barry Ackroyd",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Elliott Glick",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Kathy Driscoll-Mohler",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Nicholas Britell",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Louise Rosner-Meyer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Clayton Hartley",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Francine Maisler",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Michael Lewis",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Jodi Michelle Pynn",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Linda Lee Sutton",
+      "rol": "Set Decoration"
+    }
+  ],
+  "director": "Adam McKay",
+  "valoraciones": {
+    "tmdb": 7.373,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/6rxf15ksf6cj",
+  "trailer": "https://www.youtube.com/watch?v=1kQc3mmtH-o"
+}
