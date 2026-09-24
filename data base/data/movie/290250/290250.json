@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 290250,
+  "poster": "https://image.tmdb.org/t/p/w500/90WQR6D6CVCr6euK13vClAnfXNU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yxYUN3fBPJdTNdXC1l8L24XFPhX.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9tsaVgqyx1DwuQEcJs7F4WxwS5k.png",
+  "titulo": "Dos Tipos Peligrosos",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Crimen",
+    "Acción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.137,
+  "año": "2016",
+  "duracion": "1h 56min",
+  "edad_minima": 13,
+  "sinopsis": "En la década de 1970, en Los Ángeles, un par de detectives privados incompatibles investigan una chica desaparecida y la misteriosa muerte de una estrella porno.",
+  "fecha_estreno": "2016-05-15",
+  "titulo_original": "The Nice Guys",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Russell Crowe",
+      "personaje": "Jackson Healy",
+      "foto": "https://image.tmdb.org/t/p/w500/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "nombre": "Ryan Gosling",
+      "personaje": "Holland March",
+      "foto": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+    },
+    {
+      "nombre": "Angourie Rice",
+      "personaje": "Holly March",
+      "foto": "https://image.tmdb.org/t/p/w500/iHZzyhvIYW9CSsMSLnxm9FsJohL.jpg"
+    },
+    {
+      "nombre": "Matt Bomer",
+      "personaje": "John Boy",
+      "foto": "https://image.tmdb.org/t/p/w500/oxL27Z3XtjoABaOynKazZeg7qKM.jpg"
+    },
+    {
+      "nombre": "Margaret Qualley",
+      "personaje": "Amelia Kuttner",
+      "foto": "https://image.tmdb.org/t/p/w500/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
+    },
+    {
+      "nombre": "Yaya DaCosta",
+      "personaje": "Tally",
+      "foto": "https://image.tmdb.org/t/p/w500/nbkbw9fjaAxFPscnY8xcqAi5TCs.jpg"
+    },
+    {
+      "nombre": "Keith David",
+      "personaje": "Older Guy",
+      "foto": "https://image.tmdb.org/t/p/w500/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+    },
+    {
+      "nombre": "Beau Knapp",
+      "personaje": "Blueface",
+      "foto": "https://image.tmdb.org/t/p/w500/6OWe75RIFETlY3iqvTjswcXRc33.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Shane Black",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Shane Black",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Anthony Bagarozzi",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joel Silver",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mohammed Al-Zahrani",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Norman Merry",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nilo Otero",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Eric Richard Lasko",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Barbara Lorenz",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Ben Shepherd",
+      "rol": "3D Supervisor"
+    },
+    {
+      "nombre": "John Ottman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "David Buckley",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Philippe Rousselot",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Joel Negron",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sarah Halley Finn",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Richard Bridgland",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "David Utley",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Shane Black",
+  "valoraciones": {
+    "tmdb": 7.137,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Silver Pictures",
+  "enlace_video": "https://filelions.to/v/9k3f23oxbt0d",
+  "trailer": "https://www.youtube.com/watch?v=GQR5zsLHbYw"
+}
