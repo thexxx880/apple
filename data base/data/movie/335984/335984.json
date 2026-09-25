@@ -1,0 +1,156 @@
+{
+  "id_tmdb": 335984,
+  "poster": "https://image.tmdb.org/t/p/w500/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ojKJKVgQ1S4ycPILfTLN5S79Fc1.png",
+  "titulo": "Blade Runner 2049",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.607,
+  "año": "2017",
+  "duracion": "2h 44min",
+  "edad_minima": 13,
+  "sinopsis": "En 2049, K es uno de los esclavos androides de la nueva serie Nexus-9 llamados replicantes. K también es un Blade Runner, un cazador de replicantes rebeldes, que termina realizando un importante descubrimiento durante una de sus misiones. Luego de ser ordenado buscar y destruir cualquier evidencia del suceso, el androide termina tras la pista de Rick Deckard, un misterioso ex Blade Runner desparecido por más de 30 años. Secuela del icónico filme de ciencia ficción de 1982, Blade Runner.",
+  "fecha_estreno": "2017-10-04",
+  "titulo_original": "Blade Runner 2049",
+  "pais_origen": "Canada",
+  "reparto": [
+    {
+      "nombre": "Ryan Gosling",
+      "personaje": "'K'",
+      "foto": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+    },
+    {
+      "nombre": "Harrison Ford",
+      "personaje": "Rick Deckard",
+      "foto": "https://image.tmdb.org/t/p/w500/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+    },
+    {
+      "nombre": "Ana de Armas",
+      "personaje": "Joi",
+      "foto": "https://image.tmdb.org/t/p/w500/eDuBeSHV0R7vuCnHHXrfa7d7IfB.jpg"
+    },
+    {
+      "nombre": "Dave Bautista",
+      "personaje": "Sapper Morton",
+      "foto": "https://image.tmdb.org/t/p/w500/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    },
+    {
+      "nombre": "Robin Wright",
+      "personaje": "Lieutenant Joshi",
+      "foto": "https://image.tmdb.org/t/p/w500/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+    },
+    {
+      "nombre": "Sylvia Hoeks",
+      "personaje": "Luv",
+      "foto": "https://image.tmdb.org/t/p/w500/wKC9LgqgJRCXuzs1kUKaK7Uicv.jpg"
+    },
+    {
+      "nombre": "Mackenzie Davis",
+      "personaje": "Mariette",
+      "foto": "https://image.tmdb.org/t/p/w500/CEpYCoD6erYRYekmFHuQAULLD5.jpg"
+    },
+    {
+      "nombre": "Jared Leto",
+      "personaje": "Niander Wallace",
+      "foto": "https://image.tmdb.org/t/p/w500/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Hampton Fancher",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Hampton Fancher",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Michael Green",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Broderick Johnson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cynthia Sikes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bud Yorkin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew A. Kosove",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Denis Villeneuve",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Roger Deakins",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Gábor Szabó",
+      "rol": "Concept Artist"
+    },
+    {
+      "nombre": "Carl Rogers",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Joel Kramer",
+      "rol": "Second Unit"
+    },
+    {
+      "nombre": "Karen M. Murphy",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Bill Carraro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Emma Pill",
+      "rol": "Location Manager"
+    },
+    {
+      "nombre": "Tim Gamble",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "George Hull",
+      "rol": "Conceptual Design"
+    },
+    {
+      "nombre": "Dana Belcastro",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Gavin J. Behrman",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Adam Hart",
+      "rol": "Stunts"
+    }
+  ],
+  "director": "Denis Villeneuve",
+  "valoraciones": {
+    "tmdb": 7.607,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Alcon Entertainment",
+  "enlace_video": "https://gscdn.cam/video/embed/b93ciy4r88qj",
+  "trailer": "https://www.youtube.com/watch?v=geFtxCSz8xI"
+}
