@@ -1,0 +1,153 @@
+{
+  "id_tmdb": 346698,
+  "poster": "https://image.tmdb.org/t/p/w500/lF3ViyfgJ8VEwQSlqPhuhm6WW43.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1esAE8sLJRWWFsLLeh5r3g2WanI.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png",
+  "titulo": "Barbie",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Aventura",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.907,
+  "año": "2023",
+  "duracion": "1h 40min",
+  "edad_minima": 13,
+  "sinopsis": "Una muñeca que vive en 'Barbieland' es expulsada al mundo real por no ser lo suficientemente perfecta. Basada en la popular muñeca Barbie.",
+  "fecha_estreno": "2023-07-19",
+  "titulo_original": "Barbie",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Margot Robbie",
+      "personaje": "Barbie",
+      "foto": "https://image.tmdb.org/t/p/w500/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+    },
+    {
+      "nombre": "Ryan Gosling",
+      "personaje": "Ken",
+      "foto": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+    },
+    {
+      "nombre": "America Ferrera",
+      "personaje": "Gloria",
+      "foto": "https://image.tmdb.org/t/p/w500/7q9uUWnaIjveX8DTU2lcA7mA3dp.jpg"
+    },
+    {
+      "nombre": "Ariana Greenblatt",
+      "personaje": "Sasha",
+      "foto": "https://image.tmdb.org/t/p/w500/lp7lzzBE7EYTMvSb4foN5LyZUkP.jpg"
+    },
+    {
+      "nombre": "Issa Rae",
+      "personaje": "Barbie",
+      "foto": "https://image.tmdb.org/t/p/w500/uFjimuDgBv8kckApr19t8DykxPH.jpg"
+    },
+    {
+      "nombre": "Kate McKinnon",
+      "personaje": "Barbie",
+      "foto": "https://image.tmdb.org/t/p/w500/2cNetzianFcxPQbyOQnkAIkKUZE.jpg"
+    },
+    {
+      "nombre": "Alexandra Shipp",
+      "personaje": "Barbie",
+      "foto": "https://image.tmdb.org/t/p/w500/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
+    },
+    {
+      "nombre": "Emma Mackey",
+      "personaje": "Barbie",
+      "foto": "https://image.tmdb.org/t/p/w500/l4JOGnGOAeZr3BQvAerFyvakrU0.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Robbie Brenner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Heyman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Margot Robbie",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Ackerley",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Greta Gerwig",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Noah Baumbach",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Greta Gerwig",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sarah Greenwood",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Michael Sharp",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lucy Bevan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Allison Jones",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Katie Spencer",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Lucy Scarfe",
+      "rol": "Stand In"
+    },
+    {
+      "nombre": "Rob Harris",
+      "rol": "Executive Producer's Assistant"
+    },
+    {
+      "nombre": "David Doran",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Jordana Finkel",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Joe Howard",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Hugh McClelland",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Gordon Stotz",
+      "rol": "Art Direction"
+    }
+  ],
+  "director": "Greta Gerwig",
+  "valoraciones": {
+    "tmdb": 6.907,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "LuckyChap Entertainment",
+  "enlace_video": "https://gscdn.cam/video/embed/wttb06drpvo2",
+  "trailer": "https://www.youtube.com/watch?v=Y1IgAEejvqM"
+}
