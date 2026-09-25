@@ -1,0 +1,155 @@
+{
+  "id_tmdb": 4012,
+  "poster": "https://image.tmdb.org/t/p/w500/bPWCXoRItooEDeDaGVouSGegiL4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cDTDGNaF5zu4LYD4gZjkaZ8DjjY.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/fltiPf5Tkx01mNccvQUsvBCTAzU.png",
+  "titulo": "El Creyente",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.9,
+  "año": "2001",
+  "duracion": "1h 38min",
+  "edad_minima": 13,
+  "sinopsis": "Un cabeza rapada racista estadounidense incondicional que, debido a su inteligencia, lidera una pandilla dedicada a luchar contra el enemigo: la supuesta conspiración judío-estadounidense para la dominación. Sin embargo, esconde un secreto: es judío de nacimiento, un erudito brillante cuyo cuestionamiento de los principios de su fe lo ha dejado enojado y confundido, volviéndose contra aquellos que cree que tienen una historia trágica de su propia creación.",
+  "fecha_estreno": "2001-08-23",
+  "titulo_original": "The Believer",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ryan Gosling",
+      "personaje": "Danny Balint",
+      "foto": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+    },
+    {
+      "nombre": "Summer Phoenix",
+      "personaje": "Carla Moebius",
+      "foto": "https://image.tmdb.org/t/p/w500/ncSXqGoq031Qj7DVREmtbWOjPqY.jpg"
+    },
+    {
+      "nombre": "Theresa Russell",
+      "personaje": "Lina Moebius",
+      "foto": "https://image.tmdb.org/t/p/w500/v0s86Nh5IMqYk5oazosuAwXAiO5.jpg"
+    },
+    {
+      "nombre": "Billy Zane",
+      "personaje": "Curtis Zampf",
+      "foto": "https://image.tmdb.org/t/p/w500/wr4fuwLzQvW1G0MS7cmQ3ObFjvL.jpg"
+    },
+    {
+      "nombre": "Garret Dillahunt",
+      "personaje": "Billings",
+      "foto": "https://image.tmdb.org/t/p/w500/7wHWTkIhre0j9L9CY2t5VVwg630.jpg"
+    },
+    {
+      "nombre": "A.D. Miles",
+      "personaje": "Guy Danielsen",
+      "foto": "https://image.tmdb.org/t/p/w500/4KY0N9f547czylh6RUYSx1JNavv.jpg"
+    },
+    {
+      "nombre": "Glenn Fitzgerald",
+      "personaje": "Drake",
+      "foto": "https://image.tmdb.org/t/p/w500/2WLTC09IDaDB2Fz2rcIu9KeFzQG.jpg"
+    },
+    {
+      "nombre": "Elizabeth Reaser",
+      "personaje": "Miriam",
+      "foto": "https://image.tmdb.org/t/p/w500/gYzfVDwWI6A955MEtX1ZqfZIuN2.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Susan Hoffman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Henry Bean",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Henry Bean",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Eric Sandys",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mark Jacobson",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Henry Bean",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Frank M. Calo",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Hoffman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David Shumbris",
+      "rol": "Utility Stunts"
+    },
+    {
+      "nombre": "Susan Block",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Peter Bucossi",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Jim Denault",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jennifer Newman",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Mayin Lo",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Elizabeth Hedges",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "Joel Diamond",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Carrie Stewart",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Alex Alvarez",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Adrienne Stern",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Lee Percy",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Henry Bean",
+  "valoraciones": {
+    "tmdb": 6.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fuller Films",
+  "enlace_video": "https://ok.ru/videoembed/9586161486383",
+  "trailer": "https://www.youtube.com/watch?v=Zb--eD_XeBY"
+}
