@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 369972,
+  "poster": "https://image.tmdb.org/t/p/w500/hLXDrsgBqdO0xJHoRlBBMMortWL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tgImGhEuWqquAA22bxKlZi8gUPW.png",
+  "titulo": "El primer hombre en la Luna",
+  "trending": false,
+  "generos": [
+    "Historia",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.04,
+  "año": "2018",
+  "duracion": "2h 21min",
+  "edad_minima": 13,
+  "sinopsis": "Cuenta la historia de la misión de la NASA que llevó al primer hombre a la luna, centrada en Neil Armstrong y el periodo comprendido entre los años 1961 y 1969. Un relato en primera persona, basado en la novela de James R. Hansen, que explora el sacrificio y el precio que representó, tanto para Armstrong como para Estados Unidos, una de las misiones más peligrosas de la historia.",
+  "fecha_estreno": "2018-10-10",
+  "titulo_original": "First Man",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ryan Gosling",
+      "personaje": "Neil Armstrong",
+      "foto": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+    },
+    {
+      "nombre": "Claire Foy",
+      "personaje": "Janet Shearon",
+      "foto": "https://image.tmdb.org/t/p/w500/pI1lOswQWZRhc8TKu0MESulw9uF.jpg"
+    },
+    {
+      "nombre": "Jason Clarke",
+      "personaje": "Ed White",
+      "foto": "https://image.tmdb.org/t/p/w500/quH4y2dto3UAgZOfaM0QriyRLPN.jpg"
+    },
+    {
+      "nombre": "Kyle Chandler",
+      "personaje": "Deke Slayton",
+      "foto": "https://image.tmdb.org/t/p/w500/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
+    },
+    {
+      "nombre": "Corey Stoll",
+      "personaje": "Buzz Aldrin",
+      "foto": "https://image.tmdb.org/t/p/w500/2eMxKecTZBiS60gPUVWcimYgGDp.jpg"
+    },
+    {
+      "nombre": "Patrick Fugit",
+      "personaje": "Elliot See",
+      "foto": "https://image.tmdb.org/t/p/w500/bsONcodcqRKV97p1Oo1jcPkEnDA.jpg"
+    },
+    {
+      "nombre": "Christopher Abbott",
+      "personaje": "David Scott",
+      "foto": "https://image.tmdb.org/t/p/w500/bE7zzh60RXydH3p632ZZSmsTlcn.jpg"
+    },
+    {
+      "nombre": "Ciarán Hinds",
+      "personaje": "Robert R. Gilruth",
+      "foto": "https://image.tmdb.org/t/p/w500/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Isaac Klausner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Damien Chazelle",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Marty Bowen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Wyck Godfrey",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Damien Chazelle",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Josh Singer",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Donna O'Neal",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Phillip Trujillo",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Lon Haber",
+      "rol": "Publicist"
+    },
+    {
+      "nombre": "Kate Cavendish",
+      "rol": "Publicist"
+    },
+    {
+      "nombre": "Leigh Bell",
+      "rol": "Key Costumer"
+    },
+    {
+      "nombre": "Synithia Cochran",
+      "rol": "Seamstress"
+    },
+    {
+      "nombre": "Jennifer Stellema",
+      "rol": "First Assistant Editor"
+    },
+    {
+      "nombre": "Frédéric North",
+      "rol": "Pilot"
+    },
+    {
+      "nombre": "Harry Yoon",
+      "rol": "Additional Editing"
+    },
+    {
+      "nombre": "Stephanie Logan",
+      "rol": "Costume Coordinator"
+    },
+    {
+      "nombre": "Eric Kench",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "Fontella Boone",
+      "rol": "Tailor"
+    }
+  ],
+  "director": "Damien Chazelle",
+  "valoraciones": {
+    "tmdb": 7.04,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/cbcurlh4vhfu",
+  "trailer": "https://www.youtube.com/watch?v=TVowQ4LgwLk"
+}
