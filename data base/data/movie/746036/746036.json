@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 746036,
+  "poster": "https://image.tmdb.org/t/p/w500/fDuk47n2ZPM7KYbk3tj4vhIh4qG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2rjI2uXmjitMAaXVO21r9ao7v2j.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aR9ae7DX0PNOb6Yc73EZKATZhD1.png",
+  "titulo": "Profesión peligro",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.95,
+  "año": "2024",
+  "duracion": "2h 7min",
+  "edad_minima": 13,
+  "sinopsis": "Un especialista maltratado y pasado de su mejor momento se encuentra de nuevo en una película con la estrella para la que fue su doble hace mucho tiempo y que lo reemplazó. El problema, sin embargo, es que la estrella ha desaparecido.",
+  "fecha_estreno": "2024-04-24",
+  "titulo_original": "The Fall Guy",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Ryan Gosling",
+      "personaje": "Colt Seavers",
+      "foto": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+    },
+    {
+      "nombre": "Emily Blunt",
+      "personaje": "Jody Moreno",
+      "foto": "https://image.tmdb.org/t/p/w500/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+    },
+    {
+      "nombre": "Aaron Taylor-Johnson",
+      "personaje": "Tom Ryder",
+      "foto": "https://image.tmdb.org/t/p/w500/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+    },
+    {
+      "nombre": "Hannah Waddingham",
+      "personaje": "Gail Meyer",
+      "foto": "https://image.tmdb.org/t/p/w500/eHAICyhvjiRZCgzKyJCk9hWnnjr.jpg"
+    },
+    {
+      "nombre": "Teresa Palmer",
+      "personaje": "Iggy Starr",
+      "foto": "https://image.tmdb.org/t/p/w500/sjSiLSCp9LS1Z0nyGpmquTBuUyr.jpg"
+    },
+    {
+      "nombre": "Stephanie Hsu",
+      "personaje": "Alma Milan",
+      "foto": "https://image.tmdb.org/t/p/w500/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg"
+    },
+    {
+      "nombre": "Winston Duke",
+      "personaje": "Dan Tucker",
+      "foto": "https://image.tmdb.org/t/p/w500/MhBiZbryibwuoEtPL9Ns8pYHC1.jpg"
+    },
+    {
+      "nombre": "Ben Knight",
+      "personaje": "Dressler",
+      "foto": "https://image.tmdb.org/t/p/w500/grWRhONfetAXzbU3vNwIAunXZw7.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Kelly McCormick",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "David Leitch",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan Gosling",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Guymon Casady",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Drew Pearce",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "David Leitch",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Drew Pearce",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Geoff Schaevitz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul Barry",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Cecil O'Connor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lindsay Graham Ahanonu",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Mary Vernieu",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "David Scheunemann",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Patrick James Howe",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Max Nadilo",
+      "rol": "Assistant Art Director"
+    },
+    {
+      "nombre": "Tarnia Nicol",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Christian Petersen",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Sarah Evelyn",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "David Leitch",
+  "valoraciones": {
+    "tmdb": 6.95,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "87North Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/r4apexahrlb1",
+  "trailer": "https://www.youtube.com/watch?v=9slZAY2fyaM"
+}
