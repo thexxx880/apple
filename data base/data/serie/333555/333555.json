@@ -1,0 +1,52 @@
+{
+  "id_tmdb": 333555,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/wHggxwOctc7fzPaPWiPSuWpiEIq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/m9bZzGX9OlV8caWmOLICgteUA2P.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/mDp79asZJVzVDDPQCpzBf8DI4do.png",
+  "titulo": "浮生之白蛇前缘",
+  "titulo_original": "浮生之白蛇前缘",
+  "fecha_estreno": "2026-09-02",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 0,
+  "sinopsis": "",
+  "pais_origen": "CN",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "赵娅婷",
+      "personaje": "Bai Suzhen / Hei Suzhen",
+      "foto": ""
+    },
+    {
+      "nombre": "林亚冬",
+      "personaje": "Xu Xian",
+      "foto": "https://image.tmdb.org/t/p/w500/6FcYUspG8ZRTNtq3GiOLsSOWZGp.jpg"
+    },
+    {
+      "nombre": "钟晨瑶",
+      "personaje": "Xiao Qing",
+      "foto": "https://image.tmdb.org/t/p/w500/dbxxwJZYSXHfb6gTSxemiseVzOP.jpg"
+    },
+    {
+      "nombre": "彭诗杰",
+      "personaje": "Fa Hai",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 0,
+    "imdb": "",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": ""
+}
