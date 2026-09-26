@@ -1,16 +1,17 @@
 {
   "id_tmdb": 1423191,
   "poster": "https://image.tmdb.org/t/p/w500/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
   "logo": "https://image.tmdb.org/t/p/w300/m9WqiXJWy1gARXt7RIeS3l8eRpp.png",
   "titulo": "Resident Evil: Noche cero",
   "trending": false,
   "generos": [
     "Terror",
-    "Ciencia ficción"
+    "Ciencia ficción",
+    "Aventura"
   ],
   "calificacion": "B-15",
-  "puntuacion": 8,
+  "puntuacion": 7.318,
   "año": "2026",
   "duracion": "1h 33min",
   "edad_minima": 13,
@@ -22,26 +23,26 @@
     {
       "nombre": "Austin Abrams",
       "personaje": "Bryan",
-      "foto": "https://image.tmdb.org/t/p/w500/gG4KsGZDw3tO2R66cn9VdOo8uSu.jpg"
-    },
-    {
-      "nombre": "Zach Cherry",
-      "personaje": "Dave",
-      "foto": "https://image.tmdb.org/t/p/w500/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
-    },
-    {
-      "nombre": "Kali Reis",
-      "personaje": "Pauline",
-      "foto": "https://image.tmdb.org/t/p/w500/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg"
     },
     {
       "nombre": "Paul Walter Hauser",
-      "personaje": "Carl",
+      "personaje": "Paul",
       "foto": "https://image.tmdb.org/t/p/w500/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
     },
     {
+      "nombre": "Kali Reis",
+      "personaje": "Maxine",
+      "foto": "https://image.tmdb.org/t/p/w500/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg"
+    },
+    {
+      "nombre": "Zach Cherry",
+      "personaje": "Carl",
+      "foto": "https://image.tmdb.org/t/p/w500/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+    },
+    {
       "nombre": "Johnno Wilson",
-      "personaje": "Max",
+      "personaje": "Officer Wilson",
       "foto": "https://image.tmdb.org/t/p/w500/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg"
     },
     {
@@ -50,14 +51,14 @@
       "foto": "https://image.tmdb.org/t/p/w500/pMV7kzy7OHk4X93uRGbrdvuFgQB.jpg"
     },
     {
-      "nombre": "Devon Deshaun Stewart",
-      "personaje": "",
-      "foto": "https://image.tmdb.org/t/p/w500/qZ5BMtEva7XEEdO3BpB9pCPzqMx.jpg"
+      "nombre": "Zach Cregger",
+      "personaje": "Intercom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg"
     },
     {
-      "nombre": "Zach Cregger",
-      "personaje": "(voice)",
-      "foto": "https://image.tmdb.org/t/p/w500/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg"
+      "nombre": "Emily Piggford",
+      "personaje": "Dr. Maria Stokes",
+      "foto": "https://image.tmdb.org/t/p/w500/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
     }
   ],
   "equipo_creativo": [
@@ -146,11 +147,11 @@
   ],
   "director": "Zach Cregger",
   "valoraciones": {
-    "tmdb": 8,
+    "tmdb": 7.318,
     "imdb": null,
     "rotten_tomatoes": null
   },
   "distribuidora": "Constantin Film",
-  "enlace_video": "https://voe.sx/e/2zndh593v2ia",
+  "enlace_video": "https://streamwish.to/e/yco1a4gez8k9",
   "trailer": "https://www.youtube.com/watch?v=d6oszs7f5aI"
 }
