@@ -1,0 +1,80 @@
+{
+  "id_tmdb": 214996,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/58VB6Wl3ajyLBrm1pltR4ZkPXw2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lGfXc5kK6f7qlWIDkkQy5oNM04R.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/o9XFpxryseAm8XK2auej7Fx3aJn.png",
+  "titulo": "Madres felices y fatales",
+  "titulo_original": "행복배틀",
+  "fecha_estreno": "2023-05-31",
+  "duracion": "60min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 5,
+  "sinopsis": "Un drama de suspenso que muestra a madres involucradas en una feroz batalla en las redes sociales para destruir la felicidad de los demás por sí mismas, para liberarse de la opresión, el dolor y los secretos, y recuperar su verdadero yo.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "이엘",
+      "personaje": "Jang Mi-ho",
+      "foto": "https://image.tmdb.org/t/p/w500/4AkevGu4IoGiWEeq46nX3pvByWO.jpg"
+    },
+    {
+      "nombre": "진서연",
+      "personaje": "Song Jung-ah",
+      "foto": "https://image.tmdb.org/t/p/w500/jPIBQmLiJtsfSnubZtikJep0fcM.jpg"
+    },
+    {
+      "nombre": "차예련",
+      "personaje": "Kim Na-young",
+      "foto": "https://image.tmdb.org/t/p/w500/iNjGqq6ii63vGdSXNnqz7a5z6T0.jpg"
+    },
+    {
+      "nombre": "박효주",
+      "personaje": "Oh Yu-jin",
+      "foto": "https://image.tmdb.org/t/p/w500/gD3tfx1uy6TfoIHdBxhVIzIDcy4.jpg"
+    },
+    {
+      "nombre": "우정원",
+      "personaje": "Hwang Ji-ye",
+      "foto": "https://image.tmdb.org/t/p/w500/eNXpnFT7lnBPFOScUt9p57LjttS.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Kim Yun-cheol",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kim Yun-cheol",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joo Young-ha",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joo Young-ha",
+      "rol": "Book"
+    },
+    {
+      "nombre": "김윤진",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5,
+    "imdb": "tt26593262",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": "https://www.youtube.com/watch?v=ft6C38sF294"
+}
