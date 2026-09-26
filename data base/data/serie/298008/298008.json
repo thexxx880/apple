@@ -1,0 +1,99 @@
+{
+  "id_tmdb": 298008,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5wy9oAKgiEQBrP78p8qkoVcpVCQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/gFnRYurx09MMWjl9A2YDRcllpQl.png",
+  "titulo": "Belleza plástica",
+  "titulo_original": "ダウンタイム",
+  "fecha_estreno": "2026-09-17",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 6.7,
+  "sinopsis": "Una talentosa cirujana de emergencia que termina practicando cirugía plástica choca con una doctora de celebridades y expone la avaricia y anhelos detrás del glamur.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "松岡茉優",
+      "personaje": "Fumi Numata",
+      "foto": "https://image.tmdb.org/t/p/w500/f7Pn68PjbhbsgwdAcQ7mxpkAYPJ.jpg"
+    },
+    {
+      "nombre": "仲里依紗",
+      "personaje": "Rin Tohyama",
+      "foto": "https://image.tmdb.org/t/p/w500/qXrDTOBrj3PbNTGzf4HLj8bCnLm.jpg"
+    },
+    {
+      "nombre": "間宮祥太朗",
+      "personaje": "Rui Komiya",
+      "foto": "https://image.tmdb.org/t/p/w500/rTyurOXMTcSyLfjGxLZ1rDedyPt.jpg"
+    },
+    {
+      "nombre": "田中みな実",
+      "personaje": "Nanami Todoroki",
+      "foto": "https://image.tmdb.org/t/p/w500/a4owLLPAec6N6cO5UWf8Uq5SsaI.jpg"
+    },
+    {
+      "nombre": "萩原利久",
+      "personaje": "Ren Makihara",
+      "foto": "https://image.tmdb.org/t/p/w500/yX2Zjhy7FdPwLexGxG8sgoSgakN.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "三宅はるえ",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "茂木克仁",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "工藤伸一",
+      "rol": "Development Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "三宅はるえ",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "茂木克仁",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "工藤伸一",
+      "rol": "Development Producer"
+    },
+    {
+      "nombre": "矢野数馬",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "坂東祐大",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "MON/KU",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "青木沙也果",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": "tt37884325",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=rDEnONgb7CM"
+}
