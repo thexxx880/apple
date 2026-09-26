@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 13313,
+  "poster": "https://image.tmdb.org/t/p/w500/xY0MXOXPfUIif5RkzpobTMvCtma.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cJb3cXT8Zx3VdXTKDyR3O5SbVKv.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/32DSUlxzc4wYDZTkUERMx4xenBI.png",
+  "titulo": "La bella y la bestia: Una Navidad encantada",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Fantasía",
+    "Familia",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.232,
+  "año": "1997",
+  "duracion": "1h 12min",
+  "edad_minima": 13,
+  "sinopsis": "Bella planea decorar el castillo y organizar una fiesta para todos sus amigos, aunque a Bestia no le haga demasiada ilusión… Pero antes de que empiecen los preparativos, Bella y todos sus amigos del castillo encantado descubren que Forte, el órgano, y su atontado secuaz Fifí, planean sabotear la fiestas de navidad. Gracias a la ilusión de Bella por enseñar a Bestia el verdadero significado de la Navidad, conseguirá parar los perversos planes de Forte.",
+  "fecha_estreno": "1997-11-11",
+  "titulo_original": "Beauty and the Beast: The Enchanted Christmas",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Paige O'Hara",
+      "personaje": "Belle (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/g61DJhK2rUOJJ2Rk4Kw0svUPWRh.jpg"
+    },
+    {
+      "nombre": "Robby Benson",
+      "personaje": "Beast (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/a7lauBiOZmJEuYDSpfHrJDOgrOc.jpg"
+    },
+    {
+      "nombre": "Jerry Orbach",
+      "personaje": "Lumiere (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/C0n4GfMUoesutHPbquKw9JANtW.jpg"
+    },
+    {
+      "nombre": "David Ogden Stiers",
+      "personaje": "Cogsworth (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg"
+    },
+    {
+      "nombre": "Bernadette Peters",
+      "personaje": "Angelique (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/x2hZ6AsIAfb5t512Q72SYtdNdZf.jpg"
+    },
+    {
+      "nombre": "Tim Curry",
+      "personaje": "Forte (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
+    },
+    {
+      "nombre": "Haley Joel Osment",
+      "personaje": "Chip (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
+    },
+    {
+      "nombre": "Paul Reubens",
+      "personaje": "Fife (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7T0ExonMf6PAvphKVaTm73BXdLW.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Andy Knight",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Cindy Marcus",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Bob Roth",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Flip Kobler",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Bill Motz",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Yuhon Ng",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Joe Giampapa",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Rachel Portman",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Julie Eberley",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Clive Powsey",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Keith Ingham",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Susan Kapigian",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Daniel Lee",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "William Speers",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Rachel Portman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Warwick Gilbert",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Don Black",
+      "rol": "Lyricist"
+    }
+  ],
+  "director": "Andy Knight",
+  "valoraciones": {
+    "tmdb": 6.232,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney Television Animation",
+  "enlace_video": "https://gscdn.cam/video/embed/3wq43c3sbins",
+  "trailer": "https://www.youtube.com/watch?v=A2xh1BwSpL4"
+}
