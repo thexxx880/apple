@@ -1,0 +1,148 @@
+{
+  "id_tmdb": 227719,
+  "poster": "https://image.tmdb.org/t/p/w500/7ZocuSaZSSQtP1ittRlAwHo4PlG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eyJk5LTMLIeAN2kVsP0yXrPZJfl.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/w8BqYb5rkomujALJjfFkUf2IKn2.png",
+  "titulo": "Proyecto Almanac",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "calificacion": "B",
+  "puntuacion": 6.816,
+  "año": "2015",
+  "duracion": "1h 46min",
+  "edad_minima": 13,
+  "sinopsis": "Un grupo de jóvenes se embarca en una aventura cuando descubren planes secretos para construir una máquina del tiempo, que utilizarán para arreglar sus problemas y obtener beneficios personales.",
+  "fecha_estreno": "2015-01-28",
+  "titulo_original": "Project Almanac",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jonny Weston",
+      "personaje": "David Raskin",
+      "foto": "https://image.tmdb.org/t/p/w500/jfNlirPh9TrBRzo1LaCN4CGvLlK.jpg"
+    },
+    {
+      "nombre": "Sofia Black-D'Elia",
+      "personaje": "Jessie Pierce",
+      "foto": "https://image.tmdb.org/t/p/w500/pkuqNG8uWAzWH8bSmRYBO5jdiUg.jpg"
+    },
+    {
+      "nombre": "Sam Lerner",
+      "personaje": "Quinn Goldberg",
+      "foto": "https://image.tmdb.org/t/p/w500/tHTUqTxciQIEdQYdaKWPorWyRbm.jpg"
+    },
+    {
+      "nombre": "Allen Evangelista",
+      "personaje": "Adam Le",
+      "foto": "https://image.tmdb.org/t/p/w500/ziZqW2DUEqxxPgWhpNLIYjTt8NW.jpg"
+    },
+    {
+      "nombre": "Virginia Gardner",
+      "personaje": "Christina Raskin",
+      "foto": "https://image.tmdb.org/t/p/w500/1DnNysK267b0te48KCkUlTKoTzj.jpg"
+    },
+    {
+      "nombre": "Amy Landecker",
+      "personaje": "Kathy Raskin",
+      "foto": "https://image.tmdb.org/t/p/w500/6UMXVrMsM4ogTqB63UFHMDB6mqD.jpg"
+    },
+    {
+      "nombre": "Gary Weeks",
+      "personaje": "Ben Raskin",
+      "foto": "https://image.tmdb.org/t/p/w500/n4taftpteF6qUTeYRDkdGPHC58.jpg"
+    },
+    {
+      "nombre": "Macsen Lintz",
+      "personaje": "David, Age 7",
+      "foto": "https://image.tmdb.org/t/p/w500/hikU8MmUtH3LTqwgWp6bLnhrrYq.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jason Pagan",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Brad Fuller",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Form",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dean Israelite",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Bay",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Deutschman",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christina Fong",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Martin Bernfeld",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Kimberly Greene",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Dustin Berry",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "Jessica Jackson",
+      "rol": "Art Department Coordinator"
+    },
+    {
+      "nombre": "Julian Clarke",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Lee Alan McConnell",
+      "rol": "Special Effects Coordinator"
+    },
+    {
+      "nombre": "Denise Chamian",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Karen Czukerberg",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Mary Jane Fort",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Charlotte Raffi",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Matthew Hackett",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Dean Israelite",
+  "valoraciones": {
+    "tmdb": 6.816,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Insurge Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/pva8m79j4tql",
+  "trailer": "https://www.youtube.com/watch?v=i0XQVeQUEb0"
+}
