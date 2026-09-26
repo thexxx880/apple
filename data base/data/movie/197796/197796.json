@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 197796,
+  "poster": "https://image.tmdb.org/t/p/w500/1fXcLDsxdJaqWn1fBZYX1IzeZFE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/92Uceuy7HaiiHFgW48gNyxhx17d.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/gnL5q6fquBZSzlIWJx4k9TeaCq7.png",
+  "titulo": "La bella y la bestia",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.317,
+  "año": "2014",
+  "duracion": "1h 52min",
+  "edad_minima": 13,
+  "sinopsis": "Nueva adaptación de la historia de \"La bella y la bestia\". En palabras de su director, \"Aunque seré fiel a la narración de este inmortal cuento de hadas, manteniendo el tiempo y los personajes como en el original, sorprenderé al público creando un universo completamente nuevo jamás experimentado antes, con imágenes de una calidad sin precedentes.\"",
+  "fecha_estreno": "2014-02-12",
+  "titulo_original": "La Belle et la Bête",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Vincent Cassel",
+      "personaje": "The Beast",
+      "foto": "https://image.tmdb.org/t/p/w500/ivUQfhn5olOmR5hthN8C8GThBV4.jpg"
+    },
+    {
+      "nombre": "Léa Seydoux",
+      "personaje": "Belle",
+      "foto": "https://image.tmdb.org/t/p/w500/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg"
+    },
+    {
+      "nombre": "André Dussollier",
+      "personaje": "Belle's Father",
+      "foto": "https://image.tmdb.org/t/p/w500/rw3J5sNFr7VYvTKAPak9d14F7R6.jpg"
+    },
+    {
+      "nombre": "Eduardo Noriega",
+      "personaje": "Perducas",
+      "foto": "https://image.tmdb.org/t/p/w500/wL2pCdw5lNsDrWRor3rxwLaSTQK.jpg"
+    },
+    {
+      "nombre": "Myriam Charleins",
+      "personaje": "Astrid",
+      "foto": "https://image.tmdb.org/t/p/w500/jk3CKz5ouuUUMTD3TqkPBTWpSkc.jpg"
+    },
+    {
+      "nombre": "Audrey Lamy",
+      "personaje": "Anne",
+      "foto": "https://image.tmdb.org/t/p/w500/zRyuaPykapMI71yH6cPunGY5Ywz.jpg"
+    },
+    {
+      "nombre": "Sara Giraudeau",
+      "personaje": "Clotilde",
+      "foto": "https://image.tmdb.org/t/p/w500/tPjI1YgAgWMYRHpPfyqpRrOynbL.jpg"
+    },
+    {
+      "nombre": "Jonathan Demurger",
+      "personaje": "Jean-Baptiste",
+      "foto": "https://image.tmdb.org/t/p/w500/vFen5Y5KXSH9m5f1UcTH1HhcHYB.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Christophe Gans",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Christophe Gans",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sandra Vo-Anh",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Richard Grandpierre",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jeanne-Marie Leprince de Beaumont",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Thierry Flamand",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "François Baranger",
+      "rol": "Concept Artist"
+    },
+    {
+      "nombre": "Christophe Beaucarne",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Pierre Adenot",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Sébastien Prangère",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Patrick Tatopoulos",
+      "rol": "Creature Design"
+    },
+    {
+      "nombre": "Qi Zhou",
+      "rol": "Digital Compositor"
+    },
+    {
+      "nombre": "Emile Ghorayeb",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "Elaine Phaneuf",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Francis Gariepy-Gagne",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Bassem Hawili",
+      "rol": "Animation"
+    }
+  ],
+  "director": "Christophe Gans",
+  "valoraciones": {
+    "tmdb": 6.317,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Eskwad",
+  "enlace_video": "https://streamwish.to/e/yaqcm2pcvi8v",
+  "trailer": "https://www.youtube.com/watch?v=wRCrJz5OpFU"
+}
