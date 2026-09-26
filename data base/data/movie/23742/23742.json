@@ -1,0 +1,149 @@
+{
+  "id_tmdb": 23742,
+  "poster": "https://image.tmdb.org/t/p/w500/b0q0MyRq3yjJahdmws4eJFovrcd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p8ah01N83pfwrSmlJsUufEx5pGR.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/gixByJvapq3NLDkpTlb6jIW9feG.png",
+  "titulo": "Dos Inútiles en Patrulla",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.553,
+  "año": "2010",
+  "duracion": "1h 47min",
+  "edad_minima": 13,
+  "sinopsis": "Jimmy y Paul son dos detectives del Departamento de Policía de Nueva York que siguen el rastro de una carísima tarjeta de béisbol de 1952 que fue robada, por lo que se enfrentarán a un gánster despiadado y apasionado por los objetos antiguos.",
+  "fecha_estreno": "2010-02-26",
+  "titulo_original": "Cop Out",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Bruce Willis",
+      "personaje": "Jimmy Monroe",
+      "foto": "https://image.tmdb.org/t/p/w500/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+    },
+    {
+      "nombre": "Tracy Morgan",
+      "personaje": "Paul Hodges",
+      "foto": "https://image.tmdb.org/t/p/w500/ec0OJVbs6NZKMbS1yiCAJKjeoJf.jpg"
+    },
+    {
+      "nombre": "Adam Brody",
+      "personaje": "Barry Mangold",
+      "foto": "https://image.tmdb.org/t/p/w500/qKBWrohBYegm6AAaLrtxEqqouIK.jpg"
+    },
+    {
+      "nombre": "Kevin Pollak",
+      "personaje": "Hunsaker",
+      "foto": "https://image.tmdb.org/t/p/w500/jWhKIVtmc3vIoS2l1VsdNwMAMJB.jpg"
+    },
+    {
+      "nombre": "Ana de la Reguera",
+      "personaje": "Gabriela",
+      "foto": "https://image.tmdb.org/t/p/w500/nEacV1wuUHV6eUyErGBhniJ85JY.jpg"
+    },
+    {
+      "nombre": "Guillermo Díaz",
+      "personaje": "Poh Boy",
+      "foto": "https://image.tmdb.org/t/p/w500/oso3tpCcf6wbjeHk2bpeKMV52zP.jpg"
+    },
+    {
+      "nombre": "Seann William Scott",
+      "personaje": "Dave",
+      "foto": "https://image.tmdb.org/t/p/w500/AftiUFP4rYcl3SG3xllxyiLiuXS.jpg"
+    },
+    {
+      "nombre": "Rashida Jones",
+      "personaje": "Debbie",
+      "foto": "https://image.tmdb.org/t/p/w500/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Robb Cullen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Polly Johnsen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marc Platt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kevin Smith",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark Cullen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Michael Tadross",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Cullen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Klein",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Robb Cullen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adam Siegel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Cohen",
+      "rol": "Set Production Assistant"
+    },
+    {
+      "nombre": "Jennifer Lamb",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Tim Chau",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Tim Chau",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Jim Rider",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Toy Van Lierop",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Scott A. Jennings",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Petra Bach",
+      "rol": "Dialogue Editor"
+    }
+  ],
+  "director": "Kevin Smith",
+  "valoraciones": {
+    "tmdb": 5.553,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marc Platt Productions",
+  "enlace_video": "https://gscdn.cam/video/embed/d84kbk42kx3s",
+  "trailer": "https://www.youtube.com/watch?v=NAH8qgVY9jE"
+}
