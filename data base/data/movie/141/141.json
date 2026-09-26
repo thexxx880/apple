@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 141,
+  "poster": "https://image.tmdb.org/t/p/w500/1YjDHBC4v2O7IQDKYAiM8fOxzf3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/pNvOhQXSl0qrhzIMZjT7r02kpdV.png",
+  "titulo": "Donnie Darko",
+  "trending": false,
+  "generos": [
+    "Fantasía",
+    "Drama",
+    "Misterio"
+  ],
+  "calificacion": "B-15",
+  "puntuacion": 7.8,
+  "año": "2001",
+  "duracion": "1h 53min",
+  "edad_minima": 13,
+  "sinopsis": "Donnie es un chico americano dotado de gran inteligencia e imaginación. Tras escapar milagrosamente de una muerte casi segura, comienza a sufrir alucinaciones que lo llevan a actuar como nunca hubiera imaginado y a descubrir un mundo insólito a su alrededor, pues en sus visiones un gran conejo lo manipula para cometer una serie de crímenes.",
+  "fecha_estreno": "2001-01-19",
+  "titulo_original": "Donnie Darko",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jake Gyllenhaal",
+      "personaje": "Donnie Darko",
+      "foto": "https://image.tmdb.org/t/p/w500/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
+    },
+    {
+      "nombre": "Jena Malone",
+      "personaje": "Gretchen Ross",
+      "foto": "https://image.tmdb.org/t/p/w500/kGwV9iLmfUxJ6a73ehr0QvAnc8C.jpg"
+    },
+    {
+      "nombre": "James Duval",
+      "personaje": "Frank",
+      "foto": "https://image.tmdb.org/t/p/w500/vvasxKKPnxv2qOoXTnaXW3ecGLO.jpg"
+    },
+    {
+      "nombre": "Drew Barrymore",
+      "personaje": "Karen Pomeroy",
+      "foto": "https://image.tmdb.org/t/p/w500/8qvMFslwrC3w1OwJYqE3mHPvffr.jpg"
+    },
+    {
+      "nombre": "Beth Grant",
+      "personaje": "Kitty Farmer",
+      "foto": "https://image.tmdb.org/t/p/w500/6THLoPYhIu422TqUmQDgnQRfYxA.jpg"
+    },
+    {
+      "nombre": "Maggie Gyllenhaal",
+      "personaje": "Elizabeth Darko",
+      "foto": "https://image.tmdb.org/t/p/w500/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+    },
+    {
+      "nombre": "Mary McDonnell",
+      "personaje": "Rose Darko",
+      "foto": "https://image.tmdb.org/t/p/w500/qqdaaFLEPXbB8thVJJkYJ4WoAuj.jpg"
+    },
+    {
+      "nombre": "Holmes Osborne",
+      "personaje": "Eddie Darko",
+      "foto": "https://image.tmdb.org/t/p/w500/ioECjVeLAUB8VaiCSHyyUVoHKwW.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Richard Kelly",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Nancy Juvonen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Fields",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sean McKittrick",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard Kelly",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sam Bauer",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jennifer Barak",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Steven Poster",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Michelle Morris-Gertz",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Drew Barrymore",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eric Strand",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Alec Hammond",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Michael Andrews",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Joseph Middleton",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Michael Payne",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Marcus Keys",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Kimberly Greene",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Richard Kelly",
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Flower Films",
+  "enlace_video": "https://gscdn.cam/video/embed/7bndf8ew9lku",
+  "trailer": "https://www.youtube.com/watch?v=71RaE7JYTUU"
+}
