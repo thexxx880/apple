@@ -1,0 +1,92 @@
+{
+  "id_tmdb": 229891,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/4l7WhqpRMVjKe7xdL9u92S9zOnF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/myyJ5871XfTpX7qlprZjm00pjsU.png",
+  "titulo": "¿Cómo se traduce este amor?",
+  "titulo_original": "이 사랑 통역 되나요?",
+  "fecha_estreno": "2026-01-16",
+  "duracion": "75min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 8.399,
+  "sinopsis": "Las emociones de una celebridad y su intérprete no logran superar las barreras del idioma mientras recorren el mundo con un reality de citas. ¿Triunfará el lenguaje del amor?",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "김선호",
+      "personaje": "Joo Ho-jin",
+      "foto": "https://image.tmdb.org/t/p/w500/qG8QeXHCn3iAJxeUCsPswM3Zw5l.jpg"
+    },
+    {
+      "nombre": "고윤정",
+      "personaje": "Cha Mu-hee",
+      "foto": "https://image.tmdb.org/t/p/w500/1AlwvzW8dUvJXreVvzyTXsa6FOh.jpg"
+    },
+    {
+      "nombre": "福士蒼汰",
+      "personaje": "Hiro Kurosawa",
+      "foto": "https://image.tmdb.org/t/p/w500/kUC8afeFVBM5jVSdmJ4Gz12IggV.jpg"
+    },
+    {
+      "nombre": "이이담",
+      "personaje": "Shin Ji-seon",
+      "foto": "https://image.tmdb.org/t/p/w500/raND8efeLH0TmIgs6ZSzgp42the.jpg"
+    },
+    {
+      "nombre": "최우성",
+      "personaje": "Kim Yong-woo",
+      "foto": "https://image.tmdb.org/t/p/w500/rtVfcQa6ZNbOky8qllrlyER0XV9.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "유영은",
+      "rol": "Director"
+    },
+    {
+      "nombre": "최진희",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "김진이",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "유영은",
+      "rol": "Director"
+    },
+    {
+      "nombre": "홍정은",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "홍미란",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "최진희",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "김진이",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.399,
+    "imdb": "tt30293074",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=tNZG1aLBATY"
+}
