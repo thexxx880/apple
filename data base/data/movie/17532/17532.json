@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 17532,
+  "poster": "https://image.tmdb.org/t/p/w500/rzqxctkPWt09eLlvu042DzECLil.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2oxlor4lQrP2JX40ammAQdOqkEQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/g8xXYjP4lFMibnFRlQDjrJftpTq.png",
+  "titulo": "S. Darko: Un cuento de Donnie Darko",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Crimen",
+    "Ciencia ficción",
+    "Misterio"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 4.315,
+  "año": "2009",
+  "duracion": "1h 43min",
+  "edad_minima": 13,
+  "sinopsis": "Extraños sucesos plagan a una joven y su mejor amiga cuando su coche se estropea en un viaje a campo traviesa.",
+  "fecha_estreno": "2009-04-28",
+  "titulo_original": "S. Darko",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Daveigh Chase",
+      "personaje": "Samantha Darko",
+      "foto": "https://image.tmdb.org/t/p/w500/3PVQPEc6nXNX2eoW2UbsfVikc7H.jpg"
+    },
+    {
+      "nombre": "Elizabeth Berkley",
+      "personaje": "Trudy Potter",
+      "foto": "https://image.tmdb.org/t/p/w500/ibYmq9qTMV3haM9ITDmUpbl45Qu.jpg"
+    },
+    {
+      "nombre": "Briana Evigan",
+      "personaje": "Corey",
+      "foto": "https://image.tmdb.org/t/p/w500/lEFVgJfDsoisq98zDQydarCLMlI.jpg"
+    },
+    {
+      "nombre": "James Lafferty",
+      "personaje": "Iraq Jack",
+      "foto": "https://image.tmdb.org/t/p/w500/lvUyG8wwYPUl8x5byd1g5Y2A0ia.jpg"
+    },
+    {
+      "nombre": "Ed Westwick",
+      "personaje": "Randy",
+      "foto": "https://image.tmdb.org/t/p/w500/sI2M7uu76HUkJk562siAK8vt50.jpg"
+    },
+    {
+      "nombre": "Bret Roberts",
+      "personaje": "Officer O'Dell",
+      "foto": "https://image.tmdb.org/t/p/w500/fNTBYgMiQdyTkJ0au0IpLSGAmRc.jpg"
+    },
+    {
+      "nombre": "Jackson Rathbone",
+      "personaje": "Jeremy",
+      "foto": "https://image.tmdb.org/t/p/w500/bTf1lKi9JpIryUgd2L5PWZaF8kZ.jpg"
+    },
+    {
+      "nombre": "Barbara Tarbuck",
+      "personaje": "Agatha",
+      "foto": "https://image.tmdb.org/t/p/w500/nSy8TAenwwnHNXU6ECxNFeJAHnE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Ash R. Shah",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Fisher",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Adam Fields",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nate Atkins",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ed Harcourt",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Marvin V. Rush",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Michael C. Cuddy",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Michael C. Cuddy",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Eric Lalicata",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Amy Jean Roberts",
+      "rol": "Assistant Costume Designer"
+    },
+    {
+      "nombre": "Amy Jean Roberts",
+      "rol": "Costume Supervisor"
+    },
+    {
+      "nombre": "Richard Kelly",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Mark J. Mullins",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Donald Hauer",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Kent Beyda",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Kent Beyda",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Chris Fisher",
+  "valoraciones": {
+    "tmdb": 4.315,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Newmarket Capital Group",
+  "enlace_video": "https://gscdn.cam/video/embed/ot9kw58xgon1",
+  "trailer": "https://www.youtube.com/watch?v=uxSewEtDtkw"
+}
