@@ -11,7 +11,7 @@
     "Comedia"
   ],
   "calificacion": "PG-13",
-  "puntuacion": 5.778,
+  "puntuacion": 5.777,
   "año": "2011",
   "duracion": "1h 23min",
   "edad_minima": 13,
@@ -23,7 +23,7 @@
     {
       "nombre": "Jesse Eisenberg",
       "personaje": "Nick",
-      "foto": "https://image.tmdb.org/t/p/w500/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
     },
     {
       "nombre": "Danny McBride",
@@ -71,15 +71,15 @@
       "rol": "Screenplay"
     },
     {
+      "nombre": "Stuart Cornfeld",
+      "rol": "Producer"
+    },
+    {
       "nombre": "Jeremy Kramer",
       "rol": "Producer"
     },
     {
       "nombre": "Ben Stiller",
-      "rol": "Producer"
-    },
-    {
-      "nombre": "Stuart Cornfeld",
       "rol": "Producer"
     },
     {
@@ -89,20 +89,8 @@
   ],
   "crew": [
     {
-      "nombre": "Maher Ahmad",
-      "rol": "Production Design"
-    },
-    {
-      "nombre": "Gene Serdena",
-      "rol": "Set Decoration"
-    },
-    {
       "nombre": "Monica Levinson",
       "rol": "Executive Producer"
-    },
-    {
-      "nombre": "Austin Gorg",
-      "rol": "Art Direction"
     },
     {
       "nombre": "Alan Baumgarten",
@@ -115,6 +103,18 @@
     {
       "nombre": "Jeanne McCarthy",
       "rol": "Casting"
+    },
+    {
+      "nombre": "Maher Ahmad",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Austin Gorg",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Gene Serdena",
+      "rol": "Set Decoration"
     },
     {
       "nombre": "Christie Wittenborn",
@@ -139,7 +139,7 @@
   ],
   "director": "Ruben Fleischer",
   "valoraciones": {
-    "tmdb": 5.778,
+    "tmdb": 5.777,
     "imdb": null,
     "rotten_tomatoes": null
   },
