@@ -1,0 +1,79 @@
+{
+  "id_tmdb": 275102,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1S2RIku5ECGN7USdE21Qw6yGuEr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2gtL6lV7SeYA68GtDjTeZpERPPk.png",
+  "titulo": "El escándalo",
+  "titulo_original": "스캔들",
+  "fecha_estreno": "2026-09-18",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.2,
+  "sinopsis": "En Joseon, una propuesta secreta despierta deseos ocultos en una talentosa noble, un famoso seductor y una mujer que queda atrapada en su peligroso juego.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "손예진",
+      "personaje": "Lady Cho",
+      "foto": "https://image.tmdb.org/t/p/w500/i6fASFvO3mUceZJvipn4RiLHA44.jpg"
+    },
+    {
+      "nombre": "지창욱",
+      "personaje": "Cho Won",
+      "foto": "https://image.tmdb.org/t/p/w500/sBmHrO5Tn27Ot5hy0yAKniROmNb.jpg"
+    },
+    {
+      "nombre": "나나",
+      "personaje": "Ahn Hui-yeon",
+      "foto": "https://image.tmdb.org/t/p/w500/zEjVBD734pLcNQrZESkKTNhKl6z.jpg"
+    },
+    {
+      "nombre": "한선화",
+      "personaje": "So-ok's Mom",
+      "foto": "https://image.tmdb.org/t/p/w500/daP8g9eByOuJnnKUROrKwAGU1Yp.jpg"
+    },
+    {
+      "nombre": "신윤하",
+      "personaje": "Lee So-ok",
+      "foto": "https://image.tmdb.org/t/p/w500/9F8XXBvdziId1BwW1EwZbY8hOiB.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "정지우",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "안혜송",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "정지우",
+      "rol": "Director"
+    },
+    {
+      "nombre": "이승영",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Choderlos de Laclos",
+      "rol": "Novel"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": "tt36347588",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=FeISX5E1uJc"
+}
