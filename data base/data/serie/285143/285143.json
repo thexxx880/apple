@@ -1,0 +1,71 @@
+{
+  "id_tmdb": 285143,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jE6xuxwLUojZ2k80rKbv73frWsv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1ROm53Gq1gBSuKfjWZ4oNIB849k.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/eVcsJmcPxYzA7Z5pUXoMdiywKoD.png",
+  "titulo": "Camino al éxito",
+  "titulo_original": "灿如繁星",
+  "fecha_estreno": "2026-07-05",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 6.7,
+  "sinopsis": "Una estudiante de doctorado regresa a su ciudad natal. Debe sacar adelante a un equipo de fútbol, y un entrenador enigmático podría ayudarla.",
+  "pais_origen": "CN",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "虞书欣",
+      "personaje": "Lin Wanxing",
+      "foto": "https://image.tmdb.org/t/p/w500/xQ2Bur9AEy0IX3qHMvLbr7tmTyD.jpg"
+    },
+    {
+      "nombre": "陈靖可",
+      "personaje": "Wang Fa",
+      "foto": "https://image.tmdb.org/t/p/w500/yqGeMSEZVJlxAvh9k6JFo6jhrUT.jpg"
+    },
+    {
+      "nombre": "刘骏",
+      "personaje": "Fu Xinshu",
+      "foto": "https://image.tmdb.org/t/p/w500/4WF8whAGXl9CHeeeWmJ3xTO9hV8.jpg"
+    },
+    {
+      "nombre": "Zhu Boyan",
+      "personaje": "Qin Ao",
+      "foto": "https://image.tmdb.org/t/p/w500/udHQEBMCZRjKJ0kLrjh44WOpdrm.jpg"
+    },
+    {
+      "nombre": "赵鹏皓",
+      "personaje": "Lin Lu",
+      "foto": "https://image.tmdb.org/t/p/w500/wE5BmWXabj0TN4IVDxWehyanfwz.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "李青蓉",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "长洱",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "李青蓉",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": "tt36596650",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": "https://www.youtube.com/watch?v=abAtk97SRRk"
+}
