@@ -1,0 +1,158 @@
+{
+  "id_tmdb": 62764,
+  "poster": "https://image.tmdb.org/t/p/w500/tynDyyRghwHXIuBVXbj3uPlxiQU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iFSO0glqR8wydqaRl9KxQI63xEd.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/tsTSB0MXYBYbDRqTu0p66sNdnNm.png",
+  "titulo": "Espejito espejito",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 5.922,
+  "año": "2012",
+  "duracion": "1h 46min",
+  "edad_minima": 13,
+  "sinopsis": "Nueva versión en clave de comedia del cuento de Blancanieves, esta vez narrado desde el punto de vista de la malvada madrastra. Siete valerosos y rebeldes enanitos ayudarán a Blancanieves a reclamar sus derechos al trono que le pertenece por nacimiento y a conquistar al Príncipe con el que pretende casarse la temible Reina",
+  "fecha_estreno": "2012-03-15",
+  "titulo_original": "Mirror Mirror",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Julia Roberts",
+      "personaje": "Evil Queen",
+      "foto": "https://image.tmdb.org/t/p/w500/fQacAdIa1WUNChQ6FgEko13eqOA.jpg"
+    },
+    {
+      "nombre": "Lily Collins",
+      "personaje": "Snow White",
+      "foto": "https://image.tmdb.org/t/p/w500/5bhcp0CyTdHgfW8x45ZKewDnjMc.jpg"
+    },
+    {
+      "nombre": "Armie Hammer",
+      "personaje": "Prince Andrew Alcott",
+      "foto": "https://image.tmdb.org/t/p/w500/4Z5nLW2biRjqstDMKqSaeQYAesK.jpg"
+    },
+    {
+      "nombre": "Nathan Lane",
+      "personaje": "Brighton",
+      "foto": "https://image.tmdb.org/t/p/w500/jLPp3RoDhwOpLimKj3NhhBofPfT.jpg"
+    },
+    {
+      "nombre": "Mare Winningham",
+      "personaje": "Baker Margaret",
+      "foto": "https://image.tmdb.org/t/p/w500/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+    },
+    {
+      "nombre": "Michael Lerner",
+      "personaje": "Baron",
+      "foto": "https://image.tmdb.org/t/p/w500/1jRm6TRS5atQrA1VQSef7GoL13g.jpg"
+    },
+    {
+      "nombre": "Sean Bean",
+      "personaje": "King",
+      "foto": "https://image.tmdb.org/t/p/w500/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+    },
+    {
+      "nombre": "Joe Gnoffo",
+      "personaje": "Grub",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jason Keller",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Tarsem Singh",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bernie Goldmann",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ken Halsband",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ajit Singh",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nico Soultanakis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan Kavanaugh",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marc Klein",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jacob Grimm",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Wilhelm Grimm",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Jamie Marshall",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Melisa Wallack",
+      "rol": "Screenstory"
+    },
+    {
+      "nombre": "Paul Schnee",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tom Foden",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Nick Moore",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Robert Duffy",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jeff G. Waxman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tommy Turtle",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Pate",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robbie Brenner",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Tarsem Singh",
+  "valoraciones": {
+    "tmdb": 5.922,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Misher Films",
+  "enlace_video": "https://gscdn.cam/video/embed/5gw1lpwt1yjc",
+  "trailer": "https://www.youtube.com/watch?v=s3wLa6sFlIA"
+}
