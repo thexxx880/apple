@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 1592,
+  "poster": "https://image.tmdb.org/t/p/w500/7FEbuIIFrovP7njLjEHXobEq2Z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dZM71rHXh3Oo3WZlw8YpMMsoVB5.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/oZGq72wvENTzVMgEeTzxBU31Oqb.png",
+  "titulo": "La raíz del miedo",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.66,
+  "año": "1996",
+  "duracion": "2h 10min",
+  "edad_minima": 13,
+  "sinopsis": "Martin Vail, un ambicioso abogado de Chicago, es capaz de aceptar cualquier caso con tal de salir en la prensa. Un día decide ocuparse de uno que parece imposible de ganar: la defensa de Aaron, un joven que es acusado del asesinato del arzobispo de Chicago, tras ser detenido mientras huía del escenario del crimen.",
+  "fecha_estreno": "1996-04-03",
+  "titulo_original": "Primal Fear",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Richard Gere",
+      "personaje": "Martin Vail",
+      "foto": "https://image.tmdb.org/t/p/w500/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
+    },
+    {
+      "nombre": "Laura Linney",
+      "personaje": "Janet Venable",
+      "foto": "https://image.tmdb.org/t/p/w500/6I31xZxo9Hq6T0OhSwCUjHd8jkB.jpg"
+    },
+    {
+      "nombre": "Edward Norton",
+      "personaje": "Aaron / Roy Stampler",
+      "foto": "https://image.tmdb.org/t/p/w500/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+    },
+    {
+      "nombre": "John Mahoney",
+      "personaje": "Shaughnessy",
+      "foto": "https://image.tmdb.org/t/p/w500/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+    },
+    {
+      "nombre": "Alfre Woodard",
+      "personaje": "Shoat",
+      "foto": "https://image.tmdb.org/t/p/w500/erXesg092Pi7SHKEK2UHeimPPKf.jpg"
+    },
+    {
+      "nombre": "Frances McDormand",
+      "personaje": "Molly",
+      "foto": "https://image.tmdb.org/t/p/w500/gBkoteKZshmQXEyEoyT6WE7N0tF.jpg"
+    },
+    {
+      "nombre": "Terry O'Quinn",
+      "personaje": "Yancy",
+      "foto": "https://image.tmdb.org/t/p/w500/kSweOGPprLe1vDvu38wJQaWIih7.jpg"
+    },
+    {
+      "nombre": "Andre Braugher",
+      "personaje": "Goodman",
+      "foto": "https://image.tmdb.org/t/p/w500/zdemT9c1U4Muxf7hi0iFq2zHNLd.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Steve Shagan",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ann Biderman",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Gregory Hoblit",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Gary Lucchesi",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "James Newton Howard",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "William Diehl",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Michael Chapman",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "David Rosenbloom",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jane Shannon-Smith",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Denney Pierce",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Lucille OuYang",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Jim Weidman",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Phil Hetos",
+      "rol": "Color Timer"
+    },
+    {
+      "nombre": "Cameron Frankley",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Steve Cantamessa",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Thomas W. Small",
+      "rol": "Foley Editor"
+    }
+  ],
+  "director": "Gregory Hoblit",
+  "valoraciones": {
+    "tmdb": 7.66,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount Pictures",
+  "enlace_video": "https://gscdn.cam/video/embed/jdd46mj6djm5",
+  "trailer": "https://www.youtube.com/watch?v=88d2vXipccA"
+}
