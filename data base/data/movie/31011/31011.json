@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 31011,
+  "poster": "https://image.tmdb.org/t/p/w500/dyV1SZ5tnO3FRUaVHPzD8py6NGW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/y9zcjxEilWr44c4vJbEaLTgE0Uw.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/yZgjTXSy7hL9BUcCqwdOofeASNt.png",
+  "titulo": "Las vidas posibles de Mr. Nobody",
+  "trending": false,
+  "generos": [
+    "Ciencia ficción",
+    "Drama",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.785,
+  "año": "2009",
+  "duracion": "2h 36min",
+  "edad_minima": 13,
+  "sinopsis": "En el año de 2092, Nemo Nobody, que tiene 120 años, es el último ser humano mortal de la Tierra y vive rodeado de hombres que han alcanzado la inmortalidad gracias a increíbles avances científicos. Cuando Nemo se encuentra en su lecho de muerte, recuerda varias posibles existencias y matrimonios que no llegó a vivir.",
+  "fecha_estreno": "2009-11-06",
+  "titulo_original": "Mr. Nobody",
+  "pais_origen": "Belgium",
+  "reparto": [
+    {
+      "nombre": "Jared Leto",
+      "personaje": "Nemo Nobody (Adult / Old)",
+      "foto": "https://image.tmdb.org/t/p/w500/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+    },
+    {
+      "nombre": "Sarah Polley",
+      "personaje": "Adult Elise",
+      "foto": "https://image.tmdb.org/t/p/w500/qcdT6y6QEjaERHPUBC07YGKgR6k.jpg"
+    },
+    {
+      "nombre": "Diane Kruger",
+      "personaje": "Adult Anna",
+      "foto": "https://image.tmdb.org/t/p/w500/o5gVowcjVw4ThYi0L3883Y4X7kH.jpg"
+    },
+    {
+      "nombre": "Linh-Dan Pham",
+      "personaje": "Adult Jean",
+      "foto": "https://image.tmdb.org/t/p/w500/y9EYVSaEgjBZLchxShXa45FTszf.jpg"
+    },
+    {
+      "nombre": "Rhys Ifans",
+      "personaje": "Nemo's Father",
+      "foto": "https://image.tmdb.org/t/p/w500/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg"
+    },
+    {
+      "nombre": "Natasha Little",
+      "personaje": "Nemo's Mother",
+      "foto": "https://image.tmdb.org/t/p/w500/5P27En9Wj8AwaKg5JyU2NJ8i0DI.jpg"
+    },
+    {
+      "nombre": "Toby Regbo",
+      "personaje": "Nemo age 16",
+      "foto": "https://image.tmdb.org/t/p/w500/eRMS6WBEcvJybeDVTIl1hkyFqqI.jpg"
+    },
+    {
+      "nombre": "Juno Temple",
+      "personaje": "Anna age 15",
+      "foto": "https://image.tmdb.org/t/p/w500/vwCjlWQLQWbmcUT2Lwn9G0O8r2.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jaco Van Dormael",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jaco Van Dormael",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Philippe Godeau",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nathalie Leborgne",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Alessija Lause",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Jean Frenette",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Laora Bardos-Feltoronyi",
+      "rol": "Additional Editing"
+    },
+    {
+      "nombre": "Stéphane Thiry",
+      "rol": "Key Grip"
+    },
+    {
+      "nombre": "Olivier Rausin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pierre van Dormael",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Christophe Beaucarne",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Susan Shipton",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Matyas Veress",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Uwe Bünker",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Sylvie Olivé",
+      "rol": "Production Design"
+    }
+  ],
+  "director": "Jaco Van Dormael",
+  "valoraciones": {
+    "tmdb": 7.785,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Pan-Européenne",
+  "enlace_video": "https://morencius.com/embed/oawhvzizvo0s",
+  "trailer": "https://www.youtube.com/watch?v=-GzJ1gA6Mg0"
+}
