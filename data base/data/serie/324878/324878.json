@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 324878,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/dYuOmfjrezDl8Cnfg5G9MwytIK2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fBgTsFnr58CT8FGR3it4KHvTt9X.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/bIt7k08CbAsG6MbEYJ0sxateOTS.png",
+  "titulo": "话事人",
+  "titulo_original": "话事人",
+  "fecha_estreno": "2026-08-30",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Misterio"
+  ],
+  "puntuacion": 0,
+  "sinopsis": "",
+  "pais_origen": "CN",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "何健麒",
+      "personaje": "Shen Yanlin",
+      "foto": "https://image.tmdb.org/t/p/w500/pTrPlkwVv65Pp4war1RPwGfZox1.jpg"
+    },
+    {
+      "nombre": "吳念軒",
+      "personaje": "Ling Che",
+      "foto": "https://image.tmdb.org/t/p/w500/v8BsRtGI3Z0FWubtuK7B4a9IgOw.jpg"
+    },
+    {
+      "nombre": "姜皓文",
+      "personaje": "Shuangdao Hui",
+      "foto": "https://image.tmdb.org/t/p/w500/sy07oaWguC4Q4c45dRkFuRTYld0.jpg"
+    },
+    {
+      "nombre": "唐文龍",
+      "personaje": "Dongshan Tai",
+      "foto": "https://image.tmdb.org/t/p/w500/1oPPOKKrsrSlAIF3nddfeKnQFSs.jpg"
+    },
+    {
+      "nombre": "林敬剛",
+      "personaje": "Fei Liu",
+      "foto": "https://image.tmdb.org/t/p/w500/9tDdqjQv4kEgkfmwC7gwgJhdYZT.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 0,
+    "imdb": "",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas",
+  "trailer": ""
+}
