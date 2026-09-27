@@ -1,0 +1,88 @@
+{
+  "id_tmdb": 1607127,
+  "poster": "https://image.tmdb.org/t/p/w500/eB3hWY62tpjjR8Be8Jl8tQF444A.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6e6Jc7B67xvy6pyOqmsTJx53gse.png",
+  "titulo": "La última bala",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Suspense"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.579,
+  "año": "2026",
+  "duracion": "1h 38min",
+  "edad_minima": 13,
+  "sinopsis": "El veterano Navy SEAL Jake Harris vuelve a la acción cuando un antiguo compañero amenaza al mundo. Para impedir que el cerebro del plan obtenga los códigos nucleares, Harris debe guiar a su equipo a territorio enemigo, enfrentando mercenarios, trampas mortales y su propio pasado turbulento. Con Scott Adkins, Steven Cree, Hannah Ware y Dolph Lundgren.",
+  "fecha_estreno": "2026-09-22",
+  "titulo_original": "One Last Shot",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Scott Adkins",
+      "personaje": "Jake Harris",
+      "foto": "https://image.tmdb.org/t/p/w500/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg"
+    },
+    {
+      "nombre": "Steven Cree",
+      "personaje": "Elliot Carter",
+      "foto": "https://image.tmdb.org/t/p/w500/oH9uSQMJPdFHeVggqvMwheW7nZl.jpg"
+    },
+    {
+      "nombre": "Hannah Ware",
+      "personaje": "Elena Torres",
+      "foto": "https://image.tmdb.org/t/p/w500/vQqZkQsGZnikCk0QfJFW7OBuQ07.jpg"
+    },
+    {
+      "nombre": "Dolph Lundgren",
+      "personaje": "Admiral Mulholland",
+      "foto": "https://image.tmdb.org/t/p/w500/fB1tOws6Gav0xE8LYlELEb82hJt.jpg"
+    },
+    {
+      "nombre": "ケイン・コスギ",
+      "personaje": "Lee",
+      "foto": "https://image.tmdb.org/t/p/w500/wqMaPmNgrtqwZDktG0WFeKcqzJx.jpg"
+    },
+    {
+      "nombre": "Neil Linpow",
+      "personaje": "Long",
+      "foto": "https://image.tmdb.org/t/p/w500/1be5xAB1L4gCdo6cd01pYfSZMc0.jpg"
+    },
+    {
+      "nombre": "Ray Fearon",
+      "personaje": "Robinson",
+      "foto": "https://image.tmdb.org/t/p/w500/ou2cqhqdhfQoKVEBpIh0P3sKZti.jpg"
+    },
+    {
+      "nombre": "Tom Dunne",
+      "personaje": "Greene",
+      "foto": "https://image.tmdb.org/t/p/w500/uxjZmYJ231RwfZsFQI2cksvz2jJ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "James Nunn",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jamie Russell",
+      "rol": "Writer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Emma Gunnery",
+      "rol": "Casting Director"
+    }
+  ],
+  "director": "James Nunn",
+  "valoraciones": {
+    "tmdb": 7.579,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Signature Films",
+  "enlace_video": "https://morencius.com/embed/9y5onfw28b70",
+  "trailer": "https://www.youtube.com/watch?v=8PAy3i9uU0A"
+}
