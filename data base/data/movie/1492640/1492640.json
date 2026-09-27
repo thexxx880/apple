@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 1492640,
+  "poster": "https://image.tmdb.org/t/p/w500/jfYo76IOCphg2fmKX5UJvgcimy4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uzfKF1RAAbKEgQXaSl0x14zAfIN.png",
+  "titulo": "Unabomber",
+  "trending": false,
+  "generos": [
+    "Suspense",
+    "Drama",
+    "Crimen"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.268,
+  "año": "2026",
+  "duracion": "1h 41min",
+  "edad_minima": 13,
+  "sinopsis": "En este drama inspirado en hechos reales, el FBI le da caza a Ted Kaczynski, prodigio de Harvard y víctima de un experimento, que se ha convertido en el Unabomber.",
+  "fecha_estreno": "2026-09-25",
+  "titulo_original": "Unabomber",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Russell Crowe",
+      "personaje": "Henry Murray",
+      "foto": "https://image.tmdb.org/t/p/w500/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg"
+    },
+    {
+      "nombre": "Shailene Woodley",
+      "personaje": "Joanne Miller",
+      "foto": "https://image.tmdb.org/t/p/w500/gL2NvHKW9wAH3qkZuJ76ULUiArB.jpg"
+    },
+    {
+      "nombre": "Jacob Tremblay",
+      "personaje": "Ted Kaczynski",
+      "foto": "https://image.tmdb.org/t/p/w500/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
+    },
+    {
+      "nombre": "Annabelle Wallis",
+      "personaje": "Christiana Morgan",
+      "foto": "https://image.tmdb.org/t/p/w500/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
+    },
+    {
+      "nombre": "Alexander Ludwig",
+      "personaje": "Leo Driver",
+      "foto": "https://image.tmdb.org/t/p/w500/3KpzKT4iGhNivSISQMe6EwpAmCi.jpg"
+    },
+    {
+      "nombre": "Marc Menchaca",
+      "personaje": "Eddie Turrell",
+      "foto": "https://image.tmdb.org/t/p/w500/fL0LmdBwau30M4AFPVJrpLRXXsU.jpg"
+    },
+    {
+      "nombre": "Steven Ogg",
+      "personaje": "Dean Kaplan",
+      "foto": "https://image.tmdb.org/t/p/w500/dorBNAwR8qpB13pe0zd3OkFjqWR.jpg"
+    },
+    {
+      "nombre": "Mark Camacho",
+      "personaje": "Bill Ford",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Janus Metz",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sam Chalsen",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Nelson Greaves",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sophie Cassidy",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sam Chalsen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nelson Greaves",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Yves Bélanger",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Christine Kromer",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Véronique Marchessault",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Zach Staenberg",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Michèle Laliberté",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Marco Beltrami",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Donald J. Lee Jr.",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mathieu Giguère",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Suzanne Cloutier",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Manuelle Savoie",
+      "rol": "Makeup Artist"
+    }
+  ],
+  "director": "Janus Metz",
+  "valoraciones": {
+    "tmdb": 7.268,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "MRC",
+  "enlace_video": "https://morencius.com/embed/p6lkbc1ybra7",
+  "trailer": "https://www.youtube.com/watch?v=B3tR6qQjbgI"
+}
