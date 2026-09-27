@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 293863,
+  "poster": "https://image.tmdb.org/t/p/w500/q8r8UFAmb5qAfz4W7wEXCJoCEBr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wTvDGO0xGMmnScqjuiDeWU7PkcB.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/xAJNZwJXcst8Caqw0m49pEVn7po.png",
+  "titulo": "El secreto de Adaline",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Fantasía",
+    "Drama"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.466,
+  "año": "2015",
+  "duracion": "1h 52min",
+  "edad_minima": 13,
+  "sinopsis": "Adaline Bowman, nacida a comienzos del siglo XX, adquiere a los 29 años la eterna juventud tras un accidente. Tras años de vida solitaria y permanecer con la misma edad durante 8 décadas, conoce a Ellis Jones, un hombre por el que podría merecer la pena perder la inmortalidad.",
+  "fecha_estreno": "2015-04-16",
+  "titulo_original": "The Age of Adaline",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Blake Lively",
+      "personaje": "Adaline Bowman",
+      "foto": "https://image.tmdb.org/t/p/w500/rkGVjd6wImtgjOCi0IpeffdEWtb.jpg"
+    },
+    {
+      "nombre": "Michiel Huisman",
+      "personaje": "Ellis Jones",
+      "foto": "https://image.tmdb.org/t/p/w500/4QQp2HIrBubKSBZpSWLzI21fNzA.jpg"
+    },
+    {
+      "nombre": "Harrison Ford",
+      "personaje": "William Jones",
+      "foto": "https://image.tmdb.org/t/p/w500/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+    },
+    {
+      "nombre": "Ellen Burstyn",
+      "personaje": "Flemming",
+      "foto": "https://image.tmdb.org/t/p/w500/zGihSIVRzwmCqilnA4PmNM4C2RT.jpg"
+    },
+    {
+      "nombre": "Kathy Baker",
+      "personaje": "Kathy Jones",
+      "foto": "https://image.tmdb.org/t/p/w500/34zuI0qWTD5jdqmJRtPwaW70JcQ.jpg"
+    },
+    {
+      "nombre": "Amanda Crew",
+      "personaje": "Kikki Jones",
+      "foto": "https://image.tmdb.org/t/p/w500/diGTfFDOAjtfpClK3pJHkQIYhNc.jpg"
+    },
+    {
+      "nombre": "Lynda Boyd",
+      "personaje": "Regan",
+      "foto": "https://image.tmdb.org/t/p/w500/5mPaot3TlnlZBzf9VY0fBYWuJgm.jpg"
+    },
+    {
+      "nombre": "Hugh Ross",
+      "personaje": "Narrator",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Lee Toland Krieger",
+      "rol": "Director"
+    },
+    {
+      "nombre": "J. Mills Goodloe",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Salvador Paskowitz",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Salvador Paskowitz",
+      "rol": "Story"
+    },
+    {
+      "nombre": "J. Mills Goodloe",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sidney Kimmel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tom Rosenberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gary Lucchesi",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Lemmers",
+      "rol": "Rigging Grip"
+    },
+    {
+      "nombre": "Janene Carleton",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Owen Walstrom",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Rob Simonsen",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Angus Strathie",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Shannon Gottlieb",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Melissa Kent",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Laura Lee Connery",
+      "rol": "Stunt Driver"
+    },
+    {
+      "nombre": "Brennan Walstrom",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Kye Walstrom",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Paul Wu",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Scott J. Ateah",
+      "rol": "Stunt Coordinator"
+    }
+  ],
+  "director": "Lee Toland Krieger",
+  "valoraciones": {
+    "tmdb": 7.466,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lakeshore Entertainment",
+  "enlace_video": "https://gscdn.cam/video/embed/yfqshprt5c3d",
+  "trailer": "https://www.youtube.com/watch?v=7UzSekc0LoQ"
+}
