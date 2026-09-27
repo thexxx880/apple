@@ -1,0 +1,131 @@
+{
+  "id_tmdb": 25518,
+  "poster": "https://image.tmdb.org/t/p/w500/u0ZVgBytioRfcNHXIFVhAPWZNCG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/a1ng6McskX9Qg8SJNE98zywG4ki.jpg",
+  "logo": null,
+  "titulo": "La Belle Verte",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.182,
+  "año": "1996",
+  "duracion": "1h 39min",
+  "edad_minima": 13,
+  "sinopsis": "Año 6000: en un desarrollado planeta donde la gente vive 250 años nadie quiere ir de viaje a la Tierra.",
+  "fecha_estreno": "1996-09-18",
+  "titulo_original": "La Belle Verte",
+  "pais_origen": "France",
+  "reparto": [
+    {
+      "nombre": "Coline Serreau",
+      "personaje": "Mila",
+      "foto": "https://image.tmdb.org/t/p/w500/qHGyprOAsbX1q5Ym6Jad0haBuuu.jpg"
+    },
+    {
+      "nombre": "Vincent Lindon",
+      "personaje": "Max",
+      "foto": "https://image.tmdb.org/t/p/w500/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg"
+    },
+    {
+      "nombre": "James Thierrée",
+      "personaje": "Mesaje",
+      "foto": "https://image.tmdb.org/t/p/w500/reqkGvYZFwhhKtbZ5h6ODN9WTU3.jpg"
+    },
+    {
+      "nombre": "Marion Cotillard",
+      "personaje": "Macha",
+      "foto": "https://image.tmdb.org/t/p/w500/biitzOF0GffIqFYLyOPkoiaOngQ.jpg"
+    },
+    {
+      "nombre": "Claire Keim",
+      "personaje": "Sonia",
+      "foto": "https://image.tmdb.org/t/p/w500/bhqqJPx08TlVan569Oz4qpeWn7z.jpg"
+    },
+    {
+      "nombre": "Samuel Tasinaje",
+      "personaje": "Mesaul",
+      "foto": "https://image.tmdb.org/t/p/w500/Klo5ZzCQRgfsCycqr9ZY3Nv7Vr.jpg"
+    },
+    {
+      "nombre": "Catherine Samie",
+      "personaje": "La femme sage",
+      "foto": "https://image.tmdb.org/t/p/w500/7lGnDMpBPkP8i7gqoG3pcWoKX3X.jpg"
+    },
+    {
+      "nombre": "Paul Crauchet",
+      "personaje": "Osam",
+      "foto": "https://image.tmdb.org/t/p/w500/sEf90lQocXbTDjFrqwWwTibn2ab.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Coline Serreau",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Coline Serreau",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alain Sarde",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Coline Serreau",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Robert Alazraki",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Catherine Renault",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Guy-Claude François",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Karen Muller Serreau",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Vesna Peborde",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Jean-Christophe Roger",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Nathalie Tissier",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Jonathan Liebling",
+      "rol": "Foley Artist"
+    },
+    {
+      "nombre": "Pierre Molin",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Guillaume Sciama",
+      "rol": "Sound Mixer"
+    }
+  ],
+  "director": "Coline Serreau",
+  "valoraciones": {
+    "tmdb": 7.182,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Les Films Alain Sarde",
+  "enlace_video": "https://powwideo.org/embed-3x85h0dtd9d4-920x360.html",
+  "trailer": "https://www.youtube.com/watch?v=xB1HHt-gfa8"
+}
