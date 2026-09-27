@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 11230,
+  "poster": "https://image.tmdb.org/t/p/w500/wszKyngvXqBp5trBSUkllHQenpW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oxQJT3CCwxRRDgnPUZvT6xmts61.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/lPNQJSWej65h1zEJhvGik7xuAVV.png",
+  "titulo": "El Maestro Borracho",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.394,
+  "año": "1978",
+  "duracion": "1h 51min",
+  "edad_minima": 13,
+  "sinopsis": "La trama se centra en un joven y travieso Wong Fei Hung (a veces denominado como \"Freddie Wong\"). Wong se mete en una serie de problemas. En primer lugar, le enseña un abusivo maestro asistente de artes marciales una lección después que este humillara a un pobre campesino y lo estafara. Después, molesta a una mujer para impresionar a sus amigos y sólidamente es azotado por su tutora mayor como resultado; su vergüenza se agrava cuando estas dos se revelan más tarde como su tía y su prima de visita, a quienes no había conocido antes. Por último, él vence a un gamberro que es el hijo de un hombre influyente en la ciudad. Su padre decide castigarlo por su comportamiento haciéndolo a entrenar más difícil en las artes marciales.",
+  "fecha_estreno": "1978-10-05",
+  "titulo_original": "醉拳",
+  "pais_origen": "Hong Kong",
+  "reparto": [
+    {
+      "nombre": "Jackie Chan",
+      "personaje": "Wong Fei-hung",
+      "foto": "https://image.tmdb.org/t/p/w500/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "nombre": "袁小田",
+      "personaje": "Beggar So",
+      "foto": "https://image.tmdb.org/t/p/w500/qFtXiQQlgDYkHodlfkjTf8vSO9l.jpg"
+    },
+    {
+      "nombre": "황정리",
+      "personaje": "Thunderleg Yen Tieh-hsin",
+      "foto": "https://image.tmdb.org/t/p/w500/wlLkdDWBj7KeAVzc7byDAqOR9ok.jpg"
+    },
+    {
+      "nombre": "石天",
+      "personaje": "Kai Hsin",
+      "foto": "https://image.tmdb.org/t/p/w500/f8u4H51lZl3xzbREHepikjXsZu0.jpg"
+    },
+    {
+      "nombre": "徐蝦",
+      "personaje": "King of Sticks Hsu Ching-tien",
+      "foto": "https://image.tmdb.org/t/p/w500/5vWxf1UQAoTwyOW89usriVdKoRz.jpg"
+    },
+    {
+      "nombre": "Linda Lin Ying",
+      "personaje": "Fei-hung's Aunt",
+      "foto": "https://image.tmdb.org/t/p/w500/nKr27dJ9p8CN9l4NRoLV7Tg4Lih.jpg"
+    },
+    {
+      "nombre": "Lam Kau",
+      "personaje": "Wong Kei-ying",
+      "foto": "https://image.tmdb.org/t/p/w500/7P4smSKH60iAvfFI9Xg6Eu6m9mL.jpg"
+    },
+    {
+      "nombre": "李超俊",
+      "personaje": "Kei-ying's Student",
+      "foto": "https://image.tmdb.org/t/p/w500/qbAZOx3pcUDRueRxrw5mIZ0rr9s.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "袁和平",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ng See-Yuen",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "蕭龍",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ng See-Yuen",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "張海",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "潘雄",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Jonathan Ting Yuen-Tai",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "蕭龍",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Norman Law Man",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Hoh Tin-Shing",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Lin Wei",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Kung Chuan-Kai",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Ko Siu-Ping",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "盧瑞蓮",
+      "rol": "Costumer"
+    },
+    {
+      "nombre": "Pau Kwok-Lan",
+      "rol": "Costumer"
+    },
+    {
+      "nombre": "袁和平",
+      "rol": "Martial Arts Choreographer"
+    }
+  ],
+  "director": "袁和平",
+  "valoraciones": {
+    "tmdb": 7.394,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Seasonal Film Corporation",
+  "enlace_video": "https://rumble.com/hls-vod/6y5tee/playlist.m3u8?u=0&b=0",
+  "trailer": "https://www.youtube.com/watch?v=WSu-9X8NF9k"
+}
