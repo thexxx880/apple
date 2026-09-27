@@ -1,0 +1,146 @@
+{
+  "id_tmdb": 124396,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6sJ7FCtxzrNfgM70s2d7VS0Xjdm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rgmBS8zkk6RrGUOdWqzZs8hjZer.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/68AWgEgN3uQ3JA3ClzhcowMJGTK.png",
+  "titulo": "Sonny Boy",
+  "titulo_original": "Sonny Boy",
+  "fecha_estreno": "2021-07-16",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama",
+    "Misterio",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.4,
+  "sinopsis": "Son unas vacaciones de verano ordinarias... excepto por el hecho de que el instituto de Nagara se ha trasladado a otra dimensión y sus compañeros están desarrollando poderes.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "市川蒼",
+      "personaje": "Nagara",
+      "foto": "https://image.tmdb.org/t/p/w500/tM1PwSZlOT23ia4PDKkGHJVBd0T.jpg"
+    },
+    {
+      "nombre": "悠木碧",
+      "personaje": "Mizuho",
+      "foto": "https://image.tmdb.org/t/p/w500/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
+    },
+    {
+      "nombre": "大西沙織",
+      "personaje": "Nozomi",
+      "foto": "https://image.tmdb.org/t/p/w500/cziKB19QMFJ6DQDtxTn07uRY2hq.jpg"
+    },
+    {
+      "nombre": "小林千晃",
+      "personaje": "Asakaze",
+      "foto": "https://image.tmdb.org/t/p/w500/o0XZFXc50z28ICUpvfZ1QcTL2Yt.jpg"
+    },
+    {
+      "nombre": "後藤ヒロキ",
+      "personaje": "Rajdhani",
+      "foto": "https://image.tmdb.org/t/p/w500/fyIJd22ZWwA1lroxl7yF83xTgUY.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "菊地実郎",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "石川吉元",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "Hiroshi Kirinaga",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "中西洋文",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "野村佳奈",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "田口亜有理",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "藤野真里",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "伏原あかね",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "久貝典史",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "夏目真悟",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "Ging Nang Boyz",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "江口寿史",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "はたしょう二",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "toe",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "VIDEOTAPEMUSIC",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Kaneyorimasaru",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Mid-Air Thief",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "橋本賢",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "木村佳史子",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sunset Rollercoaster",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Ogawa & Tokoro",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": "tt14642342",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=k20G56e3OvM"
+}
