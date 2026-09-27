@@ -1,0 +1,141 @@
+{
+  "id_tmdb": 1240889,
+  "poster": "https://image.tmdb.org/t/p/w500/uE1V9hrbOHXvTyiYBJkQeJ3twQk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/j1BDzJB4P71ATrX57AroNypqFXZ.png",
+  "titulo": "Adolescencia, Sexo y Muerte en Campamento Miasma",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Terror",
+    "Romance"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.342,
+  "año": "2026",
+  "duracion": "1h 46min",
+  "edad_minima": 13,
+  "sinopsis": "Tras años de secuelas chapuceras y una base de fans en declive, la franquicia de terror Camp Miasma se entrega a una joven y entusiasta directora para su resurrección. Pero cuando visita a la protagonista de la original, una actriz ahora recluida y envuelta en misterio, ambas mujeres se ven inmersas en un mundo sangriento de deseo, miedo y delirio.",
+  "fecha_estreno": "2026-08-06",
+  "titulo_original": "Teenage Sex and Death at Camp Miasma",
+  "pais_origen": "United Kingdom",
+  "reparto": [
+    {
+      "nombre": "Hannah Einbinder",
+      "personaje": "Kris",
+      "foto": "https://image.tmdb.org/t/p/w500/iWMeyJAghUYP3zxmOxzcYLU5G8Z.jpg"
+    },
+    {
+      "nombre": "Gillian Anderson",
+      "personaje": "Billy",
+      "foto": "https://image.tmdb.org/t/p/w500/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg"
+    },
+    {
+      "nombre": "Amanda Fix",
+      "personaje": "Young Billy",
+      "foto": "https://image.tmdb.org/t/p/w500/ju3aa2yJL4h5msWcbEryh7cjXOt.jpg"
+    },
+    {
+      "nombre": "Arthur Conti",
+      "personaje": "Alex",
+      "foto": "https://image.tmdb.org/t/p/w500/pnO8qBwvLJfN54UaKsy0QQlAc8u.jpg"
+    },
+    {
+      "nombre": "Eva Victor",
+      "personaje": "DJ Ella Giastic",
+      "foto": "https://image.tmdb.org/t/p/w500/nlEirkGOQPVUVgNzIqEJysnt70q.jpg"
+    },
+    {
+      "nombre": "Zach Cherry",
+      "personaje": "Will",
+      "foto": "https://image.tmdb.org/t/p/w500/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+    },
+    {
+      "nombre": "Sarah Sherman",
+      "personaje": "Kris' Agent",
+      "foto": "https://image.tmdb.org/t/p/w500/sPLNz5GGee26tZDFv4eZeyVng6d.jpg"
+    },
+    {
+      "nombre": "Patrick Fischler",
+      "personaje": "Rudolph",
+      "foto": "https://image.tmdb.org/t/p/w500/vVj7GjHL9hOilbKwViXZpnUlbcQ.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Jane Schoenbrun",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jane Schoenbrun",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jeremy Kleiner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dede Gardner",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Eric K. Yue",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Amanda Drake",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Jacqueline Nguyen",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Yale Kussin",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Courtney Bright",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Nicole Daniels",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Daniel Bekerman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kendra Terpenning",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Jacqui Kaese",
+      "rol": "Background Casting Director"
+    },
+    {
+      "nombre": "Jennifer Brooks",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Brandon Tonner-Connolly",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Daniel L. Goldenberg",
+      "rol": "Legal Services"
+    }
+  ],
+  "director": "Jane Schoenbrun",
+  "valoraciones": {
+    "tmdb": 6.342,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "MUBI",
+  "enlace_video": "https://voe.sx/e/viqk05hbokmv",
+  "trailer": "https://www.youtube.com/watch?v=j9TsiTgYZGw"
+}
