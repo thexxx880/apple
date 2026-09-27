@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 85937,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/inXU5hvbDbitrYOgLrq2QjYqiJD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3GQKYh6Trm8pxd2AypovoYQf4Ay.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rMSl6ed3QBhgaK1ZubRnarPRS6G.svg",
+  "titulo": "Demon Slayer: Kimetsu no Yaiba",
+  "titulo_original": "鬼滅の刃",
+  "fecha_estreno": "2019-04-06",
+  "duracion": "24min",
+  "año": "2019",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.6,
+  "sinopsis": "En la era Taisho de Japón, Tanjiro, un joven vendedor de carbón, descubre que su familia ha sido asesinada por un demonio. Su hermana Nezuko, la única superviviente, se ha convertido en demonio. Tanjiro decide convertirse en cazador de demonios para devolver a su hermana a la normalidad y vengar a su familia",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "花江夏樹",
+      "personaje": "Tanjirō Kamado (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+    },
+    {
+      "nombre": "鬼頭明里",
+      "personaje": "Nezuko Kamado (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AoRQOZRC0yINB0WeKnM569rV1wF.jpg"
+    },
+    {
+      "nombre": "下野紘",
+      "personaje": "Zenitsu Agatsuma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
+    },
+    {
+      "nombre": "松岡禎丞",
+      "personaje": "Inosuke Hashibira (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "正木美有",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "村上真麻",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "神宮司学",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "高橋祐馬",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "藤尾明史",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "三宅将典",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "正木美有",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "谷賢吾",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "松本秋乃",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "岡部直紀",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "村上真麻",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "衛藤功二",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "神宮司学",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "樺澤侑里",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "矢中勝",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "赤澤勇二",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "納谷僚介",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "髙橋由里",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "吾峠呼世晴",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "椎名豪",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "梶浦由記",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.6,
+    "imdb": "tt9335498",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=SWAMTXfqer0"
+}
