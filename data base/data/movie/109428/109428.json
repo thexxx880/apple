@@ -1,0 +1,151 @@
+{
+  "id_tmdb": 109428,
+  "poster": "https://image.tmdb.org/t/p/w500/w0BrfbkdKReQsyilSpZtjEE9ZQ5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6RDgtEBzjuF7W25DVziXRABchpX.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/itFXsJauhYF5HOJBYaxZwO0kJU1.png",
+  "titulo": "Posesión Infernal",
+  "trending": false,
+  "generos": [
+    "Terror"
+  ],
+  "calificacion": "C",
+  "puntuacion": 6.667,
+  "año": "2013",
+  "duracion": "1h 31min",
+  "edad_minima": 13,
+  "sinopsis": "En un intento de dejar su adicción a las drogas, Mia le pide a su hermano David, a su novia Natalie y a sus amigos Olivia y Eric que la acompañen a la remota cabaña familiar en el bosque para ayudarla a superar la abstinencia. Eric encuentra un misterioso Libro de los Muertos en la cabaña y, al leerlo en voz alta, despierta a un antiguo demonio.",
+  "fecha_estreno": "2013-04-05",
+  "titulo_original": "Evil Dead",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jane Levy",
+      "personaje": "Mia",
+      "foto": "https://image.tmdb.org/t/p/w500/iYyWPOOpZgAqZK6IddSaD4R9QW3.jpg"
+    },
+    {
+      "nombre": "Shiloh Fernandez",
+      "personaje": "David",
+      "foto": "https://image.tmdb.org/t/p/w500/ug0p4QtE1Am7JySNClm7u8iISOB.jpg"
+    },
+    {
+      "nombre": "Lou Taylor Pucci",
+      "personaje": "Eric",
+      "foto": "https://image.tmdb.org/t/p/w500/25lfbMJruSG5Kmv1zdKfMyrZWB9.jpg"
+    },
+    {
+      "nombre": "Jessica Lucas",
+      "personaje": "Olivia",
+      "foto": "https://image.tmdb.org/t/p/w500/nYS2J93VapM1GW5UdqMFqCxVMUv.jpg"
+    },
+    {
+      "nombre": "Elizabeth Blackmore",
+      "personaje": "Natalie",
+      "foto": "https://image.tmdb.org/t/p/w500/8IFEnd9hBbrQOleqTvjyuTlfQXu.jpg"
+    },
+    {
+      "nombre": "Phoenix Connolly",
+      "personaje": "Teenager",
+      "foto": "https://image.tmdb.org/t/p/w500/AhFDKJwF1J6QLbemYfNLrDps26p.jpg"
+    },
+    {
+      "nombre": "Jim McLarty",
+      "personaje": "Harold",
+      "foto": "https://image.tmdb.org/t/p/w500/jKct2L7VLmUVaj8T506j8IigtiJ.jpg"
+    },
+    {
+      "nombre": "Sian Davis",
+      "personaje": "Old Woman",
+      "foto": "https://image.tmdb.org/t/p/w500/jXBUr6HKIZpaD0cHV5JrF1zsfV.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bruce Campbell",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fede Álvarez",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Fede Álvarez",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Rodo Sayagues",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sam Raimi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Robert Tapert",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sally Campbell",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Aaron Morton",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Peter Schlessel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bryan Shaw",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Robert Gillies",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Joseph Drake",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Voon",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Nathan Kahane",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Roque Baños",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Mandy Sherman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jonathan Wales",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Roger Murray",
+      "rol": "Animatronic and Prosthetic Effects"
+    },
+    {
+      "nombre": "Chris Diebold",
+      "rol": "Sound Effects Editor"
+    }
+  ],
+  "director": "Fede Álvarez",
+  "valoraciones": {
+    "tmdb": 6.667,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "TriStar Pictures",
+  "enlace_video": "https://voe.sx/e/ifsifqwxfn61",
+  "trailer": "https://www.youtube.com/watch?v=6BLOCqUIWGg"
+}
