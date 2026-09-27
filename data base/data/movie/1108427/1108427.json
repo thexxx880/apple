@@ -1,8 +1,8 @@
 {
   "id_tmdb": 1108427,
-  "poster": "https://image.tmdb.org/t/p/w500/u8dLlf3JJlm7ryElxy3OYi7bWz1.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
-  "logo": "https://image.tmdb.org/t/p/w300/mNRwQCJMmDUjBZaZcqhwy6WTBA7.png",
+  "poster": "https://image.tmdb.org/t/p/w500/6WWJiE7Dwj63H122IOG2htJsCGP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/ql3fKqsD2DIMLhZe29T9AxnQpTx.png",
   "titulo": "Moana",
   "trending": false,
   "generos": [
@@ -12,7 +12,7 @@
     "Aventura"
   ],
   "calificacion": "A",
-  "puntuacion": 5.6,
+  "puntuacion": 7.405,
   "año": "2026",
   "duracion": "1h 55min",
   "edad_minima": 13,
@@ -32,6 +32,11 @@
       "foto": "https://image.tmdb.org/t/p/w500/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
     },
     {
+      "nombre": "Rena Owen",
+      "personaje": "Gramma Tala",
+      "foto": "https://image.tmdb.org/t/p/w500/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg"
+    },
+    {
       "nombre": "John Tui",
       "personaje": "Chief Tui",
       "foto": "https://image.tmdb.org/t/p/w500/2jIc9M5kl2GmK8fZtbtUr2s1jkS.jpg"
@@ -42,24 +47,19 @@
       "foto": "https://image.tmdb.org/t/p/w500/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
     },
     {
-      "nombre": "Rena Owen",
-      "personaje": "Gramma Tala",
-      "foto": "https://image.tmdb.org/t/p/w500/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg"
-    },
-    {
       "nombre": "Jemaine Clement",
       "personaje": "Tamatoa (voice)",
       "foto": "https://image.tmdb.org/t/p/w500/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
     },
     {
-      "nombre": "Amaya Masoli",
-      "personaje": "Moana (8 years old)",
-      "foto": null
-    },
-    {
       "nombre": "Emma Puahi-Shapazian",
       "personaje": "Moana (4 years old)",
-      "foto": null
+      "foto": "https://image.tmdb.org/t/p/w500/iFHiH7MAJja89Grgu47AdvsPhEU.jpg"
+    },
+    {
+      "nombre": "Amaya Masoli",
+      "personaje": "Moana (8 years old)",
+      "foto": "https://image.tmdb.org/t/p/w500/fDqCryVbJGSb6CPLCIxmfbN8wsV.jpg"
     }
   ],
   "equipo_creativo": [
@@ -148,11 +148,11 @@
   ],
   "director": "Thomas Kail",
   "valoraciones": {
-    "tmdb": 5.6,
+    "tmdb": 7.405,
     "imdb": null,
     "rotten_tomatoes": null
   },
   "distribuidora": "Walt Disney Pictures",
-  "enlace_video": "https://1a-1791.com/video/fwe2/7b/s8/2/W/K/a/F/WKaFA.aaa.mp4",
+  "enlace_video": "https://scdn.cam/iframe/a4dfdbacff3b1f6952ef4e818a439288?token=5d10c26750cad1bea5b42d899168094c",
   "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI"
 }
