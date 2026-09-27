@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 1032863,
+  "poster": "https://image.tmdb.org/t/p/w500/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/oZmd0fSmGcDsKubkdyOkbonYyAN.png",
+  "titulo": "La hipótesis del amor",
+  "trending": false,
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.265,
+  "año": "2026",
+  "duracion": "1h 52min",
+  "edad_minima": 13,
+  "sinopsis": "Basada en el éxito del New York Times, La hipótesis del amor sigue a Olive, una estudiante de doctorado que besa por impulso al profesor más intimidante del departamento, Adam Carlsen. Ambos necesitan fingir que están en una relación y comienzan un experimento de química que podría resultar en amor.",
+  "fecha_estreno": "2026-09-23",
+  "titulo_original": "The Love Hypothesis",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Lili Reinhart",
+      "personaje": "Olive Smith",
+      "foto": "https://image.tmdb.org/t/p/w500/sJcuQAJdIv3mnh9M9p5sQWhWSRN.jpg"
+    },
+    {
+      "nombre": "Tom Bateman",
+      "personaje": "Dr. Adam Carlsen",
+      "foto": "https://image.tmdb.org/t/p/w500/6elQzmY4EJHlLvHsaeoeo2dXOQ1.jpg"
+    },
+    {
+      "nombre": "Rachel Marsh",
+      "personaje": "Anh Pham",
+      "foto": "https://image.tmdb.org/t/p/w500/6R0pDuQuSf4CEtZHCRnZkqc2EAN.jpg"
+    },
+    {
+      "nombre": "Jaboukie Young-White",
+      "personaje": "Malcolm Browne",
+      "foto": "https://image.tmdb.org/t/p/w500/8OYI8OqsMUpBZica4lM2odjgVH6.jpg"
+    },
+    {
+      "nombre": "Nicholas Duvernay",
+      "personaje": "Jeremy Langley",
+      "foto": "https://image.tmdb.org/t/p/w500/4uwcWYbXxrxyhJbCPXshTQXQQKi.jpg"
+    },
+    {
+      "nombre": "Arty Froushan",
+      "personaje": "Dr. Tom Benton",
+      "foto": "https://image.tmdb.org/t/p/w500/zYNvzONSgyfnC4efHXh6zcrVj4d.jpg"
+    },
+    {
+      "nombre": "Jeananne Goossen",
+      "personaje": "Dr. Juliet Aslan",
+      "foto": "https://image.tmdb.org/t/p/w500/akdvZgJskCELeQLvrzNm2EphueO.jpg"
+    },
+    {
+      "nombre": "Aladeen Tawfeek",
+      "personaje": "Dr. Eugene Fastuca",
+      "foto": "https://image.tmdb.org/t/p/w500/eLTYiIZagtV006aSyem5SrpifgE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Elizabeth Cantillon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Claire Scanlon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sarah Rothschild",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ali Hazelwood",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Lili Reinhart",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Catherine Hagedorn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ali Hazelwood",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Laura Karpman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tia Nolan",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Matthew Clark",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Meredith Tucker",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Betsy Fippinger",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Julia Michels",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Myriam Hanahem",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Kim Boritz-Brehm",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Claire Scanlon",
+  "valoraciones": {
+    "tmdb": 8.265,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "MRC",
+  "enlace_video": "https://morencius.com/embed/5ac48udj95sr",
+  "trailer": "https://www.youtube.com/watch?v=xwdamnfS6IM"
+}
