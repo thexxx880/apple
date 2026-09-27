@@ -1,16 +1,15 @@
 {
   "id_tmdb": 1212763,
-  "poster": "https://image.tmdb.org/t/p/w500/vISNa1ghgLGzuS2NRBnw4qENp4r.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
-  "logo": "https://image.tmdb.org/t/p/w300/amg20eTtFmSFU53hVWtpIHTzbGP.png",
+  "poster": "https://image.tmdb.org/t/p/w500/p6Fe34oDVmyE4LYp6sRQr8lZ45N.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/qbiBqbsJwaTGX4EcFwbLYYhbvLV.png",
   "titulo": "Evil Dead: En llamas",
   "trending": false,
   "generos": [
-    "Terror",
-    "Suspense"
+    "Terror"
   ],
   "calificacion": "C",
-  "puntuacion": 6.8,
+  "puntuacion": 7.677,
   "año": "2026",
   "duracion": "2h 0min",
   "edad_minima": 13,
@@ -22,17 +21,17 @@
     {
       "nombre": "Souheila Yacoub",
       "personaje": "Alice",
-      "foto": "https://image.tmdb.org/t/p/w500/ljuwA97evcoadIE7VlV1AXpKi1j.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/A233BHgXw0dzbeOpvHfJwL9gLy1.jpg"
     },
     {
       "nombre": "Tandi Wright",
       "personaje": "Susan",
-      "foto": "https://image.tmdb.org/t/p/w500/zluVB3mzZVlv8D013OgeQLhzNEw.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/xLQ9j4pJ46HZhs5jMJ87w9zjv82.jpg"
     },
     {
       "nombre": "Hunter Doohan",
       "personaje": "Joseph",
-      "foto": "https://image.tmdb.org/t/p/w500/uLZmUQknSsImU6dG03F6EeXhE4g.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/ihno5ut6ha8TaubQFgl5Ozco2K1.jpg"
     },
     {
       "nombre": "Luciane Buchanan",
@@ -55,9 +54,9 @@
       "foto": "https://image.tmdb.org/t/p/w500/lF86e5h2iMS8IaIuExv1p81mi7R.jpg"
     },
     {
-      "nombre": "Victory Ndukwe",
-      "personaje": "Leo",
-      "foto": "https://image.tmdb.org/t/p/w500/fAIXv88uXtJp1dH5qoMpsZxn8w1.jpg"
+      "nombre": "Greta van den Brink",
+      "personaje": "Jessica",
+      "foto": "https://image.tmdb.org/t/p/w500/zNbO8MewghJ6NHB1crFDlHPwMju.jpg"
     }
   ],
   "equipo_creativo": [
@@ -134,7 +133,7 @@
   ],
   "director": "Sébastien Vaniček",
   "valoraciones": {
-    "tmdb": 6.8,
+    "tmdb": 7.677,
     "imdb": null,
     "rotten_tomatoes": null
   },
