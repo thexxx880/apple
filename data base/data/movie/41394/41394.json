@@ -1,0 +1,152 @@
+{
+  "id_tmdb": 41394,
+  "poster": "https://image.tmdb.org/t/p/w500/diZ9WRGXDZXQBDaCZyEROGEPI1b.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nGYx6cCKsx8ZR31DUIncHxKemj4.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mEHyxtzRZ1S60wT75VWUHDJs45C.png",
+  "titulo": "Looney, Looney, Looney: La película de Bugs Bunny",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 7.3,
+  "año": "1981",
+  "duracion": "1h 20min",
+  "edad_minima": 13,
+  "sinopsis": "Bugs Bunny presenta un programa de premios con varios cortos clásicos de Looney Toon.",
+  "fecha_estreno": "1981-11-20",
+  "titulo_original": "The Looney, Looney, Looney Bugs Bunny Movie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mel Blanc",
+      "personaje": "Bugs Bunny / King Arthur / Sir Osis of Liver / Sir Loin of Beef / Yosemite Sam / Gerry the Idgit Dragon / Daffy Duck / Sylvester / Tweety Pie / Porky Pig / Speedy Gonzales / Treasury Director / Rocky / Mugsy / Judge / Clancy / O'Hara / Cops / Pepe Le Pew / Clarence (B.A. Bird) (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8fevv4K06TmHsYom2XfmxgKrTcd.jpg"
+    },
+    {
+      "nombre": "June Foray",
+      "personaje": "Granny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6s5sWcOPGtVdbMFtZwkWadArj2I.jpg"
+    },
+    {
+      "nombre": "Frank Nelson",
+      "personaje": "Satan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Y502lsoqL9V9CnLpnU8gnZaHBY.jpg"
+    },
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Reporter Dog / Lawyer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Stan Freberg",
+      "personaje": "Singing Narrator / Big Bad Wolf / Three Little Pigs (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/msFe4Y7ud9k3DgcCmlXL0EZH6nR.jpg"
+    },
+    {
+      "nombre": "Ralph James",
+      "personaje": "Narrator (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Bea Benaderet",
+      "personaje": "Granny (voice) (archive sound) (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/vZUkEcLV1K0xxL0OdcppQkXIKQD.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Friz Freleng",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tedd Pierce",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Friz Freleng",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Hal Geer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John W. Dunn",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Friz Freleng",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Warren Foster",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Jean MacCurdy",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Milt Franklyn",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Shorty Rogers",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Robert J. Walsh",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Don McGinnis",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Carl W. Stalling",
+      "rol": "Music"
+    },
+    {
+      "nombre": "William Lava",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Treg Brown",
+      "rol": "Editorial Staff"
+    },
+    {
+      "nombre": "Jim Graziano",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "Thomas Baker",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "Marlene New",
+      "rol": "Negative Cutter"
+    },
+    {
+      "nombre": "Corny Cole",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jim Champin",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Friz Freleng",
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://ok.ru/video/12000462047868",
+  "trailer": "https://www.youtube.com/watch?v=z5KN9m6MOw8"
+}
