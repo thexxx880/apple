@@ -1,0 +1,132 @@
+{
+  "id_tmdb": 71797,
+  "poster": "https://image.tmdb.org/t/p/w500/p4XJ7enIbcAKtkeq4LkVf3iOoMt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vSI3hGfjyBmwkd2CACK5rhL5l7C.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/mqJS0HrfjPDPOrAC9gKGC7sU1ku.png",
+  "titulo": "Kung Fu Magoo",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 4.9,
+  "año": "2010",
+  "duracion": "1h 19min",
+  "edad_minima": 13,
+  "sinopsis": "",
+  "fecha_estreno": "2010-05-11",
+  "titulo_original": "Kung Fu Magoo",
+  "pais_origen": "Mexico",
+  "reparto": [
+    {
+      "nombre": "Jim Conroy",
+      "personaje": "Quincy Magoo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5oYIYDSCpmpI7SUcvYV8dDL6qOi.jpg"
+    },
+    {
+      "nombre": "Dylan Sprouse",
+      "personaje": "Justin Magoo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zy7ueLZtJwiRFdYkDlzjQhbA6SW.jpg"
+    },
+    {
+      "nombre": "Cole Sprouse",
+      "personaje": "Brad Landry (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mQAXL0rUGwX316d1FBBQmloZzHu.jpg"
+    },
+    {
+      "nombre": "Alyson Stoner",
+      "personaje": "Lorelei Tan Gu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oIjU19kaJv2laaYnAHemghHfyPh.jpg"
+    },
+    {
+      "nombre": "Chris Parnell",
+      "personaje": "Cole Fusion / Ninja (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9Ga03Y9TVIqTZJ4I9rfL740ibgJ.jpg"
+    },
+    {
+      "nombre": "Kenny Mayne",
+      "personaje": "Kenny Mayne (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qTeWMuxuw6F61loGCmhbEq9j4IB.jpg"
+    },
+    {
+      "nombre": "Jeff Bennett",
+      "personaje": "Sid / Guard / Evil Mustache Cabal (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "nombre": "Rodger Bumpass",
+      "personaje": "General Smith / Driver / Mastermind (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lGQkw6adxqB6Hcm7VK8nVHbKupe.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Bob Mittenthal",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Rob Sosin",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Sam Laybourne",
+      "rol": "Story"
+    },
+    {
+      "nombre": "José C. García de Letona",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Emmy Laybourne",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Emmy Laybourne",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sam Laybourne",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Andrés Couturier",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alfredo Harp",
+      "rol": "In Memory Of"
+    },
+    {
+      "nombre": "Trevor Van Meter",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Barbara Wright",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Steffan Andrews",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jorge Carrera Quiroz",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Daniel Ingram",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "director": "Andrés Couturier",
+  "valoraciones": {
+    "tmdb": 4.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Ánima Estudios",
+  "enlace_video": "https://ok.ru/videoembed/7860368509463",
+  "trailer": "https://www.youtube.com/watch?v=KgE_crPtVDA"
+}
