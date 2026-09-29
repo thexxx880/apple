@@ -1,0 +1,157 @@
+{
+  "id_tmdb": 59387,
+  "poster": "https://image.tmdb.org/t/p/w500/yAFalW8UtdJg1z1gPjXx8C1sXZq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9JYhHvfdLC0rUI1AtXyw6l4bUpV.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/w7F4kEo0UlnPN44pEjJLKxdV97N.png",
+  "titulo": "Las Chicas Superpoderosas: La película",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Acción",
+    "Familia"
+  ],
+  "calificacion": "AA",
+  "puntuacion": 6.8,
+  "año": "2002",
+  "duracion": "1h 14min",
+  "edad_minima": 13,
+  "sinopsis": "Creadas con azucar... especias... muchas cosas bonitas... y una enorme dosis de la potente y misteriosa sustancia conocida como ingrediente X, Pétalo, Burbuja y Cactus -Las Chicas Superpoderosas- comienzan la increible aventura de cómo se convirtieron en las protectoras de la ciudad de Townsville. Si bien tienen poderes tan increíbles como ojos de rayos láser, una fuerza sobrehumana y la capacidad de volar a la velocidad de la luz, las Chicas sólo están en párvulos. Aunque no quieren hacer daño a nadie, sus ganas de jugar unidas a sus superpoderes, casi destruyen su querida ciudad y ahora los hombres, mujeres y niños de Townsville las ven como una amenaza.",
+  "fecha_estreno": "2002-07-03",
+  "titulo_original": "The Powerpuff Girls Movie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Cathy Cavadini",
+      "personaje": "Blossom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9sThx5Ajdy1aBJSppQDbTkmANlA.jpg"
+    },
+    {
+      "nombre": "Tara Strong",
+      "personaje": "Bubbles (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
+    },
+    {
+      "nombre": "E. G. Daily",
+      "personaje": "Buttercup (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sWLXj0yvpMEsZTIsS1ReVQzGnwO.jpg"
+    },
+    {
+      "nombre": "Roger L. Jackson",
+      "personaje": "Mojo Jojo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kDAoLRPVKgfTXRhDep0JNouhyAV.jpg"
+    },
+    {
+      "nombre": "Tom Kane",
+      "personaje": "Professor Utonium (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Mayor / Narrator / Ka-Ching Ka-Ching (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
+    },
+    {
+      "nombre": "Jennifer Hale",
+      "personaje": "Ms. Keane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oNQCrdiSm0mABCcE5YaHwuZQK8X.jpg"
+    },
+    {
+      "nombre": "Jennifer Martin",
+      "personaje": "Miss Bellum (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/v6nGkgJCEbhyEjhWnQjxeF7QucF.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Craig McCracken",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Donna Castricone",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lauren Faust",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Craig McCracken",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Charlie Bean",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Paul Rudish",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Don Shank",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lauren Faust",
+      "rol": "Story"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Dave Kupczyk",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "James L. Venable",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Rob Desales",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Brian A. Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Collette Sunderman",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Nikki Vanzo",
+      "rol": "Executive In Charge Of Production"
+    },
+    {
+      "nombre": "Mike Moon",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Lauren Faust",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Craig McCracken",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Charlie Bean",
+      "rol": "Storyboard"
+    },
+    {
+      "nombre": "Carey Yost",
+      "rol": "Lead Character Designer"
+    },
+    {
+      "nombre": "Frederick J. Gardner III",
+      "rol": "Background Designer"
+    }
+  ],
+  "director": "Craig McCracken",
+  "valoraciones": {
+    "tmdb": 6.8,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Network Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/kjnclglny1nw",
+  "trailer": "https://www.youtube.com/watch?v=wj_e4jWv1W8"
+}
