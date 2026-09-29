@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 70520,
+  "poster": "https://image.tmdb.org/t/p/w500/opRurCnxlakGOrzPLGYLwokDCzq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9fakqBmdX6r7QKYsaXHiRPUaFcx.jpg",
+  "logo": null,
+  "titulo": "Alí Babá y los 40 ladrones",
+  "trending": false,
+  "generos": [
+    "Acción",
+    "Animación",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.1,
+  "año": "1971",
+  "duracion": "0h 56min",
+  "edad_minima": 13,
+  "sinopsis": "El joven Huck decide enfrentarse al rey y rescatar a los animales. Junto a Kajiru, un ratón, y Dora, el líder de los gatos, formará un peculiar grupo de cuarenta compañeros que intentará recuperar el tesoro y acabar con la tiranía del rey Alí Babá.",
+  "fecha_estreno": "1971-07-18",
+  "titulo_original": "アリババと４０匹の盗賊",
+  "pais_origen": "Japan",
+  "reparto": [
+    {
+      "nombre": "大塚周夫",
+      "personaje": "Alibaba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/j3UBKXO0c1lJaEx0SUbxlvSZCsI.jpg"
+    },
+    {
+      "nombre": "滝口順平",
+      "personaje": "Kajiru  (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gLZJ19DqhC8UYaMHRewAFkg5p8j.jpg"
+    },
+    {
+      "nombre": "納谷悟朗",
+      "personaje": "Goro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zjlpLL2DnCkY27S0UQCmC7eC4WE.jpg"
+    },
+    {
+      "nombre": "富田耕生",
+      "personaje": "Spirit of the Lamp (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nSGbAVJaUsrvcGujlByBjNH6dje.jpg"
+    },
+    {
+      "nombre": "田の中勇",
+      "personaje": "Police Chief (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p2Tmfr4aZIS0INgibEsjlUXRjD1.jpg"
+    },
+    {
+      "nombre": "内海賢二",
+      "personaje": "Dora (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8rNvgs40LJbCbjf7qFCfDeKBnIk.jpg"
+    },
+    {
+      "nombre": "大山のぶ代",
+      "personaje": "Huck (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/b2NCEjqTtTmEFsFYLaGDbWQ4xAK.jpg"
+    },
+    {
+      "nombre": "今西正男",
+      "personaje": "",
+      "foto": null
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "設楽博",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Morihisa Yamamoto",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Hayao Miyazaki",
+      "rol": "Screenplay"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Shoji Ikehara",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Katsuya Oda",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Shigeo Matoba",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Tatsuji Kino",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "奥山玲子",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "小田部羊一",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "菊池貞雄",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Takashi Abe",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Hideki Mori",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "森康二",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Koichi Tsunoda",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "Hayao Miyazaki",
+      "rol": "Key Animation"
+    }
+  ],
+  "director": "設楽博",
+  "valoraciones": {
+    "tmdb": 6.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Toei Animation",
+  "enlace_video": "https://ok.ru/video/7860226099735",
+  "trailer": ""
+}
