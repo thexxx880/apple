@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 20007,
+  "poster": "https://image.tmdb.org/t/p/w500/aKO9GCYEA3vPnLZjSQxGuW6vNV8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ysL5BiUTbdSaCAXtlzCU507kj6W.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/zKirNw8tYVdqOnNoJ7MzQYaLk4x.png",
+  "titulo": "La película de Bugs Bunny y el Correcaminos",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Música",
+    "Ciencia ficción"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.4,
+  "año": "1979",
+  "duracion": "1h 38min",
+  "edad_minima": 13,
+  "sinopsis": "Una colección de dibujos animados cortos de Warner Brothers, protagonizada por personajes de la talla del Pato Lucas, el Cerdo Porky y el Coyote Wile. E. Coyote. Estas animaciones son intercaladas por Bugs Bunny recordando eventos pasados y proporcionando enlaces entre las animaciones individuales que de otra manera no estarían conectadas. Esta compilación de largometrajes de 1979 incluye varios de sus mejores dibujos animados. Entre los 11 cortometrajes que se muestran en su totalidad están los clásicos «Lucas Robin Hood», «¿Qué es ópera, viejo?», «Orejas y rabo para Bugs» y «Pato aturdido». La película de Bugs Bunny y el Correcaminos es un escaparate no sólo de la agudeza de Jones, sino también del trabajo de su excepcional equipo, que incluyó al diseñador Maurice Noble, al escritor Mike Maltese, a los compositores Carl Stalling y Milt Franklyn, y al actor de voz Mel Blanc.",
+  "fecha_estreno": "1979-09-28",
+  "titulo_original": "The Bugs Bunny/Road Runner Movie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Mel Blanc",
+      "personaje": "Bugs Bunny / Daffy Duck / Porky Pig / Marvin the Martian / Wile E. Coyote / Pepe le Pew / Dr. I.Q. High / Hassan (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8fevv4K06TmHsYom2XfmxgKrTcd.jpg"
+    },
+    {
+      "nombre": "Arthur Q. Bryan",
+      "personaje": "Elmer Fudd (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/15K5UH5aLdqxwFBWobnXZ0Qhb4J.jpg"
+    },
+    {
+      "nombre": "Paul Julian",
+      "personaje": "Road Runner (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/twa68PDAF7DcBYM8Vo6QRzC4Cg8.jpg"
+    },
+    {
+      "nombre": "Nicolai Shutorev",
+      "personaje": "Giovanni Jones (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Joan Gerber",
+      "personaje": "Cavewoman (uncredited)",
+      "foto": "https://image.tmdb.org/t/p/w500/rF8g2ApsFf7qH5SEmhyJQru48JE.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Chuck Jones",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Michael Maltese",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Chuck Jones",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chuck Jones",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "John W. Dunn",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Phil Monroe",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "A.C. Gamer",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "John Seely",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Mary Roscoe",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "William Lava",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Harry Love",
+      "rol": "Visual Effects"
+    },
+    {
+      "nombre": "Milt Franklyn",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Dean Elliott",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Carl W. Stalling",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Ray Aragon",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Maurice Noble",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Don Foster",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Treg Brown",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Chuck Jones",
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Pictures",
+  "enlace_video": "https://ok.ru/videoembed/7860370016791",
+  "trailer": "https://www.youtube.com/watch?v=lX51bfLKeb0"
+}
