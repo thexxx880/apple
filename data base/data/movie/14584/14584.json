@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 14584,
+  "poster": "https://image.tmdb.org/t/p/w500/uhNVzjbtdnLFNdgQ9ptxCUta4t4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rVwsqRYQk3pz4irrqaOQcLTTKlM.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/9owv7QQ32oFa8NMxEN1uM7J6i8D.png",
+  "titulo": "El detective vulgar",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Crimen",
+    "Misterio"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.355,
+  "año": "1978",
+  "duracion": "1h 32min",
+  "edad_minima": 13,
+  "sinopsis": "San Francisco, 1940. Lou Peckinpaugh es un torpe detective privado. Su compañero es hallado muerto y los intereses amorosos de la viuda hacia él le convierten en el principal sospechoso. El detective debe actuar con rapidez y descubrir al asesino antes de que le inculpen. Pero sus pesquisas le llevan al centro de una intrincada red en la que demasiadas personas están interesadas en hacerle desistir de su investigación.",
+  "fecha_estreno": "1978-06-23",
+  "titulo_original": "The Cheap Detective",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Peter Falk",
+      "personaje": "Lou Peckinpaugh",
+      "foto": "https://image.tmdb.org/t/p/w500/e59x8ITouNlyz8Qa2abb5lxiQvI.jpg"
+    },
+    {
+      "nombre": "Ann-Margret",
+      "personaje": "Jezebel Dezire",
+      "foto": "https://image.tmdb.org/t/p/w500/z20lA2EyYbLcZn5GV1deMQDUCEc.jpg"
+    },
+    {
+      "nombre": "Eileen Brennan",
+      "personaje": "Betty DeBoop",
+      "foto": "https://image.tmdb.org/t/p/w500/b3hP3bHhDqWQfiuZWqhcIUUsPKT.jpg"
+    },
+    {
+      "nombre": "Sid Caesar",
+      "personaje": "Ezra Dezire",
+      "foto": "https://image.tmdb.org/t/p/w500/mMSjieicMCMBK7YsQREkX7BRcB2.jpg"
+    },
+    {
+      "nombre": "Stockard Channing",
+      "personaje": "Bess",
+      "foto": "https://image.tmdb.org/t/p/w500/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
+    },
+    {
+      "nombre": "James Coco",
+      "personaje": "Marcel",
+      "foto": "https://image.tmdb.org/t/p/w500/sJRnrOeQfhP3r541nSTQqGKSHWx.jpg"
+    },
+    {
+      "nombre": "Dom DeLuise",
+      "personaje": "Pepe Damascus",
+      "foto": "https://image.tmdb.org/t/p/w500/73OOTJaLVq54bEeR1pASfPQLbVH.jpg"
+    },
+    {
+      "nombre": "Louise Fletcher",
+      "personaje": "Marlene DuChard",
+      "foto": "https://image.tmdb.org/t/p/w500/hN15em5LqXqDe1QgDa6lXK9fx3z.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Robert Moore",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Neil Simon",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ray Stark",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stewart Levine",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Shirlee Strahm",
+      "rol": "Costume Assistant"
+    },
+    {
+      "nombre": "Michael A. Stevenson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "John A. Alonzo",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Jennifer Shull",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Margaret Booth",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Patrick Williams",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Sidney Levin",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Joe DiBella",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Robert Luthardt",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Charles Pierce",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Theoni V. Aldredge",
+      "rol": "Costume Design"
+    }
+  ],
+  "director": "Robert Moore",
+  "valoraciones": {
+    "tmdb": 6.355,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Columbia Pictures",
+  "enlace_video": "https://ok.ru/videoembed/2039421274790",
+  "trailer": "https://www.youtube.com/watch?v=6OKbUnfU6Zs"
+}
