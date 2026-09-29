@@ -1,0 +1,142 @@
+{
+  "id_tmdb": 13682,
+  "poster": "https://image.tmdb.org/t/p/w500/2Y70WYYbObo91KaIGrym8qrdQru.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wUFgVDjkSlUwX6ehWhOsy6JSnCx.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/6mRN1VsU9OdCIWaSylybW8NNszH.png",
+  "titulo": "Winnie Pooh y el pequeño efelante",
+  "trending": false,
+  "generos": [
+    "Familia",
+    "Animación",
+    "Comedia",
+    "Fantasía"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 6.9,
+  "año": "2005",
+  "duracion": "1h 8min",
+  "edad_minima": 13,
+  "sinopsis": "Cuando Roo se va solo al Bosque de los Cien Acres, descubre a un amistoso y juguetón efelante llamado Lumpy.",
+  "fecha_estreno": "2005-02-11",
+  "titulo_original": "Pooh's Heffalump Movie",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Jim Cummings",
+      "personaje": "Winnie-the-Pooh / Tigger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "nombre": "John Fiedler",
+      "personaje": "Piglet (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/27sXisLWQJQ49PD40j89miNhL73.jpg"
+    },
+    {
+      "nombre": "Kath Soucie",
+      "personaje": "Kanga (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dSE1JtsdA1aSgIIw415bsXtmkPg.jpg"
+    },
+    {
+      "nombre": "Nikita Hopkins",
+      "personaje": "Roo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/923UPZB3B3KYzjRUOrUDOYv5Zrh.jpg"
+    },
+    {
+      "nombre": "Ken Sansom",
+      "personaje": "Rabbit (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2pvv1gFv5V0IlLY6rBz0Y4YLMyc.jpg"
+    },
+    {
+      "nombre": "Peter Cullen",
+      "personaje": "Eeyore (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
+    },
+    {
+      "nombre": "Kyle Stanger",
+      "personaje": "Lumpy the Heffalump (voice)",
+      "foto": null
+    },
+    {
+      "nombre": "Brenda Blethyn",
+      "personaje": "Mama Heffalump (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mxENo8tEvN0998PrNidYkN4wGGO.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Frank Nissen",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Brian Hohlfeld",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Evan Spiliotopoulos",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Jessica Koplos",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "A.A. Milne",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Daniel J. Soulsby",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Joel McNeely",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Robert Fisher Jr.",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Anthony Rocco",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sean Reed",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Alaina Yohe",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "徳永元嘉",
+      "rol": "General Manager"
+    },
+    {
+      "nombre": "Masaki Sugiyama",
+      "rol": "Unit Manager"
+    },
+    {
+      "nombre": "Craig Simpson",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Clay Renfroe",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Yumiko Suzuki",
+      "rol": "Assistant Unit Manager"
+    }
+  ],
+  "director": "Frank Nissen",
+  "valoraciones": {
+    "tmdb": 6.9,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DisneyToon Studios",
+  "enlace_video": "https://gscdn.cam/video/embed/idgy3a94siyc",
+  "trailer": "https://www.youtube.com/watch?v=08KKL6G9LNU"
+}
