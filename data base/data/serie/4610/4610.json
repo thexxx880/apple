@@ -1,0 +1,124 @@
+{
+  "id_tmdb": 4610,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/evpiumu4LRfDummjhHXQrYyaSFP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/r7tiRgwCz4orOoYZIdbRdIGkfU3.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4d5TTFVobvqk6Y2nm5sToItvOGf.svg",
+  "titulo": "Hannah Montana",
+  "titulo_original": "Hannah Montana",
+  "fecha_estreno": "2006-03-24",
+  "duracion": "23min",
+  "año": "2006",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "Miley Stewart (Miley Cyrus) es una chica de 14 años que se acaba de mudar recientemente desde Tennessee hasta Malibú, en California, junto con su hermano Jackson y su padre Robby. Como cualquier adolescente, Miley se enfrenta a los típicos problemas y preocupaciones de su edad, como sacar buenas notas en el colegio, ser aceptada por sus compañeros y divertirse con sus amigos. Pero, además, Miley Stewart tiene un gran secreto que sólo su familia y sus dos mejores amigos conocen y es que tiene una doble vida: en realidad, además de Miley, ella es Hannah Montana, una famosa estrella cantante de pop. Por tanto, Miley tendrá que compaginar su vida como adolescente con su alter ego Hannah Montana, una afamada cantante que tiene revolucionados a todos sus compañeros, lo que le hará vivir divertidas situaciones en las que peligrará el secreto de su verdadera identidad.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Miley Cyrus",
+      "personaje": "Miley Stewart / Hannah Montana",
+      "foto": "https://image.tmdb.org/t/p/w500/7slnMlDLR1O65U3Hr8gcOmxDlZz.jpg"
+    },
+    {
+      "nombre": "Emily Osment",
+      "personaje": "Lilly Truscott",
+      "foto": "https://image.tmdb.org/t/p/w500/bRqBSRe5t1FjMUEb3XgiKbpCy30.jpg"
+    },
+    {
+      "nombre": "Jason Earles",
+      "personaje": "Jackson Stewart",
+      "foto": "https://image.tmdb.org/t/p/w500/98kgD3jp4DmwwL1SmViN5cRE5NI.jpg"
+    },
+    {
+      "nombre": "Billy Ray Cyrus",
+      "personaje": "Robby Ray Stewart",
+      "foto": "https://image.tmdb.org/t/p/w500/ly0Ejh5micQppq2L6UJvbl8Y674.jpg"
+    },
+    {
+      "nombre": "Moisés Arias",
+      "personaje": "Rico Suave",
+      "foto": "https://image.tmdb.org/t/p/w500/fc7krDmEA4VkIY4KOJjpMXGdsfg.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Andrew Green",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Michael Poryes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven Peterman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Douglas Lieblein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard G. King",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Hall",
+      "rol": "Associate Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Andrew Green",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Barry O'Brien",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Rich Correll",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kim C. Friese",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Michael Poryes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven Peterman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Douglas Lieblein",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard G. King",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Hall",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Miley Cyrus",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt0493093",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Disney",
+  "trailer": "https://www.youtube.com/watch?v=Jt77A_1ZW-g"
+}
