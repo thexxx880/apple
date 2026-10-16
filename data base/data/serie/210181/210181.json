@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 210181,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/15SOjOAReD4cuhtxZVJJnnHKyhm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/k0h0bQ1Psusn1yjbEOPKWEkUR0T.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/oAz9LdLgDVrbHsEAROG4sGKCpYS.png",
+  "titulo": "SYNDUALITY Noir",
+  "titulo_original": "SYNDUALITY Noir",
+  "fecha_estreno": "2023-07-11",
+  "duracion": "25min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 6.4,
+  "sinopsis": "Es el año 2242. Kanata quiere ser un errante y conoce a Noir, quien es una maga descompuesta que no recuerda nada. Sin embargo, debido a que Noir destaca en la batalla contra los eliminadores, Kanata se parea con ella y descubre exactamente lo que se necesita para ser un errante.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "大塚剛央",
+      "personaje": "Kanata (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wqeAMR0HOGUPBXz0TCNxDR51cQy.jpg"
+    },
+    {
+      "nombre": "古賀葵",
+      "personaje": "Noir (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uVpwheVV4aPROyY1toYv3v5HSPD.jpg"
+    },
+    {
+      "nombre": "青山なぎさ",
+      "personaje": "Ciel (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zNBumsGSjf7DOgPINrDP0FsZca9.jpg"
+    },
+    {
+      "nombre": "小林裕介",
+      "personaje": "Tokio (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y4ukKDSobZJNuB4H3k89hkrKCDC.jpg"
+    },
+    {
+      "nombre": "小松史法",
+      "personaje": "Mouton (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zI2Wh6fiEkWfWREGDcyAsXsDhBc.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "大矢陽久",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "田中紀明",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "松田隼典",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "松田宙",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "二見鷹介",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "臼倉竜太郎",
+      "rol": "Music Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "浅沼誠",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "明田川仁",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "R・O・N",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "大矢陽久",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "高島雄哉",
+      "rol": "Researcher"
+    },
+    {
+      "nombre": "田中紀明",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "須山博一",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "松田隼典",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "村上弘明",
+      "rol": "Researcher"
+    },
+    {
+      "nombre": "松田宙",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "佐藤正浩",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "Chen Jiahao",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "兼重涼子",
+      "rol": "Assistant Editor"
+    },
+    {
+      "nombre": "三井友和",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "谷口和己",
+      "rol": "Online Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.4,
+    "imdb": "tt24240038",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=HoBOAS4PydM"
+}
