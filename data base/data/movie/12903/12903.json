@@ -1,0 +1,104 @@
+{
+  "id_tmdb": 12903,
+  "poster": "https://image.tmdb.org/t/p/w500/6pisDa9Mp8c8Vcb3T0V3Xo6WzL6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/llm8JA9OnDI29exEvBlriO5Lsjj.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/aMjzXl1qw0Hmzj1LKXNg376jhta.png",
+  "titulo": "Scooby-Doo! y el Rey de los Duendes",
+  "trending": false,
+  "generos": [
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía",
+    "Música"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 7.6,
+  "año": "2008",
+  "duracion": "1h 15min",
+  "edad_minima": 13,
+  "sinopsis": "El increíble Krudsky le roba la linterna mágica a la Princesa Fairy Willon y dependerá de Scooby-Doo y Shaggy para detenerlo antes de que todo se convierta en horribles monstruos de Halloween.",
+  "fecha_estreno": "2008-09-23",
+  "titulo_original": "Scooby-Doo! and the Goblin King",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Scooby-Doo / Fred Jones (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Casey Kasem",
+      "personaje": "Shaggy Rogers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sBKx2Da5Igy55Sjk2dnhtI3JekC.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Daphne Blake / Cat Witch / Honeybee (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Mindy Cohn",
+      "personaje": "Velma Dinkley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AcEAchSYIUiRInwyD8nPwj8ztZa.jpg"
+    },
+    {
+      "nombre": "Lauren Bacall",
+      "personaje": "The Grand Witch (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iCOzbSzCSUC6D9EcyXtVb2FRNu0.jpg"
+    },
+    {
+      "nombre": "Tim Curry",
+      "personaje": "The Goblin King (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
+    },
+    {
+      "nombre": "Jim Belushi",
+      "personaje": "Glob (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/wIvFYH110ER7ukwR0qryQJJDQYH.jpg"
+    },
+    {
+      "nombre": "Wayne Knight",
+      "personaje": "The Amazing Krudsky (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yS3k7HZ8gSWyXrvvsX7V7oEmdHY.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Joe Sichta",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Joe Sichta",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Joe Sichta",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tristin Cole",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Thomas Chase",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Joe Gall",
+      "rol": "Editor"
+    }
+  ],
+  "director": "Joe Sichta",
+  "valoraciones": {
+    "tmdb": 7.6,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://hglink.to/e/dyft9ohpp2xl",
+  "trailer": "https://www.youtube.com/watch?v=SFL0hoIu2NM"
+}
