@@ -1,0 +1,103 @@
+{
+  "id_tmdb": 245881,
+  "poster": "https://image.tmdb.org/t/p/w500/tQjrnmsbu227tycvChn8Uyg89rf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AqhARqCkWCjf22JrmybJZu3GsRQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/w300/uZx1Ceadw8GEplGfq1PMLQs4qkl.png",
+  "titulo": "¡Scooby-Doo!: Navidades siniestras",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Animación",
+    "Aventura",
+    "Comedia",
+    "Familia"
+  ],
+  "calificacion": "PG-13",
+  "puntuacion": 8.1,
+  "año": "2012",
+  "duracion": "0h 22min",
+  "edad_minima": 13,
+  "sinopsis": "Scooby y la pandilla se enfrentan a una temporada navideña fría y tenebrosa, cuando intentan resolver el misterio de un muñeco de nieve malvado que cobra vida e intenta destruir una antigua y querida juguetería.",
+  "fecha_estreno": "2012-10-16",
+  "titulo_original": "Scooby-Doo! Haunted Holidays",
+  "pais_origen": "United States of America",
+  "reparto": [
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Fred Jones / Scooby-Doo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Mindy Cohn",
+      "personaje": "Velma Dinkley (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AcEAchSYIUiRInwyD8nPwj8ztZa.jpg"
+    },
+    {
+      "nombre": "Matthew Lillard",
+      "personaje": "Shaggy Rogers (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Daphne Blake (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "nombre": "Dee Bradley Baker",
+      "personaje": "(voices)",
+      "foto": "https://image.tmdb.org/t/p/w500/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "nombre": "Carlos Alazraqui",
+      "personaje": "Havros Menkle / Clete the Janitor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg"
+    },
+    {
+      "nombre": "Crispin Freeman",
+      "personaje": "Fabian Men (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oqqNzJK7F9ZO6Kft4BwncT6K8hz.jpg"
+    },
+    {
+      "nombre": "Fred Tatasciore",
+      "personaje": "Sinister Snowman / Santa Claus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8YCIAGSWcxeTmPfOWMtVjLSwGOH.jpg"
+    }
+  ],
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Ryan",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Victor Cook",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Victor Cook",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tristin Cole",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Robert J. Kral",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    }
+  ],
+  "director": "Victor Cook",
+  "valoraciones": {
+    "tmdb": 8.1,
+    "imdb": null,
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros. Animation",
+  "enlace_video": "https://hglink.to/e/4dyt7n16vlks",
+  "trailer": "https://www.youtube.com/watch?v=Yae0yEasWPI"
+}
