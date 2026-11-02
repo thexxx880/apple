@@ -1,0 +1,80 @@
+{
+  "id_tmdb": 122049,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2czfKDn5y8TxNrLbjlNE6osEl2x.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2UOQTNkvDNdUFNmCyYCUxUICDL4.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3BBcR5Dxmsjo83WDCDuaCsLNNTa.png",
+  "titulo": "Máscara contra Caballero",
+  "titulo_original": "Máscara contra Caballero",
+  "fecha_estreno": "2023-04-19",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 6.6,
+  "sinopsis": "Relata la historia de un cantante famoso que se ve obligado a suplantar a un luchador enmascarado. En medio de esta doble vida, se cruza con una reportera de espectáculos que tiene la misión de destruirlo, sin saber que se convertirá en el amor de su vida.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Luis Ernesto Franco",
+      "personaje": "Alex Gorostiza",
+      "foto": "https://image.tmdb.org/t/p/w500/wIGc57OVU1KSIzJr931rXYBzqCQ.jpg"
+    },
+    {
+      "nombre": "Pamela Almanza",
+      "personaje": "Carol Schneider",
+      "foto": "https://image.tmdb.org/t/p/w500/h6VgbR19K7fRjr2sS3FL9gVMazj.jpg"
+    },
+    {
+      "nombre": "Paola Fernández",
+      "personaje": "Brenda Paravia",
+      "foto": "https://image.tmdb.org/t/p/w500/kRfjEVZULgJNf8XC5PJETkoc7bx.jpg"
+    },
+    {
+      "nombre": "Nicolasa Ortíz Monasterio",
+      "personaje": "Rosa La Espinosa",
+      "foto": "https://image.tmdb.org/t/p/w500/1U791LXpmGCZUVaxCZi6dI5AFyA.jpg"
+    },
+    {
+      "nombre": "Enoc Leaño",
+      "personaje": "Willy",
+      "foto": "https://image.tmdb.org/t/p/w500/ngoBlpmy5UGIo9vs14wbDaPZF3N.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Alfonso Pineda Ulloa",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mariano Carranco",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alfonso Pineda Ulloa",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Héctor Medina",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Mariano Carranco",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": "tt15529510",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "BTF Media",
+  "trailer": ""
+}
