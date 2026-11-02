@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 324115,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oLmVnnJFdHvnaGB2asEebnbE4ly.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gC6NyZkkyxwzip33k6XJ5ngP0dy.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/boFWJTWGQLmQPvqxA5sNWw91O0E.png",
+  "titulo": "Las dos caras de la ley",
+  "titulo_original": "ทนายปีศาจ",
+  "fecha_estreno": "2026-06-11",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "Un joven abogado acusado injustamente de un crimen brutal pone su vida en las manos de una avezada abogada defensora, quien intentará limpiar su nombre y descubrir la verdad.",
+  "pais_origen": "TH",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rhatha Phongam",
+      "personaje": "Jittri",
+      "foto": "https://image.tmdb.org/t/p/w500/wt4hoBCSl1YTY8pRhPuKlcmH8m0.jpg"
+    },
+    {
+      "nombre": "ณัฏฐ์ กิจจริต",
+      "personaje": "Mek",
+      "foto": "https://image.tmdb.org/t/p/w500/clpTGzwkqnA0jhLJVw1OIxbXiap.jpg"
+    },
+    {
+      "nombre": "อัจฉริย โพธิพิพิธธนากร",
+      "personaje": "Ang",
+      "foto": "https://image.tmdb.org/t/p/w500/g7VPUBV5hkZYikTjY60fEahhT6X.jpg"
+    },
+    {
+      "nombre": "Songsit Rungnopakunsi",
+      "personaje": "Anan",
+      "foto": "https://image.tmdb.org/t/p/w500/6sh6H6UYyUDPxw3gPXzdp2ERy4m.jpg"
+    },
+    {
+      "nombre": "เผ่าเพชร เจริญสุข",
+      "personaje": "Techin",
+      "foto": "https://image.tmdb.org/t/p/w500/3KwN0qvXwGj0H9c9OvIskbVQa7K.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "ณฐพล บุญประกอบ",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Songphon Jantharasom",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Warunthorn Charnjitkusol",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Phiangporn Paiboonrungrot",
+      "rol": "Line Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "ณฐพล บุญประกอบ",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "ณฐพล บุญประกอบ",
+      "rol": "Director"
+    },
+    {
+      "nombre": "อาภรณ์ มีบางยาง",
+      "rol": "Special Effects Makeup Artist"
+    },
+    {
+      "nombre": "โสภนา เชาว์วิวัฒน์กุล",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sureechay Kaewses",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Ittiwat Poobundit",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Peeradon Amarin",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Boonyanuch Kraithong",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Kissada Namuang",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Siwat Homkham",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Songphon Jantharasom",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "จักริน เทพวงค์",
+      "rol": "Co-Director"
+    },
+    {
+      "nombre": "Usicha Udomsak",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "จักริน เทพวงค์",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Pannaporn Watthanapong",
+      "rol": "Screenplay"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt39749708",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "underDOC Film",
+  "trailer": "https://www.youtube.com/watch?v=T-83SNBtj1I"
+}
