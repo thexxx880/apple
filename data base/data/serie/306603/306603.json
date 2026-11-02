@@ -1,0 +1,112 @@
+{
+  "id_tmdb": 306603,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qnxKB5HlkAZZcyIiITIV7dAUX7u.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/c43frTJmf5SkVT7AZ2RTnxNqDRF.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3qaV2kV5zoYcZeQDcnzgoFobu4g.png",
+  "titulo": "Gone",
+  "titulo_original": "Gone",
+  "fecha_estreno": "2026-03-08",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 6.6,
+  "sinopsis": "",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Eve Myles",
+      "personaje": "DS Annie Cassidy",
+      "foto": "https://image.tmdb.org/t/p/w500/5NipnvM12zbDjIbZf3tzLfQu4bf.jpg"
+    },
+    {
+      "nombre": "Emma Appleton",
+      "personaje": "Alana Polly",
+      "foto": "https://image.tmdb.org/t/p/w500/gsr6C5aj8IyewAQRlB36yLun8sS.jpg"
+    },
+    {
+      "nombre": "Billy Barratt",
+      "personaje": "Dylan Sedgwick",
+      "foto": "https://image.tmdb.org/t/p/w500/bpsImfta5yJ0QMJnyku1kYNyOeo.jpg"
+    },
+    {
+      "nombre": "Rupert Evans",
+      "personaje": "Rory Bowman",
+      "foto": "https://image.tmdb.org/t/p/w500/YrsdSUjinm0NN6qd8Y2znPf8Cg.jpg"
+    },
+    {
+      "nombre": "David Morrissey",
+      "personaje": "Michael Polly",
+      "foto": "https://image.tmdb.org/t/p/w500/gj7ENB9pBobXA3wMfw6uKcWr2GM.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mark Hedges",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "George Kay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Willow Grylls",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Sandford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Richard Laxton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Richard Laxton",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Hedges",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "George Kay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Willow Grylls",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Sandford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Richard Laxton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Richard Laxton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "George Kay",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": "tt39019156",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Pictures, Observatory Pictures",
+  "trailer": "https://www.youtube.com/watch?v=dAD5mHVYhNI"
+}
