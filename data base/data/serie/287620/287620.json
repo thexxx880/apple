@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 287620,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/vFatvMvG3svwTZ1WH9shKRpFhEH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/iTq5aU1mKNom15T3L6spt9cicG5.png",
+  "titulo": "Stuart no logra salvar el Universo",
+  "titulo_original": "Stuart Fails to Save the Universe",
+  "fecha_estreno": "2026-07-23",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.3,
+  "sinopsis": "A Stuart Bloom se le encomienda la tarea de restaurar la realidad después de provocar un Armagedón multiverso.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Kevin Sussman",
+      "personaje": "Stuart Bloom / Alternate Stuart Bloom",
+      "foto": "https://image.tmdb.org/t/p/w500/tLqrE9uz6GKoeoDC7LU7cE6oF2Q.jpg"
+    },
+    {
+      "nombre": "Lauren Lapkus",
+      "personaje": "Denise / Alternate Denise",
+      "foto": "https://image.tmdb.org/t/p/w500/zevTufkY38eRvWPslh5c1azdhQN.jpg"
+    },
+    {
+      "nombre": "Brian Posehn",
+      "personaje": "Bert Kibbler",
+      "foto": "https://image.tmdb.org/t/p/w500/kg93LNpDQaRoosR4gVt7SsA3oL1.jpg"
+    },
+    {
+      "nombre": "John Ross Bowie",
+      "personaje": "Barry Kripke",
+      "foto": "https://image.tmdb.org/t/p/w500/XAv1RilHZu7qiGGIOgikrLgHeD.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Chuck Lorre",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bill Prady",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Zak Penn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ken Miller",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Niko Mason",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Franklyn M. Gottbetter",
+      "rol": "Co-Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chuck Lorre",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bill Prady",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Zak Penn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joseph LoDuca",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Valerie Klarich",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Danny Elfman",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Sean Madsen",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "John Chamberlin",
+      "rol": "Sound Re-Recording Mixer"
+    },
+    {
+      "nombre": "Anna D. Wilborn",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "T.J. Jacques",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Val Wilt",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ken Miller",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Ken Miller",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Tara Treacy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Niko Mason",
+      "rol": "Associate Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.3,
+    "imdb": "tt27497393",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros, Chuck Lorre Productions",
+  "trailer": "https://www.youtube.com/watch?v=KaUv-dM_jGg"
+}
