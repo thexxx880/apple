@@ -1,0 +1,76 @@
+{
+  "id_tmdb": 76582,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qWV5jwbQcPsQpLJnzB71gVIp9na.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/npxiPFvsRRDbbCv5IQkcBl3lFI3.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nKt0y4Ir2zT7DBodGdWmIYvF6z3.png",
+  "titulo": "Unsolved",
+  "titulo_original": "Unsolved: The Murders of Tupac and The Notorious B.I.G.",
+  "fecha_estreno": "2018-02-27",
+  "duracion": "42min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 6.9,
+  "sinopsis": "Las experiencias de Greg Kading y Russell Poole dos antiguos detectives de la policía de Los Ángeles que condujeron investigaciones separadas sobre los asesinatos de los icónicos raperos Tupac Shakur y The Notorious B.I.G.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Josh Duhamel",
+      "personaje": "Detective Greg Kading",
+      "foto": "https://image.tmdb.org/t/p/w500/5Rp9aeWdN2S623KCjwfii9MhDK1.jpg"
+    },
+    {
+      "nombre": "Jimmi Simpson",
+      "personaje": "Detective Russell Poole",
+      "foto": "https://image.tmdb.org/t/p/w500/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg"
+    },
+    {
+      "nombre": "Bokeem Woodbine",
+      "personaje": "Officer Daryn Dupree",
+      "foto": "https://image.tmdb.org/t/p/w500/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+    },
+    {
+      "nombre": "Marcc Rose",
+      "personaje": "Tupac Shakur",
+      "foto": "https://image.tmdb.org/t/p/w500/cGAeAYDk14y1l8AOV7op2kP3MoC.jpg"
+    },
+    {
+      "nombre": "Wavyy Jonez",
+      "personaje": "Christopher Wallace",
+      "foto": "https://image.tmdb.org/t/p/w500/hBE36xe0IuMzRp4JP4Ah8jGPdGm.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Greg Kading",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Paul Tilden",
+      "rol": "Camera Technician"
+    },
+    {
+      "nombre": "Ben Campanaro",
+      "rol": "Visual Effects Art Director"
+    },
+    {
+      "nombre": "Greg Kading",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.9,
+    "imdb": "tt6233618",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "UCP",
+  "trailer": "https://www.youtube.com/watch?v=LypX9r33GZY"
+}
