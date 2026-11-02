@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 283297,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/oI9xCt2yBSRhJRWpDb5v3JB3uZ0.png",
+  "titulo": "Sterling Point",
+  "titulo_original": "Sterling Point",
+  "fecha_estreno": "2026-08-05",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 8.143,
+  "sinopsis": "Tras descubrir que heredó una isla remota en Canadá de un abuelo distanciado al que nunca le permitieron conocer, Annie Jacobson, de 17 años, decide investigar. Esto la sumerge en un mundo de secretos enterrados, una hermandad inesperada y la complicada historia familiar que nunca debió descubrir.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ella Rubin",
+      "personaje": "Annie Jacobson",
+      "foto": "https://image.tmdb.org/t/p/w500/6JVMTzo7SJK8ohYi3eBX2F2c4M9.jpg"
+    },
+    {
+      "nombre": "Amélie Hoeferle",
+      "personaje": "Ramona Campbell",
+      "foto": "https://image.tmdb.org/t/p/w500/vBNKPHxo86gQOIPpPszueyeI2bt.jpg"
+    },
+    {
+      "nombre": "Bo Bragason",
+      "personaje": "Oona",
+      "foto": "https://image.tmdb.org/t/p/w500/rokw2EUwUfQWuDbVGwIeQZBIQQc.jpg"
+    },
+    {
+      "nombre": "Jacob Whiteduck-Lavoie",
+      "personaje": "Ellis",
+      "foto": "https://image.tmdb.org/t/p/w500/l7LfUB6yfvWQ28BazLMGFO10uxt.jpg"
+    },
+    {
+      "nombre": "Daniel Quinn-Toye",
+      "personaje": "Rory",
+      "foto": "https://image.tmdb.org/t/p/w500/lMjyqIpTZeLG6z1lpwkCsomJPkb.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Megan Park",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Schwartz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stephanie Savage",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom Ackerley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dani Gorin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anna Beben",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Megan Park",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Schwartz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stephanie Savage",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom Ackerley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dani Gorin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anna Beben",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Margot Robbie",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Louie Hayes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Erica Lipez",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Warren Hsu Leonard",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Raffi Donatich",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jared Frieder",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gary Mueller",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jessica Kelly",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Rebecca Dealy",
+      "rol": "Casting"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.143,
+    "imdb": "tt35618070",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Amazon MGM Studios, Fake Empire Productions, LuckyChap Entertainment",
+  "trailer": "https://www.youtube.com/watch?v=KKnqm1lbKCI"
+}
