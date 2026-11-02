@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 286183,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/A4YDllXwK8ZOlpPlW57yK4YRXWx.png",
+  "titulo": "Hollywood Arts",
+  "titulo_original": "Hollywood Arts",
+  "fecha_estreno": "2026-10-15",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia"
+  ],
+  "puntuacion": 7.375,
+  "sinopsis": "¡Comienzan las clases en Hollywood Arts! La autoproclamada estrella Trina Vega vuelve para llevar a los alumnos al estrellato, al reconocimiento... y al caos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Daniella Monet",
+      "personaje": "Trina Vega",
+      "foto": "https://image.tmdb.org/t/p/w500/5QW1c5SUch81C5KIpfJgclJ4ct5.jpg"
+    },
+    {
+      "nombre": "Alyssa Miles",
+      "personaje": "Emmy Ward",
+      "foto": "https://image.tmdb.org/t/p/w500/d9hDngdVwXhAQv9zMMttG3Md2Gx.jpg"
+    },
+    {
+      "nombre": "Emmy Liu-Wang",
+      "personaje": "Pepper",
+      "foto": "https://image.tmdb.org/t/p/w500/2tGqKiwu42XhnUsZDBPXo8LI5l5.jpg"
+    },
+    {
+      "nombre": "Peyton Jackson",
+      "personaje": "Qwest",
+      "foto": "https://image.tmdb.org/t/p/w500/lS1aBK2F2uTnM7HqejSQsCnYWBo.jpg"
+    },
+    {
+      "nombre": "Erika Swayze",
+      "personaje": "Jen Z",
+      "foto": "https://image.tmdb.org/t/p/w500/phn3vAg06wA9aJHPVqJ7mbEMGn2.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Daniella Monet",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jake Farrow",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Samantha Martin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Don Dunn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard A. Bullock",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tristan Miles Theopholis Dalley",
+      "rol": "Associate Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Daniella Monet",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jake Farrow",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Samantha Martin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Banks",
+      "rol": "Executive In Charge Of Production"
+    },
+    {
+      "nombre": "Hannah Suria",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Marcus Perkins Bejarano",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Don Dunn",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Richard A. Bullock",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Niki Hexum",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Zack Hexum",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Krisha Bullock",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jamie Snow",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tristan Miles Theopholis Dalley",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Ryan Karl Schmidt",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Kelli Dunsmore",
+      "rol": "Costume Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.375,
+    "imdb": "tt35673115",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount, Nickelodeon, Quick to Judge",
+  "trailer": "https://www.youtube.com/watch?v=IXQP43JjY4Q"
+}
