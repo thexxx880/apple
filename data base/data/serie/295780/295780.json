@@ -1,0 +1,87 @@
+{
+  "id_tmdb": 295780,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6Fbrrf2jaYJ8s3nnnuhhvvDjTZN.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/f4fIoY9ZPLlICJaPxyLz0Bwq9f1.png",
+  "titulo": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
+  "titulo_original": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
+  "fecha_estreno": "2026-06-26",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 5.534,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Larry David",
+      "personaje": "Various Characters",
+      "foto": "https://image.tmdb.org/t/p/w500/ojPx93eaDcanOVi4AH14uAFwXhn.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Barack Obama",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michelle Obama",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Larry David",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeff Schaffer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Vinnie Malhotra",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ethan Lewis",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Barack Obama",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michelle Obama",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Larry David",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeff Schaffer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Vinnie Malhotra",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ethan Lewis",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.534,
+    "imdb": "tt37543147",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Higher Ground, HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=Sp7P5JmKvLI"
+}
