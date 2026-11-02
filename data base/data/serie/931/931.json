@@ -1,0 +1,122 @@
+{
+  "id_tmdb": 931,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/evgm79NS64RjQ4F1BjZzoOj7D2L.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kwc3zsKLcXMEZMSJzjAsCawHWeA.png",
+  "titulo": "He-Man y los Amos del Universo",
+  "titulo_original": "He-Man and the Masters of the Universe",
+  "fecha_estreno": "1983-09-05",
+  "duracion": "22min",
+  "año": "1983",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "puntuacion": 7.447,
+  "sinopsis": "El hombre más poderoso del universo, He-Man, se enfrenta a las fuerzas malignas de Skeletor para salvar el planeta Eternia y proteger los secretos del Castillo Grayskull.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "John Erwin",
+      "personaje": "He-Man / Prince Adam / Ram Man / Beast Man / Whiplash / Webstor / Faker / Granamyr (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/q9526ap2Il3LXp3EFdYkI3spmR3.jpg"
+    },
+    {
+      "nombre": "Alan Oppenheimer",
+      "personaje": "Skeletor / Battle Cat / Cringer / Man-at-Arms / Mer-Man / Buzz-Off (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5UAa7wSnoh6JwiAKciCCKB9dnro.jpg"
+    },
+    {
+      "nombre": "Linda Gary",
+      "personaje": "Teela / Evil-Lyn / Queen Marlena / Sorceress of Castle Greyskull (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6HVYuYlTJ5KsAV5ivXgjxcEocMp.jpg"
+    },
+    {
+      "nombre": "Lou Scheimer",
+      "personaje": "Orko / King Randor / Stratos / Mekaneck / Man-E-Faces (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4tIrsOTcDVzE7LNyAIDr1fA5Q8z.jpg"
+    },
+    {
+      "nombre": "Erika Scheimer",
+      "personaje": "Arcadian women (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mbwE2yfg7kZkXqV97ZmIjLwSLEU.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Lou Scheimer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Norm Prescott",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patricia Ryan",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rick Maki",
+      "rol": "Layout"
+    },
+    {
+      "nombre": "Erika Lane",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Haim Saban",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Shuki Levy",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Randy Sanchez",
+      "rol": "Animation"
+    },
+    {
+      "nombre": "Lou Scheimer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brynne Stephens",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Norm Prescott",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patricia Ryan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Erika Lane",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Roger Sweet",
+      "rol": "Thanks"
+    },
+    {
+      "nombre": "Rachel Brenner",
+      "rol": "Storyboard Artist"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.447,
+    "imdb": "tt0126158",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Mattel, Filmation Associates",
+  "trailer": "https://www.youtube.com/watch?v=TzNARHgDROw"
+}
