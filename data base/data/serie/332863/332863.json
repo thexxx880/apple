@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 332863,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/faILRvzJEGdJgb1cYsrGWpsXvqe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3ZaAsFInGLqlmWVKWZu3aWz0Bv7.png",
+  "titulo": "En Coma",
+  "titulo_original": "En Coma",
+  "fecha_estreno": "2026-09-11",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 7.4,
+  "sinopsis": "Luego de que una explosión dejara a Anabel en coma, Rafael —un enfermero que escucha a los muertos— debe ayudarla a mantenerse con vida antes de que sus enemigos la encuentren.",
+  "pais_origen": "CO",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rami Herrera",
+      "personaje": "Anabel",
+      "foto": "https://image.tmdb.org/t/p/w500/nXc7xWVayroObgG3rGi16mEv4to.jpg"
+    },
+    {
+      "nombre": "Jerónimo Cantillo",
+      "personaje": "Rafael",
+      "foto": "https://image.tmdb.org/t/p/w500/g6vBdXinvvSVmOGDKYcftfu07YH.jpg"
+    },
+    {
+      "nombre": "Paola Moreno",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/cdgGagawTFymvXndmRK9a4NEAFp.jpg"
+    },
+    {
+      "nombre": "Julián Trujillo",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/tjnao3I8W3Zk2vslBEAMiAPvoTN.jpg"
+    },
+    {
+      "nombre": "Marcela Carvajal",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/38Mh0yaFusSaRPnsI2sRn0fJrb5.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": "tt45403168",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=6Uo_DxLvi0k"
+}
