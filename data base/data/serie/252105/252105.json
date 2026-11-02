@@ -1,0 +1,132 @@
+{
+  "id_tmdb": 252105,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zOcEo3oQf9KDPPxZueNhReN6TBr.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/1HwmReqhvTkTMQRcPJq7TLtb4kW.png",
+  "titulo": "Golden Axe",
+  "titulo_original": "Golden Axe",
+  "fecha_estreno": "2026-09-16",
+  "duracion": "20min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.875,
+  "sinopsis": "Los legendarios guerreros Ax Battler, Tyris Flare y Gilius Thunderhead se reúnen para salvar a Yuria del malvado gigante Death Adder, que parece no querer quedarse muerto. Su misión se complica por Hampton Squib, un aventurero inexperto y tremendamente mal preparado cuyo sueño de heroísmo supera con creces sus habilidades. Obligados a trabajar juntos a pesar de sus defectos, deben encontrar la manera de detener a Death Adder de una vez por todas.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Matthew Rhys",
+      "personaje": "Gilius Thunderhead (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8uktKexgPn0tsW3dsXVNqkqiNh7.jpg"
+    },
+    {
+      "nombre": "Danny Pudi",
+      "personaje": "Hampton Squib (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/w0zT8Y2dQHU8FgV03NJoHJE6tmD.jpg"
+    },
+    {
+      "nombre": "Lisa Gilroy",
+      "personaje": "Tyris Flare (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zEv5PRAKeQo7a3yCGhm2DJwf20B.jpg"
+    },
+    {
+      "nombre": "Liam McIntyre",
+      "personaje": "Ax Battler (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vTw11F1awNW8AlxInljEsK96cNB.jpg"
+    },
+    {
+      "nombre": "Carl Tart",
+      "personaje": "Chronos 'Evil' Lait (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tSGLxpTVzO3NotWtc3wkzNPdhlR.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mike McMahan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joe Chandler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "里見治紀",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shuji Utsumi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Toru Nakahara",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Neal H. Moritz",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mike McMahan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joe Chandler",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "里見治紀",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shuji Utsumi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Toru Nakahara",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Neal H. Moritz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pavun Shetty",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Toby Ascher",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shannon Prynoski",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Antonio Canobbio",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Kalina",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.875,
+    "imdb": "tt32149571",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Original Film, Titmouse, Sony",
+  "trailer": "https://www.youtube.com/watch?v=sStbBtfGaLA"
+}
