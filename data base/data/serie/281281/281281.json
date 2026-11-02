@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 281281,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/zAnX29DuHgWZUlwcpgruqjlC7yp.png",
+  "titulo": "GIGN: Unidad de élite",
+  "titulo_original": "GIGN",
+  "fecha_estreno": "2026-07-22",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 7.827,
+  "sinopsis": "Tras un ataque sin precedentes contra su unidad, un oficial de alto rango a punto de retirarse lidera una peligrosa misión que lo obliga a enfrentar su pasado.",
+  "pais_origen": "FR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Tomer Sisley",
+      "personaje": "Sylvain Caron",
+      "foto": "https://image.tmdb.org/t/p/w500/2Tqiq9ajbiA0OGbpQDorROU2SO7.jpg"
+    },
+    {
+      "nombre": "Guillaume Gouix",
+      "personaje": "Cédric",
+      "foto": "https://image.tmdb.org/t/p/w500/caQHHQaVmfHHvbchMxB9kJ6JSDm.jpg"
+    },
+    {
+      "nombre": "Philip Schurer",
+      "personaje": "Victor/Terrorist",
+      "foto": "https://image.tmdb.org/t/p/w500/fVC2tOp44gVsrGzUqB745PzgZzk.jpg"
+    },
+    {
+      "nombre": "Nicolas Wanczycki",
+      "personaje": "Alexis Mayard",
+      "foto": "https://image.tmdb.org/t/p/w500/xksvgEBrpOB26BCga8JDqHZRRqZ.jpg"
+    },
+    {
+      "nombre": "Leanna Chea",
+      "personaje": "Tanya",
+      "foto": "https://image.tmdb.org/t/p/w500/6J7wYP48i2qAYjlcxf8RaQh2MoC.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Julien Leclercq",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Julien Madon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Julien Leclercq",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Philippe Guez",
+      "rol": "Line Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Julien Leclercq",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Bonnie Pirès",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Julien Leclercq",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Sylvain Caron",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Elsa Vasseur",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Victor Lockwood",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Léa Raud",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Julien Madon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pierre-Yves Bastard",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Laurent le Crabe",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "Morgane Chaillat",
+      "rol": "Casting Assistant"
+    },
+    {
+      "nombre": "Linda Schwach",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Yann Brouet",
+      "rol": "Stunt Double"
+    },
+    {
+      "nombre": "Sébastien Dugast",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Gwendal Kerdelhue",
+      "rol": "Stunts"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.827,
+    "imdb": "tt35495063",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Labyrinthe Films",
+  "trailer": ""
+}
