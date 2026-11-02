@@ -1,0 +1,50 @@
+{
+  "id_tmdb": 105349,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/yN33jxnGvLSGOSLmNE57vCGPO4z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/w82hsCAFR2vehvtCwznPvnF9zUL.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/u21ZVHtfOqPXNHu3X14eW3xeCPD.png",
+  "titulo": "Cleopatra in Space",
+  "titulo_original": "Cleopatra in Space",
+  "fecha_estreno": "2020-04-15",
+  "duracion": "22min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lilimar",
+      "personaje": "Cleopatra (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cRerzbUsq0TiWe6z0VGtLHz4JOa.jpg"
+    },
+    {
+      "nombre": "Katie Crown",
+      "personaje": "Akila (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mpkqHBsRDs4EAbmWCD0xswicruI.jpg"
+    },
+    {
+      "nombre": "Jorge Diaz",
+      "personaje": "Brian (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gt6c8DRRnAJyHECoVZwEy6x9rpd.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt11343400",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks",
+  "trailer": "https://www.youtube.com/watch?v=3PrfUziQeOY"
+}
