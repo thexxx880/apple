@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 258165,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ck2VRrRpGG3W5wkpFovYlGVLYke.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2IyffVLV1W3R6kgurDA4gwPcsjl.png",
+  "titulo": "Al este del Edén",
+  "titulo_original": "East of Eden",
+  "fecha_estreno": "2026-10-01",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.045,
+  "sinopsis": "A principios del siglo XX, una mujer fuerte e independiente abre una brecha entre dos hermanos... y marca el comienzo de una saga que se extenderá a la siguiente generación.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Florence Pugh",
+      "personaje": "Cathy Ames",
+      "foto": "https://image.tmdb.org/t/p/w500/1QfiLnofJFlOJOLCWaxyDpIN03v.jpg"
+    },
+    {
+      "nombre": "Christopher Abbott",
+      "personaje": "Adam Trask",
+      "foto": "https://image.tmdb.org/t/p/w500/bE7zzh60RXydH3p632ZZSmsTlcn.jpg"
+    },
+    {
+      "nombre": "Mike Faist",
+      "personaje": "Charles Trask",
+      "foto": "https://image.tmdb.org/t/p/w500/xRl1Pa8a80L3QUT7LrTtlTZv1l4.jpg"
+    },
+    {
+      "nombre": "Joseph Zada",
+      "personaje": "Caleb Trask",
+      "foto": "https://image.tmdb.org/t/p/w500/8RnNxrgffoNOu7ZHPSGvYnfjtdI.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Zoe Kazan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Florence Pugh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Garth Davis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Laure de Clermont-Tonnerre",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Antoine Douaihy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Zack Hayden",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Zoe Kazan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Florence Pugh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Garth Davis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Laure de Clermont-Tonnerre",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Antoine Douaihy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Zack Hayden",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeb Stuart",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Grant Major",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mark Robins",
+      "rol": "Supervising Art Director"
+    },
+    {
+      "nombre": "Amber Richards",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Nancy Hennah",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Jacob Tomuri",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Scott Harman",
+      "rol": "Gaffer"
+    },
+    {
+      "nombre": "Kate Sprance",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Fred Enholmer",
+      "rol": "Production Sound Mixer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.045,
+    "imdb": "tt21097264",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fifth Season, Anonymous Content, Collab",
+  "trailer": "https://www.youtube.com/watch?v=M9NWvGZViCg"
+}
