@@ -1,15 +1,33 @@
 {
-  "1": "https://rumble.com/hls-vod/70z560/playlist.m3u8?u=0&b=0",
-  "2": "https://rumble.com/hls-vod/70z56m/playlist.m3u8?u=0&b=0",
-  "3": "https://rumble.com/hls-vod/70z57o/playlist.m3u8?u=0&b=0",
-  "4": "https://rumble.com/hls-vod/70z58u/playlist.m3u8?u=0&b=0",
-  "5": "https://rumble.com/hls-vod/70z5gi/playlist.m3u8?u=0&b=0",
-  "6": "https://rumble.com/hls-vod/70z5gq/playlist.m3u8?u=0&b=0",
-  "7": "https://rumble.com/hls-vod/70z5is/playlist.m3u8?u=0&b=0",
-  "8": "https://rumble.com/hls-vod/70z5ja/playlist.m3u8?u=0&b=0",
-  "9": "https://rumble.com/hls-vod/70z5ou/playlist.m3u8?u=0&b=0",
-  "10": "https://rumble.com/hls-vod/70z5pe/playlist.m3u8?u=0&b=0",
-  "11": "https://rumble.com/hls-vod/70z5rs/playlist.m3u8?u=0&b=0",
-  "12": "https://rumble.com/hls-vod/70z5sg/playlist.m3u8?u=0&b=0",
-  "13": "https://rumble.com/hls-vod/70z5ta/playlist.m3u8?u=0&b=0"
+  "backdrop": "https://image.tmdb.org/t/p/original/BIelSEykzWJrckKCkYIWYKvRFt.jpg",
+  "capitulos": {
+    "1": [
+      "https://hglink.to/e/mi3z0zra677f",
+      "https://voe.sx/e/ggdndpylilbu"
+    ],
+    "2": [
+      "https://hglink.to/e/vlussyyfghgz",
+      "https://voe.sx/e/4bp7rkz6ktq1"
+    ],
+    "3": "https://hglink.to/e/u4lgrayi8qsm",
+    "4": [
+      "https://hglink.to/e/mobtnhfi2mzl",
+      "https://voe.sx/e/ucbyve1pqiud"
+    ],
+    "5": [
+      "https://hglink.to/e/zrolom266r1i",
+      "https://voe.sx/e/6hsfni4todsh"
+    ],
+    "6": [
+      "https://hglink.to/e/jkjb7jhd56g8",
+      "https://voe.sx/e/jmvdbo6fx5ga"
+    ],
+    "7": "https://hglink.to/e/726cgqhs6krx",
+    "8": "https://hglink.to/e/8qn13btyuv6p",
+    "9": [
+      "https://hglink.to/e/frs6kt5oxutc",
+      "https://voe.sx/e/anli15uyr8zf"
+    ],
+    "10": "https://hglink.to/e/g6ql1rir8f4n"
+  }
 }
