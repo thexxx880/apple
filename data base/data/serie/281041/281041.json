@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 281041,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/v0dOqOT7XlHcPEoZ99lYz1D235D.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cUPmAiNaqcJqqPaALBq5fOhSp7i.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/xhdH0iZQFoWYMTE0CHbVB2y6R7W.png",
+  "titulo": "La nena",
+  "titulo_original": "La nena",
+  "fecha_estreno": "2026-04-12",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 8.6,
+  "sinopsis": "Meses después de los sucesos de La Red Púrpura, la cacería no ha terminado. Tras la muerte de Lucas, Elena Blanco ha desaparecido. Solo Mariajo conoce su paradero, manteniéndolo en secreto incluso para el resto del equipo. La lucha contra La Red le arrebató demasiado y en un intento desesperado por recuperar el control de su vida dejó atrás la BAC.",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Nerea Barros",
+      "personaje": "Elena Blanco",
+      "foto": "https://image.tmdb.org/t/p/w500/y6H70nmridQoQD1fxk1cB7F2cHb.jpg"
+    },
+    {
+      "nombre": "Lucía Martín Abello",
+      "personaje": "Chesca",
+      "foto": "https://image.tmdb.org/t/p/w500/cCw1i68v5gNhtqzMpX6KGSy9oZt.jpg"
+    },
+    {
+      "nombre": "Ignacio Montes",
+      "personaje": "Zárate",
+      "foto": "https://image.tmdb.org/t/p/w500/n0jWYq88BgEVodNcL5aNg5aNtJb.jpg"
+    },
+    {
+      "nombre": "Mona Martínez",
+      "personaje": "Mariajo",
+      "foto": "https://image.tmdb.org/t/p/w500/v3mMZJtJGUQJEA2LYFogpZ8fIjw.jpg"
+    },
+    {
+      "nombre": "Vicente Romero Sánchez",
+      "personaje": "Orduño",
+      "foto": "https://image.tmdb.org/t/p/w500/pU6kpbJPJ2bZqKF005qtD5xug2n.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ignacio Corrales",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paco Cabezas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jordi Frades",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "José Rodríguez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jaume Banacolocha",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Laura García Álvarez",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Carmen Mola",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Ignacio Corrales",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paco Cabezas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jordi Frades",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "José Rodríguez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jaume Banacolocha",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Laura García Álvarez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ignasi Serra",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lucía Alonso-Allende",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Laura García Álvarez",
+      "rol": "Production Director"
+    },
+    {
+      "nombre": "Ana María Melero",
+      "rol": "Production Director"
+    },
+    {
+      "nombre": "Andreu Adam Rubiralta",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Julio Llorente",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Guillermo Spoltore",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Miguel A. Trudu",
+      "rol": "Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.6,
+    "imdb": "tt45372916",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Buendía Estudios, Diagonal TV",
+  "trailer": "https://www.youtube.com/watch?v=kMEl1dh3oAQ"
+}
