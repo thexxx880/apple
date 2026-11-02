@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 301626,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/cHWIztU7qYEDFE2eAQsWFdGS19d.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3qJkR0Nsjaq5sUEv6ijaDdIdawE.png",
+  "titulo": "Historia de dos ciudades",
+  "titulo_original": "A Tale of Two Cities",
+  "fecha_estreno": "2026-09-06",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 7.5,
+  "sinopsis": "Londres, 1782. La tensión es máxima en la guerra entre Francia e Inglaterra. La vida de una joven, Lucie Manette, da un vuelco cuando recibe un mensaje de París: su padre, al que se creía muerto desde hace casi 20 años, podría estar vivo. El mensajero, el idealista emigrado francés Charles Darnay, es arrestado y acusado de traición. Lucie buscará la ayuda de un brillante pero inestable joven abogado, Sydney Carton, para liberar a Darnay con la esperanza de que la lleve a París para encontrar a su padre. El encuentro de Lucie con Darnay y Carton desata un poderoso y complejo triángulo amoroso, y los dos hombres lucharán por ser dignos del amor de la mujer mientras ella se debate entre uno u otro.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "François Civil",
+      "personaje": "Charles Darnay",
+      "foto": "https://image.tmdb.org/t/p/w500/vSkggoDmEHl820VMBzpGkjARU2z.jpg"
+    },
+    {
+      "nombre": "Mirren Mack",
+      "personaje": "Lucie Manette",
+      "foto": "https://image.tmdb.org/t/p/w500/3xOiyeum1KDzlPqnfrPeEQh8kOE.jpg"
+    },
+    {
+      "nombre": "Kit Harington",
+      "personaje": "Sydney Carton",
+      "foto": "https://image.tmdb.org/t/p/w500/iGXlJbExWwZmo9sUDsYuzf4Sv4y.jpg"
+    },
+    {
+      "nombre": "Sharon Duncan-Brewster",
+      "personaje": "Hester Lorry",
+      "foto": "https://image.tmdb.org/t/p/w500/gp5h6rOrqBrIGgID4AMd58O6Ow6.jpg"
+    },
+    {
+      "nombre": "Guillaume Gallienne",
+      "personaje": "Alexandre Manette",
+      "foto": "https://image.tmdb.org/t/p/w500/nponKvpwED1CivIY3f2NlQGLWE9.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Léo Becker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kit Harington",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel West",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Simon Meyers",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hong Khaou",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Polly Williams",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Charles Dickens",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Léo Becker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kit Harington",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel West",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Simon Meyers",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hong Khaou",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Polly Williams",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Best",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rhian Griffiths",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jill Trevellick",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Samuel Sim",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ricky Eyres",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "György Rajna",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Archie Enfield",
+      "rol": "Script Editor"
+    },
+    {
+      "nombre": "Gabriella Csoma",
+      "rol": "Line Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.5,
+    "imdb": "tt38128417",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Federation Stories, Thriker Films, Federation Studios",
+  "trailer": "https://www.youtube.com/watch?v=tdu7qLyPIBI"
+}
