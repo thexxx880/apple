@@ -1,0 +1,54 @@
+{
+  "id_tmdb": 289423,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2KLblBXNDX05ZqLwubCyjeokGvZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cnb3SelfQKewpo0bw4HCNRHjwY4.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/dBjyaedFiu0lc74khIveB1ELqPz.png",
+  "titulo": "La chispa del amor",
+  "titulo_original": "나를 충전해줘",
+  "fecha_estreno": "2026-10-09",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 8.7,
+  "sinopsis": "Cuando un heredero con un corazón artificial conoce a una mujer —literalmente— eléctrica, hacen un trato que hará latir su corazón en más de un sentido.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "김영광",
+      "personaje": "Baek Ho-rang",
+      "foto": "https://image.tmdb.org/t/p/w500/z7tQSbWHEfXeWMYHNNDGXW9Idfl.jpg"
+    },
+    {
+      "nombre": "채수빈",
+      "personaje": "Na Bo-bae",
+      "foto": "https://image.tmdb.org/t/p/w500/uHVJPhxn9b9tHK30KTxQpdGIs9K.jpg"
+    },
+    {
+      "nombre": "Cha Woo-min",
+      "personaje": "Ji Eun-ho",
+      "foto": "https://image.tmdb.org/t/p/w500/z8Lz0Opnl4i7Aj8b7jC4qYP01xJ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "해번",
+      "rol": "Other"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.7,
+    "imdb": "tt37737331",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Whynot Media, Next Entertainment World",
+  "trailer": "https://www.youtube.com/watch?v=z_D5uXaDsVU"
+}
