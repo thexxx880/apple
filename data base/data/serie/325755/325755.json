@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 325755,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kGqVIxC0FH4AbbBXjaVFqXQ3Azz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/5wdasXGWIn1djzEdiYrR9V2Ts2G.png",
+  "titulo": "El club gastronómico",
+  "titulo_original": "De Eetclub",
+  "fecha_estreno": "2026-09-10",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 6.385,
+  "sinopsis": "Luego de que uno de ellos muere en un incendio, cuatro parejas que parecían perfectas se ven forzadas a cuestionar todo lo que creían saber los unos de los otros.",
+  "pais_origen": "NL",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Loes Haverkort",
+      "personaje": "Karen van der Made",
+      "foto": "https://image.tmdb.org/t/p/w500/7Mz5pEkDGCXWY5nhiwSn8yWDFjx.jpg"
+    },
+    {
+      "nombre": "Remko Vrijdag",
+      "personaje": "Ivo Smit",
+      "foto": "https://image.tmdb.org/t/p/w500/g6KW48DqW8kcd2JkKRdUDyMrerk.jpg"
+    },
+    {
+      "nombre": "Noortje Herlaar",
+      "personaje": "Babette Struyck",
+      "foto": "https://image.tmdb.org/t/p/w500/9UupimmSLCQ7uoLCg2wDOcmTjAJ.jpg"
+    },
+    {
+      "nombre": "Edwin Jonker",
+      "personaje": "Evert Struyck",
+      "foto": "https://image.tmdb.org/t/p/w500/6oTvPHOxmwMVoZp6sCb6xzo3wNk.jpg"
+    },
+    {
+      "nombre": "Rifka Lodeizen",
+      "personaje": "Hanneke Lemstra",
+      "foto": "https://image.tmdb.org/t/p/w500/l5hLOMTloXy9WKSX3WNA5MyXnfk.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 6.385,
+    "imdb": "tt37439410",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fiction Valley",
+  "trailer": "https://www.youtube.com/watch?v=FnwySGfFTdc"
+}
