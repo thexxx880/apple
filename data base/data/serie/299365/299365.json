@@ -1,0 +1,80 @@
+{
+  "id_tmdb": 299365,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/fncnCnQX2pcrAQSCiyLjaf7UQCB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nxOsQE8UrifZpQ9hcZ7xjMHEbmn.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/iVx7E7z9tFExlPv0dGeyKNpd1bc.png",
+  "titulo": "Un nuevo comienzo",
+  "titulo_original": "신입사원 강회장",
+  "fecha_estreno": "2026-05-30",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.276,
+  "sinopsis": "Kang Yong Ho, presidente del Grupo Choi Sung, está a punto de jubilarse triunfalmente, hasta que un extraño accidente hace que su cuerpo se intercambie con el de un empleado novato. De las salas de juntas a las hojas de cálculo de Excel, ahora debe sobrevivir a la vida de oficina desde lo más bajo, descubriendo el humor y la humildad al empezar de cero.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lee Jun-young",
+      "personaje": "Hwang Jun-hyeon / Kang Yong-ho",
+      "foto": "https://image.tmdb.org/t/p/w500/zH8kiGox6n3FD82MKEhUq79X6gj.jpg"
+    },
+    {
+      "nombre": "손현주",
+      "personaje": "Kang Yong-ho",
+      "foto": "https://image.tmdb.org/t/p/w500/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
+    },
+    {
+      "nombre": "이주명",
+      "personaje": "Kang Bang-geul",
+      "foto": "https://image.tmdb.org/t/p/w500/3QpMVrG7fQH0QIfvlc5LczKGTW7.jpg"
+    },
+    {
+      "nombre": "전혜진",
+      "personaje": "Kang Jae-kyung",
+      "foto": "https://image.tmdb.org/t/p/w500/7PliJIOzUei41vyE9FaIWvFMNzC.jpg"
+    },
+    {
+      "nombre": "진구",
+      "personaje": "Kang Jae-seong",
+      "foto": "https://image.tmdb.org/t/p/w500/jL0bhHE8vIEomP1Zdz3a0ryXXgk.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "고혜진",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "고혜진",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Hyun Ji-min",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "김순옥",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "산경",
+      "rol": "Novel"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.276,
+    "imdb": "tt42206645",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "SLL, Copus Korea",
+  "trailer": "https://www.youtube.com/watch?v=C1Dipc12CtY"
+}
