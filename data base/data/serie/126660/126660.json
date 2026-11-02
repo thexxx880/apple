@@ -1,0 +1,64 @@
+{
+  "id_tmdb": 126660,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jJ9SjrX7tEAwHigRq20TeANhH1Q.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/b7ANUUupHb9sxoMyiArsxFvSJxm.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/pydI5iEZt2Jzim2A07mXrHQg3gx.png",
+  "titulo": "Profesor T",
+  "titulo_original": "Professor T",
+  "fecha_estreno": "2021-07-18",
+  "duracion": "24min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "El profesor de criminología Jasper Tempest utiliza su mente brillante para ayudar a la policía a resolver casos complejos. Sin embargo, su obsesión por el orden y la limpieza y su pasado traumático complican su vida personal y su trabajo.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ben Miller",
+      "personaje": "Professor Tempest",
+      "foto": "https://image.tmdb.org/t/p/w500/ij5nhtBWhCaOl4IEn8XhOYAGqB1.jpg"
+    },
+    {
+      "nombre": "Barney White",
+      "personaje": "Dan Winters",
+      "foto": "https://image.tmdb.org/t/p/w500/a43kmXK330UTPGRDEBjTglRsr3B.jpg"
+    },
+    {
+      "nombre": "Sarah Woodward",
+      "personaje": "Ingrid Snares",
+      "foto": "https://image.tmdb.org/t/p/w500/fgT8sn3NnXbs33eQCBm6VIuPSGh.jpg"
+    },
+    {
+      "nombre": "Douglas Reith",
+      "personaje": "Dean",
+      "foto": "https://image.tmdb.org/t/p/w500/48dfosYTTfngOeX00ngo0uF2tgt.jpg"
+    },
+    {
+      "nombre": "Juliet Stevenson",
+      "personaje": "Helena Goldberg",
+      "foto": "https://image.tmdb.org/t/p/w500/qiS6E7t5EbqRpWToggQwC3xIdDF.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Lise D'Haeyer",
+      "rol": "Set Dresser"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt11981644",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "ITV, Eagle Eye Drama",
+  "trailer": "https://www.youtube.com/watch?v=ZcmIiO7qYQ0"
+}
