@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 327787,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6YJwwuKbJvV8nwK97nH1rsfmLFh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zpTNB0licXtjKPA7DIYskbfd01U.jpg",
+  "logo": "",
+  "titulo": "Salcedo, cuero y boogaloo",
+  "titulo_original": "Salcedo, cuero y boogaloo",
+  "fecha_estreno": "2026-07-08",
+  "duracion": "6min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 6,
+  "sinopsis": "Martín Salcedo no suele dejarse llevar, pero todo cambia cuando Verónica Pinilla y el Quiebra Canto redoblan las fiestas, el alcohol... y el peligro.",
+  "pais_origen": "CO",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Vincitore Balanta",
+      "personaje": "Octavio",
+      "foto": ""
+    },
+    {
+      "nombre": "Ramiro Meneses",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/eiBkOmeL4nVEl3VDzAolCqQ5EhQ.jpg"
+    },
+    {
+      "nombre": "Sergio Palau",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/x0vdBgLKgbdi5a3nQW2avxDOvEg.jpg"
+    },
+    {
+      "nombre": "Paola González",
+      "personaje": "Veronica",
+      "foto": ""
+    },
+    {
+      "nombre": "Julian Zuluaga M",
+      "personaje": "Angelito",
+      "foto": "https://image.tmdb.org/t/p/w500/hHqiCfBZgsuIuDPZZQoTvaoVQGF.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 6,
+    "imdb": "tt43588603",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=a_VvcZQTeH4"
+}
