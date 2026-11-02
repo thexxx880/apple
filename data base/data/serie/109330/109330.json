@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 109330,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/zqlgW66GWF7nD4ZMVLhwenesjbP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/93mtIi3zXrZHPKgDukDtbfM89yn.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/qSpYFKePRlPe60kfp4whQ6mQ16t.png",
+  "titulo": "Madagascar: Algo Salvaje",
+  "titulo_original": "Madagascar: A Little Wild",
+  "fecha_estreno": "2020-09-07",
+  "duracion": "23min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Kids"
+  ],
+  "puntuacion": 7,
+  "sinopsis": "Un grupo de pequeños habitantes del zoológico de Central Park tienen grandes planes y sueños, como cualquier residente de Nueva York.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Tucker Chandler",
+      "personaje": "Alex (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kvK2RIgXeWMRSCkeTRP9iVRZrjJ.jpg"
+    },
+    {
+      "nombre": "Amir O'Neil",
+      "personaje": "Marty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lHozcQlscv9FV3YmHKU2cA2eTyu.jpg"
+    },
+    {
+      "nombre": "Luke Lowe",
+      "personaje": "Melman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8L2kpJQfwpcMOcoDcUe9QTYh32o.jpg"
+    },
+    {
+      "nombre": "Shaylin Becton",
+      "personaje": "Gloria (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/A7Y7l8qEDQQ7V0gy56p2YIeqMbL.jpg"
+    },
+    {
+      "nombre": "Charlie Adler",
+      "personaje": "Murray (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hVENHdlEqsX6vhBW4MTpfYEFFQ3.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mercedes Domínguez",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Dana Starfield",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Johanna Stein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Saul Blinkoff",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Neil Bruder",
+      "rol": "Layout Supervisor"
+    },
+    {
+      "nombre": "Alexandra Savio",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Mercedes Domínguez",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Ivan Garcia",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "Clare Yezerski",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Vivian Aguiar-Buff",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Rebecca Bllesteros",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Bianca K. Dansoh",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Dana Starfield",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Sam Bissonnette",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Andy Youssi",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Katie Galvan",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Johanna Stein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Darshan Rickni",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Daniel Wexller",
+      "rol": "CG Supervisor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": "tt11714912",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DreamWorks",
+  "trailer": "https://www.youtube.com/watch?v=Ld_GpMBQIqQ"
+}
