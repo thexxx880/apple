@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 68340,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/nO9Ik4eH7RTX9r11qPtUWfMsWJA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jAs6nprfPlm9Mh2lCLVoCtq0T5r.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rvtYPXmB91rBqbK7taKXyfciqLr.png",
+  "titulo": "El Chapulín Colorado animado",
+  "titulo_original": "El Chapulín Colorado animado",
+  "fecha_estreno": "2015-04-13",
+  "duracion": "24min",
+  "año": "2015",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 8.5,
+  "sinopsis": "La serie tiene técnicamente el mismo argumento de la serie original. Sin embargo, a diferencia de la versión original, aquí se muestra también la vida del Chapulín Colorado fuera del combate contra el mal, así como la base donde se organiza y se asegura de ayudar a la gente correcta. El cuenta con la ayuda del Profesor Inventillo y de sus inventos, así como de la nieta del profesor; Dulce , quien está enamorada del Chapulín en secreto.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jesús Guzmán",
+      "personaje": "El Chapulín Colorado (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/m3bbEELSWpZaF4bbyQT8e0BkF7w.jpg"
+    },
+    {
+      "nombre": "Erica Edwards",
+      "personaje": "Periquita Mozcorra (Reportera)",
+      "foto": "https://image.tmdb.org/t/p/w500/l9U0KLIyYz2SqqKdC9WEEmXoFDi.jpg"
+    },
+    {
+      "nombre": "Arturo Mercado",
+      "personaje": "Profesor Inventillo",
+      "foto": "https://image.tmdb.org/t/p/w500/6AZYxnOiFh57ykUMn3FX4r3wacc.jpg"
+    },
+    {
+      "nombre": "Julieta Beatriz Rivera Martínez",
+      "personaje": "Dulce Inventillo",
+      "foto": ""
+    },
+    {
+      "nombre": "Mario Enrique Horiuchi Eboli",
+      "personaje": "Comandante Chacota",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Roberto Gómez Fernández",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Heriberto López de Anda",
+      "rol": "Director"
+    },
+    {
+      "nombre": "maribel aguilar ruiz",
+      "rol": "Coordinating Producer"
+    },
+    {
+      "nombre": "Fernando de Fuentes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "José C. García de Letona",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ileana Vázquez y Gama",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chespirito",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Roberto Gómez Fernández",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Heriberto López de Anda",
+      "rol": "Director"
+    },
+    {
+      "nombre": "maribel aguilar ruiz",
+      "rol": "Coordinating Producer"
+    },
+    {
+      "nombre": "Fernando de Fuentes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "José C. García de Letona",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "eric david cabello",
+      "rol": "Director of Operations"
+    },
+    {
+      "nombre": "Ileana Vázquez y Gama",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mariana Suárez Molnar",
+      "rol": "Production Office Assistant"
+    },
+    {
+      "nombre": "Karin Salazar González",
+      "rol": "Assistant Production Coordinator"
+    },
+    {
+      "nombre": "David Salinas Garfias",
+      "rol": "Assistant Production Coordinator"
+    },
+    {
+      "nombre": "Ibán Santillán",
+      "rol": "Production Designer"
+    },
+    {
+      "nombre": "rosa maria campos",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "r. pamela drago perez",
+      "rol": "Art Department Assistant"
+    },
+    {
+      "nombre": "Julián Van Bores",
+      "rol": "Character Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.5,
+    "imdb": "tt4437732",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Ánima Estudios, Televisa, Vix",
+  "trailer": ""
+}
