@@ -1,0 +1,88 @@
+{
+  "id_tmdb": 3215,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/bTWh5oXr9eiJB8ohm1IQFBkdtdI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3Ujyp6wzwcfPp76K7XqP5CYYxPE.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/xCb0J8C5aD2PNS23ek9KExXQWJc.png",
+  "titulo": "El Príncipe Del Café",
+  "titulo_original": "커피프린스 1호점",
+  "fecha_estreno": "2007-07-02",
+  "duracion": "62min",
+  "año": "2007",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 8.13,
+  "sinopsis": "La vida de Go Eun Chan no es nada fácil, debe trabajar en distintos empleos para poder pagar sus deudas, e incluso renunciar a su imagen femenina. Choi Han Kyul (Gong Yoo) es el heredero de una gran compañía de comestibles, pero su abuela quiere que éste siente cabeza, por lo que ha arreglado varias citas para él. Luego de que Eun Chan tropezara con Han Kyul y éste lo confundiera con un chico, Han Kyul decide contratar a Eun Chan para que sea su amante \"gay\" a fin de evitar las citas dispuestas. Desesperada por algo de dinero, Eun Chan no tiene más remedio que aceptar. Además, la abuela de Han Kyul también lo ha dejado a cargo de una pequeña cafetería, sucia y en riesgo de quebrar. Eun Chan pide trabajar en la cafetería, y no mucho después, los sentimientos empiezan a florecer, excepto que ¿cómo hará Han Kyul para aceptar su \"homosexualidad\"?",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Gong Yoo",
+      "personaje": "Choi Han-kyul",
+      "foto": "https://image.tmdb.org/t/p/w500/ocGoFb6TrK3uWGXt4WnuibUG1vD.jpg"
+    },
+    {
+      "nombre": "윤은혜",
+      "personaje": "Go Eun-chan",
+      "foto": "https://image.tmdb.org/t/p/w500/bJo2zC2Nmqa3VoyNtidfwAElfrw.jpg"
+    },
+    {
+      "nombre": "이선균",
+      "personaje": "Choi Han-sung",
+      "foto": "https://image.tmdb.org/t/p/w500/nHFBbSFohzOUOvMxPVwe3Es2nJw.jpg"
+    },
+    {
+      "nombre": "채정안",
+      "personaje": "Han Yoo-joo",
+      "foto": "https://image.tmdb.org/t/p/w500/242dNGEsHLaMIEpwWtsbX5lgEa9.jpg"
+    },
+    {
+      "nombre": "김창완",
+      "personaje": "Hong Gae-shik",
+      "foto": "https://image.tmdb.org/t/p/w500/g1F7rIJ1FVMct4O0Q6B63RD7ICd.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Lee Eun-kyung",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "이윤정",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lee Sun Mi",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Lee Eun-kyung",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jang Hyun Joo",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Lee Jung-ah",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "이윤정",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.13,
+    "imdb": "tt1772685",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "MBC",
+  "trailer": ""
+}
