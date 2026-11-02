@@ -1,0 +1,106 @@
+{
+  "id_tmdb": 314478,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/bRyUIj9iXzKiGUgmU2U7yd0QgWM.png",
+  "titulo": "Dang!",
+  "titulo_original": "Dang!",
+  "fecha_estreno": "2026-09-08",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "puntuacion": 6.231,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Stephanie Hsu",
+      "personaje": "Ruthie Dang (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg"
+    },
+    {
+      "nombre": "Andrew Law",
+      "personaje": "Andrew Dang (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ambF0ZmnMhHxZAd7cNHFLwur8Tt.jpg"
+    },
+    {
+      "nombre": "Poppy Liu",
+      "personaje": "Eunice Dang (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/i36QkUChZN7K8BQa1ReaZHes6L4.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Andrew Law",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Murray",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Schur",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Schleicher",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Andrew Law",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Murray",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Schur",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrew Law",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Lawrence Dai",
+      "rol": "Executive Story Editor"
+    },
+    {
+      "nombre": "Taryn Englehart",
+      "rol": "Executive Story Editor"
+    },
+    {
+      "nombre": "Sabrina Wu",
+      "rol": "Executive Story Editor"
+    },
+    {
+      "nombre": "Kaitlyn Jeffers",
+      "rol": "Writers' Assistant"
+    },
+    {
+      "nombre": "Chris Schleicher",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Angela Victoria Llerena",
+      "rol": "Color Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.231,
+    "imdb": "tt40003445",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Titmouse, Universal, Rodeoscope",
+  "trailer": "https://www.youtube.com/watch?v=utE1mDVY0cA"
+}
