@@ -1,0 +1,94 @@
+{
+  "id_tmdb": 89092,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6MraV12DdZjQEgQztjTQ2s9t5CK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vDPYtN7cdfYMFA8apUueyW5eiJs.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/1iTgex8s1uDEbVgegIMZBhCao1.png",
+  "titulo": "Barbie: Dreamhouse Adventures",
+  "titulo_original": "Barbie: Dreamhouse Adventures",
+  "fecha_estreno": "2018-05-03",
+  "duracion": "23min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Kids",
+    "Comedia"
+  ],
+  "puntuacion": 7.7,
+  "sinopsis": "Acompáñanos a ver las aventuras de Barbie y sus hermanas, Chelsea, Stacie y Skipper,",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "America Young",
+      "personaje": "Barbie Roberts (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xxAr9L5Cto6q4H0nnxvhnnre1Qe.jpg"
+    },
+    {
+      "nombre": "Cassidy Naber",
+      "personaje": "Chelsea Roberts (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cBEu44VFG0VUpwBtvGOBYubJugK.jpg"
+    },
+    {
+      "nombre": "Kirsten Day",
+      "personaje": "Skipper Roberts (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jNAZCkTK5mK3JOIdlxFrAw307KX.jpg"
+    },
+    {
+      "nombre": "Cassandra Lee Morris",
+      "personaje": "Stacie Roberts (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iXUQ4SGQhVAAsyJjNO35IeMPGZH.jpg"
+    },
+    {
+      "nombre": "Ritesh Rajan",
+      "personaje": "Ken Carson (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jGvKcMTjaATcKdfyehK4AacDSvG.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Christopher Keenan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julia Pistor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Conrad Helten",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Christopher Keenan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julia Pistor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Grant Moran",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Benjamin Roberts",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Conrad Helten",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": "tt7661472",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Mattel Creations, Rainmaker Studios",
+  "trailer": "https://www.youtube.com/watch?v=tKClu2mTeiw"
+}
