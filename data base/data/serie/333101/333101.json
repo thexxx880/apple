@@ -1,0 +1,135 @@
+{
+  "id_tmdb": 333101,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/rnTcsrrDckwC2QmEQ1M7YfJDMN7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kgKGETBJYWkZv3q70B20a5f5xoj.png",
+  "titulo": "La Isla Del Tesoro",
+  "titulo_original": "Treasure Island",
+  "fecha_estreno": "2026-10-11",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Action & Adventure"
+  ],
+  "puntuacion": 6.737,
+  "sinopsis": "Cuando Jim se hace con un legendario mapa del tesoro, las acciones inteligentes y decididas de su madre, Bess, hacen que él acabe en posesión de una valiosa información que pone en peligro la vida de ambos. A bordo del «Hispaniola», Jim y Bess se ven atrapados entre el encantador y aterrador pirata Long John Silver y el elegante y traicionero agente británico Aaron Graham.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "David Oyelowo",
+      "personaje": "Long John Silver",
+      "foto": "https://image.tmdb.org/t/p/w500/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg"
+    },
+    {
+      "nombre": "Tom Sweet",
+      "personaje": "Jim Hawkins",
+      "foto": "https://image.tmdb.org/t/p/w500/w4CjZHZ5PNSEP4Z1BKuVgCeAXMV.jpg"
+    },
+    {
+      "nombre": "תומר קאפון",
+      "personaje": "Billy Bones",
+      "foto": "https://image.tmdb.org/t/p/w500/r6s7dkYZUJpd00C7p9itT6Gp8XB.jpg"
+    },
+    {
+      "nombre": "Craige Els",
+      "personaje": "Mr. Arrow",
+      "foto": "https://image.tmdb.org/t/p/w500/8zvmwwRRTLn7lsZpRlJBAeK8l9a.jpg"
+    },
+    {
+      "nombre": "Neil Pendleton",
+      "personaje": "Mr. Cameron",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mark Hedges",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Scott Huff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Colin Callender",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Gratton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David A. Stern",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Murphy",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Hedges",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Scott Huff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Colin Callender",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Gratton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David A. Stern",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Murphy",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeremy Lovering",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Louis Stevenson",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Silvia Aráez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Will Poole",
+      "rol": "Production Executive"
+    },
+    {
+      "nombre": "Alex Baranowski",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Sebastian Cardwell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul Testar",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.737,
+    "imdb": "tt40385667",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Playground Entertainment, Paramount",
+  "trailer": "https://www.youtube.com/watch?v=UsFVIvngwRA"
+}
