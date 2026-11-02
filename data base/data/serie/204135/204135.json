@@ -1,0 +1,130 @@
+{
+  "id_tmdb": 204135,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hoLPJjPfYdEWJXG1y7OCgOeipaF.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/hUlANqWyQyIvEUARxeAyP9vzaYU.png",
+  "titulo": "Dragon Striker",
+  "titulo_original": "Dragon Striker",
+  "fecha_estreno": "2026-06-09",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Familia",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.9,
+  "sinopsis": "En un mundo donde el deporte y la magia se combinan, el joven granjero Key descubre su talento natural superpoderoso y se entera de que podría ser el legendario Dragon Striker.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Akshay Kumar",
+      "personaje": "Key (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ynbrjFIC9jRKUL2xw4G3HvvFSIH.jpg"
+    },
+    {
+      "nombre": "Rebecca LaChance",
+      "personaje": "Ssyelle (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Yeukayi Ushe",
+      "personaje": "Milo (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Waylon Jacobs",
+      "personaje": "Odward (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2kNU24pjrowveySPRgKe1CHtoMk.jpg"
+    },
+    {
+      "nombre": "Evanna Lynch",
+      "personaje": "Ameline (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mebDQC5FnPVYYRxqmhCVVdl8fVM.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sylvain Dos Santos",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charles Lefebvre",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kevin Penkin",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Sylvain Dos Santos",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charles Lefebvre",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amanda Achen",
+      "rol": "Vocals"
+    },
+    {
+      "nombre": "John Robert Matz",
+      "rol": "Vocals"
+    },
+    {
+      "nombre": "Paolo Andrea Di Pietro",
+      "rol": "Vocals"
+    },
+    {
+      "nombre": "Martial Sonino",
+      "rol": "Lead Character Designer"
+    },
+    {
+      "nombre": "Gaëlle Autin",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Camille Blanchard",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Morgane Bouguen",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Lou-Ann Bouthillier",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Tristan Brard",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Bénédicte Ciaravino",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Clara Danjoux",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Baptiste Gaubert",
+      "rol": "Character Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.9,
+    "imdb": "tt21056976",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "La Chouette Compagnie, Disney",
+  "trailer": "https://www.youtube.com/watch?v=qVeikhEKaY0"
+}
