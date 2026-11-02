@@ -1,0 +1,81 @@
+{
+  "id_tmdb": 335319,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/heoESrHAdmPeYECs2B7R8RIqLyN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/H8VA7K15NWVKLbUbp8ZQ17zvU2.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ERDwCJm22CvH02X8daZkAqVhdO.png",
+  "titulo": "El experimento de la cárcel de Stanford: Un nuevo enfoque",
+  "titulo_original": "The New Stanford Prison Experiment",
+  "fecha_estreno": "2026-10-21",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Reality"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "En esta reinterpretación moderna del infame estudio de Stanford, treinta personas ingresan en una cárcel real durante dos semanas, y las cambiantes dinámicas de poder revelan de qué son capaces.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jane Lipsitz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Cutforth",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nan Strait",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Volpe",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeff Grogan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mike Odair",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jane Lipsitz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Cutforth",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nan Strait",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Volpe",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeff Grogan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mike Odair",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt46658083",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Alfred Street Industries",
+  "trailer": "https://www.youtube.com/watch?v=L1aOgRKwi5Q"
+}
