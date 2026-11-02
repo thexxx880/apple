@@ -1,0 +1,80 @@
+{
+  "id_tmdb": 2352,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1zIzD5HJdf5pJumIvnGe4FOIxnQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hCUOckGQ4WnYRoCPFSTdxxErnr7.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/asDlyW1s9XKahmi9f03j2yln0m4.png",
+  "titulo": "La Niñera",
+  "titulo_original": "The Nanny",
+  "fecha_estreno": "1993-11-03",
+  "duracion": "24min",
+  "año": "1993",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 8.05,
+  "sinopsis": "La Niñera es una comedia de televisión estadounidense originalmente transmitida en 1993-99 en CBS, con Fran Drescher como Fran Fine, una nativa judía que se convierte en la niñera de tres niños de la alta sociedad de Nueva York y Gran Bretaña. Creada y producida por Drescher y su entonces marido Peter Marc Jacobson, The Nanny tomó gran parte de su inspiración de la vida personal de Drescher creciendo en Queens.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Fran Drescher",
+      "personaje": "Fran Fine",
+      "foto": "https://image.tmdb.org/t/p/w500/6IQlygYDyxuIRD5j9lPluknYoJp.jpg"
+    },
+    {
+      "nombre": "Charles Shaughnessy",
+      "personaje": "Maxwell Sheffield",
+      "foto": "https://image.tmdb.org/t/p/w500/dTgLchpZE68noJYkgKa43QijGnL.jpg"
+    },
+    {
+      "nombre": "Daniel Davis",
+      "personaje": "Niles",
+      "foto": "https://image.tmdb.org/t/p/w500/tzUjClFGhYDcTb2hYc8uk5oYfSs.jpg"
+    },
+    {
+      "nombre": "Lauren Lane",
+      "personaje": "C.C. Babcock",
+      "foto": "https://image.tmdb.org/t/p/w500/8qgllyegMpr2msgu2sdgz8boOcb.jpg"
+    },
+    {
+      "nombre": "Nicholle Tom",
+      "personaje": "Margaret Sheffield",
+      "foto": "https://image.tmdb.org/t/p/w500/wt0yMc6HE4BluslbJ7aHbAoAr3Y.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Fran Drescher",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Marc Jacobson",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Andy Mackenzie",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Fran Drescher",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Marc Jacobson",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.05,
+    "imdb": "tt0106080",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "TriStar Television, Sternin & Fraser Ink, Highschool Sweethearts",
+  "trailer": "https://www.youtube.com/watch?v=OHK-1WTRQAM"
+}
