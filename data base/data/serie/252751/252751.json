@@ -1,0 +1,125 @@
+{
+  "id_tmdb": 252751,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ttfk34wnKFTKK4LkoRR4dCV9u5n.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2HuHGBzavbM7YTizGabBGpP0Spv.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ouDqzUFBkiFXphg4GCfdEKtpKqG.png",
+  "titulo": "Leanne",
+  "titulo_original": "Leanne",
+  "fecha_estreno": "2025-07-31",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 6.92,
+  "sinopsis": "Cuando su esposo la deja por otra mujer, una resiliente madre del sur de EE. UU. comienza a rehacer su vida con la ayuda de su amorosa y sincera familia.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Leanne Morgan",
+      "personaje": "Leanne",
+      "foto": "https://image.tmdb.org/t/p/w500/e2BhxZdgZKzDxita7MUbo3c9JgK.jpg"
+    },
+    {
+      "nombre": "Kristen Johnston",
+      "personaje": "Carol",
+      "foto": "https://image.tmdb.org/t/p/w500/am4NUVEhhaIVjaojq8XXBmtVWkz.jpg"
+    },
+    {
+      "nombre": "Celia Weston",
+      "personaje": "Mama Margaret",
+      "foto": "https://image.tmdb.org/t/p/w500/pQYygvqfmKnK4weuUCLUX45q5AJ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Amy Hubbs",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Anne Flett-Giordano",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Leanne Morgan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chuck Lorre",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Russell Griffin",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Nick Bakay",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John \"Jack\" O'Brien",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Amy Hubbs",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Anne Flett-Giordano",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Leanne Morgan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chuck Lorre",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Francoise Cherry-Cohen",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Russell Griffin",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Nick Bakay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Gross",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Julie Bean",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Ken Miller",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Tara Treacy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Karla Stevens Flanigan",
+      "rol": "Costume Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.92,
+    "imdb": "tt32213668",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Chuck Lorre Productions, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=XHFFXU8-q7g"
+}
