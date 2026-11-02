@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 287009,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jdwk9XFHEAyNGbHuxThwl0DJ7e6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7KpvkMnbRsyrAlnrZpbnEWC42AE.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/49WpZ5SiSyC9ab6gGsH9i7KXuJk.png",
+  "titulo": "Doctor al borde del amor",
+  "titulo_original": "닥터 섬보이",
+  "fecha_estreno": "2026-06-01",
+  "duracion": "67min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "Do Ji ui, un cirujano destinado a una isla remota para cumplir su servicio militar, pronto se enfrenta a un entorno inquietante que pondrá a prueba su resistencia y su cordura.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "이재욱",
+      "personaje": "Do Ji-ui",
+      "foto": "https://image.tmdb.org/t/p/w500/9dsWM2kiXO4utrg4GctdXDvhOKD.jpg"
+    },
+    {
+      "nombre": "신예은",
+      "personaje": "Yuk Ha-ri",
+      "foto": "https://image.tmdb.org/t/p/w500/dQpKiD0NxNyC1VDSrz79gZGyYe8.jpg"
+    },
+    {
+      "nombre": "홍민기",
+      "personaje": "Hyeon Chi-yeon",
+      "foto": "https://image.tmdb.org/t/p/w500/dzVsNHfyq0iBEYVRIJqHKx466yA.jpg"
+    },
+    {
+      "nombre": "이수경",
+      "personaje": "Um Jung-seon",
+      "foto": "https://image.tmdb.org/t/p/w500/5an5tKfx3U2UUEN5uck2W1KfZS.jpg"
+    },
+    {
+      "nombre": "김윤우",
+      "personaje": "Yong Ju-cheon",
+      "foto": "https://image.tmdb.org/t/p/w500/rOzQPM9ufU59fuHA9vBgLAhQvjv.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "tt39184653",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "THE STUDIO M",
+  "trailer": "https://www.youtube.com/watch?v=z0KOkYokloM"
+}
