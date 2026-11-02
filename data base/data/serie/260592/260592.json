@@ -1,0 +1,111 @@
+{
+  "id_tmdb": 260592,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1vkaL2jS0BW4CXhowOPhqIe5Un.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/to5eI3AWbT4spz1K58mIK5HQRbD.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2G6ckYhJHauyMWusvNmTfmEY1ji.png",
+  "titulo": "Cada año que pasé contigo",
+  "titulo_original": "Every Year After",
+  "fecha_estreno": "2026-06-10",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "Cada año que pasé contigo, de Carley Fortune, es una historia romántica y nostálgica de primeros amores, personas y decisiones que marcan por siempre.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Sadie Soverall",
+      "personaje": "Percy Fraser",
+      "foto": "https://image.tmdb.org/t/p/w500/42Px418cE5HMWhio5qBRk4K8XHO.jpg"
+    },
+    {
+      "nombre": "Matt Cornett",
+      "personaje": "Sam Florek",
+      "foto": "https://image.tmdb.org/t/p/w500/wrnPBYZsnI5NeRM30dlkKG7UxSI.jpg"
+    },
+    {
+      "nombre": "Aurora Perrineau",
+      "personaje": "Chantal",
+      "foto": "https://image.tmdb.org/t/p/w500/5zgJaU4N1uc3fyTz9JbYYMNOeX7.jpg"
+    },
+    {
+      "nombre": "Abigail Cowen",
+      "personaje": "Delilah",
+      "foto": "https://image.tmdb.org/t/p/w500/9tNaquWoJltNxr12SCr2e10tOhE.jpg"
+    },
+    {
+      "nombre": "Michael Bradway",
+      "personaje": "Charlie",
+      "foto": "https://image.tmdb.org/t/p/w500/yq3JXWIi3vCHQymOr3HOHhz7qLo.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Carley Fortune",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Harris",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lindsey Liberatore",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Rardin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Stephens",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Grace Gilroy",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Carley Fortune",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Carley Fortune",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Harris",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lindsey Liberatore",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Rardin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Stephens",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Grace Gilroy",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "tt33055254",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Amazon MGM Studios, Reunion Pacific Entertainment",
+  "trailer": "https://www.youtube.com/watch?v=F5SpqQ8dNa8"
+}
