@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 240456,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3HMpEp9gAfv4OLJHlFYijAhCJer.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mKZLq5Vy3InX1dFHtSFPxodCiOx.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/wQ4dF9s1a7h0Ch2Eu6yOy7J1IeL.png",
+  "titulo": "El conde de Montecristo",
+  "titulo_original": "Il Conte di Montecristo",
+  "fecha_estreno": "2025-01-13",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "puntuacion": 7.898,
+  "sinopsis": "Edmond Dantès, un marinero acusado injustamente de traición, es encarcelado en el castillo de If, frente a las costas de Marsella. Tras escapar y adoptar la identidad del conde de Montecristo, trama su venganza contra quienes lo acusaron injustamente.",
+  "pais_origen": "IT",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Sam Claflin",
+      "personaje": "Edmond Dantès",
+      "foto": "https://image.tmdb.org/t/p/w500/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+    },
+    {
+      "nombre": "Ana Girardot",
+      "personaje": "Mercedes",
+      "foto": "https://image.tmdb.org/t/p/w500/axcopunXu4j6XHcm34YjBf0Ua19.jpg"
+    },
+    {
+      "nombre": "Blake Ritson",
+      "personaje": "Danglars",
+      "foto": "https://image.tmdb.org/t/p/w500/61NhsA2UEjtQVm6IvRijrgZ0W4e.jpg"
+    },
+    {
+      "nombre": "Mikkel Boe Følsgaard",
+      "personaje": "Gerard Villefort",
+      "foto": "https://image.tmdb.org/t/p/w500/oKC5KLsbj0npfRJA3j9nEIMglmg.jpg"
+    },
+    {
+      "nombre": "Harry Taurasi",
+      "personaje": "Fernand",
+      "foto": "https://image.tmdb.org/t/p/w500/izwGFgpRSvUSWZtRrCYpvYU9wGV.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Nicola Serra",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patrizia Massa",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sebastien Pavard",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Carlo Degli Esposti",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cristina Tacchino",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Lou Gauthier",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nicola Serra",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Erika Dingli",
+      "rol": "Props"
+    },
+    {
+      "nombre": "Audrey Chetcuti",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Noémie Lance",
+      "rol": "Location Manager"
+    },
+    {
+      "nombre": "Patrizia Massa",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sebastian Blenkov",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Théo Arramon",
+      "rol": "Boom Operator"
+    },
+    {
+      "nombre": "Claudio Del Gobbo",
+      "rol": "Key Grip"
+    },
+    {
+      "nombre": "Alexandre Dumas",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Leone Mastropaolo",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Kristiana Dionisieva",
+      "rol": "Assistant Property Master"
+    },
+    {
+      "nombre": "Francesco Morosini",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Mark Zammit Cordina",
+      "rol": "Camera Trainee"
+    },
+    {
+      "nombre": "Sebastien Pavard",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alessandro Cardilli",
+      "rol": "Art Direction"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.898,
+    "imdb": "tt29547746",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Palomar, DEMD Productions, Rai Fiction",
+  "trailer": "https://www.youtube.com/watch?v=Jk9ncn5rM-8"
+}
