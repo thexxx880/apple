@@ -1,0 +1,115 @@
+{
+  "id_tmdb": 260249,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8tim2R1DnlLz5piMosrTc3JWuGo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bLcF9mcinphgFlXEfk7RkCSfqCv.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/xkTN1xocQeyRrpIPzyCnohSoJTc.png",
+  "titulo": "El juicio",
+  "titulo_original": "El juicio",
+  "fecha_estreno": "2026-09-11",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 9.011,
+  "sinopsis": "Una joven y su padre luchan por justicia después de que ella sufre un abuso sexual. Además de lidiar con las secuelas del delito, ambos se enfrentarán contra un fallido sistema judicial y contra el padre del joven agresor: un exitoso hombre dispuesto a usar todo su poder para proteger a su hijo y evitar que pague por su crimen.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Eugenio Derbez",
+      "personaje": "Miguel",
+      "foto": "https://image.tmdb.org/t/p/w500/6o1w3mYF947N6TTakQXcs3NNy4w.jpg"
+    },
+    {
+      "nombre": "Pedro Alonso",
+      "personaje": "Huerta",
+      "foto": "https://image.tmdb.org/t/p/w500/38HeVKeOBztVYrLJOWzAtEZiB02.jpg"
+    },
+    {
+      "nombre": "Karla Gaytán",
+      "personaje": "Andrea Portillo",
+      "foto": "https://image.tmdb.org/t/p/w500/brrYnEezWDbjM4aLbRXT4iCwnd5.jpg"
+    },
+    {
+      "nombre": "Íker Sánchez Solano",
+      "personaje": "Carlos Huerta",
+      "foto": "https://image.tmdb.org/t/p/w500/eHvL807cehcshUoxwJMSCod8IjR.jpg"
+    },
+    {
+      "nombre": "Sergio Gava",
+      "personaje": "Agente MP",
+      "foto": "https://image.tmdb.org/t/p/w500/zWGEgeP8rA6vZ4toS5NmfDl5xbK.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Roberto Sneider",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eugenio Derbez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Maurício Mota",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Odell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Krauze",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "León Krauze",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Roberto Sneider",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eugenio Derbez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Maurício Mota",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Odell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Krauze",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "León Krauze",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Javier Williams",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pablo Calasso",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9.011,
+    "imdb": "tt33023009",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Amazon MGM Studios, 3Pas Studios, Visceral",
+  "trailer": "https://www.youtube.com/watch?v=IB9vYS0BNAM"
+}
