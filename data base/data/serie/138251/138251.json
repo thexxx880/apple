@@ -1,0 +1,72 @@
+{
+  "id_tmdb": 138251,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/rdhqStUa72YxZsdLEPufgHq5ZL1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/79ngeH4ryvoMOvQOTLH176hoHFs.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rFF2oM86eE1wm3CEEoxskU0PcMC.png",
+  "titulo": "Víspera",
+  "titulo_original": "이브",
+  "fecha_estreno": "2022-06-01",
+  "duracion": "63min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 6.659,
+  "sinopsis": "Corea del Sur se ve sacudida por un escándalo de divorcio de dos billones de wones de un conglomerado empresarial, provocado por una mujer común. La historia busca desentrañar la verdad detrás del escándalo y la relación de la pareja más rica del 1% que lo protagonizó. Sorprendentemente, Lee Ra-el, una desconocida sin fortuna ni fama, fue la causante del divorcio. Sin embargo, Ra-el es una mujer encantadora e inteligente, con amplios conocimientos de arte, psicología e incluso economía. Si se lo propone, puede conquistar a cualquier hombre con su belleza e inteligencia",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "서예지",
+      "personaje": "Lee Ra-el / Kim Sun-bin",
+      "foto": "https://image.tmdb.org/t/p/w500/a9moiE8WWuygU02m4KE3M2Nrrkp.jpg"
+    },
+    {
+      "nombre": "박병은",
+      "personaje": "Kang Youn-kyum",
+      "foto": "https://image.tmdb.org/t/p/w500/8lDiEHjbBxPD8VNu1kGifMXhPUn.jpg"
+    },
+    {
+      "nombre": "유선",
+      "personaje": "Han So-ra",
+      "foto": "https://image.tmdb.org/t/p/w500/1gssOi0HNqUJWyZ8ocOZKi5uuNw.jpg"
+    },
+    {
+      "nombre": "이상엽",
+      "personaje": "Seo Eun-pyeong",
+      "foto": "https://image.tmdb.org/t/p/w500/cLjZGSFDNoPexMj5R1oSSSkgClt.jpg"
+    },
+    {
+      "nombre": "이일화",
+      "personaje": "Jang Moon-hee",
+      "foto": "https://image.tmdb.org/t/p/w500/7xRYe23aiFhLd094wv1syDiFzai.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "박봉섭",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Yoon Young-mi",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "박봉섭",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.659,
+    "imdb": "tt20723826",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "CJeS Studios, Studio Dragon, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=CTJ0y2suMtw"
+}
