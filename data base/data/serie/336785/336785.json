@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 336785,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/tye6G2ACvlVF4jEmVqWaAhucLic.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4YP7E7UMfkZ3eKtBHpuJXs5XEyw.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4JY0qEF3GF6c5zNU0q3eJDN54dE.png",
+  "titulo": "Timbiriche",
+  "titulo_original": "Timbiriche",
+  "fecha_estreno": "2026-10-10",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.3,
+  "sinopsis": "Timbiriche, un gran fenómeno musical de los 80s que muestra la compleja vida de sus jóvenes: fama, conflictos, adicciones y cambios de integrantes.",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jesusa Ochoa",
+      "personaje": "Alix Bauer",
+      "foto": "https://image.tmdb.org/t/p/w500/1CmzOmEpop58Ktb0zFlUE357IMh.jpg"
+    },
+    {
+      "nombre": "Michelle Pellicer",
+      "personaje": "Paulina Rubio",
+      "foto": "https://image.tmdb.org/t/p/w500/9NUFXb5TRNXuO0kICqNsP3swbuP.jpg"
+    },
+    {
+      "nombre": "Sol Wainer",
+      "personaje": "Mariana Garza",
+      "foto": ""
+    },
+    {
+      "nombre": "Luis de la Rosa",
+      "personaje": "Erik Rubín",
+      "foto": "https://image.tmdb.org/t/p/w500/ktKctbYiWsEMsXN9yNf9i8Tl21B.jpg"
+    },
+    {
+      "nombre": "Sebastián Poza",
+      "personaje": "Benny Ibarra",
+      "foto": "https://image.tmdb.org/t/p/w500/hFvNN5BUKQf4zOJuiwt4t1DHtf9.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.3,
+    "imdb": "tt49037069",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "El Estudio",
+  "trailer": "https://www.youtube.com/watch?v=fnd_D1mFXxs"
+}
