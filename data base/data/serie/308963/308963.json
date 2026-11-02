@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 308963,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/pMkQ9LyDJIkMjyfnJ7TNJbKSEEv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/f60R5ThzUTBiozmRZgYYrHSwlRO.png",
+  "titulo": "Habeas Corpus",
+  "titulo_original": "Habeas Corpus",
+  "fecha_estreno": "2026-09-23",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "Inez, una profesora de Derecho, cree que puede ayudar a un hombre condenado injustamente, pero su pasado y una estudiante con intenciones ocultas ponen en riesgo sus esperanzas.",
+  "pais_origen": "BR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Marjorie Estiano",
+      "personaje": "Inez",
+      "foto": "https://image.tmdb.org/t/p/w500/3affZ1HBujLZkIzLgs8kgdsPV8v.jpg"
+    },
+    {
+      "nombre": "Any Gabrielly",
+      "personaje": "Marina",
+      "foto": "https://image.tmdb.org/t/p/w500/xuJCzmiLFMRxr3VdUu54b3lmMmi.jpg"
+    },
+    {
+      "nombre": "Vladimir Brichta",
+      "personaje": "Murilo Villar",
+      "foto": "https://image.tmdb.org/t/p/w500/xjCVvDv7ntDqPLyvh6AKznwxOkx.jpg"
+    },
+    {
+      "nombre": "Hipólyto",
+      "personaje": "Jonathan",
+      "foto": "https://image.tmdb.org/t/p/w500/cdNowvNZz7fW6WxW3kGkpCKhRQT.jpg"
+    },
+    {
+      "nombre": "Danton Mello",
+      "personaje": "Pedro Borrmann",
+      "foto": "https://image.tmdb.org/t/p/w500/i0AIfi8y7hh1OV0OPLv7VEk9LPX.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt39369819",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Café Royal",
+  "trailer": "https://www.youtube.com/watch?v=ErXOhRjl8Bc"
+}
