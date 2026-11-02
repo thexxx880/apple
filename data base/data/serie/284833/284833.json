@@ -1,0 +1,98 @@
+{
+  "id_tmdb": 284833,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/iMs2rnOGZm37pdGkWGbEtNewvJv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jbDEFEF0A9EuPeHk5Ce0qS0pjLS.png",
+  "titulo": "Avatar: Los Siete Refugios",
+  "titulo_original": "Avatar: Seven Havens",
+  "fecha_estreno": "2026-10-09",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Familia"
+  ],
+  "puntuacion": 9,
+  "sinopsis": "Tras un cataclismo global una niña descubre que es el nuevo Avatar - ahora señalada como la Destructora, no una salvadora. Cazada por humanos y espíritus, ella y su gemela perdida deben descubrir sus orígenes y salvar a la humanidad del colapso.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Saheli Khan",
+      "personaje": "Pavi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/v7KEBCh275MWmT0j5fxm4fslosD.jpg"
+    },
+    {
+      "nombre": "Aishwarya 'Aishu' Devan",
+      "personaje": "Nisha (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eRDnTa8yKo0G79j7Z48jeNODRuj.jpg"
+    },
+    {
+      "nombre": "Major Curda",
+      "personaje": "Jae (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oHkyajLazp64ttgStLcJTY4wTvU.jpg"
+    },
+    {
+      "nombre": "Akshay Khanna",
+      "personaje": "Karthik (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/L2JWyOTwPRLHBLV7xUmDOcRHU3.jpg"
+    },
+    {
+      "nombre": "Sakina Jaffrey",
+      "personaje": "Agam (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9U6vixMcwkj8aEffy64UqsklHd.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Bryan Konietzko",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Dante DiMartino",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ethan Spaulding",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sehaj Sethi",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bryan Konietzko",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Dante DiMartino",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ethan Spaulding",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sehaj Sethi",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jeremy Zuckerman",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9,
+    "imdb": "tt35854736",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Avatar Studios, Nickelodeon",
+  "trailer": "https://www.youtube.com/watch?v=nhdh962_ee0"
+}
