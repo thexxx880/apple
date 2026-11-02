@@ -1,0 +1,78 @@
+{
+  "id_tmdb": 289517,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rg86wuCkOY2byyJhddoTfiGT6K0.png",
+  "titulo": "Un trabajo maldito",
+  "titulo_original": "꿀알바",
+  "fecha_estreno": "2026-10-30",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Misterio"
+  ],
+  "puntuacion": 7.6,
+  "sinopsis": "Agobiado por las deudas, un hombre acepta una serie de lucrativos trabajos de medio tiempo, pero sus esfuerzos por ganar dinero desatan una pesadilla.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "이재욱",
+      "personaje": "Byeon Hyeok-jun",
+      "foto": "https://image.tmdb.org/t/p/w500/9dsWM2kiXO4utrg4GctdXDvhOKD.jpg"
+    },
+    {
+      "nombre": "고민시",
+      "personaje": "Eum Yeon-joo",
+      "foto": "https://image.tmdb.org/t/p/w500/tgBb9dDyewLlautcmJH9KSXZz1O.jpg"
+    },
+    {
+      "nombre": "김민하",
+      "personaje": "Byeon Ji-yoon",
+      "foto": "https://image.tmdb.org/t/p/w500/zPNNamrJLWoXADXALQmuTdo6zBS.jpg"
+    },
+    {
+      "nombre": "이희준",
+      "personaje": "Head of Spider Staffing Agency",
+      "foto": "https://image.tmdb.org/t/p/w500/4slyXnHbKgzmeyJNetBSORgDDEF.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "김다민",
+      "rol": "Director"
+    },
+    {
+      "nombre": "한준희",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "김다민",
+      "rol": "Director"
+    },
+    {
+      "nombre": "이신지",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "경민선",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "한준희",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.6,
+    "imdb": "tt36458668",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doramas, Netflix",
+  "trailer": "https://www.youtube.com/watch?v=Sn2ZCxOxsN0"
+}
