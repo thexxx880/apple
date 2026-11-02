@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 320760,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hNIxYGmnnwtYDLsDq9U93XSwcLI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2uS1GQnNdvrycLfEzfiBsSsiGO1.png",
+  "titulo": "Te conozco",
+  "titulo_original": "Seni Tanıyorum",
+  "fecha_estreno": "2026-09-17",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.991,
+  "sinopsis": "La trama sigue a Funda, una talentosa pintora que decidió poner en pausa su carrera artística tras convertirse en madre. Con el deseo de retomar su pasión y compaginar su vida familiar con la profesional, se ve en la necesidad de contratar ayuda. Tras una intensa búsqueda, encuentra a Nazlı, quien parece ser la niñera perfecta. Al principio, Nazlı le devuelve a Funda el tiempo y la rutina necesarios para volver a pintar, presentándose como la solución ideal.",
+  "pais_origen": "TR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Melis Sezen",
+      "personaje": "Nazlı",
+      "foto": "https://image.tmdb.org/t/p/w500/kiTyCXXX1s6vtwtjKGCYKkhwTsx.jpg"
+    },
+    {
+      "nombre": "Elçin Sangu",
+      "personaje": "Funda",
+      "foto": "https://image.tmdb.org/t/p/w500/5jGVTT2ykGro046rvKP75y7Mnyi.jpg"
+    },
+    {
+      "nombre": "Ozan Dolunay",
+      "personaje": "İlker",
+      "foto": "https://image.tmdb.org/t/p/w500/vLXxGS3DOlK5C8nbAPVndWurnmu.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mert Baykal",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mert Baykal",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.991,
+    "imdb": "tt39397536",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=ODIk9yGmpQI"
+}
