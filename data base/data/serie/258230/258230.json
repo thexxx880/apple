@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 258230,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xMdJnFYupFBw66VPVVMJCjYfnR4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/cu4k3r4JMb4tqSiwgM64X88xmK1.png",
+  "titulo": "Vista por última vez",
+  "titulo_original": "Last Seen",
+  "fecha_estreno": "2026-09-09",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 7.621,
+  "sinopsis": "El agente telefónico del servicio de emergencias Ian Ridley recibe una llamada de una adolescente, él cree que es su hija la cual desapareció hace mucho tiempo y nada le impedirá encontrarla.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Patrick Brammall",
+      "personaje": "Ian Ridley",
+      "foto": "https://image.tmdb.org/t/p/w500/2TBJRddvxlIdOgfZpTFeAXTQNi2.jpg"
+    },
+    {
+      "nombre": "Chloe Jean Lourdes",
+      "personaje": "Sarah Reid",
+      "foto": "https://image.tmdb.org/t/p/w500/nG47bCd36hsiOXDWWI0DYbUBFYH.jpg"
+    },
+    {
+      "nombre": "Brendan Cowell",
+      "personaje": "Henry Reid",
+      "foto": "https://image.tmdb.org/t/p/w500/lWnJPT91HptiCufHOoYj3sJYwRR.jpg"
+    },
+    {
+      "nombre": "Maxine Peake",
+      "personaje": "Jenna Reid",
+      "foto": "https://image.tmdb.org/t/p/w500/uChlrL5WyeXhvGFaNvbzw1KqMgP.jpg"
+    },
+    {
+      "nombre": "Daniel Henshall",
+      "personaje": "Donald Reid",
+      "foto": "https://image.tmdb.org/t/p/w500/spfdesJvIoPTmZWMe5ncyMbnOV5.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Kris Mrksa",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hakan Kousetta",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jamie Laurenson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joanna Werner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christian Schwochow",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Katharina Haase",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kris Mrksa",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hakan Kousetta",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jamie Laurenson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joanna Werner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Christian Schwochow",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Katharina Haase",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ryan David Jahn",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Kris Mrksa",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Philli Anderson",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Kirsty McGregor",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Bonnie Elliott",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Chris Kennedy",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Isobel Waller-Bridge",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Cappi Ireland",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Megan Tiltman",
+      "rol": "Hair Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.621,
+    "imdb": "tt6037988",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "60Forty Films",
+  "trailer": "https://www.youtube.com/watch?v=mU-QptS1Xgo"
+}
