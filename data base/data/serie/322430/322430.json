@@ -1,0 +1,139 @@
+{
+  "id_tmdb": 322430,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2vuwqi1lb5TB2cpi7VuVCm2tTSZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/5ZzK2NAWjlzibvpGQ7Eu82x13iO.png",
+  "titulo": "El polígamo",
+  "titulo_original": "The Polygamist",
+  "fecha_estreno": "2026-06-12",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Soap"
+  ],
+  "puntuacion": 8.8,
+  "sinopsis": "Joyce no es solo una influencer muy querida, sino también la imagen del matrimonio perfecto, pero todo se derrumba cuando las aventuras de su esposo desatan un escándalo.",
+  "pais_origen": "ZA",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Gugu Gumede",
+      "personaje": "Joyce Gomora",
+      "foto": "https://image.tmdb.org/t/p/w500/5FxWANx3B6IT8y8qgDNbypKSOJM.jpg"
+    },
+    {
+      "nombre": "S'Dumo Mtshali",
+      "personaje": "Jonasi Gomora",
+      "foto": "https://image.tmdb.org/t/p/w500/u9IOLd6L7ae9SrFWWtz4wR7AblP.jpg"
+    },
+    {
+      "nombre": "Kwanele Mthethwa",
+      "personaje": "Matipa Nkosi",
+      "foto": "https://image.tmdb.org/t/p/w500/tUzqFCKxuZqOUiBevGxP0w6Bi4q.jpg"
+    },
+    {
+      "nombre": "Kenneth Nkosi",
+      "personaje": "Magesh Gomora",
+      "foto": "https://image.tmdb.org/t/p/w500/xrpoWGq0SB8gsUf3sifnpHAj94g.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Gugu Zuma-Ncube",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thuli Zuma",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pepsi Pokane",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Akin Omotoso",
+      "rol": "Creative Producer"
+    },
+    {
+      "nombre": "Tammy Lewis-Houghting",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Andrew Eric Macdonald",
+      "rol": "Post Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sue Nyathi",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Gugu Zuma-Ncube",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thuli Zuma",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pepsi Pokane",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Akin Omotoso",
+      "rol": "Creative Producer"
+    },
+    {
+      "nombre": "Tammy Lewis-Houghting",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Fahema Hendricks",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Tiaan Schutte",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Zethu Mashika",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Aldine Bronkhorst",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Nobuhle Ngwane",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Thabani Gigaba",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Freddie Van'Dango",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Desiree Muli",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Phumelela Nthsoko",
+      "rol": "Assistant Director Trainee"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.8,
+    "imdb": "tt42543947",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Stained Glass TV",
+  "trailer": "https://www.youtube.com/watch?v=KBJllQVRuAA"
+}
