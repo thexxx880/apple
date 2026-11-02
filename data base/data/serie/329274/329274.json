@@ -1,0 +1,47 @@
+{
+  "id_tmdb": 329274,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ucEswoBdNxw3UchQ6WHxnGU4g1a.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/dnk0DMMgATuKZnYmUpHB4rTEY06.png",
+  "titulo": "MOURINHO",
+  "titulo_original": "MOURINHO",
+  "fecha_estreno": "2026-08-11",
+  "duracion": "56min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 7.767,
+  "sinopsis": "Este documental traza la carrera de José Mourinho y muestra cómo se convirtió en uno de los mejores entrenadores de fútbol de clubes muy prestigiosos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "José Mourinho",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/6jMCYH9C2apZhKOJKU0iWF7Eh7Y.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joe Perlman",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joe Perlman",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.767,
+    "imdb": "tt43673968",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Ventureland",
+  "trailer": "https://www.youtube.com/watch?v=e26vQ3ddHRE"
+}
