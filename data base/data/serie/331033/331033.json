@@ -1,0 +1,132 @@
+{
+  "id_tmdb": 331033,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/4loiHfZZx027yP0CtErtCPbkTc1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nEvMbbSxcRO5440rhRrTEJCcf6t.png",
+  "titulo": "Colisión",
+  "titulo_original": "Colisión",
+  "fecha_estreno": "2026-09-07",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Soap"
+  ],
+  "puntuacion": 8,
+  "sinopsis": "Para cumplir la última voluntad de su padre, una joven enfrenta a su madre por el negocio familiar, en una lucha marcada por traición y secretos.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Margarita Rosa de Francisco",
+      "personaje": "Belén",
+      "foto": "https://image.tmdb.org/t/p/w500/bHkZODohuvtTru81HuEYrF8p9VA.jpg"
+    },
+    {
+      "nombre": "Macarena Achaga",
+      "personaje": "Zoé",
+      "foto": "https://image.tmdb.org/t/p/w500/2JcfajYlGvb22wTLtF1Jg3PMjRa.jpg"
+    },
+    {
+      "nombre": "Diego Klein",
+      "personaje": "Matias",
+      "foto": "https://image.tmdb.org/t/p/w500/zUSgyUwiQVMqX5iuVrqXCtbdC7F.jpg"
+    },
+    {
+      "nombre": "Christian Vázquez",
+      "personaje": "Ikal",
+      "foto": "https://image.tmdb.org/t/p/w500/aSybGa97jnNPKwDj1tFK8jzLiOx.jpg"
+    },
+    {
+      "nombre": "Juan Pablo Castaneda",
+      "personaje": "Juan",
+      "foto": "https://image.tmdb.org/t/p/w500/vQ4X2Yba50ATIhq4ZWkeZeBovk7.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mariano Cesar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anouk Aaron",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Juan Ponce",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elizabeth Suarez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Valeria Fiñana",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pablo Culell",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jessica Caldrello",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Juan Carlos Enriquez",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Nadine Karakachoff",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Mariano Cesar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anouk Aaron",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Juan Ponce",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elizabeth Suarez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Valeria Fiñana",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pablo Culell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mariana Iskandarani",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Karina Blanco",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Corín Tellado",
+      "rol": "Novel"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": "tt38116565",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telemundo Studios, Mar Abierto Productions, Warner Bros",
+  "trailer": "https://www.youtube.com/watch?v=X0ojvkup9q8"
+}
