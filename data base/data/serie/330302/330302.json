@@ -1,0 +1,97 @@
+{
+  "id_tmdb": 330302,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lXfOj4JcnyW0KdfMLrLTLegju5I.jpg",
+  "logo": "",
+  "titulo": "Catedrales",
+  "titulo_original": "Catedrales",
+  "fecha_estreno": "2026-09-16",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Misterio"
+  ],
+  "puntuacion": 8.6,
+  "sinopsis": "Una joven de 17 años es hallada quemada y descuartizada en un baldío de un barrio de clase media de Santiago de Chile. Por impericia policial el crimen queda impune hasta que treinta años más tarde la familia consigue organizar el rompecabezas del asesinato que les revela una relación prohibida y una cruel verdad.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Alfredo Castro",
+      "personaje": "Adolfo Sardá",
+      "foto": "https://image.tmdb.org/t/p/w500/Rmp7RMej76wPBRK4KcSfD57H5z.jpg"
+    },
+    {
+      "nombre": "Paulina García",
+      "personaje": "Dolores",
+      "foto": "https://image.tmdb.org/t/p/w500/tNlCDdvzkGyvdv2SbWzkQdpV5xA.jpg"
+    },
+    {
+      "nombre": "Octavia Bernasconi",
+      "personaje": "Ana Sardá",
+      "foto": "https://image.tmdb.org/t/p/w500/5m315lpoMJVeu5PKXX6AHJ52NVK.jpg"
+    },
+    {
+      "nombre": "Ignacia Baeza",
+      "personaje": "Lia Sardá (Adult)",
+      "foto": "https://image.tmdb.org/t/p/w500/5ZVEGrqmAsfsVD2dsJl7AGfS5KV.jpg"
+    },
+    {
+      "nombre": "Vivianne Dietz",
+      "personaje": "Lia Sardá (Young)",
+      "foto": "https://image.tmdb.org/t/p/w500/i6rJiDXMKFNI4E8sC6ASBufLovZ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Pepa San Martín",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Fabiana Tiscornia",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Pablo Culell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sebastián Ortega",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Pepa San Martín",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Fabiana Tiscornia",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Claudia Piñeiro",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Pablo Culell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sebastián Ortega",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.6,
+    "imdb": "tt44600168",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telemundo Studios, Cimarrón Films",
+  "trailer": "https://www.youtube.com/watch?v=P6_kJLVZuJk"
+}
