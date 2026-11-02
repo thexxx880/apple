@@ -1,0 +1,129 @@
+{
+  "id_tmdb": 119142,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3jtWsNSW2ID23u9OeDRRQBCa5Mm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9WmYo3Sy96RhKLc4O0WKy04PERJ.jpg",
+  "logo": "",
+  "titulo": "El crimen del siglo",
+  "titulo_original": "The Crime of the Century",
+  "fecha_estreno": "2021-05-10",
+  "duracion": "118min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Documental",
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 7.8,
+  "sinopsis": "El documental en dos partes de HBO, es una implacable acusación a la industria farmacéutica, a los lobistas y a las reglamentaciones gubernamentales que permiten la superproducción, la distribución imprudente y el abuso de opioides sintéticos. Explorando el origen, la dimensión y las consecuencias de una de las mayores tragedias de la salud pública de la actualidad, con medio millón de muertes por sobredosis solo en este siglo, el documental revela que la epidemia de opioides en los Estados Unidos es una crisis de salud pública con origen conocido.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Edward Byrne",
+      "personaje": "Self - HSI Special Agent",
+      "foto": ""
+    },
+    {
+      "nombre": "Patrick Radden Keefe",
+      "personaje": "Self - Writer and Producer, Wind of Change",
+      "foto": ""
+    },
+    {
+      "nombre": "Lenny Bernstein",
+      "personaje": "",
+      "foto": ""
+    },
+    {
+      "nombre": "Roy Bosley",
+      "personaje": "",
+      "foto": ""
+    },
+    {
+      "nombre": "Alec Burlakoff",
+      "personaje": "",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Svetlana Zill",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nancy Abraham",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stacey Offman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Dowland",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lisa Heller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aaron Fishman",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Svetlana Zill",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nancy Abraham",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stacey Offman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Dowland",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lisa Heller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Aaron Fishman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Richard Perello",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Todd Hoffman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alex Gibney",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Peter Nashel",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Eric Schuman",
+      "rol": "Co-Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": "tt14055432",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Jigsaw Productions, Storied Media Group, HBO Documentary Films",
+  "trailer": "https://www.youtube.com/watch?v=SkU75sBdjdU"
+}
