@@ -1,0 +1,83 @@
+{
+  "id_tmdb": 330540,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oUwy6xIffGNp94bkiqowBDM9W1S.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8Ye9jv4Ibo5xK6GgWihsec8M94A.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/zZvkrkfeAhgtBJCSDSKbTAsAx4V.png",
+  "titulo": "Dalliance",
+  "titulo_original": "Dalliance",
+  "fecha_estreno": "2026-08-27",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 0,
+  "sinopsis": "",
+  "pais_origen": "AU",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Hugo Weaving",
+      "personaje": "Billy",
+      "foto": "https://image.tmdb.org/t/p/w500/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+    },
+    {
+      "nombre": "Heather Mitchell",
+      "personaje": "Dani",
+      "foto": "https://image.tmdb.org/t/p/w500/4SxRlg8JA1EguchlyuHurOMVlji.jpg"
+    },
+    {
+      "nombre": "Wayne Blair",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/1peq67IY71mENMZ9tYsrrFD28aY.jpg"
+    },
+    {
+      "nombre": "David Wenham",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/F7CWSqUE75HtrcdqIQ7UMZ9aTX.jpg"
+    },
+    {
+      "nombre": "Georgie Parker",
+      "personaje": "Rose",
+      "foto": "https://image.tmdb.org/t/p/w500/yImkqWJBeSj8xUND7jOyWLasnNK.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sophia Mogford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pip Karmel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Edwards",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sophia Mogford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pip Karmel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Edwards",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 0,
+    "imdb": "tt38876221",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Roadshow Rough Diamond",
+  "trailer": "https://www.youtube.com/watch?v=g9SnOOWdGMU"
+}
