@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 298852,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/svRaHFaXwjZnb750KtWveBMvxUM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/p3a6uHq8UnPaSUDsC18Pk7Rr5k2.png",
+  "titulo": "Guerra",
+  "titulo_original": "WAR",
+  "fecha_estreno": "2026-10-02",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.7,
+  "sinopsis": "Dos de los bufetes de abogados más poderosos de Londres se enfrentan explosivas batallas legales.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Dominic West",
+      "personaje": "Morgan Henderson",
+      "foto": "https://image.tmdb.org/t/p/w500/6y2M3EWslBPwPlugEFg8XDHfSJ0.jpg"
+    },
+    {
+      "nombre": "Sienna Miller",
+      "personaje": "Carla Duval",
+      "foto": "https://image.tmdb.org/t/p/w500/lq2mEeDbL98bSz0H7xcHA3F2Rrb.jpg"
+    },
+    {
+      "nombre": "Phoebe Fox",
+      "personaje": "Serena Byrne",
+      "foto": "https://image.tmdb.org/t/p/w500/1xY991AhQRGMlA7tq7L5iHLIBod.jpg"
+    },
+    {
+      "nombre": "James McArdle",
+      "personaje": "Nicholas Taylor",
+      "foto": "https://image.tmdb.org/t/p/w500/4zvZYJqiF4ZZ0AYmTVL3ucyNB11.jpg"
+    },
+    {
+      "nombre": "Nina Sosanya",
+      "personaje": "'Her Majesty' Beatrice 'Queen Bea' Ubosi",
+      "foto": "https://image.tmdb.org/t/p/w500/nKqRWTF8hCsyjiSRCNMyShbmvrg.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "George Kay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Willow Grylls",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Sandford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Taylor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Susan Breen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrea Dewsbery",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "George Kay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Willow Grylls",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Sandford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ben Taylor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Susan Breen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andrea Dewsbery",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Megan Spanjian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Laurie Borg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Debbie Burton",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Oli Julian",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Amy Hubbard",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Matthew Price",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Tara McDonald",
+      "rol": "Makeup Designer"
+    },
+    {
+      "nombre": "Tara McDonald",
+      "rol": "Hair Designer"
+    },
+    {
+      "nombre": "Sandra Shuttleworth",
+      "rol": "Head of Production"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": "tt37972251",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "New Pictures, Observatory Pictures, Sky Studios",
+  "trailer": "https://www.youtube.com/watch?v=WJl4M6seA6Y"
+}
