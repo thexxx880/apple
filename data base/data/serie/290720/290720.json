@@ -1,0 +1,128 @@
+{
+  "id_tmdb": 290720,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4QZJWK9QUDUFBdfJBuyqDSqLQco.png",
+  "titulo": "El problema final",
+  "titulo_original": "El problema final",
+  "fecha_estreno": "2026-09-25",
+  "duracion": "57min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Misterio"
+  ],
+  "puntuacion": 7.041,
+  "sinopsis": "Un actor en decadencia debe usar las habilidades como detective de su famoso personaje para resolver una muerte sospechosa en un hotel aislado donde todos son sospechosos.",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jose Coronado",
+      "personaje": "Basil",
+      "foto": "https://image.tmdb.org/t/p/w500/9xo68HzH8n78Xv6gMzKK7XnjtHd.jpg"
+    },
+    {
+      "nombre": "María Valverde",
+      "personaje": "Adela Figueora",
+      "foto": "https://image.tmdb.org/t/p/w500/8taDDUCiyggIWhq8wGy2v0b9Nt8.jpg"
+    },
+    {
+      "nombre": "Martiño Rivas",
+      "personaje": "Foxá",
+      "foto": "https://image.tmdb.org/t/p/w500/4qc8bF4OPmoJI8BcAz6HOdI3Xf1.jpg"
+    },
+    {
+      "nombre": "Maribel Verdú",
+      "personaje": "Raquel Auslander",
+      "foto": "https://image.tmdb.org/t/p/w500/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg"
+    },
+    {
+      "nombre": "Gonzalo de Castro",
+      "personaje": "Fonseca",
+      "foto": "https://image.tmdb.org/t/p/w500/24FPQXdyBtOPbSQRTkE8fXEef4I.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Fernando Bovaira",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Urko Errazquin",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Arturo Pérez-Reverte",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Fernando Bovaira",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Urko Errazquin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carlos Molinero",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Alberto Macías",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Marisol Ferré",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Vicente Ortiz Gimeno",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Daniel Sosa Segura",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Carlos Quirós",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Victoria Lammers",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Hedvig Király",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Nacho Cavada",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Federico Untermann",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Carmen Armenteros",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Miguel Barbosa",
+      "rol": "Foley Artist"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.041,
+    "imdb": "tt36832679",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Mod Producciones",
+  "trailer": "https://www.youtube.com/watch?v=yLeja7kWgmU"
+}
