@@ -1,0 +1,128 @@
+{
+  "id_tmdb": 279089,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/9y5HapAx4Inn4BrysYaLDHzQcOE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rG2dLnqy03ktjpFaW3ojHuHUHD1.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/5ksFqRGJllYpIB9YNxJG6v4BzpU.png",
+  "titulo": "La herencia de Hope Hill",
+  "titulo_original": "Possession",
+  "fecha_estreno": "2026-08-06",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 6.133,
+  "sinopsis": "La abogada mestiza Claudia viaja a la plantación embrujada de Connaught en Jamaica para luchar por una herencia, pero descubre oscuros secretos históricos entrelazados con injusticias modernas qué intensifica su pesadilla.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jonny Lee Miller",
+      "personaje": "Oliver Connaught",
+      "foto": "https://image.tmdb.org/t/p/w500/otCQdDtnrMvZ5tPC62zLx0SaXeR.jpg"
+    },
+    {
+      "nombre": "Gugu Mbatha-Raw",
+      "personaje": "Claudia",
+      "foto": "https://image.tmdb.org/t/p/w500/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+    },
+    {
+      "nombre": "Bel Powley",
+      "personaje": "Charlotte",
+      "foto": "https://image.tmdb.org/t/p/w500/6u8u1eWJ0hZSNFIaPp0QfzMKgL1.jpg"
+    },
+    {
+      "nombre": "Sheldon Shepherd",
+      "personaje": "Cudjoe East",
+      "foto": "https://image.tmdb.org/t/p/w500/33hDFYvC57XsteCzJQBN9CTAHKW.jpg"
+    },
+    {
+      "nombre": "Nadean Rawlins",
+      "personaje": "Mercy",
+      "foto": "https://image.tmdb.org/t/p/w500/mTQKYmeN7YwmtX4AQXQnMyu4qX8.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ruth Kenley-Letts",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jenny Van Der Lande",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Neil Blair",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Karla Crome",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Storm Saulter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Hoyle",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ruth Kenley-Letts",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jenny Van Der Lande",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Neil Blair",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Karla Crome",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Storm Saulter",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Hoyle",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Serena Thompson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gugu Mbatha-Raw",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonny Lee Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Roxanne Harvey",
+      "rol": "Development Producer"
+    },
+    {
+      "nombre": "Kate Ogborn",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.133,
+    "imdb": "tt34883857",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Snowed-In Productions, Sky Studios",
+  "trailer": "https://www.youtube.com/watch?v=PoaaV50lR0M"
+}
