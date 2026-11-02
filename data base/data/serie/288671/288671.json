@@ -1,0 +1,83 @@
+{
+  "id_tmdb": 288671,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/x3nXE77C7DpPA8172UDEm5bBFJe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lDhs7EFH1DaOoRXEaTiNhuYaAbC.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/am9MDDEEdGLlXe2XKPeZEVccGLz.png",
+  "titulo": "El mapa de los anhelos",
+  "titulo_original": "El mapa de los anhelos",
+  "fecha_estreno": "2026-07-17",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "Antes de su muerte, Lucy crea un juego para su hermana, Greta, que la lleva a emprender un viaje de autodescubrimiento… y a conocer al carismático Will Tucker.",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Alícia Falcó",
+      "personaje": "Greta",
+      "foto": "https://image.tmdb.org/t/p/w500/wu2O2SQaNTB15bj1xvRKErCGkls.jpg"
+    },
+    {
+      "nombre": "Pablo Álvarez",
+      "personaje": "Will",
+      "foto": "https://image.tmdb.org/t/p/w500/36W67vL7hXGnjVvUl6KvUdx0IqE.jpg"
+    },
+    {
+      "nombre": "Georgina Amorós",
+      "personaje": "Lucy",
+      "foto": "https://image.tmdb.org/t/p/w500/wgRAxcSZ20Ze26HzcO4EeKIraU1.jpg"
+    },
+    {
+      "nombre": "Laia Marull",
+      "personaje": "Rosi",
+      "foto": "https://image.tmdb.org/t/p/w500/9UCGtbwtrgXuQSgznmXvVgKIEmQ.jpg"
+    },
+    {
+      "nombre": "Mario de la Rosa",
+      "personaje": "Jacobo",
+      "foto": "https://image.tmdb.org/t/p/w500/2EafPw8ar2K8eWfIsx8d5HByBgE.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Arlette Peyret",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Raimon Masllorens",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Alice Kellen",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Arlette Peyret",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Raimon Masllorens",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Isa Sánchez",
+      "rol": "Adaptation"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "tt36495086",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Brutal Media",
+  "trailer": "https://www.youtube.com/watch?v=qpXDZA7f3N4"
+}
