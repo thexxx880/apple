@@ -1,0 +1,78 @@
+{
+  "id_tmdb": 61838,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/9gj2wYYIUg78qhgcg2IgeYU1yIg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6ZYaLOle3iKOHlXqADnxt592v3O.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/xSXeAcQB3L2AUbYR2KII6uNoC1j.png",
+  "titulo": "Barbie - La casa de tus sueños",
+  "titulo_original": "Barbie: Life in the Dreamhouse",
+  "fecha_estreno": "2012-05-11",
+  "duracion": "3min",
+  "año": "2012",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia"
+  ],
+  "puntuacion": 7.6,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Todd Resnick",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Andrew Tan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kyran Kelly",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Patrice Berube",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Vamberto Maduro",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Todd Resnick",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Andrew Tan",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kyran Kelly",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Patrice Berube",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Vamberto Maduro",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rebecca Kneubuhl",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.6,
+    "imdb": "tt2644032",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Arc Productions",
+  "trailer": "https://www.youtube.com/watch?v=fXYrem6R4QI"
+}
