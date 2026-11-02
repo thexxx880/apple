@@ -1,0 +1,116 @@
+{
+  "id_tmdb": 314305,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/12Rlo30B7NPm3Ynz5KeCHP3pjVV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cdvqBBumHLsHNlTTj9BO00XUrwl.jpg",
+  "logo": "",
+  "titulo": "El resto bien",
+  "titulo_original": "El resto bien",
+  "fecha_estreno": "2026-04-23",
+  "duracion": "30min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 0,
+  "sinopsis": "Un dibujante de 50 años con cinco hijos y padres ancianos se enfrenta a una crisis de mediana edad, complicada por una hernia. Sus límites físicos lo obligan a reflexionar sobre la libertad, los deberes familiares y lo que más le importa.",
+  "pais_origen": "AR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Benjamín Vicuña",
+      "personaje": "Ariel",
+      "foto": "https://image.tmdb.org/t/p/w500/wYiCITgYIIfam3pbBIdVzXEtni1.jpg"
+    },
+    {
+      "nombre": "Daniel Hendler",
+      "personaje": "Adrian",
+      "foto": "https://image.tmdb.org/t/p/w500/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg"
+    },
+    {
+      "nombre": "Rita Cortese",
+      "personaje": "Lea",
+      "foto": "https://image.tmdb.org/t/p/w500/3CtvCjKbUPyWq5SLAbYeBbb9M8d.jpg"
+    },
+    {
+      "nombre": "Violeta Urtizberea",
+      "personaje": "Olga",
+      "foto": "https://image.tmdb.org/t/p/w500/ke5floraEajWG49AgG04N9ViikI.jpg"
+    },
+    {
+      "nombre": "Mirella Pascual",
+      "personaje": "Ada",
+      "foto": "https://image.tmdb.org/t/p/w500/x0VkowzoTH44zpxYveyKkx9D8rL.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Daniel Hendler",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Daniel Burman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rodolfo Iriñiz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Burman",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Daniel Hendler",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Daniel Burman",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Andrés Gelós",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Pablo Gelós",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ariel Gurevich",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Eloy Burman",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Rodolfo Iriñiz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Daniel Burman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nico Cota",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Arauco Hernández Holz",
+      "rol": "Director of Photography"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 0,
+    "imdb": "tt38453829",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "The Mediapro Studio, Oficina Burman, Cimarrón Cine",
+  "trailer": ""
+}
