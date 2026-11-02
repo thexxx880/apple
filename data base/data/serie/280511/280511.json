@@ -1,0 +1,136 @@
+{
+  "id_tmdb": 280511,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/n7zm4OQ7M1znbumc7JUpRhegIN6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kRN0mkAF9UK8jqIiBsffVrx8hu1.png",
+  "titulo": "El testigo",
+  "titulo_original": "The Witness",
+  "fecha_estreno": "2026-06-04",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 6.402,
+  "sinopsis": "La pareja de la asesinada Rachel Nickell intenta proteger a su hijo de dos años, el único testigo del crimen, durante una investigación repleta de errores. Basada en hechos reales.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jordan Bolger",
+      "personaje": "André Hanscombe",
+      "foto": "https://image.tmdb.org/t/p/w500/zGSxXrllgm3MNVT0jjvnAQFacPS.jpg"
+    },
+    {
+      "nombre": "Neil Maskell",
+      "personaje": "DI Keith Pedder",
+      "foto": "https://image.tmdb.org/t/p/w500/12dDCWSE8GXrhnzHuaEWxNJFfrN.jpg"
+    },
+    {
+      "nombre": "Mark Stanley",
+      "personaje": "DS Ivan Agnew",
+      "foto": "https://image.tmdb.org/t/p/w500/3ABvmcomWJxKsDnfqyVsIzjvul8.jpg"
+    },
+    {
+      "nombre": "Max Fincham",
+      "personaje": "Alex Hanscombe",
+      "foto": "https://image.tmdb.org/t/p/w500/cR1voDGyAcGWrOHMZ4WJgX87Vqn.jpg"
+    },
+    {
+      "nombre": "Sean Gilder",
+      "personaje": "DCS Nicholas Campbell",
+      "foto": "https://image.tmdb.org/t/p/w500/t1iegX4Oi5iGu4UssCZoD6UxlOA.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Rob Williams",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Brown",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Yorke",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alison Sterling",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rob Williams",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Brown",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Yorke",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alison Sterling",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alex Hanscombe",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Oliver Coates",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Michael Filocamo",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Steven Worsley",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Catherine Willis",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Noam Piper",
+      "rol": "Production Designer"
+    },
+    {
+      "nombre": "Anna Pujol Tauler",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Anna Auquer",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Mekel Bailey",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Rosie Sinfield",
+      "rol": "Makeup & Hair"
+    },
+    {
+      "nombre": "Gloria Peñaranda",
+      "rol": "Makeup & Hair"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.402,
+    "imdb": "tt31631015",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "STV Studios",
+  "trailer": "https://www.youtube.com/watch?v=vTQ6QE6TKWQ"
+}
