@@ -1,0 +1,115 @@
+{
+  "id_tmdb": 287976,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6rSzSsSxSOk3nzYAHzm8yFpXnYQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8KDxgfQ4JHgnEozwToRQaUgNAmP.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/6u1mNbvRowht7cwtCljc0f7vdI1.png",
+  "titulo": "Verano del 36",
+  "titulo_original": "L'Été 36",
+  "fecha_estreno": "2026-05-18",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 6.5,
+  "sinopsis": "Niza, 1936. Mientras los trabajadores disfrutan de sus primeras vacaciones pagadas, cuatro mujeres muy diferentes se ven envueltas en el asesinato de un fiscal en el hotel Riviera.",
+  "pais_origen": "FR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Julie de Bona",
+      "personaje": "Blanche Akermann",
+      "foto": "https://image.tmdb.org/t/p/w500/i2bQAuNoAPvu2ZsVjri3aTpafjB.jpg"
+    },
+    {
+      "nombre": "Sofia Essaïdi",
+      "personaje": "Eugénie Berthier",
+      "foto": "https://image.tmdb.org/t/p/w500/6OSQeJhTJ8nWG0VYtk876OIql0P.jpg"
+    },
+    {
+      "nombre": "Nolwenn Leroy",
+      "personaje": "Giulia Vincent",
+      "foto": "https://image.tmdb.org/t/p/w500/krZ5pgEfx1Cnla7EonQjj3jVLdW.jpg"
+    },
+    {
+      "nombre": "Constance Gay",
+      "personaje": "Léonie Morel",
+      "foto": "https://image.tmdb.org/t/p/w500/sS8XYVPIGuCisqccAUHppI1E6OP.jpg"
+    },
+    {
+      "nombre": "François-Xavier Demaison",
+      "personaje": "Alphonse Raven",
+      "foto": "https://image.tmdb.org/t/p/w500/u2WWC1YAJuZLLk6Ho4IzhNAozqe.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Iris Bucher",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pierre Procoudine-Gorsky",
+      "rol": "Visual Effects Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Pascal Lafa",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Virginie Saint-Martin",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Iris Bucher",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Nicolas Pechitch",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Joël Jacovella",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Sophie Thurin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Clémence Perrin",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Stéphane Finot",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Alexandra Petry",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Delphine Vaysse",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Pierre Procoudine-Gorsky",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "François Pellae",
+      "rol": "Title Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": "tt38776795",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Quad Drama, TF1, La Compagnie Cinématographique",
+  "trailer": ""
+}
