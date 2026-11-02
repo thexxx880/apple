@@ -1,0 +1,85 @@
+{
+  "id_tmdb": 2867,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/sIE84ED9Vb29TGbtCQT6sBVefvg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6jUTK87AX73HM213vtnoq7pAWP.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/z4xDPafPvsrA2KorQbbEq2Rs1cV.png",
+  "titulo": "Las nuevas aventuras de He-Man",
+  "titulo_original": "The New Adventures of He-Man",
+  "fecha_estreno": "1990-09-01",
+  "duracion": "30min",
+  "año": "1990",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "puntuacion": 6.2,
+  "sinopsis": "La segunda serie de He-Man, que tiene lugar 10 000 años más tarde. Para proteger el Planeta Primus de la Flota y el Esqueleto.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Garry Chalk",
+      "personaje": "He-Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jESGnBSP0OjFxJejN1OPsjXA9sJ.jpg"
+    },
+    {
+      "nombre": "Campbell Lane",
+      "personaje": "Skeletor (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qK8GdBBGLnVZf1TKD7Sghq1gc0H.jpg"
+    },
+    {
+      "nombre": "Scott McNeil",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/rjiHH4krrSdipdSUdSUjvODKJM2.jpg"
+    },
+    {
+      "nombre": "Ted Cole",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/7nqONUxoJrhkr7czPTvqtE0D5oJ.jpg"
+    },
+    {
+      "nombre": "Michael Donovan",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/yutmM2NruR2oCWSESSPu3PG7g11.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mark Taylor",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bernard Deyriès",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jean Chalopin",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Taylor",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bernard Deyriès",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Jean Chalopin",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.2,
+    "imdb": "tt0169477",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Parafrance",
+  "trailer": ""
+}
