@@ -1,0 +1,71 @@
+{
+  "id_tmdb": 329394,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/tzMTmzIslvpnXG2ifAl9ZAnlIdx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aQFeADnhJimn635owevcpwyaUAG.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ngwbK1VASEmsYbQOtHN7nt3YlMz.png",
+  "titulo": "El otro padre",
+  "titulo_original": "El otro padre",
+  "fecha_estreno": "2026-07-22",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 9.1,
+  "sinopsis": "Una médico que busca un donante de riñón para salvar la vida de su hija descubre una relación secreta y una prueba de ADN que podrían destrozar a dos familias.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Manolo Cardona",
+      "personaje": "Papá de los hermanos de Julieta/esposo de Macarena",
+      "foto": "https://image.tmdb.org/t/p/w500/9hPHLgO9lINwZynrFywTG9ms8Jl.jpg"
+    },
+    {
+      "nombre": "Erik Hayser",
+      "personaje": "Esposo de Yolanda/Papa de las hermanas de Julieta",
+      "foto": "https://image.tmdb.org/t/p/w500/jbjr6rJyj6NjiqDTJQWKKaNbIlR.jpg"
+    },
+    {
+      "nombre": "Paola Nuñez",
+      "personaje": "Yolanda",
+      "foto": "https://image.tmdb.org/t/p/w500/5k8tBBvoV43iK6u0k2YUSVXPmuK.jpg"
+    },
+    {
+      "nombre": "Azul Guaita",
+      "personaje": "Julieta",
+      "foto": "https://image.tmdb.org/t/p/w500/8tf5FF5QY1MVgFqg7NjrbpU1BBZ.jpg"
+    },
+    {
+      "nombre": "Sebastián Dante",
+      "personaje": "Gustavo",
+      "foto": "https://image.tmdb.org/t/p/w500/cw2XaVPJaD1zxoropvUyrlYhrFG.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Roberto Stopello",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Roberto Stopello",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Roberto Stopello",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9.1,
+    "imdb": "tt39390494",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Mar Abierto Productions",
+  "trailer": "https://www.youtube.com/watch?v=cAHSi8AXbCE"
+}
