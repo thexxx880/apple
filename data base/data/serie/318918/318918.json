@@ -1,0 +1,147 @@
+{
+  "id_tmdb": 318918,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ywl1QmO2MBhMeRNxhg9LKdqSIr4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/fZNC52feyg0I9EOPyoycMSPi7pn.png",
+  "titulo": "LEGO ONE PIECE",
+  "titulo_original": "LEGO ONE PIECE",
+  "fecha_estreno": "2026-09-29",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 7.9,
+  "sinopsis": "¡Los Sombrero de Paja se lanzan a alta mar en un especial de LEGO de dos partes! Acompaña a Luffy, Nami, Usopp y la tripulación en su épico viaje, reconstruido bloque a bloque.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Iñaki Godoy",
+      "personaje": "Luffy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/oPwyLvGfgApD7MfRwj8zp7HOLMF.jpg"
+    },
+    {
+      "nombre": "Emily Rudd",
+      "personaje": "Nami (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vVl4ABlqUuh5n1M2B9AOOa9r6kV.jpg"
+    },
+    {
+      "nombre": "新田真剣佑",
+      "personaje": "Zoro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/y4FTSASxsO1F61p3hFIPMCeprut.jpg"
+    },
+    {
+      "nombre": "Jacob Gibson",
+      "personaje": "Usopp",
+      "foto": "https://image.tmdb.org/t/p/w500/rjBm6lA9A077Id2lAnoNyryo268.jpg"
+    },
+    {
+      "nombre": "Taz Skylar",
+      "personaje": "Sanji (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3EXMkfzB8EXn3ZJPJvK6OfPWLfz.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "尾田栄一郎",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jill Wilfert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Keith Malone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lars Danielsen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marty Adelstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Becky Clements",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "尾田栄一郎",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jill Wilfert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Keith Malone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lars Danielsen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marty Adelstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Becky Clements",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tom Hyndman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "尾田栄一郎",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "内藤拓真",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "後藤太郎",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Junie Lowry-Johnson",
+      "rol": "Original Casting"
+    },
+    {
+      "nombre": "Libby Goldstein",
+      "rol": "Original Casting"
+    },
+    {
+      "nombre": "Stephanie Sheh",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Rika Takahashi",
+      "rol": "Translator"
+    },
+    {
+      "nombre": "Sonya Belousova",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.9,
+    "imdb": "tt41538904",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix, Tomorrow Studios, Lego",
+  "trailer": "https://www.youtube.com/watch?v=5Z8oBbmkgXo"
+}
