@@ -1,0 +1,70 @@
+{
+  "id_tmdb": 256694,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/cRJjadzYF43HLPZlw4Vr3UeU9vB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/dulFlyz02lDnik5E62pF26s4q1L.png",
+  "titulo": "Hora de Aventura: Misiones Secundarias",
+  "titulo_original": "Adventure Time: Side Quests",
+  "fecha_estreno": "2026-06-29",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 9,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "John DiMaggio",
+      "personaje": "Jake (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+    },
+    {
+      "nombre": "Sasha Knight",
+      "personaje": "Finn (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eaDiEWDTLsglOAkGrPP9YVOqlPf.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Nate Cash",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nate Cash",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Darrick Bachman",
+      "rol": "Story Editor"
+    },
+    {
+      "nombre": "Nick Cross",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Matthew Janszen",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Victor Courtright",
+      "rol": "Other"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9,
+    "imdb": "tt32603995",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks, Fred Films",
+  "trailer": "https://www.youtube.com/watch?v=OEznILDuGj4"
+}
