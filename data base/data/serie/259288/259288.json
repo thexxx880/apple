@@ -1,0 +1,80 @@
+{
+  "id_tmdb": 259288,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oJMYCAvqR5KauvL1MVycy7W9Oh2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/lPXXSz7033u4rb5CLn9gvP5cQeX.png",
+  "titulo": "Rivalidad Amistosa",
+  "titulo_original": "선의의 경쟁",
+  "fecha_estreno": "2025-02-10",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 8.736,
+  "sinopsis": "En una escuela de élite, dos chicas forman un vínculo complicado en medio de la competencia despiadada, las altísimas expectativas y las falsas promesas.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "이혜리",
+      "personaje": "Yoo Je-yi",
+      "foto": "https://image.tmdb.org/t/p/w500/5F5tjTAvpBcdVdhI9kGjlJY00fY.jpg"
+    },
+    {
+      "nombre": "정수빈",
+      "personaje": "Woo Seul-gi",
+      "foto": "https://image.tmdb.org/t/p/w500/tUZ3nSbdHxOTTx8GGkOmaTzMUyB.jpg"
+    },
+    {
+      "nombre": "강혜원",
+      "personaje": "Joo Ye-ri",
+      "foto": "https://image.tmdb.org/t/p/w500/gMwXEcwN1PMeB2HX6AnluZ9WRxl.jpg"
+    },
+    {
+      "nombre": "오우리",
+      "personaje": "Choi Gyeong",
+      "foto": "https://image.tmdb.org/t/p/w500/53IzEFLPiR0nA5l4DsbfLLvvda4.jpg"
+    },
+    {
+      "nombre": "김태훈",
+      "personaje": "Yoo Tae-joon",
+      "foto": "https://image.tmdb.org/t/p/w500/8mTd6HpLDFK2cwiWhoyZO78A5n1.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "김태희",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "김태희",
+      "rol": "Director"
+    },
+    {
+      "nombre": "김태희",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "민예지",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "송채윤",
+      "rol": "Creator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.736,
+    "imdb": "tt35683421",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "YLAB, STUDIO X+U",
+  "trailer": "https://www.youtube.com/watch?v=0ZMv78yd4V8"
+}
