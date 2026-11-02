@@ -1,0 +1,62 @@
+{
+  "id_tmdb": 209275,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/4WRmW8ATNfKbacwh9eeL8i4SpSl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wDjoR40ues797wYVeJYB1Vx5pUC.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/iGmeodhh8bDxnxP23V800wpdsIa.png",
+  "titulo": "¿Podemos ayudar?",
+  "titulo_original": "일당백집사",
+  "fecha_estreno": "2022-10-19",
+  "duracion": "70min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.9,
+  "sinopsis": "Baek Dong-joo, una agente funeraria con un poder sobrenatural que le permite hablar con los muertos, y Kim Jib-Sa, un empleado de la compañía de mandados \"Recados baratos\". Ambos quedan enredados en una situación de vida o muerte después de un pedido de los muertos.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "이혜리",
+      "personaje": "Baek Dong-joo",
+      "foto": "https://image.tmdb.org/t/p/w500/5F5tjTAvpBcdVdhI9kGjlJY00fY.jpg"
+    },
+    {
+      "nombre": "Lee Jun-young",
+      "personaje": "Kim Tae-hee",
+      "foto": "https://image.tmdb.org/t/p/w500/zH8kiGox6n3FD82MKEhUq79X6gj.jpg"
+    },
+    {
+      "nombre": "송덕호",
+      "personaje": "Seo Hae-ahn",
+      "foto": "https://image.tmdb.org/t/p/w500/ioVlXXrahe7hI8lWt0BwXdvZc6U.jpg"
+    },
+    {
+      "nombre": "한동희",
+      "personaje": "Tak Chung-ha",
+      "foto": "https://image.tmdb.org/t/p/w500/nltWyQ738gemdw2ghC4aebzGMXD.jpg"
+    },
+    {
+      "nombre": "태인호",
+      "personaje": "Im Il-sub",
+      "foto": "https://image.tmdb.org/t/p/w500/tQJuRcrWe9QUsHikSO6Ga2XIKcS.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Lee Seon-Hye",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.9,
+    "imdb": "tt22872644",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "iWill Media",
+  "trailer": ""
+}
