@@ -1,0 +1,96 @@
+{
+  "id_tmdb": 333631,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/uWCL01IPrfDTjO2VTzMwZvVPzXv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/eH8dA6pqku0uWlaqAvbCB79i86f.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/bLH1HwopXsU6nwRGVsdt8kuX8zw.png",
+  "titulo": "Cautiva",
+  "titulo_original": "Cautiva",
+  "fecha_estreno": "2026-09-18",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 8.022,
+  "sinopsis": "La serie narra la historia de Clara, una joven que en pleno siglo XXI, y abrazando su vocación religiosa, entra a un convento de clausura, sin imaginar que ahí dentro, Cecilia, la madre superiora, descargará su locura sobre las monjas, convirtiendo sus vidas en un infierno medieval. ​Quince años después, con un estado físico y psicológico que bordea lo inhumano, logra escapar de allí. Ayudada por su familia, comienza un proceso de reconstrucción de sí misma e inicia una infatigable lucha en búsqueda de justicia.",
+  "pais_origen": "AR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Carolina Kopelioff",
+      "personaje": "Clara Barbosa / Hermana María Teresa de la Eucaristía",
+      "foto": "https://image.tmdb.org/t/p/w500/knCUrmSIwY7dYPjqQltKjC1mNYL.jpg"
+    },
+    {
+      "nombre": "Lorena Vega",
+      "personaje": "Priora Cecilia",
+      "foto": "https://image.tmdb.org/t/p/w500/wOGnE0zRmekWkPJpt3RRtD7SOnN.jpg"
+    },
+    {
+      "nombre": "Valeria Lois",
+      "personaje": "Estela Bruzos",
+      "foto": "https://image.tmdb.org/t/p/w500/3RJIJiOQp9XTGytIQwORbD4lNDa.jpg"
+    },
+    {
+      "nombre": "Tomás Wicz",
+      "personaje": "Nicolás Barbosa",
+      "foto": "https://image.tmdb.org/t/p/w500/nGeaoe7LMzeybNyqNg4BzAi7czD.jpg"
+    },
+    {
+      "nombre": "Lautaro Bettoni",
+      "personaje": "Julián Barbosa",
+      "foto": "https://image.tmdb.org/t/p/w500/fx2c6kZ6gBDCwH3gDnAPXclg2aB.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mauro Guevara",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Anouk Aaron",
+      "rol": "Production Executive"
+    },
+    {
+      "nombre": "Martín Crespo",
+      "rol": "Production Executive"
+    },
+    {
+      "nombre": "Eugenio Caracoche",
+      "rol": "Production Executive"
+    },
+    {
+      "nombre": "Mauro Guevara",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Victoria Aizenstat",
+      "rol": "Production Executive"
+    },
+    {
+      "nombre": "Iván Gierasinchuk",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mariela Rípodas",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Pedro Onetto",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.022,
+    "imdb": "tt43700003",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Aleph",
+  "trailer": "https://www.youtube.com/watch?v=ySsEKhJMf50"
+}
