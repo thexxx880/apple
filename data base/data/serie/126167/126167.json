@@ -1,0 +1,53 @@
+{
+  "id_tmdb": 126167,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7v2D9l9QmU02pXP7R2udu1uYN2y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bfL7ZRhYJn5rYq9DYZL4Wf5qboL.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/43h6x3MsxR6P14htcY3Hyj8cNUn.png",
+  "titulo": "Vigil: conspiración nuclear",
+  "titulo_original": "Vigil",
+  "fecha_estreno": "2021-08-29",
+  "duracion": "58min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 7.216,
+  "sinopsis": "Luego de que un miembro de la tripulación aparece muerto a bordo del submarino nuclear \"Trident HMS VIGIL\", la detective Amy Silva acude a investigar el caso. Sin embargo, el dispositivo nuclear disuasivo del Reino Unido debe permanecer activo.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Suranne Jones",
+      "personaje": "Amy Silva",
+      "foto": "https://image.tmdb.org/t/p/w500/mwoX6TauWmPOgmRyvgMwp7nAXVB.jpg"
+    },
+    {
+      "nombre": "Rose Leslie",
+      "personaje": "Kirsten Longacre",
+      "foto": "https://image.tmdb.org/t/p/w500/4XD7YmJ0W2P8iIOCy0sdtM2ABr7.jpg"
+    },
+    {
+      "nombre": "Dominic Mafham",
+      "personaje": "Sir Ian Downing",
+      "foto": "https://image.tmdb.org/t/p/w500/9IgOMf8JOu3m3tz7yHbXCn5nMCJ.jpg"
+    },
+    {
+      "nombre": "Steven Miller",
+      "personaje": "Mark Cunningham",
+      "foto": "https://image.tmdb.org/t/p/w500/11gMgxiilUqxdD5ie4fvjLJJKK8.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.216,
+    "imdb": "tt11846996",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "World Productions, BBC",
+  "trailer": "https://www.youtube.com/watch?v=Ja74lUBNIQ8"
+}
