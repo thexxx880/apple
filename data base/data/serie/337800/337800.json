@@ -1,0 +1,129 @@
+{
+  "id_tmdb": 337800,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/859hxUCwgo4V9a6Fjx0QSe4tb88.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oc6OMFUQooMKg74qtvOWUjufUsU.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8ZFBwr4dlLHaLvthiYvUUzLBwUC.png",
+  "titulo": "La masacre de Flores",
+  "titulo_original": "La masacre de Flores",
+  "fecha_estreno": "2026-10-22",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Documental",
+    "Crimen"
+  ],
+  "puntuacion": 7,
+  "sinopsis": "",
+  "pais_origen": "AR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Matías Bagnato",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/lnTXjtzmwhMkSACxxTJxwOAzCzs.jpg"
+    },
+    {
+      "nombre": "Juan José Campanella",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/vnZ69dnDx9tnAkW9wicO9wHRQdx.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Juan José Campanella",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Martino Zaidelis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ana Paula Bello",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mariano Cesar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sergio Nakasone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cecilia Abraham",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Juan José Campanella",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Martino Zaidelis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ana Paula Bello",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mariano Cesar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sergio Nakasone",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cecilia Abraham",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Augusto Tejada",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Muriel Cabeza",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Camilo Antolini",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicolas Trovato",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "José Luis Cancio",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ana Paula Bello",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Romina Bacari",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Veronica Cabo",
+      "rol": "Coordinating Producer"
+    },
+    {
+      "nombre": "Mariana Montero",
+      "rol": "Researcher"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": "tt48313964",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max",
+  "trailer": "https://www.youtube.com/watch?v=vy9BC1zYsZU"
+}
