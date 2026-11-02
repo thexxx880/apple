@@ -1,0 +1,75 @@
+{
+  "id_tmdb": 286656,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/nCD56ZAIeNjOTtnRc1JIM8DKV7Q.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oWJs93ux3o9SL4iO4WjJjipkZrw.jpg",
+  "logo": "",
+  "titulo": "הגרמני",
+  "titulo_original": "הגרמני",
+  "fecha_estreno": "2025-04-21",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8,
+  "sinopsis": "",
+  "pais_origen": "IL",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Oliver Masucci",
+      "personaje": "Uri",
+      "foto": "https://image.tmdb.org/t/p/w500/fjJc03z1cOlMxLZbC1qihsq3C37.jpg"
+    },
+    {
+      "nombre": "אניה בוקשטיין",
+      "personaje": "Anna",
+      "foto": "https://image.tmdb.org/t/p/w500/eqpwVZS1g3lhE2REbY0G96Hrvsg.jpg"
+    },
+    {
+      "nombre": "נאיה בינשטוק",
+      "personaje": "Tamar",
+      "foto": "https://image.tmdb.org/t/p/w500/5dRxcM0A2XDkR8pPfWLJUmFkbLN.jpg"
+    },
+    {
+      "nombre": "Ido Tako",
+      "personaje": "Eitan",
+      "foto": "https://image.tmdb.org/t/p/w500/67fTSpoAYPC0OhpqJcALkRnPgfb.jpg"
+    },
+    {
+      "nombre": "רותם קינן",
+      "personaje": "Rafi",
+      "foto": "https://image.tmdb.org/t/p/w500/Aa6Z8jBu5wKiA7r8kXX7KLyEwd.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Gavriel Bibliowicz",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Adam Berkowitz",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Gavriel Bibliowicz",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Adam Berkowitz",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": "tt32872971",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gilformats, LionsGate, Yes Studios",
+  "trailer": ""
+}
