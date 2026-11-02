@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 250203,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2KZleiyQwgvPu05mQolZBKY6asv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/vSMOOG222GhNLmtVMX5rZGdMQgt.png",
+  "titulo": "Casi hermanos",
+  "titulo_original": "Brothers",
+  "fecha_estreno": "2026-09-22",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 7.316,
+  "sinopsis": "Los actores de Hollywood, Matthew McConaughey y Woody Harrelson, han sido los mejores amigos por años, pero un secreto familiar sugiere que sus lazos podrían ser más cercanos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Matthew McConaughey",
+      "personaje": "Matthew McConaughey",
+      "foto": "https://image.tmdb.org/t/p/w500/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+      "nombre": "Woody Harrelson",
+      "personaje": "Woody Harrelson",
+      "foto": "https://image.tmdb.org/t/p/w500/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    },
+    {
+      "nombre": "Natalie Martinez",
+      "personaje": "Valentina",
+      "foto": "https://image.tmdb.org/t/p/w500/cFn0OI9c8aypx20hm3XpTqkrMEx.jpg"
+    },
+    {
+      "nombre": "Brittany Ishibashi",
+      "personaje": "Joy",
+      "foto": "https://image.tmdb.org/t/p/w500/qIBMA7pQi4wnukwbTIn0YgzVMPn.jpg"
+    },
+    {
+      "nombre": "Nolan Almeida",
+      "personaje": "Wyatt",
+      "foto": "https://image.tmdb.org/t/p/w500/iOZRVnGed3F3jOHmCsHJGosli1z.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "David West Read",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Woody Harrelson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew McConaughey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Ellison",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Thunell",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "David West Read",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Woody Harrelson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matthew McConaughey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Ellison",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Thunell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bill Bost",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeremy Plager",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jason Winer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lee Eisenberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Colin Wilkes",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Melanie Jones",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Zak Faust",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Shaina Hedlund",
+      "rol": "Graphic Designer"
+    },
+    {
+      "nombre": "Nick Sherman",
+      "rol": "Staff Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.316,
+    "imdb": "tt6773088",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Paramount, just keep livin Foundation, Children at Play",
+  "trailer": "https://www.youtube.com/watch?v=-Dm1hqMLNng"
+}
