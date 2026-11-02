@@ -1,5 +1,19 @@
 [
   {
+    "id_tmdb": 105248,
+    "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=105248",
+    "type": "serie",
+    "año": "2022",
+    "titulo": "Cyberpunk: Edgerunners",
+    "generos": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Crimen"
+    ]
+  },
+  {
     "id_tmdb": 94954,
     "poster": "https://image.tmdb.org/t/p/w500/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
     "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=94954",
@@ -6423,20 +6437,6 @@
     "generos": [
       "Action & Adventure",
       "Animación",
-      "Sci-Fi & Fantasy"
-    ]
-  },
-  {
-    "id_tmdb": 105248,
-    "poster": "https://image.tmdb.org/t/p/w500/rNkilVmALgaIb4SenfbaecRStDD.jpg",
-    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=105248",
-    "type": "serie",
-    "año": "2022",
-    "titulo": "Cyberpunk: Edgerunners",
-    "generos": [
-      "Animación",
-      "Action & Adventure",
-      "Drama",
       "Sci-Fi & Fantasy"
     ]
   },
