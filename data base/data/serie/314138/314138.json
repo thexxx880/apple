@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 314138,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/emxFEf0WQZr5LIUPvgZH05CjoPY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/eRPNtTZVyR7tGQ2XPpa6fMdyAtU.jpg",
+  "logo": "",
+  "titulo": "Hundarna",
+  "titulo_original": "Hundarna",
+  "fecha_estreno": "2026-02-20",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "",
+  "pais_origen": "SE",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Arvin Kananian",
+      "personaje": "Sasha",
+      "foto": "https://image.tmdb.org/t/p/w500/hcjxh1ouEnWgDGiiW7ihcEXE8ba.jpg"
+    },
+    {
+      "nombre": "Björn Bengtsson",
+      "personaje": "Kalle",
+      "foto": "https://image.tmdb.org/t/p/w500/vwTWzUeQc4BUc7vnD87lPds1Ns8.jpg"
+    },
+    {
+      "nombre": "Kit Walker Johansson",
+      "personaje": "Oscar",
+      "foto": ""
+    },
+    {
+      "nombre": "Tiril Eeg-Henriksen",
+      "personaje": "Tilde",
+      "foto": "https://image.tmdb.org/t/p/w500/nmStuQaoEddBjMfV4aQJC5HFjuF.jpg"
+    },
+    {
+      "nombre": "Dona Hariri",
+      "personaje": "Mariam",
+      "foto": "https://image.tmdb.org/t/p/w500/jt0RXdsV6f790TsoSwDdQR4U7nK.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Lisa Linnertorp",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Nicklas Wikström Nicastro",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Caroline Landerberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jens Lapidus",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Johanna Gårdare",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kristian Hoberstorfer",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jens Lapidus",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lisa Linnertorp",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Nicklas Wikström Nicastro",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Caroline Landerberg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jens Lapidus",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Johanna Gårdare",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kristian Hoberstorfer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jakob Jonas",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Wilma Sommar",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Beatrice Ha",
+      "rol": "Production Coordinator"
+    },
+    {
+      "nombre": "Hedda Lapidus",
+      "rol": "Accountant"
+    },
+    {
+      "nombre": "Lovis Björkli",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Mike Lundin",
+      "rol": "Second Unit Director"
+    },
+    {
+      "nombre": "Mike Lundin",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Louis Hansen",
+      "rol": "Second Assistant Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt38890306",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "SVT, Strive Stories, Film i Väst",
+  "trailer": ""
+}
