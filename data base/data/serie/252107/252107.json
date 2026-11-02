@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 252107,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qP4Jb4Cozz36XiGj1sV4Vvzto4j.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rhJAGhOvkR8270bdXSSCzQSPY1a.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sSQePlyQrQVEG7Pq2LVNlWJczin.png",
+  "titulo": "Star City",
+  "titulo_original": "Star City",
+  "fecha_estreno": "2026-05-28",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "War & Politics"
+  ],
+  "puntuacion": 7.603,
+  "sinopsis": "Vive un emocionante capítulo inspirado por For All Mankind. Mismo universo alternativo, diferente perspectiva: la de la Unión Soviética. Ve detrás de la Cortina de Hierro con los cosmonautas, ingenieros y oficiales que lo arriesgaron todo en la carrera a la Luna.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rhys Ifans",
+      "personaje": "Chief Designer",
+      "foto": "https://image.tmdb.org/t/p/w500/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg"
+    },
+    {
+      "nombre": "Anna Maxwell Martin",
+      "personaje": "Lyudmilla Raskova",
+      "foto": "https://image.tmdb.org/t/p/w500/vBAsZPe1tHPvVLViiDWYkb5k1Cu.jpg"
+    },
+    {
+      "nombre": "Agnes O'Casey",
+      "personaje": "Irina Morozova",
+      "foto": "https://image.tmdb.org/t/p/w500/1o8L2LNsnfJMxFR400RKXGBof3c.jpg"
+    },
+    {
+      "nombre": "Alice Englert",
+      "personaje": "Anastasia Belikova",
+      "foto": "https://image.tmdb.org/t/p/w500/lEXLJpH29u2fTTqOIEsxEtSQP8C.jpg"
+    },
+    {
+      "nombre": "Solly McLeod",
+      "personaje": "Sasha Polivanov",
+      "foto": "https://image.tmdb.org/t/p/w500/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ben Nedivi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Wolpert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ronald D. Moore",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Maril Davis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "K.C. Scott",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Chambliss",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ben Nedivi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Wolpert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ronald D. Moore",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Maril Davis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "K.C. Scott",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Chambliss",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Oster",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gursimran Sandhu",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Megan McDonnell",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "George Mastras",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Liba Vaynberg",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Gary Tuck",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Lineta Mišeikytė",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Jovita Jaksyte",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Jay Redd",
+      "rol": "Senior Visual Effects Supervisor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.603,
+    "imdb": "tt32140872",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sony, Tall Ship Productions, Delicatessen Media",
+  "trailer": "https://www.youtube.com/watch?v=6fNrhF8hCGw"
+}
