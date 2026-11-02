@@ -1,0 +1,138 @@
+{
+  "id_tmdb": 295778,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/6GsNbcjl08rIqGlAIJ7sMhdNRfA.png",
+  "titulo": "Scrubs",
+  "titulo_original": "Scrubs",
+  "fecha_estreno": "2026-02-25",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 7.7,
+  "sinopsis": "Los viejos amigos JD y Turk se reúnen por primera vez en mucho tiempo y descubren que la medicina ha cambiado, los internos han cambiado, pero su amistad ha resistido la prueba del tiempo.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Zach Braff",
+      "personaje": "John 'J.D.' Dorian",
+      "foto": "https://image.tmdb.org/t/p/w500/koIHwqE6hWIXuOIDHNADwSuGq6N.jpg"
+    },
+    {
+      "nombre": "Donald Faison",
+      "personaje": "Christopher Turk",
+      "foto": "https://image.tmdb.org/t/p/w500/gNwWP1CHob9Y8fjY69w7EwGxMoz.jpg"
+    },
+    {
+      "nombre": "Sarah Chalke",
+      "personaje": "Elliot Reid",
+      "foto": "https://image.tmdb.org/t/p/w500/ycwiu89cpjqCtSNC5FjbJggjj5R.jpg"
+    },
+    {
+      "nombre": "Ava Bunn",
+      "personaje": "Dr. Sam Tosh",
+      "foto": "https://image.tmdb.org/t/p/w500/rbneqd2SykvHQ48Tun21wWTxaHf.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mark Stegemann",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Mathew Harawitz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mike Royce",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Spiller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Max Searle",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Kip Kroeger",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Stegemann",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Shannon Corey",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Mathew Harawitz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mike Royce",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Spiller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Max Searle",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Kip Kroeger",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Hayley Adams",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joellen Redlingshafer",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mailei Meyers",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mike Livanos",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Wayne Bennett",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christopher Eddins",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Brianna Porter",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Megan Schultz",
+      "rol": "Post Production Coordinator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": "tt40197357",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Doozer, 20th Television, Seemu!",
+  "trailer": "https://www.youtube.com/watch?v=dpfhbypj2v4"
+}
