@@ -1,0 +1,99 @@
+{
+  "id_tmdb": 295684,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8fEln7Xp26DXiuddBVb9diuFulJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8UzqMeAs2ShIzmOA0ZAniWLLeKz.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3lL9whF2DZRM6by9OSDzj7n80ww.png",
+  "titulo": "Aquel",
+  "titulo_original": "Aquel",
+  "fecha_estreno": "2026-10-09",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.7,
+  "sinopsis": "",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Javier Morgade",
+      "personaje": "Raphael joven",
+      "foto": "https://image.tmdb.org/t/p/w500/hcDV10bTZlm1rTi0NRhoGIpdicw.jpg"
+    },
+    {
+      "nombre": "Álvaro González",
+      "personaje": "Raphael adolescente",
+      "foto": "https://image.tmdb.org/t/p/w500/9CL1kvZzA36fsU6NXb2EZ38F0Gs.jpg"
+    },
+    {
+      "nombre": "Carlos Santos",
+      "personaje": "Raphael adulto",
+      "foto": "https://image.tmdb.org/t/p/w500/pmTSpDOL3C1cH1ZKwVFp1Y041jd.jpg"
+    },
+    {
+      "nombre": "Francesco Carril",
+      "personaje": "Paco Gordillo",
+      "foto": "https://image.tmdb.org/t/p/w500/x1S2YalAc65MMv88fJenTJ0X2ma.jpg"
+    },
+    {
+      "nombre": "Natalia Varela",
+      "personaje": "Natalia Figueroa",
+      "foto": "https://image.tmdb.org/t/p/w500/9XOJYQWgC2dSTjqrRoCzKQER49L.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Nacho Bolonio",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lisette Osorio",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jacobo Martos",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Dago García",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "José Manuel Lorenzo",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nacho Bolonio",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lisette Osorio",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jacobo Martos",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Dago García",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "José Manuel Lorenzo",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": "tt37540577",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Caracol Televisión, DLO Producciones",
+  "trailer": "https://www.youtube.com/watch?v=6GdpD7YmzbY"
+}
