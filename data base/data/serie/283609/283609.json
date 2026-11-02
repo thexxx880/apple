@@ -1,0 +1,108 @@
+{
+  "id_tmdb": 283609,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oNjTdpWZFccXGekoWwIqNZZEoXK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9uOZUDapEqN8qiJ3z8aSCj5k488.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/147iJQS5dgFPzQLYYk3UbXyVfl5.png",
+  "titulo": "Super Subbu",
+  "titulo_original": "Super Subbu",
+  "fecha_estreno": "2026-07-02",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 7.2,
+  "sinopsis": "Cuando al desafortunado Subbu le asignan la tarea de enseñar educación sexual en un pueblo hostil, debe buscar una manera de triunfar y de evitar la ira de su padre conservador.",
+  "pais_origen": "IN",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Sundeep Kishan",
+      "personaje": "Subramanyam Chilukuri Rao",
+      "foto": "https://image.tmdb.org/t/p/w500/qUGN6rvwu9Qef3DGenha2pIEpNY.jpg"
+    },
+    {
+      "nombre": "Mithila Palkar",
+      "personaje": "Swathi",
+      "foto": "https://image.tmdb.org/t/p/w500/ggqPRbqWEayrM6SCj490gIwQK6t.jpg"
+    },
+    {
+      "nombre": "మురళీ శర్మ",
+      "personaje": "Kukuteshwar Rao Chilukuri",
+      "foto": "https://image.tmdb.org/t/p/w500/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg"
+    },
+    {
+      "nombre": "Maanasa Chaudhary",
+      "personaje": "Divya",
+      "foto": "https://image.tmdb.org/t/p/w500/9If2kbsV6ewbsUKviyvyYC5xJ2G.jpg"
+    },
+    {
+      "nombre": "Sampoornesh Babu",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/8LUNhS7JGsv5YDIX3qBPJP3f1BI.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mallik Ram",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rajiv Chilaka",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bharath Laxmipati",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Akshita Akki",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mallik Ram",
+      "rol": "Director"
+    },
+    {
+      "nombre": "A.J. Aaron",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Rajiv Chilaka",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Bharath Laxmipati",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Akshita Akki",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Viplav Nyshadam",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Mallik Ram",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ramesh Eligeti",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": "tt31989291",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Chilaka Productions",
+  "trailer": "https://www.youtube.com/watch?v=dgWHvUjtDJE"
+}
