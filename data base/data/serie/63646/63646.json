@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 63646,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/fVTpkoTkl7LJSoVCnuoHRPJvS4o.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/z2Q4lX7E76BuZMOOZrq4trz91j8.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kGvXOs8kSYNfPpFncyZF64zerKm.png",
+  "titulo": "Counterpart",
+  "titulo_original": "Counterpart",
+  "fecha_estreno": "2017-12-10",
+  "duracion": "56min",
+  "año": "2017",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "puntuacion": 7.452,
+  "sinopsis": "Howard Silk es un miembro humilde de una agencia burocrática de la ONU que está dando la vuelta a la última esquina de una vida llena de arrepentimiento cuando descubre que la agencia para la que trabaja guarda un secreto: un cruce a una dimensión paralela.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "J.K. Simmons",
+      "personaje": "Howard Silk",
+      "foto": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+      "nombre": "نازنین بنیادی",
+      "personaje": "Clare",
+      "foto": "https://image.tmdb.org/t/p/w500/ftBadbFBgRZJcWn9YfbPv8Btyg0.jpg"
+    },
+    {
+      "nombre": "Harry Lloyd",
+      "personaje": "Peter Quayle",
+      "foto": "https://image.tmdb.org/t/p/w500/qZSf6OzRpDaZdOCX6pynSRp6jVV.jpg"
+    },
+    {
+      "nombre": "Olivia Williams",
+      "personaje": "Emily Burton Silk",
+      "foto": "https://image.tmdb.org/t/p/w500/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg"
+    },
+    {
+      "nombre": "Sara Serraiocco",
+      "personaje": "Baldwin",
+      "foto": "https://image.tmdb.org/t/p/w500/p2p9INcMpvs8IeDNJpnPPR5ssft.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Justin Marks",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gary Gilbert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Todd Brown",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Philipp Barnett",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Todd Sharp",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jordan Horowitz",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Maegan Houang",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Maria Melnik",
+      "rol": "Executive Story Editor"
+    },
+    {
+      "nombre": "Ingeborg Heinemann",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Kimberly Leonard",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Lisy Christl",
+      "rol": "Costume Design"
+    },
+    {
+      "nombre": "Amie Doherty",
+      "rol": "Orchestrator"
+    },
+    {
+      "nombre": "Moira Marquis",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Maggie Phillips",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Don Bensko",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Jeff Russo",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Justin Marks",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gary Gilbert",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Todd Brown",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Knut Loewe",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Philipp Barnett",
+      "rol": "Co-Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.452,
+    "imdb": "tt4643084",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gilbert Films, Anonymous Content, MRC",
+  "trailer": "https://www.youtube.com/watch?v=JRuaNHLp6OU"
+}
