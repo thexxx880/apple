@@ -1,0 +1,85 @@
+{
+  "id_tmdb": 312663,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ko97JkfotXWrf8x0nxrAnLWt0np.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7DBM6onx9uwJAVrvalrKZbxVM0k.png",
+  "titulo": "Los solucionadores",
+  "titulo_original": "黑白清道夫",
+  "fecha_estreno": "2026-09-17",
+  "duracion": "45min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Comedia",
+    "Crimen"
+  ],
+  "puntuacion": 6.6,
+  "sinopsis": "Un antiguo gánster de capa caída se alía con el hijo de un astuto político para lidiar con los sucios secretos de importantes clientes de ambos lados de la ley.",
+  "pais_origen": "TW",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "李銘順",
+      "personaje": "Felix Chiang / Fixer Lucky",
+      "foto": "https://image.tmdb.org/t/p/w500/8QvDvbUxkwhbrWHr3Po6liw1jAX.jpg"
+    },
+    {
+      "nombre": "婁峻碩",
+      "personaje": "Louis Hsueh / Fixer Gold",
+      "foto": "https://image.tmdb.org/t/p/w500/7IAgKBtCJw9ubH4TdLLtIuldoLX.jpg"
+    },
+    {
+      "nombre": "庹宗華",
+      "personaje": "Thackery Huang / Fixer Celestial",
+      "foto": "https://image.tmdb.org/t/p/w500/pLbLftVzy5A1BkYlET2gb563WeV.jpg"
+    },
+    {
+      "nombre": "雷嘉汭",
+      "personaje": "Mina Shen",
+      "foto": "https://image.tmdb.org/t/p/w500/gnd2t2Ya9AfAKAlOovqXZbMVXp2.jpg"
+    },
+    {
+      "nombre": "傅孟柏",
+      "personaje": "Tristan Hsueh",
+      "foto": "https://image.tmdb.org/t/p/w500/efznd3HAadw6hF9Ir9Xz1xEyFif.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "洪子烜",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Cora Yim",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "林秉聿",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "洪子烜",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Cora Yim",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "林秉聿",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": "tt39495239",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": ""
+}
