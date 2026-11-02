@@ -1,0 +1,126 @@
+{
+  "id_tmdb": 98177,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/g22MReRLEc2Zey6hKIWEsT0Uu59.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jeGWGcS2OrCvwFh3NBb3KxX7OZY.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/s3MLCzSA6CCCtwcS1uRSiMd5mxT.png",
+  "titulo": "Trying",
+  "titulo_original": "Trying",
+  "fecha_estreno": "2020-05-01",
+  "duracion": "24min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 7.656,
+  "sinopsis": "Nikki y Jason anhelan un bebé y, al no poder concebir, deciden adoptar. Pero con vidas caóticas, amigos disfuncionales y parientes dramáticos, ¿logrará esta pareja formar la familia de sus sueños?",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rafe Spall",
+      "personaje": "Jason",
+      "foto": "https://image.tmdb.org/t/p/w500/zcqUqAvO7RQnitcCNNfTVPaiQtS.jpg"
+    },
+    {
+      "nombre": "Esther Smith",
+      "personaje": "Nikki",
+      "foto": "https://image.tmdb.org/t/p/w500/6vLV8nrCnsjhIm99Cm6Vr8lNG0.jpg"
+    },
+    {
+      "nombre": "Scarlett Rayner",
+      "personaje": "Princess",
+      "foto": "https://image.tmdb.org/t/p/w500/cKPCR1A20nyg3gKwJqXBLDycoNN.jpg"
+    },
+    {
+      "nombre": "Cooper Turner",
+      "personaje": "Tyler",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Esther Smith",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rafe Spall",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Chris Sussman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Pinnell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Andy Wolton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jim O'Hanlon",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Esther Smith",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rafe Spall",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Orla Gartland",
+      "rol": "Songs"
+    },
+    {
+      "nombre": "Chris Sussman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Pinnell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nuala Sheridan",
+      "rol": "Colorist"
+    },
+    {
+      "nombre": "Catherine Grimes",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Andy Wolton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jim O'Hanlon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Josh Cole",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul Saunderson",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Rachel Freck",
+      "rol": "Casting Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.656,
+    "imdb": "tt10982034",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "BBC Studios",
+  "trailer": "https://www.youtube.com/watch?v=ZnkfydH-7bY"
+}
