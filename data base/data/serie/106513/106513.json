@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 106513,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hlAlAIXRBr8uPnVnJuybROEjRpS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7pJBax2QbrmH7A5hjmg0q09zuGD.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/plnIinMqQrsWhIkQ0gZ7T1iR24.png",
+  "titulo": "Los más buscados del mundo",
+  "titulo_original": "World's Most Wanted",
+  "fecha_estreno": "2020-08-05",
+  "duracion": "45min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Documental",
+    "Crimen"
+  ],
+  "puntuacion": 6.7,
+  "sinopsis": "A pesar de las enormes recompensas e investigaciones de gran envergadura, algunos criminales siguen en libertad. Esta docuserie presenta a los más peligrosos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jennifer Julian",
+      "personaje": "Herself, Additional Crew",
+      "foto": ""
+    },
+    {
+      "nombre": "David Lorino",
+      "personaje": "Self - Ex Special Agent DEA Chicago",
+      "foto": ""
+    },
+    {
+      "nombre": "Pierre Richard Prosper",
+      "personaje": "Self. U.S. Ambassador for War Crimes 2001-2005",
+      "foto": ""
+    },
+    {
+      "nombre": "Thomas Fuentes",
+      "personaje": "Self. FBI Special Agent 1979 - 2008",
+      "foto": ""
+    },
+    {
+      "nombre": "Jonathan Winer",
+      "personaje": "Self. Former Deputy Assistant, U.S. Secretary of State",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": "tt12753698",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=TFOYTE3RtCs"
+}
