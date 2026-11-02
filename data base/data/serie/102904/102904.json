@@ -1,0 +1,95 @@
+{
+  "id_tmdb": 102904,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/iWrpppbmi5HdoPlBE4aJlMZADeM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wt60Q4doM2vrubiCsutwaeWncLL.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/gtGSBNQ4zIyh50Usxs6QiMXnQTt.png",
+  "titulo": "Dulces magnolias",
+  "titulo_original": "Sweet Magnolias",
+  "fecha_estreno": "2020-05-19",
+  "duracion": "24min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.734,
+  "sinopsis": "Desde hace años, Maddie, Helen y Dana Sue se apoyan en su amistad para sobrellevar los altibajos en sus relaciones, familias y carreras en el pequeño pueblo de Serenity.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "JoAnna Garcia Swisher",
+      "personaje": "Maddie Townsend",
+      "foto": "https://image.tmdb.org/t/p/w500/rlaDa8MgZbuLCn1So6H7Ff8Pa0c.jpg"
+    },
+    {
+      "nombre": "Brooke Elliott",
+      "personaje": "Dana Sue Sullivan",
+      "foto": "https://image.tmdb.org/t/p/w500/iLxHSgTU34femIXe9ikaHm3IffK.jpg"
+    },
+    {
+      "nombre": "Heather Headley",
+      "personaje": "Helen Decatur",
+      "foto": "https://image.tmdb.org/t/p/w500/kXUCTL1mRcSqK0oJYqZnE98eMfs.jpg"
+    },
+    {
+      "nombre": "Logan Allen",
+      "personaje": "Kyle Townsend",
+      "foto": "https://image.tmdb.org/t/p/w500/hUnSsqtSf0gHnRYUdjRYUjldZdS.jpg"
+    },
+    {
+      "nombre": "Anneliese Judge",
+      "personaje": "Annie Sullivan",
+      "foto": "https://image.tmdb.org/t/p/w500/foGNc6wKfTIojG9mcia4s4SlhyL.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sheryl J. Anderson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sherryl Woods",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Paulson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Norman Buckley",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sheryl J. Anderson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sherryl Woods",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Paulson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Norman Buckley",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Sherryl Woods",
+      "rol": "Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.734,
+    "imdb": "tt9077540",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Daniel L. Paulson Productions",
+  "trailer": "https://www.youtube.com/watch?v=TEgrH93KLgY"
+}
