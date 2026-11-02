@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 225351,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/vVNgdVpa4Hqx4JkXPr67paUNRTk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/slw3sELQwTkINBIIrSXi1acU2Eg.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/tpMuZu5RsiwlbHQJDyrcbz5I2Bo.png",
+  "titulo": "Desapariciones: ¿Vivos o muertos?",
+  "titulo_original": "Missing: Dead or Alive?",
+  "fecha_estreno": "2023-05-10",
+  "duracion": "48min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Documental"
+  ],
+  "puntuacion": 6.7,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Danny Horan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shona Thompson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stuart Froude",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Danny Horan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shona Thompson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Stuart Froude",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": "tt27612322",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Blast! Films",
+  "trailer": "https://www.youtube.com/watch?v=jE7KWuHKWUA"
+}
