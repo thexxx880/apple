@@ -1,5 +1,16 @@
 [
   {
+    "id_tmdb": 311853,
+    "poster": "https://image.tmdb.org/t/p/w500/ThhNhFCIFsYrOtJ2jXkb1ulOd0.jpg",
+    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=311853",
+    "type": "serie",
+    "año": "2026",
+    "titulo": "El alma intranquila",
+    "generos": [
+      "Misterio"
+    ]
+  },
+  {
     "id_tmdb": 897,
     "poster": "https://image.tmdb.org/t/p/w500/kbFIKt6NGppNr7OOn288A8gBObs.jpg",
     "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=897",
@@ -109,17 +120,6 @@
     "type": "serie",
     "año": "2026",
     "titulo": "Los Hilos del Miedo",
-    "generos": [
-      "Misterio"
-    ]
-  },
-  {
-    "id_tmdb": 311853,
-    "poster": "https://image.tmdb.org/t/p/w500/ThhNhFCIFsYrOtJ2jXkb1ulOd0.jpg",
-    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=311853",
-    "type": "serie",
-    "año": "2026",
-    "titulo": "El alma intranquila",
     "generos": [
       "Misterio"
     ]
