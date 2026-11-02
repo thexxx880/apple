@@ -1,0 +1,124 @@
+{
+  "id_tmdb": 231801,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/b3eGgK5aj3T2BZlatWY3tN4Dq3C.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/hX8ksVLjC1FnDt3eRAnFpeHNpdK.png",
+  "titulo": "GET JIRO",
+  "titulo_original": "GET JIRO",
+  "fecha_estreno": "2026-10-04",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure"
+  ],
+  "puntuacion": 9.1,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Brian Tee",
+      "personaje": "Jiro (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ieqbktfBwcHkeikMfNDW94Yffzp.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Alessandro Tanaka",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Gatewood",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jordan Blum",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anthony Bourdain",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joel Rose",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Joel Rose",
+      "rol": "Graphic Novel"
+    },
+    {
+      "nombre": "Anthony Bourdain",
+      "rol": "Graphic Novel"
+    },
+    {
+      "nombre": "Jonathan Hoekstra",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Alessandro Tanaka",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brian Gatewood",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jordan Blum",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anthony Bourdain",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joel Rose",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rick Morales",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Joann Estoesta",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cecilia Aranovich",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Sarah Noonan",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Agnes Kim",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Meredith Layne",
+      "rol": "Other"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9.1,
+    "imdb": "tt33406999",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros, Multiverse Cowboy, G&T Productions",
+  "trailer": "https://www.youtube.com/watch?v=i8WDv3J7das"
+}
