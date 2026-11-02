@@ -1,0 +1,85 @@
+{
+  "id_tmdb": 301387,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6rxfzU40Pisvqaa6FTxN7JeGNUr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qcQiRQwvK6rsYi2qiprNxalDR40.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/od0w37LmSb3DOHDcU44ghu1ljtA.png",
+  "titulo": "Ágata y Lola",
+  "titulo_original": "Ágata y Lola",
+  "fecha_estreno": "2026-07-12",
+  "duracion": "54min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 9.25,
+  "sinopsis": "Sigue la alianza entre Lola Castro, una inspectora de homicidios extrovertida e impulsiva, y Ágata Díaz, una brillante policía documentalista en el espectro autista. ",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Mireia Oriol",
+      "personaje": "Ágata",
+      "foto": "https://image.tmdb.org/t/p/w500/jYv0vqnPm4NLfiERpMpC2M789Z3.jpg"
+    },
+    {
+      "nombre": "Eva Martín",
+      "personaje": "Lola",
+      "foto": "https://image.tmdb.org/t/p/w500/s0b06rkRzizAB0nndhMCbSZAXaH.jpg"
+    },
+    {
+      "nombre": "Antonio Garrido",
+      "personaje": "Nico",
+      "foto": "https://image.tmdb.org/t/p/w500/mWIMF5dYKq81cKnXvty7pFtHvf.jpg"
+    },
+    {
+      "nombre": "Eva Fernández",
+      "personaje": "Pilar",
+      "foto": "https://image.tmdb.org/t/p/w500/kEupqsW5WwGSYPBKROKFFwEs9UZ.jpg"
+    },
+    {
+      "nombre": "Francis Lorenzo",
+      "personaje": "Barreiro",
+      "foto": "https://image.tmdb.org/t/p/w500/75IXZlGL7AZcllw4k9KKl5ilNEV.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Montse García",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alfonso Blanco",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Montse García",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alfonso Blanco",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alexandre de Seguin",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "Laurent Burtin",
+      "rol": "Original Series Creator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9.25,
+    "imdb": "tt38607962",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Portocabo",
+  "trailer": "https://www.youtube.com/watch?v=2SCdx1pnkL4"
+}
