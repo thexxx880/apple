@@ -1,0 +1,54 @@
+{
+  "id_tmdb": 331349,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xJcDAXxmfz5ynPDGrcIl0oWuuDk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qAYNjtJN5gbRuwm8QreIFaWrU79.jpg",
+  "logo": "",
+  "titulo": "Masters of the Universe: Tales from Eternia",
+  "titulo_original": "Masters of the Universe: Tales from Eternia",
+  "fecha_estreno": "2026-06-19",
+  "duracion": "5min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Kids"
+  ],
+  "puntuacion": 8,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Aidan Reimer",
+      "personaje": "He-Man",
+      "foto": ""
+    },
+    {
+      "nombre": "Jonah Hundert",
+      "personaje": "Skeletor",
+      "foto": ""
+    },
+    {
+      "nombre": "Olivia Sgambelluri",
+      "personaje": "Teela",
+      "foto": ""
+    },
+    {
+      "nombre": "Tiffany Smith",
+      "personaje": "Evil-Lyn",
+      "foto": "https://image.tmdb.org/t/p/w500/7kPvIwIEJ5WuoQgOnrxjngyl3Sp.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": "tt43750391",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Mattel Studios, Snipple Animation",
+  "trailer": "https://www.youtube.com/watch?v=5yfDJ0sMEVI"
+}
