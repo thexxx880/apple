@@ -1,0 +1,43 @@
+{
+  "id_tmdb": 314939,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/uZUo3eBpDOqVfeSRHqHBnQORzBk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/knbej5ZhYLEawojNVDZasEBfOA8.png",
+  "titulo": "Un amor distinto al tuyo",
+  "titulo_original": "너 말고 다른 연애",
+  "fecha_estreno": "2026-09-12",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 5.4,
+  "sinopsis": "Una historia de amor realista, emocional y cercana sobre una pareja en su décimo año de relación, que ve cómo sentimientos desconocidos ponen a prueba su estabilidad.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "서강준",
+      "personaje": "Namgung Ho",
+      "foto": "https://image.tmdb.org/t/p/w500/OBHyfTmm9GjprQINWTgndezQHA.jpg"
+    },
+    {
+      "nombre": "안은진",
+      "personaje": "Lee Mi-do",
+      "foto": "https://image.tmdb.org/t/p/w500/cZDp8Qim5tmUN9gQxPkBOE5MS8w.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 5.4,
+    "imdb": "tt43736405",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "STUDIO Bom",
+  "trailer": "https://www.youtube.com/watch?v=zp62ID0bbQM"
+}
