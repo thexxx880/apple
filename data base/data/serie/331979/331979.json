@@ -1,0 +1,97 @@
+{
+  "id_tmdb": 331979,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/aJboceWct3FYptVPavlhUOjiiSe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cae4gjklRHnzQTmVCxpZnOdPw71.jpg",
+  "logo": "",
+  "titulo": "Delirio Mortal",
+  "titulo_original": "ภาพลวงตาย",
+  "fecha_estreno": "2026-09-24",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 7.6,
+  "sinopsis": "Una profesora de un pueblo pequeño (Wan) intenta probar la inocencia de su padre (Narong), quien se convierte en el principal sospechoso de un asesinato mientras lidia con demencia y oscuros rumores sobre la leyenda local del \"Phii Pong\".",
+  "pais_origen": "TH",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Natapohn Tameeruks",
+      "personaje": "Wan",
+      "foto": "https://image.tmdb.org/t/p/w500/sc2urJsf6dwc8JriC9EVtdtqlXA.jpg"
+    },
+    {
+      "nombre": "Jespipat Tilapornputt",
+      "personaje": "Pete",
+      "foto": "https://image.tmdb.org/t/p/w500/10V8i4nuVRvEOcx2HQdW8TZjIpb.jpg"
+    },
+    {
+      "nombre": "สุรศักดิ์ ชัยอรรถ",
+      "personaje": "Narong",
+      "foto": "https://image.tmdb.org/t/p/w500/rT8V1l9vnkMSw4R5YOHmXtri0dy.jpg"
+    },
+    {
+      "nombre": "Vachiravit Paisarnkulwong",
+      "personaje": "Wat",
+      "foto": "https://image.tmdb.org/t/p/w500/aZv2DtHFNHLJFN0bfM7wpC4LjNV.jpg"
+    },
+    {
+      "nombre": "ศิราณี ญาณกิตติกานต์",
+      "personaje": "Pannee",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "ชยันต์ เล้ายอดตระกูล",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Prakasit Patrathranond",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "ชยันต์ เล้ายอดตระกูล",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Prakasit Patrathranond",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "ชยันต์ เล้ายอดตระกูล",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "กษิดิ์เดช สุนทรารชุน",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Kanokphan Ornrattanasakul",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Harin Paesongthai",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Wachrakorn Thaweesab",
+      "rol": "Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.6,
+    "imdb": "tt39749747",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=djLRdKDWMk4"
+}
