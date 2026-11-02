@@ -1,0 +1,79 @@
+{
+  "id_tmdb": 64264,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7TMp3RMf9DCZaaR9XeAQ1N6tby4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7XQopautHwQzRqbIpQWu3paiAeW.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/p21S0BLFMCjncSbyb3LKu7lxgC2.png",
+  "titulo": "Game Shakers",
+  "titulo_original": "Game Shakers",
+  "fecha_estreno": "2015-09-12",
+  "duracion": "25min",
+  "año": "2015",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 7.303,
+  "sinopsis": "Babe y Kenzie crearon \"Sky Whale\", la ballena voladora, para un proyecto de ciencias, sin embargo, su idea se convirtió en el juego más famoso del año. Ahora están ganando mucho dinero con este nuevo y loco negocio. ¿Qué podría salir mal?",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Cree",
+      "personaje": "Babe Carano",
+      "foto": "https://image.tmdb.org/t/p/w500/2qq7GobF9nS1mAARJj1Dyq0GPFL.jpg"
+    },
+    {
+      "nombre": "Madisyn Shipman",
+      "personaje": "Kenzie Bell",
+      "foto": "https://image.tmdb.org/t/p/w500/v6OAOsT46MdwuexGXHSW3dhukRb.jpg"
+    },
+    {
+      "nombre": "Thomas Kuc",
+      "personaje": "Hudson Gimble",
+      "foto": "https://image.tmdb.org/t/p/w500/5nHZfPNC5W0Ft1vrf3cye8ISKoB.jpg"
+    },
+    {
+      "nombre": "Benjamin Flores Jr.",
+      "personaje": "Triple G",
+      "foto": "https://image.tmdb.org/t/p/w500/fYdFWuW6gw8fpqUgAGcnVOzdnV2.jpg"
+    },
+    {
+      "nombre": "Kel Mitchell",
+      "personaje": "Double G",
+      "foto": "https://image.tmdb.org/t/p/w500/LKNYjjNtq5EbntZUKQWUHcTVji.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Dan Schneider",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kel Mitchell",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Dan Schneider",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jamie Snow",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Adam Tait",
+      "rol": "Dialogue Coach"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.303,
+    "imdb": "tt4711184",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nickelodeon, Schneider's Bakery",
+  "trailer": "https://www.youtube.com/watch?v=rCVLzNCF534"
+}
