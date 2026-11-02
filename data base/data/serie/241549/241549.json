@@ -1,0 +1,96 @@
+{
+  "id_tmdb": 241549,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/9oE2YKjY9mo7LVEUVm8NuaKFiEw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5puZfo53LmwAkqOGObg59X3qmC7.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/e0giXYYfrLbztULkjZWfDkUXwWp.png",
+  "titulo": "Murder in a Small Town",
+  "titulo_original": "Murder in a Small Town",
+  "fecha_estreno": "2024-09-24",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 6.8,
+  "sinopsis": "",
+  "pais_origen": "CA",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rossif Sutherland",
+      "personaje": "Karl Alberg",
+      "foto": "https://image.tmdb.org/t/p/w500/3ZBXM6CqZutyWWR6vbGvLcm8HDk.jpg"
+    },
+    {
+      "nombre": "Kristin Kreuk",
+      "personaje": "Cassandra Lee",
+      "foto": "https://image.tmdb.org/t/p/w500/jQVGylAfotE7osIGwGivh6LpCdl.jpg"
+    },
+    {
+      "nombre": "Aaron Douglas",
+      "personaje": "Sergeant Sid Sokolowski",
+      "foto": "https://image.tmdb.org/t/p/w500/hDAlimxTkFyWORistWPJsvTKDYJ.jpg"
+    },
+    {
+      "nombre": "Savonna Spracklin",
+      "personaje": "Isabella Harbud",
+      "foto": "https://image.tmdb.org/t/p/w500/8rRIIgOr1vspwGMR6l3c3gq3EYL.jpg"
+    },
+    {
+      "nombre": "Bethany Brown",
+      "personaje": "Laila Jackson",
+      "foto": "https://image.tmdb.org/t/p/w500/cPXNU3xZQP1tYhOkBdHwJqyI0lU.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Milan Cheylov",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ian Weir",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Morris Ruskin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sharon J. Wisnia",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Milan Cheylov",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ian Weir",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Morris Ruskin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sharon J. Wisnia",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "L.R. Wright",
+      "rol": "Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.8,
+    "imdb": "tt12408718",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sepia Films, Soapbox Productions, MoJo Global Arts",
+  "trailer": "https://www.youtube.com/watch?v=st1zT3nEA6o"
+}
