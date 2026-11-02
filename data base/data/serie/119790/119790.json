@@ -1,0 +1,116 @@
+{
+  "id_tmdb": 119790,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/fgYaZ1qphLpobJideUap8xxMPju.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/sOmO1m5aX4W5qNSN5Z0FScmVjb7.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/6QLqV1Vh6P61cIGkRS0RAN7DitI.png",
+  "titulo": "Sociedad de la Virtud",
+  "titulo_original": "Society of Virtue",
+  "fecha_estreno": "2017-10-12",
+  "duracion": "24min",
+  "año": "2017",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "puntuacion": 8,
+  "sinopsis": "Los superhéroes, los cómics y la ciencia ficción se parodian de forma cómica.",
+  "pais_origen": "BR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Felipe Castanhari",
+      "personaje": "Fumaça",
+      "foto": "https://image.tmdb.org/t/p/w500/7cSUdek2dIIQ0CDBmNwosX6W2Ma.jpg"
+    },
+    {
+      "nombre": "Rafael Studart",
+      "personaje": "Ventania",
+      "foto": "https://image.tmdb.org/t/p/w500/v0TTXWRmftjg47IzBWjWWkbjnLN.jpg"
+    },
+    {
+      "nombre": "Gustavo Chagas",
+      "personaje": "Mestre Caduceu",
+      "foto": "https://image.tmdb.org/t/p/w500/1Cm1npYuVxcjlBITh1u5bfl2y0w.jpg"
+    },
+    {
+      "nombre": "Ian SBF",
+      "personaje": "Várias Vozes",
+      "foto": "https://image.tmdb.org/t/p/w500/3jtAKvIW4C3CWFHKgZpKwYp8Fo2.jpg"
+    },
+    {
+      "nombre": "Antonio Tabet",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/qxorFzpGMZ8GJ60oJpMVCBtlJt4.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Maria Monteiro",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ian SBF",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "Ian SBF",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ian SBF",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Maria Monteiro",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bruno Menezes",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Wagner Mônaco",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Fred Oliveira",
+      "rol": "Recording Supervision"
+    },
+    {
+      "nombre": "Matheus Busch",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "Matheus Tiengo",
+      "rol": "Sound Designer"
+    },
+    {
+      "nombre": "Bruno Menezes",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Wagner Mônaco",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Gabriel Esteves",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Pedro Esteves",
+      "rol": "Script Coordinator"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": "tt9411500",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "NEEBLA",
+  "trailer": "https://www.youtube.com/watch?v=uuVTfzJY4pk"
+}
