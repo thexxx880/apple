@@ -1,0 +1,119 @@
+{
+  "id_tmdb": 304842,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/qMRrBs1Gool5TIfZudC3KxzZgWC.png",
+  "titulo": "The Drop: Una saga de Snowfall",
+  "titulo_original": "The Drop: A Snowfall Saga",
+  "fecha_estreno": "2026-09-08",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.689,
+  "sinopsis": "En el Los Ángeles de los años 90, Wanda y Leon luchan por llevar el rap de la Costa Oeste al público general, mientras estallan guerras de pandillas y las discográficas se mueven para explotar la cultura del hip hop en su propio beneficio",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Gail Bean",
+      "personaje": "Wanda Bell",
+      "foto": "https://image.tmdb.org/t/p/w500/8Ez5A8hoDwTLiWXZ7xSNlJAvCu7.jpg"
+    },
+    {
+      "nombre": "Isaiah John",
+      "personaje": "Leon Simmons",
+      "foto": "https://image.tmdb.org/t/p/w500/mKCuf0BZFsBUYnSTPTHaUtxmKa0.jpg"
+    },
+    {
+      "nombre": "Asante Blackk",
+      "personaje": "Lamar Kinsey",
+      "foto": "https://image.tmdb.org/t/p/w500/mB0FG4VH5HXvjFuZ3W8aJO1bfVu.jpg"
+    },
+    {
+      "nombre": "Peyton Alex Smith",
+      "personaje": "James Kinsey",
+      "foto": "https://image.tmdb.org/t/p/w500/AkP5ljWX0zMVG2OUXu4Wk4KDyou.jpg"
+    },
+    {
+      "nombre": "Simmie Sims III",
+      "personaje": "Artillery",
+      "foto": "https://image.tmdb.org/t/p/w500/m2Z6wlw0b3T8RHvEyJGFiX80jJS.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Malcolm Spellman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dave Andron",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thomas Schlamme",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julie DeJoie",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael London",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Trevor Engelson",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Malcolm Spellman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dave Andron",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dave Andron",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "John Singleton",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "Eric Amadio",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "Thomas Schlamme",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julie DeJoie",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael London",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Trevor Engelson",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.689,
+    "imdb": "tt36210894",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "FX Productions",
+  "trailer": "https://www.youtube.com/watch?v=3Yy_6OaAk3Q"
+}
