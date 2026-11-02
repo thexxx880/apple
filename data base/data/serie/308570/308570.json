@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 308570,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/Inj1tjKLEywuVGbxW1GQBCjWT2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mCj3LbCPZo1ZMSKWSyjIJ8iQqsM.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/qqZuLcgCGqIk8VSBEoPCIEhQeCx.png",
+  "titulo": "El Castillo",
+  "titulo_original": "El Castillo",
+  "fecha_estreno": "2026-10-08",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 6.2,
+  "sinopsis": "",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Omar Ayuso",
+      "personaje": "Liesa",
+      "foto": "https://image.tmdb.org/t/p/w500/c4bAqv3PoSVK4ov7cw076NNqg6f.jpg"
+    },
+    {
+      "nombre": "Laia Marull",
+      "personaje": "Osés",
+      "foto": "https://image.tmdb.org/t/p/w500/9UCGtbwtrgXuQSgznmXvVgKIEmQ.jpg"
+    },
+    {
+      "nombre": "Valentina Vidal",
+      "personaje": "Claudia",
+      "foto": ""
+    },
+    {
+      "nombre": "Raúl Arévalo",
+      "personaje": "Suizo",
+      "foto": "https://image.tmdb.org/t/p/w500/npWhiRnqlbqku6mNnk5RTgGvnj2.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Mabel Lozano",
+      "rol": "Novel"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.2,
+    "imdb": "tt39216741",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Caballo Films, Mafalda Entertainment",
+  "trailer": "https://www.youtube.com/watch?v=2JQzkrphB5Y"
+}
