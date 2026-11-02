@@ -1,0 +1,109 @@
+{
+  "id_tmdb": 275139,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xuZFtTtGfDcphMDur84Cr3EKcc6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/roUD5m2nj6k88azMFsiqBae29cr.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4HAwYxni0ZiisQXmcQRRJITyhDK.png",
+  "titulo": "Phony: La otra madre",
+  "titulo_original": "Phony",
+  "fecha_estreno": "2026-10-20",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 7.5,
+  "sinopsis": "Tras despertarse de un extraño accidente automovilístico, Sonny descubre que su madre ha sido sustituida por un impostor.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Connie Britton",
+      "personaje": "Ellen",
+      "foto": "https://image.tmdb.org/t/p/w500/lxfHf4tTx5NukbemcJjmgqqFAiV.jpg"
+    },
+    {
+      "nombre": "Sam Nivola",
+      "personaje": "Sonny",
+      "foto": "https://image.tmdb.org/t/p/w500/4EL6gTYGkmrjZo7hBjDemut3m1Q.jpg"
+    },
+    {
+      "nombre": "Grace Brennan",
+      "personaje": "Mallory",
+      "foto": "https://image.tmdb.org/t/p/w500/4nnel8wSB44mDfmEyFtc8zF94h9.jpg"
+    },
+    {
+      "nombre": "Maliq Johnson",
+      "personaje": "Vogel",
+      "foto": "https://image.tmdb.org/t/p/w500/3TUTmXc7eohJQIK9f5lMDH82YB8.jpg"
+    },
+    {
+      "nombre": "Meera Syal",
+      "personaje": "Sharla",
+      "foto": "https://image.tmdb.org/t/p/w500/xjndtTD7lIvuCSMtAYBQtTVwMGV.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Connie Britton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charlie Alderman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Drew Goddard",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Esberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nick Paley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anthony King",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Connie Britton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charlie Alderman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Drew Goddard",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sarah Esberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nick Paley",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Anthony King",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.5,
+    "imdb": "tt21952924",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Goddard Textiles, 20th Television",
+  "trailer": "https://www.youtube.com/watch?v=MFKYzSVqGQ4"
+}
