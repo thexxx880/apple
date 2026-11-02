@@ -1,0 +1,59 @@
+{
+  "id_tmdb": 320754,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rMvfkMMITQXIMm44epyRaGwMaNw.jpg",
+  "logo": "",
+  "titulo": "Criminales organizados",
+  "titulo_original": "Organize İşler",
+  "fecha_estreno": "2026-10-16",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Crimen",
+    "Action & Adventure"
+  ],
+  "puntuacion": 5.111,
+  "sinopsis": "Un mítico mapa cae en las manos de un estafador legendario que decide hacer un último trabajo antes de dejar atrás la vida de engaños para siempre.",
+  "pais_origen": "TR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Yılmaz Erdoğan",
+      "personaje": "Asım Noyan",
+      "foto": "https://image.tmdb.org/t/p/w500/nl7WulHPoP6bw4phMwp0VuuJgyL.jpg"
+    },
+    {
+      "nombre": "Kıvanç Tatlıtuğ",
+      "personaje": "Sarı Saruhan",
+      "foto": "https://image.tmdb.org/t/p/w500/rs7Z3PKa82UhKGQLrBNAy0JAWV5.jpg"
+    },
+    {
+      "nombre": "Ezgi Mola",
+      "personaje": "Lerzan Berrak",
+      "foto": "https://image.tmdb.org/t/p/w500/dXZJOJr8bpUaCyUEBpNKs8e1Utx.jpg"
+    },
+    {
+      "nombre": "Bensu Soral",
+      "personaje": "Nazlı Noyan",
+      "foto": "https://image.tmdb.org/t/p/w500/ti3PfqOgXmbJIQtwQl1yH5i1WnU.jpg"
+    },
+    {
+      "nombre": "Rıza Kocaoğlu",
+      "personaje": "Arıza Rıza",
+      "foto": "https://image.tmdb.org/t/p/w500/b0Bp9W1VIaVzCzzUCMwBc7fe005.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 5.111,
+    "imdb": "tt38732131",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=bCxYPFYb_zU"
+}
