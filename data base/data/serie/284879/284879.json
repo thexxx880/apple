@@ -1,0 +1,107 @@
+{
+  "id_tmdb": 284879,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/wvYndp4ARcTpbsQNHvdbAeeazbE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bJAZn4cfhUmLeqsKHjA5grWhFfA.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nx4BJY44RnXFSs5HUFQF4FDjlc4.png",
+  "titulo": "Las hijas de la criada",
+  "titulo_original": "Las hijas de la criada",
+  "fecha_estreno": "2025-11-30",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Verónica Sánchez",
+      "personaje": "Inés",
+      "foto": "https://image.tmdb.org/t/p/w500/4Z7OHkdHIQ9VPp3JBU8QPUzMewR.jpg"
+    },
+    {
+      "nombre": "Carlota Baró",
+      "personaje": "Renata",
+      "foto": "https://image.tmdb.org/t/p/w500/556dL78TyfZf0ZwszZ1AhnwxeNx.jpg"
+    },
+    {
+      "nombre": "Alain Hernández",
+      "personaje": "Gustavo Valdés",
+      "foto": "https://image.tmdb.org/t/p/w500/4rfXlYY1akHQG1pCJa8PmD3eSbw.jpg"
+    },
+    {
+      "nombre": "Martina Cariddi",
+      "personaje": "Catalina",
+      "foto": "https://image.tmdb.org/t/p/w500/6ND8Z0INbpBI8JeLWz8ogBWGtdy.jpg"
+    },
+    {
+      "nombre": "Judith Fernández",
+      "personaje": "Clara",
+      "foto": "https://image.tmdb.org/t/p/w500/gUSAjZmxVGBnTPrnVZqAtrnc2on.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sonia Martínez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lucía Alonso-Allende",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sonsoles Ónega",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Sonia Martínez",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lucía Alonso-Allende",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Sara Muñoz",
+      "rol": "Production Director"
+    },
+    {
+      "nombre": "Chechu Graf",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Iván Caso",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mauro Gastón",
+      "rol": "Hair Department Head"
+    },
+    {
+      "nombre": "Conchi Iglesias",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Irene Rodríguez",
+      "rol": "Adaptation"
+    },
+    {
+      "nombre": "Patricia Rodríguez",
+      "rol": "Makeup Department Head"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt35884526",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Buendía Estudios",
+  "trailer": "https://www.youtube.com/watch?v=PkkfyR06MlY"
+}
