@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 253391,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mhTIUNa9BI019NuXrUBYYCkZ199.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jXm6nUvztPNFjXTbEZNOe3x096Y.png",
+  "titulo": "Sheriff Country",
+  "titulo_original": "Sheriff Country",
+  "fecha_estreno": "2025-10-17",
+  "duracion": "24min",
+  "año": "2025",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 7.347,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Morena Baccarin",
+      "personaje": "Mickey Fox",
+      "foto": "https://image.tmdb.org/t/p/w500/4gyHyg6FJ1oFczOm5pmMkdEEo2J.jpg"
+    },
+    {
+      "nombre": "Matt Lauria",
+      "personaje": "Nathan Boone",
+      "foto": "https://image.tmdb.org/t/p/w500/afzZ4QN5MV4Ui6oz5zWFLBvuDRE.jpg"
+    },
+    {
+      "nombre": "W. Earl Brown",
+      "personaje": "Wes Fox",
+      "foto": "https://image.tmdb.org/t/p/w500/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
+    },
+    {
+      "nombre": "Christopher Gorham",
+      "personaje": "Travis Fraley",
+      "foto": "https://image.tmdb.org/t/p/w500/dKFXHJ3KBJaeQ50udMdBEC0VFvI.jpg"
+    },
+    {
+      "nombre": "Michele Weaver",
+      "personaje": "Cassidy Campbell",
+      "foto": "https://image.tmdb.org/t/p/w500/zdCczyPd5oO9XsXvRANjER4hMZs.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.347,
+    "imdb": "tt32268630",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "CBS Studios, Jerry Bruckheimer Television",
+  "trailer": "https://www.youtube.com/watch?v=OPf6EfNIld0"
+}
