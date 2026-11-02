@@ -1,0 +1,92 @@
+{
+  "id_tmdb": 288385,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5arYNSnKiCWxdwdrzjvP5vokPkV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
+  "logo": "",
+  "titulo": "Paolo",
+  "titulo_original": "Paolo",
+  "fecha_estreno": "2026-09-25",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 5.1,
+  "sinopsis": "",
+  "pais_origen": "FR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jérôme Niel",
+      "personaje": "Paolo",
+      "foto": "https://image.tmdb.org/t/p/w500/2gCaopWoxvPaL3gyPkYyZnzAY9U.jpg"
+    },
+    {
+      "nombre": "Yoann Gasiorowski",
+      "personaje": "Téophane",
+      "foto": "https://image.tmdb.org/t/p/w500/1gvUSMBkNRdZwd7CUa9aCWuYQvt.jpg"
+    },
+    {
+      "nombre": "Magalie Lépine-Blondeau",
+      "personaje": "Géraldine",
+      "foto": "https://image.tmdb.org/t/p/w500/ci7DL2C39iZmb86tLVAzAkorozY.jpg"
+    },
+    {
+      "nombre": "Marie Oppert",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/7uRzdGQgqT1k6DJtdCXPXnNAc5A.jpg"
+    },
+    {
+      "nombre": "Léo Chalié",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/vmuNIVYP9lbuMcxNa4i3CgXLWuU.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Floriane Cortes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gaspard de Chavagnac",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sébastien Marnier",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Floriane Cortes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gaspard de Chavagnac",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sébastien Marnier",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Sébastien Marnier",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Juliette Soubrier",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.1,
+    "imdb": "tt40407840",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Mintee Studio",
+  "trailer": ""
+}
