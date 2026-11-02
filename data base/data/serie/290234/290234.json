@@ -1,0 +1,107 @@
+{
+  "id_tmdb": 290234,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/rGeWjJxZpFCftDDroRIa1BvYfqX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/yEPXXBQAX0ImTshXODXODpyOWKF.png",
+  "titulo": "Mal de Amores",
+  "titulo_original": "Mal de Amores",
+  "fecha_estreno": "2026-09-02",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.1,
+  "sinopsis": "",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Renata Vaca",
+      "personaje": "Emilia Sauri",
+      "foto": "https://image.tmdb.org/t/p/w500/f7EYerzrIPixpjuIZz7rv6Nz5YS.jpg"
+    },
+    {
+      "nombre": "Juan Pablo Fuentes",
+      "personaje": "Daniel Cuenca",
+      "foto": "https://image.tmdb.org/t/p/w500/eGEgDv4aOfSgwKT6a1YxbNwpqdG.jpg"
+    },
+    {
+      "nombre": "Alejandro Puente",
+      "personaje": "Salvador Cuenca",
+      "foto": "https://image.tmdb.org/t/p/w500/8dqOlNGhPfQR3JENOVCFB0ef1Hq.jpg"
+    },
+    {
+      "nombre": "Diana Bovio",
+      "personaje": "Josefa Veytia",
+      "foto": "https://image.tmdb.org/t/p/w500/fIHf1qsPzVhtnDBFGY1muc9AikB.jpg"
+    },
+    {
+      "nombre": "Iván Amozurrutia",
+      "personaje": "Antonio Zavalza",
+      "foto": "https://image.tmdb.org/t/p/w500/aXZHYlKrgjs3dZDN19HtPTfB8rK.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Angeles Mastretta",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jose Nacif",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ramiro Ruiz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Fernanda Eguiarte",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Angeles Mastretta",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Angeles Mastretta",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sandra Cabriada",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jose Nacif",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ramiro Ruiz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Fernanda Eguiarte",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Max de Groot",
+      "rol": "Pipeline Technical Director"
+    },
+    {
+      "nombre": "Jarno Blankestijn",
+      "rol": "VFX Artist"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.1,
+    "imdb": "tt32909469",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=3-oqCwQd8Ec"
+}
