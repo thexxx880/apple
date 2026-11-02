@@ -1,0 +1,71 @@
+{
+  "id_tmdb": 316702,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/vfF7UkoGdJxtWe9drFy6TXdWSVN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/w6SENLYA0QEorgl2siVAzVfC7NW.png",
+  "titulo": "La mesa final",
+  "titulo_original": "파이널 테이블",
+  "fecha_estreno": "2026-10-24",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.5,
+  "sinopsis": "La Mesa: K-chef 2026 reúne a los mejores chefs coreanos para competir por el título de mejor chef. Chris K, misterioso y famosísimo chef, conocido como Kang Han, Song-yi, que quiere salvar su restaurante, Woo-jin, chef estrella perfeccionista, entre otros, se enfrentan en una feroz batalla culinaria. Más allá de la competición, encuentran consuelo en la comida y los unos en los otros.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "안효섭",
+      "personaje": "Kang Han / Chris K",
+      "foto": "https://image.tmdb.org/t/p/w500/hVnKQ5WO8MGFrm6ShPmL90NZloV.jpg"
+    },
+    {
+      "nombre": "홍화연",
+      "personaje": "Choi Song-i",
+      "foto": "https://image.tmdb.org/t/p/w500/XzUpzJuGHsghd1ZolrFU7JIXOV.jpg"
+    },
+    {
+      "nombre": "장률",
+      "personaje": "Cha Woo-jin",
+      "foto": "https://image.tmdb.org/t/p/w500/ad3JzZUeo9jj3UpRK4NoYioCIxQ.jpg"
+    },
+    {
+      "nombre": "정유진",
+      "personaje": "Seon Jeong-won",
+      "foto": "https://image.tmdb.org/t/p/w500/iiY8UUU93EjutlfRrTZTPm566d6.jpg"
+    },
+    {
+      "nombre": "장영남",
+      "personaje": "Moon Hae-seon",
+      "foto": "https://image.tmdb.org/t/p/w500/u0hl8WSswFhKVaKwaMAERU0xUJk.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Kim Do-hoon",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kim Do-hoon",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Kim Do-hoon",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.5,
+    "imdb": "tt49692512",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "BA Entertainment, SLL, DZoong Film",
+  "trailer": "https://www.youtube.com/watch?v=eojaHI20G5g"
+}
