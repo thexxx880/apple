@@ -1,0 +1,131 @@
+{
+  "id_tmdb": 292532,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/AbacRmw60119iQEiDf0dfseVDuk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jccQakK5TaHYzi7IA0pPDEskl7P.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nFQ2vXDPlRaehtTvPkgIlpbaPXV.png",
+  "titulo": "Brasil 70: La saga del tricampeonato",
+  "titulo_original": "Brasil 70: A Saga do Tri",
+  "fecha_estreno": "2026-05-29",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.3,
+  "sinopsis": "En 1970, la selección de Brasil salió a la cancha con un gran objetivo en mente: convertirse en el primer equipo tricampeón del mundo.",
+  "pais_origen": "BR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lucas Agrícola",
+      "personaje": "Pelé",
+      "foto": "https://image.tmdb.org/t/p/w500/qsqUdI0Un1OqBQYBizY8TrApQcC.jpg"
+    },
+    {
+      "nombre": "Rodrigo Santoro",
+      "personaje": "João Saldanha",
+      "foto": "https://image.tmdb.org/t/p/w500/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+    },
+    {
+      "nombre": "Bruno Mazzeo",
+      "personaje": "Zagallo",
+      "foto": "https://image.tmdb.org/t/p/w500/putx30jjKXNV4URnlOl92Cu32Nv.jpg"
+    },
+    {
+      "nombre": "Marcelo Adnet",
+      "personaje": "Eusébio Teixeira",
+      "foto": "https://image.tmdb.org/t/p/w500/hCaB1q6CypBdQH1A7xuSehTfUdx.jpg"
+    },
+    {
+      "nombre": "Ravel Andrade",
+      "personaje": "Tostão",
+      "foto": "https://image.tmdb.org/t/p/w500/7s2SqObJ6f1rE1dfcrm9dwJdU4T.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Paulo Morelli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cris Abi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pedro Morelli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Guto Gontijo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pedro Morelli",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paulo Morelli",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Paulo Morelli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cris Abi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pedro Morelli",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Guto Gontijo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Renato C. Gaiarsa",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Lucas Gonzaga",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "André Dib",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Tainá Diniz",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Marcelo Junqueira",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Guilherme Porto",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Pedro Morelli",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Paulo Morelli",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.3,
+    "imdb": "tt37041010",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "O2 Filmes",
+  "trailer": "https://www.youtube.com/watch?v=EzOpCMbRP-s"
+}
