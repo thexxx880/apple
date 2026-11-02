@@ -1,0 +1,120 @@
+{
+  "id_tmdb": 313172,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2N1kH7314XUfMw80iLZh1d2UoHY.jpg",
+  "logo": "",
+  "titulo": "Chumbak",
+  "titulo_original": "चुंबक",
+  "fecha_estreno": "2026-09-10",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 3.5,
+  "sinopsis": "Cinco peculiares familias se enfrentan a la vida como vecinos en la colonia Chumbak, donde caos, conflictos y diversión hacen de cada día una nueva aventura.",
+  "pais_origen": "IN",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Deven Bhojani",
+      "personaje": "Kuku Merchant",
+      "foto": "https://image.tmdb.org/t/p/w500/4gKlQ8QD6BtfachIRAXOxB5vidB.jpg"
+    },
+    {
+      "nombre": "Neena Gupta",
+      "personaje": "Rajni Merchant",
+      "foto": "https://image.tmdb.org/t/p/w500/znCPPYR79c1DU2MvA61JXhdMeCs.jpg"
+    },
+    {
+      "nombre": "Sumeet Vyas",
+      "personaje": "Aditya Khanna",
+      "foto": "https://image.tmdb.org/t/p/w500/qGwWWHQsMU4V9ZMZnqNxdnXpYo2.jpg"
+    },
+    {
+      "nombre": "Manasi Parekh",
+      "personaje": "Priyanka Khanna",
+      "foto": "https://image.tmdb.org/t/p/w500/hehENX9xvxs97OCHZTYuceRPQ0q.jpg"
+    },
+    {
+      "nombre": "Sumeet Raghvan",
+      "personaje": "Dharmendra Kejriwal",
+      "foto": "https://image.tmdb.org/t/p/w500/4dOV251KBVkZSyG9MbGgt5dDKeo.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Aatish Kapadia",
+      "rol": "Director"
+    },
+    {
+      "nombre": "JD Majethia",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aatish Kapadia",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mayur Ravilal Kotak",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kesar Majethia",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Aatish Kapadia",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Aatish Kapadia",
+      "rol": "Director"
+    },
+    {
+      "nombre": "JD Majethia",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aatish Kapadia",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mayur Ravilal Kotak",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kesar Majethia",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Uttank Vora",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Uroovaak Vora",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Jogi Mallang",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Aajay K.",
+      "rol": "Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 3.5,
+    "imdb": "tt39640519",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Hats Off Productions",
+  "trailer": "https://www.youtube.com/watch?v=69auJ1F1EsE"
+}
