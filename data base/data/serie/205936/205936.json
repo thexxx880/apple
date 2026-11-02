@@ -1,0 +1,38 @@
+{
+  "id_tmdb": 205936,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/iFFfskrbD6FqTYr9iN1T63l17eE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6mzaHUMfyeo0YjXQfDa2Q2fGmCk.jpg",
+  "logo": "",
+  "titulo": "Cantinflas y sus amigos",
+  "titulo_original": "Cantinflas y sus amigos",
+  "fecha_estreno": "1982-05-19",
+  "duracion": "24min",
+  "año": "1982",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "Cantinflas y sus Amigos, (en inglés: Amigo and Friends ) es un dibujo animado educativo para niños sobre la base de la serie de dibujos animados mexicana, Cantinflas Show de 1969. La caricatura se concentra en una amplia gama de temas destinados a educar a los niños, Amigo es un pequeño personaje mexicano, que sigue las aventuras de educar a través del tiempo y el espacio y llega a visitar a Shakespeare, ver las pirámides antiguas, e incluso viajes a otros planetas. El personaje Amigo de la serie animada es basado en el legendario personaje Cantinflas, interpretado por el actor y comediante mexicano Mario Moreno Reyes. La serie fue creada y producida por Televisa, conocido entonces como Telesistema Mexicano. La empresa también fue responsable de la distribución de la serie en México.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Cantinflas",
+      "personaje": "cantinflas",
+      "foto": "https://image.tmdb.org/t/p/w500/2G2Wvn0Uy3PVC2ZSB43udFdNQmr.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt0284711",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Televisa",
+  "trailer": ""
+}
