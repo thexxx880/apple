@@ -1,0 +1,42 @@
+{
+  "id_tmdb": 126794,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kG5JNg2mazcKJUEFm6DSFQNR0A8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uJlX6B08fkmBiphoRuuve3EWTd5.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sXLf4ZkRZmaMKRlRsARYoRB4a8c.svg",
+  "titulo": "Familia de Animales",
+  "titulo_original": "Growing Up Animal",
+  "fecha_estreno": "2021-08-18",
+  "duracion": "50min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 7,
+  "sinopsis": "Conmovedoras historias que siguen el desarrollo de animales bebés en el viaje mágico desde los misterios del útero hasta los desafíos de la naturaleza.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Tracee Ellis Ross",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dIaX2VojiARhVpxDkOG9ozvsBB.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Greg Rappaport",
+      "rol": "Music Supervisor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": "tt13891272",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Wall to Wall, Blink Films",
+  "trailer": "https://www.youtube.com/watch?v=mp95CANoJI8"
+}
