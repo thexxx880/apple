@@ -1,0 +1,75 @@
+{
+  "id_tmdb": 322428,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5T0cYK9C5UDVlqYGIYB8hcxq65T.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wCqQrj4536IkhFlxDSytf4p3H09.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kiU7whOXLuph4MzVTJ1OA1Pmv3V.png",
+  "titulo": "Moria",
+  "titulo_original": "Moria",
+  "fecha_estreno": "2026-08-14",
+  "duracion": "35min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 9.2,
+  "sinopsis": "En esta dramatización que desborda de estilo, Moria Casán transforma la historia de su vida en un espectáculo simbólico de fama, controversia y reinvención constante.",
+  "pais_origen": "AR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Moria Casán",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/dRn9w5k1RbRx0Q52LorMasVHGsN.jpg"
+    },
+    {
+      "nombre": "Cecilia Roth",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/4icHsZvHy0ZnDGF2kovjNLuDQEM.jpg"
+    },
+    {
+      "nombre": "Griselda Siciliani",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/vl8mSPAkc4xr0X3BiO2bzjUbqgn.jpg"
+    },
+    {
+      "nombre": "Sofía Gala Castiglione",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/foYgCg2gGKkPcC08joJuklrCevV.jpg"
+    },
+    {
+      "nombre": "Marco Antonio Caponi",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/hQWOVIeDxf1aJR7LyWZL1m8fZTw.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Javier van de Couter",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Javier van de Couter",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Donna Tefa",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Benito Gueilburt",
+      "rol": "Intern"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9.2,
+    "imdb": "tt41559147",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "About Entertainment",
+  "trailer": ""
+}
