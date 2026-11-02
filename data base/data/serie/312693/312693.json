@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 312693,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/lO4j49i7BvRoyHonVbzypTradMK.png",
+  "titulo": "Pequeños profetas",
+  "titulo_original": "Small Prophets",
+  "fecha_estreno": "2026-02-09",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 8,
+  "sinopsis": "Desde que su novia desapareció hace siete años, la vida de Michael quedó en pausa; pero una receta mística en un viejo diario, promete revelar las respuestas que ha estado buscando.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Pearce Quigley",
+      "personaje": "Michael Sleep",
+      "foto": "https://image.tmdb.org/t/p/w500/fp748oC30lchPGwcwT3lk2QzxYX.jpg"
+    },
+    {
+      "nombre": "Michael Palin",
+      "personaje": "Brian",
+      "foto": "https://image.tmdb.org/t/p/w500/gWz8S2FEUEm1f3LQrN8cSUjnfhu.jpg"
+    },
+    {
+      "nombre": "Lauren Patel",
+      "personaje": "Kacey",
+      "foto": "https://image.tmdb.org/t/p/w500/2PYWVuUlKzI9xQ6nyhApQ9xDbG9.jpg"
+    },
+    {
+      "nombre": "Mackenzie Crook",
+      "personaje": "Gordon",
+      "foto": "https://image.tmdb.org/t/p/w500/lN96i9ez4FUrQgpYdLMYr0l3Ggy.jpg"
+    },
+    {
+      "nombre": "Shola Adewusi",
+      "personaje": "Olive",
+      "foto": "https://image.tmdb.org/t/p/w500/ax7DudH8MgTHrVwLOEkwrechRH3.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Emma Lawson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mackenzie Crook",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lisa Thomas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gill Isles",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Christine Gernon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Emma Strain",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Emma Lawson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mackenzie Crook",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lisa Thomas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gill Isles",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yvonne Lawlor",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Matt Squire",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "Vishal Sharma",
+      "rol": "Still Photographer"
+    },
+    {
+      "nombre": "Stu Laurie",
+      "rol": "Script Supervisor"
+    },
+    {
+      "nombre": "Christine Gernon",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Emma Strain",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Louise Lyons",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Lucy Spink",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Nick Brown",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Simon Reglar",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Cinder Well",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": "tt38504111",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Treasure Trove Productions, Blue House Productions, BBC",
+  "trailer": "https://www.youtube.com/watch?v=W7vdQWnaZts"
+}
