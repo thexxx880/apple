@@ -1,0 +1,74 @@
+{
+  "id_tmdb": 316973,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7K87u6N66YU9eXyJJHn5YljpSIF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/v8dnBVnuINt8g1n0NvEADxZ3NXV.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/xkknD81FXEIwnDG2aXEUEzehffN.png",
+  "titulo": "Diente de león",
+  "titulo_original": "だんでらいおん",
+  "fecha_estreno": "2026-04-16",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 7.9,
+  "sinopsis": "En una agencia del más allá donde los ángeles guían a las almas en pena, Tetsuo y Misaki enfrentan los desafíos con un estilo muy original para que los muertos encuentren la paz.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "小林親弘",
+      "personaje": "Tetsuo Tanba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dD0xdWLQubyRKAnI3rWpeV35XxD.jpg"
+    },
+    {
+      "nombre": "潘めぐみ",
+      "personaje": "Misaki Kurogane (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cwnwrPg1YvB19TbfouC4ShGPmbQ.jpg"
+    },
+    {
+      "nombre": "宮野真守",
+      "personaje": "Seiki Kyōkawa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nuok8ueG7k9hPZ09Tpr8e7Qn0ah.jpg"
+    },
+    {
+      "nombre": "井上和彦",
+      "personaje": "Daigorō Kyōkawa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3BpYtYRiLAmTNbCm2LXlXnkMRit.jpg"
+    },
+    {
+      "nombre": "小野賢章",
+      "personaje": "Yūichi Kyōkawa",
+      "foto": "https://image.tmdb.org/t/p/w500/wUYJ3HIeygHfh4rAqupE4RPoG3W.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "又賀大介",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "空知英秋",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "又賀大介",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.9,
+    "imdb": "tt40356933",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "National Geographic, BBC Studios Natural History Unit",
+  "trailer": "https://www.youtube.com/watch?v=IRe_ScY2C3s"
+}
