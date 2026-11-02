@@ -1,0 +1,112 @@
+{
+  "id_tmdb": 300527,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/cqqfz3t8xsuPLwl5Obo7f9KwFDE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
+  "logo": "",
+  "titulo": "¿Por casualidad hablaban de mí?",
+  "titulo_original": "俺のこと、なんか言ってた？",
+  "fecha_estreno": "2026-10-22",
+  "duracion": "54min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 8,
+  "sinopsis": "Tras pasar dos años triunfando en el extranjero, Gen vuelve a su país y descubre con estupor que todo el mundo le ha olvidado por completo, incluida su propia familia y el entorno del espectáculo.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "役所広司",
+      "personaje": "Gen Takasegawa / Yorozu Mantaro",
+      "foto": "https://image.tmdb.org/t/p/w500/r2WyVRyl6EJgyPKUJCB7D9cKYPE.jpg"
+    },
+    {
+      "nombre": "賀来賢人",
+      "personaje": "Tetsu Okamoto",
+      "foto": "https://image.tmdb.org/t/p/w500/1c7WZIRaQTUoKlD0LSDWB5n15X6.jpg"
+    },
+    {
+      "nombre": "松山ケンイチ",
+      "personaje": "Kazuki Kawashima",
+      "foto": "https://image.tmdb.org/t/p/w500/j7zwtoLF6A7d8xSU9kjgz664nQw.jpg"
+    },
+    {
+      "nombre": "江口のりこ",
+      "personaje": "Machiko Takasegawa",
+      "foto": "https://image.tmdb.org/t/p/w500/6lsnjQk0QvlJGg7rZqK1nROFU31.jpg"
+    },
+    {
+      "nombre": "河合優実",
+      "personaje": "Ema Nonomura",
+      "foto": "https://image.tmdb.org/t/p/w500/pcYp2J96Kt0M2MuLE6BRb6b6nGG.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "磯山晶",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "下村和也",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "古屋厚",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "赤羽智史",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "磯山晶",
+      "rol": "Creative Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "磯山晶",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "下村和也",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "古屋厚",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "川島周",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "赤羽智史",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "松尾茂樹",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "磯山晶",
+      "rol": "Creative Producer"
+    },
+    {
+      "nombre": "河野伸",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": "tt38337376",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "THE SEVEN, Netflix, Robot Communications",
+  "trailer": "https://www.youtube.com/watch?v=MxQQ1S0N_wE"
+}
