@@ -1,0 +1,73 @@
+{
+  "id_tmdb": 279323,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/zlKETP9iErKueFfNRuKxivsDLWe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/hniDMux6RBYjaMdUpNFnNS1sehI.png",
+  "titulo": "El palacio del este",
+  "titulo_original": "동궁",
+  "fecha_estreno": "2026-07-17",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "puntuacion": 8.055,
+  "sinopsis": "Un hombre que cruza al mundo de los espíritus y una dama de la corte que oye a los muertos llegan al palacio del este por orden del rey. ¿Podrán desentrañar los secretos del lugar?",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "남주혁",
+      "personaje": "Gu-cheon",
+      "foto": "https://image.tmdb.org/t/p/w500/kuLC8pR24kbEIAjfg3WpKW41Kcl.jpg"
+    },
+    {
+      "nombre": "노윤서",
+      "personaje": "Saeng-gang",
+      "foto": "https://image.tmdb.org/t/p/w500/A67wGhTozfav5saZ1Umi5f98Ezb.jpg"
+    },
+    {
+      "nombre": "조승우",
+      "personaje": "King",
+      "foto": "https://image.tmdb.org/t/p/w500/agXysHUmaUdHrEQAZ2ZMvMR5oCU.jpg"
+    },
+    {
+      "nombre": "장영남",
+      "personaje": "Queen Dowager",
+      "foto": "https://image.tmdb.org/t/p/w500/u0hl8WSswFhKVaKwaMAERU0xUJk.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "최정규",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "최정규",
+      "rol": "Director"
+    },
+    {
+      "nombre": "권소라",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "서재원",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.055,
+    "imdb": "tt35051401",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Show Runners, IMAGINUS",
+  "trailer": "https://www.youtube.com/watch?v=wBUkNE1l9DU"
+}
