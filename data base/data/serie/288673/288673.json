@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 288673,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/zfgGWolG1xWy7VBEUKylRAIhlXY.png",
+  "titulo": "Carrie",
+  "titulo_original": "Carrie",
+  "fecha_estreno": "2026-10-07",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.272,
+  "sinopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve obligada a enfrentarse al despiadado mundo de la preparatoria pública. Además de lidiar con un caso de acoso que se vuelve viral por toda su comunidad y la era de las redes sociales, llena de presión constante y crueldad cotidiana, también descubre los misteriosos poderes telequinésicos que despiertan junto con su adolescencia.",
+  "pais_origen": "CA",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Summer H. Howell",
+      "personaje": "Carrie White",
+      "foto": "https://image.tmdb.org/t/p/w500/x5kNBofVWhE0fDY9r89gi5LsNGh.jpg"
+    },
+    {
+      "nombre": "Samantha Sloyan",
+      "personaje": "Margaret White",
+      "foto": "https://image.tmdb.org/t/p/w500/uRQd9xIRWxWU3lxiEF8kwKCq26L.jpg"
+    },
+    {
+      "nombre": "Siena Agudong",
+      "personaje": "Sue Snell",
+      "foto": "https://image.tmdb.org/t/p/w500/nCVWiVrIVqw0LnpyhYsckOMQJHS.jpg"
+    },
+    {
+      "nombre": "Alison Thornton",
+      "personaje": "Chris Hargensen",
+      "foto": "https://image.tmdb.org/t/p/w500/dRksNvKO8d6XbEvTIvzAOj6oyjO.jpg"
+    },
+    {
+      "nombre": "Joel Oulette",
+      "personaje": "Tommy Ross",
+      "foto": "https://image.tmdb.org/t/p/w500/qmzQBjq1hLpU37HtsKw5MszgRKa.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Spencer Strauss",
+      "rol": "Finishing Producer"
+    },
+    {
+      "nombre": "Stephen Bahr",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Dani Parker",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rebecca Klingel",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jamie Flanagan",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Elan Gale",
+      "rol": "Supervising Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sasha Meyer",
+      "rol": "Legal Services"
+    },
+    {
+      "nombre": "Brad Erickson",
+      "rol": "Assistant Location Manager"
+    },
+    {
+      "nombre": "Pariya Tari",
+      "rol": "Assistant Location Manager"
+    },
+    {
+      "nombre": "Jay Kent",
+      "rol": "Assistant Location Manager"
+    },
+    {
+      "nombre": "Kevin Duckett",
+      "rol": "Assistant Location Manager"
+    },
+    {
+      "nombre": "Claude Desrosiers",
+      "rol": "Transportation Captain"
+    },
+    {
+      "nombre": "Rob Jongkind",
+      "rol": "Transportation Captain"
+    },
+    {
+      "nombre": "Quinn Gibbons",
+      "rol": "Transportation Captain"
+    },
+    {
+      "nombre": "Wayne Power",
+      "rol": "Transportation Coordinator"
+    },
+    {
+      "nombre": "Michelle Morrow",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Dave Hoodless",
+      "rol": "Payroll Accountant"
+    },
+    {
+      "nombre": "Annie Doyon",
+      "rol": "Assistant Accountant"
+    },
+    {
+      "nombre": "Cherie Bessette",
+      "rol": "First Assistant Accountant"
+    },
+    {
+      "nombre": "Leanne Orchard",
+      "rol": "Production Accountant"
+    },
+    {
+      "nombre": "Jordan Lloyd",
+      "rol": "Writers' Assistant"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.272,
+    "imdb": "tt11540908",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Amazon MGM Studios, Red Room Pictures, Reunion Pacific Entertainment",
+  "trailer": "https://www.youtube.com/watch?v=B_vsRtjJV7M"
+}
