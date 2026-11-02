@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 303351,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/whKEwZcYVM0kzKHsS8LtS5SyD1c.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/imRQeB3wQTCJFpnbo4B9iV4bEaa.png",
+  "titulo": "Sacrificio de sangre",
+  "titulo_original": "Blodsoffer",
+  "fecha_estreno": "2026-08-20",
+  "duracion": "48min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Misterio"
+  ],
+  "puntuacion": 6.693,
+  "sinopsis": "Tras el brutal asesinato de dos policías, a un detective no le queda más opción que aceptar trabajar con su distante padre, un expolicía, para atrapar al asesino.",
+  "pais_origen": "SE",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jakob Oftebro",
+      "personaje": "Thomas Berg",
+      "foto": "https://image.tmdb.org/t/p/w500/ypyMSXwABVXHjTOfpEHW008cw1A.jpg"
+    },
+    {
+      "nombre": "Peter Andersson",
+      "personaje": "Alfred Berg",
+      "foto": "https://image.tmdb.org/t/p/w500/3QrCFAESqlCgwg10KLv1Wre0sKL.jpg"
+    },
+    {
+      "nombre": "Electra Hallman",
+      "personaje": "Natalie Eklund",
+      "foto": "https://image.tmdb.org/t/p/w500/eNNuCL3Z28vzU9Q9TRt7sKPQ4lo.jpg"
+    },
+    {
+      "nombre": "Alexander Abdallah",
+      "personaje": "John-Jo Persson",
+      "foto": "https://image.tmdb.org/t/p/w500/AqCx9UAHa4vpZ1nx4UyTGz8iwjk.jpg"
+    },
+    {
+      "nombre": "Henrik Norlén",
+      "personaje": "Max Abrahamsson",
+      "foto": "https://image.tmdb.org/t/p/w500/eiOu61USG30JqBKq6Axc05IU6yc.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Kristoffer Nyholm",
+      "rol": "Director"
+    },
+    {
+      "nombre": "George Kay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kristoffer Nyholm",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Willow Grylls",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Sandford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Johannes Åhlund",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kristoffer Nyholm",
+      "rol": "Director"
+    },
+    {
+      "nombre": "George Kay",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kristoffer Nyholm",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Willow Grylls",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Sandford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Johannes Åhlund",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ulf Synnerholm",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Aron Levander",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Emily Robson",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Ella Hast",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Elin Svartengren",
+      "rol": "Head of Production"
+    },
+    {
+      "nombre": "Jørgen Johansson",
+      "rol": "Cinematography"
+    },
+    {
+      "nombre": "Sverrir Kristjánsson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Pablo Labañino",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Eric Backstrøm",
+      "rol": "Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.693,
+    "imdb": "tt38553367",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "B-Reel Films, New Pictures, Observatory Pictures",
+  "trailer": "https://www.youtube.com/watch?v=mfl5gnq7XWg"
+}
