@@ -1,0 +1,115 @@
+{
+  "id_tmdb": 156332,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/baM8owP74DXapHOc8awfZ5aw98z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xr5tpxRC5BXdI25Ikvlvwvj7aTi.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/gua5APyDKQJKbxgJwaEoJEwfKU6.png",
+  "titulo": "Pitch Perfect: Bumper in Berlin",
+  "titulo_original": "Pitch Perfect: Bumper in Berlin",
+  "fecha_estreno": "2022-11-23",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 6.6,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Adam Devine",
+      "personaje": "Bumper Allen",
+      "foto": "https://image.tmdb.org/t/p/w500/8zU8zMs7cpjVzkBXis6I3wO3YeQ.jpg"
+    },
+    {
+      "nombre": "Sarah Hyland",
+      "personaje": "Heidi",
+      "foto": "https://image.tmdb.org/t/p/w500/jJqnyZcxPwYOXUeB9jZWqBcDgmP.jpg"
+    },
+    {
+      "nombre": "Flula Borg",
+      "personaje": "Pieter Krämer",
+      "foto": "https://image.tmdb.org/t/p/w500/biegvuNWbzjXVZnp4rpKgbLlX6Q.jpg"
+    },
+    {
+      "nombre": "Lera Abova",
+      "personaje": "Thea 'DJ Das Boot' Krämer",
+      "foto": "https://image.tmdb.org/t/p/w500/nXeb2aQ2joeZaiFzMwFDANFfCjp.jpg"
+    },
+    {
+      "nombre": "Jameela Jamil",
+      "personaje": "Gisela",
+      "foto": "https://image.tmdb.org/t/p/w500/e9RviCItpPoSwD79y4YYlDbIwM6.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Max Handelman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Megan Amram",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Niemeyer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elizabeth Banks",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul Brooks",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adam Devine",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Max Handelman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Megan Amram",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Scott Niemeyer",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Elizabeth Banks",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul Brooks",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adam Devine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Paul-Vincent Roll",
+      "rol": "Second Assistant \"B\" Camera"
+    },
+    {
+      "nombre": "Justine von Winterfeldt",
+      "rol": "Music Supervisor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": "tt15469166",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal, Brownstone Productions, Gold Circle Films",
+  "trailer": "https://www.youtube.com/watch?v=rIbx-Rj0MpY"
+}
