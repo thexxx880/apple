@@ -1,0 +1,82 @@
+{
+  "id_tmdb": 303745,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/I91Lf9144zcXXpTsKrEuGCq3nt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/tXbtAby9cNNuGOtRXKRVQvoFQBD.png",
+  "titulo": "Amor disfrazado",
+  "titulo_original": "나의 유죄인간",
+  "fecha_estreno": "2026-10-19",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Crimen",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.951,
+  "sinopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Yim Si-wan",
+      "personaje": "Yoon Yi-jun",
+      "foto": "https://image.tmdb.org/t/p/w500/xhItkYqo5DnFunTLBe65npwi0Me.jpg"
+    },
+    {
+      "nombre": "설인아",
+      "personaje": "Kang Jae-hee",
+      "foto": "https://image.tmdb.org/t/p/w500/nfHLot4nBfqWQKwcXykeol4Owjb.jpg"
+    },
+    {
+      "nombre": "김정현",
+      "personaje": "Kim Si-hyeon",
+      "foto": "https://image.tmdb.org/t/p/w500/hSv3ihM8sK6aGPirXq6j758m05P.jpg"
+    },
+    {
+      "nombre": "연우",
+      "personaje": "Lee Hye-jung",
+      "foto": "https://image.tmdb.org/t/p/w500/tn2g5D33zqea9eKTpwVFFneyr2s.jpg"
+    },
+    {
+      "nombre": "류승수",
+      "personaje": "Kang Seok-goo",
+      "foto": "https://image.tmdb.org/t/p/w500/x9XcfwqcXNpk2hIrP6qeR0DDkOs.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "박단희",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "박단희",
+      "rol": "Director"
+    },
+    {
+      "nombre": "문수정",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "이아현",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "류도하",
+      "rol": "Novel"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.951,
+    "imdb": "tt45246384",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "CJ ENM Studios, 피타팻스튜디오",
+  "trailer": "https://www.youtube.com/watch?v=Q7Xj7sASXSU"
+}
