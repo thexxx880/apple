@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 332282,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1XlmHy8pD2XQg0cttKA5xHt5sYh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hBBEXsg8odkVGUAJpxUTm2DiCcm.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/iZWMGFIIYkNVwMQYrOKfeIn6yBM.png",
+  "titulo": "Habilidad física: 100-México",
+  "titulo_original": "Habilidad física: 100-México",
+  "fecha_estreno": "2026-09-16",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Reality"
+  ],
+  "puntuacion": 8.4,
+  "sinopsis": "Albañiles, policías, campeones de CrossFit y más levantan pesos enormes, se enfrentan en combates cuerpo a cuerpo y superan pruebas físicas implacables por un atractivo premio.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Carlos Salcido",
+      "personaje": "self",
+      "foto": "https://image.tmdb.org/t/p/w500/9uNc93nnwkWxMkCldY8eEjyQnoY.jpg"
+    },
+    {
+      "nombre": "Pascal Nadaud",
+      "personaje": "self",
+      "foto": "https://image.tmdb.org/t/p/w500/d8FqsHSoTQ8QoeNMt2vFh77sJlH.jpg"
+    },
+    {
+      "nombre": "Juan Francisco Estrada",
+      "personaje": "self",
+      "foto": "https://image.tmdb.org/t/p/w500/d8Ifaj1hyJAFto4Lowl3oRxdEHQ.jpg"
+    },
+    {
+      "nombre": "Pee Wee",
+      "personaje": "Self",
+      "foto": ""
+    },
+    {
+      "nombre": "Irma Garcia",
+      "personaje": "Self",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.4,
+    "imdb": "tt39390479",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=6CFyODh90Sw"
+}
