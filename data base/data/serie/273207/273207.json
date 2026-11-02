@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 273207,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/gqprC6jdAEQWf9mTVeAKBNes6VM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/lI6zO2lw8pteZnIzm1DuucVGutG.png",
+  "titulo": "Neagley",
+  "titulo_original": "Neagley",
+  "fecha_estreno": "2026-09-16",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Crimen"
+  ],
+  "puntuacion": 8.033,
+  "sinopsis": "Del universo de REACHER, comienza un nuevo capítulo. Frances Neagley es una investigadora privada en Chicago y excompañera militar de Jack Reacher en la Unidad 110 de Investigaciones Especiales del Ejército. Al enterarse de que un querido amigo de su pasado murió en un accidente sospechoso, no se detendrá hasta hacer justicia.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Maria Sten",
+      "personaje": "Frances Neagley",
+      "foto": "https://image.tmdb.org/t/p/w500/7QlPWbZRH2ORMmAHKAj0rq54t4A.jpg"
+    },
+    {
+      "nombre": "Greyston Holt",
+      "personaje": "Detective Hudson Riley",
+      "foto": "https://image.tmdb.org/t/p/w500/OefIUfHekZLHwGVjyZmFauUI5W.jpg"
+    },
+    {
+      "nombre": "Adeline Rudolph",
+      "personaje": "Renee",
+      "foto": "https://image.tmdb.org/t/p/w500/rkcZTtTTqTe8QK4UMIjHHVefdnN.jpg"
+    },
+    {
+      "nombre": "Matthew Del Negro",
+      "personaje": "Pierce Woodrow",
+      "foto": "https://image.tmdb.org/t/p/w500/h3wcgMRunRmeFhFo16BJpKsqQQC.jpg"
+    },
+    {
+      "nombre": "Damon Herriman",
+      "personaje": "Lawrence Cole",
+      "foto": "https://image.tmdb.org/t/p/w500/hzh9i0BlAEQDAhJxEgkEcBxMlJv.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Nick Santora",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicholas Wootton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lee Child",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Don Granger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lisa Kussner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Ellison",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nick Santora",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicholas Wootton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lee Child",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Don Granger",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lisa Kussner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Ellison",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Goldberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Thunell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adam Higgs",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Hill",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Agatha Barnes",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lacey Herbert",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Paula Wagner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Kyle Long",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Nazgol Goshtasbpour",
+      "rol": "Production Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.033,
+    "imdb": "tt33539520",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Amazon MGM Studios, Paramount",
+  "trailer": "https://www.youtube.com/watch?v=BOzNaa_o9_g"
+}
