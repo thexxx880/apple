@@ -1,0 +1,103 @@
+{
+  "id_tmdb": 156965,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/lbo7ByasqbnaaLCOztqdEOoaMLC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1DXgbA0xBZWxQpOQKuHfjDHfCXl.jpg",
+  "logo": "",
+  "titulo": "Furioza",
+  "titulo_original": "Furioza",
+  "fecha_estreno": "2022-02-04",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Crimen"
+  ],
+  "puntuacion": 6.3,
+  "sinopsis": "Sigue a Dawid, un médico que se infiltra en una peligrosa banda criminal de hinchas radicales (hooligans) y narcotraficantes. Es chantajeado por su expareja, ahora una ruda agente de policía, para evitar que su hermano vaya a prisión por tráfico de drogas.",
+  "pais_origen": "PL",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Mateusz Banasiuk",
+      "personaje": "Dawid",
+      "foto": "https://image.tmdb.org/t/p/w500/htagP1QvjTuSEeenZp1P04vwNzk.jpg"
+    },
+    {
+      "nombre": "Weronika Książkiewicz-Nathaniel",
+      "personaje": "Ewa Drzewiecka \"Dzika\"",
+      "foto": "https://image.tmdb.org/t/p/w500/ltNynTRFPGfSZOwStrowGOmfRTq.jpg"
+    },
+    {
+      "nombre": "Mateusz Damięcki",
+      "personaje": "\"Golden\"",
+      "foto": "https://image.tmdb.org/t/p/w500/bJTVPMPVpYts0g5klIiCgttMWWj.jpg"
+    },
+    {
+      "nombre": "Łukasz Simlat",
+      "personaje": "Jacek Bauer",
+      "foto": "https://image.tmdb.org/t/p/w500/m1CH1TFVkSfHmwzZcZNtoa1GXzG.jpg"
+    },
+    {
+      "nombre": "Wojciech Zieliński",
+      "personaje": "\"Kaszub\"",
+      "foto": "https://image.tmdb.org/t/p/w500/yt48QlTQm123yfk2y4R20d8r4ay.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Cyprian T. Olencki",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Marcin Zarębski",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tomasz Klimala",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Cyprian T. Olencki",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Cyprian T. Olencki",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Justyna Lewicka",
+      "rol": "Medical Consultant"
+    },
+    {
+      "nombre": "Grzegorz Omański",
+      "rol": "Stunts"
+    },
+    {
+      "nombre": "Waldemar Woźniak",
+      "rol": "VFX Supervisor"
+    },
+    {
+      "nombre": "Waldemar Woźniak",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Marcin Zarębski",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Jarosław Gawroński",
+      "rol": "VFX Artist"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.3,
+    "imdb": "tt18286666",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "2 Hungry Crocodiles",
+  "trailer": ""
+}
