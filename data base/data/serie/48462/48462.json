@@ -1,0 +1,104 @@
+{
+  "id_tmdb": 48462,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/41wZwvzdMjTyXz4zitFcWl5TNTt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/asVatKAwDD1N5cx3v3GZkzdeVh0.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/fWny4ngY4zx2OLSNMcnrX4zMb1m.png",
+  "titulo": "Herederos",
+  "titulo_original": "상속자들",
+  "fecha_estreno": "2013-10-09",
+  "duracion": "24min",
+  "año": "2013",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 7.758,
+  "sinopsis": "El drama sigue a un grupo de estudiantes de secundaria de una élite privilegiada, que están preparados para hacerse cargo de los imperios empresariales de sus familias. Estos estudiantes ricos parecen tener todo bajo control, salvo sus vidas amorosas.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "박신혜",
+      "personaje": "Cha Eun-sang",
+      "foto": "https://image.tmdb.org/t/p/w500/5wyerOQUW0Ej7Xs8eqfwdoJgV7E.jpg"
+    },
+    {
+      "nombre": "Lee Min-ho",
+      "personaje": "Kim Tan",
+      "foto": "https://image.tmdb.org/t/p/w500/iqopuz6cKuRZRUPZQrj7lFZcWWb.jpg"
+    },
+    {
+      "nombre": "김우빈",
+      "personaje": "Choe Yeong-do",
+      "foto": "https://image.tmdb.org/t/p/w500/AjMMxxWbTNdafyWuY41xAHFPVou.jpg"
+    },
+    {
+      "nombre": "김지원",
+      "personaje": "Yu Rachel",
+      "foto": "https://image.tmdb.org/t/p/w500/lX7W1j9kg4jV6XNn5XEE3rKsd3x.jpg"
+    },
+    {
+      "nombre": "강민혁",
+      "personaje": "Yoon Chan-young",
+      "foto": "https://image.tmdb.org/t/p/w500/fVSeudiTzbK13DYW2BcgdT0qJKJ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Kang Shin-hyo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "부성철",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Shin Bong Chul",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lee Sung Hoon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yoon Ha-lim",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "김은숙",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Kang Shin-hyo",
+      "rol": "Director"
+    },
+    {
+      "nombre": "부성철",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Shin Bong Chul",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lee Sung Hoon",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Yoon Ha-lim",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.758,
+    "imdb": "tt3243098",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Hwa&Dam Pictures, Seoul Broadcasting System",
+  "trailer": ""
+}
