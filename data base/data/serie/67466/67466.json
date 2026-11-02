@@ -1,0 +1,97 @@
+{
+  "id_tmdb": 67466,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hnHEhbzh0F7kN3Ah1lzRjtQuW16.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pHURd96EW167jUd2Jf8XpgTiLJV.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/cIbh2Si6FCP5gqLv5Giw2q5PuWY.png",
+  "titulo": "Runaways",
+  "titulo_original": "Marvel's Runaways",
+  "fecha_estreno": "2017-11-21",
+  "duracion": "50min",
+  "año": "2017",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "Un grupo de adolescentes descubre que tienen una cosa en común: sus padres pertenecen a un grupo de supervillanos llamado Pride. Al saber esto, los chicos se ven obligados a unirse para enfrentarse a su enemigo común a pesar de que no se soportan entre ellos. Así comienzan sus andanzas como superhéroes nóveles cuyo objetivo es acabar con Pride y todos sus miembros. Sin embargo, no estarán solos ya que conocerán a un grupo de ex-superhéroes que se hacen llamar Excelsior. Este grupo se dedica a ayudar a los jóvenes con superpoderes para que se integren en la sociedad y se olviden de salvar el mundo porque \"eso es cosa de adultos\".",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rhenzy Feliz",
+      "personaje": "Alex Wilder",
+      "foto": "https://image.tmdb.org/t/p/w500/9YPe3GgyWjG4D0GnTx9KzfvnO0L.jpg"
+    },
+    {
+      "nombre": "Lyrica Okano",
+      "personaje": "Nico Minoru",
+      "foto": "https://image.tmdb.org/t/p/w500/kzA7nhFugU9RqTzN5BmgFH3w71m.jpg"
+    },
+    {
+      "nombre": "Virginia Gardner",
+      "personaje": "Karolina Dean",
+      "foto": "https://image.tmdb.org/t/p/w500/53BsLl54uesFOa2DBraibwtRdEL.jpg"
+    },
+    {
+      "nombre": "Ariela Barer",
+      "personaje": "Gert Yorkes",
+      "foto": "https://image.tmdb.org/t/p/w500/1ylIA82xeDufEbBnb63lXAlSvD5.jpg"
+    },
+    {
+      "nombre": "Gregg Sulkin",
+      "personaje": "Chase Stein",
+      "foto": "https://image.tmdb.org/t/p/w500/cF0w2ZQTE3ZTEFFeYZRbRJVmLCm.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Stephanie Savage",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lis Rowinski",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Josh Schwartz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Ambrose",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stephanie Savage",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lis Rowinski",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Josh Schwartz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Siddhartha Khosla",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Mark Ambrose",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt1236246",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel, Fake Empire Productions, ABC Signature Studios",
+  "trailer": "https://www.youtube.com/watch?v=jwgUGF_pqMk"
+}
