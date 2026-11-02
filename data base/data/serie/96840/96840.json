@@ -1,0 +1,60 @@
+{
+  "id_tmdb": 96840,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kb09c6Gu2niomSUyEH3Nl080rAs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xEOC16mzHFoaxo6gEYV5Qi3zTvO.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/tZ2BzC428VVLIIHgIUAKArtEaXo.png",
+  "titulo": "Gormiti",
+  "titulo_original": "Gormiti",
+  "fecha_estreno": "2018-09-10",
+  "duracion": "15min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Kids",
+    "Animación",
+    "Comedia",
+    "Action & Adventure"
+  ],
+  "puntuacion": 6.5,
+  "sinopsis": "",
+  "pais_origen": "IT",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Stefano Broccoletti",
+      "personaje": "Riff (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Stefano De Filippis",
+      "personaje": "Ikor (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Alessio De Filippis",
+      "personaje": "Eron (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Federico Di Pofi",
+      "personaje": "Trek (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Sara Ballerani",
+      "personaje": "Ao-Ki (voice)",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": "tt9077350",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Giochi Preziosi, Rainbow",
+  "trailer": "https://www.youtube.com/watch?v=PU15JNe6HTc"
+}
