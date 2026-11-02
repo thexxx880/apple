@@ -1,0 +1,91 @@
+{
+  "id_tmdb": 299255,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hfywmnPG8YWpEqNxU6ipfU8sYSC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aAWDj71XRCHhSrE0dnU6YrquMMY.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3DpCXQro4zVlDBx2Qg8Wvp8oim9.png",
+  "titulo": "Mínima Seguridad",
+  "titulo_original": "Surveillant !",
+  "fecha_estreno": "2026-09-16",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 8.2,
+  "sinopsis": "Bienvenidos a la prisión de Chenoise, un lugar que, en teoría, garantiza el orden y la disciplina… salvo que aquí los responsables son los primeros en incumplir las normas. Entre una directora que trata a los reclusos como si fueran sus hijos, un subdirector obsesionado con la autoridad, una guardia que lo da todo y una nueva recluta decidida a demostrar su valía, la gestión diaria se basa en la improvisación, las decisiones precipitadas y las ideas descabelladas. Un estado de caos constante que, contra todo pronóstico, funciona. Pero, ¿hasta cuándo?",
+  "pais_origen": "FR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Audrey Lamy",
+      "personaje": "Corinne Maillard",
+      "foto": "https://image.tmdb.org/t/p/w500/zRyuaPykapMI71yH6cPunGY5Ywz.jpg"
+    },
+    {
+      "nombre": "Jean-Pascal Zadi",
+      "personaje": "JP",
+      "foto": "https://image.tmdb.org/t/p/w500/wkI3RmKxNMtxNBOfSpgMgQsR53K.jpg"
+    },
+    {
+      "nombre": "Benjamin Tranié",
+      "personaje": "Jeff",
+      "foto": "https://image.tmdb.org/t/p/w500/4Kqw4DXtq8y7sygGhDSqRSH9Nso.jpg"
+    },
+    {
+      "nombre": "Eva Huault",
+      "personaje": "Stéphanie",
+      "foto": "https://image.tmdb.org/t/p/w500/4Ovo0oNkV6KLphyhgT30tY6UH0.jpg"
+    },
+    {
+      "nombre": "Jérémy Nadeau",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/1RtA6OuUZaI2JVFNzZC1mniUleP.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "John Wax",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "John Wax",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Wax",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Auriane Lacince",
+      "rol": "First Assistant Director"
+    },
+    {
+      "nombre": "Elsa Truscello",
+      "rol": "Second Assistant Director"
+    },
+    {
+      "nombre": "Solenne Hervé",
+      "rol": "Third Assistant Director"
+    },
+    {
+      "nombre": "Gauthier Plancquaert",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Marina Rollman",
+      "rol": "Co-Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.2,
+    "imdb": "tt44924447",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "NABI Productions",
+  "trailer": ""
+}
