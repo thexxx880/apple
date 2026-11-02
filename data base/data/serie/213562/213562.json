@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 213562,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/zMdL06gtSVXZYzZ5HomCFpCxjW7.png",
+  "titulo": "Crystal Lake",
+  "titulo_original": "Crystal Lake",
+  "fecha_estreno": "2026-10-15",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 8.661,
+  "sinopsis": "Pam Voorhees, madre soltera, no ha podido superar el dolor tras la trágica muerte por ahogamiento de su hijo pequeño y enfermizo, Jason, en el lago del pueblo hace casi un año. Cuando dos desconocidos llegan a su casa indagando en su pasado, se desencadena una inquietante cadena de acontecimientos que deja a los habitantes de Crystal Lake preguntándose: ¿quién es realmente Pam Voorhees?",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Linda Cardellini",
+      "personaje": "Pamela Voorhees",
+      "foto": "https://image.tmdb.org/t/p/w500/bcycvynDprC1rrhBNrnBjn5uOUd.jpg"
+    },
+    {
+      "nombre": "William Catlett",
+      "personaje": "Levon Brooks",
+      "foto": "https://image.tmdb.org/t/p/w500/1GzaCfhYEfg2s2lQzlQykijlUY8.jpg"
+    },
+    {
+      "nombre": "Gwendolyn Sundstrom",
+      "personaje": "Grace Snell",
+      "foto": "https://image.tmdb.org/t/p/w500/uJtJHjI4gHMK2GmfX8fuNYL4OuQ.jpg"
+    },
+    {
+      "nombre": "Cameron Scoggins",
+      "personaje": "Dorf",
+      "foto": "https://image.tmdb.org/t/p/w500/eIJCzNXmW4qZZJJyiqwrubj8Si5.jpg"
+    },
+    {
+      "nombre": "Devin Kessler",
+      "personaje": "Briana Brooks",
+      "foto": "https://image.tmdb.org/t/p/w500/fZV3fyduDDRoRsofiO3eCAr7CDf.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Victor Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marc Toberoff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert M. Barsamian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Caleb Kane",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert P. Barsamian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Karl Taro Greenfeld",
+      "rol": "Consulting Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Victor Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marc Toberoff",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert M. Barsamian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Caleb Kane",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert P. Barsamian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Karl Taro Greenfeld",
+      "rol": "Consulting Producer"
+    },
+    {
+      "nombre": "Stuart Manashil",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tyson Bidner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Lennox",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Roy Lee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Giosuè Greco",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Keri Lederman",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Sam French",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeff Schwartz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Evan Endicott",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.661,
+    "imdb": "tt23148340",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "A24, K Plus Ultra, Horror",
+  "trailer": "https://www.youtube.com/watch?v=kyJsEXCk_wg"
+}
