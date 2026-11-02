@@ -1,0 +1,67 @@
+{
+  "id_tmdb": 156802,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/bgeyUyXGVHHlCfQR1FIPl8CEHke.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/eUriUhwfIpw4x825rK1hBRtyInW.jpg",
+  "logo": "",
+  "titulo": "Bilardo, el doctor del fútbol",
+  "titulo_original": "Bilardo, el doctor del fútbol",
+  "fecha_estreno": "2022-02-24",
+  "duracion": "51min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "Una serie documental deportiva para HBO Max que relata la historia de Carlos Salvador Bilardouien \"Bilardo\", el célebre entrenador y campeón del mundo en 1986 con el equipo de Argentina.",
+  "pais_origen": "AR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Carlos Bilardo",
+      "personaje": "Self (archive footage)",
+      "foto": "https://image.tmdb.org/t/p/w500/fjLvoSTwy7Pnl2pvSJRxMYu7kpD.jpg"
+    },
+    {
+      "nombre": "Oscar Ruggeri  ",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/oD7jQcxMRgWLZrQP23B4Qs4KXyU.jpg"
+    },
+    {
+      "nombre": "Julio Olarticoechea",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/l8hHs83ucFYGVJdZz51nw2O8FKU.jpg"
+    },
+    {
+      "nombre": "Sergio Goycochea",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/rP9OkZIPGGLnS1Lgzmp4Za8w4jN.jpg"
+    },
+    {
+      "nombre": "Diego Simeone",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/6TeoeLtc1g1k9vp6NqEXTtHGQFl.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ariel Rotter",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ariel Rotter",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt18340076",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Zeppelin Studio",
+  "trailer": "https://www.youtube.com/watch?v=oZ3MARJKSAk"
+}
