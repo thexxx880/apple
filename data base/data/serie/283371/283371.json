@@ -1,0 +1,76 @@
+{
+  "id_tmdb": 283371,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/rN6pM9msiS8IZr782o9aWr6WBJO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/xn2uL2c5TDuaeXlnYcnhCMY6O2E.png",
+  "titulo": "La Trampa",
+  "titulo_original": "Die Falle",
+  "fecha_estreno": "2026-10-13",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 6.434,
+  "sinopsis": "La exitosa escritora Lisa Konrad no ha salido de casa desde que presenció el asesinato de su hermana Anna, hace casi diez años. Pero al creer ver al asesino en televisión, se propone tenderle una trampa utilizándose a sí misma como cebo.",
+  "pais_origen": "DE",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Friederike Becht",
+      "personaje": "Lisa Konrad",
+      "foto": "https://image.tmdb.org/t/p/w500/uxvEF4bF60ipQnM5QStX8Wbnnse.jpg"
+    },
+    {
+      "nombre": "Hans Löw",
+      "personaje": "Robert Lenzen",
+      "foto": "https://image.tmdb.org/t/p/w500/eu2VBm55a9aQNKEtFY9qKGm5ya5.jpg"
+    },
+    {
+      "nombre": "Alexander Schubert",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/dWRleMp2Qqs7dpae56Tzpxv5yEJ.jpg"
+    },
+    {
+      "nombre": "Katja Ponickau",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/34stNsJekzoUx2tOlmoEQw4oDkk.jpg"
+    },
+    {
+      "nombre": "Naila Schuberth",
+      "personaje": "Toni",
+      "foto": "https://image.tmdb.org/t/p/w500/evYmtGc11LWZNlwSUeBun4w0yOu.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Tom Spiess",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Friederich Oetker",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tom Spiess",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Friederich Oetker",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.434,
+    "imdb": "tt36470958",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Constantin Film",
+  "trailer": "https://www.youtube.com/watch?v=SmaC-w7x63c"
+}
