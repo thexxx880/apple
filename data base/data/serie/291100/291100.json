@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 291100,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/gSNvAm9b95hCSsdPZooVlBq4ekr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iuMXOkHsXM4IbXNg5s5FTdkMu8F.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/cCSKlYCCHJrucHULqbSMKBFEyun.png",
+  "titulo": "Las fieles",
+  "titulo_original": "The Faithful",
+  "fecha_estreno": "2026-03-22",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 6.6,
+  "sinopsis": "El libro del Génesis contado a través de la perspectiva de cinco mujeres clave que experimentan la maternidad y se enfrentan a sus familias y su fe.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Carol Mendelsohn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julie Weitz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "René Echevarria",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Carol Mendelsohn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julie Weitz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "René Echevarria",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": "tt36886871",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Fox",
+  "trailer": "https://www.youtube.com/watch?v=-QWL1Bngs88"
+}
