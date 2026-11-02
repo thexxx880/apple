@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 300507,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/cS30JD1Fac9uqSJDBMaWOR5gRSN.png",
+  "titulo": "Timonel",
+  "titulo_original": "Crew Girl",
+  "fecha_estreno": "2026-09-10",
+  "duracion": "368min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 8.092,
+  "sinopsis": "Tras un humillante escándalo familiar que trunca su vida, Teagan, una prometedora deportista de remo, se ve obligada a empezar de cero en un instituto de élite de una pequeña población. Al descubrir que no hay equipo femenino, se convierte en la timonel del caótico equipo masculino para volver al agua. Mientras intenta ganarse al equipo, choca con su arrogante capitán y surge una conexión inesperada con el miembro más infravalorado del grupo.",
+  "pais_origen": "CA",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Miku Martineau",
+      "personaje": "Teagan Tao",
+      "foto": "https://image.tmdb.org/t/p/w500/58S1hYHe1TuHgxxaddzCbqxjJNJ.jpg"
+    },
+    {
+      "nombre": "Jessica Paré",
+      "personaje": "Ella Emerson-Tao",
+      "foto": "https://image.tmdb.org/t/p/w500/udvHIbFPW646vDkbnipb82wPUxs.jpg"
+    },
+    {
+      "nombre": "Samuel Braun",
+      "personaje": "Josh Regis",
+      "foto": "https://image.tmdb.org/t/p/w500/8nP9SqKpvVgJcw9mgANPdMKHf72.jpg"
+    },
+    {
+      "nombre": "Kyle Clark",
+      "personaje": "Cam Dillinger",
+      "foto": "https://image.tmdb.org/t/p/w500/yFkg5ClOTqc6ca643bOeaUtnDb3.jpg"
+    },
+    {
+      "nombre": "Thomas Cadrot",
+      "personaje": "Coach Matt Hayden",
+      "foto": "https://image.tmdb.org/t/p/w500/2klFFu6ZSunZPGC51Bg2kSdx7Xg.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Marque Franklin-Williams",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Wendy McKernan",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Tony Chung",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Vivian Lin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lindsay MacAdam",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lori Massini",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marque Franklin-Williams",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Wendy McKernan",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Tony Chung",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Vivian Lin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lindsay MacAdam",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lori Massini",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jeff Norton",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hillary Zwick Turner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bradley S. Creasser",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "J.J. Ogilvy",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Crystal Dalman",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Robert Musnicki",
+      "rol": "Special Effects Coordinator"
+    },
+    {
+      "nombre": "Millar Montgomery",
+      "rol": "Production Sound Mixer"
+    },
+    {
+      "nombre": "Gilles Maillet",
+      "rol": "Boom Operator"
+    },
+    {
+      "nombre": "David Delgiglio",
+      "rol": "Sound Assistant"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.092,
+    "imdb": "tt38218082",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Great Pacific Media, Thunderbird Entertainment",
+  "trailer": "https://www.youtube.com/watch?v=Xs5qsfqp-tA"
+}
