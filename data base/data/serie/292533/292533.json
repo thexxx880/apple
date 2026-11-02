@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 292533,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kZ77s94jLBliHXDXXPegi6ZbbtN.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/1INFThuV4FEmogYTyO2wT8jzyB8.png",
+  "titulo": "Furioso",
+  "titulo_original": "Fúria",
+  "fecha_estreno": "2026-07-29",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 7.8,
+  "sinopsis": "Herido y con amnesia, un hombre halla refugio con un entrenador de artes marciales mixtas y sube al cuadrilátero, dividido entre un futuro esperanzador y un pasado que lo acecha.",
+  "pais_origen": "BR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Vinícius Neri",
+      "personaje": "Tadeu / Marcelo Lázaro (Carcará)",
+      "foto": "https://image.tmdb.org/t/p/w500/vrvK5eWfHj6nDcaMRi1Oitt2E6f.jpg"
+    },
+    {
+      "nombre": "Fábio Lago",
+      "personaje": "Toni Trindade (Toninho)",
+      "foto": "https://image.tmdb.org/t/p/w500/aD0gCVtKmN1veh0aauvNyJhZ3WP.jpg"
+    },
+    {
+      "nombre": "Alice Carvalho",
+      "personaje": "Gabriela Trindade (Gabi)",
+      "foto": "https://image.tmdb.org/t/p/w500/xj2BDbWC0ECOlT3tBaIG0su74Ea.jpg"
+    },
+    {
+      "nombre": "MC Cabelinho",
+      "personaje": "Júnior Malamute",
+      "foto": "https://image.tmdb.org/t/p/w500/byy8YwrFhCkqzkwWxvVq0yw2tDz.jpg"
+    },
+    {
+      "nombre": "Bianca Comparato",
+      "personaje": "Yana Novaes",
+      "foto": "https://image.tmdb.org/t/p/w500/2X9u3v6kjE5ReGnTqG4uCnRQ9tx.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "José Henrique Fonseca",
+      "rol": "Director"
+    },
+    {
+      "nombre": "José Henrique Fonseca",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fernanda Laignier",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eduardo Pop",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Igor Verde",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "José Henrique Fonseca",
+      "rol": "Director"
+    },
+    {
+      "nombre": "José Henrique Fonseca",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Fernanda Laignier",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Eduardo Pop",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Igor Verde",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Gustavo Bragança",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Clara Meirelles",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Matheus Torreão",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Amanda Jordão",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Bruna Aguiar",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "José Henrique Fonseca",
+      "rol": "Writers' Assistant"
+    },
+    {
+      "nombre": "Igor Verde",
+      "rol": "Writers' Assistant"
+    },
+    {
+      "nombre": "Cibele Santa Cruz",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Gabriel Domingues",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Junior Prado",
+      "rol": "Casting"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": "tt43492801",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Zola Filmes",
+  "trailer": ""
+}
