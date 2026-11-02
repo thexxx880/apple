@@ -1,0 +1,108 @@
+{
+  "id_tmdb": 305551,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/azphJYtzJzNSM3CHAkBKrr2795G.png",
+  "titulo": "Temporada de Amor",
+  "titulo_original": "メリーベリーラブ",
+  "fecha_estreno": "2026-10-07",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 8.722,
+  "sinopsis": "Tras perderlo todo de la noche a la mañana, el exitoso diseñador espacial coreano Lee Yubin viaja a Charo, una pequeña isla japonesa. Allí conoce a Shirahama Karin, una tenaz granjera decidida a cultivar fresas... Sus vidas se entrelazan por un malentendido",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "지창욱",
+      "personaje": "Lee Yu-bin",
+      "foto": "https://image.tmdb.org/t/p/w500/sBmHrO5Tn27Ot5hy0yAKniROmNb.jpg"
+    },
+    {
+      "nombre": "今田美桜",
+      "personaje": "Shirahama Karin",
+      "foto": "https://image.tmdb.org/t/p/w500/1RiNJI6v9rBvATZ59m0CAZCFOpI.jpg"
+    },
+    {
+      "nombre": "남윤수",
+      "personaje": "Park Ku-nam",
+      "foto": "https://image.tmdb.org/t/p/w500/lPOTG0iwINk1N1w7N0Xv2ndKqm0.jpg"
+    },
+    {
+      "nombre": "久間田琳加",
+      "personaje": "Mizuno Mari",
+      "foto": "https://image.tmdb.org/t/p/w500/1WkAsP86ZvE1QwS3sbUb7Rx84QF.jpg"
+    },
+    {
+      "nombre": "정순원",
+      "personaje": "Kim Bong-su",
+      "foto": "https://image.tmdb.org/t/p/w500/E80fMLgKBeOASTnHLEi4jSuCqo.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "江成真二",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "김수정",
+      "rol": "Director"
+    },
+    {
+      "nombre": "노영섭",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "이재윤",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "江成真二",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "김수정",
+      "rol": "Director"
+    },
+    {
+      "nombre": "노영섭",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Saori",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "DJ LOVE",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Fukase",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Nakajin",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "幾田りら",
+      "rol": "Songs"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.722,
+    "imdb": "tt38937897",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nippon Television Network Corporation, CJ ENM Japan, Shochiku Studio",
+  "trailer": "https://www.youtube.com/watch?v=3c68oabNkJs"
+}
