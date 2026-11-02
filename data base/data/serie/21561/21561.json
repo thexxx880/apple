@@ -1,0 +1,50 @@
+{
+  "id_tmdb": 21561,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/AkuOigSV8JRph8Imylcsnoe5PHK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yeuPvfPYK7Y3J3ZWqLF2IcWEi36.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/wMkuHyBoLNuAhW4R8fOeFa8N9YS.png",
+  "titulo": "The Outer Limits",
+  "titulo_original": "The Outer Limits",
+  "fecha_estreno": "1995-03-26",
+  "duracion": "44min",
+  "año": "1995",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.7,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Pen Densham",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Manny Coto",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Pen Densham",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Manny Coto",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": "tt0112111",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Alliance Atlantis, Atlantis Films, Showtime Networks",
+  "trailer": ""
+}
