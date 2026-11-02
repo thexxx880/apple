@@ -1,0 +1,75 @@
+{
+  "id_tmdb": 204137,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/zTUuiutD2Kj8lwd552uX8dzxA24.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dT7ARI93vfbP1Tf8fuVfDFMyQqE.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/pSjgrVQwOItiEyrpzqEtkey8E9O.png",
+  "titulo": "Los Doomies",
+  "titulo_original": "The Doomies",
+  "fecha_estreno": "2026-06-26",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Comedia",
+    "Familia"
+  ],
+  "puntuacion": 8,
+  "sinopsis": "Cuando los mejores amigos Bobby y Romy abren accidentalmente un portal al mal, convierten su tranquila ciudad costera en un imán para aterradoras criaturas del apocalipsis. En su camino se cruzan con el supuesto “Elegido” y luchan tanto contra monstruos reales como contra los de su interior, en esta épica y espeluznante comedia que combina emociones fuertes, sustos y derrames emocionales, protagonizada por dos adolescentes comunes atrapados en un misterio extraordinario.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Max Mittelman",
+      "personaje": "Bobby (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/zQqiIgestpxssPrUXQXkY2Sq0y8.jpg"
+    },
+    {
+      "nombre": "Madison Calderon",
+      "personaje": "Romy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fLjVPr3Lk8hlymyR3Ksj29NEFSp.jpg"
+    },
+    {
+      "nombre": "Noel Gibson",
+      "personaje": "Kim (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Jon Bailey",
+      "personaje": "Doug (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/x12mLalWXgkV1bgwFQfDLE5JY1c.jpg"
+    },
+    {
+      "nombre": "Zehra Fazal",
+      "personaje": "Jenny (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gEL0hqxcckQth8ogIEByxirXa7f.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Marc du Pontavice",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Marc du Pontavice",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Vincent Artaud",
+      "rol": "Music"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": "tt21057046",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Studio Xilam, Disney",
+  "trailer": "https://www.youtube.com/watch?v=bjxJ8cl7beY"
+}
