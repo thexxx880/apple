@@ -14,7 +14,7 @@
     "Comedia",
     "Kids"
   ],
-  "puntuacion": 8.052,
+  "puntuacion": 8.059,
   "sinopsis": "La malhumorada Parca acepta una apuesta que, tras perder, la obliga a convertirse en la compañera de por vida de dos intrépidos jóvenes.",
   "pais_origen": "US",
   "calificacion": "16",
@@ -33,7 +33,7 @@
     {
       "nombre": "Grey DeLisle",
       "personaje": "Mandy (voice)",
-      "foto": "https://image.tmdb.org/t/p/w500/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/anib3yRL9GyUvTkYNHWxQPlXLUH.jpg"
     },
     {
       "nombre": "Vanessa Marshall",
@@ -58,11 +58,11 @@
       "rol": "Executive Producer"
     },
     {
-      "nombre": "Drew Neumann",
+      "nombre": "Gregory Hinde",
       "rol": "Music"
     },
     {
-      "nombre": "Gregory Hinde",
+      "nombre": "Drew Neumann",
       "rol": "Music"
     },
     {
@@ -71,10 +71,10 @@
     }
   ],
   "valoraciones": {
-    "tmdb": 8.052,
+    "tmdb": 8.059,
     "imdb": "tt0292800",
     "rotten_tomatoes": null
   },
   "distribuidora": "Cartoon Networks",
-  "trailer": ""
+  "trailer": "https://www.youtube.com/watch?v=xismimhiYNM"
 }
