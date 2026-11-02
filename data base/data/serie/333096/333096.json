@@ -1,0 +1,38 @@
+{
+  "id_tmdb": 333096,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/r7CJuUXoIl8lgISfTwt5zzGWeQG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4QoTm66DR8vRyDWTXs2IBWNy3WH.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rmzM6auEzZKxmMKYa2EjBbNz5R3.png",
+  "titulo": "Hotel Todo Incluido",
+  "titulo_original": "Hotel Todo Incluido",
+  "fecha_estreno": "2026-08-28",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "Sebastián busca una oportunidad. Consigue ser gerente del legendario Hotel Amalaya del Río para salvarlo. Recibe el poder de cumplir los deseos de sus huéspedes.",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Joel Cederberg",
+      "personaje": "Sven",
+      "foto": "https://image.tmdb.org/t/p/w500/yHpDCqLk3OQ3AxVGzoeuNl0A95O.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt45804547",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": ""
+}
