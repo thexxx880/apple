@@ -1,0 +1,75 @@
+{
+  "id_tmdb": 66090,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/4QKrCBkeRFGPJMk4JV0MmMJ5mBv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/24fDxKztYz2De26tAszSMZWNif0.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/qdGBi3XPAI7N8X8nODo2CueNIVW.png",
+  "titulo": "Wolf Creek",
+  "titulo_original": "Wolf Creek",
+  "fecha_estreno": "2016-05-12",
+  "duracion": "60min",
+  "año": "2016",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 6.9,
+  "sinopsis": "Wolf Creek cuenta la historia de Eva, una universitaria estadounidense de 19 años de edad, huérfana desde que su familia es asesinada por un asesino solitario en el interior de Australia. Su búsqueda de justicia la transforma de ingenua a guerrera de la carretera. ¿Podrá distinguir justicia de venganza? Una secuela episódica de la franquicia de películas de terror acerca del asesino de acampantes Mick Taylor.",
+  "pais_origen": "AU",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "John Jarratt",
+      "personaje": "Mick Taylor",
+      "foto": "https://image.tmdb.org/t/p/w500/zIuNTfgYi94GVIhZ8oa7iF6alu9.jpg"
+    },
+    {
+      "nombre": "Tess Haubrich",
+      "personaje": "Rebecca",
+      "foto": "https://image.tmdb.org/t/p/w500/pNvjKa3Rl2q681EM6kQrwbEfJeg.jpg"
+    },
+    {
+      "nombre": "Matt Day",
+      "personaje": "Brian",
+      "foto": "https://image.tmdb.org/t/p/w500/2elQ6hUC5cSlw5yzJE1tHEXhKAh.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Rob Gibson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Greg McLean",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Pete Best",
+      "rol": "Supervising Sound Editor"
+    },
+    {
+      "nombre": "Rob Gibson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Greg McLean",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Greg McLean",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.9,
+    "imdb": "tt4460878",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Stan, Emu Creek Pictures, Screentime",
+  "trailer": "https://www.youtube.com/watch?v=devWwSCw12A"
+}
