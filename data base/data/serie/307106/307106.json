@@ -1,0 +1,43 @@
+{
+  "id_tmdb": 307106,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/yA4jv2ZJSVCbJ1s5F8oEpmhHxu2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/wfEvJHyoAN5z1tlGnX0oa6fjzDQ.png",
+  "titulo": "Entre pasos: En busca de un sueño",
+  "titulo_original": "연애박사",
+  "fecha_estreno": "2026-10-05",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 9.1,
+  "sinopsis": "",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "추영우",
+      "personaje": "Park Min-jae",
+      "foto": "https://image.tmdb.org/t/p/w500/nGICKq8yq7G6nDUNVjrUoMe4iQ0.jpg"
+    },
+    {
+      "nombre": "김소현",
+      "personaje": "Lim You-jin",
+      "foto": "https://image.tmdb.org/t/p/w500/jrRXistOzBtfRkvf3WrxSmyDKBY.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 9.1,
+    "imdb": "tt39087958",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "KT Studio Genie, Studio Goti",
+  "trailer": "https://www.youtube.com/watch?v=9rYSMI9azZg"
+}
