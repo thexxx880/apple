@@ -1,0 +1,128 @@
+{
+  "id_tmdb": 6015,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/89C4NwOmQKytVIQJ01on0ddDOCY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bwo6mmhUhltgXNBJSj0b5LT4vqi.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/71juXi8QCSoNB9rphC7GXmLrCe4.png",
+  "titulo": "The State Within",
+  "titulo_original": "The State Within",
+  "fecha_estreno": "2006-11-02",
+  "duracion": "57min",
+  "año": "2006",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "War & Politics"
+  ],
+  "puntuacion": 7.4,
+  "sinopsis": "",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jason Isaacs",
+      "personaje": "Mark Brydon",
+      "foto": "https://image.tmdb.org/t/p/w500/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+    },
+    {
+      "nombre": "Ben Daniels",
+      "personaje": "Nicholas Brocklehurst",
+      "foto": "https://image.tmdb.org/t/p/w500/phEIvq0Ay2KjI5ewmVvpQ1a29GJ.jpg"
+    },
+    {
+      "nombre": "Eva Birthistle",
+      "personaje": "Jane Lavery",
+      "foto": "https://image.tmdb.org/t/p/w500/sGprPTt1JDeDIyNKggElYlHCPxc.jpg"
+    },
+    {
+      "nombre": "Aaron Abrams",
+      "personaje": "Matthew Weiss",
+      "foto": "https://image.tmdb.org/t/p/w500/uCtc7ouysFZ5dMwcTXiKw1ezuL.jpg"
+    },
+    {
+      "nombre": "Neil Pearson",
+      "personaje": "Phil Lonsdale",
+      "foto": "https://image.tmdb.org/t/p/w500/sS1WuIU3l6o6QcDIkGdtWK8R3Wn.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Grainne Marmion",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kathryn Mitchell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jessica Pope",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Patrick Cassavetti",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Daniel Percival",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Lizzie Mickery",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Grainne Marmion",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kathryn Mitchell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jessica Pope",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Patrick Cassavetti",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sandra Kybartas",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Armando Sgrignuoli",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Elizabeth Calderhead",
+      "rol": "Set Decoration"
+    },
+    {
+      "nombre": "Deirdre Bowen",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Kate Rhodes James",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Jennie Muskett",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "David Perrault",
+      "rol": "Director of Photography"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": "tt0770652",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "BBC Film",
+  "trailer": ""
+}
