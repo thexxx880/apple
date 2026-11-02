@@ -1,0 +1,122 @@
+{
+  "id_tmdb": 94954,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9K6QtLqyocVHgIZe4yqCIl1q2ZR.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3B99fS4EJBRcpbqyxy2swvjC1sI.png",
+  "titulo": "Hazbin Hotel",
+  "titulo_original": "Hazbin Hotel",
+  "fecha_estreno": "2024-01-18",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8.543,
+  "sinopsis": "En un intento por encontrar una alternativa no violenta para reducir la superpoblación del infierno, la hija de Lucifer abre un hotel de rehabilitación que ofrece a un grupo de demonios inadaptados una oportunidad de redención.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Stephanie Beatriz",
+      "personaje": "Vaggie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg"
+    },
+    {
+      "nombre": "Keith David",
+      "personaje": "Husk (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+    },
+    {
+      "nombre": "Kimiko Glenn",
+      "personaje": "Niffty (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6QnVIyHKbzx0ZsUr3BmIwnZxujL.jpg"
+    },
+    {
+      "nombre": "Erika Henningsen",
+      "personaje": "Charlie Morningstar (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cRCGw4P4vNw7CJS65eG88k80sba.jpg"
+    },
+    {
+      "nombre": "Blake Roman",
+      "personaje": "Angel Dust (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lJgLf9gZlpesZbVeaeiC4fDsyEA.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Brett Coker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Casey Rup",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Anika Gallagher",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Vivienne Medrano",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Tafoya-Cameron",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alli Reich",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Brett Coker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Casey Rup",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Anika Gallagher",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Thompson",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Brian Sadler",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Evan Alderete",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Vivienne Medrano",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Tafoya-Cameron",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alli Reich",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.543,
+    "imdb": "tt7216636",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Prime Video",
+  "trailer": "https://www.youtube.com/watch?v=6t4FtjTbxPk"
+}
