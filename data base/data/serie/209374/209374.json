@@ -1,0 +1,52 @@
+{
+  "id_tmdb": 209374,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/bv5TPT00UnZCy9lfXGPo9VGuviH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/tN9wBWcG0DkjBy06X4niCasUhu4.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/wjWRNLaxiwHxdolGE7yqgrYynFY.png",
+  "titulo": "Top Chef VIP",
+  "titulo_original": "Top Chef VIP",
+  "fecha_estreno": "2022-08-09",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Reality"
+  ],
+  "puntuacion": 7.429,
+  "sinopsis": "Dieciséis celebridades ponen a prueba sus habilidades culinarias y son juzgadas por un panel de chefs profesionales con un concursante eliminado cada semana. El ganador recibirá 100.000 dólares estadounidenses.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Carmen Villalobos",
+      "personaje": "Self - Host",
+      "foto": "https://image.tmdb.org/t/p/w500/duCB3x5NvHKIL9ERZzNhs469jHH.jpg"
+    },
+    {
+      "nombre": "Inés Páez Nin",
+      "personaje": "Self - Chef",
+      "foto": "https://image.tmdb.org/t/p/w500/rtSBUiurdu6Hrfqyz8kr1HqsKKU.jpg"
+    },
+    {
+      "nombre": "Antonio de Livier",
+      "personaje": "Self - Chef",
+      "foto": "https://image.tmdb.org/t/p/w500/jC9NJHOJizVGtbKpBhyMuFJeXUc.jpg"
+    },
+    {
+      "nombre": "Betty Vázquez",
+      "personaje": "Self - Chef",
+      "foto": "https://image.tmdb.org/t/p/w500/unAsAwubjQRAZhlFdbHczhk9HbT.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.429,
+    "imdb": "tt21959284",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "RCN",
+  "trailer": ""
+}
