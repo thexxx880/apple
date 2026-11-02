@@ -1,0 +1,67 @@
+{
+  "id_tmdb": 311853,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ThhNhFCIFsYrOtJ2jXkb1ulOd0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zs166WTY4CE2Rr35PANP0Od90iu.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/mE0tBQnn65ddJkHwftKBlH6Pu5v.png",
+  "titulo": "El alma intranquila",
+  "titulo_original": "النفس المطمئنة",
+  "fecha_estreno": "2026-10-30",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Misterio"
+  ],
+  "puntuacion": 5,
+  "sinopsis": "Un hombre regresa a Kuwait por la muerte de su padre y, sin darse cuenta, cae una vez más en las temibles garras de una relación obsesiva.",
+  "pais_origen": "KW",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "هيا عبدالسلام",
+      "personaje": "حصة",
+      "foto": "https://image.tmdb.org/t/p/w500/oSeN8B83iINU1uEAfMZWBZizaOH.jpg"
+    },
+    {
+      "nombre": "يعقوب الفرحان",
+      "personaje": "طلال",
+      "foto": "https://image.tmdb.org/t/p/w500/2ogmPgwzT7w2lD6cVJZRhjpp36P.jpg"
+    },
+    {
+      "nombre": "ليلى عبد الله",
+      "personaje": "منى",
+      "foto": "https://image.tmdb.org/t/p/w500/2HDP8ko5OlY0iIMOB5F7EyQRqyp.jpg"
+    },
+    {
+      "nombre": "حسين المنصور",
+      "personaje": "صالح",
+      "foto": "https://image.tmdb.org/t/p/w500/3LlIjzfoyEfwMgZS0ZTRJOhkM12.jpg"
+    },
+    {
+      "nombre": "أسمهان توفيق",
+      "personaje": "جدة حصة",
+      "foto": "https://image.tmdb.org/t/p/w500/hAsOFW3bLYqAEyZcUcsV7cjeETs.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "سعيد الماروق",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "سعيد الماروق",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5,
+    "imdb": "tt36838527",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Netflix",
+  "trailer": "https://www.youtube.com/watch?v=tEzj6eBkcMo"
+}
