@@ -1,0 +1,53 @@
+{
+  "id_tmdb": 316205,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/pN4PB0dU9rzJkuwk3RNuGg2dnjm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/36GPahqFqgVPQEMjN2qZK5Y8ptm.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/zs9VQmVmPhntCzdJNjFonq8VFAb.png",
+  "titulo": "El rostro de la venganza",
+  "titulo_original": "ディープリベンジ-顔を捨てた家政婦-",
+  "fecha_estreno": "2026-04-09",
+  "duracion": "30min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 9.5,
+  "sinopsis": "Tras cuatro años en coma, Nozomi despierta y descubre que su hijo ha muerto y su marido se casó. El accidente fue provocado y busca venganza.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "堀未央奈",
+      "personaje": "Takamura Nozomi / Sato Kako",
+      "foto": "https://image.tmdb.org/t/p/w500/qQWlkWlWZBG23L1QWPiPSlZ7E85.jpg"
+    },
+    {
+      "nombre": "石川恋",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/susjgREHJTPug5mbbSajazVi7Fm.jpg"
+    },
+    {
+      "nombre": "Riki Matsui",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/hJyFD9h4KsXdTFTuLDIqqf0Hx9I.jpg"
+    },
+    {
+      "nombre": "飯島寛騎",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/p0gQ0y7M15KbQyAcm5yquKun7Op.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 9.5,
+    "imdb": "tt43693764",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "ytv media design",
+  "trailer": ""
+}
