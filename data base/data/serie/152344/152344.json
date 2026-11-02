@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 152344,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8v6pVofHLPD1YC3k2hzpZ6sq6sn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gAy9sOxrYs5sXSwogv9TdyQXNzW.jpg",
+  "logo": "",
+  "titulo": "Los Prisioneros",
+  "titulo_original": "Los Prisioneros",
+  "fecha_estreno": "2022-01-15",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "Años 80. Los Prisioneros es una banda de rock liderada por el carismático Jorge. Perseguidos por los militares en plena dictadura, censurados por la radio y la televisión sobreviven a un intenso periodo que los lleva por los escenarios de Chile, Perú y Colombia.",
+  "pais_origen": "CL",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Arón Hernández",
+      "personaje": "Jorge González",
+      "foto": "https://image.tmdb.org/t/p/w500/iIcWxJ8znt5P39JqtHFH3rVGgGr.jpg"
+    },
+    {
+      "nombre": "Bernabé Madrigal",
+      "personaje": "Miguel Tapia",
+      "foto": "https://image.tmdb.org/t/p/w500/sereyo0AaRIZ6lUKfca57r5bVSP.jpg"
+    },
+    {
+      "nombre": "Andrew Bargsted",
+      "personaje": "Claudio Narea",
+      "foto": "https://image.tmdb.org/t/p/w500/qepa32ifK3fMTAjrjms5zxaDgoj.jpg"
+    },
+    {
+      "nombre": "Samuel Buzeta",
+      "personaje": "Carlos Fonseca",
+      "foto": "https://image.tmdb.org/t/p/w500/g5PqHbqfaHYG1VlISQlC4HUNwMw.jpg"
+    },
+    {
+      "nombre": "Mariana di Girolamo",
+      "personaje": "Patricia Rivadeneira",
+      "foto": "https://image.tmdb.org/t/p/w500/niEEPw3RezaA0SvMXbaZXl3rqvD.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Joanna Lombardi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Leonora González",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pablo Ilabaca",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "Camilo Salinas",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "Patricia Rivadeneira",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Sergio Gándara",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Roberto Matus",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Joanna Lombardi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Leonora González",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pablo Ilabaca",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Pablo Ilabaca",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "Camilo Salinas",
+      "rol": "Music Producer"
+    },
+    {
+      "nombre": "Herminio Gutiérrez",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Camilo Salinas",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Patricia Rivadeneira",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Soledad Salfate",
+      "rol": "Editorial Manager"
+    },
+    {
+      "nombre": "Paola Zoccola",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "Sergio Gándara",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Álvaro Cabello",
+      "rol": "Production Director"
+    },
+    {
+      "nombre": "Joanna Lombardi",
+      "rol": "Production Runner"
+    },
+    {
+      "nombre": "Marcelo González Lagunas",
+      "rol": "Line Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt13942924",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Parox",
+  "trailer": ""
+}
