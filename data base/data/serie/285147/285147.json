@@ -1,0 +1,109 @@
+{
+  "id_tmdb": 285147,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2X0O4Bl3Ef2cQqH7d9O2hRIZvMj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg",
+  "logo": "",
+  "titulo": "Shaque - No Confies En Nadie",
+  "titulo_original": "Shaque: Trust No One",
+  "fecha_estreno": "2026-09-24",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 7.7,
+  "sinopsis": "Narra la historia de Christine Lucas, una mujer que padece amnesia severa tras sufrir una brutal agresión en su juventud.",
+  "pais_origen": "IN",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Parineeti Chopra",
+      "personaje": "Anvita Dutt",
+      "foto": "https://image.tmdb.org/t/p/w500/DDBuGxqPZOcb2o9bk3ihPQdBn8.jpg"
+    },
+    {
+      "nombre": "Jennifer Winget",
+      "personaje": "Sakshi Mathur",
+      "foto": "https://image.tmdb.org/t/p/w500/eQx5zsmvPkjaWiMh5fMQMSCJUwC.jpg"
+    },
+    {
+      "nombre": "Tahir Raj Bhasin",
+      "personaje": "Alok Dutt",
+      "foto": "https://image.tmdb.org/t/p/w500/A4ylMYWj8IqnmX74Two8c4Lp8jY.jpg"
+    },
+    {
+      "nombre": "Anup Soni",
+      "personaje": "Inspector Khurana",
+      "foto": "https://image.tmdb.org/t/p/w500/ublFtg8PKJ7k3L2Tn3mfdjD6Ic9.jpg"
+    },
+    {
+      "nombre": "Sumeet Vyas",
+      "personaje": "Dr. Bhaskar",
+      "foto": "https://image.tmdb.org/t/p/w500/qGwWWHQsMU4V9ZMZnqNxdnXpYo2.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Siddharth P. Malhotra",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sapna Malhotra",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Renzil D'Silva",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chandini D'Silva",
+      "rol": "Co-Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Siddharth P. Malhotra",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sapna Malhotra",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Renzil D'Silva",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Chandini D'Silva",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Renzil D'Silva",
+      "rol": "Story"
+    },
+    {
+      "nombre": "Renzil D'Silva",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "Hussain Dalal",
+      "rol": "Dialogue"
+    },
+    {
+      "nombre": "Abbas Dalal",
+      "rol": "Dialogue"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": "tt35929525",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Alchemy Films (IN)",
+  "trailer": "https://www.youtube.com/watch?v=WPPcfRd-JzE"
+}
