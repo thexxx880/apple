@@ -1,0 +1,63 @@
+{
+  "id_tmdb": 313699,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/s1A6UOu8IOmw0kJXohlitMRiwQb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/htrxdtrliHEcE78UYqbfcHFDYae.png",
+  "titulo": "Balaraw: La isla sangrienta",
+  "titulo_original": "Balaraw",
+  "fecha_estreno": "2026-10-29",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "Años después de la desaparición de su madre, una pista misteriosa lleva a Sabina a una isla desierta, donde se enfrenta a los oscuros secretos de su propia familia.",
+  "pais_origen": "PH",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Janine Gutierrez",
+      "personaje": "Sabina Tejeros",
+      "foto": "https://image.tmdb.org/t/p/w500/6TQI03vvaY4Am2reUC3HNsNvtfQ.jpg"
+    },
+    {
+      "nombre": "Charlie Dizon",
+      "personaje": "Bulak Bernabe / Rebecca",
+      "foto": "https://image.tmdb.org/t/p/w500/ubucChuTyf5BBmvgUqbO5QUpIhL.jpg"
+    },
+    {
+      "nombre": "Agot Isidro",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/dOOKYxGJIGJMq9xkfgzDmpbmwCS.jpg"
+    },
+    {
+      "nombre": "Ronnie Lazaro",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/7faCmRBH2912iXtCn4cDojOAVr4.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Bianca Balbuena",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bianca Balbuena",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt39751377",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": ""
+}
