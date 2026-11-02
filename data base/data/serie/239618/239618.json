@@ -1,0 +1,124 @@
+{
+  "id_tmdb": 239618,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/azITiQL9UBQVK9z95UQipLoWHkB.png",
+  "titulo": "American Hostage",
+  "titulo_original": "American Hostage",
+  "fecha_estreno": "2026-09-20",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 6.7,
+  "sinopsis": "Narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jon Hamm",
+      "personaje": "Fred Heckman",
+      "foto": "https://image.tmdb.org/t/p/w500/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+      "nombre": "Giovanni Ribisi",
+      "personaje": "Tony Kiritsis",
+      "foto": "https://image.tmdb.org/t/p/w500/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg"
+    },
+    {
+      "nombre": "Kristoffer Polaha",
+      "personaje": "Dick Hall",
+      "foto": "https://image.tmdb.org/t/p/w500/u7SIxQzDwzU1av7tJoHG62NzN1Y.jpg"
+    },
+    {
+      "nombre": "William Jackson Harper",
+      "personaje": "Ben Hairston",
+      "foto": "https://image.tmdb.org/t/p/w500/5Oy037YttIweiqNGaErkalNmH0G.jpg"
+    },
+    {
+      "nombre": "Mireille Enos",
+      "personaje": "Barbara Heckman",
+      "foto": "https://image.tmdb.org/t/p/w500/zza8XezUz4I5Is55H2totMbGLeG.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Eileen Myers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gabriel Mason",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shawn Ryan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marney Hochman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jon Hamm",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Connie Tavel",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Eileen Myers",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Gabriel Mason",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shawn Ryan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Marney Hochman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jon Hamm",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Connie Tavel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Shawn Christensen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sharon Hoffman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adam Arkin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nina Lopez-Corrado",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": "tt30051064",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sony, MiddKid Productions, Criminal Content",
+  "trailer": "https://www.youtube.com/watch?v=B01SUM_ixo0"
+}
