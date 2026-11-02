@@ -1,0 +1,127 @@
+{
+  "id_tmdb": 310133,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/yvIUYRLeTF9KOQL12ojleVyqxAk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/wwh0QUv1FU5GHn13bc5cNZLHGRL.png",
+  "titulo": "4 Blocks Zero",
+  "titulo_original": "4 Blocks Zero",
+  "fecha_estreno": "2026-09-25",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 5,
+  "sinopsis": "",
+  "pais_origen": "DE",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Tariq Al Saies",
+      "personaje": "Ibrahim Mansour",
+      "foto": "https://image.tmdb.org/t/p/w500/t741akCi4id8GFUOg5bicKM0Vo1.jpg"
+    },
+    {
+      "nombre": "Tareq Nassery",
+      "personaje": "Ali Hamady",
+      "foto": "https://image.tmdb.org/t/p/w500/qiaBL6IdzDAraXgH1bYvnqqJcvp.jpg"
+    },
+    {
+      "nombre": "Rami Fadel Khalaf",
+      "personaje": "Malik Hamady",
+      "foto": "https://image.tmdb.org/t/p/w500/wEKwv7eEBOlZlZn78KnQPdpJVv4.jpg"
+    },
+    {
+      "nombre": "Soufiane El Mesaudi",
+      "personaje": "Abbas Hamady",
+      "foto": "https://image.tmdb.org/t/p/w500/4l1KKodn2QRtEUAQsVF1Lq3tHvZ.jpg"
+    },
+    {
+      "nombre": "Bella Dayne",
+      "personaje": "Cornelia Lackner",
+      "foto": "https://image.tmdb.org/t/p/w500/8fWktaJ2TM5gckri7RNUFSugtnm.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Anke Greifeneder",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Quirin Berg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marcus Welke",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Max Wiedemann",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matthias Junge",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Özgür Yildirim",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Anke Greifeneder",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Quirin Berg",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Marcus Welke",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Max Wiedemann",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Matthias Junge",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Özgür Yildirim",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bahar Bektaş",
+      "rol": "Scenario Writer"
+    },
+    {
+      "nombre": "Natalie Zoghbi",
+      "rol": "Scenario Writer"
+    },
+    {
+      "nombre": "Hassan Akkouch",
+      "rol": "Scenario Writer"
+    },
+    {
+      "nombre": "Özgür Yildirim",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Hüseyin Tabak",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5,
+    "imdb": "tt39379365",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Max, Wiedemann & Berg Television",
+  "trailer": "https://www.youtube.com/watch?v=57M8SMRirBo"
+}
