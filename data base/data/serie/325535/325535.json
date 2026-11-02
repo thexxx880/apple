@@ -1,0 +1,103 @@
+{
+  "id_tmdb": 325535,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/wQ3i7GOo5KCisTKPvTUyomJLjRB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/g2AmeS4mZC8OfnVctcCUnpHZ17J.jpg",
+  "logo": "",
+  "titulo": "El método Scaloni",
+  "titulo_original": "El método Scaloni",
+  "fecha_estreno": "2026-06-01",
+  "duracion": "36min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 6.8,
+  "sinopsis": "Explora en tres episodios las claves del liderazgo y la reconstrucción de la identidad de la selección campeona del mundo, con testimonios inéditos y una mirada humana del cuerpo técnico.",
+  "pais_origen": "AR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Lionel Scaloni",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/bkcJOGUmepTfQf667LpTy2Bfehv.jpg"
+    },
+    {
+      "nombre": "Lionel Messi",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/nm01BgtgwhOm3zDrnlV4vG8Q4FC.jpg"
+    },
+    {
+      "nombre": "Ángel Di María",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/3SEndmkIw0Q6o7kdSTfujQKSwyn.jpg"
+    },
+    {
+      "nombre": "Rodrigo De Paul",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/tznCzRoslaPMEV52HRYWtDjNehb.jpg"
+    },
+    {
+      "nombre": "Emiliano Martínez",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/otA9buZ7tJJAJUw8zZW7sFTn3XN.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Diego Peskins",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Diego Peskins",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Luis Hitoshi Díaz",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Sebastián Meschengieser",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Supercharango",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Julián Babino",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "Santiago Conde",
+      "rol": "Art Designer"
+    },
+    {
+      "nombre": "Oscar Lobo",
+      "rol": "Camera Department Manager"
+    },
+    {
+      "nombre": "Naicol Perren",
+      "rol": "Camera Department Manager"
+    },
+    {
+      "nombre": "Germán Vilche",
+      "rol": "Camera Department Manager"
+    },
+    {
+      "nombre": "Diego Peskins",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.8,
+    "imdb": "tt42615019",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Flow, Virgen Films",
+  "trailer": "https://www.youtube.com/watch?v=ZfZ1Dts0nyY"
+}
