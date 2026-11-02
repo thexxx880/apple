@@ -1,0 +1,73 @@
+{
+  "id_tmdb": 98518,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ifewkQ4QAEGzxPJsAlEmtsQHBj4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xktwOM8uDS0lmPJApS7gBUJRxSA.jpg",
+  "logo": "",
+  "titulo": "Isabel",
+  "titulo_original": "Isabel",
+  "fecha_estreno": "2021-03-12",
+  "duracion": "55min",
+  "año": "2021",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 6.6,
+  "sinopsis": "'Isabel' sigue la vida de Isabel Allende, la autora en español más leída del mundo y una incansable activista de los derechos humanos. Desde muy joven, Isabel estuvo dispuesta a romper todos los estándares socialmente aceptados de su tiempo para perseguir la felicidad y abrir su propio camino. Luego, en la cima de su carrera, recibe la devastadora noticia de que su hija está al borde de la muerte. El dolor pudo haberla doblado, pero nunca la rompió.",
+  "pais_origen": "CL",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Daniela Ramírez",
+      "personaje": "Isabel Allende",
+      "foto": "https://image.tmdb.org/t/p/w500/4BbRkdMso2qpGRtqEzIgRdOPWtZ.jpg"
+    },
+    {
+      "nombre": "Néstor Cantillana",
+      "personaje": "Miguel Frías",
+      "foto": "https://image.tmdb.org/t/p/w500/1wtd7uBC6w3MlJiIhSDCbXpiqcW.jpg"
+    },
+    {
+      "nombre": "Rodolfo Pulgar",
+      "personaje": "Agustín",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Tomás Macan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Isabel Miquel",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jorge Aliaga",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Tomás Macan",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Cristina Aburto",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Isabel Miquel",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": "tt14127520",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Megamedia",
+  "trailer": "https://www.youtube.com/watch?v=3NcDkHkmUXA"
+}
