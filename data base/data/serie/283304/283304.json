@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 283304,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kLz26pPuuvHZjjpMx6TsH5QETZA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fBieUo3SdItUrXZE16YxbpjwXIe.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/piqTBlDN9QYlqxR7MdHTKJcMMUU.png",
+  "titulo": "La casa de la pradera",
+  "titulo_original": "Little House on the Prairie",
+  "fecha_estreno": "2026-07-09",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Western",
+    "Familia"
+  ],
+  "puntuacion": 6.829,
+  "sinopsis": "La unida familia Ingalls construye una nueva vida en la frontera del Oeste, donde los placeres de la naturaleza y la lucha por sobrevivir están profundamente entremezclados.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Luke Bracey",
+      "personaje": "Charles Ingalls",
+      "foto": "https://image.tmdb.org/t/p/w500/ot2h7IrXpC8XSnIZDSVsj2FQ5cx.jpg"
+    },
+    {
+      "nombre": "Crosby Fitzgerald",
+      "personaje": "Caroline Ingalls",
+      "foto": "https://image.tmdb.org/t/p/w500/6f2qL5xTgdce8cqVjReEVIw2iyB.jpg"
+    },
+    {
+      "nombre": "Alice Halsey",
+      "personaje": "Laura Ingalls",
+      "foto": "https://image.tmdb.org/t/p/w500/3HLnsGJvhqQkGftOyn6ZpywGVzp.jpg"
+    },
+    {
+      "nombre": "Skywalker Hughes",
+      "personaje": "Mary Ingalls",
+      "foto": "https://image.tmdb.org/t/p/w500/odWo2m7Xdcnw3WdxsZfvRBqbmY.jpg"
+    },
+    {
+      "nombre": "Kowen Cadorath",
+      "personaje": "Caleb",
+      "foto": "https://image.tmdb.org/t/p/w500/m7IC89Xzv1tyY7kxNm5KTEM0Me3.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Rebecca Sonnenshine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joy Gorman Wettels",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Fox",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Susanna Fogel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Trip Friendly",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Adam Starks",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rebecca Sonnenshine",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Joy Gorman Wettels",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dana Fox",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Susanna Fogel",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Laura Ingalls Wilder",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Trip Friendly",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brandon Thomas",
+      "rol": "Casting Assistant"
+    },
+    {
+      "nombre": "Adam Starks",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Pascal Verschooris",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Dan Romer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Jonah Markowitz",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Rick Messina",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Rachel Tenner",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Calla-Syna Dreyer",
+      "rol": "Makeup Department Head"
+    },
+    {
+      "nombre": "Mitchell Travers",
+      "rol": "Costume Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.829,
+    "imdb": "tt2431250",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "CBS Studios, Anonymous Content, Friendly Family Productions",
+  "trailer": "https://www.youtube.com/watch?v=jSds4Oi83Eg"
+}
