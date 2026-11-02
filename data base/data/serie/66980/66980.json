@@ -1,0 +1,49 @@
+{
+  "id_tmdb": 66980,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jYShWyYllx9DhOS6d92mN2yVsbA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7hezSIqkDjhP7MNGFN9vRkyWgO9.jpg",
+  "logo": "",
+  "titulo": "Babylon Berlin",
+  "titulo_original": "Babylon Berlin",
+  "fecha_estreno": "2017-10-13",
+  "duracion": "24min",
+  "año": "2017",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Misterio"
+  ],
+  "puntuacion": 7.754,
+  "sinopsis": "Berlín, 1929. Al filo de una época desenfrenada, un investigador y una mecanógrafa descubren una conspiración política tras el secuestro de un tren de carga soviético.",
+  "pais_origen": "DE",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Volker Bruch",
+      "personaje": "Gereon Rath",
+      "foto": "https://image.tmdb.org/t/p/w500/vRlIMyCSISdh2d2pdOMQlLyV0ce.jpg"
+    },
+    {
+      "nombre": "Liv Lisa Fries",
+      "personaje": "Charlotte Ritter",
+      "foto": "https://image.tmdb.org/t/p/w500/1iroHHnzT32C8FdSoqBlwkA31U5.jpg"
+    },
+    {
+      "nombre": "Ulrich Noethen",
+      "personaje": "Dr. Edmund Forster",
+      "foto": "https://image.tmdb.org/t/p/w500/wetpWDhR88VBNXq1vjq6JT8N4O1.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.754,
+    "imdb": "tt4378376",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Beta Film, X Filme Creative Pool, ARD",
+  "trailer": "https://www.youtube.com/watch?v=HAn3RXeCrLg"
+}
