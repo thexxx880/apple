@@ -1,0 +1,69 @@
+{
+  "id_tmdb": 2580,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/fvcZJmspoiAeWNYeVmjfExea1FY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/eg50pCLII0TevPrGKXu2ba8uizA.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/1aDPxmD67iN9to8jIWf7ANuqIni.png",
+  "titulo": "Stargate Infinity",
+  "titulo_original": "Stargate Infinity",
+  "fecha_estreno": "2002-09-14",
+  "duracion": "30min",
+  "año": "2002",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 6.3,
+  "sinopsis": "Comando Stargate trata de devolver a una criatura misteriosa a su planeta mientras evade a extraterrestres siniestros y caza recompensas de la Tierra.",
+  "pais_origen": "CA",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Dale Wilson",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pvze2KdWMK16UEvJuSrJBTVL4Iy.jpg"
+    },
+    {
+      "nombre": "Tifanie Christun",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6DISLXPoAf8CHgjXo6c2v8bM2RE.jpg"
+    },
+    {
+      "nombre": "Kathleen Barr",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8n8xGngPwrfNVMdWlEWSMzbK4qW.jpg"
+    },
+    {
+      "nombre": "Mark Hildreth",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pHkXbCjIPbUSeOZLV3z6dnj8WVB.jpg"
+    },
+    {
+      "nombre": "Mackenzie Gray",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/yGU7RTVvI9fR9BpCt5TePYOpx7W.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Andy Heyward",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Andy Heyward",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.3,
+    "imdb": "tt0320969",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "MGM Television, MGM Animation",
+  "trailer": ""
+}
