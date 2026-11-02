@@ -1,0 +1,115 @@
+{
+  "id_tmdb": 286617,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/vr4Qfj87Tettu91HJDi2WJeGliU.png",
+  "titulo": "Tip Toe",
+  "titulo_original": "Tip Toe",
+  "fecha_estreno": "2026-05-31",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.02,
+  "sinopsis": "Leo Struthers, el dueño de un bar gay en Canal Street, y Clive Goss, electricista con hijos adolescentes, son dos vecinos de Mánchester desde hace muchos años. La retórica anti-LGBTQ en las redes sociales les lleva a convertirse gradualmente en enemigos acérrimos.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Alan Cumming",
+      "personaje": "Leo Struthers",
+      "foto": "https://image.tmdb.org/t/p/w500/axil8ufunARfqyU4ceZNh36fkVQ.jpg"
+    },
+    {
+      "nombre": "David Morrissey",
+      "personaje": "Clive Goss",
+      "foto": "https://image.tmdb.org/t/p/w500/gj7ENB9pBobXA3wMfw6uKcWr2GM.jpg"
+    },
+    {
+      "nombre": "Elizabeth Berrington",
+      "personaje": "Stephanie Dale",
+      "foto": "https://image.tmdb.org/t/p/w500/wFz71bIKTlQoa8v1s243TIh5wUm.jpg"
+    },
+    {
+      "nombre": "Pooky Quesnel",
+      "personaje": "Marie Goss",
+      "foto": "https://image.tmdb.org/t/p/w500/gULckuxXu4dvOviDGQqySAKfjWL.jpg"
+    },
+    {
+      "nombre": "Iz Hesketh",
+      "personaje": "Zee Malone",
+      "foto": "https://image.tmdb.org/t/p/w500/rHXi10bmh880f2huJzgu7sb1q7h.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Nicola Shindler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Alan Cumming",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Russell T Davies",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Hoar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Phil Collinson",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nicola Shindler",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Sam Watts",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Alan Cumming",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Russell T Davies",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Hoar",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Matt Gray",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Phil Collinson",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gordon Seed",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Russell T Davies",
+      "rol": "Screenplay"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.02,
+    "imdb": "tt35768911",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Quay Street Productions, ITV Studios",
+  "trailer": "https://www.youtube.com/watch?v=SWIR5sGTVjM"
+}
