@@ -1,0 +1,131 @@
+{
+  "id_tmdb": 102290,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/m0gJqyFv8sf09b9MP60AlXTXY09.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qK0xN1Q4oQSzIgaL8zmQ1BdR0rv.jpg",
+  "logo": "",
+  "titulo": "Hard",
+  "titulo_original": "Hard",
+  "fecha_estreno": "2020-05-17",
+  "duracion": "30min",
+  "año": "2020",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 6.5,
+  "sinopsis": "Durante 16 años Sofia creyó que su marido tenía un trabajo común y corriente pero, después de su muerte, descubrió que era dueño de una industria porno, de la cual ahora ella es la heredera.",
+  "pais_origen": "BR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Natália Lage",
+      "personaje": "Sofía",
+      "foto": "https://image.tmdb.org/t/p/w500/yfzh26XZEVGQlIwDMkXQVXVwAQZ.jpg"
+    },
+    {
+      "nombre": "Júlio Machado",
+      "personaje": "Marcelo",
+      "foto": "https://image.tmdb.org/t/p/w500/bqcYTm7bPPUPUNkr7fiEYcGggpx.jpg"
+    },
+    {
+      "nombre": "Martha Nowill",
+      "personaje": "Lucía",
+      "foto": "https://image.tmdb.org/t/p/w500/cYk1PDunjudo9UHfu4k1hSTEBG1.jpg"
+    },
+    {
+      "nombre": "Fernando Alves Pinto",
+      "personaje": "Pierre",
+      "foto": "https://image.tmdb.org/t/p/w500/69kBXDyiATKUoYMXpMpyz68BGjk.jpg"
+    },
+    {
+      "nombre": "Denise Del Vecchio",
+      "personaje": "Margot",
+      "foto": "https://image.tmdb.org/t/p/w500/3eLiKnvLJOeNeP0FOiOGuI5fI0Y.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Caroline Fioratti",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Júlia Pacheco Jordão",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rodrigo Meirelles",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rafaella Giannini",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "William Benshimol",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Roberto Rios",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Patricia Leme",
+      "rol": "Script"
+    },
+    {
+      "nombre": "Mariana Zatz",
+      "rol": "Script"
+    },
+    {
+      "nombre": "Caroline Fioratti",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Júlia Pacheco Jordão",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Laura Villar",
+      "rol": "Script"
+    },
+    {
+      "nombre": "Danilo Gullane",
+      "rol": "Script"
+    },
+    {
+      "nombre": "Juliana Rosenthal K.",
+      "rol": "Script"
+    },
+    {
+      "nombre": "Rodrigo Meirelles",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Rafaella Giannini",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "William Benshimol",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Roberto Rios",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eduardo Zaca",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": "tt12144960",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gullane Entretenimento",
+  "trailer": "https://www.youtube.com/watch?v=0k5dsdWFYSU"
+}
