@@ -1,0 +1,99 @@
+{
+  "id_tmdb": 65983,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1KzboHoiSJqtYL2EGBwAEMdDx2M.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/agUoLdEDNznqfWuIuPP0wBgDMqJ.jpg",
+  "logo": "",
+  "titulo": "ザ・コクピット",
+  "titulo_original": "ザ・コクピット",
+  "fecha_estreno": "1993-10-22",
+  "duracion": "25min",
+  "año": "1993",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama",
+    "War & Politics"
+  ],
+  "puntuacion": 5.6,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "尾形英夫",
+      "rol": "Development Producer"
+    },
+    {
+      "nombre": "Toshio Hagiwara",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Haruo Noguchi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "山下辰巳",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Keizo Inoue",
+      "rol": "Development Producer"
+    },
+    {
+      "nombre": "和田仁宏",
+      "rol": "Development Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "松本零士",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "逢坂浩司",
+      "rol": "Key Animation"
+    },
+    {
+      "nombre": "尾形英夫",
+      "rol": "Development Producer"
+    },
+    {
+      "nombre": "Hiroyuki Matsuda",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Toshio Hagiwara",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Haruo Noguchi",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "明田川進",
+      "rol": "Sound Effects Editor"
+    },
+    {
+      "nombre": "山下辰巳",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Keizo Inoue",
+      "rol": "Development Producer"
+    },
+    {
+      "nombre": "和田仁宏",
+      "rol": "Development Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.6,
+    "imdb": "tt0202299",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Jacom, Visual 80, Madhouse",
+  "trailer": ""
+}
