@@ -1,0 +1,143 @@
+{
+  "id_tmdb": 279884,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/aYC4t2FwIK3kouPMc7d9CAL49Mp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gHPr19knxIUckVn2r11Jjb4WvjM.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7xllvciCmzYPZ6xJplGYanxYjwA.png",
+  "titulo": "Rafa",
+  "titulo_original": "Rafa",
+  "fecha_estreno": "2026-05-29",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 8.4,
+  "sinopsis": "Mientras busca una despedida triunfal en la cancha, Rafael Nadal habla —como nunca antes— sobre qué lo convirtió en uno de los más grandes del tenis de todos los tiempos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rafael Nadal",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/skf0hyaWt86ZYF8HyvqEJpzAKOL.jpg"
+    },
+    {
+      "nombre": "Carlos Moyá",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/jLZ36iQVtmyOsIkQcaO5mOJF5nR.jpg"
+    },
+    {
+      "nombre": "Toni Nadal",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/5ApqfQKOX87TqCVMhEpyHv9pU9Z.jpg"
+    },
+    {
+      "nombre": "Rafael Maymó",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/xi8SUt043d1M4VWr4b2shMbx6bF.jpg"
+    },
+    {
+      "nombre": "Sebastian Nadal",
+      "personaje": "Self",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jason T. Reed",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Benito Pérez-Barbadillo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Zachary Heinzerling",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Marks",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tamara Rosenberg",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Germain Gulick",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jason T. Reed",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Benito Pérez-Barbadillo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Zachary Heinzerling",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dan Marks",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tamara Rosenberg",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Germain Gulick",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Andrew Helms",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Timothy Moran",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Connie Honeycutt",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Chris Ogden",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Liz Gonzalez",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Adam Uhl",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Drew Blatman",
+      "rol": "Lead Editor"
+    },
+    {
+      "nombre": "Jim Hession",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Federico Rosenzvit",
+      "rol": "Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.4,
+    "imdb": "tt35052852",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Skydance Sports",
+  "trailer": "https://www.youtube.com/watch?v=KKC2iC7TUb8"
+}
