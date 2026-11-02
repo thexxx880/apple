@@ -1,0 +1,39 @@
+{
+  "id_tmdb": 156616,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ocGjG4KlnFz4aDNe0r1IyudV253.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/f9iKdNLMbL2VFKtMlIz3pkzjKcT.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8QbbxyOIe6jYQ3n8HzJwYWk0v5.png",
+  "titulo": "Cachorros a la obra",
+  "titulo_original": "Pupstruction",
+  "fecha_estreno": "2023-06-14",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Kids",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 6.4,
+  "sinopsis": "¡Las aventuras de una adorable empresa de construcción formada exclusivamente por perros! Phinny the Corgi y su equipo de cachorros (la dura Rottweiler Roxy, la tonta perra pastora Luna y el dulce Mastiff Tank) vierten barro, sudor y un poco de baba canina para ayudar a su amada ciudad de Petsburg.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Francesco Romanelli",
+      "rol": "3D Modeller"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.4,
+    "imdb": "tt19868830",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Titmouse, Disney",
+  "trailer": "https://www.youtube.com/watch?v=wP3v5rd8oK0"
+}
