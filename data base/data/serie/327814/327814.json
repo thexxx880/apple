@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 327814,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/11rCh2E4SmdT06Qr9HsBrIftoHQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rc3Jy6sWFt7PDVGFqLjvo7tle13.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jW3aKIgPfiYejLkdmpSlcBcV7ub.png",
+  "titulo": "Proyecto final",
+  "titulo_original": "Proyecto final",
+  "fecha_estreno": "2026-07-29",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.633,
+  "sinopsis": "Nueva escuela, nuevo comienzo..., hasta que ciertos ataques en línea y un peligroso acercamiento con un compañero incitan una transformación en Tamara.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Daniela Martínez Caballero",
+      "personaje": "Tamara / Violeta",
+      "foto": "https://image.tmdb.org/t/p/w500/OUEHmzKnBxr60Svgb01oGY97e7.jpg"
+    },
+    {
+      "nombre": "Tristán Maze",
+      "personaje": "Xavi",
+      "foto": "https://image.tmdb.org/t/p/w500/3zBiRqiW55nUJ5iUYrJc5jzND9D.jpg"
+    },
+    {
+      "nombre": "Isabella Tena",
+      "personaje": "Samantha",
+      "foto": "https://image.tmdb.org/t/p/w500/8Ua9CYyLKjiOP9PVx0FJcGH9TyH.jpg"
+    },
+    {
+      "nombre": "Virgilio Delgado",
+      "personaje": "Daniel",
+      "foto": "https://image.tmdb.org/t/p/w500/2KuS5JNmwghcZZMSkUIVQAY5mbZ.jpg"
+    },
+    {
+      "nombre": "Ian Sparrowe",
+      "personaje": "Pato",
+      "foto": "https://image.tmdb.org/t/p/w500/ljI26Emk5buaSwVWpvVgpmaMMTe.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.633,
+    "imdb": "tt43640818",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=jmOop0Cm828"
+}
