@@ -1,0 +1,91 @@
+{
+  "id_tmdb": 27318,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/eOWAf4jeNPQX2JLMdJ3T1ad1kqR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gIXG4e2T8LmQckDlWnNjaBIt7GL.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/b0uKx7FHF4KxhoA7IHWPsDIyuaU.png",
+  "titulo": "Breadwinners",
+  "titulo_original": "Breadwinners",
+  "fecha_estreno": "2014-02-17",
+  "duracion": "11min",
+  "año": "2014",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 4.531,
+  "sinopsis": "Los Breadwinners (SwaySway y Buhdeuce) son dos patos muy divertidos que vuelan alrededor de la ciudad, a bordo de una furgoneta propulsada por un cohete, repartiendo misteriosos panes de sabores a sus patos vecinos sin descanso.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Robbie Daymond",
+      "personaje": "SwaySway (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1Wu13TUN1FiTOx6K7nIDQo63SAX.jpg"
+    },
+    {
+      "nombre": "Eric Bauza",
+      "personaje": "Buhdeuce (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lQl3CAkX5mY49bJUCGozO3wE6u1.jpg"
+    },
+    {
+      "nombre": "Alexander Polinsky",
+      "personaje": "Jelly (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lNm5DDCXaP0cOkRYRjfvRI4p6N2.jpg"
+    },
+    {
+      "nombre": "Fred Tatasciore",
+      "personaje": "Breadmaker (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8YCIAGSWcxeTmPfOWMtVjLSwGOH.jpg"
+    },
+    {
+      "nombre": "Kari Wahlgren",
+      "personaje": "Ketta (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Lizbeth Velasco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gary Doodles",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Borst",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tommy Sica",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Lizbeth Velasco",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gary Doodles",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Borst",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 4.531,
+    "imdb": "tt3481544",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Titmouse, Nickelodeon",
+  "trailer": "https://www.youtube.com/watch?v=4dN0HBvqRhw"
+}
