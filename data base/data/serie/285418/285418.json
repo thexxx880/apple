@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 285418,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iEISXRsDv8Q2PA6i9cAQd2DH9bN.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/fLK6t6AUI35F5PaZJqKETezdL4G.png",
+  "titulo": "Youth",
+  "titulo_original": "Youth",
+  "fecha_estreno": "2026-09-21",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 6.8,
+  "sinopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Sharon Horgan",
+      "personaje": "Alex",
+      "foto": "https://image.tmdb.org/t/p/w500/mNTtNGqdL8CzOBjCYCjOLRosOTM.jpg"
+    },
+    {
+      "nombre": "Rupert Friend",
+      "personaje": "Patrick",
+      "foto": "https://image.tmdb.org/t/p/w500/aMOUdXtTlqtscPumbuvfcH1JB42.jpg"
+    },
+    {
+      "nombre": "Sharlene Whyte",
+      "personaje": "Sam",
+      "foto": "https://image.tmdb.org/t/p/w500/14xDDiPwe0eLOHSMT2qDu7ue36u.jpg"
+    },
+    {
+      "nombre": "Aran Murphy",
+      "personaje": "Ruarí",
+      "foto": "https://image.tmdb.org/t/p/w500/gXwVwAY791aYZXkdSjLaRwYY37l.jpg"
+    },
+    {
+      "nombre": "Robbie Gee",
+      "personaje": "Frank",
+      "foto": "https://image.tmdb.org/t/p/w500/mzzfbA0e4DWgxvIYjaryMolkiqm.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Sharon Horgan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Faye Dorn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jim Klever-Weis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dawn Shadforth",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicola Houghton",
+      "rol": "Post Production Producer"
+    },
+    {
+      "nombre": "Robert Price",
+      "rol": "Line Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Sharon Horgan",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Faye Dorn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jim Klever-Weis",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dawn Shadforth",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amanda Wasey",
+      "rol": "Head of Production"
+    },
+    {
+      "nombre": "Nina Gold",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Lucy Amos",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Candida Otton",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Jeff Cardoni",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Lloyd Bass",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Dani Biernat",
+      "rol": "Stunt Coordinator"
+    },
+    {
+      "nombre": "Sophie Aiken",
+      "rol": "Casting Associate"
+    },
+    {
+      "nombre": "Sylvie Macdonald",
+      "rol": "Casting Assistant"
+    },
+    {
+      "nombre": "Ali Hadji-Heshmati",
+      "rol": "Story Consultant"
+    },
+    {
+      "nombre": "Freddie Meredith",
+      "rol": "Story Consultant"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.8,
+    "imdb": "tt35949226",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Merman",
+  "trailer": "https://www.youtube.com/watch?v=XwuDMSlErkk"
+}
