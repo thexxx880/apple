@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 312557,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8YuGi5NFR6rEUtzeQW4jHOT5DB8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jNoYbHU2oC1njpCTqSILbte0bXK.png",
+  "titulo": "Academia Minerva",
+  "titulo_original": "Minerva - La scuola",
+  "fecha_estreno": "2026-09-22",
+  "duracion": "46min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 7.679,
+  "sinopsis": "En la academia militar Minerva, los jóvenes lidian con la disciplina, la rivalidad y la presión familiar mientras un cadete busca respuestas sobre su amigo desaparecido.",
+  "pais_origen": "IT",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ciro Minopoli",
+      "personaje": "Salvo",
+      "foto": "https://image.tmdb.org/t/p/w500/vp06rGTK0lVtpabzA1dQ6G5yo31.jpg"
+    },
+    {
+      "nombre": "Nicole Malaj",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/4jk6G1Y6Vop2Fzc2rLZkxy43bmT.jpg"
+    },
+    {
+      "nombre": "Gaia Garavaglia",
+      "personaje": "Benny",
+      "foto": "https://image.tmdb.org/t/p/w500/8WYS9VtQrUKuk5YwhyeiORdYW2V.jpg"
+    },
+    {
+      "nombre": "Michele Rosiello",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/qfUTAhrVVAFIGz7qDzLCqaTwfkq.jpg"
+    },
+    {
+      "nombre": "Cristiana Capotondi",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/AaBpxxInx9u0eItSRyDDec6sh0S.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.679,
+    "imdb": "tt28765828",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Picomedia",
+  "trailer": ""
+}
