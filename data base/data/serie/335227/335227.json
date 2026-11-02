@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 335227,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/693nWyAysWVy6Wt8X2B4e8BrydZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3GaEzblbIzYo8EHUnfVX27IZRun.png",
+  "titulo": "Prefiero la muerte",
+  "titulo_original": "Prefiero la muerte",
+  "fecha_estreno": "2026-10-02",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Comedia"
+  ],
+  "puntuacion": 8.313,
+  "sinopsis": "Archie, el perdedor oficial de su escuela, es mordido por un zombi, desencadenando una divertida y caótica misión para salvar la ciudad de Mendoza del apocalipsis.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Fernanda Castillo",
+      "personaje": "Sarah Díaz",
+      "foto": "https://image.tmdb.org/t/p/w500/RMfrmN0HSVxaqYqesbcmvutTAg.jpg"
+    },
+    {
+      "nombre": "Luis Fernando Peña",
+      "personaje": "Sargento Peña",
+      "foto": "https://image.tmdb.org/t/p/w500/1nooPX0s6Qi03Npt1Wr9AK7gE08.jpg"
+    },
+    {
+      "nombre": "Armando Hernández",
+      "personaje": "Gerardo",
+      "foto": "https://image.tmdb.org/t/p/w500/5J0sQ0P2IBy1fTPDD3f8I2tJIZF.jpg"
+    },
+    {
+      "nombre": "Tiaré Scanda",
+      "personaje": "Wendy",
+      "foto": "https://image.tmdb.org/t/p/w500/tEIJnn5ZVHUtDdFLhHP0Q2Fdgxx.jpg"
+    },
+    {
+      "nombre": "Farah Justiniani",
+      "personaje": "Brenda Argüelles",
+      "foto": "https://image.tmdb.org/t/p/w500/lKVOx4MzjuRroREZowdPIUgw0kr.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.313,
+    "imdb": "tt31841438",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Amazon MGM Studios, Tigre Pictures, Pez Caja",
+  "trailer": "https://www.youtube.com/watch?v=ojteM2SYB88"
+}
