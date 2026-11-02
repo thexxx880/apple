@@ -1,0 +1,84 @@
+{
+  "id_tmdb": 332657,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/yfP9A3IaKE00U1ap1y7wAoZRzeC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/Agx8RmlBBDJrlH9MyUOd5JYYZPS.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/hDe7pmjEWL9di4zDVbOj0mv98Qx.png",
+  "titulo": "Route 187",
+  "titulo_original": "Route 187",
+  "fecha_estreno": "2026-09-16",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 6.6,
+  "sinopsis": "Los ciudadanos luchan contra la violencia urbana hasta que los asesinatos de un conductor de autobús y de un estudiante a manos de unos matones desatan la indignación, lo que lleva a las autoridades a perseguir a los culpables, captados en vídeo.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rico Ball",
+      "personaje": "Coach Lowe",
+      "foto": "https://image.tmdb.org/t/p/w500/yU6shm32hLfDgnNIKMR2sphap4A.jpg"
+    },
+    {
+      "nombre": "Clark Moore",
+      "personaje": "Lt. Jeff Gibson",
+      "foto": "https://image.tmdb.org/t/p/w500/xhjFpYm51s9on9IRMiEMGdWEjfs.jpg"
+    },
+    {
+      "nombre": "Cuyle Carvin",
+      "personaje": "Detective Finley",
+      "foto": "https://image.tmdb.org/t/p/w500/6TFz6bsOAdMkcN17IyAg41uNAzd.jpg"
+    },
+    {
+      "nombre": "Christopher Livingstone",
+      "personaje": "Mason James",
+      "foto": "https://image.tmdb.org/t/p/w500/nQfrQzgMBg81dlIZ64S2lye75Co.jpg"
+    },
+    {
+      "nombre": "Josef Cannon",
+      "personaje": "Paul",
+      "foto": "https://image.tmdb.org/t/p/w500/s1RP7bSwV4KFUNfK01p9Z087dSs.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mark E. Swinton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tyler Perry",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark E. Swinton",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Tyler Perry",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Mark E. Swinton",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Tyler Perry",
+      "rol": "Production Executive"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.6,
+    "imdb": "tt32132697",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Tyler Perry Studios",
+  "trailer": "https://www.youtube.com/watch?v=r-x0zCk3f64"
+}
