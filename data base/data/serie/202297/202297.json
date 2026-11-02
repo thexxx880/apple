@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 202297,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/r6jUY6q3ObYOeFFWxM7jemS7IWE.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/p3ERm7hTttnkOSb57Yq5xOZRlA3.png",
+  "titulo": "Fire Country",
+  "titulo_original": "Fire Country",
+  "fecha_estreno": "2022-10-07",
+  "duracion": "24min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 8.05,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Max Thieriot",
+      "personaje": "Bode Leone",
+      "foto": "https://image.tmdb.org/t/p/w500/aBiTMI3qB6FPOVhXw7b15pjJkmL.jpg"
+    },
+    {
+      "nombre": "Kevin Alejandro",
+      "personaje": "Manny Perez",
+      "foto": "https://image.tmdb.org/t/p/w500/bh4aQqP7kJzL2Ls9tj5OmhsBlqi.jpg"
+    },
+    {
+      "nombre": "Jordan Calloway",
+      "personaje": "Jake Crawford",
+      "foto": "https://image.tmdb.org/t/p/w500/tRqqOTzfAAftvtWgNIdjyo5WDfm.jpg"
+    },
+    {
+      "nombre": "Jules Latimer",
+      "personaje": "Eve Edwards",
+      "foto": "https://image.tmdb.org/t/p/w500/eOGSsznWnl5u7gegic5y2HT79Se.jpg"
+    },
+    {
+      "nombre": "Olivia Thirlby",
+      "personaje": "CJ Ryan",
+      "foto": "https://image.tmdb.org/t/p/w500/x9ZlUX617wi9li2TJ5UuYpHzPfN.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.05,
+    "imdb": "tt16098700",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "CBS Studios, Jerry Bruckheimer Television",
+  "trailer": "https://www.youtube.com/watch?v=NpSV1QT_brs"
+}
