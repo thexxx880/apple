@@ -1,0 +1,71 @@
+{
+  "id_tmdb": 336977,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jUXnMzuISJnGvAo8apl5GkTnOmN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hEbfpOUOYby6ETtC8ubaB6ktXFy.jpg",
+  "logo": "",
+  "titulo": "Jeff & His Super Hero Friends",
+  "titulo_original": "Jeff & His Super Hero Friends",
+  "fecha_estreno": "2026-07-17",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Kids"
+  ],
+  "puntuacion": 10,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Emma Vega",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alejo Schettini",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Daniele Di Nicolò",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "Daniele Di Nicolò",
+      "rol": "Draughtsman"
+    },
+    {
+      "nombre": "Kelly Thompson",
+      "rol": "Script"
+    },
+    {
+      "nombre": "Marcelo Pereira",
+      "rol": "Production Artist"
+    },
+    {
+      "nombre": "Vitor Campos",
+      "rol": "Production Artist"
+    },
+    {
+      "nombre": "Emma Vega",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Alejo Schettini",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 10,
+    "imdb": "tt45381042",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel, Wild Comet Media, Apus Estudio",
+  "trailer": ""
+}
