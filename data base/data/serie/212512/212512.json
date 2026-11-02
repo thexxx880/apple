@@ -1,0 +1,79 @@
+{
+  "id_tmdb": 212512,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/55Jo9IcxHj01Ea0ii1lXjagFrlz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kyjQv6RtTOVWsMRR0aC8plhMMo2.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4QeungJHgaY6MxPK8HjHH5jYZGm.png",
+  "titulo": "Mamíferos",
+  "titulo_original": "Mammals",
+  "fecha_estreno": "2022-11-11",
+  "duracion": "30min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 5.5,
+  "sinopsis": "Jamie (James Corden) es un chef cuyo mundo implosiona cuando descubre inesperados secretos sobre su esposa embarazada, Amandine (Melia Kreiling). Jamie empieza a buscar respuestas con la ayuda de su cuñado Jeff (Colin Morgan), y es en esta búsqueda cuando las grietas en el matrimonio de Jeff con Lue (Sally Hawkins), la hermana de Jamie, también se intensifican.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "James Corden",
+      "personaje": "Jamie Buckingham",
+      "foto": "https://image.tmdb.org/t/p/w500/xGB0gfZ48M27gQjjL7inJIh1Pqj.jpg"
+    },
+    {
+      "nombre": "Colin Morgan",
+      "personaje": "Jeff Wilson",
+      "foto": "https://image.tmdb.org/t/p/w500/jeSLhhfUIZR3UQGGhtYTk0J2I5.jpg"
+    },
+    {
+      "nombre": "Melia Kreiling",
+      "personaje": "Amandine Buckingham",
+      "foto": "https://image.tmdb.org/t/p/w500/qOU56iXoaIouUX5zBip85tGKcrd.jpg"
+    },
+    {
+      "nombre": "Sally Hawkins",
+      "personaje": "Lue",
+      "foto": "https://image.tmdb.org/t/p/w500/1dtDq82dM2YQ17lBL4ZKPJo5LKw.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jez Butterworth",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Diane Shorthouse",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "James Corden",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jez Butterworth",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Diane Shorthouse",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "James Corden",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.5,
+    "imdb": "tt15040278",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Street Hassle, Vertigo Films",
+  "trailer": "https://www.youtube.com/watch?v=LUJYldqUEJQ"
+}
