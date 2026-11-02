@@ -1,0 +1,59 @@
+{
+  "id_tmdb": 69557,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/iTZX0noHJMYLhNHNj7r97mm9Zi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/l7BDJsD2zRYHvu3G7qV1v7q5hoF.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8tsp3Rme4fwlTTS9sdJXYPPZDNm.png",
+  "titulo": "Fauda",
+  "titulo_original": "פאודה",
+  "fecha_estreno": "2015-02-15",
+  "duracion": "43min",
+  "año": "2015",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Action & Adventure",
+    "War & Politics"
+  ],
+  "puntuacion": 7.428,
+  "sinopsis": "Es un intenso thriller político y de acción que narra el conflicto entre Israel y Palestina a través de las misiones encubiertas de una unidad de élite de las fuerzas de defensa israelíes y las vidas de los militantes palestinos a los que persiguen.",
+  "pais_origen": "IL",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "ליאור רז",
+      "personaje": "Doron Kavillio",
+      "foto": "https://image.tmdb.org/t/p/w500/6uHFnt0iZtcdTOXAXThqfQhuG5T.jpg"
+    },
+    {
+      "nombre": "נטע גרטי",
+      "personaje": "Gali Kavillio",
+      "foto": "https://image.tmdb.org/t/p/w500/yAwo4zSpCzMhYiPGxkJBYhnzjRV.jpg"
+    },
+    {
+      "nombre": "דורון בן דוד",
+      "personaje": "Hertzel 'Steve' Pinto",
+      "foto": "https://image.tmdb.org/t/p/w500/bSrRVAKtmu6hOsvvsOTZsqlBZVx.jpg"
+    },
+    {
+      "nombre": "רונה-לי שמעון",
+      "personaje": "Nurit",
+      "foto": "https://image.tmdb.org/t/p/w500/tsbVNfgRukCyPEVog2bIhcOSJWx.jpg"
+    },
+    {
+      "nombre": "איציק כהן",
+      "personaje": "Gabi \"Captain Eyov\"",
+      "foto": "https://image.tmdb.org/t/p/w500/tfjZLOyLAqbzn0X45mlDrka5YhQ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.428,
+    "imdb": "tt4565380",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "L.Benasuly Productions, yes, Tender Productions",
+  "trailer": "https://www.youtube.com/watch?v=m5zcu25_IG0"
+}
