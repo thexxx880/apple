@@ -1,0 +1,80 @@
+{
+  "id_tmdb": 3470,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ywLLx2UZZ9s7DvyogzWdKBB2KT8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/w9FOfBEtb8iMWLulegu9ieWqPFp.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/gWlHer5xnui9ZYH7xQTjySyspDn.png",
+  "titulo": "Maestros del Terror",
+  "titulo_original": "Masters of Horror",
+  "fecha_estreno": "2005-10-28",
+  "duracion": "24min",
+  "año": "2005",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Crimen",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.2,
+  "sinopsis": "Masters of Horror (también conocida como Maestros del terror) es una serie de televisión estadounidense creada por Mick Garris para Showtime. Consta de dos temporadas, la serie se estrenó el 28 de octubre del año 2005 y finalizó con su episodio número 26 el 2 de febrero de 2007. Cada semana se mostraba una película de una hora de duración dirigida por célebres directores del género del terror. No siguen ningún formato, cada capítulo es una historia que no tiene relación con las otras.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Morris Berger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ben Browning",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Goldworm",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John W. Hyde",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Mick Garris",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Morris Berger",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ben Browning",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Adam Goldworm",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "John W. Hyde",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Edward Shearmur",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Mick Garris",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": "tt0448190",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Showtime Networks, Starz Productions, Nice Guy Productions",
+  "trailer": "https://www.youtube.com/watch?v=WMvZbadBEEA"
+}
