@@ -1,0 +1,72 @@
+{
+  "id_tmdb": 293607,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/zOSAKuyQfj3HmnvH4HU6GLu9cU8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8GbWGzKe0dXbHWCtJXqmvcNbqvf.png",
+  "titulo": "100 días de engaño",
+  "titulo_original": "100일의 거짓말",
+  "fecha_estreno": "2026-10-10",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "puntuacion": 8.636,
+  "sinopsis": "Con la esperanza de conseguir su libertad, la mejor carterista de Gyeongseong se infiltra en el Gobierno colonial japonés para robar secretos, pero se enamora del hijo de su objetivo.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "김유정",
+      "personaje": "Lee Ga-kyung / Keum Seo-Hee",
+      "foto": "https://image.tmdb.org/t/p/w500/eFcMTDIgzSGLHZYXcsf1M42cvFt.jpg"
+    },
+    {
+      "nombre": "Jinyoung",
+      "personaje": "Kim Tae-ung / Hideo Sato",
+      "foto": "https://image.tmdb.org/t/p/w500/e2U4M1vkwvFjwj834ttERQva61E.jpg"
+    },
+    {
+      "nombre": "김현주",
+      "personaje": "Yoo So-ran",
+      "foto": "https://image.tmdb.org/t/p/w500/AeYZSlVauG1BMJdzfyaw3u5jcyA.jpg"
+    },
+    {
+      "nombre": "이무생",
+      "personaje": "Yoo Philip",
+      "foto": "https://image.tmdb.org/t/p/w500/xokzuuLDfVzassk0bmje2fvdMcM.jpg"
+    },
+    {
+      "nombre": "진선규",
+      "personaje": "Shinichi Sato",
+      "foto": "https://image.tmdb.org/t/p/w500/toFCyPac5rSpN58p0fsZ7lbogYc.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "유인식",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "유인식",
+      "rol": "Director"
+    },
+    {
+      "nombre": "류보리",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.636,
+    "imdb": "tt39201866",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Studio Dragon, CJ ENM",
+  "trailer": "https://www.youtube.com/watch?v=P0ElxnFyfXY"
+}
