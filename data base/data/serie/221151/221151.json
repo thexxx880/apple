@@ -1,0 +1,121 @@
+{
+  "id_tmdb": 221151,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/kM0kHzHB0G7rhaZY1a9DQ5ghqNW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hdKGOn4lTasuYM6cA4AAOpsc1ER.jpg",
+  "logo": "",
+  "titulo": "A Thousand Tomorrows",
+  "titulo_original": "A Thousand Tomorrows",
+  "fecha_estreno": "2023-02-24",
+  "duracion": "54min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Familia",
+    "Western"
+  ],
+  "puntuacion": 8.3,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Colin Ford",
+      "personaje": "Cody Gunnar",
+      "foto": "https://image.tmdb.org/t/p/w500/1mFmDWlJVcN1i9aRkzLasNnpdeo.jpg"
+    },
+    {
+      "nombre": "Rose Reid",
+      "personaje": "Ali Daniels",
+      "foto": "https://image.tmdb.org/t/p/w500/mtYxHu4GC3Imdf0jwF5OOy8Sv0T.jpg"
+    },
+    {
+      "nombre": "Kate Easton",
+      "personaje": "Mary Gunnar",
+      "foto": "https://image.tmdb.org/t/p/w500/aMksEPSl9bg3qWZwjk284sPS1XW.jpg"
+    },
+    {
+      "nombre": "K.C. Clyde",
+      "personaje": "Mike Gunnar",
+      "foto": "https://image.tmdb.org/t/p/w500/3Yug5axLRvnmuJHHlomDj06SSFH.jpg"
+    },
+    {
+      "nombre": "Ck Bolado",
+      "personaje": "Dalton Kenny",
+      "foto": "https://image.tmdb.org/t/p/w500/kdgj9JV7YZNBjMwcyJaKnrCwLM8.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Karen Kingsbury",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cassidy Lunnen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ivan Kraljević",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rick Christian",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Raymond Kelly",
+      "rol": "Production Assistant"
+    },
+    {
+      "nombre": "Karen Kingsbury",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Karen Kingsbury",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cassidy Lunnen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ivan Kraljević",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Rick Christian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ricki Maslar",
+      "rol": "Casting Director"
+    },
+    {
+      "nombre": "Collin Pittier",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Garry Waller",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Trevor Black",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Holli Taylor",
+      "rol": "Costume Consultant"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.3,
+    "imdb": "tt21157352",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Affirm Films, Red Clay Studios",
+  "trailer": "https://www.youtube.com/watch?v=FdppcBIhsdA"
+}
