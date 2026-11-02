@@ -1,0 +1,123 @@
+{
+  "id_tmdb": 213608,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/h2vjL6bUmoTu3vLVrkgoNjTgIhN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6iKU8ttTQhbZAysn0gQvlU2NvqO.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/mdrlpX91Gwn0L2whuWoJMjxf3Ae.png",
+  "titulo": "Nuestro Universo",
+  "titulo_original": "Our Universe",
+  "fecha_estreno": "2022-11-22",
+  "duracion": "45min",
+  "año": "2022",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 7.8,
+  "sinopsis": "Esta atrapante serie documental muestra la asombrosa historia del universo a lo largo de miles de millones de años y su inextricable conexión con la vida en la Tierra.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Morgan Freeman",
+      "personaje": "Self - Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Andrew Cohen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Beth Ambrose",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Dan Elston",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Tish Marsh",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "David Baker",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Amy Cattell",
+      "rol": "Visual Effects Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Andrew Cohen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Duncan Russell",
+      "rol": "Colorist"
+    },
+    {
+      "nombre": "Sam Castleton",
+      "rol": "Sound Mixer"
+    },
+    {
+      "nombre": "Darryl O'Donovan",
+      "rol": "Music Editor"
+    },
+    {
+      "nombre": "Beth Ambrose",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Mikhail Gubkin",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Kate Hopkins",
+      "rol": "Sound Editor"
+    },
+    {
+      "nombre": "Laura Davey",
+      "rol": "Head of Production"
+    },
+    {
+      "nombre": "Arno Seagrim",
+      "rol": "Production Accountant"
+    },
+    {
+      "nombre": "Mike Sadd",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Paul Greer",
+      "rol": "VFX Artist"
+    },
+    {
+      "nombre": "Harriet Colson",
+      "rol": "Post Production Supervisor"
+    },
+    {
+      "nombre": "Ben McIlveen",
+      "rol": "Online Editor"
+    },
+    {
+      "nombre": "Tom Kelly",
+      "rol": "Orchestrator"
+    },
+    {
+      "nombre": "Tim Owens",
+      "rol": "Sound Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": "tt23181168",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "BBC Studios Science Unit",
+  "trailer": "https://www.youtube.com/watch?v=Q33TkQKlIMg"
+}
