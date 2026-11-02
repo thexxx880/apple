@@ -1,0 +1,140 @@
+{
+  "id_tmdb": 310290,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3ZgL0K4S9ovBmUvS72giGjsSsmX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gvBZ7qSCsszgUX74y8VLNw2in03.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/baCiWISZB2rb0zjzmR16pb5RZNG.svg",
+  "titulo": "Mis muertos tristes",
+  "titulo_original": "Mis muertos tristes",
+  "fecha_estreno": "2026-09-24",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 6.5,
+  "sinopsis": "Ema, una médica de 60 años, puede ver y escuchar a los muertos. Los llama “presencias” y ha vivido toda su vida evitando que ese don la conecte con el sufrimiento de otros. Pero cuando su sobrina Julie —una joven perturbada que también puede comunicarse con los muertos, aunque de una forma mucho más intensa y sexual— llega a su casa, Ema se ve obligada a involucrarse. Lo que comienza como un reencuentro familiar se convierte en una perturbadora cadena de eventos que alteran el equilibrio entre el mundo de los vivos y los muertos, contagiando a todo un barrio con voces del más allá. Mientras las fronteras entre la vida, la muerte y el deseo se desdibujan, Ema tendrá que enfrentarse a su pasado, su hija, y los fantasmas que nunca dejó ir.",
+  "pais_origen": "CL",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Mercedes Morán",
+      "personaje": "Emma",
+      "foto": "https://image.tmdb.org/t/p/w500/2r5QQeumzXWoSma6RQrLjiNhHdu.jpg"
+    },
+    {
+      "nombre": "Dolores Fonzi",
+      "personaje": "Carolina",
+      "foto": "https://image.tmdb.org/t/p/w500/4axi3Dz8zKK0b1kk54tPOeywb84.jpg"
+    },
+    {
+      "nombre": "Alejandra Flechner",
+      "personaje": "Lidia",
+      "foto": "https://image.tmdb.org/t/p/w500/w9vUYiH5TwKYdAPxPI1xHZQjWts.jpg"
+    },
+    {
+      "nombre": "Carolina Sánchez Álvarez",
+      "personaje": "Julie",
+      "foto": "https://image.tmdb.org/t/p/w500/zMTxtWbanWgV0UVZcODAYdPY6Tc.jpg"
+    },
+    {
+      "nombre": "Carlos Portaluppi",
+      "personaje": "Tomás",
+      "foto": "https://image.tmdb.org/t/p/w500/eCxnS3mUQoHtBKaMpD5tNXPJfTk.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Álvaro Cabello",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cristián Donoso",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pablo Larraín",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ángela Poblete Sarrás",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Juan de Dios Larraín",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pablo Larraín",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Álvaro Cabello",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Cristián Donoso",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rodrigo Bazaes",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Alejandro Wise",
+      "rol": "Production Director"
+    },
+    {
+      "nombre": "Sergio Armstrong",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Mariana Enriquez",
+      "rol": "Book"
+    },
+    {
+      "nombre": "Pablo Larraín",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Ángela Poblete Sarrás",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Juan de Dios Larraín",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Pablo Larraín",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Anastasia Ayazi de Marchi",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Guillermo Calderón",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Pablo Larraín",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Mauricio López",
+      "rol": "Sound Re-Recording Mixer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": "tt37158600",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "K & S Films, Fabula",
+  "trailer": "https://www.youtube.com/watch?v=2IEsP8uhUBY"
+}
