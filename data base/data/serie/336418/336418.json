@@ -1,0 +1,104 @@
+{
+  "id_tmdb": 336418,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/mqJ2SwlEHBzAFykQXt820xmyUMF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/eLIvzJ14sH7ire3XUHZ2oIZb3G2.png",
+  "titulo": "Los Crímenes Del Cementerio De Animales - Una Historia De Terror",
+  "titulo_original": "The Pet Cemetery Murders: A Ghost Story",
+  "fecha_estreno": "2026-10-11",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 7.2,
+  "sinopsis": "La reapertura de un misterioso caso de asesinato sin resolver de 1985 en Luisiana saca a la luz una inquietante historia de derramamiento de sangre y traumas ocultos durante mucho tiempo.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Patricia Newman",
+      "personaje": "Self - Dorothy's Friend",
+      "foto": ""
+    },
+    {
+      "nombre": "Brain Vallelungo",
+      "personaje": "Self - Detective, St. Bernard Parish",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Simon Chinn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan Chinn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Suzanne Lavery",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Marsh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Silvia Sacco",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nancy Abraham",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Simon Chinn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jonathan Chinn",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Suzanne Lavery",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "James Marsh",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Silvia Sacco",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nancy Abraham",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lisa Heller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tina Nguyen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Vanessa Tovell",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": "tt46683025",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "HBO Documentary Films, Lightbox Entertainment",
+  "trailer": "https://www.youtube.com/watch?v=b4jFpNIgjYY"
+}
