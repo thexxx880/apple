@@ -1,0 +1,60 @@
+{
+  "id_tmdb": 211638,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jeYIRekZ6jTBUiEoefj4qEsttvI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kIHdgUR4LBmZo5zQqWOQr0GLPbV.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kryNlXt5fn9RX3hTo06BiZoFUh6.png",
+  "titulo": "Barbie Dreamhouse Adventures: Go Team Roberts",
+  "titulo_original": "Barbie Dreamhouse Adventures: Go Team Roberts",
+  "fecha_estreno": "2019-11-01",
+  "duracion": "24min",
+  "año": "2019",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Kids",
+    "Comedia"
+  ],
+  "puntuacion": 8.4,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "America Young",
+      "personaje": "Barbie Roberts (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xxAr9L5Cto6q4H0nnxvhnnre1Qe.jpg"
+    },
+    {
+      "nombre": "Kirsten Day",
+      "personaje": "Skipper (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jNAZCkTK5mK3JOIdlxFrAw307KX.jpg"
+    },
+    {
+      "nombre": "Cassandra Lee Morris",
+      "personaje": "Stacie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iXUQ4SGQhVAAsyJjNO35IeMPGZH.jpg"
+    },
+    {
+      "nombre": "Cassidy Naber",
+      "personaje": "Chelsea (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cBEu44VFG0VUpwBtvGOBYubJugK.jpg"
+    },
+    {
+      "nombre": "Ritesh Rajan",
+      "personaje": "Ken (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jGvKcMTjaATcKdfyehK4AacDSvG.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 8.4,
+    "imdb": "tt36314975",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Mattel Television, Mainframe Studios",
+  "trailer": ""
+}
