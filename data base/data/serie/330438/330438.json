@@ -1,0 +1,99 @@
+{
+  "id_tmdb": 330438,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8P12ytuz41DKCBSpjX3Ntev177Z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3wbETP2ujDBQ1GdajfVwTDJTKoe.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/79NCHHxpuiOV02wlkypJgU3WBfN.png",
+  "titulo": "The Girls: A Khloé Kardashian Project",
+  "titulo_original": "The Girls: A Khloé Kardashian Project",
+  "fecha_estreno": "2026-08-21",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Reality"
+  ],
+  "puntuacion": 10,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Natalie Halcro",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/5pksennsieXkgfWWA5UzTR7rp5f.jpg"
+    },
+    {
+      "nombre": "Malika Haqq",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/zNSEX5BnhwGgIAbfohNu4XtToJj.jpg"
+    },
+    {
+      "nombre": "Khadijah Haqq McCray",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/oYP5ZIP3GdHssUz0ST2CcDlmJ9y.jpg"
+    },
+    {
+      "nombre": "Nicole Lynn Williams",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/tcSotM2zncdP4jJqeZgnDTblIQY.jpg"
+    },
+    {
+      "nombre": "Yris Palmer",
+      "personaje": "Self",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Farnaz Farjam",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julie Pizzi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Khloé Kardashian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lauren Goldstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicole Blais",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Farnaz Farjam",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julie Pizzi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Khloé Kardashian",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lauren Goldstein",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Nicole Blais",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 10,
+    "imdb": "tt42007275",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Bunim Murray Productions",
+  "trailer": "https://www.youtube.com/watch?v=jqKWEW-qU-Y"
+}
