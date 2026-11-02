@@ -1,0 +1,98 @@
+{
+  "id_tmdb": 16361,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/v3pL45juySE3NtAbrTrqMFtwhS0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/b2IM3fBLPW6hsglVliQqJqeh20C.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/zLnz5f2ssYKdDmXMRC2clt4SeDP.png",
+  "titulo": "Huntik: Secrets & Seekers",
+  "titulo_original": "Huntik: Secrets & Seekers",
+  "fecha_estreno": "2009-01-03",
+  "duracion": "23min",
+  "año": "2009",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Misterio",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.1,
+  "sinopsis": "",
+  "pais_origen": "IT",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Alessio Nissolino",
+      "personaje": "Lok Lambert (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Perla Liberatori",
+      "personaje": "Sophie Casterwill (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/e89d987tdIFUEONBCf5m8ug8fWJ.jpg"
+    },
+    {
+      "nombre": "Patrizio Prata",
+      "personaje": "Dante Vale (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7RUGWVNp6uI9GrCEERtjeZmfkUB.jpg"
+    },
+    {
+      "nombre": "Jolanda Granato",
+      "personaje": "Zhalia Moon (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Daniele Demma",
+      "personaje": "Cherit (voice)",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Iginio Straffi",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Daniele Demma",
+      "rol": "Dialogue"
+    },
+    {
+      "nombre": "Iginio Straffi",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Simone Borselli",
+      "rol": "Assistant Director"
+    },
+    {
+      "nombre": "Michele Bettali",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Stefano Carrara",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Fabrizio Castania",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Patrizia Salmoiraghi",
+      "rol": "Dialogue"
+    },
+    {
+      "nombre": "Francesca Vettori",
+      "rol": "Dialogue"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.1,
+    "imdb": "tt1696969",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Rai Fiction, Rainbow",
+  "trailer": ""
+}
