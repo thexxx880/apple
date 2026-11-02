@@ -1,0 +1,95 @@
+{
+  "id_tmdb": 79093,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qLl4lZwcm7MJk6U3Kk0QCmfWOU9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/Ad2y46YKP2u81bsR4axajbbJKwS.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7RAvdLguB6QODBR1lD7WbBNLHZk.png",
+  "titulo": "Star Wars: La Resistencia",
+  "titulo_original": "Star Wars Resistance",
+  "fecha_estreno": "2018-10-07",
+  "duracion": "22min",
+  "año": "2018",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Animación",
+    "Action & Adventure"
+  ],
+  "puntuacion": 6.2,
+  "sinopsis": "Kazuda Xiono, un joven piloto de la Resistencia, tiene la tarea de una misión secreta para investigar la Primera Orden, una amenaza creciente en la galaxia.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Christopher Sean",
+      "personaje": "Kazuda Xiono (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ovdEW6RwOwGAdA3Qijs6KOHn0zt.jpg"
+    },
+    {
+      "nombre": "Josh Brener",
+      "personaje": "Neeku Vozo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sIyQYq2imu1V2RxRQ1zp70RSqTi.jpg"
+    },
+    {
+      "nombre": "Scott Lawrence",
+      "personaje": "Jarek Yeager (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8lwnmlHN6QPK75NwfufsIFZZhmB.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Athena Yvette Portillo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Justin Ridge",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brandon Auman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dave Filoni",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Athena Yvette Portillo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Justin Ridge",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brandon Auman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Beth Christenson",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Dave Filoni",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Keith Kellogg",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "George Lucas",
+      "rol": "Original Film Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.2,
+    "imdb": "tt8336340",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Lucasfilm Ltd.",
+  "trailer": "https://www.youtube.com/watch?v=AoxZ4SmlSAg"
+}
