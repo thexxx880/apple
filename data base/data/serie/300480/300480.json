@@ -1,0 +1,84 @@
+{
+  "id_tmdb": 300480,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2cN9viibPOov0hZKMi0KLVVlFpm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/auLT0EPtqtt5MwryoC2MoAG595F.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/1reKslE9WBgkLa3P7GdQo7Hi4nc.png",
+  "titulo": "Gatos callejeros, de Ricky Gervais",
+  "titulo_original": "Ricky Gervais Alley Cats",
+  "fecha_estreno": "2026-08-07",
+  "duracion": "15min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "puntuacion": 7.7,
+  "sinopsis": "Esta comedia animada sin tapujos sigue las escandalosas —y divertidas— andanzas de un grupo de gatos callejeros que causa estragos en la ciudad. De Ricky Gervais.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ricky Gervais",
+      "personaje": "Gus (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/z293wonhuF0aYQtg1ROOSl1LObf.jpg"
+    },
+    {
+      "nombre": "Tom Basden",
+      "personaje": "Ponce (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xbwMDcpLBw3x1dHvkrXZyZpdKcw.jpg"
+    },
+    {
+      "nombre": "Andrew Brooke",
+      "personaje": "Fang (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bZL8AxVVROgqUJtdcwCwYqpVgdI.jpg"
+    },
+    {
+      "nombre": "David Earl",
+      "personaje": "Puke (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gr20DfPjbWf9ZBz49JYzKxdX6uH.jpg"
+    },
+    {
+      "nombre": "Kerry Godliman",
+      "personaje": "Lara (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eLbKxu58ZPFCGl6WF9rbRJdg7R4.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ricky Gervais",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Hamilton Shaw",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hugo Donkin",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Ricky Gervais",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Hamilton Shaw",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Hugo Donkin",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": "tt38264832",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Blink Industries, Derek Productions, Shush Creative",
+  "trailer": "https://www.youtube.com/watch?v=aIkRFKsoOiM"
+}
