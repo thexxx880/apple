@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 325082,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/AooIk6ob55gqNwefEwKJoHNy6No.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/b5ELWgY2pi1DcDyrltoEYd5jEhL.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/161oztRgRuNhgjh3WQFwUMp0RBF.png",
+  "titulo": "Tierra de Amor y Coraje",
+  "titulo_original": "Tierra de amor y coraje",
+  "fecha_estreno": "2026-08-07",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Soap",
+    "Familia"
+  ],
+  "puntuacion": 9.69,
+  "sinopsis": "Dos familias ganaderas enfrentan una rivalidad marcada por el orgullo, el poder y la ambición.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Sofía Castro",
+      "personaje": "Clara",
+      "foto": "https://image.tmdb.org/t/p/w500/xe0NGouxMSArTRDBu6DCKPDBcnE.jpg"
+    },
+    {
+      "nombre": "Emilio Osorio",
+      "personaje": "Lalo",
+      "foto": "https://image.tmdb.org/t/p/w500/3XMYnWscAeGEtDCQXYTKkFweniz.jpg"
+    },
+    {
+      "nombre": "Brandon Peniche",
+      "personaje": "Jerónimo",
+      "foto": "https://image.tmdb.org/t/p/w500/jg7SwTpOooslgVsLNiDJwyG4uWx.jpg"
+    },
+    {
+      "nombre": "Emmanuel Palomares",
+      "personaje": "Juan",
+      "foto": "https://image.tmdb.org/t/p/w500/uhefmEykWpvJmOhcHJyvXzXeijF.jpg"
+    },
+    {
+      "nombre": "Sergio Goyri",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/x7TXmva21eXLrzjWWYbdFET8HGb.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 9.69,
+    "imdb": "tt42172921",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=cM84seF-rbY"
+}
