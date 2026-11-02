@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 213375,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+  "titulo": "VisionQuest",
+  "titulo_original": "VisionQuest",
+  "fecha_estreno": "2026-10-13",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "puntuacion": 8.638,
+  "sinopsis": "Una versión reiniciada de Visión se ha estado escondiendo de aquellos que pretenden usarlo como un arma. Mientras permanece oculto, consulta a las personalidades de IA integradas en su programación —incluyendo al infame Ultrón— para comprender su verdadero propósito.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Paul Bettany",
+      "personaje": "Vision",
+      "foto": "https://image.tmdb.org/t/p/w500/awlH20l93cgHOIDPNP6FCnGuIJy.jpg"
+    },
+    {
+      "nombre": "James Spader",
+      "personaje": "Ultron",
+      "foto": "https://image.tmdb.org/t/p/w500/3gurW3OgDOD4hcqDfgcqUnoNg34.jpg"
+    },
+    {
+      "nombre": "Ruaridh Mollica",
+      "personaje": "Thomas",
+      "foto": "https://image.tmdb.org/t/p/w500/ArI6IyrJWtHHogUWtu3UmyOiPlU.jpg"
+    },
+    {
+      "nombre": "Todd Stashwick",
+      "personaje": "Paladin",
+      "foto": "https://image.tmdb.org/t/p/w500/seKRXV2HMS36ip4SfQq6PLRiLL2.jpg"
+    },
+    {
+      "nombre": "Lauren Morais",
+      "personaje": "Lisa Molinari",
+      "foto": "https://image.tmdb.org/t/p/w500/7Eur3EddzlvXTYzKAGkRmo87xcS.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Winderbaum",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Terry Matalas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mary Livanos",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Trevor Waterson",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Kevin Feige",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Louis D'Esposito",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Brad Winderbaum",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Terry Matalas",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Buscema",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Roy Thomas",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Mary Livanos",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Trevor Waterson",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Michael Taylor",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Roopesh Parekh",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dave Jordan",
+      "rol": "Music Supervisor"
+    },
+    {
+      "nombre": "Christopher Monfette",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Cindy Appel",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Matt Okumura",
+      "rol": "Supervising Producer"
+    },
+    {
+      "nombre": "Lillie Jeffrey",
+      "rol": "Casting"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.638,
+    "imdb": "tt23112594",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel, Kevin Feige Productions",
+  "trailer": "https://www.youtube.com/watch?v=Oqf2hvtqE6Y"
+}
