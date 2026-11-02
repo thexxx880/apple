@@ -1,0 +1,95 @@
+{
+  "id_tmdb": 295089,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/72pRBOj8S52NbT1F8OkMxD9OnjY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lRDqXZ4LCFl7Rd8fVQ43AhKhtI5.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2sqrnXzdVq0Ebh1LrPbiS3an9YV.png",
+  "titulo": "La Muñeca [Lalka]",
+  "titulo_original": "Lalka",
+  "fecha_estreno": "2026-09-16",
+  "duracion": "390min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 6.021,
+  "sinopsis": "Sigue la historia de Stanisław Wokulski, un ambicioso comerciante de Varsovia en el siglo XIX que se obsesiona con conquistar a Izabela Łęcka, una joven aristócrata de carácter fuerte cuya familia atraviesa problemas financieros",
+  "pais_origen": "PL",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Sandra Drzymalska",
+      "personaje": "Izabela Łęcka",
+      "foto": "https://image.tmdb.org/t/p/w500/qO4jn3TiQ0Ig1Zf1DhHVCb4lYoe.jpg"
+    },
+    {
+      "nombre": "Tomasz Schuchardt",
+      "personaje": "Stanisław Wokulski",
+      "foto": "https://image.tmdb.org/t/p/w500/2WOX4dBr97itzYzNqEUbxXrYeE3.jpg"
+    },
+    {
+      "nombre": "Dariusz Chojnacki",
+      "personaje": "Ignacy Rzecki",
+      "foto": "https://image.tmdb.org/t/p/w500/uzdik3FJwIbbOKusISw6Wkytqqk.jpg"
+    },
+    {
+      "nombre": "Jacek Braciak",
+      "personaje": "Tomasz Łęcki",
+      "foto": "https://image.tmdb.org/t/p/w500/c5gcI2kIvi7pjXr2BpdMDmAYpMd.jpg"
+    },
+    {
+      "nombre": "Julia Wyszyńska",
+      "personaje": "Panna Florentyna",
+      "foto": "https://image.tmdb.org/t/p/w500/10L2QRI6T1At67tJNcckONedIyM.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jan Kwieciński",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Bolesław Prus",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Jan Kwieciński",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Katarzyna Gryciuk-Krzywda",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Paweł Flis",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Radosław Ochnio",
+      "rol": "Sound"
+    },
+    {
+      "nombre": "Dariusz Krysiak",
+      "rol": "Makeup Artist"
+    },
+    {
+      "nombre": "Joanna Macha",
+      "rol": "Production Design"
+    },
+    {
+      "nombre": "Dorota Roqueplo",
+      "rol": "Costume Design"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.021,
+    "imdb": "tt37578538",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Akson Studio",
+  "trailer": "https://www.youtube.com/watch?v=OwYFO5kmHbU"
+}
