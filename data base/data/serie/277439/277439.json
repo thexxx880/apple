@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 277439,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/raCZsl0tmpNjSSWfmTZHfleECDF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/aUQOMcvedpuw7Z8rlUU09ecd2PT.png",
+  "titulo": "Cabo de miedo",
+  "titulo_original": "Cape Fear",
+  "fecha_estreno": "2026-06-04",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 7.172,
+  "sinopsis": "Se avecina una tormenta para dos abogados felizmente casados cuando un infame asesino de su pasado sale de prisión.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Amy Adams",
+      "personaje": "Anna Bowden",
+      "foto": "https://image.tmdb.org/t/p/w500/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg"
+    },
+    {
+      "nombre": "Javier Bardem",
+      "personaje": "Maximiliano 'Max' Cady",
+      "foto": "https://image.tmdb.org/t/p/w500/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
+    },
+    {
+      "nombre": "Patrick Wilson",
+      "personaje": "Tom Bowden",
+      "foto": "https://image.tmdb.org/t/p/w500/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+    },
+    {
+      "nombre": "Joe Anders",
+      "personaje": "Zack Bowden",
+      "foto": "https://image.tmdb.org/t/p/w500/lnPuALnFpjTcXmV6it3RmRm2gL5.jpg"
+    },
+    {
+      "nombre": "Lily Collias",
+      "personaje": "Natalie Bowden",
+      "foto": "https://image.tmdb.org/t/p/w500/higCbwBsqJgwJyJUW1gMSYOJNlV.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Nick Antosca",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven Spielberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Martin Scorsese",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alex Hedlund",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Javier Bardem",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Darryl Frank",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Nick Antosca",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steven Spielberg",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Martin Scorsese",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John D. MacDonald",
+      "rol": "Novel"
+    },
+    {
+      "nombre": "Alex Hedlund",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Javier Bardem",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Darryl Frank",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Justin Falvey",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Adams",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Wesley Strick",
+      "rol": "Original Film Writer"
+    },
+    {
+      "nombre": "James R. Webb",
+      "rol": "Original Film Writer"
+    },
+    {
+      "nombre": "Jeff Russo",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Bastiaan Koch",
+      "rol": "Visual Effects Supervisor"
+    },
+    {
+      "nombre": "Navi Atwater",
+      "rol": "Visual Effects Producer"
+    },
+    {
+      "nombre": "Alan Page Arriaga",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.172,
+    "imdb": "tt34675596",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Eat the Cat, Amblin Television, UCP",
+  "trailer": "https://www.youtube.com/watch?v=tiCytq8Z0_8"
+}
