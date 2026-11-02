@@ -1,0 +1,37 @@
+{
+  "id_tmdb": 330371,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oTPcDA2YmCQuEH4OVQUg0cNZfKu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/tRIIuFh9f7qxiZWx9L3Hd8mDT8A.png",
+  "titulo": "Earle Meets World",
+  "titulo_original": "Earle Meets World",
+  "fecha_estreno": "2026-09-04",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Reality"
+  ],
+  "puntuacion": 6.5,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Alix Earle",
+      "personaje": "Self",
+      "foto": "https://image.tmdb.org/t/p/w500/dT4Up3XztHhPeEfyEOHSNejEBVb.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 6.5,
+    "imdb": "tt42654265",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DGN Studios, Fulwell Entertainment",
+  "trailer": "https://www.youtube.com/watch?v=OaOYc2J_E_U"
+}
