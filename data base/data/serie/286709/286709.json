@@ -1,0 +1,88 @@
+{
+  "id_tmdb": 286709,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oYctSXDHjJKvB9PtAAFL5cpJEEb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/tT2MwxaST3Fx1Dg4u9v82sDrIu.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8FHFWJ2fMoxDnUjkINuGPw76Lte.png",
+  "titulo": "Los del lado oeste",
+  "titulo_original": "The Westies",
+  "fecha_estreno": "2026-07-12",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 7.439,
+  "sinopsis": "En el Nueva York de los años 80, dos amigos de la infancia siguen caminos opuestos: uno se convierte en policía y el otro se une a los Westies. Mientras la banda enfrenta una lucha interna por el poder, el FBI estrecha el cerco sobre la organización.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "J.K. Simmons",
+      "personaje": "Eamon Sweeney",
+      "foto": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+      "nombre": "Titus Welliver",
+      "personaje": "Glenn Keenan",
+      "foto": "https://image.tmdb.org/t/p/w500/3hTwn7Maktr6ONq1VvfqyRacjiv.jpg"
+    },
+    {
+      "nombre": "Tom Brittney",
+      "personaje": "James 'Jimmy' Roarke",
+      "foto": "https://image.tmdb.org/t/p/w500/qSe3SuZHVPR5AMOuOAGxLdD6kYv.jpg"
+    },
+    {
+      "nombre": "Stanley Morgan",
+      "personaje": "Mickey Flanagan",
+      "foto": "https://image.tmdb.org/t/p/w500/bNSzGWB6jOgRlEBHdO10e7pT9R3.jpg"
+    },
+    {
+      "nombre": "Sarah Bolger",
+      "personaje": "Bridget Walsh",
+      "foto": "https://image.tmdb.org/t/p/w500/A3K2l5kkqTMQHtAkctzICqtbZMY.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Chris Brancato",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Panes",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Chris Brancato",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Panes",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Mark Isham",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Mark Kueper",
+      "rol": "Colorist"
+    },
+    {
+      "nombre": "Matthew Brown",
+      "rol": "Color Assistant"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.439,
+    "imdb": "tt31849235",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Chris Brancato, MGM+ Studios",
+  "trailer": "https://www.youtube.com/watch?v=n0KR_OfAFPU"
+}
