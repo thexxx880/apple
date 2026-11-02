@@ -1,0 +1,108 @@
+{
+  "id_tmdb": 318203,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/gPou8wNiTz1uleLKllclrqanXXf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1mN5cydNUFqd7MHfOwhcHZzLnvT.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/7EAfC9znlSDXlrdgsUiHQT7oR0m.png",
+  "titulo": "Alice y Steve",
+  "titulo_original": "Alice and Steve",
+  "fecha_estreno": "2026-06-08",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 6.4,
+  "sinopsis": "Alice queda devastada cuando su mejor amigo, Steve, empieza a salir con su hija Izzy, de 26 años, y ambos anuncian que quieren intentarlo. Alice hace todo lo posible por acabar con la relación. Desafortunadamente para ella, Steve está más que preparado para el ataque, y lo que empieza como una amistad perfecta se convierte en una auténtica pelea.",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Nicola Walker",
+      "personaje": "Alice",
+      "foto": "https://image.tmdb.org/t/p/w500/gZNT3kN254dASL2MZ6S2MpP6Nk2.jpg"
+    },
+    {
+      "nombre": "Jemaine Clement",
+      "personaje": "Steve",
+      "foto": "https://image.tmdb.org/t/p/w500/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+    },
+    {
+      "nombre": "Joel Fry",
+      "personaje": "Daniel",
+      "foto": "https://image.tmdb.org/t/p/w500/tk6RncU1WEvjpeU1hog9cFsjMRC.jpg"
+    },
+    {
+      "nombre": "Yali Topol Margalith",
+      "personaje": "Izzy",
+      "foto": "https://image.tmdb.org/t/p/w500/z26Ea6FA38MHu0f3tsbCoPANzGI.jpg"
+    },
+    {
+      "nombre": "Tyrese Eaton-Dyce",
+      "personaje": "Dom",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Andy Baker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sophie Goodhart",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ed MacDonald",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Frances du Pille",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Petra Fried",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lee Mason",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Andy Baker",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sophie Goodhart",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ed MacDonald",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Frances du Pille",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Petra Fried",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Lee Mason",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.4,
+    "imdb": "tt35728748",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Clerkenwell Films, Disney",
+  "trailer": "https://www.youtube.com/watch?v=k_7EEeSvssQ"
+}
