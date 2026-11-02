@@ -1,0 +1,89 @@
+{
+  "id_tmdb": 293610,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+  "titulo": "Doctora X",
+  "titulo_original": "닥터X: 하얀 마피아의 시대",
+  "fecha_estreno": "2026-10-09",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama",
+    "Crimen"
+  ],
+  "puntuacion": 9.4,
+  "sinopsis": "En un hospital dominado por el ego y la corrupción, llega una cirujana enigmática pero brillante que asume casos aparentemente imposibles en medio de una feroz oposición.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "김지원",
+      "personaje": "Gye Su-jeong",
+      "foto": "https://image.tmdb.org/t/p/w500/lX7W1j9kg4jV6XNn5XEE3rKsd3x.jpg"
+    },
+    {
+      "nombre": "이정은",
+      "personaje": "Jeong Hee-sook",
+      "foto": "https://image.tmdb.org/t/p/w500/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+    },
+    {
+      "nombre": "손현주",
+      "personaje": "Bu Seung-gwon",
+      "foto": "https://image.tmdb.org/t/p/w500/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
+    },
+    {
+      "nombre": "김우석",
+      "personaje": "Park Tae-gyeong",
+      "foto": "https://image.tmdb.org/t/p/w500/pjuqZJRCw5BgAZf5CtjXNAmOAmd.jpg"
+    },
+    {
+      "nombre": "이진희",
+      "personaje": "Jo Won-jin",
+      "foto": "https://image.tmdb.org/t/p/w500/ejdN4VmStDyyhi7sN5Nox5VVh5x.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "이정림",
+      "rol": "Director"
+    },
+    {
+      "nombre": "이재우",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Hong Sung-chang",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "이정림",
+      "rol": "Director"
+    },
+    {
+      "nombre": "이재우",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "편성근",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "Hong Sung-chang",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9.4,
+    "imdb": "tt39328047",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Studio Dragon, Studio S, HighZium Studio",
+  "trailer": "https://www.youtube.com/watch?v=v6KNnhkLnnY"
+}
