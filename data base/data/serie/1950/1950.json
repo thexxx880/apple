@@ -1,0 +1,92 @@
+{
+  "id_tmdb": 1950,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/uuWIIIjT6hyCLGQTVG0cwLfubb9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pXpK8GnLL0wZkfelg5lCVSOnytN.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/pC0zQZPsKD8Cxrin3W1VOSQbfTR.png",
+  "titulo": "Everwood",
+  "titulo_original": "Everwood",
+  "fecha_estreno": "2002-09-16",
+  "duracion": "43min",
+  "año": "2002",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Familia"
+  ],
+  "puntuacion": 7.6,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Treat Williams",
+      "personaje": "Andrew Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/jbRMOU2K7ePg7Zs59nfgEYLeD1e.jpg"
+    },
+    {
+      "nombre": "Gregory Smith",
+      "personaje": "Ephram Brown",
+      "foto": "https://image.tmdb.org/t/p/w500/5qwhNXC5SZf3D7e1i6iNFvcp91P.jpg"
+    },
+    {
+      "nombre": "Emily VanCamp",
+      "personaje": "Amy Abbott",
+      "foto": "https://image.tmdb.org/t/p/w500/zTl2KVglr7D7jnBLjbqe1BbbJiV.jpg"
+    },
+    {
+      "nombre": "Debra Mooney",
+      "personaje": "Edna Harper",
+      "foto": "https://image.tmdb.org/t/p/w500/4je0xiNyZwJZlDDupiHTjhzqVrB.jpg"
+    },
+    {
+      "nombre": "John Beasley",
+      "personaje": "Irv Harper",
+      "foto": "https://image.tmdb.org/t/p/w500/tpZQojv2UfelPHr1eSphcp0iEpJ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Rina Mimoun",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Green",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Greg Berlanti",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Oliver Goldstick",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Rina Mimoun",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Green",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Greg Berlanti",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Oliver Goldstick",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.6,
+    "imdb": "tt0318883",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Warner Bros",
+  "trailer": ""
+}
