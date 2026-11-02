@@ -1,0 +1,120 @@
+{
+  "id_tmdb": 2046,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4eufRkflTkrmmONcswo02A4S6en.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/qUBwzBJi9ENCdKJiQqAcC6heSrI.png",
+  "titulo": "Alias Us",
+  "titulo_original": "Alias",
+  "fecha_estreno": "2001-09-30",
+  "duracion": "43min",
+  "año": "2001",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "puntuacion": 6.826,
+  "sinopsis": "Jennifer Garner es Sydney Bristow, una joven, inteligente y atlética agente secreta del gobierno que hace trabajos sucios para la SD-6, una rama secreta de la CIA con una única premisa: nadie debe conocer su identidad. Aparentemente Syd es una estudiante normal, nadie sabe que es una espía de la CIA. Pero el mundo de Sydney da un giro total cuando descubre que trabaja para el enemigo contra el que creía luchar. Ahora está enredada en un estilo de vida que le obliga a cuestionar la lealtad de todos, incluso de sus seres queridos.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jennifer Garner",
+      "personaje": "Sydney Bristow",
+      "foto": "https://image.tmdb.org/t/p/w500/eiX083VOa0RCGSgwENZgVi5MgDi.jpg"
+    },
+    {
+      "nombre": "Victor Garber",
+      "personaje": "Jack Bristow",
+      "foto": "https://image.tmdb.org/t/p/w500/FdhXl8qxsKgj22Ip99SRM9jUx1.jpg"
+    },
+    {
+      "nombre": "Ron Rifkin",
+      "personaje": "Arvin Sloane",
+      "foto": "https://image.tmdb.org/t/p/w500/fj2u4t6nG0HGYFtRVDUTNbUtEtl.jpg"
+    },
+    {
+      "nombre": "Carl Lumbly",
+      "personaje": "Marcus Dixon",
+      "foto": "https://image.tmdb.org/t/p/w500/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg"
+    },
+    {
+      "nombre": "Kevin Weisman",
+      "personaje": "Marshall Flinkman",
+      "foto": "https://image.tmdb.org/t/p/w500/c0YWHu02cHGynufhOM7eNtIQ5ze.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Jeff Pinkner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "André Nemec",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Josh Appelbaum",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jeffrey Bell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jesse Alexander",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Ken Olin",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jeff Pinkner",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "André Nemec",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Josh Appelbaum",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jeffrey Bell",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jesse Alexander",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Breen Frazier",
+      "rol": "Executive Story Editor"
+    },
+    {
+      "nombre": "Ken Olin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "J.J. Abrams",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michael Giacchino",
+      "rol": "Original Music Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.826,
+    "imdb": "tt0285333",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Bad Robot, Touchstone Television",
+  "trailer": "https://www.youtube.com/watch?v=aDxl2OIivSI"
+}
