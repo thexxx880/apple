@@ -1,0 +1,54 @@
+{
+  "id_tmdb": 316197,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/21pLXbvuyfgUaAhhxkuvoX1pAN1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rkpUaXnvTJSzQ1cz4DKN7kBG7Ey.png",
+  "titulo": "Volveré Por Ti",
+  "titulo_original": "너에게 다이브",
+  "fecha_estreno": "2026-09-26",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 6.3,
+  "sinopsis": "La historia sigue a Yoon Ha-na, su hermano mellizo Yoon Ha-ru y su amigo Jung Woo-jae. Tras un trágico ataque en el que Woo-jae es asesinado mientras protege a Ha-na, los hermanos sufren un accidente automovilístico que los arrastra al mar y los hace despertar en el año 2010 con los cuerpos intercambiados. Ambos deberán adaptarse a sus nuevos roles y cambiar el pasado para evitar la muerte de Woo-jae.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "보나",
+      "personaje": "Yoon Ha-na",
+      "foto": "https://image.tmdb.org/t/p/w500/zXVHkg4CxGjDGK6N4SIwZERmbhc.jpg"
+    },
+    {
+      "nombre": "박서함",
+      "personaje": "Jeong Woo-jae",
+      "foto": "https://image.tmdb.org/t/p/w500/vndtKSldmy4keg1NQx3wU0kqP2m.jpg"
+    },
+    {
+      "nombre": "장세혁",
+      "personaje": "Yoon Ha-ru",
+      "foto": "https://image.tmdb.org/t/p/w500/ykRH93PNSuX3GxaxO3QuyCEdQqW.jpg"
+    },
+    {
+      "nombre": "Moon Seung-you",
+      "personaje": "Seo Ye-rang",
+      "foto": "https://image.tmdb.org/t/p/w500/iakMVmUvYtUq4iaqe5BmQSS02h5.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 6.3,
+    "imdb": "tt43088191",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Dexter Pictures, AMUSE, Dexter Studios",
+  "trailer": "https://www.youtube.com/watch?v=VZDtO0cXoPQ"
+}
