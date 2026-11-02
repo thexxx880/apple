@@ -1,0 +1,71 @@
+{
+  "id_tmdb": 305644,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/hzr5KVD2DCASbK6lqa3v07wa0ri.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ioBZEKDQ390CyxwPQXxHkRD7G9K.png",
+  "titulo": "Cuatro manos, dos sonatas",
+  "titulo_original": "포핸즈",
+  "fecha_estreno": "2026-08-29",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 9.219,
+  "sinopsis": "Cuando dos pianistas jóvenes de orígenes totalmente disímiles se conocen en una escuela de música de élite, sus vidas se entremezclan como armónicas melodías.",
+  "pais_origen": "KR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "송강",
+      "personaje": "Kang Pi-o",
+      "foto": "https://image.tmdb.org/t/p/w500/83fLAMMb1LGT8YZ4dgRI0fti3az.jpg"
+    },
+    {
+      "nombre": "Lee Jun-young",
+      "personaje": "Choi Jeong-yo",
+      "foto": "https://image.tmdb.org/t/p/w500/zH8kiGox6n3FD82MKEhUq79X6gj.jpg"
+    },
+    {
+      "nombre": "장규리",
+      "personaje": "Hong Jae-in",
+      "foto": "https://image.tmdb.org/t/p/w500/u232DZRv4WBpOT6HKPnUR7DLQMq.jpg"
+    },
+    {
+      "nombre": "윤세아",
+      "personaje": "Kang Ji-hye",
+      "foto": "https://image.tmdb.org/t/p/w500/wdytv8MZeNjulCR4nMmpreuDS6w.jpg"
+    },
+    {
+      "nombre": "정진영",
+      "personaje": "Kang Seung-woon",
+      "foto": "https://image.tmdb.org/t/p/w500/ipBYiyEfFrffCoTpoSiEChHDwz4.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "박현석",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "박현석",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Shin Yi-won",
+      "rol": "Writer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9.219,
+    "imdb": "tt39368345",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Studio Dragon, Namoo Actors",
+  "trailer": "https://www.youtube.com/watch?v=KapADxhCvvM"
+}
