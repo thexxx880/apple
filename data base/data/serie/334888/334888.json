@@ -1,0 +1,63 @@
+{
+  "id_tmdb": 334888,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/n2c9R2ucWJktg407YH3gY1EwPHs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/17ZgS7G4tVvJsuMfMxkFMHumXog.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jBLf9Z1jSEK4BPUsBIxiIURWxj2.png",
+  "titulo": "Africa: El corazón de la Tierra",
+  "titulo_original": "Africa Earth's Wild Home",
+  "fecha_estreno": "2026-10-02",
+  "duracion": "44min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Documental"
+  ],
+  "puntuacion": 9,
+  "sinopsis": "La vida silvestre y los paisajes africanos se llevan a la pantalla como nunca antes, utilizando la última tecnología para contar las historias más extraordinarias del continente y CGI de vanguardia para desenterrar la profunda historia y las fuerzas que dieron forma a los mundos naturales de África.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Wunmi Mosaku",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vp7qDA7cYZj0MDYk1k4wysmznnN.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Wunmi Mosaku",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Simon Blakeney",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pam Caragol",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Wunmi Mosaku",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Simon Blakeney",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Pam Caragol",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 9,
+    "imdb": "tt45584297",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "BBC Studios Natural History Unit, National Geographic",
+  "trailer": "https://www.youtube.com/watch?v=dK6vnPToC_E"
+}
