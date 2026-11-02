@@ -1,0 +1,144 @@
+{
+  "id_tmdb": 42295,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/zu3bPbiYPsHt12A0LIPRUASmnqO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nGFTegLPFXH2RzqNALTTh2I1fst.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nHMDWdafchpA4vctgBkm3JPtdVV.png",
+  "titulo": "Hemlock Grove",
+  "titulo_original": "Hemlock Grove",
+  "fecha_estreno": "2013-04-19",
+  "duracion": "24min",
+  "año": "2013",
+  "trending": false,
+  "generos": [
+    "Misterio",
+    "Drama"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "En la población de Hemlock Grove, Pennsylvania, aparece una joven asesinada cerca de la antigua fábrica de acero de la familia Godfrey. Los sospechosos del crimen son Peter, un chico gitano de 17 años que siempre elige el camino equivocado, y del cual se cree que puede ser un hombre lobo, y Roman, el arrogante hijo de los Godfrey, cuya hermana Shelley tiene una perturbadora deformidad, y cuya madre Olivia es una bella y controladora gran dama de Hemlock Grove.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Landon Liboiron",
+      "personaje": "Peter Rumancek",
+      "foto": "https://image.tmdb.org/t/p/w500/1hnx9SJo1DQnkveFA9hOQ0BfNwL.jpg"
+    },
+    {
+      "nombre": "Bill Skarsgård",
+      "personaje": "Roman Godfrey",
+      "foto": "https://image.tmdb.org/t/p/w500/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+    },
+    {
+      "nombre": "Famke Janssen",
+      "personaje": "Olivia Godfrey",
+      "foto": "https://image.tmdb.org/t/p/w500/uvZGwNsLqe9NyA57Qlt46IkO8Bd.jpg"
+    },
+    {
+      "nombre": "Madeleine Martin",
+      "personaje": "Shelley Godfrey",
+      "foto": "https://image.tmdb.org/t/p/w500/hOntuFYAMwn9QaXT0AwLCPU79ce.jpg"
+    },
+    {
+      "nombre": "Camille De Pazzis",
+      "personaje": "Annie",
+      "foto": "https://image.tmdb.org/t/p/w500/ef8LBF9m5NYM43oQXCFFal61FoJ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Lena Cordina",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Christina Perez",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Shawn Petersen",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Russell Lee Fine",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "David Paul Francis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gerrit van der Meer",
+      "rol": "Co-Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Lena Cordina",
+      "rol": "Unit Production Manager"
+    },
+    {
+      "nombre": "Todd Haberman",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Nader Navidi",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Travis Jackson",
+      "rol": "Staff Writer"
+    },
+    {
+      "nombre": "Lena Cordina",
+      "rol": "Line Producer"
+    },
+    {
+      "nombre": "Christina Perez",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Shawn Petersen",
+      "rol": "Co-Producer"
+    },
+    {
+      "nombre": "Russell Lee Fine",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "David Paul Francis",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Gerrit van der Meer",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Evan Dunsky",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Blake",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Charles H. Eglee",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Lee Shipman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Eli Roth",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt2309295",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Shinebox SMC, Gaumont International Television, United Bongo Drum",
+  "trailer": "https://www.youtube.com/watch?v=GvlFJmh6ktU"
+}
