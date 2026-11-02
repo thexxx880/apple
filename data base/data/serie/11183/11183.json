@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 11183,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qBZFnBudIGusk8vNBmWO7j5Q2RB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ydWtwIDY7MGMQDAo5vZYEI4OO8R.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/xz3RSCognZ5nczVsW8pKYDYVfL.png",
+  "titulo": "Poltergeist: El legado",
+  "titulo_original": "Poltergeist: The Legacy",
+  "fecha_estreno": "1996-04-21",
+  "duracion": "60min",
+  "año": "1996",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 6.3,
+  "sinopsis": "Una sociedada secreta llamada 'El Legado' investiga casos paranormales.",
+  "pais_origen": "CA",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Derek de Lint",
+      "personaje": "Derek Rayne, Ph.D.",
+      "foto": "https://image.tmdb.org/t/p/w500/8fRRmh8EYZBlUtu1Wlop0j22QcP.jpg"
+    },
+    {
+      "nombre": "Martin Cummins",
+      "personaje": "Nick Boyle",
+      "foto": "https://image.tmdb.org/t/p/w500/gnc1YUrHiYciRWB4ZCJFk9boAHg.jpg"
+    },
+    {
+      "nombre": "Helen Shaver",
+      "personaje": "Rachel Corrigan, MD",
+      "foto": "https://image.tmdb.org/t/p/w500/aSkTE6QggiwF0h0oU8neg4Xb5PL.jpg"
+    },
+    {
+      "nombre": "Robbi Chong",
+      "personaje": "Alexandra Moreau",
+      "foto": "https://image.tmdb.org/t/p/w500/3bFt1NJv62bKS3HKnpEvIXDI9CZ.jpg"
+    },
+    {
+      "nombre": "Kristin Lehman",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/boMsJj80ISyjDp4cvSprURTWJ0I.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 6.3,
+    "imdb": "tt0115317",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Trilogy Entertainment Group",
+  "trailer": "https://www.youtube.com/watch?v=L0rZLPVSddg"
+}
