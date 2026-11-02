@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 32613,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/nAsbnXKiAI6XBAvUdP79SSEslRX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/raGJ1Rdod03sai4joiQOhFzcCKa.jpg",
+  "logo": "",
+  "titulo": "Cantinflas Show",
+  "titulo_original": "Cantinflas Show",
+  "fecha_estreno": "1972-08-01",
+  "duracion": "5min",
+  "año": "1972",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Kids",
+    "Comedia"
+  ],
+  "puntuacion": 7.8,
+  "sinopsis": "Serie mexicana de televisión animada producida por Televisa. La serie fue creada por Mario Moreno \"Cantinflas\" y animada por el animador español José Luis Moro, quien animó el episodio piloto en 1972.",
+  "pais_origen": "MX",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Cantinflas",
+      "personaje": "Cantinflas",
+      "foto": "https://image.tmdb.org/t/p/w500/2G2Wvn0Uy3PVC2ZSB43udFdNQmr.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "José Luis Moro",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Santiago Moro",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "José Luis Moro",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Santiago Moro",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": "tt10726260",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telesistema Mexicano, Estudios Moro, Cartoon Networks",
+  "trailer": ""
+}
