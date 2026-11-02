@@ -1,0 +1,75 @@
+{
+  "id_tmdb": 66806,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/gp2LneVGFlMxoU7N4uUc0OmnKHB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/r7eGdrN6Zt7YjhQl2UEOfBk0xgP.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/jDBpKlBcgv0R6lel7ZzUzt82xET.png",
+  "titulo": "Paquita Salas",
+  "titulo_original": "Paquita Salas",
+  "fecha_estreno": "2016-07-06",
+  "duracion": "21min",
+  "año": "2016",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 7,
+  "sinopsis": "",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Brays Efe",
+      "personaje": "Paquita Salas",
+      "foto": "https://image.tmdb.org/t/p/w500/7eh358DNtQ20jrLnuIqJWFvfIyG.jpg"
+    },
+    {
+      "nombre": "Belén Cuesta",
+      "personaje": "Magüi Moreno",
+      "foto": "https://image.tmdb.org/t/p/w500/caDd0J8smaQMvVjgJsDYabe4dzk.jpg"
+    },
+    {
+      "nombre": "Lidia San José",
+      "personaje": "Lidia San José",
+      "foto": "https://image.tmdb.org/t/p/w500/34PhqDf3GXflOZUZV9Dtt1Mr1QU.jpg"
+    },
+    {
+      "nombre": "Yolanda Ramos",
+      "personaje": "Noemí Argüelles",
+      "foto": "https://image.tmdb.org/t/p/w500/nzNDvzhAPhFxNG5yfcdz1ZnOKm6.jpg"
+    },
+    {
+      "nombre": "Anna Castillo",
+      "personaje": "Belén de Lucas",
+      "foto": "https://image.tmdb.org/t/p/w500/skQ9HzWM4Ya9YB6J9QSRPVgjfNG.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Javier Calvo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Javier Ambrossi",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Javier Calvo",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Javier Ambrossi",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": "tt5866074",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "DMNTIA, Suma Content",
+  "trailer": "https://www.youtube.com/watch?v=LEpWdzirzSQ"
+}
