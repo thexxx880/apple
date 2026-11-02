@@ -1,0 +1,57 @@
+{
+  "id_tmdb": 251941,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/iwnF4lZKBdHoCICtdIcXQdbuc2f.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dtACf4sRA640q4l6oLyfMy75Viy.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/n4NK2M3mvQfMjIYeTv67liQg6ZQ.png",
+  "titulo": "St. Denis Medical",
+  "titulo_original": "St. Denis Medical",
+  "fecha_estreno": "2024-11-12",
+  "duracion": "22min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Comedia"
+  ],
+  "puntuacion": 6.7,
+  "sinopsis": "Un grupo heterogéneo de médicos y enfermeras, con escasos recursos pero muy dedicados, se las arregla para atender a los pacientes —y a sus compañeros— mientras intentan mantener el orden en un hospital de Oregón.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Wendi McLendon-Covey",
+      "personaje": "Joyce Henderson",
+      "foto": "https://image.tmdb.org/t/p/w500/d8VKC8Ms3u9XiW4e4jsy2grP02d.jpg"
+    },
+    {
+      "nombre": "Allison Tolman",
+      "personaje": "Alex Mazurkian",
+      "foto": "https://image.tmdb.org/t/p/w500/uMn33sVI4bhYdUhLJPxntOmisio.jpg"
+    },
+    {
+      "nombre": "Josh Lawson",
+      "personaje": "Bruce Schweitz",
+      "foto": "https://image.tmdb.org/t/p/w500/Am9vM77uZd9bGODugwmWtOfzx6E.jpg"
+    },
+    {
+      "nombre": "Kahyun Kim",
+      "personaje": "Serena Jung",
+      "foto": "https://image.tmdb.org/t/p/w500/8EUaizIrUbiZ9IACMDgBD7xKYcz.jpg"
+    },
+    {
+      "nombre": "Mekki Leeper",
+      "personaje": "Matt Pearson",
+      "foto": "https://image.tmdb.org/t/p/w500/iV4A30sE8ODjqm3tg42Puqz6BQ7.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": "tt21433690",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Universal, Spitzer Holding Company",
+  "trailer": "https://www.youtube.com/watch?v=k1NkZGmN1Eg"
+}
