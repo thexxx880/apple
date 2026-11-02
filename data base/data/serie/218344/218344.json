@@ -1,0 +1,58 @@
+{
+  "id_tmdb": 218344,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3C3c40DH8M6qdECHLlxk8o5nrC0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kjFoqKiR155jQn77bBkwBD3zjvO.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/9NwYkjUJQ5cHJY7pDY7NJIbG7Ks.png",
+  "titulo": "Blue Lights",
+  "titulo_original": "Blue Lights",
+  "fecha_estreno": "2023-03-27",
+  "duracion": "24min",
+  "año": "2023",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "puntuacion": 7.572,
+  "sinopsis": "",
+  "pais_origen": "GB",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Sian Brooke",
+      "personaje": "Grace Ellis",
+      "foto": "https://image.tmdb.org/t/p/w500/99mPsHpcFoUqhXNHsPVL5qD8nN2.jpg"
+    },
+    {
+      "nombre": "Katherine Devlin",
+      "personaje": "Annie Conlon",
+      "foto": "https://image.tmdb.org/t/p/w500/OLUDGT0PfC02djnjfqcvAru6NK.jpg"
+    },
+    {
+      "nombre": "Nathan Braniff",
+      "personaje": "Tommy Foster",
+      "foto": "https://image.tmdb.org/t/p/w500/aSHqDyM0H6Vhd4DNxVIDgou3ysc.jpg"
+    },
+    {
+      "nombre": "Martin McCann",
+      "personaje": "Stevie Neil",
+      "foto": "https://image.tmdb.org/t/p/w500/3sEhagU01G49psEm9M59n8AYpIx.jpg"
+    },
+    {
+      "nombre": "Andi Osho",
+      "personaje": "Sandra Cliff",
+      "foto": "https://image.tmdb.org/t/p/w500/ft0jj2QXLheuAfFCN1Q0DIZHGoX.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7.572,
+    "imdb": "tt14466018",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Gallagher Films, Two Cities Television",
+  "trailer": "https://www.youtube.com/watch?v=zTJMNgW0wGc"
+}
