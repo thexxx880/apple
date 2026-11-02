@@ -1,0 +1,145 @@
+{
+  "id_tmdb": 292741,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/iyZbDfI9fdHXT92H475wM0d6kRm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/dKJeL6j6DQJWNFs08mK92V0IPGs.png",
+  "titulo": "Nocturno",
+  "titulo_original": "Nocturne",
+  "fecha_estreno": "2026-10-29",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Misterio"
+  ],
+  "puntuacion": 7.5,
+  "sinopsis": "Cuando una víctima del asesino serial Jurek Walter aparece viva, el detective Jonah Lynn corre contra el tiempo para encontrar a una persona desaparecida, mientras su protegida, Saga Bauer, se infiltra para obtener respuestas del asesino.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Liev Schreiber",
+      "personaje": "Jonah Lynn",
+      "foto": "https://image.tmdb.org/t/p/w500/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
+    },
+    {
+      "nombre": "Zazie Beetz",
+      "personaje": "FBI Agent Saga Bauer",
+      "foto": "https://image.tmdb.org/t/p/w500/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+    },
+    {
+      "nombre": "Stephen Graham",
+      "personaje": "Jurek Walter",
+      "foto": "https://image.tmdb.org/t/p/w500/yguEO9zFvuccq87kOJpFLsmUgvs.jpg"
+    },
+    {
+      "nombre": "Bill Camp",
+      "personaje": "Chief Dave Ellison",
+      "foto": "https://image.tmdb.org/t/p/w500/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
+    },
+    {
+      "nombre": "Rory Culkin",
+      "personaje": "Karl Anders",
+      "foto": "https://image.tmdb.org/t/p/w500/6SkUiLHFlPEEFtKpLc7VrczaqDx.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Liev Schreiber",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Zazie Beetz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rowan Joffé",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Hlavin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alexandra Coelho Ahndoril",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alexander Ahndoril",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Liev Schreiber",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Zazie Beetz",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Rowan Joffé",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "John Hlavin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alexandra Coelho Ahndoril",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Alexander Ahndoril",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Øystein Karlsen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "David Rysdahl",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Dorothy Fortenberry",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Niclas Salomonsson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Julie Herrin",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Barry Jossen",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Tana Jamieson",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Heather Kadin",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Peter Micelli",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.5,
+    "imdb": "tt26598805",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=rLDZ_zSj2Vo"
+}
