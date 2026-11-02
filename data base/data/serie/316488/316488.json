@@ -1,0 +1,53 @@
+{
+  "id_tmdb": 316488,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/n5QzgAh5QNscYqmp9vekgvKBp2e.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nBXRiBabzBE6U6He4BnMNULTREC.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/iZVooeZ7q95pAJcg5p0cmXnn583.png",
+  "titulo": "Amores inesperados",
+  "titulo_original": "Amores inesperados",
+  "fecha_estreno": "2026-09-16",
+  "duracion": "24min",
+  "año": "2026",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "puntuacion": 10,
+  "sinopsis": "¿Qué tienen en común un ladrón, un instructor de tenis, un enfermero y un cajero de peaje? Con una trama y personajes distintos, Martín Bossi encarna en cada episodio a un protagonista diferente en busca de lo mismo: una inesperada historia de amor.",
+  "pais_origen": "AR",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Martín Bossi",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/fTPZl2CE3NL0uPpp7PUY6flOdhQ.jpg"
+    },
+    {
+      "nombre": "Darío Miño",
+      "personaje": "Lucas encargado Bar",
+      "foto": "https://image.tmdb.org/t/p/w500/4l69OABvxeC57quMDPYilTyXaZL.jpg"
+    },
+    {
+      "nombre": "Julieta Cardinali",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/l79R8XhjqEb3ekvm9NKzeUY7yIZ.jpg"
+    },
+    {
+      "nombre": "Jorgelina Aruzzi",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/3MBM7sv3kvCWfweVSTMDWbhp8KE.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 10,
+    "imdb": "tt27760834",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "LaFlia",
+  "trailer": "https://www.youtube.com/watch?v=O_-ugHaYW4s"
+}
