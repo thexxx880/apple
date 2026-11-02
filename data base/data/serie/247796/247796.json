@@ -1,0 +1,55 @@
+{
+  "id_tmdb": 247796,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ljiBWwDIWcQxEjRPNsB3fusv34n.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/740tQBVmWdHt8fcWua92xuhoHEG.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/pd0Dv2rjLsulKqowjb6g9bY0K4F.png",
+  "titulo": "Diarra from Detroit",
+  "titulo_original": "Diarra from Detroit",
+  "fecha_estreno": "2024-03-21",
+  "duracion": "24min",
+  "año": "2024",
+  "trending": false,
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Comedia",
+    "Misterio"
+  ],
+  "puntuacion": 4.8,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Diarra Kilpatrick",
+      "personaje": "Diarra Brickland",
+      "foto": "https://image.tmdb.org/t/p/w500/riIETmWl2d5On4YaKy3ISLUjPf.jpg"
+    },
+    {
+      "nombre": "Dominique Perry",
+      "personaje": "Aja",
+      "foto": "https://image.tmdb.org/t/p/w500/jTTRTH9TVVICZES8rN9HW3mqKXn.jpg"
+    },
+    {
+      "nombre": "Bryan Terrell Clark",
+      "personaje": "Mr. Tea",
+      "foto": "https://image.tmdb.org/t/p/w500/5HVB7xzbh0BO0NWrxPQkoczs2d2.jpg"
+    },
+    {
+      "nombre": "Jon Chaffin",
+      "personaje": "Danger",
+      "foto": "https://image.tmdb.org/t/p/w500/tzIrDkyqFEylQqRlZGzE6h37daU.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 4.8,
+    "imdb": "tt27982433",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "BET Studios, Khalabo Ink Society",
+  "trailer": "https://www.youtube.com/watch?v=kaJxCnQjabw"
+}
