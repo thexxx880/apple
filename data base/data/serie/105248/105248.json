@@ -1,123 +1,138 @@
 {
   "id_tmdb": 105248,
-  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/rNkilVmALgaIb4SenfbaecRStDD.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/bRE6zX4iOAejLOQCHryoV5WNu8G.jpg",
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
   "logo": "https://image.tmdb.org/t/p/original/7UbhdYvwzaurht3ZLUyXrmsOVDr.png",
   "titulo": "Cyberpunk: Edgerunners",
-  "titulo_original": "サイバーパンク: エッジランナーズ",
+  "titulo_original": "Cyberpunk: Edgerunners",
   "fecha_estreno": "2022-09-13",
-  "duracion": "25min",
+  "duracion": "24min",
   "año": "2022",
   "trending": false,
   "generos": [
     "Animación",
     "Action & Adventure",
-    "Drama",
-    "Sci-Fi & Fantasy"
+    "Sci-Fi & Fantasy",
+    "Crimen"
   ],
-  "puntuacion": 8.465,
+  "puntuacion": 8.5,
   "sinopsis": "En una realidad distópica repleta de corrupción e implantes cibernéticos, un joven talentoso e impulsivo intenta convertirse en un mercenario.",
   "pais_origen": "JP",
   "calificacion": "16",
   "edad_minima": 16,
   "reparto": [
     {
-      "nombre": "KENN",
-      "personaje": "David Martinez (voice)",
-      "foto": "https://image.tmdb.org/t/p/w500/y7Gtn1PchXJ1MxmUxU9jtt138EO.jpg"
+      "nombre": "内山昂輝",
+      "personaje": "D (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg"
+    },
+    {
+      "nombre": "寺澤百花",
+      "personaje": "Roman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lLS7b6k1653tiVwbi6pq9JXzMBW.jpg"
+    },
+    {
+      "nombre": "鬼頭明里",
+      "personaje": "Talia (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/AoRQOZRC0yINB0WeKnM569rV1wF.jpg"
+    },
+    {
+      "nombre": "利根健太朗",
+      "personaje": "Weak (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9IZ9SpSV0P4bJBN8ALll7IYMLG2.jpg"
     }
   ],
   "director": "",
   "equipo_creativo": [
     {
-      "nombre": "櫻井大樹",
+      "nombre": "Jan Rosner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tetsuya Seya",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "本間覚",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bartosz Sztybor",
       "rol": "Executive Producer"
     },
     {
       "nombre": "Saya Elder",
-      "rol": "Producer"
+      "rol": "Executive Producer"
     },
     {
       "nombre": "宇佐義大",
-      "rol": "Executive Producer"
-    },
-    {
-      "nombre": "本間覚",
-      "rol": "Producer"
-    },
-    {
-      "nombre": "Rafał Jaki",
-      "rol": "Executive Producer"
-    },
-    {
-      "nombre": "Dylan Thomas",
       "rol": "Executive Producer"
     }
   ],
   "crew": [
     {
-      "nombre": "吉成曜",
+      "nombre": "Bartosz Sztybor",
+      "rol": "Other"
+    },
+    {
+      "nombre": "菅野一期",
       "rol": "Character Designer"
     },
     {
-      "nombre": "Robert 'Bob' Hardy",
+      "nombre": "志太駿介",
+      "rol": "Other"
+    },
+    {
+      "nombre": "Jan Rosner",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tetsuya Seya",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "本間覚",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Bartosz Sztybor",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Saya Elder",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Robert Smith",
       "rol": "Theme Song Performance"
     },
     {
-      "nombre": "Alex Kapranos",
+      "nombre": "Michael Dempsey",
       "rol": "Theme Song Performance"
     },
     {
-      "nombre": "米山舞",
-      "rol": "Opening/Ending Animation"
+      "nombre": "Laurence Tolhurst",
+      "rol": "Theme Song Performance"
     },
     {
-      "nombre": "原田祥子",
-      "rol": "Special Effects"
+      "nombre": "Petite Meller",
+      "rol": "Songs"
     },
     {
-      "nombre": "Natsumi Nagahama",
-      "rol": "3D Director"
+      "nombre": "今堀恒雄",
+      "rol": "Original Music Composer"
     },
     {
-      "nombre": "Daiki Takagi",
-      "rol": "Sound Editor"
-    },
-    {
-      "nombre": "菊地一之",
-      "rol": "Sound Designer"
-    },
-    {
-      "nombre": "天田俊貴",
-      "rol": "Art Designer"
-    },
-    {
-      "nombre": "今石洋之",
+      "nombre": "五十嵐海",
       "rol": "Series Director"
     },
     {
-      "nombre": "Dawid Podsiadło",
-      "rol": "Theme Song Performance"
-    },
-    {
-      "nombre": "宇佐義大",
-      "rol": "Series Composition"
-    },
-    {
-      "nombre": "柴田香澄",
-      "rol": "Online Editor"
-    },
-    {
-      "nombre": "コヤマシゲト",
-      "rol": "Opening/Ending Animation"
-    },
-    {
-      "nombre": "若林広海",
-      "rol": "Opening/Ending Animation"
+      "nombre": "大塚雅彦",
+      "rol": "Other"
     }
   ],
   "valoraciones": {
-    "tmdb": 8.465,
+    "tmdb": 8.5,
     "imdb": "tt12590266",
     "rotten_tomatoes": null
   },
