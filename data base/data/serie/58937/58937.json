@@ -1,0 +1,114 @@
+{
+  "id_tmdb": 58937,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/bC42ksckQpjfck2BZ5McaEDN4pk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5evkOLJ3HlYrwpy6Q5DlubiHzCJ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/8PE2ccVoZOFer0CDSy901zyVmfr.png",
+  "titulo": "Masters of Sex",
+  "titulo_original": "Masters of Sex",
+  "fecha_estreno": "2013-09-29",
+  "duracion": "60min",
+  "año": "2013",
+  "trending": false,
+  "generos": [
+    "Drama"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "William Masters y Virginia Johnson son pioneros en la vida real de la ciencia de la sexualidad humana. Su investigación desencadenó la revolución sexual y los llevó de un hospital universitario del medio oeste a la portada de la revista Time y múltiples apariciones en el sofá de Johnny Carson. Él es un científico brillante desconectado de sus propios sentimientos, y ella es una madre soltera y trabajadora adelantada a su tiempo. La serie narra sus vidas inusuales, su romance y su inverosímil trayectoria en la cultura pop.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Michael Sheen",
+      "personaje": "William Masters",
+      "foto": "https://image.tmdb.org/t/p/w500/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
+    },
+    {
+      "nombre": "Lizzy Caplan",
+      "personaje": "Virginia Johnson",
+      "foto": "https://image.tmdb.org/t/p/w500/cHs9pPpjcEMpWrGmrAYAn0QOE78.jpg"
+    },
+    {
+      "nombre": "Caitlin FitzGerald",
+      "personaje": "Libby Masters",
+      "foto": "https://image.tmdb.org/t/p/w500/zwtbLjCsThiD4MlnELnYKzUKCqZ.jpg"
+    },
+    {
+      "nombre": "Annaleigh Ashford",
+      "personaje": "Betty DiMello",
+      "foto": "https://image.tmdb.org/t/p/w500/AaMsrGdvvNeOzNUMUYOQlcejbfO.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Colin Bucksey",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Sarah Timberman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michelle Ashford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Judith Verno",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carl Beverly",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Lippman",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Jason Perrine",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Colin Bucksey",
+      "rol": "Co-Executive Producer"
+    },
+    {
+      "nombre": "Jami Rudofsky",
+      "rol": "Casting"
+    },
+    {
+      "nombre": "Sarah Timberman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Michelle Ashford",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Judith Verno",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Carl Beverly",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Amy Lippman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Thomas Maier",
+      "rol": "Novel"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt2137109",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sony, Round Two Productions, Timberman Beverly Productions",
+  "trailer": "https://www.youtube.com/watch?v=VS1fn1LWGfk"
+}
