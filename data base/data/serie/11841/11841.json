@@ -1,0 +1,88 @@
+{
+  "id_tmdb": 11841,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/9FZN0h7GIxZbaKRZ2b6tMqIsacp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dbkN1Nmj0pbL9sjjL0ePHzBtDZB.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/oc5DWU74vqBVwlUMJoADQ0luvNK.png",
+  "titulo": "トランスフォーマー 超神マスターフォース",
+  "titulo_original": "トランスフォーマー 超神マスターフォース",
+  "fecha_estreno": "1988-04-12",
+  "duracion": "24min",
+  "año": "1988",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.8,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "竹村拓",
+      "personaje": "Ginrai / Super Ginrai / God Ginrai (Autobots - Godmasters)",
+      "foto": "https://image.tmdb.org/t/p/w500/3OmrwNySLi6lPqrMiLm5nrZlfs9.jpg"
+    },
+    {
+      "nombre": "カシワクラツトム",
+      "personaje": "Lightfoot (Autobots - Godmasters)",
+      "foto": "https://image.tmdb.org/t/p/w500/2gxE5yVseu9X5YFTnxVwf5xkFx0.jpg"
+    },
+    {
+      "nombre": "大塚芳忠",
+      "personaje": "Ranger (Autobots - Godmasters)",
+      "foto": "https://image.tmdb.org/t/p/w500/3RHQcrsWnAFK6AifSis1lMq08cR.jpg"
+    },
+    {
+      "nombre": "Kaneto Shiozawa",
+      "personaje": "Road King (Autobots - Godmasters)",
+      "foto": "https://image.tmdb.org/t/p/w500/8F6MjUfPyV6WkfIBcThc8qijrhB.jpg"
+    },
+    {
+      "nombre": "Takeshi Kusao",
+      "personaje": "Clouder (Autobots - Godmasters)",
+      "foto": "https://image.tmdb.org/t/p/w500/gDiYLUdl9zXXJmhE0bAuB1Jm3FJ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Koh Meguro",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Masumi Kaneda",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "荒木芳久",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "安藤豊弘",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "石田勝範",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Koh Meguro",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "五十嵐 寿也",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": "tt0127396",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=_g4OMGUSoTk"
+}
