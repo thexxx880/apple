@@ -1,0 +1,81 @@
+{
+  "id_tmdb": 45137,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/f8WPejGXINqO4aVyZuhDWBRVI2p.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/w9yLEqXd0pnxiBSLZecxQXpDLoj.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rwIJJP4tvooQqOfeoyaL04ZMvQP.png",
+  "titulo": "ドミニオン",
+  "titulo_original": "ドミニオン",
+  "fecha_estreno": "1988-05-27",
+  "duracion": "38min",
+  "año": "1988",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Comedia"
+  ],
+  "puntuacion": 7,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "熊谷ニーナ",
+      "personaje": "Unipuma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dlqxUkcL5wRBAYRcL5MDsrineA8.jpg"
+    },
+    {
+      "nombre": "佐久間レイ",
+      "personaje": "Leona Ozaki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6M6zQtO0reIv97oKUrVT084FUKv.jpg"
+    },
+    {
+      "nombre": "柴本浩行",
+      "personaje": "Alc Ad Solte (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/68WDhkzSHuR1U5GWfMZtieRmx4S.jpg"
+    },
+    {
+      "nombre": "Yūsaku Yara",
+      "personaje": "Charles Brenten (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
+    },
+    {
+      "nombre": "Aya Hisakawa",
+      "personaje": "Annapuma (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5asVy8H7VSDQKVdURubT0QHjsld.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "石山タカ明",
+      "rol": "Director"
+    },
+    {
+      "nombre": "古瀬登",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "石山タカ明",
+      "rol": "Director"
+    },
+    {
+      "nombre": "古瀬登",
+      "rol": "Director"
+    },
+    {
+      "nombre": "士郎正宗",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": "tt0158591",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=jlb-AWMn7FM"
+}
