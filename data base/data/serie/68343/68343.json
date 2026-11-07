@@ -1,0 +1,88 @@
+{
+  "id_tmdb": 68343,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5nISfuXfMTC0XTzUWdx5auLCipI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/z8zsrSjpCuvQSxWSkLJsJUk51t6.jpg",
+  "logo": "",
+  "titulo": "Angel la Niña de las Flores",
+  "titulo_original": "花の子ルンルン",
+  "fecha_estreno": "1979-02-09",
+  "duracion": "24min",
+  "año": "1979",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama",
+    "Kids"
+  ],
+  "puntuacion": 7.7,
+  "sinopsis": "Se trata de Ángel, una niña descendiente de las hadas, que tenia por misión encontrar la flor de siete colores. Rope (el perro) y Katty (el gato) comunican a Ángel que ella es descendiente de las hadas y que tiene como misión encontrar la flor de 7 colores. Durante su viaje de búsqueda recorren varios países y se encuentran continuamente con Malina y Boris, quienes quieren quitarle la flor a Angel una vez que la encuentre de manera de que Malina se convierta en reina del país de las hadas. También esta Celli, quien luego de cada aventura, le entrega a los nuevos amigos de Angel unas semillas para que planten.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "鈴木れい子",
+      "personaje": "Grandmother (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qgFATlpp1HnAHyhgRJ1QdBYksEG.jpg"
+    },
+    {
+      "nombre": "キートン山田",
+      "personaje": "Grandfather (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ixosd9g54Bn7hMQhcpbrrqUGICN.jpg"
+    },
+    {
+      "nombre": "Natsuko Kawaji",
+      "personaje": "Queen (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "白石冬美",
+      "personaje": "Cateau (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vqxmSd16mlStOpKDzuup8U3l9LP.jpg"
+    },
+    {
+      "nombre": "岡本茉利",
+      "personaje": "Lunlun (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tKjGEnIHGMF0D8CWYSvk5YBqyiD.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "伊藤栄次",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "筒井広志",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "設楽博",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "進藤満尾",
+      "rol": "Lead Animator"
+    },
+    {
+      "nombre": "姫野美智",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "祖田富美夫",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "伊藤道廣",
+      "rol": "Sound Effects"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.7,
+    "imdb": "tt0260622",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=c54tHxmY974"
+}
