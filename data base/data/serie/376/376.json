@@ -1,0 +1,104 @@
+{
+  "id_tmdb": 376,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qzoU9ACuhNZQ8IMhWPKAGXskGtr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5GkRPoUZXiYPGQeOUUUC3zIbL4w.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/cgYYfJ3a5xD1BSTAEFnQagRBJLt.png",
+  "titulo": "El show de Amanda",
+  "titulo_original": "The Amanda Show",
+  "fecha_estreno": "1999-10-16",
+  "duracion": "23min",
+  "año": "1999",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "Programa que consiste en sketches cortos de comedia para niños, grabados por Amanda Bynes, la protagonista, quien comparte cámara, entre otros, con Drake Bell y Josh Peck, todos ellos haciendo cortas historias graciosas y absurdas. Spin-off del programa All That.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Amanda Bynes",
+      "personaje": "Penelope Taynt",
+      "foto": "https://image.tmdb.org/t/p/w500/7bpm17KLd3e7pfEDUBdu8kKtc14.jpg"
+    },
+    {
+      "nombre": "Nancy Sullivan",
+      "personaje": "Mrs. Klutz",
+      "foto": "https://image.tmdb.org/t/p/w500/uATPtYUGfFAMstjVNjQm37n5obG.jpg"
+    },
+    {
+      "nombre": "Drake Bell",
+      "personaje": "Carter Klutz",
+      "foto": "https://image.tmdb.org/t/p/w500/6KxFiHrqiniS3oxV4NCz0sYNTuo.jpg"
+    },
+    {
+      "nombre": "Raquel Lee",
+      "personaje": "Sheila",
+      "foto": "https://image.tmdb.org/t/p/w500/eBRrmN6jwrpdfjXdH0Z97Gzpwaw.jpg"
+    },
+    {
+      "nombre": "John Kassir",
+      "personaje": "Carl Klutz",
+      "foto": "https://image.tmdb.org/t/p/w500/byj6Px0tLcqRFWIJYUxstg25Qd2.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Tollin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Davola",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Robbins",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Schneider",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Hill Newman",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Tollin",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Joe Davola",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Robbins",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Dan Schneider",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Andrew Hill Newman",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Brian Peck",
+      "rol": "Dialogue Coach"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt0217910",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nickelodeon",
+  "trailer": ""
+}
