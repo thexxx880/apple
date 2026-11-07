@@ -1,0 +1,97 @@
+{
+  "id_tmdb": 255,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/dVlsQzfxewEdHpu7SiVUpRAVNyU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/16JZ5IRrA9YSxVSqWflY0nLhLwz.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/tIDcXJV7vNC9OzlBNsf4mHFam7x.png",
+  "titulo": "Hi Hi Puffy AmiYumi",
+  "titulo_original": "Hi Hi Puffy AmiYumi",
+  "fecha_estreno": "2004-11-19",
+  "duracion": "7min",
+  "año": "2004",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 7.4,
+  "sinopsis": "Hola, hola Puffy AmiYumi sigue las aventuras de dos estrellas del pop muy geniales, pero muy diferentes, mientras viajan de concierto en concierto o simplemente pasan el rato en su autobús de gira. Siendo famosas estrellas de rock, Ami y Yumi recorren el mundo en su autobús Puffy personalizado, un verdadero condominio sobre ruedas con todas las comodidades principales y un interior en constante cambio. Ami es vivaz, positiva e ingeniosa. Yumi es la cínica sensata y rockera con una sensación de frescura absolutamente infalible. Juntas, estas superestrellas toman el mundo por asalto con talento musical, estilo y humor que marcan tendencias, a pesar de los errores de juicio ocasionales de su gerente bien intencionado pero trágicamente cuadrado, Kaz. Ya sea que estén rockeando en un concierto, siendo perseguidos hasta el centro de la Tierra por un fan obsesionado, evadiendo la ópera o salvando granjas,",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Janice Kawaye",
+      "personaje": "Ami Onuki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5OQhHX8HjDbu2Oio6LXbTnEz0lQ.jpg"
+    },
+    {
+      "nombre": "Grey DeLisle",
+      "personaje": "Yumi Yoshimura (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/anib3yRL9GyUvTkYNHWxQPlXLUH.jpg"
+    },
+    {
+      "nombre": "Keone Young",
+      "personaje": "Kaz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hHtr7OzP2I2U7FfA2hj8rPtAt8z.jpg"
+    },
+    {
+      "nombre": "大貫亜美",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/mH5qMd2EqGwU5UlW8aFaCszBfaO.jpg"
+    },
+    {
+      "nombre": "吉村由美",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/6cevmyNwS9u5Z0Apjaucgab65Mg.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Brian A. Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Randy Sanchez",
+      "rol": "Animation Manager"
+    },
+    {
+      "nombre": "Brian A. Miller",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Sam Register",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "大貫亜美",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Andy Sturmer",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "吉村由美",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Andy Sturmer",
+      "rol": "Main Title Theme Composer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": "tt0407398",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Cartoon Networks, Nickelodeon",
+  "trailer": "https://www.youtube.com/watch?v=PUSd8gbTh3E"
+}
