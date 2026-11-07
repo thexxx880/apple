@@ -1,0 +1,64 @@
+{
+  "id_tmdb": 44953,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/d8B1heEFDTn6zJNdAcWzfxShE2w.png",
+  "titulo": "El Señor de los Cielos",
+  "titulo_original": "El señor de los cielos",
+  "fecha_estreno": "2013-04-15",
+  "duracion": "45min",
+  "año": "2013",
+  "trending": false,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Soap"
+  ],
+  "puntuacion": 8.041,
+  "sinopsis": "Aurelio Casillas busca convertirse en el narcotraficante más temido de México y está dispuesto a hacer cualquier cosa para mantenerse en el poder.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Rafael Amaya",
+      "personaje": "Aurelio Casillas \"El Señor de los Cielos\"",
+      "foto": ""
+    },
+    {
+      "nombre": "Isabella Castillo",
+      "personaje": "Diana Ahumada",
+      "foto": "https://image.tmdb.org/t/p/w500/n3JZ5gvCyzG48yRNVIJ4s0DHm2M.jpg"
+    },
+    {
+      "nombre": "Carmen Aub",
+      "personaje": "Rutila Casillas",
+      "foto": "https://image.tmdb.org/t/p/w500/ciH48S91xQBycxdiFBK4KO4U0pl.jpg"
+    },
+    {
+      "nombre": "Denia Agalianou",
+      "personaje": "Dalila Zuk",
+      "foto": "https://image.tmdb.org/t/p/w500/zUafn6l55snxF5xI6ywzWSOO2zY.jpg"
+    },
+    {
+      "nombre": "Wendy de los Cobos",
+      "personaje": "Tata Guerra",
+      "foto": "https://image.tmdb.org/t/p/w500/uJWKqIWgjFNKbX3CY5JlmyaaRHN.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Antonio Peñafiel Salgado",
+      "rol": "VFX Artist"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.041,
+    "imdb": "tt2777882",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Telenovelas",
+  "trailer": "https://www.youtube.com/watch?v=Jm4Rlf_W2bk"
+}
