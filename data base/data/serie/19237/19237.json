@@ -1,0 +1,105 @@
+{
+  "id_tmdb": 19237,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/sRpSNPMSboPVwZEEmXF3oBCCSnr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nD4baXaoqy74sFPbFVAvb4VgpHo.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/rgCeBCdLk274r9fZXDEOvc9nkdM.png",
+  "titulo": "トランスフォーマー ザ★ヘッドマスターズ",
+  "titulo_original": "トランスフォーマー ザ★ヘッドマスターズ",
+  "fecha_estreno": "1987-07-02",
+  "duracion": "24min",
+  "año": "1987",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.8,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "沢木郁也",
+      "personaje": "Fortress Maximus",
+      "foto": "https://image.tmdb.org/t/p/w500/ojKICbvLx3GiQ8zzvZSKhUwoQlW.jpg"
+    },
+    {
+      "nombre": "鈴木富子",
+      "personaje": "Daniel Witwicky",
+      "foto": "https://image.tmdb.org/t/p/w500/wngJTGZ4I0jiK6RyL1RvLqGIDRv.jpg"
+    },
+    {
+      "nombre": "Hideyuki Hori",
+      "personaje": "Chromedome",
+      "foto": "https://image.tmdb.org/t/p/w500/fbWWkhe7GVSlhBljY89rJd01OnA.jpg"
+    },
+    {
+      "nombre": "Ryōichi Tanaka",
+      "personaje": "Brainstorm",
+      "foto": "https://image.tmdb.org/t/p/w500/fZESvhE04R9bxa1r5wU7MtOOBIR.jpg"
+    },
+    {
+      "nombre": "平野正人",
+      "personaje": "Hardhead",
+      "foto": "https://image.tmdb.org/t/p/w500/qBH3K7HAdOJ2ggWVK0qtNnZJ1eg.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "清水厚志",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "佐藤博久",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tatsuya Yoshida",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kenji Yokoyama",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "清水厚志",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "佐藤博久",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tatsuya Yoshida",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Kenji Yokoyama",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "影山ヒロノブ",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Katsutoshi Sasaki",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "藤川桂介",
+      "rol": "Series Composition"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": "tt0127402",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=oQKavTdZKvA"
+}
