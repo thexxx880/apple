@@ -1,0 +1,125 @@
+{
+  "id_tmdb": 35790,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/uYauKEioj5v3riLOBEZsxccBsC6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/w6a3S1E5p3UfFcP3jkieXlAY5mz.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/c28DkuL1JbFPkQUjWq3oCVr8ata.png",
+  "titulo": "Sakura Card Captor",
+  "titulo_original": "カードキャプターさくら",
+  "fecha_estreno": "1998-04-07",
+  "duracion": "25min",
+  "año": "1998",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.609,
+  "sinopsis": "Sakura Kinomoto, una estudiante de primaria que descubre que posee poderes mágicos después de liberar accidentalmente un juego de cartas mágicas del libro en el que habían sido selladas durante años. Luego se le asigna la tarea de recuperar esas cartas para evitar que una catástrofe desconocida caiga sobre el mundo.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "丹下桜",
+      "personaje": "Sakura Kinomoto (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3vw8xqbgwRV0x919yd6HiR5YcIJ.jpg"
+    },
+    {
+      "nombre": "岩男潤子",
+      "personaje": "Tomoyo Daidouji (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bKyMLT1MgDTnXafsq2ur32VMwY5.jpg"
+    },
+    {
+      "nombre": "くまいもとこ",
+      "personaje": "Syaoran Li (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tFbdGP9nflvfJYNNIKHUejnpifm.jpg"
+    },
+    {
+      "nombre": "Aya Hisakawa",
+      "personaje": "Kerberos (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5asVy8H7VSDQKVdURubT0QHjsld.jpg"
+    },
+    {
+      "nombre": "篠原恵美",
+      "personaje": "Naoko Yanagisawa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ryGauSE9aoEh5DFMrlFw3H8sATC.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "近藤栄三",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "大舘康二",
+      "rol": "Prop Designer"
+    },
+    {
+      "nombre": "長浜裕樹",
+      "rol": "3D Director"
+    },
+    {
+      "nombre": "山田富二男",
+      "rol": "Sound Recordist"
+    },
+    {
+      "nombre": "松下卓也",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "宮本未来",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "橋本健太郎",
+      "rol": "Other"
+    },
+    {
+      "nombre": "高橋久美子",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "土橋圭介",
+      "rol": "Production Supervisor"
+    },
+    {
+      "nombre": "鈴木みのり",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "坂本真綾",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "早見沙織",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "もこな",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "猫井椿",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "いがらし寒月",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "大川七瀬",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.609,
+    "imdb": "tt0221735",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=luM4oGFSpT8"
+}
