@@ -1,0 +1,65 @@
+{
+  "id_tmdb": 3518,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5Qs4gD2tbgBQy0GdAKqUOIPkyXc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/x22cZj1Y2cGuBNsP5zHaRJAkJMS.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/kTkfCHWFJOvfYBRVjmeUbmfVbg9.png",
+  "titulo": "Daniel el travieso",
+  "titulo_original": "Dennis the Menace",
+  "fecha_estreno": "1985-09-09",
+  "duracion": "22min",
+  "año": "1985",
+  "trending": false,
+  "generos": [
+    "Kids",
+    "Animación",
+    "Comedia",
+    "Action & Adventure"
+  ],
+  "puntuacion": 6.7,
+  "sinopsis": "Daniel el travieso es una serie animada basada en las historietas creadas en 1951.",
+  "pais_origen": "CA",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Phil Hartman",
+      "personaje": "George Wilson",
+      "foto": "https://image.tmdb.org/t/p/w500/m3QyeaVLzIo2fZJZaGbJalfD56t.jpg"
+    },
+    {
+      "nombre": "Jeannie Elias",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/iG0KyGZ5aFaUVMsbxP3Wd3v0mnn.jpg"
+    },
+    {
+      "nombre": "Marilyn Lightstone",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/zmItaGmzEmfdIsCBfkayeH4PcHa.jpg"
+    },
+    {
+      "nombre": "Brennan Thicke",
+      "personaje": "",
+      "foto": ""
+    },
+    {
+      "nombre": "Maurice LaMarche",
+      "personaje": "",
+      "foto": "https://image.tmdb.org/t/p/w500/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "John Williamson",
+      "rol": "Art Department Manager"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": "tt0166910",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=EwuRCyvHwfI"
+}
