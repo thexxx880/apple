@@ -1,0 +1,108 @@
+{
+  "id_tmdb": 23022,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/q574IeK0wB3lgh1pxZpWETFlNMS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/acbc6CYtxLi7LKHvocJrJ6sN1ML.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/q7YcoKgSJ7fxN8M85jpgec5ESTx.png",
+  "titulo": "Astro Boy",
+  "titulo_original": "鉄腕アトム",
+  "fecha_estreno": "1980-10-01",
+  "duracion": "24min",
+  "año": "1980",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Comedia",
+    "Familia",
+    "Kids"
+  ],
+  "puntuacion": 7.823,
+  "sinopsis": "El Dr. Tenma es un científico que acaba de perder a Tobio, su único hijo. En un acto de desesperación crea a Atom, un robot idéntico a Tobio, pero se desespera cuando nota que el robot no podrá crecer nunca. Atom es entonces abandonado en un circo, dónde es descubierto y adoptado por el Profesor Ochanomizu, un científico que lo ayudará a encontrar su destino.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "清水マリ",
+      "personaje": "Atom (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lXm4OZX00PGgXRHs1hWMuj82EmY.jpg"
+    },
+    {
+      "nombre": "勝田久",
+      "personaje": "Dr. Ochanomizu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nrW3rbsBytJmdDgQqBwdvV7Kwnx.jpg"
+    },
+    {
+      "nombre": "Ichirô Nagai",
+      "personaje": "Detective Tawashi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dgQ6OIFvxwln565Pku7rS4y7KWd.jpg"
+    },
+    {
+      "nombre": "森功至",
+      "personaje": "Atlas (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7HMCnhwbBPNEut2s2VziMVBWXuL.jpg"
+    },
+    {
+      "nombre": "Masako Sugaya",
+      "personaje": "Uran (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1TG561GzoMU0y4sqwSACHn7PTpZ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "武井英彦",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "石黒昇",
+      "rol": "Director"
+    },
+    {
+      "nombre": "手塚治虫",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "牧野光成",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "武井英彦",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "三枝成彰",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "石黒昇",
+      "rol": "Director"
+    },
+    {
+      "nombre": "手塚治虫",
+      "rol": "Director"
+    },
+    {
+      "nombre": "手塚治虫",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "手塚治虫",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "坂口尚",
+      "rol": "Settings"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.823,
+    "imdb": "tt0124228",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=AR7jD15-IWQ"
+}
