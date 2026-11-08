@@ -1,0 +1,116 @@
+{
+  "id_tmdb": 32676,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/d8YF6O2QS7o8r7wLM80L71umc0a.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4k4MVkq76olWr9QpRlotPEYAZQ6.png",
+  "titulo": "Lady Oscar",
+  "titulo_original": "ベルサイユのばら",
+  "fecha_estreno": "1979-10-10",
+  "duracion": "24min",
+  "año": "1979",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama"
+  ],
+  "puntuacion": 8.3,
+  "sinopsis": "Criada como un hombre desde su nacimiento, Lady Oscar es la capitana de los guardianes del palacio de Versalles en los años anteriores a la Revolución Francesa. Su belleza y nobleza de espíritu la destacan a ojos de tanto hombres como mujeres. No obstante, ella se debate entre la vida dedicada al servicio a su clase y su país que ha escogido y sus propios sentimientos por el otro. Vive como una noble en la opulencia de Versalles pero sus sentimientos y compasión no están ciegos ante la pobreza del pueblo de Francia.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "田島令子",
+      "personaje": "Oscar François de Jarjeyes",
+      "foto": "https://image.tmdb.org/t/p/w500/41aNE6C0zddfkNXrXshZAwPk4qx.jpg"
+    },
+    {
+      "nombre": "上田みゆき",
+      "personaje": "Marie Antoinette",
+      "foto": "https://image.tmdb.org/t/p/w500/8m48vlCnbuaVeBd6M8BB8W94M8h.jpg"
+    },
+    {
+      "nombre": "志垣太郎",
+      "personaje": "André Grandier",
+      "foto": "https://image.tmdb.org/t/p/w500/ljKJFUNA8BqrqhKfIi8AD30YQS1.jpg"
+    },
+    {
+      "nombre": "野沢那智",
+      "personaje": "Hans Axel von Fersen",
+      "foto": "https://image.tmdb.org/t/p/w500/ymSdVvxobpqzCYxcmNLfzvyIGl2.jpg"
+    },
+    {
+      "nombre": "Rihoko Yoshida",
+      "personaje": "Rosalie Lamorlière",
+      "foto": "https://image.tmdb.org/t/p/w500/jdF2yFYq6Gqe9tIjWT9uJ0ovvXt.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "出崎統",
+      "rol": "Director"
+    },
+    {
+      "nombre": "長浜忠夫",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "馬飼野康二",
+      "rol": "Music"
+    },
+    {
+      "nombre": "窪田忠雄",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "出崎統",
+      "rol": "Director"
+    },
+    {
+      "nombre": "川井憲",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "長浜忠夫",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Shingō Araki",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "水谷利春",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "高橋宏固",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Masao Miyauchi",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "Hiroko Suzuki",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "池田理代子",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "姫野美智",
+      "rol": "Animation Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.3,
+    "imdb": "tt0078570",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=eJIeJIqw-J0"
+}
