@@ -1,0 +1,62 @@
+{
+  "id_tmdb": 37144,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/A0S25LFbwCXxgLQj4BnwHW2n5l2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/AuzSIskHzQt5ilv0bHVtuPmNKSo.jpg",
+  "logo": "",
+  "titulo": "ゲゲゲの鬼太郎",
+  "titulo_original": "ゲゲゲの鬼太郎",
+  "fecha_estreno": "1996-01-07",
+  "duracion": "30min",
+  "año": "1996",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 8,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "田の中勇",
+      "personaje": "Medama Oyaji",
+      "foto": "https://image.tmdb.org/t/p/w500/p2Tmfr4aZIS0INgibEsjlUXRjD1.jpg"
+    },
+    {
+      "nombre": "山本圭子",
+      "personaje": "Sunakake Baba",
+      "foto": "https://image.tmdb.org/t/p/w500/4w3OVUdjzN0EpIij0gDYvnbOXx.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Atsuya Takase",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Machiko Naruto",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Atsuya Takase",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Machiko Naruto",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8,
+    "imdb": "",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
