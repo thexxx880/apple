@@ -1,0 +1,70 @@
+{
+  "id_tmdb": 5687,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/bEKqXmAvE77NsQAkdlpjhkQMiTG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1szJqm8ksrwbPheLfEZn2ohTGbg.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/ekyNaAuQC1WitQr4N8l2ca8QTrd.png",
+  "titulo": "Los Pitufos",
+  "titulo_original": "The Smurfs",
+  "fecha_estreno": "1981-09-12",
+  "duracion": "11min",
+  "año": "1981",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Familia",
+    "Sci-Fi & Fantasy",
+    "Kids",
+    "Comedia"
+  ],
+  "puntuacion": 7.009,
+  "sinopsis": "Basada en unas historietas del belga Pierre Culliford (AKA Peyo) y ambientada en la Edad Media. En está serie animada presenta la aldea de los pitufos todas las casas son hongos o setas. Todos ellos se visten igual: pantalón blanco y gorro frigio blanco, a excepción del Gran Pitufo o Papá Pitufo, que usa un atuendo rojo. Él es el jefe de la aldea, debido a su avanzada edad y a sus conocimientos de magia.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Don Messick",
+      "personaje": "Papa Smurf (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/frB2GkFxLzJkUC1NizEad1OYJQ7.jpg"
+    },
+    {
+      "nombre": "Lucille Bliss",
+      "personaje": "Smurfette (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4PE7Fm9Jzl5Klcnfbm8qjfer1lo.jpg"
+    },
+    {
+      "nombre": "Frank Welker",
+      "personaje": "Hefty Smurf (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "nombre": "Michael Bell",
+      "personaje": "Handy Smurf (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qZrtEHcKOFCbxtSedcdTU8f2uyW.jpg"
+    },
+    {
+      "nombre": "June Foray",
+      "personaje": "Jokey Smurf (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6s5sWcOPGtVdbMFtZwkWadArj2I.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Peyo",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Peyo",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.009,
+    "imdb": "tt0081933",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=gQMwc-lALC0"
+}
