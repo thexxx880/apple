@@ -1,0 +1,137 @@
+{
+  "id_tmdb": 196967,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/vvMHTo4ji1CDyzWnFxdsnbUqpwl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ftzwc9f3w5WBwNcB1zL9bPj51mS.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/sFcu1HvRIkgfHYoKdXy5JtDJbhz.png",
+  "titulo": "逮捕しちゃうぞ",
+  "titulo_original": "逮捕しちゃうぞ",
+  "fecha_estreno": "1994-09-24",
+  "duracion": "29min",
+  "año": "1994",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Crimen",
+    "Comedia"
+  ],
+  "puntuacion": 5.5,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "玉川砂記子",
+      "personaje": "Natsumi Tsujimoto (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/652TiFmGTnXmx0s3yvZsQcwPBvd.jpg"
+    },
+    {
+      "nombre": "平松晶子",
+      "personaje": "Miyuki Kobayakawa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gvsVlT1JX6K6whigFlKTzEAA4OT.jpg"
+    },
+    {
+      "nombre": "小桜エツコ",
+      "personaje": "Yoriko Nikaidou (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/20KNVseVr2Y8Y4jziEaMcm06umL.jpg"
+    },
+    {
+      "nombre": "島田敏",
+      "personaje": "Ken Nakajima (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5jJgMyFAP3GgQtFxP2qe0oE4LHk.jpg"
+    },
+    {
+      "nombre": "政宗一成",
+      "personaje": "Kachou (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fUW7vxkEwi3205t5jwhR1PJMySf.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "水尾芳正",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "渡辺繁",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "長谷川洋",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "勢直樹",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "高橋勇夫",
+      "rol": "Camera Operator"
+    },
+    {
+      "nombre": "藤島康介",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "中嶋敦子",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "村田俊治",
+      "rol": "Mechanical Designer"
+    },
+    {
+      "nombre": "大谷幸",
+      "rol": "Music"
+    },
+    {
+      "nombre": "森田清次",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "中嶋敦子",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "加藤浩",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "吉田光伸",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "水尾芳正",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "渡辺繁",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "長谷川洋",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "勢直樹",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "玉川砂記子",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "平松晶子",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.5,
+    "imdb": "tt10245786",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
