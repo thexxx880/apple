@@ -1,0 +1,72 @@
+{
+  "id_tmdb": 122039,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/i0aIA1gPd5HRXQRXxjQ1FIfPG9o.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8XoQPGUFqIoW7ieVfdwSjXJnFJ1.jpg",
+  "logo": "",
+  "titulo": "リトル・ルルとちっちゃい仲間",
+  "titulo_original": "リトル・ルルとちっちゃい仲間",
+  "fecha_estreno": "1976-02-05",
+  "duracion": "24min",
+  "año": "1976",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia"
+  ],
+  "puntuacion": 10,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Minori Matsushima",
+      "personaje": "Lulu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rhCXXKA6pkExIV63U3IBR73QSqT.jpg"
+    },
+    {
+      "nombre": "山本圭子",
+      "personaje": "Tubby (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4w3OVUdjzN0EpIij0gDYvnbOXx.jpg"
+    },
+    {
+      "nombre": "Noriko Ohara",
+      "personaje": "Wilbur (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/u5dvWzckBXvZw8Oexn5VN08vW7G.jpg"
+    },
+    {
+      "nombre": "Yoneko Matsukane",
+      "personaje": "Iggy (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fb1LADqKvVjh8GUW5FOY9lfSA53.jpg"
+    },
+    {
+      "nombre": "堀絢子",
+      "personaje": "Annie (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nMacN4CiR6BvjYsbk2rguyeyCye.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "黒川文男",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "高橋 二三",
+      "rol": "Writer"
+    },
+    {
+      "nombre": "黒川文男",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 10,
+    "imdb": "tt1058303",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
