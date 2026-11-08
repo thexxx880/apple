@@ -1,0 +1,53 @@
+{
+  "id_tmdb": 10620,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/xj5b8cgZqYyJoNX9DIAwZRlkPRH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wMn7d1TTCiIncb8WM0I2c2Rd0vz.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/nul60rIRN7x1dekbOPCPySnFlRQ.png",
+  "titulo": "La abeja Maya",
+  "titulo_original": "みつばちマーヤの冒険",
+  "fecha_estreno": "1975-04-01",
+  "duracion": "25min",
+  "año": "1975",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Familia"
+  ],
+  "puntuacion": 6.4,
+  "sinopsis": "Las aventuras de una joven abeja, inquieta y preguntona que es enviada por la abeja reina a buscar polen, y realizando esa tarea encuentra un nuevo mundo que la rodea haciendo amistad con varias criaturas del bosque.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "野村道子",
+      "personaje": "Maya (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/u4aVFRfu91gxI59XETf9oMnQBrz.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Takashi Ogaki",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Susumu Shiraume",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Waldemar Bonsels",
+      "rol": "Characters"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.4,
+    "imdb": "tt0133295",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
