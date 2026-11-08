@@ -1,0 +1,126 @@
+{
+  "id_tmdb": 20451,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/w01ENZyGPW5tvWnXhaTWINToDPn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lkXPZx5XI8KnPbAQ9GQ3hRYbZh2.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/cxRMnj4g4VPzamQ96lxhGmV5xAN.png",
+  "titulo": "天地無用！",
+  "titulo_original": "天地無用！",
+  "fecha_estreno": "1995-04-02",
+  "duracion": "30min",
+  "año": "1995",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 6.9,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "菊池正美",
+      "personaje": "Tenchi Masaki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
+    },
+    {
+      "nombre": "折笠愛",
+      "personaje": "Ryoko (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6ztt20jMc4oprKbixp2sNrR2ykK.jpg"
+    },
+    {
+      "nombre": "小林優子",
+      "personaje": "Washu Hakubi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3Dq7JUi9x1kVwCf6l056Ji26nPN.jpg"
+    },
+    {
+      "nombre": "小桜エツコ",
+      "personaje": "Ryo-Ohki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/20KNVseVr2Y8Y4jziEaMcm06umL.jpg"
+    },
+    {
+      "nombre": "天野由梨",
+      "personaje": "Kiyone Makibi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6GfVyLY7womSNFfIQGLbo25WGeB.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "森尻和明",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "岩田圭介",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "森尻和明",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "岩田圭介",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "月村了衛",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "月村了衛",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "堀内博之",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "堀内博之",
+      "rol": "Supervising Animation Director"
+    },
+    {
+      "nombre": "小森靖彦",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "朝倉千登勢",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "鈴城るみ子",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "竹内敦志",
+      "rol": "Conceptual Design"
+    },
+    {
+      "nombre": "本田保則",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "佐々木純一",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "長岡成貢",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "阿部幸男",
+      "rol": "Sound Recordist"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.9,
+    "imdb": "tt30291774",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=N5dQ-jmCs9s"
+}
