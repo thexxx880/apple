@@ -1,0 +1,60 @@
+{
+  "id_tmdb": 277360,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/bsTJ0WOViDYjDbIt60PrRuup4rJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4PyUloRiqOmRLj4uJdAmpBVXPxZ.jpg",
+  "logo": "",
+  "titulo": "Don Quijote y los Cuentos de La Mancha",
+  "titulo_original": "Zukkoke Knight: Don De La Mancha (ずっこけナイト　ドンデラマンチャ)",
+  "fecha_estreno": "1980-04-15",
+  "duracion": "24min",
+  "año": "1980",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Comedia",
+    "Drama"
+  ],
+  "puntuacion": 7,
+  "sinopsis": "Esta es la historia de un lobo solitario llamado Don de la Mancha (Don Quijote de la Mancha) basado en una de las novelas mas famosas en el mundo, \"El ingenioso hidalgo Don Quijote de la Mancha\" escrita por Miguel de Cervantes Saavedra.\n\nRealizada por el estudio de animación japonés Ashi Productions, estaba compuesta de 23 episodios de 30 minutos de duración.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "内海賢二",
+      "personaje": "Don Quijote",
+      "foto": "https://image.tmdb.org/t/p/w500/8rNvgs40LJbCbjf7qFCfDeKBnIk.jpg"
+    },
+    {
+      "nombre": "Mami Koyama",
+      "personaje": "Dulcinea",
+      "foto": "https://image.tmdb.org/t/p/w500/4KjDxYsa7mMh8gbqSKCV2DixDAx.jpg"
+    },
+    {
+      "nombre": "和久井節緒",
+      "personaje": "Sancho Panza",
+      "foto": ""
+    },
+    {
+      "nombre": "Ichirô Nagai",
+      "personaje": "Narrador",
+      "foto": "https://image.tmdb.org/t/p/w500/dgQ6OIFvxwln565Pku7rS4y7KWd.jpg"
+    },
+    {
+      "nombre": "緒方賢一",
+      "personaje": "Gordillo",
+      "foto": "https://image.tmdb.org/t/p/w500/iQLEawIP2593yrGy22GzLSpnfgl.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [],
+  "valoraciones": {
+    "tmdb": 7,
+    "imdb": "tt1947929",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
