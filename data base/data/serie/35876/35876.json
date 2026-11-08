@@ -1,0 +1,104 @@
+{
+  "id_tmdb": 35876,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/wN9T3ovXsbPJdSejKQvshHnMsOc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uavZQB15pY2rLjXfKcowZYOfF20.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/hV6niVSvbpRsXis6DP1sXBjWPMJ.png",
+  "titulo": "リングにかけろ",
+  "titulo_original": "リングにかけろ",
+  "fecha_estreno": "2004-10-06",
+  "duracion": "25min",
+  "año": "2004",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.8,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "森田成一",
+      "personaje": "Takane Ryûji",
+      "foto": "https://image.tmdb.org/t/p/w500/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+    },
+    {
+      "nombre": "田中理恵",
+      "personaje": "Takane Kiku",
+      "foto": "https://image.tmdb.org/t/p/w500/wBWsjzwpFovyHDv027zU0oZyWHd.jpg"
+    },
+    {
+      "nombre": "金月真美",
+      "personaje": "Kawai Takako",
+      "foto": "https://image.tmdb.org/t/p/w500/msqw9QIGh21SM8WA6e2W65zBeT6.jpg"
+    },
+    {
+      "nombre": "Takeshi Kusao",
+      "personaje": "Katori Ishimatsu",
+      "foto": "https://image.tmdb.org/t/p/w500/gDiYLUdl9zXXJmhE0bAuB1Jm3FJ.jpg"
+    },
+    {
+      "nombre": "石川英郎",
+      "personaje": "Shinatora Kazuki",
+      "foto": "https://image.tmdb.org/t/p/w500/gEjEDNGt3CHsyzFQdNqewZVbh0.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "太田賢司",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "博史池畠",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "小日置知子",
+      "rol": "Color Designer"
+    },
+    {
+      "nombre": "太田賢司",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Shingō Araki",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "姫野美智",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "TATSUOLOGY",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "柿川博文",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Masami Kurumada",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "黒田洋介",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "Masami Kurumada",
+      "rol": "Original Story"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": "tt0413600",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
