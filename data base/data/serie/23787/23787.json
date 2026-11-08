@@ -1,0 +1,81 @@
+{
+  "id_tmdb": 23787,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6NkKPwyJKE8aFWt7uGLglVVKiEp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rinfbZOAJHK2yGdMmHOjpBzDbnl.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/d3PBwadf4bFG3iOfaUwnd6xUUhk.png",
+  "titulo": "Nube, el maestro del infierno",
+  "titulo_original": "地獄先生ぬ~べ~",
+  "fecha_estreno": "1996-04-13",
+  "duracion": "23min",
+  "año": "1996",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "puntuacion": 8.3,
+  "sinopsis": "Es una serie de anime que narra las aventuras de Meisuke Nueno, un maestro de la escuela primaria Dohmori, también conocido como Nube, tiene la capacidad de exorcizar demonios y espíritus gracias al poder de un poderoso demonio que encerró en su mano izquierda la cual siempre cubre con un guante negro.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ryōtarō Okiayu",
+      "personaje": "Meisuke 'Nuubee' Nueno (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qbj3cFQqWwZ6x7S1jEpOJa57sEZ.jpg"
+    },
+    {
+      "nombre": "藤田淑子",
+      "personaje": "Hiroshi Tateno (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2u93ywtn7Xax1dEALrjOGGHg5hL.jpg"
+    },
+    {
+      "nombre": "根谷美智子",
+      "personaje": "Ritsuko (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/A1mqjatShQZJSTXFdm4fTkQXv83.jpg"
+    },
+    {
+      "nombre": "Megumi Urawa",
+      "personaje": "Makoto Kurita (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/d02D5dxz8bmAuIkG8GrUabKvBW7.jpg"
+    },
+    {
+      "nombre": "本多知恵子",
+      "personaje": "Izuna Hazuki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/jwiQU6VwXjeqx3U3KDXItzMJ5JJ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "渡辺哲也",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "渡辺哲也",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "松本孝弘",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "氏家章雄",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "岡野剛",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.3,
+    "imdb": "tt0877508",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
