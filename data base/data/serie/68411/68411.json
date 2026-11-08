@@ -1,0 +1,111 @@
+{
+  "id_tmdb": 68411,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/tBlYoqLzUIKlVHdZLKPuBLaina4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/91ylpXUOYzZhtKiqrSE4pmL7wol.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/q7AUeOMN7KZPNI1o2EEysv3MBjB.png",
+  "titulo": "キューティーハニー",
+  "titulo_original": "キューティーハニー",
+  "fecha_estreno": "1973-10-13",
+  "duracion": "25min",
+  "año": "1973",
+  "trending": false,
+  "generos": [
+    "Sci-Fi & Fantasy",
+    "Animación",
+    "Action & Adventure"
+  ],
+  "puntuacion": 5.9,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Eiko Masuyama",
+      "personaje": "Honey Kisaragi / Cutie Honey (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fH9CX5DVv4pyYW7w924hwshKCOC.jpg"
+    },
+    {
+      "nombre": "富田耕生",
+      "personaje": "Dambei Hayami (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nSGbAVJaUsrvcGujlByBjNH6dje.jpg"
+    },
+    {
+      "nombre": "森功至",
+      "personaje": "Seiji Hayami (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7HMCnhwbBPNEut2s2VziMVBWXuL.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Tomoharu Katsumata",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Toshio Katsuta",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tomoharu Katsumata",
+      "rol": "Director"
+    },
+    {
+      "nombre": "渡辺岳夫",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "永井豪",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "伊藤栄次",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "浦田又治",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "Shingō Araki",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "浦田又治",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "Toshio Katsuta",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Yasuo Iseki",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "江藤昌治",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "吉岡修",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "伊藤克巳",
+      "rol": "Sound Effects"
+    },
+    {
+      "nombre": "Youko Maekawa",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 5.9,
+    "imdb": "tt0288933",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=T5JKJ3Meq4c"
+}
