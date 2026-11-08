@@ -1,0 +1,36 @@
+{
+  "id_tmdb": 15520,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ePyGlz6tGN5M0VkmofgkYwWg8xd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lCh47nGYn7OY45gU50HkNM9gg1.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/vCjUBNo0aknMDMAxCFzK74izQp5.png",
+  "titulo": "The All-New Popeye Hour",
+  "titulo_original": "The All-New Popeye Hour",
+  "fecha_estreno": "1978-09-09",
+  "duracion": "60min",
+  "año": "1978",
+  "trending": false,
+  "generos": [
+    "Animación"
+  ],
+  "puntuacion": 6.8,
+  "sinopsis": "",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "E. C. Segar",
+      "rol": "Characters"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.8,
+    "imdb": "tt0190897",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
