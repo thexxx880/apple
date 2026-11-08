@@ -1,0 +1,130 @@
+{
+  "id_tmdb": 1087,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ej3tcxv2YYVWy6WoOeWZTcrkiI8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nSyGCMkmahgCeMdfKFqfz9pJ2LQ.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/x60va4fY0QKyE5WbKo0l4frl4XM.png",
+  "titulo": "Serial Experiments Lain",
+  "titulo_original": "serial experiments lain",
+  "fecha_estreno": "1998-07-06",
+  "duracion": "24min",
+  "año": "1998",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Misterio"
+  ],
+  "puntuacion": 8.201,
+  "sinopsis": "En un Tokio semifuturista, Lain, una estudiante introvertida, recibe un misterioso correo de una compañera que se suicidó, afirmando estar con Dios. Intrigada, Lain se adentra en la red en busca de respuestas, enfrentándose a un mundo cibernético lleno de secretos.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "清水香里",
+      "personaje": "Lain Iwakura (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/p5A7efRBlhmhtdyfbpmjJgeUkhq.jpg"
+    },
+    {
+      "nombre": "浅田葉子",
+      "personaje": "Arisu Mizuki - Lain's friend (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mAyuP7DVw9Nri1qWHltwzB3xHXT.jpg"
+    },
+    {
+      "nombre": "川澄綾子",
+      "personaje": "Mika Iwakura - Lain's older sister (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vb4cgQUlZdaZT3P4RI27x2PGwpH.jpg"
+    },
+    {
+      "nombre": "大林隆介",
+      "personaje": "Yasuo Iwakura - Lain's father (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/vX9XqfSkE4N5VTdbW3iCrqk4chs.jpg"
+    },
+    {
+      "nombre": "五十嵐麗",
+      "personaje": "Miho Iwakura - Lain's mother (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/sqfOHaLVkZu5zcTo5IZ41hxDJvq.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "上田耕行",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "真木太郎",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "小中千昭",
+      "rol": "Screenplay"
+    },
+    {
+      "nombre": "小中千昭",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "上田耕行",
+      "rol": "Original Series Creator"
+    },
+    {
+      "nombre": "上田耕行",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "Reichi Nakaido",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Paul Turrell",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Ben Henderson",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Lee Sullivan",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Alex Caird",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Steve Rodgers",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "Jasmine Rodgers",
+      "rol": "Main Title Theme Composer"
+    },
+    {
+      "nombre": "Jasmine Rodgers",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "都留稔幸",
+      "rol": "Opening/Ending Animation"
+    },
+    {
+      "nombre": "ところともかず",
+      "rol": "Opening/Ending Animation"
+    },
+    {
+      "nombre": "松竹徳幸",
+      "rol": "Opening/Ending Animation"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.201,
+    "imdb": "tt0500092",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=MM8RufZr5lw"
+}
