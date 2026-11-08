@@ -1,0 +1,76 @@
+{
+  "id_tmdb": 25707,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/pIvSw3qRmGLsQ63X38xf6ol1ND7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bwQHVs25LNYpPzfvDIYdVJjk2fW.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/tKhdwK9EEllVcwFbAQANzeXphuI.png",
+  "titulo": "Super Campeones",
+  "titulo_original": "キャプテン翼",
+  "fecha_estreno": "1983-10-13",
+  "duracion": "24min",
+  "año": "1983",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Animación"
+  ],
+  "puntuacion": 7.849,
+  "sinopsis": "Oliver Atom es un joven con grandes ambiciones en el mundo futbolístico; su más grande anhelo es jugar en la Copa del Mundo con su selección. Su aventura comenzará al afrontar numerosos retos junto con sus amigos Benji Prize y Tom Mizaki; además deberá enfrentar a numerosos y poderosos rivales. Vivirá las alegrías y tristezas de un jugador de fútbol en su camino para convertirse en el mejor.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "日比野朱里",
+      "personaje": "Tsubasa Oozora (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/1uU95ziw8A4WY6obbyARvuH0QuZ.jpg"
+    },
+    {
+      "nombre": "瀧本富士子",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/j2xu3xPRw2yITNvpAL2XICC6PUL.jpg"
+    },
+    {
+      "nombre": "鈴木れい子",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/qgFATlpp1HnAHyhgRJ1QdBYksEG.jpg"
+    },
+    {
+      "nombre": "河合義雄",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4DPmQztZiO6RXuhe2UbZGAxOfN2.jpg"
+    },
+    {
+      "nombre": "高戸靖広",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/njJHBtfhUYfhNpJeCh7wEsHaAiT.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Takayuki Baba",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Hiroshi Uchiki",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "飛澤宏元",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "高橋陽一",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.849,
+    "imdb": "tt0294023",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=RlQKghs-W4s"
+}
