@@ -1,0 +1,93 @@
+{
+  "id_tmdb": 4288,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6KZUc5WlukYvlixgNYJaFXzgdkv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dmwhROBzM8VsFASDgHO7CafMyqO.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/gyk9d4RESNLQnKsnFQIyDDAoABM.png",
+  "titulo": "Beetlejuice",
+  "titulo_original": "Beetlejuice",
+  "fecha_estreno": "1989-09-09",
+  "duracion": "22min",
+  "año": "1989",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Sci-Fi & Fantasy",
+    "Comedia"
+  ],
+  "puntuacion": 7.675,
+  "sinopsis": "Comedia animada sobre un fantasma escandaloso y su relación con una niña mortal.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Stephen Ouimette",
+      "personaje": "Beetlejuice (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kk7rbjYnNNgLN1f853vRepd3GcA.jpg"
+    },
+    {
+      "nombre": "Alyson Court",
+      "personaje": "Lydia Deetz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kPeTYEV6vyyAJEsUlomVpiLcd6v.jpg"
+    },
+    {
+      "nombre": "Tabitha St. Germain",
+      "personaje": "Ginger (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/bscsV3Gg7bmaZvvcbyS1265QaVT.jpg"
+    },
+    {
+      "nombre": "Len Carlson",
+      "personaje": "The Monster Across the Street (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xmj4nwXFymJHFjrEErQ1aiFl16M.jpg"
+    },
+    {
+      "nombre": "Elizabeth Hanna",
+      "personaje": "Delia Deetz (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/ogiU5ZtrVrO9uWaUWuTfjvekuSv.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Michael Hirsh",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Clive A. Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patrick Loubert",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tim Burton",
+      "rol": "Executive Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Michael Hirsh",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Clive A. Smith",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Patrick Loubert",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Tim Burton",
+      "rol": "Executive Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.675,
+    "imdb": "tt0096543",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=HQWZiaJ7dss"
+}
