@@ -1,0 +1,89 @@
+{
+  "id_tmdb": 2762,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6VxKeCxPZBQhfzy4FyixKtxhlbU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2kRVyT0mhGn5jDHcq1Os3UlXlY5.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/eKbhXffYtA3l6L86J6UfnyMU6FU.png",
+  "titulo": "Rambo: La Fuerza de la Libertad",
+  "titulo_original": "Rambo: The Force of Freedom",
+  "fecha_estreno": "1986-04-14",
+  "duracion": "30min",
+  "año": "1986",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Kids"
+  ],
+  "puntuacion": 7.4,
+  "sinopsis": "Un Grupo de héroes llamado la \"Fuerza de la Libertad\", que bajo el mando del Coronel Samuel Trautman luchan en misiones alrededor del mundo contra una organización paramilitar y terrorista llamada S.A.V.A.G.E. (abreviatura en inglés de Specialist-Administrators of Vengeance, Anarchy and Global Extortion), cuyo jefe militar es el maléfico General Warhawk. Rambo y su equipo bregarán por la paz y la justicia.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Neil Ross",
+      "personaje": "John Rambo (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pNgkQKw5k6z9kscDnOAwstcmNnt.jpg"
+    },
+    {
+      "nombre": "Michael Ansara",
+      "personaje": "General Warhawk (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dxViGyLrbXBXQlGXjrDmOwPaiuo.jpg"
+    },
+    {
+      "nombre": "Alan Oppenheimer",
+      "personaje": "Col. Samuel Trautman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5UAa7wSnoh6JwiAKciCCKB9dnro.jpg"
+    },
+    {
+      "nombre": "Mona Marshall",
+      "personaje": "Kat (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/A2RCAt0Xmm3jLBKZogQAJX6eD9n.jpg"
+    },
+    {
+      "nombre": "Robert Ito",
+      "personaje": "Black Dragon / White Dragon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/9QDa4UAvCWlNyzPP2exAHDcsN5g.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Charles August Nichols",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Kimball",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ken Spears",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Charles August Nichols",
+      "rol": "Director"
+    },
+    {
+      "nombre": "John Kimball",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Ken Spears",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Michael Chain",
+      "rol": "Story Editor"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.4,
+    "imdb": "tt0222619",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=sacAWE4mPbg"
+}
