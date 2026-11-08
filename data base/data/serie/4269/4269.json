@@ -1,6 +1,6 @@
 {
   "id_tmdb": 4269,
-  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/h4DvodvcLWh7xdpj872Bq0V2DKS.jpg",
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/h0BLnOet7BtgrDpkU5KSSmiqQTg.jpg",
   "backdrop": "https://image.tmdb.org/t/p/original/1XpTPpBDqMrP1USdJIiH2oBd7UU.jpg",
   "logo": "https://image.tmdb.org/t/p/original/uOp96jgbEdqXDfP0beEzL6Rkxc1.png",
   "titulo": "Transformers G1",
@@ -15,7 +15,7 @@
     "Action & Adventure",
     "Sci-Fi & Fantasy"
   ],
-  "puntuacion": 7.846,
+  "puntuacion": 7.855,
   "sinopsis": "",
   "pais_origen": "US",
   "calificacion": "16",
@@ -68,12 +68,12 @@
       "rol": "Storyboard Artist"
     },
     {
-      "nombre": "Lee Gunther",
-      "rol": "Producer"
-    },
-    {
       "nombre": "Donald F. Glut",
       "rol": "Writer"
+    },
+    {
+      "nombre": "Lee Gunther",
+      "rol": "Producer"
     },
     {
       "nombre": "Robert J. Walsh",
@@ -93,10 +93,10 @@
     }
   ],
   "valoraciones": {
-    "tmdb": 7.846,
+    "tmdb": 7.855,
     "imdb": "tt0086817",
     "rotten_tomatoes": null
   },
-  "distribuidora": "Marvel",
+  "distribuidora": "Anime, Marvel",
   "trailer": "https://www.youtube.com/watch?v=q6Bf3Hui_LE"
 }
