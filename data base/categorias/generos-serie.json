@@ -1,5 +1,17 @@
 [
   {
+    "id_tmdb": 6670,
+    "poster": "https://image.tmdb.org/t/p/w500/4tpCaJq94eHBWsWVtwFWojbUjcM.jpg",
+    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=6670",
+    "type": "serie",
+    "año": "1983",
+    "titulo": "El show de Charlie Brown y Snoopy",
+    "generos": [
+      "Animación",
+      "Comedia"
+    ]
+  },
+  {
     "id_tmdb": 31654,
     "poster": "https://image.tmdb.org/t/p/w500/aRnUQ7rVpC2fxBz387h1Wgy02Fs.jpg",
     "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=31654",
@@ -3697,18 +3709,6 @@
       "Action & Adventure",
       "Animación",
       "Sci-Fi & Fantasy"
-    ]
-  },
-  {
-    "id_tmdb": 6670,
-    "poster": "https://image.tmdb.org/t/p/w500/4tpCaJq94eHBWsWVtwFWojbUjcM.jpg",
-    "url": "https://lzplayhd.online/apple/data%20base/contenido-serie.html?id=6670",
-    "type": "serie",
-    "año": "1983",
-    "titulo": "El show de Charlie Brown y Snoopy",
-    "generos": [
-      "Animación",
-      "Comedia"
     ]
   },
   {
