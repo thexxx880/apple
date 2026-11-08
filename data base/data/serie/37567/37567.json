@@ -1,0 +1,88 @@
+{
+  "id_tmdb": 37567,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7870v4GhTv5HrWsJEDACRgNXzWv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4K9mqtNbipQI7qfmLN4xCNitLL4.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/2XtL7FHnIvDWWJWcZyDMmZL4Hdw.png",
+  "titulo": "Dr. Slump",
+  "titulo_original": "Dr.スランプ アラレちゃん",
+  "fecha_estreno": "1981-04-08",
+  "duracion": "25min",
+  "año": "1981",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.96,
+  "sinopsis": "Dr. Slump narra las aventuras del profesor Sembei Norimaki y de su creación, un robot humanoide con forma de niña de 13 años llamada Arale Norimaki, quien carece de sentido común y cuenta con una fuerza extraordinaria. La mayoría de las historias transcurren en Villa Pingüino, donde ninguno de sus habitantes sabe que Arale es, en realidad, un robot. La serie está llena de personajes de todo tipo, desde bebés prehistóricos alados hasta un cerdo de habla inglesa.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Mami Koyama",
+      "personaje": "Arale Norimaki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4KjDxYsa7mMh8gbqSKCV2DixDAx.jpg"
+    },
+    {
+      "nombre": "内海賢二",
+      "personaje": "Senbei Norimaki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/8rNvgs40LJbCbjf7qFCfDeKBnIk.jpg"
+    },
+    {
+      "nombre": "堀江美都子",
+      "personaje": "Obotchaman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kuP2x6dIgOi9jfvpIiQT2w2swZx.jpg"
+    },
+    {
+      "nombre": "Kazuko Sugiyama",
+      "personaje": "Akane Kimidori (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mJYbhWLVvoK6PtD1fpeGJHA8W83.jpg"
+    },
+    {
+      "nombre": "Naomi Jinbo",
+      "personaje": "Aoi Kimidori / Piisuke Soramame (voice)",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "小松亘弘",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "Akira Toriyama",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "前田実",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "菊池俊輔",
+      "rol": "Music"
+    },
+    {
+      "nombre": "芦田豊雄",
+      "rol": "Animation Supervisor"
+    },
+    {
+      "nombre": "岡崎稔",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "Katsumi Endo",
+      "rol": "Storyboard"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.96,
+    "imdb": "tt0081852",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=W1ADdtrS3OA"
+}
