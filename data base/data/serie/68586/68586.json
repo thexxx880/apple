@@ -1,0 +1,93 @@
+{
+  "id_tmdb": 68586,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/m8SDrkwGnWOB8P2FGBUIEzFOzBT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1RgfoVvgyqxOVUpqCeahVCI689A.jpg",
+  "logo": "",
+  "titulo": "デビルマン",
+  "titulo_original": "デビルマン",
+  "fecha_estreno": "1972-07-08",
+  "duracion": "25min",
+  "año": "1972",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.2,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Ryōichi Tanaka",
+      "personaje": "Akira Fudo / Devilman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/fZESvhE04R9bxa1r5wU7MtOOBIR.jpg"
+    },
+    {
+      "nombre": "柴田秀勝",
+      "personaje": "Zenon (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/hnKQe1GpuLAZY8pDnJc6eXIQzfv.jpg"
+    },
+    {
+      "nombre": "沢田和猫",
+      "personaje": "Lala (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/r8NW72E0UTrV9be0hKBVJbvCE4Z.jpg"
+    },
+    {
+      "nombre": "Ichirô Nagai",
+      "personaje": "Alphonne Luis Steinweg III (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/dgQ6OIFvxwln565Pku7rS4y7KWd.jpg"
+    },
+    {
+      "nombre": "八奈見乗児",
+      "personaje": "Pochi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/khkGvegnYvx50pAEF1lms7ZKBqy.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "宮崎慎一",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Tomoharu Katsumata",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "Masayuki Akehi",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "Keizo Toda",
+      "rol": "Theme Song Performance"
+    },
+    {
+      "nombre": "永井豪",
+      "rol": "Creator"
+    },
+    {
+      "nombre": "江藤昌治",
+      "rol": "Production Manager"
+    },
+    {
+      "nombre": "三沢郷",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "宮崎慎一",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.2,
+    "imdb": "tt0288355",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=qxrH1zhkqTk"
+}
