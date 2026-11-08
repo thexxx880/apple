@@ -1,0 +1,77 @@
+{
+  "id_tmdb": 36046,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2X6YyoDyYdhoFDyfTUelpDTlTfJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nyyZ7co7wypIqSwkgoBBMe9jDK4.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/awg8b8SLcQyJzMzCABKkqscheru.png",
+  "titulo": "City Hunter",
+  "titulo_original": "シティーハンター",
+  "fecha_estreno": "1987-04-06",
+  "duracion": "25min",
+  "año": "1987",
+  "trending": false,
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Comedia",
+    "Misterio"
+  ],
+  "puntuacion": 7.79,
+  "sinopsis": "Ryo Saeba trabaja en las calles de Tokio como el City Hunter, un «limpiador» que, junto a su compañera Kaori Makimura, se encarga de mantener la ciudad libre de delincuentes. Quienes se enfrentan a problemas peligrosos pueden contratar sus servicios, y Ryo no duda en recurrir a su Colt Python para resolverlos. Sin embargo, cuando no está trabajando en un caso, se dedica a perseguir mujeres, por lo que Kaori debe mantenerlo a raya con su fiel martillo de 10 kilos.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "神谷明",
+      "personaje": "Ryo Saeba (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tJRMwbWFObv03KhATALs0Xbbgq7.jpg"
+    },
+    {
+      "nombre": "伊倉一恵",
+      "personaje": "Kaori Makimura (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mHAMrSKn7l7NIzMYaA6m20aoFOp.jpg"
+    },
+    {
+      "nombre": "Mami Koyama",
+      "personaje": "Miki (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/4KjDxYsa7mMh8gbqSKCV2DixDAx.jpg"
+    },
+    {
+      "nombre": "Tessyo Genda",
+      "personaje": "Umibouzu (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7eJeYv2OCHKAadeFVdabVkpWldo.jpg"
+    },
+    {
+      "nombre": "麻上洋子",
+      "personaje": "Saeko Nogami (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/w1DJFu6UUJSHuPZuGE2eZuFtZR9.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "こだま兼嗣",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "いのまたむつみ",
+      "rol": "Animation Director"
+    },
+    {
+      "nombre": "北条司",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "北条司",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.79,
+    "imdb": "tt0159208",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
