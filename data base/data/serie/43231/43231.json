@@ -1,0 +1,74 @@
+{
+  "id_tmdb": 43231,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/uON3y9wMfFGI4cpGifK70l625YI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/stdskqJC0ofgrMXww0euePSxanf.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3q24lm5mAHFlHq2xKoEKQ58VWHG.png",
+  "titulo": "キン肉マン",
+  "titulo_original": "キン肉マン",
+  "fecha_estreno": "1983-04-03",
+  "duracion": "25min",
+  "año": "1983",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.8,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "神谷明",
+      "personaje": "Suguru Kinniku (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tJRMwbWFObv03KhATALs0Xbbgq7.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "山吉康夫",
+      "rol": "Director"
+    },
+    {
+      "nombre": "川田武範",
+      "rol": "Director"
+    },
+    {
+      "nombre": "今沢哲男",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "山吉康夫",
+      "rol": "Director"
+    },
+    {
+      "nombre": "川田武範",
+      "rol": "Director"
+    },
+    {
+      "nombre": "今沢哲男",
+      "rol": "Director"
+    },
+    {
+      "nombre": "中井義則",
+      "rol": "Comic Book"
+    },
+    {
+      "nombre": "嶋田隆司",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.8,
+    "imdb": "tt0178148",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=myx0PHNGI_s"
+}
