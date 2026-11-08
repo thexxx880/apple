@@ -1,0 +1,109 @@
+{
+  "id_tmdb": 2849,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/52eyxsHrSh3h956fk8nS183QdiB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zRMZKPSz9ZboQkp5okd6vK7fmui.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/4K8pi2RuJmwaThw4Qi4RJsp050B.png",
+  "titulo": "David el gnomo",
+  "titulo_original": "David el gnomo",
+  "fecha_estreno": "1985-10-26",
+  "duracion": "24min",
+  "año": "1985",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Kids",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.3,
+  "sinopsis": "David y su familia son gnomos que viven en el bosque. Se preocupan por cuidar de la naturaleza. Sus enemigos son los trolls, seres malolientes que molestan a los animales.",
+  "pais_origen": "ES",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "José María Cordero",
+      "personaje": "David (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/teR70VnMxGjaASEZOIsGQ2LCYtq.jpg"
+    },
+    {
+      "nombre": "Matilde Conesa",
+      "personaje": "Lisa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uFUeyWFbHpZ6Dd7dQVOT0dHHbSc.jpg"
+    },
+    {
+      "nombre": "Teófilo Martínez",
+      "personaje": "Narrator (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Ramón Langa",
+      "personaje": "Swift (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xqF6bJrJOOac88IVgPVVl3fX869.jpg"
+    },
+    {
+      "nombre": "Manuel Peiró",
+      "personaje": "Pot (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6my9rfJLNqiAhLrL7DPtMeX1pR9.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Micheline Charest",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Claudio Biern Boyd",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "José Manuel Iglesias",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "José Luis Rodríguez",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Ronald A. Weinberg",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Micheline Charest",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "Claudio Biern Boyd",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "José Manuel Iglesias",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "José Luis Rodríguez",
+      "rol": "Associate Producer"
+    },
+    {
+      "nombre": "Soledad López",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "Javier Losada",
+      "rol": "Original Music Composer"
+    },
+    {
+      "nombre": "Ronald A. Weinberg",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.3,
+    "imdb": "tt0283721",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
