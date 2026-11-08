@@ -12,9 +12,10 @@
   "generos": [
     "Animación",
     "Action & Adventure",
-    "Sci-Fi & Fantasy"
+    "Sci-Fi & Fantasy",
+    "Kids"
   ],
-  "puntuacion": 8.07,
+  "puntuacion": 8.073,
   "sinopsis": "La historia se centra en 7 niños de Japón, que son transportados al Mundo digital después de encontrar unos Digivice y ser arrastrados por una \"gran ola\", llegando así a la Isla File (lit. «Isla archivo»). Allí encuentran a sus compañeros Digimon, y con su ayuda, aprenderán a sobrevivir pese a las adversidades de estar en un mundo desconocido. Conforme avanza la serie, descubren que son los Niños elegidos. A mitad de la serie se integra el octavo niño elegido con su Digimon. Los 8 niños tendrán que luchar contra las fuerzas de la oscuridad que quieren apoderarse del mundo digital y el mundo real.",
   "pais_origen": "JP",
   "calificacion": "16",
@@ -71,7 +72,7 @@
     }
   ],
   "valoraciones": {
-    "tmdb": 8.07,
+    "tmdb": 8.073,
     "imdb": "tt0210418",
     "rotten_tomatoes": null
   },
