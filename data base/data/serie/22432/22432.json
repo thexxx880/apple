@@ -1,0 +1,97 @@
+{
+  "id_tmdb": 22432,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/fEgBb4nPUeG91hsANOZP4zhAoQZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yMDy90i3QdWtx4z1TYEUuABfOiD.jpg",
+  "logo": "",
+  "titulo": "Video Girl Ai",
+  "titulo_original": "電影少女 -VIDEO GIRL AI-",
+  "fecha_estreno": "1992-03-27",
+  "duracion": "30min",
+  "año": "1992",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "Miniserie de 6 OVAs. Cuando la chica que le gusta a Yohta, Moemi, le dice que a ella le gusta otro chico, Yohta alquila una cinta de una chica virtual de un extraño videoclub. Al reproducir la cinta en su casa, Ai, la chica virtual, sale de la pantalla para ayudarle a conseguir el amor de Moemi. Pero el video de Yohta está estropeado y la personalidad de Ai no es lo que se esperaba que fuera. Película formada por seis ovas de 30 minutos cada una.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "林原めぐみ",
+      "personaje": "Ai Amano (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+    },
+    {
+      "nombre": "Takeshi Kusao",
+      "personaje": "Yota Moteuchi (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/gDiYLUdl9zXXJmhE0bAuB1Jm3FJ.jpg"
+    },
+    {
+      "nombre": "天野由梨",
+      "personaje": "Moemi Hayakawa (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6GfVyLY7womSNFfIQGLbo25WGeB.jpg"
+    },
+    {
+      "nombre": "辻谷耕史",
+      "personaje": "Takashi Niimai (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7NTqy1dhJUNYjMAFqB5j1lNaar.jpg"
+    },
+    {
+      "nombre": "Hirotaka Suzuoki",
+      "personaje": "Ai's Creator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/pgFcxD6dazHWy3KFobU6gDz0iCJ.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "桜井裕子",
+      "rol": "Music Director"
+    },
+    {
+      "nombre": "田中英行",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "串田達也",
+      "rol": "Art Direction"
+    },
+    {
+      "nombre": "後藤隆幸",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "高橋明彦",
+      "rol": "Director of Photography"
+    },
+    {
+      "nombre": "掛須秀一",
+      "rol": "Editor"
+    },
+    {
+      "nombre": "岡田徹",
+      "rol": "Music"
+    },
+    {
+      "nombre": "桂正和",
+      "rol": "Original Series Design"
+    },
+    {
+      "nombre": "桂正和",
+      "rol": "Comic Book"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt0105748",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=XUd-HhNAE4E"
+}
