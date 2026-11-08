@@ -1,0 +1,80 @@
+{
+  "id_tmdb": 21618,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oBcJopTmmGZsTpu5e2jlnDKyOSa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wuH3KbJBGHTlW6gRnU1Y27jDf97.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/yCmMaoc9MeonIgabvUwh4uXWrRs.png",
+  "titulo": "Mujercitas",
+  "titulo_original": "愛の若草物語",
+  "fecha_estreno": "1987-01-11",
+  "duracion": "25min",
+  "año": "1987",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Drama"
+  ],
+  "puntuacion": 6.7,
+  "sinopsis": "Serie de TV (1987). 48 episodios. Meg, amable y confiada. Jo, independiente y enérgica. Beth, tímida y callada. Amy, amable y precoz. Cuatro hermanas viven alegremente en casa con su madre mientras esperan a que su padre vuelva de la Guerra de Secesión norteamericana. Ayudándose entre sí, afrontan su destino y crecen para convertirse en maravillosas mujercitas.",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "佐久間レイ",
+      "personaje": "Amy March (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6M6zQtO0reIv97oKUrVT084FUKv.jpg"
+    },
+    {
+      "nombre": "水城蘭子",
+      "personaje": "Martha (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Keiko Han",
+      "personaje": "Margaret March (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7fi4oxXVJJJnyZMwcud1Yzq8Re0.jpg"
+    },
+    {
+      "nombre": "塩屋浩三",
+      "personaje": "David March (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2IVg74G3MVGIhd3ImlAlo7IvE1P.jpg"
+    },
+    {
+      "nombre": "山田栄子",
+      "personaje": "Josephine March (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/uIESaPrL2AxOaYyfmh6krMVe813.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "黒川文男",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "黒川文男",
+      "rol": "Director"
+    },
+    {
+      "nombre": "Louisa May Alcott",
+      "rol": "Original Story"
+    },
+    {
+      "nombre": "山崎登志樹",
+      "rol": "Character Designer"
+    },
+    {
+      "nombre": "近藤喜文",
+      "rol": "Character Designer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 6.7,
+    "imdb": "tt0168283",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": ""
+}
