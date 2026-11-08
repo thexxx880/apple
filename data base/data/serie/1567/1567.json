@@ -1,0 +1,72 @@
+{
+  "id_tmdb": 1567,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/fkSCg9negcHAVO3gXohqEidqrsX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ujmeZPV9A5AdwfTEuRWR1eqOMDR.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/lrpVfzXjg46o9iS1AV0W316SAPC.png",
+  "titulo": "CatDog",
+  "titulo_original": "CatDog",
+  "fecha_estreno": "1998-04-04",
+  "duracion": "24min",
+  "año": "1998",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 7.1,
+  "sinopsis": "Dos mellizos: el inteligente y amable Gato, y el ingenuo y optimista Perro, viven en una casa con forma de pez con un hueso en el pueblo de \"Cercaburgo\", que comparten con Tito, un pequeño ratón azul con actitud de niño sabio que los atormenta constantemente. Siempre se meten en problemas con los Grasosos, una pandilla formada por tres perros: el jefe es Kike, mientras que sus dos seguidores son Lube y Chica.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Jim Cummings",
+      "personaje": "Cat (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "nombre": "Tom Kenny",
+      "personaje": "Dog / Cliff (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
+    },
+    {
+      "nombre": "Carlos Alazraqui",
+      "personaje": "Winslow / Lube (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg"
+    },
+    {
+      "nombre": "Maria Bamford",
+      "personaje": "Shriek (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/7nhgW2aGeSEL9aN3ThhM8KXwzmh.jpg"
+    },
+    {
+      "nombre": "Billy West",
+      "personaje": "Rancid Rabbit / Mr. Sunshine (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [],
+  "crew": [
+    {
+      "nombre": "Kit Boyce",
+      "rol": "Background Designer"
+    },
+    {
+      "nombre": "Denis M. Hannigan",
+      "rol": "Music"
+    },
+    {
+      "nombre": "Peter Hannan",
+      "rol": "Theme Song Performance"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.1,
+    "imdb": "tt0154061",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Nickelodeon",
+  "trailer": "https://www.youtube.com/watch?v=rYOMqa6jC-M"
+}
