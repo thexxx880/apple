@@ -1,0 +1,81 @@
+{
+  "id_tmdb": 1482,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1gblniT8y6n2PPjCl05f1PnLXCb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wpYfCv21lCDefNPo9lA2AJCXaYK.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/3SqpzPU9MoeXCXnQhRss3WzKyCz.png",
+  "titulo": "El Hombre-Araña",
+  "titulo_original": "Spider-Man",
+  "fecha_estreno": "1967-09-09",
+  "duracion": "24min",
+  "año": "1967",
+  "trending": false,
+  "generos": [
+    "Kids",
+    "Animación",
+    "Action & Adventure"
+  ],
+  "puntuacion": 7.875,
+  "sinopsis": "Una araña que fue atravesada por radiación en medio de un experimento científico, pica al joven y brillante Peter Parker. Muy pronto, él se da cuenta que ha desarrollado poderes sobrenaturales, que se asemejan a las proezas de las arañas y se decide combatir la maldad. Primera adaptación animada del más grande héroe de las historietas: El hombre araña.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Bernard Cowan",
+      "personaje": "Narrator (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2ZUprK69f7CjQ44RCkfcXiCjpDb.jpg"
+    },
+    {
+      "nombre": "Paul Soles",
+      "personaje": "Peter Parker / Spider-Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/96fdxpuz3gUUMWhvpPQXrsiUGmh.jpg"
+    },
+    {
+      "nombre": "Paul Kligman",
+      "personaje": "J. Jonah Jameson (voice)",
+      "foto": ""
+    },
+    {
+      "nombre": "Peg Dixon",
+      "personaje": "Mary Jane Watson / May Parker / Betty Brant (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/Uzq5erjo25AuXBC17iMWdPEE5q.jpg"
+    },
+    {
+      "nombre": "Billie Mae Richards",
+      "personaje": "Paperboy (voice) (uncredited)",
+      "foto": ""
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Ralph Bakshi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Krantz",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Stan Lee",
+      "rol": "Characters"
+    },
+    {
+      "nombre": "Ralph Bakshi",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Steve Krantz",
+      "rol": "Producer"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.875,
+    "imdb": "tt0061301",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Marvel",
+  "trailer": "https://www.youtube.com/watch?v=Ef5KrsUQAIg"
+}
