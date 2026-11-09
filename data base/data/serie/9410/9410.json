@@ -1,0 +1,129 @@
+{
+  "id_tmdb": 9410,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/dHW4ZNEZDpUmkd8MOoGVnXkaNER.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4rqrdFjoNcR1xaR7AoqibHFrRQF.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/9IOIp3P2ZWN5IrlndnQtEknC5Tz.png",
+  "titulo": "Basilisk",
+  "titulo_original": "バジリスク甲賀忍法帖",
+  "fecha_estreno": "2005-04-12",
+  "duracion": "24min",
+  "año": "2005",
+  "trending": false,
+  "generos": [
+    "Animación",
+    "Action & Adventure",
+    "Drama"
+  ],
+  "puntuacion": 7.389,
+  "sinopsis": "",
+  "pais_origen": "JP",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "水瀬いのり",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/cqOrQDUbbQLKpujzcK47YqjFdNp.jpg"
+    },
+    {
+      "nombre": "上田麗奈",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg"
+    },
+    {
+      "nombre": "畠中祐",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/xPDqoxAia1ShoVC2aMS2ZDPDWzG.jpg"
+    },
+    {
+      "nombre": "Yui Horie",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/73yQlMWaiOMrhvPCNyOCbbCkILZ.jpg"
+    },
+    {
+      "nombre": "桐本拓哉",
+      "personaje": "(voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/tDtATZ0RzxPiEzs4X2wJU7rSlkq.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "中西豪",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "松下卓也",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "立石謙介",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "鈴木廉太",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "辰澤奈津子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "日高功",
+      "rol": "Producer"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "西村純二",
+      "rol": "Series Director"
+    },
+    {
+      "nombre": "大西信介",
+      "rol": "Series Composition"
+    },
+    {
+      "nombre": "横田知加子",
+      "rol": "Sound Director"
+    },
+    {
+      "nombre": "福田直征",
+      "rol": "Special Effects"
+    },
+    {
+      "nombre": "中西豪",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "松下卓也",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "立石謙介",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "鈴木廉太",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "辰澤奈津子",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "日高功",
+      "rol": "Producer"
+    },
+    {
+      "nombre": "山田風太郎",
+      "rol": "Original Story"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 7.389,
+    "imdb": "tt0856348",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Anime",
+  "trailer": "https://www.youtube.com/watch?v=mOYUT_LsPLA"
+}
