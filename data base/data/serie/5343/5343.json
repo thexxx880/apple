@@ -1,0 +1,76 @@
+{
+  "id_tmdb": 5343,
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/x6wXEkbyhwh98kFWPtfjn5EdVHu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kje9CsNClEI4MhmxmjPymWpRKto.jpg",
+  "logo": "https://image.tmdb.org/t/p/original/bymaS0ENdiCL9XgoSfaOgkMbQaJ.png",
+  "titulo": "El mundo de Beakman",
+  "titulo_original": "Beakman's World",
+  "fecha_estreno": "1992-09-12",
+  "duracion": "22min",
+  "año": "1992",
+  "trending": false,
+  "generos": [
+    "Comedia",
+    "Kids"
+  ],
+  "puntuacion": 8.4,
+  "sinopsis": "Beakman es un científico excéntrico que hace experimentos cómicos y demostraciones, a veces a petición escrita de los televidentes, para ilustrar los conceptos básicos de la ciencia, como la densidad o la electricidad.",
+  "pais_origen": "US",
+  "calificacion": "16",
+  "edad_minima": 16,
+  "reparto": [
+    {
+      "nombre": "Paul Zaloom",
+      "personaje": "Beakman",
+      "foto": "https://image.tmdb.org/t/p/w500/jkVeWywJXF6anKsspLGYuv9scr7.jpg"
+    },
+    {
+      "nombre": "Mark Ritts",
+      "personaje": "Lester",
+      "foto": "https://image.tmdb.org/t/p/w500/9QPxOJ8w9EYQRwEvRCPeIoxB63v.jpg"
+    },
+    {
+      "nombre": "Senta Moses",
+      "personaje": "Phoebe",
+      "foto": "https://image.tmdb.org/t/p/w500/9BsYsjP79o3cOgliME5ibCPy3gL.jpg"
+    },
+    {
+      "nombre": "Bert Berdis",
+      "personaje": "Don (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/rvgMamn5SWNbXzG9P75uTlqyfge.jpg"
+    },
+    {
+      "nombre": "Alan Barzman",
+      "personaje": "Herb (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/nwQYfyMGVOS1mort2T8oafNkjI4.jpg"
+    }
+  ],
+  "director": "",
+  "equipo_creativo": [
+    {
+      "nombre": "Mark Waxman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jay Dubin",
+      "rol": "Director"
+    }
+  ],
+  "crew": [
+    {
+      "nombre": "Mark Waxman",
+      "rol": "Executive Producer"
+    },
+    {
+      "nombre": "Jay Dubin",
+      "rol": "Director"
+    }
+  ],
+  "valoraciones": {
+    "tmdb": 8.4,
+    "imdb": "tt0106367",
+    "rotten_tomatoes": null
+  },
+  "distribuidora": "Sin Plataforma",
+  "trailer": "https://www.youtube.com/watch?v=VjJ405ePUEY"
+}
